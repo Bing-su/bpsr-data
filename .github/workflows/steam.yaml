@@ -16,7 +16,11 @@ jobs:
       - name: Install steamcmd
         run: |
           sudo apt update
-          sudo apt install -y steamcmd
+          sudo apt install -y lib32gcc-s1 curl
+          mkdir ~/steamcmd
+          cd ~/steamcmd
+          curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
+          echo $"($env.HOME)/steamcmd\n" | save -a $env.GITHUB_PATH
 
       - uses: jdx/mise-action@v4
 
@@ -25,7 +29,7 @@ jobs:
 
       - name: "Install Blue Protocol: Star Resonance"
         run: |
-          steamcmd +login anonymous +force_install_dir ./_bpsr +app_update 4113810 validate +quit
+          steamcmd.sh +login anonymous +force_install_dir ./_bpsr +app_update 4113810 validate +quit
 
       - name: Extract Data
         run: |
