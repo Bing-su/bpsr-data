@@ -10,6 +10,10 @@ jobs:
       run:
         shell: nu {0}
     steps:
+      - name: Maximize build space
+        uses: justinthelaw/maximize-github-runner-space@v0.10.0
+        with:
+          skip-components: dotnet
       - uses: actions/checkout@v7
       - uses: hustcer/setup-nu@v3
 
@@ -21,6 +25,7 @@ jobs:
           cd ~/steamcmd
           curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
           echo $"($env.HOME)/steamcmd\n" | save -a $env.GITHUB_PATH
+          df -h
 
       - uses: jdx/mise-action@v4
 
@@ -29,7 +34,7 @@ jobs:
 
       - name: "Install Blue Protocol: Star Resonance"
         run: |
-          steamcmd.sh +login anonymous +force_install_dir ./_bpsr +app_update 4113810 validate +quit
+          steamcmd.sh +force_install_dir ./_bpsr +login anonymous +app_update 4113810 validate +quit
 
       - name: Extract Data
         run: |
