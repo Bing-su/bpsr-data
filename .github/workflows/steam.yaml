@@ -34,7 +34,7 @@ jobs:
 
       - name: "Install Blue Protocol: Star Resonance"
         run: |
-          steamcmd.sh +force_install_dir ./_bpsr +login anonymous +app_update 4113810 validate +quit
+          steamcmd.sh +@sSteamCmdForcePlatformType windows +force_install_dir ./_bpsr +login anonymous +app_update 4113810 validate +quit
 
       - name: Extract Data
         run: |
