@@ -2,6 +2,16 @@ name: Fetch Data
 
 on:
   workflow_dispatch:
+    inputs:
+      appid:
+        description: "Steam App ID"
+        required: true
+        default: "3681810"
+        type: choice
+        options:
+          - "3681810"
+          - "4073960"
+          - "4113810"
 
 jobs:
   fetch-data:
@@ -26,18 +36,19 @@ jobs:
           curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
           echo $"($env.HOME)/steamcmd\n" | save -a $env.GITHUB_PATH
           df -h
+          curl ident.me
 
       - uses: jdx/mise-action@v4
 
       - name: Install tools
         run: mise use -g github:Bing-su/bpsr-tool oxfmt fd
 
-      # 3681812: Global
+      # 3681810: Global
       # 4073960: KR/JP
       # 4113810: HAOPLAY
       - name: "Install Blue Protocol: Star Resonance"
         run: |
-          steamcmd.sh +@sSteamCmdForcePlatformType windows +force_install_dir ./_bpsr +login anonymous +app_update 4073960 validate +quit
+          steamcmd.sh +@sSteamCmdForcePlatformType windows +force_install_dir ./_bpsr +login anonymous +app_update ${{ github.event.inputs.appid }} validate +quit
 
       - name: Extract Data
         run: |
