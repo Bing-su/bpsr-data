@@ -30,15 +30,19 @@ jobs:
       - uses: jdx/mise-action@v4
 
       - name: Install tools
-        run: mise use -g github:Bing-su/bpsr-tool oxfmt
+        run: mise use -g github:Bing-su/bpsr-tool oxfmt fd
 
+      # 3681812: Global
+      # 4073960: KR/JP
+      # 4113810: HAOPLAY
       - name: "Install Blue Protocol: Star Resonance"
         run: |
-          steamcmd.sh +@sSteamCmdForcePlatformType windows +force_install_dir ./_bpsr +login anonymous +app_update 4113810 validate +quit
+          steamcmd.sh +@sSteamCmdForcePlatformType windows +force_install_dir ./_bpsr +login anonymous +app_update 4073960 validate +quit
 
       - name: Extract Data
         run: |
-          bpsr-tool --pkg ./_bpsr/StarSEA_STEAM_Data/StreamingAssets/container/meta.pkg --output ./src/data/korean --language korean
+          let meta = fd "meta.pkg$" ./_bpsr
+          bpsr-tool --pkg $meta --output ./src/data/korean --language korean
 
       - run: oxfmt
 
