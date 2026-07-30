@@ -1,11 +1,17 @@
 ---
+import { statSync } from "node:fs";
+import { join } from "node:path";
 import DataExplorer from "../components/DataExplorer.svelte";
-import { dataFiles } from "../data-files";
+import { dataFiles, dataRoot } from "../data-files";
 import "../styles/global.css";
 
 const files = dataFiles.map((file) => {
   const [language, , filename] = file.split("/");
-  return { language, table: filename.slice(0, -".json".length) };
+  return {
+    language,
+    table: filename.slice(0, -".json".length),
+    size: statSync(join(dataRoot, file)).size,
+  };
 });
 const base = import.meta.env.BASE_URL;
 ---

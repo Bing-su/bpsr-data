@@ -1,26 +1,31 @@
 <script lang="ts">
   import { onMount } from "svelte";
 
-  type DataFile = { language: string; table: string };
+  type DataFile = { language: string; table: string; size: number };
 
   export let files: DataFile[] = [];
   export let base = "";
 
   const languages = [...new Set(files.map(({ language }) => language))];
   const tablesFor = (language: string) =>
-    files
-      .filter((file) => file.language === language)
-      .map((file) => file.table);
+    files.filter((file) => file.language === language);
+  const sizeFormatter = new Intl.NumberFormat("en-US", {
+    notation: "compact",
+    style: "unit",
+    unit: "byte",
+    unitDisplay: "narrow",
+    maximumFractionDigits: 1,
+  });
 
   let language = languages.includes("english") ? "english" : (languages[0] ?? "");
   let search = "";
-  let table = tablesFor(language)[0] ?? "";
+  let table = tablesFor(language)[0]?.table ?? "";
   let json = "";
   let status = "Loading…";
   let controller: AbortController | undefined;
 
-  $: tables = tablesFor(language).filter((name) =>
-    name.toLowerCase().includes(search.trim().toLowerCase()),
+  $: tables = tablesFor(language).filter(({ table }) =>
+    table.toLowerCase().includes(search.trim().toLowerCase()),
   );
   $: url = table
     ? `${base}data/${encodeURIComponent(language)}/ZTable/${encodeURIComponent(table)}.json`
@@ -54,7 +59,7 @@
 
   function changeLanguage() {
     search = "";
-    table = tablesFor(language)[0] ?? "";
+    table = tablesFor(language)[0]?.table ?? "";
     void load();
   }
 
@@ -68,9 +73,10 @@
     const requestedTable = params.get("table");
     const availableTables = tablesFor(language);
     table =
-      requestedTable && availableTables.includes(requestedTable)
+      requestedTable &&
+      availableTables.some(({ table }) => table === requestedTable)
         ? requestedTable
-        : (availableTables[0] ?? "");
+        : (availableTables[0]?.table ?? "");
     void load();
   });
 </script>
@@ -122,7 +128,9 @@
       onchange={load}
     >
       {#each tables as option}
-        <option value={option}>{option}</option>
+        <option value={option.table}>
+          {option.table} — {sizeFormatter.format(option.size)}
+        </option>
       {/each}
     </select>
   </aside>
