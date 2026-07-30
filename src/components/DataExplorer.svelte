@@ -180,10 +180,20 @@
 
   <section class="flex min-h-0 min-w-0 flex-col gap-3 p-5">
     <header class="flex flex-wrap items-center gap-2">
-      <h2 class="mr-auto flex items-center gap-2 text-xl font-semibold">
-        <FileBracesCorner class="h-5 w-5 shrink-0" aria-hidden="true" />
-        <span>{table ? `${language} / ${table}` : "Select a JSON file"}</span>
-      </h2>
+      <div class="mr-auto min-w-0">
+        <h2 class="flex items-center gap-2 text-xl font-semibold">
+          <FileBracesCorner class="h-5 w-5 shrink-0" aria-hidden="true" />
+          <span>{table ? `${language} / ${table}` : "Select a JSON file"}</span>
+        </h2>
+        {#if url}
+          <a
+            class="link-hover mt-1 block break-all font-mono text-xs opacity-70"
+            href={url}
+          >
+            {url}
+          </a>
+        {/if}
+      </div>
       {#if url}
         <a class="btn btn-sm" href={url}>
           <ExternalLink class="h-4 w-4" aria-hidden="true" />
