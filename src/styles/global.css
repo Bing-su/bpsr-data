@@ -1,8 +1,12 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-select[size] {
+select[size].select {
+  appearance: none;
+  background-image: none;
+  display: block;
   height: auto;
+  overflow: auto;
 }
 
 pre {
