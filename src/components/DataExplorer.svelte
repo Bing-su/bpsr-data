@@ -1,25 +1,18 @@
 <script lang="ts">
-  import {
-    Download,
-    ExternalLink,
-    FileBracesCorner,
-    Moon,
-    Search,
-    Sun,
-  } from "@lucide/svelte";
+  import { Download, ExternalLink, FileBracesCorner, Moon, Search, Sun } from "@lucide/svelte";
   import { onMount } from "svelte";
 
   type DataFile = { language: string; table: string; size: number };
-  type Theme = keyof typeof themeNames;
 
   export let files: DataFile[] = [];
   export let base = "";
 
-  const themeNames = { light: "cupcake", dark: "dracula" } as const;
+  const themes = { light: "cupcake", dark: "dracula" } as const;
+  type Theme = keyof typeof themes;
+
   const languages = [...new Set(files.map(({ language }) => language))];
-  const tablesFor = (language: string) =>
-    files.filter((file) => file.language === language);
-  const sizeFormatter = new Intl.NumberFormat("en-US", {
+  const filesForLanguage = (language: string) => files.filter((file) => file.language === language);
+  const fileSizeFormatter = new Intl.NumberFormat("en-US", {
     notation: "compact",
     style: "unit",
     unit: "byte",
@@ -27,60 +20,63 @@
     maximumFractionDigits: 1,
   });
 
-  let language = languages.includes("english") ? "english" : (languages[0] ?? "");
-  let search = "";
-  let table = tablesFor(language)[0]?.table ?? "";
-  let json = "";
-  let status = "Loading…";
+  let selectedLanguage = languages.includes("english") ? "english" : (languages[0] ?? "");
+  let searchTerm = "";
+  let selectedTable = filesForLanguage(selectedLanguage)[0]?.table ?? "";
+  let jsonContent = "";
+  let loadStatus = "Loading…";
   let theme: Theme = "light";
   let controller: AbortController | undefined;
 
-  $: tables = tablesFor(language).filter(({ table }) =>
-    table.toLowerCase().includes(search.trim().toLowerCase()),
+  $: visibleFiles = filesForLanguage(selectedLanguage).filter(({ table }) =>
+    table.toLowerCase().includes(searchTerm.trim().toLowerCase()),
   );
-  $: url = table
-    ? `${base}data/${encodeURIComponent(language)}/ZTable/${encodeURIComponent(table)}.json`
+  $: dataUrl = selectedTable
+    ? `${base}data/${encodeURIComponent(selectedLanguage)}/ZTable/${encodeURIComponent(selectedTable)}.json`
     : "";
 
-  async function load() {
-    if (!table) return;
+  async function loadSelectedTable() {
+    if (!selectedTable) return;
 
     controller?.abort();
     controller = new AbortController();
-    status = "Loading…";
-    json = "";
+    loadStatus = "Loading…";
+    jsonContent = "";
     history.replaceState(
       null,
       "",
-      `?${new URLSearchParams({ lang: language, table })}`,
+      `?${new URLSearchParams({
+        lang: selectedLanguage,
+        table: selectedTable,
+      })}`,
     );
 
     try {
-      const response = await fetch(url, { signal: controller.signal });
+      const response = await fetch(dataUrl, { signal: controller.signal });
       if (!response.ok) {
         throw new Error(`${response.status} ${response.statusText}`);
       }
-      json = await response.text();
-      status = "";
+      jsonContent = await response.text();
+      loadStatus = "";
     } catch (error) {
       if (error instanceof DOMException && error.name === "AbortError") return;
-      status = `Failed to load: ${error instanceof Error ? error.message : error}`;
+      loadStatus = `Failed to load: ${error instanceof Error ? error.message : error}`;
     }
   }
 
   function changeLanguage() {
-    search = "";
-    table = tablesFor(language)[0]?.table ?? "";
-    void load();
+    searchTerm = "";
+    selectedTable = filesForLanguage(selectedLanguage)[0]?.table ?? "";
+    void loadSelectedTable();
   }
 
   function toggleTheme() {
     theme = theme === "light" ? "dark" : "light";
-    document.documentElement.dataset.theme = themeNames[theme];
+    document.documentElement.dataset.theme = themes[theme];
     localStorage.setItem("theme", theme);
   }
 
-  onMount(() => {
+  function restoreTheme() {
     const savedTheme = localStorage.getItem("theme");
     theme =
       savedTheme === "light" || savedTheme === "dark"
@@ -88,29 +84,33 @@
         : matchMedia("(prefers-color-scheme: dark)").matches
           ? "dark"
           : "light";
-    document.documentElement.dataset.theme = themeNames[theme];
+    document.documentElement.dataset.theme = themes[theme];
+  }
 
+  function restoreSelection() {
     const params = new URLSearchParams(location.search);
     const requestedLanguage = params.get("lang");
     if (requestedLanguage && languages.includes(requestedLanguage)) {
-      language = requestedLanguage;
+      selectedLanguage = requestedLanguage;
     }
 
     const requestedTable = params.get("table");
-    const availableTables = tablesFor(language);
-    table =
-      requestedTable &&
-      availableTables.some(({ table }) => table === requestedTable)
+    const availableFiles = filesForLanguage(selectedLanguage);
+    selectedTable =
+      requestedTable && availableFiles.some(({ table }) => table === requestedTable)
         ? requestedTable
-        : (availableTables[0]?.table ?? "");
-    void load();
+        : (availableFiles[0]?.table ?? "");
+  }
+
+  onMount(() => {
+    restoreTheme();
+    restoreSelection();
+    void loadSelectedTable();
   });
 </script>
 
 <main class="grid min-h-screen lg:grid-cols-[22rem_minmax(0,1fr)]">
-  <aside
-    class="flex min-h-0 flex-col gap-4 border-base-300 border-r bg-base-100 p-5"
-  >
+  <aside class="flex min-h-0 flex-col gap-4 border-base-300 border-r bg-base-100 p-5">
     <header class="flex items-start gap-2">
       <div class="mr-auto">
         <h1 class="text-2xl font-bold">BPSR Data</h1>
@@ -122,7 +122,7 @@
         <input
           type="checkbox"
           class="theme-controller"
-          value={themeNames.dark}
+          value={themes.dark}
           checked={theme === "dark"}
           onchange={toggleTheme}
           aria-label={`Switch to ${theme === "light" ? "dark" : "light"} theme`}
@@ -137,7 +137,7 @@
       <select
         class="select w-full"
         aria-label="Language"
-        bind:value={language}
+        bind:value={selectedLanguage}
         onchange={changeLanguage}
       >
         {#each languages as option}
@@ -156,23 +156,23 @@
         type="search"
         placeholder="ItemTable"
         autocomplete="off"
-        bind:value={search}
+        bind:value={searchTerm}
       />
     </label>
 
     <p class="text-sm opacity-70" aria-live="polite">
-      {tables.length.toLocaleString("en-US")} tables
+      {visibleFiles.length.toLocaleString("en-US")} tables
     </p>
     <select
       class="select min-h-64 w-full flex-1"
       size="20"
       aria-label="Table"
-      bind:value={table}
-      onchange={load}
+      bind:value={selectedTable}
+      onchange={loadSelectedTable}
     >
-      {#each tables as option}
+      {#each visibleFiles as option}
         <option value={option.table}>
-          {option.table} — {sizeFormatter.format(option.size)}
+          {option.table} — {fileSizeFormatter.format(option.size)}
         </option>
       {/each}
     </select>
@@ -183,34 +183,33 @@
       <div class="mr-auto min-w-0">
         <h2 class="flex items-center gap-2 text-xl font-semibold">
           <FileBracesCorner class="h-5 w-5 shrink-0" aria-hidden="true" />
-          <span>{table ? `${language} / ${table}` : "Select a JSON file"}</span>
+          <span>
+            {selectedTable ? `${selectedLanguage} / ${selectedTable}` : "Select a JSON file"}
+          </span>
         </h2>
-        {#if url}
-          <a
-            class="link-hover mt-1 block break-all font-mono text-xs opacity-70"
-            href={url}
-          >
-            {url}
+        {#if dataUrl}
+          <a class="link-hover mt-1 block break-all font-mono text-xs opacity-70" href={dataUrl}>
+            {dataUrl}
           </a>
         {/if}
       </div>
-      {#if url}
-        <a class="btn btn-sm" href={url}>
+      {#if dataUrl}
+        <a class="btn btn-sm" href={dataUrl}>
           <ExternalLink class="h-4 w-4" aria-hidden="true" />
           View raw
         </a>
-        <a class="btn btn-sm btn-primary" href={url} download={`${table}.json`}>
+        <a class="btn btn-sm btn-primary" href={dataUrl} download={`${selectedTable}.json`}>
           <Download class="h-4 w-4" aria-hidden="true" />
           Download
         </a>
       {/if}
     </header>
     <p class="min-h-5 text-sm opacity-70" aria-live="polite">
-      {tables.length ? status : "No matching tables."}
+      {visibleFiles.length ? loadStatus : "No matching tables."}
     </p>
     <pre
       class="min-h-80 flex-1 overflow-auto rounded-box bg-neutral p-4 text-sm text-neutral-content"
       role="region"
-      aria-label="JSON content"><code>{json}</code></pre>
+      aria-label="JSON content"><code>{jsonContent}</code></pre>
   </section>
 </main>
