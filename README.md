@@ -1,43 +1,67 @@
-# Astro Starter Kit: Minimal
+# BPSR Data
+
+A static browser and JSON endpoint for the files in `src/data`.
+
+The site provides a searchable table explorer for browsers and serves the
+same source files as JSON for tools such as `curl`. Everything is generated at
+build time, so the deployed site does not require Node.js, a database, or an
+application server.
+
+## Features
+
+- Browse tables by language
+- Search table names and see their file sizes
+- View, open, or download the selected JSON file
+- Share a selection with `?lang=english&table=ItemTable`
+- Switch between light and dark themes
+- Request every JSON file through a stable static URL
+
+## Local preview
+
+Install dependencies:
 
 ```sh
-pnpm create astro@latest -- --template minimal
+pnpm install
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Build the static site, then start the preview server:
 
-## 🚀 Project Structure
+```sh
+pnpm build
+pnpm preview
+```
 
-Inside of your Astro project, you'll see the following folders and files:
+The preview is available at `http://localhost:4321`.
+
+Do not use `pnpm dev` for this project. Vite tries to watch the large
+`src/data` tree and can exit with `EMFILE: too many open files`. The preview
+server does not watch source files, so run `pnpm build` again after making
+changes.
+
+Run the linter:
+
+```sh
+pnpm lint
+```
+
+## JSON URLs
+
+Source files follow this layout:
 
 ```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+src/data/{language}/ZTable/{table}.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+They are served with the matching URL:
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+```text
+/data/{language}/ZTable/{table}.json
+```
 
-Any static assets, like images, can be placed in the `public/` directory.
+For example:
 
-## 🧞 Commands
+```sh
+curl -fL http://localhost:4321/data/english/ZTable/ItemTable.json
+```
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `pnpm install`         | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Unknown paths are handled by the static host as `404 Not Found`.
