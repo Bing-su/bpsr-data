@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "<style=\"physical\">消耗10點</style>生命值，使用木棍進行攻擊。<br>如果攻擊<style=\"physical\">命中潛行者</style>，則自身<style=\"physical\">回復20點</style>生命值。<br>擊殺潛行者時，回復全部生命值。<br><style=\"physical\">生命值不足</style>時，無法使用該技能。<br>實際造成的傷害根據<style=\"physical\">潛行者變身物件的防禦值</style>進行計算。</style><br><i><style=\"text_third_gray\">「真正的高手從來不在乎兵器的強弱。」</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "大基本功"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "<style=\"physical\">消耗10點</style>生命值，使用法法菈的配劍進行攻擊。<br>如果攻擊<style=\"physical\">命中潛行者</style>，則自身<style=\"physical\">回復20點</style>生命值。<br>擊殺潛行者時，回復全部生命值。<br><style=\"physical\">生命值不足</style>時，無法使用該技能。<br>實際造成的傷害根據<style=\"physical\">潛行者變身物件的防禦值</style>進行計算。<br><style=\"physical\">武器特殊效果：周圍的逐影獵手持續回復血量，並提升移速。</style><br><i><style=\"text_third_gray\">「希望它能讓你安心一些……」</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "晨霧的指引"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "<style=\"physical\">消耗10點</style>生命值，使用丹佛的大劍進行攻擊。<br>如果攻擊<style=\"physical\">命中潛行者</style>，則自身<style=\"physical\">回復20點</style>生命值。<br>擊殺潛行者時，回復全部生命值。<br><style=\"physical\">生命值不足</style>時，無法使用該技能。<br>實際造成的傷害根據<style=\"physical\">潛行者變身物件的防禦值</style>進行計算。<br><style=\"physical\">武器特殊效果：額外發射2道鋒芒，並清除範圍內所有非玩家變身的物件。</style><br><i><style=\"text_third_gray\">「以此肅清往日的悲怨。」</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "哀悼者之刃"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "<style=\"physical\">消耗10點</style>生命值，使用礦鎬進行攻擊。<br>如果攻擊<style=\"physical\">命中潛行者</style>，則自身<style=\"physical\">回復20點</style>生命值。<br>擊殺潛行者時，回復全部生命值。<br><style=\"physical\">生命值不足</style>時，無法使用該技能。<br>實際造成的傷害根據<style=\"physical\">潛行者變身物件的防禦值</style>進行計算。<br><style=\"physical\">武器特殊效果：每次攻擊隨機獲得一塊礦石：<br>40%的機率獲得琥珀：降低自身所有技能冷卻時間0.5秒；<br>40%的機率獲得藍錐礦：回復10點生命值；<br>19%的機率獲得龍晶：向四周發射5道鋒芒；<br>1%的機率獲得閃電熔岩：30公尺範圍內的所有潛行者受到天雷。</style><br><i><style=\"text_third_gray\">「我也要挖嗎？」</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "淘金夢"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "<style=\"physical\">消耗10點</style>生命值，使用應援棒進行攻擊。<br>如果攻擊<style=\"physical\">命中潛行者</style>，則自身<style=\"physical\">回復20點</style>生命值。<br>擊殺潛行者時，回復全部生命值。<br><style=\"physical\">生命值不足</style>時，無法使用該技能。<br>實際造成的傷害根據<style=\"physical\">潛行者變身物件的防禦值</style>進行計算。<br><style=\"physical\">武器特殊效果：釋放所有技能都會累積舞力值，舞力值到達50點時，獲得技能【舞力全開】：<br>使用後進入跳舞狀態，同時逐漸回復生命值。</style><br><i><style=\"text_third_gray\">「你們不要再打了...」</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "正義應援"
+  }
+}

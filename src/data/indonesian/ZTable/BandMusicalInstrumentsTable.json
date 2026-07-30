@@ -1,0 +1,134 @@
+{
+  "10001": {
+    "CameraTemplate": [59, 58, 60],
+    "DefaultMusicalTimbre": 1000000,
+    "DefaultPerformanceMethod": 1,
+    "DefaultRange": [],
+    "ID": 10001,
+    "Icon": "ui/textures/band_hobby/item_icons_music_piano01_01",
+    "InstrumentIdleBuff": 8000002,
+    "InstrumentPlayBuff": 8000003,
+    "IsGround": false,
+    "ModelBindType": 2,
+    "ModelId": 10000000,
+    "ModelSummonOffset": {
+      "x": 0.0,
+      "y": 0.7200000286102295,
+      "z": 0.3499999940395355
+    },
+    "ModelSummonRotate": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "MusicalInstrumentsName": "Piano",
+    "MusicalInstrumentsRange": [],
+    "MusicalTimbre": [1000000.0],
+    "MusicalTimbreTouches": [1042.0],
+    "MusicianId": 2,
+    "PerformanceMethodKind": [1.0],
+    "PerformanceMethodKindTouches": [1037.0],
+    "PlayerIdleBuff": 8010000,
+    "PlayerPlayBuff": 8010001,
+    "SustainPedal": true
+  },
+  "10002": {
+    "CameraTemplate": [59, 58, 60],
+    "DefaultMusicalTimbre": 1000001,
+    "DefaultPerformanceMethod": 1,
+    "DefaultRange": [],
+    "ID": 10002,
+    "Icon": "ui/textures/band_hobby/item_icons_music_guitar01_01",
+    "InstrumentIdleBuff": 8000002,
+    "InstrumentPlayBuff": 8000003,
+    "IsGround": false,
+    "ModelBindType": 1,
+    "ModelId": 10000002,
+    "ModelSummonOffset": {
+      "x": 0.0,
+      "y": -0.009999999776482582,
+      "z": -0.05999999865889549
+    },
+    "ModelSummonRotate": {
+      "x": -85.0,
+      "y": 0.0,
+      "z": 180.0
+    },
+    "MusicalInstrumentsName": "Electric Guitar",
+    "MusicalInstrumentsRange": [40.0, 86.0],
+    "MusicalTimbre": [1000001.0, 1000002.0, 1000003.0],
+    "MusicalTimbreTouches": [1042.0, 1043.0, 1044.0],
+    "MusicianId": 1,
+    "PerformanceMethodKind": [1.0, 2.0, 3.0],
+    "PerformanceMethodKindTouches": [1037.0, 1038.0, 1039.0],
+    "PlayerIdleBuff": 8000000,
+    "PlayerPlayBuff": 8000001,
+    "SustainPedal": true
+  },
+  "10003": {
+    "CameraTemplate": [62, 61, 60],
+    "DefaultMusicalTimbre": 1000006,
+    "DefaultPerformanceMethod": 1,
+    "DefaultRange": [3, 2],
+    "ID": 10003,
+    "Icon": "ui/textures/band_hobby/item_icons_music_drum01_01",
+    "InstrumentIdleBuff": 8000002,
+    "InstrumentPlayBuff": 8000003,
+    "IsGround": false,
+    "ModelBindType": 2,
+    "ModelId": 10000001,
+    "ModelSummonOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.20000000298023224
+    },
+    "ModelSummonRotate": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "MusicalInstrumentsName": "Drum Jaz",
+    "MusicalInstrumentsRange": [60.0, 83.0],
+    "MusicalTimbre": [1000006.0],
+    "MusicalTimbreTouches": [1042.0],
+    "MusicianId": 4,
+    "PerformanceMethodKind": [1.0],
+    "PerformanceMethodKindTouches": [1037.0],
+    "PlayerIdleBuff": 8030000,
+    "PlayerPlayBuff": 8030001,
+    "SustainPedal": false
+  },
+  "10004": {
+    "CameraTemplate": [59, 58, 60],
+    "DefaultMusicalTimbre": 1000004,
+    "DefaultPerformanceMethod": 1,
+    "DefaultRange": [2, 1],
+    "ID": 10004,
+    "Icon": "ui/textures/band_hobby/item_icons_music_bass01_01",
+    "InstrumentIdleBuff": 8000002,
+    "InstrumentPlayBuff": 8000003,
+    "IsGround": false,
+    "ModelBindType": 1,
+    "ModelId": 10000003,
+    "ModelSummonOffset": {
+      "x": 0.0,
+      "y": -0.019999999552965164,
+      "z": -0.10000000149011612
+    },
+    "ModelSummonRotate": {
+      "x": -80.0,
+      "y": 0.0,
+      "z": 180.0
+    },
+    "MusicalInstrumentsName": "Bas Listrik",
+    "MusicalInstrumentsRange": [28.0, 65.0],
+    "MusicalTimbre": [1000004.0, 1000005.0],
+    "MusicalTimbreTouches": [1042.0, 1043.0],
+    "MusicianId": 3,
+    "PerformanceMethodKind": [1.0, 2.0, 3.0, 6.0],
+    "PerformanceMethodKindTouches": [1037.0, 1038.0, 1039.0, 1040.0],
+    "PlayerIdleBuff": 8000000,
+    "PlayerPlayBuff": 8000001,
+    "SustainPedal": true
+  }
+}

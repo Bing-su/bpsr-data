@@ -1,0 +1,942 @@
+{
+  "1000111": {
+    "Answer": ["", "Pillar of Divinity tidak dapat menghasilkan hasil."],
+    "Clue": "Pendeta Ordo secara tegas menolak pernyataan mengenai \"hasil Pillar of Divinity\", menegaskan bahwa Pillar of Divinity adalah mukjizat dari para Dewa, bukan pohon buah, <tagId=1>*rumor terkait tidak masuk akal*.",
+    "Id": 1000111,
+    "Sort": 1,
+    "TapBubble": ["", "Petunjuk tersebut kurang didukung oleh fakta."],
+    "TapBubbleAction": [9019],
+    "Tips": "Investigasi bersama Daia untuk mendapat petunjuk",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000112": {
+    "Answer": ["", "Rubah memakan buah normal", "", "Pemburu hanya pernah mendengar tentang"],
+    "Clue": "Investigasi sedang berlangsung<tagId=2>*hanya ditemukan buah biasa yang digigit oleh rubah*, para pemburu yang bertahun-tahun beraktivitas di Ladang Moonshade semua menyatakan<tagId=3>*hanya pernah mendengar tentang buah berwarna berry, tetapi belum pernah melihatnya secara langsung*.",
+    "Id": 1000112,
+    "Sort": 2,
+    "TapBubble": ["", "Ini bukanlah buah berwarna beri.", "", "tidak ada catatan saksi mata"],
+    "TapBubbleAction": [9019],
+    "Tips": "Investigasi bersama Daia untuk mendapat petunjuk",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000113": {
+    "Answer": [
+      "",
+      "Tidak ditemukan objek",
+      "",
+      "Buah Beri Berwarna Belum Dimakan",
+      "",
+      "Prajurit terkena gangguan Illusory"
+    ],
+    "Clue": "Tiga prajurit<tagId=6>*yang terpengaruh Illusory* mengaku telah beli buah beri warna merah, tetapi setelah dilakukan pemeriksaan menyeluruh di tempat tinggal mereka, <tagId=4>*tidak ditemukan buah beri warna merah*, dan para prajurit semua setuju <tagId=5>*tidak mengonsumsi buah tersebut*.",
+    "Id": 1000113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Apakah benar ingin beli dengan ragu?",
+      "",
+      "Buah beri warna mulberry telah hilang.",
+      "",
+      "Mereka terjebak dalam halusinasi."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Investigasi bersama Daia untuk mendapat petunjuk",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000211": {
+    "Answer": ["", "Penggemar Grup Musik Keliling"],
+    "Clue": "Sebagian besar orang hanya pernah mendengar tentang buah merah beri, hanya *penggemar Grup Musik Keliling* yang pernah melihatnya, dan tiket pertunjukan Grup Musik Keliling menuliskan bahwa di Stasiun Beckmar ada buah merah beri.",
+    "Id": 1000211,
+    "Sort": 1,
+    "TapBubble": ["", "tetapi didiagnosis menderita Illusory"],
+    "TapBubbleAction": [9019],
+    "Tips": "Investigasi bersama Daia untuk mendapat petunjuk",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000212": {
+    "Answer": [
+      "",
+      "Bahan makanan semuanya dibeli secara tetap.",
+      "",
+      "Tidak ditemukan objek nyata"
+    ],
+    "Clue": "Penggemar kelompok musik menyebut Berg menambahkan buah berwarna berry ke dalam makanan, yang menyebabkan mereka jatuh sakit.<br>Berg yang bertanggung jawab atas makanan mengatakan<tagId=2>*bahan makanan selalu dibeli dari pemasok tetap*. Dalam investigasi kami<tagId=3>*tidak ditemukan adanya buah berwarna berry*.",
+    "Id": 1000212,
+    "Sort": 2,
+    "TapBubble": ["", "Berg tidak beli", "", "Buah beri tidak ada di Stasiun"],
+    "TapBubbleAction": [9019],
+    "Tips": "Investigasi bersama Daia untuk mendapat petunjuk",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000213": {
+    "Answer": ["", "Hanya dua orang yang sakit", "", "Pasien didiagnosis dengan Illusory."],
+    "Clue": "Berg bertanggung jawab atas makanan untuk ratusan orang, <tagId=4>*hanya dua penggemar kelompok musik yang jatuh sakit*. Pendeta dan dokter mendiagnosis <tagId=5>*dua pasien terkena Illusory*.",
+    "Id": 1000213,
+    "Sort": 3,
+    "TapBubble": ["", "Makanan tidak masalah", "", "Mereka terjebak dalam halusinasi."],
+    "TapBubbleAction": [9026],
+    "Tips": "Investigasi bersama Daia untuk mendapat petunjuk",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000311": {
+    "Answer": ["", "Ingin kembali ke Asteris"],
+    "Clue": "Surat dari pekerja tambang muda penuh dengan kerinduan terhadap <tagId=1>*Asteris.*",
+    "Id": 1000311,
+    "Sort": 1,
+    "TapBubble": ["", "Pekerja tambang seperti ini seharusnya ingin pulang..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Mendapat petunjuk dari informasi yang ditemukan melalui pencarian",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000312": {
+    "Answer": [
+      "",
+      "Orang tua tidak bisa melakukan perjalanan jauh.",
+      "",
+      "Perlu mempertimbangkan keputusan keluarga."
+    ],
+    "Clue": "Beberapa pekerja tambang mengatakan, <tagId=2>*orang tua sudah tidak bisa berjalan,* dan <tagId=3>*banyak orang berkeluarga di area tambang.*",
+    "Id": 1000312,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Pekerja tambang seperti ini juga memiliki keluarga yang harus dipertimbangkan...",
+      "",
+      "Pekerja tambang seperti ini juga memiliki keluarga yang harus dipertimbangkan..."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Mendapat petunjuk dari informasi yang ditemukan melalui pencarian",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000313": {
+    "Answer": ["", "Ragu-ragu, tak mampu memutuskan"],
+    "Clue": "Pekerja tambang yang berkeluarga dengan orang Banhart <tagId=4>*tidak tahu harus membawa istrinya ke mana ....*",
+    "Id": 1000313,
+    "Sort": 3,
+    "TapBubble": ["", "Pekerja tambang seperti ini memang serba salah..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Mendapat petunjuk dari informasi yang ditemukan melalui pencarian",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000411": {
+    "Answer": [
+      "",
+      "\"Daftar\" memang ada dalam proses interogasi.",
+      "",
+      "Penanganan yang tampak seperti coretan sembarangan."
+    ],
+    "Clue": "【Catatan Interogasi Nomor: 2-17】：<tagId=1>*Alasan Pemanggilan: Daftar* terpicu <tagId=2>* (Dibatalkan dengan satu coretan)*<br>Pertanyaan 1: Apakah tahu apa yang sedang direncanakan Greg? Pertanyaan 2: Di mana Daia? Pertanyaan 3: Pernah bertemu Slaug?",
+    "Id": 1000411,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "\"Trigger Daftar\"",
+      "",
+      "Dicoret... tampaknya ditangani dengan sembarangan."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Selidiki lokasi dan dapatkan petunjuk",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000412": {
+    "Answer": [
+      "",
+      "Interogasi hanyalah gangguan sepele baginya",
+      "",
+      "\"Menara\" adalah tempat pribadi Lena",
+      "",
+      "\"Mahkota\" adalah sesuatu yang sangat diperhatikan oleh Lena."
+    ],
+    "Clue": "Selembar kertas kusut: \"…Benda macam <tagId=3>*yang bahkan tidak bereaksi* ini, apakah pantas memanggilku keluar dari <tagId=4>*'Menara'*?…<tagId=5>*'Mahkota'* sedang menungguku.\"",
+    "Id": 1000412,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Lebih mirip inti sejati daripada sekadar daftar.",
+      "",
+      "Lebih mirip inti sejati daripada sekadar daftar."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Selidiki lokasi dan dapatkan petunjuk",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000413": {
+    "Answer": [
+      "",
+      "Ada jejak sepatu berwarna merah tua di atas tanah.",
+      "",
+      "Kemungkinan besar ini adalah sesuatu yang ditinggalkan Lena saat kembali ke \"Menara\".",
+      "",
+      "Mengikuti jejak mungkin lebih baik."
+    ],
+    "Clue": "Jejak di tanah: sebuah <tagId=6>*noda merah tua* besar disertai dengan bekas perjuangan.<br>Ada jejak seretan yang jelas menuju persimpangan jalan.<br><tagId=7>*Jejak lain dari sepatu bot militer* tampak rapi, dengan jarak yang tetap, seperti <tagId=8>*jalan kembali ke suatu tempat*.",
+    "Id": 1000413,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Kemungkinan besar mengarah ke \"Menara\".",
+      "",
+      "Ikuti jejak dan masuk ke dalam menara"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Selidiki lokasi dan dapatkan petunjuk",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000511": {
+    "Answer": ["", "Jenis binatang buas salah."],
+    "Clue": "<tagId=1>*Tidak ada lizard* di Hutan Senja.",
+    "Id": 1000511,
+    "Sort": 1,
+    "TapBubble": ["", "Kalau tidak ada lizard, berarti gambarnya salah ...."],
+    "TapBubbleAction": [9019],
+    "Tips": "Ingat-ingat kejadian sebelumnya ....",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000512": {
+    "Answer": ["", "Mirip barang modern."],
+    "Clue": "Botol ini pakai <tagId=2>*material dan kerajinan baru*.",
+    "Id": 1000512,
+    "Sort": 2,
+    "TapBubble": ["", "Tidak mirip barang yang sudah tua ...."],
+    "TapBubbleAction": [9019],
+    "Tips": "Ingat-ingat kejadian sebelumnya ....",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000513": {
+    "Answer": ["", "Ada orang yang palsukan petunjuk harta karun."],
+    "Clue": "Di tempat botol itu ditemukan, <tagId=3>*ada jejak yang ditinggalkan orang lain di sekitarnya, ada juga kertas lain yang sengaja dikubur* ....",
+    "Id": 1000513,
+    "Sort": 3,
+    "TapBubble": ["", "Rasanya seperti sengaja ditinggalkan ...."],
+    "TapBubbleAction": [9026],
+    "Tips": "Ingat-ingat kejadian sebelumnya ....",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100111": {
+    "Answer": ["", "Rambut informan itu mungkin mencolok"],
+    "Clue": "\"Temanku, rencana sudah mau dijalankan, jangan sampai bocor. <tagId=1>*Warna rambutmu terlalu mencolok*, <tagId=7>*waktu ketemu nanti, aku akan bawa kado dari Banhart untuk tutupi.*\"",
+    "Id": 100111,
+    "Sort": 1,
+    "TapBubble": ["", "Sepertinya harus perhatikan baik-baik warna rambut orang-orang ...."],
+    "TapBubbleAction": [9026],
+    "Tips": "Gerald yang akan memberi petunjuk",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100112": {
+    "Answer": ["", "Informan itu mungkin berbadan kekar"],
+    "Clue": "\"Dengar-dengar belakangan ini kamu <tagId=2>*rajin latihan*, <tagId=6>*bagus sekali. Cita-citamu mulia, jadi badanmu harus sehat. Jaga dirimu baik-baik. Aku akan menyerahkan barang penting padamu.*\"",
+    "Id": 100112,
+    "Sort": 2,
+    "TapBubble": ["", "Orang ini sering berlatih, kemungkinan badannya cukup kuat."],
+    "TapBubbleAction": [9033],
+    "Tips": "Gerald yang akan memberi petunjuk",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100113": {
+    "Answer": ["", "Sea Lily", "", "Bukan pedagang setempat"],
+    "Clue": "\"Aku bersumpah demi <tagId=3>*nama Sea Lily*, sampai ketemu di Festival Seabreeze. Catatan: <tagId=4>*Sebisa mungkin jangan bicara dengan pedagang setempat.*<tagId=5>* Mereka punya banyak mata-mata, jangan sampai ketahuan.*\"",
+    "Id": 100113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "\"Sea Lily\" mungkin semacam sandi.",
+      "",
+      "Kalau dari sikapnya, pedagang setempat tidak perlu dicurigai lagi."
+    ],
+    "TapBubbleAction": [9026, 9047],
+    "Tips": "Gerald yang akan memberi petunjuk",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100121": {
+    "Answer": ["", "Usianya masih muda", "", "Rambutnya warna-warni"],
+    "Clue": "<tagId=12>*\"Saat semua orang sibuk berlindung ... *aku lihat <tagId=1>*ada anak muda* dengan *warna rambut yang <tagId=2>sangat modis, dengan beberapa warna* loh!! ... <tagId=7>* Tapi, setelah angin kencang itu reda, orang dengan rambut modis itu sudah tidak ada*.\"",
+    "Id": 100121,
+    "Sort": 4,
+    "TapBubble": [
+      "",
+      "Kelihatannya informan itu masih muda.",
+      "",
+      "Informan itu rambutnya warna-warni!"
+    ],
+    "TapBubbleAction": [9033, 9047],
+    "Tips": "Cari info di Jalan Keceriaan untuk dapatkan petunjuk",
+    "UnlockCondition": [[2, 20040, 20040016]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100122": {
+    "Answer": ["", "Sea Lily", "", "Pria"],
+    "Clue": "\"Itu <tagId=3>*Sea Lily* ... <tagId=10>*Di dekat sini*, <tagId=4>*ada pria*, <tagId=8>*yang punya wangi* <tagId=9>*seperti itu*.\"",
+    "Id": 100122,
+    "Sort": 5,
+    "TapBubble": [
+      "",
+      "Wangi Sea Lily ... Bunga seperti itu ternyata merupakan simbol yang penting.",
+      "",
+      "Bagus sekali, sekarang jenis kelamin tersangkanya sudah dipastikan."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Cari info di Jalan Keceriaan untuk dapatkan petunjuk",
+    "UnlockCondition": [[2, 20040, 20040017]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100123": {
+    "Answer": ["", "Badannya kekar", "", "Pakaiannya rapi"],
+    "Clue": "\"<tagId=11>*Aku memang lihat* <tagId=5>*ada orang yang badannya kekar*! Pakaian orang itu <tagId=6>*sangat rapi*!\"",
+    "Id": 100123,
+    "Sort": 6,
+    "TapBubble": [
+      "",
+      "Petunjuk ini cocok dengan informasi tersangka yang sering berlatih.",
+      "",
+      "Kelihatannya pakaiannya rapi sekali."
+    ],
+    "TapBubbleAction": [9026, 9047],
+    "Tips": "Cari info di Jalan Keceriaan untuk dapatkan petunjuk",
+    "UnlockCondition": [[2, 20040, 20040018]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100311": {
+    "Answer": ["", "Zat tidak dikenal yang menempel di sarung tangan"],
+    "Clue": "<tagId=1>*Ada sarung tangan Ryan di meja kerja No. 4. Kelihatannya tidak ada bedanya dengan model yang sering dipakai para pengrajin. Meski sudah tua, tapi tidak terlihat usang. Tapi, teksturnya tidak sama waktu dipegang. Kalau dilihat baik-baik, *ternyata ada selapis <tagId=7>*zat tidak dikenal yang menempel di permukaan sarung tangan itu*.",
+    "Id": 100311,
+    "Sort": 1,
+    "TapBubble": ["", "Harus diamati dengan teliti."],
+    "TapBubbleAction": [9033],
+    "Tips": "Dapatkan petunjuk dari meja kerja pengrajin",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100312": {
+    "Answer": ["", "Panduan pembongkaran Thunder Core"],
+    "Clue": "<tagId=8>*Gambar panduan pembongkaran pusaka dewa Thunder Core* <tagId=5>*ini ditemukan di meja kerja No. 2*. <tagId=6>*Banyak pengrajin yang antusias meneliti pusaka dewa dengan kekuatan petir yang luar biasa ini*. <tagId=10>*Namun, saat ini hanya Taurus yang kuasai cara penggunaan pusaka ini*.",
+    "Id": 100312,
+    "Sort": 2,
+    "TapBubble": ["", "Informasi apa yang tersembunyi di dalamnya ...."],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari meja kerja pengrajin",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100313": {
+    "Answer": ["", "Bekas terbakar pada lentera"],
+    "Clue": "<tagId=11>*Sebuah lentera yang kelihatan indah sekali ditaruh di meja kerja No. 1*, <tagId=12>*modelnya model kesukaan perempuan*, <tagId=13>*sudah pasti punya Sasha*. Tapi, <tagId=9>*di permukaan lentera itu ada bekas terbakar*, <tagId=14>*lentera sebagus itu harusnya dirawat dengan baik*.",
+    "Id": 100313,
+    "Sort": 3,
+    "TapBubble": ["", "Tampilannya tidak normal, bekas ini jelas sekali."],
+    "TapBubbleAction": [9026],
+    "Tips": "Dapatkan petunjuk dari meja kerja pengrajin",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100411": {
+    "Answer": ["", "Operasi khusus"],
+    "Clue": "<tagId=4>*Catatan Investigasi Shadow Legion: Fase Awal Perang Kemerdekaan*<br><tagId=1>*Wakil Komandan Jack*, <tagId=6>*tercatat tidak ikut serta dalam pertempuran terbaru melawan Shadow Legion*.<tagId=7>* Menurut informasi intel, <tagId=8>*Jack diduga sedang melancarkan operasi khusus yang menargetkan Asteris*. <tagId=9>*Rincian ■■■■■■■■■■■■■■■■■■■■■■■■",
+    "Id": 100411,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Jack mau memimpin anak buahnya melakukan sebuah operasi khusus terhadap Asteris"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari Catatan Investigasi Shadow Legion",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100412": {
+    "Answer": ["", "Operasi penetrasi", "", "Gagal"],
+    "Clue": "<tagId=10>*Catatan Investigasi Shadow Legion: Fase Tengah Perang Kemerdekaan*<br>■■■■■■■■■■■ <tagId=11>*Operasi infiltrasi tim pengintai Shadow Legion terhadap Asteris* <tagId=12>*gagal total*. <tagId=13>*Sayangnya, komandan musuh tidak berhasil ditangkap*. <tagId=14>*Operasi ini dipimpin oleh salah satu* <tagId=15>*petinggi* <tagId=2>*Shadow Legion* <tagId=16>*■■■■■■■*.",
+    "Id": 100412,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Operasi penetrasi tim pengintai Shadow Legion terhadap Asteris",
+      "",
+      "berakhir dengan kegagalan"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Dapatkan petunjuk dari Catatan Investigasi Shadow Legion",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100413": {
+    "Answer": ["", "Tower Ruin"],
+    "Clue": "<tagId=17>*Catatan Investigasi Shadow Legion: Fase Akhir Perang Kemerdekaan*<br><tagId=18>*■■■■■ Setelah mundur dari Asteris*, <tagId=19>*tim pengintai Shadow Legion* <tagId=3>*menghilang tanpa jejak di* <tagId=20>*Tower Ruin*. <tagId=21>*■■■■■■■■ Hasil investigasi menegaskan*, <tagId=22>*bahwa tim tersebut tidak pernah terlihat lagi ■■■■■*.",
+    "Id": 100413,
+    "Sort": 3,
+    "TapBubble": ["", "Tower Ruin"],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari Catatan Investigasi Shadow Legion",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100511": {
+    "Answer": ["", "Munsterhorn"],
+    "Clue": "Tujuh hari lalu, Nona Roxy dan Carlise menemukan Permata di <tagId=1>*Munsterhorn*.",
+    "Id": 100511,
+    "Sort": 1,
+    "TapBubble": ["", "Munsterhorn"],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari omongan Carlise",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100512": {
+    "Answer": ["", "Mencoba untuk pergi setiap malam"],
+    "Clue": "Nona Roxy sudah memberikan kehidupan yang terbaik bagi Permata, tapi Permata malah <tagId=2>*mencoba untuk pergi setiap malam.*",
+    "Id": 100512,
+    "Sort": 2,
+    "TapBubble": ["", "Mencoba untuk pergi setiap malam"],
+    "TapBubbleAction": [9026],
+    "Tips": "Dapatkan petunjuk dari omongan Carlise",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100513": {
+    "Answer": ["", "Terus merengek"],
+    "Clue": "Semalam, <tagId=3>*Permata terus merengek.* Carlise yang jaga malam ingin membawa Permata jalan-jalan, <tagId=4>*tapi dia malah membiarkannya kabur.*",
+    "Id": 100513,
+    "Sort": 3,
+    "TapBubble": ["", "Terus merengek"],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari omongan Carlise",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100611": {
+    "Answer": ["", "Bukan yang asli?"],
+    "Clue": "Kesaksian Milu & Lumi: \"Tuan Gagator dan Konglomerat Misterius yang dulu pernah berhubungan, <tagId=1>*rasanya seperti dua orang yang sama sekali berbeda*!\"",
+    "Id": 100611,
+    "Sort": 1,
+    "TapBubble": ["", "Gagator dan Konglomerat Misterius mungkin bukan orang yang sama?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100612": {
+    "Answer": ["", "Tidak ada upah.", "", "Anak Berambut Hitam"],
+    "Clue": "Kesaksian Spike: \"Katanya, Bos Banhart <tagId=2>*belum membayar lunas*!! .... Di kapal ada seorang <tagId=3>*anak berambut hitam* yang suka mencari berita ....\"",
+    "Id": 100612,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Tingkah laku Konglomerat Misterius itu tidak logis.",
+      "",
+      "Ada orang mencurigakan lain di kapal."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100613": {
+    "Answer": ["", "Tas Dokumen", "", "Pertemuan Dua Orang", "", "Di Tangan Bodyguard"],
+    "Clue": "Kesaksian Tina: \"Gagator <tagId=4>*naik ke kapal membawa tas dokumen* .... Dia mengobrol dengan seorang <tagId=5>*anak muda berambut hitam ... dan <tagId=6>*menyerahkan dokumennya kepada bodyguard* ....\"",
+    "Id": 100613,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Tas dokumen ini mungkin adalah petunjuk baru?",
+      "",
+      "Gagator dan pria berambut hitam itu pernah bertemu.",
+      "",
+      "Tas dokumen itu mungkin ada pada si bodyguard."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200111": {
+    "Answer": [
+      "",
+      "Sea Lily tidak umum ditemukan di dataran tinggi",
+      "",
+      "Mungkin penduduk desa yang meletakkannya"
+    ],
+    "Clue": "Kesaksian pertama: \"Sea Lily... Di tempat seperti dataran tinggi, <tagId=1>*itu seharusnya tidak muncul*. Menempatkan bunga segar di bawah pohon memiliki makna peringatan... Rasanya itu dilakukan oleh <tagId=2>*seseorang yang mengenal Desa Larapar dengan baik*...\"",
+    "Id": 200111,
+    "Sort": 1,
+    "TapBubble": ["", "Orang Tua di desa membuat keputusan sendiri..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200112": {
+    "Answer": [
+      "",
+      "Sea Lily segar sangat mahal.",
+      "",
+      "Tanaman pertama di dataran tinggi berasal dari luar."
+    ],
+    "Clue": "Kalimat kesaksian kedua: \"Di musim ini, <tagId=3>*Sea Lily segar sangat berharga*! Di dataran tinggi ini, tanaman yang bisa tumbuh memang tidak banyak... <tagId=4>*Tanaman yang ada sekarang awalnya sepertinya berasal dari luar*...\"",
+    "Id": 200112,
+    "Sort": 2,
+    "TapBubble": [],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200113": {
+    "Answer": [
+      "",
+      "Mungkin ditinggalkan oleh seorang pengembara.",
+      "",
+      "Pengembara akan membawa hadiah sebagai tanda terima kasih."
+    ],
+    "Clue": "Kesaksian ketiga: \"Apakah mungkin itu ditaruh oleh <tagId=5>*Pengembara*? Semua orang sangat menghormati tempat ini... saat berkunjung, banyak orang akan <tagId=6>*membawa hadiah dari luar* sebagai ungkapan terima kasih...\"",
+    "Id": 200113,
+    "Sort": 3,
+    "TapBubble": [],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200201": {
+    "Answer": ["", "Tersapu warna merah"],
+    "Clue": "\"Hari saat aku bertemu dengannya ... berwarna merah. Mataku <tagId=1>*ditelan warna merah*.\"",
+    "Id": 200201,
+    "Sort": 1,
+    "TapBubble": ["", "Kenapa Zaphira menjadi buta?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Mendapat petunjuk dari ucapan Zaphira",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200202": {
+    "Answer": ["", "Langit penuh warna merah, udara yang membara", "", "Terdapat angin di sisinya"],
+    "Clue": "\"Tapi dalam <tagId=2>*langit yang merah dan udara yang panas*, cuma <tagId=3>*di samping badannya yang berangin* ....\"",
+    "Id": 200202,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Suasana saat Zaphira bertemu dengan gadis misterius?",
+      "",
+      "Apa ciri-ciri gadis misterius itu?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Mendapat petunjuk dari ucapan Zaphira",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200203": {
+    "Answer": ["", "Dia menarik Zaphira"],
+    "Clue": "\"Waktu aku jatuh ke dalam kegelapan, <tagId=4>*dialah yang tarik aku*.\"",
+    "Id": 200203,
+    "Sort": 3,
+    "TapBubble": ["", "Apa yang dilakukan gadis misterius itu pada Zaphira?"],
+    "TapBubbleAction": [9026],
+    "Tips": "Mendapat petunjuk dari ucapan Zaphira",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300111": {
+    "Answer": ["", "Memancing monster"],
+    "Clue": "Kami sudah berangkat, sampai sekarang masih termasuk lancar.<br>Tim ini berpengalaman sekali, tim survei memang hebat. Rute yang dipilih ahli ekologi bisa dibilang menghindari kami dari semua monster, benar-benar hebat sekali.<br>Tapi, orang yang sama-sama bergabung waktu itu ... Kalau tidak salah, namanya Laine?<tagId=6>* Dia selalu tidak sengaja pancing monster mendekat, jadi dimarahi terus oleh Kapten.*",
+    "Id": 300111,
+    "Sort": 1,
+    "TapBubble": ["", "Laine tidak profesional waktu jadi pemandu?"],
+    "TapBubbleAction": [9033, 9047, 9047],
+    "Tips": "Dapatkan petunjuk dari diari",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300112": {
+    "Answer": ["", "Sudah mau hujan", "", "Monster berkeliaran"],
+    "Clue": "Kami susah melanjutkan perjalanan. Kalau dilihat dari pola cuaca di sini, angin ini bukan muncul secara alami. Menurut dugaan ahli ekologi di dalam tim, ini kemungkinan ulah goblin.<br><tagId=1>* Awan hitam mulai muncul di kejauhan*. Kalau dilihat dari arahnya, seharusnya datang dari arah lautan, ini bukan pertanda baik. Kalau ada ritual aneh yang diadakan goblin, ditambah hujan badai di musim seperti ini, rasanya betul-betul ...<br><tagId=2>*Raungan monster terdengar dari mana-mana. Untungnya kami sudah ubah rute kami dari awal. Masih ada sedikit suplai yang tersisa di pos 6. Tempat ini tinggi sekali dan tidak bakal kebanjiran, jadi bisa dipakai untuk berlindung sementara.",
+    "Id": 300112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Awan hitam sudah mendekat, langit pun sudah gelap dan tidak cocok untuk melanjutkan perjalanan.",
+      "",
+      "Kelihatannya ada banyak bahaya yang mengintai di mana-mana."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Dapatkan petunjuk dari diari",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300113": {
+    "Answer": [
+      "",
+      "Angin bertiup kencang",
+      "",
+      "Barang bawaan lengkap",
+      "",
+      "Langkah yang panik",
+      "",
+      "Sebutkan dugaan"
+    ],
+    "Clue": "Semua orang sudah berjuang sebisa mungkin. <tagId=3>*Angin ini cukup kencang untuk menumbangkan pohon*, komunikasi antara anggota tim saja susah. Masalahnya cuma akan tambah besar kalau tidak segera kembali ke pos 6.<br>Di samping pohon yang ada di tebing, <tagId=4>*kami temukan ranselnya* beserta <tagId=5>*jejak-jejak kaki yang kacau*. Menurut dugaan Laine, <tagId=7>*dia mungkin terpeleset dan jatuh ke bawah*. Semoga nasibnya beruntung.<br>Tidak ada yang tahu dari mana Roy berasal karena dia bukan petualang yang terdaftar secara resmi. Kami cuma bisa dirikan makam seadanya di samping pohon yang ada di luar pos. Selain itu, tidak ada yang bisa kami lakukan lagi.",
+    "Id": 300113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Angin kencang ini bisa menutupi suara orang.",
+      "",
+      "Dia taruh ransel dulu sebelum pergi ke pinggir tebing.",
+      "",
+      "Jangan-jangan ada kejadian darurat ... Atau bukan cuma dia sendiri yang ada di sana?",
+      "",
+      "Sepertinya terlalu cepat menarik kesimpulan kalau dia terpeleset ...."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Dapatkan petunjuk dari diari",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300211": {
+    "Answer": ["", "Badai menerjang", "", "Kutukan kuno Kahneman", "", "Jejak seretan di tanah"],
+    "Clue": "Saat tim sedang bergerak maju, tiba-tiba <tagId=1>*badai menerjang*, lalu terdengar teriakan keras dari belakang.<br>Saat menoleh,barulah disadari ... Reed yang berjalan di belakang tim tiba-tiba menghilang begitu saja! Itu <tagId=2>*kutukan kuno Kahneman* yang menjadi kenyataan!<br>Tambahan dari pemeriksaan lokasi: di tanah terdapat <tagId=3>*jejak seretan* yang panjang.",
+    "Id": 300211,
+    "Sort": 1,
+    "TapBubble": ["", "Ada badai", "", "Kutukan kuno Kahneman", "", "Jejak seretan"],
+    "TapBubbleAction": [9019],
+    "Tips": "Mendapat petunjuk dari Tentara Bayaran",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300212": {
+    "Answer": [
+      "",
+      "Angin tiba-tiba bertambah kencang",
+      "",
+      "Kutukan kuno Kahneman",
+      "",
+      "Di samping Tebing Everhigh"
+    ],
+    "Clue": "Saat tim melewati mulut angin, terdengar teriakan dan <tagId=4>*anginnya tiba-tiba begitu kencang hingga tidak bisa membuka mata*.<br>Saat tersadar, Golg sudah menghilang. Pasti dia mengambil sesuatu dari altar, jadi memicu <tagId=5>*kutukan kuno Kahneman*!<br>Tambahan dari pemeriksaan lokasi: di samping <tagId=6>*Tebing Everhigh*.",
+    "Id": 300212,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Angin tiba-tiba bertambah kencang",
+      "",
+      "Kutukan kuno Kahneman",
+      "",
+      "Di samping Tebing Everhigh"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Mendapat petunjuk dari Tentara Bayaran",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300213": {
+    "Answer": [
+      "",
+      "Angin kencang bertiup dari tebing",
+      "",
+      "Auman marah Serigala Putih Kahneman",
+      "",
+      "Mini Mecha yang rusak"
+    ],
+    "Clue": "Saat tim sedang berjalan, tiba-tiba terasa <tagId=7>*angin kencang bertiup dari arah tebing*, lalu Duckow pun menghilang.<br>Suara angin bergema di lembah, terdengar seperti lolongan serigala ... Pemandu bilang itu <tagId=8>*auman marah Serigala Putih Kahneman* ...<br>Yang lebih mengerikan, <tagId=9>*Mini Mecha yang rusak* tiba-tiba melayang di udara pegunungan yang jauh, menatap kami dengan penuh dendam.",
+    "Id": 300213,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Angin kencang bertiup dari tebing",
+      "",
+      "Auman marah Serigala Putih Kahneman",
+      "",
+      "Mini Mecha yang rusak"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Mendapat petunjuk dari Tentara Bayaran",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400111": {
+    "Answer": ["", "Ritual Pemberkatan"],
+    "Clue": "Sepasang pemuda-pemudi: \"<tagId=1>*Ritual Pemberkatan* menggunakan air dari mata air yang diberkati leluhur untuk menyembuhkan luka ....\"",
+    "Id": 400111,
+    "Sort": 1,
+    "TapBubble": ["", "Kedengarannya seperti event klan yang sangat penting ...."],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari dialog warga desa.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400112": {
+    "Answer": ["", "Tutup terlalu lama."],
+    "Clue": "Orang tua Kahneman: \"Zona Terlarang sudah <tagId=2>*ditutup terlalu lama* .... Penyakit tidak dapat sembuh tanpa air mata air ....\"",
+    "Id": 400112,
+    "Sort": 2,
+    "TapBubble": ["", "Sepertinya Zona Terlarang sudah sangat lama tertutup untuk orang luar."],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari dialog warga desa.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400113": {
+    "Answer": ["", "Di Bawah Tebing di Timur"],
+    "Clue": "Anak muda Kahneman: \"Aku berdoa kepada leluhur di <tagId=3>*bawah tebing di timur* ....\"",
+    "Id": 400113,
+    "Sort": 3,
+    "TapBubble": ["", "Ada lokasi yang digunakan untuk berdua di bawah tebing di timur."],
+    "TapBubbleAction": [9026],
+    "Tips": "Kamu mendapatkan petunjuk dari dialog warga desa.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500111": {
+    "Answer": ["", "Kabut warna merah muda"],
+    "Clue": "Setelah pingsan ... aku lihat kabut. Bukan kabut void yang menjijikan itu! Tapi ... <tagId=1>*Kabut yang warnanya merah muda* ... Benar-benar indah, benar-benar tidak nyata.",
+    "Id": 500111,
+    "Sort": 1,
+    "TapBubble": ["", "Aku belum pernah lihat kabut warna merah."],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500112": {
+    "Answer": ["", "Tetap tenang, kendalikan emosi"],
+    "Clue": "Lalu, aku paksa diriku untuk tenang. Anehnya setelah aku paksa diriku <tagId=2>*untuk tenang*, \"monster-monster\" itu tetap ada di sekelilingku, tapi tidak sebuas sebelumnya.",
+    "Id": 500112,
+    "Sort": 2,
+    "TapBubble": ["", "Menjaga pikiran tetap tenang sepertinya bisa kurangi pengaruh mimpi buruk."],
+    "TapBubbleAction": [9019],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500113": {
+    "Answer": ["", "Pusaka Dewa Dataran Tinggi"],
+    "Clue": "Aku anggota Guild Pengrajin yang diutus untuk teliti pusaka yang baru digali di dataran tinggi itu. Katanya pusaka itu semacam <tagId=3>*perangkat penenang*. Kalau bisa segera dipastikan dan dipakai, mungkin bisa kurangi pengaruh fenomena seperti ini.",
+    "Id": 500113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Pusaka yang baru ditemukan di dataran tinggi ini sepertinya mengandung efek menenangkan."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Kamu mendapatkan petunjuk dari informasi yang kamu dengar.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700111": {
+    "Answer": [
+      "",
+      "Mahakarya Luther",
+      "",
+      "Pendeta Gisela akan membagikan Starsoul Flask secara berkala"
+    ],
+    "Clue": "Starsoul Flask adalah <tagId=1>*mahakarya Luther.* Bukan cuma itu, Luther juga harus bersihkan Phantom Bloom di mana-mana, jadi bisa dibilang sibuk sekali. Dia hari ini tidak ada di Pillar of Divinity.<br><tagId=2>*Pendeta Gisela akan membagikan Starsoul Flask secara berkala.* Tapi, minta lima ratus sekaligus ... memang terlalu banyak. Kalau ada alasan yang kuat, kamu boleh coba tanyakan pada Pendeta.",
+    "Id": 700111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Dia hari ini tidak ada di Pillar of Divinity ....",
+      "",
+      "Dia tidak bakal setuju untuk berikan lima ratus Starsoul Flask."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari omongan pengembara",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700112": {
+    "Answer": ["", "Boyce akan jaga ketertiban pembagian Starsoul Flask"],
+    "Clue": "Boyce tidak pernah menceritakan masa lalunya, tetapi tutur kata dan tindak-tanduknya jelas menunjukkan asal-usulnya tidak biasa. Kemampuannya juga sepertinya di atas rata-rata. Dengar-dengar <tagId=3>*Boyce kadang-kadang akan jaga ketertiban pembagian Starsoul Flask*.",
+    "Id": 700112,
+    "Sort": 2,
+    "TapBubble": ["", "Boyce ... Bisa dibilang kenal dia."],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari omongan pengembara",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700113": {
+    "Answer": ["", "Jalan di depan Pillar of Divinity"],
+    "Clue": "Starsoul Flask jumlahnya terbatas, pagi ini sudah habis dibagikan.<br>Tapi kalau memang ada kesulitan, kamu bisa <tagId=4>*cari Boyce di jalan di depan Pillar of Divinity*, dia bakal bantu kamu.",
+    "Id": 700113,
+    "Sort": 3,
+    "TapBubble": ["", "Betul, ini tempatnya!"],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari omongan pengembara",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800111": {
+    "Answer": ["", "Bagian kosong yang janggal"],
+    "Clue": "Bagian tengah tabel ini ada <tagId=1>*bagian kosong yang janggal*, waktu itu tidak ada yang bertugas?",
+    "Id": 800111,
+    "Sort": 1,
+    "TapBubble": ["", "Betul, sudah pasti begitu!"],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Dapatkan petunjuk dari Tabel Pergantian Jaga",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800112": {
+    "Answer": ["", "Waktu bertugasnya jadi lebih lama", "", "Area bertugasnya jadi lebih kecil"],
+    "Clue": "Kalau di luar bagian kosong yang janggal ini, para sersan ganti shift setiap enam jam, <tagId=2>*waktu bertugasnya juga diperpanjang jadi delapan jam*,<br><tagId=5>*bahkan ada sebagian area yang tidak ada penjaganya*.",
+    "Id": 800112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Ternyata anggota legion juga harus lembur",
+      "",
+      "Memangnya kurang orang untuk jaga area tambang terbuka?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Dapatkan petunjuk dari Tabel Pergantian Jaga",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800113": {
+    "Answer": [
+      "",
+      "Sersan Milo",
+      "",
+      "Sersan Blake",
+      "",
+      "Sersan Davin",
+      "",
+      "Sersan yang bertugas jadi sedikit"
+    ],
+    "Clue": "Kalau dilihat dengan lebih teliti lagi, <tagId=7>*kenapa sersan yang bertugas jadi sedikit* ... Lebih baik kumpulkan dulu daftar nama sersan yang bertugas di luar bagian kosong yang janggal itu.<br>Sebelum bagian kosong: <tagId=3>*Sersan Milo*, Sersan Osman, Sersan Murray, Sersan Leo, Sersan Ethan, <tagId=4>*Sersan Blake* dan <tagId=6>*Sersan Davin*.<br>Setelah bagian kosong: Sersan Murray, Sersan Osman, Sersan Ethan, dan Sersan Leo",
+    "Id": 800113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Ke mana dia pergi ...?",
+      "",
+      "Semoga dia baik-baik saja.",
+      "",
+      "Aku punya firasat buruk.."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Dapatkan petunjuk dari Tabel Pergantian Jaga",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900111": {
+    "Answer": ["", "Crimson Ore Core", "", "Blackrock Legion Soldier", "", "McRae"],
+    "Clue": "Neville selalu membawa <tagId=1>*Crimson Ore Core*, dia juga bisa suruh <tagId=2>*prajurit Blackrock Legion* untuk lindungi dia.<br>Kalau menurut pengakuan prajurit yang kabur itu, target mereka sebenarnya adalah <tagId=3>*McRae*.",
+    "Id": 900111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Jadi, pasti ada Crimson Ore Core di badan Neville",
+      "",
+      "Bahkan penjaga pos militer juga bantu dia",
+      "",
+      "Dengan begitu, dia bisa gantikan rombongan pedagang"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Selidiki lokasi dan dapatkan petunjuk",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900112": {
+    "Answer": ["", "Sosok Berbaju Hitam"],
+    "Clue": "Siapa yang tahu identitas sebenarnya <tagId=4>*sosok berbaju hitam* itu ... gila dan tidak waras! Seumur hidup aku tidak mau berurusan lagi dengan orang seperti itu!<br>Syukurlah ... aku bisa pulang setelah semua kargo utama selesai dikirim, nanti aku bawakan kado buat kamu.<br>Kesepakatan ini bisa terjadi juga berkat anak buahku yang selalu punya informasi cepat. Kalau bukan karena dia punya koneksi dengan Neville, aku sama sekali tidak bakal tahu soal kesempatan sebagus ini. Hari ini dia bilang ada seorang tokoh besar yang membantu menjadi perantara dan ingin menemuiku .... (lanjutan teks hilang)",
+    "Id": 900112,
+    "Sort": 2,
+    "TapBubble": ["", "Orang itu pasti jadi provokator"],
+    "TapBubbleAction": [9019],
+    "Tips": "Selidiki lokasi dan dapatkan petunjuk",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900113": {
+    "Answer": ["", "Singkirkan pemimpin", "", "Kekayaan dan kemuliaan yang kamu dambakan"],
+    "Clue": "<tagId=5>*Singkirkan pemimpin itu, rombongan pedagang bakal jadi milikmu. Nanti kamu pasti bisa ikut transaksi tingkat yang lebih tinggi—Aku bahkan bisa memberimu izin khusus untuk membawa beberapa sampel lebih dulu<br>Carl akan membantumu.<br>Kamu pernah lihat yang \"sama\" denganmu, kan? <tagId=6>*Kekayaan dan kemuliaan yang kamu dambakan* ada di pertarungan ini.",
+    "Id": 900113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Ingin ikut transaksi tingkat yang lebih tinggi ...?",
+      "",
+      "Semuanya ada bayarannya"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Selidiki lokasi dan dapatkan petunjuk",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "Mendapat petunjuk baru!",
+    "UnlockedBubbleAction": 9019
+  }
+}

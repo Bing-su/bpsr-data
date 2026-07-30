@@ -1,0 +1,18 @@
+{
+  "1": {
+    "CampId": 801,
+    "Description": "Finde die verwandelten Pirscher und greife sie mit Waffen und Fähigkeiten an. Ein Pirscher ist besiegt, wenn seine LP null erreichen.<br><style=\"physical\">Siegbedingung: Alle Pirscher besiegen.</style><br>Sobald man zum Schattenjäger wird, erhält man automatisch die folgenden exklusiven Fähigkeiten:",
+    "Id": 1,
+    "Name": "Schattenjäger",
+    "SkillId": [],
+    "SkillText": "Hinzugefügte Gegenstände werden nach der <style=\"physical\">Fraktionsbestätigungsphase</style> abgezogen. Man erhält die entsprechende Fähigkeit, die <style=\"physical\">für ein einziges Spiel anhält</style>. Um sie im nächsten Spiel zu nutzen, muss der Gegenstand erneut verbraucht werden."
+  },
+  "2": {
+    "CampId": 802,
+    "Description": "Die Verwandlungs-Fähigkeit nutzen, um in Gegenstände in der Szene zu verwandeln. An geeigneten Orten verstecken, um Schattenjäger zu verwirren, oder häufig bewegen, um ihren Angriffen auszuweichen.<br><style=\"physical\">Siegbedingung: Mindestens ein Pirscher überlebt, bis die Zeit abläuft.</style><br>Wird man zum Pirscher, werden automatisch die folgenden exklusiven Fähigkeiten gewährt:",
+    "Id": 2,
+    "Name": "Pirscher",
+    "SkillId": [6500, 6504, 6501],
+    "SkillText": "Hinzugefügte Gegenstände werden nach der <style=\"physical\">Fraktionsbestätigungsphase</style> abgezogen. Man erhält die entsprechende Fähigkeit, die <style=\"physical\">für ein einziges Spiel anhält</style>. Um sie im nächsten Spiel zu nutzen, muss der Gegenstand erneut verbraucht werden."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Id": 1,
+    "ReportCategoryDes": ["Veröffentlichung unzulässiger Informationen", "Unzulässiges Profil"],
+    "ReportCategoryId": [],
+    "ReportReason": [
+      [101, 102, 103, 104, 105, 106, 108, 199],
+      [901, 999]
+    ],
+    "ReportScene": "Kontext: Unterhaltung",
+    "SceneId": 1
+  },
+  "101": {
+    "Id": 101,
+    "ReportCategoryDes": ["Heimstätten-Verstöße"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[798]],
+    "ReportScene": "Heimstätten-Bauszene",
+    "SceneId": 8
+  },
+  "2": {
+    "Id": 2,
+    "ReportCategoryDes": ["Unzulässiges Profil"],
+    "ReportCategoryId": [9],
+    "ReportReason": [[901, 903, 999]],
+    "ReportScene": "Kontext: Profil",
+    "SceneId": 2
+  },
+  "6": {
+    "Id": 6,
+    "ReportCategoryDes": ["Unzulässiges Foto"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[799]],
+    "ReportScene": "Albumfotos melden",
+    "SceneId": 6
+  },
+  "7": {
+    "Id": 7,
+    "ReportCategoryDes": ["Unzulässige Gildeninformationen"],
+    "ReportCategoryId": [8],
+    "ReportReason": [[801, 802, 803, 799, 899]],
+    "ReportScene": "Organisationsdaten",
+    "SceneId": 7
+  }
+}

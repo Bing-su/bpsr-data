@@ -1,0 +1,48 @@
+{
+  "1000": {
+    "Id": 1000,
+    "IsShow": true,
+    "LockedText": "Dibuka setelah menyelesaikan <style=\"emph-gn\">\"Setelah Mimpi Berlalu\"</style>.",
+    "Remark": "",
+    "RoleName": "Boyce",
+    "RolePic": "ui/textures/npctask/boyce/storyboard_boyce",
+    "StoryboardPool": [100001],
+    "UnlockCondition": [[], [9, 30105]]
+  },
+  "1001": {
+    "Id": 1001,
+    "IsShow": true,
+    "LockedText": "Dibuka setelah menyelesaikan <style=\"emph-gn\">\"Setelah Mimpi Berlalu\"</style>.",
+    "Remark": "",
+    "RoleName": "Pavara",
+    "RolePic": "ui/textures/npctask/farfara/storyboard_farfara",
+    "StoryboardPool": [100101],
+    "UnlockCondition": [[], [9, 30103]]
+  },
+  "1002": {
+    "Id": 1002,
+    "IsShow": true,
+    "LockedText": "Dibuka setelah menyelesaikan <style=\"emph-gn\">\"Jalan yang Panjang\"</style>.",
+    "Remark": "",
+    "RoleName": "Daia",
+    "RolePic": "ui/textures/npctask/daya/storyboard_daya",
+    "StoryboardPool": [100201],
+    "UnlockCondition": [
+      [2, 10607, 2],
+      [9, 30101]
+    ]
+  },
+  "1003": {
+    "Id": 1003,
+    "IsShow": true,
+    "LockedText": "Dibuka setelah menyelesaikan <style=\"emph-gn\">\"Titik Awal\"</style>.",
+    "Remark": "",
+    "RoleName": "Eluna",
+    "RolePic": "ui/textures/npctask/iruna/storyboard_iruna",
+    "StoryboardPool": [100301],
+    "UnlockCondition": [
+      [2, 10001, 2],
+      [9, 41106]
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "체력 <style=\"physical\">10pt를 소모</style>하여 나무막대로 공격합니다.<br>공격이 <style=\"physical\">잠행자에게 명중</style>하면 자신의 체력 <style=\"physical\">20pt를 회복</style>합니다.<br>잠행자를 처치하면 모든 체력을 회복합니다.<br><style=\"physical\">체력이 부족</style>하면 해당 스킬을 사용할 수 없습니다.<br>실제 대미지는 <style=\"physical\">잠행자가 변신한 물체의 방어력</style>을 기준으로 계산됩니다.</style><br><i><style=\"text_third_gray\">[진정한 고수는 무기의 강약을 따지지 않는다.]</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "기본기"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "체력을 <style=\"physical\">10pt 소모</style>하여 파파라의 검으로 공격합니다.<br>공격이 <style=\"physical\">잠행자에게 명중</style>하면 자신의 체력을 <style=\"physical\">20pt 회복</style>합니다.<br>잠행자를 처치하면 모든 체력을 회복합니다.<br><style=\"physical\">체력이 부족</style>하면 해당 스킬을 사용할 수 없습니다.<br>실제 대미지는 <style=\"physical\">잠행자가 변신한 물체의 방어력</style>을 기준으로 계산됩니다.<br><style=\"physical\">무기 특수 효과: 주변의 그림자 사냥꾼이 지속적으로 체력을 회복하며 이동속도가 증가합니다.</style><br><i><style=\"text_third_gray\">[이게 당신을 조금이라도 안심시켜 줄 수 있기를...]</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "아침 안개의 인도"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "체력을 <style=\"physical\">10pt 소모</style>하여 덴벨의 대검으로 공격합니다.<br>공격이 <style=\"physical\">잠행자에게 명중</style>하면 자신의 체력을 <style=\"physical\">20pt 회복</style>합니다.<br>잠행자를 처치하면 모든 체력을 회복합니다.<br><style=\"physical\">체력이 부족</style>하면 해당 스킬을 사용할 수 없습니다.<br>실제 대미지는 <style=\"physical\">잠행자가 변신한 물체의 방어력</style>을 기준으로 계산됩니다.<br>무기 특수 효과: 추가로 2개의 검기를 발사하며 범위 내 플레이어가 아닌 물체를 모두 제거합니다.<br><i><style=\"text_third_gray\">[이것으로 지난날의 원한을 청산하겠다.]</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "애도자의 칼날"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "체력을 <style=\"physical\">10pt 소모</style>하여 곡괭이로 공격합니다.<br>공격이 <style=\"physical\">잠행자에게 명중</style>하면 자신의 체력을 <style=\"physical\">20pt 회복</style>합니다.<br>잠행자를 처치하면 모든 체력을 회복합니다.<br><style=\"physical\">체력이 부족</style>하면 해당 스킬을 사용할 수 없습니다.<br>실제 대미지는 <style=\"physical\">잠행자가 변신한 물체의 방어력</style>을 기준으로 계산됩니다.<br>무기 특수 효과: 공격할 때마다 랜덤으로 광석을 획득합니다.<br>40% 확률로 호박석을 획득: 자신의 모든 스킬 쿨타임이 0.5초 감소합니다.<br>40% 확률로 베니토아이트를 획득: 체력을 10pt 회복합니다.<br>19% 확률로 용수정을 획득: 사방으로 5개의 검기를 발사합니다.<br>1% 확률로 번개 용암을 획득: 반경 30미터 내 모든 잠행자에게 번개가 떨어집니다.<br><i><style=\"text_third_gray\">[나도 캐야 돼?]</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "금 캐는 꿈"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "체력을 <style=\"physical\">10pt 소모</style>하여 응원봉으로 공격합니다.<br>공격이 <style=\"physical\">잠행자에게 명중</style>하면 자신의 체력을 <style=\"physical\">20pt 회복</style>합니다.<br>잠행자를 처치하면 모든 체력을 회복합니다.<br><style=\"physical\">체력이 부족</style>하면 해당 스킬을 사용할 수 없습니다.<br>실제 대미지는 <style=\"physical\">잠행자가 변신한 물체의 방어력</style>을 기준으로 계산됩니다.<br>무기 특수 효과: 모든 스킬 사용 시 댄스력 수치가 누적됩니다. 댄스력이 50pt에 도달하면 스킬 [댄스력 전개]를 획득합니다.<br>댄스력 전개: 사용 시 댄스 상태가 되어 체력을 서서히 회복합니다.</style><br><i><style=\"text_third_gray\">[그만 좀 싸워...]</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "정의의 응원"
+  }
+}

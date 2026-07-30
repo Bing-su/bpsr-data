@@ -1,0 +1,201 @@
+{
+  "1001": {
+    "BaseDetailsDes": "Basic Events for this pool include:<br>1. Every draw guarantees <style=\"accent-gn\">Shangri-La Frontier - Gold Meow Point</style> rebates. The exact amount depends on the prize rarity: S Prize returns 50 Gold Meow Points, A Prize returns 30 Gold Meow Points, B Prize returns 20 Gold Meow Points, C Prize returns 15 Gold Meow Points, D Prize returns 10 Gold Meow Points, and E Prize returns 5 Gold Meow Points. <br>2. <style=\"accent-gn\">The 60th draw</style> is guaranteed to be an <style=\"accent-gn\">S Prize Ticket</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip001_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip001_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850101,
+    "HelpLibraryId": 0,
+    "Id": 1001,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Draw 1", "Draw 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Each draw in this pool has a <style=\"accent-gn\">25.0000%</style> chance to trigger a Lucky Event! Once triggered, you will randomly receive one of the following Luck effects based on their probabilities: <br> Next Draw Free: 20.0000%<br> Next Draw Returns 3x Bonus Points: 32.0000%<br> Next Draw S Prize Probability UP: 40.0000%<br> Next Draw Excludes C/D/E Prizes: 8.0000%",
+    "LuckPoolId": 1001,
+    "MallItemId": 11001,
+    "MiniGuaranteeDetails": [[1, 60]],
+    "OnePrizeConsume": [],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70001,
+    "PointsActivityFunctionId": 20001,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Shangri-La Frontier",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip001", "ichibankuji/ichibankuji_ip001"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1001,
+    "PrizeShowDetails": [
+      100101, 100102, 100103, 100104, 100105, 100106, 100107, 100108, 100109, 100110, 100111, 100112
+    ],
+    "Sort": 1,
+    "TextColor": ""
+  },
+  "1002": {
+    "BaseDetailsDes": "[Basic Events] for this round include:<br>Every draw guarantees <style=\"accent-gn\">Monogatari Series - Gold Meow Point rebates</style>. The exact amount depends on the prize rarity—the rarer the prize, the more points you get.<br>Guaranteed <style=\"accent-gn\">A Prize Voucher</style> on <style=\"accent-gn\">the 30th draws</style>;<br>guaranteed <style=\"accent-gn\">S Prize Voucher</style> on <style=\"accent-gn\">the 80th draw</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip003_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip003_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850102,
+    "HelpLibraryId": 25002,
+    "Id": 1002,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Draw 1", "Draw 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Each draw has a <style=\"accent-gn\">25.0000%</style> chance to trigger a [Lucky Event]! The Lucky Events for this round include:<br>[Event 1]: Next Draw Free;<br>[Event 2]: Next Draw Returns 3x Gold Meow Points;<br>[Event 3]: Next Draw A Prize Probability UP;<br>[Event 4]: Next Draw Excludes C/D/E Prizes.",
+    "LuckPoolId": 1002,
+    "MallItemId": 11002,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12002, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70003,
+    "PointsActivityFunctionId": 20002,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Monogatari Series",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip003", "ichibankuji/ichibankuji_ip003"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1002,
+    "PrizeShowDetails": [
+      100201, 100202, 100203, 100204, 100205, 100206, 100207, 100208, 100209, 100210
+    ],
+    "Sort": 2,
+    "TextColor": ""
+  },
+  "1003": {
+    "BaseDetailsDes": "[Basic Events] for this round include:<br>Every draw guarantees <style=\"accent-gn\">Fairy Tail - Gold Meow Point rebates</style>. The exact amount depends on the prize rarity—the rarer the prize, the more points you get.<br><style=\"accent-gn\">Guaranteed A Prize Voucher</style> on <style=\"accent-gn\">the 30th draw</style>;<br><style=\"accent-gn\">guaranteed S Prize Voucher</style> on <style=\"accent-gn\">the 80th draw</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip004_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip004_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850103,
+    "HelpLibraryId": 25003,
+    "Id": 1003,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Draw 1", "Draw 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Each draw has a <style=\"accent-gn\">25.0000%</style> chance to trigger a [Lucky Event]! The Lucky Events for this round include:<br>[Event 1]: Next Draw Free;<br>[Event 2]: Next Draw Returns 3x Gold Meow Points;<br>[Event 3]: Next Draw A Prize Probability UP;<br>[Event 4]: Next Draw Excludes C/D/E Prizes.",
+    "LuckPoolId": 1003,
+    "MallItemId": 11003,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12003, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70006,
+    "PointsActivityFunctionId": 20004,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Fairy Tail",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip004", "ichibankuji/ichibankuji_ip004"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1003,
+    "PrizeShowDetails": [
+      100301, 100302, 100303, 100304, 100305, 100306, 100307, 100308, 100309, 100310, 100311, 100312
+    ],
+    "Sort": 3,
+    "TextColor": "#ffffff"
+  },
+  "1004": {
+    "BaseDetailsDes": "[Basic Events] for this round include:<br>Every draw guarantees <style=\"accent-gn\">Lush Summer - Gold Meow Point rebates</style>. The exact amount depends on the prize rarity—the rarer the prize, the more points you get.<br><style=\"accent-gn\">Guaranteed A Prize Voucher</style> on <style=\"accent-gn\">the 25th draw</style>;<br><style=\"accent-gn\">guaranteed S Prize Voucher</style> on <style=\"accent-gn\">the 70th draw</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850204],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850104,
+    "HelpLibraryId": 25004,
+    "Id": 1004,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Draw 1", "Draw 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Each draw has a <style=\"accent-gn\">25.0000%</style> chance to trigger a [Lucky Event]! The Lucky Events for this round include:<br>[Event 1]: Next Draw Free;<br>[Event 2]: Next Draw Returns 3x Gold Meow Points;<br>[Event 3]: Next Draw A Prize Probability UP;<br>[Event 4]: Next Draw Excludes C/D/E Prizes.",
+    "LuckPoolId": 1004,
+    "MallItemId": 11004,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12004, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41001,
+    "PointsActivityFunctionId": 20007,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Lush Summer",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1004,
+    "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
+    "Sort": 4,
+    "TextColor": "#ffffff"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "1000101": {
+    "FuncName": "電吉他音區E2-B2",
+    "FuncParams": [],
+    "FuncType": 1,
+    "ID": 1000101,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 1, 4]]
+  },
+  "1000102": {
+    "FuncName": "電吉他音區C3-B4",
+    "FuncParams": [47, 71],
+    "FuncType": 1,
+    "ID": 1000102,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "1000103": {
+    "FuncName": "電吉他音區C5-D6",
+    "FuncParams": [71, 86],
+    "FuncType": 1,
+    "ID": 1000103,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 1, 7]]
+  },
+  "1000202": {
+    "FuncName": "預設（長音）",
+    "FuncParams": [1],
+    "FuncType": 2,
+    "ID": 1000202,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "1000203": {
+    "FuncName": "悶音",
+    "FuncParams": [2],
+    "FuncType": 2,
+    "ID": 1000203,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 1, 2]]
+  },
+  "1000204": {
+    "FuncName": "泛音",
+    "FuncParams": [3],
+    "FuncType": 2,
+    "ID": 1000204,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 1, 5]]
+  },
+  "1000301": {
+    "FuncName": "清音",
+    "FuncParams": [1000001],
+    "FuncType": 3,
+    "ID": 1000301,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "1000302": {
+    "FuncName": "超載",
+    "FuncParams": [1000002],
+    "FuncType": 3,
+    "ID": 1000302,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 1, 6]]
+  },
+  "1000303": {
+    "FuncName": "失真",
+    "FuncParams": [1000003],
+    "FuncType": 3,
+    "ID": 1000303,
+    "MusicalInstruments": 10002,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 1, 8]]
+  },
+  "2000101": {
+    "FuncName": "鋼琴音區A0-B2",
+    "FuncParams": [20, 47],
+    "FuncType": 1,
+    "ID": 2000101,
+    "MusicalInstruments": 10001,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 2, 4]]
+  },
+  "2000102": {
+    "FuncName": "鋼琴音區C3-B4",
+    "FuncParams": [47, 71],
+    "FuncType": 1,
+    "ID": 2000102,
+    "MusicalInstruments": 10001,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "2000103": {
+    "FuncName": "鋼琴音區C5-B6",
+    "FuncParams": [71, 95],
+    "FuncType": 1,
+    "ID": 2000103,
+    "MusicalInstruments": 10001,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 2, 2]]
+  },
+  "2000104": {
+    "FuncName": "鋼琴音區C7-C8",
+    "FuncParams": [95, 108],
+    "FuncType": 1,
+    "ID": 2000104,
+    "MusicalInstruments": 10001,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 2, 7]]
+  },
+  "2000201": {
+    "FuncName": "預設",
+    "FuncParams": [1],
+    "FuncType": 2,
+    "ID": 2000201,
+    "MusicalInstruments": 10001,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "2000301": {
+    "FuncName": "原音",
+    "FuncParams": [1000000],
+    "FuncType": 3,
+    "ID": 2000301,
+    "MusicalInstruments": 10001,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "3000101": {
+    "FuncName": "電貝斯音區E1-B2",
+    "FuncParams": [27, 47],
+    "FuncType": 1,
+    "ID": 3000101,
+    "MusicalInstruments": 10004,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "3000102": {
+    "FuncName": "電貝斯音區C3-F4",
+    "FuncParams": [47, 65],
+    "FuncType": 1,
+    "ID": 3000102,
+    "MusicalInstruments": 10004,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 3, 4]]
+  },
+  "3000202": {
+    "FuncName": "預設（長音）",
+    "FuncParams": [1],
+    "FuncType": 2,
+    "ID": 3000202,
+    "MusicalInstruments": 10004,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "3000203": {
+    "FuncName": "悶音",
+    "FuncParams": [2],
+    "FuncType": 2,
+    "ID": 3000203,
+    "MusicalInstruments": 10004,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 3, 2]]
+  },
+  "3000204": {
+    "FuncName": "泛音",
+    "FuncParams": [3],
+    "FuncType": 2,
+    "ID": 3000204,
+    "MusicalInstruments": 10004,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 3, 5]]
+  },
+  "3000207": {
+    "FuncName": "打弦",
+    "FuncParams": [6],
+    "FuncType": 2,
+    "ID": 3000207,
+    "MusicalInstruments": 10004,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 3, 7]]
+  },
+  "3000301": {
+    "FuncName": "清音",
+    "FuncParams": [1000004],
+    "FuncType": 3,
+    "ID": 3000301,
+    "MusicalInstruments": 10004,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "3000302": {
+    "FuncName": "超載",
+    "FuncParams": [1000005],
+    "FuncType": 3,
+    "ID": 3000302,
+    "MusicalInstruments": 10004,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 3, 8]]
+  },
+  "4000101": {
+    "FuncName": "低音鼓、踩拔",
+    "FuncParams": [59, 68],
+    "FuncType": 1,
+    "ID": 4000101,
+    "MusicalInstruments": 10003,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 4, 2]]
+  },
+  "4000102": {
+    "FuncName": "軍鼓、筒鼓",
+    "FuncParams": [68, 76],
+    "FuncType": 1,
+    "ID": 4000102,
+    "MusicalInstruments": 10003,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "4000103": {
+    "FuncName": "強音鈸、叮叮鈸",
+    "FuncParams": [76, 83],
+    "FuncType": 1,
+    "ID": 4000103,
+    "MusicalInstruments": 10003,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": [[127, 4, 4]]
+  },
+  "4000201": {
+    "FuncName": "預設",
+    "FuncParams": [1],
+    "FuncType": 2,
+    "ID": 4000201,
+    "MusicalInstruments": 10003,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  },
+  "4000301": {
+    "FuncName": "原音",
+    "FuncParams": [1000006],
+    "FuncType": 3,
+    "ID": 4000301,
+    "MusicalInstruments": 10003,
+    "QuickJumpParam": [101201],
+    "QuickJumpType": 2,
+    "UnlockCondition": []
+  }
+}

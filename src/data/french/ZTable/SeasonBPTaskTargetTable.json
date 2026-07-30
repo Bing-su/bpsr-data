@@ -1,0 +1,969 @@
+{
+  "1": {
+    "Describe": "Terminez la quête principale \"Une nuit suspendue au-dessus du précipice\".",
+    "Id": 1,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "10": {
+    "Describe": "Activez {*val*} talents",
+    "Id": 10,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 144
+  },
+  "100": {
+    "Describe": "Dépensez {*val*} points du Bureau des pionniers.",
+    "Id": 100,
+    "Num": 250000,
+    "Param": [10001],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "101": {
+    "Describe": "Dépensez {*val*} Lunos.",
+    "Id": 101,
+    "Num": 20000,
+    "Param": [10002],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "102": {
+    "Describe": "Brisez {*val*} barrières de vent dans les plaines.",
+    "Id": 102,
+    "Num": 1,
+    "Param": [4],
+    "SceneId": 0,
+    "TargetType": 173
+  },
+  "103": {
+    "Describe": "Terminez {*val*} défis de particules de vent dans les plaines.",
+    "Id": 103,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "104": {
+    "Describe": "Terminez tous les défis du tunnel de vent dans les plaines (non encore développé).",
+    "Id": 104,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "105": {
+    "Describe": "Ouvrez {*val*} coffres.",
+    "Id": 105,
+    "Num": 400,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "106": {
+    "Describe": "Répertoriez tous les monstres.",
+    "Id": 106,
+    "Num": 10,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "107": {
+    "Describe": "Visitez {*val*} sites pittoresques.",
+    "Id": 107,
+    "Num": 11,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 128
+  },
+  "108": {
+    "Describe": "Restaurez toutes les ruptures de tous les Centres d'engrammes.",
+    "Id": 108,
+    "Num": 5,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "109": {
+    "Describe": "Déverrouillez toutes les recettes.",
+    "Id": 109,
+    "Num": 18,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "11": {
+    "Describe": "Sauvegardez {*val*} plans de capacités activables.",
+    "Id": 11,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 120
+  },
+  "110": {
+    "Describe": "Il faut du temps pour guérir d'une blessure, alors ne jouez pas les acrobates en hauteur si vous n'êtes pas un expert...",
+    "Id": 110,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 172
+  },
+  "111": {
+    "Describe": "Obtenez 100 points d'activité.",
+    "Id": 111,
+    "Num": 100,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "112": {
+    "Describe": "Obtenez 200 points d'activité.",
+    "Id": 112,
+    "Num": 200,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "113": {
+    "Describe": "Obtenez 300 points d'activité.",
+    "Id": 113,
+    "Num": 300,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "114": {
+    "Describe": "Terminez toutes les quêtes hebdomadaires.",
+    "Id": 114,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "115": {
+    "Describe": "Terminez toutes les quêtes hebdomadaires.",
+    "Id": 115,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "116": {
+    "Describe": "Terminez toutes les quêtes hebdomadaires.",
+    "Id": 116,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "117": {
+    "Describe": "Connexion quotidienne",
+    "Id": 117,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "12": {
+    "Describe": "Équipez 1 compétence de Résonance terrestre.",
+    "Id": 12,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 150
+  },
+  "13": {
+    "Describe": "Équipez-vous de toutes les compétences de Résonance terrestre.",
+    "Id": 13,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 150
+  },
+  "14": {
+    "Describe": "Terminez {*val*} fois \"Instable - Sauver Tina\".",
+    "Id": 14,
+    "Num": 1,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "15": {
+    "Describe": "Terminez {*val*} fois \"Instable - Sauver Tina\".",
+    "Id": 15,
+    "Num": 2,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "16": {
+    "Describe": "Terminez {*val*} fois \"Instable - Sauver Tina\".",
+    "Id": 16,
+    "Num": 10,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "17": {
+    "Describe": "Rejoignez {*val*} guilde.",
+    "Id": 17,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 342
+  },
+  "18": {
+    "Describe": "Parlez {*val*} fois dans le canal Monde.",
+    "Id": 18,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 341
+  },
+  "19": {
+    "Describe": "Terminez {*val*} épreuves de parkour.",
+    "Id": 19,
+    "Num": 1,
+    "Param": [7001, 7002, 7003],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "2": {
+    "Describe": "Terminez {*val*} quêtes secondaires.",
+    "Id": 2,
+    "Num": 5,
+    "Param": [
+      -2, 180002, 180003, 180004, 20001, 20002, 20003, 20004, 20005, 20006, 20007, 20008, 20009,
+      20010, 20020, 20022, 20030, 20031, 29001, 29002, 29003, 29004, 29005, 31001, 31010, 31013,
+      31015, 31016, 31021, 31022, 31023, 31050, 31051, 31063, 31071, 31072, 31073, 31074, 500001
+    ],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "20": {
+    "Describe": "Terminez {*val*} événements mondiaux.",
+    "Id": 20,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "21": {
+    "Describe": "Activez {*val*} Centres d'engrammes.",
+    "Id": 21,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "22": {
+    "Describe": "Terminez {*val*} événements de détection de monstres.",
+    "Id": 22,
+    "Num": 2,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "23": {
+    "Describe": "Terminez 1 séance photo en mode Normal.",
+    "Id": 23,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "24": {
+    "Describe": "Prenez 1 photo en mode gyroscopique.",
+    "Id": 24,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "25": {
+    "Describe": "Prenez 1 selfie.",
+    "Id": 25,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "26": {
+    "Describe": "Obtenez le couvre-chef : Brise marine tissée.",
+    "Id": 26,
+    "Num": 1,
+    "Param": [7130130],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "27": {
+    "Describe": "On dit que le comportement des capricornes est imprévisible, si vous les provoquez...",
+    "Id": 27,
+    "Num": 3,
+    "Param": [10011, 101001],
+    "SceneId": 0,
+    "TargetType": 15
+  },
+  "28": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 28,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "29": {
+    "Describe": "Terminez la quête principale \"Le héraut de la calamité et le murmure de l'aube\".",
+    "Id": 29,
+    "Num": 1,
+    "Param": [-2, 10211],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "3": {
+    "Describe": "Améliorez une arme au niv. 10.",
+    "Id": 3,
+    "Num": 1,
+    "Param": [1, 10],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "30": {
+    "Describe": "Améliorez 2 armes au niv. 30.",
+    "Id": 30,
+    "Num": 1,
+    "Param": [2, 30],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "31": {
+    "Describe": "Améliorez des compétences d'arme {*val*} fois au total.",
+    "Id": 31,
+    "Num": 24,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "32": {
+    "Describe": "Modifiez {*val*} fois une compétence d'arme.",
+    "Id": 32,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "33": {
+    "Describe": "Modifiez {*val*} fois une compétence d'arme.",
+    "Id": 33,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "34": {
+    "Describe": "Équipez 2 pièces d'équipement de qualité légendaire ou supérieure.",
+    "Id": 34,
+    "Num": 1,
+    "Param": [4, 2],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "35": {
+    "Describe": "Équipez 4 pièces d'équipement de qualité légendaire ou supérieure.",
+    "Id": 35,
+    "Num": 1,
+    "Param": [4, 4],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "36": {
+    "Describe": "Équipez 3 Imagines.",
+    "Id": 36,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 152
+  },
+  "37": {
+    "Describe": "Équipez 6 Imagines.",
+    "Id": 37,
+    "Num": 1,
+    "Param": [6],
+    "SceneId": 0,
+    "TargetType": 152
+  },
+  "38": {
+    "Describe": "Déverrouillez le mode score de \"Chaotique - Sauver Tina\".",
+    "Id": 38,
+    "Num": 1,
+    "Param": [1021],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "39": {
+    "Describe": "Obtenez un score exceptionnel dans le mode score de \"Chaotique - Sauver Tina\".",
+    "Id": 39,
+    "Num": 4500,
+    "Param": [],
+    "SceneId": 1022,
+    "TargetType": 27
+  },
+  "4": {
+    "Describe": "Améliorez une arme au niv. 20.",
+    "Id": 4,
+    "Num": 1,
+    "Param": [1, 20],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "40": {
+    "Describe": "Terminez Mémoire planétaire 3 (Avancé) - Duel au sommet.",
+    "Id": 40,
+    "Num": 1,
+    "Param": [15501],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "41": {
+    "Describe": "Terminez Mémoire planétaire 12 (Normal) - Épreuve de dégâts.",
+    "Id": 41,
+    "Num": 1,
+    "Param": [19002],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "42": {
+    "Describe": "[Obsolète] Terminez Mémoire planétaire niv. 15.",
+    "Id": 42,
+    "Num": 1,
+    "Param": [15506],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "43": {
+    "Describe": "Terminez un total de {*val*} événements mondiaux.",
+    "Id": 43,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "44": {
+    "Describe": "Activez tous les téléportails d'\"Asterleeds\".",
+    "Id": 44,
+    "Num": 9,
+    "Param": [],
+    "SceneId": 8,
+    "TargetType": 153
+  },
+  "45": {
+    "Describe": "Activez tous les centres de Cœurs d'étoiles.",
+    "Id": 45,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "46": {
+    "Describe": "Restaurez la première rupture de n'importe quel Centre d'engrammes.",
+    "Id": 46,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "47": {
+    "Describe": "Terrassez {*val*} boss.",
+    "Id": 47,
+    "Num": 2,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "48": {
+    "Describe": "Terrassez {*val*} boss mondiaux sauvages.",
+    "Id": 48,
+    "Num": 1,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "49": {
+    "Describe": "Ouvrez {*val*} coffres.",
+    "Id": 49,
+    "Num": 100,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "5": {
+    "Describe": "Améliorez des compétences d'arme {*val*} fois au total.",
+    "Id": 5,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "50": {
+    "Describe": "Paressez {*val*} fois.",
+    "Id": 50,
+    "Num": 10,
+    "Param": [20000013, 20000014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "51": {
+    "Describe": "Effectuez {*val*} récoltes dans les plaines.",
+    "Id": 51,
+    "Num": 20,
+    "Param": [
+      20000001, 20000002, 20000003, 20000004, 20000005, 20000006, 20000007, 20000008, 20000009,
+      20000010, 20000011
+    ],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "52": {
+    "Describe": "Cuisinez {*val*} fois.",
+    "Id": 52,
+    "Num": 10,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 156
+  },
+  "53": {
+    "Describe": "Oserez-vous affronter la pleine puissance des monstres ?",
+    "Id": 53,
+    "Num": 1,
+    "Param": [90],
+    "SceneId": 0,
+    "TargetType": 170
+  },
+  "54": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 54,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "55": {
+    "Describe": "Terminez la quête principale \"Emprunter la voie pour arrêter la guerre\".",
+    "Id": 55,
+    "Num": 1,
+    "Param": [-2, 10217],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "56": {
+    "Describe": "Améliorez 4 armes au niv. 30.",
+    "Id": 56,
+    "Num": 1,
+    "Param": [4, 30],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "57": {
+    "Describe": "Améliorez des compétences d'arme {*val*} fois au total.",
+    "Id": 57,
+    "Num": 48,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "58": {
+    "Describe": "Modifiez {*val*} fois une compétence d'arme.",
+    "Id": 58,
+    "Num": 8,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "59": {
+    "Describe": "Atteignez le niveau d'objet 200.",
+    "Id": 59,
+    "Num": 1,
+    "Param": [200],
+    "SceneId": 0,
+    "TargetType": 159
+  },
+  "6": {
+    "Describe": "Améliorez des compétences d'arme {*val*} fois au total.",
+    "Id": 6,
+    "Num": 12,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "60": {
+    "Describe": "Effectuez {*val*} transcendance(s) de niveau d'objet.",
+    "Id": 60,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 158
+  },
+  "61": {
+    "Describe": "Effectuez {*val*} transcendance(s) de niveau d'objet.",
+    "Id": 61,
+    "Num": 3,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 158
+  },
+  "62": {
+    "Describe": "L'un des attributs du personnage parmi \"Force\", \"Ténacité\" et \"Bénédiction\" atteint 180.",
+    "Id": 62,
+    "Num": 1,
+    "Param": [180, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "63": {
+    "Describe": "Terminez un donjon {*val*} fois en groupe.",
+    "Id": 63,
+    "Num": 4,
+    "Param": [
+      15001, 15002, 15003, 15004, 15005, 15006, 15007, 15008, 15009, 15010, 15011, 15012, 15501,
+      15502, 15503, 15504, 15505, 15506, 15507, 15508, 16001, 16002, 16003, 16004, 16501, 16502,
+      16503, 16504, 17001, 17002, 17003, 17004, 17501, 17502, 17503, 17504, 17505, 18001, 18002,
+      18003, 18004, 18501, 18502, 18503, 18504, 19001, 19002, 19003, 19004, 19005, 1011, 1021, 1022,
+      1111, 1121, 1122
+    ],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "64": {
+    "Describe": "Terminez {*val*} fois \"Instable - Ruines imposantes\".",
+    "Id": 64,
+    "Num": 1,
+    "Param": [1111],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "65": {
+    "Describe": "Obtenez une note exceptionnelle dans le mode score \"Chaotique - Ruines imposantes\".",
+    "Id": 65,
+    "Num": 6500,
+    "Param": [],
+    "SceneId": 1122,
+    "TargetType": 27
+  },
+  "66": {
+    "Describe": "Terminez le Royaume chaotique {*val*} fois.",
+    "Id": 66,
+    "Num": 6,
+    "Param": [1022, 1122],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "67": {
+    "Describe": "Terminez Mémoire planétaire 19 (Normal) - Prise de territoire.",
+    "Id": 67,
+    "Num": 1,
+    "Param": [17505],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "68": {
+    "Describe": "Terminez un total de {*val*} événements mondiaux.",
+    "Id": 68,
+    "Num": 7,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "69": {
+    "Describe": "Terrassez {*val*} boss.",
+    "Id": 69,
+    "Num": 6,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "7": {
+    "Describe": "Équipez 3 pièces d'équipement de qualité rare ou supérieure.",
+    "Id": 7,
+    "Num": 1,
+    "Param": [2, 3],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "70": {
+    "Describe": "Terrassez {*val*} boss mondiaux sauvages.",
+    "Id": 70,
+    "Num": 2,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "71": {
+    "Describe": "Terminez {*val*} événements de détection de monstres.",
+    "Id": 71,
+    "Num": 4,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "72": {
+    "Describe": "Visitez {*val*} sites pittoresques.",
+    "Id": 72,
+    "Num": 6,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 128
+  },
+  "73": {
+    "Describe": "Restaurez toutes les ruptures de n'importe quel Centre d'engrammes.",
+    "Id": 73,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "74": {
+    "Describe": "Déverouillez {*val*} recettes.",
+    "Id": 74,
+    "Num": 5,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "75": {
+    "Describe": "L'eau qui porte le bateau est aussi celle qui le fait chavirer. Faites attention en jouant dans l'eau !",
+    "Id": 75,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 171
+  },
+  "76": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 76,
+    "Num": 4,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "77": {
+    "Describe": "L'un des attributs du personnage parmi \"Force\", \"Ténacité\" et \"Bénédiction\" atteint 210.",
+    "Id": 77,
+    "Num": 1,
+    "Param": [210, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "78": {
+    "Describe": "Obtenez {*val*} Imagines de combat légendaires différentes.",
+    "Id": 78,
+    "Num": 12,
+    "Param": [
+      5110101, 5110102, 5110103, 5110104, 5110105, 5110106, 5110107, 5110108, 5110109, 5110110,
+      5120101, 5120102, 5120103, 5120104, 5120105, 5120106, 5120107, 5120108, 5120109, 5120110,
+      5130101, 5130102, 5130103, 5130104, 5130105, 5130106, 5130107, 5130108, 5130109, 5130110,
+      5140101, 5140102, 5140103, 5140104, 5140105, 5140106, 5140107, 5140108, 5140109, 5140110,
+      5150101, 5150102, 5150103, 5150104, 5150105, 5150106, 5150107, 5150108, 5150109, 5150110
+    ],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "79": {
+    "Describe": "Terminez un donjon {*val*} fois en groupe.",
+    "Id": 79,
+    "Num": 12,
+    "Param": [
+      15001, 15002, 15003, 15004, 15005, 15006, 15007, 15008, 15009, 15010, 15011, 15012, 15501,
+      15502, 15503, 15504, 15505, 15506, 15507, 15508, 16001, 16002, 16003, 16004, 16501, 16502,
+      16503, 16504, 17001, 17002, 17003, 17004, 17501, 17502, 17503, 17504, 17505, 18001, 18002,
+      18003, 18004, 18501, 18502, 18503, 18504, 19001, 19002, 19003, 19004, 19005, 1011, 1021, 1022,
+      1111, 1121, 1122
+    ],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "8": {
+    "Describe": "Équipez 5 pièces d'équipement de qualité épique ou supérieure.",
+    "Id": 8,
+    "Num": 1,
+    "Param": [3, 5],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "80": {
+    "Describe": "Obtenez un score parfait dans le mode score \"Chaotique - Sauver Tina\".",
+    "Id": 80,
+    "Num": 7500,
+    "Param": [],
+    "SceneId": 1022,
+    "TargetType": 27
+  },
+  "81": {
+    "Describe": "Obtenez un score parfait dans le mode score \"Chaotique - Ruines imposantes\".",
+    "Id": 81,
+    "Num": 11000,
+    "Param": [],
+    "SceneId": 1122,
+    "TargetType": 27
+  },
+  "82": {
+    "Describe": "Obtenez une évaluation Or dans le défi d'équipe \"Chaotique - Sauver Tina\", avec 3 K.O. au maximum pour toute l'équipe.",
+    "Id": 82,
+    "Num": 1,
+    "Param": [3, 1022],
+    "SceneId": 0,
+    "TargetType": 162
+  },
+  "83": {
+    "Describe": "Obtenez une évaluation Or dans le défi d'équipe \"Chaotique - Ruines imposantes\", avec 3 K.O. au maximum pour toute l'équipe.",
+    "Id": 83,
+    "Num": 1,
+    "Param": [3, 1122],
+    "SceneId": 0,
+    "TargetType": 162
+  },
+  "84": {
+    "Describe": "Terminez Mémoire planétaire 38 (Normal) - Chasse aux monstres.",
+    "Id": 84,
+    "Num": 1,
+    "Param": [17001],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "85": {
+    "Describe": "Terminez un total de {*val*} événements mondiaux.",
+    "Id": 85,
+    "Num": 10,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "86": {
+    "Describe": "Dépensez {*val*} points du Bureau des pionniers.",
+    "Id": 86,
+    "Num": 1500000,
+    "Param": [10001],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "87": {
+    "Describe": "Dépensez {*val*} Lunos.",
+    "Id": 87,
+    "Num": 10000,
+    "Param": [10002],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "88": {
+    "Describe": "Terrassez {*val*} boss.",
+    "Id": 88,
+    "Num": 10,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "89": {
+    "Describe": "Éliminez {*val*} boss mondiaux sauvages.",
+    "Id": 89,
+    "Num": 4,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "9": {
+    "Describe": "Équipez-vous de deux armes.",
+    "Id": 9,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 124
+  },
+  "90": {
+    "Describe": "Ouvrez tous les coffres luxueux.",
+    "Id": 90,
+    "Num": 8,
+    "Param": [52003, 52011, 52012, 52013, 52014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "91": {
+    "Describe": "Ouvrez {*val*} coffres.",
+    "Id": 91,
+    "Num": 250,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "92": {
+    "Describe": "Quelle merveilleuse sensation que de voler, tel un pissenlit emporté par le vent...",
+    "Id": 92,
+    "Num": 1,
+    "Param": [30],
+    "SceneId": 0,
+    "TargetType": 344
+  },
+  "93": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 93,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "94": {
+    "Describe": "Niveau d'objet du personnage 210.",
+    "Id": 94,
+    "Num": 1,
+    "Param": [210],
+    "SceneId": 0,
+    "TargetType": 159
+  },
+  "95": {
+    "Describe": "L'un des attributs du personnage parmi \"Force\", \"Ténacité\" et \"Bénédiction\" atteint 240.",
+    "Id": 95,
+    "Num": 1,
+    "Param": [240, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "96": {
+    "Describe": "Obtenez {*val*} Imagines de combat légendaires différentes.",
+    "Id": 96,
+    "Num": 24,
+    "Param": [
+      5110101, 5110102, 5110103, 5110104, 5110105, 5110106, 5110107, 5110108, 5110109, 5110110,
+      5120101, 5120102, 5120103, 5120104, 5120105, 5120106, 5120107, 5120108, 5120109, 5120110,
+      5130101, 5130102, 5130103, 5130104, 5130105, 5130106, 5130107, 5130108, 5130109, 5130110,
+      5140101, 5140102, 5140103, 5140104, 5140105, 5140106, 5140107, 5140108, 5140109, 5140110,
+      5150101, 5150102, 5150103, 5150104, 5150105, 5150106, 5150107, 5150108, 5150109, 5150110
+    ],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "97": {
+    "Describe": "Terminez Mémoire planétaire 50 (Expert) - Duel au sommet.",
+    "Id": 97,
+    "Num": 1,
+    "Param": [15505],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "98": {
+    "Describe": "Déverrouillez un total de {*val*} tenues de garde-robe.",
+    "Id": 98,
+    "Num": 30,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 165
+  },
+  "99": {
+    "Describe": "Déverrouillez {*val*} emotes.",
+    "Id": 99,
+    "Num": 20,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 164
+  }
+}

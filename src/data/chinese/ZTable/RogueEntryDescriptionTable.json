@@ -1,0 +1,1326 @@
+{
+  "100001": {
+    "Content": "<style=\"emph-gn\">物理增效</style><style=\"accent-gn\">+40%</style>",
+    "Id": 100001
+  },
+  "100101": {
+    "Content": "<style=\"emph-gn\">魔法增效</style><style=\"accent-gn\">+40%</style>",
+    "Id": 100101
+  },
+  "100201": {
+    "Content": "使用终极技能时，所有技能<style=\"emph-gn\">冷却时间</style>加速<style=\"accent-gn\">100%</style>，<style=\"emph-gn\">战斗资源</style>回复提升<style=\"accent-gn\">100%</style>，持续<style=\"accent-gn\">20秒</style>",
+    "Id": 100201
+  },
+  "100301": {
+    "Content": "自身和<style=\"accent-gn\">10米</style>内的队友，攻击力<style=\"accent-gn\">+5%</style><br>范围内每有一个<style=\"emph-gn\">职责</style>，额外<style=\"accent-gn\">+5%</style>（上限<style=\"accent-gn\">20%</style>）",
+    "Id": 100301
+  },
+  "100401": {
+    "Content": "每次释放专精技能提高<style=\"accent-gn\">0.2%</style><style=\"emph-gn\">专精技能</style>伤害和治疗<br>最高可叠<style=\"accent-gn\">200层</style>，叠满后额外附加<style=\"accent-gn\">20%</style><style=\"emph-gn\">专精技能</style>伤害和治疗",
+    "Id": 100401
+  },
+  "100501": {
+    "Content": "每次释放特殊攻击提高<style=\"accent-gn\">0.2%</style><style=\"emph-gn\">特殊攻击</style>伤害和治疗<br>最高可叠<style=\"accent-gn\">200层</style>，叠满后额外附加<style=\"accent-gn\">20%</style><style=\"emph-gn\">特殊攻击</style>伤害和治疗",
+    "Id": 100501
+  },
+  "100601": {
+    "Content": "自身<style=\"emph-gn\">急速</style><style=\"accent-gn\">+20%</style>，战斗中移动每秒损失<style=\"accent-gn\">8%</style>生命",
+    "Id": 100601
+  },
+  "100701": {
+    "Content": "每<style=\"accent-gn\">200</style>点急速值，减少<style=\"emph-gn\">终极技能</style><style=\"accent-gn\">1%</style>冷却时间（上限<style=\"accent-gn\">50%</style>）",
+    "Id": 100701
+  },
+  "100801": {
+    "Content": "击败目标，减少<style=\"emph-gn\">专精技能</style><style=\"accent-gn\">10%</style>剩余冷却时间",
+    "Id": 100801
+  },
+  "100901": {
+    "Content": "释放<style=\"emph-gn\">特殊攻击</style>，减少<style=\"emph-gn\">专精技能</style><style=\"accent-gn\">0.5秒</style>剩余冷却时间",
+    "Id": 100901
+  },
+  "101001": {
+    "Content": "<style=\"emph-gn\">击败</style>目标，<style=\"emph-gn\">暴击伤害</style><style=\"accent-gn\">+10%</style>（上限<style=\"accent-gn\">30%</style>），持续<style=\"accent-gn\">5秒</style>",
+    "Id": 101001
+  },
+  "101101": {
+    "Content": "对生命值<style=\"accent-gn\">80%</style>以上的目标，造成的<style=\"emph-gn\">暴击伤害</style><style=\"accent-gn\">+60%</style>",
+    "Id": 101101
+  },
+  "101201": {
+    "Content": "<style=\"emph-gn\">攻击力</style><style=\"accent-gn\">+25%</style>，若生命值大于<style=\"accent-gn\">30%</style>，攻击时消耗自身<style=\"accent-gn\">2.5%</style>生命值",
+    "Id": 101201
+  },
+  "101301": {
+    "Content": "每损失<style=\"accent-gn\">1%</style>生命值，增加<style=\"accent-gn\">0.3%</style><style=\"emph-gn\">攻击力</style>，每持有一个「血怒」词条该效果增加<style=\"accent-gn\">0.1%</style>",
+    "Id": 101301
+  },
+  "101401": {
+    "Content": "攻击造成<style=\"emph-gn\">幸运一击</style>触发<style=\"emph-gn\">「气爆」</style>：爆炸造成自身已损生命<style=\"accent-gn\">20%</style>的伤害，冷却时间<style=\"accent-gn\">1秒</style>",
+    "Id": 101401
+  },
+  "101501": {
+    "Content": "生命值低于<style=\"accent-gn\">30%</style>后，<style=\"emph-gn\">伤害</style>的<style=\"accent-gn\">10%</style>转化为<style=\"emph-gn\">护盾</style>，护盾可叠加，不超过生命上限的<style=\"accent-gn\">100%</style>",
+    "Id": 101501
+  },
+  "101601": {
+    "Content": "<style=\"emph-gn\">濒死</style>触发<style=\"emph-gn\">「无敌」</style>和<style=\"emph-gn\">「加速」</style>，持续<style=\"accent-gn\">3秒</style>，冷却时间<style=\"accent-gn\">20秒</style>",
+    "Id": 101601
+  },
+  "101701": {
+    "Content": "攻击时触发<style=\"emph-gn\">「血战」</style>：<style=\"emph-gn\">攻击力</style><style=\"accent-gn\">+20%</style>，期间不会死亡，持续<style=\"accent-gn\">3秒</style>",
+    "Id": 101701
+  },
+  "101801": {
+    "Content": "<style=\"emph-gn\">攻击力</style><style=\"accent-gn\">+25%</style>，每秒对自身造成<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">1%</style>的伤害",
+    "Id": 101801
+  },
+  "101901": {
+    "Content": "每<style=\"accent-gn\">3秒</style>造成<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">20%</style>的范围伤害",
+    "Id": 101901
+  },
+  "102001": {
+    "Content": "增加自身<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">0.3%</style>的<style=\"emph-gn\">攻击力</style>",
+    "Id": 102001
+  },
+  "102101": {
+    "Content": "攻击造成<style=\"emph-gn\">幸运一击</style>获得<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">20%</style>的<style=\"emph-gn\">护盾</style>",
+    "Id": 102101
+  },
+  "102201": {
+    "Content": "受击反弹<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">10%</style>的范围伤害",
+    "Id": 102201
+  },
+  "102301": {
+    "Content": "受击时减少所有技能剩余<style=\"emph-gn\">冷却时间</style><style=\"accent-gn\">1秒</style>",
+    "Id": 102301
+  },
+  "102401": {
+    "Content": "<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">+100%</style>，每秒对自身造成<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">1%</style>的伤害",
+    "Id": 102401
+  },
+  "102501": {
+    "Content": "职业技能造成伤害时，额外附加一次敌人<style=\"emph-gn\">当前生命值</style><style=\"accent-gn\">0.2%</style>的伤害",
+    "Id": 102501
+  },
+  "102601": {
+    "Content": "每携带1个<style=\"emph-gn\">诅咒词条</style>，<style=\"emph-gn\">物理防御</style><style=\"accent-gn\">+10%</style>",
+    "Id": 102601
+  },
+  "102701": {
+    "Content": "增加自身<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">3%</style>的<style=\"emph-gn\">物理防御</style>",
+    "Id": 102701
+  },
+  "102801": {
+    "Content": "受击反弹<style=\"emph-gn\">物理防御</style><style=\"accent-gn\">400%</style>的范围伤害",
+    "Id": 102801
+  },
+  "102901": {
+    "Content": "对治疗目标周围造成职业技能<style=\"accent-gn\">100%</style>治疗量的伤害（每<style=\"accent-gn\">1秒</style>触发1次，期间治疗量会被累计）",
+    "Id": 102901
+  },
+  "103001": {
+    "Content": "每释放<style=\"accent-gn\">10次</style><style=\"emph-gn\">特殊攻击</style>，永久提高<style=\"accent-gn\">1%</style><style=\"emph-gn\">治疗量</style>（上限<style=\"accent-gn\">30%</style>）",
+    "Id": 103001
+  },
+  "103101": {
+    "Content": "10米内的队友，每<style=\"accent-gn\">10秒</style>获得<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">20%</style>的<style=\"emph-gn\">护盾</style>",
+    "Id": 103101
+  },
+  "103201": {
+    "Content": "10米内的敌人，<style=\"emph-gn\">易伤</style><style=\"accent-gn\">+10%</style>",
+    "Id": 103201
+  },
+  "103301": {
+    "Content": "每<style=\"accent-gn\">5秒</style>对10米内的敌人造成<style=\"emph-gn\">眩晕</style>，持续<style=\"accent-gn\">1秒</style>",
+    "Id": 103301
+  },
+  "103401": {
+    "Content": "攻击造成<style=\"emph-gn\">幸运一击</style>触发<style=\"emph-gn\">「落雷」</style>：落雷造成<style=\"emph-gn\">攻击力</style><style=\"accent-gn\">45%</style>的伤害，冷却时间<style=\"accent-gn\">1秒</style>",
+    "Id": 103401
+  },
+  "103501": {
+    "Content": "攻击造成<style=\"emph-gn\">幸运一击</style>触发<style=\"emph-gn\">「剑刃风暴」</style>：剑刃造成<style=\"emph-gn\">攻击力</style><style=\"accent-gn\">45%</style>的伤害，冷却时间<style=\"accent-gn\">1秒</style>",
+    "Id": 103501
+  },
+  "103601": {
+    "Content": "攻击造成<style=\"emph-gn\">幸运一击</style>触发<style=\"emph-gn\">「燃爆」</style>：爆炸造成<style=\"emph-gn\">攻击力</style><style=\"accent-gn\">45%</style>的伤害，冷却时间<style=\"accent-gn\">1秒</style>",
+    "Id": 103601
+  },
+  "103701": {
+    "Content": "攻击造成<style=\"emph-gn\">幸运一击</style>触发<style=\"emph-gn\">「闪电链」</style>：闪电造成<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">1%</style>的伤害，冷却时间<style=\"accent-gn\">1秒</style>",
+    "Id": 103701
+  },
+  "103801": {
+    "Content": "<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+30%</style>，常驻暴击超过<style=\"accent-gn\">50%</style>的部分，每<style=\"accent-gn\">2%</style>会转换为<style=\"accent-gn\">1%</style><style=\"emph-gn\">暴击伤害</style>（上限<style=\"accent-gn\">50%</style>）",
+    "Id": 103801
+  },
+  "103901": {
+    "Content": "<style=\"emph-gn\">暴击伤害</style>翻倍",
+    "Id": 103901
+  },
+  "104001": {
+    "Content": "暴击时，在目标处额外造成一次<style=\"accent-gn\">200%</style>攻击力且必定暴击的范围伤害（冷却时间<style=\"accent-gn\">1秒</style>），每持有一个【暴虐】词条，该伤害最终伤害<style=\"accent-gn\">+50%</style>",
+    "Id": 104001
+  },
+  "104101": {
+    "Content": "暴击时减少所有技能<style=\"accent-gn\">0.5秒</style>冷却时间（每<style=\"accent-gn\">1秒</style>至多触发1次）",
+    "Id": 104101
+  },
+  "104201": {
+    "Content": "暴击时叠加「死神印记」， 印记<style=\"accent-gn\">20层</style>时<style=\"emph-gn\">暴击伤害</style><style=\"accent-gn\">+30%</style>，持续<style=\"accent-gn\">5秒</style>",
+    "Id": 104201
+  },
+  "104301": {
+    "Content": "专精技能<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+50%</style>",
+    "Id": 104301
+  },
+  "104401": {
+    "Content": "特殊攻击<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+50%</style>",
+    "Id": 104401
+  },
+  "104501": {
+    "Content": "暴击时恢复自身<style=\"accent-gn\">1%</style>生命值（冷却时间<style=\"accent-gn\">0.1秒</style>）",
+    "Id": 104501
+  },
+  "104601": {
+    "Content": "造成伤害未暴击时， 使<style=\"emph-gn\">暴击</style>提升<style=\"accent-gn\">50%</style>， 暴击后移除",
+    "Id": 104601
+  },
+  "104701": {
+    "Content": "释放终极技能后，<style=\"accent-gn\">15秒</style>内， 所有伤害必定暴击",
+    "Id": 104701
+  },
+  "104801": {
+    "Content": "受到治疗时，<style=\"accent-gn\">5秒</style>内<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+20%</style>",
+    "Id": 104801
+  },
+  "104901": {
+    "Content": "每击杀一只怪物，<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+0.3%</style>（上限<style=\"accent-gn\">100层</style>）",
+    "Id": 104901
+  },
+  "105001": {
+    "Content": "终极技能<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+50%</style>",
+    "Id": 105001
+  },
+  "105101": {
+    "Content": "暴击时，在目标处触发一个<style=\"accent-gn\">200%</style>攻击力且必定造成幸运一击的范围伤害（冷却时间<style=\"accent-gn\">1秒</style>）",
+    "Id": 105101
+  },
+  "105201": {
+    "Content": "每次暴击时，<style=\"emph-gn\">元素伤害</style>提高<style=\"accent-gn\">1%</style>，持续<style=\"accent-gn\">5秒</style>，可叠<style=\"accent-gn\">15层</style>",
+    "Id": 105201
+  },
+  "105301": {
+    "Content": "每次暴击时，<style=\"emph-gn\">攻击速度</style>提高<style=\"accent-gn\">1%</style>，<style=\"emph-gn\">施法速度</style>提高<style=\"accent-gn\">2%</style>，可叠<style=\"accent-gn\">15层</style>",
+    "Id": 105301
+  },
+  "105401": {
+    "Content": "进入战斗的第一次暴击，<style=\"emph-gn\">暴击伤害</style>提高<style=\"accent-gn\">500%</style>",
+    "Id": 105401
+  },
+  "105501": {
+    "Content": "每暴击<style=\"accent-gn\">3次</style>，下次暴击的<style=\"emph-gn\">暴击伤害</style>提高<style=\"accent-gn\">50%</style>，并重置计数",
+    "Id": 105501
+  },
+  "105601": {
+    "Content": "<style=\"emph-gn\">暴击伤害</style><style=\"accent-gn\">+20%</style>",
+    "Id": 105601
+  },
+  "105701": {
+    "Content": "<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+10%</style>",
+    "Id": 105701
+  },
+  "105801": {
+    "Content": "特殊攻击暴击时，召唤一个姆克头目战斗幻想（冷却时间<style=\"accent-gn\">15秒</style>）",
+    "Id": 105801
+  },
+  "105901": {
+    "Content": "幸运效果：在目标处造成一次<style=\"accent-gn\">200%</style>攻击力范围伤害（冷却时间<style=\"accent-gn\">0.5秒</style>），每持有一个「幸运」词条，该伤害最终伤害<style=\"accent-gn\">+50%</style>",
+    "Id": 105901
+  },
+  "106001": {
+    "Content": "<style=\"emph-gn\">幸运效果伤害</style>提高<style=\"accent-gn\">30%</style>，每持有一个「幸运」词条，额外提高<style=\"accent-gn\">8%</style>",
+    "Id": 106001
+  },
+  "106101": {
+    "Content": "进入战斗后，每隔<style=\"accent-gn\">1秒</style>，提升自身<style=\"accent-gn\">5%</style><style=\"emph-gn\">幸运</style>，最多可叠<style=\"accent-gn\">20层</style>",
+    "Id": 106101
+  },
+  "106201": {
+    "Content": "幸运效果：获得<style=\"accent-gn\">20%</style><style=\"emph-gn\">生命上限</style>的<style=\"emph-gn\">护盾</style>，持续<style=\"accent-gn\">2秒</style>",
+    "Id": 106201
+  },
+  "106301": {
+    "Content": "造成伤害时，对主目标每触发<style=\"accent-gn\">50次</style>幸运一击，接下来<style=\"accent-gn\">15秒</style>，所有技能<style=\"emph-gn\">冷却加速</style><style=\"accent-gn\">+100%</style>（期间不计数）",
+    "Id": 106301
+  },
+  "106401": {
+    "Content": "进入战斗<style=\"accent-gn\">30秒</style>内， 造成伤害必定触发幸运一击",
+    "Id": 106401
+  },
+  "106501": {
+    "Content": "伤害或治疗触发幸运一击时，下次幸运一击<style=\"emph-gn\">攻击力</style><style=\"accent-gn\">+40%</style>",
+    "Id": 106501
+  },
+  "106601": {
+    "Content": "幸运一击必定<style=\"emph-gn\">暴击</style>",
+    "Id": 106601
+  },
+  "106701": {
+    "Content": "伤害或治疗触发幸运一击时，<style=\"emph-gn\">元素伤害</style>提高<style=\"accent-gn\">1%</style>，持续<style=\"accent-gn\">5秒</style>，可叠<style=\"accent-gn\">15层</style>",
+    "Id": 106701
+  },
+  "106801": {
+    "Content": "伤害或治疗触发幸运一击时，<style=\"emph-gn\">攻击速度</style>提高<style=\"accent-gn\">1%</style>，<style=\"emph-gn\">施法速度</style>提高<style=\"accent-gn\">2%</style>，可叠<style=\"accent-gn\">15层</style>",
+    "Id": 106801
+  },
+  "106901": {
+    "Content": "每击杀一只怪物，<style=\"emph-gn\">幸运</style><style=\"accent-gn\">+0.3%</style>（上限<style=\"accent-gn\">100层</style>）",
+    "Id": 106901
+  },
+  "107001": {
+    "Content": "每隔<style=\"accent-gn\">15秒</style>，<style=\"emph-gn\">幸运一击伤害</style><style=\"accent-gn\">+40%</style>，持续<style=\"accent-gn\">8秒</style>",
+    "Id": 107001
+  },
+  "107101": {
+    "Content": "<style=\"emph-gn\">幸运一击伤害</style><style=\"accent-gn\">+20%</style>",
+    "Id": 107101
+  },
+  "107201": {
+    "Content": "<style=\"emph-gn\">幸运</style><style=\"accent-gn\">+10%</style>",
+    "Id": 107201
+  },
+  "107301": {
+    "Content": "造成伤害触发幸运一击时，召唤风哥布林王助战（冷却时间<style=\"accent-gn\">20秒</style>）",
+    "Id": 107301
+  },
+  "107401": {
+    "Content": "终极技能触发幸运一击时，召唤蜥蜴人猎手（冷却时间<style=\"accent-gn\">20秒</style>）",
+    "Id": 107401
+  },
+  "107501": {
+    "Content": "战斗幻想<style=\"emph-gn\">冷却时间</style>减少<style=\"accent-gn\">80%</style>",
+    "Id": 107501
+  },
+  "107601": {
+    "Content": "战斗幻想造成的<style=\"emph-gn\">伤害</style>提高<style=\"accent-gn\">200%</style>",
+    "Id": 107601
+  },
+  "107701": {
+    "Content": "战斗幻想造成的伤害必定暴击且<style=\"emph-gn\">暴击伤害</style><style=\"accent-gn\">+50%</style>",
+    "Id": 107701
+  },
+  "107801": {
+    "Content": "战斗幻想获得<style=\"accent-gn\">100%</style><style=\"emph-gn\">元素伤害</style>加成",
+    "Id": 107801
+  },
+  "107901": {
+    "Content": "战斗幻想<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+80%</style>",
+    "Id": 107901
+  },
+  "108001": {
+    "Content": "每释放一个战斗幻想永久提高<style=\"accent-gn\">0.5%</style><style=\"emph-gn\">攻击力</style>（上限<style=\"accent-gn\">60层</style>）",
+    "Id": 108001
+  },
+  "108101": {
+    "Content": "自身造成最终伤害<style=\"accent-gn\">-40%</style>，战斗幻想造成的最终伤害<style=\"accent-gn\">+40%</style>",
+    "Id": 108101
+  },
+  "108201": {
+    "Content": "战斗幻想造成伤害的<style=\"accent-gn\">5%</style>会治疗自己",
+    "Id": 108201
+  },
+  "108301": {
+    "Content": "战斗幻想<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+20%</style>",
+    "Id": 108301
+  },
+  "108401": {
+    "Content": "释放特殊攻击，随机召唤一个<style=\"emph-gn\">哥布林幻想</style>（冷却时间<style=\"accent-gn\">20秒</style>）",
+    "Id": 108401
+  },
+  "108501": {
+    "Content": "释放专精技能，随机召唤一个<style=\"emph-gn\">动物幻想</style>（冷却时间<style=\"accent-gn\">20秒</style>）",
+    "Id": 108501
+  },
+  "108601": {
+    "Content": "释放战斗幻想时，会同步召唤一个<style=\"emph-gn\">弩箭哥布林幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 108601
+  },
+  "108701": {
+    "Content": "释放终极技能时，随机召唤一个<style=\"emph-gn\">高原角色幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 108701
+  },
+  "108801": {
+    "Content": "自身每同时存在一个战斗幻想增益效果，自身<style=\"emph-gn\">伤害</style>提高<style=\"accent-gn\">4%</style>，<style=\"emph-gn\">受到伤害</style>减少<style=\"accent-gn\">2%</style>",
+    "Id": 108801
+  },
+  "108901": {
+    "Content": "释放终极技能时，会同步召唤一个<style=\"emph-gn\">姆克兵长幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 108901
+  },
+  "109001": {
+    "Content": "生命值低于<style=\"accent-gn\">50%</style>时，召唤<style=\"emph-gn\">姆克王幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 109001
+  },
+  "109101": {
+    "Content": "每隔<style=\"accent-gn\">60秒</style>自动召唤<style=\"emph-gn\">蒂娜幻想</style>",
+    "Id": 109101
+  },
+  "109201": {
+    "Content": "进入战斗时，立刻召唤<style=\"emph-gn\">雷电食人魔幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 109201
+  },
+  "109301": {
+    "Content": "伤害或治疗触发幸运一击时，随机召唤一个<style=\"emph-gn\">幸运幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 109301
+  },
+  "109401": {
+    "Content": "战斗幻想<style=\"emph-gn\">幸运</style><style=\"accent-gn\">+40%</style>",
+    "Id": 109401
+  },
+  "109501": {
+    "Content": "职业技能造成伤害会恢复周围队友<style=\"accent-gn\">1%</style>的生命值，同时提供<style=\"accent-gn\">15%</style><style=\"emph-gn\">攻击力</style>加成，持续<style=\"accent-gn\">3秒</style>（冷却时间<style=\"accent-gn\">0.3秒</style>）",
+    "Id": 109501
+  },
+  "109601": {
+    "Content": "自身获得元素伤害变化时，提升周围队友<style=\"accent-gn\">20%</style><style=\"emph-gn\">元素伤害</style>，持续<style=\"accent-gn\">10秒</style>",
+    "Id": 109601
+  },
+  "109701": {
+    "Content": "自身获得<style=\"emph-gn\">暴击/幸运/急速/精通/全能</style>变化时，提升周围队友对应属性<style=\"accent-gn\">10%</style>，持续<style=\"accent-gn\">10秒</style>",
+    "Id": 109701
+  },
+  "109801": {
+    "Content": "周围15米内每存在一个队友，自身<style=\"emph-gn\">伤害</style>提高<style=\"accent-gn\">8%</style>，<style=\"emph-gn\">受到伤害</style>减少<style=\"accent-gn\">4%</style>",
+    "Id": 109801
+  },
+  "109901": {
+    "Content": "造成治疗时，会给目标提供<style=\"accent-gn\">10%</style><style=\"emph-gn\">物理增效</style>和<style=\"emph-gn\">魔法增效</style>，持续<style=\"accent-gn\">3秒</style>",
+    "Id": 109901
+  },
+  "110001": {
+    "Content": "释放终极技能会获得<style=\"accent-gn\">15秒</style>资源光环，持续期间内周围队友<style=\"emph-gn\">战斗资源获取效率</style><style=\"accent-gn\">+100%</style>（同时仅可生效一个）",
+    "Id": 110001
+  },
+  "110101": {
+    "Content": "造成治疗时，会给目标提供<style=\"accent-gn\">10%</style><style=\"emph-gn\">伤害减免</style>，持续<style=\"accent-gn\">3秒</style>",
+    "Id": 110101
+  },
+  "110201": {
+    "Content": "周围10米范围内的敌方单位造成的伤害降低<style=\"accent-gn\">10%</style>",
+    "Id": 110201
+  },
+  "110301": {
+    "Content": "造成治疗时，额外附加一个<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">20%</style>的<style=\"emph-gn\">护盾</style>，持续<style=\"accent-gn\">10秒</style>，每个目标<style=\"accent-gn\">10秒</style>内至多获得1次该护盾",
+    "Id": 110301
+  },
+  "110401": {
+    "Content": "<style=\"emph-gn\">治疗强度</style><style=\"accent-gn\">+15%</style>",
+    "Id": 110401
+  },
+  "110501": {
+    "Content": "<style=\"emph-gn\">护盾强度</style><style=\"accent-gn\">+15%</style>",
+    "Id": 110501
+  },
+  "110601": {
+    "Content": "每<style=\"accent-gn\">10%</style><style=\"emph-gn\">治疗强度</style>转换为<style=\"accent-gn\">5%</style><style=\"emph-gn\">全元素加成</style>",
+    "Id": 110601
+  },
+  "110701": {
+    "Content": "释放终极技能时，获得持续<style=\"accent-gn\">10秒</style>的治愈光环，每秒对周围15米内的队友造成攻击力<style=\"accent-gn\">100%</style>的治疗（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 110701
+  },
+  "110801": {
+    "Content": "释放专精技能时，获得持续<style=\"accent-gn\">10秒</style>的幸运光环，给周围15米内的队友添加<style=\"emph-gn\">蜥蜴人猎手幻想</style>被动效果（冷却时间<style=\"accent-gn\">30秒</style>，同时仅可生效一个）",
+    "Id": 110801
+  },
+  "110901": {
+    "Content": "释放特殊攻击时，获得持续<style=\"accent-gn\">5秒</style>的暴击光环，使得周围15米内队友<style=\"emph-gn\">暴击</style><style=\"accent-gn\">+3%</style>",
+    "Id": 110901
+  },
+  "111001": {
+    "Content": "职业技能造成治疗时会积累伤害，当积累达到攻击力<style=\"accent-gn\">10000%</style>时，下次造成伤害会额外造成一次范围伤害，伤害等同于积累值（每<style=\"accent-gn\">1秒</style>至多触发1次）",
+    "Id": 111001
+  },
+  "111101": {
+    "Content": "每秒对周围一个随机目标造成伤害，伤害等于这期间内你的职业技能造成的<style=\"emph-gn\">治疗量</style>",
+    "Id": 111101
+  },
+  "111201": {
+    "Content": "造成治疗时，召唤一个<style=\"emph-gn\">巴西利斯克幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 111201
+  },
+  "111301": {
+    "Content": "造成治疗时，召唤一个<style=\"emph-gn\">山贼首领幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 111301
+  },
+  "111401": {
+    "Content": "受到伤害时，召唤一个<style=\"emph-gn\">蜂巢幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 111401
+  },
+  "111501": {
+    "Content": "居合斩造成伤害必定触发刃风界域，刃风界域缩减极诣·大破灭连斩剩余冷却时间效果+300%，刃风界域场上最多同时存在一个（需要习得刃风界域天赋）<br><br>仅在[噩梦]难度出现",
+    "Id": 111501
+  },
+  "111601": {
+    "Content": "雷之印上限翻倍，超高出力回复雷之印效率+300%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 111601
+  },
+  "111701": {
+    "Content": "居合斩冷却时间-50%，居合斩破妄伤害+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 111701
+  },
+  "111801": {
+    "Content": "终极一斩暴击伤害翻倍<br><br>仅在[噩梦]难度出现",
+    "Id": 111801
+  },
+  "111901": {
+    "Content": "施放坠龙闪，神影斩会延长无穷雷霆之力10秒持续时间，坠龙闪，神影斩破妄伤害+500%<br><br>仅在[噩梦]难度出现",
+    "Id": 111901
+  },
+  "112001": {
+    "Content": "无穷雷霆之力期间，一闪，飞雷神暴击时会刷新一闪和飞雷神的冷却时间一闪，飞雷神破妄伤害+50%<br><br>仅在[噩梦]难度出现",
+    "Id": 112001
+  },
+  "112101": {
+    "Content": "雷切移动速度-50%，雷切破妄伤害+60%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 112101
+  },
+  "112201": {
+    "Content": "获得雷压效率翻倍<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 112201
+  },
+  "112301": {
+    "Content": "月影不再消耗雷之印，且释放月影时会触发雷霆之镰（需要习得雷霆之镰天赋）<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 112301
+  },
+  "112401": {
+    "Content": "神罚之镰计数上限+7层，施放神罚之镰时会消耗所有层数，每消耗一层破妄伤害+15%<br><br>仅在[噩梦]难度出现",
+    "Id": 112401
+  },
+  "112501": {
+    "Content": "施放神罚之镰时，月刃会同步召唤神罚之镰<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 112501
+  },
+  "112601": {
+    "Content": "月刃上限+2<br><br>仅在[噩梦]难度出现",
+    "Id": 112601
+  },
+  "112701": {
+    "Content": "每触发5次雷击，下次雷击会额外触发一次雷暴<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 112701
+  },
+  "112801": {
+    "Content": "神罚之镰会自动释放，且每次释放神罚之镰减少千雷闪影之意2秒冷却时间<br><br>仅在[噩梦]难度出现",
+    "Id": 112801
+  },
+  "112901": {
+    "Content": "雷击，雷霆之镰现在可以触发幸运一击<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 112901
+  },
+  "113001": {
+    "Content": "幸运一击倍率+100%，幸运增效翻倍<br><br>仅在[噩梦]难度出现",
+    "Id": 113001
+  },
+  "113101": {
+    "Content": "寒冰射线命中目标时(命中多个仅计算一次)，冰冷脉冲计数+5，冰冷脉冲暴击伤害+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 113101
+  },
+  "113201": {
+    "Content": "每次触发冰冷脉冲时，冰之灌注冷却时间减少1秒<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 113201
+  },
+  "113301": {
+    "Content": "冰冷脉冲造成伤害时(命中多个仅计算一次)，永久提升自身2点冰元素攻击<br><br>仅在[噩梦]难度出现",
+    "Id": 113301
+  },
+  "113401": {
+    "Content": "冰冷脉冲造成伤害时(命中多个仅计算一次)，提升冰箭5%的伤害，持续5秒，最高可叠50层<br><br>仅在[噩梦]难度出现",
+    "Id": 113401
+  },
+  "113501": {
+    "Content": "极寒状态下冻结寒风获得冰之灌注，冻结寒风破妄伤害+200%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 113501
+  },
+  "113601": {
+    "Content": "寒冰射线对主目标每造成10次伤害，会随机触发水旋涡，水龙卷，清滝绕珠（需携带），寒冰射线破妄伤害+100%<br><br>仅在[噩梦]难度出现",
+    "Id": 113601
+  },
+  "113701": {
+    "Content": "清滝绕珠冻结爆炸时会在原地生成一个持续5秒的水龙卷（不会重复分裂），触发结冰时，减少清滝绕珠3秒冷却时间<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 113701
+  },
+  "113801": {
+    "Content": "水龙卷冻结爆炸后，会分裂成两个水龙卷（不会重复分裂），水龙卷破妄伤害+200%<br><br>仅在[噩梦]难度出现",
+    "Id": 113801
+  },
+  "113901": {
+    "Content": "清滝绕珠每1.5秒随机朝一个目标释放贯穿冰矛（无目标朝前释放），贯穿冰矛造成伤害减少清滝绕珠0.3秒冷却时间<br><br>仅在[噩梦]难度出现",
+    "Id": 113901
+  },
+  "114001": {
+    "Content": "贯穿冰矛需要的计数-5<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 114001
+  },
+  "114101": {
+    "Content": "释放冰矛时，如果玄冰数量大于2则额外消耗1颗玄冰，连续触发两次召唤冰矛，冰霜之矛破妄伤害+50%<br><br>仅在[噩梦]难度出现",
+    "Id": 114101
+  },
+  "114201": {
+    "Content": "贯穿冰矛造成伤害时，减少冰之灌注0.3秒的冷却时间<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 114201
+  },
+  "114301": {
+    "Content": "施放清滝绕珠时，附带寒冰风暴，寒冰风暴造成伤害时候减少清滝绕珠0.3秒冷却时间<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 114301
+  },
+  "114401": {
+    "Content": "寒冰风暴变为瞬发，且一次召唤三个，寒冰风暴破妄伤害+200%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 114401
+  },
+  "114501": {
+    "Content": "每施放5次陨星风暴，将召唤终极大招的陨石，并立即使寒冰风暴冷却，减少冰之灌注5秒冷却时间大招破妄伤害+200%<br><br>仅在[噩梦]难度出现",
+    "Id": 114501
+  },
+  "114601": {
+    "Content": "自身永久处于双倍伤害的无尽苦寒状态，每拥有一个玄冰额外提高10%攻速<br><br>仅在[噩梦]难度出现",
+    "Id": 114601
+  },
+  "114701": {
+    "Content": "你的终极大招附带群兽奔腾，消耗自身所有光能召唤野狼，每消耗20召唤一只，持续8秒<br><br>仅在[噩梦]难度出现",
+    "Id": 114701
+  },
+  "114801": {
+    "Content": "传奇野兽会同时登场，且效果+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 114801
+  },
+  "114901": {
+    "Content": "每召唤一只野狼会减少精神凝聚5秒的冷却时间<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 114901
+  },
+  "115001": {
+    "Content": "宠物获得物理增效+50%<br><br>仅在[噩梦]难度出现",
+    "Id": 115001
+  },
+  "115101": {
+    "Content": "箭雨攻击倍率提升10倍，且场上存在超过3个宠物时，每超出一个最终伤害+100%<br><br>仅在[噩梦]难度出现",
+    "Id": 115101
+  },
+  "115201": {
+    "Content": "怒涛射击必定暴击，且每有1%暴击率提升10%暴击伤害<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 115201
+  },
+  "115301": {
+    "Content": "幻影魔狼现在视为野兽<br><br>仅在[噩梦]难度出现",
+    "Id": 115301
+  },
+  "115401": {
+    "Content": "暴风箭矢必定暴击，天赋驯兽流效果修改为暴风箭矢暴击伤害+300%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 115401
+  },
+  "115501": {
+    "Content": "猎鹰造成伤害回复1点光能， 且宠物伤害+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 115501
+  },
+  "115601": {
+    "Content": "爆炸箭引爆前无法重复释放，爆炸箭叠层上限移除，且猎鹰出击叠层效率翻倍<br><br>仅在[噩梦]难度出现",
+    "Id": 115601
+  },
+  "115701": {
+    "Content": "猎鹰出击每次造成伤害会延长精神凝聚0.3秒持续时间， 且精神凝聚期间宠物暴击伤害+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 115701
+  },
+  "115801": {
+    "Content": "狂野呼唤现在会召唤两只猎鹰<br><br>仅在[噩梦]难度出现",
+    "Id": 115801
+  },
+  "115901": {
+    "Content": "聚能射击现在变为前方三方向， 距离越近伤害越高（最高+100%，最低+10%）<br><br>仅在[噩梦]难度出现",
+    "Id": 115901
+  },
+  "116001": {
+    "Content": "聚能射击元素伤害+100%对80%生命值以上目标破妄伤害+500%<br><br>仅在[噩梦]难度出现",
+    "Id": 116001
+  },
+  "116101": {
+    "Content": "施放精神凝聚后下一次聚能射击变为二连射，且每次释放聚能射击减少精神凝聚3秒冷却时间<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 116101
+  },
+  "116201": {
+    "Content": "每暴击一次缩减光能轰炸0.2秒冷却时间， 光能轰炸暴击伤害+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 116201
+  },
+  "116301": {
+    "Content": "再生脉冲会给目标上荆棘。荆棘，狂野之种可以触发幸运一击<br><br>仅在[噩梦]难度出现",
+    "Id": 116301
+  },
+  "116401": {
+    "Content": "不羁之种冷却时间-90%，不羁之种释放速度+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 116401
+  },
+  "116501": {
+    "Content": "再生脉冲必定暴击，且暴击伤害+2000%<br><br>仅在[噩梦]难度出现",
+    "Id": 116501
+  },
+  "116601": {
+    "Content": "获得鹿之奔袭时自动触发，且特殊攻击破妄伤害+400%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 116601
+  },
+  "116701": {
+    "Content": "灌注会额外对周围5个目标发射子弹灌注破妄伤害+100%<br><br>仅在[噩梦]难度出现",
+    "Id": 116701
+  },
+  "116801": {
+    "Content": "自动触发的鹿之奔袭，可以触发天赋效果每次触发鹿之奔袭，接下来一段时间，专精技能伤害和幸运伤害+10%，可叠10层<br><br>仅在[噩梦]难度出现",
+    "Id": 116801
+  },
+  "116901": {
+    "Content": "灌注每命中目标10次，触发盛放注能<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 116901
+  },
+  "117001": {
+    "Content": "灌注命中目标，获得幸运一击破妄伤害+1%，可叠50层，持续5秒<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 117001
+  },
+  "117101": {
+    "Content": "滋养之种召唤的盛放注能伤害范围翻倍，且破妄伤害+1000%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 117101
+  },
+  "117201": {
+    "Content": "森之祈愿期间会持续获得再生蓓蕾 且森之祈愿冷却加速+100%<br><br>仅在[噩梦]难度出现",
+    "Id": 117201
+  },
+  "117301": {
+    "Content": "施放终极技能时获得“加速生长”（需要携带加速生长），每触发一个盛放注能减少1秒终极技能冷却时间<br><br>仅在[噩梦]难度出现",
+    "Id": 117301
+  },
+  "117401": {
+    "Content": "每次抛出滋养之种时，数量翻倍<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 117401
+  },
+  "117501": {
+    "Content": "特殊攻击消耗-90%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 117501
+  },
+  "117601": {
+    "Content": "永久获得“生机涌动”，且效果翻倍<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 117601
+  },
+  "117701": {
+    "Content": "魔法增效+50%，所有职业技能获得30%加速，但是无法施放终极技能<br><br>仅在[噩梦]难度出现",
+    "Id": 117701
+  },
+  "117801": {
+    "Content": "滋养的持续性伤害叠加至3层后，给目标附加【生命汲取】：5秒内，每秒造成魔法攻击力*20倍精通%的伤害，并且每次造成伤害时降低所有专精技能的1秒冷却时间<br><br>仅在[噩梦]难度出现",
+    "Id": 117801
+  },
+  "117901": {
+    "Content": "风环破妄伤害+50%，风力大回环破妄伤害+100%<br><br>仅在[噩梦]难度出现",
+    "Id": 117901
+  },
+  "118001": {
+    "Content": "触发龙击炮时，同时触发风力大回环<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 118001
+  },
+  "118101": {
+    "Content": "风力大回环变成二连击，且造成伤害时，永久提升自身2点风元素攻击<br><br>仅在[噩梦]难度出现",
+    "Id": 118101
+  },
+  "118201": {
+    "Content": "风姿冷却时间减少80%，风姿效果翻倍<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 118201
+  },
+  "118301": {
+    "Content": "施放破追派生神影螺旋，神影螺旋暴击伤害+50%（需要习得神影螺旋天赋）<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 118301
+  },
+  "118401": {
+    "Content": "神影螺旋施放时候消耗所有勇气，每1勇气提升其破妄伤害3%<br><br>仅在[噩梦]难度出现",
+    "Id": 118401
+  },
+  "118501": {
+    "Content": "每次施放神影螺旋，减少终极技能冷却时间，破追回复的勇气+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 118501
+  },
+  "118601": {
+    "Content": "施放神影螺旋永久提升自身2点风元素攻击<br><br>仅在[噩梦]难度出现",
+    "Id": 118601
+  },
+  "118701": {
+    "Content": "极·岚切造成伤害额外触发一个龙卷风，龙卷风破妄伤害+100%<br><br>仅在[噩梦]难度出现",
+    "Id": 118701
+  },
+  "118801": {
+    "Content": "每触发7次龙卷风，召唤强化龙卷风，造成2000%攻击力伤害<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 118801
+  },
+  "118901": {
+    "Content": "刹那消耗的锐利变为1，刹那破妄伤害+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 118901
+  },
+  "119001": {
+    "Content": "风怒状态下攻速+100%<br><br>仅在[噩梦]难度出现",
+    "Id": 119001
+  },
+  "119101": {
+    "Content": "翔返现在可以给锐利冲击充能，锐利冲击破妄伤害+200%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 119101
+  },
+  "119201": {
+    "Content": "锐利上限翻倍，施放锐利冲击后的10秒每隔0.5秒获得1锐利<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 119201
+  },
+  "119301": {
+    "Content": "刹那消耗全部锐利，每个锐利额外提升其10%破妄伤害<br><br>仅在[噩梦]难度出现",
+    "Id": 119301
+  },
+  "119401": {
+    "Content": "风怒可以叠加3层，提供的增益等比提升<br><br>仅在[噩梦]难度出现",
+    "Id": 119401
+  },
+  "119501": {
+    "Content": "每触发10次投盾，投掷盾牌获得强化，点击后盾牌围绕自身旋转<br><br>仅在[噩梦]难度出现",
+    "Id": 119501
+  },
+  "119601": {
+    "Content": "裁决、神圣之击破妄伤害+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 119601
+  },
+  "119701": {
+    "Content": "施放灼热裁决后，期间自身破妄伤害+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 119701
+  },
+  "119801": {
+    "Content": "发射投掷盾牌，攻击力+2%，持续2秒，可叠加50层<br><br>仅在[噩梦]难度出现",
+    "Id": 119801
+  },
+  "119901": {
+    "Content": "炽热清算暴击伤害+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 119901
+  },
+  "120001": {
+    "Content": "圣光守卫期间每隔0.5秒触发炽热清算，炽热清算攻速+100%<br><br>仅在[噩梦]难度出现",
+    "Id": 120001
+  },
+  "120101": {
+    "Content": "炽热清算可以触发神圣之击，圣光守卫惩戒缩减圣光守卫冷却时间效果翻倍<br><br>仅在[噩梦]难度出现",
+    "Id": 120101
+  },
+  "120201": {
+    "Content": "特殊攻击可以触发神圣之击，神圣之击破妄伤害+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 120201
+  },
+  "120301": {
+    "Content": "光明决心冷却时间-50%，光明决心期间，造成的破妄伤害+20%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 120301
+  },
+  "120401": {
+    "Content": "圣剑附带自身生命上限50%固定伤害，生命上限+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 120401
+  },
+  "120501": {
+    "Content": "圣剑消耗-1，圣剑命中神圣印记目标，永久提升自身最大生命值200点<br><br>仅在[噩梦]难度出现",
+    "Id": 120501
+  },
+  "120601": {
+    "Content": "光柱屏障附加效果翻倍<br><br>仅在[噩梦]难度出现",
+    "Id": 120601
+  },
+  "120701": {
+    "Content": "先锋追击、圣光环形斩附加自身生命上限50%固定伤害<br><br>仅在[噩梦]难度出现",
+    "Id": 120701
+  },
+  "120801": {
+    "Content": "光铸屏障附加效果翻倍<br><br>仅在[噩梦]难度出现",
+    "Id": 120801
+  },
+  "120901": {
+    "Content": "冷酷征伐冷却时间-50%，冷酷征伐期间，造成的破妄伤害+20%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 120901
+  },
+  "121001": {
+    "Content": "裁决现在消耗所有光明能量，先锋追击暴击时获得圣令；裁决破妄伤害+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 121001
+  },
+  "121101": {
+    "Content": "消耗砂晶石的技能现在变为回复砂晶石，且这些技能的破妄伤害+200%<br><br>仅在[噩梦]难度出现",
+    "Id": 121101
+  },
+  "121201": {
+    "Content": "地崩山摧会消耗所有砂晶石，每消耗1颗破妄伤害+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 121201
+  },
+  "121301": {
+    "Content": "原地不动2秒后，岩元素加成+40%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 121301
+  },
+  "121401": {
+    "Content": "巨岩躯体时间内，持续获得能量，必定暴击，暴击伤害+200%<br><br>仅在[噩梦]难度出现",
+    "Id": 121401
+  },
+  "121501": {
+    "Content": "每触发一次护盾回声，使碎星冲附加护盾值100%伤害（受碎星冲伤害提升效果影响）<br><br>仅在[噩梦]难度出现",
+    "Id": 121501
+  },
+  "121601": {
+    "Content": "护盾回声有30%几率触发弱点打击，弱点打击附加当前护盾值100%伤害（受弱点打击伤害提升效果影响）<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 121601
+  },
+  "121701": {
+    "Content": "弱点打击触发时，减少砂石斗篷1秒冷却时间<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 121701
+  },
+  "121801": {
+    "Content": "护盾值上限现在可以提升至1000%；每参与击杀目标，提升5%护盾强度<br><br>仅在[噩梦]难度出现",
+    "Id": 121801
+  },
+  "121901": {
+    "Content": "施放岩怒之击必定给怒击，怒击破妄伤害+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 121901
+  },
+  "122001": {
+    "Content": "每触发20个巨岩轰击，召唤一个巨大的岩石掉下，对目标造成目标当前生命值3%的伤害<br><br>仅在[噩梦]难度出现",
+    "Id": 122001
+  },
+  "122101": {
+    "Content": "格挡冲击状态下，岩元素加成+25%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 122101
+  },
+  "122201": {
+    "Content": "每触发一次岩弹，永久提升自身岩元素攻击2点<br><br>仅在[噩梦]难度出现",
+    "Id": 122201
+  },
+  "122301": {
+    "Content": "岩怒之击消耗-1；并且岩怒之击延长格挡冲击持续时间；岩怒之击破妄伤害+100%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 122301
+  },
+  "122401": {
+    "Content": "格挡反击附加目标当前生命0.1%的伤害<br><br>仅在[噩梦]难度出现",
+    "Id": 122401
+  },
+  "122501": {
+    "Content": "格挡冲击状态下，格挡反击岩元素加成+50%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 122501
+  },
+  "122601": {
+    "Content": "每触发一次格挡反击，永久提升自身岩元素攻击2点<br><br>仅在[噩梦]难度出现",
+    "Id": 122601
+  },
+  "122701": {
+    "Content": "施放万众瞩目后10秒内，聚合乐章处于最大段数，聚合乐章破妄伤害+300%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 122701
+  },
+  "122801": {
+    "Content": "触发幸运一击时，减少聚合乐章、万众瞩目0.5秒冷却时间<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 122801
+  },
+  "122901": {
+    "Content": "每次施放烈焰狂想，永久提升自身火元素攻击2点<br><br>仅在[噩梦]难度出现",
+    "Id": 122901
+  },
+  "123001": {
+    "Content": "处于烈焰狂想中攻速+60%<br><br>仅在[噩梦]难度出现",
+    "Id": 123001
+  },
+  "123101": {
+    "Content": "破妄伤害+50%，英勇乐章激活期间，默认处于烈焰狂想状态<br><br>仅在[噩梦]难度出现",
+    "Id": 123101
+  },
+  "123201": {
+    "Content": "幸运一击伤害倍率+40%，特殊攻击可以触发安可<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 123201
+  },
+  "123301": {
+    "Content": "施放大招后10秒内，每秒回复所有的演奏热情<br><br>仅在[噩梦]难度出现",
+    "Id": 123301
+  },
+  "123401": {
+    "Content": "触发幸运一击时，减少终极技能0.5秒冷却时间<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 123401
+  },
+  "123501": {
+    "Content": "热情挥洒永久替换为激昂·热情挥洒，需要激活热情挥洒·激昂天赋，同时破妄伤害+300%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 123501
+  },
+  "123601": {
+    "Content": "激昂·热情挥洒额外多出2道，同时元素加成+500%<br><br>仅在[噩梦]难度出现",
+    "Id": 123601
+  },
+  "123701": {
+    "Content": "施放安可时前方召唤一个音响，持续15秒<br><br>仅在[噩梦]难度出现",
+    "Id": 123701
+  },
+  "123801": {
+    "Content": "激昂·热情挥洒造成暴击伤害时，随机找一个目标触发安可琴弦（0.5秒至多触发1次）<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 123801
+  },
+  "123901": {
+    "Content": "特殊攻击消耗变为1；特殊攻击治疗+500%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 123901
+  },
+  "124001": {
+    "Content": "施放升格·巡演曲后的10秒内，每间隔1秒自身周围爆炸造成2000%攻击力伤害<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 124001
+  },
+  "124101": {
+    "Content": "激涌五重奏不再消耗演奏热情，施放特殊攻击减少激涌五重奏、改造大招冷却时间1秒<br><br>仅在[噩梦]难度出现",
+    "Id": 124101
+  },
+  "124201": {
+    "Content": "愈合乐章造成伤害时，永久提升自身智力1点<br><br>仅在[噩梦]难度出现",
+    "Id": 124201
+  },
+  "124301": {
+    "Content": "战斗状态下，每<style=\"accent-gn\">3秒</style>对正前方一条直线造成范围伤害，解锁<style=\"emph-gn\">[脉冲]</style>词条的掉落",
+    "Id": 124301
+  },
+  "124401": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>会额外对周围半径5米范围内的敌人造成一次额外伤害",
+    "Id": 124401
+  },
+  "124501": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>造成伤害时，自身获得<style=\"accent-gn\">4%</style>伤害加成，最多叠加<style=\"accent-gn\">10</style>层，脱战后移除",
+    "Id": 124501
+  },
+  "124601": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>的攻击范围改为十字范围",
+    "Id": 124601
+  },
+  "124701": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>的间隔时间减少<style=\"accent-gn\">1秒</style>",
+    "Id": 124701
+  },
+  "124801": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>每命中一个敌人，下次触发时间减少<style=\"accent-gn\">0.2秒</style>（至多减少<style=\"accent-gn\">1秒</style>）",
+    "Id": 124801
+  },
+  "124901": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>会同时治疗范围内的友方单位",
+    "Id": 124901
+  },
+  "125001": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>会提升范围内友方单位<style=\"accent-gn\">10%</style>暴击和<style=\"accent-gn\">10%</style>幸运",
+    "Id": 125001
+  },
+  "125101": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>可以触发幸运一击",
+    "Id": 125101
+  },
+  "125201": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>附加自身最大生命值<style=\"accent-gn\">20%</style>的伤害",
+    "Id": 125201
+  },
+  "125301": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>附加自身物理防御<style=\"accent-gn\">400%</style>的伤害",
+    "Id": 125301
+  },
+  "125401": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>造成伤害时，会治疗自身，治疗量为伤害的<style=\"accent-gn\">10%</style>",
+    "Id": 125401
+  },
+  "125501": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>暴击伤害<style=\"accent-gn\">+40%</style>",
+    "Id": 125501
+  },
+  "125601": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>暴击率<style=\"accent-gn\">+20%</style>",
+    "Id": 125601
+  },
+  "125701": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>伤害<style=\"accent-gn\">+20%</style>",
+    "Id": 125701
+  },
+  "125801": {
+    "Content": "施放<style=\"emph-gn\">专精技能</style>会触发<style=\"emph-gn\">脉冲光束</style>，冷却时间<style=\"accent-gn\">0.5秒</style>",
+    "Id": 125801
+  },
+  "125901": {
+    "Content": "施放<style=\"emph-gn\">终极技能</style>后<style=\"accent-gn\">15秒</style>内，<style=\"emph-gn\">脉冲光束</style>冷却时间减半（冷却时间<style=\"accent-gn\">20秒</style>）",
+    "Id": 125901
+  },
+  "126001": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>造成伤害时，召唤<style=\"emph-gn\">寒霜食人魔幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 126001
+  },
+  "126101": {
+    "Content": "<style=\"emph-gn\">脉冲光束</style>破韧效率<style=\"accent-gn\">+500%</style>",
+    "Id": 126101
+  },
+  "126201": {
+    "Content": "每<style=\"accent-gn\">1%</style>的<style=\"emph-gn\">精通</style>会额外提升<style=\"emph-gn\">脉冲光束</style><style=\"accent-gn\">2%</style>的<style=\"emph-gn\">元素伤害</style>",
+    "Id": 126201
+  },
+  "126301": {
+    "Content": "每<style=\"accent-gn\">1%</style>的<style=\"emph-gn\">精通</style>提升<style=\"accent-gn\">0.4%</style>物理增效和魔法增效",
+    "Id": 126301
+  },
+  "126401": {
+    "Content": "每击败一只怪物，提升<style=\"accent-gn\">0.2%</style>精通，击杀精英或首领时效果翻倍",
+    "Id": 126401
+  },
+  "126501": {
+    "Content": "精通<style=\"accent-gn\">+15%</style>",
+    "Id": 126501
+  },
+  "126601": {
+    "Content": "施放<style=\"emph-gn\">专精技能</style>时，召唤<style=\"emph-gn\">蟹蛛王幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 126601
+  },
+  "126701": {
+    "Content": "每<style=\"accent-gn\">1%</style>的<style=\"emph-gn\">精通</style>提升<style=\"accent-gn\">1%</style>技能冷却加速",
+    "Id": 126701
+  },
+  "126801": {
+    "Content": "精通大于<style=\"accent-gn\">50%</style>时，获得<style=\"accent-gn\">25%</style>攻击速度和<style=\"accent-gn\">50%</style>施法速度",
+    "Id": 126801
+  },
+  "126901": {
+    "Content": "每隔<style=\"accent-gn\">30秒</style>进入一次持续<style=\"accent-gn\">5秒</style>的无限火力状态，持续期间内战斗资源无限，且技能冷却时间减少<style=\"accent-gn\">80%</style>，每<style=\"accent-gn\">1%</style>精通缩减<style=\"accent-gn\">0.1秒</style>间隔",
+    "Id": 126901
+  },
+  "127001": {
+    "Content": "施放<style=\"emph-gn\">特殊攻击</style>时，召唤<style=\"emph-gn\">黑焰地狐幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 127001
+  },
+  "127101": {
+    "Content": "精通达到<style=\"accent-gn\">50%</style>时，获得<style=\"accent-gn\">20%</style>暴击伤害和<style=\"accent-gn\">20%</style>幸运一击倍率",
+    "Id": 127101
+  },
+  "127201": {
+    "Content": "精通达到<style=\"accent-gn\">50%</style>时，额外获得<style=\"accent-gn\">20%</style>精通",
+    "Id": 127201
+  },
+  "127301": {
+    "Content": "精通达到<style=\"accent-gn\">100%</style>时，自身造成的所有伤害必定暴击",
+    "Id": 127301
+  },
+  "127401": {
+    "Content": "每损失<style=\"accent-gn\">1%</style>生命值，提升<style=\"accent-gn\">0.2%</style>精通",
+    "Id": 127401
+  },
+  "127501": {
+    "Content": "每次受到伤害回复自身<style=\"accent-gn\">3%</style>最大生命值，每<style=\"accent-gn\">1%</style>精通提升<style=\"accent-gn\">10%</style>该治疗量",
+    "Id": 127501
+  },
+  "127601": {
+    "Content": "每<style=\"accent-gn\">1%</style>精通减少<style=\"accent-gn\">0.3%</style>受到伤害",
+    "Id": 127601
+  },
+  "127701": {
+    "Content": "每<style=\"accent-gn\">1%</style>精通提升<style=\"accent-gn\">0.5%</style>幸运一击伤害",
+    "Id": 127701
+  },
+  "127801": {
+    "Content": "精通<style=\"accent-gn\">+8000</style>",
+    "Id": 127801
+  },
+  "127901": {
+    "Content": "施放技能时，对周围造成一次范围伤害，每<style=\"accent-gn\">1%</style>精通提升<style=\"accent-gn\">10%</style>该伤害",
+    "Id": 127901
+  },
+  "128001": {
+    "Content": "造成伤害时额外附加精通%倍率的伤害",
+    "Id": 128001
+  },
+  "128101": {
+    "Content": "精通达到<style=\"accent-gn\">50%</style>时，每隔<style=\"accent-gn\">30秒</style>自动召唤<style=\"emph-gn\">掠食蜘蛛幻想</style>",
+    "Id": 128101
+  },
+  "128201": {
+    "Content": "每<style=\"accent-gn\">1%</style>的<style=\"emph-gn\">精通</style>提升<style=\"accent-gn\">1%</style>治疗强度",
+    "Id": 128201
+  },
+  "128301": {
+    "Content": "造成伤害时，额外附加自身生命值<style=\"accent-gn\">10%</style>的伤害",
+    "Id": 128301
+  },
+  "128401": {
+    "Content": "生命上限提升<style=\"accent-gn\">100%</style>，受到伤害时回复<style=\"accent-gn\">5%</style>最大生命值",
+    "Id": 128401
+  },
+  "128501": {
+    "Content": "处于移动状态时，获得霸体与无敌效果",
+    "Id": 128501
+  },
+  "128601": {
+    "Content": "造成伤害时回复自身<style=\"accent-gn\">5%</style>最大生命值",
+    "Id": 128601
+  },
+  "128701": {
+    "Content": "每次施放技能时，伤害必定暴击，消耗自身<style=\"accent-gn\">1%</style>生命值",
+    "Id": 128701
+  },
+  "128801": {
+    "Content": "增加自身物理防御<style=\"accent-gn\">1000%</style>的生命上限",
+    "Id": 128801
+  },
+  "128901": {
+    "Content": "每<style=\"accent-gn\">20</style>点生命上限提升<style=\"accent-gn\">1</style>点急速和<style=\"accent-gn\">1</style>点精通",
+    "Id": 128901
+  },
+  "129001": {
+    "Content": "每<style=\"accent-gn\">20</style>点生命上限提升<style=\"accent-gn\">1</style>点暴击和<style=\"accent-gn\">1</style>点幸运",
+    "Id": 129001
+  },
+  "129101": {
+    "Content": "受到伤害时，召唤<style=\"emph-gn\">丹佛幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 129101
+  },
+  "129201": {
+    "Content": "非职业技能造成伤害提高<style=\"accent-gn\">10%</style>，每20000点生命上限额外提高<style=\"accent-gn\">10%</style>",
+    "Id": 129201
+  },
+  "129301": {
+    "Content": "受到伤害时，立刻对攻击者造成一次生命上限<style=\"accent-gn\">100%</style>伤害的反击",
+    "Id": 129301
+  },
+  "129401": {
+    "Content": "生命上限<style=\"accent-gn\">+20%</style>",
+    "Id": 129401
+  },
+  "129501": {
+    "Content": "物理防御<style=\"accent-gn\">+20%</style>",
+    "Id": 129501
+  },
+  "129601": {
+    "Content": "全能<style=\"accent-gn\">+10%</style>",
+    "Id": 129601
+  },
+  "129701": {
+    "Content": "幸运一击额外附加最大生命值<style=\"accent-gn\">10%</style>的伤害",
+    "Id": 129701
+  },
+  "129801": {
+    "Content": "破韧效率<style=\"accent-gn\">+30%</style>",
+    "Id": 129801
+  },
+  "129901": {
+    "Content": "每损失<style=\"accent-gn\">1%</style>生命值，增加<style=\"accent-gn\">0.3%</style>攻击力，每持有一个「血怒」词条该效果增加<style=\"accent-gn\">0.05%</style>",
+    "Id": 129901
+  },
+  "130001": {
+    "Content": "每损失<style=\"accent-gn\">1%</style>生命值，增加<style=\"accent-gn\">1%</style>技能冷却加速",
+    "Id": 130001
+  },
+  "130101": {
+    "Content": "生命值低于<style=\"accent-gn\">50%</style>时，获得<style=\"accent-gn\">40%</style>元素伤害加成",
+    "Id": 130101
+  },
+  "130201": {
+    "Content": "生命值变化时，提供<style=\"accent-gn\">5%</style>暴击、急速、幸运、精通、全能",
+    "Id": 130201
+  },
+  "130301": {
+    "Content": "生命值变化时，减少所有技能<style=\"accent-gn\">1秒</style>冷却时间",
+    "Id": 130301
+  },
+  "130401": {
+    "Content": "进入战斗后<style=\"accent-gn\">20秒</style>内不会死亡，且伤害提高<style=\"accent-gn\">20%</style>",
+    "Id": 130401
+  },
+  "130501": {
+    "Content": "生命值变化时，对周围造成一次范围伤害，每损失<style=\"accent-gn\">1%</style>生命值，该伤害提高<style=\"accent-gn\">10%</style>",
+    "Id": 130501
+  },
+  "130601": {
+    "Content": "生命值变化时，自动召唤<style=\"emph-gn\">卡格特里夫幻想</style>（冷却时间<style=\"accent-gn\">60秒</style>）",
+    "Id": 130601
+  },
+  "130701": {
+    "Content": "每损失<style=\"accent-gn\">1%</style>生命值提升<style=\"accent-gn\">0.3%</style>攻击速度和<style=\"accent-gn\">0.6%</style>施法速度",
+    "Id": 130701
+  },
+  "130801": {
+    "Content": "生命值低于<style=\"accent-gn\">50%</style>时，召唤<style=\"emph-gn\">山脊之牙幻想</style>（冷却时间<style=\"accent-gn\">30秒</style>）",
+    "Id": 130801
+  },
+  "130901": {
+    "Content": "受到伤害减少<style=\"accent-gn\">20%</style>，生命值低于<style=\"accent-gn\">50%</style>时额外减少<style=\"accent-gn\">30%</style>",
+    "Id": 130901
+  },
+  "131001": {
+    "Content": "生命值低于<style=\"accent-gn\">30%</style>时，获得<style=\"accent-gn\">30%</style>暴击伤害",
+    "Id": 131001
+  },
+  "131101": {
+    "Content": "每损失<style=\"accent-gn\">1%</style>生命值，物理防御提升<style=\"accent-gn\">1%</style>",
+    "Id": 131101
+  },
+  "131201": {
+    "Content": "生命值低于<style=\"accent-gn\">30%</style>时，获得<style=\"accent-gn\">20%</style>幸运",
+    "Id": 131201
+  },
+  "131301": {
+    "Content": "生命值低于<style=\"accent-gn\">50%</style>时，获得<style=\"accent-gn\">800</style>点全元素攻击力",
+    "Id": 131301
+  },
+  "131401": {
+    "Content": "根据幸运一击的伤害回复自身生命值，并造成额外的范围伤害",
+    "Id": 131401
+  },
+  "131501": {
+    "Content": "每1%幸运提供0.2%（1段）/0.1%（2段）/0.05%（3段）的无相火斩触发几率<br><br>仅在[噩梦]难度出现",
+    "Id": 131501
+  },
+  "131601": {
+    "Content": "斧风造成伤害时（命中多个目标最多触发一次）触发地火流星<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 131601
+  },
+  "131701": {
+    "Content": "斧风体力消耗减少，同时附带裹挟吸附效果<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 131701
+  },
+  "131801": {
+    "Content": "施放炽焰突袭之后的5秒内，暴击几率+100%，暴击伤害+30%<br><br>仅在[噩梦]难度出现",
+    "Id": 131801
+  },
+  "131901": {
+    "Content": "燃烧可以触发无相火斩，但是触发几率减半<br><br>仅在[噩梦]难度出现",
+    "Id": 131901
+  },
+  "132001": {
+    "Content": "斧风造成伤害时依据目标身上的燃烧层数得到最终伤害增强，每层+10%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 132001
+  },
+  "132101": {
+    "Content": "每1级无相效果使得暴击、急速、幸运、精通、全能中最高的一项+3%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 132101
+  },
+  "132201": {
+    "Content": "无相火斩最终伤害+40%，命中燃烧目标额外+20%<br><br>仅在[噩梦]难度出现",
+    "Id": 132201
+  },
+  "132301": {
+    "Content": "无羁坠星、炎魔天落杀命中主目标时，获得8%火元素加成，持续5秒，最多可叠加3层<br><br>仅在[噩梦]难度出现",
+    "Id": 132301
+  },
+  "132401": {
+    "Content": "如川流华斩附加目标当前生命值0.1%的伤害<br><br>仅在[噩梦]难度出现",
+    "Id": 132401
+  },
+  "132501": {
+    "Content": "专精技能暴击伤害+40%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 132501
+  },
+  "132601": {
+    "Content": "专精技能破妄伤害+20%<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 132601
+  },
+  "132701": {
+    "Content": "无尽之炎魔期间，暴击伤害翻倍<br><br>仅在[噩梦]难度出现",
+    "Id": 132701
+  },
+  "132801": {
+    "Content": "迷狂炎舞命中主目标有50%几率缩减无尽之炎魔冷却时间0.5秒<br><br>仅在[噩梦]难度出现",
+    "Id": 132801
+  },
+  "132901": {
+    "Content": "如川流华斩变成极·如川流华斩<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 132901
+  },
+  "133001": {
+    "Content": "炎魔天落杀三连打触发时，如川流华斩获得1层充能，如果充能已经完成，则如川流华斩自动触发<br><br>仅在[困难]和[噩梦]难度出现",
+    "Id": 133001
+  }
+}

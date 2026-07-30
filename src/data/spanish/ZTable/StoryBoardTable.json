@@ -1,0 +1,120 @@
+{
+  "100001": {
+    "BeginNode": 100001001,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/boyce/storyboard_boyce_story_01",
+    "EndingNodePool": [100001023, 100001024],
+    "FirstPassAwardId": 31003390,
+    "Id": 100001,
+    "LockedText": "Bloqueado",
+    "PercentageAwardId": [
+      [50, 31003960],
+      [70, 31003970],
+      [100, 31003980]
+    ],
+    "QuestId": 40500,
+    "Remark": "博伊斯角色任务01",
+    "RoleId": 1000,
+    "StoryInfo": "Hace tiempo que no ves al guardia del Credo de alto rango Boyce. Hace unos días, envió un mensaje diciendo que tiene un encargo importante que discutir contigo en persona en Lallipar.",
+    "StoryboardName": "Báculo de Jade Gélido",
+    "StoryboardNodePool": [
+      100001001, 100001002, 100001003, 100001004, 100001005, 100001006, 100001007, 100001008,
+      100001014, 100001019, 100001023, 100001024
+    ],
+    "UnlockCondition": []
+  },
+  "1001": {
+    "BeginNode": 1001002,
+    "ChartBackgroundPic": "ui/textures/taskinfo_ep/taskinfo_ep02_07",
+    "ChartPic": "ui/textures/taskinfo_ep/taskinfo_ep02_05",
+    "EndingNodePool": [1001006],
+    "FirstPassAwardId": 20210254,
+    "Id": 1001,
+    "LockedText": "Bloqueado",
+    "PercentageAwardId": [
+      [50, 20210251],
+      [70, 20210252],
+      [100, 20210253]
+    ],
+    "QuestId": 30704,
+    "Remark": "test",
+    "RoleId": 1,
+    "StoryInfo": "Prueba",
+    "StoryboardName": "Prueba",
+    "StoryboardNodePool": [1001001, 1001002, 1001003, 1001004, 1001006],
+    "UnlockCondition": []
+  },
+  "100101": {
+    "BeginNode": 100101001,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/farfara/storyboard_farfara_story_01",
+    "EndingNodePool": [100101009, 100101010, 126589770, 100101013],
+    "FirstPassAwardId": 31003400,
+    "Id": 100101,
+    "LockedText": "Bloqueado",
+    "PercentageAwardId": [
+      [50, 31003850],
+      [70, 31003860],
+      [100, 31003870]
+    ],
+    "QuestId": 40502,
+    "Remark": "法法菈角色任务01",
+    "RoleId": 1001,
+    "StoryInfo": "Ha pasado mucho tiempo desde la última vez que viste a Fafala. Ve a Lallipar para ver cómo está.",
+    "StoryboardName": "Objeto nunca olvidado",
+    "StoryboardNodePool": [
+      100101001, 100101003, 100101005, 100101004, 100101006, 100101007, 100101008, 100101009,
+      100101010, 100101011, 126589770, 100101012, 100101013, 100101019
+    ],
+    "UnlockCondition": []
+  },
+  "100201": {
+    "BeginNode": 100201002,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/daya/storyboard_daya_story_01",
+    "EndingNodePool": [100201003, 100201004, 100201005, 100201006],
+    "FirstPassAwardId": 31003410,
+    "Id": 100201,
+    "LockedText": "Bloqueado",
+    "PercentageAwardId": [
+      [50, 31003990],
+      [70, 31004000],
+      [100, 31004010]
+    ],
+    "QuestId": 40501,
+    "Remark": "达雅NPC任务",
+    "RoleId": 1002,
+    "StoryInfo": "Recibiste una carta. Parece que un amigo en la meseta tiene problemas y necesita tu ayuda...",
+    "StoryboardName": "Una aventura bayavillosa",
+    "StoryboardNodePool": [
+      100201001, 100201002, 100201003, 100201004, 100201005, 100201006, 100201007, 100201008,
+      100201009, 100201011, 100201012, 100201013, 100201014, 100201015, 100201017, 100201018,
+      100201021, 100201022, 100201023, 100201025
+    ],
+    "UnlockCondition": []
+  },
+  "100301": {
+    "BeginNode": 100301004,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/iruna/storyboard_iruna_story_01",
+    "EndingNodePool": [100301011, 100301021, 100301024],
+    "FirstPassAwardId": 31003420,
+    "Id": 100301,
+    "LockedText": "Bloqueado",
+    "PercentageAwardId": [
+      [50, 31004130],
+      [70, 31004140],
+      [100, 31004150]
+    ],
+    "QuestId": 40503,
+    "Remark": "",
+    "RoleId": 1003,
+    "StoryInfo": "Una vez finalizado el Festival de Brisa Marina, la tranquilidad volvió a reinar en la Aldea de Lallipar. Sin embargo, justo en ese momento, un ramo de lirios de mar, fuera de lugar en esta época del año, apareció bajo el gran árbol de la aldea. ¿Quién los habrá dejado ahí? ¿Y por qué están aquí? Así comienza una misión especial...",
+    "StoryboardName": "Recuerdos de una flor",
+    "StoryboardNodePool": [
+      100301004, 100301007, 100301011, 100301012, 100301013, 100301014, 100301016, 100301017,
+      100301019, 100301020, 100301021, 100301023, 100301024
+    ],
+    "UnlockCondition": []
+  }
+}

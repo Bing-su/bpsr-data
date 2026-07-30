@@ -1,0 +1,402 @@
+{
+  "1": {
+    "Card": [],
+    "Desc": "Déclarer Riichi lorsque votre main cachée est à une tuile de la victoire. Gagner la main en état de Riichi.",
+    "Id": 1,
+    "Name": "Riichi",
+    "Special": 2,
+    "Type": 1
+  },
+  "10": {
+    "Card": [5, 9, 13, 53, 53, 53, 81, 85, 89, 93, 0, 101, 101, 101, 101, 0, 81],
+    "Desc": "Gagner avec la tuile de remplacement piochée après avoir déclaré un carré.",
+    "Id": 10,
+    "Name": "Rinshan Kaihou (victoire sur pioche du mur mort)",
+    "Special": 0,
+    "Type": 1
+  },
+  "11": {
+    "Card": [5, 5, 5, 0, 49, 53, 57, 0, 81, 81, 81, 0, 105, 105, 105, 0, 109, 0, 109],
+    "Desc": "Gagner en piochant la toute dernière tuile du mur.",
+    "Id": 11,
+    "Name": "Haitei Raoyue (victoire sur la dernière pioche)",
+    "Special": 0,
+    "Type": 1
+  },
+  "12": {
+    "Card": [5, 5, 5, 0, 49, 53, 57, 0, 81, 81, 81, 0, 105, 105, 105, 0, 109, 0, 109],
+    "Desc": "Gagner sur la toute dernière tuile défaussée.",
+    "Id": 12,
+    "Name": "Houtei Raoyui (victoire sur la dernière défausse)",
+    "Special": 0,
+    "Type": 1
+  },
+  "13": {
+    "Card": [],
+    "Desc": "Gagner dans le tour qui suit une déclaration de Riichi, à condition qu'aucun appel (Pon, Chi, Kan) n'ait été fait par un joueur.",
+    "Id": 13,
+    "Name": "Ippatsu (victoire en un coup)",
+    "Special": 0,
+    "Type": 1
+  },
+  "14": {
+    "Card": [1, 999, 999, 999, 999, 0, 5],
+    "Desc": "La tuile qui suit l'indicateur de Dora.",
+    "Id": 14,
+    "Name": "Dora (tuile bonus)",
+    "Special": 3,
+    "Type": 1
+  },
+  "15": {
+    "Card": [20, 0, 56, 0, 92],
+    "Desc": "Le 5 de Caractères rouge, le 5 de Cercles rouge et le 5 de Bambous rouge.",
+    "Id": 15,
+    "Name": "Aka Dora (Dora rouge)",
+    "Special": 3,
+    "Type": 1
+  },
+  "16": {
+    "Card": [1, 5, 9, 13, 13, 13, 53, 57, 61, 125, 125, 125, 129, 0, 129],
+    "Desc": "Déclarer Riichi au premier tour de la main, avant qu'aucun appel (Pon, Chii, Kan) n'ait été fait par un joueur.",
+    "Id": 16,
+    "Name": "Double Riichi",
+    "Special": 2,
+    "Type": 2
+  },
+  "17": {
+    "Card": [9, 9, 9, 0, 45, 45, 45, 0, 81, 81, 81, 0, 89, 93, 97, 0, 133, 133],
+    "Desc": "Une main contenant un brelan du même numéro dans les trois familles (Caractères, Cercles et Bambous).",
+    "Id": 17,
+    "Name": "Sanshoku Doukou (triple brelan)",
+    "Special": 0,
+    "Type": 2
+  },
+  "18": {
+    "Card": [53, 57, 61, 0, 9, 9, 9, 9, 0, 45, 45, 45, 45, 0, 81, 81, 81, 81, 0, 129, 129],
+    "Desc": "Une main où un joueur a déclaré trois carrés.",
+    "Id": 18,
+    "Name": "San Kantsu (trois carrés)",
+    "Special": 0,
+    "Type": 2
+  },
+  "19": {
+    "Card": [9, 9, 9, 0, 49, 49, 49, 0, 81, 81, 81, 0, 109, 109, 109, 0, 113, 113],
+    "Desc": "Une main contenant quatre brelans ou carrés.",
+    "Id": 19,
+    "Name": "Toi-Toi (que des brelans)",
+    "Special": 0,
+    "Type": 2
+  },
+  "2": {
+    "Card": [5, 9, 13, 0, 17, 21, 25, 0, 45, 45, 45, 0, 85, 89, 93, 0, 101, 0, 101],
+    "Desc": "Une main ne contenant aucune tuile terminale (1 et 9) ou honneur.",
+    "Id": 2,
+    "Name": "Tanyao (que des simples)",
+    "Special": 0,
+    "Type": 1
+  },
+  "20": {
+    "Card": [1, 1, 1, 37, 37, 37, 73, 73, 73, 0, 81, 85, 89, 0, 109, 0, 109],
+    "Desc": "Une main contenant trois brelans cachés.",
+    "Id": 20,
+    "Name": "San Ankou (trois brelans cachés)",
+    "Special": 0,
+    "Type": 2
+  },
+  "21": {
+    "Card": [5, 9, 17, 53, 57, 61, 0, 125, 125, 125, 0, 129, 129, 129, 0, 133, 0, 133],
+    "Desc": "Une main contenant des brelans de deux des tuiles de dragon (Blanc, Vert, Rouge) et une paire de la troisième tuile de dragon.",
+    "Id": 21,
+    "Name": "Shou Sangen (trois petits dragons)",
+    "Special": 0,
+    "Type": 2
+  },
+  "22": {
+    "Card": [1, 1, 1, 0, 33, 33, 33, 0, 37, 37, 37, 0, 73, 73, 73, 0, 109, 0, 109],
+    "Desc": "Une main gagnante composée uniquement de terminales (les 1 et les 9 des Caractères, Cercles et Bambous) et d'honneurs.",
+    "Id": 22,
+    "Name": "Honroutou (que des honneurs et terminales)",
+    "Special": 0,
+    "Type": 2
+  },
+  "23": {
+    "Card": [1, 1, 5, 5, 22, 22, 33, 33, 41, 41, 113, 113, 121, 0, 121],
+    "Desc": "Une main constituée de sept paires différentes.",
+    "Id": 23,
+    "Name": "Chiitoitsu (sept paires)",
+    "Special": 2,
+    "Type": 2
+  },
+  "24": {
+    "Card": [1, 5, 9, 0, 25, 29, 33, 0, 37, 41, 45, 0, 109, 109, 109, 0, 129, 129],
+    "Desc": "Une main où chaque combinaison (suite ou brelan) et la paire contiennent au moins une tuile terminale (1 ou 9) ou un honneur.",
+    "Id": 24,
+    "Name": "Hon Chanta (main extérieure mixte)",
+    "Special": 1,
+    "Type": 2
+  },
+  "25": {
+    "Card": [1, 5, 9, 13, 17, 21, 25, 29, 33, 0, 37, 37, 37, 0, 109, 109],
+    "Desc": "Une main contenant les suites 1-2-3, 4-5-6 et 7-8-9 dans la même famille.",
+    "Id": 25,
+    "Name": "Ittsuu (suite pure)",
+    "Special": 1,
+    "Type": 2
+  },
+  "26": {
+    "Card": [1, 5, 9, 0, 37, 41, 45, 0, 73, 77, 81, 0, 93, 93, 93, 0, 117, 117],
+    "Desc": "Une main contenant la même suite dans les trois familles (Caractères, Cercles et Bambous).",
+    "Id": 26,
+    "Name": "Sanshoku Doujun (triple suite mixte)",
+    "Special": 1,
+    "Type": 2
+  },
+  "27": {
+    "Card": [1, 5, 9, 1, 5, 9, 0, 37, 41, 45, 37, 41, 45, 0, 109, 109],
+    "Desc": "Une main contenant deux paires de suites identiques.",
+    "Id": 27,
+    "Name": "Ryanpeikou (deux doubles suites pures)",
+    "Special": 2,
+    "Type": 3
+  },
+  "28": {
+    "Card": [1, 5, 9, 0, 25, 29, 33, 0, 37, 41, 45, 0, 105, 105, 105, 0, 73, 73],
+    "Desc": "Une main où chaque combinaison (suite ou brelan) et la paire contiennent au moins une tuile terminale (1 ou 9), sans aucun honneur.",
+    "Id": 28,
+    "Name": "Junchan (main entièrement extérieure)",
+    "Special": 1,
+    "Type": 3
+  },
+  "29": {
+    "Card": [1, 1, 1, 5, 9, 13, 17, 21, 25, 113, 113, 113, 0, 125, 125],
+    "Desc": "Une main composée de tuiles d'une seule famille, incluant un ou plusieurs brelans ou une paire de tuiles d'honneur.",
+    "Id": 29,
+    "Name": "Honitsu (demi-couleur)",
+    "Special": 1,
+    "Type": 3
+  },
+  "3": {
+    "Card": [1, 1, 1, 5, 9, 13, 45, 45, 45, 85, 89, 93, 129, 0, 129],
+    "Desc": "Gagner en piochant la tuile gagnante avec une main entièrement cachée.",
+    "Id": 3,
+    "Name": "Menzen Tsumo (pioche gagnante main fermée)",
+    "Special": 2,
+    "Type": 1
+  },
+  "30": {
+    "Card": [1, 5, 9, 0, 5, 9, 13, 0, 9, 13, 17, 0, 21, 21, 21, 0, 33, 33],
+    "Desc": "Une main composée de tuiles d'une seule famille, sans aucune tuile d'honneur.",
+    "Id": 30,
+    "Name": "Chinitsu (couleur pure)",
+    "Special": 1,
+    "Type": 4
+  },
+  "31": {
+    "Card": [33, 1, 109, 109, 113, 113, 133, 113, 117, 117, 117, 105, 105, 105, 69, 129, 121, 33],
+    "Desc": "La défausse du joueur ne contient que des tuiles terminales et honneurs à l'issue d'une manche nulle, et aucune de ses défausses n'a été prise par d'autres joueurs.",
+    "Id": 31,
+    "Name": "Nagashi Mangan (Mangan en manche nulle)",
+    "Special": 0,
+    "Type": 5
+  },
+  "32": {
+    "Card": [1, 5, 9, 49, 49, 49, 89, 93, 97, 109, 109, 109, 113, 113],
+    "Desc": "Le donneur gagne avec sa main de départ de 14 tuiles.",
+    "Id": 32,
+    "Name": "Tenhou (bénédiction du ciel)",
+    "Special": 4,
+    "Type": 6
+  },
+  "33": {
+    "Card": [],
+    "Desc": "Gagner par tsumo au premier tour en tant que non-donneur, avant qu'aucun appel (Pon, Chii, Kan) ne soit fait.",
+    "Id": 33,
+    "Name": "Chiihou (bénédiction de la terre)",
+    "Special": 5,
+    "Type": 6
+  },
+  "34": {
+    "Card": [1, 5, 9, 0, 125, 125, 125, 0, 129, 129, 129, 0, 133, 133, 133, 0, 33, 33],
+    "Desc": "Une main contenant des brelans des trois tuiles de dragon (Blanc, Vert et Rouge).",
+    "Id": 34,
+    "Name": "Dai Sangen (trois grands dragons)",
+    "Special": 0,
+    "Type": 6
+  },
+  "35": {
+    "Card": [1, 1, 1, 5, 5, 5, 45, 45, 45, 49, 49, 49, 89, 89],
+    "Desc": "Une main contenant quatre brelans cachés.",
+    "Id": 35,
+    "Name": "Su Ankou (quatre brelans cachés)",
+    "Special": 2,
+    "Type": 6
+  },
+  "36": {
+    "Card": [109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 125, 125, 125, 0, 129, 129],
+    "Desc": "Une main composée entièrement de tuiles d'honneurs (vents et dragons).",
+    "Id": 36,
+    "Name": "Tsuuiisou (que des honneurs)",
+    "Special": 0,
+    "Type": 6
+  },
+  "37": {
+    "Card": [77, 77, 77, 0, 81, 81, 81, 0, 85, 85, 85, 0, 93, 93, 93, 0, 129, 129],
+    "Desc": "Une main composée entièrement de tuiles vertes (les 2, 3, 4, 6, 8 de Bambous) et de la tuile du Dragon Vert (également valide sans elle).",
+    "Id": 37,
+    "Name": "Ryuuiisou (que des verts)",
+    "Special": 0,
+    "Type": 6
+  },
+  "38": {
+    "Card": [1, 1, 1, 0, 33, 33, 33, 0, 37, 37, 37, 0, 69, 69, 69, 0, 73, 73],
+    "Desc": "Une main contenant uniquement des tuiles terminales (les 1 et les 9 des Caractères, Cercles et Bambous).",
+    "Id": 38,
+    "Name": "Chinroutou (que des terminales)",
+    "Special": 0,
+    "Type": 6
+  },
+  "39": {
+    "Card": [1, 33, 33, 37, 69, 73, 105, 109, 113, 117, 121, 125, 129, 0, 133],
+    "Desc": "Une main contenant une de chaque tuile terminale et honneur, plus une tuile supplémentaire correspondant à l'une d'entre elles.",
+    "Id": 39,
+    "Name": "Kokushi Musou (treize orphelins)",
+    "Special": 2,
+    "Type": 6
+  },
+  "4": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 117, 117, 117, 73, 0, 73],
+    "Desc": "Une main contenant un brelan du vent du joueur.",
+    "Id": 4,
+    "Name": "Yakuhai (tuiles de valeur) : Vent du joueur",
+    "Special": 0,
+    "Type": 1
+  },
+  "40": {
+    "Card": [1, 5, 9, 0, 109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 121, 121],
+    "Desc": "Une main contenant les brelans de trois tuiles de vent et une paire de la quatrième tuile de vent.",
+    "Id": 40,
+    "Name": "Shosuushii (quatre petits vents)",
+    "Special": 0,
+    "Type": 6
+  },
+  "41": {
+    "Card": [1, 1, 1, 1, 0, 41, 41, 41, 41, 0, 81, 81, 81, 81, 0, 109, 109, 109, 109, 0, 129, 129],
+    "Desc": "Une main gagnée par un seul joueur qui a formé quatre carrés.",
+    "Id": 41,
+    "Name": "Suukantsu (quatre carrés)",
+    "Special": 0,
+    "Type": 6
+  },
+  "42": {
+    "Card": [1, 1, 1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 33, 0, 33],
+    "Desc": "Une main cachée composée de 1112345678999 d'une seule couleur, plus n'importe quelle autre tuile de cette couleur pour gagner.",
+    "Id": 42,
+    "Name": "Chuuren Poutou (neuf portes)",
+    "Special": 2,
+    "Type": 6
+  },
+  "43": {
+    "Card": [1, 1, 1, 41, 41, 41, 53, 53, 53, 97, 97, 97, 121, 0, 121],
+    "Desc": "Une main de quatre brelans cachés qui est complétée en formant une paire.",
+    "Id": 43,
+    "Name": "Suu Ankou Tanki (quatre brelans cachés en attente unique)",
+    "Special": 2,
+    "Type": 7
+  },
+  "44": {
+    "Card": [1, 33, 37, 69, 73, 105, 109, 113, 117, 121, 125, 129, 133, 0, 1],
+    "Desc": "Une main Kokushi Musou (treize orphelins) en attente de gagner sur n'importe laquelle des 13 tuiles terminales ou honneurs.",
+    "Id": 44,
+    "Name": "Kokushi Musou Juusanmen (treize orphelins en attente sur treize tuiles)",
+    "Special": 2,
+    "Type": 7
+  },
+  "45": {
+    "Card": [1, 1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 33, 33, 0, 21],
+    "Desc": "Une main des neuf portes en attente de gagner sur n'importe laquelle des 9 tuiles possibles.",
+    "Id": 45,
+    "Name": "Junsei Chuuren Poutou (neuf portes pures)",
+    "Special": 2,
+    "Type": 7
+  },
+  "46": {
+    "Card": [109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 121, 121, 121, 0, 17, 17],
+    "Desc": "Une main contenant les brelans des quatre tuiles de vent.",
+    "Id": 46,
+    "Name": "Dai Suushi (quatre grand vents)",
+    "Special": 0,
+    "Type": 7
+  },
+  "47": {
+    "Card": [117, 0, 117, 0, 117, 0, 117],
+    "Desc": "Une manche nulle lorsque les quatre joueurs défaussent la même tuile de vent à leur premier tour, sans qu'aucun appel n'ait été fait.",
+    "Id": 47,
+    "Name": "Suufon Renda (nul pour quatre vents)",
+    "Special": 0,
+    "Type": 8
+  },
+  "48": {
+    "Card": [1, 1, 1, 1, 0, 9, 9, 9, 9, 0, 57, 57, 57, 57, 0, 97, 97, 97, 97],
+    "Desc": "Une manche nulle lorsqu'un total de quatre carrés est déclaré par deux joueurs ou plus.",
+    "Id": 48,
+    "Name": "Suukaikan (nul pour quatre carrés)",
+    "Special": 0,
+    "Type": 8
+  },
+  "49": {
+    "Card": [1, 33, 37, 57, 69, 73, 81, 85, 89, 93, 109, 113, 125, 0, 129],
+    "Desc": "Un joueur peut déclarer une manche nulle si sa main de départ contient neuf ou plus tuiles terminales ou honneurs différents, à condition qu'aucun appel n'ait été fait avant son premier tour.",
+    "Id": 49,
+    "Name": "Kyuushu Kyuuhai (nul pour neuf terminales/honneurs différents)",
+    "Special": 0,
+    "Type": 8
+  },
+  "5": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 109, 109, 109, 73, 0, 73],
+    "Desc": "Une main contenant un brelan du vent dominant (tour actuel).",
+    "Id": 5,
+    "Name": "Yakuhai (tuiles de valeur) : Vent du tour",
+    "Special": 0,
+    "Type": 1
+  },
+  "50": {
+    "Card": [],
+    "Desc": "Une manche nulle lorsque les quatre joueurs ont déclaré un riichi avec succès.",
+    "Id": 50,
+    "Name": "Suucha Riichi (nul pour quatre riichis)",
+    "Special": 0,
+    "Type": 8
+  },
+  "6": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 125, 125, 125, 73, 0, 73],
+    "Desc": "La main inclut un brelan de n'importe quelle tuile de dragon (blanc, vert ou rouge).",
+    "Id": 6,
+    "Name": "Yakuhai : Tuiles de dragon",
+    "Special": 0,
+    "Type": 1
+  },
+  "7": {
+    "Card": [1, 5, 9, 17, 21, 25, 41, 45, 49, 93, 97, 105, 105, 0, 89],
+    "Desc": "Une main cachée avec 4 suites, une paire sans valeur (pas un dragon, vent du joueur ou vent du tour) et une attente des deux côtés pour la tuile finale.",
+    "Id": 7,
+    "Name": "Pinfu (que des suites sans points)",
+    "Special": 2,
+    "Type": 1
+  },
+  "8": {
+    "Card": [1, 5, 9, 1, 5, 9, 49, 49, 49, 61, 65, 69, 81, 0, 81],
+    "Desc": "La main contient deux suites identiques.",
+    "Id": 8,
+    "Name": "Iipeikou (double suites pures)",
+    "Special": 2,
+    "Type": 1
+  },
+  "9": {
+    "Card": [37, 37, 37, 0, 37],
+    "Desc": "Gagner sur une tuile qu'un adversaire utilise pour faire un ajout à une combinaison déjà existante pour former un carré (une main des treize orphelins peut voler un carré caché).",
+    "Id": 9,
+    "Name": "Chankan (voler un carré)",
+    "Special": 0,
+    "Type": 1
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "680101": {
+    "ActiveLevel": 50,
+    "AutoActive": 0,
+    "BuffId": 680101,
+    "BuffName": "舞空",
+    "Deactive": false,
+    "Desc": "공중에서 느리게 부유하는 능력을 획득한다. <style=\"accent-gn\">점프 도중에 점프 버튼을 길게 누르면 부유 상태가 되며, 상태를 해제할 때까지 스태미나가 지속적으로 소모된다</style>.",
+    "LockItem": [],
+    "Name": "공중 부유",
+    "Style": 0
+  },
+  "680201": {
+    "ActiveLevel": 40,
+    "AutoActive": 0,
+    "BuffId": 680201,
+    "BuffName": "水平跳",
+    "Deactive": false,
+    "Desc": "특수 동작을 통해 전방으로 점프하는 능력을 획득한다.<br>착지 시 <style=\"accent-gn\">점프 리듬바</style>가 나타나며, 적절한 위치에서 다시 점프하면 <style=\"accent-gn\">스태미나 회복 진행도를 쌓을 수 있고, 최대치에 도달하면 스태미나가 대폭 회복된다</style>.",
+    "LockItem": [],
+    "Name": "수평 점프",
+    "Style": 0
+  },
+  "680401": {
+    "ActiveLevel": 48,
+    "AutoActive": 0,
+    "BuffId": 680401,
+    "BuffName": "踢墙跳",
+    "Deactive": false,
+    "Desc": "벽을 박차고 도약하는 능력을 습득한다. 벽에 인접한 상태에서 사용하면 위로 도약할 수 있으며, 점프할 때마다 스태미나가 소모된다.",
+    "LockItem": [],
+    "Name": "입체 점프",
+    "Style": 0
+  },
+  "680501": {
+    "ActiveLevel": 45,
+    "AutoActive": 0,
+    "BuffId": 680501,
+    "BuffName": "蹬墙跑",
+    "Deactive": false,
+    "Desc": "벽을 달리는 능력을 습득한다.<br>달리는 동안 스태미나가 서서히 소모되며, 벽에 매달린 상태가 되면 스태미나를 소모하지 않는다.",
+    "LockItem": [],
+    "Name": "벽 타기",
+    "Style": 0
+  },
+  "680701": {
+    "ActiveLevel": 1,
+    "AutoActive": 1,
+    "BuffId": 680701,
+    "BuffName": "懒人跳",
+    "Deactive": false,
+    "Desc": "일부 장애물을 자동으로 뛰어넘는 능력을 습득하며, 해당 능력은 스태미나를 소모하지 않는다.",
+    "LockItem": [],
+    "Name": "자동 넘기",
+    "Style": 0
+  },
+  "682501": {
+    "ActiveLevel": 18,
+    "AutoActive": 0,
+    "BuffId": 682501,
+    "BuffName": "跳跃次数+1 3段跳 免疫坠落",
+    "Deactive": false,
+    "Desc": "추가 공중 점프 횟수가 1회 증가하며, 스태미나를 소모해 3단 점프를 할 수 있다.<br>또한, 추락 대미지 면역 능력을 획득한다.",
+    "LockItem": [],
+    "Name": "연속 점프",
+    "Style": 0
+  },
+  "682503": {
+    "ActiveLevel": 30,
+    "AutoActive": 0,
+    "BuffId": 682503,
+    "BuffName": "跳跃次数+1 4段跳",
+    "Deactive": false,
+    "Desc": "추가 공중 점프 횟수가 1회 증가한다. 스태미나를 소모해 4단 점프를 할 수 있다.",
+    "LockItem": [],
+    "Name": "연속 점프",
+    "Style": 0
+  },
+  "682505": {
+    "ActiveLevel": 35,
+    "AutoActive": 0,
+    "BuffId": 682505,
+    "BuffName": "跳跃次数+1 5段跳",
+    "Deactive": false,
+    "Desc": "추가 공중 점프 횟수가 1회 증가한다. 대량 스태미나를 소모해 5단 점프를 할 수 있다.",
+    "LockItem": [],
+    "Name": "연속 점프",
+    "Style": 0
+  }
+}

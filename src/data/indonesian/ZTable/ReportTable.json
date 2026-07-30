@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Id": 1,
+    "ReportCategoryDes": ["Pelanggaran Konten Pengumuman", "Pelanggaran Data Pribadi"],
+    "ReportCategoryId": [],
+    "ReportReason": [
+      [101, 102, 103, 104, 105, 106, 108, 199],
+      [901, 999]
+    ],
+    "ReportScene": "Area Bahasa Percakapan",
+    "SceneId": 1
+  },
+  "101": {
+    "Id": 101,
+    "ReportCategoryDes": ["Pelanggaran Rumah"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[798]],
+    "ReportScene": "Area Pembangunan Rumah",
+    "SceneId": 8
+  },
+  "2": {
+    "Id": 2,
+    "ReportCategoryDes": ["Pelanggaran Data Pribadi"],
+    "ReportCategoryId": [9],
+    "ReportReason": [[901, 903, 999]],
+    "ReportScene": "Area Data Pribadi",
+    "SceneId": 2
+  },
+  "6": {
+    "Id": 6,
+    "ReportCategoryDes": ["Pelanggaran Foto"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[799]],
+    "ReportScene": "Laporan Foto Album",
+    "SceneId": 6
+  },
+  "7": {
+    "Id": 7,
+    "ReportCategoryDes": ["Pelanggaran Data Kelompok"],
+    "ReportCategoryId": [8],
+    "ReportReason": [[801, 802, 803, 799, 899]],
+    "ReportScene": "Area Data Kelompok",
+    "SceneId": 7
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "1": {
+    "Describe": "衣装部屋の衣装を累計{*val*}点解放する",
+    "Id": 1,
+    "JumpParam": [101101],
+    "JumpType": 2,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 165
+  },
+  "2": {
+    "Describe": "魚を{*val*}回獲る",
+    "Id": 2,
+    "JumpParam": [],
+    "JumpType": 0,
+    "Num": 2,
+    "Param": [20000013, 20000014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "3": {
+    "Describe": "レシピを{*val*}件解放する",
+    "Id": 3,
+    "JumpParam": [8, 5, 1079],
+    "JumpType": 1,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "4": {
+    "Describe": "（テスト）星脈結束を{*val*}箇所解放する",
+    "Id": 4,
+    "JumpParam": [801001, 7],
+    "JumpType": 2,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "5": {
+    "Describe": "（テスト）自撮りを1回完了する",
+    "Id": 5,
+    "JumpParam": [],
+    "JumpType": 0,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  }
+}

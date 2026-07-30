@@ -1,0 +1,120 @@
+{
+  "100001": {
+    "BeginNode": 100001001,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/boyce/storyboard_boyce_story_01",
+    "EndingNodePool": [100001023, 100001024],
+    "FirstPassAwardId": 31003390,
+    "Id": 100001,
+    "LockedText": "未解放",
+    "PercentageAwardId": [
+      [50, 31003960],
+      [70, 31003970],
+      [100, 31003980]
+    ],
+    "QuestId": 40500,
+    "Remark": "博伊斯角色任务01",
+    "RoleId": 1000,
+    "StoryInfo": "前回ボイスと別れてから、この教団の高位の守衛には長らく会っていなかった。数日前、彼から人づてに「重要な依頼について直接話したい」という伝言があった。待ち合わせ場所はラルパルだ。",
+    "StoryboardName": "進むべき道",
+    "StoryboardNodePool": [
+      100001001, 100001002, 100001003, 100001004, 100001005, 100001006, 100001007, 100001008,
+      100001014, 100001019, 100001023, 100001024
+    ],
+    "UnlockCondition": []
+  },
+  "1001": {
+    "BeginNode": 1001002,
+    "ChartBackgroundPic": "ui/textures/taskinfo_ep/taskinfo_ep02_07",
+    "ChartPic": "ui/textures/taskinfo_ep/taskinfo_ep02_05",
+    "EndingNodePool": [1001006],
+    "FirstPassAwardId": 20210254,
+    "Id": 1001,
+    "LockedText": "未解放",
+    "PercentageAwardId": [
+      [50, 20210251],
+      [70, 20210252],
+      [100, 20210253]
+    ],
+    "QuestId": 30704,
+    "Remark": "test",
+    "RoleId": 1,
+    "StoryInfo": "テストテストテスト",
+    "StoryboardName": "テストツリー",
+    "StoryboardNodePool": [1001001, 1001002, 1001003, 1001004, 1001006],
+    "UnlockCondition": []
+  },
+  "100101": {
+    "BeginNode": 100101001,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/farfara/storyboard_farfara_story_01",
+    "EndingNodePool": [100101009, 100101010, 126589770, 100101013],
+    "FirstPassAwardId": 31003400,
+    "Id": 100101,
+    "LockedText": "未解放",
+    "PercentageAwardId": [
+      [50, 31003850],
+      [70, 31003860],
+      [100, 31003870]
+    ],
+    "QuestId": 40502,
+    "Remark": "法法菈角色任务01",
+    "RoleId": 1001,
+    "StoryInfo": "ファルファラにしばらく会っていない。ラルパルへ行って彼女の様子を見てこよう。",
+    "StoryboardName": "忘れえぬもの",
+    "StoryboardNodePool": [
+      100101001, 100101003, 100101005, 100101004, 100101006, 100101007, 100101008, 100101009,
+      100101010, 100101011, 126589770, 100101012, 100101013, 100101019
+    ],
+    "UnlockCondition": []
+  },
+  "100201": {
+    "BeginNode": 100201002,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/daya/storyboard_daya_story_01",
+    "EndingNodePool": [100201003, 100201004, 100201005, 100201006],
+    "FirstPassAwardId": 31003410,
+    "Id": 100201,
+    "LockedText": "未解放",
+    "PercentageAwardId": [
+      [50, 31003990],
+      [70, 31004000],
+      [100, 31004010]
+    ],
+    "QuestId": 40501,
+    "Remark": "达雅NPC任务",
+    "RoleId": 1002,
+    "StoryInfo": "一通の手紙が届いた。高原にいる親友が何やら悩みを抱え、あなたの助けを必要としているようだ……",
+    "StoryboardName": "露紅色の奇遇",
+    "StoryboardNodePool": [
+      100201001, 100201002, 100201003, 100201004, 100201005, 100201006, 100201007, 100201008,
+      100201009, 100201011, 100201012, 100201013, 100201014, 100201015, 100201017, 100201018,
+      100201021, 100201022, 100201023, 100201025
+    ],
+    "UnlockCondition": []
+  },
+  "100301": {
+    "BeginNode": 100301004,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/iruna/storyboard_iruna_story_01",
+    "EndingNodePool": [100301011, 100301021, 100301024],
+    "FirstPassAwardId": 31003420,
+    "Id": 100301,
+    "LockedText": "未解放",
+    "PercentageAwardId": [
+      [50, 31004130],
+      [70, 31004140],
+      [100, 31004150]
+    ],
+    "QuestId": 40503,
+    "Remark": "",
+    "RoleId": 1003,
+    "StoryInfo": "海風祭が終わると、ラルパルはまたいつもの平穏を取り戻した。そのとき、村の大木の下に、この季節には咲くはずのない海百合が置かれていた。誰が置いたのだろうか？なぜここにあるのか？ある特別な依頼が、こうして幕を開けた……",
+    "StoryboardName": "花束に込めれらた想い",
+    "StoryboardNodePool": [
+      100301004, 100301007, 100301011, 100301012, 100301013, 100301014, 100301016, 100301017,
+      100301019, 100301020, 100301021, 100301023, 100301024
+    ],
+    "UnlockCondition": []
+  }
+}

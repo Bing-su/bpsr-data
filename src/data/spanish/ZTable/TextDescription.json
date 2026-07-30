@@ -1,0 +1,2938 @@
+{
+  "10001": {
+    "Description": "Atuendo recreado mediante un proceso de teñido basado en estilos personalizados de alta costura. Puedes teñirlo como quieras.",
+    "Id": 10001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Edición Croma",
+    "Type": 1
+  },
+  "1001": {
+    "Description": "Diversos ataques de arma que se realizan con la tecla de ataque.",
+    "Id": 1001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ataque básico",
+    "Type": 1
+  },
+  "1002": {
+    "Description": "Forma de ataque básico del arma.",
+    "Id": 1002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ataque básico",
+    "Type": 1
+  },
+  "1003": {
+    "Description": "Ataque pesado generado al mantener pulsada la tecla de ataque.",
+    "Id": 1003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ataque pesado",
+    "Type": 1
+  },
+  "1004": {
+    "Description": "Ataque descendente que se realiza al ejecutar un ataque básico desde cierta altura.",
+    "Id": 1004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ataque en caída",
+    "Type": 1
+  },
+  "1005": {
+    "Description": "El movimiento de habilidad característico más conocido y clave del arma.",
+    "Id": 1005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Habilidades principales",
+    "Type": 1
+  },
+  "1006": {
+    "Description": "Los movimientos de habilidad más usados del arma.",
+    "Id": 1006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Habilidades básicas",
+    "Type": 1
+  },
+  "1007": {
+    "Description": "El arcano de combate definitivo más poderoso del arma.",
+    "Id": 1007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Definitiva",
+    "Type": 1
+  },
+  "1008": {
+    "Description": "Habilidad característica aprendida mediante talentos.",
+    "Id": 1008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Habilidades de talento",
+    "Type": 1
+  },
+  "1009": {
+    "Description": "Habilidad que se puede usar al recibir un golpe y estar en el aire.",
+    "Id": 1009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Habilidad de recuperación",
+    "Type": 1
+  },
+  "1010": {
+    "Description": "Poderosos estilos de habilidad aprendidos a través del talento.",
+    "Id": 1010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Arcano de talento",
+    "Type": 1
+  },
+  "1011": {
+    "Description": "La habilidad puede infligir daño",
+    "Id": 1011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Daño",
+    "Type": 1
+  },
+  "1012": {
+    "Description": "Daño infligido por la habilidad o movimiento.",
+    "Id": 1012,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Daño de habilidad",
+    "Type": 1
+  },
+  "1013": {
+    "Description": "Daño adicional causado por rasgos elementales activados por la habilidad.",
+    "Id": 1013,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Daño por rasgo",
+    "Type": 1
+  },
+  "1014": {
+    "Description": "Efectos que restauran PS.",
+    "Id": 1014,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Curación",
+    "Type": 1
+  },
+  "1015": {
+    "Description": "Restaura una gran cantidad de PS al instante.",
+    "Id": 1015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Curación",
+    "Type": 1
+  },
+  "1016": {
+    "Description": "Restaura PS de forma continua durante un periodo de tiempo.",
+    "Id": 1016,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Curación",
+    "Type": 1
+  },
+  "1017": {
+    "Description": "Efecto que puede ser beneficioso para los aliados en combate.",
+    "Id": 1017,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ventaja",
+    "Type": 1
+  },
+  "1018": {
+    "Description": "Un efecto que mejora la capacidad de combate, la capacidad de movimiento u otras capacidades durante un periodo de tiempo.",
+    "Id": 1018,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bendición",
+    "Type": 1
+  },
+  "1019": {
+    "Description": "Efecto que aumenta mucho la capacidad de combate durante un breve periodo.",
+    "Id": 1019,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Exaltación",
+    "Type": 1
+  },
+  "1020": {
+    "Description": "Los atributos de combate se mejoran mucho. Si se desarrollan bajo talentos, se añaden efectos adicionales.",
+    "Id": 1020,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspiración",
+    "Type": 1
+  },
+  "1021": {
+    "Description": "Varios estados adversos para el combate propio.",
+    "Id": 1021,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Desventaja",
+    "Type": 1
+  },
+  "1022": {
+    "Description": "Un efecto perjudicial que reduce los atributos de combate durante un periodo de tiempo.",
+    "Id": 1022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Debilidad",
+    "Type": 1
+  },
+  "1023": {
+    "Description": "Efecto adverso temporal de mayor DÑO recibido.",
+    "Id": 1023,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Vulnerabilidad",
+    "Type": 1
+  },
+  "1024": {
+    "Description": "Aumenta temporalmente el DÑO recibido. Causa efectos adicionales si se desarrolla bajo ciertos talentos.",
+    "Id": 1024,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Fractura",
+    "Type": 1
+  },
+  "1025": {
+    "Description": "Estado de restricción para varias acciones.",
+    "Id": 1025,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Control",
+    "Type": 1
+  },
+  "1026": {
+    "Description": "Estado de incapacidad para moverse o ejecutar acciones de combate.",
+    "Id": 1026,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Congelación",
+    "Type": 1
+  },
+  "1027": {
+    "Description": "Estado de incapacidad para moverse.",
+    "Id": 1027,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Atadura",
+    "Type": 1
+  },
+  "1028": {
+    "Description": "La entidad afectada entra en un estado incapacitante en el que no puede moverse, realizar acciones de combate ni usar objetos. Aplicar este efecto repetidamente en un corto periodo de tiempo reducirá su duración total. No afecta a los jefes.",
+    "Id": 1028,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aturdimiento",
+    "Type": 1
+  },
+  "1029": {
+    "Description": "Estado de menor velocidad.",
+    "Id": 1029,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ralentización",
+    "Type": 1
+  },
+  "1030": {
+    "Description": "Capacidad para romper la barra de <style=\"ItemQuality_5\">superarmadura</style> de objetivos poderosos.",
+    "Id": 1030,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Tambaleo",
+    "Type": 1
+  },
+  "1031": {
+    "Description": "Las habilidades ayudan a los personajes a moverse rápido.",
+    "Id": 1031,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Desplazamiento",
+    "Type": 1
+  },
+  "1032": {
+    "Description": "Habilidades de desplazamiento continuo.",
+    "Id": 1032,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Esprint",
+    "Type": 1
+  },
+  "1033": {
+    "Description": "Habilidades de desplazamiento no continuo",
+    "Id": 1033,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Destello",
+    "Type": 1
+  },
+  "1034": {
+    "Description": "Habilidades que ayudan al personaje a sobrevivir.",
+    "Id": 1034,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Supervivencia",
+    "Type": 1
+  },
+  "1035": {
+    "Description": "Un <style=\"ItemQuality_5\">escudo</style> de PS adicional que absorbe el daño antes que los PS.",
+    "Id": 1035,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Escudo",
+    "Type": 1
+  },
+  "1036": {
+    "Description": "Fase especial de una habilidad que mitiga parcialmente el DÑO recibido.",
+    "Id": 1036,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bloqueo",
+    "Type": 1
+  },
+  "1037": {
+    "Description": "Inflige DÑO ígneo.",
+    "Id": 1037,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DÑO ígneo",
+    "Type": 1
+  },
+  "1038": {
+    "Description": "Daño con el poder del fuego",
+    "Id": 1038,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Disparar",
+    "Type": 1
+  },
+  "1039": {
+    "Description": "Una desventaja que inflige DÑO ígneo a intervalos durante un periodo de tiempo.",
+    "Id": 1039,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ignición",
+    "Type": 1
+  },
+  "1040": {
+    "Description": "Inflige DÑO gélido.",
+    "Id": 1040,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DÑO gélido",
+    "Type": 1
+  },
+  "1041": {
+    "Description": "Daño con el poder del hielo",
+    "Id": 1041,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Helado",
+    "Type": 1
+  },
+  "1042": {
+    "Description": "Inflige DÑO atronador.",
+    "Id": 1042,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DÑO atronador",
+    "Type": 1
+  },
+  "1043": {
+    "Description": "Daño con poder atronador.",
+    "Id": 1043,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Atronador",
+    "Type": 1
+  },
+  "1044": {
+    "Description": "Inflige DÑO eólico.",
+    "Id": 1044,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Daño eólico",
+    "Type": 1
+  },
+  "1045": {
+    "Description": "Daño con el poder del viento",
+    "Id": 1045,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Eólico",
+    "Type": 1
+  },
+  "1046": {
+    "Description": "Inflige daño de tierra.",
+    "Id": 1046,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Daño de tierra",
+    "Type": 1
+  },
+  "1047": {
+    "Description": "Daño con el poder de la tierra",
+    "Id": 1047,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Rocoso",
+    "Type": 1
+  },
+  "1048": {
+    "Description": "Inflige DÑO forestal.",
+    "Id": 1048,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DÑO forestal",
+    "Type": 1
+  },
+  "1049": {
+    "Description": "Daño con el poder del bosque",
+    "Id": 1049,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Forestal",
+    "Type": 1
+  },
+  "1050": {
+    "Description": "Inflige DÑO lumínico.",
+    "Id": 1050,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DÑO lumínico",
+    "Type": 1
+  },
+  "1051": {
+    "Description": "Daño con el poder de la luz",
+    "Id": 1051,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Lumínico",
+    "Type": 1
+  },
+  "1052": {
+    "Description": "Inflige DÑO oscuro.",
+    "Id": 1052,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DÑO oscuro",
+    "Type": 1
+  },
+  "1053": {
+    "Description": "Daño con el poder de la oscuridad",
+    "Id": 1053,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Oscuro",
+    "Type": 1
+  },
+  "1054": {
+    "Description": "Efectos auxiliares que pueden ejecutar acciones de ataque adicionales o resistir acciones ofensivas.",
+    "Id": 1054,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Asistencia en batalla",
+    "Type": 1
+  },
+  "1055": {
+    "Description": "Efectos que sincronizan acciones de ataque con la batalla.",
+    "Id": 1055,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Coordinación",
+    "Type": 1
+  },
+  "1056": {
+    "Description": "Efectos que realizan ataques independientes para asistir en combate.",
+    "Id": 1056,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Batalla cooperativa",
+    "Type": 1
+  },
+  "1057": {
+    "Description": "Método de liberación de habilidad que requiere tiempo de preparación para alcanzar un mayor poder.",
+    "Id": 1057,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Carga",
+    "Type": 1
+  },
+  "1058": {
+    "Description": "Método de liberación de habilidad que requiere mantener un estado de lanzamiento para continuar el efecto.",
+    "Id": 1058,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Canalización",
+    "Type": 1
+  },
+  "1059": {
+    "Description": "Habilidades en estado de mejora o producción de cambios.",
+    "Id": 1059,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Mejora",
+    "Type": 1
+  },
+  "1060": {
+    "Description": "Recurso necesario para usar ciertas habilidades que puede reponerse con el tiempo o mediante mecanismos específicos.",
+    "Id": 1060,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Carga",
+    "Type": 1
+  },
+  "1061": {
+    "Description": "Tipo de efecto que se activa bajo ciertas condiciones. Los atributos afectan su probabilidad de activación.",
+    "Id": 1061,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Marca",
+    "Type": 1
+  },
+  "1062": {
+    "Description": "Estado que se activa cuando los PS son mayores que los del objetivo. Proporciona bonus de daño y reducción de DÑO, y puede tener efectos adicionales si se desarrolla con ciertos talentos.",
+    "Id": 1062,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Supresión",
+    "Type": 1
+  },
+  "1063": {
+    "Description": "Unidad de combate con un invocador específico. Su estado se ve influenciado por el invocador.",
+    "Id": 1063,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Invocación",
+    "Type": 1
+  },
+  "1064": {
+    "Description": "Invocación que produce efectos bajo ciertas condiciones.",
+    "Id": 1064,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Trampa",
+    "Type": 1
+  },
+  "1065": {
+    "Description": "Invocación que permanece inmóvil por un tiempo y causa efectos a su alrededor.",
+    "Id": 1065,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Tótem",
+    "Type": 1
+  },
+  "1066": {
+    "Description": "Invocación que puede moverse y seguir al invocador para asistir en combate.",
+    "Id": 1066,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Asistente",
+    "Type": 1
+  },
+  "1067": {
+    "Description": "Una criatura invocada con comportamiento autónomo y conciencia propia.",
+    "Id": 1067,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Construcción",
+    "Type": 1
+  },
+  "1068": {
+    "Description": "Mecanismo de habilidad que puede realizar movimientos físicos y causar efectos al impactar.",
+    "Id": 1068,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Proyectil",
+    "Type": 1
+  },
+  "1069": {
+    "Description": "Proyectil pequeño y veloz.",
+    "Id": 1069,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bala",
+    "Type": 1
+  },
+  "1070": {
+    "Description": "Proyectil grande y moderadamente rápido.",
+    "Id": 1070,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Misil",
+    "Type": 1
+  },
+  "1071": {
+    "Description": "Método efectivo en cierto rango.",
+    "Id": 1071,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Efecto de área",
+    "Type": 1
+  },
+  "1072": {
+    "Description": "Efecto de área que puede otorgar estados beneficiosos continuos a uno mismo o a aliados.",
+    "Id": 1072,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Zona",
+    "Type": 1
+  },
+  "1073": {
+    "Description": "Efecto de área que causa daño o estados adversos continuos a enemigos.",
+    "Id": 1073,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "AdE",
+    "Type": 1
+  },
+  "1074": {
+    "Description": "Causa efectos continuos a objetivos al alcance.",
+    "Id": 1074,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aura",
+    "Type": 1
+  },
+  "1075": {
+    "Description": "Entidades mucho más fuertes que los monstruos.",
+    "Id": 1075,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Objetivo poderoso",
+    "Type": 1
+  },
+  "1076": {
+    "Description": "Jefe, jefe salvaje y jefe de mundo.",
+    "Id": 1076,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Jefe",
+    "Type": 1
+  },
+  "1077": {
+    "Description": "Monstruos activos en el continente que suelen tener habilidades de combate básicas.",
+    "Id": 1077,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Monstruo normal",
+    "Type": 1
+  },
+  "1078": {
+    "Description": "Guerreros que sobresalen entre los monstruos y suelen tener una pericia muy amenazante.",
+    "Id": 1078,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Élite",
+    "Type": 1
+  },
+  "1079": {
+    "Description": "Es el más fuerte del grupo y, sin exagerar, puede ser un rey.",
+    "Id": 1079,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Jefe",
+    "Type": 1
+  },
+  "1080": {
+    "Description": "Monstruos poderosos que solo se encuentran en territorios especiales del mapa.",
+    "Id": 1080,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Jefe salvaje",
+    "Type": 1
+  },
+  "1081": {
+    "Description": "El monstruo más poderoso en los mapas de mazmorras.",
+    "Id": 1081,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Jefe de mundo",
+    "Type": 1
+  },
+  "1082": {
+    "Description": "Estado en que los PS no son inferiores al 50 % del límite de PS.",
+    "Id": 1082,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Plenitud",
+    "Type": 1
+  },
+  "1083": {
+    "Description": "Estado en que los PS no son superiores al 30 % del límite de PS.",
+    "Id": 1083,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Afección",
+    "Type": 1
+  },
+  "1084": {
+    "Description": "Habilidades adicionales obtenidas mediante escenarios o niveles.",
+    "Id": 1084,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Habilidad escénica",
+    "Type": 1
+  },
+  "1085": {
+    "Description": "Un estado continuo que se obtiene al refinar el equipo de la serie \"Resplandor\".",
+    "Id": 1085,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Resplandor",
+    "Type": 1
+  },
+  "1086": {
+    "Description": "Inflige daño no elemental.",
+    "Id": 1086,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Daño no elemental",
+    "Type": 1
+  },
+  "1087": {
+    "Description": "El daño es no elemental, por lo que no tiene poder elemental.",
+    "Id": 1087,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "No elemental",
+    "Type": 1
+  },
+  "1088": {
+    "Description": "Varios efectos adversos de una fuente de contaminación desconocida.",
+    "Id": 1088,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Corrosión",
+    "Type": 1
+  },
+  "1089": {
+    "Description": "Un estado continuo que se obtiene al refinar el equipo de la serie \"Resplandor\".",
+    "Id": 1089,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Resplandor",
+    "Type": 1
+  },
+  "1090": {
+    "Description": "Aumenta el daño infligido.",
+    "Id": 1090,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Exaltación",
+    "Type": 1
+  },
+  "1091": {
+    "Description": "No se puede repeler, arrojar ni derribar.",
+    "Id": 1091,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Superarmadura",
+    "Type": 1
+  },
+  "1092": {
+    "Description": "Obliga a los monstruos enemigos a atacar al usuario.",
+    "Id": 1092,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Provocación",
+    "Type": 1
+  },
+  "1093": {
+    "Description": "Refleja el DÑO recibido.",
+    "Id": 1093,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Espina",
+    "Type": 1
+  },
+  "1094": {
+    "Description": "Efectos que afectan directamente la capacidad de combate de una unidad, como la reducción de velocidad, la disminución de atributos o los efectos de control.",
+    "Id": 1094,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Desventaja",
+    "Type": 1
+  },
+  "1095": {
+    "Description": "DÑO recibido <style=\"accent-gn\">+10 %</style> durante <style=\"accent-gn\">5 s</style>.",
+    "Id": 1095,
+    "Par": 3401095,
+    "ShowRule": 1,
+    "Text": "Vulnerabilidad",
+    "Type": 3
+  },
+  "1096": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">100 %</style> del ATQ y permite que la próxima <style=\"accent-gn\">Sobretensión</style> gane <style=\"accent-gn\">2</style> <style=\"accent-gn\">sellos del trueno</style> extra.",
+    "Id": 1096,
+    "Par": 3401096,
+    "ShowRule": 1,
+    "Text": "Corte Penetrante",
+    "Type": 3
+  },
+  "1097": {
+    "Description": "Acelera mucho el uso del <style=\"accent-gn\">ataque especial</style> durante <style=\"accent-gn\">10 s</style>. El efecto termina tras lanzar un <style=\"accent-gn\">ataque especial</style>.",
+    "Id": 1097,
+    "Par": 3401097,
+    "ShowRule": 1,
+    "Text": "Momento Zen",
+    "Type": 3
+  },
+  "1098": {
+    "Description": "Una técnica oculta de <style=\"accent-gn\">Corte Relámpago</style>. Realiza un corte ascendente rápido e inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">300 %</style> del ATQ (aumenta con el nivel/grado de <style=\"accent-gn\">Corte de Ráfaga</style>). Al alcanzar el <style=\"accent-gn\">25 %</style>|<style=\"accent-gn\">50 %</style>|<style=\"accent-gn\">80 %</style> de VEL de ATQ, el conteo de ataques aumenta en <style=\"accent-gn\">1</style>|<style=\"accent-gn\">2</style>|<style=\"accent-gn\">3</style>.",
+    "Id": 1098,
+    "Par": 3401098,
+    "ShowRule": 1,
+    "Text": "Trueno Cortante",
+    "Type": 3
+  },
+  "1099": {
+    "Description": "Cada onda inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">100 %</style> del ATQ.<br>Comienza con <style=\"accent-gn\">1</style> onda. Gana <style=\"accent-gn\">1</style> onda extra por cada <style=\"accent-gn\">10 %</style> de maestría (hasta <style=\"accent-gn\">4</style> ondas).",
+    "Id": 1099,
+    "Par": 3401099,
+    "ShowRule": 1,
+    "Text": "Área de viento cortante",
+    "Type": 3
+  },
+  "1100": {
+    "Description": "Efecto de suerte: Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">80 %</style> del ATQ al enemigo.",
+    "Id": 1100,
+    "Par": 3401100,
+    "ShowRule": 1,
+    "Text": "Impacto Atronador",
+    "Type": 3
+  },
+  "1101": {
+    "Description": "Gira continuamente durante <style=\"accent-gn\">35 s</style>, lo que inflige <style=\"physical\">DÑO de ataque</style> equivalente al <style=\"accent-gn\">50 %</style> de ATQ cada <style=\"accent-gn\">2 s</style> (escala con el nivel/grado de la Rueda de Guadaña).",
+    "Id": 1101,
+    "Par": 3401101,
+    "ShowRule": 1,
+    "Text": "Filos Lunares",
+    "Type": 3
+  },
+  "1102": {
+    "Description": "No se puede repeler, arrojar ni derribar.",
+    "Id": 1102,
+    "Par": 3401102,
+    "ShowRule": 1,
+    "Text": "Superarmadura",
+    "Type": 3
+  },
+  "1103": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">100 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">3</style> metros.",
+    "Id": 1103,
+    "Par": 3401103,
+    "ShowRule": 1,
+    "Text": "Estallido del Trueno",
+    "Type": 3
+  },
+  "1104": {
+    "Description": "Al usar una habilidad que consuma <style=\"accent-gn\">sellos del trueno</style>, cada <style=\"accent-gn\">sello del trueno</style> adicional consumido aumenta el DÑO de la habilidad en un <style=\"accent-gn\">25 %</style>.",
+    "Id": 1104,
+    "Par": 3401104,
+    "ShowRule": 1,
+    "Text": "Sello del trueno",
+    "Type": 3
+  },
+  "1105": {
+    "Description": "Inflige DÑO masivo según la cantidad de <style=\"accent-gn\">sellos del trueno</style> consumidos en los últimos <style=\"accent-gn\">10 s</style>.<br><style=\"accent-gn\">Cada</style> <style=\"accent-gn\">sello del trueno</style> consumido inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">100 %</style> del ATQ (hasta el <style=\"accent-gn\">15.000 %</style>).",
+    "Id": 1105,
+    "Par": 3401105,
+    "ShowRule": 1,
+    "Text": "Corte Definitivo",
+    "Type": 3
+  },
+  "1106": {
+    "Description": "Puede acumular hasta <style=\"accent-gn\">20</style> <style=\"accent-gn\">semillas de carga</style>. Al lanzar <style=\"accent-gn\">Corte Relámpago</style>, consume <style=\"accent-gn\">15</style> <style=\"accent-gn\">semillas de carga</style> para activar <style=\"accent-gn\">Guadaña Tormenta</style> e inflige <style=\"physical\">DÑO de ataque</style> a los objetivos circundantes.",
+    "Id": 1106,
+    "Par": 3401106,
+    "ShowRule": 1,
+    "Text": "Semilla de carga",
+    "Type": 3
+  },
+  "1107": {
+    "Description": "Otorga al objetivo bendecido <style=\"accent-gn\">100</style> puntos de <style=\"accent-gn\">intelecto</style>, <style=\"accent-gn\">fuerza</style>, <style=\"accent-gn\">agilidad</style> y <style=\"accent-gn\">aguante</style>, así como un <style=\"accent-gn\">1.5 %</style> de <style=\"accent-gn\">crítico</style>, <style=\"accent-gn\">presteza</style>, <style=\"accent-gn\">suerte</style>, <style=\"accent-gn\">maestría</style> y <style=\"accent-gn\">versatilidad</style>.",
+    "Id": 1107,
+    "Par": 3401107,
+    "ShowRule": 1,
+    "Text": "Inspiración",
+    "Type": 3
+  },
+  "1108": {
+    "Description": "Cuando una <style=\"accent-gn\">habilidad de pericia</style> o <style=\"accent-gn\">definitiva</style> curativa restaura PS, consume <style=\"accent-gn\">2</style> <style=\"accent-gn\">brotes regenerativos</style> y lanza una <style=\"accent-gn\">semilla nutritiva</style> una vez cada <style=\"accent-gn\">1 s</style>.<br>Cuando una <style=\"accent-gn\">habilidad de pericia</style> o <style=\"accent-gn\">definitiva</style> de DÑO inflige DÑO, consume <style=\"accent-gn\">2</style> <style=\"accent-gn\">brotes regenerativos</style> y dispara una <style=\"accent-gn\">semilla salvaje</style> una vez <style=\"accent-gn\">por</style> segundo.",
+    "Id": 1108,
+    "Par": 3401108,
+    "ShowRule": 1,
+    "Text": "Brote regenerativo",
+    "Type": 3
+  },
+  "1109": {
+    "Description": "La Cadena Curativa rebota entre aliados y restaura PS iguales al <style=\"accent-gn\">40 %</style> del ATQ por rebote. Comienza con <style=\"accent-gn\">2</style> rebotes.",
+    "Id": 1109,
+    "Par": 3401109,
+    "ShowRule": 1,
+    "Text": "Cadena Curativa",
+    "Type": 3
+  },
+  "1110": {
+    "Description": "Se expande hasta <style=\"accent-gn\">20 m</style> y restaura PS iguales al <style=\"accent-gn\">150 %</style> del ATQ a todos los aliados golpeados.",
+    "Id": 1110,
+    "Par": 3401110,
+    "ShowRule": 1,
+    "Text": "Pulso curativo",
+    "Type": 3
+  },
+  "1111": {
+    "Description": "Otorga a un aliado un <style=\"accent-gn\">escudo</style> igual al <style=\"accent-gn\">150 %</style> del ATQ durante <style=\"accent-gn\">5 s</style>.",
+    "Id": 1111,
+    "Par": 3401111,
+    "ShowRule": 1,
+    "Text": "Escudo Natural",
+    "Type": 3
+  },
+  "1112": {
+    "Description": "",
+    "Id": 1112,
+    "Par": 3401112,
+    "ShowRule": 1,
+    "Text": "Carga de Ciervo",
+    "Type": 3
+  },
+  "1113": {
+    "Description": "Restaura automáticamente PS iguales al <style=\"accent-gn\">60 %</style> del ATQ a los aliados a menos de <style=\"accent-gn\">3 m</style>.",
+    "Id": 1113,
+    "Par": 3401113,
+    "ShowRule": 1,
+    "Text": "Orbe curativo",
+    "Type": 3
+  },
+  "1114": {
+    "Description": "A menos de <style=\"accent-gn\">3 m</style> del <style=\"accent-gn\">orbe de engrama</style>, gana <style=\"accent-gn\">1</style> <style=\"accent-gn\">brote regenerativo</style>. El <style=\"accent-gn\">orbe de engrama</style> dura hasta <style=\"accent-gn\">3 s</style>.",
+    "Id": 1114,
+    "Par": 3401114,
+    "ShowRule": 1,
+    "Text": "Orbe de engrama",
+    "Type": 3
+  },
+  "1115": {
+    "Description": "Cuando toca el suelo, restaura PS iguales al <style=\"accent-gn\">40 %</style> del ATQ a todos los aliados.",
+    "Id": 1115,
+    "Par": 3401115,
+    "ShowRule": 1,
+    "Text": "Semilla Nutritiva",
+    "Type": 3
+  },
+  "1116": {
+    "Description": "Explota al contacto con un enemigo e inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">100 %</style> del ATQ.",
+    "Id": 1116,
+    "Par": 3401116,
+    "ShowRule": 1,
+    "Text": "Semilla Salvaje",
+    "Type": 3
+  },
+  "1117": {
+    "Description": "Inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">20 %</style> del ATQ por segundo al enemigo durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 1117,
+    "Par": 3401117,
+    "ShowRule": 1,
+    "Text": "Espina",
+    "Type": 3
+  },
+  "1118": {
+    "Description": "",
+    "Id": 1118,
+    "Par": 3401118,
+    "ShowRule": 1,
+    "Text": "Tallo floral",
+    "Type": 3
+  },
+  "1119": {
+    "Description": "La próxima <style=\"accent-gn\">habilidad de pericia</style> usada tiene un <style=\"accent-gn\">50 %</style> menos de TdR.",
+    "Id": 1119,
+    "Par": 3401119,
+    "ShowRule": 1,
+    "Text": "Perspicacia Carmesí",
+    "Type": 3
+  },
+  "1120": {
+    "Description": "Tras el próximo lanzamiento de una <style=\"accent-gn\">habilidad de pericia</style>, aumenta la curación en un <style=\"accent-gn\">20 %</style> durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 1120,
+    "Par": 3401120,
+    "ShowRule": 1,
+    "Text": "Devoción Dorada",
+    "Type": 3
+  },
+  "1121": {
+    "Description": "El próximo <style=\"accent-gn\">Brote Vital</style> otorga al objetivo un <style=\"accent-gn\">escudo</style> durante <style=\"accent-gn\">8 s</style>. Absorbe DÑO igual al <style=\"accent-gn\">200 %</style> del ATQ. Los objetivos con el <style=\"accent-gn\">escudo</style> reciben un <style=\"accent-gn\">10 %</style> menos de DÑO de todas las fuentes.",
+    "Id": 1121,
+    "Par": 3401121,
+    "ShowRule": 1,
+    "Text": "Solaz Claroluna",
+    "Type": 3
+  },
+  "1122": {
+    "Description": "Si se recibe DÑO y el porcentaje de PS supera al del atacante, reduce el DÑO infligido por el atacante en un <style=\"accent-gn\">10 %</style>.<br>Si se inflige DÑO y el porcentaje de PS supera al del objetivo, aumenta el DÑO infligido en un <style=\"accent-gn\">10 %</style>.",
+    "Id": 1122,
+    "Par": 3401122,
+    "ShowRule": 1,
+    "Text": "Supresión",
+    "Type": 3
+  },
+  "1123": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">50 %</style> del ATQ a un enemigo y otorga <style=\"accent-gn\">1</style> <style=\"accent-gn\">cristal de arena</style>.",
+    "Id": 1123,
+    "Par": 3401123,
+    "ShowRule": 1,
+    "Text": "Golpe a la Debilidad",
+    "Type": 3
+  },
+  "1124": {
+    "Description": "Mejora la efectividad del escudo en un <style=\"accent-gn\">15 %</style> durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 1124,
+    "Par": 3401124,
+    "ShowRule": 1,
+    "Text": "Escudo Rocoso Amplificado",
+    "Type": 3
+  },
+  "1125": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">100 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">3 m</style>, ignora el <style=\"accent-gn\">bloqueo</style> y genera amenaza significativa.",
+    "Id": 1125,
+    "Par": 3401125,
+    "ShowRule": 1,
+    "Text": "Contrachoque",
+    "Type": 3
+  },
+  "1126": {
+    "Description": "Al realizar un <style=\"accent-gn\">bloqueo</style>, gana probabilidad de activar <style=\"accent-gn\">bloqueo de suerte</style> según el porcentaje de suerte.",
+    "Id": 1126,
+    "Par": 3401126,
+    "ShowRule": 1,
+    "Text": "Bloqueo de Suerte",
+    "Type": 3
+  },
+  "1127": {
+    "Description": "Durante los próximos <style=\"accent-gn\">7 s</style>, <style=\"accent-gn\">Golpe de Escudo</style> se convierte en un combo de dos golpes y no cuesta <style=\"accent-gn\">furia</style> ni <style=\"accent-gn\">cristales de arena</style>, además de otorgar un <style=\"accent-gn\">escudo</style> a uno mismo. El efecto termina tras usarse <style=\"accent-gn\">Golpe de Escudo</style>.",
+    "Id": 1127,
+    "Par": 3401127,
+    "ShowRule": 1,
+    "Text": "Combo de Escudo",
+    "Type": 3
+  },
+  "1128": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">300 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">5 m</style>. Durante los próximos <style=\"accent-gn\">5 s</style>, recupera <style=\"accent-gn\">20</style> de <style=\"accent-gn\">furia</style> cada <style=\"accent-gn\">1 s</style>. Este efecto no se acumula.",
+    "Id": 1128,
+    "Par": 3401128,
+    "ShowRule": 1,
+    "Text": "Eco de Escudo",
+    "Type": 3
+  },
+  "1129": {
+    "Description": "Reduce el DÑO recibido en un <style=\"accent-gn\">50 %</style> y aumenta la curación recibida en un <style=\"accent-gn\">30 %</style> durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 1129,
+    "Par": 3401129,
+    "ShowRule": 1,
+    "Text": "Instinto de Supervivencia",
+    "Type": 3
+  },
+  "1130": {
+    "Description": "Restaura un <style=\"accent-gn\">3 %</style> del máximo de <style=\"accent-gn\">energía gélida</style> por segundo durante <style=\"accent-gn\">10 s</style> (escala con maestría y presteza).",
+    "Id": 1130,
+    "Par": 3401130,
+    "ShowRule": 1,
+    "Text": "Ley de la Oleada de Energía",
+    "Type": 3
+  },
+  "1131": {
+    "Description": "Golpea a <style=\"accent-gn\">1</style> enemigo (el más cercano) e inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">70 %</style> del ATQ.",
+    "Id": 1131,
+    "Par": 3401131,
+    "ShowRule": 1,
+    "Text": "Granito",
+    "Type": 3
+  },
+  "1132": {
+    "Description": "Se acerca forzosamente para atacar al objetivo.",
+    "Id": 1132,
+    "Par": 3401132,
+    "ShowRule": 1,
+    "Text": "Deslumbramiento",
+    "Type": 3
+  },
+  "1133": {
+    "Description": "<style=\"accent-gn\">Melodía Heroica</style> o <style=\"accent-gn\">Melodía Curativa</style>",
+    "Id": 1133,
+    "Par": 3401133,
+    "ShowRule": 1,
+    "Text": "Melodía",
+    "Type": 3
+  },
+  "1134": {
+    "Description": "Una versión mejorada de <style=\"accent-gn\">Estallido de Furia</style> que invoca rocas gigantes alrededor. Estas luego explotan para infligir <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">750 %</style> del ATQ (aumenta con el nivel/grado de <style=\"accent-gn\">Estallido de Furia</style>). <br>No consume <style=\"accent-gn\">cristales de arena</style>.",
+    "Id": 1134,
+    "Par": 3401134,
+    "ShowRule": 1,
+    "Text": "Desgarro Terrestre",
+    "Type": 3
+  },
+  "1135": {
+    "Description": "DÑO infligido <style=\"accent-gn\">+20 %</style> y VEL de MOV <style=\"accent-gn\">+10 %</style>. Gana <style=\"accent-gn\">superarmadura</style>.",
+    "Id": 1135,
+    "Par": 3401135,
+    "ShowRule": 1,
+    "Text": "Enfurecido",
+    "Type": 3
+  },
+  "1136": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">300 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">3</style> metros.",
+    "Id": 1136,
+    "Par": 3401136,
+    "ShowRule": 1,
+    "Text": "Choque de Cristal de Arena",
+    "Type": 3
+  },
+  "1137": {
+    "Description": "Reduce el <style=\"magic\">DÑO mágico</style> recibido por el lanzador dentro del círculo en un <style=\"accent-gn\">50 %</style>. Los aliados (hasta <style=\"accent-gn\">10</style>) que estén dentro absorben directamente el <style=\"accent-gn\">50 %</style> del daño que reciben.",
+    "Id": 1137,
+    "Par": 3401137,
+    "ShowRule": 1,
+    "Text": "Campo de Arena",
+    "Type": 3
+  },
+  "1138": {
+    "Description": "Cuando la <style=\"accent-gn\">energía fotónica</style> está llena, usar un <style=\"accent-gn\">ataque especial</style> permite entrar en <style=\"accent-gn\">reforja fotónica</style>. En este estado, los <style=\"accent-gn\">ataques especiales</style> y ciertas <style=\"accent-gn\">pericias</style> se mejoran. La <style=\"accent-gn\">reforja fotónica</style> se agota de a poco, y el estado termina cuando llega a <style=\"accent-gn\">0</style>.",
+    "Id": 1138,
+    "Par": 3401138,
+    "ShowRule": 1,
+    "Text": "Reforja fotónica",
+    "Type": 3
+  },
+  "1139": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">80 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">5 m</style>. Por cada enemigo adicional golpeado, aumenta el DÑO infligido en un <style=\"accent-gn\">30 %</style> (aumenta con el nivel/grado del <style=\"accent-gn\">ataque básico</style>, hasta el <style=\"accent-gn\">120 %</style>).",
+    "Id": 1139,
+    "Par": 3401139,
+    "ShowRule": 1,
+    "Text": "Coletazo",
+    "Type": 3
+  },
+  "1140": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">100 %</style> del ATQ a un enemigo y causa <style=\"accent-gn\">sangrado</style>.",
+    "Id": 1140,
+    "Par": 3401140,
+    "ShowRule": 1,
+    "Text": "Salto y Mordida",
+    "Type": 3
+  },
+  "1141": {
+    "Description": "El efecto dura <style=\"accent-gn\">5 s</style> e inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">10 %</style> del ATQ por segundo. Si se vuelve a aplicar desde la misma fuente antes de que termine el <style=\"accent-gn\">sangrado</style> anterior, inflige todo el DÑO restante del <style=\"accent-gn\">sangrado</style> anterior de inmediato.",
+    "Id": 1141,
+    "Par": 3401141,
+    "ShowRule": 1,
+    "Text": "Sangrado",
+    "Type": 3
+  },
+  "1142": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">50 %</style> del ATQ al enemigo.",
+    "Id": 1142,
+    "Par": 3401142,
+    "ShowRule": 1,
+    "Text": "Flecha Buscaluz",
+    "Type": 3
+  },
+  "1143": {
+    "Description": "Inflige al enemigo <style=\"physical\">DÑO de ataque</style> equivalente al <style=\"accent-gn\">410 %</style> del ATQ.",
+    "Id": 1143,
+    "Par": 3401143,
+    "ShowRule": 1,
+    "Text": "Golpe de Rayo",
+    "Type": 3
+  },
+  "1144": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">100 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">3</style> metros.",
+    "Id": 1144,
+    "Par": 3401144,
+    "ShowRule": 1,
+    "Text": "Flecha explosiva",
+    "Type": 3
+  },
+  "1145": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">250 %</style> del ATQ a los enemigos al alcance.",
+    "Id": 1145,
+    "Par": 3401145,
+    "ShowRule": 1,
+    "Text": "Pisotón",
+    "Type": 3
+  },
+  "1146": {
+    "Description": "Bate las alas en el lugar, lo que aumenta la tasa de obtención de energía fotónica en un <style=\"accent-gn\">100 %</style> durante los próximos <style=\"accent-gn\">10 s</style>.",
+    "Id": 1146,
+    "Par": 3401146,
+    "ShowRule": 1,
+    "Text": "Águila Legendaria",
+    "Type": 3
+  },
+  "1147": {
+    "Description": "Suelta un aullido feroz y aumenta el bonus lumínico en un <style=\"accent-gn\">50 %</style> durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 1147,
+    "Par": 3401147,
+    "ShowRule": 1,
+    "Text": "Jabalí Legendario",
+    "Type": 3
+  },
+  "1148": {
+    "Description": "Cuando las acumulaciones de <style=\"accent-gn\">Pico de Acero</style> llegan a <style=\"accent-gn\">5</style> o más, cada acumulación adicional de <style=\"accent-gn\">Pico de Acero</style> obtenida tiene una probabilidad fija del <style=\"accent-gn\">30 %</style> de activar una <style=\"accent-gn\">implosión</style>, que inflige <style=\"physical\">DÑO de ataque</style> equivalente al <style=\"accent-gn\">100 %</style> del ATQ a los enemigos en el área. <style=\"accent-gn\">Pico de Acero</style> pierde <style=\"accent-gn\">1</style> acumulación <style=\"accent-gn\">por</style> segundo y se acumula hasta <style=\"accent-gn\">20</style> veces.",
+    "Id": 1148,
+    "Par": 3401148,
+    "ShowRule": 1,
+    "Text": "Pico de Acero",
+    "Type": 3
+  },
+  "1149": {
+    "Description": "Crea una tormenta con un radio de <style=\"accent-gn\">5 m</style> e inflige el <style=\"accent-gn\">80 %</style> del ATQ como <style=\"magic\">DÑO de ataque</style> que ignora armadura a los objetivos marcados con <style=\"accent-gn\">Pico de Acero</style> en la tormenta cada <style=\"accent-gn\">0</style>.<style=\"accent-gn\">5 s</style>. Tras <style=\"accent-gn\">5 s</style>, el <style=\"accent-gn\">águila celestial</style> se lanza en picada al suelo e inflige el <style=\"accent-gn\">500 %</style> del ATQ como <style=\"magic\">DÑO de ataque</style> que ignora armadura.",
+    "Id": 1149,
+    "Par": 3401149,
+    "ShowRule": 1,
+    "Text": "Águila celestial",
+    "Type": 3
+  },
+  "1150": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">400 %</style> del ATQ al enemigo.",
+    "Id": 1150,
+    "Par": 3401150,
+    "ShowRule": 1,
+    "Text": "Halcón fantasma",
+    "Type": 3
+  },
+  "1151": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">35 %</style> del ATQ al enemigo (aumenta con el nivel/grado del <style=\"accent-gn\">ataque básico</style>).",
+    "Id": 1151,
+    "Par": 3401151,
+    "ShowRule": 1,
+    "Text": "Flecha dividida",
+    "Type": 3
+  },
+  "1152": {
+    "Description": "ATQ <style=\"accent-gn\">+5 %</style> durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 1152,
+    "Par": 3401152,
+    "ShowRule": 1,
+    "Text": "Afilado",
+    "Type": 3
+  },
+  "1153": {
+    "Description": "El objetivo pierde PS iguales al <style=\"accent-gn\">25 %</style> del ATQ por segundo durante <style=\"accent-gn\">8 s</style>.",
+    "Id": 1153,
+    "Par": 3401153,
+    "ShowRule": 1,
+    "Text": "Desgarro",
+    "Type": 3
+  },
+  "1154": {
+    "Description": "DÑO de <style=\"accent-gn\">desgarro</style> <style=\"accent-gn\">+100 %</style> durante <style=\"accent-gn\">5 s</style>.",
+    "Id": 1154,
+    "Par": 3401154,
+    "ShowRule": 1,
+    "Text": "Ruptura",
+    "Type": 3
+  },
+  "1155": {
+    "Description": "<style=\"accent-gn\">Fuerza</style> <style=\"accent-gn\">+30 %</style> durante <style=\"accent-gn\">12 s</style>.",
+    "Id": 1155,
+    "Par": 3401155,
+    "ShowRule": 1,
+    "Text": "Impulso de vigor",
+    "Type": 3
+  },
+  "1156": {
+    "Description": "Efecto de suerte: Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">150 %</style> del ATQ.",
+    "Id": 1156,
+    "Par": 3401156,
+    "ShowRule": 1,
+    "Text": "Estocada de Lanza",
+    "Type": 3
+  },
+  "1157": {
+    "Description": "DÑO de <style=\"accent-gn\">Filo Instantáneo</style> <style=\"accent-gn\">+30 %</style> durante <style=\"accent-gn\">10 s</style>. Se acumula hasta <style=\"accent-gn\">2</style> veces y se consume 1 acumulación tras el uso de <style=\"accent-gn\">Filo Instantáneo</style>.",
+    "Id": 1157,
+    "Par": 3401157,
+    "ShowRule": 1,
+    "Text": "Paso Persecutor",
+    "Type": 3
+  },
+  "1158": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> equivalente al <style=\"accent-gn\">350 %</style> del ATQ a los enemigos en el área.",
+    "Id": 1158,
+    "Par": 3401158,
+    "ShowRule": 1,
+    "Text": "Tornado",
+    "Type": 3
+  },
+  "1159": {
+    "Description": "Una versión mejorada de <style=\"accent-gn\">Impacto Afilado</style>. Salta por el aire e inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">800 %</style> del ATQ total al objetivo y enemigos circundantes (aumenta con el nivel/grado de <style=\"accent-gn\">Impacto Afilado</style>).",
+    "Id": 1159,
+    "Par": 3401159,
+    "ShowRule": 1,
+    "Text": "Tifón: Impacto Afilado",
+    "Type": 3
+  },
+  "1160": {
+    "Description": "Cuando Meteoro de Hielo inflige DÑO, el <style=\"accent-gn\">Núcleo de Cristal Helado</style> dispara una <style=\"accent-gn\">Flecha Helada</style> y otorga 1 <style=\"accent-gn\">Cristal Gélido</style>.",
+    "Id": 1160,
+    "Par": 3401160,
+    "ShowRule": 1,
+    "Text": "Talento: Golpe Fragmentador",
+    "Type": 3
+  },
+  "1161": {
+    "Description": "Otorga efectos extra a ciertas habilidades.",
+    "Id": 1161,
+    "Par": 3401161,
+    "ShowRule": 1,
+    "Text": "Cristal gélido",
+    "Type": 3
+  },
+  "1162": {
+    "Description": "Inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">100 %</style> del ATQ al objetivo.",
+    "Id": 1162,
+    "Par": 3401162,
+    "ShowRule": 1,
+    "Text": "Rayo helado",
+    "Type": 3
+  },
+  "1163": {
+    "Description": "Inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">100 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">3 m</style>.",
+    "Id": 1163,
+    "Par": 3401163,
+    "ShowRule": 1,
+    "Text": "Impacto Gélido",
+    "Type": 3
+  },
+  "1164": {
+    "Description": "Lanza una <style=\"accent-gn\">lanza gélida</style> que perfora a objetivos e inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">250 %</style> del ATQ.",
+    "Id": 1164,
+    "Par": 3401164,
+    "ShowRule": 1,
+    "Text": "Lanza Gélida Perforante",
+    "Type": 3
+  },
+  "1165": {
+    "Description": "Efecto de suerte: Invoca <style=\"accent-gn\">Cometa Gélido</style> del cielo e inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">200 %</style> del ATQ al enemigo.",
+    "Id": 1165,
+    "Par": 3401165,
+    "ShowRule": 1,
+    "Text": "Cometa Gélido",
+    "Type": 3
+  },
+  "1166": {
+    "Description": "Lanza un fuerte pulso desde el rayo gélido e inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">500 %</style> del ATQ a los enemigos golpeados.",
+    "Id": 1166,
+    "Par": 3401166,
+    "ShowRule": 1,
+    "Text": "Pulso Gélido",
+    "Type": 3
+  },
+  "1167": {
+    "Description": "Gana <style=\"accent-gn\">2</style> de <style=\"accent-gn\">Voluntad del Filo</style> por segundo. Comienza con un máximo de <style=\"accent-gn\">100</style> de <style=\"accent-gn\">Voluntad del Filo</style>.<br>Cuando la <style=\"accent-gn\">Voluntad del Filo</style> llega a <style=\"accent-gn\">100</style>, acelera mucho el uso de <style=\"accent-gn\">Corte de Iaido</style>. Usar <style=\"accent-gn\">Corte de Iaido</style> consume <style=\"accent-gn\">100</style> de <style=\"accent-gn\">Voluntad del Filo</style>.<br>La <style=\"accent-gn\">Voluntad del Filo</style> también se puede usar como recurso para <style=\"accent-gn\">Corte Relámpago</style>.",
+    "Id": 1167,
+    "Par": 3401167,
+    "ShowRule": 1,
+    "Text": "Voluntad del Filo",
+    "Type": 3
+  },
+  "1168": {
+    "Description": "Mejora la efectividad del <style=\"accent-gn\">escudo</style> en un <style=\"accent-gn\">3 %</style>. El efecto dura <style=\"accent-gn\">10 s</style> y se acumula hasta <style=\"accent-gn\">10</style> veces.",
+    "Id": 1168,
+    "Par": 3401168,
+    "ShowRule": 1,
+    "Text": "Refugio Arenoso",
+    "Type": 3
+  },
+  "1169": {
+    "Description": "Salta e inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">400 %</style> del ATQ a los enemigos al alcance. Siempre activa <style=\"accent-gn\">Golpe a la Debilidad</style> (aumenta con el nivel/grado del <style=\"accent-gn\">ataque básico</style>).",
+    "Id": 1169,
+    "Par": 3401169,
+    "ShowRule": 1,
+    "Text": "Golpe Furioso",
+    "Type": 3
+  },
+  "1170": {
+    "Description": "Otorga probabilidad de <style=\"accent-gn\">bloquear</style> <style=\"physical\">DÑO de ataque</style> y reducirlo en un <style=\"accent-gn\">30 %</style>.",
+    "Id": 1170,
+    "Par": 3401170,
+    "ShowRule": 1,
+    "Text": "Bloqueo",
+    "Type": 3
+  },
+  "1171": {
+    "Description": "Inmoviliza al objetivo y aumenta el DÑO gélido recibido en un <style=\"accent-gn\">20 %</style> durante <style=\"accent-gn\">10 s</style>. El efecto se disipa al recibir DÑO. Aplicar rápido este efecto en un periodo breve reduce su duración total. No afecta a los jefes.",
+    "Id": 1171,
+    "Par": 3401171,
+    "ShowRule": 1,
+    "Text": "Congelación",
+    "Type": 3
+  },
+  "1172": {
+    "Description": "Otorga luz al escudo y absorbe el <style=\"accent-gn\">50 %</style> del DÑO recibido. El efecto puede acumular absorción y restablecer la duración cuando la habilidad se vuelve a usar. La absorción máxima no puede exceder el <style=\"accent-gn\">100 %</style> de los PS máx.",
+    "Id": 1172,
+    "Par": 3401172,
+    "ShowRule": 1,
+    "Text": "Escudo Radiante",
+    "Type": 3
+  },
+  "1173": {
+    "Description": "Restaura PS iguales al <style=\"accent-gn\">20 %</style> del ATQ a los aliados cada <style=\"accent-gn\">0.5 s</style> durante <style=\"accent-gn\">5 s</style>.",
+    "Id": 1173,
+    "Par": 3401173,
+    "ShowRule": 1,
+    "Text": "Oleada Sónica",
+    "Type": 3
+  },
+  "1174": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">150 %</style> del ATQ al enemigo.",
+    "Id": 1174,
+    "Par": 3401174,
+    "ShowRule": 1,
+    "Text": "Impacto Radiante",
+    "Type": 3
+  },
+  "1175": {
+    "Description": "Cada acumulación aumenta los PS máx. en un <style=\"accent-gn\">2 %</style>, y <style=\"accent-gn\">Barrera Lumínica</style> se acumula hasta <style=\"accent-gn\">10</style> veces. Cualquier DÑO recibido consume <style=\"accent-gn\">1</style> acumulación. El efecto dura <style=\"accent-gn\">25 s</style> o hasta que se consuman todas las acumulaciones. La duración se restablece cada vez que se gana una nueva acumulación.",
+    "Id": 1175,
+    "Par": 3401175,
+    "ShowRule": 1,
+    "Text": "Barrera Lumiforjada",
+    "Type": 3
+  },
+  "1176": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> equivalente al <style=\"accent-gn\">240 %</style> de ATQ al objetivo, que aumenta con el nivel/grado de <style=\"accent-gn\">Golpe de Vanguardia</style>. <br>Cuando <style=\"accent-gn\">Caza de Vanguardia</style> inflige DÑO, restaura un <style=\"accent-gn\">2 %</style> de los PS máx. y otorga <style=\"accent-gn\">Coraje Indómito</style>.",
+    "Id": 1176,
+    "Par": 3401176,
+    "ShowRule": 1,
+    "Text": "Caza de Vanguardia",
+    "Type": 3
+  },
+  "1177": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> equivalente al <style=\"accent-gn\">50 %</style> de ATQ y reduce la VEL de MOV del objetivo en un <style=\"accent-gn\">25 %</style>.",
+    "Id": 1177,
+    "Par": 3401177,
+    "ShowRule": 1,
+    "Text": "Golpe Divino",
+    "Type": 3
+  },
+  "1178": {
+    "Description": "<style=\"accent-gn\">Melodía</style> (desc.)",
+    "Id": 1178,
+    "Par": 3401178,
+    "ShowRule": 1,
+    "Text": "Melodía",
+    "Type": 3
+  },
+  "1179": {
+    "Description": "<style=\"accent-gn\">Fuerza</style> <style=\"accent-gn\">+12 %</style> durante <style=\"accent-gn\">8 s</style>.",
+    "Id": 1179,
+    "Par": 3401179,
+    "ShowRule": 1,
+    "Text": "Golpe Tempestad",
+    "Type": 3
+  },
+  "1180": {
+    "Description": "Dispara una nota de cuerda a un enemigo o aliado cercano, y le inflige DÑO o una curación equivalente al <style=\"accent-gn\">50 %</style> del ATQ o ATQ-M más alto.",
+    "Id": 1180,
+    "Par": 3401180,
+    "ShowRule": 1,
+    "Text": "Bis",
+    "Type": 3
+  },
+  "1181": {
+    "Description": "<style=\"accent-gn\">Intelecto</style> <style=\"accent-gn\">+5 %</style> durante <style=\"accent-gn\">6 s</style>.",
+    "Id": 1181,
+    "Par": 3401181,
+    "ShowRule": 1,
+    "Text": "Pasión Ardiente",
+    "Type": 3
+  },
+  "1182": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">50 %</style> × acumulaciones del ATQ por segundo durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 1182,
+    "Par": 3401182,
+    "ShowRule": 1,
+    "Text": "Quemadura",
+    "Type": 3
+  },
+  "1183": {
+    "Description": "<style=\"accent-gn\">Nota</style> (desc.)",
+    "Id": 1183,
+    "Par": 3401183,
+    "ShowRule": 1,
+    "Text": "Nota",
+    "Type": 3
+  },
+  "1184": {
+    "Description": "<style=\"accent-gn\">Oleada Sónica</style>",
+    "Id": 1184,
+    "Par": 3401184,
+    "ShowRule": 1,
+    "Text": "Oleada Sónica",
+    "Type": 3
+  },
+  "1185": {
+    "Description": "Aplica a los objetivos aliados cercanos curación igual al <style=\"accent-gn\">10 %</style> del ATQ-M del artista del ritmo.",
+    "Id": 1185,
+    "Par": 3401185,
+    "ShowRule": 1,
+    "Text": "Onda Curadora",
+    "Type": 3
+  },
+  "1186": {
+    "Description": "<style=\"accent-gn\">Barrera Sónica</style>",
+    "Id": 1186,
+    "Par": 3401186,
+    "ShowRule": 1,
+    "Text": "Barrera Sónica",
+    "Type": 3
+  },
+  "1187": {
+    "Description": "Aumenta el DÑO infligido en un <style=\"accent-gn\">15 %</style> y la VEL de ATQ en un <style=\"accent-gn\">10 %</style> durante <style=\"accent-gn\">15 s</style>.",
+    "Id": 1187,
+    "Par": 3401187,
+    "ShowRule": 1,
+    "Text": "Furia de Viento",
+    "Type": 3
+  },
+  "1188": {
+    "Description": "Inflige el <style=\"accent-gn\">80 %</style> del ATQ como <style=\"physical\">DÑO de ataque</style> a los objetivos enemigos.",
+    "Id": 1188,
+    "Par": 3401188,
+    "ShowRule": 1,
+    "Text": "Flecha fotónica",
+    "Type": 3
+  },
+  "1189": {
+    "Description": "Inflige el <style=\"accent-gn\">300 %</style> del ATQ como <style=\"magic\">DÑO mágico</style> a los objetivos enemigos circundantes.",
+    "Id": 1189,
+    "Par": 3401189,
+    "ShowRule": 1,
+    "Text": "Impacto Frondoso",
+    "Type": 3
+  },
+  "1190": {
+    "Description": "Inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">60 %</style> del ATQ a los enemigos al alcance (aumenta con el nivel/grado del <style=\"accent-gn\">ataque básico</style>).",
+    "Id": 1190,
+    "Par": 3401190,
+    "ShowRule": 1,
+    "Text": "Estallido de Torre Ígnea",
+    "Type": 3
+  },
+  "1191": {
+    "Description": "Libera una onda de choque ardiente en un radio de <style=\"accent-gn\">5 m</style> alrededor del aventurero e inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">100 %</style> del ATQ a los enemigos golpeados.",
+    "Id": 1191,
+    "Par": 3401191,
+    "ShowRule": 1,
+    "Text": "Impacto Abrasador",
+    "Type": 3
+  },
+  "1192": {
+    "Description": "Restaura PS iguales al <style=\"accent-gn\">35 %</style> del ATQ en total en <style=\"accent-gn\">10 s</style>. Cuando se otorga una <style=\"accent-gn\">nota</style> de nuevo, activa de inmediato la curación restante de la <style=\"accent-gn\">nota</style> anterior.",
+    "Id": 1192,
+    "Par": 3401192,
+    "ShowRule": 1,
+    "Text": "Nota",
+    "Type": 3
+  },
+  "1193": {
+    "Description": "Cada vez que se lanza una <style=\"accent-gn\">habilidad de pericia</style> de daño o curación, hay una probabilidad fija del <style=\"accent-gn\">50 %</style> de activar <style=\"accent-gn\">Cuerdas del Bis</style> una vez. Esto inflige DÑO al objetivo o cura al aliado con menos PS (prioriza a los miembros del grupo).",
+    "Id": 1193,
+    "Par": 3401193,
+    "ShowRule": 1,
+    "Text": "Cuerdas del Bis",
+    "Type": 3
+  },
+  "1194": {
+    "Description": "Se mueve y canaliza durante 6 s. Además, lanza continuamente Estallido Pasional hacia delante.",
+    "Id": 1194,
+    "Par": 3401194,
+    "ShowRule": 1,
+    "Text": "Furia Pasional",
+    "Type": 3
+  },
+  "1195": {
+    "Description": "Gana al instante <style=\"accent-gn\">100</style> de <style=\"accent-gn\">energía</style> y reinicia el TdR de todas las <style=\"accent-gn\">pericias</style> curativas de inmediato. Aumenta el ATQ-M en un <style=\"accent-gn\">30 %</style> durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 1195,
+    "Par": 3401195,
+    "ShowRule": 1,
+    "Text": "Trascendencia",
+    "Type": 3
+  },
+  "1196": {
+    "Description": "Levanta el escudo, carga hacia delante e inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">200 %</style> del ATQ a cualquier enemigo golpeado.",
+    "Id": 1196,
+    "Par": 3401196,
+    "ShowRule": 1,
+    "Text": "Impacto de Escudo",
+    "Type": 3
+  },
+  "1197": {
+    "Description": "Inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">100 %</style> del ATQ a los enemigos al alcance.",
+    "Id": 1197,
+    "Par": 3401197,
+    "ShowRule": 1,
+    "Text": "Choque Ígneo",
+    "Type": 3
+  },
+  "1198": {
+    "Description": "Tras <style=\"accent-gn\">10 s</style>, desata una explosión de <style=\"accent-gn\">energía</style> sagrada alrededor, inflige DÑO de ataque igual al <style=\"accent-gn\">500 %</style> del <style=\"physical\">ATQ</style> y restaura el <style=\"accent-gn\">15 %</style> de los PS máx.",
+    "Id": 1198,
+    "Par": 3401198,
+    "ShowRule": 1,
+    "Text": "Núcleo Radiante",
+    "Type": 3
+  },
+  "1199": {
+    "Description": "El objetivo recibe DÑO igual al <style=\"accent-gn\">20 %</style> del ATQ por segundo durante <style=\"accent-gn\">10 s</style>. En este periodo, cada vez que se recibe DÑO del objetivo, hay una probabilidad fija del <style=\"accent-gn\">10 %</style> de restaurar PS iguales al <style=\"accent-gn\">0.5 %</style> de los PS máx.",
+    "Id": 1199,
+    "Par": 3401199,
+    "ShowRule": 1,
+    "Text": "Marca sagrada",
+    "Type": 3
+  },
+  "1200": {
+    "Description": "Efecto de suerte: Inflige DÑO adaptativo equivalente al <style=\"accent-gn\">1375 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">3 m</style>, pero no puede infligir DÑO crítico.",
+    "Id": 1200,
+    "Par": 3401200,
+    "ShowRule": 1,
+    "Text": "Impacto de Fantasía",
+    "Type": 3
+  },
+  "1201": {
+    "Description": "Inflige DÑO adaptativo equivalente al <style=\"accent-gn\">850 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">3 m</style>, y el DÑO crítico siempre se calcula al <style=\"accent-gn\">500 %</style>.",
+    "Id": 1201,
+    "Par": 3401201,
+    "ShowRule": 1,
+    "Text": "Ejecución Fantasma",
+    "Type": 3
+  },
+  "1202": {
+    "Description": "Inflige DÑO adaptativo equivalente al <style=\"accent-gn\">165 %</style> de ATQ a los enemigos en un radio de <style=\"accent-gn\">3 m</style>.",
+    "Id": 1202,
+    "Par": 3401202,
+    "ShowRule": 1,
+    "Text": "Flecha Fantasma",
+    "Type": 3
+  },
+  "1203": {
+    "Description": "ATQ +<style=\"accent-gn\">18</style> por acumulación (hasta +<style=\"accent-gn\">50</style>, aumenta con el nivel de temporada).",
+    "Id": 1203,
+    "Par": 3401203,
+    "ShowRule": 1,
+    "Text": "Ensueño Ilusorio",
+    "Type": 3
+  },
+  "1204": {
+    "Description": "Aumenta los atributos principales en <style=\"accent-gn\">450</style> (hasta <style=\"accent-gn\">1050</style>, aumenta con el nivel de temporada). No se puede obtener Vestigio mientras dure el efecto.",
+    "Id": 1204,
+    "Par": 3401204,
+    "ShowRule": 1,
+    "Text": "Fuerza Onírica",
+    "Type": 3
+  },
+  "1205": {
+    "Description": "ATQ -<style=\"accent-gn\">20 %</style>, DÑO onírico recibido +<style=\"accent-gn\">10 %</style>, VEL de MOV -<style=\"accent-gn\">20 %</style> (no se acumula).",
+    "Id": 1205,
+    "Par": 3401205,
+    "ShowRule": 1,
+    "Text": "Olvido",
+    "Type": 3
+  },
+  "1206": {
+    "Description": "Inflige DÑO adaptativo equivalente al <style=\"accent-gn\">200 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">5 m</style> y los <linktext=3005><style=\"ItemQuality_5\">aturde</style></linktext> durante <style=\"accent-gn\">1</style>.<style=\"accent-gn\">5 s</style>.",
+    "Id": 1206,
+    "Par": 3401206,
+    "ShowRule": 1,
+    "Text": "Golpe de Aniquilación",
+    "Type": 3
+  },
+  "1207": {
+    "Description": "Inmune a la muerte.",
+    "Id": 1207,
+    "Par": 3401207,
+    "ShowRule": 1,
+    "Text": "Al Borde de la Muerte",
+    "Type": 3
+  },
+  "1208": {
+    "Description": "Inflige DÑO adaptativo equivalente al <style=\"accent-gn\">330 %</style> de armadura a los enemigos en un radio de <style=\"accent-gn\">5 m</style>.",
+    "Id": 1208,
+    "Par": 3401208,
+    "ShowRule": 1,
+    "Text": "Ilusión Fragmentada",
+    "Type": 3
+  },
+  "1209": {
+    "Description": "PS máx. +<style=\"accent-gn\">3 %</style>, maestría +<style=\"accent-gn\">2 %</style>, hasta <style=\"accent-gn\">3</style> acumulaciones.",
+    "Id": 1209,
+    "Par": 3401209,
+    "ShowRule": 1,
+    "Text": "Mente Infinita",
+    "Type": 3
+  },
+  "1210": {
+    "Description": "Cada <style=\"accent-gn\">2</style> de FUE/INT/AGI se convierte en <style=\"accent-gn\">1</style> de ATQ.<br>Cada <style=\"accent-gn\">1</style> de aguante se convierte en <style=\"accent-gn\">8</style> de PS máx.<br>Cada <style=\"accent-gn\">1 %</style> de presteza se convierte en un <style=\"accent-gn\">0.6 %</style> de VEL de ATQ y un <style=\"accent-gn\">1 %</style> de VEL de lanzamiento.<br>Cada <style=\"accent-gn\">1 %</style> de versatilidad aumenta el daño infligido, la curación y los escudos en un <style=\"accent-gn\">0.35 %</style>, y la reducción de DÑO en un <style=\"accent-gn\">0.15 %</style>.<br>Cada <style=\"accent-gn\">1 %</style> de maestría se convierte en un bonus de daño universal del <style=\"accent-gn\">0.5 %</style>.",
+    "Id": 1210,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Poder del Artesano",
+    "Type": 1
+  },
+  "1211": {
+    "Description": "VEL de ATQ de <style=\"accent-gn\">habilidad de pericia</style> +<style=\"accent-gn\">5 %</style> durante <style=\"accent-gn\">10</style> s, se acumula hasta <style=\"accent-gn\">5</style> veces.",
+    "Id": 1211,
+    "Par": 3401211,
+    "ShowRule": 1,
+    "Text": "Combo Infernal",
+    "Type": 3
+  },
+  "1212": {
+    "Description": "Otorga un <style=\"accent-gn\">10 %</style> de bonus ígneo durante <style=\"accent-gn\">8</style> s.",
+    "Id": 1212,
+    "Par": 3401212,
+    "ShowRule": 1,
+    "Text": "Llamarada",
+    "Type": 3
+  },
+  "1213": {
+    "Description": "Inflige un <style=\"accent-gn\">35 % × conteo de cargas</style> del ATQ como <style=\"physical\">DÑO de ataque</style> cada <style=\"accent-gn\">2</style> s durante <style=\"accent-gn\">10</style> s. Se acumula hasta <style=\"accent-gn\">10</style> veces. Cuando <style=\"accent-gn\">Quemadura</style> alcanza las cargas máximas, las nuevas cargas de <style=\"accent-gn\">Quemadura</style> infligidas infligen inmediatamente un <style=\"accent-gn\">35 %</style> del ATQ como <style=\"physical\">DÑO de ataque</style>.",
+    "Id": 1213,
+    "Par": 3401213,
+    "ShowRule": 1,
+    "Text": "Quemadura",
+    "Type": 3
+  },
+  "1214": {
+    "Description": "Inflige un <style=\"accent-gn\">800 %</style> de ATQ como <style=\"physical\">DÑO de ataque</style> a los enemigos al alcance y otorga <style=\"accent-gn\">10</style> de <style=\"accent-gn\">alma ígnea</style>.",
+    "Id": 1214,
+    "Par": 3401214,
+    "ShowRule": 1,
+    "Text": "Explosión",
+    "Type": 3
+  },
+  "1215": {
+    "Description": "Inflige un <style=\"accent-gn\">500 %</style> de ATQ como <style=\"physical\">DÑO de ataque</style> a los objetivos enemigos.",
+    "Id": 1215,
+    "Par": 3401215,
+    "ShowRule": 1,
+    "Text": "Meteoro de fuego infernal",
+    "Type": 3
+  },
+  "1216": {
+    "Description": "Cada golpe tiene probabilidad de añadir fases adicionales según el multiplicador de la habilidad actual:<br>Probabilidad de <style=\"accent-gn\">fase 1</style> de Corte de Llama Amorfa: <style=\"accent-gn\">20 %</style>.<br>Probabilidad de <style=\"accent-gn\">fase 2</style> de Corte de Llama Amorfa: <style=\"accent-gn\">10 %</style>.<br>Probabilidad de <style=\"accent-gn\">fase 3</style> de Corte de Llama Amorfa: <style=\"accent-gn\">5 %</style>.",
+    "Id": 1216,
+    "Par": 3401216,
+    "ShowRule": 1,
+    "Text": "Corte de Llama Amorfa",
+    "Type": 3
+  },
+  "1217": {
+    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> equivalente al <style=\"accent-gn\">800 %</style> del ATQ a los enemigos en el área.",
+    "Id": 1217,
+    "Par": 3401217,
+    "ShowRule": 1,
+    "Text": "Gran Loto Carmesí",
+    "Type": 3
+  },
+  "1218": {
+    "Description": "Al recibir DÑO, si el porcentaje de PS propios es mayor que el del atacante, el DÑO recibido de ese atacante se reduce en un <style=\"accent-gn\">10 %</style>.<br>Al infligir DÑO, si el porcentaje de PS propios es mayor que el del objetivo, el DÑO infligido a ese objetivo aumenta en un <style=\"accent-gn\">5 %</style>.",
+    "Id": 1218,
+    "Par": 3401218,
+    "ShowRule": 1,
+    "Text": "Supresión Ígnea",
+    "Type": 3
+  },
+  "1219": {
+    "Description": "Cada <style=\"accent-gn\">2</style> puntos de FUE/INT/AGI se convierten en <style=\"accent-gn\">1</style> de ATQ.<br>Cada <style=\"accent-gn\">1</style> punto de aguante se convierte en <style=\"accent-gn\">8</style> de PS máx.<br>El <style=\"accent-gn\">% de crítico</style>, <style=\"accent-gn\">% de suerte</style>, <style=\"accent-gn\">% de maestría</style>, <style=\"accent-gn\">% de presteza</style> y <style=\"accent-gn\">% de versatilidad</style> pierden sus efectos originales y obtienen una nueva capacidad: se garantiza que el daño de habilidad de la habilidad de resonancia actual sea un golpe crítico, pero el DÑO crítico es fijo y se calcula como la suma de <style=\"accent-gn\">% de crítico + % de suerte + % de maestría + % de presteza + % de versatilidad</style>.",
+    "Id": 1219,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Conversión de capacidad",
+    "Type": 1
+  },
+  "1500": {
+    "Description": "",
+    "Id": 1500,
+    "Par": 1714,
+    "ShowRule": 1,
+    "Text": "Corte de Iaido",
+    "Type": 2
+  },
+  "1501": {
+    "Description": "",
+    "Id": 1501,
+    "Par": 1717,
+    "ShowRule": 1,
+    "Text": "Ataque Relámpago",
+    "Type": 2
+  },
+  "1502": {
+    "Description": "",
+    "Id": 1502,
+    "Par": 1713,
+    "ShowRule": 1,
+    "Text": "Combo del Olvido",
+    "Type": 2
+  },
+  "1503": {
+    "Description": "",
+    "Id": 1503,
+    "Par": 1724,
+    "ShowRule": 1,
+    "Text": "Corte Relámpago",
+    "Type": 2
+  },
+  "1504": {
+    "Description": "",
+    "Id": 1504,
+    "Par": 1730,
+    "ShowRule": 1,
+    "Text": "Descarga de Voltios",
+    "Type": 2
+  },
+  "1505": {
+    "Description": "",
+    "Id": 1505,
+    "Par": 1731,
+    "ShowRule": 1,
+    "Text": "Destello Tempestivo",
+    "Type": 2
+  },
+  "1506": {
+    "Description": "",
+    "Id": 1506,
+    "Par": 1738,
+    "ShowRule": 1,
+    "Text": "Rompecaos",
+    "Type": 2
+  },
+  "1507": {
+    "Description": "",
+    "Id": 1507,
+    "Par": 1715,
+    "ShowRule": 1,
+    "Text": "Ataque Lunar",
+    "Type": 2
+  },
+  "1508": {
+    "Description": "",
+    "Id": 1508,
+    "Par": 1246,
+    "ShowRule": 1,
+    "Text": "Pozo de Marea",
+    "Type": 2
+  },
+  "1509": {
+    "Description": "",
+    "Id": 1509,
+    "Par": 1241,
+    "ShowRule": 1,
+    "Text": "Rayo Gélido",
+    "Type": 2
+  },
+  "1510": {
+    "Description": "",
+    "Id": 1510,
+    "Par": 1211,
+    "ShowRule": 1,
+    "Text": "Velo de Cristal",
+    "Type": 2
+  },
+  "1511": {
+    "Description": "",
+    "Id": 1511,
+    "Par": 1239,
+    "ShowRule": 1,
+    "Text": "Tormenta Meteórica",
+    "Type": 2
+  },
+  "1512": {
+    "Description": "",
+    "Id": 1512,
+    "Par": 1242,
+    "ShowRule": 1,
+    "Text": "Lanza Gélida",
+    "Type": 2
+  },
+  "1513": {
+    "Description": "",
+    "Id": 1513,
+    "Par": 1244,
+    "ShowRule": 1,
+    "Text": "Ventisca",
+    "Type": 2
+  },
+  "1514": {
+    "Description": "",
+    "Id": 1514,
+    "Par": 1240,
+    "ShowRule": 1,
+    "Text": "Vendaval Congelado",
+    "Type": 2
+  },
+  "1515": {
+    "Description": "",
+    "Id": 1515,
+    "Par": 1243,
+    "ShowRule": 1,
+    "Text": "Hielo Eterno",
+    "Type": 2
+  },
+  "1516": {
+    "Description": "",
+    "Id": 1516,
+    "Par": 1248,
+    "ShowRule": 1,
+    "Text": "Himno Glacial",
+    "Type": 2
+  },
+  "1517": {
+    "Description": "",
+    "Id": 1517,
+    "Par": 1418,
+    "ShowRule": 1,
+    "Text": "Embestida de Vendaval",
+    "Type": 2
+  },
+  "1518": {
+    "Description": "",
+    "Id": 1518,
+    "Par": 1430,
+    "ShowRule": 1,
+    "Text": "Ciclón del Valor",
+    "Type": 2
+  },
+  "1519": {
+    "Description": "",
+    "Id": 1519,
+    "Par": 1424,
+    "ShowRule": 1,
+    "Text": "Filo Instantáneo",
+    "Type": 2
+  },
+  "1520": {
+    "Description": "",
+    "Id": 1520,
+    "Par": 1419,
+    "ShowRule": 1,
+    "Text": "Colapso Celestial",
+    "Type": 2
+  },
+  "1521": {
+    "Description": "",
+    "Id": 1521,
+    "Par": 1431,
+    "ShowRule": 1,
+    "Text": "Impacto Afilado",
+    "Type": 2
+  },
+  "1522": {
+    "Description": "",
+    "Id": 1522,
+    "Par": 1422,
+    "ShowRule": 1,
+    "Text": "Persecución de Brecha",
+    "Type": 2
+  },
+  "1523": {
+    "Description": "",
+    "Id": 1523,
+    "Par": 1421,
+    "ShowRule": 1,
+    "Text": "Embestida en Espiral",
+    "Type": 2
+  },
+  "1524": {
+    "Description": "",
+    "Id": 1524,
+    "Par": 1425,
+    "ShowRule": 1,
+    "Text": "Impulso de Halcón",
+    "Type": 2
+  },
+  "1525": {
+    "Description": "",
+    "Id": 1525,
+    "Par": 1409,
+    "ShowRule": 1,
+    "Text": "Corte de Tifón",
+    "Type": 2
+  },
+  "1526": {
+    "Description": "",
+    "Id": 1526,
+    "Par": 1518,
+    "ShowRule": 1,
+    "Text": "Brote Salvaje",
+    "Type": 2
+  },
+  "1527": {
+    "Description": "",
+    "Id": 1527,
+    "Par": 1507,
+    "ShowRule": 1,
+    "Text": "Brote Vital",
+    "Type": 2
+  },
+  "1528": {
+    "Description": "",
+    "Id": 1528,
+    "Par": 1522,
+    "ShowRule": 1,
+    "Text": "Nutrición",
+    "Type": 2
+  },
+  "1529": {
+    "Description": "",
+    "Id": 1529,
+    "Par": 1519,
+    "ShowRule": 1,
+    "Text": "Semilla Feral",
+    "Type": 2
+  },
+  "1530": {
+    "Description": "",
+    "Id": 1530,
+    "Par": 1520,
+    "ShowRule": 1,
+    "Text": "Infusión",
+    "Type": 2
+  },
+  "1531": {
+    "Description": "",
+    "Id": 1531,
+    "Par": 1509,
+    "ShowRule": 1,
+    "Text": "Brote del Círculo Divino",
+    "Type": 2
+  },
+  "1532": {
+    "Description": "",
+    "Id": 1532,
+    "Par": 1523,
+    "ShowRule": 1,
+    "Text": "Pulso Regenerativo",
+    "Type": 2
+  },
+  "1533": {
+    "Description": "",
+    "Id": 1533,
+    "Par": 1529,
+    "ShowRule": 1,
+    "Text": "Carga Floral",
+    "Type": 2
+  },
+  "1534": {
+    "Description": "",
+    "Id": 1534,
+    "Par": 1521,
+    "ShowRule": 1,
+    "Text": "Deseo Arbolado",
+    "Type": 2
+  },
+  "1535": {
+    "Description": "",
+    "Id": 1535,
+    "Par": 1531,
+    "ShowRule": 1,
+    "Text": "Protección Natural",
+    "Type": 2
+  },
+  "1536": {
+    "Description": "",
+    "Id": 1536,
+    "Par": 1907,
+    "ShowRule": 1,
+    "Text": "Eco Agrietado",
+    "Type": 2
+  },
+  "1537": {
+    "Description": "",
+    "Id": 1537,
+    "Par": 1924,
+    "ShowRule": 1,
+    "Text": "Ruptura Estelar",
+    "Type": 2
+  },
+  "1538": {
+    "Description": "",
+    "Id": 1538,
+    "Par": 1931,
+    "ShowRule": 1,
+    "Text": "Contrachoque",
+    "Type": 2
+  },
+  "1539": {
+    "Description": "",
+    "Id": 1539,
+    "Par": 1937,
+    "ShowRule": 1,
+    "Text": "Furia de Granito",
+    "Type": 2
+  },
+  "1540": {
+    "Description": "",
+    "Id": 1540,
+    "Par": 1922,
+    "ShowRule": 1,
+    "Text": "Golpe de Escudo",
+    "Type": 2
+  },
+  "1541": {
+    "Description": "",
+    "Id": 1541,
+    "Par": 1927,
+    "ShowRule": 1,
+    "Text": "Cubierta Arenosa",
+    "Type": 2
+  },
+  "1542": {
+    "Description": "",
+    "Id": 1542,
+    "Par": 1936,
+    "ShowRule": 1,
+    "Text": "Forma Rocosa",
+    "Type": 2
+  },
+  "1543": {
+    "Description": "",
+    "Id": 1543,
+    "Par": 1938,
+    "ShowRule": 1,
+    "Text": "Bastión Valiente",
+    "Type": 2
+  },
+  "1544": {
+    "Description": "",
+    "Id": 1544,
+    "Par": 1925,
+    "ShowRule": 1,
+    "Text": "Estallido de Furia",
+    "Type": 2
+  },
+  "1545": {
+    "Description": "",
+    "Id": 1545,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Disparo Creciente",
+    "Type": 2
+  },
+  "1546": {
+    "Description": "",
+    "Id": 1546,
+    "Par": 2209,
+    "ShowRule": 1,
+    "Text": "Rayo Luminario",
+    "Type": 2
+  },
+  "1547": {
+    "Description": "",
+    "Id": 1547,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Flecha Doble",
+    "Type": 2
+  },
+  "1548": {
+    "Description": "",
+    "Id": 1548,
+    "Par": 2238,
+    "ShowRule": 1,
+    "Text": "Tiro Explosivo",
+    "Type": 2
+  },
+  "1549": {
+    "Description": "",
+    "Id": 1549,
+    "Par": 2237,
+    "ShowRule": 1,
+    "Text": "Llamada Salvaje",
+    "Type": 2
+  },
+  "1550": {
+    "Description": "",
+    "Id": 1550,
+    "Par": 2232,
+    "ShowRule": 1,
+    "Text": "Lluvia de Flechas",
+    "Type": 2
+  },
+  "1551": {
+    "Description": "",
+    "Id": 1551,
+    "Par": 1528,
+    "ShowRule": 1,
+    "Text": "Aumento Vital",
+    "Type": 2
+  },
+  "1552": {
+    "Description": "",
+    "Id": 1552,
+    "Par": 1527,
+    "ShowRule": 1,
+    "Text": "Curación Floral",
+    "Type": 2
+  },
+  "1553": {
+    "Description": "",
+    "Id": 1553,
+    "Par": 1420,
+    "ShowRule": 1,
+    "Text": "Forma de Vendaval",
+    "Type": 2
+  },
+  "1554": {
+    "Description": "",
+    "Id": 1554,
+    "Par": 1718,
+    "ShowRule": 1,
+    "Text": "Destello Raijin",
+    "Type": 2
+  },
+  "1555": {
+    "Description": "",
+    "Id": 1555,
+    "Par": 2231,
+    "ShowRule": 1,
+    "Text": "Enfoque",
+    "Type": 2
+  },
+  "1556": {
+    "Description": "",
+    "Id": 1556,
+    "Par": 1705,
+    "ShowRule": 1,
+    "Text": "Sobretensión",
+    "Type": 2
+  },
+  "1557": {
+    "Description": "",
+    "Id": 1557,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Llamarada Cuádruple",
+    "Type": 2
+  },
+  "1558": {
+    "Description": "",
+    "Id": 1558,
+    "Par": 1210,
+    "ShowRule": 1,
+    "Text": "Vorágine",
+    "Type": 2
+  },
+  "1559": {
+    "Description": "",
+    "Id": 1559,
+    "Par": 2421,
+    "ShowRule": 1,
+    "Text": "Hoja Sagrada",
+    "Type": 2
+  },
+  "1560": {
+    "Description": "",
+    "Id": 1560,
+    "Par": 2409,
+    "ShowRule": 1,
+    "Text": "Círculo Divino",
+    "Type": 2
+  },
+  "1561": {
+    "Description": "",
+    "Id": 1561,
+    "Par": 2405,
+    "ShowRule": 1,
+    "Text": "Golpe del Valor",
+    "Type": 2
+  },
+  "1562": {
+    "Description": "",
+    "Id": 1562,
+    "Par": 2408,
+    "ShowRule": 1,
+    "Text": "Lanzamiento de Escudo",
+    "Type": 2
+  },
+  "1563": {
+    "Description": "",
+    "Id": 1563,
+    "Par": 2412,
+    "ShowRule": 1,
+    "Text": "Ajuste de Cuentas",
+    "Type": 2
+  },
+  "1564": {
+    "Description": "",
+    "Id": 1564,
+    "Par": 2410,
+    "ShowRule": 1,
+    "Text": "Juicio",
+    "Type": 2
+  },
+  "1565": {
+    "Description": "",
+    "Id": 1565,
+    "Par": 2415,
+    "ShowRule": 1,
+    "Text": "Protección de Égida",
+    "Type": 2
+  },
+  "1566": {
+    "Description": "",
+    "Id": 1566,
+    "Par": 2406,
+    "ShowRule": 1,
+    "Text": "Golpe de Vanguardia",
+    "Type": 2
+  },
+  "1567": {
+    "Description": "",
+    "Id": 1567,
+    "Par": 2419,
+    "ShowRule": 1,
+    "Text": "Cruzada Ardiente",
+    "Type": 2
+  },
+  "1568": {
+    "Description": "",
+    "Id": 1568,
+    "Par": 2420,
+    "ShowRule": 1,
+    "Text": "Resplandor",
+    "Type": 2
+  },
+  "1569": {
+    "Description": "",
+    "Id": 1569,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Melodía Inspiradora",
+    "Type": 2
+  },
+  "1570": {
+    "Description": "",
+    "Id": 1570,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Oleada Térmica",
+    "Type": 2
+  },
+  "1571": {
+    "Description": "",
+    "Id": 1571,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Vórtice Rítmico",
+    "Type": 2
+  },
+  "1572": {
+    "Description": "",
+    "Id": 1572,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Deslizamiento Apasionado",
+    "Type": 2
+  },
+  "1573": {
+    "Description": "",
+    "Id": 1573,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Máxima Potencia",
+    "Type": 2
+  },
+  "1574": {
+    "Description": "",
+    "Id": 1574,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Reanimación Vital",
+    "Type": 2
+  },
+  "1575": {
+    "Description": "",
+    "Id": 1575,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Melodía Floreciente",
+    "Type": 2
+  },
+  "1576": {
+    "Description": "",
+    "Id": 1576,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Rapsodia Apasionada",
+    "Type": 2
+  },
+  "1577": {
+    "Description": "",
+    "Id": 1577,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Onda Sanadora",
+    "Type": 2
+  },
+  "1578": {
+    "Description": "",
+    "Id": 1578,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Nota Explosiva",
+    "Type": 2
+  },
+  "1579": {
+    "Description": "",
+    "Id": 1579,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "Golpe Escénico",
+    "Type": 2
+  },
+  "1580": {
+    "Description": "",
+    "Id": 1580,
+    "Par": 2230,
+    "ShowRule": 1,
+    "Text": "Descarga Torrencial",
+    "Type": 2
+  },
+  "1581": {
+    "Description": "",
+    "Id": 1581,
+    "Par": 2234,
+    "ShowRule": 1,
+    "Text": "Aluvión de Resplandor",
+    "Type": 2
+  },
+  "1582": {
+    "Description": "",
+    "Id": 1582,
+    "Par": 2233,
+    "ShowRule": 1,
+    "Text": "Tiro Potente",
+    "Type": 2
+  },
+  "1583": {
+    "Description": "",
+    "Id": 1583,
+    "Par": 1524,
+    "ShowRule": 1,
+    "Text": "Crecimiento Rápido",
+    "Type": 2
+  },
+  "1584": {
+    "Description": "",
+    "Id": 1584,
+    "Par": 1735,
+    "ShowRule": 1,
+    "Text": "Dragofulgor",
+    "Type": 2
+  },
+  "1585": {
+    "Description": "",
+    "Id": 1585,
+    "Par": 1736,
+    "ShowRule": 1,
+    "Text": "Corte Fantasma",
+    "Type": 2
+  },
+  "1586": {
+    "Description": "",
+    "Id": 1586,
+    "Par": 1733,
+    "ShowRule": 1,
+    "Text": "Guadaña Tormenta",
+    "Type": 2
+  },
+  "1587": {
+    "Description": "",
+    "Id": 1587,
+    "Par": 1737,
+    "ShowRule": 1,
+    "Text": "Hoz Divina",
+    "Type": 2
+  },
+  "1588": {
+    "Description": "",
+    "Id": 1588,
+    "Par": 1734,
+    "ShowRule": 1,
+    "Text": "Corte Atronador",
+    "Type": 2
+  },
+  "1589": {
+    "Description": "",
+    "Id": 1589,
+    "Par": 1433,
+    "ShowRule": 1,
+    "Text": "Ruptura Azulina",
+    "Type": 2
+  },
+  "1590": {
+    "Description": "",
+    "Id": 1590,
+    "Par": 1434,
+    "ShowRule": 1,
+    "Text": "Ataque Torbellino",
+    "Type": 2
+  },
+  "1591": {
+    "Description": "",
+    "Id": 1591,
+    "Par": 1435,
+    "ShowRule": 1,
+    "Text": "Cañón Dragontino",
+    "Type": 2
+  },
+  "1592": {
+    "Description": "",
+    "Id": 1592,
+    "Par": 1411,
+    "ShowRule": 1,
+    "Text": "Hoja Veloz",
+    "Type": 2
+  },
+  "1593": {
+    "Description": "",
+    "Id": 1593,
+    "Par": 1525,
+    "ShowRule": 1,
+    "Text": "Carga de Ciervo",
+    "Type": 2
+  },
+  "1594": {
+    "Description": "",
+    "Id": 1594,
+    "Par": 1941,
+    "ShowRule": 1,
+    "Text": "Lluvia Estelar",
+    "Type": 2
+  },
+  "1595": {
+    "Description": "",
+    "Id": 1595,
+    "Par": 1942,
+    "ShowRule": 1,
+    "Text": "Ruptura",
+    "Type": 2
+  },
+  "1597": {
+    "Description": "",
+    "Id": 1597,
+    "Par": 1943,
+    "ShowRule": 1,
+    "Text": "Puño Piedra",
+    "Type": 2
+  },
+  "1598": {
+    "Description": "",
+    "Id": 1598,
+    "Par": 2416,
+    "ShowRule": 1,
+    "Text": "Condena",
+    "Type": 2
+  },
+  "1599": {
+    "Description": "",
+    "Id": 1599,
+    "Par": 2417,
+    "ShowRule": 1,
+    "Text": "Condena mejorada",
+    "Type": 2
+  },
+  "1600": {
+    "Description": "",
+    "Id": 1600,
+    "Par": 2413,
+    "ShowRule": 1,
+    "Text": "Ajuste Infernal",
+    "Type": 2
+  },
+  "1601": {
+    "Description": "",
+    "Id": 1601,
+    "Par": 2220,
+    "ShowRule": 1,
+    "Text": "Flecha Tormenta",
+    "Type": 2
+  },
+  "1602": {
+    "Description": "",
+    "Id": 1602,
+    "Par": 2240,
+    "ShowRule": 1,
+    "Text": "Torrente Lumi",
+    "Type": 2
+  },
+  "1603": {
+    "Description": "",
+    "Id": 1603,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Rapsodia de la Flama",
+    "Type": 2
+  },
+  "1604": {
+    "Description": "",
+    "Id": 1604,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Ritmo Amplificado",
+    "Type": 2
+  },
+  "1605": {
+    "Description": "",
+    "Id": 1605,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Himno Armonioso",
+    "Type": 2
+  },
+  "1606": {
+    "Description": "",
+    "Id": 1606,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Melodía Curativa",
+    "Type": 2
+  },
+  "1607": {
+    "Description": "",
+    "Id": 1607,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Crescendo Quíntuple",
+    "Type": 2
+  },
+  "1608": {
+    "Description": "",
+    "Id": 1608,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Estallido Pasional",
+    "Type": 2
+  },
+  "1609": {
+    "Description": "",
+    "Id": 1609,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Ritmo Curador",
+    "Type": 2
+  },
+  "1610": {
+    "Description": "",
+    "Id": 1610,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Escenario Central",
+    "Type": 2
+  },
+  "1611": {
+    "Description": "",
+    "Id": 1611,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "Golpe Escénico",
+    "Type": 2
+  },
+  "1612": {
+    "Description": "",
+    "Id": 1612,
+    "Par": 2335,
+    "ShowRule": 1,
+    "Text": "Rapsodia Infinita",
+    "Type": 2
+  },
+  "1613": {
+    "Description": "",
+    "Id": 1613,
+    "Par": 2336,
+    "ShowRule": 1,
+    "Text": "Circuitos de Concierto",
+    "Type": 2
+  },
+  "1614": {
+    "Description": "",
+    "Id": 1614,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Melodía Heroica",
+    "Type": 2
+  },
+  "1615": {
+    "Description": "",
+    "Id": 1615,
+    "Par": 2317,
+    "ShowRule": 1,
+    "Text": "Golpe Feroz",
+    "Type": 2
+  },
+  "1616": {
+    "Description": "",
+    "Id": 1616,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Bis",
+    "Type": 2
+  },
+  "1617": {
+    "Description": "",
+    "Id": 1617,
+    "Par": 2332,
+    "ShowRule": 1,
+    "Text": "Furia Pasional",
+    "Type": 2
+  },
+  "1618": {
+    "Description": "",
+    "Id": 1618,
+    "Par": 2301,
+    "ShowRule": 1,
+    "Text": "Cuerdas Resonantes",
+    "Type": 2
+  },
+  "1619": {
+    "Description": "",
+    "Id": 1619,
+    "Par": 1605,
+    "ShowRule": 1,
+    "Text": "Ascensión Ardiente",
+    "Type": 2
+  },
+  "1620": {
+    "Description": "",
+    "Id": 1620,
+    "Par": 1619,
+    "ShowRule": 1,
+    "Text": "Llama Elevada",
+    "Type": 2
+  },
+  "1621": {
+    "Description": "",
+    "Id": 1621,
+    "Par": 1606,
+    "ShowRule": 1,
+    "Text": "Corte Frenético",
+    "Type": 2
+  },
+  "1622": {
+    "Description": "",
+    "Id": 1622,
+    "Par": 1607,
+    "ShowRule": 1,
+    "Text": "Asalto Ardiente",
+    "Type": 2
+  },
+  "1623": {
+    "Description": "",
+    "Id": 1623,
+    "Par": 1608,
+    "ShowRule": 1,
+    "Text": "Hendidura de Furia",
+    "Type": 2
+  },
+  "1624": {
+    "Description": "",
+    "Id": 1624,
+    "Par": 1612,
+    "ShowRule": 1,
+    "Text": "Viento de Hacha",
+    "Type": 2
+  },
+  "1625": {
+    "Description": "",
+    "Id": 1625,
+    "Par": 1615,
+    "ShowRule": 1,
+    "Text": "Fin del Páramo",
+    "Type": 2
+  },
+  "1626": {
+    "Description": "",
+    "Id": 1626,
+    "Par": 1613,
+    "ShowRule": 1,
+    "Text": "Danza de Fuego Salvaje",
+    "Type": 2
+  },
+  "1627": {
+    "Description": "",
+    "Id": 1627,
+    "Par": 1614,
+    "ShowRule": 1,
+    "Text": "Meteoro Desatado",
+    "Type": 2
+  },
+  "1628": {
+    "Description": "",
+    "Id": 1628,
+    "Par": 1621,
+    "ShowRule": 1,
+    "Text": "Caída de Fuego Infernal",
+    "Type": 2
+  },
+  "1629": {
+    "Description": "",
+    "Id": 1629,
+    "Par": 1617,
+    "ShowRule": 1,
+    "Text": "Fuego Infernal Infinito",
+    "Type": 2
+  },
+  "1630": {
+    "Description": "",
+    "Id": 1630,
+    "Par": 1616,
+    "ShowRule": 1,
+    "Text": "Corte de Esplendor Fluido",
+    "Type": 2
+  },
+  "3000": {
+    "Description": "Interrumpe el lanzamiento del objetivo y pone la habilidad interrumpida en TdR. No afecta a los jefes.",
+    "Id": 3000,
+    "Par": 3403000,
+    "ShowRule": 1,
+    "Text": "Interrumpir",
+    "Type": 3
+  },
+  "3001": {
+    "Description": "Impide que el enemigo lance hechizos. No afecta a los jefes. Esta es una desventaja.",
+    "Id": 3001,
+    "Par": 3403001,
+    "ShowRule": 1,
+    "Text": "Silencio",
+    "Type": 3
+  },
+  "3002": {
+    "Description": "Impide que el enemigo se mueva. No afecta a los jefes. Esta es una desventaja.",
+    "Id": 3002,
+    "Par": 3403002,
+    "ShowRule": 1,
+    "Text": "Arraigo",
+    "Type": 3
+  },
+  "3003": {
+    "Description": "Reduce la VEL de MOV del enemigo en un <style=\"accent-gn\">30 %</style>.",
+    "Id": 3003,
+    "Par": 3403003,
+    "ShowRule": 1,
+    "Text": "Escarcha",
+    "Type": 3
+  },
+  "3004": {
+    "Description": "Reduce la cantidad de curación que recibe el enemigo. Esta es una desventaja.",
+    "Id": 3004,
+    "Par": 3403004,
+    "ShowRule": 1,
+    "Text": "Herida",
+    "Type": 3
+  },
+  "3005": {
+    "Description": "Impide que el enemigo realice cualquier acción. No afecta a los jefes. Este es un efecto de estado.",
+    "Id": 3005,
+    "Par": 3403005,
+    "ShowRule": 1,
+    "Text": "Aturdimiento",
+    "Type": 3
+  },
+  "3006": {
+    "Description": "Impide que el enemigo realice cualquier acción. El efecto se elimina al recibir DÑO. No afecta a los jefes. Este es un efecto de estado.",
+    "Id": 3006,
+    "Par": 3403006,
+    "ShowRule": 1,
+    "Text": "Congelación",
+    "Type": 3
+  },
+  "3007": {
+    "Description": "Impide que el enemigo realice cualquier acción. El efecto se elimina al recibir DÑO. No afecta a los jefes. Este es un efecto de estado.",
+    "Id": 3007,
+    "Par": 3403007,
+    "ShowRule": 1,
+    "Text": "Petrificado",
+    "Type": 3
+  },
+  "3008": {
+    "Description": "Impide que el enemigo realice cualquier acción. El efecto se elimina al recibir DÑO. No afecta a los jefes. Este es un efecto de estado.",
+    "Id": 3008,
+    "Par": 3403008,
+    "ShowRule": 1,
+    "Text": "Paralizado",
+    "Type": 3
+  },
+  "3009": {
+    "Description": "Obliga al enemigo a acercarse a su objetivo para atacarlo. No afecta a los jefes. Este es un efecto de estado.",
+    "Id": 3009,
+    "Par": 3403009,
+    "ShowRule": 1,
+    "Text": "Deslumbramiento",
+    "Type": 3
+  },
+  "3010": {
+    "Description": "El enemigo se acobarda en su lugar por miedo. El efecto se elimina al recibir DÑO. No afecta a los jefes. Este es un efecto de estado.",
+    "Id": 3010,
+    "Par": 3403010,
+    "ShowRule": 1,
+    "Text": "Miedo",
+    "Type": 3
+  },
+  "3011": {
+    "Description": "Reduce la VEL de MOV del enemigo. No afecta a los jefes. Esta es una desventaja.",
+    "Id": 3011,
+    "Par": 3403011,
+    "ShowRule": 1,
+    "Text": "Ralentización",
+    "Type": 3
+  },
+  "3012": {
+    "Description": "Hace que el enemigo pierda PS continuamente. Esta es una desventaja.",
+    "Id": 3012,
+    "Par": 3403012,
+    "ShowRule": 1,
+    "Text": "Envenenamiento",
+    "Type": 3
+  },
+  "3013": {
+    "Description": "Hace que el enemigo pierda PS continuamente. Esta es una desventaja.",
+    "Id": 3013,
+    "Par": 3403013,
+    "ShowRule": 1,
+    "Text": "Sangrado",
+    "Type": 3
+  },
+  "3014": {
+    "Description": "Hace que el enemigo pierda PS continuamente. Esta es una desventaja.",
+    "Id": 3014,
+    "Par": 3403014,
+    "ShowRule": 1,
+    "Text": "Quemadura",
+    "Type": 3
+  },
+  "3020": {
+    "Description": "Incluye <style=\"accent-gn\">aturdimiento</style>, <style=\"accent-gn\">congelación</style>, <style=\"accent-gn\">petrificación</style>, <style=\"accent-gn\">parálisis</style>, <style=\"accent-gn\">deslumbramiento</style> y <style=\"accent-gn\">miedo</style>.",
+    "Id": 3020,
+    "Par": 3403020,
+    "ShowRule": 1,
+    "Text": "Efectos de estado",
+    "Type": 3
+  },
+  "3021": {
+    "Description": "Incluye <style=\"accent-gn\">silencio</style>, <style=\"accent-gn\">ralentización</style>, <style=\"accent-gn\">arraigo</style>, <style=\"accent-gn\">herida</style>, <style=\"accent-gn\">envenenamiento</style>, <style=\"accent-gn\">sangrado</style>, <style=\"accent-gn\">quemadura</style>.",
+    "Id": 3021,
+    "Par": 3403021,
+    "ShowRule": 1,
+    "Text": "Desventajas",
+    "Type": 3
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "1": {
+    "CLeanSpeed": 8,
+    "Condition": [],
+    "Exp": 15000,
+    "Id": 1,
+    "IndoorFurnitureLimit": 400,
+    "InsideId": 1,
+    "InsideQuest": 0,
+    "LvUpDesc": [
+      "Ruang indoor telah terbuka",
+      "Antrean Meja Pembuatan telah terbuka",
+      "Batas jumlah sawah untuk menanam bunga: 8",
+      "Kini kamu bisa menanam bunga"
+    ],
+    "Mailid": 2100,
+    "OutdoorFurnitureLimit": 400,
+    "OutdorrArea": 0,
+    "OutdorrQuest": 0,
+    "PlanType": [1],
+    "PlantNumber": [[401, 8]],
+    "Shop": 1
+  },
+  "2": {
+    "CLeanSpeed": 9,
+    "Condition": [],
+    "Exp": 25000,
+    "Id": 2,
+    "IndoorFurnitureLimit": 500,
+    "InsideId": 1,
+    "InsideQuest": 0,
+    "LvUpDesc": [
+      "Kini kamu bisa menanam bunga baru",
+      "Batas jumlah sawah untuk menanam bunga: 8 → 12"
+    ],
+    "Mailid": 2101,
+    "OutdoorFurnitureLimit": 500,
+    "OutdorrArea": 0,
+    "OutdorrQuest": 0,
+    "PlanType": [1, 2],
+    "PlantNumber": [[401, 12]],
+    "Shop": 1
+  },
+  "3": {
+    "CLeanSpeed": 10,
+    "Condition": [],
+    "Exp": 35000,
+    "Id": 3,
+    "IndoorFurnitureLimit": 600,
+    "InsideId": 2,
+    "InsideQuest": 171003,
+    "LvUpDesc": [
+      "Ekspansi indoor ruangan telah terbuka",
+      "Ekspansi outdoor ruangan telah terbuka",
+      "Kini perabot spesial tersedia di Toko Rumah"
+    ],
+    "Mailid": 2102,
+    "OutdoorFurnitureLimit": 600,
+    "OutdorrArea": 110,
+    "OutdorrQuest": 171005,
+    "PlanType": [1, 2],
+    "PlantNumber": [[401, 12]],
+    "Shop": 1
+  },
+  "4": {
+    "CLeanSpeed": 12,
+    "Condition": [],
+    "Exp": 45000,
+    "Id": 4,
+    "IndoorFurnitureLimit": 700,
+    "InsideId": 2,
+    "InsideQuest": 0,
+    "LvUpDesc": [
+      "Ekspansi outdoor ruangan telah terbuka",
+      "Kini kamu bisa menanam bunga baru",
+      "Batas jumlah sawah untuk menanam bunga: 12 → 16"
+    ],
+    "Mailid": 2103,
+    "OutdoorFurnitureLimit": 700,
+    "OutdorrArea": 111,
+    "OutdorrQuest": 171006,
+    "PlanType": [1, 2, 3],
+    "PlantNumber": [[401, 16]],
+    "Shop": 1
+  },
+  "5": {
+    "CLeanSpeed": 14,
+    "Condition": [],
+    "Exp": 65000,
+    "Id": 5,
+    "IndoorFurnitureLimit": 800,
+    "InsideId": 2,
+    "InsideQuest": 0,
+    "LvUpDesc": [
+      "Ekspansi outdoor ruangan telah terbuka",
+      "Pupuk Advanced kini tersedia di Toko Rumah"
+    ],
+    "Mailid": 2104,
+    "OutdoorFurnitureLimit": 800,
+    "OutdorrArea": 112,
+    "OutdorrQuest": 171007,
+    "PlanType": [1, 2, 3],
+    "PlantNumber": [[401, 16]],
+    "Shop": 1
+  },
+  "6": {
+    "CLeanSpeed": 16,
+    "Condition": [],
+    "Exp": 85000,
+    "Id": 6,
+    "IndoorFurnitureLimit": 900,
+    "InsideId": 3,
+    "InsideQuest": 171004,
+    "LvUpDesc": [
+      "Ekspansi indoor ruangan telah terbuka",
+      "Kini perabot indoor spesial tersedia di Toko Rumah"
+    ],
+    "Mailid": 2105,
+    "OutdoorFurnitureLimit": 900,
+    "OutdorrArea": 0,
+    "OutdorrQuest": 0,
+    "PlanType": [1, 2, 3],
+    "PlantNumber": [[401, 16]],
+    "Shop": 1
+  },
+  "7": {
+    "CLeanSpeed": 18,
+    "Condition": [],
+    "Exp": 120000,
+    "Id": 7,
+    "IndoorFurnitureLimit": 1000,
+    "InsideId": 3,
+    "InsideQuest": 0,
+    "LvUpDesc": ["Batas jumlah sawah untuk menanam bunga: 16 → 20"],
+    "Mailid": 2106,
+    "OutdoorFurnitureLimit": 1000,
+    "OutdorrArea": 0,
+    "OutdorrQuest": 0,
+    "PlanType": [1, 2, 3],
+    "PlantNumber": [[401, 20]],
+    "Shop": 1
+  },
+  "8": {
+    "CLeanSpeed": 20,
+    "Condition": [],
+    "Exp": 0,
+    "Id": 8,
+    "IndoorFurnitureLimit": 1100,
+    "InsideId": 3,
+    "InsideQuest": 0,
+    "LvUpDesc": ["Kini tampilan terbatas tersedia di Toko Rumah"],
+    "Mailid": 0,
+    "OutdoorFurnitureLimit": 1100,
+    "OutdorrArea": 0,
+    "OutdorrQuest": 0,
+    "PlanType": [1, 2, 3],
+    "PlantNumber": [[401, 20]],
+    "Shop": 1
+  }
+}

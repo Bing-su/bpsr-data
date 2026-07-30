@@ -1,0 +1,1326 @@
+{
+  "100001": {
+    "Content": "<style=\"emph-gn\">PHY-Schub</style><style=\"accent-gn\"> +40 %</style>",
+    "Id": 100001
+  },
+  "100101": {
+    "Content": "<style=\"emph-gn\">MAG-Schub</style><style=\"accent-gn\"> +40 %</style>",
+    "Id": 100101
+  },
+  "100201": {
+    "Content": "Beim Einsatz einer Ultimafähigkeit wird <style=\"accent-gn\">20 Sek.</style> lang die <style=\"emph-gn\">AZ</style> aller Fähigkeiten um <style=\"accent-gn\">100 %</style> beschleunigt und die Wiederherstellungsgeschwindigkeit von <style=\"emph-gn\">Kampfressourcen</style> um <style=\"accent-gn\">100 %</style> erhöht",
+    "Id": 100201
+  },
+  "100301": {
+    "Content": "Erhöht den ANG des Anwenders und von Verbündeten innerhalb von <style=\"accent-gn\">10 m</style> um <style=\"accent-gn\">5 %</style>. <br>Für jeden im Bereich vorhandenen <style=\"emph-gn\">Rollentyp</style> erhöht sich dieser Bonus um <style=\"accent-gn\">5 %</style> (bis zu <style=\"accent-gn\">20 %</style>).",
+    "Id": 100301
+  },
+  "100401": {
+    "Content": "Jede gewirkte <style=\"emph-gn\">Expertisefähigkeit</style> erhöht ihren SCH und ihre Heilung um <style=\"accent-gn\">0,2 %</style>.<br>Bis zu <style=\"accent-gn\">200</style>-mal stapelbar. Bei maximalen Stapeln wird ein Schub von <style=\"accent-gn\">20 %</style> auf <style=\"emph-gn\">Expertisefähigkeit</style>-SCH und Heilung gewährt.",
+    "Id": 100401
+  },
+  "100501": {
+    "Content": "Jeder <style=\"emph-gn\">Spezialangriff</style> erhöht dessen SCH und Heilung um <style=\"accent-gn\">0,2 %</style>.<br>Bis zu <style=\"accent-gn\">200</style>-mal stapelbar. Bei vollen Stapeln wird ein Schub von <style=\"accent-gn\">20 %</style> auf <style=\"emph-gn\">Spezialangriff</style>-SCH und Heilung gewährt.",
+    "Id": 100501
+  },
+  "100601": {
+    "Content": "<style=\"emph-gn\">Tempo</style><style=\"accent-gn\"> +20 %</style>. Verliert <style=\"accent-gn\">8 %</style> LP pro Sekunde bei Bewegung im Kampf",
+    "Id": 100601
+  },
+  "100701": {
+    "Content": "Reduziert die AZ der <style=\"emph-gn\">Ultimafähigkeit</style> um <style=\"accent-gn\">1 %</style> pro <style=\"accent-gn\">200</style> Tempo (bis zu <style=\"accent-gn\">50 %</style>).",
+    "Id": 100701
+  },
+  "100801": {
+    "Content": "Wird ein Ziel besiegt, verringert sich die verbleibende AZ der <style=\"emph-gn\">Expertisefähigkeit</style> um <style=\"accent-gn\">10 %</style>.",
+    "Id": 100801
+  },
+  "100901": {
+    "Content": "<style=\"emph-gn\">Spezialangriffe</style> verringern die verbleibende AZ der <style=\"emph-gn\">Expertisefähigkeit</style> um <style=\"accent-gn\">0,5 Sek.</style>",
+    "Id": 100901
+  },
+  "101001": {
+    "Content": "Das <style=\"emph-gn\">Besiegen</style> eines Ziels erhöht den <style=\"emph-gn\">Krit-SCH</style> <style=\"accent-gn\">5 Sek.</style> lang um <style=\"accent-gn\">10 %</style> (bis zu <style=\"accent-gn\">30 %</style>).",
+    "Id": 101001
+  },
+  "101101": {
+    "Content": "Bei Schaden an Zielen mit mehr als <style=\"accent-gn\">80 %</style> LP: <style=\"emph-gn\">Krit-SCH</style> <style=\"accent-gn\">+60 %</style>.",
+    "Id": 101101
+  },
+  "101201": {
+    "Content": "<style=\"emph-gn\">ANG</style> <style=\"accent-gn\">+25 %</style>. Wenn die LP über <style=\"accent-gn\">30 %</style> liegen, verbraucht jeder Angriff <style=\"accent-gn\">2,5 %</style> LP.",
+    "Id": 101201
+  },
+  "101301": {
+    "Content": "Gewährt <style=\"accent-gn\">0,3 %</style> <style=\"emph-gn\">ANG</style> für jeweils <style=\"accent-gn\">1 %</style> verlorene LP. Jeder Blutzorn-Affix gewährt einen zusätzlichen ANG-Schub von <style=\"accent-gn\">0,1 %</style>.",
+    "Id": 101301
+  },
+  "101401": {
+    "Content": "Ein <style=\"emph-gn\">Glückstreffer</style> löst eine <style=\"emph-gn\">Blutexplosion</style> aus, die SCH in Höhe von <style=\"accent-gn\">20 %</style> deiner verlorenen LP verursacht (AZ: <style=\"accent-gn\">1 Sek.</style>).",
+    "Id": 101401
+  },
+  "101501": {
+    "Content": "Wenn die LP unter <style=\"accent-gn\">30 %</style> fallen, werden <style=\"accent-gn\">10 %</style> des <style=\"emph-gn\">verursachten SCH</style> in einen <style=\"emph-gn\">Schild</style> umgewandelt. Bis <style=\"accent-gn\">100 %</style> der Max. LP stapelbar.",
+    "Id": 101501
+  },
+  "101601": {
+    "Content": "Gewährt bei <style=\"emph-gn\">Nahtod</style> <style=\"accent-gn\">3 Sek.</style> lang <style=\"emph-gn\">Unverwundbarkeit</style> und <style=\"emph-gn\">Beschleunigung</style> (AZ: <style=\"accent-gn\">20 Sek.</style>).",
+    "Id": 101601
+  },
+  "101701": {
+    "Content": "Angriffe lösen <style=\"emph-gn\">Blutkrieg</style> aus, was den <style=\"emph-gn\">ANG</style> <style=\"accent-gn\">3 Sek.</style> lang um <style=\"accent-gn\">20 %</style> erhöht und den Tod verhindert",
+    "Id": 101701
+  },
+  "101801": {
+    "Content": "<style=\"emph-gn\">ANG</style><style=\"accent-gn\"> +25 %</style>, aber erleidet pro Sekunde SCH in Höhe von <style=\"accent-gn\">1 %</style> der <style=\"emph-gn\">Max. LP</style>",
+    "Id": 101801
+  },
+  "101901": {
+    "Content": "Verursacht alle <style=\"accent-gn\">3 Sek.</style> Flächen-SCH in Höhe von <style=\"accent-gn\">20 %</style> der <style=\"emph-gn\">Max. LP</style>",
+    "Id": 101901
+  },
+  "102001": {
+    "Content": "Erhöht den <style=\"emph-gn\">ANG</style> um <style=\"accent-gn\">0,3 %</style> der <style=\"emph-gn\">Max. LP</style>",
+    "Id": 102001
+  },
+  "102101": {
+    "Content": "Ein <style=\"emph-gn\">Glückstreffer</style> gewährt einen <style=\"emph-gn\">Schild</style> in Höhe von <style=\"accent-gn\">20 %</style> der <style=\"emph-gn\">Max. LP</style>.",
+    "Id": 102101
+  },
+  "102201": {
+    "Content": "Verursacht bei einem Treffer Flächen-SCH in Höhe von <style=\"accent-gn\">10 %</style> der <style=\"emph-gn\">Max. LP</style>",
+    "Id": 102201
+  },
+  "102301": {
+    "Content": "Bei einem erlittenen Treffer wird die verbleibende <style=\"emph-gn\">AZ</style> aller Fähigkeiten um <style=\"accent-gn\">1 Sek.</style> reduziert.",
+    "Id": 102301
+  },
+  "102401": {
+    "Content": "<style=\"emph-gn\">Max. LP</style><style=\"accent-gn\"> +100 %</style>, aber erleidet pro Sekunde SCH in Höhe von <style=\"accent-gn\">1 %</style> der <style=\"emph-gn\">Max. LP</style>",
+    "Id": 102401
+  },
+  "102501": {
+    "Content": "Wenn mit Klassenfähigkeiten Schaden verursacht wird, wird Bonus-SCH in Höhe von <style=\"accent-gn\">0,2 %</style> der <style=\"emph-gn\">aktuellen LP</style> des Gegners verursacht.",
+    "Id": 102501
+  },
+  "102601": {
+    "Content": "Jeder aktive <style=\"emph-gn\">Fluch-Affix</style> gewährt einen <style=\"emph-gn\">Rüstungsschub</style> von <style=\"accent-gn\">10 %</style>",
+    "Id": 102601
+  },
+  "102701": {
+    "Content": "Erhöht die <style=\"emph-gn\">Rüstung</style> um <style=\"accent-gn\">3 %</style> der <style=\"emph-gn\">Max. LP</style>.",
+    "Id": 102701
+  },
+  "102801": {
+    "Content": "Bei erlittenem Treffer wird Flächen-SCH in Höhe von <style=\"accent-gn\">400 %</style> der <style=\"emph-gn\">Rüstung</style> reflektiert.",
+    "Id": 102801
+  },
+  "102901": {
+    "Content": "Bei Heilung eines Ziels wird Gegnern um es herum alle <style=\"accent-gn\">1 Sek.</style> Klassenfähigkeit-SCH in Höhe von <style=\"accent-gn\">100 %</style> der Heilungsstärke zugefügt. (Die Heilung wird während dieser Zeit angesammelt.)",
+    "Id": 102901
+  },
+  "103001": {
+    "Content": "Alle <style=\"accent-gn\">10</style> <style=\"emph-gn\">Spezialangriffe</style> wird die <style=\"emph-gn\">Heilung</style> dauerhaft um <style=\"accent-gn\">1 %</style> erhöht (bis zu <style=\"accent-gn\">30 %</style>).",
+    "Id": 103001
+  },
+  "103101": {
+    "Content": "Verbündete innerhalb von 10 m erhalten alle <style=\"accent-gn\">10 Sek.</style> einen <style=\"emph-gn\">Schild</style> in Höhe von <style=\"accent-gn\">20 %</style> ihrer <style=\"emph-gn\">Max. LP</style>",
+    "Id": 103101
+  },
+  "103201": {
+    "Content": "Erhöht die <style=\"emph-gn\">Verwundbarkeit</style> von Gegnern innerhalb von 10 m um <style=\"accent-gn\">10 %</style>",
+    "Id": 103201
+  },
+  "103301": {
+    "Content": "Alle <style=\"accent-gn\">5 Sek.</style> werden Gegner innerhalb von 10 m für <style=\"accent-gn\">1 Sek.</style> <style=\"emph-gn\">betäubt</style>",
+    "Id": 103301
+  },
+  "103401": {
+    "Content": "Ein <style=\"emph-gn\">Glückstreffer</style> löst <style=\"emph-gn\">Blitzschlag</style> aus, der <style=\"emph-gn\">SCH</style> in Höhe von <style=\"accent-gn\">45 %</style> des ANG verursacht (AZ: <style=\"accent-gn\">1 Sek.</style>).",
+    "Id": 103401
+  },
+  "103501": {
+    "Content": "Ein <style=\"emph-gn\">Glückstreffer</style> löst <style=\"emph-gn\">Klingensturm</style> aus, der <style=\"emph-gn\">SCH</style><style=\"accent-gn\"> in Höhe von 45 %</style> des ANG verursacht (AZ: <style=\"accent-gn\">1 Sek.</style>).",
+    "Id": 103501
+  },
+  "103601": {
+    "Content": "Ein <style=\"emph-gn\">Glückstreffer</style> löst <style=\"emph-gn\">Feuerballexplosion</style> aus, der <style=\"emph-gn\">SCH</style><style=\"accent-gn\"> in Höhe von 45 %</style> des ANG verursacht (AZ: <style=\"accent-gn\">1 Sek.</style>).",
+    "Id": 103601
+  },
+  "103701": {
+    "Content": "Ein <style=\"emph-gn\">Glückstreffer</style> löst eine <style=\"emph-gn\">Blitzkette</style> aus, die SCH in Höhe von <style=\"accent-gn\">1 %</style> der <style=\"emph-gn\">Max. LP</style> verursacht (AZ: <style=\"accent-gn\">1 Sek.</style>).",
+    "Id": 103701
+  },
+  "103801": {
+    "Content": "<style=\"emph-gn\">Krit-Rate</style><style=\"accent-gn\"> +30 %</style>. Bei einer permanenten Krit-Rate über <style=\"accent-gn\">50 %</style> werden jeweils <style=\"accent-gn\">2 %</style> in <style=\"accent-gn\">1 %</style> <style=\"emph-gn\">Krit-SCH</style> umgewandelt (bis zu <style=\"accent-gn\">50 %</style>).",
+    "Id": 103801
+  },
+  "103901": {
+    "Content": "Verdoppelt den <style=\"emph-gn\">Krit-SCH</style>.",
+    "Id": 103901
+  },
+  "104001": {
+    "Content": "Verursacht bei einem krit. Treffer am Standort des Ziels zusätzlich Flächen-SCH in Höhe von <style=\"accent-gn\">200 %</style> des ANG (AZ: <style=\"accent-gn\">1 Sek.</style>). Dieser Flächen-SCH ist garantiert ein krit. Treffer. Pro besessenem \"Brutalität\"-Affix wird der End-SCH dieses Schadens um <style=\"accent-gn\">50 %</style> erhöht.",
+    "Id": 104001
+  },
+  "104101": {
+    "Content": "Krit. Treffer reduzieren die Abklingzeiten aller Fähigkeiten um <style=\"accent-gn\">0,5 Sek.</style> (wird höchstens einmal alle <style=\"accent-gn\">1 Sek.</style> ausgelöst).",
+    "Id": 104101
+  },
+  "104201": {
+    "Content": "Erhält 1 Stapel Siegel des Sensenmanns mit jedem Krit. Bei <style=\"accent-gn\">20</style> Stapeln wird der <style=\"emph-gn\">Krit-SCH</style> <style=\"accent-gn\">5 Sek.</style> lang um <style=\"accent-gn\">30 %</style> erhöht.",
+    "Id": 104201
+  },
+  "104301": {
+    "Content": "Expertisefähigkeit: <style=\"emph-gn\">Krit</style> <style=\"accent-gn\">+50 %</style>",
+    "Id": 104301
+  },
+  "104401": {
+    "Content": "Spezialangriff: <style=\"emph-gn\">Krit</style> <style=\"accent-gn\">+50 %</style>",
+    "Id": 104401
+  },
+  "104501": {
+    "Content": "Krit-Treffer stellen <style=\"accent-gn\">1 %</style> der LP wieder her (AZ: <style=\"accent-gn\">0,1 Sek.</style>).",
+    "Id": 104501
+  },
+  "104601": {
+    "Content": "Wenn der verursachte Schaden kein Krit-Treffer ist, wird <style=\"emph-gn\">Krit</style> bis zum nächsten kritischen Treffer um <style=\"accent-gn\">50 %</style> erhöht.",
+    "Id": 104601
+  },
+  "104701": {
+    "Content": "Innerhalb von <style=\"accent-gn\">15 Sek.</style> nach dem Wirken einer Ultimafähigkeit ist jeder verursachte Schaden garantiert ein krit. Treffer",
+    "Id": 104701
+  },
+  "104801": {
+    "Content": "Bei erhaltener Heilung: <style=\"emph-gn\">Krit</style> <style=\"accent-gn\">+20 %</style> für <style=\"accent-gn\">5 Sek.</style>",
+    "Id": 104801
+  },
+  "104901": {
+    "Content": "Für jeden besiegten Gegner wird <style=\"emph-gn\">Krit</style> um <style=\"accent-gn\">0,3 %</style> erhöht (bis zu <style=\"accent-gn\">100</style> Stapel)",
+    "Id": 104901
+  },
+  "105001": {
+    "Content": "Ultimafähigkeit: <style=\"emph-gn\">Krit</style> <style=\"accent-gn\">+50 %</style>",
+    "Id": 105001
+  },
+  "105101": {
+    "Content": "Verursacht bei einem krit. Treffer zusätzlich Flächen-SCH in Höhe von <style=\"accent-gn\">200 %</style> ANG am Standort des Ziels (AZ: <style=\"accent-gn\">1 Sek.</style>). Dieser Flächen-SCH ist ein garantierter Glückstreffer.",
+    "Id": 105101
+  },
+  "105201": {
+    "Content": "Kritische Treffer erhöhen den <style=\"emph-gn\">Elementarschaden</style> für <style=\"accent-gn\">5 Sek.</style> um <style=\"accent-gn\">1 %</style> (bis zu <style=\"accent-gn\">15</style> Stapeln).",
+    "Id": 105201
+  },
+  "105301": {
+    "Content": "Kritische Treffer erhöhen die <style=\"emph-gn\">Angriff-GES</style> um <style=\"accent-gn\">1 %</style> und die <style=\"emph-gn\">Zauber-GES</style> um <style=\"accent-gn\">2 %</style> (bis zu <style=\"accent-gn\">15</style> Stapeln).",
+    "Id": 105301
+  },
+  "105401": {
+    "Content": "Der erste kritische Treffer nach Kampfbeginn erhöht den <style=\"emph-gn\">Krit-SCH</style> um <style=\"accent-gn\">500 %</style>.",
+    "Id": 105401
+  },
+  "105501": {
+    "Content": "Alle <style=\"accent-gn\">3</style> kritischen Treffer wird der <style=\"emph-gn\">Krit-SCH</style> des nächsten kritischen Treffers um <style=\"accent-gn\">50 %</style> erhöht und der Zähler zurückgesetzt.",
+    "Id": 105501
+  },
+  "105601": {
+    "Content": "<style=\"emph-gn\">Krit-SCH</style><style=\"accent-gn\"> +20 %</style>",
+    "Id": 105601
+  },
+  "105701": {
+    "Content": "<style=\"emph-gn\">Krit</style> <style=\"accent-gn\">+10 %</style>",
+    "Id": 105701
+  },
+  "105801": {
+    "Content": "Kritische Treffer mit Spezialangriffen beschwören eine Kampfvorstellung – Muku-Anführer (AZ: <style=\"accent-gn\">15 Sek.</style>).",
+    "Id": 105801
+  },
+  "105901": {
+    "Content": "Glückseffekt: Verursacht Flächen-SCH in Höhe von <style=\"accent-gn\">200 %</style> ANG am Standort des Ziels (AZ: <style=\"accent-gn\">0,5 Sek.</style>). Pro besessenem \"Glück\"-Affix erhöht sich der End-SCH dieses Angriffs um <style=\"accent-gn\">50 %</style>.",
+    "Id": 105901
+  },
+  "106001": {
+    "Content": "Erhöht den <style=\"emph-gn\">Glückseffekt-SCH</style> um <style=\"accent-gn\">30 %</style>. Verursacht <style=\"accent-gn\">8 %</style> Bonus-SCH pro Glück-Affix.",
+    "Id": 106001
+  },
+  "106101": {
+    "Content": "Nach Kampfbeginn erhöht sich <style=\"emph-gn\">Glück</style> alle <style=\"accent-gn\">1 Sek.</style> um <style=\"accent-gn\">5 %</style> (bis zu <style=\"accent-gn\">20</style> Stapeln).",
+    "Id": 106101
+  },
+  "106201": {
+    "Content": "Glückseffekt: Gewährt einen <style=\"emph-gn\">Schild</style> in Höhe von <style=\"accent-gn\">20 %</style> der <style=\"emph-gn\">Max. LP</style> für <style=\"accent-gn\">2 Sek.</style>",
+    "Id": 106201
+  },
+  "106301": {
+    "Content": "Alle <style=\"accent-gn\">50</style> Glückstreffer auf das Hauptziel wird die <style=\"emph-gn\">Wiederherstellungsgeschwindigkeit der Abklingzeiten</style> aller Fähigkeiten für <style=\"accent-gn\">15 Sek.</style> um <style=\"accent-gn\">100 %</style> erhöht (Zählung pausiert, solange aktiv).",
+    "Id": 106301
+  },
+  "106401": {
+    "Content": "Innerhalb der ersten <style=\"accent-gn\">30 Sek.</style> nach Kampfbeginn löst jeglicher verursachte Schaden garantiert einen Glückstreffer aus.",
+    "Id": 106401
+  },
+  "106501": {
+    "Content": "Wenn Schaden oder Heilung einen Glückstreffer auslöst, wird der <style=\"emph-gn\">ANG</style> des nächsten Glückstreffers um <style=\"accent-gn\">+40 %</style> erhöht.",
+    "Id": 106501
+  },
+  "106601": {
+    "Content": "Glückstreffer lösen immer einen <style=\"emph-gn\">Krit</style> aus.",
+    "Id": 106601
+  },
+  "106701": {
+    "Content": "Wenn Schaden oder Heilung einen Glückstreffer auslöst, wird der <style=\"emph-gn\">Elementarschaden</style> für <style=\"accent-gn\">5 Sek.</style> um <style=\"accent-gn\">1 %</style> erhöht, bis zu <style=\"accent-gn\">15</style> Stapeln.",
+    "Id": 106701
+  },
+  "106801": {
+    "Content": "Wenn Schaden oder Heilung einen Glückstreffer auslöst, werden <style=\"emph-gn\">Angriff-GES</style> um <style=\"accent-gn\">1 %</style> und <style=\"emph-gn\">Zauber-GES</style> um <style=\"accent-gn\">2 %</style> erhöht, bis zu <style=\"accent-gn\">15</style> Stapeln.",
+    "Id": 106801
+  },
+  "106901": {
+    "Content": "Für jeden besiegten Gegner wird <style=\"emph-gn\">Glück</style> um <style=\"accent-gn\">0,3 %</style> erhöht (bis zu <style=\"accent-gn\">100</style> Stapeln).",
+    "Id": 106901
+  },
+  "107001": {
+    "Content": "Alle <style=\"accent-gn\">15 Sek.</style> wird der <style=\"emph-gn\">Glückstrefferschaden</style> für <style=\"accent-gn\">8 Sek.</style> um <style=\"accent-gn\">40 %</style> erhöht.",
+    "Id": 107001
+  },
+  "107101": {
+    "Content": "<style=\"emph-gn\">Glückstrefferschaden</style> <style=\"accent-gn\">+20 %</style>",
+    "Id": 107101
+  },
+  "107201": {
+    "Content": "<style=\"emph-gn\">Glück</style> <style=\"accent-gn\">+10 %</style>",
+    "Id": 107201
+  },
+  "107301": {
+    "Content": "Wenn verursachter Schaden einen Glückstreffer auslöst, wird ein Goblin-König zur Unterstützung im Kampf beschworen (AZ: <style=\"accent-gn\">20 Sek.</style>).",
+    "Id": 107301
+  },
+  "107401": {
+    "Content": "Wenn eine Ultimafähigkeit einen Glückstreffer auslöst, wird ein Echsenmensch-Jäger beschworen (AZ: <style=\"accent-gn\">20 Sek.</style>)",
+    "Id": 107401
+  },
+  "107501": {
+    "Content": "Verringert die <style=\"emph-gn\">AZ</style> der Kampfvorstellung um <style=\"accent-gn\">80 %</style>.",
+    "Id": 107501
+  },
+  "107601": {
+    "Content": "Erhöht den <style=\"emph-gn\">Schaden</style> der Kampfvorstellung um <style=\"accent-gn\">200 %</style>.",
+    "Id": 107601
+  },
+  "107701": {
+    "Content": "Der Schaden der Kampfvorstellung ist garantiert ein Krit und der <style=\"emph-gn\">Krit-SCH</style> wird um <style=\"accent-gn\">50 %</style> erhöht.",
+    "Id": 107701
+  },
+  "107801": {
+    "Content": "Die Kampfvorstellung erhält einen <style=\"emph-gn\">Elementarschaden</style>-Bonus von <style=\"accent-gn\">100 %</style>.",
+    "Id": 107801
+  },
+  "107901": {
+    "Content": "Kampfvorstellung: <style=\"emph-gn\">Krit</style> <style=\"accent-gn\">+80 %</style>",
+    "Id": 107901
+  },
+  "108001": {
+    "Content": "Jede Kampfvorstellung erhöht dauerhaft den <style=\"emph-gn\">ANG</style> um <style=\"accent-gn\">0,5 %</style> (bis zu <style=\"accent-gn\">60 Stapeln</style>)",
+    "Id": 108001
+  },
+  "108101": {
+    "Content": "Eigener Endschaden <style=\"accent-gn\">−40 %</style>. Endschaden der Kampfvorstellung <style=\"accent-gn\">+40 %</style>.",
+    "Id": 108101
+  },
+  "108201": {
+    "Content": "Die Kampfvorstellung wandelt <style=\"accent-gn\">5 %</style> des verursachten Schadens in Heilung um",
+    "Id": 108201
+  },
+  "108301": {
+    "Content": "Kampfvorstellung: <style=\"emph-gn\">Krit</style> <style=\"accent-gn\">+20 %</style>",
+    "Id": 108301
+  },
+  "108401": {
+    "Content": "Spezialangriffe beschwören zufällig eine <style=\"emph-gn\">Goblin-Vorstellung</style> (AZ: <style=\"accent-gn\">20 Sek.</style>)",
+    "Id": 108401
+  },
+  "108501": {
+    "Content": "Expertisefähigkeiten beschwören zufällig eine <style=\"emph-gn\">Tier-Vorstellung</style> (AZ: <style=\"accent-gn\">20 Sek.</style>).",
+    "Id": 108501
+  },
+  "108601": {
+    "Content": "Beim Einsatz einer Kampfvorstellung wird gleichzeitig eine <style=\"emph-gn\">Goblin-Armbrust-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 108601
+  },
+  "108701": {
+    "Content": "Ultimafähigkeiten beschwören zufällig eine <style=\"emph-gn\">Hochlandcharakter-Vorstellung</style> (AZ: <style=\"accent-gn\">30 Sek.</style>)",
+    "Id": 108701
+  },
+  "108801": {
+    "Content": "Für jeden aktiven Kampfvorstellung-Buff wird der <style=\"emph-gn\">Schaden</style> um <style=\"accent-gn\">4 %</style> erhöht und der <style=\"emph-gn\">erlittene Schaden</style> um <style=\"accent-gn\">2 %</style> reduziert",
+    "Id": 108801
+  },
+  "108901": {
+    "Content": "Ultimafähigkeiten beschwören gleichzeitig eine <style=\"emph-gn\">Kampfvorstellung – Muku-Krieger</style> (AZ: <style=\"accent-gn\">30 Sek.</style>)",
+    "Id": 108901
+  },
+  "109001": {
+    "Content": "Wenn die LP unter <style=\"accent-gn\">50 %</style> fallen, wird eine <style=\"emph-gn\">Muku-König-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 109001
+  },
+  "109101": {
+    "Content": "Alle <style=\"accent-gn\">60 Sek.</style> wird automatisch eine <style=\"emph-gn\">Tina-Vorstellung</style> beschworen.",
+    "Id": 109101
+  },
+  "109201": {
+    "Content": "Bei Kampfbeginn wird sofort eine <style=\"emph-gn\">Sturm-Oger-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 109201
+  },
+  "109301": {
+    "Content": "Löst Schaden oder Heilung einen Glückstreffer aus, wird zufällig eine <style=\"emph-gn\">Glücksvorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 109301
+  },
+  "109401": {
+    "Content": "Kampfvorstellung: <style=\"emph-gn\">Glück</style> <style=\"accent-gn\">+40 %</style>",
+    "Id": 109401
+  },
+  "109501": {
+    "Content": "Wenn Klassenfähigkeiten Schaden verursachen, werden <style=\"accent-gn\">1 %</style> LP bei dir und Verbündeten in der Nähe wiederhergestellt und ein <style=\"emph-gn\">ANG</style>-Bonus von <style=\"accent-gn\">15 %</style> für <style=\"accent-gn\">3 Sek.</style> gewährt (AZ: <style=\"accent-gn\">0,3</style> Sek.).",
+    "Id": 109501
+  },
+  "109601": {
+    "Content": "Wenn sich der eigene Elementarschaden ändert, erhalten Verbündete in der Nähe für <style=\"accent-gn\">10 Sek.</style> einen Bonus von <style=\"accent-gn\">20 %</style> auf <style=\"emph-gn\">Elementarschaden</style>.",
+    "Id": 109601
+  },
+  "109701": {
+    "Content": "Wenn sich <style=\"emph-gn\">Krit/Glück/Tempo/Meisterschaft/Vielseitigkeit</style> ändert, erhalten Verbündete in der Nähe für <style=\"accent-gn\">10 Sek.</style> eine Erhöhung des entsprechenden Werts um <style=\"accent-gn\">10 %</style>.",
+    "Id": 109701
+  },
+  "109801": {
+    "Content": "Für jeden Verbündeten innerhalb von 15 m wird der <style=\"emph-gn\">Schaden</style> um <style=\"accent-gn\">8 %</style> erhöht und der <style=\"emph-gn\">erlittene Schaden</style> wird um <style=\"accent-gn\">4 %</style> reduziert.",
+    "Id": 109801
+  },
+  "109901": {
+    "Content": "Heilung gewährt dem Ziel für <style=\"accent-gn\">3 Sek.</style> einen <style=\"emph-gn\">PHY-Schub</style> und <style=\"emph-gn\">MAG-Schub</style> von <style=\"accent-gn\">10 %</style>.",
+    "Id": 109901
+  },
+  "110001": {
+    "Content": "Ultimafähigkeiten gewähren <style=\"accent-gn\">15 Sek.</style> lang eine Ressourcenaura, die die <style=\"emph-gn\">Effizienz der Kampfressourcengewinnung</style> von Verbündeten in der Nähe um <style=\"accent-gn\">+100 %</style> erhöht. (Es kann nur ein Effekt gleichzeitig aktiv sein.)",
+    "Id": 110001
+  },
+  "110101": {
+    "Content": "Heilung gewährt dem Ziel <style=\"accent-gn\">10 %</style> <style=\"emph-gn\">SCH-Reduktion</style> für <style=\"accent-gn\">3 Sek.</style>",
+    "Id": 110101
+  },
+  "110201": {
+    "Content": "Der von Gegnern innerhalb von 10 m verursachte Schaden wird um <style=\"accent-gn\">10 %</style> reduziert",
+    "Id": 110201
+  },
+  "110301": {
+    "Content": "Heilung gewährt für <style=\"accent-gn\">10 Sek.</style> einen <style=\"emph-gn\">Schild</style> in Höhe von <style=\"accent-gn\">20 %</style> der <style=\"emph-gn\">Max. LP</style>. Jedes Ziel kann diesen Schild nur einmal alle <style=\"accent-gn\">10 Sek.</style> erhalten.",
+    "Id": 110301
+  },
+  "110401": {
+    "Content": "Die <style=\"emph-gn\">Heilung</style> wird um <style=\"accent-gn\">15 %</style> erhöht.",
+    "Id": 110401
+  },
+  "110501": {
+    "Content": "Verbessert die <style=\"emph-gn\">Schildeffektivität</style> um <style=\"accent-gn\">15 %</style>.",
+    "Id": 110501
+  },
+  "110601": {
+    "Content": "Wandelt <style=\"accent-gn\">10 %</style> der <style=\"emph-gn\">Heilung</style> in <style=\"accent-gn\">5 %</style> <style=\"emph-gn\">Gesamtelementbonus</style> um.",
+    "Id": 110601
+  },
+  "110701": {
+    "Content": "Nach dem Wirken einer Ultimafähigkeit entsteht eine Heilaura, die <style=\"accent-gn\">10 Sek.</style> anhält. Jede Sekunde heilt sie Verbündete innerhalb von 15 m in Höhe von <style=\"accent-gn\">100 %</style> des ANG. (AZ: <style=\"accent-gn\">30 Sek.</style>)",
+    "Id": 110701
+  },
+  "110801": {
+    "Content": "Beim Wirken einer Expertisefähigkeit entsteht eine Glücksaura für <style=\"accent-gn\">10 Sek.</style>, die Verbündeten innerhalb von 15 Metern den passiven Effekt der <style=\"emph-gn\">Echsenmensch-Jäger-Vorstellung</style> gewährt (AZ: <style=\"accent-gn\">30 Sek.</style>; dieser Effekt ist nicht stapelbar).",
+    "Id": 110801
+  },
+  "110901": {
+    "Content": "Nach dem Einsatz eines Spezialangriffs entsteht eine Krit-Aura, die <style=\"accent-gn\">5 Sek.</style> anhält und den <style=\"emph-gn\">Krit-SCH</style> von Verbündeten innerhalb von 15 m um <style=\"accent-gn\">+3 %</style> erhöht.",
+    "Id": 110901
+  },
+  "111001": {
+    "Content": "Heilung durch Klassenfähigkeiten sammelt Schaden an. Wenn dieser angesammelte Schaden <style=\"accent-gn\">10.000 %</style> des ANG erreicht, löst der nächste schadensverursachende Angriff zusätzlich eine Flächenexplosion aus, die Schaden in Höhe des angesammelten Betrags verursacht. (Wird höchstens einmal alle <style=\"accent-gn\">1 Sek.</style> ausgelöst.)",
+    "Id": 111001
+  },
+  "111101": {
+    "Content": "Jede Sekunde wird einem zufälligen Ziel in der Nähe Schaden zugefügt. Der verursachte Schaden entspricht der durch Klassenfähigkeiten in diesem Zeitraum gewirkten <style=\"emph-gn\">Heilung</style>.",
+    "Id": 111101
+  },
+  "111201": {
+    "Content": "Wenn Heilung gewirkt wird, wird eine <style=\"emph-gn\">Basilisken-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 111201
+  },
+  "111301": {
+    "Content": "Wenn Heilung gewirkt wird, wird eine <style=\"emph-gn\">Briganten-Anführer-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 111301
+  },
+  "111401": {
+    "Content": "Wenn Heilung gewirkt wird, wird eine <style=\"emph-gn\">Bienenstock-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 111401
+  },
+  "111501": {
+    "Content": "Das Verursachen von Schaden mit Iaido-Hieb löst garantiert Klingenwinddomäne aus. Die AZ-Verringerung der Klingenwinddomäne für Vergessenheit-Kombo ist um 300 % erhöht. Es kann immer nur eine Klingenwinddomäne aktiv sein (erfordert das Talent Klingenwinddomäne).<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 111501
+  },
+  "111601": {
+    "Content": "Verdoppelt das Limit für Donnersiegel. Die Wiederherstellungseffizienz von Donnersiegeln durch Overdrive ist um 300 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 111601
+  },
+  "111701": {
+    "Content": "​Die AZ von Iaido-Hieb ist um 50 % verringert und der Illusionsbruch-SCH von Iaido-Hieb ist um 50 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 111701
+  },
+  "111801": {
+    "Content": "Verdoppelt den Krit-SCH von Ultimativer Hieb.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 111801
+  },
+  "111901": {
+    "Content": "Das Wirken von Drachenblitz oder Phantom-Hieb verlängert die Dauer von Spannungsspitze um 10 Sek. Der Illusionsbruch-SCH von Drachenblitz und Phantom-Hieb ist um 500 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 111901
+  },
+  "112001": {
+    "Content": "Während Spannungsspitze setzen Krits von Leuchtblitz und Raijin-Flitzer ihre AZ zurück. Der Illusionsbruch-SCH von Leuchtblitz und Raijin-Flitzer ist um 50 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 112001
+  },
+  "112101": {
+    "Content": "Die Bewegungsgeschwindigkeit von Donnerschnitt ist um 50 % verringert und der Illusionsbruch-SCH von Donnerschnitt ist um 60 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 112101
+  },
+  "112201": {
+    "Content": "Verdoppelt die Effizienz beim Erhalt von Donnerzorn.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 112201
+  },
+  "112301": {
+    "Content": "Mondschlag verbraucht keine Donnersiegel mehr und das Wirken von Mondschlag löst Sturmsense aus (erfordert das Talent Sturmsense).<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 112301
+  },
+  "112401": {
+    "Content": "Erhöht die maximalen Stapel von Göttliche Sichel um 7. Das Wirken von Göttliche Sichel verbraucht alle Stapel und erhöht den Illusionsbruch-SCH um 15 % pro Stapel.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 112401
+  },
+  "112501": {
+    "Content": "Beim Wirken von Göttliche Sichel beschwören Mondklingen gleichzeitig ebenfalls Göttliche Sichel.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 112501
+  },
+  "112601": {
+    "Content": "Erhöht die maximale Anzahl von Mondklingen um 2.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 112601
+  },
+  "112701": {
+    "Content": "Für alle 5 Mal, die Donnerschlag ausgelöst wird, löst der nächste Donnerschlag auch einen Gewittersturm aus.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 112701
+  },
+  "112801": {
+    "Content": "Göttliche Sichel wird automatisch gewirkt. Jedes Wirken verringert die AZ von Sturmblitz um 2 Sek.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 112801
+  },
+  "112901": {
+    "Content": "Donnerschlag und Sturmsense können jetzt einen Glückstreffer auslösen.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 112901
+  },
+  "113001": {
+    "Content": "Der Multiplikator für Glückstreffer ist um 100 % erhöht. Glücksschub ist verdoppelt.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 113001
+  },
+  "113101": {
+    "Content": "Wenn Froststrahl ein Ziel trifft, wird der Kälteimpuls-Zähler um 5 erhöht und der Krit-SCH von Kälteimpuls um 50 % gesteigert. (Wird pro Wirken nur einmal ausgelöst, auch bei mehreren Treffern.)<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 113101
+  },
+  "113201": {
+    "Content": "Jedes Mal, wenn Kälteimpuls ausgelöst wird, verringert sich die AZ von Permafrost um 1 Sek.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 113201
+  },
+  "113301": {
+    "Content": "Wenn Kälteimpuls Schaden verursacht, wird der Eis-Angriff dauerhaft um 2 Punkte erhöht. (Wird pro Wirken nur einmal ausgelöst, auch bei mehreren Treffern.)<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 113301
+  },
+  "113401": {
+    "Content": "Wenn Kälteimpuls Schaden verursacht, wird der Schaden von Eispfeil 5 Sek. lang um 5 % erhöht. Dieser Effekt ist bis zu 50-mal stapelbar. (Wird pro Wirken nur einmal ausgelöst, auch bei mehreren Treffern.)<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 113401
+  },
+  "113501": {
+    "Content": "Während des Zustands Ultrakälte erhält Gefrorener Sturm den Effekt Permafrost und der Illusionsbruch-SCH von Gefrorener Sturm ist um 200 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 113501
+  },
+  "113601": {
+    "Content": "Für alle 10-mal, die Froststrahl dem Hauptziel Schaden zufügt, wird zufällig Wasserwirbel, Gezeitenwirbel oder Kristallschleier (falls ausgerüstet) ausgelöst. Der Illusionsbruch-SCH von Froststrahl ist um 100 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 113601
+  },
+  "113701": {
+    "Content": "Wenn die erstarrte Explosion von Kristallschleier auftritt, erzeugt sie an ihrer Position einen Gezeitenwirbel, der 5 Sek. lang anhält (dieser Gezeitenwirbel teilt sich nicht erneut). Wenn dies einen Erstarren-Effekt auslöst, verringert sich die AZ von Kristallschleier um 3 Sek.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 113701
+  },
+  "113801": {
+    "Content": "Nach seiner erstarrten Explosion teilt sich Gezeitenwirbel in zwei neue Gezeitenwirbel (sie teilen sich nicht erneut). Der Illusionsbruch-SCH von Gezeitenwirbel ist um 200 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 113801
+  },
+  "113901": {
+    "Content": "Alle 1,5 Sek. feuert Kristallschleier eine Durchdringende Eislanze auf ein zufälliges Ziel (oder nach vorne, wenn kein Ziel vorhanden ist). Wenn die Durchdringende Eislanze Schaden verursacht, verringert sich die AZ von Kristallschleier um 0,3 Sek.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 113901
+  },
+  "114001": {
+    "Content": "Verringert die für Durchdringende Eislanze erforderliche Anzahl um 5.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 114001
+  },
+  "114101": {
+    "Content": "Wenn Frostlanze mit mehr als 2 Frostkristallen gewirkt wird, wird 1 zusätzlicher Frostkristall verbraucht, um Frostlanze zweimal hintereinander auszulösen. Der Illusionsbruch-SCH von Frostlanze ist um 50 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 114101
+  },
+  "114201": {
+    "Content": "Wenn Durchdringende Eislanze Schaden verursacht, verringert sich die AZ von Permafrost um 0,3 Sek.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 114201
+  },
+  "114301": {
+    "Content": "Das Wirken von Kristallschleier wirkt auch Schneesturm. Wenn Schneesturm Schaden verursacht, verringert sich die AZ von Kristallschleier um 0,3 Sek.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 114301
+  },
+  "114401": {
+    "Content": "Schneesturm wird zum Sofortzauber und beschwört drei auf einmal. Der Illusionsbruch-SCH von Schneesturm ist um 200 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 114401
+  },
+  "114501": {
+    "Content": "Alle 5 Wirkungen von Meteorsturm wird ein Meteor der Ultimafähigkeit beschworen, was sofort die AZ von Schneesturm auslöst und die AZ von Permafrost um 5 Sek. verringert. Der Illusionsbruch-SCH der Ultimafähigkeit ist um 200 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 114501
+  },
+  "114601": {
+    "Content": "Versetzt dich dauerhaft in den Zustand \"Endlose Kälte\", der doppelten Schaden gewährt. Jeder Stapel Frostkristall erhöht zusätzlich die Angriffsgeschwindigkeit um 10 %.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 114601
+  },
+  "114701": {
+    "Content": "Die Ultimafähigkeit löst zudem \"Ansturm der Bestien\" aus, verbraucht die gesamte Photonenenergie und beschwört Wilde Wölfe. Für je 20 verbrauchte Photonenenergie wird 1 Wilder Wolf beschworen. Hält 8 Sek. an.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 114701
+  },
+  "114801": {
+    "Content": "Legendäre Bestien erscheinen nun gleichzeitig und ihre Effekte sind um 100 % verstärkt.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 114801
+  },
+  "114901": {
+    "Content": "Jeder beschworene Wilde Wolf verringert die AZ von Fokus um 5 s.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 114901
+  },
+  "115001": {
+    "Content": "Begleiter erhalten +50 % PHY-Schub.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 115001
+  },
+  "115101": {
+    "Content": "Erhöht den Angriffsmultiplikator von Pfeilregen um das 10-Fache. Wenn mehr als 3 Begleiter auf dem Feld sind, erhöht jeder zusätzliche Begleiter den Endschaden um 100 %.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 115101
+  },
+  "115201": {
+    "Content": "Sturzflutsalve ist garantiert ein Krit. Jedes 1 % Krit-Rate erhöht den Krit-SCH um 10 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 115201
+  },
+  "115301": {
+    "Content": "Phantom-Schattenwölfe gelten nun als Bestien.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 115301
+  },
+  "115401": {
+    "Content": "Sturmpfeil ist garantiert ein Krit. Der Effekt des Talents \"Bestienmeisterschaft\" wird geändert und erhöht nun den Krit-SCH von Sturmpfeil um 300 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 115401
+  },
+  "115501": {
+    "Content": "Wenn der Falke Schaden verursacht, wird 1 Punkt Photonenenergie wiederhergestellt und der SCH der Begleiter um 50 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 115501
+  },
+  "115601": {
+    "Content": "Explosivpfeil kann nicht erneut gewirkt werden, bevor er detoniert. Das Stapellimit für Explosivpfeil wird entfernt und die Effizienz der Stapelgenerierung durch Falkenschlag wird verdoppelt.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 115601
+  },
+  "115701": {
+    "Content": "Jedes Mal, wenn Falkenschlag Schaden verursacht, wird die Dauer von Fokus um 0,3 Sek. verlängert. Während Fokus aktiv ist, ist der Krit-SCH der Begleiter um 100 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 115701
+  },
+  "115801": {
+    "Content": "Wildruf beschwört nun zwei Falken.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 115801
+  },
+  "115901": {
+    "Content": "Kraftzug feuert nun Projektile in drei Richtungen nach vorne ab. Je näher das Ziel, desto höher der Schaden (von mindestens +10 % bis maximal +100 %).<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 115901
+  },
+  "116001": {
+    "Content": "Elementarschaden von Kraftzug +100 %. Verursacht +500 % Illusionsbruch-SCH bei Zielen mit über 80 % LP.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 116001
+  },
+  "116101": {
+    "Content": "Nach dem Wirken von Fokus wird der nächste Kraftzug zu einem Doppelschuss. Jedes Wirken von Kraftzug verringert zudem die AZ von Fokus um 3 s.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 116101
+  },
+  "116201": {
+    "Content": "Jeder Krit verringert die AZ von Strahlungskanonade um 0,2 Sek. Der Krit-SCH von Strahlungskanonade ist um 100 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 116201
+  },
+  "116301": {
+    "Content": "Regenerationsimpuls belegt das Ziel mit Dorn. Dorn und Wildsaat können nun Glückstreffer auslösen.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 116301
+  },
+  "116401": {
+    "Content": "Die AZ von Wilde Saat ist um 90 % verringert und die Zaubergeschwindigkeit um 100 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 116401
+  },
+  "116501": {
+    "Content": "Regenerationsimpuls ist garantiert ein Krit und sein Krit-SCH ist um 2.000 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 116501
+  },
+  "116601": {
+    "Content": "Wird automatisch ausgelöst, wenn Hirschangriff erhalten wird. Erhöht den Illusionsbruch-SCH von Spezialangriff um 400 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 116601
+  },
+  "116701": {
+    "Content": "Infusion feuert zusätzliche Geschosse auf 5 umliegende Ziele ab. Der Illusionsbruch-SCH von Infusion ist um 100 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 116701
+  },
+  "116801": {
+    "Content": "Der automatisch ausgelöste Hirschangriff kann nun Talenteffekte auslösen. Jedes Mal, wenn Hirschangriff ausgelöst wird, sind der Schaden von Expertisefähigkeiten und Glücksschaden für eine gewisse Zeit um 10 % erhöht. Dieser Effekt ist bis zu 10-mal stapelbar.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 116801
+  },
+  "116901": {
+    "Content": "Alle 10 Treffer von Infusion wird Blütenansturm ausgelöst.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 116901
+  },
+  "117001": {
+    "Content": "Wenn Infusion ein Ziel trifft, wird der Illusionsbruch-SCH von Glückstreffer um 1 % erhöht. Dieser Effekt ist bis zu 50-mal stapelbar und hält 5 Sek. an.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 117001
+  },
+  "117101": {
+    "Content": "Der Schadensbereich des durch Nährsaat beschworenen Blütenansturms ist verdoppelt und sein Illusionsbruch-SCH um 1.000 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 117101
+  },
+  "117201": {
+    "Content": "Während Hainwunsch aktiv ist, erhältst du kontinuierlich Regenerationsknospe und einen AZ-Schub von 100 % für Hainwunsch.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 117201
+  },
+  "117301": {
+    "Content": "Gewährt beim Wirken der Ultimafähigkeit den Buff \"Schnelles Wachstum\" (erfordert Schnelles Wachstum). Jedes Mal, wenn Blütenansturm ausgelöst wird, verringert sich die AZ der Ultimafähigkeit um 1 Sek.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 117301
+  },
+  "117401": {
+    "Content": "Verdoppelt die Anzahl der geworfenen Nährsaaten.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 117401
+  },
+  "117501": {
+    "Content": "Verringert die Kosten von Spezialangriff um 90 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 117501
+  },
+  "117601": {
+    "Content": "Du erhältst dauerhaft Vitalwelle mit verdoppeltem Effekt.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 117601
+  },
+  "117701": {
+    "Content": "Gewährt allen Klassenfähigkeiten 50 % MAG-Schub und 30 % Tempo, verhindert jedoch den Einsatz von Ultimafähigkeiten.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 117701
+  },
+  "117801": {
+    "Content": "Wenn der Schaden über Zeit von Nähren 3 Stapel erreicht, erleidet das Ziel Lebensentzug: Verursacht 5 Sek. lang pro Sekunde (M.ANG ×20 × Meisterschaft-%) Schaden. Jedes Mal, wenn Schaden verursacht wird, verringern sich die AZ aller Expertisefähigkeiten um 1 Sek.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 117801
+  },
+  "117901": {
+    "Content": "Illusionsbruch-SCH von Zyklon +50 % und Illusionsbruch-SCH von Großer Windzyklon +100 %.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 117901
+  },
+  "118001": {
+    "Content": "Das Auslösen von Drachenkanone löst auch Großer Windzyklon aus.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 118001
+  },
+  "118101": {
+    "Content": "Großer Windzyklon wird zu einer Kombo mit zwei Treffern. Wenn er Schaden verursacht, erhöht sich dein Windangriff dauerhaft um 2 Punkte.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 118101
+  },
+  "118201": {
+    "Content": "Verringert die AZ von Sturmform um 80 % und verdoppelt den Effekt.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 118201
+  },
+  "118301": {
+    "Content": "Wenn Wirbelschlag als Ableitung von Durchbruch-Verfolgung gewirkt wird, ist der Krit-SCH um 50 % erhöht (erfordert das Talent Wirbelschlag).<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 118301
+  },
+  "118401": {
+    "Content": "Das Wirken von Wirbelschlag verbraucht den gesamten Mut. Für jeden verbrauchten Punkt Mut wird der Illusionsbruch-SCH um 3 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 118401
+  },
+  "118501": {
+    "Content": "Jedes Wirken von Wirbelschlag verringert die AZ der Ultimafähigkeit. Die durch Durchbruch-Verfolgung wiederhergestellte Menge an Mut ist um 100 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 118501
+  },
+  "118601": {
+    "Content": "Das Wirken von Wirbelschlag erhöht deinen Windangriff dauerhaft um 2 Punkte.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 118601
+  },
+  "118701": {
+    "Content": "Wenn Azur-Trennung Schaden verursacht, wird ein zusätzlicher Tornado ausgelöst. Der Illusionsbruch-SCH dieses Tornados ist um 100 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 118701
+  },
+  "118801": {
+    "Content": "Alle 7 Auslösungen eines Tornados wird ein Verbesserter Tornado beschworen, der Schaden in Höhe von 2.000 % deines ANG verursacht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 118801
+  },
+  "118901": {
+    "Content": "Verringert die Kosten an \"Scharf\" für Sofortiger Vorteil auf 1 und erhöht den Illusionsbruch-SCH um 50 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 118901
+  },
+  "119001": {
+    "Content": "Erhöht die Angriffsgeschwindigkeit während Windwut um 100 %.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 119001
+  },
+  "119101": {
+    "Content": "Himmelssturz kann nun Schriller Aufprall aufladen, was den Illusionsbruch-SCH um 200 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 119101
+  },
+  "119201": {
+    "Content": "Verdoppelt die maximale Menge an \"Scharf\". 10 Sek. lang nach dem Wirken von Schriller Aufprall erhältst du alle 0,5 Sek. 1 \"Scharf\".<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 119201
+  },
+  "119301": {
+    "Content": "Sofortiger Vorteil verbraucht nun das gesamte \"Scharf\", wobei jeder verbrauchte Punkt den Illusionsbruch-SCH um zusätzlich 10 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 119301
+  },
+  "119401": {
+    "Content": "Windwut ist nun bis zu 3-mal stapelbar, wobei sich die Buffs proportional erhöhen.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 119401
+  },
+  "119501": {
+    "Content": "Nach jedem 10. Schildwurf wird Schildwurf verbessert. Tippe, damit die Schilde um den Zauberwirker kreisen.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 119501
+  },
+  "119601": {
+    "Content": "Erhöht den Illusionsbruch-SCH von Urteil und Göttlicher Schlag um 50 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 119601
+  },
+  "119701": {
+    "Content": "Nach dem Wirken von Sengendes Urteil ist der verursachte Illusionsbruch-SCH für die Dauer der Fähigkeit um 50 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 119701
+  },
+  "119801": {
+    "Content": "Das Wirken von Schildwurf erhöht den ANG 2 Sek. lang um 2 %. Dieser Effekt ist bis zu 50-mal stapelbar.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 119801
+  },
+  "119901": {
+    "Content": "Erhöht den Krit-SCH von Inferno-Abrechnung um 100 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 119901
+  },
+  "120001": {
+    "Content": "Während Ägis-Wächter wird alle 0,5 Sek. Inferno-Abrechnung ausgelöst und die Angriffsgeschwindigkeit ist um 100 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 120001
+  },
+  "120101": {
+    "Content": "Inferno-Abrechnung kann nun Göttlicher Schlag auslösen. Der Effekt der AZ-Verringerung der Vergeltung von Ägis-Wächter auf Ägis-Wächter ist verdoppelt.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 120101
+  },
+  "120201": {
+    "Content": "Spezialangriffe können nun Göttlicher Schlag auslösen. Der Illusionsbruch-SCH von Göttlicher Schlag ist um 100 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 120201
+  },
+  "120301": {
+    "Content": "Verringert die AZ von Strahlen um 50 %. Während des Effekts ist der verursachte Illusionsbruch-SCH um 20 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 120301
+  },
+  "120401": {
+    "Content": "Heilige Klinge verursacht zusätzlichen fixen Schaden in Höhe von 50 % der Max. LP. Zudem werden die Max. LP um 50 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 120401
+  },
+  "120501": {
+    "Content": "Verringert die Kosten von Heilige Klinge um 1. Wenn Heilige Klinge ein Ziel mit einem Heiligen Mal trifft, werden die Max. LP dauerhaft um 200 Punkte erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 120501
+  },
+  "120601": {
+    "Content": "Verdoppelt die Zusatzeffekte von Lichtgeschmiedete Barriere.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 120601
+  },
+  "120701": {
+    "Content": "Vorhutjagd und Göttlicher Bogenschlag verursachen zusätzlichen fixen Schaden in Höhe von 50 % der Max. LP.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 120701
+  },
+  "120801": {
+    "Content": "Verdoppelt die Zusatzeffekte von Lichtgeschmiedete Barriere.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 120801
+  },
+  "120901": {
+    "Content": "Verringert die AZ von Kreuzzug des Eifers um 50 %. Während des Effekts ist der verursachte Illusionsbruch-SCH um 20 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 120901
+  },
+  "121001": {
+    "Content": "Urteil verbraucht nun die gesamte Photonenenergie. Krits von Vorhutjagd gewähren nun ein Heiliges Siegel. Der Illusionsbruch-SCH von Urteil ist um 50 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 121001
+  },
+  "121101": {
+    "Content": "Fähigkeiten, die Sandkristalle verbrauchen, stellen diese nun stattdessen wieder her und ihr Illusionsbruch-SCH ist um 200 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 121101
+  },
+  "121201": {
+    "Content": "Erdentzweiung verbraucht alle Sandkristalle. Für jeden verbrauchten Kristall ist der Illusionsbruch-SCH um 50 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 121201
+  },
+  "121301": {
+    "Content": "Nach 2 Sek. Stillstand ist der Fels-Bonus um 40 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 121301
+  },
+  "121401": {
+    "Content": "Während Steingestalt aktiv ist, wird kontinuierlich Energie gewonnen. Alle Treffer sind garantiert Krits und der Krit-SCH ist um 200 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 121401
+  },
+  "121501": {
+    "Content": "Jedes Mal, wenn Schildecho ausgelöst wird, verursacht Sternzerstörung Bonusschaden in Höhe von 100 % des aktuellen Schildwerts (dieser Bonus wird von der Schadenserhöhung von Sternzerstörung beeinflusst).<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 121501
+  },
+  "121601": {
+    "Content": "Schildecho hat eine Chance von 30 %, Schwachpunkt-Schlag auszulösen. Wenn dies geschieht, verursacht Schwachpunkt-Schlag Bonusschaden in Höhe von 100 % des aktuellen Schildwerts (dieser Bonus wird von der Schadenserhöhung von Schwachpunkt-Schlag beeinflusst).<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 121601
+  },
+  "121701": {
+    "Content": "Wenn Schwachpunkt-Schlag ausgelöst wird, verringert sich die AZ von Sandschleier um 1 Sek.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 121701
+  },
+  "121801": {
+    "Content": "Der maximale Schildwert kann nun auf 1.000 % erhöht werden. Die Beteiligung an einem Kill erhöht die Schildstärke um 5 %.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 121801
+  },
+  "121901": {
+    "Content": "Das Wirken von Granitfuror garantiert Wutschlag und der Illusionsbruch-SCH von Wutschlag ist um 100 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 121901
+  },
+  "122001": {
+    "Content": "Alle 20 Auslösungen von Steinfaust fällt ein riesiger Fels auf das Ziel herab und verursacht Schaden in Höhe von 3 % der aktuellen LP des Ziels.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 122001
+  },
+  "122101": {
+    "Content": "Während Konterzermalmer ist der Fels-Bonus um 25 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 122101
+  },
+  "122201": {
+    "Content": "Jedes Mal, wenn Granit ausgelöst wird, erhöht sich der Fels-Angriff dauerhaft um 2 Punkte.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 122201
+  },
+  "122301": {
+    "Content": "Die Kosten von Granitfuror sind um 1 verringert und Granitfuror verlängert die Dauer von Konterzermalmer. Der Illusionsbruch-SCH von Granitfuror ist um 100 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 122301
+  },
+  "122401": {
+    "Content": "Konterzermalmer verursacht Bonusschaden in Höhe von 0,1 % der aktuellen LP des Ziels.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 122401
+  },
+  "122501": {
+    "Content": "Während Konterzermalmer ist der Fels-Bonus von Konterzermalmer um 50 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 122501
+  },
+  "122601": {
+    "Content": "Jedes Mal, wenn Konterzermalmer ausgelöst wird, erhöht sich der Fels-Angriff dauerhaft um 2 Punkte.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 122601
+  },
+  "122701": {
+    "Content": "10 Sek. lang nach dem Wirken von Hauptbühne ist Harmonische Hymne auf maximalen Stapeln und ihr Illusionsbruch-SCH um 300 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 122701
+  },
+  "122801": {
+    "Content": "Das Auslösen eines Glückstreffers verringert die AZ von Harmonische Hymne und Hauptbühne um 0,5 s.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 122801
+  },
+  "122901": {
+    "Content": "Jedes Wirken von Rhapsodie der Flamme erhöht den Feuerangriff dauerhaft um 2 Punkte.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 122901
+  },
+  "123001": {
+    "Content": "Während Rhapsodie der Flamme ist die Angriffsgeschwindigkeit um 60 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 123001
+  },
+  "123101": {
+    "Content": "Illusionsbruch-SCH ist um 50 % erhöht. Wenn Heroische Melodie aktiv ist, ist auch Rhapsodie der Flamme aktiv.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 123101
+  },
+  "123201": {
+    "Content": "Der SCH-Multiplikator von Glückstreffer ist um 40 % erhöht. Spezialangriffe können nun Zugabe auslösen.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 123201
+  },
+  "123301": {
+    "Content": "10 s lang nach dem Wirken einer Ultimafähigkeit wird jede Sekunde die gesamte Auftrittspassion wiederhergestellt.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 123301
+  },
+  "123401": {
+    "Content": "Das Auslösen eines Glückstreffers verringert die AZ der Ultimafähigkeit um 0,5 s.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 123401
+  },
+  "123501": {
+    "Content": "Ausbruch der Leidenschaft wird dauerhaft durch Leidenschaftliche Wut ersetzt. Dies erfordert die Aktivierung des Talents \"Leidenschaftliche Wut\". Der Illusionsbruch-SCH ist zudem um 300 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 123501
+  },
+  "123601": {
+    "Content": "Leidenschaftliche Wut feuert 2 zusätzliche Projektile ab. Der Elementbonus ist zudem um 500 % erhöht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 123601
+  },
+  "123701": {
+    "Content": "Das Wirken von Zugabe beschwört vor dem Zauberwirker ein Soundsystem, das 15 s lang bestehen bleibt.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 123701
+  },
+  "123801": {
+    "Content": "Wenn Leidenschaftliche Wut Krit-SCH verursacht, löst dies Zugabe-Saiten bei einem zufälligen Ziel aus (bis zu einmal alle 0,5 s).<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 123801
+  },
+  "123901": {
+    "Content": "Die Kosten von Spezialangriff werden auf 1 geändert und die Heilung von Spezialangriff ist um 500 % erhöht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 123901
+  },
+  "124001": {
+    "Content": "10 Sek. lang nach dem Wirken von Konzert-Tournee ereignet sich jede Sekunde eine Explosion um den Zauberwirker, die Schaden in Höhe von 2.000 % des ANG verursacht.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 124001
+  },
+  "124101": {
+    "Content": "Fünffaches Crescendo verbraucht keine Auftrittspassion mehr. Das Wirken eines Spezialangriffs verringert die AZ von Fünffaches Crescendo und der modifizierten Ultimafähigkeit um 1 s.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 124101
+  },
+  "124201": {
+    "Content": "Erhöht dauerhaft die Intelligenz um 1 Punkt, jedes Mal, wenn Heilende Melodie Schaden verursacht.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 124201
+  },
+  "124301": {
+    "Content": "Verursacht im Kampf alle <style=\"accent-gn\">3 Sek.</style> Flächenschaden in einer geraden Linie direkt davor und schaltet Affix-Beute für <style=\"emph-gn\">[Impuls]</style> frei.",
+    "Id": 124301
+  },
+  "124401": {
+    "Content": "<style=\"emph-gn\">Impulsstrahl</style> fügt Gegnern in einem Umkreis von 5 Metern zusätzlichen SCH zu.",
+    "Id": 124401
+  },
+  "124501": {
+    "Content": "Wenn <style=\"emph-gn\">Impulsstrahl</style> Schaden verursacht, wird ein Schadensbonus von <style=\"accent-gn\">4 %</style> gewährt, der bis zu <style=\"accent-gn\">10-mal</style> stapelbar ist und beim Verlassen des Kampfes entfernt wird.",
+    "Id": 124501
+  },
+  "124601": {
+    "Content": "Ändert den Wirkungsbereich von <style=\"emph-gn\">Impulsstrahl</style> in eine Kreuzform.",
+    "Id": 124601
+  },
+  "124701": {
+    "Content": "Verringert die Intervallzeit für <style=\"emph-gn\">Impulsstrahl</style> um <style=\"accent-gn\">1 Sek.</style>.",
+    "Id": 124701
+  },
+  "124801": {
+    "Content": "Für jeden von <style=\"emph-gn\">Impulsstrahl</style> getroffenen Gegner wird die nächste Auslösezeit um <style=\"accent-gn\">0,2 Sek.</style> verringert (bis zu einer maximalen Reduktion von <style=\"accent-gn\">1 Sek.</style>).",
+    "Id": 124801
+  },
+  "124901": {
+    "Content": "<style=\"emph-gn\">Impulsstrahl</style> heilt auch verbündete Einheiten in Reichweite.",
+    "Id": 124901
+  },
+  "125001": {
+    "Content": "<style=\"emph-gn\">Impulsstrahl</style> erhöht bei verbündeten Einheiten Krit um <style=\"accent-gn\">10 %</style> und Glück um <style=\"accent-gn\">10 %</style>.",
+    "Id": 125001
+  },
+  "125101": {
+    "Content": "<style=\"emph-gn\">Impulsstrahl</style> kann Glückstreffer auslösen.",
+    "Id": 125101
+  },
+  "125201": {
+    "Content": "<style=\"emph-gn\">Impulsstrahl</style> verursacht zusätzlichen Schaden in Höhe von <style=\"accent-gn\">20 %</style> der Max. LP.",
+    "Id": 125201
+  },
+  "125301": {
+    "Content": "<style=\"emph-gn\">Impulsstrahl</style> verursacht zusätzlichen Schaden in Höhe von <style=\"accent-gn\">400 %</style> der Rüstung.",
+    "Id": 125301
+  },
+  "125401": {
+    "Content": "Wenn <style=\"emph-gn\">Impulsstrahl</style> Schaden verursacht, wird der Zauberwirker in Höhe von <style=\"accent-gn\">10 %</style> des verursachten Schadens geheilt.",
+    "Id": 125401
+  },
+  "125501": {
+    "Content": "Krit-SCH für <style=\"emph-gn\">Impulsstrahl</style> <style=\"accent-gn\">+40 %</style>.",
+    "Id": 125501
+  },
+  "125601": {
+    "Content": "Krit-Rate für <style=\"emph-gn\">Impulsstrahl</style> <style=\"accent-gn\">+20 %</style>.",
+    "Id": 125601
+  },
+  "125701": {
+    "Content": "SCH für <style=\"emph-gn\">Impulsstrahl</style> <style=\"accent-gn\">+20 %</style>.",
+    "Id": 125701
+  },
+  "125801": {
+    "Content": "Das Wirken einer <style=\"emph-gn\">Expertisefähigkeit</style> löst <style=\"emph-gn\">Impulsstrahl</style> aus (AZ: <style=\"accent-gn\">0,5 Sek.</style>).",
+    "Id": 125801
+  },
+  "125901": {
+    "Content": "Für <style=\"accent-gn\">15 Sek.</style> nach dem Wirken einer <style=\"emph-gn\">Ultimafähigkeit</style> wird die AZ von <style=\"emph-gn\">Impulsstrahl</style> halbiert (AZ: <style=\"accent-gn\">20 Sek.</style>).",
+    "Id": 125901
+  },
+  "126001": {
+    "Content": "Wenn <style=\"emph-gn\">Impulsstrahl</style> Schaden verursacht, wird eine <style=\"emph-gn\">Frost-Oger-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 126001
+  },
+  "126101": {
+    "Content": "Beharrlichkeitsbruch-Effizienz für <style=\"emph-gn\">Impulsstrahl</style> <style=\"accent-gn\">+500 %</style>.",
+    "Id": 126101
+  },
+  "126201": {
+    "Content": "Jedes <style=\"accent-gn\">1 %</style> <style=\"emph-gn\">Meisterschaft</style> erhöht zusätzlich den <style=\"emph-gn\">Element-SCH</style> von <style=\"emph-gn\">Impulsstrahl</style> um <style=\"accent-gn\">2 %</style>.",
+    "Id": 126201
+  },
+  "126301": {
+    "Content": "Jedes <style=\"accent-gn\">1 %</style> <style=\"emph-gn\">Meisterschaft</style> erhöht PHY-Schub und MAG-Schub um <style=\"accent-gn\">0,4 %</style>.",
+    "Id": 126301
+  },
+  "126401": {
+    "Content": "Das Besiegen eines Monsters erhöht Meisterschaft um <style=\"accent-gn\">0,2 %</style>. Der Effekt wird beim Besiegen eines Elite oder Bosses verdoppelt.",
+    "Id": 126401
+  },
+  "126501": {
+    "Content": "Meisterschaft <style=\"accent-gn\">+15 %</style>.",
+    "Id": 126501
+  },
+  "126601": {
+    "Content": "Das Wirken einer <style=\"emph-gn\">Expertisefähigkeit</style> beschwört eine <style=\"emph-gn\">Spinnenkrabben-König-Vorstellung</style> (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 126601
+  },
+  "126701": {
+    "Content": "Jedes <style=\"accent-gn\">1 %</style> <style=\"emph-gn\">Meisterschaft</style> erhöht den Fähigkeiten-AZ-Schub um <style=\"accent-gn\">1 %</style>.",
+    "Id": 126701
+  },
+  "126801": {
+    "Content": "Wenn Meisterschaft <style=\"accent-gn\">50 %</style> übersteigt, werden <style=\"accent-gn\">25 %</style> Angriff-GES und <style=\"accent-gn\">50 %</style> Zauber-GES gewährt.",
+    "Id": 126801
+  },
+  "126901": {
+    "Content": "Löst alle <style=\"accent-gn\">30 Sek.</style> für <style=\"accent-gn\">5 Sek.</style> den Zustand Unbegrenzte Feuerkraft aus. In diesem Zustand sind die Kampfressourcen unendlich und die Fähigkeiten-AZ wird um <style=\"accent-gn\">80 %</style> verringert. Jedes <style=\"accent-gn\">1 %</style> Meisterschaft verringert das Intervall um <style=\"accent-gn\">0,1 Sek.</style>.",
+    "Id": 126901
+  },
+  "127001": {
+    "Content": "Das Wirken eines <style=\"emph-gn\">Spezialangriffs</style> beschwört eine <style=\"emph-gn\">Schwarzfeuer-Fux-Vorstellung</style> (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 127001
+  },
+  "127101": {
+    "Content": "Wenn Meisterschaft <style=\"accent-gn\">50 %</style> erreicht, werden <style=\"accent-gn\">20 %</style> Krit-SCH und ein Glückstreffer-Multiplikator von <style=\"accent-gn\">20 %</style> gewährt.",
+    "Id": 127101
+  },
+  "127201": {
+    "Content": "Wenn Meisterschaft <style=\"accent-gn\">50 %</style> erreicht, werden zusätzlich <style=\"accent-gn\">20 %</style> Meisterschaft gewährt.",
+    "Id": 127201
+  },
+  "127301": {
+    "Content": "Wenn Meisterschaft <style=\"accent-gn\">100 %</style> erreicht, trifft jeglicher verursachte Schaden garantiert kritisch.",
+    "Id": 127301
+  },
+  "127401": {
+    "Content": "Jedes <style=\"accent-gn\">1 %</style> verlorene LP erhöht die Meisterschaft um <style=\"accent-gn\">0,2 %</style>.",
+    "Id": 127401
+  },
+  "127501": {
+    "Content": "Erlittener Schaden stellt <style=\"accent-gn\">3 %</style> der Max. LP wieder her. Jedes <style=\"accent-gn\">1 %</style> Meisterschaft erhöht diese Heilungsmenge um <style=\"accent-gn\">10 %</style>.",
+    "Id": 127501
+  },
+  "127601": {
+    "Content": "Jedes <style=\"accent-gn\">1 %</style> Meisterschaft verringert den erlittenen Schaden um <style=\"accent-gn\">0,3 %</style>.",
+    "Id": 127601
+  },
+  "127701": {
+    "Content": "Jedes <style=\"accent-gn\">1 %</style> Meisterschaft erhöht den Glückstreffer-Schaden um <style=\"accent-gn\">0,5 %</style>.",
+    "Id": 127701
+  },
+  "127801": {
+    "Content": "Meisterschaft <style=\"accent-gn\">+8.000</style>.",
+    "Id": 127801
+  },
+  "127901": {
+    "Content": "Das Wirken einer Fähigkeit verursacht einmalig Flächenschaden. Jedes <style=\"accent-gn\">1 %</style> Meisterschaft erhöht diesen Schaden um <style=\"accent-gn\">10 %</style>.",
+    "Id": 127901
+  },
+  "128001": {
+    "Content": "Beim Verursachen von Schaden wird zusätzlicher Schaden in Höhe des prozentualen Meisterschaftswerts verursacht.",
+    "Id": 128001
+  },
+  "128101": {
+    "Content": "Wenn Meisterschaft <style=\"accent-gn\">50 %</style> erreicht, wird alle <style=\"accent-gn\">30 Sek.</style> eine <style=\"emph-gn\">Raubspinne-Vorstellung</style> beschworen.",
+    "Id": 128101
+  },
+  "128201": {
+    "Content": "Jedes <style=\"accent-gn\">1 %</style> <style=\"emph-gn\">Meisterschaft</style> erhöht die Heilungsstärke um <style=\"accent-gn\">1 %</style>.",
+    "Id": 128201
+  },
+  "128301": {
+    "Content": "Beim Verursachen von Schaden wird zusätzlicher Schaden in Höhe von <style=\"accent-gn\">10 %</style> der LP verursacht.",
+    "Id": 128301
+  },
+  "128401": {
+    "Content": "Erhöht Max. LP um <style=\"accent-gn\">100 %</style>. Erlittener Schaden stellt <style=\"accent-gn\">5 %</style> der Max. LP wieder her.",
+    "Id": 128401
+  },
+  "128501": {
+    "Content": "Während der Bewegung werden Super-Rüstung und Unverwundbarkeit gewährt.",
+    "Id": 128501
+  },
+  "128601": {
+    "Content": "Verursachter Schaden stellt <style=\"accent-gn\">5 %</style> der Max. LP wieder her.",
+    "Id": 128601
+  },
+  "128701": {
+    "Content": "Jedes Wirken einer Fähigkeit garantiert einen Krit, verbraucht jedoch <style=\"accent-gn\">1 %</style> der LP.",
+    "Id": 128701
+  },
+  "128801": {
+    "Content": "Erhöht Max. LP um <style=\"accent-gn\">1.000 %</style> der Rüstung.",
+    "Id": 128801
+  },
+  "128901": {
+    "Content": "Je <style=\"accent-gn\">20</style> Punkte an Max. LP erhöhen Tempo und Meisterschaft um <style=\"accent-gn\">1</style>.",
+    "Id": 128901
+  },
+  "129001": {
+    "Content": "Je <style=\"accent-gn\">20</style> Punkte Max. LP werden Krit und Glück um <style=\"accent-gn\">1</style> erhöht.",
+    "Id": 129001
+  },
+  "129101": {
+    "Content": "Wenn du Schaden erleidest, wird eine <style=\"emph-gn\">Denvel-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 129101
+  },
+  "129201": {
+    "Content": "Der durch klassenunabhängige Fähigkeiten verursachte Schaden wird um <style=\"accent-gn\">10 %</style> erhöht. Für jeweils 20.000 Max. LP gibt es eine zusätzliche Erhöhung um <style=\"accent-gn\">10 %</style>.",
+    "Id": 129201
+  },
+  "129301": {
+    "Content": "Erlittener Schaden löst sofort einen Gegenangriff auf den Angreifer aus, der Schaden in Höhe von <style=\"accent-gn\">100 %</style> der Max. LP verursacht.",
+    "Id": 129301
+  },
+  "129401": {
+    "Content": "Max. LP <style=\"accent-gn\">+20 %</style>.",
+    "Id": 129401
+  },
+  "129501": {
+    "Content": "Rüstung <style=\"accent-gn\">+20 %</style>.",
+    "Id": 129501
+  },
+  "129601": {
+    "Content": "Vielseitigkeit <style=\"accent-gn\">+10 %</style>.",
+    "Id": 129601
+  },
+  "129701": {
+    "Content": "Glückstreffer verursacht Bonusschaden in Höhe von <style=\"accent-gn\">10 %</style> der Max. LP.",
+    "Id": 129701
+  },
+  "129801": {
+    "Content": "Beharrlichkeitsbruch-Effizienz <style=\"accent-gn\">+30 %</style>.",
+    "Id": 129801
+  },
+  "129901": {
+    "Content": "Gewährt <style=\"accent-gn\">0,3 %</style> ANG für jeweils <style=\"accent-gn\">1 %</style> verlorene LP. Jeder Blutzorn-Affix gewährt einen ANG-Schub von <style=\"accent-gn\">0,05 %</style>.",
+    "Id": 129901
+  },
+  "130001": {
+    "Content": "Jeweils <style=\"accent-gn\">1 %</style> verlorene LP erhöhen den AZ-Schub von Fähigkeiten um <style=\"accent-gn\">1 %</style>.",
+    "Id": 130001
+  },
+  "130101": {
+    "Content": "Wenn die LP unter <style=\"accent-gn\">50 %</style> fallen, wird ein Element-SCH-Bonus von <style=\"accent-gn\">40 %</style> gewährt.",
+    "Id": 130101
+  },
+  "130201": {
+    "Content": "Wenn sich die LP ändern, werden <style=\"accent-gn\">5 %</style> Krit, Tempo, Glück, Meisterschaft und Vielseitigkeit gewährt.",
+    "Id": 130201
+  },
+  "130301": {
+    "Content": "Wenn sich die LP ändern, wird die AZ aller Fähigkeiten um <style=\"accent-gn\">1 Sek.</style> reduziert.",
+    "Id": 130301
+  },
+  "130401": {
+    "Content": "Verhindert den Tod für <style=\"accent-gn\">20 Sek.</style> nach Kampfbeginn und erhöht den verursachten Schaden um <style=\"accent-gn\">20 %</style>.",
+    "Id": 130401
+  },
+  "130501": {
+    "Content": "Wenn sich die LP ändern, wird Flächenschaden verursacht. Jeweils <style=\"accent-gn\">1 %</style> verlorene LP erhöhen den verursachten Schaden um <style=\"accent-gn\">10 %</style>.",
+    "Id": 130501
+  },
+  "130601": {
+    "Content": "Wenn sich die LP ändern, wird automatisch eine <style=\"emph-gn\">Kartgriff-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">60 Sek.</style>).",
+    "Id": 130601
+  },
+  "130701": {
+    "Content": "Erhöht die Angriff-GES für jeweils <style=\"accent-gn\">1 %</style> verlorene LP um <style=\"accent-gn\">0,3 %</style> und die Zauber-GES um <style=\"accent-gn\">0,6 %</style>.",
+    "Id": 130701
+  },
+  "130801": {
+    "Content": "Wenn die LP unter <style=\"accent-gn\">50 %</style> fallen, wird eine <style=\"emph-gn\">Kammzahn-Vorstellung</style> beschworen (AZ: <style=\"accent-gn\">30 Sek.</style>).",
+    "Id": 130801
+  },
+  "130901": {
+    "Content": "Reduziert erlittenen Schaden um <style=\"accent-gn\">20 %</style> und um weitere <style=\"accent-gn\">30 %</style>, wenn die LP unter <style=\"accent-gn\">50 %</style> fallen.",
+    "Id": 130901
+  },
+  "131001": {
+    "Content": "Wenn die LP unter <style=\"accent-gn\">30 %</style> fallen, wird <style=\"accent-gn\">30 %</style> Krit-SCH gewährt.",
+    "Id": 131001
+  },
+  "131101": {
+    "Content": "Jeweils <style=\"accent-gn\">1 %</style> verlorene LP erhöhen die Rüstung um <style=\"accent-gn\">1 %</style>.",
+    "Id": 131101
+  },
+  "131201": {
+    "Content": "Wenn die LP unter <style=\"accent-gn\">30 %</style> fallen, wird <style=\"accent-gn\">20 %</style> Glück gewährt.",
+    "Id": 131201
+  },
+  "131301": {
+    "Content": "Wenn die LP unter <style=\"accent-gn\">50 %</style> fallen, wird <style=\"accent-gn\">800</style> Gesamtelement-ANG gewährt.",
+    "Id": 131301
+  },
+  "131401": {
+    "Content": "Stellt LP basierend auf dem durch Glückstreffer verursachten Schaden wieder her und verursacht zusätzlichen Flächenschaden.",
+    "Id": 131401
+  },
+  "131501": {
+    "Content": "Jedes 1 % Glück bietet eine Chance von 0,2 % (Stufe 1)/0,1 % (Stufe 2)/0,05 % (Stufe 3), Formloser Flammenhieb auszulösen.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 131501
+  },
+  "131601": {
+    "Content": "Wenn Axtwind Schaden verursacht, wird Höllenfeuer-Meteor ausgelöst (höchstens einmal bei Treffern auf mehrere Ziele).<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 131601
+  },
+  "131701": {
+    "Content": "Reduziert die Konditionskosten von Axtwind und fügt einen verschlingenden Zugeffekt hinzu.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 131701
+  },
+  "131801": {
+    "Content": "Erhöht für 5 Sek. nach dem Wirken von Lodernder Ansturm die Krit-Chance um 100 % und den Krit-SCH um 30 %.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 131801
+  },
+  "131901": {
+    "Content": "Verbrennung kann Formloser Flammenhieb auslösen, aber die Auslösechance wird halbiert.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 131901
+  },
+  "132001": {
+    "Content": "Wenn Axtwind Schaden verursacht, wird der End-SCH basierend auf der Anzahl der Verbrennung-Stapel auf dem Ziel erhöht, wobei jeder Stapel 10 % gewährt.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 132001
+  },
+  "132101": {
+    "Content": "Jede Stufe des Formlos-Effekts erhöht den höchsten Wert von Krit, Tempo, Glück, Meisterschaft und Vielseitigkeit um 3 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 132101
+  },
+  "132201": {
+    "Content": "Erhöht den End-SCH von Formloser Flammenhieb um 40 %, plus zusätzliche 20 %, wenn ein Ziel mit Verbrennung getroffen wird.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 132201
+  },
+  "132301": {
+    "Content": "Wenn Entfesselter Meteor oder Fallendes Höllenfeuer das Hauptziel trifft, wird für 5 Sek. ein Feuerbonus von 8 % gewährt. Bis zu 3-mal stapelbar.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 132301
+  },
+  "132401": {
+    "Content": "Fließender Prachthieb verursacht Bonusschaden in Höhe von 0,1 % der aktuellen LP des Ziels.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 132401
+  },
+  "132501": {
+    "Content": "Krit-SCH für Expertisefähigkeit +40 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 132501
+  },
+  "132601": {
+    "Content": "Erhöht den Illusionsbruch-SCH für Expertisefähigkeit um 20 %.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 132601
+  },
+  "132701": {
+    "Content": "Verdoppelt während Endloses Höllenfeuer den Krit-SCH.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 132701
+  },
+  "132801": {
+    "Content": "Wenn Wildfeuertanz das Hauptziel trifft, besteht eine Chance von 50 %, die AZ von Endloses Höllenfeuer um 0,5 Sek. zu reduzieren.<br><br>Nur in [Albtraum] verfügbar.",
+    "Id": 132801
+  },
+  "132901": {
+    "Content": "Fließender Prachthieb verwandelt sich in Selten – Fließender Prachthieb.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 132901
+  },
+  "133001": {
+    "Content": "Wenn die Drei-Treffer-Kombo von Fallendes Höllenfeuer ausgelöst wird, wird 1 Aufladung für Fließender Prachthieb gewährt. Sobald er vollständig aufgeladen ist, wird Fließender Prachthieb automatisch ausgelöst.<br><br>Nur in [Schwer] und [Albtraum] verfügbar.",
+    "Id": 133001
+  }
+}

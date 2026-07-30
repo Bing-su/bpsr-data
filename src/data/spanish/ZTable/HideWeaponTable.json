@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "<style=\"physical\">Consume 10</style> PS al atacar con un palo de madera.<br>Si el ataque <style=\"physical\">alcanza a un acechador</style>, <style=\"physical\">restaura 20</style> PS.<br>Matar a un acechador restaura todos los PS.<br><style=\"physical\">No se puede usar cuando los PS son insuficientes.</style><br>El daño real se calcula con base en la <style=\"physical\">armadura del objeto en el que se transformó el acechador</style>.</style><br><i><style=\"text_third_gray\">\"A quien domina con maestría no le importa la calidad de su arma\".</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "Base Sólida"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "<style=\"physical\">Consume 10</style> PS al atacar con la espada de Fafala.<br>Si el ataque <style=\"physical\">alcanza a un acechador</style>, <style=\"physical\">restaura 20 </style>PS.<br>Matar a un acechador restaura todos los PS.<br><style=\"physical\">No se puede usar cuando los PS son insuficientes</style>.<br>El daño real se calcula con base en <style=\"physical\">la armadura del objeto en el que se transformó el acechador</style>.<br><style=\"physical\">Efecto especial del arma: Los cazadores sombríos cercanos restauran PS continuamente y obtienen un aumento en la VEL de MOV.</style><br><i><style=\"text_third_gray\">\"Espero que esto te traiga algo de paz\".</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "Guía de la Niebla Matutina"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "<style=\"physical\">Consume 10</style> PS al atacar con el Espadón de Denvel.<br>Si el ataque <style=\"physical\">alcanza a un acechador</style>, <style=\"physical\">restaura 20</style> PS.<br>Matar a un acechador restaura todos los PS.<br><style=\"physical\">No se puede usar cuando los PS son insuficientes</style>.<br>El daño real se calcula con base en la <style=\"physical\">Armadura del objeto en el que se transformó el acechador</style>.<br><style=\"physical\">Efecto especial del arma: Dispara 2 cuchillas de energía adicionales y elimina todos los objetos que no sean de jugadores dentro del alcance.</style><br><i><style=\"text_third_gray\">\"Con esto, purgo las penas del pasado\".</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "Hoja del Doliente"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "<style=\"physical\">Consume 10</style> PS al atacar con una piqueta.<br>Si el ataque <style=\"physical\">alcanza a un acechador</style>, <style=\"physical\">restaura 20</style> PS.<br>Matar a un acechador restaura todos los PS.<br><style=\"physical\">No se puede usar cuando los PS son insuficientes.</style><br>El daño real se calcula con base en la <style=\"physical\">Armadura del objeto en el que se transformó el acechador</style>.<br><style=\"physical\">Efecto especial del arma: Otorga un trozo de mineral aleatorio al atacar:<br>40 % de probabilidad de obtener Ámbar: Reduce todos los TdR de habilidades en 0.5 s;<br>40 % de probabilidad de obtener Benitoíta: Restaura 10 PS;<br>19 % de probabilidad de obtener Cristal de Dragón: Dispara 5 cuchillas de energía en todas las direcciones;<br>1 % de probabilidad de obtener Fulgurita: Los rayos golpean a todos los acechadores en un radio de 30 m.</style><br><i><style=\"text_third_gray\">\"¿También tengo que excavar?\".</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "Sueño de la Fiebre del Oro"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "<style=\"physical\">Consume 10</style> PS para atacar con una Barra Luminosa.<br>Si el ataque <style=\"physical\">golpea a un acechador</style>, <style=\"physical\">restaura 20</style> PS.<br>Matar a un acechador restaura los PS por completo.<br><style=\"physical\">No se puede usar si los PS son insuficientes.</style><br>El daño real se calcula en función de la <style=\"physical\">armadura del objeto en el que se ha transformado el acechador</style>.<br><style=\"physical\">Efecto Especial del Arma: Al usar cualquier habilidad se acumula Poder de Baile. A los 50 de Poder de Baile, se otorga la habilidad Duelo de Baile:<br>Al usarla, el personaje comienza a bailar y gradualmente restaura los PS.</style><br><i><style=\"text_third_gray\">«Por favor, dejen de pelear...»</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "Apoyo de Justicia"
+  }
+}

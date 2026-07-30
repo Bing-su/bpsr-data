@@ -1,0 +1,588 @@
+{
+  "1000111": {
+    "Answer": [1],
+    "Id": 1000111,
+    "Question": "Apakah petunjuk yang diberikan oleh pemberi tugas itu benar?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000112": {
+    "Answer": [2, 3],
+    "Id": 1000112,
+    "Question": "Apakah Buah Beri ada di Ladang Moonshade?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000113": {
+    "Answer": [4, 5, 6],
+    "Id": 1000113,
+    "Question": "Hingga saat ini, tidak ada yang pernah melihat Buah Warna Berry. Sebenarnya di mana letaknya?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000211": {
+    "Answer": [1],
+    "Id": 1000211,
+    "Question": "Siapa yang pernah melihat buah warna beri?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000212": {
+    "Answer": [2, 3],
+    "Id": 1000212,
+    "Question": "Apakah ada Buah Berry Warna di Stasiun Beckmar?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000213": {
+    "Answer": [4, 5],
+    "Id": 1000213,
+    "Question": "Apakah penyakit penggemar band terkait dengan buah beri berwarna merah?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ...."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000311": {
+    "Answer": [1],
+    "Id": 1000311,
+    "Question": "Sikap Pekerja Tambang Muda?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000312": {
+    "Answer": [2, 3],
+    "Id": 1000312,
+    "Question": "Sikap pekerja tambang yang lebih tua?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000313": {
+    "Answer": [4],
+    "Id": 1000313,
+    "Question": "Apa sikap Pekerja Tambang terhadap menikah dengan orang Banhart?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ...."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000411": {
+    "Answer": [],
+    "Id": 1000411,
+    "Question": "\"Daftar\" dalam alur ini, sebenarnya memainkan peran sebagai apa?",
+    "QuestionBubble": "Mungkin lanjutan investigasi akan lebih baik...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Tidak benar, petunjuknya tidak cocok.",
+      "Pikirkan lagi, pikiranmu sedang kacau."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000412": {
+    "Answer": [3, 4, 5],
+    "Id": 1000412,
+    "Question": "\"Apa arti 'Menara' dan 'Mahkota'?\"",
+    "QuestionBubble": "Jika daftar itu ada, kemungkinan besar berada di \"Menara\".",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Tidak benar, petunjuknya tidak cocok.",
+      "Pikirkan lagi, pikiranmu sedang kacau."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000413": {
+    "Answer": [6, 7, 8],
+    "Id": 1000413,
+    "Question": "Jika ingin menemukan \"Mahkota\", langkah selanjutnya harus bagaimana?",
+    "QuestionBubble": "Jika ingin menemukan daftar tersebut, tetap harus mengikuti jejak dan masuk ke dalam menara untuk investigasi.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Tidak benar, petunjuknya tidak cocok.",
+      "Pikirkan lagi, pikiranmu sedang kacau."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000511": {
+    "Answer": [1],
+    "Id": 1000511,
+    "Question": "Apa petunjuk harta karun dalam botol pesan itu benar?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ...."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000512": {
+    "Answer": [2],
+    "Id": 1000512,
+    "Question": "Apa botol itu benar-benar ditinggalkan oleh orang di masa lalu?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ...."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000513": {
+    "Answer": [3],
+    "Id": 1000513,
+    "Question": "Kenapa bisa muncul catatan serupa yang dikubur?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "100111": {
+    "Answer": [],
+    "Id": 100111,
+    "Question": "Coba kulihat ... seperti apa ciri-ciri fisiknya!",
+    "QuestionBubble": "Petunjuk-petunjuk ini sepertinya mengarah ke satu orang ....",
+    "QuestionBubbleAction": 9019,
+    "WrongBubble": [
+      "Sepertinya berhubungan dengan penampilan informan itu ....",
+      "Sial! Tidak ada petunjuk!"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "100112": {
+    "Answer": [3, 4],
+    "Id": 100112,
+    "Question": "Mm-hmm, sekarang coba mulai dari \"simbol pertemuan\" dan \"data identitas\"!",
+    "QuestionBubble": "Ini sudah pasti ciri-ciri fisik informan itu. Kalau begitu, sekarang ...",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100121": {
+    "Answer": [1, 4],
+    "Id": 100121,
+    "Question": "Coba perkecil ruang lingkupnya, mulailah dari umur dan jenis kelamin ....",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100122": {
+    "Answer": [5, 6],
+    "Id": 100122,
+    "Question": "Kalau postur dan pakaiannya bisa dipastikan ....",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100123": {
+    "Answer": [2],
+    "Id": 100123,
+    "Question": "Masih ada ciri-ciri penting yang kurang, berhubungan dengan rambut!",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100311": {
+    "Answer": [7],
+    "Id": 100311,
+    "Question": "Apa keunikan sarung tangan yang sering dipakai pengrajin?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100312": {
+    "Answer": [8],
+    "Id": 100312,
+    "Question": "Apa isi gambar ini?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100313": {
+    "Answer": [9],
+    "Id": 100313,
+    "Question": "Apa yang janggal dengan lentera yang indah ini? Kalau dilihat dari tampilannya ...",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100411": {
+    "Answer": [8],
+    "Id": 100411,
+    "Question": "Apa yang akan dilakukan Jack sebelum menghilang di masa Perang Kemerdekaan?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100412": {
+    "Answer": [11, 12],
+    "Id": 100412,
+    "Question": "Kira-kira apa isi operasi khusus itu? Bagaimana hasilnya?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100413": {
+    "Answer": [3],
+    "Id": 100413,
+    "Question": "Kelihatannya Jack adalah komandan operasi penetrasi ini, akhirnya dia pergi ke mana?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100511": {
+    "Answer": [1],
+    "Id": 100511,
+    "Question": "Permata mungkin berasal dari mana?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100512": {
+    "Answer": [2],
+    "Id": 100512,
+    "Question": "Apa alasan Pengurus Carlise tidak suka permata?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100513": {
+    "Answer": [3],
+    "Id": 100513,
+    "Question": "Apa yang janggal dengan permata kemarin?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100611": {
+    "Answer": [1],
+    "Id": 100611,
+    "Question": "Dari kata-kata Milu & Lumi bisa diketahui bahwa ....",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100612": {
+    "Answer": [2, 3],
+    "Id": 100612,
+    "Question": "Dari kata-kata Spike bisa diketahui bahwa ....",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100613": {
+    "Answer": [4, 5],
+    "Id": 100613,
+    "Question": "Dari kata-kata Tina bisa diketahui bahwa ....",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "200111": {
+    "Answer": [],
+    "Id": 200111,
+    "Question": "Apa pendapat warga desa tentang Sea Lily yang misterius?",
+    "QuestionBubble": "Lihat apa yang dipikirkan oleh warga desa.",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Ini bukan petunjuk penting..."],
+    "WrongBubbleAction": [9007]
+  },
+  "200112": {
+    "Answer": [3, 4],
+    "Id": 200112,
+    "Question": "Pedagang memberikan petunjuk apa saja?",
+    "QuestionBubble": "Pedagang punya informasi yang dapat dipercaya?",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Ini bukan petunjuk penting..."],
+    "WrongBubbleAction": [9007]
+  },
+  "200113": {
+    "Answer": [5, 6],
+    "Id": 200113,
+    "Question": "Apa pendapat pengembara tentang sea lily yang misterius?",
+    "QuestionBubble": "Informasi tentang orang terakhir yang tersisa.",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["Ini bukan petunjuk penting..."],
+    "WrongBubbleAction": [9007]
+  },
+  "200201": {
+    "Answer": [2],
+    "Id": 200201,
+    "Question": "Suasana saat Zaphira bertemu dengan gadis misterius?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "200202": {
+    "Answer": [1],
+    "Id": 200202,
+    "Question": "Kenapa Zaphira menjadi buta?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "200203": {
+    "Answer": [3, 4],
+    "Id": 200203,
+    "Question": "Apa ciri-ciri gadis misterius itu? Apa yang dia lakukan terhadap Zaphira?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300111": {
+    "Answer": [1, 2, 3],
+    "Id": 300111,
+    "Question": "Bagaimana kondisi saat kejadian itu?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300112": {
+    "Answer": [4, 5],
+    "Id": 300112,
+    "Question": "Apa ada petunjuk yang tertinggal di lokasi?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300113": {
+    "Answer": [6, 7],
+    "Id": 300113,
+    "Question": "Kenapa petunjuk itu berulang kali menyebutkan \"Laine\"?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300211": {
+    "Answer": [1, 2, 3],
+    "Id": 300211,
+    "Question": "Dalam keterangan saksi terkait hilangnya Reed, detail apa saja yang patut diperhatikan?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300212": {
+    "Answer": [4, 5, 6],
+    "Id": 300212,
+    "Question": "Dalam keterangan saksi terkait hilangnya Golg, detail apa saja yang patut diperhatikan?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300213": {
+    "Answer": [7, 8, 9],
+    "Id": 300213,
+    "Question": "Dalam keterangan saksi tentang Duckow, detail apa saja yang patut diperhatikan?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Sepertinya ada yang salah ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "400111": {
+    "Answer": [1],
+    "Id": 400111,
+    "Question": "Apa tujuan Zona Terlarang?",
+    "QuestionBubble": "Seharusnya tempat untuk menyelenggarakan event tertentu ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "400112": {
+    "Answer": [2],
+    "Id": 400112,
+    "Question": "Bagaimana kondisi terkini Zona Terlarang?",
+    "QuestionBubble": "Aku ingat ada yang pernah mengatakannya, seharusnya ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "400113": {
+    "Answer": [3],
+    "Id": 400113,
+    "Question": "Di mana lokasi perkiraaan Zona Terlarang?",
+    "QuestionBubble": "Jika Zona Terlarang adalah tempat berdoa, petunjuk itu pasti mengarah ke tempat ini ....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Salah, coba pikirkan lagi ....", "Sial! Tidak ada petunjuk!"],
+    "WrongBubbleAction": [9007]
+  },
+  "500111": {
+    "Answer": [1],
+    "Id": 500111,
+    "Question": "Apa fenomena cuaca aneh yang dilihat orang-orang?",
+    "QuestionBubble": "Semoga kali tidak ada hubungannya dengan kabut void.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ...."],
+    "WrongBubbleAction": [9007]
+  },
+  "500112": {
+    "Answer": [2],
+    "Id": 500112,
+    "Question": "Bagaimana cara mengurangi gejala saat bermimpi buruk?",
+    "QuestionBubble": "Mimpi buruk rasanya benar-benar tidak enak ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["Salah, coba pikirkan lagi ...."],
+    "WrongBubbleAction": [9007]
+  },
+  "500113": {
+    "Answer": [3],
+    "Id": 500113,
+    "Question": "Mungkin ada semacam cara yang bisa mengurangi pengaruh mimpi buruk ....",
+    "QuestionBubble": "Semoga berguna untuk meringankan mimpi buruk.",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["Salah, coba pikirkan lagi ...."],
+    "WrongBubbleAction": [9007]
+  },
+  "700111": {
+    "Answer": [1, 2, 3],
+    "Id": 700111,
+    "Question": "Harus tanya masalah Starsoul Flask ke siapa?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "700112": {
+    "Answer": [4],
+    "Id": 700112,
+    "Question": "Bagaimana caranya menemukan penanggung jawabnya?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "800111": {
+    "Answer": [1],
+    "Id": 800111,
+    "Question": "Kalau ada perubahan di internal legion, kapan perubahan itu paling mungkin terjadi?",
+    "QuestionBubble": "Ada banyak catatan yang janggal ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "800112": {
+    "Answer": [2, 5, 7],
+    "Id": 800112,
+    "Question": "Setelah terjadi perubahan, kejanggalan apa saja yang bakal muncul dalam anggota legion yang bertugas?",
+    "QuestionBubble": "Kalau begitu, berikutnya ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "800113": {
+    "Answer": [3, 4, 6],
+    "Id": 800113,
+    "Question": "Setelah terjadi perubahan, ada beberapa sersan yang namanya hilang dari dalam daftar, coba temukan nama-nama yang hilang itu.",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "900111": {
+    "Answer": [1],
+    "Id": 900111,
+    "Question": "Apa sebenarnya barang yang terlibat dalam transaksi rahasia itu?",
+    "QuestionBubble": "Harus mengambil informasi yang berguna dari dalamnya ....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "900112": {
+    "Answer": [2, 4],
+    "Id": 900112,
+    "Question": "Dengan siapa Neville berhubungan?",
+    "QuestionBubble": "Masih tidak cukup.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "900113": {
+    "Answer": [3, 5, 6],
+    "Id": 900113,
+    "Question": "Kenapa Neville berbuat begitu?",
+    "QuestionBubble": "Kesimpulannya sudah hampir didapat!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Sepertinya ada yang aneh ....",
+      "Sial! Tidak ada petunjuk!",
+      "Lebih baik pikirkan lagi baik-baik ...."
+    ],
+    "WrongBubbleAction": [9007]
+  }
+}

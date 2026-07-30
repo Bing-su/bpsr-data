@@ -1,0 +1,201 @@
+{
+  "1001": {
+    "BaseDetailsDes": "Os Eventos Básicos para este conjunto incluem:<br>1. Todo sorteio garante reembolsos de <style=\"accent-gn\">Shangri-La Frontier – Ponto do Miau Dourado</style>. A quantidade exata dependerá da raridade do prêmio: Prêmio S retorna 50 Pontos do Miau Dourado, Prêmio A retorna 30 Pontos do Miau Dourado, Prêmio B retorna 20 Pontos do Miau Dourado, Prêmio C retorna 15 Pontos do Miau Dourado, Prêmio D retorna 10 Pontos do Miau Dourado, Prêmio E retorna 5 Pontos do Miau Dourado. <br>2. <style=\"accent-gn\">O 60º sorteio</style> garante um <style=\"accent-gn\">Vale de Prêmio S</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip001_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip001_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850101,
+    "HelpLibraryId": 0,
+    "Id": 1001,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Sortear 1", "Sortear 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Cada sorteio neste grupo tem uma chance de <style=\"accent-gn\">25,0000%</style> de ativar um Evento de Sorte! Uma vez acionado, você receberá aleatoriamente um dos seguintes efeitos de Sorte com base em suas probabilidades:<br> Próximo Sorteio Grátis: 20,0000%<br> Próximo Sorteio Retorna 3x Pontos de Bônus: 32,0000%<br> Probabilidade de Prêmio S no Próximo Sorteio AUMENTADA: 40,0000%<br> Próximo sorteio exclui prêmios C/D/E: 8,0000%",
+    "LuckPoolId": 1001,
+    "MallItemId": 11001,
+    "MiniGuaranteeDetails": [[1, 60]],
+    "OnePrizeConsume": [],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70001,
+    "PointsActivityFunctionId": 20001,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Shangri-La Frontier",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip001", "ichibankuji/ichibankuji_ip001"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1001,
+    "PrizeShowDetails": [
+      100101, 100102, 100103, 100104, 100105, 100106, 100107, 100108, 100109, 100110, 100111, 100112
+    ],
+    "Sort": 1,
+    "TextColor": ""
+  },
+  "1002": {
+    "BaseDetailsDes": "Os [Eventos Básicos] desta rodada incluem:<br>Cada sorteio garante reembolsos de <style=\"accent-gn\">Série Monogatari – Ponto do Miau Dourado</style>. A quantidade exata depende da raridade do prêmio: quanto mais raro, mais pontos você recebe.<br><style=\"accent-gn\">Vale-Prêmio A</style> garantido <style=\"accent-gn\">no 30º  sorteio</style>;<br><style=\"accent-gn\">Vale-Prêmio S</style> garantido <style=\"accent-gn\">no 80º sorteio</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip003_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip003_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850102,
+    "HelpLibraryId": 25002,
+    "Id": 1002,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Sortear 1", "Sortear 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Cada sorteio tem uma chance de <style=\"accent-gn\">25,0000%</style> de ativar um [Evento de Sorte]! Os Eventos de Sorte para esta rodada incluem:<br>[Evento 1]: Próximo Sorteio Grátis;<br>[Evento 2]: Próximo Sorteio Retorna 3x Pontos do Miau Dourado;<br>[Evento 3]: Aumento na Probabilidade do Próximo Sorteio de Prêmio A;<br>[Evento 4]: Próximo Sorteio Exclui Prêmios C/D/E.",
+    "LuckPoolId": 1002,
+    "MallItemId": 11002,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12002, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70003,
+    "PointsActivityFunctionId": 20002,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Série Monogatari",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip003", "ichibankuji/ichibankuji_ip003"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1002,
+    "PrizeShowDetails": [
+      100201, 100202, 100203, 100204, 100205, 100206, 100207, 100208, 100209, 100210
+    ],
+    "Sort": 2,
+    "TextColor": ""
+  },
+  "1003": {
+    "BaseDetailsDes": "Os [Eventos Básicos] desta rodada incluem:<br>Todo sorteio garante <style=\"accent-gn\">reembolsos de Pontos do Miau Dourado de Fairy Tail</style>. A quantidade exata depende da raridade do prêmio: quanto mais raro, mais pontos você recebe.<br><style=\"accent-gn\">Vale-Prêmio A garantido</style> <style=\"accent-gn\">no 30º sorteio</style>;<br><style=\"accent-gn\">Vale-Prêmio S garantido</style> <style=\"accent-gn\">no 80º sorteio</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip004_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip004_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850103,
+    "HelpLibraryId": 25003,
+    "Id": 1003,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Sortear 1", "Sortear 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Cada sorteio tem uma chance de <style=\"accent-gn\">25,0000%</style> de ativar um [Evento de Sorte]! Os Eventos de Sorte para esta rodada incluem:<br>[Evento 1]: Próximo Sorteio Grátis;<br>[Evento 2]: Próximo Sorteio Retorna 3x Pontos do Miau Dourado;<br>[Evento 3]: Aumento na Probabilidade do Próximo Sorteio de Prêmio A;<br>[Evento 4]: Próximo Sorteio Exclui Prêmios C/D/E.",
+    "LuckPoolId": 1003,
+    "MallItemId": 11003,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12003, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70006,
+    "PointsActivityFunctionId": 20004,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Fairy Tail",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip004", "ichibankuji/ichibankuji_ip004"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1003,
+    "PrizeShowDetails": [
+      100301, 100302, 100303, 100304, 100305, 100306, 100307, 100308, 100309, 100310, 100311, 100312
+    ],
+    "Sort": 3,
+    "TextColor": "#ffffff"
+  },
+  "1004": {
+    "BaseDetailsDes": "Os [Eventos Básicos] desta rodada incluem:<br>Todo sorteio garante <style=\"accent-gn\">reembolsos de Pontos do Miau Dourado de Verão Exuberante</style>. A quantidade exata depende da raridade do prêmio: quanto mais raro for, mais pontos você recebe.<br><style=\"accent-gn\">Vale de Prêmio A garantido</style> <style=\"accent-gn\">no 25º sorteio</style>;<br><style=\"accent-gn\">Vale de Prêmio S garantido</style> <style=\"accent-gn\">no 70º sorteio</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850204],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850104,
+    "HelpLibraryId": 25004,
+    "Id": 1004,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Sortear 1", "Sortear 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Cada sorteio tem uma chance de <style=\"accent-gn\">25,0000%</style> de ativar um [Evento de Sorte]! Os Eventos de Sorte para esta rodada incluem:<br>[Evento 1]: Próximo Sorteio Grátis;<br>[Evento 2]: Próximo Sorteio Retorna 3x Pontos do Miau Dourado;<br>[Evento 3]: Aumento na Probabilidade do Próximo Sorteio de Prêmio A;<br>[Evento 4]: Próximo Sorteio Exclui Prêmios C/D/E.",
+    "LuckPoolId": 1004,
+    "MallItemId": 11004,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12004, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41001,
+    "PointsActivityFunctionId": 20007,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Verão Exuberante",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1004,
+    "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
+    "Sort": 4,
+    "TextColor": "#ffffff"
+  }
+}

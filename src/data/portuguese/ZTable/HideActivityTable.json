@@ -1,0 +1,18 @@
+{
+  "1": {
+    "CampId": 801,
+    "Description": "Encontre os Perseguidores transformados e ataque-os usando suas armas e habilidades. Um Perseguidor é derrotado quando seus PV chegam a zero.<br><style=\"physical\">Condição de Vitória: Derrote todos os Perseguidores.</style><br>Ao se tornar um Caçador das Sombras, o usuário ganha automaticamente as seguintes habilidades exclusivas:",
+    "Id": 1,
+    "Name": "Caçador das Sombras",
+    "SkillId": [],
+    "SkillText": "Os itens adicionados serão deduzidos após a <style=\"physical\">fase de confirmação de facção </style>. A habilidade correspondente é concedida e <style=\"physical\">dura por uma única partida</style>. Para usá-la na próxima partida, o item deve ser consumido novamente."
+  },
+  "2": {
+    "CampId": 802,
+    "Description": "Use a habilidade de Transformação para se transformar em objetos da cena. Esconda-se em locais adequados para confundir os Caçadores das Sombras, ou mova-se com frequência para evitar seus ataques.<br><style=\"physical\">Condição de Vitória: Pelo menos um Perseguidor deve sobreviver até que o tempo acabe.</style><br>Tornar-se um Perseguidor concede automaticamente as seguintes habilidades exclusivas:",
+    "Id": 2,
+    "Name": "Perseguidor",
+    "SkillId": [6500, 6504, 6501],
+    "SkillText": "Os itens adicionados serão deduzidos após a <style=\"physical\">fase de confirmação de facção </style>. A habilidade correspondente é concedida e <style=\"physical\">dura por uma única partida</style>. Para usá-la na próxima partida, o item deve ser consumido novamente."
+  }
+}

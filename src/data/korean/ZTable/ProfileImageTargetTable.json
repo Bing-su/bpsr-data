@@ -1,0 +1,52 @@
+{
+  "1": {
+    "Describe": "옷장 코스튬 누적 {*val*}개 해제하기",
+    "Id": 1,
+    "JumpParam": [101101],
+    "JumpType": 2,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 165
+  },
+  "2": {
+    "Describe": "맨손 낚시 {*val*}회",
+    "Id": 2,
+    "JumpParam": [],
+    "JumpType": 0,
+    "Num": 2,
+    "Param": [20000013, 20000014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "3": {
+    "Describe": "레시피 {*val*}개 해제하기",
+    "Id": 3,
+    "JumpParam": [8, 5, 1079],
+    "JumpType": 1,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "4": {
+    "Describe": "(테스트) 엔그램 허브 {*val*}개 활성화하기",
+    "Id": 4,
+    "JumpParam": [801001, 7],
+    "JumpType": 2,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "5": {
+    "Describe": "(테스트) 셀프 카메라 1회 완료하기",
+    "Id": 5,
+    "JumpParam": [],
+    "JumpType": 0,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  }
+}

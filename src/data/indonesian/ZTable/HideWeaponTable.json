@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "<style=\"physical\">Gunakan 10 poin</style> HP, pakai tongkat kayu untuk menyerang.<br>Jika serangan <style=\"physical\">kena Hit pada Penyelinap</style>, maka diri sendiri <style=\"physical\">Pulih 20 poin</style> HP.<br>Saat membunuh Penyelinap, pulihkan semua HP.<br><style=\"physical\">Ketika HP kurang</style>, tidak dapat menggunakan skill ini.<br>DMG yang sebenarnya dihitung berdasarkan <style=\"physical\">nilai pertahanan objek Transformasi Penyelinap</style>.</style><br><i><style=\"text_third_gray\">「Ahli sejati tak pernah peduli pada kekuatan senjata.」</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "fondasi utama"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "<style=&#34;physical&#34;>Gunakan 10 poin</style> HP, pakai pedang Pavara untuk Attack.<br>Jika Attack <style=&#34;physical&#34;>Hit Sneaker</style>, Diri Sendiri mendapat <style=&#34;physical&#34;>Recovery 20 poin</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=&#34;physical&#34;>HP tidak cukup</style>, Skill ini tidak dapat digunakan.<br>DMG aktual yang diberikan dihitung berdasarkan <style=&#34;physical&#34;>DEF objek Transform Sneaker</style>.<br><style=&#34;physical&#34;>Efek Spesial Weapon: Shadow Hunter di sekitar mendapat Recovery HP secara sustained, dan kecepatan meningkat.</style><br><i><style=&#34;text_third_gray&#34;>&#34;Semoga ini bisa membuatmu merasa lebih tenang...&#34;</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "Petunjuk Kabut Pagi"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "<style=&#34;physical&#34;>Gunakan 10 poin</style> HP, pakai Claymore Denver untuk Attack.<br>Jika Attack <style=&#34;physical&#34;>Hit Sneaker</style>, Diri Sendiri mendapat <style=&#34;physical&#34;>Recovery 20 poin</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=&#34;physical&#34;>HP tidak cukup</style>, Skill ini tidak dapat digunakan.<br>DMG aktual yang diberikan dihitung berdasarkan <style=&#34;physical&#34;>DEF objek Transform Sneaker</style>.<br><style=&#34;physical&#34;>Efek Spesial Weapon: Menembakkan 2 tebasan ekstra dan membersihkan semua objek di dalam Area yang bukan hasil Transform Pemain.</style><br><i><style=&#34;text_third_gray&#34;>&#34;Dengan ini, bersihkan duka dan dendam masa lalu.&#34;</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "Bilah Berkabung"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "<style=&#34;physical&#34;>Gunakan 10 poin</style> HP, pakai beliung untuk Attack.<br>Jika Attack <style=&#34;physical&#34;>Hit Sneaker</style>, Diri Sendiri mendapat <style=&#34;physical&#34;>Recovery 20 poin</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=&#34;physical&#34;>HP tidak cukup</style>, Skill ini tidak dapat digunakan.<br>DMG aktual yang diberikan dihitung berdasarkan <style=&#34;physical&#34;>DEF objek Transform Sneaker</style>.<br><style=&#34;physical&#34;>Efek Spesial Weapon: Setiap Attack akan mendapat 1 Ore secara acak:<br>40% Berpeluang mendapat Amber: Mengurangi Skill Cooldown Diri Sendiri sebanyak 0,5 detik;<br>40% Berpeluang mendapat Benitoite: Recovery 10 HP;<br>19% Berpeluang mendapat Dragon Crystal: Menembakkan 5 serangan tajam ke sekeliling;<br>1% Berpeluang mendapat Fulgurite: Semua Sneaker dalam Area 30 meter akan tersambar petir.</style><br><i><style=&#34;text_third_gray&#34;>&#34;Apa aku juga harus menambang?&#34;</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "Mimpi Emas"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "<style=&#34;physical&#34;>Gunakan 10</style> HP, pakai Lightstick untuk Attack.<br>Jika Attack <style=&#34;physical&#34;>Hit Sneaker</style>, Diri Sendiri mendapat <style=&#34;physical&#34;>Recovery 20</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=&#34;physical&#34;>HP tidak cukup</style>, tidak bisa pakai Skill ini.<br>DMG yang diberikan dihitung berdasarkan <style=&#34;physical&#34;>DEF dari objek Transform Sneaker</style>.<br><style=&#34;physical&#34;>Efek Spesial Weapon: Menggunakan Skill apa pun akan mengumpulkan Dance Power. Saat Dance Power mencapai 50, Mendapat Skill [Dance Power Unleashed]:<br>Setelah dipakai, masuk ke status Dance, dan secara bertahap mendapat Recovery HP.</style><br><i><style=&#34;text_third_gray&#34;>&#34;Kalian jangan berkelahi lagi...&#34;</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "Fans Keadilan"
+  }
+}

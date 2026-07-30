@@ -1,0 +1,642 @@
+{
+  "1": {
+    "CutDialogueIdle": "as_npc_m_child_idle",
+    "Id": 1,
+    "IdleAnimationClip": "as_npc_m_child_skt_idle",
+    "IdleEmo": 177,
+    "PlotCharactersAge": "幼年",
+    "PlotCharactersContent": "路人",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "通用路人角色幼年男"
+  },
+  "10": {
+    "CutDialogueIdle": "",
+    "Id": 10,
+    "IdleAnimationClip": "",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "青年",
+    "PlotCharactersContent": "旁边画外音",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "旁白"
+  },
+  "1001": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 1001,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "物语系列联动角色",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "阿良良木历"
+  },
+  "1002": {
+    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "Id": 1002,
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "物语系列联动角色",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "战场原黑仪"
+  },
+  "101": {
+    "CutDialogueIdle": "as_wpnpc_f_base_iruna_sidle",
+    "Id": 101,
+    "IdleAnimationClip": "as_wpnpc_f_base_iruna_skt_idle",
+    "IdleEmo": 16,
+    "PlotCharactersAge": "16岁",
+    "PlotCharactersContent": "享有盛名的传奇开拓者，有着不属于这少女外表之下的渊博的阅历和知识，真实身份成谜。平常讨厌麻烦事，但紧要时刻总会成为大家最可靠的存在。亦师亦友般，一路陪伴和引导着凯夫曼的成长。",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "艾露娜"
+  },
+  "102": {
+    "CutDialogueIdle": "as_wpnpc_f_base_olvera_perform01",
+    "Id": 102,
+    "IdleAnimationClip": "as_wpnpc_f_base_olvera_skt_idle",
+    "IdleEmo": 37,
+    "PlotCharactersAge": "26岁",
+    "PlotCharactersContent": "阿斯特里斯守备兵团团长。性格冷静，坚毅果敢，充满魄力。_x000d_\n战斗力与智慧超群，但在强大的外表下，有一颗温柔细腻的心。",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "奥尔维拉"
+  },
+  "103": {
+    "CutDialogueIdle": "as_wpnpc_f_base_tina_sidle",
+    "Id": 103,
+    "IdleAnimationClip": "as_wpnpc_f_base_tina_skt_idle",
+    "IdleEmo": 56,
+    "PlotCharactersAge": "22岁",
+    "PlotCharactersContent": "阿斯特里斯的自由战士。个性阳光，心性乐观、积极向上，且充满感染力。面对困境时，仍能保持果决与勇气。_x000d_\n向往自由，但是也愿意为了更多人的利益而牺牲自我，有很强的责任感和牺牲精神。",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "蒂娜"
+  },
+  "104": {
+    "CutDialogueIdle": "as_wpnpc_m_base_tata_sidle",
+    "Id": 104,
+    "IdleAnimationClip": "as_wpnpc_m_base_tata_skt_idle",
+    "IdleEmo": 114,
+    "PlotCharactersAge": "17岁",
+    "PlotCharactersContent": "班哈尔特公国贵族，活泼清爽的少年。无论面对什么困难都不放弃自己的目标，阳光乐观、热心肠、亲切温柔，容易让人心生好感。总将他人的感受置于自身之前，愿意尽力帮助他人。",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "塔塔"
+  },
+  "105": {
+    "CutDialogueIdle": "as_wpnpc_m_base_comeau_sidle",
+    "Id": 105,
+    "IdleAnimationClip": "as_wpnpc_m_base_comeau_skt_idle",
+    "IdleEmo": 77,
+    "PlotCharactersAge": "27岁",
+    "PlotCharactersContent": "现任阿斯特里斯守备兵团副官，奥尔维拉的直属部下。风趣爽朗、行动力极强的男人。喜欢新奇的事物，待人热心友善，容易亲近。_x000d_\n平时看似大大咧咧、对很多事都不够专注的样子，实际非常细心，总能体察他人的心意。",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "杰拉德"
+  },
+  "106": {
+    "CutDialogueIdle": "as_wpnpc_f_base_taurus_sidle",
+    "Id": 106,
+    "IdleAnimationClip": "as_wpnpc_f_base_taurus_skt_idle",
+    "IdleEmo": 131,
+    "PlotCharactersAge": "22岁",
+    "PlotCharactersContent": "工匠协会会长，泰德的女儿。爱恨分明、真性情、中性、凛（娇）“娇的属性偏弱”。爽利，爱憎分明，对自己的职业充满热忱。也无惧世俗的目光，始终遵循自己喜爱的方式处世。",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "陶洛斯"
+  },
+  "107": {
+    "CutDialogueIdle": "as_f_base_idle",
+    "Id": 107,
+    "IdleAnimationClip": "as_wpnpc_f_base_rorola_skt_idle",
+    "IdleEmo": 550,
+    "PlotCharactersAge": "17岁",
+    "PlotCharactersContent": "卡尼曼部落大祭司，酋长罗特罗亚尼的女儿。黑皮美人、内向安静、神秘、果敢、心机。安静内敛、气质神秘的黑皮美人。随身携带着镜子，有占卜的能力。看似柔弱，但在面对重要抉择的时刻，会展现出惊人的决心。",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "罗罗拉"
+  },
+  "108": {
+    "CutDialogueIdle": "as_m_base_idle",
+    "Id": 108,
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195,
+    "PlotCharactersAge": "47岁",
+    "PlotCharactersContent": "新卡尼曼部落酋长。黑皮老男神、野性狂放、智者、深沉。睿智而深沉的长者，阅历丰富，洞悉世事。平日里给予他人的谏言，皆言之有物。",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "罗特罗亚尼"
+  },
+  "109": {
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "Id": 109,
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195,
+    "PlotCharactersAge": "30岁",
+    "PlotCharactersContent": "黯影堡垒战士长，丹佛的心腹。铁血硬汉、忠诚、苦大仇深、凶煞",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "盖尔"
+  },
+  "11": {
+    "CutDialogueIdle": "",
+    "Id": 11,
+    "IdleAnimationClip": "",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "通用怪物",
+    "PlotCharactersContent": "通用怪物",
+    "PlotCharactersGender": "通用怪物",
+    "PlotCharactersName": "通用怪物"
+  },
+  "110": {
+    "CutDialogueIdle": "as_wpnpc_m_base_boyce_sidle",
+    "Id": 110,
+    "IdleAnimationClip": "as_wpnpc_m_base_boyce_skt_idle",
+    "IdleEmo": 622,
+    "PlotCharactersAge": "24岁",
+    "PlotCharactersContent": "布法利亚教团护卫者队长。清冷、忧郁、神秘的教团护卫者",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "博伊斯"
+  },
+  "111": {
+    "CutDialogueIdle": "as_wpnpc_f_base_daya_sidle",
+    "Id": 111,
+    "IdleAnimationClip": "as_wpnpc_f_base_daya_skt_idle",
+    "IdleEmo": 637,
+    "PlotCharactersAge": "设定中",
+    "PlotCharactersContent": "设定中",
+    "PlotCharactersGender": "设定中",
+    "PlotCharactersName": "达雅"
+  },
+  "112": {
+    "CutDialogueIdle": "as_wpnpc_m_base_lavan_sidle",
+    "Id": 112,
+    "IdleAnimationClip": "as_wpnpc_m_base_lavan_skt_idle",
+    "IdleEmo": 97,
+    "PlotCharactersAge": "45岁",
+    "PlotCharactersContent": "阿斯特里斯众议院议长。政治家、文人、禁欲、庄重、亲切。温文尔雅、风度翩翩的政治家。言行优雅亲切，举手投足间充满魅力。_x000d_\n但在平易近人的表象下，他洞察人心，老谋深算，一切皆为了阿斯特里斯的利益而行动。",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "拉蒙德"
+  },
+  "113": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 113,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "24岁",
+    "PlotCharactersContent": "银狼军团副团长，丹佛挚友。温文尔雅、正直、宽仁、骑士",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "杰克"
+  },
+  "114": {
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "Id": 114,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "30岁",
+    "PlotCharactersContent": "黯影堡垒首领，平原最大BOSS。饱经风霜、霸气、犀利、阴鸷",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "丹佛"
+  },
+  "115": {
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "Id": 115,
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "工匠协会前会长，陶洛斯的爹",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "泰德"
+  },
+  "116": {
+    "CutDialogueIdle": "as_wpnpc_f_base_farfara_sidle",
+    "Id": 116,
+    "IdleAnimationClip": "as_wpnpc_f_base_farfara_skt_idle",
+    "IdleEmo": 625,
+    "PlotCharactersAge": "设定中",
+    "PlotCharactersContent": "设定中",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "法法菈"
+  },
+  "117": {
+    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "Id": 117,
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "妖精的尾巴联动角色",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "露西"
+  },
+  "118": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 118,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "妖精的尾巴联动角色",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "纳兹"
+  },
+  "12": {
+    "CutDialogueIdle": "as_f_base_idle",
+    "Id": 12,
+    "IdleAnimationClip": "as_f_base_skt_idle01",
+    "IdleEmo": 301,
+    "PlotCharactersAge": "通用nappo",
+    "PlotCharactersContent": "通用nappo",
+    "PlotCharactersGender": "通用nappo",
+    "PlotCharactersName": "通用nappo"
+  },
+  "13": {
+    "CutDialogueIdle": "as_mon_mao_idle",
+    "Id": 13,
+    "IdleAnimationClip": "as_mon_mao_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "通用猫",
+    "PlotCharactersContent": "通用猫",
+    "PlotCharactersGender": "通用猫",
+    "PlotCharactersName": "通用猫"
+  },
+  "14": {
+    "CutDialogueIdle": "as_mon_gou_idle",
+    "Id": 14,
+    "IdleAnimationClip": "as_mon_gou_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "通用狗",
+    "PlotCharactersContent": "通用狗",
+    "PlotCharactersGender": "通用狗",
+    "PlotCharactersName": "通用狗"
+  },
+  "15": {
+    "CutDialogueIdle": "as_mon_ji_idle",
+    "Id": 15,
+    "IdleAnimationClip": "as_mon_ji_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "通用鸡",
+    "PlotCharactersContent": "通用鸡",
+    "PlotCharactersGender": "通用鸡",
+    "PlotCharactersName": "通用鸡"
+  },
+  "16": {
+    "CutDialogueIdle": "",
+    "Id": 16,
+    "IdleAnimationClip": "",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "通用场景物件",
+    "PlotCharactersContent": "通用场景物件",
+    "PlotCharactersGender": "通用场景物件",
+    "PlotCharactersName": "通用场景物件"
+  },
+  "1601": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 1601,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "黑石军团士兵",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "黑石军团士兵（没头防报错）"
+  },
+  "2": {
+    "CutDialogueIdle": "as_npc_f_child_idle",
+    "Id": 2,
+    "IdleAnimationClip": "as_npc_f_child_skt_idle",
+    "IdleEmo": 167,
+    "PlotCharactersAge": "幼年",
+    "PlotCharactersContent": "路人",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "通用路人角色幼年女"
+  },
+  "3": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 3,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "青年",
+    "PlotCharactersContent": "路人",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "通用路人角色青年男"
+  },
+  "300": {
+    "CutDialogueIdle": "as_npc_f_youth_skt_clerkidle",
+    "Id": 300,
+    "IdleAnimationClip": "as_npc_f_youth_skt_clerkidle",
+    "IdleEmo": 219,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "阿斯特里斯前台",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "开拓局女接待员"
+  },
+  "301": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 301,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "24岁",
+    "PlotCharactersContent": "阿斯特里斯士兵",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "阿斯特里斯士兵"
+  },
+  "302": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 302,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "24岁",
+    "PlotCharactersContent": "班哈尔特的间谍的线人",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "巴尔坦"
+  },
+  "303": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 303,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "24岁",
+    "PlotCharactersContent": "班哈尔特的间谍",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "灰鸦"
+  },
+  "304": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 304,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "24岁",
+    "PlotCharactersContent": "真名墨修莱斯Mercurius，是伊格蒂亚族遗民",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "泽拉索"
+  },
+  "305": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 305,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "24岁",
+    "PlotCharactersContent": "神官",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "艾伦"
+  },
+  "306": {
+    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "Id": 306,
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "\\",
+    "PlotCharactersContent": "\\",
+    "PlotCharactersGender": "\\",
+    "PlotCharactersName": "赫鲁加"
+  },
+  "307": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 307,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "24岁",
+    "PlotCharactersContent": "黯影军团士兵",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "黯影军团士兵"
+  },
+  "308": {
+    "CutDialogueIdle": "as_f_base_skt_catidle",
+    "Id": 308,
+    "IdleAnimationClip": "as_f_base_skt_catidle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "海风节吉祥物玩偶",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "拉布"
+  },
+  "309": {
+    "CutDialogueIdle": "as_f_base_skt_catidle",
+    "Id": 309,
+    "IdleAnimationClip": "as_f_base_skt_catidle",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "海风节吉祥物玩偶",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "维塔"
+  },
+  "310": {
+    "CutDialogueIdle": "as_m_base_idle",
+    "Id": 310,
+    "IdleAnimationClip": "as_wpnpc_m_base_nalulu_skt_idle",
+    "IdleEmo": 800,
+    "PlotCharactersAge": "16岁",
+    "PlotCharactersContent": "从阿斯特里斯（城镇）搬到英雄碑林（郊外）居住的少年，生活清贫",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "纳鲁鲁"
+  },
+  "311": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 311,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "30岁以上",
+    "PlotCharactersContent": "信仰布法利亚神族到很痴迷的程度，对人类很失望，三阶段结束后因蒂娜会选择再次相信人类",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "斯坦利"
+  },
+  "4": {
+    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "Id": 4,
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 159,
+    "PlotCharactersAge": "青年",
+    "PlotCharactersContent": "路人",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "通用路人角色青年女"
+  },
+  "401": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 401,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "未知",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "内卡利"
+  },
+  "402": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 402,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "卡尼曼部落普通士兵",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "卡尼曼士兵"
+  },
+  "403": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 403,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "班哈尔特普通士兵",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "班哈尔特士兵"
+  },
+  "404": {
+    "CutDialogueIdle": "as_npc_m_youth_priestidle",
+    "Id": 404,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "青年",
+    "PlotCharactersContent": "神官",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "青年神官"
+  },
+  "5": {
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "Id": 5,
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195,
+    "PlotCharactersAge": "中年",
+    "PlotCharactersContent": "路人",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "通用路人角色中年男"
+  },
+  "6": {
+    "CutDialogueIdle": "as_npc_f_middle_idle",
+    "Id": 6,
+    "IdleAnimationClip": "as_npc_f_middle_skt_idle",
+    "IdleEmo": 187,
+    "PlotCharactersAge": "中年",
+    "PlotCharactersContent": "路人",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "通用路人角色中年女"
+  },
+  "601": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 601,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "黑石军团士兵",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "黑石军团士兵"
+  },
+  "602": {
+    "CutDialogueIdle": "as_npc_m_youth_priestidle",
+    "Id": 602,
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "青年",
+    "PlotCharactersContent": "神官",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "青年神官"
+  },
+  "603": {
+    "CutDialogueIdle": "as_npc_f_child_idle",
+    "Id": 603,
+    "IdleAnimationClip": "as_npc_f_child_skt_idle",
+    "IdleEmo": 167,
+    "PlotCharactersAge": "幼年",
+    "PlotCharactersContent": "拉尔帕尔村小女孩",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "莉莉"
+  },
+  "604": {
+    "CutDialogueIdle": "as_npc_m_elder_idle",
+    "Id": 604,
+    "IdleAnimationClip": "as_npc_m_elder_skt_idle",
+    "IdleEmo": 203,
+    "PlotCharactersAge": "老年",
+    "PlotCharactersContent": "拉尔帕尔村村长",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "阿尔方斯"
+  },
+  "605": {
+    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "Id": 605,
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 159,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "教团守卫",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "霍尔根"
+  },
+  "7": {
+    "CutDialogueIdle": "as_npc_m_elder_idle",
+    "Id": 7,
+    "IdleAnimationClip": "as_npc_m_elder_skt_idle",
+    "IdleEmo": 203,
+    "PlotCharactersAge": "老年",
+    "PlotCharactersContent": "路人",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "通用路人角色老年男"
+  },
+  "701": {
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "Id": 701,
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 150,
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "与主角身世相关的幕后之人，身份未知的成年男性，充满神秘感。与剧情后续的发展息息相关。",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "神秘男子"
+  },
+  "702": {
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "Id": 702,
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195,
+    "PlotCharactersAge": "42岁",
+    "PlotCharactersContent": "黑石军团副官",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "莱纳"
+  },
+  "703": {
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "Id": 703,
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195,
+    "PlotCharactersAge": "35岁",
+    "PlotCharactersContent": "矿工头领",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "格里格"
+  },
+  "704": {
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "Id": 704,
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195,
+    "PlotCharactersAge": "35岁",
+    "PlotCharactersContent": "平民矿工，嘴硬心软",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "泰勒"
+  },
+  "705": {
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "Id": 705,
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195,
+    "PlotCharactersAge": "25岁",
+    "PlotCharactersContent": "敏感懦弱，优柔寡断的普通矿工",
+    "PlotCharactersGender": "男",
+    "PlotCharactersName": "纳维"
+  },
+  "8": {
+    "CutDialogueIdle": "as_npc_f_elder_idle",
+    "Id": 8,
+    "IdleAnimationClip": "as_npc_f_elder_skt_idle",
+    "IdleEmo": 211,
+    "PlotCharactersAge": "老年",
+    "PlotCharactersContent": "路人",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "通用路人角色老年女"
+  },
+  "800": {
+    "CutDialogueIdle": "",
+    "Id": 800,
+    "IdleAnimationClip": "",
+    "IdleEmo": 0,
+    "PlotCharactersAge": "青年",
+    "PlotCharactersContent": "",
+    "PlotCharactersGender": "女",
+    "PlotCharactersName": "星瞳"
+  },
+  "9": {
+    "CutDialogueIdle": "as_f_base_idle",
+    "Id": 9,
+    "IdleAnimationClip": "as_f_base_skt_idle01",
+    "IdleEmo": 301,
+    "PlotCharactersAge": "青年",
+    "PlotCharactersContent": "主角",
+    "PlotCharactersGender": "玩家",
+    "PlotCharactersName": "玩家男、女"
+  }
+}

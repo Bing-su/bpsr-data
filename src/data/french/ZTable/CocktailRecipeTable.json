@@ -1,0 +1,123 @@
+{
+  "1001": {
+    "Icon": "item_icons_moonlightchacha",
+    "Id": 1001,
+    "IntroductionText": "\"Chéri, laisse la lune et la brise marine s'entrelacer en un baiser, et danse avec moi sur le pont.\" Une boisson très appréciée des couples d'Asterleeds. Dégustée lors d'un rendez-vous, les points de <style=\"emph-gn\">romance</style> augmentent d'au moins 0,01 % !",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Cha-cha au clair de lune",
+    "Recipe": [[], [1030009, 1]],
+    "RecipeText": "Une dose de sérum d'agrumes bleus et une dose de limonade.",
+    "Tag": "Fraîcheur acidulée",
+    "Title": "\"L'incontournable pour un rendez-vous\""
+  },
+  "1002": {
+    "Icon": "item_icons_margarettwilight",
+    "Id": 1002,
+    "IntroductionText": "Une gorgée et te voilà de retour au bord de la mer au crépuscule, lorsque l'être aimé se retourne et te sourit. De chaleureux souvenirs <style=\"emph-gn\">brumeux</style> dans un verre (même si ce n'est que pour un instant).",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Coucher de soleil Margarita",
+    "Recipe": [
+      [1030006, 1],
+      [1030009, 1]
+    ],
+    "RecipeText": "Une portion de sérum de baie rouge et une portion de limonade.",
+    "Tag": "Riche et onctueux",
+    "Title": "\"Le favori des personnes élégantes\""
+  },
+  "1003": {
+    "Icon": "item_icons_sandheaven",
+    "Id": 1003,
+    "IntroductionText": "\"<style=\"emph-gn\">Brûle</style> avec les vagues, mon âme !\" Audacieuse, épicée et rebelle ; cette boisson est pour les garçons du bord de mer qui deviennent des hommes. Une gorgée, et ton humeur s'embrase comme le soleil de l'après-midi.",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Paradis des sables ardents",
+    "Recipe": [
+      [1030006, 1],
+      [1030008, 1],
+      [1030011, 1]
+    ],
+    "RecipeText": "Une portion de sérum de baie rouge et une portion de soda, à servir chaud.",
+    "Tag": "Épicé et revigorant",
+    "Title": "\"Le favori des durs à cuire\""
+  },
+  "1004": {
+    "Icon": "item_icons_silentseabreeze",
+    "Id": 1004,
+    "IntroductionText": "\"Si vous détestez ou aimez quelqu'un, commandez-lui cette boisson.\" Nul besoin de mots, le <style=\"emph-gn\">silence</style> après l'avoir bue est la meilleure des réponses.",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Brise marine du Silence",
+    "Recipe": [[], [1030008, 1], [1030010, 1]],
+    "RecipeText": "Une portion de sérum d'agrumes bleus et une portion de soda, à servir avec des glaçons.",
+    "Tag": "Acidulé et intense",
+    "Title": "\"Le premier choix des amateurs d'art\""
+  },
+  "1005": {
+    "Icon": "item_icons_touchofneon",
+    "Id": 1005,
+    "IntroductionText": "Toujours <style=\"emph-gn\">sûre</style>, toujours populaire. Chaude, sucrée avec une pointe d'amertume artificielle, c'est peut-être la première boisson d'adulte pour les jeunes.",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Une touche de néon",
+    "Recipe": [
+      [1030006, 2],
+      [1030011, 1]
+    ],
+    "RecipeText": "Deux portions de sérum de baie rouge, à servir chaud.",
+    "Tag": "Sucré et chaleureux",
+    "Title": "\"Un vent de jeunesse déchaîné\""
+  },
+  "1006": {
+    "Icon": "item_icons_icycoralsea",
+    "Id": 1006,
+    "IntroductionText": "À Asterleeds, personne n'a jamais vu de mer <style=\"emph-gn\">gelée</style>, mais cela ne les empêche pas de l'imaginer avec leurs papilles.",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Mer de corail glacée",
+    "Recipe": [
+      [1030007, 2],
+      [1030010, 1]
+    ],
+    "RecipeText": "Deux portions de sérum d'agrumes bleus, à servir avec des glaçons.",
+    "Tag": "Frais et glacé",
+    "Title": "\"Spécialité exclusive du Festival de la brise marine\""
+  },
+  "2001": {
+    "Icon": "",
+    "Id": 2001,
+    "IntroductionText": "C'est le choix des vrais durs. Des durs, tu comprends ? Sa couleur est aussi puissante que les flammes. Dès que tu le bois, ton cœur et ton âme s'enflamment...",
+    "IsVisible": false,
+    "MadeIn": "",
+    "Model": "",
+    "Name": "\"Paradis des sables ardents\"",
+    "Recipe": [
+      [1030006, 1],
+      [1030008, 3],
+      [1030011, 1]
+    ],
+    "RecipeText": "",
+    "Tag": "",
+    "Title": ""
+  },
+  "5001": {
+    "Icon": "",
+    "Id": 5001,
+    "IntroductionText": "Une boisson imbuvable, une création ratée est née. Mais ce n'est pas grave, on peut toujours réessayer, et la préparation de boissons ne fait pas exception.",
+    "IsVisible": false,
+    "MadeIn": "",
+    "Model": "",
+    "Name": "Boisson ratée",
+    "Recipe": [],
+    "RecipeText": "",
+    "Tag": "Goût désagréabe",
+    "Title": "\"Mystérieux... très mystérieux\""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "1": {
+    "Describe": "累計解鎖了{*val*}件衣櫥裝扮",
+    "Id": 1,
+    "JumpParam": [101101],
+    "JumpType": 2,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 165
+  },
+  "2": {
+    "Describe": "摸魚{*val*}次",
+    "Id": 2,
+    "JumpParam": [],
+    "JumpType": 0,
+    "Num": 2,
+    "Param": [20000013, 20000014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "3": {
+    "Describe": "解鎖{*val*}個食譜",
+    "Id": 3,
+    "JumpParam": [8, 5, 1079],
+    "JumpType": 1,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "4": {
+    "Describe": "（測試）啟動{*val*}個星元樞紐",
+    "Id": 4,
+    "JumpParam": [801001, 7],
+    "JumpType": 2,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "5": {
+    "Describe": "（測試）完成1次自拍",
+    "Id": 5,
+    "JumpParam": [],
+    "JumpType": 0,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  }
+}

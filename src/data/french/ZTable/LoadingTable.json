@@ -1,0 +1,1145 @@
+{
+  "1": {
+    "Id": 1,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading1",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les Succès sont entièrement mis à jour à chaque saison. Relevez les défis et visez de nouvelles gloires !",
+    "TextTitle": "Succès"
+  },
+  "10": {
+    "Id": 10,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Équipez des modules, activez les effets de niveau du noyau d'alimentation et devenez encore plus fort ! <br>Remarque : seuls les modules équipés prennent effet. Différents modules peuvent contenir le même type de noyau d'alimentation. Le nombre total de connexions réussies détermine si les effets de niveau du noyau d'alimentation sont activés !",
+    "TextTitle": "Équipement de modules"
+  },
+  "100": {
+    "Id": 100,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Trop occupé pour finir vos missions quotidiennes ? Pas de problème ! Vos tentatives de mission disponibles sont reportées au jour suivant, jusqu'à un maximum de 3 tentatives !",
+    "TextTitle": "Mission quotidienne"
+  },
+  "101": {
+    "Id": 101,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Lorsque le chef de groupe entre dans un donjon de mission quotidienne, le système accepte automatiquement la mission pour les alliés qui ne l'ont pas encore acceptée.",
+    "TextTitle": "Mission quotidienne"
+  },
+  "102": {
+    "Id": 102,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les joueurs qui ont terminé leurs missions quotidiennes peuvent toujours rejoindre d'autres aventuriers en tant qu'alliés et les aider à terminer les leurs !",
+    "TextTitle": "Mission quotidienne"
+  },
+  "103": {
+    "Id": 103,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Priorisez les cibles quotidiennes avec des multiplicateurs de bonus pour atteindre plus efficacement vos objectifs d'activité quotidienne.",
+    "TextTitle": "Activité"
+  },
+  "104": {
+    "Id": 104,
+    "LevelRange": [21, 30],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Faire des recherches sur un type de poisson spécifique permet d'attraper plus facilement des variantes de cette espèce avec un plus grand nombre d'étoiles.",
+    "TextTitle": "Recherche sur les poissons"
+  },
+  "105": {
+    "Id": 105,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Entrez en résonance avec l'Herbe du héros dans les plaines d'Asteria pour obtenir les compétences Flottement et Vol plané ! <br>Une fois en l'air, vous flotterez, et vous pourrez alors passer en mode Vol plané pour fendre les cieux d'Asteria !",
+    "TextTitle": "Résonance terrestre - Flottement"
+  },
+  "106": {
+    "Id": 106,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Entrez en résonance avec la source de vent sur l'île flottante au sommet des Ruines imposantes dans les plaines d'Asteria pour déverrouiller la Ruée fantomatique !<br>Cela permet d'effectuer jusqu'à deux ruées ultra-rapides consécutives et de briser les barrières de vent dans les plaines !",
+    "TextTitle": "Résonance terrestre - Ruée fantomatique"
+  },
+  "107": {
+    "Id": 107,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Diverses activités de loisirs sont disponibles tout au long de la journée. allez dans [Activités] - [Loisirs] pour choisir ce qui vous intéresse !",
+    "TextTitle": "Activité de loisir"
+  },
+  "108": {
+    "Id": 108,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Augmenter votre niveau d'aventurier déverrouille un nouveau potentiel et de nouvelles capacités. Consultez l'écran du niveau d'aventurier pour activer des avantages comme le saut enchaîné ou la course sur les murs !",
+    "TextTitle": "Capacités activables"
+  },
+  "109": {
+    "Id": 109,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "De mystérieuses créatures apparaissent parfois dans les plaines. Battez-les pour avoir une chance de gagner des couvre-chefs ou des montures rares !<br>Consultez le menu de la Chasse aux monstres pour connaître leurs schémas d'apparition exacts.",
+    "TextTitle": "Créatures magiques"
+  },
+  "11": {
+    "Id": 11,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Lorsque votre niveau d'aventurier atteint certains paliers, vous pouvez librement sélectionner et configurer des activités sur la page des Capacités activables. <br>Certains niveaux proposent plusieurs potentiels, mais vous ne pouvez en choisir qu'un par niveau !",
+    "TextTitle": "Capacités activables"
+  },
+  "110": {
+    "Id": 110,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Des boss sauvages apparaissent toutes les heures et à chaque demi-heure. Battez-les pour ouvrir des butins qui peuvent vous octroyer la Volonté du boss ! Consultez le menu de la Chasse aux monstres pour connaître leurs schémas d'apparition exacts.<br>Astuce : si le boss actuel a déjà été vaincu, essayez de changer de serveur !",
+    "TextTitle": "Boss sauvage"
+  },
+  "111": {
+    "Id": 111,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les \"yeux\" à droite de la garde-robe permettent de masquer l'apparence de certains équipements.",
+    "TextTitle": "Garde-robe"
+  },
+  "112": {
+    "Id": 112,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une monnaie largement utilisée sur le continent de Magna, gérée et frappée par le Credo bapharien. <br>Le matériau de frappe est un lingot précieux contenant de l'engramme. <br>La qualité de fabrication des pièces Luno est si exceptionnelle qu'il est presque impossible de les contrefaire.",
+    "TextTitle": "Luno"
+  },
+  "113": {
+    "Id": 113,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Un ancien <style=\"emph-gn\">Héritage bapharien</style> capable de téléporter une créature qui le touche vers un autre téléportail le long du réseau d'engrammes. Le principe n'est pas encore clair.<br>Les téléportails ne peuvent pas transporter de grandes quantités de marchandises, seulement un petit nombre d'effets personnels.",
+    "TextTitle": "Téléportail"
+  },
+  "114": {
+    "Id": 114,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une vieille taverne située dans le quartier des divertissements, au nord de la ville. <br>Elle propose de la nourriture, un hébergement et des boissons spéciales. Grâce à son emplacement central dans le quartier des divertissements, elle est très réputée. <br>Le propriétaire, Wilbert, est un homme au grand cœur qui parle avec un accent de Byrnhald.",
+    "TextTitle": "La Pièce à deux faces"
+  },
+  "115": {
+    "Id": 115,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une célébration annuelle organisée par le Conseil à l'échelle de la ville en commémoration de l'indépendance.<br>Le jour de la célébration, une pluie de rubans aux couleurs vives s'abat sur Asterleeds. Les citoyens déposent des lys de mer en fleurs sur le pas de leur porte pour exprimer leurs vœux de paix. Diverses célébrations spéciales, telles que des lectures de poésie, des défilés et le carnaval, ont également lieu dans la ville.",
+    "TextTitle": "Festival de la brise marine"
+  },
+  "116": {
+    "Id": 116,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading9",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "La mer et le ciel se sentent seuls la nuit aussi. Si nous n'accrochons pas une lanterne assez haut, ces étoiles espiègles pourraient ne pas retrouver leur chemin. C'est ainsi que fut construite la \"Lueur astrale\", une tour de guet surplombant toute l'île.",
+    "TextTitle": "Lueur astrale - Le Belvédère"
+  },
+  "117": {
+    "Id": 117,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading10",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "L'immense Orbiteur stellaire semble assez proche pour toucher les étoiles, élevant les visiteurs vers les nuages où les sentiments cachés peuvent enfin être exprimés. C'est devenu l'endroit idéal sur la Terre étoilée pour laisser filer les heures.",
+    "TextTitle": "Orbiteur stellaire"
+  },
+  "118": {
+    "Id": 118,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading11",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Ce carrousel de marcassins défie toutes les attentes et est devenu une légende locale délicieusement étrange, où chacun ne peut s'empêcher de pousser des cris de joie devant ces adorables petits marcassins...",
+    "TextTitle": "Valse des marcassins"
+  },
+  "119": {
+    "Id": 119,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading12",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "La forêt de cerisiers en fleurs est devenue l'un des plus beaux endroits de la Terre étoilée. Les visiteurs y viennent pour pique-niquer, profiter du paysage, prendre des photos et admirer l'immense Orbiteur stellaire au loin.",
+    "TextTitle": "Forêt de cerisiers en fleurs"
+  },
+  "12": {
+    "Id": 12,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Faites glisser n'importe quelle compétence de résonance dans un emplacement pour l'équiper. <br>Les compétences de résonance équipées s'affichent sur l'écran principal. Vous disposez d'un maximum de 2 emplacements.",
+    "TextTitle": "Résonance terrestre"
+  },
+  "120": {
+    "Id": 120,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading13",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Les lumières de la Scène de l'aurore sont plus qu'un simple éclairage : elles portent des messages.<br>Cette idée découle de la vision audacieuse de la fondatrice, Miaouclu : si les signaux d'autres mondes lointains pouvaient être captés, tout comme l'aurore elle-même, alors les frontières de cette île onirique isolée pourraient un jour être brisées.",
+    "TextTitle": "Scène de l'aurore"
+  },
+  "121": {
+    "Id": 121,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading14",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Le plan original du train touristique était assez grand pour accueillir la moitié de la Guilde des marchands, mais il a été refusé par Mlle Miaouclu avec la remarque : \"Les wagons ne feraient que le ralentir.\" Ainsi, l'Express Bip-Bip n'a conservé que sa locomotive. Bien qu'un peu à l'étroit, cela confère au voyage une touche de chaleur inattendue.",
+    "TextTitle": "Express Bip-Bip"
+  },
+  "122": {
+    "Id": 122,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading15",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Une immense cabine de DJ, diffusant une variété de musiques, se dresse sur la plage des Goélands argentés. Décorée de coquillages et de soleil, même les marées s'y transforment en une mélodie harmonieuse.",
+    "TextTitle": "L'Œil des marées"
+  },
+  "123": {
+    "Id": 123,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading16",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Le Carnaval est l'événement à thème le plus animé et le plus changeant de l'île.<br>Il est né d'une idée de Mlle Miaouclu : puisqu'elle rêve chaque jour d'histoires venues d'autres mondes, pourquoi ne pas les partager avec tout le monde ?<br>Ainsi, le Carnaval est devenu son moyen de concrétiser les rêves de son imagination.",
+    "TextTitle": "Carnaval étoilé"
+  },
+  "124": {
+    "Id": 124,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading17",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Si vous demandez quel bâtiment de la Terre étoilée frustre le plus les artisans, c'est sans doute la Maison des Merveilles.<br>En effet, elle n'a pas été construite brique par brique, mais formée comme une illusion condensée à partir de l'énergie concentrée de la Fleur illusoire.",
+    "TextTitle": "Maison des Merveilles"
+  },
+  "125": {
+    "Id": 125,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading18",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Les aventuriers incarnent soit des Pisteurs, soit des Chasseurs des ombres.<br>Les pisteurs sont des maîtres de la furtivité, capables de dissimuler leurs traces ou même de se transformer en objets de l'environnement pour dérouter leurs ennemis. Les chasseurs des ombres, quant à eux, sont chargés de poursuivre les pisteurs.<br>Alors que ces deux forces se croisent dans l'illusion, l'affrontement entre poursuite et évasion commence.",
+    "TextTitle": "Jeu du loup"
+  },
+  "126": {
+    "Id": 126,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Pour permettre à chacun de faire l'expérience de ce jeu issu d'un autre monde de ses rêves, Miaouclu a ouvert le Pavillon des moineaux sur l'île.<br>C'est un espace calme dédié aux matchs, avec des tables et des chaises confortables et bien rangées, pour que quiconque s'y asseyant puisse se concentrer entièrement sur le plaisir tactile de manipuler les tuiles.",
+    "TextTitle": "Mah-jong"
+  },
+  "127": {
+    "Id": 127,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "Miaouclu dit souvent que les rêves ne peuvent pas être reproduits, mais que les vœux le peuvent.<br>Le Spécial Miaoulux est sa façon d'emballer ces vœux sous forme de cadeaux.",
+    "TextTitle": "Spécial Miaoulux"
+  },
+  "13": {
+    "Id": 13,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Seul le premier joueur ou la première équipe à infliger des dégâts à un monstre d'élite a le droit d'ouvrir le butin lâché par la cible. Pour eux, la barre de PV de la cible est rouge, tandis qu'elle est grise pour les autres.",
+    "TextTitle": "Chasse aux monstres : Élite"
+  },
+  "14": {
+    "Id": 14,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Vous pouvez suivre les boss via l'interface de Chasse aux monstres !",
+    "TextTitle": "Chasse aux monstres : Boss"
+  },
+  "15": {
+    "Id": 15,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Après avoir rejoint une guilde, augmentez ses points d'activité hebdomadaire grâce à votre activité personnelle et en terminant des quêtes de guilde. Atteignez les paliers pour obtenir les récompenses correspondantes !",
+    "TextTitle": "Récompenses d'activité"
+  },
+  "16": {
+    "Id": 16,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une fois le Centre de guilde déverrouillé, terminez les quêtes guidées de la réceptionniste Laura pour en apprendre plus sur le rôle de chaque membre du personnel et les fonctions des installations. <br>Faites équipe avec les autres membres pour construire le centre, obtenir plus de ressources et déverrouiller de nouvelles expériences amusantes !",
+    "TextTitle": "Construction de guilde"
+  },
+  "17": {
+    "Id": 17,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une fois la ligne lancée, le flotteur restera à la surface. Lorsqu'un poisson est sur le point de mordre, il s'enfoncera brièvement. <br>Dès qu'un poisson mord, le flotteur coule et reste sous l'eau. C'est le signal pour remonter la ligne et ferrer le poisson !",
+    "TextTitle": "Astuces de pêche"
+  },
+  "18": {
+    "Id": 18,
+    "LevelRange": [21, 30],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Utiliser le même type de poisson augmente la progression de la recherche et le niveau de recherche du poisson. Les résultats de recherche des différents types de poissons octroient des bonus de pêche.",
+    "TextTitle": "Recherche sur les poissons"
+  },
+  "19": {
+    "Id": 19,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Des cadeaux offerts aux aventuriers au cours de votre périple. Ouvrez-les pour recevoir de généreuses récompenses.<br>Explorez activement le monde pour découvrir où ils se trouvent.",
+    "TextTitle": "Coffre au trésor"
+  },
+  "2": {
+    "Id": 2,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading2",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Le score de capacité reflète votre progression globale en tant qu'aventurier. L'augmentation de votre niveau d'aventurier, l'amélioration des talents, des compétences (y compris les compétences de classe et les Imagines de combat), de l'équipement, des modules et des emblèmes contribuent toutes à augmenter votre score de capacité.",
+    "TextTitle": "Score de capacité"
+  },
+  "20": {
+    "Id": 20,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "[Barrière de vent] : un des phénomènes uniques d'Asteria. En raison de l'effondrement du cycle d'engramme, les vents marins convergent parfois sur les plaines pour former une barrière sphérique qui isole l'intérieur du monde extérieur.",
+    "TextTitle": "\"Étude sur les espèces uniques des plaines d'Asteria\""
+  },
+  "21": {
+    "Id": 21,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "En raison de l'effondrement du cycle d'engramme, des courants ascendants actifs apparaissent occasionnellement dans les zones des plaines alimentées par l'océan. Les Astériens les appellent [Champs de vent]. À l'intérieur d'un champ de vent, utilisez les [Sauts multiples] pour atteindre une certaine hauteur, puis utilisez [Flotter/Planer] pour vous élever dans le ciel grâce aux courants ascendants.",
+    "TextTitle": "\"Étude sur les espèces uniques des plaines d'Asteria\""
+  },
+  "22": {
+    "Id": 22,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "[Boucle de vent] : des vents en forme d'anneau apparaissent souvent dans le ciel d'Asteria, formant des boucles continues. L'hypothèse est qu'ils sont formés par de fortes concentrations de vents, condensés dans le ciel en raison du climat d'ouragan unique de la région.",
+    "TextTitle": "\"Étude sur les espèces uniques des plaines d'Asteria\""
+  },
+  "23": {
+    "Id": 23,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Ce sont des téléporteurs laissés par les divinités baphariennes. Une fois activés, ils permettent de se téléporter sur de longues distances.",
+    "TextTitle": "Téléportail"
+  },
+  "24": {
+    "Id": 24,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "[Tunnel de vent] : L'un des phénomènes uniques d'Asteria. En raison de l'effondrement du cycle d'engramme, des canaux de turbulence élémentaire se sont formés à travers les plaines. Interagissez avec les cyclones mineurs pour révéler les entrées du Tunnel de vent.",
+    "TextTitle": "\"Étude sur les espèces uniques des plaines d'Asteria\""
+  },
+  "25": {
+    "Id": 25,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Il s'agit d'un point de convergence régional du réseau d'engrammes. Entrer en résonance avec lui vous reconnecte au flux d'engrammes de la zone. Une fois la résonance réussie, le brouillard environnant se dissipe, révélant les détails de la carte. Les Centres d'engrammes avec lesquels vous avez établi une résonance peuvent aussi servir de points de téléportation.",
+    "TextTitle": "Centre d'engrammes"
+  },
+  "26": {
+    "Id": 26,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "On trouve des particules d'ouragan partout dans le monde. Touchez-les pour déclencher des quêtes de récolte de particules. Terminez la quête dans le temps imparti pour gagner des récompenses.",
+    "TextTitle": "Particule d'ouragan"
+  },
+  "27": {
+    "Id": 27,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Le marchand ambulant propose 3 missions quotidiennes, chacune nécessitant des objets spécifiques. Les terminer rapporte de l'EXP de Domaine et des Pièces du Domaine.",
+    "TextTitle": "Mission du Domaine"
+  },
+  "28": {
+    "Id": 28,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Pour certains meubles, il faut d'abord déverrouiller leur recette de fabrication avant de pouvoir les fabriquer. Déverrouillez les recettes en atteignant des objectifs spécifiques ou en soumettant certains objets.",
+    "TextTitle": "Fabrication de mobilier"
+  },
+  "29": {
+    "Id": 29,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Lorsque vous explorez et parlez aux autres, soyez attentif - certains indices donnés l'air de rien pourraient révéler les vérités cachées du monde.",
+    "TextTitle": "Notes d'enquête"
+  },
+  "3": {
+    "Id": 3,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading3",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Chaque classe dispose de ses propres talents uniques. Choisissez votre spécialisation de combat et utilisez judicieusement vos points de talent pour améliorer vos performances en combat !",
+    "TextTitle": "Talents de classe"
+  },
+  "30": {
+    "Id": 30,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [Déduction rapide] pour ignorer le processus de raisonnement et obtenir instantanément le résultat.",
+    "TextTitle": "Notes d'enquête"
+  },
+  "31": {
+    "Id": 31,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "La carte du monde ouvert abrite différents types de monstres. Explorez la zone et combattez pour remplir les objectifs de la Chasse aux monstres et gagner des récompenses afin d'améliorer votre Bestiaire.",
+    "TextTitle": "Chasse aux monstres"
+  },
+  "32": {
+    "Id": 32,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "En plus des monstres ordinaires, vous rencontrerez dans la nature de puissants monstres d'élite et des boss. Les vaincre vous rapportera du butin qui peut être déverrouillé avec des clés pour obtenir des récompenses rares.",
+    "TextTitle": "Chasse aux monstres"
+  },
+  "33": {
+    "Id": 33,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Chaque fois que vous battez une élite ou un boss, vous gagnez de l'EXP, des points de saison et des Lunos, ainsi qu'une chance d'obtenir des matériaux de monstre rares. Les boss ont également une chance de laisser de l'équipement.",
+    "TextTitle": "Chasse aux monstres"
+  },
+  "34": {
+    "Id": 34,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Seul le premier joueur ou la première équipe à infliger des dégâts à un monstre d'élite a le droit d'ouvrir le butin lâché par la cible. Pour eux, la barre de PV de la cible est rouge, tandis qu'elle est grise pour les autres.",
+    "TextTitle": "Chasse aux monstres : Élite"
+  },
+  "35": {
+    "Id": 35,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Vous pouvez suivre les boss via l'interface de Chasse aux monstres !",
+    "TextTitle": "Chasse aux monstres : Boss"
+  },
+  "36": {
+    "Id": 36,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Esquiver une attaque ennemie au bon moment déclenche une Esquive parfaite, ce qui vous permet d'éviter les dégâts entrants et de renforcer votre prochaine attaque de base. Certains ennemis d'élite et certains boss utilisent une compétence létale, signalée par une lueur rouge.",
+    "TextTitle": "Esquive parfaite"
+  },
+  "37": {
+    "Id": 37,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Déclenchez une esquive parfaite au moment où une compétence létale vous touche pour la contrer. Cela interrompt l'attaque et plonge l'ennemi dans un état de faiblesse.<br>Remarque : une contre-attaque réussie vous permet d'éviter complètement les dégâts entrants.",
+    "TextTitle": "Contre-attaque"
+  },
+  "38": {
+    "Id": 38,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les ennemis d'élite et les boss possèdent une mécanique unique : les coups réussis réduisent l'efficacité de leur super armure.<br>Une fois la jauge vide, cela déclenche une Brisegarde qui interrompt instantanément leur action et les affaiblit pendant une courte durée.<br>Les compétences de contrôle de foule sont particulièrement efficaces pour réduire cette jauge.",
+    "TextTitle": "Jauge de super armure"
+  },
+  "39": {
+    "Id": 39,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Parfois, l'ennemi effectue de puissantes attaques sur une cible unique, mais les dégâts sont partagés entre tous les alliés dans la zone.",
+    "TextTitle": "Répartition des dégâts"
+  },
+  "4": {
+    "Id": 4,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading4",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Équipez vos compétences de classe préférées, améliorez-les et faites-les évoluer pour augmenter considérablement votre potentiel de combat !",
+    "TextTitle": "Amélioration des compétences"
+  },
+  "40": {
+    "Id": 40,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Lorsqu'un boss commence à canaliser une puissante compétence, surveillez le compte à rebours et réagissez en conséquence.",
+    "TextTitle": "Compte à rebours de la mécanique"
+  },
+  "41": {
+    "Id": 41,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les cibles porteuses d'un Marqueur de Concentration doivent être éliminées rapidement, sous peine de subir de graves conséquences.",
+    "TextTitle": "Marqueur de Concentration"
+  },
+  "42": {
+    "Id": 42,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Lorsqu'un marqueur de cible apparaît au-dessus de votre tête, préparez-vous à réagir à une compétence ennemie imminente.",
+    "TextTitle": "Marqueur de cible"
+  },
+  "43": {
+    "Id": 43,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Maintenez [{*key.getKeyDesc(101)*}] pour ouvrir l'interface du chat.",
+    "TextTitle": "Raccourcis"
+  },
+  "44": {
+    "Id": 44,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(124)*}] pour afficher le guide rapide.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "45": {
+    "Id": 45,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(25)*}] pour utiliser la compétence supplémentaire.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "46": {
+    "Id": 46,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(143)*}] pour masquer l'IU actuelle.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "47": {
+    "Id": 47,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(34)*}] pour activer/désactiver le combat automatique.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "48": {
+    "Id": 48,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(140)*}] pour activer l'appareil photo.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "49": {
+    "Id": 49,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(8)*}] pour fermer l'interface actuelle.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "5": {
+    "Id": 5,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading5",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Associez les compétences d'Imagine de combat à votre rôle (attaque, soutien ou défense) pour une efficacité maximale au combat !",
+    "TextTitle": "Imagine de combat"
+  },
+  "50": {
+    "Id": 50,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(115)*}] pour activer la Roue rapide.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "51": {
+    "Id": 51,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(115)*}] pour activer la Roue rapide.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "52": {
+    "Id": 52,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(34)*}] pour activer/désactiver le combat automatique.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "53": {
+    "Id": 53,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(143)*}] pour masquer l'IU actuelle.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "54": {
+    "Id": 54,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(140)*}] pour activer l'appareil photo.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "55": {
+    "Id": 55,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(155)*}] et [{*key.getKeyDesc(165)*}] pour changer de canal de chat.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "56": {
+    "Id": 56,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(102)*}] pour ouvrir l'interface du chat.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "57": {
+    "Id": 57,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(124)*}] pour afficher le guide rapide.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "58": {
+    "Id": 58,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(25)*}] pour utiliser la compétence supplémentaire.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "59": {
+    "Id": 59,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(8)*}] pour fermer l'interface actuelle.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "6": {
+    "Id": 6,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading6",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Reforger un équipement relance ses attributs et augmente son niveau de perfection, améliorant ainsi ses statistiques et ses performances.",
+    "TextTitle": "Reforge d'équipement"
+  },
+  "60": {
+    "Id": 60,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Lorsque vous êtes sur une monture navigable, maintenez [{*key.getKeyDesc(154)*}] pour lancer la navigation automatique vers votre cible suivie.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "61": {
+    "Id": 61,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(27)*}] pour suivre votre quête actuelle.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "62": {
+    "Id": 62,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(118)*}] pour afficher votre liste de quêtes actuelle.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "63": {
+    "Id": 63,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(27)*}] pour suivre votre quête actuelle.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "64": {
+    "Id": 64,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "Appuyez sur [{*key.getKeyDesc(118)*}] pour afficher votre liste de quêtes actuelle.",
+    "TextTitle": "Astuces de raccourcis"
+  },
+  "65": {
+    "Id": 65,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une monnaie largement utilisée sur le continent de Magna, gérée et frappée par le Credo bapharien. <br>Le matériau de frappe est un lingot précieux contenant de l'engramme. <br>La qualité de fabrication des pièces Luno est si exceptionnelle qu'il est presque impossible de les contrefaire.",
+    "TextTitle": "Luno"
+  },
+  "66": {
+    "Id": 66,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Un ancien <style=\"emph-gn\">Héritage bapharien</style> capable de téléporter une créature qui le touche vers un autre téléportail le long du réseau d'engrammes. Le principe n'est pas encore clair.<br>Les téléportails ne peuvent pas transporter de grandes quantités de marchandises, seulement un petit nombre d'effets personnels.",
+    "TextTitle": "Téléportail"
+  },
+  "67": {
+    "Id": 67,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une vieille taverne située dans le quartier des divertissements, au nord de la ville. <br>Elle propose de la nourriture, un hébergement et des boissons spéciales. Grâce à son emplacement central dans le quartier des divertissements, elle est très réputée. <br>Le propriétaire, Wilbert, est un homme au grand cœur qui parle avec un accent de Byrnhald.",
+    "TextTitle": "La Pièce à deux faces"
+  },
+  "68": {
+    "Id": 68,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une célébration annuelle organisée par le Conseil en l'honneur de l'indépendance. <br>Des rubans colorés flottent dans les airs, des lys de mer sont placés sur le pas des portes en signe de paix, et la ville accueille des cercles de poésie, des défilés et un carnaval.",
+    "TextTitle": "Festival de la brise marine"
+  },
+  "69": {
+    "Id": 69,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une forme corrompue d'engramme d'origine inconnue, qui apparaît comme un nuage de brume noire. <br>Lorsque l'engramme du néant se manifeste, l'engramme dans l'espace environnant devient chaotique et extrêmement dangereux. <br>De plus, l'engramme du néant et l'engramme subissent une réaction de neutralisation, donc la seule façon de la dissiper est d'injecter une grande quantité d'engramme dans la zone contaminée.",
+    "TextTitle": "Engramme du néant"
+  },
+  "7": {
+    "Id": 7,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading7",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Le raffinage améliore considérablement les performances de votre équipement. Le raffinage peut réussir ou échouer. Tentez votre chance ! Un échec ne réduira pas le niveau !",
+    "TextTitle": "Raffinage d'équipement"
+  },
+  "70": {
+    "Id": 70,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "L'engramme s'écoule à travers l'invisible réseau d'engrammes, nourrissant toutes choses. C'est l'énergie originelle de ce monde. <br>Chaque race a sa propre compréhension et utilisation de l'engramme, ce qui témoigne de la diversité du monde.",
+    "TextTitle": "Engramme"
+  },
+  "71": {
+    "Id": 71,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "L'engramme qui circule dans les organismes vivants est l'énergie fondamentale qui entretient la vie.",
+    "TextTitle": "Aventurier"
+  },
+  "72": {
+    "Id": 72,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Des reliques technologiques laissées par les divinités après leur départ. <br>Bien qu'elles aient été modifiées et soient largement utilisées par les humains, leurs principes fondamentaux restent inconnus. En raison de leur rareté, leur récolte et leur distribution sont gérées par le Credo bapharien et le Bureau des pionniers.",
+    "TextTitle": "Héritage bapharien"
+  },
+  "73": {
+    "Id": 73,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une organisation mondiale qui soutient les activités des aventuriers, l'excavation des ruines baphariennes et la chasse aux monstres.<br>La position du Bureau des pionniers est neutre et il n'appartient à aucun pays. <br>La responsable de la branche d'Asterleeds est Mademoiselle Valeria, surnommée \"Mademoiselle bonne idée\".",
+    "TextTitle": "Bureau des pionniers"
+  },
+  "74": {
+    "Id": 74,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "L'engramme s'écoule sur la planète Regnus en formant un réseau d'engrammes.<br>Les points de rassemblement de ce réseau de veines sont appelés des Centres d'engrammes, où la concentration d'engramme et la puissance sont plus élevées.",
+    "TextTitle": "Centre d'engrammes"
+  },
+  "75": {
+    "Id": 75,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "La collision intense des Vents crée un phénomène miraculeux appelé champ de vent. <br>Des Vents abondants emplissent le champ de vent, formant des portes de vent invisibles. Si l'on possède la capacité de résonance d'engramme, on peut utiliser les portes de vent pour planer dans les airs.",
+    "TextTitle": "Porte du vent et champ de vent"
+  },
+  "76": {
+    "Id": 76,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une ville portuaire animée à la lisière sud des plaines d'Asteria. <br>Autrefois une colonie de Byrnhald, elle est devenue une plaque tournante du commerce grâce à son autonomie.\n<br> Aujourd'hui, Asterleeds est réputée pour sa culture inclusive et son commerce vibrant, attirant des marchands et des aventuriers du monde entier.",
+    "TextTitle": "Asterleeds"
+  },
+  "77": {
+    "Id": 77,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Une plaine près de la cité commerçante d'Asterleeds.<br>Son terrain dégagé est riche en éléments fantastiques, y compris des prairies et des ruines, un lieu idéal pour l'exploration. Divers groupes parcourent les plaines, comme l'ancienne tribu Kanamia, des charognards nomades, des demi-humains agressifs et des Brigands.",
+    "TextTitle": "Plaines d'Asteria"
+  },
+  "78": {
+    "Id": 78,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Un village au centre des plaines d'Asteria.<br>Bénéficiant de terres fertiles, il produit en abondance des céréales, des légumes et des fruits très prisés. Situé sur la route commerciale entre les plaines d'Asteria et les Hautes terres de Bahamar, le village entretient un commerce actif avec Asterleeds.",
+    "TextTitle": "Minsterhorn"
+  },
+  "79": {
+    "Id": 79,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Contrairement à la civilisation très avancée des temps modernes qui dépend fortement de l'Héritage bapharien,<br>la tribu Kanamia des plaines mène une vie plus simple et plus douce, dans le respect de la nature. <br>Ils vénèrent leurs ancêtres, qu'ils appellent les <style=\"emph-gn\">Esprits ancestraux</style>...",
+    "TextTitle": "Tribu Kanamia"
+  },
+  "8": {
+    "Id": 8,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading8",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les objets de bénédiction peuvent augmenter le taux de réussite du raffinage. <br>Lorsque vous remplacez un équipement du même emplacement, les niveaux de raffinage sont transférés gratuitement.",
+    "TextTitle": "Raffinage d'équipement"
+  },
+  "80": {
+    "Id": 80,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "En mémoire de ceux qui sont tombés pendant la Guerre de l'Indépendance, <br>les citoyens ont gravé les noms et les histoires des défunts sur des tablettes de bois et les ont placées sur les falaises près de la cité ancienne de Vill, symbolisant ainsi la protection de leur patrie. <br>Le Conseil a ensuite transformé le site en Bosquet commémoratif des héros.",
+    "TextTitle": "Statue du héros"
+  },
+  "81": {
+    "Id": 81,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Sur la côte déchaînée d'Asteria, des gorges vertigineuses fendent la terre comme d'immenses cicatrices. <br>La région résonne toute l'année de hurlements sinistres, semblables aux plaintes de loups géants. <br>Des falaises érodées et d'anciennes gravures suggèrent les vestiges d'une civilisation depuis longtemps disparue.",
+    "TextTitle": "Canyon du vent hurlant"
+  },
+  "82": {
+    "Id": 82,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Asterleeds est une ville immense dotée d'un vaste réseau de drainage souterrain. <br>Enveloppé dans l'obscurité, sans la lumière du soleil, ce lieu est un nid d'ombres. <br>Le Conseil et le corps de défense d'Asterleeds s'y aventurent rarement, c'est pourquoi il est devenu un repaire pour les hors-la-loi.",
+    "TextTitle": "Quartier souterrain"
+  },
+  "83": {
+    "Id": 83,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les Eaux de l'Ombre éternelle sont une zone maritime dangereuse près d'Asterleeds, tristement célèbre pour ses conditions difficiles et ses fréquents naufrages. <br>Leur caractéristique principale est un immense tourbillon de plusieurs centaines de mètres de large, dont l'énorme force de torsion déchiquette les navires et disperse leurs débris sur la mer environnante.",
+    "TextTitle": "Eaux de l'Ombre éternelle"
+  },
+  "84": {
+    "Id": 84,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les Ruines de la cité d'Andra sont considérées par le Credo bapharien comme l'un de leurs sites sacrés. <br>En raison du grand nombre de monstres qui peuplent les ruines, le Credo n'a établi que des avant-postes sur le périmètre pour les contenir. <br>Des études récentes indiquent que les structures visibles ne représenteraient que les niveaux supérieurs de la cité. La majeure partie de son architecture pourrait se trouver profondément sous terre.",
+    "TextTitle": "Cité ensevelie"
+  },
+  "85": {
+    "Id": 85,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les montures sont non seulement dotées d'une navigation à suivi automatique, mais chacune possède également des compétences uniques !",
+    "TextTitle": "Monture"
+  },
+  "86": {
+    "Id": 86,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Maintenez une emote pour l'ajouter à votre liste de favoris.",
+    "TextTitle": "Emotes"
+  },
+  "87": {
+    "Id": 87,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Vous pouvez vous déplacer librement lorsque vous exhibez vos poissons !",
+    "TextTitle": "Emotes"
+  },
+  "88": {
+    "Id": 88,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "En Mode Combat, l'appareil photo peut prendre des clichés d'action des aventuriers en train de déchaîner leurs compétences !",
+    "TextTitle": "Mode Photo"
+  },
+  "89": {
+    "Id": 89,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Si un autre joueur effectue une emote, l'inviter à votre séance photo de groupe vous permettra d'ajuster manuellement la progression de son emote à l'aide d'un curseur.",
+    "TextTitle": "Mode Photo"
+  },
+  "9": {
+    "Id": 9,
+    "LevelRange": [31, 40],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Incruster une gemme dans un équipement y transfère ses attributs. L'incrustation intermédiaire ou avancée confère des effets de gemmes de plus haut niveau !",
+    "TextTitle": "Incrustation d'équipement"
+  },
+  "90": {
+    "Id": 90,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Les gestionnaires de guilde peuvent sélectionner des buffs pour tous les membres à la Fontaine des bénédictions.",
+    "TextTitle": "Fontaine des bénédictions"
+  },
+  "91": {
+    "Id": 91,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "En groupe, vous pouvez voir les avatars de vos alliés sur la carte s'ils se trouvent dans la même zone.",
+    "TextTitle": "Trouver un groupe"
+  },
+  "92": {
+    "Id": 92,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Changer de canal de carte vous permet de voir les avatars de vos alliés sur les autres canaux.",
+    "TextTitle": "Trouver un groupe"
+  },
+  "93": {
+    "Id": 93,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Si votre groupe respecte la composition de rôles recommandée, vous pouvez quand même utiliser la recherche de groupe ! Faites équipe avec vos amis et relevez le défi ensemble !",
+    "TextTitle": "Matchmaking"
+  },
+  "94": {
+    "Id": 94,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Arroser et fertiliser vos plantes permet de réduire leur temps de croissance.",
+    "TextTitle": "Domaine - Plantation de fleurs"
+  },
+  "95": {
+    "Id": 95,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "La couleur et la forme des fleurs dépendent du résultat de l'hybridation au moment de la plantation.",
+    "TextTitle": "Domaine - Hybridation des fleurs"
+  },
+  "96": {
+    "Id": 96,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Pendant la période de pollinisation d'une fleur, vous pouvez la polliniser manuellement. <br>La fleur obtenue héritera de la moitié des traits génétiques du pollen utilisé.",
+    "TextTitle": "Domaine - Pollinisation manuelle"
+  },
+  "97": {
+    "Id": 97,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Si une fleur n'est pas pollinisée manuellement pendant sa phase de pollinisation, sa floraison sera affectée par le pollen des fleurs matures environnantes.",
+    "TextTitle": "Domaine - Hybridation automatique"
+  },
+  "98": {
+    "Id": 98,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Lorsque vos fleurs arrivent à maturité, vous pouvez récolter les fleurs et les graines, tandis que vos amis peuvent récupérer le pollen.",
+    "TextTitle": "Domaine - Récolte"
+  },
+  "99": {
+    "Id": 99,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Vous voulez améliorer votre efficacité de fabrication de meubles ? Invitez plus d'amis à vivre avec vous ! Plus vous avez de colocataires, plus votre atelier de fabrication du Domaine disposera d'emplacements de fabrication !",
+    "TextTitle": "Domaine - Fabrication de meubles"
+  }
+}

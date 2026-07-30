@@ -1,0 +1,28 @@
+{
+  "50101": {
+    "Button": "Résonance",
+    "Desc": "Une plante géante d'un bleu pâle, qui contient une immense quantité d'Engramme, pousse dans la Cité ancienne de Vill.<br>Reconnue comme un objet de résonance, entrer en résonance avec elle octroie la compétence de Résonance terrestre : Flottaison.<br>La résonance est possible au niv. 17 d'aventurier.",
+    "Id": 50101,
+    "Name": "Herbe du héros",
+    "PivotId": 50002,
+    "Position": 7353,
+    "SceneTag": 502,
+    "Skill": [],
+    "SlotType": 2,
+    "Time": 0,
+    "TriggerBuffIds": [510701, 510801]
+  },
+  "50102": {
+    "Button": "Résonance",
+    "Desc": "Un immense noyau d'énergie qui génère de lui-même un vent puissant, situé au sommet d'un éclat flottant au faîte des Ruines imposantes. <br>Il est reconnu comme un objet de résonance. Entrer en résonance avec lui confère la compétence de Résonance terrestre : Ruée fantomatique. <br>Résonance disponible au niveau d'aventurier 17. <br><br><style=\"tipsYellow\">Atteignez le sommet de l'Île Flottante via le tunnel de vent au poste de repos d'Andra.</style>",
+    "Id": 50102,
+    "Name": "Noyau de vent",
+    "PivotId": 50003,
+    "Position": 7352,
+    "SceneTag": 503,
+    "Skill": [1222, 1223],
+    "SlotType": 1,
+    "Time": 0,
+    "TriggerBuffIds": []
+  }
+}

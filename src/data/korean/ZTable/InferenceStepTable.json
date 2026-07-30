@@ -1,0 +1,524 @@
+{
+  "1000111": {
+    "Answer": [1],
+    "Id": 1000111,
+    "Question": "의뢰인이 제공한 단서는 정말 맞는 걸까?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000112": {
+    "Answer": [2, 3],
+    "Id": 1000112,
+    "Question": "붉은빛의 열매는 달그림자 들판에 있나?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000113": {
+    "Answer": [4, 5, 6],
+    "Id": 1000113,
+    "Question": "아직까지 아무도 붉은빛의 열매를 본 사람이 없다면 도대체 어디에 있는 거지?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000211": {
+    "Answer": [1],
+    "Id": 1000211,
+    "Question": "누가 붉은빛의 열매를 봤지?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000212": {
+    "Answer": [2, 3],
+    "Id": 1000212,
+    "Question": "베크마르 수송 거점에 붉은빛의 열매가 있나?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자....", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000213": {
+    "Answer": [4, 5],
+    "Id": 1000213,
+    "Question": "악단 팬이 아픈 게 붉은빛의 열매랑 상관이 있을까?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000311": {
+    "Answer": [1],
+    "Id": 1000311,
+    "Question": "젊은 광부의 태도?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000312": {
+    "Answer": [2, 3],
+    "Id": 1000312,
+    "Question": "나이 많은 광부의 태도?",
+    "QuestionBubble": "아직 부족해",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000313": {
+    "Answer": [4],
+    "Id": 1000313,
+    "Question": "번하르트 사람과 가정을 이룬 광부의 태도는?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000411": {
+    "Answer": [],
+    "Id": 1000411,
+    "Question": "'명단'은 이 흐름 속에서 대체 어떤 역할을 하고 있는 걸까?",
+    "QuestionBubble": "계속 조사해 보는 편이 좋을지도 모르겠어....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 단서가 맞지 않아.", "다시 생각해 보자, 생각이 꼬였어."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000412": {
+    "Answer": [3, 4, 5],
+    "Id": 1000412,
+    "Question": "'탑'과 '왕관'은 무엇을 의미하는 걸까?",
+    "QuestionBubble": "만약 명단이 존재한다면, '탑'에 있을 가능성이 높아.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 단서가 맞지 않아.", "다시 생각해 보자, 생각이 꼬였어."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000413": {
+    "Answer": [6, 7, 8],
+    "Id": 1000413,
+    "Question": "'왕관'을 찾으려면 다음에는 어떻게 해야 할까?",
+    "QuestionBubble": "명단을 찾으려면, 발자취를 따라 탑 안으로 들어가 조사해야 해.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 단서가 맞지 않아.", "다시 생각해 보자, 생각이 꼬였어."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000511": {
+    "Answer": [1],
+    "Id": 1000511,
+    "Question": "유리병 편지의 보물 단서 내용은 정확할까?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000512": {
+    "Answer": [2],
+    "Id": 1000512,
+    "Question": "병은 정말 과거 사람이 남긴 것일까?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1000513": {
+    "Answer": [3],
+    "Id": 1000513,
+    "Question": "왜 묻혀 있는 유사한 쪽지가 존재하는 거지?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "100111": {
+    "Answer": [],
+    "Id": 100111,
+    "Question": "이 녀석은 어떤 외모 특징을 가지고 있는지... 어디 볼까!",
+    "QuestionBubble": "이 단서들은 한 사람을 가리키는 것 같다...",
+    "QuestionBubbleAction": 9019,
+    "WrongBubble": ["이건 접선자의 외모와는 관련이 없는 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100112": {
+    "Answer": [3, 4],
+    "Id": 100112,
+    "Question": "흐음, 다음 단계는 '접선 증표'와 '신분 정보'를 보고 생각해 보자!",
+    "QuestionBubble": "분명히 이것들은 접선자의 외모 특징이다. 그럼 다음은...",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100121": {
+    "Answer": [1, 4],
+    "Id": 100121,
+    "Question": "범위를 더 좁혀보자. 나이, 성별부터 시작하자...",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100122": {
+    "Answer": [5, 6],
+    "Id": 100122,
+    "Question": "체형과 옷차림을 확정할 수 있다면...",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100123": {
+    "Answer": [2],
+    "Id": 100123,
+    "Question": "가장 중요한 특징은 머리카락과 관련이 있다!",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100311": {
+    "Answer": [7],
+    "Id": 100311,
+    "Question": "대장장이가 자주 쓰는 글러브는 어떤 특별한 점이 있을까?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100312": {
+    "Answer": [8],
+    "Id": 100312,
+    "Question": "도면 내용은?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100313": {
+    "Answer": [9],
+    "Id": 100313,
+    "Question": "예쁜 제등에 어떤 이상이 있을까?외관상 봐서는...",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100411": {
+    "Answer": [8],
+    "Id": 100411,
+    "Question": "잭은 독립 전쟁에서 실종되기 전에 뭘 하려고 했지?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100412": {
+    "Answer": [11, 12],
+    "Id": 100412,
+    "Question": "특별 작전의 내용은 무엇일까? 결과는 어땠을까?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100413": {
+    "Answer": [3],
+    "Id": 100413,
+    "Question": "침투 작전 지휘관이 잭인 것 같은데, 그럼 그는 마지막에 어디로 갔을까?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100511": {
+    "Answer": [1],
+    "Id": 100511,
+    "Question": "보물은 어디에서 왔을까?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100512": {
+    "Answer": [2],
+    "Id": 100512,
+    "Question": "칼리스 집사는 왜 그 보물을 싫어할까?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100513": {
+    "Answer": [3],
+    "Id": 100513,
+    "Question": "어제 보물의 이상했던 점은?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100611": {
+    "Answer": [1],
+    "Id": 100611,
+    "Question": "밀루와 루미의 말에서 알 수 있어요...",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100612": {
+    "Answer": [2, 3],
+    "Id": 100612,
+    "Question": "스파이크의 말에서 알 수 있어요...",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "100613": {
+    "Answer": [4, 5],
+    "Id": 100613,
+    "Question": "티나의 말에서 알 수 있어요...",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "200111": {
+    "Answer": [],
+    "Id": 200111,
+    "Question": "신비한 바다나리에 대한 마을 사람들의 생각은?",
+    "QuestionBubble": "마을 사람들이 어떻게 생각하는지 알아보자.",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["여긴 중요 단서가 아니야...."],
+    "WrongBubbleAction": [9007]
+  },
+  "200112": {
+    "Answer": [3, 4],
+    "Id": 200112,
+    "Question": "상인이 어떤 단서를 제공했을까?",
+    "QuestionBubble": "상인에게서 믿을 만한 정보를 얻을 수 있을까?",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["여긴 중요 단서가 아니야...."],
+    "WrongBubbleAction": [9007]
+  },
+  "200113": {
+    "Answer": [5, 6],
+    "Id": 200113,
+    "Question": "신비한 바다나리에 대한 순례자의 생각은?",
+    "QuestionBubble": "마지막 한 사람의 정보가 남았어.",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["여긴 중요 단서가 아니야...."],
+    "WrongBubbleAction": [9007]
+  },
+  "200201": {
+    "Answer": [2],
+    "Id": 200201,
+    "Question": "사피르와 신비한 소녀가 만났을 때의 환경은?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "200202": {
+    "Answer": [1],
+    "Id": 200202,
+    "Question": "사피르는 왜 실명했을까?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "200203": {
+    "Answer": [3, 4],
+    "Id": 200203,
+    "Question": "신비한 소녀의 특징은? 그녀가 사피르에게 무엇을 했을까?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300111": {
+    "Answer": [1, 2, 3],
+    "Id": 300111,
+    "Question": "사건 발생 시 환경은 어땠을까?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300112": {
+    "Answer": [4, 5],
+    "Id": 300112,
+    "Question": "현장에 어떤 단서가 남았을까?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300113": {
+    "Answer": [6, 7],
+    "Id": 300113,
+    "Question": "단서에서 반복적으로 언급되는 '라이언'은 무슨 일을 했을까?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300211": {
+    "Answer": [1, 2, 3],
+    "Id": 300211,
+    "Question": "레이드가 사라졌다는 목격담 중 주의할 만한 세부 사항이 있나요?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300212": {
+    "Answer": [4, 5, 6],
+    "Id": 300212,
+    "Question": "게르고가 사라졌다는 목격담 중 주의할 만한 세부 사항이 있나요?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "300213": {
+    "Answer": [7, 8, 9],
+    "Id": 300213,
+    "Question": "두코의 목격담 중 주의할 만한 세부 사항이 있나요?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["뭔가 아닌 것 같군요...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "400111": {
+    "Answer": [1],
+    "Id": 400111,
+    "Question": "금지된 땅의 용도는?",
+    "QuestionBubble": "어떤 이벤트를 개최할 수 있는 장소여야 합니다...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "400112": {
+    "Answer": [2],
+    "Id": 400112,
+    "Question": "금지된 땅의 지금 상황은?",
+    "QuestionBubble": "누군가 말한 걸로 기억하는데 아마...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "400113": {
+    "Answer": [3],
+    "Id": 400113,
+    "Question": "금지된 땅으로 가능한 위치는?",
+    "QuestionBubble": "금지된 땅이 기도를 드리는 장소라면, 단서는 바로 이곳을 가리키고 있습니다...",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "500111": {
+    "Answer": [1],
+    "Id": 500111,
+    "Question": "사람들이 목격한 이상 기후는 무엇일까?",
+    "QuestionBubble": "침식의 안개랑 더 이상 관련이 없으면 좋겠어.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "500112": {
+    "Answer": [2],
+    "Id": 500112,
+    "Question": "악몽과 마주칠 때, 어떻게 해야 증상을 완화할 수 있을까?",
+    "QuestionBubble": "악몽을 겪는 기분은 좋지 않아...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "500113": {
+    "Answer": [3],
+    "Id": 500113,
+    "Question": "어쩌면 악몽의 영향을 줄여줄 수 있는 어떤 방법이 있을지도 몰라...",
+    "QuestionBubble": "그 방법이 악몽 완화에 효과가 있으면 좋겠어.",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["아니야, 좀 더 생각해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "700111": {
+    "Answer": [1, 2, 3],
+    "Id": 700111,
+    "Question": "성혼병에 대해 누구에게 물어보면 좋을까?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "700112": {
+    "Answer": [4],
+    "Id": 700112,
+    "Question": "담당자를 찾으려면 어디로 가야 할까?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "800111": {
+    "Answer": [1],
+    "Id": 800111,
+    "Question": "군단 내부에 변동이 있었다면, 이 일은 언제 일어났을 가능성이 가장 클까?",
+    "QuestionBubble": "이상한 기록이 많이 남아 있다...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "800112": {
+    "Answer": [2, 5, 7],
+    "Id": 800112,
+    "Question": "변동 이후, 군단의 근무 상황에는 어떤 이상이 있었을까?",
+    "QuestionBubble": "그럼, 다음은...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "800113": {
+    "Answer": [3, 4, 6],
+    "Id": 800113,
+    "Question": "변동 이후 명단에서 빠진 중사가 몇 명 있다. 사라진 이름들을 찾아보자.",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "900111": {
+    "Answer": [1],
+    "Id": 900111,
+    "Question": "비밀 거래의 화물은 대체 무엇일까?",
+    "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "900112": {
+    "Answer": [2, 4],
+    "Id": 900112,
+    "Question": "네빌이 어떤 인물과 손을 잡았을까?",
+    "QuestionBubble": "아직 부족하다.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "900113": {
+    "Answer": [3, 5, 6],
+    "Id": 900113,
+    "Question": "네빌은 왜 이런 일을 한 걸까?",
+    "QuestionBubble": "결론이 거의 다 나왔다!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  }
+}

@@ -1,0 +1,1145 @@
+{
+  "1": {
+    "Id": 1,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading1",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "시즌이 교체되면 업적 퀘스트도 새롭게 리셋됩니다. 각 시즌에 용감하게 도전하여 끊임없이 새로운 영광을 추구하세요!",
+    "TextTitle": "시즌 업적"
+  },
+  "10": {
+    "Id": 10,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "모듈을 장착하고, 동력 코어의 레벨 효과를 활성화해 자신을 강화하세요!<br>주의: 장착한 모듈 효과만 적용됩니다. 다른 모듈끼리 동일한 동력 코어를 보유한 경우, 연결에 성공한 총 횟수가 레벨 효과 활성화의 전제 조건이 됩니다!",
+    "TextTitle": "모듈 장착"
+  },
+  "100": {
+    "Id": 100,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "일일 의뢰를 다 못했나요? 걱정 마세요! 의뢰 수령 횟수는 다음 날로 이월되며, 최대 3회 누적됩니다!",
+    "TextTitle": "일일 의뢰"
+  },
+  "101": {
+    "Id": 101,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "파티장이 일일 의뢰 던전에 입장 시, 시스템이 자동으로 의뢰 퀘스트를 받지 않은 파티원의 퀘스트도 수령합니다.",
+    "TextTitle": "일일 의뢰"
+  },
+  "102": {
+    "Id": 102,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "당일 의뢰를 완료한 플레이어라도 다른 모험가를 따라 파티원으로 일일 의뢰 던전에 입장하여 의뢰 완료를 도울 수 있습니다!",
+    "TextTitle": "일일 의뢰"
+  },
+  "103": {
+    "Id": 103,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "당일 배율이 적용된 목표를 우선 완료 시, 더 효율적으로 일일 활약도 목표를 달성할 수 있습니다.",
+    "TextTitle": "활약도"
+  },
+  "104": {
+    "Id": 104,
+    "LevelRange": [21, 30],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "지정 어종을 연구하면, 해당 어종의 더 높은 별 등급 물고기를 낚기 쉬워집니다.",
+    "TextTitle": "어종 연구"
+  },
+  "105": {
+    "Id": 105,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "아스테리아 평원의 고대도시 빌에 있는 영웅초와 공명하면, 부유 및 활공 능력을 획득할 수 있습니다!<br>일정 고도에 이르면 부유 상태에 들어가며, 부유 상태에서 활공 상태로 전환할 있습니다. 아스테리아 상공을 마음껏 날아다니세요!",
+    "TextTitle": "환경 공명・부유 활공"
+  },
+  "106": {
+    "Id": 106,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "아스테리아 평원 거탑 유적 꼭대기에 있는 허공의 부유섬의 바람의 코어와 공명하면, 환영 돌진 능력을 획득합니다!<br>매번 최대 연속 2회 초고속 돌진 이동이 가능하며, 평원 곳곳에 있는 바람의 장벽도 돌파할 수 있습니다!",
+    "TextTitle": "환경 공명・환영 돌진"
+  },
+  "107": {
+    "Id": 107,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "매일 시간대에 따라 여러 가지 캐주얼 이벤트가 오픈됩니다.\n[추천 콘텐츠], [휴식]에서 관심 있는 이벤트를 골라 참가해 보세요!",
+    "TextTitle": "캐주얼 이벤트"
+  },
+  "108": {
+    "Id": 108,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "생체 엔그램 레벨이 상승하면 모험가의 잠재력이 개방됩니다. 생체 엔그램 레벨 화면에서 해당 잠재력을 활성화하면 연속 점프, 벽 타기 등의 능력을 획득할 수 있습니다!",
+    "TextTitle": "잠재력 개방"
+  },
+  "109": {
+    "Id": 109,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "평원에는 수시로 각종 신비한 생물이 출몰합니다. 처치 시 일정 확률로 희귀 머리 장식이나 라이드를 획득할 수 있습니다!<br>구체적인 출몰 규칙은 몬스터 토벌에서 확인할 수 있습니다!",
+    "TextTitle": "신비한 생물"
+  },
+  "11": {
+    "Id": 11,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "생체 엔그램 레벨이 특정 단계에 도달하면, 잠재력 개방에서 자유롭게 잠재력 방안을 선택하고 설정할 수 있습니다.<br>일부 생체 엔그램 레벨에서는 여러 잠재력을 선택할 수 있지만, 같은 레벨에서는 1개만 선택할 수 있습니다!",
+    "TextTitle": "잠재력 개방"
+  },
+  "110": {
+    "Id": 110,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "필드에서는 매시 정각과 30분에 각종 필드 보스가 출몰합니다. 토벌 후 전리품 상자를 오픈하면 해당 보스의 윌을 획득할 수 있습니다! 자세한 출몰 규칙은 몬스터 토벌에서 확인할 수 있어요~<br>팁: 현재 보스가 이미 처치됐다면, 다른 보스에 도전해 보세요!",
+    "TextTitle": "필드 보스"
+  },
+  "111": {
+    "Id": 111,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "옷장 탭 오른쪽의 '작은 눈'을 누르면 해당 부위의 외형 표시를 숨길 수 있습니다.",
+    "TextTitle": "옷장 팁"
+  },
+  "112": {
+    "Id": 112,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "마그나 대륙에서 널리 사용되는 화폐로, 버페리아 교단이 관리와 주조를 담당합니다.<br>주조 재료는 엔그램을 함유한 귀금속입니다.<br>루노의 주조 공예는 매우 정교하여 사실상 위조가 불가능합니다.",
+    "TextTitle": "루노"
+  },
+  "113": {
+    "Id": 113,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "일종의 고대 <style=\"emph-gn\">버페리아 유산</style>으로, 순간 이동 지점을 접촉한 생물을 엔그램 라인이 곳곳에 퍼져 있는 또 다른 순간 이동 지점으로 순간 이동시키며, 그 원리는 아직 명확하지 않습니다.<br>순간 이동 지점을 통해 대량의 화물은 운송할 수 없으며, 휴대 가능한 소량의 물자만 순간 이동할 수 있습니다.",
+    "TextTitle": "순간 이동 지점"
+  },
+  "114": {
+    "Id": 114,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "도시 북쪽 번화가에 위치한 유서 깊은 여관입니다.<br>식사, 숙박, 특제 음료 등 서비스를 제공합니다. 번화가 중심부에 위치해 있어 높은 인지도를 자랑합니다.<br>주인 윌버트는 인자한 아저씨로, 말할 때 번하르트 말투가 섞여있습니다.",
+    "TextTitle": "동전 주점"
+  },
+  "115": {
+    "Id": 115,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "독립을 기념하기 위해 의회가 1년에 한 번 여는 전국적인 경축일입니다.<br>명절 당일 아스텔리즈에는 화려한 색 테이프가 흩날리고, 시민들은 자기 집 앞에 활짝 핀 바다나리를 두고 축복과 평화를 기원합니다. 도심지에서는 각종 시 낭송회・퍼레이드, 유원지 파티 등 특별한 축제가 개최됩니다.",
+    "TextTitle": "해풍절과 유원지 파티"
+  },
+  "116": {
+    "Id": 116,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading9",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "밤의 바다와 하늘도 가끔은 외로움을 탑니다. 충분히 높은 곳에 등불을 걸어 두지 않으면, 장난꾸러기 별들이 집으로 돌아가는 길을 잃을지도 모릅니다. 그래서 섬 전체를 내려다볼 수 있는 이 망루, [별의 등불]이 세워졌습니다.",
+    "TextTitle": "별의 등불・내려다보는 곳"
+  },
+  "117": {
+    "Id": 117,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading10",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "거대한 환성호는 마치 별에 닿을 수 있을 듯하며, 사람들은 구름 위에 올라 마음속에 숨겨 둔 이야기를 털어놓을 수 있습니다. 이제는 유성도에서 가장 여유롭게 시간을 보내기 좋은 장소가 되었습니다.",
+    "TextTitle": "환성호"
+  },
+  "118": {
+    "Id": 118,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading11",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "고정관념을 깨는 회전목저는 모두에게 기묘한 장소로 입소문이 퍼졌고, 사람들은 귀여운 우리보들을 보며 감탄을 터뜨립니다...",
+    "TextTitle": "우리보 왈츠"
+  },
+  "119": {
+    "Id": 119,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading12",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "만개한 벚꽃 숲은 유성도에서 가장 아름다운 한 구석이 되었으며, 사람들은 이곳에서 소풍을 즐기고 경치를 감상하며 사진을 찍고, 거대한 환성호를 멀리서 바라볼 수도 있습니다.",
+    "TextTitle": "벚꽃 숲"
+  },
+  "12": {
+    "Id": 12,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "임의의 공명 스킬을 선택해 슬롯에 드래그하면 장착이 완료됩니다.<br>장착한 스킬은 메인 화면에 버튼으로 표시되며, 최대 2개까지 공명 스킬을 장착할 수 있습니다.",
+    "TextTitle": "환경 공명"
+  },
+  "120": {
+    "Id": 120,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading13",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "오로라 스테이지의 빛은 단순한 조명이 아니라 정보를 전하는 전령이기도 합니다.<br>이는 창립자 냐코루의 대담한 발상에서 비롯되었습니다. 만약 오로라를 포착하듯 먼 이세계에서 오는 신호를 포착할 수 있다면, 꿈의 외딴섬의 경계를 깨뜨릴 기회가 생길지도 모릅니다.",
+    "TextTitle": "오로라 스테이지"
+  },
+  "121": {
+    "Id": 121,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading14",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "처음 관광열차의 설계도는 상회의 절반을 태울 수 있을 만큼 호화로웠지만, 냐코루 아가씨가 '객차는 오히려 발목을 잡을 뿐이다'라며 거부했습니다. 그래서 뛰뛰빵빵호는 결국 기관차 한 칸만 남게 되었습니다. 조금은 비좁지만, 그 덕분에 여행에는 묘한 따뜻함이 더해졌습니다.",
+    "TextTitle": "뛰뛰빵빵호"
+  },
+  "122": {
+    "Id": 122,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading15",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "서로 다른 음악을 재생하는 거대한 DJ 무대가 은갈매기 해변 옆에 우뚝 서 있습니다. 조개껍질과 햇살이 장식이 되고, 조수의 물결마저도 아름다운 선율이 됩니다.",
+    "TextTitle": "조수의 눈"
+  },
+  "123": {
+    "Id": 123,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading16",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "카니발은 섬에서 가장 활기차고, 변화도 가장 빠른 테마 이벤트입니다.<br>이것은 냐코루의 한 가지 생각에서 탄생했습니다. 어차피 매일 꿈속에서 이세계의 이야기들을 본다면, 그 이야기들을 모두와 나누는 건 어떨까?<br>그렇게 카니발은 아가씨가 꿈속의 이야기를 현실에 펼쳐 보이는 방식이 되었습니다.",
+    "TextTitle": "유성 카니발"
+  },
+  "124": {
+    "Id": 124,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading17",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "유성도에서 대장장이들을 가장 좌절하게 만든 건물을 묻는다면, 단연 이 신비한 저택일 것입니다.<br>왜냐하면 이 건물은 벽돌 하나하나로 지어진 것이 아니라, 고농도의 환상꽃 에너지가 응결되어 만들어진 환상 세계이기 때문입니다.",
+    "TextTitle": "신비한 저택"
+  },
+  "125": {
+    "Id": 125,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading18",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "모험가는 잠행자 또는 그림자 사냥꾼 중 한 역할로 변신합니다.<br>잠행자는 흔적을 숨기는 데 능하며, 심지어 필드의 사물로 변해 상대를 혼란시킬 수 있습니다. 그림자 사냥꾼은 잠행자를 추적하고 체포하는 역할을 맡습니다.<br>두 세력은 환상 세계에서 맞부딪히며, 추격과 도주의 승부가 여기서 펼쳐집니다.",
+    "TextTitle": "술래잡기"
+  },
+  "126": {
+    "Id": 126,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "모두가 꿈속 이세계에서 온 이 흥미로운 놀이를 체험할 수 있도록, 냐코루는 섬에 마작장을 열었습니다.<br>이곳은 대국을 위한 조용한 공간으로, 테이블과 의자가 정갈하고 편안하게 배치되어 누구든 앉는 순간 마음을 가라앉히고 패를 내려놓는 즐거움에 집중할 수 있습니다.",
+    "TextTitle": "마작패 게임"
+  },
+  "127": {
+    "Id": 127,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "냐코루는 늘 말합니다. 꿈은 그대로 복제할 수 없지만, 소원은 이룰 수 있다고요.<br>그리고 냥추첨은 그녀가 소원을 선물의 형태로 포장하는 방식입니다.",
+    "TextTitle": "냥추첨"
+  },
+  "13": {
+    "Id": 13,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "엘리트 몬스터에게 최초로 대미지를 입힌 플레이어나 해당 파티만 목표가 드롭한 전리품 상자를 오픈할 수 있는 권한을 가집니다. 해당 플레이어 및 파티에게 보이는 체력바는 빨간색이며, 다른 플레이어에게는 회색으로 보입니다.",
+    "TextTitle": "몬스터 토벌 - 엘리트"
+  },
+  "14": {
+    "Id": 14,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "몬스터 토벌 화면에서 보스 몬스터를 추적할 수 있습니다!",
+    "TextTitle": "몬스터 토벌 - 보스"
+  },
+  "15": {
+    "Id": 15,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "길드에 가입 후, 개인 활약과 길드 퀘스트 완료를 통해 길드의 주간 활약도를 추가할 수 있습니다. 특정 단계에 도달하면 해당 보상을 획득합니다!",
+    "TextTitle": "길드 주간 활약 보상"
+  },
+  "16": {
+    "Id": 16,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "길드 이벤트 센터가 건설되면 안내원 롤라가 게시하는 안내 퀘스트를 완료해, 센터 내 각 직원의 직책과 길드 내 각종 시설 기능을 익힐 수 있습니다.<br>길드원들과 함께 이벤트 센터 건설에 참여 시, 더 많은 자원을 획득하고, 더 다양한 재미를 경험할 수 있습니다!",
+    "TextTitle": "길드 건설"
+  },
+  "17": {
+    "Id": 17,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "낚싯대를 던지면 찌가 수면에 뜹니다. 물고기가 미끼를 물려하면 잠시 가라앉습니다.<br>물고기가 미끼를 물면 찌가 가라앉은 후 다시 떠오르지 않습니다. 이때 낚싯대를 누르면 물고기를 후킹할 수 있습니다!",
+    "TextTitle": "낚시 팁"
+  },
+  "18": {
+    "Id": 18,
+    "LevelRange": [21, 30],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "같은 어종의 물고기를 사용하면 연구 진행도가 증가하며, 이에 따라 해당 어종의 연구 레벨이 상승합니다. 각종 어종의 연구 결과는 낚시에 추가 보너스를 부여합니다.",
+    "TextTitle": "어종 연구"
+  },
+  "19": {
+    "Id": 19,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "운명의 여정이 모험가에게 준 선물입니다. 열어 풍성한 보상을 획득할 수 있습니다.<br>세계 곳곳을 적극적으로 탐색하며 선물의 흔적을 찾아보세요.",
+    "TextTitle": "보물 상자"
+  },
+  "2": {
+    "Id": 2,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading2",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "능력 점수는 모험가의 육성 상태를 확인할 수 있는 참고 수치입니다. 모험가는 생체 엔그램 레벨을 올리고, 어빌리티, 스킬(클래스 스킬과 배틀 이매진 포함), 장비, 모듈, 완장을 성장시켜 능력 점수를 높일 수 있습니다.",
+    "TextTitle": "능력 점수"
+  },
+  "20": {
+    "Id": 20,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "[바람의 장벽]: 아스테리아의 특이 현상 중 하나. 엔그램 불균형의 영향으로 평원에 해풍이 응집되어 구체 장벽을 형성하고, 내부를 외부와 차단합니다.",
+    "TextTitle": "<아스테리아 평원의 태풍 기후 및 독특한 종의 특성 연구>"
+  },
+  "21": {
+    "Id": 21,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "엔그램 불균형의 영향으로 해류에 영양을 공급받는 평원의 일부 지역에 강한 상승 기류가 발생합니다. 아스텔리즈 사람들은 이를 [풍력장]이라 부릅니다. 풍력장에서 [연속 점프] 사용하여 일정 높이까지 상승 후, [부유, 활공]을 전개하면 바람을 이용해 하늘을 비행할 수 있습니다.",
+    "TextTitle": "<아스테리아 평원의 태풍 기후 및 독특한 종의 특성 연구>"
+  },
+  "22": {
+    "Id": 22,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "[바람의 순환 고리] - 아스테리아의 고공에서는 종종 이와 같이 앞뒤가 연결된 고리 모양의 바람이 발생합니다. 초보적인 추측으로는 평원의 특수한 태풍 기후로 인해 고농도의 바람 원소가 공중에서 응집되며 형성된 것으로 봅니다.",
+    "TextTitle": "<아스테리아 평원의 태풍 기후 및 독특한 종의 특성 연구>"
+  },
+  "23": {
+    "Id": 23,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "버페리아 신족이 남긴 순간 이동 장치. 장치를 활성화하면 해당 장치를 이용해 원거리 순간 이동을 할 수 있다.",
+    "TextTitle": "순간 이동 지점"
+  },
+  "24": {
+    "Id": 24,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "[바람의 통로] - 아스테리아의 특이 현상 중 하나. 엔그램 불균형의 영향으로 평원에 크고 작은 원소 난류 통로가 형성되었습니다. 소형 기류와 상호작용하면 바람의 통로 입구를 바로 열 수 있습니다.",
+    "TextTitle": "<아스테리아 평원의 태풍 기후 및 독특한 종의 특성 연구>"
+  },
+  "25": {
+    "Id": 25,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "지역의 엔그램 라인이 교차하는 지점에서 공명하면 해당 엔그램 라인과 연결을 재구축할 수 있습니다. 공명에 성공하면 해당 엔그램 허브의 구역의 안개가 걷히고 맵 정보가 해제됩니다. 공명에 성공해 연결이 구성된 엔그램 허브는 순간 이동에 사용할 수 있습니다.",
+    "TextTitle": "엔그램 허브"
+  },
+  "26": {
+    "Id": 26,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "월드에는 수많은 태풍 입자가 존재하며, 접촉 시 입자 수집 퀘스트가 발동됩니다. 제한 시간 내에 퀘스트를 완료하면 보상을 획득할 수 있습니다.",
+    "TextTitle": "태풍 입자"
+  },
+  "27": {
+    "Id": 27,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "떠돌이 상인은 매일 세 가지 의뢰를 통해 지정 아이템을 매입합니다. 의뢰 완료 시 가든 경험치와 가든 코인을 획득할 수 있습니다.",
+    "TextTitle": "가든 의뢰"
+  },
+  "28": {
+    "Id": 28,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "일부 가구는 먼저 제작 레시피를 해제해야 제작할 수 있습니다. 지정 목표를 달성하거나 지정 아이템을 제출하면 해당 가구의 제작 레시피를 해제할 수 있습니다.",
+    "TextTitle": "가구 제작"
+  },
+  "29": {
+    "Id": 29,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "월드를 탐색하며 다양한 사람들과 대화해 보세요. 그들의 말 속에 세계의 진실을 암시하는 단서가 숨어 있을지도 모릅니다.",
+    "TextTitle": "중요 메모장"
+  },
+  "3": {
+    "Id": 3,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading3",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "각 클래스마다 고유의 클래스 어빌리티가 있습니다. 마음에 드는 전투 계열을 선택하고, 자유롭게 어빌리티 포인트를 분배하여 전투 능력을 강화할 수 있습니다!",
+    "TextTitle": "어빌리티 분배"
+  },
+  "30": {
+    "Id": 30,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "[빠른 추리] 버튼을 누르면 추리 과정을 스킵하고 추리 결과를 얻을 수 있습니다.",
+    "TextTitle": "중요 메모장"
+  },
+  "31": {
+    "Id": 31,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "필드 맵에는 다양한 유형의 몬스터가 있습니다. 맵을 탐색하고, 필드 몬스터와 전투를 벌여 몬스터 토벌 목표를 완료하면, 보상을 획득하고 토벌 수첩을 레벨업할 수 있습니다.",
+    "TextTitle": "몬스터 토벌"
+  },
+  "32": {
+    "Id": 32,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "일반 몬스터 외에도 필드에는 강력한 엘리트 몬스터와 보스 몬스터가 존재합니다. 이들을 토벌하면 전리품 상자가 드롭되며, 열쇠를 사용해 오픈 시 희귀 보상을 획득할 수 있습니다.",
+    "TextTitle": "몬스터 토벌"
+  },
+  "33": {
+    "Id": 33,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "엘리트 및 보스 몬스터를 처치할 때마다 경험치, 시즌 포인트, 루노를 획득합니다. 일정 확률로 희귀 몬스터 재료를 획득하고, 보스 처치 시 장비를 획득할 확률도 있습니다.",
+    "TextTitle": "몬스터 토벌"
+  },
+  "34": {
+    "Id": 34,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "엘리트 몬스터에게 최초로 대미지를 입힌 플레이어나 해당 파티만 목표가 드롭한 전리품 상자를 오픈할 수 있는 권한을 가집니다. 해당 플레이어 및 파티에게 보이는 체력바는 빨간색이며, 다른 플레이어에게는 회색으로 보입니다.",
+    "TextTitle": "몬스터 토벌 - 엘리트"
+  },
+  "35": {
+    "Id": 35,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "몬스터 토벌 화면에서 보스 몬스터를 추적할 수 있습니다!",
+    "TextTitle": "몬스터 토벌 - 보스"
+  },
+  "36": {
+    "Id": 36,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "플레이어가 대시 회피로 적의 공격을 피하는데 성공하면, 극한 회피가 발동하여 이번 대미지에 면역되고, 다음 일반 공격이 강화됩니다. 일부 엘리트나 보스 적이 위험 스킬을 시전하면 스킬 시전과 동시에 붉은빛이 나타납니다.",
+    "TextTitle": "극한 회피"
+  },
+  "37": {
+    "Id": 37,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "적의 위험 스킬이 자신에게 적중하는 순간 극한 회피가 발동되어 적의 공격을 반격하고, 적을 허약 상태에 빠뜨릴 수 있습니다.<br>주의: 반격에 성공 시, 플레이어는 이번 대미지에 면역됩니다.",
+    "TextTitle": "반격"
+  },
+  "38": {
+    "Id": 38,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "엘리트 및 보스 몬스터가 가진 독특한 메커니즘으로, 공격이 명중할 때마다 목표의 슈퍼 아머 값이 감소됩니다.<br>슈퍼 아머가 초기화되면 격파가 발동되어 몬스터의 행동이 즉시 중단되고 일정 시간동안 허약 상태에 빠집니다.<br>제어 계열 스킬은 슈퍼 아머를 더 효율적으로 감소시킬 수 있습니다.",
+    "TextTitle": "슈퍼 아머 게이지"
+  },
+  "39": {
+    "Id": 39,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "적이 단일 목표에게 강력한 공격을 가합니다. 범위 내 파티원들은 그 대미지를 분담할 수 있습니다.",
+    "TextTitle": "분담"
+  },
+  "4": {
+    "Id": 4,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading4",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "원하는 클래스 스킬을 장착하고, 이를 업그레이드 및 승급하면 전투력이 대폭 상승합니다!",
+    "TextTitle": "스킬 육성"
+  },
+  "40": {
+    "Id": 40,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "보스가 강력한 연속 스킬을 시전할 때 카운트다운을 주의하며 신속히 대응하세요.",
+    "TextTitle": "메커니즘 게이지"
+  },
+  "41": {
+    "Id": 41,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "집중 공격 표식을 받은 목표는 짧은 시간 내에 빠르게 처치해야 하며, 처치하지 못할 경우 치명적인 결과가 발생할 수 있습니다.",
+    "TextTitle": "집중 공격 표식"
+  },
+  "42": {
+    "Id": 42,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "머리 위에 지정 표식이 나타나면 다가올 스킬에 주의하며 대응해야 합니다.",
+    "TextTitle": "지정 표식"
+  },
+  "43": {
+    "Id": 43,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(101)*}] 키를 길게 누르면 채팅 화면에 들어갈 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "44": {
+    "Id": 44,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(124)*}] 키를 누르면 빠른 설명을 열 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "45": {
+    "Id": 45,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(25)*}] 키를 누르면 추가 스킬을 사용할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "46": {
+    "Id": 46,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(143)*}] 키를 누르면 현재 UI를 숨길 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "47": {
+    "Id": 47,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(34)*}] 키를 누르면 자동 전투를 열기/닫기 할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "48": {
+    "Id": 48,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(140)*}] 키를 누르면 카메라를 켤 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "49": {
+    "Id": 49,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(8)*}] 키를 누르면 현재 화면을 닫을 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "5": {
+    "Id": 5,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading5",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "모험가는 자신의 현재 전투 포지션(공격, 지원, 수호)에 맞춰 배틀 이매진 스킬을 조합할 수 있으며, 이를 통해 전투 효율을 극대화할 수 있습니다!",
+    "TextTitle": "배틀 이매진"
+  },
+  "50": {
+    "Id": 50,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(115)*}] 키를 누르면 퀵 슬롯을 열 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "51": {
+    "Id": 51,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(115)*}] 키를 누르면 퀵 슬롯을 열 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "52": {
+    "Id": 52,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(34)*}] 키를 누르면 자동 전투를 열기/닫기 할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "53": {
+    "Id": 53,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(143)*}] 키를 누르면 현재 UI를 숨길 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "54": {
+    "Id": 54,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(140)*}] 키를 누르면 카메라를 켤 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "55": {
+    "Id": 55,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(155)*}] / [{*key.getKeyDesc(165)*}] 키를 누르면 채팅 채널을 전환할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "56": {
+    "Id": 56,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(102)*}] 키를 누르면 채팅 화면에 들어갈 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "57": {
+    "Id": 57,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(124)*}] 키를 누르면 빠른 설명을 열 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "58": {
+    "Id": 58,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(25)*}] 키를 누르면 추가 스킬을 사용할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "59": {
+    "Id": 59,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(8)*}] 키를 누르면 현재 화면을 닫을 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "6": {
+    "Id": 6,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading6",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "재련: 장비 능력치를 리셋하고, 장비의 완성도를 높여 장비 능력치와 효과를 더욱 완벽하게 만듭니다.",
+    "TextTitle": "장비 재련"
+  },
+  "60": {
+    "Id": 60,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "플레이어가 내비게이션 라이드에 탑승 시, [{*key.getKeyDesc(154)*}] 키를 길게 누르면 현재 추적 목표에 대한 자동 내비게이션이 진행됩니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "61": {
+    "Id": 61,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(27)*}] 키를 누르면 현재 진행 중인 퀘스트를 추적할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "62": {
+    "Id": 62,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(118)*}] 키를 누르면 현재 수락한 퀘스트 목록을 확인할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "63": {
+    "Id": 63,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(27)*}] 키를 누르면 현재 진행 중인 퀘스트를 추적할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "64": {
+    "Id": 64,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(118)*}] 키를 누르면 현재 수락한 퀘스트 목록을 확인할 수 있습니다.",
+    "TextTitle": "키 설정 팁"
+  },
+  "65": {
+    "Id": 65,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "마그나 대륙에서 널리 사용되는 화폐로, 버페리아 교단이 관리와 주조를 담당합니다.<br>주조 재료는 엔그램을 함유한 귀금속입니다.<br>루노의 주조 공예는 매우 정교하여 사실상 위조가 불가능합니다.",
+    "TextTitle": "루노"
+  },
+  "66": {
+    "Id": 66,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "일종의 고대 <style=\"emph-gn\">버페리아 유산</style>으로, 순간 이동 지점을 접촉한 생물을 엔그램 라인이 곳곳에 퍼져 있는 또 다른 순간 이동 지점으로 순간 이동시키며, 그 원리는 아직 명확하지 않습니다.<br>순간 이동 지점을 통해 대량의 화물은 운송할 수 없으며, 휴대 가능한 소량의 물자만 순간 이동할 수 있습니다.",
+    "TextTitle": "순간 이동 지점"
+  },
+  "67": {
+    "Id": 67,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "도시 북쪽 번화가에 위치한 유서 깊은 여관입니다.<br>식사, 숙박, 특제 음료 등 서비스를 제공합니다. 번화가 중심부에 위치해 있어 높은 인지도를 자랑합니다.<br>주인 윌버트는 인자한 아저씨로, 말할 때 번하르트 말투가 섞여있습니다.",
+    "TextTitle": "동전 주점"
+  },
+  "68": {
+    "Id": 68,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "독립을 기념하기 위해 의회가 1년에 한 번 여는 전국적인 경축일입니다.<br>명절 당일 아스텔리즈에는 화려한 색 테이프가 흩날리고, 시민들은 자기 집 앞에 활짝 핀 바다나리를 두고 축복과 평화를 기원합니다. 도심지에서는 각종 시 낭송회・퍼레이드, 유원지 파티 등 특별한 축제가 개최됩니다.",
+    "TextTitle": "해풍절과 유원지 파티"
+  },
+  "69": {
+    "Id": 69,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "왜곡된 엔그램으로, 출처를 알 수 없으며, 겉모습은 검은 안개와 비슷합니다.<br>침식의 안개가 나타나면 주변 공간의 엔그램 에너지가 뒤섞여 매우 위험해집니다.<br>또한, 침식의 안개는 엔그램과 중화 반응을 일으킵니다. 침식의 안개를 제거하는 유일한 방법은 오염된 지역에 대량의 엔그램을 주입하는 것입니다.",
+    "TextTitle": "침식의 안개"
+  },
+  "7": {
+    "Id": 7,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading7",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "정제: 장비 효과를 대폭 향상시킬 수 있으며, 성공할 수도 있고, 실패할 수도 있습니다. 실패해도 레벨은 하락하지 않습니다!",
+    "TextTitle": "장비 정제"
+  },
+  "70": {
+    "Id": 70,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "엔그램은 보이지 않는 엔그램 라인 속을 흐르며, 만물에 영양을 공급하는 이 세계의 근원 에너지입니다.<br>종족마다 엔그램에 대한 이해와 활용 방식은 다르며, 이는 이 세계의 다원화를 나타냅니다.",
+    "TextTitle": "엔그램"
+  },
+  "71": {
+    "Id": 71,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "생명체 내부를 흐르는 엔그램으로, 생명의 근원을 지탱하는 힘입니다.",
+    "TextTitle": "생체 엔그램"
+  },
+  "72": {
+    "Id": 72,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "신족이 떠난 후 남겨진 대량의 과학 기술 산물.<br>인간의 개조를 거쳐 놀라운 강한 기능을 발휘하며, 현재는 인간 사회 전반에 널리 사용되고 있습니다. 수량이 희소해 교단과 개척국이 일괄적으로 수집한 후 각 계층에 분배하지만, 그 핵심 원리는 아직 밝혀지지 않았습니다.",
+    "TextTitle": "버페리아 유산"
+  },
+  "73": {
+    "Id": 73,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "모험가의 활동을 지원하고, 버페리아 유적을 발굴하며, 몬스터를 토벌하는 세계적 조직입니다.<br>개척국은 정치적으로 중립을 지향하며, 어느 국가에도 속하지 않습니다.<br>아스텔리즈 지국의 책임자는 '아이디어 뱅크'라 불리는 발레리아입니다.",
+    "TextTitle": "개척국"
+  },
+  "74": {
+    "Id": 74,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "엔그램은 그물망 형태의 엔그램 라인으로 레그나스 행성에 퍼져 있습니다.<br>엔그램 라인이 그물망 형태로 집결된 곳을 엔그램 허브라 부르며, 엔그램 농도가 훨씬 높고, 에너지도 더 강합니다.",
+    "TextTitle": "엔그램 허브"
+  },
+  "75": {
+    "Id": 75,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "바람 원소가 강하게 충돌하면 바람 영역이라 불리는 신기한 현상이 발생합니다.<br>바람 영역 안에는 풍부한 바람 원소가 가득하며, 육안으로 보이지 않는 바람 고리를 형성하고 있습니다. 엔그램과 공명할 수 있는 능력이 있다면, 이 바람 고리를 이용해 공중에서 활공할 수 있습니다.",
+    "TextTitle": "바람 고리와 바람 영역"
+  },
+  "76": {
+    "Id": 76,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "아스테리아 평원의 최남단에 위치한 번화한 항구 도시입니다.<br>과거 번하르트가 영토 확장을 위해 건설한 식민지였으나, 이후 자치 발전을 통해 무역 허브로 성장했습니다.<br>오늘날 아스텔리즈는 포용적인 문화와 발달한 상업으로 유명하며, 세계 각지의 상인과 모험가들을 끌어들이고 있습니다.",
+    "TextTitle": "아스텔리즈"
+  },
+  "77": {
+    "Id": 77,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "무역 도시 아스텔리즈 인근의 평원 지대입니다.<br>지형이 넓고, 환상적인 색채를 띠며 초원, 유적 등 지형이 분포되어 있어 탐색할 거리가 풍부합니다. 평원에는 고대 카나미아족, 자유분방한 고물상, 공격성이 극도로 강한 아인족과 산적단 등 여러 조직이 활동하고 있습니다.",
+    "TextTitle": "아스테리아 평원"
+  },
+  "78": {
+    "Id": 78,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "아스테리아 평원 중앙에 위치한 마을입니다.<br>비옥한 토지 덕분에 생산되는 곡물, 채소, 과일은 인기가 많습니다. 아스테리아 평원과 바하마르 고원을 잇는 무역로에 위치해 있어, 주민들과 아스텔리즈 간의 무역이 굉장히 활발합니다.",
+    "TextTitle": "민스터혼"
+  },
+  "79": {
+    "Id": 79,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "버페리아 유산에 크게 의존하는 현대 문명과 달리,<br>평원의 카나미아족은 훨씬 소박하고, 온화하며, 자연을 숭상합니다.<br>그들은 조상을 숭배하며, 이를 <style=\"emph-gn\">선조의 혼</style>이라 부릅니다.",
+    "TextTitle": "카나미아족"
+  },
+  "8": {
+    "Id": 8,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading8",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "정제 시 축복 아이템을 사용하면 성공 확률이 올라갑니다.<br>같은 부위 장비로 교체할 경우, 정제 시 자동으로 이전됩니다.",
+    "TextTitle": "장비 정제"
+  },
+  "80": {
+    "Id": 80,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "독립 전쟁에서 희생된 이들을 기리기 위해,<br>주민들이 자발적으로 희생자 이름과 생애를 나무에 새겨 고대도시 빌 인근 절벽에 설치했습니다. 이는 고향을 지키겠다는 의미를 담고 있습니다.<br>의회가 이에 주목하여 이곳을 영웅의 조각상으로 개조했습니다.",
+    "TextTitle": "영웅의 조각상"
+  },
+  "81": {
+    "Id": 81,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "아스테리아의 파도 해안선을 따라 거대한 협곡이 대지의 균열처럼 솟아 있습니다.<br>이곳에는 사시사철 섬뜩한 바람 소리가 메아리쳐, 마치 거대한 늑대의 울음소리처럼 들립니다.<br>암벽에는 얼룩덜룩한 조각상과 기호들이 남아 있어 고대 문명의 소멸과 잔존을 보여주는 듯합니다.",
+    "TextTitle": "하울링 협곡"
+  },
+  "82": {
+    "Id": 82,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "아스텔리즈는 거대한 도시로, 방대한 지하 배수망을 가지고 있습니다.<br>이곳은 햇빛이 들지 않는 음침한 곳으로, 어둠이 자라는 장소입니다.<br>의회와 수비병의 영향력도 거의 미치지 못해, 불법 세력이 모여드는 집결지가 되었습니다.",
+    "TextTitle": "지하 거리"
+  },
+  "83": {
+    "Id": 83,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "재앙의 바다는 아스텔리즈 인근의 고위험 해역으로, 험난한 해상 환경과 잦은 해난 사고로 악명이 높습니다.<br>이 해역의 가장 큰 특징은 수백 미터 직경의 거대한 소용돌이로,<br>강력한 비틀림이 선체를 산산조각 내어 잔해를 주변 바다에 흩뿌려, 뚜렷한 파편띠를 형성합니다.",
+    "TextTitle": "재앙의 바다"
+  },
+  "84": {
+    "Id": 84,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "안드라 폐허 도시는 버페리아 교단이 성지로 지정한 곳 중 하나입니다.<br>폐허 내부에는 수많은 몬스터가 서식하고 있어, 교단은 외곽에만 경계 초소를 세웠습니다.<br>최근 탐사에 따르면 현존하는 구조물은 옛 도시의 상부에 불과하며, 폐허 도시의 대부분은 여전히 지하 깊숙이 묻혀 있습니다.",
+    "TextTitle": "폐허 아래 도시"
+  },
+  "85": {
+    "Id": 85,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "라이드 이매진들은 자동 추적 내비게이션 능력뿐만 아니라, 각자 고유한 스킬도 보유하고 있습니다!",
+    "TextTitle": "라이드"
+  },
+  "86": {
+    "Id": 86,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "원하는 감정 액션을 길게 누르면 즐겨찾기 목록에 추가할 수 있습니다.",
+    "TextTitle": "감정 액션"
+  },
+  "87": {
+    "Id": 87,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "물고기를 자랑할 때, 자유롭게 이동할 수 있어요!",
+    "TextTitle": "감정 액션"
+  },
+  "88": {
+    "Id": 88,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "촬영 기능의 전투 모드에서는 모험가가 스킬을 시전하는 멋진 순간을 포착할 수 있습니다!",
+    "TextTitle": "촬영"
+  },
+  "89": {
+    "Id": 89,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "다른 플레이어가 감정 액션을 진행 중일 때, 상대를 멀티 촬영 파티에 초대하면, 액션 진행도 바를 드래그해서 상대의 액션 상태를 직접 조절할 수 있어요~",
+    "TextTitle": "촬영"
+  },
+  "9": {
+    "Id": 9,
+    "LevelRange": [31, 40],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "장비에 장착을 진행하여 보석이 보유한 능력치를 장비에 부여할 수 있습니다. 중급 또는 소켓 방식을 선택해 더 높은 레벨의 보석 효과를 획득할 수 있습니다!",
+    "TextTitle": "보석 장착"
+  },
+  "90": {
+    "Id": 90,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "길드 관리자는 길드 내 축복의 샘에서 전체 길드원에게 적용되는 버프 효과를 선택할 수 있어요~",
+    "TextTitle": "길드 축복의 샘"
+  },
+  "91": {
+    "Id": 91,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "파티 상태에서는 같은 필드에 있는 파티원의 프로필을 맵에서 볼 수 있습니다.",
+    "TextTitle": "파티"
+  },
+  "92": {
+    "Id": 92,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "파티 시 맵 채널을 전환하면, 다른 채널에 있는 파티원의 프로필도 확인할 수 있습니다.",
+    "TextTitle": "파티"
+  },
+  "93": {
+    "Id": 93,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "던전에서 추천하는 직책 조합을 충족하면, 파티 상태에서도 매칭에 참여할 수 있습니다! 얼른 동료들과 함께 매칭 플레이를 시작하고 힘을 합쳐 도전해 보세요!",
+    "TextTitle": "매칭"
+  },
+  "94": {
+    "Id": 94,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "가든 꽃 심기 콘텐츠에서 물 주기와 비료 주기를 통해 식물의 성장 시간을 단축할 수 있습니다.",
+    "TextTitle": "가든・꽃 심기"
+  },
+  "95": {
+    "Id": 95,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "가든의 꽃 심기 콘텐츠에서 꽃의 색과 형태는 재배 시 교배 결과에 따라 결정됩니다.",
+    "TextTitle": "가든・꽃 교잡"
+  },
+  "96": {
+    "Id": 96,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "가든 꽃 심기 콘텐츠에서 꽃이 수분기일 때, 모험가는 직접 수분을 시도할 수 있습니다.<br>수분된 식물은 개화 후 사용된 꽃가루의 유전 형질 절반을 이어받습니다.",
+    "TextTitle": "가든・직접 수분"
+  },
+  "97": {
+    "Id": 97,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "가든 꽃 심기 콘텐츠에서 꽃이 수분기에 모험가가 인공 수분하지 않으면, 성장 시 근처의 다른 성장한 꽃의 꽃가루 영향을 받아 개회 시 결과가 결정됩니다.",
+    "TextTitle": "가든・수동 교잡"
+  },
+  "98": {
+    "Id": 98,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "가든 꽃 심기 콘텐츠에서 자신이 심은 꽃이 성장하면 꽃과 씨앗을 수확할 수 있으며, 친구도 해당 꽃가루를 수확할 수 있습니다.",
+    "TextTitle": "가든・수확"
+  },
+  "99": {
+    "Id": 99,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "가구 제작 효율을 높이고 싶으세요? 친한 친구를 집에 초대해 동거해 보세요! 동거하는 동료가 많을수록 가든 제작대의 대기열도 늘어납니다~",
+    "TextTitle": "가든・가구 제작"
+  }
+}

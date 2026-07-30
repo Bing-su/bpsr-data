@@ -1,0 +1,27 @@
+{
+  "1": {
+    "Id": 1,
+    "LuckDes": "Your next draw is <style=\"accent-gn\">free</style>!",
+    "RecordLuckDes": ""
+  },
+  "2": {
+    "Id": 2,
+    "LuckDes": "Your next draw returns <style=\"accent-gn\">{*val+1*}x</style> bonus Gold Meow Points!",
+    "RecordLuckDes": ""
+  },
+  "3": {
+    "Id": 3,
+    "LuckDes": "Probability of drawing <style=\"accent-gn\">{*val1*}</style> is increased to <style=\"accent-gn\">{*val2*}%</style> for the next draw!",
+    "RecordLuckDes": "Probability of drawing <style=\"accent-gn\">{*val*}</style> is increased for the next draw!"
+  },
+  "4": {
+    "Id": 4,
+    "LuckDes": "You will not draw <style=\"accent-gn\">{*val*}</style> in the next draw!",
+    "RecordLuckDes": ""
+  },
+  "999": {
+    "Id": 999,
+    "LuckDes": "None!",
+    "RecordLuckDes": ""
+  }
+}

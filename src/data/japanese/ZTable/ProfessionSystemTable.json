@@ -1,0 +1,544 @@
+{
+  "1": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_03",
+    "Id": 1,
+    "Index": 7,
+    "Intro": "<color=#fcbe03>月鎌刀</color>を武器とした<color=#fcbe03>近接戦闘</color>を得意とする。長刀と鎌を自在に切り替えながら戦うことができ、<color=#fcbe03>小範囲への攻撃</color>に優れている。",
+    "IsOpen": true,
+    "LineFeedName": "ストーム<br>ブレイド",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_4",
+    "MasteryDes": [
+      ["", "器用さ1%につき、雷印を消費するスキルのダメージ+3.4%<br>"],
+      ["", "器用さ1%につき迅雷連斬、雷霆鎌、審罰鎌のダメージ+1.2%<br>"]
+    ],
+    "Name": "ストームブレイド",
+    "NormalAttackSkill": [1701],
+    "NormalSkill": [1705, 1717, 1718, 1719, 1724, 1730, 1731, 1720],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[]],
+    "ProfessionId": 1,
+    "ProfessionStarExtraItem": [[1020001]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [101, 102],
+    "SpecialSkill": [1714],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1715, 1728, 1733, 1734, 1735, 1736, 1737, 1738],
+    "UltimateSkill": [1713],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7310002
+  },
+  "10": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 8,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 10,
+    "Index": 11,
+    "Intro": "中/近距離武器、協力攻撃能力を有する。",
+    "IsOpen": false,
+    "LineFeedName": "ソウルダンス・儀刀/儀仗",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "闇属性ダメージ追加<br>"],
+      ["", "闇属性ダメージ追加<br>"]
+    ],
+    "Name": "ソウルダンス・儀刀/儀仗",
+    "NormalAttackSkill": [2101],
+    "NormalSkill": [2107],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052408, 1052416, 1052424, 1052301, 1052307, 1052303]],
+    "ProfessionId": 10,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2105],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2108],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7380001
+  },
+  "11": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_07",
+    "Id": 11,
+    "Index": 3,
+    "Intro": "<color=#fcbe03>弓</color>を武器とした<color=#fcbe03>遠距離戦闘</color>を得意とする。臣獣を使役し共に戦うことで優れた<color=#fcbe03>広範囲攻撃</color>能力を持っている。",
+    "IsOpen": true,
+    "LineFeedName": "ディバイン<br>アーチャー",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_6",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_6",
+    "MasteryDes": [
+      ["", "器用さ1%につき臣獣のダメージ+2.75%<br>"],
+      ["", "器用さ1%につき光属性ボーナス+0.6%<br>"]
+    ],
+    "Name": "ディバインアーチャー",
+    "NormalAttackSkill": [2201],
+    "NormalSkill": [2230, 2232, 2237, 2233, 2234, 2231, 2238, 2235],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052314, 1052305]],
+    "ProfessionId": 11,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [116, 117],
+    "SpecialSkill": [2220],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [2224, 2240],
+    "UltimateSkill": [2209],
+    "UnlockCondition": [[2, 170103, 2]],
+    "WeaponSkinId": 7390002
+  },
+  "12": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 12,
+    "Index": 5,
+    "Intro": "光の加護を持つ<color=#fcbe03>剣と盾</color>を武器とした<color=#fcbe03>近接戦闘</color>を得意とする。加護の光により優れた<color=#fcbe03>防御力</color>と<color=#fcbe03>自己治癒</color>能力を発揮する。",
+    "IsOpen": true,
+    "LineFeedName": "シールド<br>ファイター",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_7",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_7",
+    "MasteryDes": [
+      ["", "器用さ1%につき光明の盾の取得効率+2.5%、全属性耐性+0.2%<br>"],
+      ["", "器用さ1%につき光盾障壁のHPブースト効果+3%、全属性耐性+0.2%<br>"]
+    ],
+    "Name": "シールドファイター",
+    "NormalAttackSkill": [2401],
+    "NormalSkill": [2410, 2412, 2408, 2421, 2420, 2415, 2419, 2409],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052310, 1052308]],
+    "ProfessionId": 12,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [122, 123],
+    "SpecialSkill": [2405],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [2406, 2411, 2413, 2416, 2417, 2425],
+    "UltimateSkill": [2407],
+    "UnlockCondition": [[2, 170106, 2]],
+    "WeaponSkinId": 7400002
+  },
+  "13": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_08",
+    "Id": 13,
+    "Index": 8,
+    "Intro": "楽器<color=#fcbe03>ギター・ソノリス</color>を武器とした<color=#fcbe03>近・遠距離戦闘</color>を得意とする。攻撃によって味方に<color=#fcbe03>治療効果</color>と<color=#fcbe03>能力の向上</color>を付与する優れた<color=#fcbe03>サポート</color>能力を有する。",
+    "IsOpen": true,
+    "LineFeedName": "ビート<br>パフォーマー",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_8",
+    "MasteryDes": [
+      ["", "器用さ1%につきピースフルロンドのボーナス変換効果+1%<br>"],
+      ["", "器用さ1%につきヒーリングメロディーの減衰速度-0.35%<br>"]
+    ],
+    "Name": "ビートパフォーマー",
+    "NormalAttackSkill": [2321],
+    "NormalSkill": [2308, 2309, 2310, 2311, 2312, 2313, 2315, 2316],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052304, 1052306]],
+    "ProfessionId": 13,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [119, 120],
+    "SpecialSkill": [2306],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [2307, 2317, 2332, 2335, 2336],
+    "UltimateSkill": [2314],
+    "UnlockCondition": [[2, 170107, 2]],
+    "WeaponSkinId": 7410002
+  },
+  "14": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 0,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 14,
+    "Index": 98,
+    "Intro": "<color=#fcbe03>遠距離</color>戦闘を得意とし、優れた攻撃能力を有する。<br>遠方からの高頻度攻撃で広範囲のエネミーにダメージを与える。<color=#fcbe03>刻印確率ボーナス</color>を追求すると発動頻度が上がる。<br>近場で<color=#fcbe03>チャージ</color>して大量の爆発ダメージを叩き出すことも可能。<color=#fcbe03>会心確率</color>を追求すれば多大な収益をもたらす。",
+    "IsOpen": false,
+    "LineFeedName": "ルーシィ",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "会心ダメージがアップ<br>"],
+      ["", "会心ダメージがアップ<br>"]
+    ],
+    "Name": "ルーシィ",
+    "NormalAttackSkill": [2501],
+    "NormalSkill": [2505],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 14,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2504],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2506],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7420001
+  },
+  "15": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 15,
+    "Index": 97,
+    "Intro": "<color=#fcbe03>遠距離</color>戦闘を得意とし、優れた攻撃能力を有する。<br>遠方からの高頻度攻撃で広範囲のエネミーにダメージを与える。<color=#fcbe03>刻印確率ボーナス</color>を追求すると発動頻度が上がる。<br>近場で<color=#fcbe03>チャージ</color>して大量の爆発ダメージを叩き出すことも可能。<color=#fcbe03>会心確率</color>を追求すれば多大な収益をもたらす。",
+    "IsOpen": false,
+    "LineFeedName": "ナツ",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "会心ダメージがアップ<br>"],
+      ["", "会心ダメージがアップ<br>"]
+    ],
+    "Name": "ナツ",
+    "NormalAttackSkill": [2601],
+    "NormalSkill": [2605],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 15,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2604],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2606],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7430001
+  },
+  "2": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 2,
+    "Icon": "ui/atlas/profession/profession_horizontal_05",
+    "Id": 2,
+    "Index": 4,
+    "Intro": "<color=#fcbe03>氷魔の杖</color>を武器とした<color=#fcbe03>遠距離戦闘</color>を得意とする。氷の力を操り<color=#fcbe03>広範囲攻撃</color>と<color=#fcbe03>行動制限</color>に特化している",
+    "IsOpen": true,
+    "LineFeedName": "フロストメイジ",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_3",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_3",
+    "MasteryDes": [
+      ["", "器用さ1%につき氷属性ボーナス+0.65%<br>"],
+      [
+        "",
+        "器用さ1%につき凍源の取得効率+1%、氷属性ボーナス+0.2%<br>器用さ強化：器用さ1%につき氷属性ボーナス変換率+3%<br>"
+      ]
+    ],
+    "Name": "フロストメイジ",
+    "NormalAttackSkill": [1201],
+    "NormalSkill": [1239, 1211, 1244, 1210, 1240, 1243, 1246, 1245],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052402, 1052410, 1052418, 1052301, 1052307, 1052308]],
+    "ProfessionId": 2,
+    "ProfessionStarExtraItem": [[1020002]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [104, 105],
+    "SpecialSkill": [1242],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1241],
+    "UltimateSkill": [1248],
+    "UnlockCondition": [[2, 170102, 2]],
+    "WeaponSkinId": 7320002
+  },
+  "3": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_09",
+    "Id": 3,
+    "Index": 9,
+    "Intro": "<color=#fcbe03>双斧</color>を武器とした<color=#fcbe03>近接戦闘</color>を得意とする。火の猛攻により攻撃を加速させることができ、<color=#fcbe03>小範囲攻撃</color>能力に優れている。",
+    "IsOpen": true,
+    "LineFeedName": "ツイン<br>ストライカー",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_9",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_9",
+    "MasteryDes": [
+      [
+        "",
+        "器用さ1%につきツインラッシュ、ラースアクス、アクススパイラルのリキャスト加速+3.2%、物理攻撃力+0.2%<br>"
+      ],
+      ["", "器用さ1%につき火属性ボーナス+0.72%<br>"]
+    ],
+    "Name": "ツインストライカー",
+    "NormalAttackSkill": [1601],
+    "NormalSkill": [1607, 1608, 1612, 1613, 1614, 1615, 1616, 1617],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052302, 1052303]],
+    "ProfessionId": 3,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [128, 129],
+    "SpecialSkill": [1605],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1618],
+    "UnlockCondition": [[2, 170108, 2]],
+    "WeaponSkinId": 7330002
+  },
+  "4": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 5,
+    "Icon": "ui/atlas/profession/profession_horizontal_02",
+    "Id": 4,
+    "Index": 6,
+    "Intro": "<color=#fcbe03>穿雲槍</color>を武器とした<color=#fcbe03>近接戦闘</color>を得意とする。風が流れるような槍裁きで<color=#fcbe03>小範囲攻撃</color>に長けている。",
+    "IsOpen": true,
+    "LineFeedName": "ゲイルランサー",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_2",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_2",
+    "MasteryDes": [
+      [
+        "",
+        "器用さ1%につき風属性ボーナス+0.35%<br>器用さ強化：器用さ1%につき風属性ボーナス変換率+3%<br>"
+      ],
+      ["", "器用さ1%につき風属性ボーナス+0.65%<br>"]
+    ],
+    "Name": "ゲイルランサー",
+    "NormalAttackSkill": [1401],
+    "NormalSkill": [1420, 1421, 1422, 1425, 1424, 1430, 1431, 1423],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052404, 1052412, 1052420, 1052301, 1052310, 1052303]],
+    "ProfessionId": 4,
+    "ProfessionStarExtraItem": [[1020004]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [107, 108],
+    "SpecialSkill": [1418],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1409, 1410, 1411, 1419, 1433, 1434, 1435],
+    "UltimateSkill": [1426],
+    "UnlockCondition": [[2, 170101, 2]],
+    "WeaponSkinId": 7340002
+  },
+  "5": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 4,
+    "Icon": "ui/atlas/profession/profession_horizontal_04",
+    "Id": 5,
+    "Index": 1,
+    "Intro": "<color=#fcbe03>仙輪</color>を武器とした<color=#fcbe03>遠距離回復</color>を得意とする。森の生命力による<color=#fcbe03>回復</color>と<color=#fcbe03>支援</color>の能力に優れている。",
+    "IsOpen": true,
+    "LineFeedName": "ヴァーダント<br>オラクル",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
+    "MasteryDes": [
+      ["", "器用さ1%につき森属性ボーナス+0.75%、バリア強度+0.3%<br>"],
+      ["", "器用さ1%につき回復力+1%<br>"]
+    ],
+    "Name": "ヴァーダントオラクル",
+    "NormalAttackSkill": [1501],
+    "NormalSkill": [1519, 1520, 1522, 1523, 1521, 1531, 1529, 1524],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052406, 1052414, 1052422, 1052301, 1052314, 1052313]],
+    "ProfessionId": 5,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [110, 111],
+    "SpecialSkill": [1518],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [1507, 1525, 1527, 1528, 1541],
+    "UltimateSkill": [1509],
+    "UnlockCondition": [[2, 170104, 2]],
+    "WeaponSkinId": 7350002
+  },
+  "8": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 8,
+    "Index": 99,
+    "Intro": "<color=#fcbe03>遠距離</color>戦闘を得意とし、優れた攻撃能力を有する。<br>遠方からの高頻度攻撃で広範囲のエネミーにダメージを与える。<color=#fcbe03>刻印確率ボーナス</color>を追求すると発動頻度が上がる。<br>近場で<color=#fcbe03>チャージ</color>して大量の爆発ダメージを叩き出すことも可能。<color=#fcbe03>会心確率</color>を追求すれば多大な収益をもたらす。",
+    "IsOpen": false,
+    "LineFeedName": "サンダーフラッシュ・ハンドキャノン",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "雷属性ダメージ追加<br>"],
+      ["", "雷属性ダメージ追加<br>"]
+    ],
+    "Name": "サンダーフラッシュ・ハンドキャノン",
+    "NormalAttackSkill": [1801],
+    "NormalSkill": [1807],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 8,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [1806],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1808],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7360001
+  },
+  "9": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 6,
+    "Icon": "ui/atlas/profession/profession_horizontal_06",
+    "Id": 9,
+    "Index": 2,
+    "Intro": "<color=#fcbe03>重戦刃</color>を武器とした<color=#fcbe03>近接戦闘</color>を得意とする。岩石を凝集させて身を守り、優れた<color=#fcbe03>防御力</color>と<color=#fcbe03>フィールド制御</color>能力を有する。",
+    "IsOpen": true,
+    "LineFeedName": "ヘヴィ<br>ガーディアン",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_1",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_1",
+    "MasteryDes": [
+      ["", "器用さ1%につきバリア強度+2.5%<br>"],
+      ["", "器用さ1%につきレジストダメージ軽減と幸運レジストダメージ軽減+0.2%<br>"]
+    ],
+    "Name": "ヘヴィガーディアン",
+    "NormalAttackSkill": [1901],
+    "NormalSkill": [1924, 1927, 1936, 1926, 1937, 1925, 1938, 1923],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052405, 1052413, 1052421, 1052301, 1052302, 1052309]],
+    "ProfessionId": 9,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [113, 114],
+    "SpecialSkill": [1922],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [1932, 1933, 1939, 1940, 1941, 1942, 1943, 1944],
+    "UltimateSkill": [1907],
+    "UnlockCondition": [[2, 170105, 2]],
+    "WeaponSkinId": 7370002
+  }
+}

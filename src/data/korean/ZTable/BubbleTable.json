@@ -1,0 +1,275 @@
+{
+  "1001": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. 병사 주위에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
+      "2. 여정 중에 몬스터를 처치하면 포인트를 추가로 획득할 수 있습니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1001,
+    "Name": "고대도시 빌 순찰",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1002": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. 병사 주위에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
+      "2. 여정 중에 몬스터를 처치하면 포인트를 추가로 획득할 수 있습니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1002,
+    "Name": "산적 영지 순찰",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1003": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. 전사 주위에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
+      "2. 여정 중에 몬스터를 처치하면 포인트를 추가로 획득할 수 있습니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1003,
+    "Name": "무크 영지 순찰",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2001": {
+    "AdditionalTarget": [[24, 1, 8, 200101]],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [15],
+    "AdditionalTargetName": ["구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다."],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2001,
+    "Name": "댄스 연습생",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2002": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200201],
+      [24, 1, 8, 200202]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 0],
+    "AdditionalTargetCompleteMaxNum": [50, 100],
+    "AdditionalTargetIdleScore": [50, 25],
+    "AdditionalTargetName": [
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
+      "2. 150초마다 투표 한 장을 획득할 수 있습니다.",
+      "3. 투표 받은 사람은 인기 1pt를 획득하며, 투표 성공 시 추가 포인트를 획득할 수 있습니다.({*val1*}/{*val2*})",
+      "4. 투표를 받은 사람 또한 추가 포인트를 획득할 수 있습니다.({*val1*}/{*val2*})",
+      "5. 인기가 5/10/15/20pt에 도달하면 커집니다.",
+      "6. 보유한 인기는 5분 후 사라지며, 새로운 인기 획득 시 보유 시간이 리셋됩니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2002,
+    "Name": "로드쇼 소극장",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. 금빛 나뽀, 은빛 나뽀 주위에 있으면 주기적으로 포인트를 획득할 수 있습니다. 불꽃놀이 이벤트는 라운드마다 10분 동안 지속됩니다.",
+      "2. 매일 첫 참여 시 대량의 우정 포인트, 실버 스타 배지, 장비 재료를 획득할 수 있습니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2003,
+    "Name": "별과 불꽃의 밤",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "구역 내에서 영혼의 춤을 추면 주기적으로 포인트를 획득할 수 있습니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2004,
+    "Name": "영혼의 춤",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. 구역 안에서 주기적으로 포인트를 획득합니다.",
+      "2. 이벤트 구역에는 변신 가능 구역이 두 곳 존재합니다. 상호작용 시 랜덤 눈꽃 축제 오브젝트로 변신합니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2005,
+    "Name": "일루전 파티",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2008": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200801],
+      [24, 1, 8, 200802]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 1],
+    "AdditionalTargetCompleteMaxNum": [10, 20],
+    "AdditionalTargetIdleScore": [200, 100],
+    "AdditionalTargetName": [
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
+      "2. 빨강,초록,파랑 3종류의 폭죽이 있으며, 15초마다 1개씩 랜덤으로 지급됩니다.",
+      "3. 폭죽 받침대에 폭죽을 채우면 추가 포인트를 ({*val1*}/{*val2*}) 획득합니다.",
+      "4. 채워진 폭죽통을 터뜨리면 지역 내 모든 플레이어가 추가 포인트를 ({*val1*}/{*val2*}) 획득합니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2008,
+    "Name": "불꽃놀이 시연",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2009": {
+    "AdditionalTarget": [[24, 1, 7, 200901]],
+    "AdditionalTargetCompleteCoolDown": [5],
+    "AdditionalTargetCompleteMaxNum": [10],
+    "AdditionalTargetIdleScore": [300],
+    "AdditionalTargetName": [
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
+      "2. 구역 내에 있으면 100초마다 1개의 등불 조각을 획득하며, 3개의 조각을 모으면 봄맞이 등불을 소환할 수 있습니다.",
+      "3. 등불을 날리면 추가 포인트 ({*val1*}/{*val2*}) 획득합니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2009,
+    "Name": "등불 축제",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2010": {
+    "AdditionalTarget": [[24, 1, 11, 201001]],
+    "AdditionalTargetCompleteCoolDown": [0],
+    "AdditionalTargetCompleteMaxNum": [240],
+    "AdditionalTargetIdleScore": [10],
+    "AdditionalTargetName": [
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득합니다.",
+      "2. 댄스팀이 10분마다 춤을 변경합니다. 리듬을 놓치지 말고 함께 춤추세요!",
+      "3. 리드에 따라 함께 춤추면 주기적으로 추가 포인트를 획득합니다({*val1*}/{*val2*})."
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2010,
+    "Name": "빛나는 리듬",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3001": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["리더를 따라 순회하며 포인트 획득"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3001,
+    "Name": "물고기 자랑 퍼레이드",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3002": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["리더를 따라 순회하며 포인트 획득"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3002,
+    "Name": "우리보 기사 퍼레이드",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["이짱 선두를 따라가면 포인트를 획득합니다."],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3003,
+    "Name": "이짱 고적대",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득합니다.",
+      "2. 이벤트 구역에서 상호작용을 통해 응원 또는 함께 춤추기를 하면, 무대 위 성동과 상호작용할 수 있습니다!"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3004,
+    "Name": "오늘 밤, 별과 함께 노래하다",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득합니다.",
+      "2. 이벤트 구역에서 상호작용을 통해 응원 또는 함께 춤추기를 하면, 무대 위 성동과 상호작용할 수 있습니다!"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3005,
+    "Name": "오늘 밤, 별과 함께 노래하다",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "<style=\"physical\">Consome 10</style> de PV para atacar com um Bastão de Madeira.<br>Se o ataque <style=\"physical\">acertar um Perseguidor</style>, <style=\"physical\">restaura 20</style> de PV.<br>Eliminar um Perseguidor restaura totalmente os PV.<br><style=\"physical\">Não pode ser usado quando o PV for insuficiente.</style><br>O dano real é calculado com base na <style=\"physical\">Armadura do objeto em que o Perseguidor se transformou</style>.</style><br><i><style=\"text_third_gray\">\"Um verdadeiro mestre não se importa com a qualidade da sua arma.\"</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "Base Sólida"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "<style=\"physical\">Consome 10</style> de PV para atacar com a Espada de Fafala.<br>Se o ataque <style=\"physical\">acertar um Perseguidor</style>, <style=\"physical\">restaura 20 </style>de PV.<br>Eliminar um Perseguidor restaura totalmente os PV.<br><style=\"physical\">Não pode ser usado quando o PV for insuficiente</style>.<br>O dano real é calculado com base na <style=\"physical\">Armadura do objeto em que o Perseguidor se transformou</style>.<br><style=\"physical\">Efeito Especial da Arma: Caçadores das Sombras próximos restauram PV continuamente e recebem velocidade de movimento aumentada.</style><br><i><style=\"text_third_gray\">\"Espero que isto lhe traga alguma paz...\"</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "Orientação da Névoa Matinal"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "<style=\"physical\">Consome 10</style> de PV para atacar com o montante de Denvel.<br>Se o ataque <style=\"physical\">acertar um Perseguidor</style>, <style=\"physical\">restaura 20</style> de PV.<br>Eliminar um Perseguidor restaura totalmente os PV.<br><style=\"physical\">Não pode ser usado quando o PV for insuficiente</style>.<br>O dano real é calculado com base na <style=\"physical\">Armadura do objeto em que o Perseguidor se transformou</style>.<br><style=\"physical\">Efeito Especial da Arma: Dispara 2 lâminas de energia adicionais e remove todos os objetos não pertencentes a jogadores dentro do alcance.</style><br><i><style=\"text_third_gray\">\"Com isso, purifico as tristezas do passado.\"</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "Lâmina do Enlutado"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "<style=\"physical\">Consome 10</style> de PV para atacar com uma Picareta.<br>Se o ataque <style=\"physical\">acertar um Perseguidor</style>, <style=\"physical\">restaura 20</style> de PV.<br>Eliminar um Perseguidor restaura totalmente os PV.<br><style=\"physical\">Não pode ser usado quando o PV for insuficiente.</style><br>O dano real é calculado com base na <style=\"physical\">Armadura do objeto em que o Perseguidor se transformou</style>.<br><style=\"physical\">Efeito Especial da Arma: Concede um minério aleatório ao atacar:<br>40% de chance de obter Âmbar: Reduz as TRs de todas as habilidades em 0,5 s;<br>40% de chance de obter Benitoíta: Restaura 10 PV;<br>19% de chance de obter Cristal de Dragão: Dispara 5 lâminas de energia em todas as direções;<br>1% de chance de obter Fulgurito: Relâmpagos atingem todos os Perseguidores em um raio de 30 m.</style><br><i><style=\"text_third_gray\">\"Eu também preciso cavar?\"</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "Sonho da Corrida do Ouro"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "<style=\"physical\">Consome 10</style> de HP para atacar com um Bastão de Luz.<br>Se o ataque <style=\"physical\">atingir um Perseguidor</style>, <style=\"physical\">restaura 20</style> de HP.<br>Eliminar um Perseguidor restaura o HP por completo.<br><style=\"physical\">Não pode ser usado quando o HP for insuficiente.</style><br>O dano real é calculado com base na <style=\"physical\">Armadura do objeto no qual o Perseguidor se transformou</style>.<br><style=\"physical\">Efeito Especial da Arma: Usar qualquer habilidade acumula Poder de Dança. Com 50 de Poder de Dança, concede a habilidade Dança Intensa:<br>Ao usar, começa a dançar, restaurando o HP gradualmente, e torna um Perseguidor próximo aleatório o Centro das Atenções após a dança.</style><br><i><style=\"text_third_gray\">\"Por favor, parem de brigar...\"</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "Apoio da Justiça"
+  }
+}

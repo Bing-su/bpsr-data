@@ -1,0 +1,201 @@
+{
+  "1001": {
+    "BaseDetailsDes": "Basic Events for this pool include:<br>1. Every draw guarantees <style=\"accent-gn\">Shangri-La Frontier - Gold Meow Point</style> rebates. The exact amount depends on the prize rarity: S Prize returns 50 Gold Meow Points, A Prize returns 30 Gold Meow Points, B Prize returns 20 Gold Meow Points, C Prize returns 15 Gold Meow Points, D Prize returns 10 Gold Meow Points, and E Prize returns 5 Gold Meow Points. <br>2. <style=\"accent-gn\">The 60th draw</style> is guaranteed to be an <style=\"accent-gn\">S Prize Ticket</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip001_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip001_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850101,
+    "HelpLibraryId": 0,
+    "Id": 1001,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Setiap kali melakukan draw di banner ini, terdapat peluang <style=\"accent-gn\">25.0000%</style> untuk memicu peristiwa Lucky! Setelah dipicu, efek Lucky akan diperoleh secara acak berdasarkan peluang berikut:<br> Draw berikutnya gratis: 20.0000%<br> Cashback poin 3x untuk draw berikutnya: 32.0000%<br> Peluang mendapatkan hadiah S meningkat pada draw berikutnya: 40.0000%<br> Hadiah C/D/E tidak akan keluar pada draw berikutnya: 8.0000%",
+    "LuckPoolId": 1001,
+    "MallItemId": 11001,
+    "MiniGuaranteeDetails": [[1, 60]],
+    "OnePrizeConsume": [],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70001,
+    "PointsActivityFunctionId": 20001,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Shangri-La Frontier",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip001", "ichibankuji/ichibankuji_ip001"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1001,
+    "PrizeShowDetails": [
+      100101, 100102, 100103, 100104, 100105, 100106, 100107, 100108, 100109, 100110, 100111, 100112
+    ],
+    "Sort": 1,
+    "TextColor": ""
+  },
+  "1002": {
+    "BaseDetailsDes": "[Peristiwa Dasar] periode ini termasuk:<br>Pasti mendapat sejumlah <style=\"accent-gn\">Monogatari - Goldmeow</style> pada setiap undian. Jumlah cashback ini berhubungan dengan kelangkaan reward yang didapat. Semakin langka, semakin banyak cashback yang didapat.<br>Pasti mendapat <style=\"accent-gn\">Reward A</style> pada <style=\"accent-gn\">undian ke-30</style>.<br>Pasti mendapat <style=\"accent-gn\">Reward S</style> pada <style=\"accent-gn\">undian ke-80</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip003_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip003_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850102,
+    "HelpLibraryId": 25002,
+    "Id": 1002,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
+    "LuckPoolId": 1002,
+    "MallItemId": 11002,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12002, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70003,
+    "PointsActivityFunctionId": 20002,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Monogatari",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip003", "ichibankuji/ichibankuji_ip003"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1002,
+    "PrizeShowDetails": [
+      100201, 100202, 100203, 100204, 100205, 100206, 100207, 100208, 100209, 100210
+    ],
+    "Sort": 2,
+    "TextColor": ""
+  },
+  "1003": {
+    "BaseDetailsDes": "[Peristiwa Dasar] periode ini berisi:<br>Setiap undian pasti akan mendapat sejumlah cashback <style=\"accent-gn\">Fairy Tail - Goldmeow</style>. Jumlah cashback ini berhubungan dengan kelangkaan reward yang didapat, makin tinggi kelangkaannya, makin banyak jumlah cashback yang didapat.<br><style=\"accent-gn\">Undian ke-30</style> pasti mendapat <style=\"accent-gn\">Reward A</style>.<br><style=\"accent-gn\">Undian ke-80</style> pasti mendapat <style=\"accent-gn\">Reward S</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip004_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip004_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850103,
+    "HelpLibraryId": 25003,
+    "Id": 1003,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Undi 1x", "Undi 5x"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
+    "LuckPoolId": 1003,
+    "MallItemId": 11003,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12003, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70006,
+    "PointsActivityFunctionId": 20004,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Fairy Tail",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip004", "ichibankuji/ichibankuji_ip004"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1003,
+    "PrizeShowDetails": [
+      100301, 100302, 100303, 100304, 100305, 100306, 100307, 100308, 100309, 100310, 100311, 100312
+    ],
+    "Sort": 3,
+    "TextColor": "#ffffff"
+  },
+  "1004": {
+    "BaseDetailsDes": "【Peristiwa Dasar】 periode ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=&#34;accent-gn&#34;>Cashback Goldmeow Musim Panas Masa Muda</style>, jumlah pastinya bergantung pada kelangkaan Reward yang didapat, semakin langka semakin banyak cashback yang diberikan;<br><style=&#34;accent-gn&#34;>Tarikan ke-25</style> pasti mendapat <style=&#34;accent-gn&#34;>Tiket Reward A</style>;<br><style=&#34;accent-gn&#34;>Tarikan ke-70</style> pasti mendapat <style=&#34;accent-gn&#34;>Tiket Reward S</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850204],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850104,
+    "HelpLibraryId": 25004,
+    "Id": 1004,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tarik 1x", "Tarik 5x"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Setiap tarikan memiliki Peluang sebesar <style=&#34;accent-gn&#34;>25.0000%</style> untuk memicu 【Peristiwa Luck】! Peristiwa Luck kali ini meliputi:<br> 「Peristiwa 1」: Tarikan berikutnya Gratis;<br> 「Peristiwa 2」: Tarikan berikutnya memberikan Cashback 3x Goldmeow;<br> 「Peristiwa 3」: Peluang mendapatkan 【Hadiah A】 pada tarikan berikutnya Meningkat;<br> 「Peristiwa 4」: Tarikan berikutnya tidak akan mendapatkan 【Hadiah C】, 【Hadiah D】, dan 【Hadiah E】",
+    "LuckPoolId": 1004,
+    "MallItemId": 11004,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12004, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41001,
+    "PointsActivityFunctionId": 20007,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Musim Panas Masa Muda",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1004,
+    "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
+    "Sort": 4,
+    "TextColor": "#ffffff"
+  }
+}

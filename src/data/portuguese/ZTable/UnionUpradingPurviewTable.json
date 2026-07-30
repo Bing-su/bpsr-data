@@ -1,0 +1,74 @@
+{
+  "1": {
+    "Des": "协会成员上限增加至50人",
+    "Id": 1,
+    "PurviewParam": [],
+    "ShowPurview": "O número máximo de membros da Guilda aumenta para {*val*}"
+  },
+  "10": {
+    "Des": "第二个参数为电子屏对应的唯一ID，第三个参数为可设置的照片数量",
+    "Id": 10,
+    "PurviewParam": [10, 1, 2],
+    "ShowPurview": "Aumenta para {*val1*} o número de fotos que podem ser exibidas na área {*val2*} do Painel de Fotos"
+  },
+  "11": {
+    "Des": "协会相册数量上限增加，基础数量是10",
+    "Id": 11,
+    "PurviewParam": [11, 2],
+    "ShowPurview": "Aumenta o número máximo de álbuns da Guilda para {*val*}"
+  },
+  "12": {
+    "Des": "",
+    "Id": 12,
+    "PurviewParam": [],
+    "ShowPurview": "Após aprimorar o Centro da Guilda, outras construções podem ser aprimoradas"
+  },
+  "2": {
+    "Des": "特效格子解锁1个",
+    "Id": 2,
+    "PurviewParam": [2, 1],
+    "ShowPurview": "Aumenta o número de Fontes da Bênção para {*val*}"
+  },
+  "3": {
+    "Des": "解锁对应特效ID",
+    "Id": 3,
+    "PurviewParam": [3, 0],
+    "ShowPurview": "Desbloqueia o efeito de bênção {*val*}"
+  },
+  "4": {
+    "Des": "解锁厨房",
+    "Id": 4,
+    "PurviewParam": [4, 1],
+    "ShowPurview": "Desbloqueia a cozinha"
+  },
+  "5": {
+    "Des": "解锁PVE玩法",
+    "Id": 5,
+    "PurviewParam": [5, 1],
+    "ShowPurview": "Desbloqueia a jogabilidade de Caçada da Guilda"
+  },
+  "6": {
+    "Des": "解锁休闲区域1",
+    "Id": 6,
+    "PurviewParam": [6, 1],
+    "ShowPurview": "Desbloqueia a área de lazer {*val*}"
+  },
+  "7": {
+    "Des": "这个没有参数，限制在兑换商店那边",
+    "Id": 7,
+    "PurviewParam": [],
+    "ShowPurview": "Desbloqueia itens na mercearia da Guilda"
+  },
+  "8": {
+    "Des": "解锁电子屏区域1,第二个参数为对应不同电子屏【废弃】",
+    "Id": 8,
+    "PurviewParam": [8, 1],
+    "ShowPurview": "Desbloqueia o Painel de Fotos {*val*}"
+  },
+  "9": {
+    "Des": "解锁协会场景",
+    "Id": 9,
+    "PurviewParam": [9, 1],
+    "ShowPurview": "Desbloqueia o Centro da Guilda"
+  }
+}

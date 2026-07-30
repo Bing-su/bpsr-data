@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "HPを<style=\"physical\">10消費</style>し、棍棒を使って攻撃する。<br>攻撃が<style=\"physical\">ステルサーに命中した</style>場合、自身のHPを<style=\"physical\">20回復</style>する。<br>ステルサーを撃破すると、HPを全回復する。<br><style=\"physical\">HPが不足している</style>場合、このスキルは使用できない。<br>実際に与えるダメージは、<style=\"physical\">ステルサーが変身しているオブジェクトの防御力</style>に基づいて計算される。</style><br><i><style=\"text_third_gray\">「真の達人は武器の強弱など気にしない」</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "基礎の極意"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "HPを<style=\"physical\">10消費</style>し、ファルファラの剣を使って攻撃する。<br>攻撃が<style=\"physical\">ステルサーに命中した</style>場合、自身のHPを<style=\"physical\">20回復</style>する。<br>ステルサーを撃破すると、HPを全回復する。<br><style=\"physical\">HPが不足している</style>場合、このスキルは使用できない。<br>実際に与えるダメージは、<style=\"physical\">ステルサーが変身しているオブジェクトの防御力</style>に基づいて計算される。<br><style=\"physical\">武器の特殊効果：周囲のハンターのHPを継続的に回復させ、移動速度を上昇させる。</style><br><i><style=\"text_third_gray\">「これが少しでもあなたの安心に繋がりますように……」</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "朝霧の導き"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "HPを<style=\"physical\">10消費</style>し、デンヴェルの大剣を使って攻撃する。<br>攻撃が<style=\"physical\">ステルサーに命中した</style>場合、自身のHPを<style=\"physical\">20回復</style>する。<br>ステルサーを撃破すると、HPを全回復する。<br><style=\"physical\">HPが不足している</style>場合、このスキルは使用できない。<br>実際に与えるダメージは、<style=\"physical\">ステルサーが変身しているオブジェクトの防御力</style>に基づいて計算される。<br><style=\"physical\">武器の特殊効果：追加で剣光を2本発射し、範囲内のプレイヤーが変身していないオブジェクトをすべて消去する。</style><br><i><style=\"text_third_gray\">「これを以て過去の悲哀を一掃せん」</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "哀悼者の刃"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "HPを<style=\"physical\">10消費</style>し、つるはしを使って攻撃する。<br>攻撃が<style=\"physical\">ステルサーに命中した</style>場合、自身のHPを<style=\"physical\">20回復</style>する。<br>ステルサーを撃破すると、HPを全回復する。<br><style=\"physical\">HPが不足している</style>場合、このスキルは使用できない。<br>実際に与えるダメージは、<style=\"physical\">ステルサーが変身しているオブジェクトの防御力</style>に基づいて計算される。<br><style=\"physical\">武器の特殊効果：攻撃のたびにランダムな鉱石を1つ獲得する。<br>40%の確率で琥珀を獲得する。琥珀：自身のすべてのスキルのリキャスト-0.5秒。<br>40%の確率でベニトアイトを獲得する。ベニトアイト：HPを10回復する。<br>19%の確率で竜晶を獲得する。竜晶：周囲に剣光を5本発射する。<br>1%の確率で雷の溶岩を獲得する。雷の溶岩：30メートル範囲内のすべてのステルサーに雷を落とす。</style><br><i><style=\"text_third_gray\">「私も掘るの？」</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "ゴールドラッシュの夢"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "HPを<style=\"physical\">10消費</style>し、ペンライトを使って攻撃する。<br>攻撃が<style=\"physical\">ステルサーに命中した</style>場合、自身のHPを<style=\"physical\">20回復</style>する。<br>ステルサーを撃破すると、HPを全回復する。<br><style=\"physical\">HPが不足している</style>場合、このスキルは使用できない。<br>実際に与えるダメージは、<style=\"physical\">ステルサーが変身しているオブジェクトの防御力</style>に基づいて計算される。<br><style=\"physical\">武器の特殊効果：すべてのスキルは発動するたびにダンス力が蓄積され、ダンス力が50に達すると、スキル【全力ダンス】を獲得する。全力ダンス：<br>使用するとダンス状態になり、HPを徐々に回復する。</style><br><i><style=\"text_third_gray\">「もうやめて……」</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "ジャスティスエール"
+  }
+}

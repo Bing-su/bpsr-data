@@ -1,0 +1,264 @@
+{
+  "1001": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": ["1.在士兵周圍能週期獲得積分", "2.擊殺沿途怪物獲得額外積分"],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1001,
+    "Name": "維爾古城巡邏",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1002": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": ["1.在士兵周圍能週期獲得積分", "2.擊殺沿途怪物獲得額外積分"],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1002,
+    "Name": "山賊營地巡邏",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1003": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": ["1.在戰士周圍能週期獲得積分", "2.擊殺沿途怪物獲得額外積分"],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1003,
+    "Name": "姆克營地巡邏",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2001": {
+    "AdditionalTarget": [[24, 1, 8, 200101]],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [15],
+    "AdditionalTargetName": ["在區域內能週期獲得積分"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2001,
+    "Name": "舞蹈練習生",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2002": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200201],
+      [24, 1, 8, 200202]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 0],
+    "AdditionalTargetCompleteMaxNum": [50, 100],
+    "AdditionalTargetIdleScore": [50, 25],
+    "AdditionalTargetName": [
+      "1.在區域內能週期獲得積分",
+      "2.每隔150秒獲得1張投票",
+      "3.被投票者獲得1點人氣，投票能獲得額外積分 ({*val1*}/{*val2*})",
+      "4.被投票者也能獲得額外積分 ({*val1*}/{*val2*})",
+      "5.達到5/10/15/20點人氣時將變大",
+      "6.已有人氣會在5分鐘後消失，獲得新人氣時會刷新該時間"
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2002,
+    "Name": "路演小劇場",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1.在金娜寶和銀娜寶周圍可週期獲得積分，每輪煙火活動持續10分鐘。",
+      "2.每日首次參與可獲得大量友情點、銀星徽章、裝備材料。"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2003,
+    "Name": "星光花火夜",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["在區域跳靈舞能週期獲得積分"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2004,
+    "Name": "靈舞",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1.在區域內能週期獲得積分",
+      "2.在活動區域有兩個可以幻形的區域，前往互動可以變成隨機冰雪節物件"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2005,
+    "Name": "幻形派對",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2008": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200801],
+      [24, 1, 8, 200802]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 1],
+    "AdditionalTargetCompleteMaxNum": [10, 20],
+    "AdditionalTargetIdleScore": [200, 100],
+    "AdditionalTargetName": [
+      "1.在區域內能週期獲得積分",
+      "2.一共有紅綠藍三種煙花，每隔15秒會獲得1個隨機的煙花",
+      "3.給煙花底座填充煙花可以獲得額外積分 ({*val1*}/{*val2*})",
+      "4.發射填充好的煙花筒，區域內所有玩家都將獲得額外積分 ({*val1*}/{*val2*})"
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2008,
+    "Name": "焰彩試放",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2009": {
+    "AdditionalTarget": [[24, 1, 7, 200901]],
+    "AdditionalTargetCompleteCoolDown": [5],
+    "AdditionalTargetCompleteMaxNum": [10],
+    "AdditionalTargetIdleScore": [300],
+    "AdditionalTargetName": [
+      "1.在區域內能週期獲得積分",
+      "2.在區域內每隔100秒獲得1個燈籠碎片，集齊3個碎片能夠召喚喧春燈籠",
+      "3.放飛燈籠可獲得額外積分 ({*val1*}/{*val2*})"
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2009,
+    "Name": "喧春燈會",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2010": {
+    "AdditionalTarget": [[24, 1, 11, 201001]],
+    "AdditionalTargetCompleteCoolDown": [0],
+    "AdditionalTargetCompleteMaxNum": [240],
+    "AdditionalTargetIdleScore": [10],
+    "AdditionalTargetName": [
+      "1.在區域內能週期獲得積分",
+      "2.舞團每十分鐘切換一次舞蹈，切記跟上節奏別掉隊哦！",
+      "3.跟隨領舞一起律動可週期獲得額外積分({*val1*}/{*val2*})"
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2010,
+    "Name": "流光律動",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3001": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["跟隨領隊巡遊以獲得積分"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3001,
+    "Name": "魅力魚獲巡遊",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3002": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["跟隨領隊巡遊以獲得積分"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3002,
+    "Name": "小豬騎士巡遊",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["跟隨小伊領隊以獲得積分"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3003,
+    "Name": "小伊鼓樂隊",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1.在區域內能週期獲得積分",
+      "2.在活動區域可以透過互動打call或共舞的方式，與舞台上的星瞳互動！"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3004,
+    "Name": "今夜，隨星而歌",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1.在區域內能週期獲得積分",
+      "2.在活動區域可以透過互動打call或共舞的方式，與舞台上的星瞳互動！"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3005,
+    "Name": "今夜，隨星而歌",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  }
+}

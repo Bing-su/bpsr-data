@@ -1,0 +1,27 @@
+{
+  "1": {
+    "Id": 1,
+    "LuckDes": "Votre prochain tirage est <style=\"accent-gn\">gratuit</style> !",
+    "RecordLuckDes": ""
+  },
+  "2": {
+    "Id": 2,
+    "LuckDes": "Votre prochain tirage rapporte des points Miaou d'or bonus <style=\"accent-gn\">x{*val+1*}</style> !",
+    "RecordLuckDes": ""
+  },
+  "3": {
+    "Id": 3,
+    "LuckDes": "La probabilité d'obtenir <style=\"accent-gn\">{*val1*}</style> est augmentée à <style=\"accent-gn\">{*val2*} %</style> pour le prochain tirage !",
+    "RecordLuckDes": "<style=\"accent-gn\">{*val*}</style> : la probabilité d'obtenir ceci est augmentée pour le prochain tirage !"
+  },
+  "4": {
+    "Id": 4,
+    "LuckDes": "<style=\"accent-gn\">{*val*}</style> : vous ne tirerez pas ceci lors du prochain tirage !",
+    "RecordLuckDes": ""
+  },
+  "999": {
+    "Id": 999,
+    "LuckDes": "Aucun !",
+    "RecordLuckDes": ""
+  }
+}

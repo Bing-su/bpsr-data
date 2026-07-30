@@ -1,0 +1,90 @@
+{
+  "680101": {
+    "ActiveLevel": 50,
+    "AutoActive": 0,
+    "BuffId": 680101,
+    "BuffName": "舞空",
+    "Deactive": false,
+    "Desc": "空中でゆっくりと浮遊する能力を獲得する。<style=\"accent-gn\">ジャンプ中にジャンプボタンを長押しすると浮遊状態になり、状態が解除されるまでSTを消費し続ける</style>。",
+    "LockItem": [],
+    "Name": "舞空",
+    "Style": 0
+  },
+  "680201": {
+    "ActiveLevel": 40,
+    "AutoActive": 0,
+    "BuffId": 680201,
+    "BuffName": "水平跳",
+    "Deactive": false,
+    "Desc": "特殊アクションで前方に一定距離ジャンプする能力を獲得する。<br>ジャンプして着地した後、<style=\"accent-gn\">ジャンプリズムバー</style>が表示される。適切なタイミングで再度ジャンプすると<style=\"accent-gn\">ST回復ゲージが溜まり、ゲージが満タンになるとSTが大幅に回復する</style>。",
+    "LockItem": [],
+    "Name": "水平ジャンプ",
+    "Style": 0
+  },
+  "680401": {
+    "ActiveLevel": 48,
+    "AutoActive": 0,
+    "BuffId": 680401,
+    "BuffName": "踢墙跳",
+    "Deactive": false,
+    "Desc": "壁を蹴って上にジャンプする能力を獲得する。壁に近づいて使用すると壁を蹴って上にジャンプでき、ジャンプするたびに一定のSTを消費する。",
+    "LockItem": [],
+    "Name": "壁ジャンプ",
+    "Style": 0
+  },
+  "680501": {
+    "ActiveLevel": 45,
+    "AutoActive": 0,
+    "BuffId": 680501,
+    "BuffName": "蹬墙跑",
+    "Deactive": false,
+    "Desc": "壁を走る能力を獲得する。<br>走っている間はゆっくりとSTを消費する。静止すると壁に張り付いた状態になり、この状態ではSTを消費しない。",
+    "LockItem": [],
+    "Name": "壁走り",
+    "Style": 0
+  },
+  "680701": {
+    "ActiveLevel": 1,
+    "AutoActive": 1,
+    "BuffId": 680701,
+    "BuffName": "懒人跳",
+    "Deactive": false,
+    "Desc": "一部の障害物を自動で乗り越える能力を獲得する。STは消費しない。",
+    "LockItem": [],
+    "Name": "自動乗り越え",
+    "Style": 0
+  },
+  "682501": {
+    "ActiveLevel": 18,
+    "AutoActive": 0,
+    "BuffId": 682501,
+    "BuffName": "跳跃次数+1 3段跳 免疫坠落",
+    "Deactive": false,
+    "Desc": "空中での追加ジャンプ回数+1。スタミナを消費して最大3段ジャンプが可能。<br>落下ダメージを無効化する。",
+    "LockItem": [],
+    "Name": "多段ジャンプ",
+    "Style": 0
+  },
+  "682503": {
+    "ActiveLevel": 30,
+    "AutoActive": 0,
+    "BuffId": 682503,
+    "BuffName": "跳跃次数+1 4段跳",
+    "Deactive": false,
+    "Desc": "空中での追加ジャンプ回数+1。スタミナを消費して最大4段ジャンプが可能。",
+    "LockItem": [],
+    "Name": "多段ジャンプ",
+    "Style": 0
+  },
+  "682505": {
+    "ActiveLevel": 35,
+    "AutoActive": 0,
+    "BuffId": 682505,
+    "BuffName": "跳跃次数+1 5段跳",
+    "Deactive": false,
+    "Desc": "空中での追加ジャンプ回数+1。スタミナを消費して最大5段ジャンプが可能。",
+    "LockItem": [],
+    "Name": "多段ジャンプ",
+    "Style": 0
+  }
+}

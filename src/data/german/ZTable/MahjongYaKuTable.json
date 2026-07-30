@@ -1,0 +1,402 @@
+{
+  "1": {
+    "Card": [],
+    "Desc": "Eine Riichi-Ansage ist möglich, wenn eine verdeckte Hand nur einen Stein vom Sieg entfernt ist. Der Gewinn muss im Riichi-Zustand erfolgen.",
+    "Id": 1,
+    "Name": "Riichi",
+    "Special": 2,
+    "Type": 1
+  },
+  "10": {
+    "Card": [5, 9, 13, 53, 53, 53, 81, 85, 89, 93, 0, 101, 101, 101, 101, 0, 81],
+    "Desc": "Gewinn mit dem Ersatzstein, der nach der Bildung eines Kan gezogen wird.",
+    "Id": 10,
+    "Name": "Rinshan Kaihou (Gewinn von der toten Mauer)",
+    "Special": 0,
+    "Type": 1
+  },
+  "11": {
+    "Card": [5, 5, 5, 0, 49, 53, 57, 0, 81, 81, 81, 0, 105, 105, 105, 0, 109, 0, 109],
+    "Desc": "Gewinn durch das Ziehen des allerletzten Steins von der Mauer.",
+    "Id": 11,
+    "Name": "Haitei Raoyue (Gewinn mit dem letzten Steinzug)",
+    "Special": 0,
+    "Type": 1
+  },
+  "12": {
+    "Card": [5, 5, 5, 0, 49, 53, 57, 0, 81, 81, 81, 0, 105, 105, 105, 0, 109, 0, 109],
+    "Desc": "Gewinn durch den allerletzten abgelegten Steine.",
+    "Id": 12,
+    "Name": "Houtei Raoyui (Gewinn durch den letzten Ablagestein)",
+    "Special": 0,
+    "Type": 1
+  },
+  "13": {
+    "Card": [],
+    "Desc": "Gewinn innerhalb einer Runde nach der Riichi-Ansage, vorausgesetzt, es wurden von keinem Spieler Rufe (Pon, Chi, Kan) getätigt.",
+    "Id": 13,
+    "Name": "Ippatsu (Direkttreffer nach Riichi)",
+    "Special": 0,
+    "Type": 1
+  },
+  "14": {
+    "Card": [1, 999, 999, 999, 999, 0, 5],
+    "Desc": "Der Stein, der dem Dora-Anzeigestein folgt.",
+    "Id": 14,
+    "Name": "Dora (Bonussteine)",
+    "Special": 3,
+    "Type": 1
+  },
+  "15": {
+    "Card": [20, 0, 56, 0, 92],
+    "Desc": "Rote 5 der Schriftzeichen, rote 5 der Kreise und rote 5 des Bambus.",
+    "Id": 15,
+    "Name": "Aka Dora (Roter Dora)",
+    "Special": 3,
+    "Type": 1
+  },
+  "16": {
+    "Card": [1, 5, 9, 13, 13, 13, 53, 57, 61, 125, 125, 125, 129, 0, 129],
+    "Desc": "Eine Riichi-Ansage im ersten Zug, bevor ein Spieler einen Ruf (Pon, Chi, Kan) getätigt hat.",
+    "Id": 16,
+    "Name": "Doppel-Riichi",
+    "Special": 2,
+    "Type": 2
+  },
+  "17": {
+    "Card": [9, 9, 9, 0, 45, 45, 45, 0, 81, 81, 81, 0, 89, 93, 97, 0, 133, 133],
+    "Desc": "Ein Blatt, das einen Drilling mit der gleichen Zahl in allen drei Farben (Schriftzeichen, Kreise und Bambus) enthält.",
+    "Id": 17,
+    "Name": "Sanshoku Doukou (Drei Drillinge)",
+    "Special": 0,
+    "Type": 2
+  },
+  "18": {
+    "Card": [53, 57, 61, 0, 9, 9, 9, 9, 0, 45, 45, 45, 45, 0, 81, 81, 81, 81, 0, 129, 129],
+    "Desc": "Ein Blatt, bei dem ein Spieler drei Vierlinge deklariert hat.",
+    "Id": 18,
+    "Name": "San Kantsu (Drei Kan)",
+    "Special": 0,
+    "Type": 2
+  },
+  "19": {
+    "Card": [9, 9, 9, 0, 49, 49, 49, 0, 81, 81, 81, 0, 109, 109, 109, 0, 113, 113],
+    "Desc": "Ein Blatt, das vier Drillinge oder Kans (Vierlinge) enthält.",
+    "Id": 19,
+    "Name": "Toitoi (Nur Drillinge)",
+    "Special": 0,
+    "Type": 2
+  },
+  "2": {
+    "Card": [5, 9, 13, 0, 17, 21, 25, 0, 45, 45, 45, 0, 85, 89, 93, 0, 101, 0, 101],
+    "Desc": "Eine Hand, die keine Endsteine (1er und 9er) oder Ehrensteine enthält.",
+    "Id": 2,
+    "Name": "Tanyao (Nur einfache Steine)",
+    "Special": 0,
+    "Type": 1
+  },
+  "20": {
+    "Card": [1, 1, 1, 37, 37, 37, 73, 73, 73, 0, 81, 85, 89, 0, 109, 0, 109],
+    "Desc": "Ein Blatt, das drei verdeckte Drillinge enthält.",
+    "Id": 20,
+    "Name": "San Ankou (Drei verdeckte Drillinge)",
+    "Special": 0,
+    "Type": 2
+  },
+  "21": {
+    "Card": [5, 9, 17, 53, 57, 61, 0, 125, 125, 125, 0, 129, 129, 129, 0, 133, 0, 133],
+    "Desc": "Ein Blatt, das Drillinge von zwei der Drachensteine (Weiß, Grün, Rot) und ein Paar des dritten Drachensteines enthält.",
+    "Id": 21,
+    "Name": "Shou Sangen (Kleine drei Drachen)",
+    "Special": 0,
+    "Type": 2
+  },
+  "22": {
+    "Card": [1, 1, 1, 0, 33, 33, 33, 0, 37, 37, 37, 0, 73, 73, 73, 0, 109, 0, 109],
+    "Desc": "Ein Gewinnerblatt, das nur aus Endsteinen (1en und 9en der Schriftzeichen, Kreise und Bambus) und Ehrensteinen besteht.",
+    "Id": 22,
+    "Name": "Honroutou (Nur End- und Ehrensteine)",
+    "Special": 0,
+    "Type": 2
+  },
+  "23": {
+    "Card": [1, 1, 5, 5, 22, 22, 33, 33, 41, 41, 113, 113, 121, 0, 121],
+    "Desc": "Ein Blatt, das aus sieben verschiedenen Paaren besteht.",
+    "Id": 23,
+    "Name": "Chiitoitsu (Sieben Paare)",
+    "Special": 2,
+    "Type": 2
+  },
+  "24": {
+    "Card": [1, 5, 9, 0, 25, 29, 33, 0, 37, 41, 45, 0, 109, 109, 109, 0, 129, 129],
+    "Desc": "Ein Blatt, bei dem jede Figur (Folge oder Drilling) und das Paar mindestens einen Endsteine (1 oder 9) oder einen Ehrensteine enthält.",
+    "Id": 24,
+    "Name": "Hon Chanta (Gemischte äußere Hand)",
+    "Special": 1,
+    "Type": 2
+  },
+  "25": {
+    "Card": [1, 5, 9, 13, 17, 21, 25, 29, 33, 0, 37, 37, 37, 0, 109, 109],
+    "Desc": "Ein Blatt, das die Folgen 1-2-3, 4-5-6 und 7-8-9 in derselben Farbe enthält.",
+    "Id": 25,
+    "Name": "Ittsuu (Reine Straße)",
+    "Special": 1,
+    "Type": 2
+  },
+  "26": {
+    "Card": [1, 5, 9, 0, 37, 41, 45, 0, 73, 77, 81, 0, 93, 93, 93, 0, 117, 117],
+    "Desc": "Ein Blatt, das die gleiche Folge in allen drei Farben (Schriftzeichen, Kreise und Bambus) enthält.",
+    "Id": 26,
+    "Name": "Sanshoku Doujun (Drei Folgen in drei Farben)",
+    "Special": 1,
+    "Type": 2
+  },
+  "27": {
+    "Card": [1, 5, 9, 1, 5, 9, 0, 37, 41, 45, 37, 41, 45, 0, 109, 109],
+    "Desc": "Eine Hand, die zwei identische Folgen enthält (zwei reine doppelte Folgen).",
+    "Id": 27,
+    "Name": "Ryanpeikou (Zweifach reine doppelte Folge)",
+    "Special": 2,
+    "Type": 3
+  },
+  "28": {
+    "Card": [1, 5, 9, 0, 25, 29, 33, 0, 37, 41, 45, 0, 105, 105, 105, 0, 73, 73],
+    "Desc": "Eine Hand, bei der jede Meldung (Folge oder Drilling) und das Paar mindestens einen Endstein (1 oder 9) enthält und keine Ehrensteine vorhanden sind.",
+    "Id": 28,
+    "Name": "Junchan (Reine äußere Hand)",
+    "Special": 1,
+    "Type": 3
+  },
+  "29": {
+    "Card": [1, 1, 1, 5, 9, 13, 17, 21, 25, 113, 113, 113, 0, 125, 125],
+    "Desc": "Eine Hand, die nur aus Steinen einer einzigen Farbe besteht und einen oder mehrere Drillinge oder ein Paar aus Ehrensteinen enthält.",
+    "Id": 29,
+    "Name": "Honitsu (Halbfarbe)",
+    "Special": 1,
+    "Type": 3
+  },
+  "3": {
+    "Card": [1, 1, 1, 5, 9, 13, 45, 45, 45, 85, 89, 93, 129, 0, 129],
+    "Desc": "Gewinn durch Selbstziehen des letzten Steins mit einer vollständig verdeckten Hand.",
+    "Id": 3,
+    "Name": "Menzen Tsumo (Verdeckter Eigengewinn)",
+    "Special": 2,
+    "Type": 1
+  },
+  "30": {
+    "Card": [1, 5, 9, 0, 5, 9, 13, 0, 9, 13, 17, 0, 21, 21, 21, 0, 33, 33],
+    "Desc": "Eine Hand, die nur aus Steinen einer einzigen Farbe besteht und keine Ehrensteine enthält.",
+    "Id": 30,
+    "Name": "Chinitsu (Vollfarbe)",
+    "Special": 1,
+    "Type": 4
+  },
+  "31": {
+    "Card": [33, 1, 109, 109, 113, 113, 133, 113, 117, 117, 117, 105, 105, 105, 69, 129, 121, 33],
+    "Desc": "Der Ablagestapel des Spielers besteht bei einem unentschiedenen Spiel nur aus End- und Ehrensteinen, und keiner seiner abgelegten Steine wurde von anderen Spielern angesagt.",
+    "Id": 31,
+    "Name": "Nagashi Mangan (Mangan bei Unentschieden)",
+    "Special": 0,
+    "Type": 5
+  },
+  "32": {
+    "Card": [1, 5, 9, 49, 49, 49, 89, 93, 97, 109, 109, 109, 113, 113],
+    "Desc": "Der Geber gewinnt mit seiner anfänglichen Hand aus 14 Steinen.",
+    "Id": 32,
+    "Name": "Tenhou (Segen des Himmels)",
+    "Special": 4,
+    "Type": 6
+  },
+  "33": {
+    "Card": [],
+    "Desc": "Ein Nicht-Geber gewinnt durch einen Selbstzug in der ersten Runde, bevor Ansagen (Pon, Chi, Kan) gemacht wurden.",
+    "Id": 33,
+    "Name": "Chiihou (Segen der Erde)",
+    "Special": 5,
+    "Type": 6
+  },
+  "34": {
+    "Card": [1, 5, 9, 0, 125, 125, 125, 0, 129, 129, 129, 0, 133, 133, 133, 0, 33, 33],
+    "Desc": "Eine Hand, die Drillinge aller drei Drachensteine enthält (Weiß, Grün und Rot).",
+    "Id": 34,
+    "Name": "Dai Sangen (Große drei Drachen)",
+    "Special": 0,
+    "Type": 6
+  },
+  "35": {
+    "Card": [1, 1, 1, 5, 5, 5, 45, 45, 45, 49, 49, 49, 89, 89],
+    "Desc": "Eine Hand, die vier verdeckte Drillinge enthält.",
+    "Id": 35,
+    "Name": "Suu Ankou (Vier verdeckte Drillinge)",
+    "Special": 2,
+    "Type": 6
+  },
+  "36": {
+    "Card": [109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 125, 125, 125, 0, 129, 129],
+    "Desc": "Eine Hand, die ausschließlich aus Ehrensteinen (Winde und Drachen) besteht.",
+    "Id": 36,
+    "Name": "Tsuuiisou (Nur Ehrensteine)",
+    "Special": 0,
+    "Type": 6
+  },
+  "37": {
+    "Card": [77, 77, 77, 0, 81, 81, 81, 0, 85, 85, 85, 0, 93, 93, 93, 0, 129, 129],
+    "Desc": "Eine Hand, die ausschließlich aus grünen Steinen (2, 3, 4, 6, 8 von Bambus) und dem grünen Drachenstein besteht (auch ohne diesen gültig).",
+    "Id": 37,
+    "Name": "Ryuuiisou (Nur grüne Steine)",
+    "Special": 0,
+    "Type": 6
+  },
+  "38": {
+    "Card": [1, 1, 1, 0, 33, 33, 33, 0, 37, 37, 37, 0, 69, 69, 69, 0, 73, 73],
+    "Desc": "Eine Hand, die nur Endsteine enthält (1er und 9er von Schriftzeichen, Kreisen und Bambus).",
+    "Id": 38,
+    "Name": "Chinroutou (Nur Endsteine)",
+    "Special": 0,
+    "Type": 6
+  },
+  "39": {
+    "Card": [1, 33, 33, 37, 69, 73, 105, 109, 113, 117, 121, 125, 129, 0, 133],
+    "Desc": "Eine Hand, die jeden End- und Ehrenstein einmal enthält, plus einen zusätzlichen Stein, der mit einem von ihnen übereinstimmt.",
+    "Id": 39,
+    "Name": "Kokushi Musou (Dreizehn Waisen)",
+    "Special": 2,
+    "Type": 6
+  },
+  "4": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 117, 117, 117, 73, 0, 73],
+    "Desc": "Eine Hand, die einen Drilling des eigenen Platzwind-Steins enthält.",
+    "Id": 4,
+    "Name": "Yakuhai (Wertsteine): Platzwind",
+    "Special": 0,
+    "Type": 1
+  },
+  "40": {
+    "Card": [1, 5, 9, 0, 109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 121, 121],
+    "Desc": "Eine Hand, die Drillinge von drei Windsteinen und ein Paar des vierten Windsteins enthält.",
+    "Id": 40,
+    "Name": "Shousuushii (Kleine vier Winde)",
+    "Special": 0,
+    "Type": 6
+  },
+  "41": {
+    "Card": [1, 1, 1, 1, 0, 41, 41, 41, 41, 0, 81, 81, 81, 81, 0, 109, 109, 109, 109, 0, 129, 129],
+    "Desc": "Eine Hand, die von einem einzelnen Spieler gewonnen wird, der vier Kans gebildet hat.",
+    "Id": 41,
+    "Name": "Suukantsu (Vier Vierlinge)",
+    "Special": 0,
+    "Type": 6
+  },
+  "42": {
+    "Card": [1, 1, 1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 33, 0, 33],
+    "Desc": "Eine verdeckte Hand aus 1112345678999 in einer einzigen Farbe, plus ein beliebiger anderer Stein dieser Farbe zum Gewinnen.",
+    "Id": 42,
+    "Name": "Chuuren Poutou (Neun Tore)",
+    "Special": 2,
+    "Type": 6
+  },
+  "43": {
+    "Card": [1, 1, 1, 41, 41, 41, 53, 53, 53, 97, 97, 97, 121, 0, 121],
+    "Desc": "Eine Hand mit vier verdeckten Drillingen, die durch das Bilden eines Paares vervollständigt wird.",
+    "Id": 43,
+    "Name": "Suu Ankou Tanki (Vier verdeckte Drillinge mit Einzelwarten)",
+    "Special": 2,
+    "Type": 7
+  },
+  "44": {
+    "Card": [1, 33, 37, 69, 73, 105, 109, 113, 117, 121, 125, 129, 133, 0, 1],
+    "Desc": "Eine Hand der Kokushi Musou (Dreizehn Waisen), die auf einen beliebigen der 13 End- oder Ehrensteine zum Gewinnen wartet.",
+    "Id": 44,
+    "Name": "Kokushi Musou Juusanmenmachi (Dreizehn Waisen mit 13-seitigem Warten)",
+    "Special": 2,
+    "Type": 7
+  },
+  "45": {
+    "Card": [1, 1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 33, 33, 0, 21],
+    "Desc": "Eine Hand der Neun Tore, die auf einen beliebigen der 9 möglichen Steine zum Gewinnen wartet.",
+    "Id": 45,
+    "Name": "Junsei Chuuren Poutou (Echte Neun Tore)",
+    "Special": 2,
+    "Type": 7
+  },
+  "46": {
+    "Card": [109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 121, 121, 121, 0, 17, 17],
+    "Desc": "Eine Hand, die Drillinge aller vier Windsteine enthält.",
+    "Id": 46,
+    "Name": "Dai Suushi (Große vier Winde)",
+    "Special": 0,
+    "Type": 7
+  },
+  "47": {
+    "Card": [117, 0, 117, 0, 117, 0, 117],
+    "Desc": "Ein Spielabbruch, wenn alle vier Spieler in ihrer ersten Runde denselben Windstein ablegen und keine Ansagen gemacht wurden.",
+    "Id": 47,
+    "Name": "Suufon Renda (Spielabbruch bei vier Winden)",
+    "Special": 0,
+    "Type": 8
+  },
+  "48": {
+    "Card": [1, 1, 1, 1, 0, 9, 9, 9, 9, 0, 57, 57, 57, 57, 0, 97, 97, 97, 97],
+    "Desc": "Ein Spielabbruch, wenn insgesamt vier Vierlinge von zwei oder mehr Spielern angesagt werden.",
+    "Id": 48,
+    "Name": "Suukaikan (Spielabbruch bei vier Vierlingen)",
+    "Special": 0,
+    "Type": 8
+  },
+  "49": {
+    "Card": [1, 33, 37, 57, 69, 73, 81, 85, 89, 93, 109, 113, 125, 0, 129],
+    "Desc": "Ein Spieler kann einen Spielabbruch ansagen, wenn seine Starthand neun oder mehr verschiedene End- oder Ehrensteine enthält, vorausgesetzt, vor seiner ersten Runde wurden keine Ansagen gemacht.",
+    "Id": 49,
+    "Name": "Kyuushu Kyuuhai (Spielabbruch bei neun verschiedenen End-/Ehrensteinen)",
+    "Special": 0,
+    "Type": 8
+  },
+  "5": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 109, 109, 109, 73, 0, 73],
+    "Desc": "Eine Hand, die einen Drilling des Wind-Steins der aktuellen Runde enthält.",
+    "Id": 5,
+    "Name": "Yakuhai (Wertsteine): Rundenwind",
+    "Special": 0,
+    "Type": 1
+  },
+  "50": {
+    "Card": [],
+    "Desc": "Ein Abbruch-Unentschieden, wenn alle vier Spieler erfolgreich Riichi angesagt haben.",
+    "Id": 50,
+    "Name": "Suucha Riichi (Spielabbruch bei vier Riichis)",
+    "Special": 0,
+    "Type": 8
+  },
+  "6": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 125, 125, 125, 73, 0, 73],
+    "Desc": "Die Hand enthält einen Drilling eines beliebigen Drachensteins (Weiß, Grün oder Rot).",
+    "Id": 6,
+    "Name": "Yakuhai: Drachensteine",
+    "Special": 0,
+    "Type": 1
+  },
+  "7": {
+    "Card": [1, 5, 9, 17, 21, 25, 41, 45, 49, 93, 97, 105, 105, 0, 89],
+    "Desc": "Eine verdeckte Hand mit 4 Folgen, einem nicht wertenden Paar (kein Drache, Platzwind oder Rundenwind) und einem zweiseitigen Warten auf den letzten Stein.",
+    "Id": 7,
+    "Name": "Pinfu (Nur Folgen)",
+    "Special": 2,
+    "Type": 1
+  },
+  "8": {
+    "Card": [1, 5, 9, 1, 5, 9, 49, 49, 49, 61, 65, 69, 81, 0, 81],
+    "Desc": "Die Hand enthält zwei identische Folgen.",
+    "Id": 8,
+    "Name": "Iipeikou (Reine doppelte Folge)",
+    "Special": 2,
+    "Type": 1
+  },
+  "9": {
+    "Card": [37, 37, 37, 0, 37],
+    "Desc": "Gewinn durch einen Stein, den ein Gegner zu einer bestehenden Figur hinzufügt, um einen Vierling zu bilden (ein Blatt der Dreizehn Waisen kann einen verdeckten Vierling rauben).",
+    "Id": 9,
+    "Name": "Chankan (Raub des Kan)",
+    "Special": 0,
+    "Type": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "1000": {
+    "Id": 1000,
+    "IsShow": true,
+    "LockedText": "<style=\"emph-gn\">'그 꿈 뒤의 순간들'</style> 완료 후 오픈",
+    "Remark": "",
+    "RoleName": "보이스",
+    "RolePic": "ui/textures/npctask/boyce/storyboard_boyce",
+    "StoryboardPool": [100001],
+    "UnlockCondition": [[], [9, 30105]]
+  },
+  "1001": {
+    "Id": 1001,
+    "IsShow": true,
+    "LockedText": "<style=\"emph-gn\">'그 꿈 뒤의 순간들'</style> 완료 후 오픈",
+    "Remark": "",
+    "RoleName": "파파라",
+    "RolePic": "ui/textures/npctask/farfara/storyboard_farfara",
+    "StoryboardPool": [100101],
+    "UnlockCondition": [[], [9, 30103]]
+  },
+  "1002": {
+    "Id": 1002,
+    "IsShow": true,
+    "LockedText": "<style=\"emph-gn\">'긴 거리에 밤이 내리다'</style> 완료 후 오픈",
+    "Remark": "",
+    "RoleName": "다야",
+    "RolePic": "ui/textures/npctask/daya/storyboard_daya",
+    "StoryboardPool": [100201],
+    "UnlockCondition": [
+      [2, 10607, 2],
+      [9, 30101]
+    ]
+  },
+  "1003": {
+    "Id": 1003,
+    "IsShow": true,
+    "LockedText": "<style=\"emph-gn\">'최초의 근원'</style> 완료 후 오픈",
+    "Remark": "",
+    "RoleName": "아이로나",
+    "RolePic": "ui/textures/npctask/iruna/storyboard_iruna",
+    "StoryboardPool": [100301],
+    "UnlockCondition": [
+      [2, 10001, 2],
+      [9, 41106]
+    ]
+  }
+}

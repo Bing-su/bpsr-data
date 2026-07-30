@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Id": 1,
+    "ReportCategoryDes": ["发布违规信息", "个人资料违规"],
+    "ReportCategoryId": [],
+    "ReportReason": [
+      [101, 102, 103, 104, 105, 106, 108, 199],
+      [901, 999]
+    ],
+    "ReportScene": "会话发言场景",
+    "SceneId": 1
+  },
+  "101": {
+    "Id": 101,
+    "ReportCategoryDes": ["家园违规"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[798]],
+    "ReportScene": "家园建造场景",
+    "SceneId": 8
+  },
+  "2": {
+    "Id": 2,
+    "ReportCategoryDes": ["个人资料违规"],
+    "ReportCategoryId": [9],
+    "ReportReason": [[901, 903, 999]],
+    "ReportScene": "个人资料场景",
+    "SceneId": 2
+  },
+  "6": {
+    "Id": 6,
+    "ReportCategoryDes": ["照片违规"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[799]],
+    "ReportScene": "相册照片举报",
+    "SceneId": 6
+  },
+  "7": {
+    "Id": 7,
+    "ReportCategoryDes": ["组织资料违规"],
+    "ReportCategoryId": [8],
+    "ReportReason": [[801, 802, 803, 799, 899]],
+    "ReportScene": "组织资料场景",
+    "SceneId": 7
+  }
+}

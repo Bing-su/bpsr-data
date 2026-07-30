@@ -1,0 +1,18 @@
+{
+  "1": {
+    "CampId": 801,
+    "Description": "Locate the transformed Stalkers and attack them using your weapons and skills. A Stalker is defeated when their HP reaches zero.<br><style=\"physical\">Victory Condition: Defeat all Stalkers.</style><br>Upon becoming a Shadow Hunter, you automatically gain the following exclusive skills:",
+    "Id": 1,
+    "Name": "Shadow Hunter",
+    "SkillId": [],
+    "SkillText": "Added items will be deducted after the <style=\"physical\">faction confirmation phase </style>. You gain the corresponding skill, which <style=\"physical\">lasts for a single match</style>. To use it in the next match, the item must be consumed again."
+  },
+  "2": {
+    "CampId": 802,
+    "Description": "Use the Transform skill to turn into objects in the scene. Hide in suitable spots to confuse Shadow Hunters, or move frequently to avoid their attacks.<br><style=\"physical\">Victory Condition: At least one Stalker survives until time runs out.</style><br>Becoming a Stalker automatically grants the following exclusive skills:",
+    "Id": 2,
+    "Name": "Stalker",
+    "SkillId": [6500, 6504, 6501],
+    "SkillText": "Added items will be deducted after the <style=\"physical\">faction confirmation phase </style>. You gain the corresponding skill, which <style=\"physical\">lasts for a single match</style>. To use it in the next match, the item must be consumed again."
+  }
+}

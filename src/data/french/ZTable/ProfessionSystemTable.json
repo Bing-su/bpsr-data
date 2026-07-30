@@ -1,0 +1,565 @@
+{
+  "1": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_03",
+    "Id": 1,
+    "Index": 7,
+    "Intro": "Manie une <color=#fcbe03>Faux du faucheur</color>, excellant dans le <color=#fcbe03>combat rapproché</color>. Alterne aisément entre les formes de faux et d'épée longue, infligeant des <color=#fcbe03>frappes de zone précises</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Lame-tempête",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_4",
+    "MasteryDes": [
+      [
+        "",
+        "Chaque tranche de 1 % de maîtrise augmente les dégâts des compétences utilisant des Sceaux de foudre de 3,4 %<br>"
+      ],
+      [
+        "",
+        "Chaque 1 % de maîtrise augmente de 1,2 % les dégâts de Coup de tonnerre, Faux de la tempête et Faucille divine<br>"
+      ]
+    ],
+    "Name": "Lame-tempête",
+    "NormalAttackSkill": [1701],
+    "NormalSkill": [1705, 1717, 1718, 1719, 1724, 1730, 1731, 1720],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[]],
+    "ProfessionId": 1,
+    "ProfessionStarExtraItem": [[1020001]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [101, 102],
+    "SpecialSkill": [1714],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1715, 1728, 1733, 1734, 1735, 1736, 1737, 1738],
+    "UltimateSkill": [1713],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7310002
+  },
+  "10": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 8,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 10,
+    "Index": 11,
+    "Intro": "Arme à mi-distance permettant des attaques coordonnées.",
+    "IsOpen": false,
+    "LineFeedName": "Danse rituelle des Esprits de l'ombre : Bâton/Lame cérémonielle",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Confère des dégâts des ténèbres."],
+      ["", "Confère des dégâts des ténèbres."]
+    ],
+    "Name": "Danse rituelle des Esprits de l'ombre : Bâton/Lame cérémonielle",
+    "NormalAttackSkill": [2101],
+    "NormalSkill": [2107],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052408, 1052416, 1052424, 1052301, 1052307, 1052303]],
+    "ProfessionId": 10,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2105],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2108],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7380001
+  },
+  "11": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_07",
+    "Id": 11,
+    "Index": 3,
+    "Intro": "Manie un <color=#fcbe03>arc</color>, excellant dans le <color=#fcbe03>combat à longue portée</color>. Combat avec des compagnons animaux pour déclencher des <color=#fcbe03>attaques de grande zone</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Tireur d'élite",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_6",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_6",
+    "MasteryDes": [
+      ["", "Chaque 1 % de maîtrise augmente les dégâts du compagnon de 2,75 %."],
+      ["", "Chaque 1 % de maîtrise confère 0,6 % de bonus de lumière."]
+    ],
+    "Name": "Tireur d'élite",
+    "NormalAttackSkill": [2201],
+    "NormalSkill": [2230, 2232, 2237, 2233, 2234, 2231, 2238, 2235],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052314, 1052305]],
+    "ProfessionId": 11,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [116, 117],
+    "SpecialSkill": [2220],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [2224, 2240],
+    "UltimateSkill": [2209],
+    "UnlockCondition": [[2, 170103, 2]],
+    "WeaponSkinId": 7390002
+  },
+  "12": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 12,
+    "Index": 5,
+    "Intro": "Manie une <color=#fcbe03>épée et un bouclier</color>, excellant dans le <color=#fcbe03>combat rapproché</color>. Porte une armure de lumière forgée, offrant une <color=#fcbe03>défense</color> et une <color=#fcbe03>auto-guérison</color> remarquables.",
+    "IsOpen": true,
+    "LineFeedName": "Chevalier au bouclier",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_7",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_7",
+    "MasteryDes": [
+      [
+        "",
+        "Chaque 1 % de maîtrise augmente le gain de Bouclier radieux de 2,5 % et la résistance multi-éléments de 0,2 %."
+      ],
+      [
+        "",
+        "Chaque 1 % de maîtrise augmente l'effet de boost de PV de la Barrière forgelumière de 3 % et la résistance multi-éléments de 0,2 %."
+      ]
+    ],
+    "Name": "Chevalier au bouclier",
+    "NormalAttackSkill": [2401],
+    "NormalSkill": [2410, 2412, 2408, 2421, 2420, 2415, 2419, 2409],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052310, 1052308]],
+    "ProfessionId": 12,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [122, 123],
+    "SpecialSkill": [2405],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [2406, 2411, 2413, 2416, 2417, 2425],
+    "UltimateSkill": [2407],
+    "UnlockCondition": [[2, 170106, 2]],
+    "WeaponSkinId": 7400002
+  },
+  "13": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_08",
+    "Id": 13,
+    "Index": 8,
+    "Intro": "Excelle dans le <color=#fcbe03>combat à longue portée</color>, utilise une <color=#fcbe03>Guitare</color> comme arme. <color=#fcbe03>Soigne</color> en attaquant, excelle dans l'octroi de <color=#fcbe03>buffs</color> aux alliés et possède d'excellentes capacités de <color=#fcbe03>soutien</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Virtuose du rythme",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_8",
+    "MasteryDes": [
+      ["", "Chaque 1 % de maîtrise augmente le bonus de conversion de la Mélodie paisible de 1 %."],
+      [
+        "",
+        "Chaque 1 % de maîtrise réduit la vitesse de déclin de la Mélodie de soin de 0,35 %<br>."
+      ]
+    ],
+    "Name": "Virtuose du rythme",
+    "NormalAttackSkill": [2321],
+    "NormalSkill": [2308, 2309, 2310, 2311, 2312, 2313, 2315, 2316],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052304, 1052306]],
+    "ProfessionId": 13,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [119, 120],
+    "SpecialSkill": [2306],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [2307, 2317, 2332, 2335, 2336],
+    "UltimateSkill": [2314],
+    "UnlockCondition": [[2, 170107, 2]],
+    "WeaponSkinId": 7410002
+  },
+  "14": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 0,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 14,
+    "Index": 98,
+    "Intro": "Excelle dans le <color=#fcbe03>combat à longue portée</color>,<br>capable de frapper de larges zones par tirs rapides. Augmenter la <color=#fcbe03>chance de Sceau</color> augmente aussi considérablement la fréquence de déclenchement.<br>Peut <color=#fcbe03>se charger</color> à courte portée pour infliger d'énormes dégâts. Augmente le <color=#fcbe03>taux de critique</color> pour infliger des dégâts massifs.",
+    "IsOpen": false,
+    "LineFeedName": "Lucy",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Augmente les dégâts critiques"],
+      ["", "Augmente les dégâts critiques"]
+    ],
+    "Name": "Lucy",
+    "NormalAttackSkill": [2501],
+    "NormalSkill": [2505],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 14,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2504],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2506],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7420001
+  },
+  "15": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 15,
+    "Index": 97,
+    "Intro": "Excelle dans le <color=#fcbe03>combat à longue portée</color>,<br>capable de frapper de larges zones par tirs rapides. Augmenter la <color=#fcbe03>chance de Sceau</color> augmente aussi considérablement la fréquence de déclenchement.<br>Peut <color=#fcbe03>se charger</color> à courte portée pour infliger d'énormes dégâts. Augmente le <color=#fcbe03>taux de critique</color> pour infliger des dégâts massifs.",
+    "IsOpen": false,
+    "LineFeedName": "Natsu",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Augmente les dégâts critiques"],
+      ["", "Augmente les dégâts critiques"]
+    ],
+    "Name": "Natsu",
+    "NormalAttackSkill": [2601],
+    "NormalSkill": [2605],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 15,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2604],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2606],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7430001
+  },
+  "2": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 2,
+    "Icon": "ui/atlas/profession/profession_horizontal_05",
+    "Id": 2,
+    "Index": 4,
+    "Intro": "Manie un <color=#fcbe03>Bâton de givre</color>, excellant dans le <color=#fcbe03>combat à longue portée</color>. Manie la puissance de la glace pour infliger des <color=#fcbe03>dégâts de zone étendus</color> et un <color=#fcbe03>contrôle</color> redoutable.",
+    "IsOpen": true,
+    "LineFeedName": "Mage de givre",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_3",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_3",
+    "MasteryDes": [
+      ["", "Chaque 1 % de maîtrise confère 0,65 % de bonus de glace<br>"],
+      [
+        "",
+        "Chaque tranche de 1 % de maîtrise confère 1 % d'efficacité de gain d'énergie de glace et 0,2 % de bonus de glace.<br>Amélioration de maîtrise : chaque tranche de 1 % de maîtrise augmente le taux de conversion du bonus de glace de 3 %.<br>"
+      ]
+    ],
+    "Name": "Mage de givre",
+    "NormalAttackSkill": [1201],
+    "NormalSkill": [1239, 1211, 1244, 1210, 1240, 1243, 1246, 1245],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052402, 1052410, 1052418, 1052301, 1052307, 1052308]],
+    "ProfessionId": 2,
+    "ProfessionStarExtraItem": [[1020002]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [104, 105],
+    "SpecialSkill": [1242],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1241],
+    "UltimateSkill": [1248],
+    "UnlockCondition": [[2, 170102, 2]],
+    "WeaponSkinId": 7320002
+  },
+  "3": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_09",
+    "Id": 3,
+    "Index": 9,
+    "Intro": "Excelle dans le combat à <color=#fcbe03>courte portée</color>, utilisant des <color=#fcbe03>Haches doubles</color> comme arme. Les mouvements sont aussi vifs et féroces que le feu, avec d'excellentes capacités d'<color=#fcbe03>attaque de zone réduite</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Frappe jumelle",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_9",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_9",
+    "MasteryDes": [
+      [
+        "",
+        "Chaque tranche de 1 % de maîtrise confère 3,2 % de boost de TdR pour Assaut flamboyant, Fendoir de rage et Vent de hache, ainsi que 0,2 % d'attaque.<br>"
+      ],
+      ["", "Chaque tranche de 1 % de maîtrise confère 0,72 % de bonus de feu.<br>"]
+    ],
+    "Name": "Frappe jumelle",
+    "NormalAttackSkill": [1601],
+    "NormalSkill": [1607, 1608, 1612, 1613, 1614, 1615, 1616, 1617],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052302, 1052303]],
+    "ProfessionId": 3,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [128, 129],
+    "SpecialSkill": [1605],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1618],
+    "UnlockCondition": [[2, 170108, 2]],
+    "WeaponSkinId": 7330002
+  },
+  "4": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 5,
+    "Icon": "ui/atlas/profession/profession_horizontal_02",
+    "Id": 4,
+    "Index": 6,
+    "Intro": "Excelle dans le <color=#fcbe03>combat rapproché</color>, manie une <color=#fcbe03>Lance</color> comme arme. Agile et rapide, il possède d'excellentes capacités d'<color=#fcbe03>attaque sur petite zone</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Chevalier du vent",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_2",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_2",
+    "MasteryDes": [
+      [
+        "",
+        "Chaque tranche de 1 % de maîtrise confère 0,35 % de bonus de vent.<br>Amélioration de maîtrise : chaque tranche de 1 % de maîtrise augmente le taux de conversion du bonus de vent de 3 %.<br>"
+      ],
+      ["", "Chaque 1 % de maîtrise confère 0,65 % de bonus de vent.<br>"]
+    ],
+    "Name": "Chevalier du vent",
+    "NormalAttackSkill": [1401],
+    "NormalSkill": [1420, 1421, 1422, 1425, 1424, 1430, 1431, 1423],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052404, 1052412, 1052420, 1052301, 1052310, 1052303]],
+    "ProfessionId": 4,
+    "ProfessionStarExtraItem": [[1020004]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [107, 108],
+    "SpecialSkill": [1418],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1409, 1410, 1411, 1419, 1433, 1434, 1435],
+    "UltimateSkill": [1426],
+    "UnlockCondition": [[2, 170101, 2]],
+    "WeaponSkinId": 7340002
+  },
+  "5": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 4,
+    "Icon": "ui/atlas/profession/profession_horizontal_04",
+    "Id": 5,
+    "Index": 1,
+    "Intro": "Manie un <color=#fcbe03>Anneau de nature</color>, excellant dans le <color=#fcbe03>soin à longue portée</color>. Canalise l'essence verdoyante de la forêt pour prodiguer des <color=#fcbe03>soins</color> exceptionnels et des <color=#fcbe03>buffs</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Oracle verdoyant",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
+    "MasteryDes": [
+      [
+        "",
+        "Chaque 1 % de maîtrise confère 0,75 % de bonus de forêt et 0,3 % de puissance du bouclier<br>"
+      ],
+      ["", "Chaque 1 % de maîtrise augmente la puissance des soins de 1 %."]
+    ],
+    "Name": "Oracle verdoyant",
+    "NormalAttackSkill": [1501],
+    "NormalSkill": [1519, 1520, 1522, 1523, 1521, 1531, 1529, 1524],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052406, 1052414, 1052422, 1052301, 1052314, 1052313]],
+    "ProfessionId": 5,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [110, 111],
+    "SpecialSkill": [1518],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [1507, 1525, 1527, 1528, 1541],
+    "UltimateSkill": [1509],
+    "UnlockCondition": [[2, 170104, 2]],
+    "WeaponSkinId": 7350002
+  },
+  "8": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 8,
+    "Index": 99,
+    "Intro": "Excelle dans le <color=#fcbe03>combat à longue portée</color>,<br>capable de frapper de larges zones par tirs rapides. Augmenter la <color=#fcbe03>chance de Sceau</color> augmente aussi considérablement la fréquence de déclenchement.<br>Peut <color=#fcbe03>se charger</color> à courte portée pour infliger d'énormes dégâts. Augmente le <color=#fcbe03>taux de critique</color> pour infliger des dégâts massifs.",
+    "IsOpen": false,
+    "LineFeedName": "Éclair tonitruant - Canon à main",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Confère des dégâts de foudre."],
+      ["", "Confère des dégâts de foudre."]
+    ],
+    "Name": "Éclair tonitruant - Canon à main",
+    "NormalAttackSkill": [1801],
+    "NormalSkill": [1807],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 8,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [1806],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1808],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7360001
+  },
+  "9": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 6,
+    "Icon": "ui/atlas/profession/profession_horizontal_06",
+    "Id": 9,
+    "Index": 2,
+    "Intro": "Manie une <color=#fcbe03>Lame de garde</color>, excellant dans le <color=#fcbe03>combat rapproché</color>. Canalise la puissance de la roche pour former une carapace protectrice, offrant une <color=#fcbe03>défense</color> et un <color=#fcbe03>contrôle</color> exceptionnels.",
+    "IsOpen": true,
+    "LineFeedName": "Gardien imposant",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_1",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_1",
+    "MasteryDes": [
+      ["", "Chaque 1 % de maîtrise augmente la puissance du bouclier de 2,5 %."],
+      [
+        "",
+        "Chaque 1 % de maîtrise confère 0,2 % de réduction des dégâts sur blocage et 0,2 % de réduction des dégâts sur Blocage chanceux."
+      ]
+    ],
+    "Name": "Gardien imposant",
+    "NormalAttackSkill": [1901],
+    "NormalSkill": [1924, 1927, 1936, 1926, 1937, 1925, 1938, 1923],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052405, 1052413, 1052421, 1052301, 1052302, 1052309]],
+    "ProfessionId": 9,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [113, 114],
+    "SpecialSkill": [1922],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [1932, 1933, 1939, 1940, 1941, 1942, 1943, 1944],
+    "UltimateSkill": [1907],
+    "UnlockCondition": [[2, 170105, 2]],
+    "WeaponSkinId": 7370002
+  }
+}

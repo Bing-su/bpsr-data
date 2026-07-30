@@ -1,0 +1,1326 @@
+{
+  "100001": {
+    "Content": "<style=\"emph-gn\">Reforço FIS</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 100001
+  },
+  "100101": {
+    "Content": "<style=\"emph-gn\">Reforço MAG</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 100101
+  },
+  "100201": {
+    "Content": "Ao usar uma Habilidade Suprema, o <style=\"emph-gn\">TR</style> de todas as habilidades acelera em <style=\"accent-gn\">100%</style>, e a velocidade de recuperação de <style=\"emph-gn\">recursos de combate</style> aumenta em <style=\"accent-gn\">100%</style> por <style=\"accent-gn\">20 s</style>.",
+    "Id": 100201
+  },
+  "100301": {
+    "Content": "Aumenta o ATQ em <style=\"accent-gn\">5%</style> para o usuário e aliados em um raio de <style=\"accent-gn\">10 m</style>.<br>Para cada tipo de <style=\"emph-gn\">função</style> presente na área, este bônus aumenta em <style=\"accent-gn\">5%</style> (até <style=\"accent-gn\">20%</style>).",
+    "Id": 100301
+  },
+  "100401": {
+    "Content": "Cada uso da <style=\"emph-gn\">Habilidade de Perícia</style> aumenta seu dano e cura em <style=\"accent-gn\">0,2%</style>.<br>Acumula até <style=\"accent-gn\">200</style> vezes. Com o máximo de acúmulos, concede um reforço de <style=\"accent-gn\">20%</style> ao dano e à cura da <style=\"emph-gn\">Habilidade de Perícia</style>.",
+    "Id": 100401
+  },
+  "100501": {
+    "Content": "Cada <style=\"emph-gn\">Ataque Especial</style> aumenta seu dano e cura em <style=\"accent-gn\">0,2%</style>.<br>Acumula até <style=\"accent-gn\">200</style> vezes. Com o máximo de acúmulos, concede um reforço de <style=\"accent-gn\">20%</style> ao dano e à cura do <style=\"emph-gn\">Ataque Especial</style>.",
+    "Id": 100501
+  },
+  "100601": {
+    "Content": "<style=\"emph-gn\">Celeridade</style><style=\"accent-gn\"> +20%</style>. Perde <style=\"accent-gn\">8%</style> de PV por segundo ao se mover em combate.",
+    "Id": 100601
+  },
+  "100701": {
+    "Content": "Reduz o TR da <style=\"emph-gn\">Habilidade Suprema</style> em <style=\"accent-gn\">1%</style> a cada <style=\"accent-gn\">200</style> de Celeridade (até <style=\"accent-gn\">50%</style>).",
+    "Id": 100701
+  },
+  "100801": {
+    "Content": "Derrotar um alvo reduz o TR restante da <style=\"emph-gn\">Habilidade de Perícia</style> em <style=\"accent-gn\">10%</style>.",
+    "Id": 100801
+  },
+  "100901": {
+    "Content": "<style=\"emph-gn\">Ataques Especiais</style> reduzem o TR restante da <style=\"emph-gn\">Habilidade de Perícia</style> em <style=\"accent-gn\">0,5 s</style>",
+    "Id": 100901
+  },
+  "101001": {
+    "Content": "<style=\"emph-gn\">Derrotar</style> um alvo aumenta o <style=\"emph-gn\">dano crítico</style> em <style=\"accent-gn\">10%</style> por <style=\"accent-gn\">5 s</style> (até <style=\"accent-gn\">30%</style>)",
+    "Id": 101001
+  },
+  "101101": {
+    "Content": "Ao causar dano a alvos com mais de <style=\"accent-gn\">80%</style> de PV, <style=\"emph-gn\">dano crítico</style> <style=\"accent-gn\">+60%</style>",
+    "Id": 101101
+  },
+  "101201": {
+    "Content": "<style=\"emph-gn\">ATQ</style> <style=\"accent-gn\">+25%</style>. Se o PV estiver acima de <style=\"accent-gn\">30%</style>, cada ataque consome <style=\"accent-gn\">2,5%</style> de PV",
+    "Id": 101201
+  },
+  "101301": {
+    "Content": "A cada <style=\"accent-gn\">1%</style> de PV perdido, concede <style=\"accent-gn\">0,3%</style> de <style=\"emph-gn\">ATQ</style>. Cada incremento de Ira Sangrenta aumenta este reforço em <style=\"accent-gn\">0,1%</style>",
+    "Id": 101301
+  },
+  "101401": {
+    "Content": "Acertar um <style=\"emph-gn\">Golpe de Sorte</style> ativa a <style=\"emph-gn\">Explosão de Sangue</style>, causando dano igual a </style>20%<style=\"accent-gn\"> do PV perdido (TR: <style=\"accent-gn\">1 s</style>)",
+    "Id": 101401
+  },
+  "101501": {
+    "Content": "Quando o PV está abaixo de <style=\"accent-gn\">30%</style>, converte <style=\"accent-gn\">10%</style> do <style=\"emph-gn\">dano causado</style> em um <style=\"emph-gn\">Escudo</style>. Acumula até <style=\"accent-gn\">100%</style> do PV Máximo",
+    "Id": 101501
+  },
+  "101601": {
+    "Content": "Ao ficar <style=\"emph-gn\">À Beira da Morte</style>, concede <style=\"accent-gn\">3 s</style> de <style=\"emph-gn\">Invencibilidade</style> e <style=\"emph-gn\">Aceleração</style> (TR: <style=\"accent-gn\">20 s</style>)",
+    "Id": 101601
+  },
+  "101701": {
+    "Content": "Ataques ativam <style=\"emph-gn\">Guerra de Sangue</style>, aumentando o <style=\"emph-gn\">ATQ</style> em <style=\"accent-gn\">20%</style> e impedindo a morte por <style=\"accent-gn\">3 s</style>",
+    "Id": 101701
+  },
+  "101801": {
+    "Content": "<style=\"emph-gn\">ATQ</style><style=\"accent-gn\"> +25%</style>, mas recebe dano igual a <style=\"accent-gn\">1%</style> do <style=\"emph-gn\">PV Máximo</style> por segundo",
+    "Id": 101801
+  },
+  "101901": {
+    "Content": "Causa dano em área equivalente a <style=\"accent-gn\">20%</style> do <style=\"emph-gn\">PV Máximo</style> a cada <style=\"accent-gn\">3 </style>",
+    "Id": 101901
+  },
+  "102001": {
+    "Content": "Ganha <style=\"emph-gn\">ATQ</style> equivalente a <style=\"accent-gn\">0,3%</style> do <style=\"emph-gn\">PV Máximo</style>",
+    "Id": 102001
+  },
+  "102101": {
+    "Content": "Acertar um <style=\"emph-gn\">Golpe de Sorte</style> concede um <style=\"emph-gn\">Escudo</style> equivalente a <style=\"accent-gn\">20%</style> do <style=\"emph-gn\">PV Máximo</style>",
+    "Id": 102101
+  },
+  "102201": {
+    "Content": "Ao ser atingido, causa dano em área equivalente a <style=\"accent-gn\">10%</style> do <style=\"emph-gn\">PV Máximo</style>",
+    "Id": 102201
+  },
+  "102301": {
+    "Content": "Ao ser atingido, reduz o <style=\"emph-gn\">TR</style> restante de todas as habilidades em <style=\"accent-gn\">1 s</style>",
+    "Id": 102301
+  },
+  "102401": {
+    "Content": "<style=\"emph-gn\">PV Máximo</style><style=\"accent-gn\"> +100%</style>, mas recebe dano igual a <style=\"accent-gn\">1%</style> do <style=\"emph-gn\">PV Máximo</style> por segundo",
+    "Id": 102401
+  },
+  "102501": {
+    "Content": "Ao causar dano com Habilidades de Classe, os ataques causam dano bônus equivalente a <style=\"accent-gn\">0,2%</style> do <style=\"emph-gn\">PV atual</style> do inimigo",
+    "Id": 102501
+  },
+  "102601": {
+    "Content": "Cada <style=\"emph-gn\">incremento de Maldição</style> concede um reforço de <style=\"accent-gn\">10%</style> à <style=\"emph-gn\">Armadura</style>",
+    "Id": 102601
+  },
+  "102701": {
+    "Content": "Aumenta a <style=\"emph-gn\">Armadura</style> em <style=\"accent-gn\">3%</style> do <style=\"emph-gn\">PV Máximo</style>",
+    "Id": 102701
+  },
+  "102801": {
+    "Content": "Ao ser atingido, reflete dano em área equivalente a <style=\"accent-gn\">400%</style> da <style=\"emph-gn\">Armadura</style>",
+    "Id": 102801
+  },
+  "102901": {
+    "Content": "Ao curar um alvo, causa dano de Habilidade de Classe aos inimigos ao redor equivalente a <style=\"accent-gn\">100%</style> da potência da cura a cada <style=\"accent-gn\">1 s</style> (a cura é acumulada durante este período)",
+    "Id": 102901
+  },
+  "103001": {
+    "Content": "A cada <style=\"accent-gn\">10</style> <style=\"emph-gn\">Ataques Especiais</style>, aumenta permanentemente a <style=\"emph-gn\">Quantidade de Cura</style> em <style=\"accent-gn\">1%</style> (até <style=\"accent-gn\">30%</style>)",
+    "Id": 103001
+  },
+  "103101": {
+    "Content": "Aliados em um raio de 10 m ganham um <style=\"emph-gn\">Escudo</style> equivalente a <style=\"accent-gn\">20%</style> de seu <style=\"emph-gn\">PV Máximo</style> a cada <style=\"accent-gn\">10 s</style>",
+    "Id": 103101
+  },
+  "103201": {
+    "Content": "Aumenta em <style=\"accent-gn\">10%</style> a <style=\"emph-gn\">Vulnerabilidade</style> dos inimigos em um raio de 10 m",
+    "Id": 103201
+  },
+  "103301": {
+    "Content": "A cada <style=\"accent-gn\">5 s</style>, <style=\"emph-gn\">atordoa</style> os inimigos em um raio de 10 m por <style=\"accent-gn\">1 s</style>",
+    "Id": 103301
+  },
+  "103401": {
+    "Content": "Acertar um <style=\"emph-gn\">Golpe de Sorte</style> ativa o <style=\"emph-gn\">Golpe Relâmpago</style>, causando <style=\"emph-gn\">dano</style> equivalente a <style=\"accent-gn\">45%</style> de ATQ (TR: <style=\"accent-gn\">1 s</style>)",
+    "Id": 103401
+  },
+  "103501": {
+    "Content": "Acertar um <style=\"emph-gn\">Golpe de Sorte</style> ativa a <style=\"emph-gn\">Tempestade de Lâminas</style>, causando <style=\"emph-gn\">dano</style> equivalente a <style=\"accent-gn\">45%</style> de ATQ (TR: <style=\"accent-gn\">1 s</style>)",
+    "Id": 103501
+  },
+  "103601": {
+    "Content": "Acertar um <style=\"emph-gn\">Golpe de Sorte</style> ativa a <style=\"emph-gn\">Explosão de Bola de Fogo</style>, causando <style=\"emph-gn\">dano</style> igual a <style=\"accent-gn\">45%</style> do ATQ (TR: <style=\"accent-gn\">1 s</style>).",
+    "Id": 103601
+  },
+  "103701": {
+    "Content": "Acertar um <style=\"emph-gn\">Golpe de Sorte</style> ativa a <style=\"emph-gn\">Cadeia de Raios</style>, causando dano igual a <style=\"accent-gn\">1%</style> do <style=\"emph-gn\">PV Máximo</style> (TR: <style=\"accent-gn\">1 s</style>).",
+    "Id": 103701
+  },
+  "103801": {
+    "Content": "<style=\"emph-gn\">Taxa de Crítico</style><style=\"accent-gn\"> +30%</style>. Para qualquer Taxa de Crítico permanente acima de <style=\"accent-gn\">50%</style>, cada <style=\"accent-gn\">2%</style> é convertido em <style=\"accent-gn\">1%</style> de <style=\"emph-gn\">dano crítico</style> (até <style=\"accent-gn\">50%</style>).",
+    "Id": 103801
+  },
+  "103901": {
+    "Content": "Dobra o <style=\"emph-gn\">dano crítico</style>.",
+    "Id": 103901
+  },
+  "104001": {
+    "Content": "Ao acertar um golpe crítico, causa dano em área adicional igual a <style=\"accent-gn\">200%</style> de ATQ no local do alvo (TR: <style=\"accent-gn\">1 s</style>). É garantido que este dano em área será crítico. Para cada incremento de \"Brutalidade\" possuído, o dano final é aumentado em <style=\"accent-gn\">50%</style>.",
+    "Id": 104001
+  },
+  "104101": {
+    "Content": "Acertos críticos reduzem as recargas de todas as habilidades em <style=\"accent-gn\">0,5 s</style> (ativa no máximo uma vez a cada <style=\"accent-gn\">1 s</style>).",
+    "Id": 104101
+  },
+  "104201": {
+    "Content": "Ganha 1 acúmulo de Símbolo do Ceifador a cada acerto crítico. Ao atingir <style=\"accent-gn\">20</style> acúmulos, aumenta o <style=\"emph-gn\">dano crítico</style> em <style=\"accent-gn\">30%</style> por <style=\"accent-gn\">5 s</style>.",
+    "Id": 104201
+  },
+  "104301": {
+    "Content": "Habilidade de Perícia: <style=\"emph-gn\">Crítico</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 104301
+  },
+  "104401": {
+    "Content": "Ataque Especial: <style=\"emph-gn\">Crítico</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 104401
+  },
+  "104501": {
+    "Content": "Acertos críticos restauram <style=\"accent-gn\">1%</style> de PV (TR: <style=\"accent-gn\">0,1 s</style>).",
+    "Id": 104501
+  },
+  "104601": {
+    "Content": "Quando o dano causado não é um acerto crítico, a taxa de <style=\"emph-gn\">crítico</style> aumenta em <style=\"accent-gn\">50%</style> até o próximo acerto crítico.",
+    "Id": 104601
+  },
+  "104701": {
+    "Content": "Até <style=\"accent-gn\">15 s</style> após usar uma Habilidade Suprema, todo o dano tem acerto crítico garantido.",
+    "Id": 104701
+  },
+  "104801": {
+    "Content": "Ao receber cura, ganha <style=\"accent-gn\">+20%</style> de <style=\"emph-gn\">crítico</style> por <style=\"accent-gn\">5 s</style>.",
+    "Id": 104801
+  },
+  "104901": {
+    "Content": "A cada inimigo derrotado, a taxa de <style=\"emph-gn\">crítico</style> aumenta em <style=\"accent-gn\">0,3%</style> (até <style=\"accent-gn\">100</style> acúmulos).",
+    "Id": 104901
+  },
+  "105001": {
+    "Content": "Habilidade Suprema: <style=\"emph-gn\">Crítico</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 105001
+  },
+  "105101": {
+    "Content": "Ao acertar um golpe crítico, causa dano em área adicional igual a <style=\"accent-gn\">200%</style> de ATQ no local do alvo (TR: <style=\"accent-gn\">1 s</style>). É garantido que este dano em área será um Golpe de Sorte.",
+    "Id": 105101
+  },
+  "105201": {
+    "Content": "Críticos aumentam o <style=\"emph-gn\">Dano Elemental</style> em <style=\"accent-gn\">1%</style> por <style=\"accent-gn\">5 s</style>, com até <style=\"accent-gn\">15</style> acúmulos.",
+    "Id": 105201
+  },
+  "105301": {
+    "Content": "Críticos aumentam a <style=\"emph-gn\">VEL de Ataque</style> em <style=\"accent-gn\">1%</style> e a <style=\"emph-gn\">VEL de Conjuração</style> em <style=\"accent-gn\">2%</style>, com até <style=\"accent-gn\">15</style> acúmulos.",
+    "Id": 105301
+  },
+  "105401": {
+    "Content": "O primeiro crítico ao entrar em combate aumenta o <style=\"emph-gn\">dano crítico</style> em <style=\"accent-gn\">500%</style>.",
+    "Id": 105401
+  },
+  "105501": {
+    "Content": "A cada <style=\"accent-gn\">3</style> críticos, o <style=\"emph-gn\">dano crítico</style> do próximo aumenta em <style=\"accent-gn\">50%</style> e redefine o contador.",
+    "Id": 105501
+  },
+  "105601": {
+    "Content": "<style=\"emph-gn\">Dano crítico</style><style=\"accent-gn\"> +20%</style>",
+    "Id": 105601
+  },
+  "105701": {
+    "Content": "<style=\"emph-gn\">Crítico</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 105701
+  },
+  "105801": {
+    "Content": "Críticos de Ataque Especial invocam um Imaginar de Batalha Chefe Muku (TR: <style=\"accent-gn\">15 s</style>).",
+    "Id": 105801
+  },
+  "105901": {
+    "Content": "Efeito de Sorte: Causa dano em área igual a <style=\"accent-gn\">200%</style> de ATQ no local do alvo (TR: <style=\"accent-gn\">0,5 s</style>). Para cada incremento de \"Sorte\" possuído, o dano final deste ataque aumenta em <style=\"accent-gn\">50%</style>.",
+    "Id": 105901
+  },
+  "106001": {
+    "Content": "Aumenta o <style=\"emph-gn\">dano de efeito de Sorte</style> em <style=\"accent-gn\">30%</style>. Para cada incremento de Sorte, causa <style=\"accent-gn\">8%</style> de dano bônus.",
+    "Id": 106001
+  },
+  "106101": {
+    "Content": "Ao entrar em combate, a <style=\"emph-gn\">Sorte</style> aumenta em <style=\"accent-gn\">5%</style> a cada <style=\"accent-gn\">1 s</style>, com até <style=\"accent-gn\">20</style> acúmulos.",
+    "Id": 106101
+  },
+  "106201": {
+    "Content": "Efeito de Sorte: Ganha um <style=\"emph-gn\">Escudo</style> igual a <style=\"accent-gn\">20%</style> do <style=\"emph-gn\">PV Máximo</style> por <style=\"accent-gn\">2 s</style>.",
+    "Id": 106201
+  },
+  "106301": {
+    "Content": "A cada <style=\"accent-gn\">50</style> Golpes de Sorte no alvo principal, a <style=\"emph-gn\">velocidade de recarga</style> de todas as habilidades aumenta em <style=\"accent-gn\">100%</style> por <style=\"accent-gn\">15 s</style> (contagem pausada enquanto ativo).",
+    "Id": 106301
+  },
+  "106401": {
+    "Content": "Nos primeiros <style=\"accent-gn\">30 s</style> de combate, todo o dano causado garante um Golpe de Sorte.",
+    "Id": 106401
+  },
+  "106501": {
+    "Content": "Quando um Golpe de Sorte é acionado por dano ou cura, o <style=\"emph-gn\">ATQ</style> do próximo Golpe de Sorte aumenta em <style=\"accent-gn\">+40%</style>.",
+    "Id": 106501
+  },
+  "106601": {
+    "Content": "Golpe de Sorte sempre causa um acerto <style=\"emph-gn\">crítico</style>.",
+    "Id": 106601
+  },
+  "106701": {
+    "Content": "Quando um Golpe de Sorte é acionado por dano ou cura, o <style=\"emph-gn\">Dano Elemental</style> aumenta em <style=\"accent-gn\">1%</style> por <style=\"accent-gn\">5 s</style>, com até <style=\"accent-gn\">15</style> acúmulos.",
+    "Id": 106701
+  },
+  "106801": {
+    "Content": "Acionar um Golpe de Sorte ao causar dano ou curar aumenta a <style=\"emph-gn\">VEL de Ataque</style> em <style=\"accent-gn\">1%</style> e a <style=\"emph-gn\">VEL de Conjuração</style> em <style=\"accent-gn\">2%</style>, com até <style=\"accent-gn\">15</style> acúmulos.",
+    "Id": 106801
+  },
+  "106901": {
+    "Content": "Para cada inimigo derrotado, a <style=\"emph-gn\">Sorte</style><style=\"accent-gn\"> aumenta em 0,3%</style> (até <style=\"accent-gn\">100</style> acúmulos).",
+    "Id": 106901
+  },
+  "107001": {
+    "Content": "A cada <style=\"accent-gn\">15 s</style>, o <style=\"emph-gn\">Dano de Golpe de Sorte</style> aumenta em <style=\"accent-gn\">40%</style> por <style=\"accent-gn\">8 s</style>.",
+    "Id": 107001
+  },
+  "107101": {
+    "Content": "<style=\"emph-gn\">Dano de Golpe de Sorte</style> <style=\"accent-gn\">+20%</style>",
+    "Id": 107101
+  },
+  "107201": {
+    "Content": "<style=\"emph-gn\">Sorte</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 107201
+  },
+  "107301": {
+    "Content": "Quando um Golpe de Sorte é acionado ao causar dano, invoca um Rei Goblin para ajudar na batalha (TR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 107301
+  },
+  "107401": {
+    "Content": "Quando uma Habilidade Suprema aciona um Golpe de Sorte, invoca um Reptiliano Caçador (TR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 107401
+  },
+  "107501": {
+    "Content": "Reduz o <style=\"emph-gn\">TR</style> do Imaginar de Batalha em <style=\"accent-gn\">80%</style>.",
+    "Id": 107501
+  },
+  "107601": {
+    "Content": "O <style=\"emph-gn\">dano</style> do Imaginar de Batalha aumenta em <style=\"accent-gn\">200%</style>.",
+    "Id": 107601
+  },
+  "107701": {
+    "Content": "O dano causado pelo Imaginar de Batalha tem garantia de ser crítico e o <style=\"emph-gn\">dano crítico</style> é aumentado em <style=\"accent-gn\">50%</style>.",
+    "Id": 107701
+  },
+  "107801": {
+    "Content": "O Imaginar de Batalha ganha um bônus de <style=\"accent-gn\">100%</style> de <style=\"emph-gn\">Dano Elemental</style>.",
+    "Id": 107801
+  },
+  "107901": {
+    "Content": "<style=\"emph-gn\">Crítico</style> do Imaginar de Batalha <style=\"accent-gn\">+80%</style>",
+    "Id": 107901
+  },
+  "108001": {
+    "Content": "Cada Imaginar de Batalha aumenta permanentemente o <style=\"emph-gn\">ATQ</style> em <style=\"accent-gn\">0,5%</style> (até <style=\"accent-gn\">60 acúmulos</style>).",
+    "Id": 108001
+  },
+  "108101": {
+    "Content": "Dano final causado <style=\"accent-gn\">-40%</style>. Dano final causado pelo Imaginar de Batalha <style=\"accent-gn\">+40%</style>.",
+    "Id": 108101
+  },
+  "108201": {
+    "Content": "Converte <style=\"accent-gn\">5%</style> do dano do Imaginar de Batalha em cura.",
+    "Id": 108201
+  },
+  "108301": {
+    "Content": "<style=\"emph-gn\">Crítico</style> do Imaginar de Batalha <style=\"accent-gn\">+20%</style>",
+    "Id": 108301
+  },
+  "108401": {
+    "Content": "Ataques Especiais invocam aleatoriamente um <style=\"emph-gn\">Imaginar de Goblin</style> (TR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 108401
+  },
+  "108501": {
+    "Content": "Habilidades de Perícia invocam aleatoriamente um <style=\"emph-gn\">Imaginar de Animal</style> (TR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 108501
+  },
+  "108601": {
+    "Content": "O Imaginar de Batalha invoca simultaneamente um <style=\"emph-gn\">Imaginar de Goblin da Besta</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 108601
+  },
+  "108701": {
+    "Content": "Habilidades Supremas invocam aleatoriamente um <style=\"emph-gn\">Imaginar de Personagem das Terras Altas</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 108701
+  },
+  "108801": {
+    "Content": "Para cada bonificação de Imaginar de Batalha ativa, o <style=\"emph-gn\">dano</style> aumenta em <style=\"accent-gn\">4%</style> e o <style=\"emph-gn\">dano sofrido</style> é reduzido em <style=\"accent-gn\">2%</style>.",
+    "Id": 108801
+  },
+  "108901": {
+    "Content": "Habilidades Supremas invocam simultaneamente um <style=\"emph-gn\">Imaginar de Muku Guerreiro</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 108901
+  },
+  "109001": {
+    "Content": "Quando o PV fica abaixo de <style=\"accent-gn\">50%</style>, invoca um <style=\"emph-gn\">Imaginar de Rei Muku</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 109001
+  },
+  "109101": {
+    "Content": "Invoca automaticamente um <style=\"emph-gn\">Imaginar de Tina</style> a cada <style=\"accent-gn\">60 s</style>.",
+    "Id": 109101
+  },
+  "109201": {
+    "Content": "Ao entrar em combate, invoca imediatamente um <style=\"emph-gn\">Imaginar de Ogro Tempestuoso</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 109201
+  },
+  "109301": {
+    "Content": "Quando um Golpe de Sorte é ativado ao causar dano ou curar, invoca aleatoriamente um <style=\"emph-gn\">Imaginar de Sorte</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 109301
+  },
+  "109401": {
+    "Content": "Imaginar de Batalha <style=\"emph-gn\">Sorte</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 109401
+  },
+  "109501": {
+    "Content": "Quando Habilidades de Classe causam dano, restaura <style=\"accent-gn\">1%</style> de PV ao conjurador e aliados próximos, e concede um bônus de <style=\"accent-gn\">15%</style> de <style=\"emph-gn\">ATQ</style> por <style=\"accent-gn\">3 s</style> (TR: <style=\"accent-gn\">0,3 s</style>).",
+    "Id": 109501
+  },
+  "109601": {
+    "Content": "Quando há uma alteração no Dano Elemental, aliados próximos ganham <style=\"accent-gn\">20%</style> de <style=\"emph-gn\">Dano Elemental</style> por <style=\"accent-gn\">10 s</style>.",
+    "Id": 109601
+  },
+  "109701": {
+    "Content": "Quando <style=\"emph-gn\">Crítico/Sorte/Celeridade/Maestria/Versatilidade</style> muda, aliados próximos ganham um aumento de <style=\"accent-gn\">10%</style> no atributo correspondente por <style=\"accent-gn\">10 s</style>.",
+    "Id": 109701
+  },
+  "109801": {
+    "Content": "Para cada aliado em um raio de 15 m, o <style=\"emph-gn\">dano</style> aumenta em <style=\"accent-gn\">8%</style> e o <style=\"emph-gn\">dano sofrido</style> é reduzido em <style=\"accent-gn\">4%</style>.",
+    "Id": 109801
+  },
+  "109901": {
+    "Content": "Causar cura concede ao alvo <style=\"accent-gn\">10%</style> de <style=\"emph-gn\">Reforço FIS</style> e <style=\"emph-gn\">Reforço MAG</style> por <style=\"accent-gn\">3 s</style>.",
+    "Id": 109901
+  },
+  "110001": {
+    "Content": "Habilidades Supremas concedem uma Aura de Recurso por <style=\"accent-gn\">15 s</style>, que aumenta a <style=\"emph-gn\">Eficiência de Aquisição de Recurso de Combate</style> de aliados próximos em <style=\"accent-gn\">+100%</style> (apenas um efeito pode ficar ativo por vez).",
+    "Id": 110001
+  },
+  "110101": {
+    "Content": "Causar cura concede ao alvo <style=\"accent-gn\">10%</style><style=\"emph-gn\"> de Redução de Dano</style> por <style=\"accent-gn\">3 s</style>",
+    "Id": 110101
+  },
+  "110201": {
+    "Content": "Reduz em <style=\"accent-gn\">10%</style> o dano causado por inimigos a até 10 m.",
+    "Id": 110201
+  },
+  "110301": {
+    "Content": "A cura concede um <style=\"emph-gn\">escudo</style> equivalente a <style=\"accent-gn\">20%</style> do <style=\"emph-gn\">PV Máximo</style> por <style=\"accent-gn\">10 s</style>. Cada alvo só pode receber este escudo uma vez a cada <style=\"accent-gn\">10 s</style>.",
+    "Id": 110301
+  },
+  "110401": {
+    "Content": "<style=\"emph-gn\">Aumenta a cura em</style><style=\"accent-gn\"> 15%</style>.",
+    "Id": 110401
+  },
+  "110501": {
+    "Content": "<style=\"emph-gn\">Aumenta a eficácia do escudo em</style> <style=\"accent-gn\">15%</style>.",
+    "Id": 110501
+  },
+  "110601": {
+    "Content": "Converte <style=\"accent-gn\">10%</style> de <style=\"emph-gn\">cura</style> em <style=\"accent-gn\">5%</style> de <style=\"emph-gn\">Bônus de Todos os Elementos</style>.",
+    "Id": 110601
+  },
+  "110701": {
+    "Content": "Após usar uma Habilidade Suprema, cria uma Aura de Cura por <style=\"accent-gn\">10 s</style>. A cada segundo, cura aliados a 15 m em <style=\"accent-gn\">100%</style> de ATQ. (TR: <style=\"accent-gn\">30 s</style>)",
+    "Id": 110701
+  },
+  "110801": {
+    "Content": "Ao lançar uma Habilidade de Perícia, você ganha uma Aura da Sorte por <style=\"accent-gn\">10 s</style>, aplicando o efeito passivo <style=\"emph-gn\">Imaginar de Reptiliano Caçador</style> a aliados a 15 metros (TR: <style=\"accent-gn\">30 s</style>; este efeito não acumula).",
+    "Id": 110801
+  },
+  "110901": {
+    "Content": "Após usar um Ataque Especial, uma Aura Crítica que dura <style=\"accent-gn\">5 s</style> é criada, aumentando o <style=\"emph-gn\">dano crítico</style> de aliados a 15 m em <style=\"accent-gn\">+3%</style>.",
+    "Id": 110901
+  },
+  "111001": {
+    "Content": "A cura com Habilidades de Classe acumula dano. Quando o dano acumulado atinge <style=\"accent-gn\">10000%</style> de ATQ, o próximo ataque que causar dano também ativará uma explosão em AdE que aplica dano igual ao valor acumulado. (Ativa no máximo uma vez a cada <style=\"accent-gn\">1 s</style>).",
+    "Id": 111001
+  },
+  "111101": {
+    "Content": "A cada segundo, aplica dano a um alvo aleatório próximo igual à <style=\"emph-gn\">quantidade de cura</style> realizada por Habilidades de Classe no período.",
+    "Id": 111101
+  },
+  "111201": {
+    "Content": "Ao aplicar cura, invoca um <style=\"emph-gn\">Imaginar: Basilisco</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 111201
+  },
+  "111301": {
+    "Content": "Ao aplicar cura, invoca um <style=\"emph-gn\">Imaginar: Bandido Chefe</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 111301
+  },
+  "111401": {
+    "Content": "Ao aplicar cura, invoca uma <style=\"emph-gn\">Imaginar: Colmeia</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 111401
+  },
+  "111501": {
+    "Content": "Causar dano com Corte de Iaido garante o acionamento de Domínio do Vento Cortante. A redução de TR de Combo do Oblívio por Domínio do Vento Cortante é aumentada em 300%. Apenas um Domínio do Vento Cortante pode estar ativo por vez (requer o talento Domínio do Vento Cortante).<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 111501
+  },
+  "111601": {
+    "Content": "Dobra o limite de Símbolo do Trovão. A eficiência de recuperação de Símbolo do Trovão da Sobrecarga é aumentada em 300%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 111601
+  },
+  "111701": {
+    "Content": "​O TR do Corte de Iaido é reduzido em 50%, e o Dano de Quebra de Ilusão do Corte de Iaido é aumentado em 50%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 111701
+  },
+  "111801": {
+    "Content": "Dobra o Dano Crítico de Corte Supremo.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 111801
+  },
+  "111901": {
+    "Content": "Conjurar o Raio Draco ou o Corte Fantasma prolonga a duração do Surto de Voltagem em 10 s. O Dano de Quebra de Ilusão do Raio Draco e do Corte Fantasma é aumentado em 500%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 111901
+  },
+  "112001": {
+    "Content": "Durante o Surto de Voltagem, os Críticos de Lampejo e da Investida de Raijin redefinirão os TRs deles. O Dano de Quebra de Ilusão de Lampejo e da Investida de Raijin é aumentado em 50%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 112001
+  },
+  "112101": {
+    "Content": "A Velocidade de Movimento do Corte Trovejante é reduzida em 50%, e o Dano de Quebra de Ilusão do Corte Trovejante é aumentado em 60%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 112101
+  },
+  "112201": {
+    "Content": "Dobra a eficiência de ganho de Fúria do Trovão.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 112201
+  },
+  "112301": {
+    "Content": "Golpe Lunar não consome mais Símbolos do Trovão, e conjurar Golpe Lunar acionará Foice da Tempestade (requer o talento Foice da Tempestade).<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 112301
+  },
+  "112401": {
+    "Content": "Aumenta os acúmulos máximos da Foice Divina em 7. Conjurar a Foice Divina consome todos os acúmulos, aumentando o Dano de Quebra de Ilusão em 15% por acúmulo.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 112401
+  },
+  "112501": {
+    "Content": "Ao conjurar Foice Divina, Lâminas Lunares também invocarão simultaneamente Foice Divina.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 112501
+  },
+  "112601": {
+    "Content": "Aumenta o número máximo de Lâminas Lunares em 2.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 112601
+  },
+  "112701": {
+    "Content": "A cada 5 vezes que Golpe do Trovão é acionado, o próximo Golpe do Trovão também acionará uma Tempestade de Trovões.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 112701
+  },
+  "112801": {
+    "Content": "Foice Divina é conjurada automaticamente. Cada conjuração reduz o TR de Lampejo da Tempestade em 2 s.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 112801
+  },
+  "112901": {
+    "Content": "Golpe do Trovão e Foice da Tempestade agora podem acionar um Golpe de Sorte.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 112901
+  },
+  "113001": {
+    "Content": "O multiplicador de Golpe de Sorte é aumentado em 100%. O Reforço de Sorte é dobrado.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 113001
+  },
+  "113101": {
+    "Content": "Quando Raio de Gelo atinge um alvo, o contador de Pulso Frio é aumentado em 5, e o Dano Crítico de Pulso Frio é aumentado em 50%. (Aciona apenas uma vez por conjuração, mesmo em acertos múltiplos.)<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 113101
+  },
+  "113201": {
+    "Content": "Cada vez que Pulso Frio é acionado, o TR de Geleterno é reduzido em 1 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 113201
+  },
+  "113301": {
+    "Content": "Quando Pulso Frio causa dano, ele aumenta permanentemente o Ataque de Gelo em 2 pontos. (Aciona apenas uma vez por conjuração, mesmo em acertos múltiplos.)<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 113301
+  },
+  "113401": {
+    "Content": "Quando Pulso Frio causa dano, ele aumenta o dano de Flecha de Gelo em 5% por 5 s. Este efeito acumula até 50 vezes. (Aciona apenas uma vez por conjuração, mesmo em acertos múltiplos.)<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 113401
+  },
+  "113501": {
+    "Content": "Durante o estado de Ultrafrio, o Vendaval Congelado ganha o efeito de Geleterno, e o Dano de Quebra de Ilusão dele é aumentado em 200%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 113501
+  },
+  "113601": {
+    "Content": "A cada 10 vezes que o Raio de Gelo causar dano ao alvo principal, acionará aleatoriamente o Vórtice Aquático, o Vórtice da Maré ou o Véu de Cristal (se equipado). O Dano de Quebra de Ilusão do Raio de Gelo é aumentado em 100%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 113601
+  },
+  "113701": {
+    "Content": "Quando ocorre a explosão congelada de Véu de Cristal, ela cria um Vórtice da Maré em seu local que dura 5 s (este Vórtice da Maré não se dividirá novamente). Quando isso aciona um efeito de Congelamento, o TR de Véu de Cristal é reduzido em 3 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 113701
+  },
+  "113801": {
+    "Content": "Após sua explosão congelada, o Vórtice da Maré se divide em dois novos Vórtices da Maré (eles não se dividirão novamente). O Dano de Quebra de Ilusão do Vórtice da Maré é aumentado em 200%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 113801
+  },
+  "113901": {
+    "Content": "A cada 1,5 s, Véu de Cristal dispara uma Lança de Gelo Perfurante em um alvo aleatório (ou para frente se não houver alvo). Quando Lança de Gelo Perfurante causa dano, o TR de Véu de Cristal é reduzido em 0,3 s.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 113901
+  },
+  "114001": {
+    "Content": "Reduz a contagem necessária para Lança de Gelo Perfurante em 5.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 114001
+  },
+  "114101": {
+    "Content": "Ao conjurar a Lança de Gelo com mais de 2 Cristais de Gelo, ela consumirá 1 Cristal de Gelo adicional para acionar a Lança de Gelo duas vezes consecutivas. O Dano de Quebra de Ilusão da Lança de Gelo é aumentado em 50%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 114101
+  },
+  "114201": {
+    "Content": "Quando Lança de Gelo Perfurante causa dano, o TR de Geleterno é reduzido em 0,3 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 114201
+  },
+  "114301": {
+    "Content": "Conjurar Véu de Cristal também conjura Nevasca. Quando Nevasca causa dano, o TR de Véu de Cristal é reduzido em 0,3 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 114301
+  },
+  "114401": {
+    "Content": "A Nevasca se torna uma conjuração instantânea, e invoca três de uma vez. O Dano de Quebra de Ilusão da Nevasca é aumentado em 200%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 114401
+  },
+  "114501": {
+    "Content": "A cada 5 conjurações de Tempestade de Meteoros, invoca um meteoro da Habilidade Suprema, o que coloca instantaneamente Nevasca em TR e reduz o TR de Geleterno em 5 s. O Dano de Quebra de Ilusão da Habilidade Suprema é aumentado em 200%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 114501
+  },
+  "114601": {
+    "Content": "Entra permanentemente no estado Frio Sem Fim, que concede dano em dobro. Cada acúmulo de Cristal de Gelo aumenta adicionalmente a Velocidade de Ataque em 10%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 114601
+  },
+  "114701": {
+    "Content": "A Habilidade Suprema também aciona Estouro de Feras, consumindo toda a Energia de Fóton para invocar Lobos Selvagens. 1 Lobo Selvagem é invocado para cada 20 de Energia de Fóton consumida. Isso dura 8 s.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 114701
+  },
+  "114801": {
+    "Content": "Bestas Lendárias agora aparecem simultaneamente, e seus efeitos são aumentados em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 114801
+  },
+  "114901": {
+    "Content": "Cada Lobo Selvagem invocado reduz o TR de Concentração em 5 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 114901
+  },
+  "115001": {
+    "Content": "Companheiros ganham +50% de Reforço FIS.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 115001
+  },
+  "115101": {
+    "Content": "Aumenta o multiplicador de ataque de Chuva de Flechas em 10x. Se mais de 3 companheiros estiverem no campo, cada companheiro adicional aumenta o Dano Final em 100%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 115101
+  },
+  "115201": {
+    "Content": "Rajada Torrencial tem garantia de ser Crítica. Cada 1% de Taxa Crítico aumenta seu Dano Crítico em 10%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 115201
+  },
+  "115301": {
+    "Content": "Lobos Atrozes Espectrais agora são considerados Feras.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 115301
+  },
+  "115401": {
+    "Content": "Flecha da Tempestade tem garantia de ser Crítico. O efeito do talento Domínio de Feras é alterado para aumentar o Dano Crítico de Flecha da Tempestade em 300%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 115401
+  },
+  "115501": {
+    "Content": "Quando o Falcão causa dano, 1 de Energia de Fóton é restaurada, e o dano do companheiro é aumentado em 50%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 115501
+  },
+  "115601": {
+    "Content": "Flecha Explosiva não pode ser conjurada novamente antes de detonar. O limite de acúmulo para Flecha Explosiva é removido, e a eficiência de geração de acúmulo de Golpe de Falcão é dobrada.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 115601
+  },
+  "115701": {
+    "Content": "Cada vez que Golpe de Falcão causa dano, a duração de Concentração é estendida em 0,3 s. Enquanto Concentração estiver ativa, o Dano Crítico do companheiro é aumentado em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 115701
+  },
+  "115801": {
+    "Content": "Chamado Selvagem agora invoca dois Falcões.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 115801
+  },
+  "115901": {
+    "Content": "Disparo Potente agora dispara projéteis em três direções à frente. Quanto mais próximo o alvo, maior o dano (de um mínimo de +10% a um máximo de +100%).<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 115901
+  },
+  "116001": {
+    "Content": "Dano Elemental de Disparo Potente +100%. Causa +500% de Dano de Quebra de Ilusão a alvos com mais de 80% de PV.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 116001
+  },
+  "116101": {
+    "Content": "Após conjurar Concentração, o próximo Disparo Potente torna-se um disparo duplo. Cada conjuração de Disparo Potente também reduz o TR de Concentração em 3 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 116101
+  },
+  "116201": {
+    "Content": "Cada Crítico reduz o TR de Rajada de Radiância em 0,2 s. O Dano Crítico de Rajada de Radiância é aumentado em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 116201
+  },
+  "116301": {
+    "Content": "Pulso de Regeneração aplica Espinho ao alvo. Espinho e Semente Selvagem agora podem acionar Golpe de Sorte.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 116301
+  },
+  "116401": {
+    "Content": "O TR de Semente Feral é reduzido em 90%, e sua Velocidade de Conjuração é aumentada em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 116401
+  },
+  "116501": {
+    "Content": "Pulso de Regeneração tem garantia de ser Crítico, e seu Dano Crítico é aumentado em 2.000%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 116501
+  },
+  "116601": {
+    "Content": "Acionado automaticamente quando a Investida do Cervo é obtida. Aumenta o Dano de Quebra de Ilusão do Ataque Especial em 400%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 116601
+  },
+  "116701": {
+    "Content": "A Infusão dispara balas adicionais em 5 alvos ao redor. O Dano de Quebra de Ilusão da Infusão é aumentado em 100%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 116701
+  },
+  "116801": {
+    "Content": "A Investida do Cervo acionada automaticamente agora pode acionar efeitos de talento. Cada vez que Investida do Cervo é acionada, o Dano de Habilidade de Perícia e o Dano de Sorte são aumentados em 10% por um período. Este efeito pode acumular até 10 vezes.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 116801
+  },
+  "116901": {
+    "Content": "A cada 10 vezes que Infusão atingir um alvo, a Carga Florescente é acionada.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 116901
+  },
+  "117001": {
+    "Content": "Quando a Infusão atinge um alvo, o Dano de Quebra de Ilusão do Golpe de Sorte é aumentado em 1%. Este efeito acumula até 50 vezes e dura 5 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 117001
+  },
+  "117101": {
+    "Content": "A área de dano da Carga Florescente invocada pela Semente Nutritiva é dobrada, e o Dano de Quebra de Ilusão dela é aumentado em 1.000%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 117101
+  },
+  "117201": {
+    "Content": "Ganhe Brotos de Regeneração continuamente enquanto Desejo do Bosque estiver ativo, e concede um Reforço de TR de 100% para Desejo do Bosque.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 117201
+  },
+  "117301": {
+    "Content": "Ganhe a bonificação Crescimento Rápido ao lançar a Habilidade Suprema (requer Crescimento Rápido). Cada vez que a Carga Florescente é acionada, o TR da Habilidade Suprema é reduzido em 1 s.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 117301
+  },
+  "117401": {
+    "Content": "Dobra o número de Sementes Nutritivas lançadas.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 117401
+  },
+  "117501": {
+    "Content": "Reduz o custo do Ataque Especial em 90%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 117501
+  },
+  "117601": {
+    "Content": "Ganhe Surto Vital permanentemente com seu efeito dobrado.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 117601
+  },
+  "117701": {
+    "Content": "Concede 50% de Reforço MAG e 30% de Celeridade a todas as habilidades de classe, mas impede o uso de Habilidades Supremas.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 117701
+  },
+  "117801": {
+    "Content": "Quando o DaT de Nutrir atinge 3 acúmulos, o alvo sofre Dreno de Vida: Por 5 s, causa (ATQM × 20 × Proficiência%) de dano por segundo. A cada vez que o dano é causado, o TR de todas as Habilidades de Perícia é reduzido em 1 s.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 117801
+  },
+  "117901": {
+    "Content": "Dano de Quebra de Ilusão do Ciclone +50% e Dano de Quebra de Ilusão do Grande Ciclone de Vento +100%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 117901
+  },
+  "118001": {
+    "Content": "Acionar Canhão Draco também aciona Grande Ciclone de Vento.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 118001
+  },
+  "118101": {
+    "Content": "Grande Ciclone de Vento torna-se um combo de dois golpes. Ao causar dano, seu Ataque de Vento aumenta permanentemente em 2 pontos.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 118101
+  },
+  "118201": {
+    "Content": "Reduz o TR da Forma do Vendaval em 80% e dobra seu efeito.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 118201
+  },
+  "118301": {
+    "Content": "Quando Golpe de Vórtice é lançado como uma derivação de Perseguição Invasiva, seu Dano Crítico aumenta em 50% (requer o talento Golpe de Vórtice).<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 118301
+  },
+  "118401": {
+    "Content": "Conjurar o Golpe de Vórtice consome toda a Coragem. Para cada ponto de Coragem consumido, o Dano de Quebra de Ilusão dele é aumentado em 3%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 118401
+  },
+  "118501": {
+    "Content": "Cada lançamento de Golpe de Vórtice reduz o TR da Habilidade Suprema. A quantidade de coragem restaurada por Perseguição Invasiva aumenta em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 118501
+  },
+  "118601": {
+    "Content": "Lançar Golpe de Vórtice aumenta permanentemente seu Ataque de Vento em 2 pontos.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 118601
+  },
+  "118701": {
+    "Content": "Quando o Corte Lazúli causar dano, ele acionará um Tornado adicional. O Dano de Quebra de Ilusão deste Tornado é aumentado em 100%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 118701
+  },
+  "118801": {
+    "Content": "A cada 7 vezes que um Tornado é acionado, um Tornado Melhorado é invocado, causando dano igual a 2.000% do seu ATQ.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 118801
+  },
+  "118901": {
+    "Content": "Reduz o custo de Afiação do Gume Instantâneo para 1 e aumenta o Dano de Quebra de Ilusão dele em 50%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 118901
+  },
+  "119001": {
+    "Content": "Aumenta a Velocidade de Ataque em 100% durante a Fúria do Vento.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 119001
+  },
+  "119101": {
+    "Content": "A Queda Celeste agora pode carregar o Impacto Afiado, aumentando o Dano de Quebra de Ilusão dele em 200%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 119101
+  },
+  "119201": {
+    "Content": "Dobra a quantidade máxima de Afiação. Por 10 s após lançar Impacto Afiado, ganhe 1 de Afiação a cada 0,5 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 119201
+  },
+  "119301": {
+    "Content": "O Gume Instantâneo agora consome toda a Afiação, com cada ponto consumido aumentando o Dano de Quebra de Ilusão dele em 10% adicional.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 119301
+  },
+  "119401": {
+    "Content": "Fúria do Vento agora pode acumular até 3 vezes, com suas bonificações aumentando proporcionalmente.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 119401
+  },
+  "119501": {
+    "Content": "A cada 10 Lançamentos de Escudo, o Lançamento de Escudo será melhorado. Toque para fazer os escudos girarem ao redor do conjurador.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 119501
+  },
+  "119601": {
+    "Content": "Aumenta o Dano de Quebra de Ilusão do Julgamento e do Golpe Divino em 50%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 119601
+  },
+  "119701": {
+    "Content": "Após conjurar o Julgamento Abrasador, o Dano de Quebra de Ilusão causado é aumentado em 50% pela sua duração.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 119701
+  },
+  "119801": {
+    "Content": "Lançar Lançamento de Escudo aumenta o ATQ em 2% por 2 s. Este efeito acumula até 50 vezes.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 119801
+  },
+  "119901": {
+    "Content": "Aumenta o Dano Crítico de Inferno do Juízo em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 119901
+  },
+  "120001": {
+    "Content": "Durante Proteção de Égide, Inferno do Juízo é acionado a cada 0,5 s, e sua Velocidade de Ataque aumenta em 100%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 120001
+  },
+  "120101": {
+    "Content": "Inferno do Juízo agora pode acionar Golpe Divino. O efeito de redução de TR da Retribuição da Proteção de Égide na Proteção de Égide é dobrado.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 120101
+  },
+  "120201": {
+    "Content": "Os Ataques Especiais agora podem acionar o Golpe Divino. O Dano de Quebra de Ilusão do Golpe Divino é aumentado em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 120201
+  },
+  "120301": {
+    "Content": "Reduz o TR de Radiância em 50%. Durante seu efeito, o Dano de Quebra de Ilusão causado é aumentado em 20%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 120301
+  },
+  "120401": {
+    "Content": "Lâmina Sagrada causa dano fixo adicional igual a 50% do PV Máximo. Também aumenta o PV Máximo em 50%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 120401
+  },
+  "120501": {
+    "Content": "Reduz o custo de Lâmina Sagrada em 1. Quando Lâmina Sagrada atinge um alvo com uma Marca Sagrada, o PV Máximo aumenta permanentemente em 200 pontos.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 120501
+  },
+  "120601": {
+    "Content": "Dobra os efeitos adicionais da Barreira Forjada em Luz.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 120601
+  },
+  "120701": {
+    "Content": "Caçada do Vanguardeiro e Corte em Arco Divino causam dano fixo adicional igual a 50% do PV Máximo.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 120701
+  },
+  "120801": {
+    "Content": "Dobra os efeitos adicionais da Barreira Forjada em Luz.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 120801
+  },
+  "120901": {
+    "Content": "Reduz o TR da Cruzada do Zelo em 50%. Durante seu efeito, o Dano de Quebra de Ilusão causado é aumentado em 20%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 120901
+  },
+  "121001": {
+    "Content": "O Julgamento agora consome toda a Energia de Fóton. Os Críticos da Caçada do Vanguardeiro agora concedem um Símbolo Sagrado. O Dano de Quebra de Ilusão do Julgamento é aumentado em 50%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 121001
+  },
+  "121101": {
+    "Content": "Habilidades que consomem Cristais de Areia agora os restauram, e seu Dano de Quebra de Ilusão aumenta em 200%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 121101
+  },
+  "121201": {
+    "Content": "Rasgo Terra consumirá todos os Cristais de Areia. Para cada cristal consumido, seu Dano de Quebra de Ilusão aumenta em 50%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 121201
+  },
+  "121301": {
+    "Content": "Após ficar parado por 2 s, o Bônus de Rocha aumenta em 40%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 121301
+  },
+  "121401": {
+    "Content": "Enquanto Forma de Pedra estiver ativa, energia é obtida continuamente. Todos os acertos são Críticos garantidos, e o Dano Crítico aumenta em 200%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 121401
+  },
+  "121501": {
+    "Content": "Cada vez que Eco de Escudo é acionado, Estilhaço Estelar causa dano bônus igual a 100% do valor atual do Escudo (este bônus é afetado pelo aumento de dano de Estilhaço Estelar).<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 121501
+  },
+  "121601": {
+    "Content": "Eco de Escudo tem 30% de chance de acionar Golpe no Ponto Fraco. Quando acionado, Golpe no Ponto Fraco causa dano bônus igual a 100% do valor atual do Escudo (este bônus é afetado pelo aumento de dano de Golpe no Ponto Fraco).<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 121601
+  },
+  "121701": {
+    "Content": "Quando Golpe no Ponto Fraco é acionado, o TR de Manto de Areia é reduzido em 1 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 121701
+  },
+  "121801": {
+    "Content": "O valor Máximo do Escudo agora pode ser aumentado para 1.000%. Participar de um abate aumenta a Força do Escudo em 5%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 121801
+  },
+  "121901": {
+    "Content": "Usar Fúria de Granito garante Golpe de Fúria, e o Dano de Quebra de Ilusão de Golpe de Fúria aumenta em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 121901
+  },
+  "122001": {
+    "Content": "A cada 20 vezes que Punho de Pedra é acionado, uma rocha gigante é invocada para cair sobre o alvo, causando dano igual a 3% do PV atual do alvo.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 122001
+  },
+  "122101": {
+    "Content": "Enquanto estiver em Bloqueio Esmagador, o Bônus de Rocha aumenta em 25%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 122101
+  },
+  "122201": {
+    "Content": "Cada vez que Granito é acionado, o Ataque de Rocha aumenta permanentemente em 2 pontos.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 122201
+  },
+  "122301": {
+    "Content": "O custo de Fúria de Granito é reduzido em 1, e Fúria de Granito estenderá a duração de Bloqueio Esmagador. O Dano de Quebra de Ilusão de Fúria de Granito aumenta em 100%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 122301
+  },
+  "122401": {
+    "Content": "Bloqueio Esmagador causa dano bônus igual a 0,1% do PV atual do alvo.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 122401
+  },
+  "122501": {
+    "Content": "Enquanto estiver em Bloqueio Esmagador, o Bônus de Rocha do Bloqueio Esmagador aumenta em 50%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 122501
+  },
+  "122601": {
+    "Content": "Cada vez que Bloqueio Esmagador é acionado, o Ataque de Rocha aumenta permanentemente em 2 pontos.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 122601
+  },
+  "122701": {
+    "Content": "Por 10 s após lançar Palco Central, Hino Harmônico estará com o máximo de acúmulos, e seu Dano de Quebra de Ilusão aumenta em 300%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 122701
+  },
+  "122801": {
+    "Content": "Acionar um Golpe de Sorte reduz os TRs de Hino Harmônico e Palco Central em 0,5 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 122801
+  },
+  "122901": {
+    "Content": "Lançar Rapsódia de Chamas aumenta permanentemente o Ataque de Fogo em 2 pontos a cada vez.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 122901
+  },
+  "123001": {
+    "Content": "A Velocidade de Ataque aumenta em 60% durante Rapsódia de Chamas.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 123001
+  },
+  "123101": {
+    "Content": "O Dano de Quebra de Ilusão aumenta em 50%. Quando Melodia Heroica estiver ativa, Rapsódia de Chamas estará ativa.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 123101
+  },
+  "123201": {
+    "Content": "O Multiplicador de Dano do Golpe de Sorte aumenta em 40%. Ataques Especiais agora podem acionar Bis.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 123201
+  },
+  "123301": {
+    "Content": "Por 10s após lançar uma Habilidade Suprema, toda a Paixão de Performance será recuperada a cada segundo.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 123301
+  },
+  "123401": {
+    "Content": "Acionar um Golpe de Sorte reduz o TR da Habilidade Suprema em 0,5 s.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 123401
+  },
+  "123501": {
+    "Content": "Explosão da Paixão é substituída permanentemente por Fúria da Paixão. Isso requer que o talento Fúria da Paixão seja ativado. O Dano de Quebra de Ilusão também aumenta em 300%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 123501
+  },
+  "123601": {
+    "Content": "Fúria da Paixão dispara 2 projéteis adicionais. O Bônus Elemental também aumenta em 500%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 123601
+  },
+  "123701": {
+    "Content": "Lançar Bis invoca uma caixa de som em frente ao conjurador que dura 15s.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 123701
+  },
+  "123801": {
+    "Content": "Quando Fúria da Paixão causa Dano Crítico, aciona Cordas de Bis em um alvo aleatório (até uma vez a cada 0,5 s).<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 123801
+  },
+  "123901": {
+    "Content": "O custo do Ataque Especial é alterado para 1, e a cura do Ataque Especial aumenta em 500%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 123901
+  },
+  "124001": {
+    "Content": "Por 10s após lançar Circuito do Concerto, uma explosão ocorre ao redor do conjurador a cada segundo, causando dano igual a 2.000% do ATQ.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 124001
+  },
+  "124101": {
+    "Content": "Crescendo Quíntuplo não consome mais Paixão de Performance. Lançar um Ataque Especial reduz os TRs de Crescendo Quíntuplo e da Suprema modificada em 1 s.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 124101
+  },
+  "124201": {
+    "Content": "Aumenta permanentemente o Intelecto em 1 ponto cada vez que Melodia Curativa causa dano.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 124201
+  },
+  "124301": {
+    "Content": "Enquanto estiver em combate, causa dano em AdE em uma linha reta diretamente à frente a cada <style=\"accent-gn\">3 s</style>, e desbloqueia a concessão do afixo <style=\"emph-gn\">[Pulso]</style>.",
+    "Id": 124301
+  },
+  "124401": {
+    "Content": "O <style=\"emph-gn\">Feixe de Pulso</style> causa dano adicional aos inimigos em um raio de 5 metros.",
+    "Id": 124401
+  },
+  "124501": {
+    "Content": "Quando o <style=\"emph-gn\">Feixe de Pulso</style> causa dano, ele concede um bônus de dano de <style=\"accent-gn\">4%</style> que acumula até <style=\"accent-gn\">10</style> vezes e é removido ao sair de combate.",
+    "Id": 124501
+  },
+  "124601": {
+    "Content": "Altera a área de efeito do <style=\"emph-gn\">Feixe de Pulso</style> para o formato de uma cruz.",
+    "Id": 124601
+  },
+  "124701": {
+    "Content": "Reduz o tempo de intervalo para o <style=\"emph-gn\">Feixe de Pulso</style> em <style=\"accent-gn\">1 s</style>.",
+    "Id": 124701
+  },
+  "124801": {
+    "Content": "Para cada inimigo atingido pelo <style=\"emph-gn\">Feixe de Pulso</style>, o tempo de acionamento seguinte é reduzido em <style=\"accent-gn\">0,2 s</style> (até uma redução máxima de <style=\"accent-gn\">1 s</style>).",
+    "Id": 124801
+  },
+  "124901": {
+    "Content": "O <style=\"emph-gn\">Feixe de Pulso</style> também cura unidades aliadas ao alcance.",
+    "Id": 124901
+  },
+  "125001": {
+    "Content": "O <style=\"emph-gn\">Feixe de Pulso</style> aumenta o crítico das unidades aliadas em <style=\"accent-gn\">10%</style> e a sorte em <style=\"accent-gn\">10%</style>.",
+    "Id": 125001
+  },
+  "125101": {
+    "Content": "O <style=\"emph-gn\">Feixe de Pulso</style> pode acionar o Golpe de Sorte.",
+    "Id": 125101
+  },
+  "125201": {
+    "Content": "O <style=\"emph-gn\">Feixe de Pulso</style> causa dano bônus equivalente a <style=\"accent-gn\">20%</style> do PV Máximo.",
+    "Id": 125201
+  },
+  "125301": {
+    "Content": "O <style=\"emph-gn\">Feixe de Pulso</style> causa dano bônus equivalente a <style=\"accent-gn\">400%</style> da Armadura.",
+    "Id": 125301
+  },
+  "125401": {
+    "Content": "Quando o <style=\"emph-gn\">Feixe de Pulso</style> causa dano, ele cura o conjurador em <style=\"accent-gn\">10%</style> do dano causado.",
+    "Id": 125401
+  },
+  "125501": {
+    "Content": "Dano Crítico do <style=\"emph-gn\">Feixe de Pulso</style> <style=\"accent-gn\">+40%</style>.",
+    "Id": 125501
+  },
+  "125601": {
+    "Content": "Taxa de Crítico do <style=\"emph-gn\">Feixe de Pulso</style> <style=\"accent-gn\">+20%</style>.",
+    "Id": 125601
+  },
+  "125701": {
+    "Content": "Dano do <style=\"emph-gn\">Feixe de Pulso</style> <style=\"accent-gn\">+20%</style>.",
+    "Id": 125701
+  },
+  "125801": {
+    "Content": "Conjurar uma <style=\"emph-gn\">Habilidade de Perícia</style> aciona o <style=\"emph-gn\">Feixe de Pulso</style> (TR: <style=\"accent-gn\">0,5 s</style>).",
+    "Id": 125801
+  },
+  "125901": {
+    "Content": "Por <style=\"accent-gn\">15 s</style> após conjurar uma <style=\"emph-gn\">Habilidade Suprema</style>, o TR do <style=\"emph-gn\">Feixe de Pulso</style> é reduzido pela metade (TR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 125901
+  },
+  "126001": {
+    "Content": "Quando o <style=\"emph-gn\">Feixe de Pulso</style> causa dano, ele invoca um <style=\"emph-gn\">Imaginar do Ogro Glacial</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 126001
+  },
+  "126101": {
+    "Content": "Eficiência de Quebra de Resiliência do <style=\"emph-gn\">Feixe de Pulso</style> <style=\"accent-gn\">+500%</style>.",
+    "Id": 126101
+  },
+  "126201": {
+    "Content": "Cada <style=\"accent-gn\">1%</style> de <style=\"emph-gn\">Maestria</style> aumenta adicionalmente o <style=\"emph-gn\">Dano de Elemento</style> do <style=\"emph-gn\">Feixe de Pulso</style> em <style=\"accent-gn\">2%</style>.",
+    "Id": 126201
+  },
+  "126301": {
+    "Content": "Cada <style=\"accent-gn\">1%</style> de <style=\"emph-gn\">Maestria</style> aumenta o Reforço FIS e o Reforço MAG em <style=\"accent-gn\">0,4%</style>.",
+    "Id": 126301
+  },
+  "126401": {
+    "Content": "Derrotar um monstro aumenta a Maestria em <style=\"accent-gn\">0,2%</style>. O efeito é dobrado ao derrotar uma elite ou um chefe.",
+    "Id": 126401
+  },
+  "126501": {
+    "Content": "Maestria <style=\"accent-gn\">+15%</style>.",
+    "Id": 126501
+  },
+  "126601": {
+    "Content": "Conjurar uma <style=\"emph-gn\">Habilidade de Perícia</style> invoca um <style=\"emph-gn\">Imaginar do Rei Aracnoguejo</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 126601
+  },
+  "126701": {
+    "Content": "Cada <style=\"accent-gn\">1%</style> de <style=\"emph-gn\">Maestria</style> aumenta o Reforço de TR de habilidade em <style=\"accent-gn\">1%</style>.",
+    "Id": 126701
+  },
+  "126801": {
+    "Content": "Quando a Maestria excede <style=\"accent-gn\">50%</style>, concede <style=\"accent-gn\">25%</style> de VEL de Ataque e <style=\"accent-gn\">50%</style> de VEL de Conjuração.",
+    "Id": 126801
+  },
+  "126901": {
+    "Content": "Entra em um estado de Poder de Fogo Ilimitado por <style=\"accent-gn\">5 s</style> a cada <style=\"accent-gn\">30 s</style>. Enquanto estiver neste estado, os recursos de combate são infinitos e o TR de Habilidade é reduzido em <style=\"accent-gn\">80%</style>. Cada <style=\"accent-gn\">1%</style> de Maestria reduz o intervalo em <style=\"accent-gn\">0,1 s</style>.",
+    "Id": 126901
+  },
+  "127001": {
+    "Content": "Conjurar um <style=\"emph-gn\">Ataque Especial</style> invoca um <style=\"emph-gn\">Imaginar da Raposa do Fogo Negro</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 127001
+  },
+  "127101": {
+    "Content": "Quando a Maestria atinge <style=\"accent-gn\">50%</style>, concede <style=\"accent-gn\">20%</style> de Dano Crítico e <style=\"accent-gn\">20%</style> de Multiplicador de Golpe de Sorte.",
+    "Id": 127101
+  },
+  "127201": {
+    "Content": "Quando a Maestria atinge <style=\"accent-gn\">50%</style>, concede um adicional de <style=\"accent-gn\">20%</style> de Maestria.",
+    "Id": 127201
+  },
+  "127301": {
+    "Content": "Quando a Maestria atinge <style=\"accent-gn\">100%</style>, todo o dano causado é um crítico garantido.",
+    "Id": 127301
+  },
+  "127401": {
+    "Content": "Cada <style=\"accent-gn\">1%</style> de PV perdido aumenta a Maestria em <style=\"accent-gn\">0,2%</style>.",
+    "Id": 127401
+  },
+  "127501": {
+    "Content": "Sofrer dano restaura <style=\"accent-gn\">3%</style> do PV Máximo. Cada <style=\"accent-gn\">1%</style> de Maestria aumenta essa quantia de cura em <style=\"accent-gn\">10%</style>.",
+    "Id": 127501
+  },
+  "127601": {
+    "Content": "Cada <style=\"accent-gn\">1%</style> de Maestria reduz o dano sofrido em <style=\"accent-gn\">0,3%</style>.",
+    "Id": 127601
+  },
+  "127701": {
+    "Content": "Cada <style=\"accent-gn\">1%</style> de Maestria aumenta o Dano do Golpe de Sorte em <style=\"accent-gn\">0,5%</style>.",
+    "Id": 127701
+  },
+  "127801": {
+    "Content": "Maestria <style=\"accent-gn\">+8.000</style>.",
+    "Id": 127801
+  },
+  "127901": {
+    "Content": "Conjurar uma habilidade causa 1 instância de dano em AdE. Cada <style=\"accent-gn\">1%</style> de Maestria aumenta esse dano em <style=\"accent-gn\">10%</style>.",
+    "Id": 127901
+  },
+  "128001": {
+    "Content": "Ao causar dano, causa dano bônus equivalente à porcentagem de Maestria.",
+    "Id": 128001
+  },
+  "128101": {
+    "Content": "Quando a Maestria atinge <style=\"accent-gn\">50%</style>, invoca um <style=\"emph-gn\">Imaginar de Aranha Predadora</style> a cada <style=\"accent-gn\">30 s</style>.",
+    "Id": 128101
+  },
+  "128201": {
+    "Content": "Cada <style=\"accent-gn\">1%</style> de <style=\"emph-gn\">Maestria</style> aumenta a Força de Cura em <style=\"accent-gn\">1%</style>.",
+    "Id": 128201
+  },
+  "128301": {
+    "Content": "Ao causar dano, causa dano bônus equivalente a <style=\"accent-gn\">10%</style> do PV.",
+    "Id": 128301
+  },
+  "128401": {
+    "Content": "Aumenta o PV Máximo em <style=\"accent-gn\">100%</style>. Sofrer dano restaura <style=\"accent-gn\">5%</style> do PV Máximo.",
+    "Id": 128401
+  },
+  "128501": {
+    "Content": "Enquanto estiver em movimento, concede Superarmadura e Invencibilidade.",
+    "Id": 128501
+  },
+  "128601": {
+    "Content": "Causar dano restaura <style=\"accent-gn\">5%</style> do PV Máximo.",
+    "Id": 128601
+  },
+  "128701": {
+    "Content": "Cada habilidade conjurada garante um crítico, mas consome <style=\"accent-gn\">1%</style> do PV.",
+    "Id": 128701
+  },
+  "128801": {
+    "Content": "Aumenta o PV Máximo em <style=\"accent-gn\">1.000%</style> da Armadura.",
+    "Id": 128801
+  },
+  "128901": {
+    "Content": "Cada <style=\"accent-gn\">20</style> pontos de PV Máximo aumenta a Celeridade e a Maestria em <style=\"accent-gn\">1</style>.",
+    "Id": 128901
+  },
+  "129001": {
+    "Content": "Cada <style=\"accent-gn\">20</style> pontos de PV Máximo aumenta o crítico e a sorte em <style=\"accent-gn\">1</style>.",
+    "Id": 129001
+  },
+  "129101": {
+    "Content": "Sofrer dano invoca um <style=\"emph-gn\">Imaginar de Denvel</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 129101
+  },
+  "129201": {
+    "Content": "O dano causado por habilidades que não são de classe aumenta em <style=\"accent-gn\">10%</style>, com um aumento adicional de <style=\"accent-gn\">10%</style> a cada 20.000 de PV Máximo.",
+    "Id": 129201
+  },
+  "129301": {
+    "Content": "Sofrer dano aciona imediatamente um contra-ataque contra o agressor, causando dano equivalente a <style=\"accent-gn\">100%</style> do PV Máximo.",
+    "Id": 129301
+  },
+  "129401": {
+    "Content": "PV Máximo <style=\"accent-gn\">+20%</style>.",
+    "Id": 129401
+  },
+  "129501": {
+    "Content": "Armadura <style=\"accent-gn\">+20%</style>.",
+    "Id": 129501
+  },
+  "129601": {
+    "Content": "Versatilidade <style=\"accent-gn\">+10%</style>.",
+    "Id": 129601
+  },
+  "129701": {
+    "Content": "O Golpe de Sorte causa dano bônus equivalente a <style=\"accent-gn\">10%</style> do PV Máximo.",
+    "Id": 129701
+  },
+  "129801": {
+    "Content": "Eficiência de Quebra de Resiliência <style=\"accent-gn\">+30%</style>.",
+    "Id": 129801
+  },
+  "129901": {
+    "Content": "A cada <style=\"accent-gn\">1%</style> de PV perdido, concede <style=\"accent-gn\">0,3%</style> de ATQ. Cada afixo de Ira Sangrenta concede um reforço de <style=\"accent-gn\">0,05%</style> de ATQ.",
+    "Id": 129901
+  },
+  "130001": {
+    "Content": "Cada <style=\"accent-gn\">1%</style> de PV perdido aumenta o Reforço de TR de habilidade em <style=\"accent-gn\">1%</style>.",
+    "Id": 130001
+  },
+  "130101": {
+    "Content": "Quando o PV fica abaixo de <style=\"accent-gn\">50%</style>, concede um bônus de dano de Elemento de <style=\"accent-gn\">40%</style>.",
+    "Id": 130101
+  },
+  "130201": {
+    "Content": "Quando o PV muda, concede <style=\"accent-gn\">5%</style> de crítico, Celeridade, sorte, Maestria e Versatilidade.",
+    "Id": 130201
+  },
+  "130301": {
+    "Content": "Quando o PV muda, reduz o TR de todas as habilidades em <style=\"accent-gn\">1 s</style>.",
+    "Id": 130301
+  },
+  "130401": {
+    "Content": "Previne a morte por <style=\"accent-gn\">20 s</style> após entrar em combate e aumenta o dano causado em <style=\"accent-gn\">20%</style>.",
+    "Id": 130401
+  },
+  "130501": {
+    "Content": "Quando o PV muda, causa dano em AdE. A cada <style=\"accent-gn\">1%</style> de PV perdido, aumenta o dano causado em <style=\"accent-gn\">10%</style>.",
+    "Id": 130501
+  },
+  "130601": {
+    "Content": "Quando o PV muda, invoca automaticamente um <style=\"emph-gn\">Imaginar de Kartgriff</style> (TR: <style=\"accent-gn\">60 s</style>).",
+    "Id": 130601
+  },
+  "130701": {
+    "Content": "A cada <style=\"accent-gn\">1%</style> de PV perdido, aumenta a VEL de Ataque em <style=\"accent-gn\">0,3%</style> e a VEL de Conjuração em <style=\"accent-gn\">0,6%</style>.",
+    "Id": 130701
+  },
+  "130801": {
+    "Content": "Quando o PV cai para menos de <style=\"accent-gn\">50%</style>, invoca um <style=\"emph-gn\">Imaginar da Presa da Cordilheira</style> (TR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 130801
+  },
+  "130901": {
+    "Content": "Reduz o dano sofrido em <style=\"accent-gn\">20%</style>, e em mais <style=\"accent-gn\">30%</style> quando o PV cai para menos de <style=\"accent-gn\">50%</style>.",
+    "Id": 130901
+  },
+  "131001": {
+    "Content": "Quando o PV cai para menos de <style=\"accent-gn\">30%</style>, concede <style=\"accent-gn\">30%</style> de Dano Crítico.",
+    "Id": 131001
+  },
+  "131101": {
+    "Content": "A cada <style=\"accent-gn\">1%</style> de PV perdido, aumenta a Armadura em <style=\"accent-gn\">1%</style>.",
+    "Id": 131101
+  },
+  "131201": {
+    "Content": "Quando o PV cai para menos de <style=\"accent-gn\">30%</style>, concede <style=\"accent-gn\">20%</style> de Sorte.",
+    "Id": 131201
+  },
+  "131301": {
+    "Content": "Quando o PV cai para menos de <style=\"accent-gn\">50%</style>, concede <style=\"accent-gn\">800</style> de ATQ de Todos os Elementos.",
+    "Id": 131301
+  },
+  "131401": {
+    "Content": "Restaura PV com base no dano causado pelo Golpe de Sorte e causa dano em AdE adicional.",
+    "Id": 131401
+  },
+  "131501": {
+    "Content": "Cada 1% de Sorte fornece uma chance de 0,2% (Estágio 1)/0,1% (Estágio 2)/0,05% (Estágio 3) de acionar o Corte de Chama Informe.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 131501
+  },
+  "131601": {
+    "Content": "Quando o Vento de Machado causa dano, aciona o Meteoro do Fogo Infernal (no máximo uma vez ao atingir vários alvos).<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 131601
+  },
+  "131701": {
+    "Content": "Reduz o custo de vigor do Vento de Machado e adiciona um efeito de atração avassalador.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 131701
+  },
+  "131801": {
+    "Content": "Por 5 s após conjurar Investida Flamejante, aumenta a Chance de Crítico em 100% e o Dano Crítico em 30%.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 131801
+  },
+  "131901": {
+    "Content": "A Queimadura pode acionar o Corte de Chama Informe, mas a chance de acionamento é reduzida pela metade.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 131901
+  },
+  "132001": {
+    "Content": "Quando o Vento de Machado causa dano, aumenta o Dano Final com base no número de acúmulos de Queimadura no alvo, com cada acúmulo concedendo 10%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 132001
+  },
+  "132101": {
+    "Content": "Cada nível do efeito Informe aumenta o maior atributo entre Crítico, Celeridade, Sorte, Maestria e Versatilidade em 3%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 132101
+  },
+  "132201": {
+    "Content": "Aumenta o Dano Final do Corte de Chama Informe em 40%, mais 20% adicionais ao atingir um alvo com Queimadura.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 132201
+  },
+  "132301": {
+    "Content": "Quando o Meteoro Livre ou o Fogo Infernal Cadente atinge o alvo principal, concede um Bônus de Fogo de 8% por 5 s. Acumula até 3 vezes.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 132301
+  },
+  "132401": {
+    "Content": "Corte do Esplendor Fluido causa dano bônus igual a 0,1% do PV atual do alvo.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 132401
+  },
+  "132501": {
+    "Content": "Dano Crítico da Habilidade de Perícia +40%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 132501
+  },
+  "132601": {
+    "Content": "Aumenta o Dano de Quebra de Ilusão da Habilidade de Perícia em 20%.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 132601
+  },
+  "132701": {
+    "Content": "Durante o Inferno Infinito, dobra o Dano Crítico.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 132701
+  },
+  "132801": {
+    "Content": "Quando a Dança das Chamas atinge o alvo principal, há 50% de chance de reduzir o TR do Inferno Infinito em 0,5 s.<br><br>Disponível apenas em [Pesadelo].",
+    "Id": 132801
+  },
+  "132901": {
+    "Content": "O Corte do Esplendor Fluido se transforma no Corte do Esplendor Fluido Raro.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 132901
+  },
+  "133001": {
+    "Content": "Quando o combo de três acertos do Fogo Infernal Cadente é acionado, concede 1 carga do Corte do Esplendor Fluido. Assim que estiver totalmente carregado, o Corte do Esplendor Fluido é acionado automaticamente.<br><br>Disponível apenas em [Difícil] e [Pesadelo].",
+    "Id": 133001
+  }
+}

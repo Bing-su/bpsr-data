@@ -1,0 +1,90 @@
+{
+  "680101": {
+    "ActiveLevel": 50,
+    "AutoActive": 0,
+    "BuffId": 680101,
+    "BuffName": "舞空",
+    "Deactive": false,
+    "Desc": "Gewährt die Fähigkeit, in der Luft langsam aufzusteigen. <style=\"accent-gn\">Wird beim Springen die Sprungschaltfläche gedrückt gehalten, wird der Aufstiegszustand aktiviert, was kontinuierlich Kondition verbraucht, bis der Zustand beendet wird.</style>",
+    "LockItem": [],
+    "Name": "Lufttanz",
+    "Style": 0
+  },
+  "680201": {
+    "ActiveLevel": 40,
+    "AutoActive": 0,
+    "BuffId": 680201,
+    "BuffName": "水平跳",
+    "Deactive": false,
+    "Desc": "Gewährt die Fähigkeit, mit einer Spezialbewegung vorwärtszuspringen.<br>Nach der Landung erscheint eine <style=\"accent-gn\">Timing-Anzeige</style>. Ein erneuter Sprung im richtigen Moment baut <style=\"accent-gn\">Fortschritt zur Konditionserholung auf. Ist die Anzeige voll, wird die Kondition erheblich wiederhergestellt.</style>",
+    "LockItem": [],
+    "Name": "Horizontaler Sprung",
+    "Style": 0
+  },
+  "680401": {
+    "ActiveLevel": 48,
+    "AutoActive": 0,
+    "BuffId": 680401,
+    "BuffName": "踢墙跳",
+    "Deactive": false,
+    "Desc": "Gewährt die Fähigkeit, sich durch Wandsprünge nach oben abzustoßen. In der Nähe einer Wand befördert der Abstoß den Anwender nach oben, wobei jeder Sprung Kondition verbraucht.",
+    "LockItem": [],
+    "Name": "Wandsprung",
+    "Style": 0
+  },
+  "680501": {
+    "ActiveLevel": 45,
+    "AutoActive": 0,
+    "BuffId": 680501,
+    "BuffName": "蹬墙跑",
+    "Deactive": false,
+    "Desc": "Gewährt die Fähigkeit, an Wänden zu laufen.<br>Das Laufen verbraucht langsam Kondition. Bei Stillstand wird in einen Wandhängen-Zustand gewechselt, der keine Kondition verbraucht.",
+    "LockItem": [],
+    "Name": "Wandlauf",
+    "Style": 0
+  },
+  "680701": {
+    "ActiveLevel": 1,
+    "AutoActive": 1,
+    "BuffId": 680701,
+    "BuffName": "懒人跳",
+    "Deactive": false,
+    "Desc": "Gewährt die Fähigkeit, bestimmte Hindernisse automatisch und ohne Verbrauch von Kondition zu überspringen.",
+    "LockItem": [],
+    "Name": "Auto-Überspringen",
+    "Style": 0
+  },
+  "682501": {
+    "ActiveLevel": 18,
+    "AutoActive": 0,
+    "BuffId": 682501,
+    "BuffName": "跳跃次数+1 3段跳 免疫坠落",
+    "Deactive": false,
+    "Desc": "Sprung in der Luft +1, verbraucht Kondition, maximal 3 Sprünge.<br>Gewährt Immunität gegen Fallschaden.",
+    "LockItem": [],
+    "Name": "Mehrfachsprung",
+    "Style": 0
+  },
+  "682503": {
+    "ActiveLevel": 30,
+    "AutoActive": 0,
+    "BuffId": 682503,
+    "BuffName": "跳跃次数+1 4段跳",
+    "Deactive": false,
+    "Desc": "Sprung in der Luft +1, verbraucht Kondition, maximal 4 Sprünge.",
+    "LockItem": [],
+    "Name": "Mehrfachsprung",
+    "Style": 0
+  },
+  "682505": {
+    "ActiveLevel": 35,
+    "AutoActive": 0,
+    "BuffId": 682505,
+    "BuffName": "跳跃次数+1 5段跳",
+    "Deactive": false,
+    "Desc": "Sprung in der Luft +1, verbraucht Kondition, maximal 5 Sprünge.",
+    "LockItem": [],
+    "Name": "Mehrfachsprung",
+    "Style": 0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Id": 1,
+    "ReportCategoryDes": ["규정 위반 정보 게시", "개인 정보 규정 위반"],
+    "ReportCategoryId": [],
+    "ReportReason": [
+      [101, 102, 103, 104, 105, 106, 108, 199],
+      [901, 999]
+    ],
+    "ReportScene": "대화 발언 화면",
+    "SceneId": 1
+  },
+  "101": {
+    "Id": 101,
+    "ReportCategoryDes": ["가든 규정 위반"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[798]],
+    "ReportScene": "가든 건축 필드",
+    "SceneId": 8
+  },
+  "2": {
+    "Id": 2,
+    "ReportCategoryDes": ["개인 정보 규정 위반"],
+    "ReportCategoryId": [9],
+    "ReportReason": [[901, 903, 999]],
+    "ReportScene": "개인 정보 화면",
+    "SceneId": 2
+  },
+  "6": {
+    "Id": 6,
+    "ReportCategoryDes": ["사진 규정 위반"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[799]],
+    "ReportScene": "앨범 사진 신고하기",
+    "SceneId": 6
+  },
+  "7": {
+    "Id": 7,
+    "ReportCategoryDes": ["길드 정보 규정 위반"],
+    "ReportCategoryId": [8],
+    "ReportReason": [[801, 802, 803, 799, 899]],
+    "ReportScene": "길드 자료 화면",
+    "SceneId": 7
+  }
+}

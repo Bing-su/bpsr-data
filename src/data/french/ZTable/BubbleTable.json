@@ -1,0 +1,269 @@
+{
+  "1001": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. Restez près des soldats pour gagner des points.",
+      "2. Vainquez des monstres pour gagner des points bonus."
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1001,
+    "Name": "Patrouille de la Cité antique",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1002": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. Restez près des soldats pour gagner des points.",
+      "2. Vainquez des monstres pour gagner des points bonus."
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1002,
+    "Name": "Patrouille du camp de brigands",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1003": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. Restez près des soldats pour gagner des points.",
+      "2. Vainquez des monstres pour gagner des points bonus."
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1003,
+    "Name": "Patrouille du Camp Muku",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2001": {
+    "AdditionalTarget": [[24, 1, 8, 200101]],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [15],
+    "AdditionalTargetName": ["Restez dans la zone cible pour gagner des points."],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2001,
+    "Name": "Danse novice",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2002": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200201],
+      [24, 1, 8, 200202]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 0],
+    "AdditionalTargetCompleteMaxNum": [50, 100],
+    "AdditionalTargetIdleScore": [50, 25],
+    "AdditionalTargetName": [
+      "1. Restez dans la zone cible pour gagner des points.",
+      "2. Recevez 1 ticket de vote par 150 s.",
+      "3. Les destinataires gagnent 1 point de Popularité par vote. Les votants gagnent un score bonus ({*val1*}/{*val2*}).",
+      "4. Les destinataires gagnent également un score supplémentaire ({*val1*}/{*val2*}).",
+      "5. Votre personnage grandira en atteignant 5, 10, 15 et 20 points de Popularité.",
+      "6. La Popularité disparaît au bout de 5 min. Obtenir de nouveaux points de Popularité réinitialise ce minuteur."
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2002,
+    "Name": "Théâtre de rue",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. Restez près du Nappo doré et du Nappo argenté pour gagner des points. Chaque session dure 10 minutes.",
+      "2. Recevez une grande quantité de points d'amitié, de badges Étoile d'argent et de matériaux d'équipement lors de votre première participation de la journée."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2003,
+    "Name": "Feux d'artifice stellaires",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "Obtenez des points périodiquement en effectuant la Danse des esprits dans la zone."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2004,
+    "Name": "Danse des esprits​",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. Restez dans la zone cible pour gagner des points.",
+      "2. Il y a deux zones de transformation dans la zone de l'événement. Interagissez avec elles pour vous transformer en un objet aléatoire du Festival hivernal."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2005,
+    "Name": "Fête des métamorphoses",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2008": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200801],
+      [24, 1, 8, 200802]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 1],
+    "AdditionalTargetCompleteMaxNum": [10, 20],
+    "AdditionalTargetIdleScore": [200, 100],
+    "AdditionalTargetName": [
+      "1. Restez dans la zone cible pour gagner des points.",
+      "2. Il y a des feux d'artifice rouges, verts et bleus, et 1 feu d'artifice aléatoire est conféré toutes les 15 s.",
+      "3. Chargez des feux d'artifice dans la base de lancement pour gagner un score supplémentaire ({*val1*}/{*val2*}).",
+      "4. Lancez un lanceur de feux d'artifice chargé pour conférer un score supplémentaire à tous les joueurs de la zone ({*val1*}/{*val2*})."
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2008,
+    "Name": "Épreuve des couleurs",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2009": {
+    "AdditionalTarget": [[24, 1, 7, 200901]],
+    "AdditionalTargetCompleteCoolDown": [5],
+    "AdditionalTargetCompleteMaxNum": [10],
+    "AdditionalTargetIdleScore": [300],
+    "AdditionalTargetName": [
+      "1. Restez dans la zone cible pour gagner des points.",
+      "2. Recevez 1 éclat de lanterne toutes les 100 s dans la zone. Récoltez 3 éclats pour invoquer une Lanterne printanière.",
+      "3. Relâchez une lanterne pour gagner un score supplémentaire ({*val1*}/{*val2*})."
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2009,
+    "Name": "Fête de la lanterne du printemps",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2010": {
+    "AdditionalTarget": [[24, 1, 11, 201001]],
+    "AdditionalTargetCompleteCoolDown": [0],
+    "AdditionalTargetCompleteMaxNum": [240],
+    "AdditionalTargetIdleScore": [10],
+    "AdditionalTargetName": [
+      "1. Restez dans la zone cible pour obtenir du score",
+      "2. La troupe de danse change de danse toutes les dix minutes... suivez le rythme et ne traînez pas !",
+      "3. Suivez le rythme de la danseuse étoile pour gagner des points supplémentaires ({*val1*}/{*val2*})."
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2010,
+    "Name": "Rythme scintillant",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3001": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["Suivez le meneur de la parade pour gagner des points."],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3001,
+    "Name": "Parade des poissons charmants",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3002": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["Suivez le meneur de la parade pour gagner des points."],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3002,
+    "Name": "Parade du Chevalier marcassin",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["Suivez le chef Ee-chan pour gagner des points"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3003,
+    "Name": "Fanfare d'Ee-chan",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["1. Restez dans la zone cible pour gagner des points.", ""],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3004,
+    "Name": "Ce soir, chantez avec les étoiles",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["1. Restez dans la zone cible pour gagner des points.", ""],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3005,
+    "Name": "Ce soir, chantez avec les étoiles",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  }
+}

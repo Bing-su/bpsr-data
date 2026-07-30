@@ -1,0 +1,576 @@
+{
+  "1000111": {
+    "Answer": [1],
+    "Id": 1000111,
+    "Question": "依頼人が提供した手がかりは正しいか？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000112": {
+    "Answer": [2, 3],
+    "Id": 1000112,
+    "Question": "露紅色の果実は月影の野にあるか？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000113": {
+    "Answer": [4, 5, 6],
+    "Id": 1000113,
+    "Question": "今まで誰も露紅色の果実を見たことがない。一体どこにあるのだろう？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000211": {
+    "Answer": [1],
+    "Id": 1000211,
+    "Question": "露紅色の果実を見たのは誰だ？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000212": {
+    "Answer": [2, 3],
+    "Id": 1000212,
+    "Question": "ベルクマール輸送拠点に露紅色の果実は存在するか？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000213": {
+    "Answer": [4, 5],
+    "Id": 1000213,
+    "Question": "楽団ファンが病気になったのは露紅色の果実と関係あるのか？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000311": {
+    "Answer": [1],
+    "Id": 1000311,
+    "Question": "若い鉱員の態度は？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "1000312": {
+    "Answer": [2, 3],
+    "Id": 1000312,
+    "Question": "年配の鉱員の態度は？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000313": {
+    "Answer": [4],
+    "Id": 1000313,
+    "Question": "バーンハルト人と家庭を持った鉱員の態度は？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000411": {
+    "Answer": [],
+    "Id": 1000411,
+    "Question": "「名簿」はこの流れの中で、一体どのような役割を果たしているのだろう？",
+    "QuestionBubble": "引き続き調査したほうがいいかもしれない……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違う。手がかりが一致しない。", "もう少し考えよう。頭が混乱してきた。"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000412": {
+    "Answer": [3, 4, 5],
+    "Id": 1000412,
+    "Question": "「塔」と「王冠」は何を意味しているのだろう？",
+    "QuestionBubble": "仮に名簿が存在するなら、それは「塔」の中にある可能性が非常に高い。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違う。手がかりが一致しない。", "もう少し考えよう。頭が混乱してきた。"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000413": {
+    "Answer": [6, 7, 8],
+    "Id": 1000413,
+    "Question": "「王冠」を見つけたいなら、次の一手はどうすべきか？",
+    "QuestionBubble": "名簿を見つけるには、やはり足跡をたどって塔の中を調査するしかない。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違う。手がかりが一致しない。", "もう少し考えよう。頭が混乱してきた。"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000511": {
+    "Answer": [1],
+    "Id": 1000511,
+    "Question": "ボトルメールの宝のヒントの内容は正確か？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000512": {
+    "Answer": [2],
+    "Id": 1000512,
+    "Question": "ボトルは本当に過去の人が残したものか？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000513": {
+    "Answer": [3],
+    "Id": 1000513,
+    "Question": "なぜ埋められた似たようなメモが出てきたのか？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "100111": {
+    "Answer": [],
+    "Id": 100111,
+    "Question": "どれどれ……こいつの外見的特徴は何だ！",
+    "QuestionBubble": "これらの手がかりは、どうやら一人の人物を指しているようだ……",
+    "QuestionBubbleAction": 9019,
+    "WrongBubble": ["これは連絡係の外見とは関係なさそうだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100112": {
+    "Answer": [3, 4],
+    "Id": 100112,
+    "Question": "よし、次は「仲間の印」と「身元情報」から考えてみよう！",
+    "QuestionBubble": "これらが連絡係の外見的特徴で間違いなさそうだ。では、次は……",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100121": {
+    "Answer": [1, 4],
+    "Id": 100121,
+    "Question": "さらに範囲を絞り込もう。年齢、性別から……",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100122": {
+    "Answer": [5, 6],
+    "Id": 100122,
+    "Question": "体型と服装を特定できれば……",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100123": {
+    "Answer": [2],
+    "Id": 100123,
+    "Question": "一番重要な特徴がまだ足りない。髪の毛に関するものだ！",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100311": {
+    "Answer": [7],
+    "Id": 100311,
+    "Question": "職人がよく使う手袋に、何か変わった点はないだろうか？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100312": {
+    "Answer": [8],
+    "Id": 100312,
+    "Question": "図面の内容は？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100313": {
+    "Answer": [9],
+    "Id": 100313,
+    "Question": "きれいなランタンに何か異常はないだろうか？外見からは……",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100411": {
+    "Answer": [8],
+    "Id": 100411,
+    "Question": "アステルリーズ独立戦争のとき、エリアスは失踪前に何をしようとしていたのだろう？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100412": {
+    "Answer": [11, 12],
+    "Id": 100412,
+    "Question": "特別作戦の内容は？結果はどうだった？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100413": {
+    "Answer": [3],
+    "Id": 100413,
+    "Question": "どうやら潜入作戦の指揮官はエリアスだったようだ。では、彼は最終的にどこへ行ったのだろう？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100511": {
+    "Answer": [1],
+    "Id": 100511,
+    "Question": "トレジャーはどこから来たんだろう？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100512": {
+    "Answer": [2],
+    "Id": 100512,
+    "Question": "執事のカリスが宝物を好まない理由は？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100513": {
+    "Answer": [3],
+    "Id": 100513,
+    "Question": "昨日の宝物のおかしな点は？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100611": {
+    "Answer": [1],
+    "Id": 100611,
+    "Question": "ミル&ルミの話から分かる……",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100612": {
+    "Answer": [2, 3],
+    "Id": 100612,
+    "Question": "スパイクの話から分かる……",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100613": {
+    "Answer": [4, 5],
+    "Id": 100613,
+    "Question": "ティナの話から分かる……",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "200111": {
+    "Answer": [],
+    "Id": 200111,
+    "Question": "謎の海百合に対する村人の考えは？",
+    "QuestionBubble": "村人がどう思っているか見てみよう。",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["ここは重要な手がかりじゃない……"],
+    "WrongBubbleAction": [9007]
+  },
+  "200112": {
+    "Answer": [3, 4],
+    "Id": 200112,
+    "Question": "商人はどのような手がかりを提供した？",
+    "QuestionBubble": "商人に信頼できる情報はあるかな？",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["ここは重要な手がかりじゃない……"],
+    "WrongBubbleAction": [9007]
+  },
+  "200113": {
+    "Answer": [5, 6],
+    "Id": 200113,
+    "Question": "謎の海百合に対する巡礼者の考えは？",
+    "QuestionBubble": "あとは最後の一人の情報だけだ。",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["ここは重要な手がかりじゃない……"],
+    "WrongBubbleAction": [9007]
+  },
+  "200201": {
+    "Answer": [2],
+    "Id": 200201,
+    "Question": "サファイアと謎の少女が出会った時の状況は？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "200202": {
+    "Answer": [1],
+    "Id": 200202,
+    "Question": "サファイアはなぜ失明した？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "200203": {
+    "Answer": [3, 4],
+    "Id": 200203,
+    "Question": "謎の少女の特徴は？彼女はサファイアに何をした？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300111": {
+    "Answer": [1, 2, 3],
+    "Id": 300111,
+    "Question": "事件当時の状況は？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300112": {
+    "Answer": [4, 5],
+    "Id": 300112,
+    "Question": "現場に残された手がかりは？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300113": {
+    "Answer": [6, 7],
+    "Id": 300113,
+    "Question": "手がかりで繰り返し言及されている「ライエン」は何をしたのか？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300211": {
+    "Answer": [1, 2, 3],
+    "Id": 300211,
+    "Question": "リードが消えた時の目撃証言の中で、注目するに値する情報は？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300212": {
+    "Answer": [4, 5, 6],
+    "Id": 300212,
+    "Question": "グレッグが消えた時の目撃証言の中で、注目するに値する情報は？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300213": {
+    "Answer": [7, 8, 9],
+    "Id": 300213,
+    "Question": "デュークの目撃証言の中で、注目するに値する情報は？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["違うようだ……", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "400111": {
+    "Answer": [1],
+    "Id": 400111,
+    "Question": "禁域の用途は？",
+    "QuestionBubble": "あるイベントを執り行う場所……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "400112": {
+    "Answer": [2],
+    "Id": 400112,
+    "Question": "禁域の現在の状況は？",
+    "QuestionBubble": "誰か言ってた。確か……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "400113": {
+    "Answer": [3],
+    "Id": 400113,
+    "Question": "禁域のありそうな場所は？",
+    "QuestionBubble": "禁域が祈りの場所なら、その手がかりが指しているのはここ……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["不正解。もう一度考えよう", "まったく！手がかりがない！"],
+    "WrongBubbleAction": [9007]
+  },
+  "500111": {
+    "Answer": [1],
+    "Id": 500111,
+    "Question": "人々が見た異常気象とは？",
+    "QuestionBubble": "虚蝕エングラムとはもう関わりたくない。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう"],
+    "WrongBubbleAction": [9007]
+  },
+  "500112": {
+    "Answer": [2],
+    "Id": 500112,
+    "Question": "悪夢を見た場合、どうすれば症状を和らげられる？",
+    "QuestionBubble": "悪夢は耐えがたい……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不正解。もう一度考えよう"],
+    "WrongBubbleAction": [9007]
+  },
+  "500113": {
+    "Answer": [3],
+    "Id": 500113,
+    "Question": "何か方法があれば、悪夢の影響を減らせるかもしれない……",
+    "QuestionBubble": "それが悪夢を和らげるのに効果があるといいですね。",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["不正解。もう一度考えよう"],
+    "WrongBubbleAction": [9007]
+  },
+  "700111": {
+    "Answer": [1, 2, 3],
+    "Id": 700111,
+    "Question": "星魂灯のことは誰に聞けばいいかな？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "700112": {
+    "Answer": [4],
+    "Id": 700112,
+    "Question": "どうすれば責任者を見つけられるかな？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "800111": {
+    "Answer": [1],
+    "Id": 800111,
+    "Question": "もし兵団内部で異変があったとしたら、それはいつ頃のことだろう？",
+    "QuestionBubble": "異常な記録がたくさんある……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "800112": {
+    "Answer": [2, 5, 7],
+    "Id": 800112,
+    "Question": "異変の後、兵団の勤務状況にはどんな異常が現れたかな？",
+    "QuestionBubble": "さて、次は……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "800113": {
+    "Answer": [3, 4, 6],
+    "Id": 800113,
+    "Question": "異変の後、数名の軍曹が名簿から消えている。消えた名前を探し出してみよう。",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "900111": {
+    "Answer": [1],
+    "Id": 900111,
+    "Question": "秘密取引の品物って一体何だろう？",
+    "QuestionBubble": "ここから有益な情報を引き出さないと……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "900112": {
+    "Answer": [2, 4],
+    "Id": 900112,
+    "Question": "ネビルは誰とつながっているんだ？",
+    "QuestionBubble": "まだ足りないな。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  },
+  "900113": {
+    "Answer": [3, 5, 6],
+    "Id": 900113,
+    "Question": "ネビルはどうしてこんなことをしたんだろう？",
+    "QuestionBubble": "もうすぐ結論が出そうだ！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "何かがおかしいような……",
+      "まったく！手がかりがない！",
+      "もう一度よく考えてみよう……"
+    ],
+    "WrongBubbleAction": [9007]
+  }
+}

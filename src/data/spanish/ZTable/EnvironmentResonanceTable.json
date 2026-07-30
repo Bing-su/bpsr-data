@@ -1,0 +1,28 @@
+{
+  "50101": {
+    "Button": "Resonancia",
+    "Desc": "Una planta gigante de color azul pálido, que contiene un inmenso engrama, crece en la Antigua Ciudad de Vill.<br>Identificada como un objeto de resonancia, resonar con ella otorga la habilidad de resonancia terrestre: Flotar.<br>La resonancia es posible a partir del nv. 17 de aventurero.",
+    "Id": 50101,
+    "Name": "Hierba Heroica",
+    "PivotId": 50002,
+    "Position": 7353,
+    "SceneTag": 502,
+    "Skill": [],
+    "SlotType": 2,
+    "Time": 0,
+    "TriggerBuffIds": [510701, 510801]
+  },
+  "50102": {
+    "Button": "Resonancia",
+    "Desc": "Un enorme núcleo de energía que genera un poderoso viento por sí solo, ubicado sobre un fragmento flotante en la cima de la Ruina Imponente. <br>Es reconocido como un objeto de resonancia. Resonar con él otorga la habilidad de resonancia terrestre: Impulso Fantasmal. <br>Se requiere ser aventurero de nv. 17 para resonar. <br><br><style=\"tipsYellow\">Llega a la cima de la Isla Flotante a través del túnel de viento en el Sitio de Reposo de Andra.</style>",
+    "Id": 50102,
+    "Name": "Núcleo eólico",
+    "PivotId": 50003,
+    "Position": 7352,
+    "SceneTag": 503,
+    "Skill": [1222, 1223],
+    "SlotType": 1,
+    "Time": 0,
+    "TriggerBuffIds": []
+  }
+}

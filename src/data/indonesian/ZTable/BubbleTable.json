@@ -1,0 +1,273 @@
+{
+  "1001": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di sekitar prajurit",
+      "2. Kill monster sepanjang perjalanan untuk mendapat poin tambahan"
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1001,
+    "Name": "Patroli Kota Kuno Well",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1002": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di sekitar prajurit",
+      "2. Kill monster sepanjang perjalanan untuk mendapat poin tambahan"
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1002,
+    "Name": "Patroli Kamp Bandit",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1003": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di sekitar warrior",
+      "2. Kill monster sepanjang perjalanan untuk mendapat poin tambahan"
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1003,
+    "Name": "Patroli Kamp Muku",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2001": {
+    "AdditionalTarget": [[24, 1, 8, 200101]],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [15],
+    "AdditionalTargetName": ["Mendapat poin secara periodik di dalam area"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2001,
+    "Name": "Penari Pemula",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2002": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200201],
+      [24, 1, 8, 200202]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 0],
+    "AdditionalTargetCompleteMaxNum": [50, 100],
+    "AdditionalTargetIdleScore": [50, 25],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di dalam area",
+      "2. Mendapat 1 suara setiap 150 detik",
+      "3. Yang memperoleh vote akan mendapat 1 popularity; voting bisa mendapat poin tambahan ({*val1*}/{*val2*})",
+      "4. Yang memperoleh vote juga bisa mendapat poin tambahan ({*val1*}/{*val2*})",
+      "5. Akan membesar saat popularity mencapai 5/10/15/20 poin.",
+      "6. Popularity yang sudah dimiliki akan hilang setelah 5 menit, waktu akan diperbarui saat mendapat popularity baru"
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2002,
+    "Name": "Teater Jalanan",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. Bisa mendapat poin secara periodik di sekitar Gold Nappo dan Silver Nappo. Setiap ronde event kembang api berlangsung selama 10 menit.",
+      "2. Berpartisipasi untuk pertama kalinya setiap hari akan memberikan banyak Poin Persahabatan, Silverstar Badge, dan bahan equipment."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2003,
+    "Name": "Bintang dan Kembang Api",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["Menarikan Tarian Roh di area akan mendapat poin secara berkala"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2004,
+    "Name": "Tarian Roh",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di dalam area",
+      "2. Tersedia dua area untuk transmog di area event. Interaksi di area tersebut untuk berubah menjadi item Snow Fest secara acak."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2005,
+    "Name": "Transmog Party",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2008": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200801],
+      [24, 1, 8, 200802]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 1],
+    "AdditionalTargetCompleteMaxNum": [10, 20],
+    "AdditionalTargetIdleScore": [200, 100],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di dalam area",
+      "2. Terdapat tiga jenis kembang api, yaitu merah, hijau, dan biru. Setiap 15 detik akan mendapat 1 kembang api secara acak",
+      "3. Penuhi dudukan dengan kembang api untuk mendapatkan poin tambahan ({*val1*}/{*val2*})",
+      "4. Tembakkan tabung kembang api yang sudah selesai diisi agar semua pemain dalam area mendapat poin tambahan ({*val1*}/{*val2*})"
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2008,
+    "Name": "Uji Kembang Api",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2009": {
+    "AdditionalTarget": [[24, 1, 7, 200901]],
+    "AdditionalTargetCompleteCoolDown": [5],
+    "AdditionalTargetCompleteMaxNum": [10],
+    "AdditionalTargetIdleScore": [300],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di dalam area",
+      "2. Berada dalam area memberikan 1 Lantern Shard setiap berselang 100 detik. Kumpulkan 3 shard untuk memanggil Spring Fest Lantern",
+      "3. Terbangkan lentera untuk mendapat poin tambahan ({*val1*}/{*val2*})"
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2009,
+    "Name": "Pesta Lentera Musim Semi",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2010": {
+    "AdditionalTarget": [[24, 1, 11, 201001]],
+    "AdditionalTargetCompleteCoolDown": [0],
+    "AdditionalTargetCompleteMaxNum": [240],
+    "AdditionalTargetIdleScore": [10],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di dalam area",
+      "2. Grup tari akan mengganti tarian setiap sepuluh menit, ingat untuk mengikuti ritme agar tidak ketinggalan!",
+      "3. Ikuti pemimpin tari untuk bergerak mengikuti Rhythm dan dapatkan poin tambahan secara berkala ({*val1*}/{*val2*})."
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2010,
+    "Name": "Ritme Cahaya",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3001": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["Ikuti Kapten dalam parade untuk mendapat poin"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3001,
+    "Name": "Patroli Hasil Pancing",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3002": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["Ikuti Kapten dalam parade untuk mendapat poin"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3002,
+    "Name": "Patroli Piggy Knight",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["Ikuti pemimpin Koi untuk mendapatkan poin"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3003,
+    "Name": "Koi Band Drummer",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di dalam area",
+      "2. Beri semangat atau menari bersama di area event untuk berinteraksi dengan XingTong di atas panggung!"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3004,
+    "Name": "Menari Bersama Bintang",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. Mendapat poin secara periodik di dalam area",
+      "2. Beri semangat atau menari bersama di area event untuk berinteraksi dengan XingTong di atas panggung!"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3005,
+    "Name": "Menari Bersama Bintang",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "1": {
+    "DesexFertilize": 1055003,
+    "Exp": 5,
+    "Fertilize": [[], [1055002, 8640]],
+    "FertilizeCount": 1,
+    "GeneNumber": [4, 2],
+    "GrowUpTime": 19800,
+    "GrowthModel": 5991,
+    "HybridizationModel": 5992,
+    "Id": 1,
+    "MatureModel": 5995,
+    "Name": "鬱金香",
+    "Pollen": 11130001,
+    "PollinationTime": 1800,
+    "Watering": [[1, 1, 15, 19800, 3960]],
+    "WateringInterval": 1
+  },
+  "2": {
+    "DesexFertilize": 1055003,
+    "Exp": 15,
+    "Fertilize": [
+      [1055001, 14400],
+      [1055002, 28800]
+    ],
+    "FertilizeCount": 1,
+    "GeneNumber": [4, 2],
+    "GrowUpTime": 71100,
+    "GrowthModel": 5991,
+    "HybridizationModel": 5993,
+    "Id": 2,
+    "MatureModel": 5996,
+    "Name": "玫瑰",
+    "Pollen": 11130002,
+    "PollinationTime": 2700,
+    "Watering": [
+      [1, 1, 15, 18000, 9000],
+      [2, 21600, 21615, 18000, 9000]
+    ],
+    "WateringInterval": 1
+  },
+  "3": {
+    "DesexFertilize": 1055003,
+    "Exp": 45,
+    "Fertilize": [
+      [1055001, 32400],
+      [1055002, 64800]
+    ],
+    "FertilizeCount": 1,
+    "GeneNumber": [4, 2],
+    "GrowUpTime": 156600,
+    "GrowthModel": 5991,
+    "HybridizationModel": 5994,
+    "Id": 3,
+    "MatureModel": 5997,
+    "Name": "繡球",
+    "Pollen": 11130003,
+    "PollinationTime": 3600,
+    "Watering": [
+      [1, 1, 15, 18000, 18000],
+      [2, 21600, 21615, 18000, 18000],
+      [3, 43200, 43215, 18000, 18000]
+    ],
+    "WateringInterval": 1
+  }
+}

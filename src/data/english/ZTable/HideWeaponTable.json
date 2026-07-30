@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "<style=\"physical\">Consumes 10</style> HP to attack with a Wooden Stick.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20</style> HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient.</style><br>The actual damage is calculated based on the <style=\"physical\">Armor of the object the Stalker has transformed into</style>.</style><br><i><style=\"text_third_gray\">\"A true master cares not for the quality of their weapon.\"</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "Solid Foundation"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "<style=\"physical\">Consumes 10</style> HP to attack with Fafala's Sword.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20 </style>HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient</style>.<br>The actual damage is calculated based on <style=\"physical\">the Armor of the object the Stalker has transformed into</style>.<br><style=\"physical\">Weapon Special Effect: Nearby Shadow Hunters continuously restore HP and gain increased movement speed.</style><br><i><style=\"text_third_gray\">\"I hope this brings you some peace...\"</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "Morning Mist's Guidance"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "<style=\"physical\">Consumes 10</style> HP to attack with Denvel's Greatsword.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20</style> HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient</style>.<br>The actual damage is calculated based on the <style=\"physical\">Armor of the object the Stalker has transformed into</style>.<br><style=\"physical\">Weapon Special Effect: Fires 2 additional blades of energy and clears all non-player objects within range.</style><br><i><style=\"text_third_gray\">\"With this, I purge the sorrows of the past.\"</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "Mourner's Blade"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "<style=\"physical\">Consumes 10</style> HP to attack with a Pickaxe.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20</style> HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient.</style><br>The actual damage is calculated based on the <style=\"physical\">Armor of the object the Stalker has transformed into</style>.<br><style=\"physical\">Weapon Special Effect: Grants a random piece of ore on attack:<br>40% chance to obtain Amber: Reduces all skill CDs by 0.5s;<br>40% chance to obtain Benitoite: Restores 10 HP;<br>19% chance to obtain Dragon Crystal: Fires 5 energy blades in all directions;<br>1% chance to obtain Fulgurite: Lightning strikes all Stalkers within 30m.</style><br><i><style=\"text_third_gray\">\"Do I have to dig too?\"</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "Gold Rush Dream"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "<style=\"physical\">Consumes 10</style> HP to attack with a Light Stick.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20</style> HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient.</style><br>The actual damage is calculated based on the <style=\"physical\">Armor of the object the Stalker has transformed into</style>.<br><style=\"physical\">Weapon Special Effect: Using any skill accumulates Dance Power. At 50 Dance Power, grants the Dance Off skill:<br>Upon use, begins dancing and gradually restores HP.</style><br><i><style=\"text_third_gray\">\"Please, stop fighting...\"</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "Justice support"
+  }
+}

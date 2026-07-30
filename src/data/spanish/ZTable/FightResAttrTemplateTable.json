@@ -1,0 +1,351 @@
+{
+  "1": {
+    "BindElemental": [["1", "#f8ac39"]],
+    "Desc": "太刀|雷之印",
+    "EffectShowBuff": [
+      [
+        "0",
+        "2200151",
+        "0",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_tdl_fankui_loop"
+      ],
+      [
+        "0",
+        "2200601",
+        "0",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_tdl_fankui_loop"
+      ],
+      ["1", "43101", "1", "0"],
+      ["1", "43201", "1", "0"]
+    ],
+    "Id": 1,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_thunder_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_purple",
+    "ResIDs": [],
+    "ResIcon": "ui/atlas/battle_weapon_thunder/main_thunder_",
+    "SecondsCost": [],
+    "UIType": [2, 1]
+  },
+  "10": {
+    "BindElemental": [],
+    "Desc": "罗罗拉晦暗",
+    "EffectShowBuff": [],
+    "Id": 10,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "",
+    "ResEffect": "",
+    "ResIDs": [21001],
+    "ResIcon": "",
+    "SecondsCost": [],
+    "UIType": [2]
+  },
+  "10001": {
+    "BindElemental": [],
+    "Desc": "输出",
+    "EffectShowBuff": [],
+    "Id": 10001,
+    "IntParams": [1000, 20001, 7],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "",
+    "ResEffect": "",
+    "ResIDs": [20001],
+    "ResIcon": "",
+    "SecondsCost": [],
+    "UIType": []
+  },
+  "10002": {
+    "BindElemental": [],
+    "Desc": "辅助",
+    "EffectShowBuff": [],
+    "Id": 10002,
+    "IntParams": [1000, 20001, 7],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "",
+    "ResEffect": "",
+    "ResIDs": [20001],
+    "ResIcon": "",
+    "SecondsCost": [],
+    "UIType": []
+  },
+  "10003": {
+    "BindElemental": [],
+    "Desc": "生存",
+    "EffectShowBuff": [],
+    "Id": 10003,
+    "IntParams": [1000, 20001, 7],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "",
+    "ResEffect": "",
+    "ResIDs": [20001],
+    "ResIcon": "",
+    "SecondsCost": [],
+    "UIType": []
+  },
+  "11": {
+    "BindElemental": [["1", "#f8ac39"]],
+    "Desc": "弓箭|秘能值",
+    "EffectShowBuff": [["1", "55223", "1", "0"]],
+    "Id": 11,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [0, 55237],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_shooter_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_yellow",
+    "ResIDs": [22001, 22011],
+    "ResIcon": "ui/atlas/battle_weapon_shooter/main_arrow_",
+    "SecondsCost": [],
+    "UIType": [2, 1]
+  },
+  "12": {
+    "BindElemental": [["1", "#f8ac39"]],
+    "Desc": "剑盾|神圣能量/圣令",
+    "EffectShowBuff": [
+      [
+        "2",
+        "2206031",
+        "1",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_jd_guangxiao_loop"
+      ],
+      [
+        "0",
+        "2206171",
+        "0",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_jd_fankui_loop"
+      ],
+      ["1", "55412", "1", "0"],
+      ["1", "55417", "1", "0"]
+    ],
+    "Id": 12,
+    "IntParams": [],
+    "IntParams1": [
+      [25001, 10],
+      [27001, 11320, 100, 100]
+    ],
+    "IntParams2": [],
+    "OpenBuff": [0, 0, 2206011],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_sword_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_yellow",
+    "ResIDs": [24001, 25001, 27001],
+    "ResIcon": "ui/atlas/battle_weapon_sword/main_holy_",
+    "SecondsCost": [[25001, 10]],
+    "UIType": [2, 1, 4]
+  },
+  "13": {
+    "BindElemental": [["1", "#f8ac39"]],
+    "Desc": "法环|能量/花蕾",
+    "EffectShowBuff": [
+      ["1", "2202561", "1", "0"],
+      [
+        "0",
+        "2202751",
+        "0",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_fh_fankui_loop"
+      ],
+      ["1", "2202706", "1", "1"]
+    ],
+    "Id": 13,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [0, 2202050],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_milk_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_red",
+    "ResIDs": [15001, 15011],
+    "ResIcon": "ui/atlas/battle_weapon_milk/main_flor_",
+    "SecondsCost": [],
+    "UIType": [2, 1]
+  },
+  "14": {
+    "BindElemental": [],
+    "Desc": "吉他|演奏能量/演奏热情/律动/溢出治疗",
+    "EffectShowBuff": [],
+    "Id": 14,
+    "IntParams": [],
+    "IntParams1": [
+      [23021, 11340, 1, 30],
+      [23031, 11320, 1, 5]
+    ],
+    "IntParams2": [],
+    "OpenBuff": [0, 0, 2207620, 2207150],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_guitar_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_red",
+    "ResIDs": [23001, 23011, 23021, 23031],
+    "ResIcon": "ui/atlas/battle_weapon_guitar/main_guitar_",
+    "SecondsCost": [],
+    "UIType": [3, 1, 2, 2]
+  },
+  "2": {
+    "BindElemental": [["1", "#f8ac39"]],
+    "Desc": "法杖|魔力值",
+    "EffectShowBuff": [
+      ["1", "27007", "1", "0"],
+      [
+        "0",
+        "2204371",
+        "1",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_fz_guangxiao_loop"
+      ],
+      [
+        "0",
+        "2204551",
+        "1",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_fz_guangxiao_loop"
+      ]
+    ],
+    "Id": 2,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [0, 27013],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_snow_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_blue",
+    "ResIDs": [12001, 12021],
+    "ResIcon": "ui/atlas/battle_weapon_snow/main_snow_",
+    "SecondsCost": [],
+    "UIType": [2, 1]
+  },
+  "4": {
+    "BindElemental": [["1", "#f8ac39"]],
+    "Desc": "双斧|狂意/炎魂/赤红魂槽",
+    "EffectShowBuff": [
+      [
+        "0",
+        "2208152",
+        "0",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_sf_fankui_loop"
+      ],
+      [
+        "0",
+        "2208622",
+        "0",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_sf_fankui_loop"
+      ],
+      ["1", "35102", "1", "0"],
+      ["1", "35103", "1", "0"]
+    ],
+    "Id": 4,
+    "IntParams": [],
+    "IntParams1": [[13021, 11320, 1, 1]],
+    "IntParams2": [],
+    "OpenBuff": [0, 2208030, 2208430],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_axe_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_red",
+    "ResIDs": [13011, 13001, 13021],
+    "ResIcon": "ui/atlas/battle_weapon_axe/main_axe_",
+    "SecondsCost": [],
+    "UIType": [2, 1, 5]
+  },
+  "5": {
+    "BindElemental": [["1", "#f8ac39"]],
+    "Desc": "长枪|勇气值/锐利",
+    "EffectShowBuff": [["1", "31201", "1", "0"]],
+    "Id": 5,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [0, 2205040],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_lance_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_green",
+    "ResIDs": [14011, 14001],
+    "ResIcon": "ui/atlas/battle_weapon_lance/main_lance_",
+    "SecondsCost": [],
+    "UIType": [2, 1]
+  },
+  "8": {
+    "BindElemental": [],
+    "Desc": "陶洛斯热力槽",
+    "EffectShowBuff": [],
+    "Id": 8,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "",
+    "ResEffect": "",
+    "ResIDs": [18001],
+    "ResIcon": "",
+    "SecondsCost": [],
+    "UIType": [2]
+  },
+  "9": {
+    "BindElemental": [["1", "#f8ac39"]],
+    "Desc": "卫刃|怒气/砂晶石",
+    "EffectShowBuff": [
+      ["1", "2201461", "1", "0"],
+      ["1", "50050", "1", "0"]
+    ],
+    "Id": 9,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_rock_tpl",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_brown",
+    "ResIDs": [19001, 19011],
+    "ResIcon": "ui/atlas/battle_weapon_rock/main_rock_",
+    "SecondsCost": [],
+    "UIType": [2, 1]
+  },
+  "90001": {
+    "BindElemental": [],
+    "Desc": "公共资源模版",
+    "EffectShowBuff": [],
+    "Id": 90001,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "",
+    "ResEffect": "",
+    "ResIDs": [90001],
+    "ResIcon": "",
+    "SecondsCost": [],
+    "UIType": []
+  },
+  "90011": {
+    "BindElemental": [],
+    "Desc": "肉鸽大秘境公共资源模版",
+    "EffectShowBuff": [],
+    "Id": 90011,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "",
+    "ResEffect": "",
+    "ResIDs": [90011],
+    "ResIcon": "",
+    "SecondsCost": [],
+    "UIType": []
+  },
+  "90021": {
+    "BindElemental": [],
+    "Desc": "肉鸽大秘境s3公共资源模版",
+    "EffectShowBuff": [],
+    "Id": 90021,
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "OpenBuff": [],
+    "PrefabPath": "",
+    "ResEffect": "",
+    "ResIDs": [90021],
+    "ResIcon": "",
+    "SecondsCost": [],
+    "UIType": []
+  }
+}

@@ -1,0 +1,1145 @@
+{
+  "1": {
+    "Id": 1,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading1",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "実績が変わると、実績クエストも一新されます。各シーズンで果敢に挑戦し、新たな栄光を追い求めましょう！",
+    "TextTitle": "シーズン実績"
+  },
+  "10": {
+    "Id": 10,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "モジュールを装着してパワーコアのレベル効果を解放し、自身を強化しましょう！<br>注意：装着済みのモジュールのみ解放できます。異なるモジュールが同じ種類のパワーコアを持っている場合、そのリンク成功合計回数がレベル効果解放の前提条件となります。",
+    "TextTitle": "モジュール装備"
+  },
+  "100": {
+    "Id": 100,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "デイリー依頼をやる時間がないですか？大丈夫です！依頼の受領回数は翌日に持ち越され、最大3回まで累積できます！",
+    "TextTitle": "デイリー依頼"
+  },
+  "101": {
+    "Id": 101,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "リーダーがデイリー依頼ダンジョンに入ると、依頼クエストを受領していないメンバーのために自動的にクエストを受領します。",
+    "TextTitle": "デイリー依頼"
+  },
+  "102": {
+    "Id": 102,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "その日の依頼を完了したプレイヤーは、他の冒険者に同行してデイリー依頼ダンジョンに入り、他の冒険者の依頼完了を手伝うことができます。",
+    "TextTitle": "デイリー依頼"
+  },
+  "103": {
+    "Id": 103,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "その日の倍率が高い目標を優先的にクリアすると、より効率的にその日の活躍度目標を達成できます。",
+    "TextTitle": "活躍度"
+  },
+  "104": {
+    "Id": 104,
+    "LevelRange": [21, 30],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "指定された種類の魚を研究すると、対応する種類の中でより高い星ランクの魚を釣りやすくなります。",
+    "TextTitle": "魚類研究"
+  },
+  "105": {
+    "Id": 105,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アステリア平原の古代都市ヴィルにある英雄草と共鳴すると、浮遊・滑空の能力を獲得できます。<br>地面から一定の高さまで離れると浮遊状態になり、浮遊状態から滑空状態に切り替えることができます。アステリアの上空を思う存分飛び回りましょう！",
+    "TextTitle": "環境共鳴・浮遊・滑空"
+  },
+  "106": {
+    "Id": 106,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アステリア平原の巨塔の遺跡の頂上にある浮島にあるウィンドコアと共鳴すると、ファントムダッシュの能力を獲得できます。<br>一度に最大2回連続で超高速のダッシュ移動ができ、平原の風バリアを突き破ることもできます！",
+    "TextTitle": "環境共鳴・ファントムダッシュ"
+  },
+  "107": {
+    "Id": 107,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "毎日時間帯によってさまざまなカジュアルイベントが開催されます。【おすすめ】【カジュアル】から興味のあるイベントを選んで参加しましょう。",
+    "TextTitle": "カジュアル"
+  },
+  "108": {
+    "Id": 108,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "冒険者レベルが上がると、冒険者の潜在能力が解放されます。冒険者レベル画面で対応する潜在能力を開放すると、多段ジャンプや壁走りなどの能力を獲得できます。",
+    "TextTitle": "潜在能力励起"
+  },
+  "109": {
+    "Id": 109,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アステリア平原には時々さまざまな不思議な生き物が出現します。倒すと一定確率でレアな頭飾りやマウントが手に入ります。<br>具体的な出現パターンはモンスター討伐で確認できます。",
+    "TextTitle": "不思議な生き物"
+  },
+  "11": {
+    "Id": 11,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "冒険者レベルが特定の段階に達すると、潜在能力励起で自由に潜在能力プランを選択および設定できます。<br>一部の冒険者レベルでは複数の潜在能力が解放され、選択できるが、同じレベルでは1つしか選択できません。",
+    "TextTitle": "潜在能力励起"
+  },
+  "110": {
+    "Id": 110,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "フィールドには正時と毎時30分にさまざまなフィールドボスが出現します。倒した後、戦利品宝箱を開けると、対応するボスのウィルが手に入るチャンスがあります。<br>Tips：具体的な出現パターンはモンスター討伐で確認できる。",
+    "TextTitle": "フィールドボス"
+  },
+  "111": {
+    "Id": 111,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "衣装部屋タブの右側にある「目のアイコン」を押すと、その部位の外観表示を非表示にできます。",
+    "TextTitle": "衣装部屋のヒント"
+  },
+  "112": {
+    "Id": 112,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "マグナ大陸で広く使われている通貨。バファリア教団が管理と鋳造を担当しています。<br>鍛造素材はエングラムを含む貴金属です。<br>ルーノの鋳造技術は非常に高く、偽造はほぼ不可能です。",
+    "TextTitle": "ルーノ"
+  },
+  "113": {
+    "Id": 113,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "古い<style=\"emph-gn\">バファリア遺産</style>の一つで、転送ポータルに触れた生物を、エングラムラインが張り巡らされた別の転送ポータルに転送できます。その原理はまだ解明されていません。<br>転送ポータルは大量の貨物を輸送することはできず、身に着けている少量の物資しか転送できません。",
+    "TextTitle": "転送ポータル"
+  },
+  "114": {
+    "Id": 114,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "街の北側の歓楽街にある老舗旅館です。<br>飲食、宿泊、スペシャルドリンクなどのサービスを提供しています。歓楽街の中心地にあるため、知名度は高いです。<br>店主のウィルバートは穏やかなおじさんで、バーンハルトなまりの言葉を話します。",
+    "TextTitle": "双面コイン亭"
+  },
+  "115": {
+    "Id": 115,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "独立を記念して、議会が毎年開催する国民的な祭日です。<br>祭りの当日、アステルリーズには華やかなリボンの雨が降り、市民は家の前に海百合を飾り、願いと平和を表現します。街ではさまざまな詩会やパレード、フェスティバルなどの特別なお祝いが行われます。",
+    "TextTitle": "海風祭と遊園会"
+  },
+  "116": {
+    "Id": 116,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading9",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "夜の海と空は、時折寂しさを感じることがあります。十分に高い明かりを掲げなければ、遊び好きな星たちが帰り道を見失ってしまうかもしれません。そこで、島全体を見渡せるこの展望タワー「星の灯」が作られました。",
+    "TextTitle": "星の灯・見下ろす場所"
+  },
+  "117": {
+    "Id": 117,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading10",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "巨大なリングスター号に乗れば、星に手が届きそうです。人々は雲の上にたどり着き、心に秘めた言葉を口にします。ここはスターリー島で最もゆったりと時を過ごすのに適した場所となっています。",
+    "TextTitle": "リングスター号"
+  },
+  "118": {
+    "Id": 118,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading11",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "固定観念を打ち破る回転ウリボは、人々の間で奇妙な場所として噂になり、誰もがかわいいウリボに歓声を上げています……",
+    "TextTitle": "ウリボのワルツ"
+  },
+  "119": {
+    "Id": 119,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading12",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "満開のさくらの森は、スターリー島で最も美しい場所となりました。皆、ここでピクニックをしたり、景色を眺めたり、写真を撮ったり、巨大なリングスター号を眺めたりしています。",
+    "TextTitle": "さくらの森"
+  },
+  "12": {
+    "Id": 12,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "任意の共鳴スキルを選択してスロットにドラッグすると、装着が完了します。<br>装着したスキルはホーム画面にボタンが表示され、共鳴スキルは最大2個まで装着できます。",
+    "TextTitle": "環境共鳴"
+  },
+  "120": {
+    "Id": 120,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading13",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "オーロラステージの光は、単なる照明器具ではなく、情報を運ぶ使者でもあります。<br>これは創設者であるニャルカヌの大胆な構想から生まれました。オーロラを捕らえるように、遠い異世界からの信号を捉えることができれば、夢の島の境界を打ち破るチャンスがあると考えたのです。",
+    "TextTitle": "オーロラステージ"
+  },
+  "121": {
+    "Id": 121,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading14",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "当初の観光列車の設計図は、商会の半分を収容できるほど豪華でしたが、ニャルカヌお嬢様の「客車は足手まといになるだけ」という理由で却下されました。そのため、ポッポー号は最終的に先頭車両のみが残されました。少し窮屈ではありますが、その分、旅に不思議な温かみが加わりました。",
+    "TextTitle": "ポッポー号"
+  },
+  "122": {
+    "Id": 122,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading15",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "さまざまな音楽を流す巨大なDJ台が、カモメビーチのそばにそびえ立っています。貝殻と太陽の光が装飾となり、潮の満ち引きも美しいメロディとなります。",
+    "TextTitle": "潮汐の眼"
+  },
+  "123": {
+    "Id": 123,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading16",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "カーニバルは、島で最も賑やかで、最も変化に富んだテーマイベントです。<br>それはニャルカヌの、「毎日異世界の物語の夢を見るなら、それをみんなと共有しない手はない」という思いから生まれました。<br>こうして、カーニバルはお嬢様の夢の内容を現実に表現する手段となったのです。",
+    "TextTitle": "スターリーカーニバル"
+  },
+  "124": {
+    "Id": 124,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading17",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "スターリー島でどの建物が最も職人たちを挫折させたかと問われれば、この不思議館「エクリプス」の右に出るものはありません。<br>なぜなら、これはレンガや瓦で建てられたのではなく、高濃度の幻花晶のエネルギーが凝縮されてできた夢世界だからです。",
+    "TextTitle": "不思議館「エクリプス」"
+  },
+  "125": {
+    "Id": 125,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading18",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "冒険者はステルサーかハンターのいずれかになる。<br>ステルサーは身を隠すのが得意で、フィールド内のオブジェクトに化けて相手を惑わすことさえできる。ハンターはステルサーを追い詰める役割を担う。<br>二つの力が夢世界で交わり、追いつ追われつの戦いがここから始まる。",
+    "TextTitle": "チェイスゲーム"
+  },
+  "126": {
+    "Id": 126,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "夢の中の異世界からやってきたこの面白い遊びをみんなに体験してもらうため、ニャルカヌは島に「ゲームパーラー」を開いた。<br>ここは対局専用の静かな場所で、清潔で快適なテーブルと椅子が用意されており、誰でも座れば心置きなく牌を打つ感触を楽しむことができる。",
+    "TextTitle": "麻雀"
+  },
+  "127": {
+    "Id": 127,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 11,
+    "TextGeneral": "ニャルカヌはよく、「夢は複製できないけれど、願いならできる」と言う。<br>そしてニャルクススペシャルは、彼女が願いを贈り物として包み込む方法なのだ。",
+    "TextTitle": "ニャルクススペシャル"
+  },
+  "13": {
+    "Id": 13,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "精鋭モンスターに最初にダメージを与えたプレイヤーまたはそのパーティのみが、ターゲットのドロップした戦利品宝箱を開ける権利を持ちます。最初の一撃を与えたプレイヤーとそのパーティにはターゲットのHPゲージが赤く表示され、他の人には灰色で表示されます。",
+    "TextTitle": "モンスター討伐- 精鋭"
+  },
+  "14": {
+    "Id": 14,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "モンスター討伐画面でボスモンスターを追跡できます。",
+    "TextTitle": "モンスター討伐- ボス"
+  },
+  "15": {
+    "Id": 15,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ギルドに加入後、個人の活躍やギルドクエストのクリアで、ギルドの週間活躍度を上げられます。指定されたランクに到達すると、対応する報酬がもらえます。",
+    "TextTitle": "ギルド週間活動度報酬"
+  },
+  "16": {
+    "Id": 16,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ギルド活動所を手に入れた後、受付のルオラが出すガイドクエストをクリアすると、活動所内の各スタッフの役割やギルド内の各種施設の機能を知ることができる。<br>メンバーと一緒に活動所を建設し、より多くの資源を手に入れ、さまざまな体験を楽しみましょう！",
+    "TextTitle": "ギルド建設"
+  },
+  "17": {
+    "Id": 17,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "キャストすると、ウキは水面に浮かび、魚が食いつこうとすると短時間沈みます。<br>魚が食いつくと、ウキは沈んだまま浮き上がらなくなり、このタイミングで竿を引くとフッキングします。",
+    "TextTitle": "釣りのコツ"
+  },
+  "18": {
+    "Id": 18,
+    "LevelRange": [21, 30],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "同じ種類の魚を使うと研究進度が上がり、研究進度を上げることでその魚の研究レベルが上がります。各種魚の研究結果は、釣りにちょっとした追加ボーナスをもたらしてくれます。",
+    "TextTitle": "魚類研究"
+  },
+  "19": {
+    "Id": 19,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "運命の旅が冒険者に与えた贈り物。開けると豪華な報酬が手に入ります。<br>世界各地でその痕跡を積極的に探しましょう。",
+    "TextTitle": "宝箱"
+  },
+  "2": {
+    "Id": 2,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading2",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "能力スコアは冒険者の育成度を示す参考値です。冒険者レベル、アビリティ、スキル（クラススキルとバトルイマジンを含む）、装備、モジュール、エンブレムを育成することで、能力スコアを上げられます。",
+    "TextTitle": "能力スコア"
+  },
+  "20": {
+    "Id": 20,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "【風バリア】──アステリア特有の現象の一つ。エングラム異常の影響で、平原の海風が時折1箇所に集まり、球形のバリアを形成して内と外とを隔絶します。",
+    "TextTitle": "『アステリア平原の暴風気候と特異な生物種の性質および状態に関する研究』"
+  },
+  "21": {
+    "Id": 21,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "エングラム異常の影響によって、海流で潤された平原地域の一部に活発な上昇気流が発生することがあります。アステルリーズの人々はこれを【風フィールド】と呼んでいます。風フィールドで【連続ジャンプ】によって一定の高さまで上昇し、【浮遊、滑空】を使用すれば、風の力を利用して空を飛べます。",
+    "TextTitle": "『アステリア平原の暴風気候と特異な生物種の性質および状態に関する研究』"
+  },
+  "22": {
+    "Id": 22,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "【ウィンドリング】──アステリアの上空でよく見られる、端と端がつながったリング状の風。平原の特殊なテンペストによって高濃度の風元素が空中で凝縮して形成されたものと推測されます。",
+    "TextTitle": "『アステリア平原の暴風気候と特異な生物種の性質および状態に関する研究』"
+  },
+  "23": {
+    "Id": 23,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "バファリア神族が残した転送装置。起動させると遠距離への転送が可能になります。",
+    "TextTitle": "転送ポータル"
+  },
+  "24": {
+    "Id": 24,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "【風の道】──アステリア特有の現象の1つ。エングラム異常の影響により、平原には大小さまざまな属性の乱流路が形成されます。小型のサイクロンとインタラクトすることで、風の道の入口を開けられます。",
+    "TextTitle": "『アステリア平原の暴風気候と特異な生物種の性質および状態に関する研究』"
+  },
+  "25": {
+    "Id": 25,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "各地域のエングラムラインが交差するポイント。これと共鳴すると、その場所のエングラムラインと再接続されます。共鳴に成功すると、その星脈結束と対応するエリアの霧が晴れ、マップ情報が解放されます。すでに共鳴に成功し、接続が確立された星脈結束は転送に利用できます。",
+    "TextTitle": "星脈結束"
+  },
+  "26": {
+    "Id": 26,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "マップには多くのハリケーン粒子があり、それに触れると粒子収集クエストが発生します。制限時間内にクエストをクリアすると報酬がもらえます。",
+    "TextTitle": "ハリケーン粒子"
+  },
+  "27": {
+    "Id": 27,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "行商人は毎日3つの依頼があります。内容は指定されたアイテムの売却です。依頼を完了すると、ホームEXPやホームコインがもらえます。",
+    "TextTitle": "ホーム委託"
+  },
+  "28": {
+    "Id": 28,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "一部の家具は、レシピを解放しないと作れません。指定された目標を達成したり、指定されたアイテムを提出したりすると、対応する家具のクラフトレシピが解放されます。",
+    "TextTitle": "家具クラフト"
+  },
+  "29": {
+    "Id": 29,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ワールドを探索し、さまざまな人々と会話する中で、何気なく漏らされた情報が世界の真相を解き明かすことになるかもしれません。",
+    "TextTitle": "アンカーノート"
+  },
+  "3": {
+    "Id": 3,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading3",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "各クラスには専用のクラスアビリティがあり、好きな戦闘型を選んでアビリティポイントを割り振ることで、戦闘能力を上げられます。",
+    "TextTitle": "アビリティの割り振り"
+  },
+  "30": {
+    "Id": 30,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "【クイック推理】ボタンをタップすると、推理過程をスキップして推理結果を直接導き出せます。",
+    "TextTitle": "アンカーノート"
+  },
+  "31": {
+    "Id": 31,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "フィールドマップにはさまざまな種類のモンスターがいます。マップを探索し、フィールドのモンスターと戦い、モンスター討伐目標を達成すると、報酬として討伐ガイドをレベルアップできます。",
+    "TextTitle": "モンスター討伐"
+  },
+  "32": {
+    "Id": 32,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "フィールドには通常のモンスター以外にも、強力な精鋭モンスターやボスモンスターがいます。そうしたモンスターを倒すと戦利品宝箱がドロップし、鍵を使って開けるとレアな報酬が手に入ります。",
+    "TextTitle": "モンスター討伐"
+  },
+  "33": {
+    "Id": 33,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "精鋭やボスモンスターを倒すたびに、EXP、シーズンポイント、ルーノを獲得でき、一定確率でレアなモンスター素材が手に入ります。ボスを倒すと一定確率で装備も手に入ります。",
+    "TextTitle": "モンスター討伐"
+  },
+  "34": {
+    "Id": 34,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "精鋭モンスターに最初にダメージを与えたプレイヤーまたはそのパーティのみが、ターゲットのドロップした戦利品宝箱を開ける権利を持ちます。最初の一撃を与えたプレイヤーとそのパーティにはターゲットのHPゲージが赤く表示され、他の人には灰色で表示されます。",
+    "TextTitle": "モンスター討伐 - 精鋭"
+  },
+  "35": {
+    "Id": 35,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "モンスター討伐画面でボスモンスターを追跡できます。",
+    "TextTitle": "モンスター討伐 - ボス"
+  },
+  "36": {
+    "Id": 36,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "プレイヤーがダッシュ回避でエネミーの攻撃をうまく避けると、ジャスト回避が発動し、プレイヤーは今回のダメージを無効化し、次の通常攻撃が強化されます。一部の精鋭やボスエネミーは危険なスキルを発動し、その際には赤い光が点滅します。",
+    "TextTitle": "ジャスト回避"
+  },
+  "37": {
+    "Id": 37,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "敵の危険スキルが自分に命中する瞬間にジャスト回避を発動すると、敵の攻撃をカウンターし、敵を虚弱状態にできる。<br>Tips：カウンターに成功するとダメージを無効化します。",
+    "TextTitle": "カウンター攻撃"
+  },
+  "38": {
+    "Id": 38,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "精鋭とボスエネミーが持つユニークなメカニズムで、攻撃が命中するとターゲットの剛体値を削ります。<br>剛体値が0になると破壊が発動し、モンスターの現在のアクションを直ちに中断させ、一定時間虚弱状態に陥らせます。<br>行動制限系のスキルは、より効率的に剛体値を削ることができます。",
+    "TextTitle": "強靭ゲージ"
+  },
+  "39": {
+    "Id": 39,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "敵はターゲット単体に強力な攻撃を与えますが、範囲内のすべての味方でそのダメージを分担できます。",
+    "TextTitle": "分担"
+  },
+  "4": {
+    "Id": 4,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading4",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "好きなクラススキルを装備し、レベルアップや進化させることで、戦闘能力を大幅に上げられます。",
+    "TextTitle": "スキル育成"
+  },
+  "40": {
+    "Id": 40,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ボスが強力な持続スキルを発動するときはタイマーに注意して、時間内に対応しましょう。",
+    "TextTitle": "タイマー"
+  },
+  "41": {
+    "Id": 41,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "集中攻撃マークを持つターゲットは、短時間で迅速に倒す必要があります。倒せない場合、取り返しのつかない結果になる可能性が高いです。",
+    "TextTitle": "集中攻撃マーク"
+  },
+  "42": {
+    "Id": 42,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "頭上にターゲットマークが現れた場合、相手のスキルに注意してください。",
+    "TextTitle": "ターゲットマーク"
+  },
+  "43": {
+    "Id": 43,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(101)*}] 長押しでトーク画面に入れます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "44": {
+    "Id": 44,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(124)*}] でクイックヘルプを開けます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "45": {
+    "Id": 45,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(25)*} でエクストラスキルを使用する",
+    "TextTitle": "キー操作のヒント"
+  },
+  "46": {
+    "Id": 46,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(143)*}] で現在のUIを非表示にできます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "47": {
+    "Id": 47,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(34)*}] でオートバトルをオン/オフにできます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "48": {
+    "Id": 48,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(140)*}] でカメラを開けます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "49": {
+    "Id": 49,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(8)*}] で現在の画面を閉じられます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "5": {
+    "Id": 5,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading5",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "現在の攻撃、支援、防御の戦闘ポジションに合わせて適切なバトルイマジンスキルを組み合わせることで、戦闘がより効率的になります。",
+    "TextTitle": "バトルイマジン"
+  },
+  "50": {
+    "Id": 50,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(115)*}] でクイックホイールを開けます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "51": {
+    "Id": 51,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(115)*}] でクイックホイールを開けます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "52": {
+    "Id": 52,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(34)*}] でオートバトルをオン/オフにできます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "53": {
+    "Id": 53,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(143)*}] で現在のUIを非表示にできます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "54": {
+    "Id": 54,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(140)*}] でカメラを開けます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "55": {
+    "Id": 55,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(155)*}] / [{*key.getKeyDesc(165)*}] を押すと、トークチャンネルに入れます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "56": {
+    "Id": 56,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(102)*}] でトーク画面に入れます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "57": {
+    "Id": 57,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(124)*}] でクイックヘルプを開けます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "58": {
+    "Id": 58,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(25)*} でエクストラスキルを使用する",
+    "TextTitle": "キー操作のヒント"
+  },
+  "59": {
+    "Id": 59,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(8)*}] で現在の画面を閉じられます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "6": {
+    "Id": 6,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading6",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "装備を改鋳することで、装備のステータスを更新し、装備の完成度を向上させ、装備のステータスと効果をより完璧なものにできます。",
+    "TextTitle": "装備改鋳"
+  },
+  "60": {
+    "Id": 60,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "プレイヤーがナビゲーション可能なマウントに乗っているとき、[{*key.getKeyDesc(154)*}] 長押しで現在の追跡ターゲットに対する自動ナビゲーションを開始できます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "61": {
+    "Id": 61,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(27)*}] で現在進行中のクエストを追跡できます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "62": {
+    "Id": 62,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 2,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(118)*}] で現在受領しているクエストの一覧を確認できます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "63": {
+    "Id": 63,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(27)*}] で現在進行中のクエストを追跡できます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "64": {
+    "Id": 64,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 3,
+    "SceneId": 0,
+    "TextGeneral": "[{*key.getKeyDesc(118)*}] で現在受領しているクエストの一覧を確認できます。",
+    "TextTitle": "キー操作のヒント"
+  },
+  "65": {
+    "Id": 65,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "マグナ大陸で広く使われている通貨。バファリア教団が管理と鋳造を担当しています。<br>鍛造素材はエングラムを含む貴金属です。<br>ルーノの鋳造技術は非常に高く、偽造はほぼ不可能です。",
+    "TextTitle": "ルーノ"
+  },
+  "66": {
+    "Id": 66,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "古い<style=\"emph-gn\">バファリア遺産</style>の一つで、転送ポータルに触れた生物を、エングラムラインが張り巡らされた別の転送ポータルに転送できます。その原理はまだ解明されていません。<br>転送ポータルは大量の貨物を輸送することはできず、身に着けている少量の物資しか転送できません。",
+    "TextTitle": "転送ポータル"
+  },
+  "67": {
+    "Id": 67,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "街の北側の歓楽街にある老舗旅館です。<br>飲食、宿泊、スペシャルドリンクなどのサービスを提供しています。歓楽街の中心地にあるため、知名度は高いです。<br>店主のウィルバートは穏やかなおじさんで、バーンハルトなまりの言葉を話します。",
+    "TextTitle": "双面コイン亭"
+  },
+  "68": {
+    "Id": 68,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "独立を記念して、議会が毎年開催する国民的な祭日です。<br>祭りの当日、アステルリーズには華やかなリボンの雨が降り、市民は家の前に海百合を飾り、願いと平和を表現します。街ではさまざまな詩会やパレード、フェスティバルなどの特別なお祝いが行われます。",
+    "TextTitle": "海風祭と遊園会"
+  },
+  "69": {
+    "Id": 69,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ねじ曲げられたエングラムです。発生源は不明で、黒い霧のような見た目をしています。<br>虚蝕エングラムが出現すると、周辺の空間のエングラムが乱れ、非常に危険です。<br>また、虚蝕エングラムはエングラムと中和反応を起こすため、虚蝕エングラムを消滅させる唯一の方法は、汚染されたエリアに大量のエングラムを注入することです。",
+    "TextTitle": "虚蝕エングラム"
+  },
+  "7": {
+    "Id": 7,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading7",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "精錬は装備の効果を大幅に上げられますが、成功することもあれば失敗することもあります。失敗してもレベルは下がりませんので、安心してトライしてください。",
+    "TextTitle": "装備精錬"
+  },
+  "70": {
+    "Id": 70,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "エングラムは目に見えないエングラムラインを流れ、万物を潤す、この世界の根源的なエネルギーです。<br>各種族がエングラムをさまざまに理解し、利用することで、この世界の多様性が生まれています。",
+    "TextTitle": "エングラム"
+  },
+  "71": {
+    "Id": 71,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "生体内部を流れるエングラムは、生命の本源的な力を維持する役割を果たしています。",
+    "TextTitle": "生体エングラム"
+  },
+  "72": {
+    "Id": 72,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "神族が去った後に残された大量の科学技術の産物です。<br>人類によって改造されたこれらの遺産は、驚くべき強力な機能を発揮し、今では人類社会で広く使われています。数が少ないため、教団と開拓局がまとめて収集し、階層ごとにそれぞれ割り当てていますが、その中心的な原理は人類には理解できていません。",
+    "TextTitle": "バファリア遺産"
+  },
+  "73": {
+    "Id": 73,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "冒険者の活動を支援し、バファリア遺跡の発掘やモンスターの討伐を行う世界的な組織です。<br>立場は中立で、どの国にも属していません。<br>アステルリーズ支局の責任者は、「閃光の才女」として知られるアメリアです。",
+    "TextTitle": "開拓局"
+  },
+  "74": {
+    "Id": 74,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "エングラムは惑星レグナスを網の目のように流れています。<br>その網の目のように張り巡らされた構造の集合点を「星脈結束」と呼び、エングラム濃度が高く、エネルギーも強くなっています。",
+    "TextTitle": "星脈結束"
+  },
+  "75": {
+    "Id": 75,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "風属性の力が激しく衝突すると、風フィールドと呼ばれる不思議な現象が発生します。<br>豊富な風属性の力が風フィールドに満ち、目に見えないウィンドリングを形成します。星源共鳴の能力があれば、ウィンドリングを利用して空中を滑空することができます。",
+    "TextTitle": "ウィンドリングと風フィールド"
+  },
+  "76": {
+    "Id": 76,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アステリア平原の最南端に位置する、賑やかな港湾都市です。<br>かつてはバーンハルトが版図拡大のために建設した植民地でしたが、後に自治を通じて貿易の中心地へと発展しました。<br>現在のアステルリーズは、寛容な文化と発達した商業で知られ、世界中から商人や冒険者を引きつけています。",
+    "TextTitle": "アステルリーズ"
+  },
+  "77": {
+    "Id": 77,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "商業都市アステルリーズの隣に位置する平原地帯。<br>広大で幻想的な空間が広がり、草原や遺跡などさまざまな地形が分布し、探索の余地が豊富にあります。平原には、古代から住み続けているカナミア族、何事にも束縛されない拾い屋、攻撃的な亜人や山賊団など、さまざまな勢力が活動しています。",
+    "TextTitle": "アステリア平原"
+  },
+  "78": {
+    "Id": 78,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アステリア平原の中部に位置する村です。<br>肥沃な土地のおかげで、ここで生産される豊富な穀物、野菜、果物は非常に人気があります。アステリア平原とバハマール高原を結ぶ交易路上にあるため、地元の人々とアステルリーズとの間の貿易は非常に活発です。",
+    "TextTitle": "ミンスターホルン"
+  },
+  "79": {
+    "Id": 79,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "バファリア遺産に大きく依存する現代文明と比べて、<br>平原のカナミア族はより素朴で、優しく、自然を崇拝しています。<br>彼らは自分たちの祖先を崇拝し、それを<style=\"emph-gn\">祖霊</style>と呼んでいます。",
+    "TextTitle": "カナミア族集落"
+  },
+  "8": {
+    "Id": 8,
+    "LevelRange": [21, 30],
+    "LoadingBg": "ui/textures/login/loading8",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "精錬時に祝福アイテムを使うと成功率が上がります。<br>同部位装備の交換時、精錬レベルは無料で自動移行されます。",
+    "TextTitle": "装備精錬"
+  },
+  "80": {
+    "Id": 80,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "独立戦争で亡くなった人々のために、<br>人々は自発的に犠牲者の親族の名前と生涯の事跡を木に彫り、故郷を見守るという意味を込めて古代都市ヴィル近くの崖に置来ました。<br>それに気づいた議会は、この場所を英雄の彫像に改修したのです。",
+    "TextTitle": "英雄の彫像"
+  },
+  "81": {
+    "Id": 81,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アステリア平原の荒れ狂う海岸線には、大地が裂けたかのような峡谷がそびえ立ちます。<br>ここは一年中、巨大な狼のうめき声のような、身の毛もよだつ風の音が響き渡っています。<br>まだら模様の岩壁に残された彫刻や記号は、古代文明の滅亡と存続を物語っているかのようです。",
+    "TextTitle": "風鳴りの峡谷"
+  },
+  "82": {
+    "Id": 82,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アステルリーズは巨大な都市で、広大な地下排水網を有しています。<br>ここは空が覆い隠され、太陽の光が届かず、闇が生まれる場所です。<br>議会や守備兵団の勢力もほとんど足を踏み入れないため、無法者が集まる場所となっています。",
+    "TextTitle": "地下集落"
+  },
+  "83": {
+    "Id": 83,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アステルリーズ近郊の危険水域で、その荒々しい海模様と頻発する海難事故で悪名高いエリアです。<br>この海域の最も大きな特徴は、直径数百メートルにも及ぶ巨大な渦潮で、<br>その巨大なねじれの力は船体を完全に引き裂き、周辺海域に破片を撒き散らし、はっきりとした破片の帯を形成します。",
+    "TextTitle": "厄水海域"
+  },
+  "84": {
+    "Id": 84,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "アンドラの廃都はバファリア教団が認定する聖地の一つです。<br>廃虚内部には大量のモンスターが生息しているため、教団は外周にのみ見張所を設置しています。<br>最新の調査によると、現存する構造物は元の都市の上層部のみで、廃都の大部分はまだ地中深くに埋まっているようです。",
+    "TextTitle": "廃虚の下の都市"
+  },
+  "85": {
+    "Id": 85,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "マウントイマジンは、自動追跡ナビゲーション能力だけでなく、それぞれ独自のスキルも持っています。",
+    "TextTitle": "マウント"
+  },
+  "86": {
+    "Id": 86,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "任意のエモートを長押しすると、お気に入りリストに追加できます。",
+    "TextTitle": "エモート"
+  },
+  "87": {
+    "Id": 87,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "「エモート：魚自慢」を使用している時でも、自由に移動できる。",
+    "TextTitle": "エモート"
+  },
+  "88": {
+    "Id": 88,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "写真撮影機能の戦闘モードでは、冒険者がスキルを発動する瞬間の勇姿を撮影できます。",
+    "TextTitle": "撮影"
+  },
+  "89": {
+    "Id": 89,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "他のプレイヤーがエモートを使用しているとき、そのプレイヤーをマルチ撮影チームに招待すると、アクションの進度ゲージをドラッグして、相手のアクションの状態を手動で調整できるようになります。",
+    "TextTitle": "撮影"
+  },
+  "9": {
+    "Id": 9,
+    "LevelRange": [31, 40],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "装備に装着するとジェムがもたらすステータスを装備に付与できます。また、中級か上級の装着方法を選択すると、より高レベルのジェム効果を獲得できます！",
+    "TextTitle": "ジェム装着"
+  },
+  "90": {
+    "Id": 90,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ギルド管理者は、ギルドの祝福の泉で、全メンバー向けのバフ効果を選択できます。",
+    "TextTitle": "ギルド祝福の泉"
+  },
+  "91": {
+    "Id": 91,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "パーティ状態では、マップ上で同じフィールドにいるパーティメンバーのアイコンを見ることができます。",
+    "TextTitle": "パーティ"
+  },
+  "92": {
+    "Id": 92,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "パーティを組んでいるときにマップのチャンネルを切り替えると、異なるチャンネルにいるパーティメンバーのアイコンを見ることができます。",
+    "TextTitle": "パーティ"
+  },
+  "93": {
+    "Id": 93,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ダンジョン推奨のクラス構成を満たしていれば、パーティ状態でもマッチングに参加できます。仲間と一緒にマッチングプレイを始めて、協力して挑戦しましょう！",
+    "TextTitle": "マッチング"
+  },
+  "94": {
+    "Id": 94,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ホームの花栽培モードでは、水やりや施肥で植物の成長時間を短縮できます。",
+    "TextTitle": "ホーム・花の栽培"
+  },
+  "95": {
+    "Id": 95,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ホームの花栽培モードでは、植えたときの交配結果によって花の色や形が決まります。",
+    "TextTitle": "ホーム・花の栽培"
+  },
+  "96": {
+    "Id": 96,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ホームの花栽培モードでは、受粉期の花に対して、能動的に受粉させることができます。<br>受粉した植物が咲かせた花は、受粉に使われた花粉の遺伝子型を半分受け継ぎます。",
+    "TextTitle": "ホーム・手動授粉"
+  },
+  "97": {
+    "Id": 97,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ホームの花栽培モードでは、花が受粉期になっても、冒険者によって受粉されなかった場合、成熟時に近くにある他の成熟した花の花粉の影響を受け、開花時の結果が決まります。",
+    "TextTitle": "ホーム・受動授粉"
+  },
+  "98": {
+    "Id": 98,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "ホームの花栽培モードでは、自分で育てた花が成熟すると花と種を収穫でき、フレンドは対応する花粉を収穫できます。",
+    "TextTitle": "ホーム・収穫"
+  },
+  "99": {
+    "Id": 99,
+    "LevelRange": [11, 20],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "家具クラフトの効率を上げたいですか？それなら、フレンドをたくさん招待して同居しましょう！同居する仲間が多いほど、ホームの製造台のキューも増えます。",
+    "TextTitle": "ホーム・家具製作"
+  }
+}

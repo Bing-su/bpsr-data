@@ -1,0 +1,48 @@
+{
+  "1000": {
+    "Id": 1000,
+    "IsShow": true,
+    "LockedText": "Terminer <style=\"emph-gn\">Au lendemain de ces rêves</style> pour déverrouiller",
+    "Remark": "",
+    "RoleName": "Boyce",
+    "RolePic": "ui/textures/npctask/boyce/storyboard_boyce",
+    "StoryboardPool": [100001],
+    "UnlockCondition": [[], [9, 30105]]
+  },
+  "1001": {
+    "Id": 1001,
+    "IsShow": true,
+    "LockedText": "Terminer <style=\"emph-gn\">Au lendemain de ces rêves</style> pour déverrouiller",
+    "Remark": "",
+    "RoleName": "Fafala",
+    "RolePic": "ui/textures/npctask/farfara/storyboard_farfara",
+    "StoryboardPool": [100101],
+    "UnlockCondition": [[], [9, 30103]]
+  },
+  "1002": {
+    "Id": 1002,
+    "IsShow": true,
+    "LockedText": "Terminer <style=\"emph-gn\">La nuit s'avance dans la longue rue</style> pour déverrouiller",
+    "Remark": "",
+    "RoleName": "Darya",
+    "RolePic": "ui/textures/npctask/daya/storyboard_daya",
+    "StoryboardPool": [100201],
+    "UnlockCondition": [
+      [2, 10607, 2],
+      [9, 30101]
+    ]
+  },
+  "1003": {
+    "Id": 1003,
+    "IsShow": true,
+    "LockedText": "Terminer <style=\"emph-gn\">Le point d'origine</style> pour déverrouiller",
+    "Remark": "",
+    "RoleName": "Airona",
+    "RolePic": "ui/textures/npctask/iruna/storyboard_iruna",
+    "StoryboardPool": [100301],
+    "UnlockCondition": [
+      [2, 10001, 2],
+      [9, 41106]
+    ]
+  }
+}

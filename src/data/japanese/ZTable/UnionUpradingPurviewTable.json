@@ -1,0 +1,74 @@
+{
+  "1": {
+    "Des": "协会成员上限增加至50人",
+    "Id": 1,
+    "PurviewParam": [],
+    "ShowPurview": "ギルドメンバー上限が{*val*}に増加"
+  },
+  "10": {
+    "Des": "第二个参数为电子屏对应的唯一ID，第三个参数为可设置的照片数量",
+    "Id": 10,
+    "PurviewParam": [10, 1, 2],
+    "ShowPurview": "スクリーンエリア{*val1*}の写真数が{*val2*}に増加"
+  },
+  "11": {
+    "Des": "协会相册数量上限增加，基础数量是10",
+    "Id": 11,
+    "PurviewParam": [11, 2],
+    "ShowPurview": "ギルドアルバム上限が{*val*}に増加"
+  },
+  "12": {
+    "Des": "",
+    "Id": 12,
+    "PurviewParam": [],
+    "ShowPurview": "活動所をレベルアップさせると、他の施設をレベルアップできます"
+  },
+  "2": {
+    "Des": "特效格子解锁1个",
+    "Id": 2,
+    "PurviewParam": [2, 1],
+    "ShowPurview": "祝福の泉の解放数{*val*}"
+  },
+  "3": {
+    "Des": "解锁对应特效ID",
+    "Id": 3,
+    "PurviewParam": [3, 0],
+    "ShowPurview": "祝福効果{*val*}を解放"
+  },
+  "4": {
+    "Des": "解锁厨房",
+    "Id": 4,
+    "PurviewParam": [4, 1],
+    "ShowPurview": "厨房解放"
+  },
+  "5": {
+    "Des": "解锁PVE玩法",
+    "Id": 5,
+    "PurviewParam": [5, 1],
+    "ShowPurview": "ギルドハントモード解放"
+  },
+  "6": {
+    "Des": "解锁休闲区域1",
+    "Id": 6,
+    "PurviewParam": [6, 1],
+    "ShowPurview": "くつろぎエリア{*val*}解放"
+  },
+  "7": {
+    "Des": "这个没有参数，限制在兑换商店那边",
+    "Id": 7,
+    "PurviewParam": [],
+    "ShowPurview": "ギルド雑貨屋の一部アイテム解放"
+  },
+  "8": {
+    "Des": "解锁电子屏区域1,第二个参数为对应不同电子屏【废弃】",
+    "Id": 8,
+    "PurviewParam": [8, 1],
+    "ShowPurview": "スクリーン{*val*}解放"
+  },
+  "9": {
+    "Des": "解锁协会场景",
+    "Id": 9,
+    "PurviewParam": [9, 1],
+    "ShowPurview": "ギルド活動所解放"
+  }
+}

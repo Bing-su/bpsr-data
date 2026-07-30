@@ -1,0 +1,1326 @@
+{
+  "100001": {
+    "Content": "<style=\"emph-gn\">Physical Boost</style> <style=\"accent-gn\">+40%</style>",
+    "Id": 100001
+  },
+  "100101": {
+    "Content": "<style=\"emph-gn\">Magical Boost</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 100101
+  },
+  "100201": {
+    "Content": "Saat melancarkan Ultimate, <style=\"emph-gn\">waktu CD</style> semua skill dipercepat <style=\"accent-gn\">100%</style>, pemulihan <style=\"emph-gn\">sumber daya pertarungan</style> meningkat <style=\"accent-gn\">100%</style> selama <style=\"accent-gn\">20 detik</style>.",
+    "Id": 100201
+  },
+  "100301": {
+    "Content": "ATK <style=\"accent-gn\">+5%</style> untuk diri sendiri dan rekan dalam jarak <style=\"accent-gn\">10 meter</style><br>tambahan <style=\"accent-gn\">+5%</style> untuk setiap satu <style=\"emph-gn\">role</style> yang ada dalam jangkauan (maks. <style=\"accent-gn\">20%</style>).",
+    "Id": 100301
+  },
+  "100401": {
+    "Content": "Setiap kali melancarkan Expertise Skill akan meningkatkan <style=\"accent-gn\">0,2%</style> DMG dan Heal dari <style=\"emph-gn\">Expertise Skill</style><br>maks. <style=\"accent-gn\">200 tumpuk</style>. Setelah mencapai tumpukan tertinggi, akan mendapat tambahan <style=\"accent-gn\">20%</style> DMG dan Heal dari <style=\"emph-gn\">Expertise Skill</style>.",
+    "Id": 100401
+  },
+  "100501": {
+    "Content": "Setiap kali melancarkan Special Attack akan meningkatkan <style=\"accent-gn\">0,2%</style> DMG dan Heal dari <style=\"emph-gn\">Special Attack</style><br>maks. <style=\"accent-gn\">200 tumpuk</style>. Setelah mencapai tumpukan tertinggi, akan mendapat tambahan <style=\"accent-gn\">20%</style> DMG dan Heal dari <style=\"emph-gn\">Special Attack</style>.",
+    "Id": 100501
+  },
+  "100601": {
+    "Content": "<style=\"emph-gn\">Haste</style> sendiri <style=\"accent-gn\">+20%</style>, tapi HP <style=\"accent-gn\">-8%</style> setiap detik saat bergerak dalam pertarungan.",
+    "Id": 100601
+  },
+  "100701": {
+    "Content": "Waktu CD <style=\"emph-gn\">Ultimate</style> berkurang <style=\"accent-gn\">1%</style> untuk setiap <style=\"accent-gn\">200</style> Haste (maks. <style=\"accent-gn\">50%</style>).",
+    "Id": 100701
+  },
+  "100801": {
+    "Content": "Sisa waktu CD <style=\"emph-gn\">Expertise Skill</style> berkurang <style=\"accent-gn\">10%</style> saat mengalahkan target.",
+    "Id": 100801
+  },
+  "100901": {
+    "Content": "Sisa waktu CD <style=\"emph-gn\">Expertise Skill</style> berkurang <style=\"accent-gn\">0,5 detik</style> saat melancarkan <style=\"emph-gn\">Special Attack</style>.",
+    "Id": 100901
+  },
+  "101001": {
+    "Content": "<style=\"emph-gn\">Crit DMG</style> <style=\"accent-gn\">+10%</style> (maks. <style=\"accent-gn\">30%</style>) selama <style=\"accent-gn\">5 detik</style> saat <style=\"emph-gn\">mengalahkan</style> target.",
+    "Id": 101001
+  },
+  "101101": {
+    "Content": "<style=\"emph-gn\">Crit DMG</style> <style=\"accent-gn\">+60%</style> terhadap target dengan HP lebih dari <style=\"accent-gn\">80%</style>.",
+    "Id": 101101
+  },
+  "101201": {
+    "Content": "<style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+25%</style>, jika HP><style=\"accent-gn\">30%</style>, menggunakan <style=\"accent-gn\">2,5%</style> HP diri sendiri saat menyerang.",
+    "Id": 101201
+  },
+  "101301": {
+    "Content": "<style=\"emph-gn\">ATK</style> +<style=\"accent-gn\">0,3%</style> setiap kali HP -<style=\"accent-gn\">1%</style>. Setiap satu atribut [Bloodwrath] akan memberi tambahan efek ini <style=\"accent-gn\">0,1%</style>.",
+    "Id": 101301
+  },
+  "101401": {
+    "Content": "Saat serangan mengakibatkan <style=\"emph-gn\">Lucky Hit</style>, akan memicu <style=\"emph-gn\">[Energy Burst]</style>: Ledakannya mengakibatkan DMG sebesar <style=\"accent-gn\">20%</style> dari HP diri sendiri yang berkurang. Waktu CD <style=\"accent-gn\">1 detik</style>.",
+    "Id": 101401
+  },
+  "101501": {
+    "Content": "Setelah HP kurang dari <style=\"accent-gn\">30%</style>, <style=\"accent-gn\">10%</style> dari <style=\"emph-gn\">DMG</style> akan dikonversi menjadi <style=\"emph-gn\">shield</style>. Shield ini bisa ditumpuk dan tidak akan melebihi <style=\"accent-gn\">100%</style> dari Max HP.",
+    "Id": 101501
+  },
+  "101601": {
+    "Content": "Saat <style=\"emph-gn\">sekarat</style>, akan memicu <style=\"emph-gn\">[Invincible]</style> dan <style=\"emph-gn\">[Speed Up]</style> selama <style=\"accent-gn\">3 detik</style>. Waktu CD <style=\"accent-gn\">20 detik</style>.",
+    "Id": 101601
+  },
+  "101701": {
+    "Content": "Melancarkan serangan akan memicu <style=\"emph-gn\">[Blood Fight]</style>: <style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+20%</style> selama <style=\"accent-gn\">3 detik</style> dan tidak akan gugur selama efek berlangsung.",
+    "Id": 101701
+  },
+  "101801": {
+    "Content": "<style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+25%</style>, setiap detik mengakibatkan DMG sebesar <style=\"accent-gn\">1%</style> dari <style=\"emph-gn\">Max HP</style> terhadap diri sendiri.",
+    "Id": 101801
+  },
+  "101901": {
+    "Content": "Mengakibatkan Area Damage sebesar <style=\"accent-gn\">20%</style> <style=\"emph-gn\">Max HP</style> setiap <style=\"accent-gn\">3 detik</style>.",
+    "Id": 101901
+  },
+  "102001": {
+    "Content": "Menambah <style=\"emph-gn\">ATK</style> sebesar <style=\"accent-gn\">0,3%</style> <style=\"emph-gn\">Max HP</style> sendiri.",
+    "Id": 102001
+  },
+  "102101": {
+    "Content": "Saat serangan mengakibatkan <style=\"emph-gn\">Lucky Hit</style>, akan mendapatkan <style=\"emph-gn\">Shield</style> sebesar <style=\"accent-gn\">20%</style> <style=\"emph-gn\">Max HP</style>.",
+    "Id": 102101
+  },
+  "102201": {
+    "Content": "Serangan yang diterima akan dipantulkan menjadi Area Damage sebesar <style=\"accent-gn\">10%</style> <style=\"emph-gn\">Max HP</style>.",
+    "Id": 102201
+  },
+  "102301": {
+    "Content": "<style=\"emph-gn\">Waktu CD</style> semua skill akan berkurang <style=\"accent-gn\">1 detik</style> saat menerima serangan.",
+    "Id": 102301
+  },
+  "102401": {
+    "Content": "<style=\"emph-gn\">Max HP</style> <style=\"accent-gn\">+100%</style>, setiap detik mengakibatkan DMG sebesar <style=\"accent-gn\">1%</style> dari <style=\"emph-gn\">Max HP</style> terhadap diri sendiri.",
+    "Id": 102401
+  },
+  "102501": {
+    "Content": "Class Skill yang mengakibatkan DMG akan memberi satu kali tambahan DMG sebesar <style=\"accent-gn\">0,2%</style> dari <style=\"emph-gn\">HP musuh saat ini</style>",
+    "Id": 102501
+  },
+  "102601": {
+    "Content": "<style=\"emph-gn\">PDEF</style> <style=\"accent-gn\">+10%</style> untuk setiap 1 <style=\"emph-gn\">atribut Curse</style> yang dibawa.",
+    "Id": 102601
+  },
+  "102701": {
+    "Content": "Menambah <style=\"emph-gn\">PDEF</style> sebesar <style=\"accent-gn\">3%</style> <style=\"emph-gn\">Max HP</style> diri sendiri.",
+    "Id": 102701
+  },
+  "102801": {
+    "Content": "Serangan yang diterima akan dipantulkan menjadi Area Damage sebesar <style=\"accent-gn\">400%</style> <style=\"emph-gn\">PDEF</style>.",
+    "Id": 102801
+  },
+  "102901": {
+    "Content": "Mengakibatkan DMG terhadap musuh di sekitar target heal sebesar <style=\"accent-gn\">100%</style> dari healing yang diberikan Class Skill (efek ini hanya bisa terpicu 1 kali setiap <style=\"accent-gn\">1 detik</style>, healing selama periode ini akan diakumulasikan)",
+    "Id": 102901
+  },
+  "103001": {
+    "Content": "Meningkatkan <style=\"emph-gn\">Healing</style> sebesar <style=\"accent-gn\">1%</style> secara permanen setiap melancarkan <style=\"emph-gn\">Special Attack</style> sebanyak <style=\"accent-gn\">10 kali</style> (batas tambahan <style=\"accent-gn\">30%</style>).",
+    "Id": 103001
+  },
+  "103101": {
+    "Content": "Rekan dalam jarak 10 meter mendapatkan <style=\"emph-gn\">Shield</style> sebesar <style=\"accent-gn\">20%</style> <style=\"emph-gn\">Max HP</style> setiap <style=\"accent-gn\">10 detik</style>.",
+    "Id": 103101
+  },
+  "103201": {
+    "Content": "<style=\"emph-gn\">Vulnerable</style> rekan dalam jarak 10 meter <style=\"accent-gn\">+10%</style>.",
+    "Id": 103201
+  },
+  "103301": {
+    "Content": "Setiap <style=\"accent-gn\">5 detik</style> akan mengakibatkan efek <style=\"emph-gn\">Stun</style> selama <style=\"accent-gn\">1 detik</style> terhadap musuh dalam jarak 10 meter.",
+    "Id": 103301
+  },
+  "103401": {
+    "Content": "Saat serangan mengakibatkan <style=\"emph-gn\">Lucky Hit</style>, akan memicu <style=\"emph-gn\">[Boltstrike]</style>: Boltstrike mengakibatkan DMG sebesar <style=\"accent-gn\">45%</style> <style=\"emph-gn\">ATK</style>. Waktu CD <style=\"accent-gn\">1 detik</style>.",
+    "Id": 103401
+  },
+  "103501": {
+    "Content": "Saat serangan mengakibatkan <style=\"emph-gn\">Lucky Hit</style>, akan memicu <style=\"emph-gn\">[Sword Storm]</style>: Sword Storm mengakibatkan DMG sebesar <style=\"accent-gn\">45%</style> <style=\"emph-gn\">ATK</style>. Waktu CD <style=\"accent-gn\">1 detik</style>.",
+    "Id": 103501
+  },
+  "103601": {
+    "Content": "Saat serangan mengakibatkan <style=\"emph-gn\">Lucky Hit</style>, akan memicu <style=\"emph-gn\">[Fireball Explosion]</style>: Fireball Explosion mengakibatkan DMG sebesar <style=\"accent-gn\">45%</style> <style=\"emph-gn\">ATK</style>. Waktu CD <style=\"accent-gn\">1 detik</style>.",
+    "Id": 103601
+  },
+  "103701": {
+    "Content": "Saat serangan mengakibatkan <style=\"emph-gn\">Lucky Hit</style>, akan memicu <style=\"emph-gn\">[Flashchain]</style>: Flashchain mengakibatkan DMG sebesar <style=\"accent-gn\">1%</style> <style=\"emph-gn\">Max HP</style>. Waktu CD <style=\"accent-gn\">1 detik</style>.",
+    "Id": 103701
+  },
+  "103801": {
+    "Content": "<style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+30%</style>, setiap <style=\"accent-gn\">2%</style> dari Crit reguler yang melebihi <style=\"accent-gn\">50%</style> akan dikonversi menjadi <style=\"accent-gn\">1%</style> <style=\"emph-gn\">Crit DMG</style> (maks. <style=\"accent-gn\">50%</style>).",
+    "Id": 103801
+  },
+  "103901": {
+    "Content": "<style=\"emph-gn\">Crit DMG</style> berlipat ganda.",
+    "Id": 103901
+  },
+  "104001": {
+    "Content": "Saat mengakibatkan Crit, mengakibatkan satu kali Area DMG tambahan yang pasti mengakibatkan Crit sebesar <style=\"accent-gn\">200%</style> ATK di lokasi target (waktu CD <style=\"accent-gn\">1 detik</style>). Setiap satu atribut [Brutal] memberi <style=\"accent-gn\">+50%</style> untuk DMG akhir dari DMG ini.",
+    "Id": 104001
+  },
+  "104101": {
+    "Content": "Waktu CD semua skill akan berkurang <style=\"accent-gn\">0,5 detik</style> saat mengakibatkan Crit (hanya dapat terpicu satu kali setiap <style=\"accent-gn\">1 detik</style>).",
+    "Id": 104101
+  },
+  "104201": {
+    "Content": "Menambah tumpukan [Reaper's Mark] untuk setiap Crit. Saat mencapai <style=\"accent-gn\">20 tumpuk</style>, <style=\"emph-gn\">Crit DMG</style> <style=\"accent-gn\">+30%</style> selama <style=\"accent-gn\">5 detik</style>.",
+    "Id": 104201
+  },
+  "104301": {
+    "Content": "<style=\"emph-gn\">Crit</style> dari Expertise Skill <style=\"accent-gn\">+50%</style>.",
+    "Id": 104301
+  },
+  "104401": {
+    "Content": "<style=\"emph-gn\">Crit</style> dari Special Attack <style=\"accent-gn\">+50%</style>.",
+    "Id": 104401
+  },
+  "104501": {
+    "Content": "Memulihkan <style=\"accent-gn\">1%</style> HP diri sendiri saat mengakibatkan Crit (waktu CD <style=\"accent-gn\">0,1 detik</style>).",
+    "Id": 104501
+  },
+  "104601": {
+    "Content": "Jika DMG tidak mengakibatkan Crit, <style=\"emph-gn\">Crit</style> akan meningkat <style=\"accent-gn\">50%</style>. Efek ini dihapus setelah mengakibatkan Crit.",
+    "Id": 104601
+  },
+  "104701": {
+    "Content": "Dalam <style=\"accent-gn\">15 detik</style> setelah melancarkan Ultimate, semua DMG pasti mengakibatkan Crit.",
+    "Id": 104701
+  },
+  "104801": {
+    "Content": "Saat menerima heal, <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+20%</style> dalam <style=\"accent-gn\">5 detik</style>.",
+    "Id": 104801
+  },
+  "104901": {
+    "Content": "Setiap mengalahkan satu monster, <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+0,3%</style> (maks. <style=\"accent-gn\">100 tumpuk</style>).",
+    "Id": 104901
+  },
+  "105001": {
+    "Content": "<style=\"emph-gn\">Crit</style> dari Ultimate <style=\"accent-gn\">+50%</style>.",
+    "Id": 105001
+  },
+  "105101": {
+    "Content": "Saat mengakibatkan Crit, memicu satu kali Area DMG yang pasti mengakibatkan Lucky Hit sebesar <style=\"accent-gn\">200%</style> ATK di lokasi target (waktu CD <style=\"accent-gn\">1 detik</style>).",
+    "Id": 105101
+  },
+  "105201": {
+    "Content": "Setiap kali mengakibatkan Crit, <style=\"emph-gn\">Element DMG</style> meningkat <style=\"accent-gn\">1%</style> selama <style=\"accent-gn\">5 detik</style>, maks. <style=\"accent-gn\">15 tumpuk</style>.",
+    "Id": 105201
+  },
+  "105301": {
+    "Content": "Setiap kali mengakibatkan Crit, <style=\"emph-gn\">Attack Speed</style> meningkat <style=\"accent-gn\">1%</style> dan <style=\"emph-gn\">Cast Speed</style> meningkat <style=\"accent-gn\">2%</style>, maks. <style=\"accent-gn\">15 tumpuk</style>.",
+    "Id": 105301
+  },
+  "105401": {
+    "Content": "Crit yang pertama setelah memasuki pertarungan akan meningkatkan <style=\"emph-gn\">Crit DMG</style> sebesar <style=\"accent-gn\">500%</style>.",
+    "Id": 105401
+  },
+  "105501": {
+    "Content": "Setiap mengakibatkan <style=\"accent-gn\">3 kali</style> Crit, <style=\"emph-gn\">Crit DMG</style> dari Crit berikutnya akan meningkat <style=\"accent-gn\">50%</style> dan mereset hitungan ini.",
+    "Id": 105501
+  },
+  "105601": {
+    "Content": "<style=\"emph-gn\">Crit DMG</style> <style=\"accent-gn\">+20%</style>.",
+    "Id": 105601
+  },
+  "105701": {
+    "Content": "<style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+10%</style>.",
+    "Id": 105701
+  },
+  "105801": {
+    "Content": "Saat mengakibatkan Crit dengan Special Attack, akan memanggil satu Muku Chief Battle Fantasy (waktu CD <style=\"accent-gn\">15 detik</style>).",
+    "Id": 105801
+  },
+  "105901": {
+    "Content": "Mendapat Lucky—Mengakibatkan satu kali Area DMG sebesar <style=\"accent-gn\">200%</style> ATK di lokasi target (waktu CD <style=\"accent-gn\">0,5</style> detik). Setiap satu atribut [Luck] memberi <style=\"accent-gn\">+50%</style> untuk DMG akhir dari DMG ini.",
+    "Id": 105901
+  },
+  "106001": {
+    "Content": "<style=\"emph-gn\">Lucky DMG</style> meningkat <style=\"accent-gn\">30%</style>. Setiap memiliki satu atribut [Luck] akan mendapat tambahan peningkatan <style=\"accent-gn\">8%</style>.",
+    "Id": 106001
+  },
+  "106101": {
+    "Content": "Setiap berselang <style=\"accent-gn\">1 detik</style> setelah memasuk pertarungan, <style=\"emph-gn\">Luck</style> diri sendiri akan meningkat <style=\"accent-gn\">5%</style>, maks. <style=\"accent-gn\">20 tumpuk</style>.",
+    "Id": 106101
+  },
+  "106201": {
+    "Content": "Lucky: Mendapat <style=\"emph-gn\">shield</style> sebesar <style=\"accent-gn\">20%</style> dari <style=\"emph-gn\">Max HP</style> selama <style=\"accent-gn\">2 detik</style>.",
+    "Id": 106201
+  },
+  "106301": {
+    "Content": "Mengakibatkan DMG akan memicu <style=\"accent-gn\">50 kali</style> Lucky Hit terhadap target utama. Dalam <style=\"accent-gn\">15 detik</style> berikutnya, <style=\"emph-gn\">CD Boost</style> semua kill <style=\"accent-gn\">+100%</style> (hitungan tidak bertambah selama periode ini).",
+    "Id": 106301
+  },
+  "106401": {
+    "Content": "Dalam <style=\"accent-gn\">30 detik</style> setelah memasuki pertarungan, mengakibatkan DMG pasti akan memicu Lucky Hit.",
+    "Id": 106401
+  },
+  "106501": {
+    "Content": "Saat DMG atau heal memicu Lucky Hit, <style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+40%</style> pada Lucky Hit berikutnya.",
+    "Id": 106501
+  },
+  "106601": {
+    "Content": "Lucky Hit pasti mengakibatkan <style=\"emph-gn\">Crit</style>.",
+    "Id": 106601
+  },
+  "106701": {
+    "Content": "Saat DMG atau heal memicu Lucky Hit, <style=\"emph-gn\">Element DMG</style> meningkat <style=\"accent-gn\">1%</style> selama <style=\"accent-gn\">5 detik</style>, maks. <style=\"accent-gn\">15 tumpuk</style>.",
+    "Id": 106701
+  },
+  "106801": {
+    "Content": "Saat DMG atau heal memicu Lucky Hit, <style=\"emph-gn\">Attack Speed</style> meningkat <style=\"accent-gn\">1%</style> dan <style=\"emph-gn\">Cast Speed</style> meningkat <style=\"accent-gn\">2%</style>, maks. <style=\"accent-gn\">15 tumpuk</style>.",
+    "Id": 106801
+  },
+  "106901": {
+    "Content": "Setiap mengalahkan satu monster, <style=\"emph-gn\">Luck</style> <style=\"accent-gn\">+0,3%</style> (maks. <style=\"accent-gn\">100 tumpuk</style>).",
+    "Id": 106901
+  },
+  "107001": {
+    "Content": "Setiap berselang <style=\"accent-gn\">15 detik</style>, <style=\"emph-gn\">Lucky Hit DMG</style> <style=\"accent-gn\">+40%</style> selama <style=\"accent-gn\">8 detik</style>.",
+    "Id": 107001
+  },
+  "107101": {
+    "Content": "<style=\"emph-gn\">Lucky Hit DMG</style> <style=\"accent-gn\">+20%</style>.",
+    "Id": 107101
+  },
+  "107201": {
+    "Content": "<style=\"emph-gn\">Luck</style> <style=\"accent-gn\">+10%</style>.",
+    "Id": 107201
+  },
+  "107301": {
+    "Content": "Saat memicu Lucky Hit dengan mengakibatkan DMG, akan memanggil Wind Goblin King untuk membantu pertarungan (waktu CD <style=\"accent-gn\">20 detik</style>).",
+    "Id": 107301
+  },
+  "107401": {
+    "Content": "Saat memicu Lucky Hit dengan melancarkan Ultimate, akan memanggil Scaleborn Hunter (waktu CD <style=\"accent-gn\">20 detik</style>).",
+    "Id": 107401
+  },
+  "107501": {
+    "Content": "<style=\"emph-gn\">Waktu CD</style> Battle Fantasy berkurang <style=\"accent-gn\">80%</style>.",
+    "Id": 107501
+  },
+  "107601": {
+    "Content": "<style=\"emph-gn\">DMG</style> yang diakibatkan Battle Fantasy meningkat <style=\"accent-gn\">200%</style>.",
+    "Id": 107601
+  },
+  "107701": {
+    "Content": "DMG yang diakibatkan Battle Fantasy pasti mengakibatkan Crit dan membuat <style=\"emph-gn\">Crit DMG</style> meningkat <style=\"accent-gn\">+50%</style>.",
+    "Id": 107701
+  },
+  "107801": {
+    "Content": "Battle Fantasy mendapat <style=\"accent-gn\">100%</style> <style=\"emph-gn\">Element DMG</style> Boost.",
+    "Id": 107801
+  },
+  "107901": {
+    "Content": "<style=\"emph-gn\">Crit</style> milik Battle Fantasy <style=\"accent-gn\">+80%</style>.",
+    "Id": 107901
+  },
+  "108001": {
+    "Content": "Setiap melancarkan satu Battle Fantasy akan meningkatkan <style=\"emph-gn\">ATK</style> sebesar <style=\"accent-gn\">0,5%</style> secara permanen (maks. <style=\"accent-gn\">60 tumpuk</style>).",
+    "Id": 108001
+  },
+  "108101": {
+    "Content": "DMG akhir yang diakibatkan diri sendiri <style=\"accent-gn\">-40%</style>, DMG akhir yang diakibatkan Battle Fantasy <style=\"accent-gn\">+40%</style>.",
+    "Id": 108101
+  },
+  "108201": {
+    "Content": "<style=\"accent-gn\">5%</style> dari DMG yang diakibatkan Battle Fantasy akan menjadi heal untuk diri sendiri.",
+    "Id": 108201
+  },
+  "108301": {
+    "Content": "<style=\"emph-gn\">Crit</style> milik Battle Fantasy <style=\"accent-gn\">+20%</style>.",
+    "Id": 108301
+  },
+  "108401": {
+    "Content": "Saat menyerang dengan Special Attack, akan memanggil satu <style=\"emph-gn\">Goblin Fantasy</style> secara acak (waktu CD <style=\"accent-gn\">20 detik</style>).",
+    "Id": 108401
+  },
+  "108501": {
+    "Content": "Saat menyerang dengan Expertise Skill, akan memanggil satu <style=\"emph-gn\">Animal Fantasy</style> secara acak (waktu CD <style=\"accent-gn\">20 detik</style>).",
+    "Id": 108501
+  },
+  "108601": {
+    "Content": "Saat melancarkan Battle Fantasy, akan memanggil satu <style=\"emph-gn\">Crossbow Goblin Fantasy</style> secara bersamaan (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 108601
+  },
+  "108701": {
+    "Content": "Saat melancarkan Ultimate, akan memanggil satu <style=\"emph-gn\">karakter Fantasy dataran tinggi</style> secara acak (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 108701
+  },
+  "108801": {
+    "Content": "Setiap terdapat satu efek buff dari Battle Fantasy, <style=\"emph-gn\">DMG</style> diri sendiri akan meningkat <style=\"accent-gn\">4%</style> dan <style=\"emph-gn\">DMG yang diterima</style> akan berkurang <style=\"accent-gn\">2%</style>.",
+    "Id": 108801
+  },
+  "108901": {
+    "Content": "Saat melancarkan Ultimate, akan memanggil satu <style=\"emph-gn\">Muku Commander Fantasy</style> secara bersamaan (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 108901
+  },
+  "109001": {
+    "Content": "Saat HP kurang dari <style=\"accent-gn\">50%</style>, akan memanggil <style=\"emph-gn\">Muku King Fantasy</style> (waktu CD<style=\"accent-gn\">30 detik</style>).",
+    "Id": 109001
+  },
+  "109101": {
+    "Content": "Setiap berselang <style=\"accent-gn\">60 detik</style> akan otomatis memanggil <style=\"emph-gn\">Tina Fantasy</style>.",
+    "Id": 109101
+  },
+  "109201": {
+    "Content": "Saat memasuki pertarungan, akan langsung memanggil <style=\"emph-gn\">Thunder Ogre Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 109201
+  },
+  "109301": {
+    "Content": "Saat DMG atau heal memicu Lucky Hit, akan memanggil satu <style=\"emph-gn\">Luck Fantasy</style> secara acak (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 109301
+  },
+  "109401": {
+    "Content": "<style=\"emph-gn\">Luck</style> milik Battle Fantasy <style=\"accent-gn\">+40%</style>.",
+    "Id": 109401
+  },
+  "109501": {
+    "Content": "Class Skill yang mengakibatkan DMG akan memulihkan <style=\"accent-gn\">1%</style> HP rekan tim yang ada di sekitar, serta memberikan <style=\"accent-gn\">15%</style> <style=\"emph-gn\">ATK</style> Boost selama <style=\"accent-gn\">3 detik</style> (waktu CD <style=\"accent-gn\">0,3 detik</style>).",
+    "Id": 109501
+  },
+  "109601": {
+    "Content": "Saat diri sendiri mendapat perubahan Element DMG, akan meningkatkan <style=\"accent-gn\">20%</style> <style=\"emph-gn\">Element DMG</style> rekan di sekitar selama <style=\"accent-gn\">10 detik</style>.",
+    "Id": 109601
+  },
+  "109701": {
+    "Content": "Saat diri sendiri mendapat perubahan <style=\"emph-gn\">Crit/Luck/Haste/Mastery/Versatility</style>, akan meningkatkan <style=\"accent-gn\">10%</style> stat yang sama untuk rekan di sekitar selama <style=\"accent-gn\">10 detik</style>.",
+    "Id": 109701
+  },
+  "109801": {
+    "Content": "Setiap terdapat satu rekan tim dalam jarak 15 meter di sekitar, <style=\"emph-gn\">DMG</style> diri sendiri akan meningkat <style=\"accent-gn\">8%</style> dan <style=\"emph-gn\">DMG yang diterima</style> akan berkurang <style=\"accent-gn\">4%</style>.",
+    "Id": 109801
+  },
+  "109901": {
+    "Content": "Saat memberi heal, akan memberi <style=\"accent-gn\">10%</style> <style=\"emph-gn\">Physical Boost</style> dan <style=\"emph-gn\">Magical Boost</style> pada target selama <style=\"accent-gn\">3 detik</style>.",
+    "Id": 109901
+  },
+  "110001": {
+    "Content": "Melancarkan Ultimate akan mendapat cincin sumber daya selama <style=\"accent-gn\">15 detik</style>. Selama cincin bertahan, <style=\"emph-gn\">peluang perolehan sumber daya pertarungan</style> rekan tim di sekitar <style=\"accent-gn\">+100%</style> (hanya satu efek yang bisa berlaku di waktu yang sama).",
+    "Id": 110001
+  },
+  "110101": {
+    "Content": "Saat memberi heal, akan memberi <style=\"accent-gn\">10%</style> <style=\"emph-gn\">DR</style> untuk diri sendiri selama <style=\"accent-gn\">3 detik</style>.",
+    "Id": 110101
+  },
+  "110201": {
+    "Content": "DMG yang diakibatkan unit musuh dalam jarak 10 meter di sekitar akan berkurang <style=\"accent-gn\">10%</style>.",
+    "Id": 110201
+  },
+  "110301": {
+    "Content": "Memberi heal akan memberi tambahan satu <style=\"emph-gn\">shield</style> sebesar <style=\"accent-gn\">20%</style> dari <style=\"emph-gn\">Max HP</style> yang bertahan selama <style=\"accent-gn\">10 detik</style>. Setiap target hanya bisa mendapat 1 kali shield ini dalam <style=\"accent-gn\">10 detik</style>.",
+    "Id": 110301
+  },
+  "110401": {
+    "Content": "<style=\"emph-gn\">Heal Power</style> <style=\"accent-gn\">+15%</style>.",
+    "Id": 110401
+  },
+  "110501": {
+    "Content": "<style=\"emph-gn\">Shield Power</style> <style=\"accent-gn\">+15%</style>.",
+    "Id": 110501
+  },
+  "110601": {
+    "Content": "Setiap <style=\"accent-gn\">10%</style> <style=\"emph-gn\">Heal Power</style> akan dikonversi menjadi <style=\"accent-gn\">5%</style> <style=\"emph-gn\">Element Boost</style>.",
+    "Id": 110601
+  },
+  "110701": {
+    "Content": "Saat melancarkan Ultimate, akan mendapat Heal Aura yang bertahan selama <style=\"accent-gn\">10 detik</style>. Aura ini akan memberi heal sebesar <style=\"accent-gn\">100%</style> dari ATK terhadap rekan tim berjarak 15 meter di sekitar (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 110701
+  },
+  "110801": {
+    "Content": "Saat melancarkan Expertise Skill, akan mendapat Luck Aura yang bertahan selama <style=\"accent-gn\">10 detik</style>. Aura ini akan menambahkan efek pasif <style=\"emph-gn\">Scaleborn Hunter Fantasy</style> untuk rekan tim berjarak 15 meter di sekitar (waktu CD <style=\"accent-gn\">30 detik</style>, hanya satu efek yang bisa berlaku di waktu yang sama).",
+    "Id": 110801
+  },
+  "110901": {
+    "Content": "Saat melancarkan Special Attack, akan mendapat Crit Aura yang bertahan selama <style=\"accent-gn\">5 detik</style>. Aura ini akan membuat <style=\"emph-gn\">Crit</style> rekan tim berjarak 15 meter di sekitar <style=\"accent-gn\">+3%</style>.",
+    "Id": 110901
+  },
+  "111001": {
+    "Content": "Class Skill akan mengumpulkan DMG saat memberi heal. Saat DMG yang terkumpul mencapai <style=\"accent-gn\">10000%</style> ATK, DMG berikutnya akan disertai satu kali Area Damage tambahan yang besarnya sama dengan DMG yang terkumpul (efek ini hanya bisa terpicu 1 kali setiap <style=\"accent-gn\">1 detik</style>).",
+    "Id": 111001
+  },
+  "111101": {
+    "Content": "Setiap detik mengakibatkan DMG terhadap satu target acak yang ada di sekitar. Besarnya DMG ini sama dengan <style=\"emph-gn\">Healing</style> yang diberikan dengan Class Skill milikmu.",
+    "Id": 111101
+  },
+  "111201": {
+    "Content": "Saat memberi heal, akan memanggil satu <style=\"emph-gn\">Basilisk Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 111201
+  },
+  "111301": {
+    "Content": "Saat memberi heal, akan memanggil satu <style=\"emph-gn\">Bandit Boss Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 111301
+  },
+  "111401": {
+    "Content": "Saat memberi heal, akan memanggil satu <style=\"emph-gn\">Beehive Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 111401
+  },
+  "111501": {
+    "Content": "Quick Draw Slash selalu memicu Bladewind Domain DMG, efek Bladewind Domain mengurangi waktu CD Ultimate: Cataclysm Combo hingga +300%, di lapangan Bladewind Domain hanya bisa ada satu secara bersamaan (memerlukan Talent Bladewind Domain)<br><br>Hanya muncul di kesulitan [Nightmare]",
+    "Id": 111501
+  },
+  "111601": {
+    "Content": "Batas maksimum Thunder Seal dilipatgandakan, efisiensi Recovery Thunder Seal dengan Overpower +300%<br><br>Hanya muncul pada tingkat Kesulitan [Hard] dan [Nightmare]",
+    "Id": 111601
+  },
+  "111701": {
+    "Content": "Waktu CD Quick Draw Slash -50%. Sanity DMG dari Quick Draw Slash +50%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 111701
+  },
+  "111801": {
+    "Content": "Final Slash Crit DMG dua kali lipat<br><br>Hanya muncul di [Nightmare] Kesulitan",
+    "Id": 111801
+  },
+  "111901": {
+    "Content": "Melancarkan Dracoflash. Phantom Slash akan menambah 10 detik durasi Infinite Thunder Surge. Sanity DMG dari Dracoflash dan Phantom Slash +500%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 111901
+  },
+  "112001": {
+    "Content": "Selama Infinite Thunder Surge berlangsung, Flash dan Flying Thunder God yang mengakibatkan Crit akan mereset waktu CD Flash dan Flying Thunder God. Sanity DMG dari Flash dan Flying Thunder God +50%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 112001
+  },
+  "112101": {
+    "Content": "Move Speed saat melancarkan Thunder Cut -50%. Sanity DMG dari Thunder Cut +60%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 112101
+  },
+  "112201": {
+    "Content": "Mendapat efisiensi Lightning Pressure dua kali lipat<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 112201
+  },
+  "112301": {
+    "Content": "Moonshade tidak lagi gunakan Thunder Seal, dan saat Moonshade dilepaskan akan memicu Scythe of Thunder (memerlukan Talent Scythe of Thunder)<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare]",
+    "Id": 112301
+  },
+  "112401": {
+    "Content": "Batas hitungan Scythe of Punishment +7 tumpuk. Melancarkan Scythe of Punishment akan menggunakan semua tumpukan dan membuat Sanity DMG +15% untuk setiap tumpukan yang digunakan.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 112401
+  },
+  "112501": {
+    "Content": "Saat Scythe of Punishment digunakan, Moonblade akan secara bersamaan summon Scythe of Punishment<br><br>Hanya muncul pada [Hard] dan [Nightmare] kesulitan",
+    "Id": 112501
+  },
+  "112601": {
+    "Content": "Moonblade Maksimum +2<br><br>Hanya muncul pada tingkat kesulitan [Nightmare]",
+    "Id": 112601
+  },
+  "112701": {
+    "Content": "Setiap 5 kali Thunderstrike terjadi, Thunderstrike berikutnya akan memicu satu Thunderstorm tambahan.<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare].",
+    "Id": 112701
+  },
+  "112801": {
+    "Content": "Scythe of Punishment akan otomatis dilepaskan, dan setiap kali Scythe of Punishment dilepaskan akan mengurangi waktu CD Thousand Thunder Flash selama 2 detik.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 112801
+  },
+  "112901": {
+    "Content": "Thunderstrike, Scythe of Thunder sekarang dapat memicu Lucky Hit<br><br>Hanya muncul pada [Hard] dan [Nightmare] Kesulitan",
+    "Id": 112901
+  },
+  "113001": {
+    "Content": "Lucky Hit multiplier +100%, Luck enhancement doubled<br><br>Hanya muncul pada tingkat kesulitan [Nightmare]",
+    "Id": 113001
+  },
+  "113101": {
+    "Content": "Ice Ray mengenai target (hanya dihitung sekali jika mengenai beberapa target), Chill Pulse count +5, Chill Pulse Crit DMG +50%<br><br>Muncul hanya pada [Kesulitan Hard] dan [Nightmare]",
+    "Id": 113101
+  },
+  "113201": {
+    "Content": "Setiap kali Chill Pulse terpicu, waktu CD Ice Infuse berkurang 1 detik<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 113201
+  },
+  "113301": {
+    "Content": "Saat Chill Pulse menghasilkan DMG (hanya dihitung sekali jika mengenai beberapa target), secara permanen meningkatkan 2 poin Ice ATK diri sendiri.<br><br>Muncul hanya pada kesulitan [Nightmare]",
+    "Id": 113301
+  },
+  "113401": {
+    "Content": "Chill Pulse memberikan DMG (hanya dihitung sekali jika mengenai beberapa target), meningkatkan DMG Ice Arrow sebesar 5% selama 5 detik, dapat bertumpuk hingga 50 lapisan tertinggi<br><br>Hanya muncul di kesulitan [Nightmare]",
+    "Id": 113401
+  },
+  "113501": {
+    "Content": "Freezing Wind dalam status Glacier akan mendapat Ice Infuse. Sanity DMG dari Freezing Wind +200%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 113501
+  },
+  "113601": {
+    "Content": "Setiap mengakibatkan 10 kali DMG terhadap target utama dengan Ice Ray, akan secara acak memicu Water Vortex, Water Tornado, atau Cascade Beads (harus membawa skill ini). Sanity DMG dari Ice Ray +100%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 113601
+  },
+  "113701": {
+    "Content": "Cascade Beads akan menghasilkan Tornado Air saat Freeze meledak, yang berlangsung selama 5 detik (tidak akan terbagi ulang). Saat membekukan, mengurangi Waktu CD Cascade Beads selama 3 detik.<br><br>Hanya muncul pada tingkat kesulitan [Hard] dan [Nightmare].",
+    "Id": 113701
+  },
+  "113801": {
+    "Content": "Setelah membeku dan meledak, Water Tornado akan membelah diri menjadi dua Water Tornado (tidak akan membelah diri lagi). Sanity DMG dari Water Tornado +200%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 113801
+  },
+  "113901": {
+    "Content": "Cascade Beads setiap 1,5 detik secara acak menyerang satu Target dengan melepaskan Piercing Ice Spear (jika tidak ada Target, dilepaskan ke depan), Piercing Ice Spear mengurangi DMG dan menurunkan Waktu CD Cascade Beads sebesar 0,3 detik<br><br>Hanya muncul pada Kesulitan [Nightmare]",
+    "Id": 113901
+  },
+  "114001": {
+    "Content": "Piercing Ice Spear membutuhkan hitungan -5<br><br>Hanya muncul di [Hard] dan kesulitan [Nightmare]",
+    "Id": 114001
+  },
+  "114101": {
+    "Content": "Jika jumlah Black Ice lebih dari 2 saat melancarkan Ice Spear, akan menggunakan 1 Black Ice tambahan untuk memicu memanggil dua kali Ice Spear secara berturut-turut. Sanity DMG dari Frost Spear +50%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 114101
+  },
+  "114201": {
+    "Content": "Saat Piercing Ice Spear memberikan DMG, kurangi Waktu CD Ice Infuse sebesar 0,3 detik<br><br>Hanya muncul di tingkat Kesulitan [Hard] dan [Nightmare]",
+    "Id": 114201
+  },
+  "114301": {
+    "Content": "Saat Cascade Beads digunakan, disertai dengan Ice Storm, Ice Storm mengurangi waktu CD Cascade Beads sebesar 0.3 detik saat menyebabkan DMG.<br><br>Hanya muncul di tingkat kesulitan [Hard] dan [Nightmare].",
+    "Id": 114301
+  },
+  "114401": {
+    "Content": "Ice Storm dapat dilancarkan secara instan dan akan muncul tiga buah sekaligus. Sanity DMG dari Ice Storm +200%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 114401
+  },
+  "114501": {
+    "Content": "Setiap melancarkan 5 kali Meteor Storm akan memanggil meteor dari skill ultimate dan langsung membuat Ice Storm memasuki periode CD dan mengurangi 5 detik waktu CD Ice Infuse. Sanity DMG dari Ultimate +200%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 114501
+  },
+  "114601": {
+    "Content": "Diri sendiri secara permanen berada dalam kondisi Endless Frost dengan DMG dua kali lipat, setiap Black Ice yang dimiliki meningkatkan Attack Speed sebesar 10% tambahan.<br><br>Hanya muncul di kesulitan [Nightmare]",
+    "Id": 114601
+  },
+  "114701": {
+    "Content": "Ultimate-mu dilengkapi dengan Stampede Beast, gunakan semua Light diri sendiri untuk summon Wildwolf, setiap gunakan 20 summon satu, sustained selama 8 detik<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 114701
+  },
+  "114801": {
+    "Content": "Legendary Beast akan muncul bersamaan, dengan efek +100%<br><br>Hanya tersedia pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 114801
+  },
+  "114901": {
+    "Content": "Setiap kali summon satu Wildwolf akan mengurangi waktu CD Mental Focus sebesar 5 detik.<br><br>Hanya muncul pada tingkat kesulitan [Hard] dan [Nightmare].",
+    "Id": 114901
+  },
+  "115001": {
+    "Content": "Pet Mendapat Physical Boost +50%<br><br>Hanya Muncul di [Nightmare] Kesulitan",
+    "Id": 115001
+  },
+  "115101": {
+    "Content": "Arrow Rain Attack multiplier meningkat 10 kali lipat, dan ketika ada lebih dari 3 Pet di lapangan, setiap kelebihan satu Pet memberikan DMG akhir +100%<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 115101
+  },
+  "115201": {
+    "Content": "Raging Shot pasti Crit, dan setiap 1% Crit Rate meningkatkan 10% Crit DMG<br><br>Hanya muncul pada tingkat kesulitan [Hard] dan [Nightmare]",
+    "Id": 115201
+  },
+  "115301": {
+    "Content": "Phantom Demonwolf sekarang dianggap sebagai Binatang<br><br>Hanya muncul pada tingkat [Nightmare] Kesulitan",
+    "Id": 115301
+  },
+  "115401": {
+    "Content": "Storm Arrows pasti Crit, Efek Talent Beast Mastery diubah menjadi Storm Arrows Crit DMG +300%<br><br>Hanya muncul pada [Hard] dan [Nightmare] Kesulitan",
+    "Id": 115401
+  },
+  "115501": {
+    "Content": "Hawk memberikan DMG dan memulihkan 1 poin Light, serta Pet DMG +50%<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 115501
+  },
+  "115601": {
+    "Content": "Explosive Arrow tidak dapat dilepaskan ulang sebelum ledakan, batas tumpukan Explosive Arrow dihilangkan, dan efisiensi tumpukan Hawk Strike menjadi dua kali lipat.<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 115601
+  },
+  "115701": {
+    "Content": "Hawk Strike setiap kali menghasilkan DMG akan memperpanjang durasi Mental Focus sebesar 0.3 detik, dan selama Mental Focus, Crit DMG Pet +100%<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 115701
+  },
+  "115801": {
+    "Content": "Wild Call sekarang akan Summon dua Hawk<br><br>Hanya muncul pada tingkat Kesulitan [Nightmare]",
+    "Id": 115801
+  },
+  "115901": {
+    "Content": "Charged Shot sekarang berubah menjadi tiga arah depan, semakin dekat jaraknya semakin tinggi DMG-nya (tertinggi +100%, terendah +10%)<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 115901
+  },
+  "116001": {
+    "Content": "Element DMG dari Charged Shot +100%. Sanity DMG +500% terhadap target dengan HP lebih dari 80%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 116001
+  },
+  "116101": {
+    "Content": "Setelah menggunakan Mental Focus, Charged Shot berikutnya menjadi tembakan ganda, dan setiap kali menggunakan Charged Shot mengurangi Waktu CD Mental Focus sebesar 3 detik<br><br>Hanya muncul pada tingkat Kesulitan [Hard] dan [Nightmare]",
+    "Id": 116101
+  },
+  "116201": {
+    "Content": "Setiap kali Crit, waktu CD Light Bombard berkurang 0,2 detik, Crit DMG Light Bombard +100%<br><br>Hanya muncul di [Hard] dan [Nightmare] Kesulitan",
+    "Id": 116201
+  },
+  "116301": {
+    "Content": "Regen Pulse akan memberi efek Thorns pada target. Thorns dan Wild Seed dapat memicu Lucky Hit.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 116301
+  },
+  "116401": {
+    "Content": "Rebellious Seed Waktu CD -90%, Kecepatan aktivasi Rebellious Seed +100%<br><br>Hanya muncul pada tingkat Kesulitan [Hard] dan [Nightmare]",
+    "Id": 116401
+  },
+  "116501": {
+    "Content": "Regen Pulse pasti Crit, dan Crit DMG +2000%<br><br>Hanya muncul pada [Nightmare] kesulitan",
+    "Id": 116501
+  },
+  "116601": {
+    "Content": "Otomatis terpicu saat mendapat Deer Charge dan Sanity DMG dari Special Attack +400%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 116601
+  },
+  "116701": {
+    "Content": "Infuse akan menembakkan peluru tambahan terhadap 5 target di sekitar. Sanity DMG dari Infuse +100%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 116701
+  },
+  "116801": {
+    "Content": "Deer Charge yang terpicu otomatis dapat memicu efek talent. Setiap kali memicu Deer Charge, Expertise DMG dan Lucky Damage +10% selama beberapa saat, maks. 10 tumpuk.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 116801
+  },
+  "116901": {
+    "Content": "Setiap Infuse mengenai target sebanyak 10 kali, akan memicu Blossom Charge.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 116901
+  },
+  "117001": {
+    "Content": "Saat Infuse mengenai target, akan mendapat efek Sanity DMG +1% untuk Lucky Hit, maks. 50 tumpuk, berlangsung selama 5 detik.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 117001
+  },
+  "117101": {
+    "Content": "Area DMG dari Blossom Charge yang dipanggil Nourishment Seed menjadi berlipat ganda dan Sanity DMG +1000%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 117101
+  },
+  "117201": {
+    "Content": "Terus-menerus mendapat Regen Sprout selama Forest Blessing berlangsung. CD Boost untuk Forest Blessing +100%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 117201
+  },
+  "117301": {
+    "Content": "Saat menggunakan Ultimate, akan mendapat \"Accelerated Growth\" (memerlukan bawaan Accelerated Growth), setiap kali Blossom Charge terpicu akan mengurangi 1 detik waktu CD Ultimate<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 117301
+  },
+  "117401": {
+    "Content": "Jumlah Nourishment Seed yang dilemparkan akan menjadi berlipat ganda.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 117401
+  },
+  "117501": {
+    "Content": "Penggunaan Special Attack -90%<br><br>Hanya muncul pada [Hard] dan [Nightmare] tingkat kesulitan",
+    "Id": 117501
+  },
+  "117601": {
+    "Content": "Mendapat \"Vital Surge\" secara permanen dan efeknya berlipat ganda.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 117601
+  },
+  "117701": {
+    "Content": "Magical Boost +50%. Semua Class Skill mendapat 30% Speed Up, tapi tidak bisa melancarkan skill Ultimate.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 117701
+  },
+  "117801": {
+    "Content": "Setelah DoT dari Nourishment mencapai 3 tumpuk, akan menambahkan efek [Life Drain] terhadap target: Mengakibatkan DMG sebesar MATK x20 persentase Mastery setiap detik dalam 5 detik, setiap kali mengakibatkan DMG juga akan mengurangi 1 detik waktu CD semua Expertise Skill.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 117801
+  },
+  "117901": {
+    "Content": "Sanity DMG dari Wind Ring +50%, Sanity DMG dari Great Wind Loop +100%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 117901
+  },
+  "118001": {
+    "Content": "Saat Dragon Blast diaktifkan, Wind Circle besar juga akan terpicu.<br><br>Hanya muncul pada tingkat kesulitan [Hard] dan [Nightmare].",
+    "Id": 118001
+  },
+  "118101": {
+    "Content": "Pusaran Besar Angin berubah menjadi Double Strike, dan saat menyebabkan DMG, secara permanen meningkatkan 2 poin Wind ATK diri sendiri<br><br>Muncul hanya pada tingkat [Nightmare]",
+    "Id": 118101
+  },
+  "118201": {
+    "Content": "Waktu CD Wind berkurang 80%, efek Wind menjadi dua kali lipat<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 118201
+  },
+  "118301": {
+    "Content": "Menggunakan Chase Break untuk memicu Divine Spiral, Crit DMG Divine Spiral +50% (membutuhkan Talent Divine Spiral)<br><br>Hanya muncul di tingkat kesulitan [Hard] dan [Nightmare]",
+    "Id": 118301
+  },
+  "118401": {
+    "Content": "Melancarkan Divine Spiral akan menggunakan semua Courage. Setiap 1 Courage akan meningkatkan 3% Sanity DMG skill ini.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 118401
+  },
+  "118501": {
+    "Content": "Setiap kali menggunakan Divine Spiral, mengurangi Skill Cooldown untuk Ultimate, Chase Break Recovery Courage +100%<br><br>Hanya muncul pada tingkat Kesulitan [Hard] dan [Nightmare]",
+    "Id": 118501
+  },
+  "118601": {
+    "Content": "Menggunakan Divine Spiral permanen meningkatkan diri sendiri 2 poin Wind ATK<br><br>Hanya muncul di kesulitan [Nightmare]",
+    "Id": 118601
+  },
+  "118701": {
+    "Content": "Ultimate - Gale Slash yang mengakibatkan DMG akan memicu satu Tornado tambahan. Sanity DMG dari Tornado +100%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 118701
+  },
+  "118801": {
+    "Content": "Setiap 7 kali Tornado dipicu, Summon Tornado Enhanced yang memberikan 2000% DMG ATK<br><br>Hanya muncul di tingkat kesulitan [Hard] dan [Nightmare]",
+    "Id": 118801
+  },
+  "118901": {
+    "Content": "Sharp yang digunakan Instant berubah menjadi 1. Sanity DMG dari Instant +50%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 118901
+  },
+  "119001": {
+    "Content": "Dalam keadaan Wind Fury, Attack Speed +100%<br><br>Hanya muncul di tingkat kesulitan [Nightmare]",
+    "Id": 119001
+  },
+  "119101": {
+    "Content": "Soaring Return sekarang bisa menambahkan charge untuk Sharp Impact. Sanity DMG dari Sharp Impact +200%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 119101
+  },
+  "119201": {
+    "Content": "Batas atas Sharp digandakan, setiap 0.5 detik selama 10 detik setelah menggunakan Sharp Impact akan mendapatkan 1 Sharp<br><br>Hanya muncul pada tingkat kesulitan [Hard] dan [Nightmare]",
+    "Id": 119201
+  },
+  "119301": {
+    "Content": "Instant menggunakan semua Sharp. Setiap Sharp akan memberi tambahan peningkatan 10% Sanity DMG.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 119301
+  },
+  "119401": {
+    "Content": "Wind Fury dapat ditumpuk hingga 3 lapisan, memberikan buff yang meningkat secara proporsional<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 119401
+  },
+  "119501": {
+    "Content": "Setiap 10 kali Shield Throw diaktifkan, Shield Throw akan Enhanced, tekan untuk membuat perisai berputar mengelilingi Diri Sendiri<br><br>Hanya muncul pada tingkat Kesulitan [Nightmare]",
+    "Id": 119501
+  },
+  "119601": {
+    "Content": "Sanity DMG dari Judgement dan Holy Strike +50%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 119601
+  },
+  "119701": {
+    "Content": "Setelah melancarkan Scorching Judgement, Sanity DMG diri sendiri +50% selama periode ini.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 119701
+  },
+  "119801": {
+    "Content": "Meluncurkan Shield Throw, ATK +2%, berlangsung selama 2 detik, dapat ditumpuk hingga 50 stack<br><br>Hanya muncul pada tingkat [Nightmare]",
+    "Id": 119801
+  },
+  "119901": {
+    "Content": "Blazing Reckon Crit DMG +100%<br><br>Hanya muncul pada tingkat kesulitan [Hard] dan [Nightmare]",
+    "Id": 119901
+  },
+  "120001": {
+    "Content": "Selama Penjaga Holylight, setiap 0,5 detik memicu Blazing Reckon, Attack Speed Blazing Reckon +100%<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 120001
+  },
+  "120101": {
+    "Content": "Blazing Reckon dapat memicu Holy Strike, Holylight Guard Retribution mengurangi Waktu CD Holylight Guard dengan efek dua kali lipat<br><br>Hanya muncul pada [Nightmare] Kesulitan",
+    "Id": 120101
+  },
+  "120201": {
+    "Content": "Special Attack dapat memicu Holy Strike. Sanity DMG dari Holy Strike +100%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 120201
+  },
+  "120301": {
+    "Content": "Waktu CD Light Resolve -50%. Selama Light Resolve berlangsung, Sanity DMG yang diakibatkan +20%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 120301
+  },
+  "120401": {
+    "Content": "Holysword memberikan DMG tetap sebesar 50% dari Max HP diri sendiri, Max HP +50%<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 120401
+  },
+  "120501": {
+    "Content": "Holysword gunakan -1, holysword hit target Holy Mark, permanen meningkatkan diri sendiri max HP 200 poin<br><br>Hanya muncul di [Nightmare] kesulitan",
+    "Id": 120501
+  },
+  "120601": {
+    "Content": "Efek tambahan Barrier Cahaya digandakan<br><br>Hanya muncul di [Kesulitan Nightmare]",
+    "Id": 120601
+  },
+  "120701": {
+    "Content": "Vanguard Pursuit, Holylight Cyclone menambahkan DMG tetap sebesar 50% dari Max HP diri sendiri<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 120701
+  },
+  "120801": {
+    "Content": "Efek tambahan Lightforged Barrier berlipat ganda<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 120801
+  },
+  "120901": {
+    "Content": "Waktu CD Cruel Conquest -50%. Selama Cruel Conquest berlangsung, Sanity DMG yang diakibatkan +20%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 120901
+  },
+  "121001": {
+    "Content": "Judgement sekarang menggunakan semua Light Energy dan Vanguard Pursuit akan mendapat Holy Decree saat mengakibatkan Crit. Sanity DMG dari Judgement +50%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 121001
+  },
+  "121101": {
+    "Content": "Skill yang menggunakan Sand Crystal sekarang berubah menjadi memulihkan Sand Crystal. Sanity DMG dari semua skill ini +200%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 121101
+  },
+  "121201": {
+    "Content": "Terra Sunder akan menggunakan semua Sand Crystal, Sanity DMG +50% setiap menggunakan 1 Sand Crystal.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 121201
+  },
+  "121301": {
+    "Content": "Setelah berhenti selama 2 detik, Rock Boost +40%<br><br>Hanya muncul dalam kesulitan [Hard] dan [Nightmare]",
+    "Id": 121301
+  },
+  "121401": {
+    "Content": "Selama Giant Rock Body, terus mendapat energi, pasti crit, Crit DMG +200%<br><br>Hanya muncul di kesulitan [Nightmare]",
+    "Id": 121401
+  },
+  "121501": {
+    "Content": "Setiap kali Shield Echo aktif, Shattered Star akan memperoleh tambahan DMG sebesar 100% dari nilai Shield (dipengaruhi oleh efek peningkatan Shattered Star Charge Damage).<br><br>Hanya muncul pada kesulitan [Nightmare].",
+    "Id": 121501
+  },
+  "121601": {
+    "Content": "Shield Echo memiliki peluang 30% untuk memicu Weakness Strike, Weakness Strike memberikan tambahan DMG sebesar 100% dari Shield Saat Ini (terpengaruh oleh efek peningkatan DMG Weakness Strike).<br><br>Hanya muncul pada tingkat kesulitan [Hard] dan [Nightmare].",
+    "Id": 121601
+  },
+  "121701": {
+    "Content": "Saat Weakness Strike terpicu, mengurangi Waktu CD Sandgravel Cloak selama 1 detik<br><br>Hanya muncul pada [Kesulitan Hard] dan [Nightmare]",
+    "Id": 121701
+  },
+  "121801": {
+    "Content": "Batas maksimum nilai pelindung sekarang dapat meningkat hingga 1000%; setiap berpartisipasi dalam pembunuhan target, meningkatkan 5% kekuatan pelindung<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 121801
+  },
+  "121901": {
+    "Content": "Melancarkan Rock Fury Strike pasti akan memicu Fury Strike. Sanity DMG dari Fury Strike +100%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 121901
+  },
+  "122001": {
+    "Content": "Setiap kali 20 Giant Rock Bombard dipicu, Summon sebuah batu besar yang jatuh dan memberikan DMG sebesar 3% dari HP Saat Ini Target kepada Target<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 122001
+  },
+  "122101": {
+    "Content": "Dalam keadaan Block Impact, Rock Boost +25%<br><br>Muncul hanya pada [Hard] dan [Nightmare] tingkat kesulitan",
+    "Id": 122101
+  },
+  "122201": {
+    "Content": "Setiap kali Stone Projectile terpicu, Permanen meningkatkan Rock ATK Diri Sendiri sebanyak 2 poin<br><br>Hanya muncul pada tingkat kesulitan [Nightmare]",
+    "Id": 122201
+  },
+  "122301": {
+    "Content": "Konsumsi Rock Fury Strike -1. Rock Fury Strike akan memperpanjang durasi Block Impact. Sanity DMG dari Rock Fury Strike +100%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 122301
+  },
+  "122401": {
+    "Content": "Block Counter memberikan tambahan DMG sebesar 0.1% dari HP Target Saat Ini<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 122401
+  },
+  "122501": {
+    "Content": "Dalam kondisi Block Impact, Block Counter Rock Boost +50%<br><br>Muncul hanya pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 122501
+  },
+  "122601": {
+    "Content": "Setiap kali memicu Block Counter, meningkatkan Rock ATK Diri Sendiri sebesar 2 poin secara Permanen.<br><br>Hanya muncul di tingkat [Nightmare].",
+    "Id": 122601
+  },
+  "122701": {
+    "Content": "Dalam 10 detik setelah melancarkan Crowd Focus, Harmonic Movement akan memasuki tahap tertinggi dan Sanity DMG dari Harmonic Movement +300%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 122701
+  },
+  "122801": {
+    "Content": "Saat Lucky Hit terpicu, kurangi Waktu CD Harmonic Movement dan Crowd Focus sebesar 0,5 detik.<br><br>Muncul hanya pada kesulitan [Hard] dan [Nightmare].",
+    "Id": 122801
+  },
+  "122901": {
+    "Content": "Setiap kali menggunakan Flame Fantasy, permanen meningkatkan Fire ATK diri sendiri sebesar 2 poin<br><br>Hanya muncul pada tingkat kesulitan [Nightmare]",
+    "Id": 122901
+  },
+  "123001": {
+    "Content": "Dalam Flame Fantasy, Attack Speed +60%<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 123001
+  },
+  "123101": {
+    "Content": "Sanity DMG +50%. Selama Valor Movement berlangsung, akan langsung berada dalam status Flame Fantasy.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 123101
+  },
+  "123201": {
+    "Content": "Lucky Hit DMG Multiplier +40%, Special Attack dapat memicu Encore<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 123201
+  },
+  "123301": {
+    "Content": "Setelah melepaskan Ultimate, setiap detik selama 10 detik akan memulihkan semua Performance Passion.<br><br>Hanya muncul di tingkat kesulitan [Nightmare].",
+    "Id": 123301
+  },
+  "123401": {
+    "Content": "Saat Lucky Hit terpicu, kurangi waktu CD Ultimate sebesar 0,5 detik.<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare].",
+    "Id": 123401
+  },
+  "123501": {
+    "Content": "Passion Flow akan diganti menjadi Exalt - Passion Flow secara permanen (harus menguasai talent Passion Flow - Excitement). Sanity DMG dari skill ini +300%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 123501
+  },
+  "123601": {
+    "Content": "Exalt - Passion Flow menghasilkan 2 tambahan sekaligus Element Boost +500%<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 123601
+  },
+  "123701": {
+    "Content": "Saat Encore dilemparkan, sebuah speaker akan dipanggil di depan, bertahan selama 15 detik.<br><br>Muncul hanya pada kesulitan [Nightmare].",
+    "Id": 123701
+  },
+  "123801": {
+    "Content": "Exalt - Passion Flow akan memberikan Crit DMG saat terkena, secara acak mencari satu Target untuk memicu Encore Chords (maksimum 1 kali setiap 0,5 detik)<br><br>Muncul hanya pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 123801
+  },
+  "123901": {
+    "Content": "Gunakan Special Attack menjadi 1; Heal Special Attack +500%<br><br>Hanya muncul pada kesulitan [Hard] dan [Nightmare]",
+    "Id": 123901
+  },
+  "124001": {
+    "Content": "Setelah menggunakan Boost - Tour Song, dalam 10 detik berikutnya terjadi ledakan di sekitar Diri Sendiri setiap 1 detik yang memberikan DMG sebesar 2000% ATK.<br><br>Muncul hanya pada tingkat kesulitan [Hard] dan [Nightmare].",
+    "Id": 124001
+  },
+  "124101": {
+    "Content": "Surge Quintet tidak lagi menggunakan Performance Passion, penggunaan Special Attack mengurangi waktu CD untuk Surge Quintet dan modifikasi Ultimate sebanyak 1 detik<br><br>Hanya muncul pada tingkat kesulitan [Nightmare]",
+    "Id": 124101
+  },
+  "124201": {
+    "Content": "Healing Movement menyebabkan DMG, Permanen meningkatkan INT Diri Sendiri sebesar 1 poin<br><br>Hanya muncul pada kesulitan [Nightmare]",
+    "Id": 124201
+  },
+  "124301": {
+    "Content": "Saat berada dalam pertarungan, mengakibatkan Area Damage dalam garis lurus di arah depan setiap <style=\"accent-gn\">3 detik</style> dan membuka drop atribut <style=\"emph-gn\">[Pulse]</style>.",
+    "Id": 124301
+  },
+  "124401": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> akan mengakibatkan satu kali DMG tambahan terhadap musuh dalam area beradius 5 meter di sekitar.",
+    "Id": 124401
+  },
+  "124501": {
+    "Content": "Saat <style=\"emph-gn\">Pulse Beam</style> mengakibatkan DMG, diri sendiri mendapat <style=\"accent-gn\">4%</style> DMG Boost, maks. <style=\"accent-gn\">10</style> tumpuk. Dihapus setelah keluar dari pertarungan.",
+    "Id": 124501
+  },
+  "124601": {
+    "Content": "Area serangan <style=\"emph-gn\">Pulse Beam</style> berubah menjadi tanda tambah.",
+    "Id": 124601
+  },
+  "124701": {
+    "Content": "Interval <style=\"emph-gn\">Pulse Beam</style> berkurang <style=\"accent-gn\">1 detik</style>.",
+    "Id": 124701
+  },
+  "124801": {
+    "Content": "Setiap kali <style=\"emph-gn\">Pulse Beam</style> mengenai satu musuh, waktu pemicuan berikutnya berkurang <style=\"accent-gn\">0,2 detik</style> (maks. berkurang <style=\"accent-gn\">1 detik</style>).",
+    "Id": 124801
+  },
+  "124901": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> akan memulihkan unit rekan dalam area secara bersamaan.",
+    "Id": 124901
+  },
+  "125001": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> akan meningkatkan <style=\"accent-gn\">10%</style> Crit dan <style=\"accent-gn\">10%</style> Luck untuk unit rekan dalam area.",
+    "Id": 125001
+  },
+  "125101": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> sekarang dapat memicu Lucky Hit.",
+    "Id": 125101
+  },
+  "125201": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> mendapat tambahan DMG sebesar <style=\"accent-gn\">20%</style> dari Max HP diri sendiri.",
+    "Id": 125201
+  },
+  "125301": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> mendapat tambahan DMG sebesar <style=\"accent-gn\">400%</style> dari PDEF diri sendiri.",
+    "Id": 125301
+  },
+  "125401": {
+    "Content": "Saat <style=\"emph-gn\">Pulse Beam</style> mengakibatkan DMG, akan memulihkan diri sendiri dengan healing sebesar <style=\"accent-gn\">10%</style> dari DMG.",
+    "Id": 125401
+  },
+  "125501": {
+    "Content": "Crit DMG dari <style=\"emph-gn\">Pulse Beam</style> <style=\"accent-gn\">+40%</style>.",
+    "Id": 125501
+  },
+  "125601": {
+    "Content": "Crit Rate dari <style=\"emph-gn\">Pulse Beam</style> <style=\"accent-gn\">+20%</style>.",
+    "Id": 125601
+  },
+  "125701": {
+    "Content": "DMG dari <style=\"emph-gn\">Pulse Beam</style> <style=\"accent-gn\">+20%</style>.",
+    "Id": 125701
+  },
+  "125801": {
+    "Content": "Melancarkan <style=\"emph-gn\">Expertise Skill</style> akan memicu <style=\"emph-gn\">Pulse Beam</style>, waktu CD <style=\"accent-gn\">0,5 detik</style>.",
+    "Id": 125801
+  },
+  "125901": {
+    "Content": "Dalam <style=\"accent-gn\">15 detik</style> setelah melancarkan <style=\"emph-gn\">Ultimate</style>, waktu CD <style=\"emph-gn\">Pulse Beam</style> akan berkurang separuh (waktu CD <style=\"accent-gn\">20 detik</style>).",
+    "Id": 125901
+  },
+  "126001": {
+    "Content": "Saat <style=\"emph-gn\">Pulse Beam</style> mengakibatkan DMG, akan memanggil <style=\"emph-gn\">Arctic Ogre Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 126001
+  },
+  "126101": {
+    "Content": "Endurance Break Rate dari <style=\"emph-gn\">Pulse Beam</style> <style=\"accent-gn\">+500%</style>.",
+    "Id": 126101
+  },
+  "126201": {
+    "Content": "Setiap <style=\"accent-gn\">1%</style> <style=\"emph-gn\">Mastery</style> akan memberi tambahan peningkatan <style=\"accent-gn\">2%</style> <style=\"emph-gn\">Element DMG</style> untuk <style=\"emph-gn\">Pulse Beam</style>.",
+    "Id": 126201
+  },
+  "126301": {
+    "Content": "Setiap <style=\"accent-gn\">1%</style> <style=\"emph-gn\">Mastery</style> meningkatkan <style=\"accent-gn\">0,4%</style> Physical Boost dan Magical Boost.",
+    "Id": 126301
+  },
+  "126401": {
+    "Content": "Setiap mengalahkan seekor monster, akan meningkatkan <style=\"accent-gn\">0,2%</style> Mastery. Efek ini berlipat ganda saat mengalahkan elite atau boss.",
+    "Id": 126401
+  },
+  "126501": {
+    "Content": "Mastery <style=\"accent-gn\">+15%</style>.",
+    "Id": 126501
+  },
+  "126601": {
+    "Content": "Saat melancarkan <style=\"emph-gn\">Expertise Skill</style>, akan memanggil <style=\"emph-gn\">Spidercrab King Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 126601
+  },
+  "126701": {
+    "Content": "Setiap <style=\"accent-gn\">1%</style> <style=\"emph-gn\">Mastery</style> meningkatkan <style=\"accent-gn\">1%</style> skill CD Boost.",
+    "Id": 126701
+  },
+  "126801": {
+    "Content": "Saat Mastery lebih dari <style=\"accent-gn\">50%</style>, akan mendapat <style=\"accent-gn\">25%</style> Attack Speed dan <style=\"accent-gn\">50%</style> Cast Speed.",
+    "Id": 126801
+  },
+  "126901": {
+    "Content": "Setiap berselang <style=\"accent-gn\">30 detik</style> akan memasuki satu kali status Unlimited Firepower selama <style=\"accent-gn\">5 detik</style>. Selama status ini berlangsung, sumber daya pertarungan menjadi tidak terbatas dan waktu CD skill berkurang <style=\"accent-gn\">80%</style>. Setiap <style=\"accent-gn\">1%</style> Mastery akan mempersingkat <style=\"accent-gn\">0,1 detik</style> interval skill ini.",
+    "Id": 126901
+  },
+  "127001": {
+    "Content": "Saat melancarkan <style=\"emph-gn\">Special Attack</style>, akan memanggil <style=\"emph-gn\">Blackflame Earthfox Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 127001
+  },
+  "127101": {
+    "Content": "Saat Mastery mencapai <style=\"accent-gn\">50%</style>, akan mendapat <style=\"accent-gn\">20%</style> Crit DMG dan <style=\"accent-gn\">20%</style>Lucky Hit Multiplier.",
+    "Id": 127101
+  },
+  "127201": {
+    "Content": "Saat Mastery mencapai <style=\"accent-gn\">50%</style>, akan mendapat tambahan <style=\"accent-gn\">20%</style> Mastery.",
+    "Id": 127201
+  },
+  "127301": {
+    "Content": "Saat Mastery mencapai <style=\"accent-gn\">100%</style>, semua DMG yang diakibatkan diri sendiri pasti berupa Crit.",
+    "Id": 127301
+  },
+  "127401": {
+    "Content": "Setiap kehilangan <style=\"accent-gn\">1%</style> HP, akan meningkatkan <style=\"accent-gn\">0,2%</style> Mastery.",
+    "Id": 127401
+  },
+  "127501": {
+    "Content": "Setiap kali menerima DMG, akan memulihkan <style=\"accent-gn\">3%</style> dari Max HP diri sendiri. Setiap <style=\"accent-gn\">1%</style> Mastery akan meningkatkan <style=\"accent-gn\">10%</style> healing ini.",
+    "Id": 127501
+  },
+  "127601": {
+    "Content": "Setiap <style=\"accent-gn\">1%</style> Mastery mengurangi <style=\"accent-gn\">0,3%</style> DMG yang diterima.",
+    "Id": 127601
+  },
+  "127701": {
+    "Content": "Setiap <style=\"accent-gn\">1%</style> Mastery meningkatkan <style=\"accent-gn\">0,5%</style> Lucky Hit DMG.",
+    "Id": 127701
+  },
+  "127801": {
+    "Content": "Mastery <style=\"accent-gn\">+8000</style>.",
+    "Id": 127801
+  },
+  "127901": {
+    "Content": "Saat melancarkan skill, akan mengakibatkan satu kali Area Damage terhadap sekitar. Setiap <style=\"accent-gn\">1%</style> Mastery meningkatkan <style=\"accent-gn\">10%</style> DMG ini.",
+    "Id": 127901
+  },
+  "128001": {
+    "Content": "Saat mengakibatkan DMG, akan menambahkan DMG sebesar Mastery% multiplier.",
+    "Id": 128001
+  },
+  "128101": {
+    "Content": "Saat Mastery mencapai <style=\"accent-gn\">50%</style>, setiap berselang <style=\"accent-gn\">30 detik</style> akan memanggil <style=\"emph-gn\">Predator Spider Fantasy</style> secara otomatis.",
+    "Id": 128101
+  },
+  "128201": {
+    "Content": "Setiap <style=\"accent-gn\">1%</style> <style=\"emph-gn\">Mastery</style> meningkatkan Heal Power sebesar <style=\"accent-gn\">1%</style>.",
+    "Id": 128201
+  },
+  "128301": {
+    "Content": "Saat mengakibatkan DMG, akan menambah DMG sebesar <style=\"accent-gn\">10%</style> dari HP diri sendiri.",
+    "Id": 128301
+  },
+  "128401": {
+    "Content": "Max HP meningkat <style=\"accent-gn\">100%</style> dan memulihkan <style=\"accent-gn\">5%</style> Max HP saat menerima DMG.",
+    "Id": 128401
+  },
+  "128501": {
+    "Content": "Saat bergerak, akan mendapat efek Super Armor dan Invincible.",
+    "Id": 128501
+  },
+  "128601": {
+    "Content": "Saat mengakibatkan DMG, akan memulihkan <style=\"accent-gn\">5%</style> Max HP diri sendiri.",
+    "Id": 128601
+  },
+  "128701": {
+    "Content": "Setiap kali melancarkan skill, DMG pasti berupa Crit dan menggunakan <style=\"accent-gn\">1%</style> HP diri sendiri.",
+    "Id": 128701
+  },
+  "128801": {
+    "Content": "Meningkatkan Max HP sebesar <style=\"accent-gn\">1000%</style> dari PDEF diri sendiri.",
+    "Id": 128801
+  },
+  "128901": {
+    "Content": "Setiap <style=\"accent-gn\">20</style> Max HP akan meningkatkan <style=\"accent-gn\">1</style> Haste dan <style=\"accent-gn\">1</style> Mastery.",
+    "Id": 128901
+  },
+  "129001": {
+    "Content": "Setiap <style=\"accent-gn\">20</style> Max HP akan meningkatkan <style=\"accent-gn\">1</style> Crit dan <style=\"accent-gn\">1</style> Luck.",
+    "Id": 129001
+  },
+  "129101": {
+    "Content": "Saat menerima DMG, akan memanggil satu <style=\"emph-gn\">Denver Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 129101
+  },
+  "129201": {
+    "Content": "DMG yang diakibatkan dengan skill selain Class Skill akan meningkat <style=\"accent-gn\">10%</style>. Setiap 20000 Max HP akan memberi tambahan peningkatan <style=\"accent-gn\">10%</style>.",
+    "Id": 129201
+  },
+  "129301": {
+    "Content": "Saat menerima DMG, langsung melancarkan serangan balik yang mengakibatkan satu kali DMG sebesar <style=\"accent-gn\">100%</style> dari Max HP penyerang.",
+    "Id": 129301
+  },
+  "129401": {
+    "Content": "Max HP <style=\"accent-gn\">+20%</style>.",
+    "Id": 129401
+  },
+  "129501": {
+    "Content": "PDEF <style=\"accent-gn\">+20%</style>.",
+    "Id": 129501
+  },
+  "129601": {
+    "Content": "Versatility <style=\"accent-gn\">+10%</style>.",
+    "Id": 129601
+  },
+  "129701": {
+    "Content": "Lucky Hit mendapat tambahan DMG sebesar <style=\"accent-gn\">10%</style> dari Max HP.",
+    "Id": 129701
+  },
+  "129801": {
+    "Content": "Endurance Break Rate <style=\"accent-gn\">+30%</style>.",
+    "Id": 129801
+  },
+  "129901": {
+    "Content": "ATK +<style=\"accent-gn\">0,3%</style> setiap kali HP -<style=\"accent-gn\">1%</style>. Setiap satu atribut [Bloodwrath] akan memberi tambahan efek ini <style=\"accent-gn\">0,05%</style>.",
+    "Id": 129901
+  },
+  "130001": {
+    "Content": "Setiap kehilangan <style=\"accent-gn\">1%</style> HP akan menambah <style=\"accent-gn\">1%</style> skill CD Boost.",
+    "Id": 130001
+  },
+  "130101": {
+    "Content": "Saat HP kurang dari <style=\"accent-gn\">50%</style>, akan mendapat <style=\"accent-gn\">40%</style> Element DMG Boost.",
+    "Id": 130101
+  },
+  "130201": {
+    "Content": "Saat HP berubah, akan memberikan <style=\"accent-gn\">5%</style> Crit, Haste, Luck , Mastery, dan Versatility.",
+    "Id": 130201
+  },
+  "130301": {
+    "Content": "Saat HP berubah, waktu CD semua skill akan berkurang <style=\"accent-gn\">1 detik</style>.",
+    "Id": 130301
+  },
+  "130401": {
+    "Content": "Tidak akan gugur dalam <style=\"accent-gn\">20 detik</style> setelah memasuki pertarungan, DMG juga akan meningkat <style=\"accent-gn\">20%</style>.",
+    "Id": 130401
+  },
+  "130501": {
+    "Content": "Saat HP berubah, akan mengakibatkan satu kali Area Damage terhadap sekitar. Setiap kehilangan <style=\"accent-gn\">1%</style> HP, DMG ini meningkat <style=\"accent-gn\">10%</style>.",
+    "Id": 130501
+  },
+  "130601": {
+    "Content": "Saat HP berubah, akan memanggil <style=\"emph-gn\">Cattergrief Fantasy</style> (waktu CD <style=\"accent-gn\">60 detik</style>).",
+    "Id": 130601
+  },
+  "130701": {
+    "Content": "Setiap kehilangan <style=\"accent-gn\">1%</style> HP akan meningkatkan <style=\"accent-gn\">0,3%</style> Attack Speed dan <style=\"accent-gn\">0,6%</style> Cast Speed.",
+    "Id": 130701
+  },
+  "130801": {
+    "Content": "Saat HP kurang dari <style=\"accent-gn\">50%</style>, akan memanggil <style=\"emph-gn\">Ridge Fang Fantasy</style> (waktu CD <style=\"accent-gn\">30 detik</style>).",
+    "Id": 130801
+  },
+  "130901": {
+    "Content": "DMG yang diterima berkurang <style=\"accent-gn\">20%</style>. Saat HP kurang dari <style=\"accent-gn\">50%</style>, mendapat tambahan pengurangan <style=\"accent-gn\">30%</style>.",
+    "Id": 130901
+  },
+  "131001": {
+    "Content": "Saat HP kurang dari <style=\"accent-gn\">30%</style>, akan mendapat <style=\"accent-gn\">30%</style> Crit DMG.",
+    "Id": 131001
+  },
+  "131101": {
+    "Content": "Setiap kehilangan <style=\"accent-gn\">1%</style> HP, akan meningkatkan <style=\"accent-gn\">1%</style> PDEF.",
+    "Id": 131101
+  },
+  "131201": {
+    "Content": "Saat HP kurang dari <style=\"accent-gn\">30%</style>, akan mendapat <style=\"accent-gn\">20%</style> Luck.",
+    "Id": 131201
+  },
+  "131301": {
+    "Content": "Saat HP kurang dari <style=\"accent-gn\">50%</style>, akan mendapat <style=\"accent-gn\">800</style> Element ATK.",
+    "Id": 131301
+  },
+  "131401": {
+    "Content": "Memulihkan HP diri sendiri sesuai Lucky Hit DMG dan mengakibatkan Area Damage tambahan.",
+    "Id": 131401
+  },
+  "131501": {
+    "Content": "Setiap 1% Luck akan memberikan 0,2% (tahap 1)/0,1% (tahap 2)/0,05% (tahap 3) peluang memicu Formless Slash.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 131501
+  },
+  "131601": {
+    "Content": "Mengakibatkan DMG dengan Axewind (hanya dapat terpicu satu kali saat mengenai banyak target) akan memicu Earthfire Meteor.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 131601
+  },
+  "131701": {
+    "Content": "Konsumsi Stamina Axewind berkurang dan disertai efek Grab dan Absorb.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 131701
+  },
+  "131801": {
+    "Content": "Dalam 5 detik setelah melancarkan Blazing Raid, Critical Chance +100%, Crit DMG +30%.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 131801
+  },
+  "131901": {
+    "Content": "Burn bisa memicu Formless Slash, tapi peluang memicunya berkurang separuh.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 131901
+  },
+  "132001": {
+    "Content": "Saat mengakibatkan DMG dengan Axewind, akan mendapat Final DMG Boost sesuai jumlah tumpukan Burn di badan target. Setiap tumpuk +10%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 132001
+  },
+  "132101": {
+    "Content": "Setiap 1 rank efek Formless akan membuat stat yang tertinggi di antara Crit, Haste, Luck, Mastery, dan Versatility +3%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 132101
+  },
+  "132201": {
+    "Content": "Final DMG dari Formless Slash +40%, mendapat tambahan +20% jika mengenai target dengan efek Burn.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 132201
+  },
+  "132301": {
+    "Content": "Saat Unbound Starfall dan Flame Demon Heavenfall mengenai target, akan mendapat 8% Fire Boost selama 5 detik, maks. 3 tumpuk.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 132301
+  },
+  "132401": {
+    "Content": "Riverflow Slash mengakibatkan DMG tambahan sebesar 0,1% dari HP target saat ini.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 132401
+  },
+  "132501": {
+    "Content": "Crit DMG dari Expertise Skill +40%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 132501
+  },
+  "132601": {
+    "Content": "Sanity DMG dari Expertise Skill +20%.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 132601
+  },
+  "132701": {
+    "Content": "Selama Endless Flame Demon berlangsung, Crit DMG menjadi berlipat ganda.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 132701
+  },
+  "132801": {
+    "Content": "Saat mengenai target utama dengan Manic Firedance, berpeluang 50% mengurangi 0,5 detik waktu CD Endless Flame Demon.<br><br>Hanya muncul di kesulitan [Nightmare].",
+    "Id": 132801
+  },
+  "132901": {
+    "Content": "Riverflow Slash berubah menjadi Ultimate - Riverflow Slash.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 132901
+  },
+  "133001": {
+    "Content": "Saat memicu triple combo dari Flame Demon Heavenfall, Riverflow Slash akan mendapat 1 tumpuk Charge. Jika Riverflow Slash sudah selesai charge, Riverflow Slash akan terpicu secara otomatis.<br><br>Hanya muncul di kesulitan [Hard] dan [Nightmare].",
+    "Id": 133001
+  }
+}

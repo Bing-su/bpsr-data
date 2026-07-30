@@ -1,0 +1,52 @@
+{
+  "1": {
+    "Describe": "ปลดล็อกคอสตูมในตู้เสื้อผ้าสะสม {*val*} ชิ้น",
+    "Id": 1,
+    "JumpParam": [101101],
+    "JumpType": 2,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 165
+  },
+  "2": {
+    "Describe": "จับปลา {*val*} ครั้ง",
+    "Id": 2,
+    "JumpParam": [],
+    "JumpType": 0,
+    "Num": 2,
+    "Param": [20000013, 20000014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "3": {
+    "Describe": "ปลดล็อกสูตรอาหาร {*val*} อย่าง",
+    "Id": 3,
+    "JumpParam": [8, 5, 1079],
+    "JumpType": 1,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "4": {
+    "Describe": "(ทดสอบ) เปิดใช้ Engram Hub {*val*} ชิ้น",
+    "Id": 4,
+    "JumpParam": [801001, 7],
+    "JumpType": 2,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "5": {
+    "Describe": "(ทดสอบ) สำเร็จถ่ายเซลฟี่ 1 ครั้ง",
+    "Id": 5,
+    "JumpParam": [],
+    "JumpType": 0,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  }
+}

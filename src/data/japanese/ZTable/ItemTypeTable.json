@@ -1,0 +1,962 @@
+{
+  "1": {
+    "Classify": 0,
+    "Id": 1,
+    "Name": "通貨",
+    "Package": 100,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1001": {
+    "Classify": 0,
+    "Id": 1001,
+    "Name": "ギルド資源庫",
+    "Package": 10,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "101": {
+    "Classify": 11,
+    "Id": 101,
+    "Name": "消耗品",
+    "Package": 1,
+    "PreviewId": 106,
+    "SortId": 1501,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "102": {
+    "Classify": 12,
+    "Id": 102,
+    "Name": "育成アイテム",
+    "Package": 1,
+    "PreviewId": 104,
+    "SortId": 1201,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "103": {
+    "Classify": 14,
+    "Id": 103,
+    "Name": "クエストアイテム",
+    "Package": 1,
+    "PreviewId": 107,
+    "SortId": 1401,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "104": {
+    "Classify": 15,
+    "Id": 104,
+    "Name": "パック",
+    "Package": 1,
+    "PreviewId": 103,
+    "SortId": 1102,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "105": {
+    "Classify": 13,
+    "Id": 105,
+    "Name": "素材",
+    "Package": 1,
+    "PreviewId": 99,
+    "SortId": 1301,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "106": {
+    "Classify": 15,
+    "Id": 106,
+    "Name": "プレミアパック",
+    "Package": 1,
+    "PreviewId": 101,
+    "SortId": 1101,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "107": {
+    "Classify": 15,
+    "Id": 107,
+    "Name": "貴重なアイテム",
+    "Package": 1,
+    "PreviewId": 102,
+    "SortId": 1103,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "108": {
+    "Classify": 13,
+    "Id": 108,
+    "Name": "クラフトクラス",
+    "Package": 1,
+    "PreviewId": 102,
+    "SortId": 1301,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "109": {
+    "Classify": 13,
+    "Id": 109,
+    "Name": "素材",
+    "Package": 1,
+    "PreviewId": 108,
+    "SortId": 1302,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "110": {
+    "Classify": 0,
+    "Id": 110,
+    "Name": "文書",
+    "Package": 110,
+    "PreviewId": 110,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1101": {
+    "Classify": 0,
+    "Id": 1101,
+    "Name": "家具",
+    "Package": 11,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1102": {
+    "Classify": 13,
+    "Id": 1102,
+    "Name": "釣り餌",
+    "Package": 1,
+    "PreviewId": 203,
+    "SortId": 1203,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1103": {
+    "Classify": 13,
+    "Id": 1103,
+    "Name": "釣り竿",
+    "Package": 1,
+    "PreviewId": 203,
+    "SortId": 1203,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1111": {
+    "Classify": 0,
+    "Id": 1111,
+    "Name": "花",
+    "Package": 11,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1112": {
+    "Classify": 0,
+    "Id": 1112,
+    "Name": "シード",
+    "Package": 11,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1113": {
+    "Classify": 0,
+    "Id": 1113,
+    "Name": "花粉",
+    "Package": 11,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "112": {
+    "Classify": 13,
+    "Id": 112,
+    "Name": "海洋ごみ",
+    "Package": 1,
+    "PreviewId": 109,
+    "SortId": 1303,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "113": {
+    "Classify": 13,
+    "Id": 113,
+    "Name": "水生動物",
+    "Package": 1,
+    "PreviewId": 109,
+    "SortId": 1303,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "114": {
+    "Classify": 13,
+    "Id": 114,
+    "Name": "餌スロット",
+    "Package": 1,
+    "PreviewId": 203,
+    "SortId": 1203,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "115": {
+    "Classify": 13,
+    "Id": 115,
+    "Name": "釣り竿スロット",
+    "Package": 1,
+    "PreviewId": 203,
+    "SortId": 1203,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "116": {
+    "Classify": 13,
+    "Id": 116,
+    "Name": "クーポン",
+    "Package": 1,
+    "PreviewId": 601,
+    "SortId": 1601,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "117": {
+    "Classify": 13,
+    "Id": 117,
+    "Name": "設計図",
+    "Package": 1,
+    "PreviewId": 101,
+    "SortId": 1300,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "118": {
+    "Classify": 11,
+    "Id": 118,
+    "Name": "玩具",
+    "Package": 1,
+    "PreviewId": 107,
+    "SortId": 1502,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "119": {
+    "Classify": 15,
+    "Id": 119,
+    "Name": "貴重なアイテム",
+    "Package": 1,
+    "PreviewId": 102,
+    "SortId": 1103,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "120": {
+    "Classify": 15,
+    "Id": 120,
+    "Name": "貴重なアイテム",
+    "Package": 1,
+    "PreviewId": 102,
+    "SortId": 1103,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "1201": {
+    "Classify": 0,
+    "Id": 1201,
+    "Name": "マウントイマジン",
+    "Package": 12,
+    "PreviewId": 67,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 1
+  },
+  "121": {
+    "Classify": 0,
+    "Id": 121,
+    "Name": "ハガキ",
+    "Package": 121,
+    "PreviewId": 121,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1211": {
+    "Classify": 0,
+    "Id": 1211,
+    "Name": "夢沈みの面",
+    "Package": 1,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1212": {
+    "Classify": 0,
+    "Id": 1212,
+    "Name": "夢沈みの護符",
+    "Package": 1,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1213": {
+    "Classify": 0,
+    "Id": 1213,
+    "Name": "迷妄の仮面",
+    "Package": 1,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1214": {
+    "Classify": 0,
+    "Id": 1214,
+    "Name": "迷妄の護符",
+    "Package": 1,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "122": {
+    "Classify": 13,
+    "Id": 122,
+    "Name": "シーズン素材",
+    "Package": 1,
+    "PreviewId": 105,
+    "SortId": 1301,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "123": {
+    "Classify": 15,
+    "Id": 123,
+    "Name": "エモート",
+    "Package": 1,
+    "PreviewId": 102,
+    "SortId": 1103,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "124": {
+    "Classify": 13,
+    "Id": 124,
+    "Name": "幻影因子",
+    "Package": 1,
+    "PreviewId": 105,
+    "SortId": 1240,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "125": {
+    "Classify": 13,
+    "Id": 125,
+    "Name": "プレイモードアイテム",
+    "Package": 1,
+    "PreviewId": 101,
+    "SortId": 1104,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "126": {
+    "Classify": 11,
+    "Id": 126,
+    "Name": "損失アイテムなし",
+    "Package": 1,
+    "PreviewId": 101,
+    "SortId": 1105,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "1301": {
+    "Classify": 0,
+    "Id": 1301,
+    "Name": "ホームの基礎",
+    "Package": 13,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1401": {
+    "Classify": 1401,
+    "Id": 1401,
+    "Name": "アテンドイマジン",
+    "Package": 14,
+    "PreviewId": 68,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1402": {
+    "Classify": 13,
+    "Id": 1402,
+    "Name": "アテンドイマジン育成アイテム",
+    "Package": 1,
+    "PreviewId": 102,
+    "SortId": 1103,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "1501": {
+    "Classify": 0,
+    "Id": 1501,
+    "Name": "楽譜",
+    "Package": 15,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 1
+  },
+  "199": {
+    "Classify": 13,
+    "Id": 199,
+    "Name": "報酬",
+    "Package": 1,
+    "PreviewId": 199,
+    "SortId": 1999,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "2": {
+    "Classify": 0,
+    "Id": 2,
+    "Name": "ポイント",
+    "Package": 100,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "200": {
+    "Classify": 200,
+    "Id": 200,
+    "Name": "武器",
+    "Package": 2,
+    "PreviewId": 1,
+    "SortId": 200,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "201": {
+    "Classify": 201,
+    "Id": 201,
+    "Name": "ヘルム",
+    "Package": 2,
+    "PreviewId": 2,
+    "SortId": 201,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "202": {
+    "Classify": 202,
+    "Id": 202,
+    "Name": "胴部",
+    "Package": 2,
+    "PreviewId": 3,
+    "SortId": 202,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "203": {
+    "Classify": 203,
+    "Id": 203,
+    "Name": "ガントレット",
+    "Package": 2,
+    "PreviewId": 4,
+    "SortId": 203,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "204": {
+    "Classify": 204,
+    "Id": 204,
+    "Name": "靴",
+    "Package": 2,
+    "PreviewId": 5,
+    "SortId": 204,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "205": {
+    "Classify": 205,
+    "Id": 205,
+    "Name": "耳飾り",
+    "Package": 2,
+    "PreviewId": 6,
+    "SortId": 205,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "206": {
+    "Classify": 206,
+    "Id": 206,
+    "Name": "首飾り",
+    "Package": 2,
+    "PreviewId": 7,
+    "SortId": 206,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "207": {
+    "Classify": 207,
+    "Id": 207,
+    "Name": "指輪",
+    "Package": 2,
+    "PreviewId": 8,
+    "SortId": 207,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "208": {
+    "Classify": 208,
+    "Id": 208,
+    "Name": "腕輪-左",
+    "Package": 2,
+    "PreviewId": 9,
+    "SortId": 208,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "209": {
+    "Classify": 209,
+    "Id": 209,
+    "Name": "腕輪-右",
+    "Package": 2,
+    "PreviewId": 10,
+    "SortId": 209,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "210": {
+    "Classify": 210,
+    "Id": 210,
+    "Name": "護符",
+    "Package": 2,
+    "PreviewId": 11,
+    "SortId": 210,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "3": {
+    "Classify": 0,
+    "Id": 3,
+    "Name": "特殊",
+    "Package": 100,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "300": {
+    "Classify": 300,
+    "Id": 300,
+    "Name": "バトルイマジン",
+    "Package": 6,
+    "PreviewId": 9,
+    "SortId": 300,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "301": {
+    "Classify": 301,
+    "Id": 301,
+    "Name": "バトルウィル",
+    "Package": 6,
+    "PreviewId": 67,
+    "SortId": 301,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "31": {
+    "Classify": 0,
+    "Id": 31,
+    "Name": "クラフトクラス育成",
+    "Package": 102,
+    "PreviewId": 102,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "32": {
+    "Classify": 0,
+    "Id": 32,
+    "Name": "ミュージシャン",
+    "Package": 100,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "4": {
+    "Classify": 0,
+    "Id": 4,
+    "Name": "フォーカス",
+    "Package": 100,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "40": {
+    "Classify": 0,
+    "Id": 40,
+    "Name": "シーズンEXP",
+    "Package": 102,
+    "PreviewId": 102,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "401": {
+    "Classify": 0,
+    "Id": 401,
+    "Name": "素材",
+    "Package": 1,
+    "PreviewId": 50,
+    "SortId": 0,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "440": {
+    "Classify": 11,
+    "Id": 440,
+    "Name": "パック",
+    "Package": 1,
+    "PreviewId": 8,
+    "SortId": 1100,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "5": {
+    "Classify": 15,
+    "Id": 5,
+    "Name": "ガシャポイント",
+    "Package": 1,
+    "PreviewId": 102,
+    "SortId": 1103,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "502": {
+    "Classify": 0,
+    "Id": 502,
+    "Name": "アビリティポイント",
+    "Package": 102,
+    "PreviewId": 102,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "510": {
+    "Classify": 510,
+    "Id": 510,
+    "Name": "万能イマジン",
+    "Package": 5,
+    "PreviewId": 64,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "511": {
+    "Classify": 511,
+    "Id": 511,
+    "Name": "攻撃型モジュール",
+    "Package": 5,
+    "PreviewId": 201,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "512": {
+    "Classify": 512,
+    "Id": 512,
+    "Name": "支援型モジュール",
+    "Package": 5,
+    "PreviewId": 201,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "513": {
+    "Classify": 513,
+    "Id": 513,
+    "Name": "生存型モジュール",
+    "Package": 5,
+    "PreviewId": 201,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "514": {
+    "Classify": 514,
+    "Id": 514,
+    "Name": "クラス共通型・第1イマジン",
+    "Package": 5,
+    "PreviewId": 64,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "515": {
+    "Classify": 515,
+    "Id": 515,
+    "Name": "クラス共通型・第2イマジン",
+    "Package": 5,
+    "PreviewId": 64,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "516": {
+    "Classify": 15,
+    "Id": 516,
+    "Name": "未知のモジュール",
+    "Package": 1,
+    "PreviewId": 102,
+    "SortId": 1103,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "601": {
+    "Classify": 0,
+    "Id": 601,
+    "Name": "育成アイテム",
+    "Package": 102,
+    "PreviewId": 102,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "701": {
+    "Classify": 0,
+    "Id": 701,
+    "Name": "セット",
+    "Package": 7,
+    "PreviewId": 51,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "702": {
+    "Classify": 0,
+    "Id": 702,
+    "Name": "トップス",
+    "Package": 7,
+    "PreviewId": 52,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "703": {
+    "Classify": 0,
+    "Id": 703,
+    "Name": "ボトムス",
+    "Package": 7,
+    "PreviewId": 53,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "711": {
+    "Classify": 0,
+    "Id": 711,
+    "Name": "ガントレット",
+    "Package": 7,
+    "PreviewId": 54,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "712": {
+    "Classify": 0,
+    "Id": 712,
+    "Name": "靴",
+    "Package": 7,
+    "PreviewId": 55,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "713": {
+    "Classify": 0,
+    "Id": 713,
+    "Name": "頭飾り",
+    "Package": 7,
+    "PreviewId": 56,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "714": {
+    "Classify": 0,
+    "Id": 714,
+    "Name": "顔飾り",
+    "Package": 7,
+    "PreviewId": 57,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "715": {
+    "Classify": 0,
+    "Id": 715,
+    "Name": "唇飾り",
+    "Package": 7,
+    "PreviewId": 58,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "716": {
+    "Classify": 0,
+    "Id": 716,
+    "Name": "尻尾飾り",
+    "Package": 7,
+    "PreviewId": 59,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "717": {
+    "Classify": 0,
+    "Id": 717,
+    "Name": "背飾り",
+    "Package": 7,
+    "PreviewId": 60,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "721": {
+    "Classify": 0,
+    "Id": 721,
+    "Name": "耳飾り",
+    "Package": 7,
+    "PreviewId": 61,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "722": {
+    "Classify": 0,
+    "Id": 722,
+    "Name": "首飾り",
+    "Package": 7,
+    "PreviewId": 62,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "723": {
+    "Classify": 0,
+    "Id": 723,
+    "Name": "指輪",
+    "Package": 7,
+    "PreviewId": 63,
+    "SortId": 0,
+    "SpecialHint": [3, 4],
+    "UpperLlimit": 1
+  },
+  "731": {
+    "Classify": 0,
+    "Id": 731,
+    "Name": "武器スキン",
+    "Package": 8,
+    "PreviewId": 66,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 1
+  },
+  "801": {
+    "Classify": 0,
+    "Id": 801,
+    "Name": "武器",
+    "Package": 8,
+    "PreviewId": 65,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "901": {
+    "Classify": 0,
+    "Id": 901,
+    "Name": "アイコン",
+    "Package": 9,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "902": {
+    "Classify": 0,
+    "Id": 902,
+    "Name": "アイコンフレーム",
+    "Package": 9,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "903": {
+    "Classify": 0,
+    "Id": 903,
+    "Name": "名刺",
+    "Package": 9,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "904": {
+    "Classify": 0,
+    "Id": 904,
+    "Name": "メダル",
+    "Package": 9,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "905": {
+    "Classify": 0,
+    "Id": 905,
+    "Name": "スペース背景",
+    "Package": 9,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "906": {
+    "Classify": 0,
+    "Id": 906,
+    "Name": "称号",
+    "Package": 9,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  },
+  "907": {
+    "Classify": 0,
+    "Id": 907,
+    "Name": "コレクションカード",
+    "Package": 907,
+    "PreviewId": 0,
+    "SortId": 0,
+    "SpecialHint": [],
+    "UpperLlimit": 0
+  }
+}

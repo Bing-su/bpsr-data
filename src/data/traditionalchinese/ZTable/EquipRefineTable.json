@@ -1,0 +1,5186 @@
+{
+  "1": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 1,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022101, 6],
+      [10008, 200]
+    ],
+    "RefineEffect": [[]],
+    "RefineId": 1001,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "10": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 10,
+    "RefineConsume": [
+      [1022001, 10],
+      [1022101, 50],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 40]],
+    "RefineId": 1001,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [[1, 11412, 12]],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "100": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 139,
+    "Id": 100,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022101, 25],
+      [10008, 1000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 100],
+      [1, 11042, 200]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "101": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 147,
+    "Id": 101,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022101, 30],
+      [10008, 1100]
+    ],
+    "RefineEffect": [
+      [1, 11422, 110],
+      [1, 11042, 220]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "102": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 102,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022101, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [
+      [1, 11422, 120],
+      [1, 11042, 240]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "103": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 165,
+    "Id": 103,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022101, 35],
+      [10008, 1300]
+    ],
+    "RefineEffect": [
+      [1, 11422, 130],
+      [1, 11042, 260]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "104": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 104,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022101, 35],
+      [10008, 1400]
+    ],
+    "RefineEffect": [
+      [1, 11422, 140],
+      [1, 11042, 280]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "105": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 105,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022101, 40],
+      [10008, 1500]
+    ],
+    "RefineEffect": [
+      [1, 11422, 150],
+      [1, 11042, 300]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "106": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 217,
+    "Id": 106,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022101, 40],
+      [10008, 1550]
+    ],
+    "RefineEffect": [
+      [1, 11422, 160],
+      [1, 11042, 320]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "107": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 226,
+    "Id": 107,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022101, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [
+      [1, 11422, 170],
+      [1, 11042, 340]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "108": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 234,
+    "Id": 108,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022101, 50],
+      [10008, 1650]
+    ],
+    "RefineEffect": [
+      [1, 11422, 180],
+      [1, 11042, 360]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "109": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 243,
+    "Id": 109,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022101, 50],
+      [10008, 1700]
+    ],
+    "RefineEffect": [
+      [1, 11422, 190],
+      [1, 11042, 380]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "11": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 295,
+    "Id": 11,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022101, 60],
+      [10008, 2200]
+    ],
+    "RefineEffect": [[1, 11412, 44]],
+    "RefineId": 1001,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "110": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 110,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022101, 60],
+      [10008, 1750]
+    ],
+    "RefineEffect": [
+      [1, 11422, 200],
+      [1, 11042, 400]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "111": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 291,
+    "Id": 111,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022101, 60],
+      [10008, 1800]
+    ],
+    "RefineEffect": [
+      [1, 11422, 215],
+      [1, 11042, 430]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "112": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 304,
+    "Id": 112,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022101, 60],
+      [10008, 1850]
+    ],
+    "RefineEffect": [
+      [1, 11422, 230],
+      [1, 11042, 460]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "113": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 317,
+    "Id": 113,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022101, 60],
+      [10008, 1900]
+    ],
+    "RefineEffect": [
+      [1, 11422, 245],
+      [1, 11042, 490]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "114": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 114,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022101, 60],
+      [10008, 1950]
+    ],
+    "RefineEffect": [
+      [1, 11422, 260],
+      [1, 11042, 520]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "115": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 382,
+    "Id": 115,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022101, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 275],
+      [1, 11042, 550]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [
+      [1, 11422, 45],
+      [1, 11042, 90]
+    ],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "116": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 395,
+    "Id": 116,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022101, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 290],
+      [1, 11042, 580]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "117": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 408,
+    "Id": 117,
+    "RefineConsume": [
+      [1022003, 5],
+      [1022101, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 305],
+      [1, 11042, 610]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "118": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 421,
+    "Id": 118,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022101, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 320],
+      [1, 11042, 640]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "119": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 435,
+    "Id": 119,
+    "RefineConsume": [
+      [1022003, 7],
+      [1022101, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 335],
+      [1, 11042, 670]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "12": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 313,
+    "Id": 12,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022101, 60],
+      [10008, 2400]
+    ],
+    "RefineEffect": [[1, 11412, 48]],
+    "RefineId": 1001,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "120": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 120,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022101, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 350],
+      [1, 11042, 700]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [
+      [1, 11422, 45],
+      [1, 11042, 90]
+    ],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "121": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 8,
+    "Id": 121,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022102, 3],
+      [10008, 100]
+    ],
+    "RefineEffect": [
+      [1, 11422, 10],
+      [1, 11042, 20]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "122": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 122,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022102, 3],
+      [10008, 200]
+    ],
+    "RefineEffect": [
+      [1, 11422, 20],
+      [1, 11042, 40]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "123": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 26,
+    "Id": 123,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022102, 6],
+      [10008, 300]
+    ],
+    "RefineEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "124": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 124,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022102, 8],
+      [10008, 400]
+    ],
+    "RefineEffect": [
+      [1, 11422, 40],
+      [1, 11042, 80]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "125": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 125,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022102, 12],
+      [10008, 500]
+    ],
+    "RefineEffect": [
+      [1, 11422, 50],
+      [1, 11042, 100]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "126": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 78,
+    "Id": 126,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022102, 15],
+      [10008, 600]
+    ],
+    "RefineEffect": [
+      [1, 11422, 60],
+      [1, 11042, 120]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "127": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 86,
+    "Id": 127,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022102, 20],
+      [10008, 700]
+    ],
+    "RefineEffect": [
+      [1, 11422, 70],
+      [1, 11042, 140]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "128": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 95,
+    "Id": 128,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022102, 20],
+      [10008, 800]
+    ],
+    "RefineEffect": [
+      [1, 11422, 80],
+      [1, 11042, 160]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "129": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 104,
+    "Id": 129,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022102, 25],
+      [10008, 900]
+    ],
+    "RefineEffect": [
+      [1, 11422, 90],
+      [1, 11042, 180]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  },
+  "13": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 13,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022101, 70],
+      [10008, 2600]
+    ],
+    "RefineEffect": [[1, 11412, 52]],
+    "RefineId": 1001,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "130": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 139,
+    "Id": 130,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022102, 25],
+      [10008, 1000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 100],
+      [1, 11042, 200]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "131": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 147,
+    "Id": 131,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 30],
+      [10008, 1100]
+    ],
+    "RefineEffect": [
+      [1, 11422, 110],
+      [1, 11042, 220]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "132": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 132,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [
+      [1, 11422, 120],
+      [1, 11042, 240]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "133": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 165,
+    "Id": 133,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 35],
+      [10008, 1300]
+    ],
+    "RefineEffect": [
+      [1, 11422, 130],
+      [1, 11042, 260]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "134": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 134,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022102, 35],
+      [10008, 1400]
+    ],
+    "RefineEffect": [
+      [1, 11422, 140],
+      [1, 11042, 280]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "135": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 135,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022102, 40],
+      [10008, 1500]
+    ],
+    "RefineEffect": [
+      [1, 11422, 150],
+      [1, 11042, 300]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "136": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 217,
+    "Id": 136,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022102, 40],
+      [10008, 1550]
+    ],
+    "RefineEffect": [
+      [1, 11422, 160],
+      [1, 11042, 320]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "137": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 226,
+    "Id": 137,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022102, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [
+      [1, 11422, 170],
+      [1, 11042, 340]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "138": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 234,
+    "Id": 138,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022102, 50],
+      [10008, 1650]
+    ],
+    "RefineEffect": [
+      [1, 11422, 180],
+      [1, 11042, 360]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "139": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 243,
+    "Id": 139,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022102, 50],
+      [10008, 1700]
+    ],
+    "RefineEffect": [
+      [1, 11422, 190],
+      [1, 11042, 380]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "14": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 347,
+    "Id": 14,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022101, 70],
+      [10008, 2800]
+    ],
+    "RefineEffect": [[1, 11412, 56]],
+    "RefineId": 1001,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "140": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 140,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022102, 60],
+      [10008, 1750]
+    ],
+    "RefineEffect": [
+      [1, 11422, 200],
+      [1, 11042, 400]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "141": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 291,
+    "Id": 141,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022102, 60],
+      [10008, 1800]
+    ],
+    "RefineEffect": [
+      [1, 11422, 215],
+      [1, 11042, 430]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "142": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 304,
+    "Id": 142,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022102, 60],
+      [10008, 1850]
+    ],
+    "RefineEffect": [
+      [1, 11422, 230],
+      [1, 11042, 460]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "143": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 317,
+    "Id": 143,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022102, 60],
+      [10008, 1900]
+    ],
+    "RefineEffect": [
+      [1, 11422, 245],
+      [1, 11042, 490]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "144": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 144,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022102, 60],
+      [10008, 1950]
+    ],
+    "RefineEffect": [
+      [1, 11422, 260],
+      [1, 11042, 520]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "145": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 382,
+    "Id": 145,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 275],
+      [1, 11042, 550]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [
+      [1, 11422, 45],
+      [1, 11042, 90]
+    ],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "146": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 395,
+    "Id": 146,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 290],
+      [1, 11042, 580]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "147": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 408,
+    "Id": 147,
+    "RefineConsume": [
+      [1022003, 5],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 305],
+      [1, 11042, 610]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "148": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 421,
+    "Id": 148,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 320],
+      [1, 11042, 640]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "149": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 435,
+    "Id": 149,
+    "RefineConsume": [
+      [1022003, 7],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 335],
+      [1, 11042, 670]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "15": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 417,
+    "Id": 15,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022101, 80],
+      [10008, 3000]
+    ],
+    "RefineEffect": [[1, 11412, 60]],
+    "RefineId": 1001,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [[1, 11412, 12]],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "150": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 150,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 350],
+      [1, 11042, 700]
+    ],
+    "RefineId": 1003,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [
+      [1, 11422, 45],
+      [1, 11042, 90]
+    ],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "151": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 8,
+    "Id": 151,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022103, 3],
+      [10008, 100]
+    ],
+    "RefineEffect": [
+      [1, 11422, 10],
+      [1, 11042, 20]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "152": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 152,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022103, 3],
+      [10008, 200]
+    ],
+    "RefineEffect": [
+      [1, 11422, 20],
+      [1, 11042, 40]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "153": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 26,
+    "Id": 153,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022103, 6],
+      [10008, 300]
+    ],
+    "RefineEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "154": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 154,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022103, 8],
+      [10008, 400]
+    ],
+    "RefineEffect": [
+      [1, 11422, 40],
+      [1, 11042, 80]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "155": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 155,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022103, 12],
+      [10008, 500]
+    ],
+    "RefineEffect": [
+      [1, 11422, 50],
+      [1, 11042, 100]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "156": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 78,
+    "Id": 156,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022103, 15],
+      [10008, 600]
+    ],
+    "RefineEffect": [
+      [1, 11422, 60],
+      [1, 11042, 120]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "157": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 86,
+    "Id": 157,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022103, 20],
+      [10008, 700]
+    ],
+    "RefineEffect": [
+      [1, 11422, 70],
+      [1, 11042, 140]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "158": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 95,
+    "Id": 158,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022103, 20],
+      [10008, 800]
+    ],
+    "RefineEffect": [
+      [1, 11422, 80],
+      [1, 11042, 160]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "159": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 104,
+    "Id": 159,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022103, 25],
+      [10008, 900]
+    ],
+    "RefineEffect": [
+      [1, 11422, 90],
+      [1, 11042, 180]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  },
+  "16": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 434,
+    "Id": 16,
+    "RefineConsume": [
+      [1022002, 7],
+      [1022101, 80],
+      [10008, 3100]
+    ],
+    "RefineEffect": [[1, 11412, 64]],
+    "RefineId": 1001,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "160": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 139,
+    "Id": 160,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022103, 25],
+      [10008, 1000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 100],
+      [1, 11042, 200]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "161": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 147,
+    "Id": 161,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 30],
+      [10008, 1100]
+    ],
+    "RefineEffect": [
+      [1, 11422, 110],
+      [1, 11042, 220]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "162": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 162,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [
+      [1, 11422, 120],
+      [1, 11042, 240]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "163": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 165,
+    "Id": 163,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 35],
+      [10008, 1300]
+    ],
+    "RefineEffect": [
+      [1, 11422, 130],
+      [1, 11042, 260]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "164": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 164,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022103, 35],
+      [10008, 1400]
+    ],
+    "RefineEffect": [
+      [1, 11422, 140],
+      [1, 11042, 280]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "165": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 165,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022103, 40],
+      [10008, 1500]
+    ],
+    "RefineEffect": [
+      [1, 11422, 150],
+      [1, 11042, 300]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "166": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 217,
+    "Id": 166,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022103, 40],
+      [10008, 1550]
+    ],
+    "RefineEffect": [
+      [1, 11422, 160],
+      [1, 11042, 320]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "167": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 226,
+    "Id": 167,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022103, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [
+      [1, 11422, 170],
+      [1, 11042, 340]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "168": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 234,
+    "Id": 168,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022103, 50],
+      [10008, 1650]
+    ],
+    "RefineEffect": [
+      [1, 11422, 180],
+      [1, 11042, 360]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "169": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 243,
+    "Id": 169,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022103, 50],
+      [10008, 1700]
+    ],
+    "RefineEffect": [
+      [1, 11422, 190],
+      [1, 11042, 380]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "17": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 452,
+    "Id": 17,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022101, 80],
+      [10008, 3200]
+    ],
+    "RefineEffect": [[1, 11412, 68]],
+    "RefineId": 1001,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "170": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 170,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022103, 60],
+      [10008, 1750]
+    ],
+    "RefineEffect": [
+      [1, 11422, 200],
+      [1, 11042, 400]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "171": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 291,
+    "Id": 171,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022103, 60],
+      [10008, 1800]
+    ],
+    "RefineEffect": [
+      [1, 11422, 215],
+      [1, 11042, 430]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "172": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 304,
+    "Id": 172,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022103, 60],
+      [10008, 1850]
+    ],
+    "RefineEffect": [
+      [1, 11422, 230],
+      [1, 11042, 460]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "173": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 317,
+    "Id": 173,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022103, 60],
+      [10008, 1900]
+    ],
+    "RefineEffect": [
+      [1, 11422, 245],
+      [1, 11042, 490]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "174": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 174,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022103, 60],
+      [10008, 1950]
+    ],
+    "RefineEffect": [
+      [1, 11422, 260],
+      [1, 11042, 520]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "175": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 382,
+    "Id": 175,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 275],
+      [1, 11042, 550]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [
+      [1, 11422, 45],
+      [1, 11042, 90]
+    ],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "176": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 395,
+    "Id": 176,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 290],
+      [1, 11042, 580]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "177": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 408,
+    "Id": 177,
+    "RefineConsume": [
+      [1022003, 5],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 305],
+      [1, 11042, 610]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "178": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 421,
+    "Id": 178,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 320],
+      [1, 11042, 640]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "179": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 435,
+    "Id": 179,
+    "RefineConsume": [
+      [1022003, 7],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 335],
+      [1, 11042, 670]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "18": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 469,
+    "Id": 18,
+    "RefineConsume": [
+      [1022002, 10],
+      [1022101, 100],
+      [10008, 3300]
+    ],
+    "RefineEffect": [[1, 11412, 72]],
+    "RefineId": 1001,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "180": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 180,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [
+      [1, 11422, 350],
+      [1, 11042, 700]
+    ],
+    "RefineId": 1006,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [
+      [1, 11422, 45],
+      [1, 11042, 90]
+    ],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "181": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 181,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022101, 6],
+      [10008, 200]
+    ],
+    "RefineEffect": [[1, 11432, 5]],
+    "RefineId": 2001,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "182": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 182,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022101, 6],
+      [10008, 400]
+    ],
+    "RefineEffect": [[1, 11432, 10]],
+    "RefineId": 2001,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "183": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 52,
+    "Id": 183,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022101, 12],
+      [10008, 600]
+    ],
+    "RefineEffect": [[1, 11432, 15]],
+    "RefineId": 2001,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "184": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 184,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022101, 16],
+      [10008, 800]
+    ],
+    "RefineEffect": [[1, 11432, 20]],
+    "RefineId": 2001,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "185": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 139,
+    "Id": 185,
+    "RefineConsume": [
+      [1022001, 6],
+      [1022101, 24],
+      [10008, 1000]
+    ],
+    "RefineEffect": [[1, 11432, 25]],
+    "RefineId": 2001,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [[1, 11432, 15]],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "186": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 186,
+    "RefineConsume": [
+      [1022001, 6],
+      [1022101, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [[1, 11432, 30]],
+    "RefineId": 2001,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "187": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 187,
+    "RefineConsume": [
+      [1022001, 8],
+      [1022101, 40],
+      [10008, 1400]
+    ],
+    "RefineEffect": [[1, 11432, 35]],
+    "RefineId": 2001,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "188": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 191,
+    "Id": 188,
+    "RefineConsume": [
+      [1022001, 8],
+      [1022101, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [[1, 11432, 40]],
+    "RefineId": 2001,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "189": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 189,
+    "RefineConsume": [
+      [1022001, 10],
+      [1022101, 50],
+      [10008, 1800]
+    ],
+    "RefineEffect": [[1, 11432, 45]],
+    "RefineId": 2001,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  },
+  "19": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 19,
+    "RefineConsume": [
+      [1022002, 12],
+      [1022101, 100],
+      [10008, 3400]
+    ],
+    "RefineEffect": [[1, 11412, 76]],
+    "RefineId": 1001,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "190": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 190,
+    "RefineConsume": [
+      [1022001, 10],
+      [1022101, 50],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 50]],
+    "RefineId": 2001,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [[1, 11432, 15]],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "191": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 295,
+    "Id": 191,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022101, 60],
+      [10008, 2200]
+    ],
+    "RefineEffect": [[1, 11432, 55]],
+    "RefineId": 2001,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "192": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 313,
+    "Id": 192,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022101, 60],
+      [10008, 2400]
+    ],
+    "RefineEffect": [[1, 11432, 60]],
+    "RefineId": 2001,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "193": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 193,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022101, 70],
+      [10008, 2600]
+    ],
+    "RefineEffect": [[1, 11432, 65]],
+    "RefineId": 2001,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "194": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 347,
+    "Id": 194,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022101, 70],
+      [10008, 2800]
+    ],
+    "RefineEffect": [[1, 11432, 70]],
+    "RefineId": 2001,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "195": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 417,
+    "Id": 195,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022101, 80],
+      [10008, 3000]
+    ],
+    "RefineEffect": [[1, 11432, 75]],
+    "RefineId": 2001,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [[1, 11432, 15]],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "196": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 434,
+    "Id": 196,
+    "RefineConsume": [
+      [1022002, 7],
+      [1022101, 80],
+      [10008, 3100]
+    ],
+    "RefineEffect": [[1, 11432, 80]],
+    "RefineId": 2001,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "197": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 452,
+    "Id": 197,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022101, 80],
+      [10008, 3200]
+    ],
+    "RefineEffect": [[1, 11432, 85]],
+    "RefineId": 2001,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "198": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 469,
+    "Id": 198,
+    "RefineConsume": [
+      [1022002, 10],
+      [1022101, 100],
+      [10008, 3300]
+    ],
+    "RefineEffect": [[1, 11432, 90]],
+    "RefineId": 2001,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "199": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 199,
+    "RefineConsume": [
+      [1022002, 12],
+      [1022101, 100],
+      [10008, 3400]
+    ],
+    "RefineEffect": [[1, 11432, 95]],
+    "RefineId": 2001,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "2": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 2,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022101, 6],
+      [10008, 400]
+    ],
+    "RefineEffect": [[1, 11412, 8]],
+    "RefineId": 1001,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "20": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 556,
+    "Id": 20,
+    "RefineConsume": [
+      [1022002, 16],
+      [1022101, 120],
+      [10008, 3500]
+    ],
+    "RefineEffect": [[1, 11412, 80]],
+    "RefineId": 1001,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [[1, 11412, 12]],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "200": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 556,
+    "Id": 200,
+    "RefineConsume": [
+      [1022002, 16],
+      [1022101, 120],
+      [10008, 3500]
+    ],
+    "RefineEffect": [[1, 11432, 100]],
+    "RefineId": 2001,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [[1, 11432, 15]],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "201": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 582,
+    "Id": 201,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022101, 120],
+      [10008, 3600]
+    ],
+    "RefineEffect": [[1, 11432, 107]],
+    "RefineId": 2001,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "202": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 608,
+    "Id": 202,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022101, 120],
+      [10008, 3700]
+    ],
+    "RefineEffect": [[1, 11432, 114]],
+    "RefineId": 2001,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "203": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 635,
+    "Id": 203,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022101, 120],
+      [10008, 3800]
+    ],
+    "RefineEffect": [[1, 11432, 121]],
+    "RefineId": 2001,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "204": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 661,
+    "Id": 204,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022101, 120],
+      [10008, 3900]
+    ],
+    "RefineEffect": [[1, 11432, 128]],
+    "RefineId": 2001,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "205": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 765,
+    "Id": 205,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11432, 135]],
+    "RefineId": 2001,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [[1, 11432, 21]],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "206": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 791,
+    "Id": 206,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11432, 142]],
+    "RefineId": 2001,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "207": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 817,
+    "Id": 207,
+    "RefineConsume": [
+      [1022003, 10],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11432, 149]],
+    "RefineId": 2001,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "208": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 843,
+    "Id": 208,
+    "RefineConsume": [
+      [1022003, 12],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11432, 156]],
+    "RefineId": 2001,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "209": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 870,
+    "Id": 209,
+    "RefineConsume": [
+      [1022003, 14],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11432, 163]],
+    "RefineId": 2001,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "21": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 582,
+    "Id": 21,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022101, 120],
+      [10008, 3600]
+    ],
+    "RefineEffect": [[1, 11412, 86]],
+    "RefineId": 1001,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "210": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 974,
+    "Id": 210,
+    "RefineConsume": [
+      [1022003, 16],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11432, 170]],
+    "RefineId": 2001,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [[1, 11432, 21]],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "211": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 8,
+    "Id": 211,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022102, 3],
+      [10008, 100]
+    ],
+    "RefineEffect": [[1, 11432, 3]],
+    "RefineId": 2004,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "212": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 212,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022102, 3],
+      [10008, 200]
+    ],
+    "RefineEffect": [[1, 11432, 6]],
+    "RefineId": 2004,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "213": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 26,
+    "Id": 213,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022102, 6],
+      [10008, 300]
+    ],
+    "RefineEffect": [[1, 11432, 9]],
+    "RefineId": 2004,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "214": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 214,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022102, 8],
+      [10008, 400]
+    ],
+    "RefineEffect": [[1, 11432, 12]],
+    "RefineId": 2004,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "215": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 215,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022102, 12],
+      [10008, 500]
+    ],
+    "RefineEffect": [[1, 11432, 15]],
+    "RefineId": 2004,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [[1, 11432, 9]],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "216": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 78,
+    "Id": 216,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022102, 15],
+      [10008, 600]
+    ],
+    "RefineEffect": [[1, 11432, 18]],
+    "RefineId": 2004,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "217": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 86,
+    "Id": 217,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022102, 20],
+      [10008, 700]
+    ],
+    "RefineEffect": [[1, 11432, 21]],
+    "RefineId": 2004,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "218": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 95,
+    "Id": 218,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022102, 20],
+      [10008, 800]
+    ],
+    "RefineEffect": [[1, 11432, 24]],
+    "RefineId": 2004,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "219": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 104,
+    "Id": 219,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022102, 25],
+      [10008, 900]
+    ],
+    "RefineEffect": [[1, 11432, 27]],
+    "RefineId": 2004,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  },
+  "22": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 608,
+    "Id": 22,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022101, 120],
+      [10008, 3700]
+    ],
+    "RefineEffect": [[1, 11412, 92]],
+    "RefineId": 1001,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "220": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 139,
+    "Id": 220,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022102, 25],
+      [10008, 1000]
+    ],
+    "RefineEffect": [[1, 11432, 30]],
+    "RefineId": 2004,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [[1, 11432, 9]],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "221": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 147,
+    "Id": 221,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 30],
+      [10008, 1100]
+    ],
+    "RefineEffect": [[1, 11432, 33]],
+    "RefineId": 2004,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "222": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 222,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [[1, 11432, 36]],
+    "RefineId": 2004,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "223": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 165,
+    "Id": 223,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 35],
+      [10008, 1300]
+    ],
+    "RefineEffect": [[1, 11432, 39]],
+    "RefineId": 2004,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "224": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 224,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022102, 35],
+      [10008, 1400]
+    ],
+    "RefineEffect": [[1, 11432, 42]],
+    "RefineId": 2004,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "225": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 225,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022102, 40],
+      [10008, 1500]
+    ],
+    "RefineEffect": [[1, 11432, 45]],
+    "RefineId": 2004,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [[1, 11432, 9]],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "226": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 217,
+    "Id": 226,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022102, 40],
+      [10008, 1550]
+    ],
+    "RefineEffect": [[1, 11432, 48]],
+    "RefineId": 2004,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "227": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 226,
+    "Id": 227,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022102, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [[1, 11432, 51]],
+    "RefineId": 2004,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "228": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 234,
+    "Id": 228,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022102, 50],
+      [10008, 1650]
+    ],
+    "RefineEffect": [[1, 11432, 54]],
+    "RefineId": 2004,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "229": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 243,
+    "Id": 229,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022102, 50],
+      [10008, 1700]
+    ],
+    "RefineEffect": [[1, 11432, 57]],
+    "RefineId": 2004,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "23": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 635,
+    "Id": 23,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022101, 120],
+      [10008, 3800]
+    ],
+    "RefineEffect": [[1, 11412, 98]],
+    "RefineId": 1001,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "230": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 230,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022102, 60],
+      [10008, 1750]
+    ],
+    "RefineEffect": [[1, 11432, 60]],
+    "RefineId": 2004,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [[1, 11432, 9]],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "231": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 291,
+    "Id": 231,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022102, 60],
+      [10008, 1800]
+    ],
+    "RefineEffect": [[1, 11432, 64]],
+    "RefineId": 2004,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "232": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 304,
+    "Id": 232,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022102, 60],
+      [10008, 1850]
+    ],
+    "RefineEffect": [[1, 11432, 68]],
+    "RefineId": 2004,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "233": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 317,
+    "Id": 233,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022102, 60],
+      [10008, 1900]
+    ],
+    "RefineEffect": [[1, 11432, 72]],
+    "RefineId": 2004,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "234": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 234,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022102, 60],
+      [10008, 1950]
+    ],
+    "RefineEffect": [[1, 11432, 76]],
+    "RefineId": 2004,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "235": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 382,
+    "Id": 235,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 80]],
+    "RefineId": 2004,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [[1, 11432, 12]],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "236": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 395,
+    "Id": 236,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 84]],
+    "RefineId": 2004,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "237": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 408,
+    "Id": 237,
+    "RefineConsume": [
+      [1022003, 5],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 88]],
+    "RefineId": 2004,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "238": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 421,
+    "Id": 238,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 92]],
+    "RefineId": 2004,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "239": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 435,
+    "Id": 239,
+    "RefineConsume": [
+      [1022003, 7],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 96]],
+    "RefineId": 2004,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "24": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 661,
+    "Id": 24,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022101, 120],
+      [10008, 3900]
+    ],
+    "RefineEffect": [[1, 11412, 104]],
+    "RefineId": 1001,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "240": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 240,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 100]],
+    "RefineId": 2004,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [[1, 11432, 12]],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "241": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 8,
+    "Id": 241,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022103, 3],
+      [10008, 100]
+    ],
+    "RefineEffect": [[1, 11432, 3]],
+    "RefineId": 2005,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "242": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 242,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022103, 3],
+      [10008, 200]
+    ],
+    "RefineEffect": [[1, 11432, 6]],
+    "RefineId": 2005,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "243": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 26,
+    "Id": 243,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022103, 6],
+      [10008, 300]
+    ],
+    "RefineEffect": [[1, 11432, 9]],
+    "RefineId": 2005,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "244": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 244,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022103, 8],
+      [10008, 400]
+    ],
+    "RefineEffect": [[1, 11432, 12]],
+    "RefineId": 2005,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "245": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 245,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022103, 12],
+      [10008, 500]
+    ],
+    "RefineEffect": [[1, 11432, 15]],
+    "RefineId": 2005,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [[1, 11432, 9]],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "246": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 78,
+    "Id": 246,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022103, 15],
+      [10008, 600]
+    ],
+    "RefineEffect": [[1, 11432, 18]],
+    "RefineId": 2005,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "247": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 86,
+    "Id": 247,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022103, 20],
+      [10008, 700]
+    ],
+    "RefineEffect": [[1, 11432, 21]],
+    "RefineId": 2005,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "248": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 95,
+    "Id": 248,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022103, 20],
+      [10008, 800]
+    ],
+    "RefineEffect": [[1, 11432, 24]],
+    "RefineId": 2005,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "249": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 104,
+    "Id": 249,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022103, 25],
+      [10008, 900]
+    ],
+    "RefineEffect": [[1, 11432, 27]],
+    "RefineId": 2005,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  },
+  "25": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 765,
+    "Id": 25,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11412, 110]],
+    "RefineId": 1001,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [[1, 11412, 18]],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "250": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 139,
+    "Id": 250,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022103, 25],
+      [10008, 1000]
+    ],
+    "RefineEffect": [[1, 11432, 30]],
+    "RefineId": 2005,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [[1, 11432, 9]],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "251": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 147,
+    "Id": 251,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 30],
+      [10008, 1100]
+    ],
+    "RefineEffect": [[1, 11432, 33]],
+    "RefineId": 2005,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "252": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 252,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [[1, 11432, 36]],
+    "RefineId": 2005,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "253": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 165,
+    "Id": 253,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 35],
+      [10008, 1300]
+    ],
+    "RefineEffect": [[1, 11432, 39]],
+    "RefineId": 2005,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "254": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 254,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022103, 35],
+      [10008, 1400]
+    ],
+    "RefineEffect": [[1, 11432, 42]],
+    "RefineId": 2005,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "255": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 255,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022103, 40],
+      [10008, 1500]
+    ],
+    "RefineEffect": [[1, 11432, 45]],
+    "RefineId": 2005,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [[1, 11432, 9]],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "256": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 217,
+    "Id": 256,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022103, 40],
+      [10008, 1550]
+    ],
+    "RefineEffect": [[1, 11432, 48]],
+    "RefineId": 2005,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "257": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 226,
+    "Id": 257,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022103, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [[1, 11432, 51]],
+    "RefineId": 2005,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "258": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 234,
+    "Id": 258,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022103, 50],
+      [10008, 1650]
+    ],
+    "RefineEffect": [[1, 11432, 54]],
+    "RefineId": 2005,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "259": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 243,
+    "Id": 259,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022103, 50],
+      [10008, 1700]
+    ],
+    "RefineEffect": [[1, 11432, 57]],
+    "RefineId": 2005,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "26": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 791,
+    "Id": 26,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11412, 116]],
+    "RefineId": 1001,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "260": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 260,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022103, 60],
+      [10008, 1750]
+    ],
+    "RefineEffect": [[1, 11432, 60]],
+    "RefineId": 2005,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [[1, 11432, 9]],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "261": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 291,
+    "Id": 261,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022103, 60],
+      [10008, 1800]
+    ],
+    "RefineEffect": [[1, 11432, 64]],
+    "RefineId": 2005,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "262": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 304,
+    "Id": 262,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022103, 60],
+      [10008, 1850]
+    ],
+    "RefineEffect": [[1, 11432, 68]],
+    "RefineId": 2005,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "263": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 317,
+    "Id": 263,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022103, 60],
+      [10008, 1900]
+    ],
+    "RefineEffect": [[1, 11432, 72]],
+    "RefineId": 2005,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "264": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 264,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022103, 60],
+      [10008, 1950]
+    ],
+    "RefineEffect": [[1, 11432, 76]],
+    "RefineId": 2005,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "265": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 382,
+    "Id": 265,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 80]],
+    "RefineId": 2005,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [[1, 11432, 12]],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "266": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 395,
+    "Id": 266,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 84]],
+    "RefineId": 2005,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "267": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 408,
+    "Id": 267,
+    "RefineConsume": [
+      [1022003, 5],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 88]],
+    "RefineId": 2005,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "268": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 421,
+    "Id": 268,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 92]],
+    "RefineId": 2005,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "269": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 435,
+    "Id": 269,
+    "RefineConsume": [
+      [1022003, 7],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 96]],
+    "RefineId": 2005,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "27": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 817,
+    "Id": 27,
+    "RefineConsume": [
+      [1022003, 10],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11412, 122]],
+    "RefineId": 1001,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "270": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 270,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11432, 100]],
+    "RefineId": 2005,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [[1, 11432, 12]],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "28": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 843,
+    "Id": 28,
+    "RefineConsume": [
+      [1022003, 12],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11412, 128]],
+    "RefineId": 1001,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "29": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 870,
+    "Id": 29,
+    "RefineConsume": [
+      [1022003, 14],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11412, 134]],
+    "RefineId": 1001,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "3": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 52,
+    "Id": 3,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022101, 12],
+      [10008, 600]
+    ],
+    "RefineEffect": [[1, 11412, 12]],
+    "RefineId": 1001,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "30": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 974,
+    "Id": 30,
+    "RefineConsume": [
+      [1022003, 16],
+      [1022101, 120],
+      [10008, 4000]
+    ],
+    "RefineEffect": [[1, 11412, 140]],
+    "RefineId": 1001,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [[1, 11412, 18]],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "31": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 8,
+    "Id": 31,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022102, 3],
+      [10008, 100]
+    ],
+    "RefineEffect": [[1, 11412, 2]],
+    "RefineId": 1004,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "32": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 32,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022102, 3],
+      [10008, 200]
+    ],
+    "RefineEffect": [[]],
+    "RefineId": 1004,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "33": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 26,
+    "Id": 33,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022102, 6],
+      [10008, 300]
+    ],
+    "RefineEffect": [[1, 11412, 6]],
+    "RefineId": 1004,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "34": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 34,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022102, 8],
+      [10008, 400]
+    ],
+    "RefineEffect": [[1, 11412, 8]],
+    "RefineId": 1004,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "35": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 35,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022102, 12],
+      [10008, 500]
+    ],
+    "RefineEffect": [[1, 11412, 10]],
+    "RefineId": 1004,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [[1, 11412, 6]],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "36": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 78,
+    "Id": 36,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022102, 15],
+      [10008, 600]
+    ],
+    "RefineEffect": [[1, 11412, 12]],
+    "RefineId": 1004,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "37": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 86,
+    "Id": 37,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022102, 20],
+      [10008, 700]
+    ],
+    "RefineEffect": [[1, 11412, 14]],
+    "RefineId": 1004,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "38": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 95,
+    "Id": 38,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022102, 20],
+      [10008, 800]
+    ],
+    "RefineEffect": [[1, 11412, 16]],
+    "RefineId": 1004,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "39": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 104,
+    "Id": 39,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022102, 25],
+      [10008, 900]
+    ],
+    "RefineEffect": [[1, 11412, 18]],
+    "RefineId": 1004,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  },
+  "4": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 4,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022101, 16],
+      [10008, 800]
+    ],
+    "RefineEffect": [[1, 11412, 16]],
+    "RefineId": 1001,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "40": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 139,
+    "Id": 40,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022102, 25],
+      [10008, 1000]
+    ],
+    "RefineEffect": [[1, 11412, 20]],
+    "RefineId": 1004,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [[1, 11412, 6]],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "41": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 147,
+    "Id": 41,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 30],
+      [10008, 1100]
+    ],
+    "RefineEffect": [[1, 11412, 22]],
+    "RefineId": 1004,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "42": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 42,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [[1, 11412, 24]],
+    "RefineId": 1004,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "43": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 165,
+    "Id": 43,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022102, 35],
+      [10008, 1300]
+    ],
+    "RefineEffect": [[1, 11412, 26]],
+    "RefineId": 1004,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "44": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 44,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022102, 35],
+      [10008, 1400]
+    ],
+    "RefineEffect": [[1, 11412, 28]],
+    "RefineId": 1004,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "45": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 45,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022102, 40],
+      [10008, 1500]
+    ],
+    "RefineEffect": [[1, 11412, 30]],
+    "RefineId": 1004,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [[1, 11412, 6]],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "46": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 217,
+    "Id": 46,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022102, 40],
+      [10008, 1550]
+    ],
+    "RefineEffect": [[1, 11412, 32]],
+    "RefineId": 1004,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "47": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 226,
+    "Id": 47,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022102, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [[1, 11412, 34]],
+    "RefineId": 1004,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "48": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 234,
+    "Id": 48,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022102, 50],
+      [10008, 1650]
+    ],
+    "RefineEffect": [[1, 11412, 36]],
+    "RefineId": 1004,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "49": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 243,
+    "Id": 49,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022102, 50],
+      [10008, 1700]
+    ],
+    "RefineEffect": [[1, 11412, 38]],
+    "RefineId": 1004,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "5": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 139,
+    "Id": 5,
+    "RefineConsume": [
+      [1022001, 6],
+      [1022101, 24],
+      [10008, 1000]
+    ],
+    "RefineEffect": [[1, 11412, 20]],
+    "RefineId": 1001,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [[1, 11412, 12]],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "50": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 50,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022102, 60],
+      [10008, 1750]
+    ],
+    "RefineEffect": [[1, 11412, 40]],
+    "RefineId": 1004,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [[1, 11412, 6]],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "51": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 291,
+    "Id": 51,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022102, 60],
+      [10008, 1800]
+    ],
+    "RefineEffect": [[1, 11412, 43]],
+    "RefineId": 1004,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "52": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 304,
+    "Id": 52,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022102, 60],
+      [10008, 1850]
+    ],
+    "RefineEffect": [[1, 11412, 46]],
+    "RefineId": 1004,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "53": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 317,
+    "Id": 53,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022102, 60],
+      [10008, 1900]
+    ],
+    "RefineEffect": [[1, 11412, 49]],
+    "RefineId": 1004,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "54": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 54,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022102, 60],
+      [10008, 1950]
+    ],
+    "RefineEffect": [[1, 11412, 52]],
+    "RefineId": 1004,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "55": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 382,
+    "Id": 55,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 55]],
+    "RefineId": 1004,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [[1, 11412, 9]],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "56": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 395,
+    "Id": 56,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 58]],
+    "RefineId": 1004,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "57": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 408,
+    "Id": 57,
+    "RefineConsume": [
+      [1022003, 5],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 61]],
+    "RefineId": 1004,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "58": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 421,
+    "Id": 58,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 64]],
+    "RefineId": 1004,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "59": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 435,
+    "Id": 59,
+    "RefineConsume": [
+      [1022003, 7],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 67]],
+    "RefineId": 1004,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "6": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 6,
+    "RefineConsume": [
+      [1022001, 6],
+      [1022101, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [[1, 11412, 24]],
+    "RefineId": 1001,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "60": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 60,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022102, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 70]],
+    "RefineId": 1004,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [[1, 11412, 9]],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "61": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 8,
+    "Id": 61,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022103, 3],
+      [10008, 100]
+    ],
+    "RefineEffect": [[1, 11412, 2]],
+    "RefineId": 1005,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "62": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 62,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022103, 3],
+      [10008, 200]
+    ],
+    "RefineEffect": [[]],
+    "RefineId": 1005,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "63": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 26,
+    "Id": 63,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022103, 6],
+      [10008, 300]
+    ],
+    "RefineEffect": [[1, 11412, 6]],
+    "RefineId": 1005,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "64": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 64,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022103, 8],
+      [10008, 400]
+    ],
+    "RefineEffect": [[1, 11412, 8]],
+    "RefineId": 1005,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "65": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 65,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022103, 12],
+      [10008, 500]
+    ],
+    "RefineEffect": [[1, 11412, 10]],
+    "RefineId": 1005,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [[1, 11412, 6]],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "66": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 78,
+    "Id": 66,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022103, 15],
+      [10008, 600]
+    ],
+    "RefineEffect": [[1, 11412, 12]],
+    "RefineId": 1005,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "67": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 86,
+    "Id": 67,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022103, 20],
+      [10008, 700]
+    ],
+    "RefineEffect": [[1, 11412, 14]],
+    "RefineId": 1005,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "68": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 95,
+    "Id": 68,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022103, 20],
+      [10008, 800]
+    ],
+    "RefineEffect": [[1, 11412, 16]],
+    "RefineId": 1005,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "69": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 104,
+    "Id": 69,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022103, 25],
+      [10008, 900]
+    ],
+    "RefineEffect": [[1, 11412, 18]],
+    "RefineId": 1005,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  },
+  "7": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 7,
+    "RefineConsume": [
+      [1022001, 8],
+      [1022101, 40],
+      [10008, 1400]
+    ],
+    "RefineEffect": [[1, 11412, 28]],
+    "RefineId": 1001,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "70": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 139,
+    "Id": 70,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022103, 25],
+      [10008, 1000]
+    ],
+    "RefineEffect": [[1, 11412, 20]],
+    "RefineId": 1005,
+    "RefineLevel": 10,
+    "RefineLevelEffect": [[1, 11412, 6]],
+    "ShowCondition": [[45, 25]],
+    "SuccessRate": 8500
+  },
+  "71": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 147,
+    "Id": 71,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 30],
+      [10008, 1100]
+    ],
+    "RefineEffect": [[1, 11412, 22]],
+    "RefineId": 1005,
+    "RefineLevel": 11,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 8000
+  },
+  "72": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 156,
+    "Id": 72,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 30],
+      [10008, 1200]
+    ],
+    "RefineEffect": [[1, 11412, 24]],
+    "RefineId": 1005,
+    "RefineLevel": 12,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7500
+  },
+  "73": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 165,
+    "Id": 73,
+    "RefineConsume": [
+      [1022002, 2],
+      [1022103, 35],
+      [10008, 1300]
+    ],
+    "RefineEffect": [[1, 11412, 26]],
+    "RefineId": 1005,
+    "RefineLevel": 13,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 7000
+  },
+  "74": {
+    "BuffPar": [],
+    "Condition": [[45, 39]],
+    "FailCompensateRate": 200,
+    "FightValue": 173,
+    "Id": 74,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022103, 35],
+      [10008, 1400]
+    ],
+    "RefineEffect": [[1, 11412, 28]],
+    "RefineId": 1005,
+    "RefineLevel": 14,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 6500
+  },
+  "75": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 75,
+    "RefineConsume": [
+      [1022002, 3],
+      [1022103, 40],
+      [10008, 1500]
+    ],
+    "RefineEffect": [[1, 11412, 30]],
+    "RefineId": 1005,
+    "RefineLevel": 15,
+    "RefineLevelEffect": [[1, 11412, 6]],
+    "ShowCondition": [[45, 39]],
+    "SuccessRate": 6000
+  },
+  "76": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 217,
+    "Id": 76,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022103, 40],
+      [10008, 1550]
+    ],
+    "RefineEffect": [[1, 11412, 32]],
+    "RefineId": 1005,
+    "RefineLevel": 16,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5500
+  },
+  "77": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 226,
+    "Id": 77,
+    "RefineConsume": [
+      [1022002, 4],
+      [1022103, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [[1, 11412, 34]],
+    "RefineId": 1005,
+    "RefineLevel": 17,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "78": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 234,
+    "Id": 78,
+    "RefineConsume": [
+      [1022002, 5],
+      [1022103, 50],
+      [10008, 1650]
+    ],
+    "RefineEffect": [[1, 11412, 36]],
+    "RefineId": 1005,
+    "RefineLevel": 18,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 5000
+  },
+  "79": {
+    "BuffPar": [],
+    "Condition": [[45, 53]],
+    "FailCompensateRate": 200,
+    "FightValue": 243,
+    "Id": 79,
+    "RefineConsume": [
+      [1022002, 6],
+      [1022103, 50],
+      [10008, 1700]
+    ],
+    "RefineEffect": [[1, 11412, 38]],
+    "RefineId": 1005,
+    "RefineLevel": 19,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "8": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 191,
+    "Id": 8,
+    "RefineConsume": [
+      [1022001, 8],
+      [1022101, 40],
+      [10008, 1600]
+    ],
+    "RefineEffect": [[1, 11412, 32]],
+    "RefineId": 1001,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "80": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 278,
+    "Id": 80,
+    "RefineConsume": [
+      [1022002, 8],
+      [1022103, 60],
+      [10008, 1750]
+    ],
+    "RefineEffect": [[1, 11412, 40]],
+    "RefineId": 1005,
+    "RefineLevel": 20,
+    "RefineLevelEffect": [[1, 11412, 6]],
+    "ShowCondition": [[45, 53]],
+    "SuccessRate": 4500
+  },
+  "81": {
+    "BuffPar": [],
+    "Condition": [[9, 10224]],
+    "FailCompensateRate": 200,
+    "FightValue": 291,
+    "Id": 81,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022103, 60],
+      [10008, 1800]
+    ],
+    "RefineEffect": [[1, 11412, 43]],
+    "RefineId": 1005,
+    "RefineLevel": 21,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "82": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 304,
+    "Id": 82,
+    "RefineConsume": [
+      [1022003, 2],
+      [1022103, 60],
+      [10008, 1850]
+    ],
+    "RefineEffect": [[1, 11412, 46]],
+    "RefineId": 1005,
+    "RefineLevel": 22,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "83": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 317,
+    "Id": 83,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022103, 60],
+      [10008, 1900]
+    ],
+    "RefineEffect": [[1, 11412, 49]],
+    "RefineId": 1005,
+    "RefineLevel": 23,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "84": {
+    "BuffPar": [],
+    "Condition": [[9, 10225]],
+    "FailCompensateRate": 200,
+    "FightValue": 330,
+    "Id": 84,
+    "RefineConsume": [
+      [1022003, 3],
+      [1022103, 60],
+      [10008, 1950]
+    ],
+    "RefineEffect": [[1, 11412, 52]],
+    "RefineId": 1005,
+    "RefineLevel": 24,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "85": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 382,
+    "Id": 85,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 55]],
+    "RefineId": 1005,
+    "RefineLevel": 25,
+    "RefineLevelEffect": [[1, 11412, 9]],
+    "ShowCondition": [[9, 10225]],
+    "SuccessRate": 4500
+  },
+  "86": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 395,
+    "Id": 86,
+    "RefineConsume": [
+      [1022003, 4],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 58]],
+    "RefineId": 1005,
+    "RefineLevel": 26,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "87": {
+    "BuffPar": [],
+    "Condition": [[9, 10226]],
+    "FailCompensateRate": 200,
+    "FightValue": 408,
+    "Id": 87,
+    "RefineConsume": [
+      [1022003, 5],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 61]],
+    "RefineId": 1005,
+    "RefineLevel": 27,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "88": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 421,
+    "Id": 88,
+    "RefineConsume": [
+      [1022003, 6],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 64]],
+    "RefineId": 1005,
+    "RefineLevel": 28,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "89": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 435,
+    "Id": 89,
+    "RefineConsume": [
+      [1022003, 7],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 67]],
+    "RefineId": 1005,
+    "RefineLevel": 29,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 4500
+  },
+  "9": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 208,
+    "Id": 9,
+    "RefineConsume": [
+      [1022001, 10],
+      [1022101, 50],
+      [10008, 1800]
+    ],
+    "RefineEffect": [[1, 11412, 36]],
+    "RefineId": 1001,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  },
+  "90": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 487,
+    "Id": 90,
+    "RefineConsume": [
+      [1022003, 8],
+      [1022103, 60],
+      [10008, 2000]
+    ],
+    "RefineEffect": [[1, 11412, 70]],
+    "RefineId": 1005,
+    "RefineLevel": 30,
+    "RefineLevelEffect": [[1, 11412, 9]],
+    "ShowCondition": [[9, 10226]],
+    "SuccessRate": 4500
+  },
+  "91": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 8,
+    "Id": 91,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022101, 3],
+      [10008, 100]
+    ],
+    "RefineEffect": [
+      [1, 11422, 10],
+      [1, 11042, 20]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 1,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "92": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 17,
+    "Id": 92,
+    "RefineConsume": [
+      [1022001, 1],
+      [1022101, 3],
+      [10008, 200]
+    ],
+    "RefineEffect": [
+      [1, 11422, 20],
+      [1, 11042, 40]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 2,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "93": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 26,
+    "Id": 93,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022101, 6],
+      [10008, 300]
+    ],
+    "RefineEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 3,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "94": {
+    "BuffPar": [],
+    "Condition": [[45, 7]],
+    "FailCompensateRate": 0,
+    "FightValue": 34,
+    "Id": 94,
+    "RefineConsume": [
+      [1022001, 2],
+      [1022101, 8],
+      [10008, 400]
+    ],
+    "RefineEffect": [
+      [1, 11422, 40],
+      [1, 11042, 80]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 4,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "95": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 0,
+    "FightValue": 69,
+    "Id": 95,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022101, 12],
+      [10008, 500]
+    ],
+    "RefineEffect": [
+      [1, 11422, 50],
+      [1, 11042, 100]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 5,
+    "RefineLevelEffect": [
+      [1, 11422, 30],
+      [1, 11042, 60]
+    ],
+    "ShowCondition": [],
+    "SuccessRate": 10000
+  },
+  "96": {
+    "BuffPar": [],
+    "Condition": [[45, 11]],
+    "FailCompensateRate": 200,
+    "FightValue": 78,
+    "Id": 96,
+    "RefineConsume": [
+      [1022001, 3],
+      [1022101, 15],
+      [10008, 600]
+    ],
+    "RefineEffect": [
+      [1, 11422, 60],
+      [1, 11042, 120]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 6,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "97": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 86,
+    "Id": 97,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022101, 20],
+      [10008, 700]
+    ],
+    "RefineEffect": [
+      [1, 11422, 70],
+      [1, 11042, 140]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 7,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "98": {
+    "BuffPar": [],
+    "Condition": [],
+    "FailCompensateRate": 200,
+    "FightValue": 95,
+    "Id": 98,
+    "RefineConsume": [
+      [1022001, 4],
+      [1022101, 20],
+      [10008, 800]
+    ],
+    "RefineEffect": [
+      [1, 11422, 80],
+      [1, 11042, 160]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 8,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9500
+  },
+  "99": {
+    "BuffPar": [],
+    "Condition": [[45, 25]],
+    "FailCompensateRate": 200,
+    "FightValue": 104,
+    "Id": 99,
+    "RefineConsume": [
+      [1022001, 5],
+      [1022101, 25],
+      [10008, 900]
+    ],
+    "RefineEffect": [
+      [1, 11422, 90],
+      [1, 11042, 180]
+    ],
+    "RefineId": 1002,
+    "RefineLevel": 9,
+    "RefineLevelEffect": [],
+    "ShowCondition": [],
+    "SuccessRate": 9000
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Id": 1,
+    "ReportCategoryDes": ["不正情報投稿", "個人情報違反"],
+    "ReportCategoryId": [],
+    "ReportReason": [
+      [101, 102, 103, 104, 105, 106, 108, 199],
+      [901, 999]
+    ],
+    "ReportScene": "会話シーン",
+    "SceneId": 1
+  },
+  "101": {
+    "Id": 101,
+    "ReportCategoryDes": ["ホーム違反"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[798]],
+    "ReportScene": "ホーム建設シーン",
+    "SceneId": 8
+  },
+  "2": {
+    "Id": 2,
+    "ReportCategoryDes": ["個人情報違反"],
+    "ReportCategoryId": [9],
+    "ReportReason": [[901, 903, 999]],
+    "ReportScene": "個人情報シーン",
+    "SceneId": 2
+  },
+  "6": {
+    "Id": 6,
+    "ReportCategoryDes": ["不適切な画像"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[799]],
+    "ReportScene": "アルバム写真通報",
+    "SceneId": 6
+  },
+  "7": {
+    "Id": 7,
+    "ReportCategoryDes": ["組織情報違反"],
+    "ReportCategoryId": [8],
+    "ReportReason": [[801, 802, 803, 799, 899]],
+    "ReportScene": "組織情報シーン",
+    "SceneId": 7
+  }
+}

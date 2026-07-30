@@ -1,0 +1,185 @@
+{
+  "101": {
+    "Content": "재앙의 주인이 오염의 근원이 되어 침식의 힘으로 세상의 모든 곳을 잠식하고 있습니다!\\n\\n\\n・재앙의 주인에게 선택된 몬스터는 <color=#ffcd97>「허무의 침식 숙주」</color>로 각성하며, 세 가지 강화 능력을 획득합니다. 또한, 시간이 지날수록 진화하게 됩니다!\\n\\n・극한 공간의 전투가 시작되면 <color=#ffcd97>「허무의 침식」</color> 테마의 시즌 수식어가 심장 박동처럼 주기적으로 활성화되어 모험가가 스킬을 시전할 때마다 환경과의 대결이 펼쳐집니다!\\n\\n・조심하세요! 재앙의 주인이 <color=#ffcd97>「차원 관찰자」</color> 형태로 전장을 찢고, 그대로 극한 공간 속 플레이어의 차원에 침입할 수 있습니다!\\n재앙의 주인 본체를 만난 파티는 과연 파괴적인 침식의 힘에서 살아남을 수 있을까요? 모두 지켜봐 주세요!",
+    "Id": 101,
+    "PreviewType": 2,
+    "ResourceRoute": [],
+    "SeasonId": 1,
+    "SeasonTitle": "시즌 수식어",
+    "Sort": 101
+  },
+  "102": {
+    "Content": "시즌 타이틀을 업그레이드하면 전용 완장을 해제할 수 있습니다. 완장을 강화하면 이번 시즌 동안 실력이 향상되어 다양한 도전에 더 잘 대응할 수 있습니다!",
+    "Id": 102,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_01"],
+    "SeasonId": 1,
+    "SeasonTitle": "시즌 타이틀 및 완장",
+    "Sort": 102
+  },
+  "103": {
+    "Content": "과학 기술을 접목한 메이드복, 전투 상황에 대응하면서, 세련된 패션 감각도 쉽게 보여줄 수 있습니다. 허무의 침식 패스・상을 구매하고, Lv.30 도달 후 수령할 수 있습니다.",
+    "Id": 103,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_02"],
+    "SeasonId": 1,
+    "SeasonTitle": "패스・상",
+    "Sort": 103
+  },
+  "104": {
+    "Content": "장갑과 레그 가드는 탈부착식 합금 갑옷로, 차가운 금속 표면 위를 금색 에너지 혈관이 요동칩니다. 인체의 척추 역학을 본뜬 곡선 구조로 재조형되어 인체 관절에 정밀하게 밀착되며, 기계 미학과 인체 공학이 완벽하게 융합됐습니다.",
+    "Id": 104,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_05"],
+    "SeasonId": 1,
+    "SeasonTitle": "시즌 한정 타이틀 코스튬",
+    "Sort": 105
+  },
+  "105": {
+    "Content": "고요하고 소리 없는 어두운 밤 속에 그들은 빛과 그림자의 경계를 걷습니다. 운명의 심판을 조용히 전달하기 위해 모든 동작, 숨결, 감정이 어둠에 삼켜집니다. 허무의 침식 패스・하를 구매하고, Lv.30 도달 후 수령할 수 있습니다.",
+    "Id": 105,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_06"],
+    "SeasonId": 1,
+    "SeasonTitle": "패스・하",
+    "Sort": 104
+  },
+  "201": {
+    "Content": "꿈에 잠긴 땅은 그 안에 들어온 모험가들에게 환각을 일으켜, 환각 속의 몬스터를 보게 만듭니다.\\n\\n\\n 필드에는 [부유 고치]가 존재하며, 접촉하면 꿈에 잠긴 땅으로 진입합니다.\\n\\n・꿈에 잠긴 땅에서는 [환각 수치]가 누적되며, 환각 수치가 가득 차면 강제로 꿈에 잠긴 땅에서 퇴출당합니다.\\n\\n・환각 수치가 가득 차면 [상실] 상태에 빠지며, 지속 시간 동안 꿈에 잠긴 땅에 다시 진입할 수 없습니다..\\n\\n 꿈에 잠긴 땅마다 환각의 강도는 다르며, 모험가의 [깊은 잠 심상의 레벨]이 높을수록 환각 수치 증가 속도가 느려집니다.",
+    "Id": 201,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_12",
+      "ui/textures/large_ui/season_window/season_main_window_13"
+    ],
+    "SeasonId": 2,
+    "SeasonTitle": "시즌 테마",
+    "Sort": 201
+  },
+  "202": {
+    "Content": "꿈에 잠긴 땅이 극한 공간을 침식했습니다. 강한 힘으로 인해 모험가는 [몽롱한 꿈]에 빠져 더욱 가혹한 도전에 직면합니다.\\n\\n\\n・공간 조사 장치와 상호작용하면, 시간이 지남에 따라 몽롱한 꿈 수치가 서서히 증가합니다.\\n\\n・몬스터를 처치해도 몽롱한 꿈 수치가 쌓이며, 몬스터가 강할수록 더 많이 누적됩니다.\\n\\n・몽롱한 꿈 수치가 가득 차면 [몽롱한 꿈의 화신]이 나타납니다. 이는 매우 강력한 몬스터로, 몽롱한 꿈의 화신 처치 시 큰 전투 버프를 획득할 수 있습니다.\\n\\n・몽롱한 꿈의 화신은 4가지 다른 형태가 있으며, 모험가에게 다양한 능력 시험을 부과합니다. 모험가는 몽롱한 꿈 수치를 실시간으로 제어해 사투에 빠지는 것을 피해야 합니다.\\n\\n 주의하세요! 장난꾸러기 나뽀가 몰래 모험가의 차원에 침입해 큰 소동을 벌이려 할지도 모릅니다!\\n갑작스러운 '놀람'에 과연 침착하게 대응할 수 있을까요? 기대하겠습니다!",
+    "Id": 202,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_10",
+      "ui/textures/large_ui/season_window/season_main_window_11"
+    ],
+    "SeasonId": 2,
+    "SeasonTitle": "시즌 수식어",
+    "Sort": 202
+  },
+  "203": {
+    "Content": "새로운 시즌 업적에 도전하고 시즌 타이틀을 상승시켜, 현재 시즌에서의 당신의 힘을 보여주세요!\\n\\n새로운 시즌 육성 - 깊은 잠 심상의는 유연한 조합 선택을 제공하여 더욱 다양한 체험을 제공합니다!",
+    "Id": 203,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_14"],
+    "SeasonId": 2,
+    "SeasonTitle": "시즌 타이틀 및 깊은 잠 심상의",
+    "Sort": 203
+  },
+  "204": {
+    "Content": "환상꿈 패스・Ⅰ 구매 및 Lv.30 도달 후, 한정 코스튬 사랑과 추억・세트를 획득할 수 있습니다.",
+    "Id": 204,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_08"],
+    "SeasonId": 2,
+    "SeasonTitle": "패스・Ⅰ 코스튬",
+    "Sort": 204
+  },
+  "205": {
+    "Content": "시즌 콘텐츠에 참여하고, 시즌 타이틀이 환상 세계 방문자1 도달 시, 기간 한정 백야 전투복・세트를 획득할 수 있습니다.",
+    "Id": 205,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_09"],
+    "SeasonId": 2,
+    "SeasonTitle": "시즌 한정 타이틀 코스튬",
+    "Sort": 207
+  },
+  "206": {
+    "Content": "환상꿈 패스・Ⅱ 구매 및 Lv.30 도달 후, 한정 코스튬 밤빛 로맨스・세트를 획득할 수 있습니다.",
+    "Id": 206,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_15"],
+    "SeasonId": 2,
+    "SeasonTitle": "패스・Ⅱ 코스튬",
+    "Sort": 205
+  },
+  "207": {
+    "Content": "환상꿈 패스・Ⅲ 구매 및 Lv.30 도달 후, 한정 코스튬 꿈과 환상・세트를 획득할 수 있습니다.",
+    "Id": 207,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_16"],
+    "SeasonId": 2,
+    "SeasonTitle": "패스・Ⅲ 코스튬",
+    "Sort": 206
+  },
+  "301": {
+    "Content": "새로운 시즌에서 모험가들은 더욱 여유롭게 환각에 맞설 수 있으며, 이를 통해 허망과 진실 사이의 경계를 점차 가를 수 있게 됩니다.\\n\\n\\n신규 클래스:\\n트윈 스트라이커\\n고속 연타로 전투의 흐름을 장악하며, 특유의 자체 회복 메커니즘으로 견고한 방어선을 구축합니다. 공격력과 유지력을 겸비한 클래스입니다.\\n\\n\\n신규 허망 인자:\\n영감 인자 - 에너지 획득을 구축합니다.\\n진실 인자 - 에너지를 획득한 후 보너스를 얻습니다.",
+    "Id": 301,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/season_window/season_main_window_18",
+      "ui/textures/season_window/season_main_window_20"
+    ],
+    "SeasonId": 3,
+    "SeasonTitle": "시즌 테마",
+    "Sort": 301
+  },
+  "302": {
+    "Content": "환상꿈의 침식으로 인해 차원에 이변이 생겨, 기묘한 메아리가 극한 공간 곳곳에 울려 퍼지며 현실 감각을 교란시킵니다.\\n\\n전투 상태일 때, 메아리의 잔향이 서서히 증가하며, 보스 도전 중에는 증가 속도가 더욱 빨라집니다.\\n\\n몬스터를 처치하거나 특수 이벤트를 발동하면 메아리의 잔향을 획득합니다.\\n\\n메아리의 잔향이 최대치에 도달하면, 모든 플레이어에게 격앙의 악장 버프 효과를 부여하여 전투 능력치를 강화합니다.\\n\\n마스터 모드에서는 플레이어가 능동적으로 메아리의 잔향을 소모해서 음향을 활성화하여 버프 효과를 미리 발동시킬 수 있습니다. 단, 이 경우 주변의 [환상 세계의 씨앗] 영향을 받는 몬스터가 강화되며, 처치 시 추가 포인트를 보상으로 받습니다.\\n\\n찍찍 우리보가 기회를 노려 모험가가 있는 차원으로 숨어들어, 음이 맞지 않는 음표들로 혼란스러운 박자를 두드리며 누군가 자신과 함께 놀아주기를 기다리고 있을 수도 있습니다.",
+    "Id": 302,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/season_window/season_main_window_17",
+      "ui/textures/season_window/season_main_window_19"
+    ],
+    "SeasonId": 3,
+    "SeasonTitle": "시즌 수식어",
+    "Sort": 302
+  },
+  "303": {
+    "Content": "새로운 시즌 업적에 도전하고 시즌 타이틀을 상승시켜, 현재 시즌에서의 당신의 힘을 보여주세요!\\n\\n깊은 잠 심상의는 초기화 및 구조 조정이 진행됩니다. 영감 인자와 진실 인자를 선택하여 자신만의 조합을 구축하세요!",
+    "Id": 303,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/season_window/season_main_window_22"],
+    "SeasonId": 3,
+    "SeasonTitle": "시즌 타이틀 및 깊은 잠 심상의",
+    "Sort": 303
+  },
+  "304": {
+    "Content": "패스・Ⅰ 구매 및 Lv.30 도달 후, 한정 코스튬 별바다 항해사・세트를 획득할 수 있습니다.",
+    "Id": 304,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/season_window/season_main_window_21"],
+    "SeasonId": 3,
+    "SeasonTitle": "패스・Ⅰ 코스튬",
+    "Sort": 304
+  },
+  "305": {
+    "Content": "시즌 콘텐츠에 참여하고, 시즌 타이틀이 집념의 변주1 도달 시, 기간 한정 역광 지령・세트를 획득할 수 있습니다!",
+    "Id": 305,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/season_window/season_main_window_23"],
+    "SeasonId": 3,
+    "SeasonTitle": "시즌 한정 타이틀 코스튬",
+    "Sort": 307
+  },
+  "306": {
+    "Content": "패스・Ⅱ 구매 및 Lv.30 도달 시, 한정 코스튬 이매진 순항・세트를 획득할 수 있습니다.",
+    "Id": 306,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/season_window/season_main_window_24"],
+    "SeasonId": 3,
+    "SeasonTitle": "패스・Ⅱ 코스튬",
+    "Sort": 305
+  },
+  "307": {
+    "Content": "패스・Ⅲ 구매 및 Lv.30 도달 시, 한정 코스튬 노을빛 꽃이 피는 때・세트를 획득할 수 있습니다.",
+    "Id": 307,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/season_window/season_main_window_25"],
+    "SeasonId": 3,
+    "SeasonTitle": "패스・Ⅲ 코스튬",
+    "Sort": 306
+  }
+}

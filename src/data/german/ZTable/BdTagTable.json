@@ -1,0 +1,1024 @@
+{
+  "1": {
+    "Id": 1,
+    "ParentTag": 1001,
+    "TagName": "Schwerer Angriff",
+    "TagString": "Bewegungen, die durch Gedrückthalten der Standardangriff-Schaltfläche ausgelöst werden.",
+    "TagType": 2
+  },
+  "10": {
+    "Id": 10,
+    "ParentTag": 1002,
+    "TagName": "Schaden über Zeit",
+    "TagString": "Fähigkeiten, die sich auf das Ziel auswirken oder einen SCH-Bereich hinterlassen, der eine gewisse Zeit lang bestehen bleibt und kontinuierlichen SCH verursacht, der keine Glückseffekte auslösen kann (diese Art der Heilung kann keinen Glückseffekt auslösen).",
+    "TagType": 2
+  },
+  "100": {
+    "Id": 100,
+    "ParentTag": 0,
+    "TagName": "Nahrung & Kochkunst",
+    "TagString": "Kennzeichnet diesen Buff als einen \"Nahrung & Gerichte\"-Buff.",
+    "TagType": 1
+  },
+  "1001": {
+    "Id": 1001,
+    "ParentTag": 1010,
+    "TagName": "Standardangriff",
+    "TagString": "Verschiedene Angriffe, die über die Standardangriff-Schaltfläche ausgelöst werden.",
+    "TagType": 1
+  },
+  "1002": {
+    "Id": 1002,
+    "ParentTag": 0,
+    "TagName": "Schaden",
+    "TagString": "Effekte, durch die Ziele LP verlieren.",
+    "TagType": 1
+  },
+  "1003": {
+    "Id": 1003,
+    "ParentTag": 0,
+    "TagName": "Heilung",
+    "TagString": "Effekte, die die LP des Ziels wiederherstellen.",
+    "TagType": 1
+  },
+  "1004": {
+    "Id": 1004,
+    "ParentTag": 0,
+    "TagName": "Buff",
+    "TagString": "Ein Effekt, der für Verbündete im Kampf von Vorteil sein kann.",
+    "TagType": 1
+  },
+  "1005": {
+    "Id": 1005,
+    "ParentTag": 0,
+    "TagName": "Debuff",
+    "TagString": "Verschiedene Zustände, die sich nachteilig auf die eigene Kampfkraft auswirken.",
+    "TagType": 1
+  },
+  "1006": {
+    "Id": 1006,
+    "ParentTag": 0,
+    "TagName": "Kontrolle",
+    "TagString": "In einem Zustand, in dem verschiedene Handlungen eingeschränkt sind.",
+    "TagType": 1
+  },
+  "1007": {
+    "Id": 1007,
+    "ParentTag": 0,
+    "TagName": "Distanz",
+    "TagString": "Fähigkeiten, mit denen sich Charaktere schnell bewegen können.",
+    "TagType": 1
+  },
+  "1008": {
+    "Id": 1008,
+    "ParentTag": 0,
+    "TagName": "Überleben",
+    "TagString": "Fähigkeiten, die dem Charakter beim Überleben helfen können.",
+    "TagType": 1
+  },
+  "1009": {
+    "Id": 1009,
+    "ParentTag": 0,
+    "TagName": "Entfesselungstyp",
+    "TagString": "Besondere Methode zum Auslösen der Fähigkeit.",
+    "TagType": 1
+  },
+  "101": {
+    "Id": 101,
+    "ParentTag": 1004,
+    "TagName": "Vielseitigkeit",
+    "TagString": "In einem Zustand von erhöhtem Vielseitigkeitsschub",
+    "TagType": 2
+  },
+  "1010": {
+    "Id": 1010,
+    "ParentTag": 0,
+    "TagName": "Klassenfähigkeiten",
+    "TagString": "Fähigkeiten, die zur Klasse gehören",
+    "TagType": 1
+  },
+  "1011": {
+    "Id": 1011,
+    "ParentTag": 0,
+    "TagName": "Roguelike-Affix",
+    "TagString": "Eine Art von Buff, der in Roguelike-Spielen verwendet wird",
+    "TagType": 1
+  },
+  "1017": {
+    "Id": 1017,
+    "ParentTag": 0,
+    "TagName": "Unterstützung im Kampf",
+    "TagString": "Unterstützungseffekte, die zusätzliche Angriffsaktionen hervorrufen oder offensive Handlungen abwehren können.",
+    "TagType": 1
+  },
+  "1018": {
+    "Id": 1018,
+    "ParentTag": 0,
+    "TagName": "Beschwörung",
+    "TagString": "Kann Kampfeinheiten beschwören, die vom Zustand des Beschwörers beeinflusst werden.",
+    "TagType": 1
+  },
+  "1019": {
+    "Id": 1019,
+    "ParentTag": 0,
+    "TagName": "Projektil",
+    "TagString": "Ein Fähigkeitsmechanismus, der physische Bewegungen ausführen und beim Aufprall Effekte hervorrufen kann.",
+    "TagType": 1
+  },
+  "102": {
+    "Id": 102,
+    "ParentTag": 0,
+    "TagName": "Monster-Debuff",
+    "TagString": "Eine Tag-Markierung, die speziell für Feldmonster verwendet wird, die auf Tags vom Typ A und Typ B abzielen.",
+    "TagType": 1
+  },
+  "1020": {
+    "Id": 1020,
+    "ParentTag": 0,
+    "TagName": "Flächeneffekt",
+    "TagString": "Effektive Methode innerhalb eines bestimmten Bereichs.",
+    "TagType": 1
+  },
+  "1021": {
+    "Id": 1021,
+    "ParentTag": 0,
+    "TagName": "Mächtiges Ziel",
+    "TagString": "Wesen, die viel stärker als Monster sind.",
+    "TagType": 1
+  },
+  "1022": {
+    "Id": 1022,
+    "ParentTag": 1021,
+    "TagName": "Boss",
+    "TagString": "Boss, Wilder Boss und Weltboss.",
+    "TagType": 2
+  },
+  "103": {
+    "Id": 103,
+    "ParentTag": 0,
+    "TagName": "Rollenfähigkeiten",
+    "TagString": "Besondere Fähigkeiten, die durch die zugewiesenen Rollen Wächter, Angriff oder Unterstützung erlangt werden.",
+    "TagType": 1
+  },
+  "1031": {
+    "Id": 1031,
+    "ParentTag": 0,
+    "TagName": "Monstertyp-Tag",
+    "TagString": "",
+    "TagType": 1
+  },
+  "104": {
+    "Id": 104,
+    "ParentTag": 0,
+    "TagName": "Debuff entfernen",
+    "TagString": "Ein Kontrollzustand, der durch Fähigkeiten, die Kontrollverlusteffekte aufheben, entfernt werden kann.",
+    "TagType": 1
+  },
+  "105": {
+    "Id": 105,
+    "ParentTag": 1011,
+    "TagName": "Brutalität-Affix",
+    "TagString": "Eine Art von Buff, der in Roguelike-Spielen verwendet wird",
+    "TagType": 2
+  },
+  "106": {
+    "Id": 106,
+    "ParentTag": 0,
+    "TagName": "Glückstreffer",
+    "TagString": "Der Basis-Glückseffekt einer Klasse",
+    "TagType": 1
+  },
+  "11": {
+    "Id": 11,
+    "ParentTag": 1003,
+    "TagName": "Direkte Heilung",
+    "TagString": "Heilung, die durch die Fähigkeit oder die Bewegung selbst verursacht wird.",
+    "TagType": 2
+  },
+  "12": {
+    "Id": 12,
+    "ParentTag": 1003,
+    "TagName": "Heilung über Zeit",
+    "TagString": "Fähigkeiten, die sich auf das Ziel auswirken oder einen Heilungsbereich hinterlassen, der eine gewisse Zeit lang bestehen bleibt und bewirkt, dass das Ziel kontinuierlich LP wiederherstellt (diese Art der Heilung kann keine Glückseffekte auslösen).",
+    "TagType": 2
+  },
+  "13": {
+    "Id": 13,
+    "ParentTag": 1004,
+    "TagName": "Segen",
+    "TagString": "Ein vorteilhafter Zustand, in dem Kampf, Bewegung oder andere Fähigkeiten verbessert sind.",
+    "TagType": 2
+  },
+  "14": {
+    "Id": 14,
+    "ParentTag": 1004,
+    "TagName": "Kampfvorstellung-Buff",
+    "TagString": "Ein Buff-Effekt, der gewährt wird, nachdem die Kampfvorstellung eine aktive Fähigkeit gewirkt hat.",
+    "TagType": 2
+  },
+  "140": {
+    "Id": 140,
+    "ParentTag": 0,
+    "TagName": "Szenario-Fähigkeit",
+    "TagString": "Zusätzliche Fähigkeiten, die durch Szenarien oder Stufen-Gameplay erworben werden.",
+    "TagType": 1
+  },
+  "141": {
+    "Id": 141,
+    "ParentTag": 0,
+    "TagName": "Nur für Fangspiel",
+    "TagString": "Kann nur beim Fangspiel verwendet werden",
+    "TagType": 1
+  },
+  "142": {
+    "Id": 142,
+    "ParentTag": 0,
+    "TagName": "Fangspiel-Einblick",
+    "TagString": "Gehört zum Einblick-System im Fangspiel.",
+    "TagType": 1
+  },
+  "15": {
+    "Id": 15,
+    "ParentTag": 1004,
+    "TagName": "Inspiration",
+    "TagString": "Die Kampfattribute werden deutlich verbessert, und wenn unter Talenten entwickelt, werden zusätzliche Effekte hinzugefügt.",
+    "TagType": 2
+  },
+  "16": {
+    "Id": 16,
+    "ParentTag": 1005,
+    "TagName": "Schwäche",
+    "TagString": "Ein nachteiliger Zustand, in dem Kampf, Bewegung oder andere Fähigkeiten verringert sind.",
+    "TagType": 2
+  },
+  "17": {
+    "Id": 17,
+    "ParentTag": 1005,
+    "TagName": "Verwundbarkeit",
+    "TagString": "Ein nachteiliger Effekt, der den erlittenen Schaden für eine gewisse Zeit erhöht.",
+    "TagType": 2
+  },
+  "18": {
+    "Id": 18,
+    "ParentTag": 1005,
+    "TagName": "Fraktur",
+    "TagString": "Erhöht den erlittenen Schaden für eine gewisse Zeit, mit zusätzlichen Effekten, wenn unter bestimmten Talenten entwickelt.",
+    "TagType": 2
+  },
+  "19": {
+    "Id": 19,
+    "ParentTag": 1006,
+    "TagName": "Erstarrt",
+    "TagString": "In einem Zustand, in dem Bewegung und Kampfhandlungen unmöglich sind.",
+    "TagType": 2
+  },
+  "2": {
+    "Id": 2,
+    "ParentTag": 1001,
+    "TagName": "Sturzangriff",
+    "TagString": "Angriffe aus dem Fall, die durch Standardangriffe aus einer bestimmten Höhe ausgeführt werden.",
+    "TagType": 2
+  },
+  "20": {
+    "Id": 20,
+    "ParentTag": 1006,
+    "TagName": "Binden",
+    "TagString": "In einem Zustand, in dem Bewegung unmöglich ist.",
+    "TagType": 2
+  },
+  "201": {
+    "Id": 201,
+    "ParentTag": 0,
+    "TagName": "Feldboss",
+    "TagString": "Quest: Nimm am Töten einer bestimmten Art von Monster teil",
+    "TagType": 1
+  },
+  "202": {
+    "Id": 202,
+    "ParentTag": 1031,
+    "TagName": "Wild",
+    "TagString": "",
+    "TagType": 1
+  },
+  "203": {
+    "Id": 203,
+    "ParentTag": 1031,
+    "TagName": "Dungeon",
+    "TagString": "",
+    "TagType": 1
+  },
+  "204": {
+    "Id": 204,
+    "ParentTag": 1031,
+    "TagName": "Nahkampf",
+    "TagString": "",
+    "TagType": 1
+  },
+  "205": {
+    "Id": 205,
+    "ParentTag": 1031,
+    "TagName": "Fernkampf",
+    "TagString": "",
+    "TagType": 1
+  },
+  "206": {
+    "Id": 206,
+    "ParentTag": 1031,
+    "TagName": "Stärke",
+    "TagString": "",
+    "TagType": 1
+  },
+  "207": {
+    "Id": 207,
+    "ParentTag": 1031,
+    "TagName": "Agilität",
+    "TagString": "",
+    "TagType": 1
+  },
+  "208": {
+    "Id": 208,
+    "ParentTag": 1031,
+    "TagName": "Intelligenz",
+    "TagString": "",
+    "TagType": 1
+  },
+  "209": {
+    "Id": 209,
+    "ParentTag": 1031,
+    "TagName": "Unterstützung",
+    "TagString": "",
+    "TagType": 1
+  },
+  "21": {
+    "Id": 21,
+    "ParentTag": 1006,
+    "TagName": "Betäuben",
+    "TagString": "In einem Zustand der Bewegungsunfähigkeit. Es können keine Kampfhandlungen ausgeführt und keine Gegenstände verwendet werden.",
+    "TagType": 2
+  },
+  "210": {
+    "Id": 210,
+    "ParentTag": 1031,
+    "TagName": "Krieger",
+    "TagString": "",
+    "TagType": 1
+  },
+  "211": {
+    "Id": 211,
+    "ParentTag": 1031,
+    "TagName": "Tank",
+    "TagString": "",
+    "TagType": 1
+  },
+  "212": {
+    "Id": 212,
+    "ParentTag": 1031,
+    "TagName": "Attentäter",
+    "TagString": "",
+    "TagType": 1
+  },
+  "213": {
+    "Id": 213,
+    "ParentTag": 1031,
+    "TagName": "Magier",
+    "TagString": "",
+    "TagType": 1
+  },
+  "214": {
+    "Id": 214,
+    "ParentTag": 1031,
+    "TagName": "Scharfschütze",
+    "TagString": "",
+    "TagType": 1
+  },
+  "22": {
+    "Id": 22,
+    "ParentTag": 1006,
+    "TagName": "Verlangsamen",
+    "TagString": "In einem Zustand verminderter Geschwindigkeit.",
+    "TagType": 2
+  },
+  "221": {
+    "Id": 221,
+    "ParentTag": 1031,
+    "TagName": "Scherge (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "222": {
+    "Id": 222,
+    "ParentTag": 1031,
+    "TagName": "Schwache Elite (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "223": {
+    "Id": 223,
+    "ParentTag": 1031,
+    "TagName": "Starke Elite (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "224": {
+    "Id": 224,
+    "ParentTag": 1031,
+    "TagName": "Ultra-Elite (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "225": {
+    "Id": 225,
+    "ParentTag": 1031,
+    "TagName": "Boss (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "23": {
+    "Id": 23,
+    "ParentTag": 1006,
+    "TagName": "Wanken",
+    "TagString": "Die Fähigkeit, die Super-Rüstungsleiste eines mächtigen Ziels zu durchbrechen.",
+    "TagType": 2
+  },
+  "24": {
+    "Id": 24,
+    "ParentTag": 1007,
+    "TagName": "Sprint",
+    "TagString": "Dauerhafte Fähigkeiten des Distanz-Typs.",
+    "TagType": 2
+  },
+  "25": {
+    "Id": 25,
+    "ParentTag": 1007,
+    "TagName": "Lidschlag",
+    "TagString": "Nicht-dauerhafte Fähigkeiten des Distanz-Typs.",
+    "TagType": 2
+  },
+  "26": {
+    "Id": 26,
+    "ParentTag": 1004,
+    "TagName": "Schild",
+    "TagString": "Zusätzlicher LP-Schild, der Schaden vor Leben absorbiert.",
+    "TagType": 2
+  },
+  "27": {
+    "Id": 27,
+    "ParentTag": 0,
+    "TagName": "Blocken",
+    "TagString": "Eine besondere Phase einer Fähigkeit, in welcher der erlittene Schaden teilweise reduziert wird.",
+    "TagType": 1
+  },
+  "28": {
+    "Id": 28,
+    "ParentTag": 0,
+    "TagName": "Feuer",
+    "TagString": "Die Fähigkeit trägt die Kraft des Feuers in sich.",
+    "TagType": 1
+  },
+  "29": {
+    "Id": 29,
+    "ParentTag": 0,
+    "TagName": "Eis",
+    "TagString": "Die Fähigkeit trägt die Kraft des Eises in sich.",
+    "TagType": 1
+  },
+  "3": {
+    "Id": 3,
+    "ParentTag": 1010,
+    "TagName": "Spezialangriff",
+    "TagString": "Der wichtigste und bekannteste Angriff der Waffe.",
+    "TagType": 1
+  },
+  "30": {
+    "Id": 30,
+    "ParentTag": 0,
+    "TagName": "Donner",
+    "TagString": "Fähigkeiten, die von der Macht des Donners erfüllt sind.",
+    "TagType": 1
+  },
+  "31": {
+    "Id": 31,
+    "ParentTag": 0,
+    "TagName": "Wind",
+    "TagString": "Fähigkeiten, in denen die Macht des Windes steckt.",
+    "TagType": 1
+  },
+  "32": {
+    "Id": 32,
+    "ParentTag": 0,
+    "TagName": "Stein",
+    "TagString": "Fähigkeiten, in denen die Macht des Steins steckt.",
+    "TagType": 1
+  },
+  "33": {
+    "Id": 33,
+    "ParentTag": 0,
+    "TagName": "Wald",
+    "TagString": "Fähigkeiten, in denen die Macht des Waldes steckt.",
+    "TagType": 1
+  },
+  "34": {
+    "Id": 34,
+    "ParentTag": 0,
+    "TagName": "Licht",
+    "TagString": "Fähigkeiten, in denen die Macht des Lichtes steckt.",
+    "TagType": 1
+  },
+  "35": {
+    "Id": 35,
+    "ParentTag": 0,
+    "TagName": "Dunkel",
+    "TagString": "Fähigkeiten, in denen die Macht der Dunkelheit steckt.",
+    "TagType": 1
+  },
+  "36": {
+    "Id": 36,
+    "ParentTag": 1017,
+    "TagName": "Koordination",
+    "TagString": "Effekte, die Angriffsaktionen mit dem Kampf synchronisieren.",
+    "TagType": 2
+  },
+  "37": {
+    "Id": 37,
+    "ParentTag": 1017,
+    "TagName": "Kooperativer Kampf",
+    "TagString": "Effekte, die eigenständig Angriffe zur Unterstützung im Kampf ausführen.",
+    "TagType": 2
+  },
+  "38": {
+    "Id": 38,
+    "ParentTag": 1009,
+    "TagName": "Aufladen",
+    "TagString": "Eine Methode zum Auslösen der Fähigkeit, die einige Zeit zur Vorbereitung benötigt, um ein stärkeres Ergebnis zu erzielen.",
+    "TagType": 1
+  },
+  "39": {
+    "Id": 39,
+    "ParentTag": 1009,
+    "TagName": "Kanalisierung",
+    "TagString": "Eine Methode zum Auslösen der Fähigkeit, bei der ein Wirkzustand aufrechterhalten werden muss, um den Effekt fortzusetzen.",
+    "TagType": 1
+  },
+  "4": {
+    "Id": 4,
+    "ParentTag": 1010,
+    "TagName": "Expertisefähigkeit",
+    "TagString": "Fähigkeiten und Angriffe, die frei kombiniert und mit der Waffe ersetzt werden können.",
+    "TagType": 1
+  },
+  "40": {
+    "Id": 40,
+    "ParentTag": 1008,
+    "TagName": "Verbesserung",
+    "TagString": "Fähigkeiten, die sich in einem Zustand der Verbesserung befinden oder Veränderungen bewirken.",
+    "TagType": 1
+  },
+  "41": {
+    "Id": 41,
+    "ParentTag": 0,
+    "TagName": "Energiewiederherstellung",
+    "TagString": "Kann Kampfressourcen erhalten, die für das Auslösen bestimmter Fähigkeiten erforderlich sind.",
+    "TagType": 1
+  },
+  "42": {
+    "Id": 42,
+    "ParentTag": 0,
+    "TagName": "Aufprägen",
+    "TagString": "Eine Art von Effekt, der unter bestimmten Bedingungen ausgelöst werden kann und dessen Auslösewahrscheinlichkeit von Attributen beeinflusst wird.",
+    "TagType": 1
+  },
+  "43": {
+    "Id": 43,
+    "ParentTag": 1004,
+    "TagName": "Unterdrücken",
+    "TagString": "Ein Zustand, in dem die eigenen LP die LP des Ziels übersteigen, was Schadens- und SCH-Reduktion-Boni gewährt. Wenn unter Talenten entwickelt, werden zusätzliche Effekte hinzugefügt.",
+    "TagType": 2
+  },
+  "44": {
+    "Id": 44,
+    "ParentTag": 1018,
+    "TagName": "Falle",
+    "TagString": "Eine Beschwörung, die Effekte hervorruft, nachdem bestimmte Bedingungen ausgelöst wurden.",
+    "TagType": 2
+  },
+  "45": {
+    "Id": 45,
+    "ParentTag": 1018,
+    "TagName": "Totem",
+    "TagString": "Eine Beschwörung, die für eine gewisse Zeit stationär bleibt und Effekte in ihrer Umgebung bewirkt.",
+    "TagType": 2
+  },
+  "46": {
+    "Id": 46,
+    "ParentTag": 1018,
+    "TagName": "Begleiter",
+    "TagString": "Eine Beschwörung, die sich bewegen und dem Beschwörer folgen kann, um ihn im Kampf zu unterstützen.",
+    "TagType": 2
+  },
+  "47": {
+    "Id": 47,
+    "ParentTag": 1018,
+    "TagName": "Konstrukt",
+    "TagString": "Eine Beschwörung mit Kollision, die das Gelände verändern kann.",
+    "TagType": 2
+  },
+  "48": {
+    "Id": 48,
+    "ParentTag": 1019,
+    "TagName": "Kugel",
+    "TagString": "Ein kleines, sich schnell bewegendes Projektil.",
+    "TagType": 2
+  },
+  "49": {
+    "Id": 49,
+    "ParentTag": 1019,
+    "TagName": "Rakete",
+    "TagString": "Ein großes, sich relativ schnell bewegendes Projektil.",
+    "TagType": 2
+  },
+  "5": {
+    "Id": 5,
+    "ParentTag": 1010,
+    "TagName": "Ultima",
+    "TagString": "Die ultimative Kampffähigkeit der mächtigsten Waffe.",
+    "TagType": 1
+  },
+  "50": {
+    "Id": 50,
+    "ParentTag": 1020,
+    "TagName": "Domäne",
+    "TagString": "Flächeneffekt, der sich selbst oder Verbündete kontinuierlich in einen vorteilhaften Zustand versetzen kann.",
+    "TagType": 2
+  },
+  "51": {
+    "Id": 51,
+    "ParentTag": 1020,
+    "TagName": "Flächenwirkung",
+    "TagString": "Flächeneffekt, der Gegner kontinuierlich in einen nachteiligen Zustand versetzen oder ihnen Schaden zufügen kann.",
+    "TagType": 2
+  },
+  "52": {
+    "Id": 52,
+    "ParentTag": 1020,
+    "TagName": "Aura",
+    "TagString": "Kann kontinuierlich Effekte auf Ziele innerhalb seiner Reichweite ausüben.",
+    "TagType": 2
+  },
+  "53": {
+    "Id": 53,
+    "ParentTag": 0,
+    "TagName": "Normales Monster",
+    "TagString": "Monster, die auf dem Kontinent unterwegs sind und meist über grundlegende Kampffähigkeiten verfügen.",
+    "TagType": 1
+  },
+  "54": {
+    "Id": 54,
+    "ParentTag": 1021,
+    "TagName": "Elite",
+    "TagString": "Außergewöhnliche Krieger unter den Monstern, die in der Regel über eine sehr bedrohliche Expertise verfügen.",
+    "TagType": 2
+  },
+  "55": {
+    "Id": 55,
+    "ParentTag": 1022,
+    "TagName": "Boss",
+    "TagString": "Der absolut Stärkste in der Gruppe, der ohne Übertreibung als König bezeichnet werden kann.",
+    "TagType": 3
+  },
+  "56": {
+    "Id": 56,
+    "ParentTag": 1022,
+    "TagName": "Wilder Boss",
+    "TagString": "Mächtige Monster, die man nur in bestimmten Gebieten auf der Karte findet.",
+    "TagType": 3
+  },
+  "57": {
+    "Id": 57,
+    "ParentTag": 1022,
+    "TagName": "Weltboss",
+    "TagString": "Das mächtigste Monster auf Dungeon-Karten.",
+    "TagType": 3
+  },
+  "58": {
+    "Id": 58,
+    "ParentTag": 0,
+    "TagName": "Gesund",
+    "TagString": "Ein Status, bei dem die Gesundheit nicht unter 50 % der max. Gesundheit liegt.",
+    "TagType": 1
+  },
+  "59": {
+    "Id": 59,
+    "ParentTag": 0,
+    "TagName": "Verletzt",
+    "TagString": "Ein Status, bei dem die Gesundheit nicht über 30 % der max. Gesundheit liegt.",
+    "TagType": 1
+  },
+  "6": {
+    "Id": 6,
+    "ParentTag": 0,
+    "TagName": "Zusatzfähigkeit",
+    "TagString": "Eine durch Talente erlernte Eigenschaftsfähigkeit",
+    "TagType": 1
+  },
+  "60": {
+    "Id": 60,
+    "ParentTag": 0,
+    "TagName": "Goblin",
+    "TagString": "",
+    "TagType": 1
+  },
+  "61": {
+    "Id": 61,
+    "ParentTag": 1001,
+    "TagName": "Standardangriff",
+    "TagString": "Die grundlegenden Bewegungen der Waffe.",
+    "TagType": 2
+  },
+  "62": {
+    "Id": 62,
+    "ParentTag": 0,
+    "TagName": "Kein Element",
+    "TagString": "Fähigkeiten ohne Elementarkraft.",
+    "TagType": 1
+  },
+  "63": {
+    "Id": 63,
+    "ParentTag": 1005,
+    "TagName": "Zersetzung",
+    "TagString": "Von einer unbekannten Kontaminationsquelle befallen, was verschiedene nachteilige Effekte zur Folge hat.",
+    "TagType": 2
+  },
+  "64": {
+    "Id": 64,
+    "ParentTag": 0,
+    "TagName": "Starke Kontrolle",
+    "TagString": "Starke Kontrolle über Ziele ohne Super-Rüstungswert.",
+    "TagType": 1
+  },
+  "65": {
+    "Id": 65,
+    "ParentTag": 1001,
+    "TagName": "Gegenangriff",
+    "TagString": "Angriff nach einem erfolgreichen Rotlichtkonter",
+    "TagType": 2
+  },
+  "66": {
+    "Id": 66,
+    "ParentTag": 0,
+    "TagName": "Physisch",
+    "TagString": "Der Schaden ist physisch, wird durch Blocken beeinflusst.",
+    "TagType": 1
+  },
+  "67": {
+    "Id": 67,
+    "ParentTag": 0,
+    "TagName": "Magie",
+    "TagString": "Der Schaden ist magisch, wird nicht durch Blocken beeinflusst.",
+    "TagType": 1
+  },
+  "68": {
+    "Id": 68,
+    "ParentTag": 0,
+    "TagName": "Einzelnes Ziel",
+    "TagString": "Wenn es weniger Ziele gibt, wird dieser Effekt stärker (wenn Schaden verursacht wird, sinkt der Schaden beim Hauptziel nicht, aber der Schaden bei anderen Zielen sinkt stark).",
+    "TagType": 1
+  },
+  "69": {
+    "Id": 69,
+    "ParentTag": 0,
+    "TagName": "Flächenwirkung",
+    "TagString": "Löst einen stärkeren Effekt aus, wenn mehrere Ziele vorhanden sind (wenn SCH verursacht wird, sinkt der SCH für alle Ziele gleichzeitig).",
+    "TagType": 1
+  },
+  "7": {
+    "Id": 7,
+    "ParentTag": 0,
+    "TagName": "Erholungsfähigkeit",
+    "TagString": "Eine Fähigkeit, die nach einem Treffer und in der Luft eingesetzt werden kann.",
+    "TagType": 1
+  },
+  "70": {
+    "Id": 70,
+    "ParentTag": 1009,
+    "TagName": "Singen",
+    "TagString": "Eine Methode zum Auslösen der Fähigkeit, die vor dem Auslösen einige Zeit zur Vorbereitung benötigt.",
+    "TagType": 1
+  },
+  "71": {
+    "Id": 71,
+    "ParentTag": 1004,
+    "TagName": "Krit",
+    "TagString": "In einem Zustand erhöhter krit. Treffer.",
+    "TagType": 2
+  },
+  "72": {
+    "Id": 72,
+    "ParentTag": 1004,
+    "TagName": "Glück",
+    "TagString": "In einem Zustand erhöhten Glücks.",
+    "TagType": 2
+  },
+  "73": {
+    "Id": 73,
+    "ParentTag": 1004,
+    "TagName": "Beschleunigung",
+    "TagString": "In einem Zustand verkürzter AZ.",
+    "TagType": 2
+  },
+  "74": {
+    "Id": 74,
+    "ParentTag": 1004,
+    "TagName": "Meisterschaft",
+    "TagString": "In einem Zustand erhöhter Meisterschaft.",
+    "TagType": 2
+  },
+  "75": {
+    "Id": 75,
+    "ParentTag": 1004,
+    "TagName": "Erhöhter Schaden",
+    "TagString": "In einem vorteilhaften Zustand, in dem die Fähigkeit zum Verursachen von SCH verbessert ist.",
+    "TagType": 2
+  },
+  "76": {
+    "Id": 76,
+    "ParentTag": 1004,
+    "TagName": "Schützen",
+    "TagString": "In einem Zustand erhöhter Überlebensfähigkeit.",
+    "TagType": 2
+  },
+  "77": {
+    "Id": 77,
+    "ParentTag": 1005,
+    "TagName": "Angriffsreduktion",
+    "TagString": "In einem Zustand verminderter Angriffsfähigkeit.",
+    "TagType": 2
+  },
+  "78": {
+    "Id": 78,
+    "ParentTag": 1005,
+    "TagName": "Rüstungsreduktion",
+    "TagString": "In einem Zustand verminderter Überlebensfähigkeit.",
+    "TagType": 2
+  },
+  "79": {
+    "Id": 79,
+    "ParentTag": 1006,
+    "TagName": "Umhüllen",
+    "TagString": "In einem Zustand der Bewegungsunfähigkeit. Es können keine Kampfhandlungen ausgeführt werden, man wird kontinuierlich zurückgestoßen und zu einem Gegner hingezogen.",
+    "TagType": 2
+  },
+  "8": {
+    "Id": 8,
+    "ParentTag": 0,
+    "TagName": "Resonanzfähigkeit",
+    "TagString": "Eine mächtige, durch Resonanz erlernte Fähigkeit.",
+    "TagType": 1
+  },
+  "80": {
+    "Id": 80,
+    "ParentTag": 1006,
+    "TagName": "Massenkontrolle",
+    "TagString": "Man versammelt gegnerische Ziele um sich herum.",
+    "TagType": 2
+  },
+  "81": {
+    "Id": 81,
+    "ParentTag": 1004,
+    "TagName": "Tempo",
+    "TagString": "In einem Zustand erhöhten Tempos.",
+    "TagType": 2
+  },
+  "82": {
+    "Id": 82,
+    "ParentTag": 0,
+    "TagName": "Wildmonster",
+    "TagString": "Wird zur Markierung von Wildmonstern verwendet; Formel zur Berechnung der Stufenunterdrückung kommt zum Einsatz.",
+    "TagType": 1
+  },
+  "83": {
+    "Id": 83,
+    "ParentTag": 1006,
+    "TagName": "Stille",
+    "TagString": "In einem Zustand, in dem keine Kampfhandlungen ausgeführt werden können.",
+    "TagType": 2
+  },
+  "84": {
+    "Id": 84,
+    "ParentTag": 0,
+    "TagName": "Leerenverderbnis",
+    "TagString": "Von unbekannter jahreszeitlicher Infektion befallen.",
+    "TagType": 1
+  },
+  "85": {
+    "Id": 85,
+    "ParentTag": 1005,
+    "TagName": "Wunde",
+    "TagString": "In einem Zustand verminderter Heilungsfähigkeit.",
+    "TagType": 2
+  },
+  "86": {
+    "Id": 86,
+    "ParentTag": 0,
+    "TagName": "Spielzeug- und Reittier-Fähigkeiten",
+    "TagString": "",
+    "TagType": 1
+  },
+  "87": {
+    "Id": 87,
+    "ParentTag": 0,
+    "TagName": "Verwandlungsfähigkeit",
+    "TagString": "Benutzen, um Verwandlungs-Buffs zu markieren. Benutze den Verlassen-Button, um alle Verwandlungbuffs mit diesem Tag zu entfernen.",
+    "TagType": 1
+  },
+  "88": {
+    "Id": 88,
+    "ParentTag": 1002,
+    "TagName": "Glückseffekt-SCH",
+    "TagString": "SCH, der durch Glückseffekte verursacht wird, die wiederum durch Fähigkeiten ausgelöst werden (bei der Verwendung von Klassenfähigkeiten, die direkten SCH oder Heilung verursachen, werden alle deine Glückseffekte mit einer Wahrscheinlichkeit ausgelöst, die deiner Glücksrate entspricht).",
+    "TagType": 2
+  },
+  "89": {
+    "Id": 89,
+    "ParentTag": 1003,
+    "TagName": "Glückseffekt-Heilung",
+    "TagString": "Heilung, die durch Glückseffekte verursacht wird, die wiederum durch Fähigkeiten ausgelöst werden (bei der Verwendung von Klassenfähigkeiten, die direkten SCH oder Heilung verursachen, werden alle deine Glückseffekte mit einer Wahrscheinlichkeit ausgelöst, die deiner Glücksrate entspricht).",
+    "TagType": 2
+  },
+  "9": {
+    "Id": 9,
+    "ParentTag": 1002,
+    "TagName": "Direkt-SCH",
+    "TagString": "Schaden, der durch den Angriff selbst verursacht wird.",
+    "TagType": 2
+  },
+  "90": {
+    "Id": 90,
+    "ParentTag": 1004,
+    "TagName": "Hauptattribut",
+    "TagString": "In einem vorteilhaften Zustand der Verbesserung des Hauptattributs",
+    "TagType": 2
+  },
+  "91": {
+    "Id": 91,
+    "ParentTag": 1018,
+    "TagName": "Beschwörung",
+    "TagString": "Eine einfache Kampfeinheit, die wiederholt relativ einfache Fähigkeiten einsetzt.",
+    "TagType": 2
+  },
+  "92": {
+    "Id": 92,
+    "ParentTag": 1004,
+    "TagName": "Heilungsschub",
+    "TagString": "In einem Zustand, der die Heilungsfähigkeit erhöht.",
+    "TagType": 2
+  },
+  "93": {
+    "Id": 93,
+    "ParentTag": 0,
+    "TagName": "Nahkampf",
+    "TagString": "Die Fähigkeit wirkt nur auf Ziele in der Nähe.",
+    "TagType": 1
+  },
+  "94": {
+    "Id": 94,
+    "ParentTag": 0,
+    "TagName": "Fernkampf",
+    "TagString": "Die Fähigkeit wirkt selbst dann noch, wenn du dich weiter vom Ziel entfernt befindest.",
+    "TagType": 1
+  },
+  "95": {
+    "Id": 95,
+    "ParentTag": 1011,
+    "TagName": "Fluch-Werte",
+    "TagString": "Eine Art von Buff, der in Roguelike-Spielen verwendet wird",
+    "TagType": 2
+  },
+  "96": {
+    "Id": 96,
+    "ParentTag": 0,
+    "TagName": "Abprallende Kugel",
+    "TagString": "Fähigkeitsmarkierung, die in Roguelike-Spielen verwendet wird",
+    "TagType": 1
+  },
+  "97": {
+    "Id": 97,
+    "ParentTag": 1011,
+    "TagName": "Blutzorn-Affix",
+    "TagString": "Eine Art von Buff, der in Roguelike-Spielen verwendet wird",
+    "TagType": 2
+  },
+  "98": {
+    "Id": 98,
+    "ParentTag": 1011,
+    "TagName": "Unversehrt-Affix",
+    "TagString": "Eine Art von Buff, der in Roguelike-Spielen verwendet wird",
+    "TagType": 2
+  },
+  "99": {
+    "Id": 99,
+    "ParentTag": 1011,
+    "TagName": "Glücks-Affix",
+    "TagString": "Eine Art von Buff, der in Roguelike-Spielen verwendet wird",
+    "TagType": 2
+  }
+}

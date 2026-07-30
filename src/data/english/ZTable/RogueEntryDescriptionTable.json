@@ -1,0 +1,1326 @@
+{
+  "100001": {
+    "Content": "<style=\"emph-gn\">PHY Boost</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 100001
+  },
+  "100101": {
+    "Content": "<style=\"emph-gn\">MAG Boost</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 100101
+  },
+  "100201": {
+    "Content": "When using an Ultimate Skill, all skill <style=\"emph-gn\">CDs</style> accelerate by <style=\"accent-gn\">100%</style>, and <style=\"emph-gn\">combat resource</style> recovery speed increases by <style=\"accent-gn\">100%</style> for <style=\"accent-gn\">20s</style>",
+    "Id": 100201
+  },
+  "100301": {
+    "Content": "Increases ATK by <style=\"accent-gn\">5%</style> for the user and allies within <style=\"accent-gn\">10m</style>.<br>For each <style=\"emph-gn\">role</style> type present within the area, this bonus increases by <style=\"accent-gn\">5%</style> (up to <style=\"accent-gn\">20%</style>)",
+    "Id": 100301
+  },
+  "100401": {
+    "Content": "Each <style=\"emph-gn\">Expertise Skill</style> cast increases its DMG and Healing by <style=\"accent-gn\">0.2%</style>.<br>Stacks up to <style=\"accent-gn\">200</style> times. When fully stacked, grants <style=\"accent-gn\">20%</style><style=\"emph-gn\"> Expertise Skill</style> DMG and Healing boost",
+    "Id": 100401
+  },
+  "100501": {
+    "Content": "Each <style=\"emph-gn\">Special Attack</style> increases its DMG and Healing by <style=\"accent-gn\">0.2%</style>.<br>Stacks up to <style=\"accent-gn\">200</style> times. When fully stacked, grants <style=\"accent-gn\">20%</style><style=\"emph-gn\"> Special Attack</style> DMG and Healing boost",
+    "Id": 100501
+  },
+  "100601": {
+    "Content": "<style=\"emph-gn\">Haste</style><style=\"accent-gn\"> +20%</style>. Loses <style=\"accent-gn\">8%</style> HP per second while moving in combat",
+    "Id": 100601
+  },
+  "100701": {
+    "Content": "Reduces <style=\"emph-gn\">Ultimate Skill</style> CD by <style=\"accent-gn\">1%</style> per <style=\"accent-gn\">200</style> Haste (up to <style=\"accent-gn\">50%</style>)",
+    "Id": 100701
+  },
+  "100801": {
+    "Content": "Defeating a target reduces the remaining <style=\"emph-gn\">Expertise Skill</style> CD by <style=\"accent-gn\">10%</style>",
+    "Id": 100801
+  },
+  "100901": {
+    "Content": "<style=\"emph-gn\">Special Attacks</style> reduce the remaining <style=\"emph-gn\">Expertise Skill</style> CD by <style=\"accent-gn\">0.5s</style>",
+    "Id": 100901
+  },
+  "101001": {
+    "Content": "<style=\"emph-gn\">Defeating</style> a target increases <style=\"emph-gn\">Crit DMG</style> by <style=\"accent-gn\">10%</style> for <style=\"accent-gn\">5s</style> (up to <style=\"accent-gn\">30%</style>)",
+    "Id": 101001
+  },
+  "101101": {
+    "Content": "When dealing damage to targets with more than <style=\"accent-gn\">80%</style> HP, <style=\"emph-gn\">Crit DMG</style> <style=\"accent-gn\">+60%</style>",
+    "Id": 101101
+  },
+  "101201": {
+    "Content": "<style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+25%</style>. If HP is above <style=\"accent-gn\">30%</style>, each attack consumes <style=\"accent-gn\">2.5%</style> of HP",
+    "Id": 101201
+  },
+  "101301": {
+    "Content": "For every <style=\"accent-gn\">1%</style> HP lost, grants <style=\"accent-gn\">0.3%</style><style=\"emph-gn\"> ATK</style>. Each Bloodwrath entry grants <style=\"accent-gn\">0.1%</style> ATK boost",
+    "Id": 101301
+  },
+  "101401": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Blood Blast</style>, dealing DMG equal to </style>20%<style=\"accent-gn\"> of lost HP (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 101401
+  },
+  "101501": {
+    "Content": "When HP is below <style=\"accent-gn\">30%</style>, converts <style=\"accent-gn\">10%</style> of <style=\"emph-gn\">DMG dealt</style> into a <style=\"emph-gn\">Shield</style>. Stacks up to <style=\"accent-gn\">100%</style> of Max HP",
+    "Id": 101501
+  },
+  "101601": {
+    "Content": "When <style=\"emph-gn\">Near Death</style>, gains <style=\"accent-gn\">3s</style> of <style=\"emph-gn\">Invincibility</style> and <style=\"emph-gn\">Acceleration</style> (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 101601
+  },
+  "101701": {
+    "Content": "Attacks trigger <style=\"emph-gn\">Bloodwar</style>, increasing <style=\"emph-gn\">ATK</style> by <style=\"accent-gn\">20%</style> and preventing death for <style=\"accent-gn\">3s</style>",
+    "Id": 101701
+  },
+  "101801": {
+    "Content": "<style=\"emph-gn\">ATK</style><style=\"accent-gn\"> +25%</style>, but takes DMG equal to <style=\"accent-gn\">1%</style> of <style=\"emph-gn\">Max HP</style> per second",
+    "Id": 101801
+  },
+  "101901": {
+    "Content": "Deals AoE DMG equal to <style=\"accent-gn\">20%</style> of <style=\"emph-gn\">Max HP</style> every <style=\"accent-gn\">3s</style>",
+    "Id": 101901
+  },
+  "102001": {
+    "Content": "Gains <style=\"emph-gn\">ATK</style> equal to <style=\"accent-gn\">0.3%</style> <style=\"emph-gn\">Max HP</style>",
+    "Id": 102001
+  },
+  "102101": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> grants you a <style=\"emph-gn\">Shield</style> equal to <style=\"accent-gn\">20%</style> <style=\"emph-gn\">Max HP</style>",
+    "Id": 102101
+  },
+  "102201": {
+    "Content": "When hit, deals AoE DMG equal to <style=\"accent-gn\">10%</style> <style=\"emph-gn\">Max HP</style>",
+    "Id": 102201
+  },
+  "102301": {
+    "Content": "When hit, reduces the remaining <style=\"emph-gn\">CD</style> of all skills by <style=\"accent-gn\">1s</style>",
+    "Id": 102301
+  },
+  "102401": {
+    "Content": "<style=\"emph-gn\">Max HP</style><style=\"accent-gn\"> +100%</style>, but takes DMG equal to <style=\"accent-gn\">1%</style> of <style=\"emph-gn\">Max HP</style> per second",
+    "Id": 102401
+  },
+  "102501": {
+    "Content": "When dealing damage with Class Skills, attacks deal bonus DMG equal to <style=\"accent-gn\">0.2%</style> of the enemy's <style=\"emph-gn\">current HP</style>",
+    "Id": 102501
+  },
+  "102601": {
+    "Content": "Each active <style=\"emph-gn\">Curse entry</style> grants <style=\"accent-gn\">10%</style> <style=\"emph-gn\">Armor</style> boost",
+    "Id": 102601
+  },
+  "102701": {
+    "Content": "Increases <style=\"emph-gn\">Armor</style> by <style=\"accent-gn\">3%</style> of <style=\"emph-gn\">Max HP</style>",
+    "Id": 102701
+  },
+  "102801": {
+    "Content": "Reflects AoE DMG equal to <style=\"accent-gn\">400%</style> of <style=\"emph-gn\">Armor</style> when hit",
+    "Id": 102801
+  },
+  "102901": {
+    "Content": "When healing a target, deals Class Skill DMG to enemies around them equal to <style=\"accent-gn\">100%</style> of the healing potency every <style=\"accent-gn\">1s</style> (healing is accumulated during this time)",
+    "Id": 102901
+  },
+  "103001": {
+    "Content": "Every <style=\"accent-gn\">10</style><style=\"emph-gn\"> Special Attacks</style> permanently increase <style=\"emph-gn\">Healing Amount</style> by <style=\"accent-gn\">1%</style> (up to <style=\"accent-gn\">30%</style>)",
+    "Id": 103001
+  },
+  "103101": {
+    "Content": "Allies within 10m gain a <style=\"emph-gn\">Shield</style> equal to <style=\"accent-gn\">20%</style> of their <style=\"emph-gn\">Max HP</style> every <style=\"accent-gn\">10s</style>",
+    "Id": 103101
+  },
+  "103201": {
+    "Content": "Increases <style=\"emph-gn\">Vulnerability</style> of enemies within 10m by <style=\"accent-gn\">10%</style>",
+    "Id": 103201
+  },
+  "103301": {
+    "Content": "Every <style=\"accent-gn\">5s</style>, <style=\"emph-gn\">stuns</style> enemies within 10m for <style=\"accent-gn\">1s</style>",
+    "Id": 103301
+  },
+  "103401": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Lightning Strike</style>, dealing <style=\"emph-gn\">DMG</style> equal to <style=\"accent-gn\">45%</style> of ATK (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 103401
+  },
+  "103501": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Blade Storm</style>, dealing <style=\"emph-gn\">DMG</style><style=\"accent-gn\"> equal to 45%</style> of ATK (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 103501
+  },
+  "103601": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Fireball Explosion</style>, dealing <style=\"emph-gn\">DMG</style><style=\"accent-gn\"> equal to 45%</style> of ATK (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 103601
+  },
+  "103701": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Lightning Chain</style>, dealing DMG equal to <style=\"accent-gn\">1%</style> <style=\"emph-gn\">Max HP</style> (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 103701
+  },
+  "103801": {
+    "Content": "<style=\"emph-gn\">Crit Rate</style><style=\"accent-gn\"> +30%</style>. For any permanent Crit Rate above <style=\"accent-gn\">50%</style>, every <style=\"accent-gn\">2%</style> is converted to <style=\"accent-gn\">1%</style><style=\"emph-gn\"> Crit DMG</style> (up to <style=\"accent-gn\">50%</style>)",
+    "Id": 103801
+  },
+  "103901": {
+    "Content": "Doubles <style=\"emph-gn\">Crit DMG</style>",
+    "Id": 103901
+  },
+  "104001": {
+    "Content": "When landing a Crit hit, deals additional AoE DMG equal to <style=\"accent-gn\">200%</style> ATK at the target location (CD: <style=\"accent-gn\">1s</style>). This AoE DMG is guaranteed to crit. For each \"Brutality\" entry owned, this damage's final DMG <style=\"accent-gn\">+50%</style>.",
+    "Id": 104001
+  },
+  "104101": {
+    "Content": "Crits reduce the cooldowns of all skills by <style=\"accent-gn\">0.5s</style> (triggers at most once every <style=\"accent-gn\">1s</style>)",
+    "Id": 104101
+  },
+  "104201": {
+    "Content": "Gains 1 stack of Reaper's Sigil with each Crit. Upon reaching <style=\"accent-gn\">20</style> stacks, increases <style=\"emph-gn\">Crit DMG</style> by <style=\"accent-gn\">30%</style> for <style=\"accent-gn\">5s</style>",
+    "Id": 104201
+  },
+  "104301": {
+    "Content": "Expertise Skill <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 104301
+  },
+  "104401": {
+    "Content": "Special Attack <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 104401
+  },
+  "104501": {
+    "Content": "Crits restore <style=\"accent-gn\">1%</style> of HP (CD: <style=\"accent-gn\">0.1s</style>)",
+    "Id": 104501
+  },
+  "104601": {
+    "Content": "When damage dealt is not a critical hit, <style=\"emph-gn\">Crit</style> is increased by <style=\"accent-gn\">50%</style> until the next critical hit",
+    "Id": 104601
+  },
+  "104701": {
+    "Content": "Within <style=\"accent-gn\">15s</style> after casting an Ultimate Skill, all damage is guaranteed to be a Crit",
+    "Id": 104701
+  },
+  "104801": {
+    "Content": "When receiving healing, <style=\"accent-gn\">+20%</style> <style=\"emph-gn\">Crit</style> for <style=\"accent-gn\">5s</style>",
+    "Id": 104801
+  },
+  "104901": {
+    "Content": "For every enemy defeated, <style=\"emph-gn\">Crit</style> increases by <style=\"accent-gn\">0.3%</style> (up to <style=\"accent-gn\">100</style> stacks)",
+    "Id": 104901
+  },
+  "105001": {
+    "Content": "Ultimate Skill <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 105001
+  },
+  "105101": {
+    "Content": "When landing a Crit hit, deals additional AoE DMG equal to <style=\"accent-gn\">200%</style> ATK at the target location (CD: <style=\"accent-gn\">1s</style>). This AoE DMG is guaranteed to be a Lucky Strike.",
+    "Id": 105101
+  },
+  "105201": {
+    "Content": "Crits increase <style=\"emph-gn\">Elemental Damage</style> by <style=\"accent-gn\">1%</style> for <style=\"accent-gn\">5s</style>, up to <style=\"accent-gn\">15</style> stacks",
+    "Id": 105201
+  },
+  "105301": {
+    "Content": "Crits increase <style=\"emph-gn\">Attack SPD</style> by <style=\"accent-gn\">1%</style> and <style=\"emph-gn\">Casting SPD</style> by <style=\"accent-gn\">2%</style>, up to <style=\"accent-gn\">15</style> stacks",
+    "Id": 105301
+  },
+  "105401": {
+    "Content": "The first Crit upon entering combat increases <style=\"emph-gn\">Crit DMG</style> by <style=\"accent-gn\">500%</style>",
+    "Id": 105401
+  },
+  "105501": {
+    "Content": "For every <style=\"accent-gn\">3</style> Crits, the next Crit's <style=\"emph-gn\">Crit DMG</style> increases by <style=\"accent-gn\">50%</style> and resets the counter",
+    "Id": 105501
+  },
+  "105601": {
+    "Content": "<style=\"emph-gn\">Crit DMG</style><style=\"accent-gn\"> +20%</style>",
+    "Id": 105601
+  },
+  "105701": {
+    "Content": "<style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 105701
+  },
+  "105801": {
+    "Content": "Special Attack Crits summon a Muku Chief Battle Imagine (CD: <style=\"accent-gn\">15s</style>)",
+    "Id": 105801
+  },
+  "105901": {
+    "Content": "Luck Effect: Deals AoE DMG equal to <style=\"accent-gn\">200%</style> ATK at the target location (CD: <style=\"accent-gn\">0.5</style>). For each \"Luck\" entry owned, this damage's final DMG increases by <style=\"accent-gn\">50%</style>.",
+    "Id": 105901
+  },
+  "106001": {
+    "Content": "Increases <style=\"emph-gn\">Luck effect DMG</style> by <style=\"accent-gn\">30%</style>. For each Luck entry, deals <style=\"accent-gn\">8%</style> bonus DMG",
+    "Id": 106001
+  },
+  "106101": {
+    "Content": "Upon entering combat, <style=\"emph-gn\">Luck</style> increases by <style=\"accent-gn\">5%</style> every <style=\"accent-gn\">1s</style>, up to <style=\"accent-gn\">20</style> stacks",
+    "Id": 106101
+  },
+  "106201": {
+    "Content": "Luck effect: Gain a <style=\"emph-gn\">Shield</style> equal to <style=\"accent-gn\">20%</style> of <style=\"emph-gn\">Max HP</style> for <style=\"accent-gn\">2s</style>",
+    "Id": 106201
+  },
+  "106301": {
+    "Content": "For every <style=\"accent-gn\">50</style> Lucky Strikes on the primary target, increases the <style=\"emph-gn\">cooldown recovery speed</style> of all skills by <style=\"accent-gn\">100%</style> for <style=\"accent-gn\">15s</style> (paused while active)",
+    "Id": 106301
+  },
+  "106401": {
+    "Content": "For the first <style=\"accent-gn\">30s</style> after entering combat, all damage dealt is guaranteed to trigger a Lucky Strike",
+    "Id": 106401
+  },
+  "106501": {
+    "Content": "When dealing damage or healing triggers a Lucky Strike, the next Lucky Strike's <style=\"emph-gn\">ATK</style> increases by <style=\"accent-gn\">+40%</style>",
+    "Id": 106501
+  },
+  "106601": {
+    "Content": "Lucky Strike always triggers <style=\"emph-gn\">Crit</style>",
+    "Id": 106601
+  },
+  "106701": {
+    "Content": "When dealing damage or healing triggers a Lucky Strike, <style=\"emph-gn\">Elemental Damage</style> increases by <style=\"accent-gn\">1%</style> for <style=\"accent-gn\">5s</style>, up to <style=\"accent-gn\">15</style> stacks",
+    "Id": 106701
+  },
+  "106801": {
+    "Content": "When dealing damage or healing triggers a Lucky Strike, <style=\"emph-gn\">Attack SPD</style> increases by <style=\"accent-gn\">1%</style> and <style=\"emph-gn\">Casting SPD</style> increases by <style=\"accent-gn\">2%</style>, up to <style=\"accent-gn\">15</style> stacks",
+    "Id": 106801
+  },
+  "106901": {
+    "Content": "For every enemy defeated, <style=\"emph-gn\">Luck</style><style=\"accent-gn\"> increases by 0.3%</style> (up to <style=\"accent-gn\">100</style> stacks)",
+    "Id": 106901
+  },
+  "107001": {
+    "Content": "Every <style=\"accent-gn\">15s</style>, <style=\"emph-gn\">Lucky Strike Damage</style> increases by <style=\"accent-gn\">40%</style> for <style=\"accent-gn\">8s</style>",
+    "Id": 107001
+  },
+  "107101": {
+    "Content": "<style=\"emph-gn\">Lucky Strike Damage</style> <style=\"accent-gn\">+20%</style>",
+    "Id": 107101
+  },
+  "107201": {
+    "Content": "<style=\"emph-gn\">Luck</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 107201
+  },
+  "107301": {
+    "Content": "When dealing damage triggers a Lucky Strike, summon a Wind Goblin King to aid you in battle (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 107301
+  },
+  "107401": {
+    "Content": "When an Ultimate Skill triggers a Lucky Strike, summon a Lizardman Hunter (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 107401
+  },
+  "107501": {
+    "Content": "Reduces Battle Imagine <style=\"emph-gn\">CD</style> by <style=\"accent-gn\">80%</style>",
+    "Id": 107501
+  },
+  "107601": {
+    "Content": "Battle Imagine's <style=\"emph-gn\">damage</style> increases by <style=\"accent-gn\">200%</style>",
+    "Id": 107601
+  },
+  "107701": {
+    "Content": "Damage dealt by Battle Imagine is guaranteed to crit and the <style=\"emph-gn\">Crit DMG</style> is increased by <style=\"accent-gn\">50%</style>.",
+    "Id": 107701
+  },
+  "107801": {
+    "Content": "Battle Imagine gains a <style=\"accent-gn\">100%</style> <style=\"emph-gn\">Elemental Damage</style> bonus",
+    "Id": 107801
+  },
+  "107901": {
+    "Content": "Battle Imagine <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+80%</style>",
+    "Id": 107901
+  },
+  "108001": {
+    "Content": "Every Battle Imagine permanently increases <style=\"emph-gn\">ATK</style> by <style=\"accent-gn\">0.5%</style> (up to <style=\"accent-gn\">60 stacks</style>)",
+    "Id": 108001
+  },
+  "108101": {
+    "Content": "Final damage dealt <style=\"accent-gn\">-40%</style>. Final damage dealt by Battle Imagine <style=\"accent-gn\">+40%</style>",
+    "Id": 108101
+  },
+  "108201": {
+    "Content": "Battle Imagine heals for <style=\"accent-gn\">5%</style> of damage dealt",
+    "Id": 108201
+  },
+  "108301": {
+    "Content": "Battle Imagine <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+20%</style>",
+    "Id": 108301
+  },
+  "108401": {
+    "Content": "Special Attacks randomly summon a <style=\"emph-gn\">Goblin Imagine</style> (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 108401
+  },
+  "108501": {
+    "Content": "Expertise Skills randomly summon an <style=\"emph-gn\">Animal Imagine</style> (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 108501
+  },
+  "108601": {
+    "Content": "Battle Imagine simultaneously summons a <style=\"emph-gn\">Goblin Crossbow Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 108601
+  },
+  "108701": {
+    "Content": "Ultimate Skills randomly summon a <style=\"emph-gn\">Highland Character Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 108701
+  },
+  "108801": {
+    "Content": "For each active Battle Imagine buff, <style=\"emph-gn\">damage</style> increases by <style=\"accent-gn\">4%</style> and <style=\"emph-gn\">damage taken</style> is reduced by <style=\"accent-gn\">2%</style>",
+    "Id": 108801
+  },
+  "108901": {
+    "Content": "Ultimate Skills simultaneously summon a <style=\"emph-gn\">Muku Warrior Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 108901
+  },
+  "109001": {
+    "Content": "When HP falls below <style=\"accent-gn\">50%</style>, summons a <style=\"emph-gn\">Muku King Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 109001
+  },
+  "109101": {
+    "Content": "Automatically summons a <style=\"emph-gn\">Tina Imagine</style> every <style=\"accent-gn\">60s</style>",
+    "Id": 109101
+  },
+  "109201": {
+    "Content": "Upon entering combat, immediately summons a <style=\"emph-gn\">Tempest Ogre Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 109201
+  },
+  "109301": {
+    "Content": "When dealing damage or healing triggers a Lucky Strike, randomly summons a <style=\"emph-gn\">Luck Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 109301
+  },
+  "109401": {
+    "Content": "Battle Imagine <style=\"emph-gn\">Luck</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 109401
+  },
+  "109501": {
+    "Content": "When your Class Skills deal damage, restores <style=\"accent-gn\">1%</style> HP to yourself and nearby allies and grants a <style=\"accent-gn\">15%</style> <style=\"emph-gn\">ATK</style> bonus for <style=\"accent-gn\">3s</style> (CD: <style=\"accent-gn\">0.3s</style>).",
+    "Id": 109501
+  },
+  "109601": {
+    "Content": "When Elemental Damage changes, nearby allies gain <style=\"accent-gn\">20%</style> <style=\"emph-gn\">Elemental Damage</style> for <style=\"accent-gn\">10s</style>",
+    "Id": 109601
+  },
+  "109701": {
+    "Content": "When <style=\"emph-gn\">Crit/Luck/Haste/Mastery/Versatility</style> changes, nearby allies gain a <style=\"accent-gn\">10%</style> increase of the corresponding stat for <style=\"accent-gn\">10s</style>",
+    "Id": 109701
+  },
+  "109801": {
+    "Content": "For each ally within 15m, <style=\"emph-gn\">damage</style> increases by <style=\"accent-gn\">8%</style> and <style=\"emph-gn\">damage taken</style> is reduced by <style=\"accent-gn\">4%</style>",
+    "Id": 109801
+  },
+  "109901": {
+    "Content": "Healing grants the target <style=\"accent-gn\">10%</style> <style=\"emph-gn\">PHY Boost</style> and <style=\"emph-gn\">MAG Boost</style> for <style=\"accent-gn\">3s</style>",
+    "Id": 109901
+  },
+  "110001": {
+    "Content": "Ultimate Skills grant a Resource Aura for <style=\"accent-gn\">15s</style>, which increases the <style=\"emph-gn\">Combat Resource Acquisition Efficiency</style> of nearby allies by <style=\"accent-gn\">+100%</style> (Only one effect can be active at a time)",
+    "Id": 110001
+  },
+  "110101": {
+    "Content": "Healing grants the target <style=\"accent-gn\">10%</style><style=\"emph-gn\">DMG Reduction</style> for <style=\"accent-gn\">3s</style>",
+    "Id": 110101
+  },
+  "110201": {
+    "Content": "Reduces damage dealt by enemies within 10m by <style=\"accent-gn\">10%</style>",
+    "Id": 110201
+  },
+  "110301": {
+    "Content": "Healing grants a <style=\"emph-gn\">Shield</style> equal to <style=\"accent-gn\">20%</style> of <style=\"emph-gn\">Max HP</style> for <style=\"accent-gn\">10s</style>. Each target can only receive this shield once every <style=\"accent-gn\">10s</style>",
+    "Id": 110301
+  },
+  "110401": {
+    "Content": "<style=\"emph-gn\">Increases healing by</style><style=\"accent-gn\"> 15%</style>.",
+    "Id": 110401
+  },
+  "110501": {
+    "Content": "<style=\"emph-gn\">Enhances Shield effectiveness by</style> <style=\"accent-gn\">15%</style>.",
+    "Id": 110501
+  },
+  "110601": {
+    "Content": "Converts <style=\"accent-gn\">10%</style> of <style=\"emph-gn\">Healing</style> into <style=\"accent-gn\">5%</style> <style=\"emph-gn\">All-Element Bonus</style>.",
+    "Id": 110601
+  },
+  "110701": {
+    "Content": "After an Ultimate Skill is cast, a Healing Aura that lasts for <style=\"accent-gn\">10s</style> is created. Every second, it will heal allies within 15m by <style=\"accent-gn\">100%</style> of ATK. (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 110701
+  },
+  "110801": {
+    "Content": "When casting an Expertise Skill, you gain a Lucky Aura for <style=\"accent-gn\">10s</style>, applying the <style=\"emph-gn\">Lizardman Hunter Imagine</style> passive effect to allies within 15 meters (CD: <style=\"accent-gn\">30s</style>; this effect does not stack).",
+    "Id": 110801
+  },
+  "110901": {
+    "Content": "After a Special Attack is used, a Crit Aura that lasts for <style=\"accent-gn\">5s</style> is created, increasing the <style=\"emph-gn\">Crit DMG</style> of allies within 15m by <style=\"accent-gn\">+3%</style>.",
+    "Id": 110901
+  },
+  "111001": {
+    "Content": "Healing with Class Skills causes damage to be built up. When this stored damage reaches <style=\"accent-gn\">10000%</style> of ATK, the next damage-dealing attack will also trigger an AoE blast that inflicts damage equal to the stored amount. (triggers at most once every <style=\"accent-gn\">1s</style>)",
+    "Id": 111001
+  },
+  "111101": {
+    "Content": "Every second, damage is dealt to a random target nearby. The damage dealt is equal to the <style=\"emph-gn\">amount of Healing</style> done by Class Skills during this period.",
+    "Id": 111101
+  },
+  "111201": {
+    "Content": "When healing is applied, summons a <style=\"emph-gn\">Basilisk Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 111201
+  },
+  "111301": {
+    "Content": "When healing is applied, summons a <style=\"emph-gn\">Brigand Chief Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 111301
+  },
+  "111401": {
+    "Content": "When healing is applied, summons a <style=\"emph-gn\">Beehive Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 111401
+  },
+  "111501": {
+    "Content": "Dealing damage with Iaido Slash is guaranteed to trigger Bladewind Domain. Bladewind Domain's CD reduction for Oblivion Combo is increased by 300%. Only one Bladewind Domain can be active at a time (Requires the Bladewind Domain Talent).<br><br>Available only in [Nightmare].",
+    "Id": 111501
+  },
+  "111601": {
+    "Content": "Doubles the Thunder Sigil limit. Overdrive​'s Thunder Sigil recovery efficiency is increased by 300%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 111601
+  },
+  "111701": {
+    "Content": "​Iaido Slash​'s CD is reduced by 50%, and Iaido Slash's Illusion-Breaking DMG is increased by 50%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 111701
+  },
+  "111801": {
+    "Content": "Doubles Ultimate Slash's Crit DMG.<br><br>Available only in [Nightmare].",
+    "Id": 111801
+  },
+  "111901": {
+    "Content": "Casting Dracoflash or Phantom Slash extends Volt Surge's duration by 10s. Dracoflash and Phantom Slash's Illusion-Breaking DMG is increased by 500%.<br><br>Available only in [Nightmare].",
+    "Id": 111901
+  },
+  "112001": {
+    "Content": "During Volt Surge, Crits from Flash Strike and Raijin Dash will reset their CDs. Flash Strike and Raijin Dash's Illusion-Breaking DMG is increased by 50%.<br><br>Available only in [Nightmare].",
+    "Id": 112001
+  },
+  "112101": {
+    "Content": "Thunder Cut's Movement Speed is reduced by 50%, and Thunder Cut's Illusion-Breaking DMG is increased by 60%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 112101
+  },
+  "112201": {
+    "Content": "Doubles the efficiency of gaining Thundrage.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 112201
+  },
+  "112301": {
+    "Content": "Moonstrike no longer consumes Thunder Sigils, and casting Moonstrike will trigger Storm Scythe (requires the Storm Scythe Talent).<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 112301
+  },
+  "112401": {
+    "Content": "Increases Divine Sickle's max stacks by 7. Casting Divine Sickle consumes all stacks, increasing Illusion-Breaking DMG by 15% per stack.<br><br>Available only in [Nightmare].",
+    "Id": 112401
+  },
+  "112501": {
+    "Content": "When casting Divine Sickle, Moonblades will also simultaneously summon Divine Sickle.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 112501
+  },
+  "112601": {
+    "Content": "Increases the max number of Moonblades by 2.<br><br>Available only in [Nightmare].",
+    "Id": 112601
+  },
+  "112701": {
+    "Content": "For every 5 times Thunderstrike is triggered, the next Thunderstrike will also trigger a Thunderstorm.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 112701
+  },
+  "112801": {
+    "Content": "Divine Sickle is cast automatically. Each cast reduces the CD of Stormflash by 2s.<br><br>Available only in [Nightmare].",
+    "Id": 112801
+  },
+  "112901": {
+    "Content": "Thunderstrike and Storm Scythe can now trigger a Lucky Strike.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 112901
+  },
+  "113001": {
+    "Content": "Lucky Strike Multiplier is increased by 100%. Luck Boost is doubled.<br><br>Available only in [Nightmare].",
+    "Id": 113001
+  },
+  "113101": {
+    "Content": "When Frostbeam hits a target, Cold Pulse counter is increased by 5, and Cold Pulse Crit DMG is increased by 50%. (Triggers only once per cast, even on multiple hits.)<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 113101
+  },
+  "113201": {
+    "Content": "Each time Cold Pulse is triggered, the CD of Permafrost is reduced by 1s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 113201
+  },
+  "113301": {
+    "Content": "When Cold Pulse deals damage, it permanently increases Ice Attack by 2 points. (Triggers only once per cast, even on multiple hits.)<br><br>Available only in [Nightmare].",
+    "Id": 113301
+  },
+  "113401": {
+    "Content": "When Cold Pulse deals damage, it increases Ice Arrow damage by 5% for 5s. This effect stacks up to 50 times. (Triggers only once per cast, even on multiple hits.)<br><br>Available only in [Nightmare].",
+    "Id": 113401
+  },
+  "113501": {
+    "Content": "While in the Ultra Cold state, Frozen Gale gains the Permafrost effect, and its Illusion-Breaking DMG is increased by 200%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 113501
+  },
+  "113601": {
+    "Content": "For every 10 times Frostbeam deals damage to the main target, it randomly triggers Water Vortex, Tidal Vortex, or Crystal Veil (if equipped). Frostbeam's Illusion-Breaking DMG is increased by 100%.<br><br>Available only in [Nightmare].",
+    "Id": 113601
+  },
+  "113701": {
+    "Content": "When Crystal Veil's frozen explosion occurs, it creates a Tidal Vortex at its location that lasts for 5s (this Tidal Vortex will not split again). When this triggers a Freeze effect, the CD of Crystal Veil is reduced by 3s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 113701
+  },
+  "113801": {
+    "Content": "After its frozen explosion, Tidal Vortex splits into two new Tidal Vortexes (they will not split again). Tidal Vortex's Illusion-Breaking DMG is increased by 200%.<br><br>Available only in [Nightmare].",
+    "Id": 113801
+  },
+  "113901": {
+    "Content": "Every 1.5s, Crystal Veil fires a Piercing Ice Lance at a random target (or forward if there is no target). When Piercing Ice Lance deals damage, the CD of Crystal Veil is reduced by 0.3s.<br><br>Available only in [Nightmare].",
+    "Id": 113901
+  },
+  "114001": {
+    "Content": "Reduces the count required for Piercing Ice Lance by 5.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 114001
+  },
+  "114101": {
+    "Content": "When casting Frost Lance with more than 2 Frost Crystals, it will consume 1 additional Frost Crystal to trigger Frost Lance twice consecutively. Frost Lance's Illusion-Breaking DMG is increased by 50%.<br><br>Available only in [Nightmare].",
+    "Id": 114101
+  },
+  "114201": {
+    "Content": "When Piercing Ice Lance deals damage, the CD of Permafrost is reduced by 0.3s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 114201
+  },
+  "114301": {
+    "Content": "Casting Crystal Veil also casts Blizzard. When Blizzard deals damage, the CD of Crystal Veil is reduced by 0.3s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 114301
+  },
+  "114401": {
+    "Content": "Blizzard becomes an instant cast, and it summons three at once. Blizzard's Illusion-Breaking DMG is increased by 200%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 114401
+  },
+  "114501": {
+    "Content": "Every 5 casts of Meteor Storm summons a meteor from the Ultimate, which instantly puts Blizzard on CD and reduces Permafrost's CD by 5s. The Ultimate's Illusion-Breaking DMG is increased by 200%.<br><br>Available only in [Nightmare].",
+    "Id": 114501
+  },
+  "114601": {
+    "Content": "Permanently enter the Endless Cold state, which grants double damage. Each stack of Frost Crystal additionally increases Attack Speed by 10%.<br><br>Available only in [Nightmare].",
+    "Id": 114601
+  },
+  "114701": {
+    "Content": "The Ultimate also triggers Stampede of Beasts, consuming all Photon Energy to summon Wild Wolves. 1 Wild Wolf is summoned for every 20 Photon Energy consumed. This lasts for 8s.<br><br>Available only in [Nightmare].",
+    "Id": 114701
+  },
+  "114801": {
+    "Content": "Legendary Beasts now appear simultaneously, and their effects are increased by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 114801
+  },
+  "114901": {
+    "Content": "Each Wild Wolf summoned reduces the CD of Focus by 5s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 114901
+  },
+  "115001": {
+    "Content": "Companions gain +50% PHY Boost.<br><br>Available only in [Nightmare].",
+    "Id": 115001
+  },
+  "115101": {
+    "Content": "Increases the attack multiplier of Arrow Rain by 10x. If more than 3 companions are on the field, each additional companion increases Final Damage by 100%.<br><br>Available only in [Nightmare].",
+    "Id": 115101
+  },
+  "115201": {
+    "Content": "Torrent Volley is guaranteed to be a Crit. Every 1% of Crit Rate increases its Crit DMG by 10%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 115201
+  },
+  "115301": {
+    "Content": "Phantom Direwolves are now considered Beasts.<br><br>Available only in [Nightmare].",
+    "Id": 115301
+  },
+  "115401": {
+    "Content": "Storm Arrow is guaranteed to be a Crit. The Beast Mastery Talent's effect is changed to increasing Storm Arrow's Crit DMG by 300%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 115401
+  },
+  "115501": {
+    "Content": "When the Falcon deals damage, 1 Photon Energy is restored, and Companion's DMG is increased by 50%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 115501
+  },
+  "115601": {
+    "Content": "Explosive Arrow cannot be cast again before it detonates. The stack limit for Explosive Arrow is removed, and the stack generation efficiency from Falcon Strike is doubled.<br><br>Available only in [Nightmare].",
+    "Id": 115601
+  },
+  "115701": {
+    "Content": "Each time Falcon Strike deals damage, the duration of Focus is extended by 0.3s. While Focus is active, Companion's Crit DMG is increased by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 115701
+  },
+  "115801": {
+    "Content": "Wildcall now summons two Falcons.<br><br>Available only in [Nightmare].",
+    "Id": 115801
+  },
+  "115901": {
+    "Content": "Powerdraw now fires projectiles in three forward directions. The closer the target, the higher the damage (from a minimum of +10% to a maximum of +100%).<br><br>Available only in [Nightmare].",
+    "Id": 115901
+  },
+  "116001": {
+    "Content": "Powerdraw Elemental Damage +100%. Deals +500% Illusion-Breaking DMG to targets with over 80% HP.<br><br>Available only in [Nightmare].",
+    "Id": 116001
+  },
+  "116101": {
+    "Content": "After casting Focus, the next Powerdraw becomes a double shot. Each cast of Powerdraw also reduces the CD of Focus by 3s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 116101
+  },
+  "116201": {
+    "Content": "Every Crit reduces the CD of Radiance Barrage by 0.2s. Radiance Barrage's Crit DMG is increased by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 116201
+  },
+  "116301": {
+    "Content": "Regen Pulse applies Thorn to the target. Thorn and Wild Seed can now trigger Lucky Strike.<br><br>Available only in [Nightmare].",
+    "Id": 116301
+  },
+  "116401": {
+    "Content": "Feral Seed's CD is reduced by 90%, and its Casting Speed is increased by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 116401
+  },
+  "116501": {
+    "Content": "Regen Pulse is guaranteed to be a Crit, and its Crit DMG is increased by 2,000%.<br><br>Available only in [Nightmare].",
+    "Id": 116501
+  },
+  "116601": {
+    "Content": "Automatically triggers when Stag Charge is gained. Increases Special Attack's Illusion-Breaking DMG by 400%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 116601
+  },
+  "116701": {
+    "Content": "Infusion fires additional bullets at 5 surrounding targets. Infusion's Illusion-Breaking DMG is increased by 100%.<br><br>Available only in [Nightmare].",
+    "Id": 116701
+  },
+  "116801": {
+    "Content": "The automatically triggered Stag Charge can now trigger Talent effects. Each time Stag Charge is triggered, Expertise Skill Damage and Luck Damage are increased by 10% for a period of time. This effect can stack up to 10 times.<br><br>Available only in [Nightmare].",
+    "Id": 116801
+  },
+  "116901": {
+    "Content": "For every 10 times Infusion hits a target, Blossom Charge is triggered.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 116901
+  },
+  "117001": {
+    "Content": "When Infusion hits a target, Lucky Strike's Illusion-Breaking DMG is increased by 1%. This effect stacks up to 50 times and lasts for 5s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 117001
+  },
+  "117101": {
+    "Content": "The damage area of the Blossom Charge summoned by Nourishing Seed is doubled, and its Illusion-Breaking DMG is increased by 1,000%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 117101
+  },
+  "117201": {
+    "Content": "Continuously gain Regen Bud while Grove Wish is active, and it grants a 100% CD Boost for Grove Wish.<br><br>Available only in [Nightmare].",
+    "Id": 117201
+  },
+  "117301": {
+    "Content": "Gain the Fast Growth buff when casting the Ultimate Skill (requires Fast Growth). Each time Blossom Charge is triggered, the CD of the Ultimate Skill is reduced by 1s.<br><br>Available only in [Nightmare].",
+    "Id": 117301
+  },
+  "117401": {
+    "Content": "Doubles the number of Nourishing Seeds thrown.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 117401
+  },
+  "117501": {
+    "Content": "Reduces the cost of Special Attack by 90%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 117501
+  },
+  "117601": {
+    "Content": "Permanently gain Vital Surge with its effect doubled.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 117601
+  },
+  "117701": {
+    "Content": "Grants a 50% MAG Boost and 30% Haste to all class skills, but prevents using Ultimate Skills.<br><br>Available only in [Nightmare].",
+    "Id": 117701
+  },
+  "117801": {
+    "Content": "When Nourish's DoT reaches 3 stacks, the target is afflicted with Life Drain: For 5s, deals (MATK × 20 × Mastery%) damage per second. Each time damage is dealt, the CDs of all Expertise Skills are reduced by 1s.<br><br>Available only in [Nightmare].",
+    "Id": 117801
+  },
+  "117901": {
+    "Content": "Cyclone Illusion-Breaking DMG +50%, and Great Wind Cyclone Illusion-Breaking DMG +100%.<br><br>Available only in [Nightmare].",
+    "Id": 117901
+  },
+  "118001": {
+    "Content": "Triggering Drake Cannon also triggers Great Wind Cyclone.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 118001
+  },
+  "118101": {
+    "Content": "Great Wind Cyclone becomes a two-hit combo. When it deals damage, your Wind Attack is permanently increased by 2 points.<br><br>Available only in [Nightmare].",
+    "Id": 118101
+  },
+  "118201": {
+    "Content": "Reduces the CD of Galeform by 80% and doubles its effect.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 118201
+  },
+  "118301": {
+    "Content": "When Vortex Strike is cast as a derivative from Breach Pursuit, its Crit DMG is increased by 50% (requires the Vortex Strike Talent).<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 118301
+  },
+  "118401": {
+    "Content": "Casting Vortex Strike consumes all Courage. For each point of Courage consumed, its Illusion-Breaking DMG is increased by 3%.<br><br>Available only in [Nightmare].",
+    "Id": 118401
+  },
+  "118501": {
+    "Content": "Each cast of Vortex Strike reduces the Ultimate Skill's CD. The amount of Courage restored by Breach Pursuit is increased by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 118501
+  },
+  "118601": {
+    "Content": "Casting Vortex Strike permanently increases your Wind Attack by 2 points.<br><br>Available only in [Nightmare].",
+    "Id": 118601
+  },
+  "118701": {
+    "Content": "When Azure Sever deals damage, it triggers an additional Tornado. This Tornado's Illusion-Breaking DMG is increased by 100%.<br><br>Available only in [Nightmare].",
+    "Id": 118701
+  },
+  "118801": {
+    "Content": "For every 7 times a Tornado is triggered, an Enhanced Tornado is summoned, dealing damage equal to 2,000% of your ATK.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 118801
+  },
+  "118901": {
+    "Content": "Reduces the Sharp cost of Instant Edge to 1 and increases its Illusion-Breaking DMG by 50%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 118901
+  },
+  "119001": {
+    "Content": "Increases Attack Speed by 100% during Wind Fury.<br><br>Available only in [Nightmare].",
+    "Id": 119001
+  },
+  "119101": {
+    "Content": "Skyfall can now charge Sharp Impact, increasing its Illusion-Breaking DMG by 200%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 119101
+  },
+  "119201": {
+    "Content": "Doubles the max amount of Sharp. For 10s after casting Sharp Impact, gain 1 Sharp every 0.5s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 119201
+  },
+  "119301": {
+    "Content": "Instant Edge now consumes all Sharp, with each point consumed increasing its Illusion-Breaking DMG by an additional 10%.<br><br>Available only in [Nightmare].",
+    "Id": 119301
+  },
+  "119401": {
+    "Content": "Wind Fury can now stack up to 3 times, with its buffs increasing proportionally.<br><br>Available only in [Nightmare].",
+    "Id": 119401
+  },
+  "119501": {
+    "Content": "After every 10 Shield Tosses, Shield Toss will be enhanced. Tap to make the shields spin around the caster.<br><br>Available only in [Nightmare].",
+    "Id": 119501
+  },
+  "119601": {
+    "Content": "Increases the Illusion-Breaking DMG of Judgment and Divine Strike by 50%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 119601
+  },
+  "119701": {
+    "Content": "After casting Scorching Judgment, Illusion-Breaking DMG dealt is increased by 50% for its duration.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 119701
+  },
+  "119801": {
+    "Content": "Casting Shield Toss increases ATK by 2% for 2s. This effect stacks up to 50 times.<br><br>Available only in [Nightmare].",
+    "Id": 119801
+  },
+  "119901": {
+    "Content": "Increases the Crit DMG of Inferno Reckon by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 119901
+  },
+  "120001": {
+    "Content": "During Aegis Ward, Inferno Reckon is triggered every 0.5s, and its Attack Speed is increased by 100%.<br><br>Available only in [Nightmare].",
+    "Id": 120001
+  },
+  "120101": {
+    "Content": "Inferno Reckon can now trigger Divine Strike. The CD reduction effect of Aegis Ward's Retribution on Aegis Ward is doubled.<br><br>Available only in [Nightmare].",
+    "Id": 120101
+  },
+  "120201": {
+    "Content": "Special Attacks can now trigger Divine Strike. Divine Strike's Illusion-Breaking DMG is increased by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 120201
+  },
+  "120301": {
+    "Content": "Reduces the CD of Radiance by 50%. During its effect, the Illusion-Breaking DMG dealt is increased by 20%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 120301
+  },
+  "120401": {
+    "Content": "Sacred Blade deals additional fixed damage equal to 50% of Max HP. It also increases Max HP by 50%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 120401
+  },
+  "120501": {
+    "Content": "Reduces the cost of Sacred Blade by 1. When Sacred Blade hits a target with a Holy Mark, Max HP is permanently increased by 200 points.<br><br>Available only in [Nightmare].",
+    "Id": 120501
+  },
+  "120601": {
+    "Content": "Doubles the additional effects of Lightforged Barrier.<br><br>Available only in [Nightmare].",
+    "Id": 120601
+  },
+  "120701": {
+    "Content": "Vanguard Hunt and Divine Arc Slash deal additional fixed damage equal to 50% of Max HP.<br><br>Available only in [Nightmare].",
+    "Id": 120701
+  },
+  "120801": {
+    "Content": "Doubles the additional effects of Lightforged Barrier.<br><br>Available only in [Nightmare].",
+    "Id": 120801
+  },
+  "120901": {
+    "Content": "Reduces the CD of Zeal Crusade by 50%. During its effect, the Illusion-Breaking DMG dealt is increased by 20%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 120901
+  },
+  "121001": {
+    "Content": "Judgment now consumes all Photon Energy. Vanguard Hunt's Crits now grant a Holy Sigil. Judgment's Illusion-Breaking DMG is increased by 50%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 121001
+  },
+  "121101": {
+    "Content": "Skills that consume Sand Crystals now restore them instead, and their Illusion-Breaking DMG is increased by 200%.<br><br>Available only in [Nightmare].",
+    "Id": 121101
+  },
+  "121201": {
+    "Content": "Terra Sunder will consume all Sand Crystals. For each crystal consumed, its Illusion-Breaking DMG is increased by 50%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 121201
+  },
+  "121301": {
+    "Content": "After standing still for 2s, Rock Bonus is increased by 40%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 121301
+  },
+  "121401": {
+    "Content": "While Stoneform is active, energy is continuously obtained. All hits are guaranteed to Crit, and Crit DMG is increased by 200%.<br><br>Available only in [Nightmare].",
+    "Id": 121401
+  },
+  "121501": {
+    "Content": "Each time Shield Echo is triggered, Star Shatter deals bonus damage equal to 100% of the current Shield value (this bonus is affected by Star Shatter's damage increase).<br><br>Available only in [Nightmare].",
+    "Id": 121501
+  },
+  "121601": {
+    "Content": "Shield Echo has a 30% chance of triggering Weakness Strike. When triggered, Weakness Strike deals bonus damage equal to 100% of the current Shield value (this bonus is affected by Weakness Strike's damage increase).<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 121601
+  },
+  "121701": {
+    "Content": "When Weakness Strike is triggered, the CD of Sandshroud is reduced by 1s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 121701
+  },
+  "121801": {
+    "Content": "Max Shield value can now be increased to 1,000%. Participating in a kill increases Shield Strength by 5%.<br><br>Available only in [Nightmare].",
+    "Id": 121801
+  },
+  "121901": {
+    "Content": "Casting Granite Fury guarantees Rageblow, and Rageblow's Illusion-Breaking DMG is increased by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 121901
+  },
+  "122001": {
+    "Content": "For every 20 times Stone Fist is triggered, a giant rock is summoned to fall on the target, dealing damage equal to 3% of the target's current HP.<br><br>Available only in [Nightmare].",
+    "Id": 122001
+  },
+  "122101": {
+    "Content": "While in Countercrush, the Rock Bonus is increased by 25%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 122101
+  },
+  "122201": {
+    "Content": "Each time Granite is triggered, Rock Attack is permanently increased by 2 points.<br><br>Available only in [Nightmare].",
+    "Id": 122201
+  },
+  "122301": {
+    "Content": "Granite Fury's cost is reduced by 1, and Granite Fury will extend the duration of Countercrush. Granite Fury's Illusion-Breaking DMG is increased by 100%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 122301
+  },
+  "122401": {
+    "Content": "Countercrush deals bonus damage equal to 0.1% of the target's current HP.<br><br>Available only in [Nightmare].",
+    "Id": 122401
+  },
+  "122501": {
+    "Content": "While in Countercrush, Countercrush's Rock Bonus is increased by 50%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 122501
+  },
+  "122601": {
+    "Content": "Each time Countercrush is triggered, Rock Attack is permanently increased by 2 points.<br><br>Available only in [Nightmare].",
+    "Id": 122601
+  },
+  "122701": {
+    "Content": "For 10s after casting Center Stage, Harmonic Anthem will be at maximum stacks, and its Illusion-Breaking DMG is increased by 300%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 122701
+  },
+  "122801": {
+    "Content": "Triggering a Lucky Strike reduces the CDs of Harmonic Anthem and Center Stage by 0.5s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 122801
+  },
+  "122901": {
+    "Content": "Casting Rhapsody of Flame permanently increases Fire Attack by 2 points each time.<br><br>Available only in [Nightmare].",
+    "Id": 122901
+  },
+  "123001": {
+    "Content": "Attack Speed is increased by 60% while in Rhapsody of Flame.<br><br>Available only in [Nightmare].",
+    "Id": 123001
+  },
+  "123101": {
+    "Content": "Illusion-Breaking DMG is increased by 50%. When Heroic Melody is active, Rhapsody of Flame will be active.<br><br>Available only in [Nightmare].",
+    "Id": 123101
+  },
+  "123201": {
+    "Content": "Lucky Strike's DMG Multiplier is increased by 40%. Special Attacks can now trigger Encore.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 123201
+  },
+  "123301": {
+    "Content": "For 10s after casting an Ultimate, all Performance Passion will be recovered every second.<br><br>Available only in [Nightmare].",
+    "Id": 123301
+  },
+  "123401": {
+    "Content": "Triggering a Lucky Strike reduces the Ultimate Skill's CD by 0.5s.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 123401
+  },
+  "123501": {
+    "Content": "Passion Burst is permanently replaced with Passion Fury. This requires the Passion Fury Talent to be activated. Illusion-Breaking DMG is also increased by 300%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 123501
+  },
+  "123601": {
+    "Content": "Passion Fury fires 2 additional projectiles. Elemental Bonus is also increased by 500%.<br><br>Available only in [Nightmare].",
+    "Id": 123601
+  },
+  "123701": {
+    "Content": "Casting Encore summons a sound system in front of the caster that lasts for 15s.<br><br>Available only in [Nightmare].",
+    "Id": 123701
+  },
+  "123801": {
+    "Content": "When Passion Fury deals Crit DMG, it triggers Encore Strings on a random target (up to once every 0.5s).<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 123801
+  },
+  "123901": {
+    "Content": "Special Attack's cost is changed to 1, and Special Attack's healing is increased by 500%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 123901
+  },
+  "124001": {
+    "Content": "For 10s after casting Concert Circuit, an explosion occurs around the caster every second, dealing damage equal to 2,000% of ATK.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 124001
+  },
+  "124101": {
+    "Content": "Fivefold Crescendo no longer consumes Performance Passion. Casting a Special Attack reduces the CDs of Fivefold Crescendo and the modified Ultimate by 1s.<br><br>Available only in [Nightmare].",
+    "Id": 124101
+  },
+  "124201": {
+    "Content": "Permanently increases Intellect by 1 point each time Healing Melody deals damage.<br><br>Available only in [Nightmare].",
+    "Id": 124201
+  },
+  "124301": {
+    "Content": "While in combat, deals AoE damage in a straight line directly in front every <style=\"accent-gn\">3s</style>, and unlocks <style=\"emph-gn\">[Pulse]</style> entry drops.",
+    "Id": 124301
+  },
+  "124401": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> deals additional DMG to enemies within a 5-meter radius.",
+    "Id": 124401
+  },
+  "124501": {
+    "Content": "When <style=\"emph-gn\">Pulse Beam</style> deals damage, it grants a <style=\"accent-gn\">4%</style> damage bonus that stacks up to <style=\"accent-gn\">10</style> times and is removed upon leaving combat.",
+    "Id": 124501
+  },
+  "124601": {
+    "Content": "Changes <style=\"emph-gn\">Pulse Beam</style>'s area of effect to a cross shape.",
+    "Id": 124601
+  },
+  "124701": {
+    "Content": "Reduces the interval time for <style=\"emph-gn\">Pulse Beam</style> by <style=\"accent-gn\">1s</style>.",
+    "Id": 124701
+  },
+  "124801": {
+    "Content": "For each enemy hit by <style=\"emph-gn\">Pulse Beam</style>, the next trigger time is reduced by <style=\"accent-gn\">0.2s</style> (up to a maximum reduction of <style=\"accent-gn\">1s</style>).",
+    "Id": 124801
+  },
+  "124901": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> also heals friendly units within range.",
+    "Id": 124901
+  },
+  "125001": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> increases friendly units' Crit by <style=\"accent-gn\">10%</style> and Luck by <style=\"accent-gn\">10%</style>.",
+    "Id": 125001
+  },
+  "125101": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> can trigger Lucky Strike.",
+    "Id": 125101
+  },
+  "125201": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> deals bonus damage equal to <style=\"accent-gn\">20%</style> of Max HP.",
+    "Id": 125201
+  },
+  "125301": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> deals bonus damage equal to <style=\"accent-gn\">400%</style> of Armor.",
+    "Id": 125301
+  },
+  "125401": {
+    "Content": "When <style=\"emph-gn\">Pulse Beam</style> deals damage, it heals the caster for <style=\"accent-gn\">10%</style> of the damage dealt.",
+    "Id": 125401
+  },
+  "125501": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> Crit DMG <style=\"accent-gn\">+40%</style>.",
+    "Id": 125501
+  },
+  "125601": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> Crit Rate <style=\"accent-gn\">+20%</style>.",
+    "Id": 125601
+  },
+  "125701": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> DMG <style=\"accent-gn\">+20%</style>.",
+    "Id": 125701
+  },
+  "125801": {
+    "Content": "Casting an <style=\"emph-gn\">Expertise Skill</style> triggers <style=\"emph-gn\">Pulse Beam</style> (CD: <style=\"accent-gn\">0.5s</style>).",
+    "Id": 125801
+  },
+  "125901": {
+    "Content": "For <style=\"accent-gn\">15s</style> after casting an <style=\"emph-gn\">Ultimate Skill</style>, the CD of <style=\"emph-gn\">Pulse Beam</style> is halved (CD: <style=\"accent-gn\">20s</style>).",
+    "Id": 125901
+  },
+  "126001": {
+    "Content": "When <style=\"emph-gn\">Pulse Beam</style> deals damage, it summons a <style=\"emph-gn\">Frost Ogre Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 126001
+  },
+  "126101": {
+    "Content": "<style=\"emph-gn\">Pulse Beam</style> Resilience Break Efficiency <style=\"accent-gn\">+500%</style>.",
+    "Id": 126101
+  },
+  "126201": {
+    "Content": "Every <style=\"accent-gn\">1%</style> of <style=\"emph-gn\">Mastery</style> additionally increases the <style=\"emph-gn\">Element DMG</style> of <style=\"emph-gn\">Pulse Beam</style> by <style=\"accent-gn\">2%</style>.",
+    "Id": 126201
+  },
+  "126301": {
+    "Content": "Every <style=\"accent-gn\">1%</style> of <style=\"emph-gn\">Mastery</style> increases PHY Boost and MAG Boost by <style=\"accent-gn\">0.4%</style>.",
+    "Id": 126301
+  },
+  "126401": {
+    "Content": "Defeating a monster increases Mastery by <style=\"accent-gn\">0.2%</style>. The effect is doubled when defeating an Elite or Boss.",
+    "Id": 126401
+  },
+  "126501": {
+    "Content": "Mastery <style=\"accent-gn\">+15%</style>.",
+    "Id": 126501
+  },
+  "126601": {
+    "Content": "Casting an <style=\"emph-gn\">Expertise Skill</style> summons an <style=\"emph-gn\">Arachnocrab King Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 126601
+  },
+  "126701": {
+    "Content": "Every <style=\"accent-gn\">1%</style> of <style=\"emph-gn\">Mastery</style> increases skill CD Boost by <style=\"accent-gn\">1%</style>.",
+    "Id": 126701
+  },
+  "126801": {
+    "Content": "When Mastery exceeds <style=\"accent-gn\">50%</style>, grants <style=\"accent-gn\">25%</style> Attack SPD and <style=\"accent-gn\">50%</style> Casting SPD.",
+    "Id": 126801
+  },
+  "126901": {
+    "Content": "Enters an Unlimited Firepower state for <style=\"accent-gn\">5s</style> every <style=\"accent-gn\">30s</style>. While in this state, combat resources are infinite, and Skill CD is reduced by <style=\"accent-gn\">80%</style>. Every <style=\"accent-gn\">1%</style> of Mastery reduces the interval by <style=\"accent-gn\">0.1s</style>.",
+    "Id": 126901
+  },
+  "127001": {
+    "Content": "Casting a <style=\"emph-gn\">Special Attack</style> summons a <style=\"emph-gn\">Blackfire Foxen Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 127001
+  },
+  "127101": {
+    "Content": "When Mastery reaches <style=\"accent-gn\">50%</style>, grants <style=\"accent-gn\">20%</style> Crit DMG and <style=\"accent-gn\">20%</style> Lucky Strike Multiplier.",
+    "Id": 127101
+  },
+  "127201": {
+    "Content": "When Mastery reaches <style=\"accent-gn\">50%</style>, grants an additional <style=\"accent-gn\">20%</style> Mastery.",
+    "Id": 127201
+  },
+  "127301": {
+    "Content": "When Mastery reaches <style=\"accent-gn\">100%</style>, all damage dealt is guaranteed to Crit.",
+    "Id": 127301
+  },
+  "127401": {
+    "Content": "Every <style=\"accent-gn\">1%</style> HP lost increases Mastery by <style=\"accent-gn\">0.2%</style>.",
+    "Id": 127401
+  },
+  "127501": {
+    "Content": "Taking damage restores <style=\"accent-gn\">3%</style> of Max HP. Every <style=\"accent-gn\">1%</style> of Mastery increases this healing amount by <style=\"accent-gn\">10%</style>.",
+    "Id": 127501
+  },
+  "127601": {
+    "Content": "Every <style=\"accent-gn\">1%</style> of Mastery reduces damage taken by <style=\"accent-gn\">0.3%</style>.",
+    "Id": 127601
+  },
+  "127701": {
+    "Content": "Every <style=\"accent-gn\">1%</style> of Mastery increases Lucky Strike Damage by <style=\"accent-gn\">0.5%</style>.",
+    "Id": 127701
+  },
+  "127801": {
+    "Content": "Mastery <style=\"accent-gn\">+8,000</style>.",
+    "Id": 127801
+  },
+  "127901": {
+    "Content": "Casting a skill deals 1 instance of AoE damage. Every <style=\"accent-gn\">1%</style> of Mastery increases this damage by <style=\"accent-gn\">10%</style>.",
+    "Id": 127901
+  },
+  "128001": {
+    "Content": "When dealing damage, deals bonus damage equal to the Mastery percentage.",
+    "Id": 128001
+  },
+  "128101": {
+    "Content": "When Mastery reaches <style=\"accent-gn\">50%</style>, summons a <style=\"emph-gn\">Predator Spider Imagine</style> every <style=\"accent-gn\">30s</style>.",
+    "Id": 128101
+  },
+  "128201": {
+    "Content": "Every <style=\"accent-gn\">1%</style> of <style=\"emph-gn\">Mastery</style> increases Healing Strength by <style=\"accent-gn\">1%</style>.",
+    "Id": 128201
+  },
+  "128301": {
+    "Content": "When dealing damage, deals bonus damage equal to <style=\"accent-gn\">10%</style> of HP.",
+    "Id": 128301
+  },
+  "128401": {
+    "Content": "Increases Max HP by <style=\"accent-gn\">100%</style>. Taking damage restores <style=\"accent-gn\">5%</style> of Max HP.",
+    "Id": 128401
+  },
+  "128501": {
+    "Content": "While moving, grants Super Armor and Invincibility.",
+    "Id": 128501
+  },
+  "128601": {
+    "Content": "Dealing damage restores <style=\"accent-gn\">5%</style> of Max HP.",
+    "Id": 128601
+  },
+  "128701": {
+    "Content": "Each skill cast guarantees a Crit but consumes <style=\"accent-gn\">1%</style> of HP.",
+    "Id": 128701
+  },
+  "128801": {
+    "Content": "Increases Max HP by <style=\"accent-gn\">1,000%</style> of Armor.",
+    "Id": 128801
+  },
+  "128901": {
+    "Content": "Every <style=\"accent-gn\">20</style> points of Max HP increases Haste and Mastery by <style=\"accent-gn\">1</style>.",
+    "Id": 128901
+  },
+  "129001": {
+    "Content": "Every <style=\"accent-gn\">20</style> points of Max HP increases Crit and Luck by <style=\"accent-gn\">1</style>.",
+    "Id": 129001
+  },
+  "129101": {
+    "Content": "Taking damage summons a <style=\"emph-gn\">Denvel Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 129101
+  },
+  "129201": {
+    "Content": "Damage dealt by non-class skills increases by <style=\"accent-gn\">10%</style>, with an additional <style=\"accent-gn\">10%</style> increase for every 20,000 Max HP.",
+    "Id": 129201
+  },
+  "129301": {
+    "Content": "Taking damage immediately triggers a counterattack against the attacker, dealing damage equal to <style=\"accent-gn\">100%</style> of Max HP.",
+    "Id": 129301
+  },
+  "129401": {
+    "Content": "Max HP <style=\"accent-gn\">+20%</style>.",
+    "Id": 129401
+  },
+  "129501": {
+    "Content": "Armor <style=\"accent-gn\">+20%</style>.",
+    "Id": 129501
+  },
+  "129601": {
+    "Content": "Versatility <style=\"accent-gn\">+10%</style>.",
+    "Id": 129601
+  },
+  "129701": {
+    "Content": "Lucky Strike deals bonus damage equal to <style=\"accent-gn\">10%</style> of Max HP.",
+    "Id": 129701
+  },
+  "129801": {
+    "Content": "Resilience Break Efficiency <style=\"accent-gn\">+30%</style>.",
+    "Id": 129801
+  },
+  "129901": {
+    "Content": "For every <style=\"accent-gn\">1%</style> HP lost, grants <style=\"accent-gn\">0.3%</style> ATK. Each Bloodwrath entry grants <style=\"accent-gn\">0.05%</style> ATK boost.",
+    "Id": 129901
+  },
+  "130001": {
+    "Content": "Every <style=\"accent-gn\">1%</style> of HP lost increases skill CD Boost by <style=\"accent-gn\">1%</style>.",
+    "Id": 130001
+  },
+  "130101": {
+    "Content": "When HP falls below <style=\"accent-gn\">50%</style>, grants a <style=\"accent-gn\">40%</style> Element DMG bonus.",
+    "Id": 130101
+  },
+  "130201": {
+    "Content": "When HP changes, grants <style=\"accent-gn\">5%</style> Crit, Haste, Luck, Mastery, and Versatility.",
+    "Id": 130201
+  },
+  "130301": {
+    "Content": "When HP changes, reduces the CD of all skills by <style=\"accent-gn\">1s</style>.",
+    "Id": 130301
+  },
+  "130401": {
+    "Content": "Prevents death for <style=\"accent-gn\">20s</style> after entering combat, and increases damage dealt by <style=\"accent-gn\">20%</style>.",
+    "Id": 130401
+  },
+  "130501": {
+    "Content": "When HP changes, deals AoE damage. Every <style=\"accent-gn\">1%</style> of HP lost increases the damage dealt by <style=\"accent-gn\">10%</style>.",
+    "Id": 130501
+  },
+  "130601": {
+    "Content": "When HP changes, automatically summons a <style=\"emph-gn\">Kartgriff Imagine</style> (CD: <style=\"accent-gn\">60s</style>).",
+    "Id": 130601
+  },
+  "130701": {
+    "Content": "For every <style=\"accent-gn\">1%</style> of HP lost, increases Attack SPD by <style=\"accent-gn\">0.3%</style> and Casting SPD by <style=\"accent-gn\">0.6%</style>.",
+    "Id": 130701
+  },
+  "130801": {
+    "Content": "When HP falls below <style=\"accent-gn\">50%</style>, summons a <style=\"emph-gn\">Ridge Fang Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 130801
+  },
+  "130901": {
+    "Content": "Reduces damage taken by <style=\"accent-gn\">20%</style>, and by an additional <style=\"accent-gn\">30%</style> when HP falls below <style=\"accent-gn\">50%</style>.",
+    "Id": 130901
+  },
+  "131001": {
+    "Content": "When HP falls below <style=\"accent-gn\">30%</style>, grants <style=\"accent-gn\">30%</style> Crit DMG.",
+    "Id": 131001
+  },
+  "131101": {
+    "Content": "Every <style=\"accent-gn\">1%</style> of HP lost increases Armor by <style=\"accent-gn\">1%</style>.",
+    "Id": 131101
+  },
+  "131201": {
+    "Content": "When HP falls below <style=\"accent-gn\">30%</style>, grants <style=\"accent-gn\">20%</style> Luck.",
+    "Id": 131201
+  },
+  "131301": {
+    "Content": "When HP falls below <style=\"accent-gn\">50%</style>, grants <style=\"accent-gn\">800</style> All-Element ATK.",
+    "Id": 131301
+  },
+  "131401": {
+    "Content": "Restores HP based on the damage dealt by Lucky Strike, and deals additional AoE damage.",
+    "Id": 131401
+  },
+  "131501": {
+    "Content": "Every 1% of Luck provides a 0.2% (Stage 1)/0.1% (Stage 2)/0.05% (Stage 3) chance to trigger Formless Flame Slash.<br><br>Available only in [Nightmare].",
+    "Id": 131501
+  },
+  "131601": {
+    "Content": "When Axe Wind deals damage, triggers Hellfire Meteor (at most once when hitting multiple targets).<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 131601
+  },
+  "131701": {
+    "Content": "Reduces the Stamina cost of Axe Wind and adds an engulfing pull effect.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 131701
+  },
+  "131801": {
+    "Content": "For 5s after casting Blazing Assault, increases Crit Chance by 100% and Crit DMG by 30%.<br><br>Available only in [Nightmare].",
+    "Id": 131801
+  },
+  "131901": {
+    "Content": "Burn can trigger Formless Flame Slash, but the trigger chance is halved.<br><br>Available only in [Nightmare].",
+    "Id": 131901
+  },
+  "132001": {
+    "Content": "When Axe Wind deals damage, increases Final DMG based on the number of Burn stacks on the target, with each stack granting 10%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 132001
+  },
+  "132101": {
+    "Content": "Each level of the Formless effect increases the highest among Crit, Haste, Luck, Mastery, and Versatility by 3%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 132101
+  },
+  "132201": {
+    "Content": "Increases the Final DMG of Formless Flame Slash by 40%, plus an additional 20% when hitting a target with Burn.<br><br>Available only in [Nightmare].",
+    "Id": 132201
+  },
+  "132301": {
+    "Content": "When Unbound Meteor or Falling Hellfire hits the primary target, grants an 8% Fire Bonus for 5s. Stacks up to 3 times.<br><br>Available only in [Nightmare].",
+    "Id": 132301
+  },
+  "132401": {
+    "Content": "Flowing Splendor Slash deals bonus damage equal to 0.1% of the target's current HP.<br><br>Available only in [Nightmare].",
+    "Id": 132401
+  },
+  "132501": {
+    "Content": "Expertise Skill Crit DMG +40%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 132501
+  },
+  "132601": {
+    "Content": "Increases Expertise Skill Illusion-Breaking DMG by 20%.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 132601
+  },
+  "132701": {
+    "Content": "During Endless Hellfire, doubles Crit DMG.<br><br>Available only in [Nightmare].",
+    "Id": 132701
+  },
+  "132801": {
+    "Content": "When Wildfire Dance hits the primary target, there is a 50% chance to reduce the CD of Endless Hellfire by 0.5s.<br><br>Available only in [Nightmare].",
+    "Id": 132801
+  },
+  "132901": {
+    "Content": "Flowing Splendor Slash transforms into Rare - Flowing Splendor Slash.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 132901
+  },
+  "133001": {
+    "Content": "When the three-hit combo of Falling Hellfire is triggered, grants 1 Flowing Splendor Slash charge. Once fully charged, Flowing Splendor Slash triggers automatically.<br><br>Available only in [Hard] and [Nightmare].",
+    "Id": 133001
+  }
+}

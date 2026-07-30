@@ -1,0 +1,2938 @@
+{
+  "10001": {
+    "Description": "ชุด Apparel ที่สร้างขึ้นใหม่ด้วยงานฝีมือย้อมสี อ้างอิงจากสไตล์สั่งตัดระดับไฮเอนด์ สามารถย้อมสีได้ตามต้องการ",
+    "Id": 10001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Chroma Edition",
+    "Type": 1
+  },
+  "1001": {
+    "Description": "การโจมตีอาวุธประเภทต่างๆ โดยใช้ปุ่มโจมตี",
+    "Id": 1001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "โจมตีทั่วไป",
+    "Type": 1
+  },
+  "1002": {
+    "Description": "รูปแบบการโจมตีพื้นฐานของอาวุธ",
+    "Id": 1002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "โจมตีพื้นฐาน",
+    "Type": 1
+  },
+  "1003": {
+    "Description": "โจมตีหนักเกิดจากการกดปุ่มโจมตีค้าง",
+    "Id": 1003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "โจมตีหนัก",
+    "Type": 1
+  },
+  "1004": {
+    "Description": "การโจมตีเมื่ออยู่ในระยะตกลงจากที่สูงและใช้การโจมตีทั่วไป",
+    "Id": 1004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Plunge Attack",
+    "Type": 1
+  },
+  "1005": {
+    "Description": "สกิลหรือท่าไม้ตายที่เป็นเอกลักษณ์และเป็นแกนหลักของอาวุธ",
+    "Id": 1005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สกิลหลัก",
+    "Type": 1
+  },
+  "1006": {
+    "Description": "กระบวนท่าสกิลที่ใช้บ่อยที่สุดของอาวุธ",
+    "Id": 1006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สกิลพื้นฐาน",
+    "Type": 1
+  },
+  "1007": {
+    "Description": "อาวุธที่มีพลังสูงสุดในอัลติการต่อสู้สุดท้ายอันทรงพลัง",
+    "Id": 1007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สกิลสุดท้าย",
+    "Type": 1
+  },
+  "1008": {
+    "Description": "สกิลพิเศษที่เรียนมาจาก Talent",
+    "Id": 1008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สกิล Talent",
+    "Type": 1
+  },
+  "1009": {
+    "Description": "สกิลที่สามารถใช้ได้เมื่ออยู่ในสถานะลอยตัวจากการถูกโจมตี",
+    "Id": 1009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สกิล Recovery",
+    "Type": 1
+  },
+  "1010": {
+    "Description": "สกิลสายทรงพลังที่ได้จากการเรียนรู้ Talent",
+    "Id": 1010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ระเบิด Talent",
+    "Type": 1
+  },
+  "1011": {
+    "Description": "สกิลสามารถสร้าง DMG ได้",
+    "Id": 1011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG",
+    "Type": 1
+  },
+  "1012": {
+    "Description": "DMG ที่กระบวนท่าสกิลสร้างขึ้นเอง",
+    "Id": 1012,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ความสามารถ",
+    "Type": 1
+  },
+  "1013": {
+    "Description": "DMG เพิ่มเติมที่เกิดจากสกิลสเตตัสธาตุทำงาน",
+    "Id": 1013,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG จากคุณสมบัติ",
+    "Type": 1
+  },
+  "1014": {
+    "Description": "เอฟเฟกต์ที่สามารถฟื้นฟู HP",
+    "Id": 1014,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Heal",
+    "Type": 1
+  },
+  "1015": {
+    "Description": "ฟื้นฟู HP จำนวนมากในครั้งเดียว",
+    "Id": 1015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Healing",
+    "Type": 1
+  },
+  "1016": {
+    "Description": "ฟื้นฟู HP อย่างต่อเนื่องเป็นระยะเวลาหนึ่ง",
+    "Id": 1016,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Healing",
+    "Type": 1
+  },
+  "1017": {
+    "Description": "เอฟเฟกต์ที่มีผลดีแก่ฝ่ายเราในการต่อสู้",
+    "Id": 1017,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Buff",
+    "Type": 1
+  },
+  "1018": {
+    "Description": "เอฟเฟกต์ความสามารถต่อสู้, ความสามารถเคลื่อนที่หรือความสามารถเพิ่มพลังอื่นในช่วงเวลาต่อเนื่อง",
+    "Id": 1018,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blessing",
+    "Type": 1
+  },
+  "1019": {
+    "Description": "ในช่วงเวลาต่อเนื่องสั้นๆ เอฟเฟกต์จะเพิ่มความสามารถต่อสู้อย่างทรงพลัง",
+    "Id": 1019,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Exaltation",
+    "Type": 1
+  },
+  "1020": {
+    "Description": "สเตตัสต่อสู้ได้รับเพิ่มขึ้นเยอะ หากพัฒนาใน Talent จะเพิ่มเอฟเฟกต์เพิ่มเติม",
+    "Id": 1020,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspiration",
+    "Type": 1
+  },
+  "1021": {
+    "Description": "อยู่ในสถานะที่เสียเปรียบต่างๆ ในการต่อสู้ฝ่ายเรา",
+    "Id": 1021,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Debuff",
+    "Type": 1
+  },
+  "1022": {
+    "Description": "เอฟเฟกต์ Negative ลดสเตตัสการต่อสู้ภายในช่วงหนึ่ง",
+    "Id": 1022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Weak",
+    "Type": 1
+  },
+  "1023": {
+    "Description": "เอฟเฟกต์ Negative เพิ่ม DMG ที่ได้รับภายในช่วงหนึ่ง",
+    "Id": 1023,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "เจ็บง่าย",
+    "Type": 1
+  },
+  "1024": {
+    "Description": "DMG ที่ได้รับเพิ่มขึ้นภายในช่วงเวลาหนึ่ง หากพัฒนาใน Talent จะเพิ่มเอฟเฟกต์เพิ่มเติม",
+    "Id": 1024,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Cracking",
+    "Type": 1
+  },
+  "1025": {
+    "Description": "อยู่ในสถานะที่ไม่ดีการกระทำต่างๆ ถูกจำกัด",
+    "Id": 1025,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ควบคุม",
+    "Type": 1
+  },
+  "1026": {
+    "Description": "อยู่ในสถานะที่ไม่ดีไม่สามารถเคลื่อนที่ได้ ไม่สามารถดำเนินการการต่อสู้ใดได้",
+    "Id": 1026,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "แช่แข็ง",
+    "Type": 1
+  },
+  "1027": {
+    "Description": "อยู่ในสถานะที่ไม่ดีไม่สามารถเคลื่อนที่ได้",
+    "Id": 1027,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Binding",
+    "Type": 1
+  },
+  "1028": {
+    "Description": "อยู่ในสถานะที่ไม่ดี โดยไม่สามารถเคลื่อนที่ได้ ไม่สามารถกระทำการต่อสู้ใดๆ ได้ ไม่สามารถใช้ไอเทมได้ ภายในเวลาสั้นๆ การเพิ่มเวลาต่อเนื่องหลายครั้งจะสั้นลง ไม่สามารถมีผลต่อ Boss ได้",
+    "Id": 1028,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Stun",
+    "Type": 1
+  },
+  "1029": {
+    "Description": "อยู่ในสถานะที่ไม่ดี SPD ลดลง",
+    "Id": 1029,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ลด SPD",
+    "Type": 1
+  },
+  "1030": {
+    "Description": "ความสามารถในการทำลายแถบ <style=\"ItemQuality_5\">Tyrant Body</style> ของเป้าหมายที่แข็งแกร่ง",
+    "Id": 1030,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ลดทนทาน",
+    "Type": 1
+  },
+  "1031": {
+    "Description": "สกิลสามารถช่วยให้ตัวละครเคลื่อนที่อย่างรวดเร็ว",
+    "Id": 1031,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "เคลื่อนที่",
+    "Type": 1
+  },
+  "1032": {
+    "Description": "สกิลประเภทเคลื่อนที่ต่อเนื่อง",
+    "Id": 1032,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "พุ่ง",
+    "Type": 1
+  },
+  "1033": {
+    "Description": "สกิลประเภทเคลื่อนที่ไม่ต่อเนื่อง",
+    "Id": 1033,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "แฟลช",
+    "Type": 1
+  },
+  "1034": {
+    "Description": "สกิลช่วยให้ตัวละครรอดชีวิต",
+    "Id": 1034,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "รอดชีวิต",
+    "Type": 1
+  },
+  "1035": {
+    "Description": "<style=\"ItemQuality_5\">โล่</style> HP เพิ่มเติมที่สามารถดูดซับ DMG ก่อน HP",
+    "Id": 1035,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "โล่",
+    "Type": 1
+  },
+  "1036": {
+    "Description": "ขั้นตอนพิเศษของสกิล เมื่อได้รับ DMG ในขั้นตอนนี้สามารถเลี่ยง DMG ได้บางส่วน",
+    "Id": 1036,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Parry",
+    "Type": 1
+  },
+  "1037": {
+    "Description": "สร้าง DMG ธาตุไฟ",
+    "Id": 1037,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ธาตุไฟ",
+    "Type": 1
+  },
+  "1038": {
+    "Description": "พลังของธาตุไฟที่ติดมากับDMG",
+    "Id": 1038,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ธาตุไฟ",
+    "Type": 1
+  },
+  "1039": {
+    "Description": "อยู่ในสถานะเสียเปรียบที่ได้รับ DMG จากคุณสมบัติธาตุไฟเป็นระยะๆ",
+    "Id": 1039,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "จุดไฟ",
+    "Type": 1
+  },
+  "1040": {
+    "Description": "สร้าง DMG ธาตุน้ำแข็ง",
+    "Id": 1040,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ธาตุน้ำแข็ง",
+    "Type": 1
+  },
+  "1041": {
+    "Description": "พลังของธาตุน้ำแข็งที่ติดมากับDMG",
+    "Id": 1041,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ธาตุน้ำแข็ง",
+    "Type": 1
+  },
+  "1042": {
+    "Description": "สร้าง DMG ธาตุสายฟ้า",
+    "Id": 1042,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ธาตุสายฟ้า",
+    "Type": 1
+  },
+  "1043": {
+    "Description": "พลังของธาตุสายฟ้าที่ติดมากับDMG",
+    "Id": 1043,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ธาตุสายฟ้า",
+    "Type": 1
+  },
+  "1044": {
+    "Description": "สร้าง DMG ธาตุลม",
+    "Id": 1044,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ธาตุลม",
+    "Type": 1
+  },
+  "1045": {
+    "Description": "พลังของธาตุลมที่ติดมากับDMG",
+    "Id": 1045,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ธาตุลม",
+    "Type": 1
+  },
+  "1046": {
+    "Description": "สร้าง DMG ธาตุหิน",
+    "Id": 1046,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ธาตุหิน",
+    "Type": 1
+  },
+  "1047": {
+    "Description": "พลังของธาตุหินที่ติดมากับDMG",
+    "Id": 1047,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ธาตุหิน",
+    "Type": 1
+  },
+  "1048": {
+    "Description": "สร้าง DMG ธาตุไม้",
+    "Id": 1048,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ธาตุไม้",
+    "Type": 1
+  },
+  "1049": {
+    "Description": "พลังของธาตุไม้ที่ติดมากับDMG",
+    "Id": 1049,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ธาตุป่า",
+    "Type": 1
+  },
+  "1050": {
+    "Description": "สร้าง DMG ธาตุแสง",
+    "Id": 1050,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ธาตุแสง",
+    "Type": 1
+  },
+  "1051": {
+    "Description": "พลังของธาตุแสงที่ติดมากับDMG",
+    "Id": 1051,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ธาตุแสง",
+    "Type": 1
+  },
+  "1052": {
+    "Description": "สร้าง DMG ธาตุมืด",
+    "Id": 1052,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ธาตุมืด",
+    "Type": 1
+  },
+  "1053": {
+    "Description": "พลังของธาตุมืดที่ติดมากับDMG",
+    "Id": 1053,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ธาตุมืด",
+    "Type": 1
+  },
+  "1054": {
+    "Description": "เอฟเฟกต์ซัพพอร์ตที่สามารถก่อให้เกิดการโจมตีเพิ่มเติมหรือช่วยต้านการโจมตี",
+    "Id": 1054,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ช่วยสู้",
+    "Type": 1
+  },
+  "1055": {
+    "Description": "เอฟเฟกต์ที่ทำให้การโจมตีเกิดขึ้นพร้อมกับการโจมตีของตัวละครหลักในการต่อสู้นั้น",
+    "Id": 1055,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ร่วมมือ",
+    "Type": 1
+  },
+  "1056": {
+    "Description": "เอฟเฟกต์ที่ช่วยต่อสู้โดยการโจมตีอย่างอิสระด้วยตัวเอง",
+    "Id": 1056,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ร่วมศึก",
+    "Type": 1
+  },
+  "1057": {
+    "Description": "วิธีปล่อยสกิลที่ต้องการเวลาช่วงหนึ่งเพื่อเตรียมพร้อมจึงสามารถปล่อยสกิลที่ยิ่งทรงพลัง",
+    "Id": 1057,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ชาร์จ",
+    "Type": 1
+  },
+  "1058": {
+    "Description": "วิธีการใช้สกิลที่ต้องรักษาสถานะการร่ายเวทย์เพื่อให้เอฟเฟกต์ต่อเนื่อง",
+    "Id": 1058,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ชี้นำ",
+    "Type": 1
+  },
+  "1059": {
+    "Description": "สถานะการปล่อยสกิลที่มีเอฟเฟกต์ถูกเพิ่มพลังหรือเกิดการเปลี่ยนแปลง",
+    "Id": 1059,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "เพิ่มพลัง",
+    "Type": 1
+  },
+  "1060": {
+    "Description": "เงื่อนไขที่ต้องใช้ในการปล่อยสกิลบางอย่าง สามารถฟื้นฟูได้ตามเวลาหรือกลไกบางอย่าง",
+    "Id": 1060,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Charge",
+    "Type": 1
+  },
+  "1061": {
+    "Description": "ประเภทของเอฟเฟกต์ที่สามารถทำงานได้ภายใต้เงื่อนไขที่กำหนด โอกาสทำงานขึ้นอยู่กับสเตตัส",
+    "Id": 1061,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Mark",
+    "Type": 1
+  },
+  "1062": {
+    "Description": "สถานะเมื่อ HP ของตัวเองสูงกว่า HP ของเป้าหมาย ในสถานะนี้จะเพิ่ม DMG ที่สร้างและลด DMG ที่ได้รับ หากได้รับการฝึกภายใต้ Talent จะได้รับเอฟเฟกต์เพิ่มเติม",
+    "Id": 1062,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Suppress",
+    "Type": 1
+  },
+  "1063": {
+    "Description": "ยูนิตต่อสู้ที่มีผู้อัญเชิญที่ชัดเจนและสถานะการมีอยู่ได้รับผลจากผู้อัญเชิญ",
+    "Id": 1063,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สิ่งอัญเชิญ",
+    "Type": 1
+  },
+  "1064": {
+    "Description": "สิ่งที่อัญเชิญ 1 ชนิด ต้องทำให้เงื่อนไขงาน หลังจากนั้นเอฟเฟกต์จะทำงาน",
+    "Id": 1064,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "กับดัก",
+    "Type": 1
+  },
+  "1065": {
+    "Description": "สิ่งอัญเชิญชนิดหนึ่งโดยในเวลาต่อเนื่องจะไม่สามารถขยับได้และเกิดเอฟเฟกต์โดยรอบ",
+    "Id": 1065,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "โทเท็ม",
+    "Type": 1
+  },
+  "1066": {
+    "Description": "สิ่งอัญเชิญชนิดหนึ่งสามารถเคลื่อนที่ตามผู้อัญเชิญเพื่อทำการต่อสู้",
+    "Id": 1066,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ทาส",
+    "Type": 1
+  },
+  "1067": {
+    "Description": "สิ่งอัญเชิญชนิดหนึ่งที่มีพฤติกรรมเป็นอิสระ",
+    "Id": 1067,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สร้างสรรค์",
+    "Type": 1
+  },
+  "1068": {
+    "Description": "กลไกสกิลที่สามารถเคลื่อนที่ทางกายภาพและเมื่อโดนเป้าหมายจะทำให้เกิดเอฟเฟกต์",
+    "Id": 1068,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สิ่งที่บินได้",
+    "Type": 1
+  },
+  "1069": {
+    "Description": "วัตถุที่บินได้ขนาดเล็กและมีความเร็วสูง",
+    "Id": 1069,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "กระสุน",
+    "Type": 1
+  },
+  "1070": {
+    "Description": "วัตถุที่บินได้ขนาดใหญ่และมีความเร็วปานกลาง",
+    "Id": 1070,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สิ่งที่ยิงได้",
+    "Type": 1
+  },
+  "1071": {
+    "Description": "วิธีการที่มีผลภายในโซนตามระยะที่กำหนด",
+    "Id": 1071,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "เอฟเฟกต์โซน",
+    "Type": 1
+  },
+  "1072": {
+    "Description": "เอฟเฟกต์ AOE ที่สามารถคงสถานะผลดีแก่ตัวเองหรือฝ่ายพันธมิตรอย่างต่อเนื่อง",
+    "Id": 1072,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Domain",
+    "Type": 1
+  },
+  "1073": {
+    "Description": "เอฟเฟกต์ AOE ที่สามารถสร้าง DMG หรือสถานะผิดปกติต่อฝ่ายศัตรูอย่างต่อเนื่อง",
+    "Id": 1073,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "AoE",
+    "Type": 1
+  },
+  "1074": {
+    "Description": "สามารถมอบเอฟเฟกต์ให้เป้าหมายภายในระยะของตัวเองอย่างต่อเนื่อง",
+    "Id": 1074,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ออร่า",
+    "Type": 1
+  },
+  "1075": {
+    "Description": "มีพลังล้ำหน้ากว่ามอนสเตอร์ Common",
+    "Id": 1075,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "เป้าหมายทรงพลัง",
+    "Type": 1
+  },
+  "1076": {
+    "Description": "Boss, Wilderness Lord และ Lord",
+    "Id": 1076,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ผู้นำ",
+    "Type": 1
+  },
+  "1077": {
+    "Description": "มอนสเตอร์ Common ที่มีชีวิตอยู่ในทวีป ความสามารถต่อสู้ปานกลางค่อนข้างพื้นฐาน",
+    "Id": 1077,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "มอนสเตอร์ Common",
+    "Type": 1
+  },
+  "1078": {
+    "Description": "นักรบที่โดดเด่นกว่าในหมู่มอนสเตอร์ ซึ่งมักมีสกิลพิเศษที่มีระดับภัยคุกคามสูง",
+    "Id": 1078,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Elite",
+    "Type": 1
+  },
+  "1079": {
+    "Description": "ผู้แข็งแกร่งที่สุดในเผ่าพันธุ์ จะเรียกว่า \"ราชา\" ก็ไม่เกินเลย",
+    "Id": 1079,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Boss",
+    "Type": 1
+  },
+  "1080": {
+    "Description": "มอนสเตอร์ทรงพลังที่สามารถพบได้เฉพาะในโซนพิเศษของแผนที่",
+    "Id": 1080,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wilderness Lord",
+    "Type": 1
+  },
+  "1081": {
+    "Description": "มอนสเตอร์ทรงพลังที่สุดในแผนที่ดันเจี้ยน",
+    "Id": 1081,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Lord",
+    "Type": 1
+  },
+  "1082": {
+    "Description": "สถานะที่ HP ปัจจุบันไม่ต่ำกว่า Max HP 50%",
+    "Id": 1082,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Healthy",
+    "Type": 1
+  },
+  "1083": {
+    "Description": "สถานะที่ HP ปัจจุบันไม่สูงกว่า Max HP 30%",
+    "Id": 1083,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "บาดเจ็บ",
+    "Type": 1
+  },
+  "1084": {
+    "Description": "ได้รับสกิลเพิ่มจากดันเจี้ยนหรือฉาก",
+    "Id": 1084,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สกิลฉาก",
+    "Type": 1
+  },
+  "1085": {
+    "Description": "สถานะต่อเนื่องชนิดหนึ่งที่มอบให้โดยการ Refine อุปกรณ์ชุด \"Radiant Light\"",
+    "Id": 1085,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สง่างาม",
+    "Type": 1
+  },
+  "1086": {
+    "Description": "สร้าง DMG ไร้สเตตัส",
+    "Id": 1086,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG ไร้สเตตัส",
+    "Type": 1
+  },
+  "1087": {
+    "Description": "DMG เป็นแบบไร้สเตตัส ไม่ได้พกพลังธาตุ",
+    "Id": 1087,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ไร้สเตตัส",
+    "Type": 1
+  },
+  "1088": {
+    "Description": "ได้รับการติดเชื้อโดยไม่รู้แหล่งที่มา จะเกิดผลไม่ดีต่างๆ",
+    "Id": 1088,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "กร่อน",
+    "Type": 1
+  },
+  "1089": {
+    "Description": "สถานะต่อเนื่องชนิดหนึ่งที่มอบให้โดยการ Refine อุปกรณ์ชุด \"Radiant Light\"",
+    "Id": 1089,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สง่างาม",
+    "Type": 1
+  },
+  "1090": {
+    "Description": "มีผลเพิ่มเอฟเฟกต์ปริมาณ DMG",
+    "Id": 1090,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Exaltation",
+    "Type": 1
+  },
+  "1091": {
+    "Description": "ไม่ถูกขับไล่ Knock up หรือล้มลง",
+    "Id": 1091,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Super Armor",
+    "Type": 1
+  },
+  "1092": {
+    "Description": "บังคับให้มอนสเตอร์ศัตรูโจมตีตัวเอง",
+    "Id": 1092,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ยั่วยุ",
+    "Type": 1
+  },
+  "1093": {
+    "Description": "มีเอฟเฟกต์สะท้อนDMG",
+    "Id": 1093,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Thorn",
+    "Type": 1
+  },
+  "1094": {
+    "Description": "ผลกระทบที่ส่งผลโดยตรงต่อความสามารถในการต่อสู้ของยูนิต เช่น ความเร็วในการเคลื่อนที่ลดลง สเตตัสลดลง หรือถูกควบคุมและเอฟเฟกต์อื่นๆ",
+    "Id": 1094,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "สถานะเสียเปรียบ",
+    "Type": 1
+  },
+  "1095": {
+    "Description": "ได้รับ DMG +<style=\"accent-gn\">10%</style> ต่อเนื่อง <style=\"accent-gn\">5</style> วินาที",
+    "Id": 1095,
+    "Par": 3401095,
+    "ShowRule": 1,
+    "Text": "เจ็บง่าย",
+    "Type": 3
+  },
+  "1096": {
+    "Description": "สร้างพลังโจมตีแก่เป้าหมายฝ่ายศัตรู <style=\"accent-gn\">100%</style> ของ <style=\"physical\">P.DMG</style> ในเวลาเดียวกันทำให้ <style=\"accent-gn\">Ultra High Output</style> ครั้งถัดไปได้รับ <style=\"accent-gn\">2</style> ชิ้นเพิ่มเติมที่เป็น <style=\"accent-gn\">Mark of Thunder</style>",
+    "Id": 1096,
+    "Par": 3401096,
+    "ShowRule": 1,
+    "Text": "Piercing Slash",
+    "Type": 3
+  },
+  "1097": {
+    "Description": "ความเร็วในการปล่อย<style=\"accent-gn\">การโจมตีพิเศษ</style>เพิ่มขึ้นเยอะ ต่อเนื่อง <style=\"accent-gn\">10</style> วินาที หลังจากปล่อย<style=\"accent-gn\">การโจมตีพิเศษ</style>แล้วจะลบเอฟเฟกต์นี้",
+    "Id": 1097,
+    "Par": 3401097,
+    "ShowRule": 1,
+    "Text": "Zen Moment",
+    "Type": 3
+  },
+  "1098": {
+    "Description": "กระบวนท่าซ่อนเร้นของ <style=\"accent-gn\">Thunderbolt Slash</style> สับและเฉือนอย่างรวดเร็ว สร้าง <style=\"accent-gn\">300%</style> <style=\"physical\">P.DMG</style> ของ ATK แก่เป้าหมาย เมื่อความเร็วโจมตีถึงทุก <style=\"accent-gn\">25%</style>|<style=\"accent-gn\">50%</style>|<style=\"accent-gn\">80%</style> จำนวนครั้งโจมตี +<style=\"accent-gn\">1</style>|+<style=\"accent-gn\">2</style>|+<style=\"accent-gn\">3</style> พัฒนาตามการอัป Lv./เลื่อนขั้นสกิล <style=\"accent-gn\">Thunderbolt Slash</style>",
+    "Id": 1098,
+    "Par": 3401098,
+    "ShowRule": 1,
+    "Text": "Thundercleave",
+    "Type": 3
+  },
+  "1099": {
+    "Description": "แต่ละครั้งสร้าง<style=\"physical\">P.DMG</style> <style=\"accent-gn\">100%</style> ของพลังโจมตี<br>เริ่มต้น <style=\"accent-gn\">1</style> ครั้ง ทุก <style=\"accent-gn\">10%</style> ความชำนาญจะเพิ่ม <style=\"accent-gn\">1</style> ครั้ง สูงสุด <style=\"accent-gn\">4</style> ครั้ง",
+    "Id": 1099,
+    "Par": 3401099,
+    "ShowRule": 1,
+    "Text": "Bladewind Domain",
+    "Type": 3
+  },
+  "1100": {
+    "Description": "\"เอฟเฟกต์ Lucky\": สร้าง <style=\"accent-gn\">80%</style>ATK<style=\"physical\">P.DMG</style> ของ ATK แก่เป้าหมายฝ่ายศัตรู",
+    "Id": 1100,
+    "Par": 3401100,
+    "ShowRule": 1,
+    "Text": "Thunderstrike",
+    "Type": 3
+  },
+  "1101": {
+    "Description": "หมุนต่อเนื่อง <style=\"accent-gn\">35</style>s ทุก <style=\"accent-gn\">2</style>s จะสร้าง <style=\"accent-gn\">50%</style> <style=\"physical\">P.DMG</style> ของ ATK แก่เป้าหมาย พัฒนาตามการอัป Lv./อัปขั้นสกิล Scythe Car",
+    "Id": 1101,
+    "Par": 3401101,
+    "ShowRule": 1,
+    "Text": "Moonstrike",
+    "Type": 3
+  },
+  "1102": {
+    "Description": "ไม่ถูกขับไล่ Knock up หรือล้มลง",
+    "Id": 1102,
+    "Par": 3401102,
+    "ShowRule": 1,
+    "Text": "Super Armor",
+    "Type": 3
+  },
+  "1103": {
+    "Description": "เป้าหมายฝ่ายศัตรู<style=\"accent-gn\">3</style>เมตรจะสร้างการโจมตี<style=\"accent-gn\">100%</style>ของ<style=\"physical\">P.DMG</style>",
+    "Id": 1103,
+    "Par": 3401103,
+    "ShowRule": 1,
+    "Text": "Thunderburst",
+    "Type": 3
+  },
+  "1104": {
+    "Description": "เมื่อปล่อยสกิลที่ใช้ <style=\"accent-gn\">Mark of Thunder</style> ใช้ <style=\"accent-gn\">Mark of Thunder</style> เกินทุก 1 ชิ้น สามารถทำให้ DMG สกิลนี้เพิ่มขึ้น <style=\"accent-gn\">25%</style>",
+    "Id": 1104,
+    "Par": 3401104,
+    "ShowRule": 1,
+    "Text": "Mark of Thunder",
+    "Type": 3
+  },
+  "1105": {
+    "Description": "สร้าง DMG มหาศาล ตามจำนวน <style=\"accent-gn\">Mark of Thunder</style> ที่ใช้ไปในช่วง <style=\"accent-gn\">10</style> วินาทีที่ผ่านมา<br>การใช้ <style=\"accent-gn\">Mark of Thunder</style> ทุกๆ <style=\"accent-gn\">1</style> ชิ้น จะสร้าง <style=\"physical\">P.DMG</style> <style=\"accent-gn\">100%</style> ของ ATK สูงสุดไม่เกิน <style=\"accent-gn\">15000%</style>",
+    "Id": 1105,
+    "Par": 3401105,
+    "ShowRule": 1,
+    "Text": "Ultimate Slash",
+    "Type": 3
+  },
+  "1106": {
+    "Description": "สามารถสะสมมากสุด <style=\"accent-gn\">20</style> อันที่เป็น<style=\"accent-gn\">เมล็ดประจุ</style> เมื่อปล่อย <style=\"accent-gn\">Thunderbolt Slash</style> จะใช้ <style=\"accent-gn\">15</style> อันที่เป็น<style=\"accent-gn\">เมล็ดประจุ</style> และทำงาน <style=\"accent-gn\">Scythe of Thunder</style> สร้าง <style=\"physical\">P.DMG</style> แก่เป้าหมายโดยรอบ",
+    "Id": 1106,
+    "Par": 3401106,
+    "ShowRule": 1,
+    "Text": "Seed of Charge",
+    "Type": 3
+  },
+  "1107": {
+    "Description": "มอบสถานะ <style=\"accent-gn\">Int</style>, <style=\"accent-gn\">Power</style>, <style=\"accent-gn\">Agi</style>, <style=\"accent-gn\">Endurance</style> เพิ่มขึ้น <style=\"accent-gn\">100</style> แต้ม และเพิ่ม <style=\"accent-gn\">CRIT</style>, <style=\"accent-gn\">Haste</style>, <style=\"accent-gn\">Lucky</style>, <style=\"accent-gn\">Mastery</style>, <style=\"accent-gn\">Versatility</style> อีก <style=\"accent-gn\">1.5%</style> ให้กับเป้าหมายที่ได้รับพร",
+    "Id": 1107,
+    "Par": 3401107,
+    "ShowRule": 1,
+    "Text": "Inspiration",
+    "Type": 3
+  },
+  "1108": {
+    "Description": "เมื่อ<style=\"accent-gn\">สกิลพิเศษ</style>สาย Heal และ<style=\"accent-gn\">สกิลอัลติเมท</style>ทำการ Heal จะใช้<style=\"accent-gn\">2</style>อันที่เป็น <style=\"accent-gn\">Rebirth Bud</style> พร้อมกับโยน<style=\"accent-gn\">Nourishing Seed</style> 1 ชิ้นออกมา มีผลสูงสุด 1 ครั้งทุก<style=\"accent-gn\">1</style>วินาที<br>เมื่อ<style=\"accent-gn\">สกิลพิเศษ</style>สาย DMG และ<style=\"accent-gn\">สกิลอัลติเมท</style>สร้าง DMG จะใช้<style=\"accent-gn\">2</style>อันที่เป็น<style=\"accent-gn\">Rebirth Bud</style> พร้อมกับยิง<style=\"accent-gn\">Wild Seed</style> 1 ชิ้นออกมา มีผลสูงสุด 1 ครั้งทุก<style=\"accent-gn\">1</style>วินาที",
+    "Id": 1108,
+    "Par": 3401108,
+    "ShowRule": 1,
+    "Text": "Regen Bud",
+    "Type": 3
+  },
+  "1109": {
+    "Description": "Healing Link จะกระดอนไปมาระหว่างฝ่ายพันธมิตร ทุกครั้งที่กระดอนจะฟื้นฟู HP <style=\"accent-gn\">40%</style> ของพลังโจมตี จำนวนครั้งการกระดอนเริ่มต้นคือ <style=\"accent-gn\">2</style>",
+    "Id": 1109,
+    "Par": 3401109,
+    "ShowRule": 1,
+    "Text": "Healing Chain",
+    "Type": 3
+  },
+  "1110": {
+    "Description": "ขยายออกไป <style=\"accent-gn\">20</style> เมตร ฟื้นฟู HP <style=\"accent-gn\">150%</style> ของพลังโจมตีให้เป้าหมายฝ่ายพันธมิตรที่สัมผัส",
+    "Id": 1110,
+    "Par": 3401110,
+    "ShowRule": 1,
+    "Text": "Healing Pulse",
+    "Type": 3
+  },
+  "1111": {
+    "Description": "ร่าย<style=\"accent-gn\">150%</style> ของพลังโจมตีที่เป็น<style=\"accent-gn\">โล่</style>แก่ฝ่ายพันธมิตร ต่อเนื่อง<style=\"accent-gn\">5</style>วินาที",
+    "Id": 1111,
+    "Par": 3401111,
+    "ShowRule": 1,
+    "Text": "Nature Shield",
+    "Type": 3
+  },
+  "1112": {
+    "Description": "",
+    "Id": 1112,
+    "Par": 3401112,
+    "ShowRule": 1,
+    "Text": "Stag Charge",
+    "Type": 3
+  },
+  "1113": {
+    "Description": "ฝ่ายพันธมิตรภายใน<style=\"accent-gn\">3</style>เมตรจะฟื้นฟู HP อัตโนมัติ<style=\"accent-gn\">60%</style>ของพลังโจมตี",
+    "Id": 1113,
+    "Par": 3401113,
+    "ShowRule": 1,
+    "Text": "Healing Orb",
+    "Type": 3
+  },
+  "1114": {
+    "Description": "เมื่อเข้าใกล้ (<style=\"accent-gn\">3</style>เมตร) <style=\"accent-gn\">บอลพลังงาน</style> จะได้รับ<style=\"accent-gn\">1</style>อันที่เป็น<style=\"accent-gn\">Rebirth Bud</style> <style=\"accent-gn\">บอลพลังงาน</style>จะคงอยู่มากสุด<style=\"accent-gn\">3</style>วินาที",
+    "Id": 1114,
+    "Par": 3401114,
+    "ShowRule": 1,
+    "Text": "บอลพลังงาน",
+    "Type": 3
+  },
+  "1115": {
+    "Description": "เมื่อสัมผัสพื้น จะฟื้นฟู HP <style=\"accent-gn\">40%</style> ของพลังโจมตีให้เพื่อนร่วมทีมทั้งหมด",
+    "Id": 1115,
+    "Par": 3401115,
+    "ShowRule": 1,
+    "Text": "Nourishing Seed",
+    "Type": 3
+  },
+  "1116": {
+    "Description": "เมื่อสัมผัสเป้าหมายฝ่ายศัตรูจะระเบิด สร้างการโจมตี<style=\"accent-gn\">100%</style>ของ<style=\"magic\">M.DMG</style>",
+    "Id": 1116,
+    "Par": 3401116,
+    "ShowRule": 1,
+    "Text": "Wild Seed",
+    "Type": 3
+  },
+  "1117": {
+    "Description": "ทุกวินาทีสร้างการโจมตีแก่เป้าหมายฝ่ายศัตรู<style=\"accent-gn\">20%</style>ของ<style=\"magic\">M.DMG</style> ต่อเนื่อง<style=\"accent-gn\">10</style>วินาที",
+    "Id": 1117,
+    "Par": 3401117,
+    "ShowRule": 1,
+    "Text": "Thorn",
+    "Type": 3
+  },
+  "1118": {
+    "Description": "",
+    "Id": 1118,
+    "Par": 3401118,
+    "ShowRule": 1,
+    "Text": "Flower Stalk",
+    "Type": 3
+  },
+  "1119": {
+    "Description": "เวลา CD ของ<style=\"accent-gn\">สกิลพิเศษ</style>ที่ร่ายครั้งต่อไปลดลง<style=\"accent-gn\">50%</style>",
+    "Id": 1119,
+    "Par": 3401119,
+    "ShowRule": 1,
+    "Text": "Crimson Insight",
+    "Type": 3
+  },
+  "1120": {
+    "Description": "หลังจากร่าย<style=\"accent-gn\">สกิลพิเศษ</style>ครั้งต่อไป ความแรง Heal ของตัวเอง +<style=\"accent-gn\">20%</style> ต่อเนื่อง<style=\"accent-gn\">10</style>วินาที",
+    "Id": 1120,
+    "Par": 3401120,
+    "ShowRule": 1,
+    "Text": "Golden Devotion",
+    "Type": 3
+  },
+  "1121": {
+    "Description": "<style=\"accent-gn\">Life Bloom</style>ครั้งต่อไปภายในเวลาต่อเนื่อง<style=\"accent-gn\">8</style>วินาทีจะร่าย<style=\"accent-gn\">โล่</style>แก่เป้าหมายที่ได้รับ Heal ปริมาณดูดซับคือ<style=\"accent-gn\">200%</style>ของพลังโจมตีของตัวเอง เป้าหมายที่มี<style=\"accent-gn\">โล่</style>จะได้รับ DMG ทั้งหมดลดลง<style=\"accent-gn\">10%</style>",
+    "Id": 1121,
+    "Par": 3401121,
+    "ShowRule": 1,
+    "Text": "Moonlight Solace",
+    "Type": 3
+  },
+  "1122": {
+    "Description": "เมื่อได้รับ DMG หากเปอร์เซ็นต์ HP ของตัวเองสูงกว่าเปอร์เซ็นต์ HP ของผู้โจมตี DMG ที่ได้รับจากผู้โจมตีจะ -<style=\"accent-gn\">10%</style><br>เมื่อสร้าง DMG หากเปอร์เซ็นต์ HP ของตัวเองสูงกว่าเปอร์เซ็นต์ HP ของผู้ถูกโจมตี DMG ที่สร้างแก่ผู้ถูกโจมตีจะ +<style=\"accent-gn\">10%</style>",
+    "Id": 1122,
+    "Par": 3401122,
+    "ShowRule": 1,
+    "Text": "Suppress",
+    "Type": 3
+  },
+  "1123": {
+    "Description": "สร้างพลังโจมตีแก่เป้าหมายฝ่ายศัตรู<style=\"accent-gn\">5%</style>ของ<style=\"physical\">P.DMG</style> พร้อมกับได้รับ<style=\"accent-gn\">10</style>ชิ้นที่เป็น<style=\"accent-gn\">Sand Crystal</style>",
+    "Id": 1123,
+    "Par": 3401123,
+    "ShowRule": 1,
+    "Text": "Weakness Strike",
+    "Type": 3
+  },
+  "1124": {
+    "Description": "ความแกร่งโล่ +<style=\"accent-gn\">15%</style> ต่อเนื่อง <style=\"accent-gn\">10</style>s",
+    "Id": 1124,
+    "Par": 3401124,
+    "ShowRule": 1,
+    "Text": "Rock Shield Multiplier",
+    "Type": 3
+  },
+  "1125": {
+    "Description": "เป้าหมายฝ่ายศัตรูภายใน<style=\"accent-gn\">3</style> เมตรของตัวเองจะถูกสร้างการโจมตี<style=\"accent-gn\">100%</style> ของ <style=\"physical\">P.DMG</style> ไม่สน<style=\"accent-gn\">บล็อก</style> และเกิดค่าคุกคามจำนวนมาก",
+    "Id": 1125,
+    "Par": 3401125,
+    "ShowRule": 1,
+    "Text": "Countercrush",
+    "Type": 3
+  },
+  "1126": {
+    "Description": "เมื่อ<style=\"accent-gn\">บล็อก</style> มีโอกาส Lucky% ที่จะทำงาน<style=\"accent-gn\">Lucky Block</style>",
+    "Id": 1126,
+    "Par": 3401126,
+    "ShowRule": 1,
+    "Text": "Lucky Block",
+    "Type": 3
+  },
+  "1127": {
+    "Description": "ตามด้วยภายใน <style=\"accent-gn\">7</style>s <style=\"accent-gn\">Shield Bash</style> จะเปลี่ยนเป็นคอมโบ 2 และหากปล่อยจะไม่ใช้ <style=\"accent-gn\">rage</style> และ <style=\"accent-gn\">Sand Crystal</style> อีก ในขณะเดียวกันจะเพิ่ม<style=\"accent-gn\">โล่</style>แก่ตัวเอง หลังจากปล่อย <style=\"accent-gn\">Shield Bash</style> จะลบเอฟเฟกต์นี้",
+    "Id": 1127,
+    "Par": 3401127,
+    "ShowRule": 1,
+    "Text": "Shield Combo",
+    "Type": 3
+  },
+  "1128": {
+    "Description": "เป้าหมายฝ่ายศัตรูภายใน<style=\"accent-gn\">5</style>เมตรของตัวเองจะถูกสร้างการโจมตี<style=\"accent-gn\">300%</style>ของ<style=\"physical\">P.DMG</style> ตามด้วยภายใน<style=\"accent-gn\">5</style>วินาทีทุก<style=\"accent-gn\">1</style>วินาทีจะฟื้นฟู<style=\"accent-gn\">20</style><style=\"accent-gn\">ความโกรธ</style> เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้",
+    "Id": 1128,
+    "Par": 3401128,
+    "ShowRule": 1,
+    "Text": "Shield Echo",
+    "Type": 3
+  },
+  "1129": {
+    "Description": "DMG ที่ได้รับ -<style=\"accent-gn\">50%</style> Heal ที่ได้รับ +<style=\"accent-gn\">30%</style> ต่อเนื่อง <style=\"accent-gn\">10</style>s",
+    "Id": 1129,
+    "Par": 3401129,
+    "ShowRule": 1,
+    "Text": "Survival Against All Odds",
+    "Type": 3
+  },
+  "1130": {
+    "Description": "ฟื้นฟูขีดจำกัด <style=\"accent-gn\">Ice Energy</style> สูงสุด <style=\"accent-gn\">3%</style> ต่อวินาที (ผลการฟื้นฟูขึ้นอยู่กับค่า Mastery และ Haste) เป็นเวลา <style=\"accent-gn\">10</style> วินาที",
+    "Id": 1130,
+    "Par": 3401130,
+    "ShowRule": 1,
+    "Text": "กฏพลังพล่าน",
+    "Type": 3
+  },
+  "1131": {
+    "Description": "โจมตีศัตรูที่ใกล้ที่สุด <style=\"accent-gn\">1</style> ตัว สร้าง <style=\"physical\">P.DMG</style> <style=\"accent-gn\">70%</style> ของ ATK",
+    "Id": 1131,
+    "Par": 3401131,
+    "ShowRule": 1,
+    "Text": "กระสุนหิน",
+    "Type": 3
+  },
+  "1132": {
+    "Description": "บังคับเคลื่อนที่ไปที่ระยะที่ใกล้เป้าหมายเพื่อทำการโจมตี",
+    "Id": 1132,
+    "Par": 3401132,
+    "ShowRule": 1,
+    "Text": "พร่ามัว",
+    "Type": 3
+  },
+  "1133": {
+    "Description": "<style=\"accent-gn\">โซนาต้า - บทเพลงกล้าหาญ</style>หรือ<style=\"accent-gn\">โซนาต้า - บทเพลงเยียวยา</style>",
+    "Id": 1133,
+    "Par": 3401133,
+    "ShowRule": 1,
+    "Text": "สกิลดนตรี",
+    "Type": 3
+  },
+  "1134": {
+    "Description": "<style=\"accent-gn\">Rage Burst</style> หลังจากเพิ่มแกร่ง จะอัญเชิญหินยักษ์ข้างตัว โดยจะสร้าง <style=\"accent-gn\">750%</style> <style=\"physical\">P.DMG</style> ของ ATK ตามการแตกออกของหิน พัฒนาตามการอัป Lv./อัปขั้นสกิล <style=\"accent-gn\">Rage Burst</style><br>เมื่อปล่อยจะไม่ใช้ <style=\"accent-gn\">Sand Crystal</style>",
+    "Id": 1134,
+    "Par": 3401134,
+    "ShowRule": 1,
+    "Text": "Terra Sunder",
+    "Type": 3
+  },
+  "1135": {
+    "Description": "DMG +<style=\"accent-gn\">20%</style> SPD +<style=\"accent-gn\">10%</style> ได้รับ <style=\"accent-gn\">Tyrant Body</style>",
+    "Id": 1135,
+    "Par": 3401135,
+    "ShowRule": 1,
+    "Text": "Provoke",
+    "Type": 3
+  },
+  "1136": {
+    "Description": "เป้าหมายฝ่ายศัตรูภายใน<style=\"accent-gn\">300</style>เมตรของตัวเองถูกสร้างพลังโจมตี<style=\"accent-gn\">300%</style>ของ<style=\"physical\">P.DMG</style>",
+    "Id": 1136,
+    "Par": 3401136,
+    "ShowRule": 1,
+    "Text": "Sand Crystal Shock",
+    "Type": 3
+  },
+  "1137": {
+    "Description": "ลด <style=\"magic\">M.DMG</style> ที่ตัวเองได้รับในวง <style=\"accent-gn\">50%</style> และดูดซับ DMG <style=\"accent-gn\">50%</style> ที่เพื่อนร่วมทีมในวง (สูงสุด <style=\"accent-gn\">10</style> คน) ได้รับมาไว้ที่ตัวเอง",
+    "Id": 1137,
+    "Par": 3401137,
+    "ShowRule": 1,
+    "Text": "Sandy Zone",
+    "Type": 3
+  },
+  "1138": {
+    "Description": "เมื่อ<style=\"accent-gn\">พลังงานแสง</style>เติมจนเต็ม สามารถร่าย<style=\"accent-gn\">การโจมตีพิเศษ</style>เพื่อเข้าสู่สถานะ<style=\"accent-gn\"> Photon Reforge</style> ในสถานะนี้ <style=\"accent-gn\">การโจมตีพิเศษ</style>และ<style=\"accent-gn\">สกิลพิเศษ</style>บางอย่างจะได้รับการเพิ่มพลัง ระหว่างนี้<style=\"accent-gn\">พลังงานแสง</style>จะลดลงอย่างต่อเนื่อง เมื่อลดลงถึง<style=\"accent-gn\">0</style>จะออกจากสถานะนี้",
+    "Id": 1138,
+    "Par": 3401138,
+    "ShowRule": 1,
+    "Text": "Photon Reforge",
+    "Type": 3
+  },
+  "1139": {
+    "Description": "เป้าหมายภายใน <style=\"accent-gn\">5</style> เมตรโดยรอบจะถูกสร้าง <style=\"accent-gn\">80%</style> <style=\"physical\">P.DMG</style> ของ ATK โจมตีโดนเป้าหมายเกินมาทุก 1 ตัว DMG +<style=\"accent-gn\">30%</style> (สูงสุด +<style=\"accent-gn\">120%</style>) พัฒนาตามการอัป Lv./อัปขั้นสกิลของ<style=\"accent-gn\">โจมตีทั่วไป</style>",
+    "Id": 1139,
+    "Par": 3401139,
+    "ShowRule": 1,
+    "Text": "Tail Sweep",
+    "Type": 3
+  },
+  "1140": {
+    "Description": "สร้างพลังโจมตีแก่เป้าหมายฝ่ายศัตรู<style=\"accent-gn\">100%</style> ของ <style=\"physical\">P.DMG</style> และทำให้เป้าหมาย<style=\"accent-gn\">เสียพลังชีวิต</style>",
+    "Id": 1140,
+    "Par": 3401140,
+    "ShowRule": 1,
+    "Text": "Bite",
+    "Type": 3
+  },
+  "1141": {
+    "Description": "ต่อเนื่อง <style=\"accent-gn\">5</style>s ทุกวินาทีจะสร้าง <style=\"accent-gn\">10%</style> <style=\"physical\">P.DMG</style> ของ ATK เมื่อเพิ่ม<style=\"accent-gn\">สูญเสีย HP</style> ซ้ำจากแหล่งที่มาเดียวกันจะสรุปผลเอฟเฟกต์<style=\"accent-gn\">สูญเสีย HP</style> ที่ยังไม่สิ้นสุดก่อนหน้านั้นทันที",
+    "Id": 1141,
+    "Par": 3401141,
+    "ShowRule": 1,
+    "Text": "Bleed",
+    "Type": 3
+  },
+  "1142": {
+    "Description": "เป้าหมายฝ่ายศัตรูถูกสร้าง <style=\"accent-gn\">50%</style> <style=\"physical\">P.DMG</style> ของ ATK",
+    "Id": 1142,
+    "Par": 3401142,
+    "ShowRule": 1,
+    "Text": "Lightseeker Arrow",
+    "Type": 3
+  },
+  "1143": {
+    "Description": "เป้าหมายฝ่ายศัตรูถูกสร้าง <style=\"physical\">P.DMG</style> <style=\"accent-gn\">410%</style> ของ ATK",
+    "Id": 1143,
+    "Par": 3401143,
+    "ShowRule": 1,
+    "Text": "Electric Surge",
+    "Type": 3
+  },
+  "1144": {
+    "Description": "ฝ่ายศัตรูและเป้าหมายโดยรอบภายใน <style=\"accent-gn\">3</style> เมตรถูกสร้าง <style=\"accent-gn\">100%</style> <style=\"physical\">P.DMG</style> ของ ATK",
+    "Id": 1144,
+    "Par": 3401144,
+    "ShowRule": 1,
+    "Text": "Explosive Arrow",
+    "Type": 3
+  },
+  "1145": {
+    "Description": "เป้าหมายฝ่ายศัตรูภายในพื้นที่ถูกสร้าง <style=\"accent-gn\">250%</style> <style=\"physical\">P.DMG</style> ของ ATK",
+    "Id": 1145,
+    "Par": 3401145,
+    "ShowRule": 1,
+    "Text": "Stomp",
+    "Type": 3
+  },
+  "1146": {
+    "Description": "กระพือปีกอยู่กับที่ เพิ่มประสิทธิภาพการได้รับ Light Energy <style=\"accent-gn\">100%</style> ในอีก <style=\"accent-gn\">10</style> วินาทีข้างหน้า",
+    "Id": 1146,
+    "Par": 3401146,
+    "ShowRule": 1,
+    "Text": "Legendary Eagle",
+    "Type": 3
+  },
+  "1147": {
+    "Description": "ส่งเสียงคำรามอย่างดุร้าย ตามด้วยภายใน <style=\"accent-gn\">10</style>s โบนัสธาตุแสง +<style=\"accent-gn\">50%</style>",
+    "Id": 1147,
+    "Par": 3401147,
+    "ShowRule": 1,
+    "Text": "Legendary Boar",
+    "Type": 3
+  },
+  "1148": {
+    "Description": "เมื่อมี <style=\"accent-gn\">Steel Beak</style> ตั้งแต่ <style=\"accent-gn\">5</style> Stack ขึ้นไป ทุกครั้งที่ทับซ้อน <style=\"accent-gn\">Steel Beak</style> จะมีโอกาสคงที่ <style=\"accent-gn\">30%</style> ที่จะเกิดการ <style=\"accent-gn\">Implosion</style> สร้าง <style=\"physical\">P.DMG</style> <style=\"accent-gn\">100%</style> ของ ATK ใส่ศัตรูในระยะ <style=\"accent-gn\">Steel Beak</style> จะลดลง <style=\"accent-gn\">1</style> Stack ทุกๆ <style=\"accent-gn\">1</style> วินาที ทับซ้อนได้สูงสุด <style=\"accent-gn\">20</style> Stack",
+    "Id": 1148,
+    "Par": 3401148,
+    "ShowRule": 1,
+    "Text": "Steel Beak",
+    "Type": 3
+  },
+  "1149": {
+    "Description": "พัดสร้างพายุรัศมี <style=\"accent-gn\">5</style> เมตร ทุก <style=\"accent-gn\">0</style>.<style=\"accent-gn\">5</style>s เป้าหมายที่มีเครื่องหมาย <style=\"accent-gn\">Steel Beak</style> ในพายุจะถูกสร้าง <style=\"accent-gn\">80%</style> <style=\"physical\">P.DMG</style> ของการโจมตีโดยไม่สน DEF หลังจากนั้น <style=\"accent-gn\">5</style>s <style=\"accent-gn\">Celestial Eagle</style> จะถลาลงมายังพื้น สร้าง <style=\"accent-gn\">500%</style> <style=\"physical\">P.DMG</style> ของการโจมตีโดยไม่สน DEF",
+    "Id": 1149,
+    "Par": 3401149,
+    "ShowRule": 1,
+    "Text": "Celestial Eagle",
+    "Type": 3
+  },
+  "1150": {
+    "Description": "เป้าหมายฝ่ายศัตรูถูกสร้าง <style=\"accent-gn\">400%</style> <style=\"physical\">P.DMG</style> ของ ATK",
+    "Id": 1150,
+    "Par": 3401150,
+    "ShowRule": 1,
+    "Text": "Phantom Falcon",
+    "Type": 3
+  },
+  "1151": {
+    "Description": "สร้างพลังโจมตีแก่เป้าหมายฝ่ายศัตรู<style=\"accent-gn\">35%</style>ของ<style=\"physical\">P.DMG</style> พัฒนาไปพร้อมกับการอัป Lv./เลื่อนขั้นของสกิล<style=\"accent-gn\">โจมตีปกติ</style>",
+    "Id": 1151,
+    "Par": 3401151,
+    "ShowRule": 1,
+    "Text": "Split Arrow",
+    "Type": 3
+  },
+  "1152": {
+    "Description": "พลังโจมตี +<style=\"accent-gn\">5%</style> ต่อเนื่อง<style=\"accent-gn\">10</style>วินาที",
+    "Id": 1152,
+    "Par": 3401152,
+    "ShowRule": 1,
+    "Text": "Sharp",
+    "Type": 3
+  },
+  "1153": {
+    "Description": "เป้าหมายสูญเสีย HP ทุกวินาทีตาม ATK <style=\"accent-gn\">25%</style> ต่อเนื่อง <style=\"accent-gn\">8</style>s",
+    "Id": 1153,
+    "Par": 3401153,
+    "ShowRule": 1,
+    "Text": "Rend",
+    "Type": 3
+  },
+  "1154": {
+    "Description": "ทำให้ได้รับ DMG ของ<style=\"accent-gn\">Tear</style> +<style=\"accent-gn\">100%</style> ต่อเนื่อง<style=\"accent-gn\">5</style>วินาที",
+    "Id": 1154,
+    "Par": 3401154,
+    "ShowRule": 1,
+    "Text": "Thousand Wounds",
+    "Type": 3
+  },
+  "1155": {
+    "Description": "<style=\"accent-gn\">Power</style> +<style=\"accent-gn\">30%</style> ต่อเนื่อง <style=\"accent-gn\">12</style>s",
+    "Id": 1155,
+    "Par": 3401155,
+    "ShowRule": 1,
+    "Text": "Qi Enhancement",
+    "Type": 3
+  },
+  "1156": {
+    "Description": "\"เอฟเฟกต์ Lucky\": สร้าง <style=\"accent-gn\">150%</style> <style=\"physical\">P.DMG</style> ของ ATK",
+    "Id": 1156,
+    "Par": 3401156,
+    "ShowRule": 1,
+    "Text": "Spear Thrust",
+    "Type": 3
+  },
+  "1157": {
+    "Description": "<style=\"accent-gn\">Instant</style> DMG +<style=\"accent-gn\">30%</style> ต่อเนื่อง <style=\"accent-gn\">10</style>s ซ้อนทับมากสุด <style=\"accent-gn\">2</style> Stack หลังจาก <style=\"accent-gn\">Instant</style> สร้าง DMG จะหัก 1 Stack",
+    "Id": 1157,
+    "Par": 3401157,
+    "ShowRule": 1,
+    "Text": "Pursuit Technique",
+    "Type": 3
+  },
+  "1158": {
+    "Description": "สร้าง <style=\"physical\">P.DMG</style> <style=\"accent-gn\">350%</style> ของ ATK ใส่ศัตรูในระยะ",
+    "Id": 1158,
+    "Par": 3401158,
+    "ShowRule": 1,
+    "Text": "Tornado",
+    "Type": 3
+  },
+  "1159": {
+    "Description": "<style=\"accent-gn\">Sharp Impact</style>ที่ได้รับการเพิ่มพลัง กระโดดขึ้นและสร้าง DMG รวม<style=\"accent-gn\">800%</style>ของ<style=\"physical\">P.DMG</style>แก่เป้าหมายและบริเวณโดยรอบ พัฒนาไปพร้อมกับการอัป Lv./เลื่อนขั้นของสกิล<style=\"accent-gn\">Sharp Impact</style>",
+    "Id": 1159,
+    "Par": 3401159,
+    "ShowRule": 1,
+    "Text": "Wind God - Sharp Impact",
+    "Type": 3
+  },
+  "1160": {
+    "Description": "เมื่ออุกกาบาตน้ำแข็งสร้าง DMG จะทำให้ได้รับ<style=\"accent-gn\">Ice Crystal Core</style>ทำงาน<style=\"accent-gn\">ลูกศรน้ำแข็ง</style> ได้รับ<style=\"accent-gn\">น้ำแข็งทมิฬ</style> 1 ชิ้น",
+    "Id": 1160,
+    "Par": 3401160,
+    "ShowRule": 1,
+    "Text": "Talent-Shattering Strike",
+    "Type": 3
+  },
+  "1161": {
+    "Description": "สามารถนำเอฟเฟกต์เพิ่มเติมมาใส่สกิลได้",
+    "Id": 1161,
+    "Par": 3401161,
+    "ShowRule": 1,
+    "Text": "Frost Crystal",
+    "Type": 3
+  },
+  "1162": {
+    "Description": "สร้างพลังโจมตีแก่เป้าหมาย<style=\"accent-gn\">100%</style>ของ<style=\"magic\">M.DMG</style>",
+    "Id": 1162,
+    "Par": 3401162,
+    "ShowRule": 1,
+    "Text": "Icy Bolt",
+    "Type": 3
+  },
+  "1163": {
+    "Description": "เป้าหมายฝ่ายศัตรูภายใน<style=\"accent-gn\">3</style>เมตรโดยรอบจะสร้างพลังโจมตี<style=\"accent-gn\">100%</style>ของ<style=\"magic\">M.DMG</style>",
+    "Id": 1163,
+    "Par": 3401163,
+    "ShowRule": 1,
+    "Text": "Frost Shock",
+    "Type": 3
+  },
+  "1164": {
+    "Description": "หอก<style=\"accent-gn\">ที่สามารถทะลุผ่านเป้าหมาย</style> สร้าง<style=\"accent-gn\">DMG 250%</style>ของ Atk เป็น<style=\"magic\">DMG เวทย์มนตร์</style>ใส่เป้าหมายฝ่ายศัตรู",
+    "Id": 1164,
+    "Par": 3401164,
+    "ShowRule": 1,
+    "Text": "Piercing Ice Spear",
+    "Type": 3
+  },
+  "1165": {
+    "Description": "\"เอฟเฟกต์ Lucky\": อัญเชิญ <style=\"accent-gn\">Frost Comet</style> 1 อันจากบนฟ้า เป้าหมายฝ่ายศัตรูถูกสร้าง <style=\"accent-gn\">200%</style> <style=\"magic\">M.DMG</style> ของ ATK",
+    "Id": 1165,
+    "Par": 3401165,
+    "ShowRule": 1,
+    "Text": "Frost Comet",
+    "Type": 3
+  },
+  "1166": {
+    "Description": "ปลดปล่อยชีพจรที่ทรงพลังจากรังสีน้ำแข็ง เป้าหมายฝ่ายศัตรูที่ถูกชนจะถูกสร้าง <style=\"accent-gn\">500%</style> <style=\"magic\">M.DMG</style> ของ ATK",
+    "Id": 1166,
+    "Par": 3401166,
+    "ShowRule": 1,
+    "Text": "Cold Pulse",
+    "Type": 3
+  },
+  "1167": {
+    "Description": "ทุกวินาทีได้รับ<style=\"accent-gn\">2</style>แต้ม<style=\"accent-gn\">Blade Intent</style> ลิมิต<style=\"accent-gn\">Blade Intent</style>เริ่มต้น<style=\"accent-gn\">100</style>แต้ม<br>เมื่อ<style=\"accent-gn\">Blade Intent</style>ถึง<style=\"accent-gn\">100</style>แต้ม ความเร็วการปล่อย<style=\"accent-gn\">Iaido Slash</style>เพิ่มขึ้นจำนวนมาก หลังจากปล่อย<style=\"accent-gn\">Iaido Slash</style> ค่า<style=\"accent-gn\">Blade Intent</style>จะหัก<style=\"accent-gn\">100</style>แต้ม<br><style=\"accent-gn\">Blade Intent</style>ก็สามารถเป็นทรัพยากรใช้เพื่อทำการปล่อย<style=\"accent-gn\">Thunderbolt Slash</style>",
+    "Id": 1167,
+    "Par": 3401167,
+    "ShowRule": 1,
+    "Text": "Blade Intent",
+    "Type": 3
+  },
+  "1168": {
+    "Description": "ความแข็งแกร่งของ<style=\"accent-gn\">โล่</style> +<style=\"accent-gn\">3%</style> ต่อเนื่อง<style=\"accent-gn\">10</style>วินาที ซ้อนทับได้มากสุด<style=\"accent-gn\">10</style>Stack",
+    "Id": 1168,
+    "Par": 3401168,
+    "ShowRule": 1,
+    "Text": "Sanctuary of Sand",
+    "Type": 3
+  },
+  "1169": {
+    "Description": "หลังจากกระโดด เป้าหมายฝ่ายศัตรูภายในพื้นที่จะถูกสร้าง <style=\"accent-gn\">400%</style> <style=\"physical\">P.DMG</style> ของ ATK และต้องทำงาน <style=\"accent-gn\">Weak Point Attack</style> ทำการพัฒนาตามการอัป Lv./อัปขั้นของ<style=\"accent-gn\">โจมตีทั่วไป</style>",
+    "Id": 1169,
+    "Par": 3401169,
+    "ShowRule": 1,
+    "Text": "Rageblow",
+    "Type": 3
+  },
+  "1170": {
+    "Description": "เมื่อได้รับ <style=\"physical\">P.DMG</style> มีโอกาสที่กำหนดเพื่อ<style=\"accent-gn\">บล็อก</style> DMG ครั้งนี้ ทำให้ DMG ที่ได้รับลดลง <style=\"accent-gn\">30%</style>",
+    "Id": 1170,
+    "Par": 3401170,
+    "ShowRule": 1,
+    "Text": "Block",
+    "Type": 3
+  },
+  "1171": {
+    "Description": "ทำให้เป้าหมายไม่สามารถขยับได้ ในขณะเดียวกัน DMG ธาตุน้ำแข็งที่ได้รับ +<style=\"accent-gn\">20%</style> ต่อเนื่อง <style=\"accent-gn\">10</style>s หลังจากได้รับการโจมตีจะลบ ภายในช่วงเวลาสั้นๆ เวลาต่อเนื่องเพิ่มหลายครั้งจะสั้นลง ไม่สามารถมีผลต่อ Boss ได้",
+    "Id": 1171,
+    "Par": 3401171,
+    "ShowRule": 1,
+    "Text": "แช่แข็ง",
+    "Type": 3
+  },
+  "1172": {
+    "Description": "Infusion แสงเข้ากับโล่ ดูดซับ <style=\"accent-gn\">50%</style> ของ DMG ที่ได้รับในช่วงเวลาต่อเนื่อง การได้รับซ้ำสามารถซ้อนทับปริมาณการดูดซับและรีเซ็ตระยะเวลาต่อเนื่องได้ มากสุดไม่เกิน <style=\"accent-gn\">100%</style>ของ Max HP",
+    "Id": 1172,
+    "Par": 3401172,
+    "ShowRule": 1,
+    "Text": "Holy Light Shield",
+    "Type": 3
+  },
+  "1173": {
+    "Description": "ภายในเวลา <style=\"accent-gn\">5</style>s ทุก <style=\"accent-gn\">0.5</style>s จะฟื้นฟู HP แก่เป้าหมายฝ่ายพันธมิตรตามแต้ม ATK <style=\"accent-gn\">20%</style>",
+    "Id": 1173,
+    "Par": 3401173,
+    "ShowRule": 1,
+    "Text": "Sonic Surge",
+    "Type": 3
+  },
+  "1174": {
+    "Description": "สร้างการโจมตีแก่เป้าหมายฝ่ายศัตรู<style=\"accent-gn\">150%</style>ของ<style=\"physical\">P.DMG</style>",
+    "Id": 1174,
+    "Par": 3401174,
+    "ShowRule": 1,
+    "Text": "Radiant Impact",
+    "Type": 3
+  },
+  "1175": {
+    "Description": "ทุก Stack ทำให้ Max HP สุดท้ายของตัวเอง +<style=\"accent-gn\">2%</style> มากสุดสามารถมี<style=\"accent-gn\">10</style>Stack ที่เป็น<style=\"accent-gn\">Lightforged Barrier</style> เมื่อได้รับ DMG ใดๆ จะใช้<style=\"accent-gn\">1</style>Stack ต่อเนื่อง<style=\"accent-gn\">25</style>วินาทีหรือจำนวน Stack ทั้งหมดจะถูกใช้หมด ทุกครั้งที่ได้รับจำนวน Stack จะรีเซ็ตระยะเวลา",
+    "Id": 1175,
+    "Par": 3401175,
+    "ShowRule": 1,
+    "Text": "Lightforged Barrier",
+    "Type": 3
+  },
+  "1176": {
+    "Description": "เป้าหมายถูกสร้าง <style=\"accent-gn\">240%</style> <style=\"physical\">P.DMG</style> ของ ATK พัฒนาตามการอัป Lv./อัปขั้นสกิล <style=\"accent-gn\">Vanguard Strike</style><br>เมื่อ <style=\"accent-gn\">Vanguard Pursuit</style> สร้าง DMG จะฟื้นฟู MaxHP ตัวเอง <style=\"accent-gn\">2%</style> และได้รับ <style=\"accent-gn\">ValorFearless</style>",
+    "Id": 1176,
+    "Par": 3401176,
+    "ShowRule": 1,
+    "Text": "Vanguard Hunt",
+    "Type": 3
+  },
+  "1177": {
+    "Description": "สร้างพลังโจมตี<style=\"accent-gn\">50%</style>ของ<style=\"physical\">P.DMG</style> ทำให้ SPD ของเป้าหมายที่ได้รับผลกระทบลดลง<style=\"accent-gn\">25%</style>",
+    "Id": 1177,
+    "Par": 3401177,
+    "ShowRule": 1,
+    "Text": "Divine Strike",
+    "Type": 3
+  },
+  "1178": {
+    "Description": "คำอธิบาย<style=\"accent-gn\">Melody</style>",
+    "Id": 1178,
+    "Par": 3401178,
+    "ShowRule": 1,
+    "Text": "Melody",
+    "Type": 3
+  },
+  "1179": {
+    "Description": "<style=\"accent-gn\">Power</style> +<style=\"accent-gn\">12%</style> ต่อเนื่อง <style=\"accent-gn\">8</style>s",
+    "Id": 1179,
+    "Par": 3401179,
+    "ShowRule": 1,
+    "Text": "Stormbreaker",
+    "Type": 3
+  },
+  "1180": {
+    "Description": "ยิงโน้ตสายพิณใส่ศัตรู/พันธมิตรใกล้เคียง สร้าง DMG/ฟื้นฟู HP เท่ากับ <style=\"accent-gn\">50%</style> ของค่า ATK หรือ MATK ที่สูงกว่า",
+    "Id": 1180,
+    "Par": 3401180,
+    "ShowRule": 1,
+    "Text": "Encore",
+    "Type": 3
+  },
+  "1181": {
+    "Description": "<style=\"accent-gn\">INT</style> +<style=\"accent-gn\">5%</style> ต่อเนื่อง<style=\"accent-gn\">6</style>วินาที",
+    "Id": 1181,
+    "Par": 3401181,
+    "ShowRule": 1,
+    "Text": "Fiery Passion",
+    "Type": 3
+  },
+  "1182": {
+    "Description": "ทุกวินาทีสร้างพลังโจมตี<style=\"accent-gn\">50%</style> *แต้มจำนวน Stack ของ<style=\"physical\">P.DMG</style> ต่อเนื่อง<style=\"accent-gn\">10</style>วินาที",
+    "Id": 1182,
+    "Par": 3401182,
+    "ShowRule": 1,
+    "Text": "เผาไหม้",
+    "Type": 3
+  },
+  "1183": {
+    "Description": "คำอธิบาย<style=\"accent-gn\">Note</style>",
+    "Id": 1183,
+    "Par": 3401183,
+    "ShowRule": 1,
+    "Text": "Note",
+    "Type": 3
+  },
+  "1184": {
+    "Description": "<style=\"accent-gn\">Sound Wave Surge</style>",
+    "Id": 1184,
+    "Par": 3401184,
+    "ShowRule": 1,
+    "Text": "Sound Wave Surge",
+    "Type": 3
+  },
+  "1185": {
+    "Description": "รักษาเป้าหมายเพื่อนร่วมทีมรอบตัว มีค่าเท่ากับ<style=\"accent-gn\">10%</style>พลังโจมตีเวทของนักดนตรี Soul",
+    "Id": 1185,
+    "Par": 3401185,
+    "ShowRule": 1,
+    "Text": "Healing Sound Wave",
+    "Type": 3
+  },
+  "1186": {
+    "Description": "<style=\"accent-gn\">Sonic Barrier</style>",
+    "Id": 1186,
+    "Par": 3401186,
+    "ShowRule": 1,
+    "Text": "Sonic Barrier",
+    "Type": 3
+  },
+  "1187": {
+    "Description": "สร้าง DMG +<style=\"accent-gn\">15%</style> Atk SPD+<style=\"accent-gn\">10%</style> เป็นเวลา<style=\"accent-gn\">15</style>วินาที",
+    "Id": 1187,
+    "Par": 3401187,
+    "ShowRule": 1,
+    "Text": "WindFury",
+    "Type": 3
+  },
+  "1188": {
+    "Description": "สร้างการโจมตีแก่เป้าหมายฝ่ายศัตรู<style=\"accent-gn\">80%</style>ของ<style=\"physical\">P.DMG</style>",
+    "Id": 1188,
+    "Par": 3401188,
+    "ShowRule": 1,
+    "Text": "Photon Arrow",
+    "Type": 3
+  },
+  "1189": {
+    "Description": "สร้างความเสียหาย<style=\"accent-gn\">300%</style>ของพลังโจมตีเป็น<style=\"magic\">ความเสียหายเวท</style>ต่อศัตรูรอบตัว",
+    "Id": 1189,
+    "Par": 3401189,
+    "ShowRule": 1,
+    "Text": "กระแทกสีเขียว",
+    "Type": 3
+  },
+  "1190": {
+    "Description": "เป้าหมายฝ่ายศัตรูภายในระยะถูกสร้าง <style=\"accent-gn\">60%</style> <style=\"magic\">M.DMG</style> ของ ATK ทำการพัฒนาตามการอัป Lv./อัปขั้นของ<style=\"accent-gn\">โจมตีทั่วไป</style>",
+    "Id": 1190,
+    "Par": 3401190,
+    "ShowRule": 1,
+    "Text": "Pillar of Flame",
+    "Type": 3
+  },
+  "1191": {
+    "Description": "ปลดปล่อยพุ่งชนเปลวเพลิง 1 ครั้งโดยรอบตัวเอง <style=\"accent-gn\">5</style> เมตร เป้าหมายฝ่ายศัตรูที่ถูกชนจะถูกสร้าง <style=\"accent-gn\">100%</style> <style=\"magic\">M.DMG</style> ของ ATK",
+    "Id": 1191,
+    "Par": 3401191,
+    "ShowRule": 1,
+    "Text": "Scorching Impact",
+    "Type": 3
+  },
+  "1192": {
+    "Description": "ฟื้นฟู HP เท่ากับ ATK <style=\"accent-gn\">35%</style> ภายใน <style=\"accent-gn\">10 วินาที</style> สามารถสะสมได้สูงสุด <style=\"accent-gn\">10</style> ครั้ง เมื่อใช้ครบ <style=\"accent-gn\">10</style> Stack จะทำให้ฟื้นฟูที่เหลือทำงานจาก <style=\"accent-gn\">โน้ต</style> ก่อนหน้าทันที",
+    "Id": 1192,
+    "Par": 3401192,
+    "ShowRule": 1,
+    "Text": "Note",
+    "Type": 3
+  },
+  "1193": {
+    "Description": "เมื่อปล่อย DMG หรือ<style=\"accent-gn\">สกิลเชี่ยวชาญ</style> Heal แต่ละครั้งมีโอกาสคงที่ <style=\"accent-gn\">50%</style> ทำงาน <style=\"accent-gn\">สายพิณ Encore</style> 1 อัน สร้าง DMG ใส่เป้าหมายปัจจุบันหรือฟื้นฟู HP แก่เป้าหมายฝ่ายพันธมิตรที่ HP ต่ำสุด (เพื่อนร่วมทีมก่อน)",
+    "Id": 1193,
+    "Par": 3401193,
+    "ShowRule": 1,
+    "Text": "สายพิณ Encore",
+    "Type": 3
+  },
+  "1194": {
+    "Description": "นำทางขยับ 6s ปล่อยสาดความร้อนแรงไปด้านหน้าอย่างต่อเนื่อง",
+    "Id": 1194,
+    "Par": 3401194,
+    "ShowRule": 1,
+    "Text": "Passion Burst",
+    "Type": 3
+  },
+  "1195": {
+    "Description": "ได้รับ<style=\"accent-gn\">100</style><style=\"accent-gn\">พลังงาน</style>ทันที ในเวลาเดียวกัน<style=\"accent-gn\">สกิลพิเศษ</style>สาย Heal ทั้งหมด จะสิ้นสุด CD ทันที ตามด้วยภายใน<style=\"accent-gn\">10</style>วินาที M.ATK +<style=\"accent-gn\">30%</style>",
+    "Id": 1195,
+    "Par": 3401195,
+    "ShowRule": 1,
+    "Text": "Transcendence",
+    "Type": 3
+  },
+  "1196": {
+    "Description": "ยกโล่ขึ้นแล้วพุ่งไปข้างหน้า สร้างพลังโจมตีแก่เป้าหมายฝ่ายศัตรูที่ชน<style=\"accent-gn\">200%</style>ของ<style=\"physical\">P.DMG</style>",
+    "Id": 1196,
+    "Par": 3401196,
+    "ShowRule": 1,
+    "Text": "Shield Impact",
+    "Type": 3
+  },
+  "1197": {
+    "Description": "เป้าหมายฝ่ายศัตรูภายในพื้นที่ถูกสร้าง <style=\"accent-gn\">100%</style> <style=\"magic\">M.DMG</style> ของ ATK",
+    "Id": 1197,
+    "Par": 3401197,
+    "ShowRule": 1,
+    "Text": "Flame Shock",
+    "Type": 3
+  },
+  "1198": {
+    "Description": "หลังจาก <style=\"accent-gn\">10</style>s จะระเบิด<style=\"accent-gn\">พลังงาน</style>ศักดิ์สิทธิ์โดยรอบสี่ทิศตัวเอง สร้าง <style=\"accent-gn\">500%</style> <style=\"physical\">P.DMG</style> ของ ATK และฟื้นฟู MaxHP ให้ตัวเอง <style=\"accent-gn\">15%</style>",
+    "Id": 1198,
+    "Par": 3401198,
+    "ShowRule": 1,
+    "Text": "Radiant Core",
+    "Type": 3
+  },
+  "1199": {
+    "Description": "เป้าหมายตามด้วยภายใน <style=\"accent-gn\">10</style>s ทุกวินาทีได้รับ DMG ตาม ATK <style=\"accent-gn\">20%</style> ในขณะเดียวกันเป้าหมายนี้เมื่อสร้าง DMG ให้คุณมีโอกาสคงที่ <style=\"accent-gn\">10%</style> ฟื้นฟู HP ให้คุณ ฟื้นฟูเท่ากับ Max HP ของคุณ <style=\"accent-gn\">0.5%</style>",
+    "Id": 1199,
+    "Par": 3401199,
+    "ShowRule": 1,
+    "Text": "Holy Mark",
+    "Type": 3
+  },
+  "1200": {
+    "Description": "Lucky Effect: สร้าง Adaptive DMG เทียบเท่า <style=\"accent-gn\">1375%</style> ของ ATK แก่ศัตรูภายในระยะ <style=\"accent-gn\">3m</style> แต่ไม่สามารถติด CRIT ได้",
+    "Id": 1200,
+    "Par": 3401200,
+    "ShowRule": 1,
+    "Text": "Fantasy Blast",
+    "Type": 3
+  },
+  "1201": {
+    "Description": "สร้าง DMG แบบปรับตามค่า ATK <style=\"accent-gn\">850%</style>ใส่เป้าหมายศัตรูในระยะ<style=\"accent-gn\">3</style>เมตร โดยความเสียหายCrit จะคำนวณที่<style=\"accent-gn\">500%</style>เสมอ",
+    "Id": 1201,
+    "Par": 3401201,
+    "ShowRule": 1,
+    "Text": "Dream Execution",
+    "Type": 3
+  },
+  "1202": {
+    "Description": "สร้าง DMG ปรับตามสภาพ <style=\"accent-gn\">165%</style> ของ ATK ใส่ศัตรูในระยะ <style=\"accent-gn\">3</style> เมตร",
+    "Id": 1202,
+    "Par": 3401202,
+    "ShowRule": 1,
+    "Text": "Arrow of Dream",
+    "Type": 3
+  },
+  "1203": {
+    "Description": "ทุก Stack ATK+<style=\"accent-gn\">18</style> (เพิ่มตาม Lv. ซีซั่นสูงสุด +<style=\"accent-gn\">50</style>)",
+    "Id": 1203,
+    "Par": 3401203,
+    "ShowRule": 1,
+    "Text": "Mirage Dream",
+    "Type": 3
+  },
+  "1204": {
+    "Description": "สเตตัสหลัก +<style=\"accent-gn\">450</style> (เพิ่มตาม Lv. ซีซั่นสูงสุด +<style=\"accent-gn\">1050</style>) ระหว่างผลทำงานจะไม่ได้รับ Forgotten Dream",
+    "Id": 1204,
+    "Par": 3401204,
+    "ShowRule": 1,
+    "Text": "Power of Dream",
+    "Type": 3
+  },
+  "1205": {
+    "Description": "ATK -<style=\"accent-gn\">20%</style>, ได้รับ Dreamscape DMG +<style=\"accent-gn\">10%</style>, ความเร็วเคลื่อนที่ -<style=\"accent-gn\">20%</style> (ทับซ้อนไม่ได้)",
+    "Id": 1205,
+    "Par": 3401205,
+    "ShowRule": 1,
+    "Text": "Silent",
+    "Type": 3
+  },
+  "1206": {
+    "Description": "สร้าง DMG ปรับตามสภาพ <style=\"accent-gn\">200%</style> ของ ATK ใส่ศัตรูในระยะ <style=\"accent-gn\">5</style> เมตร และทำให้เป้าหมาย <linktext=3005><style=\"ItemQuality_5\">Stun</style></linktext> <style=\"accent-gn\">1</style>.<style=\"accent-gn\">5</style> วินาที",
+    "Id": 1206,
+    "Par": 3401206,
+    "ShowRule": 1,
+    "Text": "Extinction Strike",
+    "Type": 3
+  },
+  "1207": {
+    "Description": "ภูมิคุ้มกันการตาย",
+    "Id": 1207,
+    "Par": 3401207,
+    "ShowRule": 1,
+    "Text": "ใกล้ตาย",
+    "Type": 3
+  },
+  "1208": {
+    "Description": "สร้าง DMG ปรับตามสภาพ <style=\"accent-gn\">330%</style> ของ P.DEF ใส่ศัตรูในระยะ <style=\"accent-gn\">5</style> เมตร",
+    "Id": 1208,
+    "Par": 3401208,
+    "ShowRule": 1,
+    "Text": "Vain Adjudication",
+    "Type": 3
+  },
+  "1209": {
+    "Description": "Max HP +<style=\"accent-gn\">3%</style>, Mastery +<style=\"accent-gn\">2%</style>, ทับซ้อนได้สูงสุด <style=\"accent-gn\">3</style> Stack",
+    "Id": 1209,
+    "Par": 3401209,
+    "ShowRule": 1,
+    "Text": "Endless Mind",
+    "Type": 3
+  },
+  "1210": {
+    "Description": "ทุกๆ <style=\"accent-gn\">2</style> แต้มของ Power, INT, AGI จะเปลี่ยนเป็น ATK <style=\"accent-gn\">1</style> แต้ม<br>ทุกๆ <style=\"accent-gn\">1</style> แต้มของ Endurance จะเปลี่ยนเป็น Max HP <style=\"accent-gn\">8</style> แต้ม<br>ทุกๆ <style=\"accent-gn\">1%</style> ของ Haste จะเปลี่ยนเป็นความเร็วโจมตี <style=\"accent-gn\">0.6%</style> และความเร็วร่าย Skills <style=\"accent-gn\">1%</style><br>ทุกๆ <style=\"accent-gn\">1%</style> ของ Versatility จะเพิ่มโบนัสเปอร์เซ็นต์การสร้าง DMG, การ Heal และโล่ <style=\"accent-gn\">0.35%</style>, และลด DMG ที่ได้รับ <style=\"accent-gn\">0.15%</style><br>ทุกๆ <style=\"accent-gn\">1%</style> ของ Mastery จะเปลี่ยนเป็นการเพิ่ม DMG ทั่วไป <style=\"accent-gn\">0.5%</style>",
+    "Id": 1210,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Artisan's Power",
+    "Type": 1
+  },
+  "1211": {
+    "Description": "<style=\"accent-gn\">ทักษะเฉพาะทาง</style>เพิ่มความเร็วในการโจมตี+<style=\"accent-gn\">5%</style> เป็นเวลา<style=\"accent-gn\">10</style>วินาที สะสมได้สูงสุด<style=\"accent-gn\">5</style> Stack",
+    "Id": 1211,
+    "Par": 3401211,
+    "ShowRule": 1,
+    "Text": "Infernal Combo",
+    "Type": 3
+  },
+  "1212": {
+    "Description": "เพิ่มพลังธาตุไฟ+<style=\"accent-gn\">10%</style>, นาน<style=\"accent-gn\">8</style>วินาที",
+    "Id": 1212,
+    "Par": 3401212,
+    "ShowRule": 1,
+    "Text": "เพลิงผลาญ",
+    "Type": 3
+  },
+  "1213": {
+    "Description": "สร้าง <style=\"physical\">Attack DMG</style> เท่ากับ <style=\"accent-gn\">35% × stack count</style> ของ ATK ทุกๆ <style=\"accent-gn\">2</style>s เป็นเวลา <style=\"accent-gn\">10</style>s ซ้อนทับได้สูงสุด <style=\"accent-gn\">10</style> ครั้ง เมื่อ <style=\"accent-gn\">Burn</style> ถึง Stack สูงสุด การได้รับ <style=\"accent-gn\">Burn</style> ใหม่จะสร้าง <style=\"physical\">Attack DMG</style> เท่ากับ <style=\"accent-gn\">35%</style> ของ ATK ทันที",
+    "Id": 1213,
+    "Par": 3401213,
+    "ShowRule": 1,
+    "Text": "เผาไหม้",
+    "Type": 3
+  },
+  "1214": {
+    "Description": "สร้าง <style=\"physical\">Attack DMG</style> เท่ากับ <style=\"accent-gn\">800%</style> ของ ATK แก่ศัตรูในระยะ และได้รับ <style=\"accent-gn\">10</style> <style=\"accent-gn\">Flame Soul</style>",
+    "Id": 1214,
+    "Par": 3401214,
+    "ShowRule": 1,
+    "Text": "ระเบิดเพลิง",
+    "Type": 3
+  },
+  "1215": {
+    "Description": "สร้าง <style=\"physical\">Attack DMG</style> เท่ากับ <style=\"accent-gn\">500%</style> ของ ATK แก่เป้าหมายศัตรู",
+    "Id": 1215,
+    "Par": 3401215,
+    "ShowRule": 1,
+    "Text": "ดาวตกเพลิงดิน",
+    "Type": 3
+  },
+  "1216": {
+    "Description": "แต่ละ hit มีโอกาสเพิ่ม Stage พิเศษตามตัวคูณของสกิลปัจจุบัน:<br>Formless Flame Slash<style=\"accent-gn\"> Stage 1</style> Chance: <style=\"accent-gn\">20%</style>.<br>Formless Flame Slash<style=\"accent-gn\"> Stage 2</style> Chance: <style=\"accent-gn\">10%</style>.<br>Formless Flame Slash<style=\"accent-gn\"> Stage 3</style> Chance: <style=\"accent-gn\">5%</style>.",
+    "Id": 1216,
+    "Par": 3401216,
+    "ShowRule": 1,
+    "Text": "ศาสตราไฟไร้รูปลักษณ์",
+    "Type": 3
+  },
+  "1217": {
+    "Description": "สร้าง <style=\"physical\">Attack DMG</style> เทียบเท่า <style=\"accent-gn\">800%</style> ของ ATK แก่ศัตรูภายในระยะ",
+    "Id": 1217,
+    "Par": 3401217,
+    "ShowRule": 1,
+    "Text": "Great Crimson Lotus",
+    "Type": 3
+  },
+  "1218": {
+    "Description": "เมื่อได้รับ DMG หากเปอร์เซ็นต์ HP ของตัวเองสูงกว่าผู้โจมตี DMG ที่ได้รับจากผู้โจมตีคนนั้นจะลดลง <style=\"accent-gn\">10%</style><br>เมื่อสร้าง DMG หากเปอร์เซ็นต์ HP ของตัวเองสูงกว่าเป้าหมาย DMG ที่สร้างต่อเป้าหมายนั้นจะเพิ่มขึ้น <style=\"accent-gn\">5%</style>",
+    "Id": 1218,
+    "Par": 3401218,
+    "ShowRule": 1,
+    "Text": "Flame Suppression",
+    "Type": 3
+  },
+  "1219": {
+    "Description": "ทุก Str, Int, Agi<style=\"accent-gn\">2</style> แต้มจะเปลี่ยนเป็น Atk <style=\"accent-gn\">1</style> แต้ม<br>ทุก Endurance <style=\"accent-gn\">1</style> แต้มจะเปลี่ยนเป็น Max HP <style=\"accent-gn\">8</style> แต้ม<br><style=\"accent-gn\">Crit%</style> , <style=\"accent-gn\">Lucky%</style> ,<style=\"accent-gn\">Mastery%</style>,<style=\"accent-gn\">Haste%</style> และ <style=\"accent-gn\">Versatility%</style> ของคุณจะเสียบัฟที่มี และได้รับความสามารถ:ในปัจจุบัน สกิล Resonance รับประกันว่าจะโจมตีแบบ Crit แต่ค่า DMG แบบ Crit กำหนดไว้ตายตัว <style=\"accent-gn\">Crit%+Lucky%+Mastery%+Haste%+Versatility%</style> รวมเพื่อคำนวณ",
+    "Id": 1219,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "ความสามารถ",
+    "Type": 1
+  },
+  "1500": {
+    "Description": "",
+    "Id": 1500,
+    "Par": 1714,
+    "ShowRule": 1,
+    "Text": "Iaido Slash",
+    "Type": 2
+  },
+  "1501": {
+    "Description": "",
+    "Id": 1501,
+    "Par": 1717,
+    "ShowRule": 1,
+    "Text": "Flash strike",
+    "Type": 2
+  },
+  "1502": {
+    "Description": "",
+    "Id": 1502,
+    "Par": 1713,
+    "ShowRule": 1,
+    "Text": "Oblivion Combo",
+    "Type": 2
+  },
+  "1503": {
+    "Description": "",
+    "Id": 1503,
+    "Par": 1724,
+    "ShowRule": 1,
+    "Text": "Thundercut",
+    "Type": 2
+  },
+  "1504": {
+    "Description": "",
+    "Id": 1504,
+    "Par": 1730,
+    "ShowRule": 1,
+    "Text": "Volt Surge",
+    "Type": 2
+  },
+  "1505": {
+    "Description": "",
+    "Id": 1505,
+    "Par": 1731,
+    "ShowRule": 1,
+    "Text": "Stormflash",
+    "Type": 2
+  },
+  "1506": {
+    "Description": "",
+    "Id": 1506,
+    "Par": 1738,
+    "ShowRule": 1,
+    "Text": "Chaos Breaker",
+    "Type": 2
+  },
+  "1507": {
+    "Description": "",
+    "Id": 1507,
+    "Par": 1715,
+    "ShowRule": 1,
+    "Text": "Moonstrike",
+    "Type": 2
+  },
+  "1508": {
+    "Description": "",
+    "Id": 1508,
+    "Par": 1246,
+    "ShowRule": 1,
+    "Text": "Tidepool",
+    "Type": 2
+  },
+  "1509": {
+    "Description": "",
+    "Id": 1509,
+    "Par": 1241,
+    "ShowRule": 1,
+    "Text": "Frostbeam",
+    "Type": 2
+  },
+  "1510": {
+    "Description": "",
+    "Id": 1510,
+    "Par": 1211,
+    "ShowRule": 1,
+    "Text": "Crystal Veil",
+    "Type": 2
+  },
+  "1511": {
+    "Description": "",
+    "Id": 1511,
+    "Par": 1239,
+    "ShowRule": 1,
+    "Text": "Meteor Storm",
+    "Type": 2
+  },
+  "1512": {
+    "Description": "",
+    "Id": 1512,
+    "Par": 1242,
+    "ShowRule": 1,
+    "Text": "Frost Lance",
+    "Type": 2
+  },
+  "1513": {
+    "Description": "",
+    "Id": 1513,
+    "Par": 1244,
+    "ShowRule": 1,
+    "Text": "Blizzard",
+    "Type": 2
+  },
+  "1514": {
+    "Description": "",
+    "Id": 1514,
+    "Par": 1240,
+    "ShowRule": 1,
+    "Text": "Frozen Gale",
+    "Type": 2
+  },
+  "1515": {
+    "Description": "",
+    "Id": 1515,
+    "Par": 1243,
+    "ShowRule": 1,
+    "Text": "Permafrost",
+    "Type": 2
+  },
+  "1516": {
+    "Description": "",
+    "Id": 1516,
+    "Par": 1248,
+    "ShowRule": 1,
+    "Text": "Glacier Hymn",
+    "Type": 2
+  },
+  "1517": {
+    "Description": "",
+    "Id": 1517,
+    "Par": 1418,
+    "ShowRule": 1,
+    "Text": "Gale Thrust",
+    "Type": 2
+  },
+  "1518": {
+    "Description": "",
+    "Id": 1518,
+    "Par": 1430,
+    "ShowRule": 1,
+    "Text": "Valor Cyclone",
+    "Type": 2
+  },
+  "1519": {
+    "Description": "",
+    "Id": 1519,
+    "Par": 1424,
+    "ShowRule": 1,
+    "Text": "Instant Edge",
+    "Type": 2
+  },
+  "1520": {
+    "Description": "",
+    "Id": 1520,
+    "Par": 1419,
+    "ShowRule": 1,
+    "Text": "Skyfall",
+    "Type": 2
+  },
+  "1521": {
+    "Description": "",
+    "Id": 1521,
+    "Par": 1431,
+    "ShowRule": 1,
+    "Text": "Sharp Impact",
+    "Type": 2
+  },
+  "1522": {
+    "Description": "",
+    "Id": 1522,
+    "Par": 1422,
+    "ShowRule": 1,
+    "Text": "Breach Pursuit",
+    "Type": 2
+  },
+  "1523": {
+    "Description": "",
+    "Id": 1523,
+    "Par": 1421,
+    "ShowRule": 1,
+    "Text": "Spiral Thrust",
+    "Type": 2
+  },
+  "1524": {
+    "Description": "",
+    "Id": 1524,
+    "Par": 1425,
+    "ShowRule": 1,
+    "Text": "Falcon Toss",
+    "Type": 2
+  },
+  "1525": {
+    "Description": "",
+    "Id": 1525,
+    "Par": 1409,
+    "ShowRule": 1,
+    "Text": "Typhoon Cleave",
+    "Type": 2
+  },
+  "1526": {
+    "Description": "",
+    "Id": 1526,
+    "Par": 1518,
+    "ShowRule": 1,
+    "Text": "Wild Bloom",
+    "Type": 2
+  },
+  "1527": {
+    "Description": "",
+    "Id": 1527,
+    "Par": 1507,
+    "ShowRule": 1,
+    "Text": "Life Bloom",
+    "Type": 2
+  },
+  "1528": {
+    "Description": "",
+    "Id": 1528,
+    "Par": 1522,
+    "ShowRule": 1,
+    "Text": "Nourish",
+    "Type": 2
+  },
+  "1529": {
+    "Description": "",
+    "Id": 1529,
+    "Par": 1519,
+    "ShowRule": 1,
+    "Text": "Feral Seed",
+    "Type": 2
+  },
+  "1530": {
+    "Description": "",
+    "Id": 1530,
+    "Par": 1520,
+    "ShowRule": 1,
+    "Text": "Infusion",
+    "Type": 2
+  },
+  "1531": {
+    "Description": "",
+    "Id": 1531,
+    "Par": 1509,
+    "ShowRule": 1,
+    "Text": "Divine Circle Bloom",
+    "Type": 2
+  },
+  "1532": {
+    "Description": "",
+    "Id": 1532,
+    "Par": 1523,
+    "ShowRule": 1,
+    "Text": "Regen Pulse",
+    "Type": 2
+  },
+  "1533": {
+    "Description": "",
+    "Id": 1533,
+    "Par": 1529,
+    "ShowRule": 1,
+    "Text": "Blossom Charge",
+    "Type": 2
+  },
+  "1534": {
+    "Description": "",
+    "Id": 1534,
+    "Par": 1521,
+    "ShowRule": 1,
+    "Text": "Grove Wish",
+    "Type": 2
+  },
+  "1535": {
+    "Description": "",
+    "Id": 1535,
+    "Par": 1531,
+    "ShowRule": 1,
+    "Text": "Nature Ward",
+    "Type": 2
+  },
+  "1536": {
+    "Description": "",
+    "Id": 1536,
+    "Par": 1907,
+    "ShowRule": 1,
+    "Text": "Cracking Echo",
+    "Type": 2
+  },
+  "1537": {
+    "Description": "",
+    "Id": 1537,
+    "Par": 1924,
+    "ShowRule": 1,
+    "Text": "Star Shatter",
+    "Type": 2
+  },
+  "1538": {
+    "Description": "",
+    "Id": 1538,
+    "Par": 1931,
+    "ShowRule": 1,
+    "Text": "Countercrush",
+    "Type": 2
+  },
+  "1539": {
+    "Description": "",
+    "Id": 1539,
+    "Par": 1937,
+    "ShowRule": 1,
+    "Text": "Granite Fury",
+    "Type": 2
+  },
+  "1540": {
+    "Description": "",
+    "Id": 1540,
+    "Par": 1922,
+    "ShowRule": 1,
+    "Text": "Shield Bash",
+    "Type": 2
+  },
+  "1541": {
+    "Description": "",
+    "Id": 1541,
+    "Par": 1927,
+    "ShowRule": 1,
+    "Text": "Sandshroud",
+    "Type": 2
+  },
+  "1542": {
+    "Description": "",
+    "Id": 1542,
+    "Par": 1936,
+    "ShowRule": 1,
+    "Text": "Stoneform",
+    "Type": 2
+  },
+  "1543": {
+    "Description": "",
+    "Id": 1543,
+    "Par": 1938,
+    "ShowRule": 1,
+    "Text": "Brave Bastion",
+    "Type": 2
+  },
+  "1544": {
+    "Description": "",
+    "Id": 1544,
+    "Par": 1925,
+    "ShowRule": 1,
+    "Text": "Rage Burst",
+    "Type": 2
+  },
+  "1545": {
+    "Description": "",
+    "Id": 1545,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "ยิงกระหน่ำ",
+    "Type": 2
+  },
+  "1546": {
+    "Description": "",
+    "Id": 1546,
+    "Par": 2209,
+    "ShowRule": 1,
+    "Text": "Luminary Bolt",
+    "Type": 2
+  },
+  "1547": {
+    "Description": "",
+    "Id": 1547,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Double Arrow",
+    "Type": 2
+  },
+  "1548": {
+    "Description": "",
+    "Id": 1548,
+    "Par": 2238,
+    "ShowRule": 1,
+    "Text": "Blast Shot",
+    "Type": 2
+  },
+  "1549": {
+    "Description": "",
+    "Id": 1549,
+    "Par": 2237,
+    "ShowRule": 1,
+    "Text": "Wild Call",
+    "Type": 2
+  },
+  "1550": {
+    "Description": "",
+    "Id": 1550,
+    "Par": 2232,
+    "ShowRule": 1,
+    "Text": "Arrow Rain",
+    "Type": 2
+  },
+  "1551": {
+    "Description": "",
+    "Id": 1551,
+    "Par": 1528,
+    "ShowRule": 1,
+    "Text": "Vital Surge",
+    "Type": 2
+  },
+  "1552": {
+    "Description": "",
+    "Id": 1552,
+    "Par": 1527,
+    "ShowRule": 1,
+    "Text": "Bloomheal",
+    "Type": 2
+  },
+  "1553": {
+    "Description": "",
+    "Id": 1553,
+    "Par": 1420,
+    "ShowRule": 1,
+    "Text": "Galeform",
+    "Type": 2
+  },
+  "1554": {
+    "Description": "",
+    "Id": 1554,
+    "Par": 1718,
+    "ShowRule": 1,
+    "Text": "Raijin Dash",
+    "Type": 2
+  },
+  "1555": {
+    "Description": "",
+    "Id": 1555,
+    "Par": 2231,
+    "ShowRule": 1,
+    "Text": "Focus",
+    "Type": 2
+  },
+  "1556": {
+    "Description": "",
+    "Id": 1556,
+    "Par": 1705,
+    "ShowRule": 1,
+    "Text": "Overdrive",
+    "Type": 2
+  },
+  "1557": {
+    "Description": "",
+    "Id": 1557,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Quadraflare",
+    "Type": 2
+  },
+  "1558": {
+    "Description": "",
+    "Id": 1558,
+    "Par": 1210,
+    "ShowRule": 1,
+    "Text": "Maelstrom",
+    "Type": 2
+  },
+  "1559": {
+    "Description": "",
+    "Id": 1559,
+    "Par": 2421,
+    "ShowRule": 1,
+    "Text": "Sacred Blade",
+    "Type": 2
+  },
+  "1560": {
+    "Description": "",
+    "Id": 1560,
+    "Par": 2409,
+    "ShowRule": 1,
+    "Text": "Divine Circle",
+    "Type": 2
+  },
+  "1561": {
+    "Description": "",
+    "Id": 1561,
+    "Par": 2405,
+    "ShowRule": 1,
+    "Text": "Valor Bash",
+    "Type": 2
+  },
+  "1562": {
+    "Description": "",
+    "Id": 1562,
+    "Par": 2408,
+    "ShowRule": 1,
+    "Text": "Shield Toss",
+    "Type": 2
+  },
+  "1563": {
+    "Description": "",
+    "Id": 1563,
+    "Par": 2412,
+    "ShowRule": 1,
+    "Text": "Reckoning",
+    "Type": 2
+  },
+  "1564": {
+    "Description": "",
+    "Id": 1564,
+    "Par": 2410,
+    "ShowRule": 1,
+    "Text": "Judgment",
+    "Type": 2
+  },
+  "1565": {
+    "Description": "",
+    "Id": 1565,
+    "Par": 2415,
+    "ShowRule": 1,
+    "Text": "Aegis Ward",
+    "Type": 2
+  },
+  "1566": {
+    "Description": "",
+    "Id": 1566,
+    "Par": 2406,
+    "ShowRule": 1,
+    "Text": "Vanguard Strike",
+    "Type": 2
+  },
+  "1567": {
+    "Description": "",
+    "Id": 1567,
+    "Par": 2419,
+    "ShowRule": 1,
+    "Text": "Zeal Crusade",
+    "Type": 2
+  },
+  "1568": {
+    "Description": "",
+    "Id": 1568,
+    "Par": 2420,
+    "ShowRule": 1,
+    "Text": "Radiance",
+    "Type": 2
+  },
+  "1569": {
+    "Description": "",
+    "Id": 1569,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Courage Melody",
+    "Type": 2
+  },
+  "1570": {
+    "Description": "",
+    "Id": 1570,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Heat Eruption",
+    "Type": 2
+  },
+  "1571": {
+    "Description": "",
+    "Id": 1571,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "คลื่นจังหวะ",
+    "Type": 2
+  },
+  "1572": {
+    "Description": "",
+    "Id": 1572,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Soaring Slide Encore",
+    "Type": 2
+  },
+  "1573": {
+    "Description": "",
+    "Id": 1573,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Full Power",
+    "Type": 2
+  },
+  "1574": {
+    "Description": "",
+    "Id": 1574,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Vitality Bloom",
+    "Type": 2
+  },
+  "1575": {
+    "Description": "",
+    "Id": 1575,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Rebirth Blossom Melody",
+    "Type": 2
+  },
+  "1576": {
+    "Description": "",
+    "Id": 1576,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Passion Rhapsody",
+    "Type": 2
+  },
+  "1577": {
+    "Description": "",
+    "Id": 1577,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Healing Wave",
+    "Type": 2
+  },
+  "1578": {
+    "Description": "",
+    "Id": 1578,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Burst Note",
+    "Type": 2
+  },
+  "1579": {
+    "Description": "",
+    "Id": 1579,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "ยกระดับ - สุดมันส์ทั่วสนาม",
+    "Type": 2
+  },
+  "1580": {
+    "Description": "",
+    "Id": 1580,
+    "Par": 2230,
+    "ShowRule": 1,
+    "Text": "Torrent Volley",
+    "Type": 2
+  },
+  "1581": {
+    "Description": "",
+    "Id": 1581,
+    "Par": 2234,
+    "ShowRule": 1,
+    "Text": "Radiance Barrage",
+    "Type": 2
+  },
+  "1582": {
+    "Description": "",
+    "Id": 1582,
+    "Par": 2233,
+    "ShowRule": 1,
+    "Text": "Powerdraw",
+    "Type": 2
+  },
+  "1583": {
+    "Description": "",
+    "Id": 1583,
+    "Par": 1524,
+    "ShowRule": 1,
+    "Text": "Fast Growth",
+    "Type": 2
+  },
+  "1584": {
+    "Description": "",
+    "Id": 1584,
+    "Par": 1735,
+    "ShowRule": 1,
+    "Text": "Dracoflash",
+    "Type": 2
+  },
+  "1585": {
+    "Description": "",
+    "Id": 1585,
+    "Par": 1736,
+    "ShowRule": 1,
+    "Text": "Phantom Slash",
+    "Type": 2
+  },
+  "1586": {
+    "Description": "",
+    "Id": 1586,
+    "Par": 1733,
+    "ShowRule": 1,
+    "Text": "Storm Scythe",
+    "Type": 2
+  },
+  "1587": {
+    "Description": "",
+    "Id": 1587,
+    "Par": 1737,
+    "ShowRule": 1,
+    "Text": "Divine Sickle",
+    "Type": 2
+  },
+  "1588": {
+    "Description": "",
+    "Id": 1588,
+    "Par": 1734,
+    "ShowRule": 1,
+    "Text": "Thunder Cut",
+    "Type": 2
+  },
+  "1589": {
+    "Description": "",
+    "Id": 1589,
+    "Par": 1433,
+    "ShowRule": 1,
+    "Text": "Azure Sever",
+    "Type": 2
+  },
+  "1590": {
+    "Description": "",
+    "Id": 1590,
+    "Par": 1434,
+    "ShowRule": 1,
+    "Text": "Vortex Strike",
+    "Type": 2
+  },
+  "1591": {
+    "Description": "",
+    "Id": 1591,
+    "Par": 1435,
+    "ShowRule": 1,
+    "Text": "Drake Cannon",
+    "Type": 2
+  },
+  "1592": {
+    "Description": "",
+    "Id": 1592,
+    "Par": 1411,
+    "ShowRule": 1,
+    "Text": "Swift Blade",
+    "Type": 2
+  },
+  "1593": {
+    "Description": "",
+    "Id": 1593,
+    "Par": 1525,
+    "ShowRule": 1,
+    "Text": "Stag Charge",
+    "Type": 2
+  },
+  "1594": {
+    "Description": "",
+    "Id": 1594,
+    "Par": 1941,
+    "ShowRule": 1,
+    "Text": "Starfall",
+    "Type": 2
+  },
+  "1595": {
+    "Description": "",
+    "Id": 1595,
+    "Par": 1942,
+    "ShowRule": 1,
+    "Text": "Rupture",
+    "Type": 2
+  },
+  "1597": {
+    "Description": "",
+    "Id": 1597,
+    "Par": 1943,
+    "ShowRule": 1,
+    "Text": "Stone Fist",
+    "Type": 2
+  },
+  "1598": {
+    "Description": "",
+    "Id": 1598,
+    "Par": 2416,
+    "ShowRule": 1,
+    "Text": "Condemn",
+    "Type": 2
+  },
+  "1599": {
+    "Description": "",
+    "Id": 1599,
+    "Par": 2417,
+    "ShowRule": 1,
+    "Text": "Enhanced Condemn",
+    "Type": 2
+  },
+  "1600": {
+    "Description": "",
+    "Id": 1600,
+    "Par": 2413,
+    "ShowRule": 1,
+    "Text": "Inferno Reckon",
+    "Type": 2
+  },
+  "1601": {
+    "Description": "",
+    "Id": 1601,
+    "Par": 2220,
+    "ShowRule": 1,
+    "Text": "Storm Arrow",
+    "Type": 2
+  },
+  "1602": {
+    "Description": "",
+    "Id": 1602,
+    "Par": 2240,
+    "ShowRule": 1,
+    "Text": "Lumi Torrent",
+    "Type": 2
+  },
+  "1603": {
+    "Description": "",
+    "Id": 1603,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Rhapsody of Flame",
+    "Type": 2
+  },
+  "1604": {
+    "Description": "",
+    "Id": 1604,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Amplified Beat",
+    "Type": 2
+  },
+  "1605": {
+    "Description": "",
+    "Id": 1605,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Harmonic Anthem",
+    "Type": 2
+  },
+  "1606": {
+    "Description": "",
+    "Id": 1606,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Healing Melody",
+    "Type": 2
+  },
+  "1607": {
+    "Description": "",
+    "Id": 1607,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Fivefold Crescendo",
+    "Type": 2
+  },
+  "1608": {
+    "Description": "",
+    "Id": 1608,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Passion Burst",
+    "Type": 2
+  },
+  "1609": {
+    "Description": "",
+    "Id": 1609,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Healing Beat",
+    "Type": 2
+  },
+  "1610": {
+    "Description": "",
+    "Id": 1610,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Center Stage",
+    "Type": 2
+  },
+  "1611": {
+    "Description": "",
+    "Id": 1611,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "ยกระดับ - สุดมันส์ทั่วสนาม",
+    "Type": 2
+  },
+  "1612": {
+    "Description": "",
+    "Id": 1612,
+    "Par": 2335,
+    "ShowRule": 1,
+    "Text": "Infinite Rhapsody",
+    "Type": 2
+  },
+  "1613": {
+    "Description": "",
+    "Id": 1613,
+    "Par": 2336,
+    "ShowRule": 1,
+    "Text": "Concert Circuit",
+    "Type": 2
+  },
+  "1614": {
+    "Description": "",
+    "Id": 1614,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Heroic Melody",
+    "Type": 2
+  },
+  "1615": {
+    "Description": "",
+    "Id": 1615,
+    "Par": 2317,
+    "ShowRule": 1,
+    "Text": "Fierce Strike",
+    "Type": 2
+  },
+  "1616": {
+    "Description": "",
+    "Id": 1616,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Encore",
+    "Type": 2
+  },
+  "1617": {
+    "Description": "",
+    "Id": 1617,
+    "Par": 2332,
+    "ShowRule": 1,
+    "Text": "Passion Burst",
+    "Type": 2
+  },
+  "1618": {
+    "Description": "",
+    "Id": 1618,
+    "Par": 2301,
+    "ShowRule": 1,
+    "Text": "Resonant Strings",
+    "Type": 2
+  },
+  "1619": {
+    "Description": "",
+    "Id": 1619,
+    "Par": 1605,
+    "ShowRule": 1,
+    "Text": "โหมไฟลุกโชน",
+    "Type": 2
+  },
+  "1620": {
+    "Description": "",
+    "Id": 1620,
+    "Par": 1619,
+    "ShowRule": 1,
+    "Text": "เฟ่ยเถิงเหยียนฮวา",
+    "Type": 2
+  },
+  "1621": {
+    "Description": "",
+    "Id": 1621,
+    "Par": 1606,
+    "ShowRule": 1,
+    "Text": "ฟันอย่างบ้าคลั่ง",
+    "Type": 2
+  },
+  "1622": {
+    "Description": "",
+    "Id": 1622,
+    "Par": 1607,
+    "ShowRule": 1,
+    "Text": "จู่โจมเปลวเพลิง",
+    "Type": 2
+  },
+  "1623": {
+    "Description": "",
+    "Id": 1623,
+    "Par": 1608,
+    "ShowRule": 1,
+    "Text": "ฟาดฟันด้วยความโกรธ",
+    "Type": 2
+  },
+  "1624": {
+    "Description": "",
+    "Id": 1624,
+    "Par": 1612,
+    "ShowRule": 1,
+    "Text": "ขวานสายลม",
+    "Type": 2
+  },
+  "1625": {
+    "Description": "",
+    "Id": 1625,
+    "Par": 1615,
+    "ShowRule": 1,
+    "Text": "Wasteland's End",
+    "Type": 2
+  },
+  "1626": {
+    "Description": "",
+    "Id": 1626,
+    "Par": 1613,
+    "ShowRule": 1,
+    "Text": "ระบำเปลวเพลิงคลุ้มคลั่ง",
+    "Type": 2
+  },
+  "1627": {
+    "Description": "",
+    "Id": 1627,
+    "Par": 1614,
+    "ShowRule": 1,
+    "Text": "ดาวตกไร้พันธนาการ",
+    "Type": 2
+  },
+  "1628": {
+    "Description": "",
+    "Id": 1628,
+    "Par": 1621,
+    "ShowRule": 1,
+    "Text": "ทักษะ \"ตกสวรรค์ปีศาจเพลิง\"",
+    "Type": 2
+  },
+  "1629": {
+    "Description": "",
+    "Id": 1629,
+    "Par": 1617,
+    "ShowRule": 1,
+    "Text": "อสูรเพลิงไร้สิ้นสุด",
+    "Type": 2
+  },
+  "1630": {
+    "Description": "",
+    "Id": 1630,
+    "Par": 1616,
+    "ShowRule": 1,
+    "Text": "ดั่งกระแสธารฟาดฟัน",
+    "Type": 2
+  },
+  "3000": {
+    "Description": "ขัดจังหวะสกิลที่เป้าหมายกำลังสวด และทำให้เข้าสู่ CD ไม่มีผลต่อ Boss",
+    "Id": 3000,
+    "Par": 3403000,
+    "ShowRule": 1,
+    "Text": "ขัดจังหวะ",
+    "Type": 3
+  },
+  "3001": {
+    "Description": "ทำให้ศัตรูไม่สามารถสวดคาถาได้ คือเอฟเฟกต์ด้านลบที่ไม่มีผลต่อ Boss",
+    "Id": 3001,
+    "Par": 3403001,
+    "ShowRule": 1,
+    "Text": "ใบ้",
+    "Type": 3
+  },
+  "3002": {
+    "Description": "ทำให้ศัตรูไม่สามารถเคลื่อนที่ได้ คือเอฟเฟกต์ด้านลบที่ไม่มีผลต่อ Boss",
+    "Id": 3002,
+    "Par": 3403002,
+    "ShowRule": 1,
+    "Text": "ตรึงร่าง",
+    "Type": 3
+  },
+  "3003": {
+    "Description": "ลด SPD ของศัตรู <style=\"accent-gn\">30%</style>",
+    "Id": 3003,
+    "Par": 3403003,
+    "ShowRule": 1,
+    "Text": "Frost",
+    "Type": 3
+  },
+  "3004": {
+    "Description": "ทำให้เอฟเฟกต์ Heal ที่ศัตรูได้รับลดลงคือเอฟเฟกต์ด้านลบ",
+    "Id": 3004,
+    "Par": 3403004,
+    "ShowRule": 1,
+    "Text": "Wound",
+    "Type": 3
+  },
+  "3005": {
+    "Description": "ทำให้ศัตรูไม่สามารถทำอะไรได้ เป็นสถานะผิดปกติที่ไม่มีผลต่อ Boss",
+    "Id": 3005,
+    "Par": 3403005,
+    "ShowRule": 1,
+    "Text": "Stun",
+    "Type": 3
+  },
+  "3006": {
+    "Description": "ทำให้ศัตรูไม่สามารถกระทำใดได้ หลังจากได้รับ DMG จะลบคือสถานะผิดปกติที่ไม่มีผลต่อ Boss",
+    "Id": 3006,
+    "Par": 3403006,
+    "ShowRule": 1,
+    "Text": "แช่แข็ง",
+    "Type": 3
+  },
+  "3007": {
+    "Description": "ทำให้ศัตรูไม่สามารถกระทำใดได้ หลังจากได้รับ DMG จะลบคือสถานะผิดปกติที่ไม่มีผลต่อ Boss",
+    "Id": 3007,
+    "Par": 3403007,
+    "ShowRule": 1,
+    "Text": "เป็นหิน",
+    "Type": 3
+  },
+  "3008": {
+    "Description": "ทำให้ศัตรูไม่สามารถกระทำใดได้ หลังจากได้รับ DMG จะลบคือสถานะผิดปกติที่ไม่มีผลต่อ Boss",
+    "Id": 3008,
+    "Par": 3403008,
+    "ShowRule": 1,
+    "Text": "อัมพาต",
+    "Type": 3
+  },
+  "3009": {
+    "Description": "ทำให้บังคับให้ศัตรูเคลื่อนที่ไปที่พื้นที่ใกล้เป้าหมายปัจจุบันเพื่อทำการโจมตีคือสถานะผิดปกติที่ไม่มีผลต่อ Boss",
+    "Id": 3009,
+    "Par": 3403009,
+    "ShowRule": 1,
+    "Text": "พร่ามัว",
+    "Type": 3
+  },
+  "3010": {
+    "Description": "ทำให้ศัตรูหวาดกลัวจนตัวสั่น หลังจากได้รับ DMG จะลบคือสถานะผิดปกติที่ไม่มีผลต่อ Boss",
+    "Id": 3010,
+    "Par": 3403010,
+    "ShowRule": 1,
+    "Text": "หวาดกลัว",
+    "Type": 3
+  },
+  "3011": {
+    "Description": "ลด SPD ของศัตรู คือเอฟเฟกต์ด้านลบที่ไม่มีผลต่อ Boss",
+    "Id": 3011,
+    "Par": 3403011,
+    "ShowRule": 1,
+    "Text": "ลด SPD",
+    "Type": 3
+  },
+  "3012": {
+    "Description": "ทำให้ศัตรูสูญเสีย HP อย่างต่อเนื่องคือเอฟเฟกต์ด้านลบ",
+    "Id": 3012,
+    "Par": 3403012,
+    "ShowRule": 1,
+    "Text": "Poisoned",
+    "Type": 3
+  },
+  "3013": {
+    "Description": "ทำให้ศัตรูสูญเสีย HP อย่างต่อเนื่องคือเอฟเฟกต์ด้านลบ",
+    "Id": 3013,
+    "Par": 3403013,
+    "ShowRule": 1,
+    "Text": "เลือดไหล",
+    "Type": 3
+  },
+  "3014": {
+    "Description": "ทำให้ศัตรูสูญเสีย HP อย่างต่อเนื่องคือเอฟเฟกต์ด้านลบ",
+    "Id": 3014,
+    "Par": 3403014,
+    "ShowRule": 1,
+    "Text": "Burn",
+    "Type": 3
+  },
+  "3020": {
+    "Description": "รวมถึง <style=\"accent-gn\">Stun</style>, <style=\"accent-gn\">แช่แข็ง</style>, <style=\"accent-gn\">เป็นหิน</style>, <style=\"accent-gn\">อัมพาต</style>, <style=\"accent-gn\">พร่ามัว</style>, <style=\"accent-gn\">หวาดกลัว</style>",
+    "Id": 3020,
+    "Par": 3403020,
+    "ShowRule": 1,
+    "Text": "สถานะผิดปกติ",
+    "Type": 3
+  },
+  "3021": {
+    "Description": "ประกอบด้วย<style=\"accent-gn\">ใบ้</style> <style=\"accent-gn\">ลดความเร็ว</style> <style=\"accent-gn\">ตรึงร่าง</style> <style=\"accent-gn\">เจ็บหนัก</style> <style=\"accent-gn\">ติดพิษ</style> <style=\"accent-gn\">เลือดไหล</style> <style=\"accent-gn\">เผาไหม้</style>",
+    "Id": 3021,
+    "Par": 3403021,
+    "ShowRule": 1,
+    "Text": "เอฟเฟกต์ด้านลบ",
+    "Type": 3
+  }
+}

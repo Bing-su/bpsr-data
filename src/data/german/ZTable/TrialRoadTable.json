@@ -1,0 +1,1532 @@
+{
+  "1001": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 23301,
+    "ExtraTarget": [
+      [1, 2000104, 12100001],
+      [2, 2000105, 12100002]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 1001,
+    "RoomName": "Angriff 1",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 0,
+    "UnlockTime": []
+  },
+  "1002": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 23401,
+    "ExtraTarget": [
+      [1, 2000104, 12100003],
+      [2, 2000105, 12100004]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 1002,
+    "RoomName": "Angriff 2",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1001,
+    "UnlockTime": []
+  },
+  "1003": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 23101,
+    "ExtraTarget": [
+      [1, 2000112, 12100005],
+      [2, 2000113, 12100006]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 1003,
+    "RoomName": "Angriff 3",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1002,
+    "UnlockTime": []
+  },
+  "1004": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 23201,
+    "ExtraTarget": [
+      [1, 2000104, 12100007],
+      [2, 2000105, 12100008]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 1004,
+    "RoomName": "Angriff 4",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1003,
+    "UnlockTime": []
+  },
+  "1005": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 23501,
+    "ExtraTarget": [
+      [1, 2000104, 12100009],
+      [2, 2000105, 12100010]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 1005,
+    "RoomName": "Angriff 5",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1004,
+    "UnlockTime": []
+  },
+  "1006": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 22501,
+    "ExtraTarget": [
+      [1, 2000104, 12100011],
+      [2, 2000105, 12100012]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 1006,
+    "RoomName": "Angriff 6",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1005,
+    "UnlockTime": []
+  },
+  "1007": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 22601,
+    "ExtraTarget": [
+      [1, 2000104, 12100013],
+      [2, 2000105, 12100014]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 1007,
+    "RoomName": "Angriff 7",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1006,
+    "UnlockTime": []
+  },
+  "1008": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 22701,
+    "ExtraTarget": [
+      [1, 2000104, 12100015],
+      [2, 2000105, 12100016]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 1008,
+    "RoomName": "Angriff 8",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1007,
+    "UnlockTime": []
+  },
+  "1009": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 23102,
+    "ExtraTarget": [
+      [1, 2000112, 12100017],
+      [2, 2000113, 12100018]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 1009,
+    "RoomName": "Angriff 9",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1008,
+    "UnlockTime": []
+  },
+  "1010": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 22201,
+    "ExtraTarget": [
+      [1, 2000104, 12100019],
+      [2, 2000105, 12100020]
+    ],
+    "GsLimit": 60,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 1010,
+    "RoomName": "Angriff 10",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1009,
+    "UnlockTime": []
+  },
+  "1011": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 22301,
+    "ExtraTarget": [
+      [1, 2000104, 12100021],
+      [2, 2000105, 12100022]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 1011,
+    "RoomName": "Angriff 11",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1010,
+    "UnlockTime": []
+  },
+  "1012": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 22502,
+    "ExtraTarget": [
+      [1, 2000104, 12100023],
+      [2, 2000105, 12100024]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 1012,
+    "RoomName": "Angriff 12",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1011,
+    "UnlockTime": []
+  },
+  "1013": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 22401,
+    "ExtraTarget": [
+      [1, 2000110, 12100025],
+      [2, 2000111, 12100026]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 1013,
+    "RoomName": "Angriff 13",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1012,
+    "UnlockTime": []
+  },
+  "1014": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 22602,
+    "ExtraTarget": [
+      [1, 2000104, 12100027],
+      [2, 2000105, 12100028]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 1014,
+    "RoomName": "Angriff 14",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1013,
+    "UnlockTime": []
+  },
+  "1015": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 23103,
+    "ExtraTarget": [
+      [1, 2000112, 12100029],
+      [2, 2000113, 12100030]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 1015,
+    "RoomName": "Angriff 15",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1014,
+    "UnlockTime": []
+  },
+  "1016": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 23601,
+    "ExtraTarget": [
+      [1, 2000104, 12100031],
+      [2, 2000105, 12100032]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 1016,
+    "RoomName": "Angriff 16",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1015,
+    "UnlockTime": []
+  },
+  "1017": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 22101,
+    "ExtraTarget": [
+      [1, 2000104, 12100033],
+      [2, 2000105, 12100034]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 1017,
+    "RoomName": "Angriff 17",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1016,
+    "UnlockTime": []
+  },
+  "1018": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 22503,
+    "ExtraTarget": [
+      [1, 2000104, 12100035],
+      [2, 2000105, 12100036]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 1018,
+    "RoomName": "Angriff 18",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1017,
+    "UnlockTime": []
+  },
+  "1019": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 22402,
+    "ExtraTarget": [
+      [1, 2000110, 12100037],
+      [2, 2000111, 12100038]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 1019,
+    "RoomName": "Angriff 19",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1018,
+    "UnlockTime": []
+  },
+  "1020": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 23302,
+    "ExtraTarget": [
+      [1, 2000104, 12100039],
+      [2, 2000105, 12100040]
+    ],
+    "GsLimit": 60,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 1020,
+    "RoomName": "Angriff 20",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1019,
+    "UnlockTime": []
+  },
+  "1021": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 23104,
+    "ExtraTarget": [
+      [1, 2000112, 12100121],
+      [2, 2000113, 12100122]
+    ],
+    "GsLimit": 60,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 1021,
+    "RoomName": "Angriff 21",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1020,
+    "UnlockTime": []
+  },
+  "1022": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 23701,
+    "ExtraTarget": [
+      [1, 2000104, 12100123],
+      [2, 2000105, 12100124]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 1022,
+    "RoomName": "Angriff 22",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1021,
+    "UnlockTime": []
+  },
+  "1023": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 22202,
+    "ExtraTarget": [
+      [1, 2000104, 12100125],
+      [2, 2000105, 12100126]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 1023,
+    "RoomName": "Angriff 23",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1022,
+    "UnlockTime": []
+  },
+  "1024": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 22504,
+    "ExtraTarget": [
+      [1, 2000104, 12100127],
+      [2, 2000105, 12100128]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 1024,
+    "RoomName": "Angriff 24",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1023,
+    "UnlockTime": []
+  },
+  "1025": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 23502,
+    "ExtraTarget": [
+      [1, 2000104, 12100129],
+      [2, 2000105, 12100130]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 1025,
+    "RoomName": "Angriff 25",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1024,
+    "UnlockTime": []
+  },
+  "1026": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 22702,
+    "ExtraTarget": [
+      [1, 2000104, 12100131],
+      [2, 2000105, 12100132]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 1026,
+    "RoomName": "Angriff 26",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1025,
+    "UnlockTime": []
+  },
+  "1027": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 23105,
+    "ExtraTarget": [
+      [1, 2000112, 12100133],
+      [2, 2000113, 12100134]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 1027,
+    "RoomName": "Angriff 27",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1026,
+    "UnlockTime": []
+  },
+  "1028": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 23602,
+    "ExtraTarget": [
+      [1, 2000104, 12100135],
+      [2, 2000105, 12100136]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 1028,
+    "RoomName": "Angriff 28",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1027,
+    "UnlockTime": []
+  },
+  "1029": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 23702,
+    "ExtraTarget": [
+      [1, 2000104, 12100137],
+      [2, 2000105, 12100138]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 1029,
+    "RoomName": "Angriff 29",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1028,
+    "UnlockTime": []
+  },
+  "1030": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 22505,
+    "ExtraTarget": [
+      [1, 2000104, 12100139],
+      [2, 2000105, 12100140]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 1030,
+    "RoomName": "Angriff 30",
+    "RoomType": 1,
+    "TargetMonster": [],
+    "UnlockRoomId": 1029,
+    "UnlockTime": []
+  },
+  "2001": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_001_03",
+    "BonusRoom": false,
+    "DungeonId": 24601,
+    "ExtraTarget": [
+      [1, 2004102, 12100081],
+      [2, 2004106, 12100082]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_001_03",
+    "RoomId": 2001,
+    "RoomName": "Unterstützung 1",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 0,
+    "UnlockTime": []
+  },
+  "2002": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_002_03",
+    "BonusRoom": false,
+    "DungeonId": 24201,
+    "ExtraTarget": [
+      [1, 2004102, 12100083],
+      [2, 2004106, 12100084]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_002_03",
+    "RoomId": 2002,
+    "RoomName": "Unterstützung 2",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2001,
+    "UnlockTime": []
+  },
+  "2003": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_006_03",
+    "BonusRoom": false,
+    "DungeonId": 24101,
+    "ExtraTarget": [
+      [1, 2004102, 12100085],
+      [2, 2004106, 12100086]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_006_03",
+    "RoomId": 2003,
+    "RoomName": "Unterstützung 3",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2002,
+    "UnlockTime": []
+  },
+  "2004": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "BonusRoom": false,
+    "DungeonId": 24401,
+    "ExtraTarget": [
+      [1, 2004102, 12100087],
+      [2, 2004106, 12100088]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "RoomId": 2004,
+    "RoomName": "Unterstützung 4",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2003,
+    "UnlockTime": []
+  },
+  "2005": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 24301,
+    "ExtraTarget": [
+      [1, 2004102, 12100089],
+      [2, 2004106, 12100090]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 2005,
+    "RoomName": "Unterstützung 5",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2004,
+    "UnlockTime": []
+  },
+  "2006": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_007_03",
+    "BonusRoom": false,
+    "DungeonId": 24102,
+    "ExtraTarget": [
+      [1, 2004102, 12100091],
+      [2, 2004106, 12100092]
+    ],
+    "GsLimit": 45,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_007_03",
+    "RoomId": 2006,
+    "RoomName": "Unterstützung 6",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2005,
+    "UnlockTime": []
+  },
+  "2007": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_006_03",
+    "BonusRoom": false,
+    "DungeonId": 24501,
+    "ExtraTarget": [
+      [1, 2004102, 12100093],
+      [2, 2004106, 12100094]
+    ],
+    "GsLimit": 45,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_006_03",
+    "RoomId": 2007,
+    "RoomName": "Unterstützung 7",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2006,
+    "UnlockTime": []
+  },
+  "2008": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_007_03",
+    "BonusRoom": false,
+    "DungeonId": 24602,
+    "ExtraTarget": [
+      [1, 2004102, 12100095],
+      [2, 2004106, 12100096]
+    ],
+    "GsLimit": 45,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_007_03",
+    "RoomId": 2008,
+    "RoomName": "Unterstützung 8",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2007,
+    "UnlockTime": []
+  },
+  "2009": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_001_03",
+    "BonusRoom": false,
+    "DungeonId": 24103,
+    "ExtraTarget": [
+      [1, 2004102, 12100097],
+      [2, 2004106, 12100098]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_001_03",
+    "RoomId": 2009,
+    "RoomName": "Unterstützung 9",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2008,
+    "UnlockTime": []
+  },
+  "2010": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_001_03",
+    "BonusRoom": false,
+    "DungeonId": 24202,
+    "ExtraTarget": [
+      [1, 2004102, 12100099],
+      [2, 2004106, 12100100]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_001_03",
+    "RoomId": 2010,
+    "RoomName": "Unterstützung 10",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2009,
+    "UnlockTime": []
+  },
+  "2011": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_002_03",
+    "BonusRoom": false,
+    "DungeonId": 24402,
+    "ExtraTarget": [
+      [1, 2004102, 12100101],
+      [2, 2004106, 12100102]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_002_03",
+    "RoomId": 2011,
+    "RoomName": "Unterstützung 11",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2010,
+    "UnlockTime": []
+  },
+  "2012": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_002_03",
+    "BonusRoom": false,
+    "DungeonId": 24104,
+    "ExtraTarget": [
+      [1, 2004102, 12100103],
+      [2, 2004106, 12100104]
+    ],
+    "GsLimit": 55,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_002_03",
+    "RoomId": 2012,
+    "RoomName": "Unterstützung 12",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2011,
+    "UnlockTime": []
+  },
+  "2013": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_006_03",
+    "BonusRoom": false,
+    "DungeonId": 24603,
+    "ExtraTarget": [
+      [1, 2004102, 12100105],
+      [2, 2004106, 12100106]
+    ],
+    "GsLimit": 55,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_006_03",
+    "RoomId": 2013,
+    "RoomName": "Unterstützung 13",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2012,
+    "UnlockTime": []
+  },
+  "2014": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_007_03",
+    "BonusRoom": false,
+    "DungeonId": 24302,
+    "ExtraTarget": [
+      [1, 2004102, 12100107],
+      [2, 2004106, 12100108]
+    ],
+    "GsLimit": 55,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_007_03",
+    "RoomId": 2014,
+    "RoomName": "Unterstützung 14",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2013,
+    "UnlockTime": []
+  },
+  "2015": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "BonusRoom": false,
+    "DungeonId": 24105,
+    "ExtraTarget": [
+      [1, 2004102, 12100109],
+      [2, 2004106, 12100110]
+    ],
+    "GsLimit": 60,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "RoomId": 2015,
+    "RoomName": "Unterstützung 15",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2014,
+    "UnlockTime": []
+  },
+  "2016": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_001_03",
+    "BonusRoom": false,
+    "DungeonId": 24502,
+    "ExtraTarget": [
+      [1, 2004102, 12100111],
+      [2, 2004106, 12100112]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_001_03",
+    "RoomId": 2016,
+    "RoomName": "Unterstützung 16",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2015,
+    "UnlockTime": []
+  },
+  "2017": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_002_03",
+    "BonusRoom": false,
+    "DungeonId": 24203,
+    "ExtraTarget": [
+      [1, 2004102, 12100113],
+      [2, 2004106, 12100114]
+    ],
+    "GsLimit": 60,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_002_03",
+    "RoomId": 2017,
+    "RoomName": "Unterstützung 17",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2016,
+    "UnlockTime": []
+  },
+  "2018": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 24106,
+    "ExtraTarget": [
+      [1, 2004102, 12100115],
+      [2, 2004106, 12100116]
+    ],
+    "GsLimit": 65,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 2018,
+    "RoomName": "Unterstützung 18",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2017,
+    "UnlockTime": []
+  },
+  "2019": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "BonusRoom": false,
+    "DungeonId": 24403,
+    "ExtraTarget": [
+      [1, 2004102, 12100117],
+      [2, 2004106, 12100118]
+    ],
+    "GsLimit": 65,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "RoomId": 2019,
+    "RoomName": "Unterstützung 19",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2018,
+    "UnlockTime": []
+  },
+  "2020": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 24303,
+    "ExtraTarget": [
+      [1, 2004102, 12100119],
+      [2, 2004106, 12100120]
+    ],
+    "GsLimit": 70,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 2020,
+    "RoomName": "Unterstützung 20",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2019,
+    "UnlockTime": []
+  },
+  "2021": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "BonusRoom": false,
+    "DungeonId": 24107,
+    "ExtraTarget": [
+      [1, 2004102, 12100161],
+      [2, 2004106, 12100162]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "RoomId": 2021,
+    "RoomName": "Unterstützung 21",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2020,
+    "UnlockTime": []
+  },
+  "2022": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 24503,
+    "ExtraTarget": [
+      [1, 2004102, 12100163],
+      [2, 2004106, 12100164]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 2022,
+    "RoomName": "Unterstützung 22",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2021,
+    "UnlockTime": []
+  },
+  "2023": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "BonusRoom": false,
+    "DungeonId": 24404,
+    "ExtraTarget": [
+      [1, 2004102, 12100165],
+      [2, 2004106, 12100166]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "RoomId": 2023,
+    "RoomName": "Unterstützung 23",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2022,
+    "UnlockTime": []
+  },
+  "2024": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 24108,
+    "ExtraTarget": [
+      [1, 2004102, 12100167],
+      [2, 2004106, 12100168]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 2024,
+    "RoomName": "Unterstützung 24",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2023,
+    "UnlockTime": []
+  },
+  "2025": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "BonusRoom": false,
+    "DungeonId": 24204,
+    "ExtraTarget": [
+      [1, 2004102, 12100169],
+      [2, 2004106, 12100170]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "RoomId": 2025,
+    "RoomName": "Unterstützung 25",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2024,
+    "UnlockTime": []
+  },
+  "2026": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 24604,
+    "ExtraTarget": [
+      [1, 2004102, 12100171],
+      [2, 2004106, 12100172]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 2026,
+    "RoomName": "Unterstützung 26",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2025,
+    "UnlockTime": []
+  },
+  "2027": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "BonusRoom": false,
+    "DungeonId": 24109,
+    "ExtraTarget": [
+      [1, 2004102, 12100173],
+      [2, 2004106, 12100174]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "RoomId": 2027,
+    "RoomName": "Unterstützung 27",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2026,
+    "UnlockTime": []
+  },
+  "2028": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 24504,
+    "ExtraTarget": [
+      [1, 2004102, 12100175],
+      [2, 2004106, 12100176]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 2028,
+    "RoomName": "Unterstützung 28",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2027,
+    "UnlockTime": []
+  },
+  "2029": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "BonusRoom": false,
+    "DungeonId": 24304,
+    "ExtraTarget": [
+      [1, 2004102, 12100177],
+      [2, 2004106, 12100178]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_004_03",
+    "RoomId": 2029,
+    "RoomName": "Unterstützung 29",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2028,
+    "UnlockTime": []
+  },
+  "2030": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 24110,
+    "ExtraTarget": [
+      [1, 2004102, 12100179],
+      [2, 2004106, 12100180]
+    ],
+    "GsLimit": 75,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 2030,
+    "RoomName": "Unterstützung 30",
+    "RoomType": 2,
+    "TargetMonster": [],
+    "UnlockRoomId": 2029,
+    "UnlockTime": []
+  },
+  "3001": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 20101,
+    "ExtraTarget": [
+      [1, 2000114, 12100041],
+      [2, 2000115, 12100042]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 3001,
+    "RoomName": "Wächter 1",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 0,
+    "UnlockTime": []
+  },
+  "3002": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 20201,
+    "ExtraTarget": [
+      [1, 2000114, 12100043],
+      [2, 2000115, 12100044]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 3002,
+    "RoomName": "Wächter 2",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3001,
+    "UnlockTime": []
+  },
+  "3003": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 21306,
+    "ExtraTarget": [
+      [1, 2000106, 12100045],
+      [2, 2000107, 12100046]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 3003,
+    "RoomName": "Wächter 3",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3002,
+    "UnlockTime": []
+  },
+  "3004": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 20301,
+    "ExtraTarget": [
+      [1, 2000114, 12100047],
+      [2, 2000115, 12100048]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 3004,
+    "RoomName": "Wächter 4",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3003,
+    "UnlockTime": []
+  },
+  "3005": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 20401,
+    "ExtraTarget": [
+      [1, 2000104, 12100049],
+      [2, 2000105, 12100050]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 3005,
+    "RoomName": "Wächter 5",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3004,
+    "UnlockTime": []
+  },
+  "3006": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 21301,
+    "ExtraTarget": [
+      [1, 2000106, 12100051],
+      [2, 2000107, 12100052]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 3006,
+    "RoomName": "Wächter 6",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3005,
+    "UnlockTime": []
+  },
+  "3007": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 20501,
+    "ExtraTarget": [
+      [1, 2000114, 12100053],
+      [2, 2000115, 12100054]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 3007,
+    "RoomName": "Wächter 7",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3006,
+    "UnlockTime": []
+  },
+  "3008": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 20801,
+    "ExtraTarget": [
+      [1, 2000114, 12100055],
+      [2, 2000115, 12100056]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 3008,
+    "RoomName": "Wächter 8",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3007,
+    "UnlockTime": []
+  },
+  "3009": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 21307,
+    "ExtraTarget": [
+      [1, 2000106, 12100057],
+      [2, 2000107, 12100058]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 3009,
+    "RoomName": "Wächter 9",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3008,
+    "UnlockTime": []
+  },
+  "3010": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 20102,
+    "ExtraTarget": [
+      [1, 2000114, 12100059],
+      [2, 2000115, 12100060]
+    ],
+    "GsLimit": 60,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 3010,
+    "RoomName": "Wächter 10",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3009,
+    "UnlockTime": []
+  },
+  "3011": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 21401,
+    "ExtraTarget": [
+      [1, 2000114, 12100061],
+      [2, 2000115, 12100062]
+    ],
+    "GsLimit": 60,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 3011,
+    "RoomName": "Wächter 11",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3010,
+    "UnlockTime": []
+  },
+  "3012": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 21302,
+    "ExtraTarget": [
+      [1, 2000106, 12100063],
+      [2, 2000107, 12100064]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 3012,
+    "RoomName": "Wächter 12",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3011,
+    "UnlockTime": []
+  },
+  "3013": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 20302,
+    "ExtraTarget": [
+      [1, 2000114, 12100065],
+      [2, 2000115, 12100066]
+    ],
+    "GsLimit": 20,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 3013,
+    "RoomName": "Wächter 13",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3012,
+    "UnlockTime": []
+  },
+  "3014": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 20701,
+    "ExtraTarget": [
+      [1, 2000114, 12100067],
+      [2, 2000115, 12100068]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 3014,
+    "RoomName": "Wächter 14",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3013,
+    "UnlockTime": []
+  },
+  "3015": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 21308,
+    "ExtraTarget": [
+      [1, 2000106, 12100069],
+      [2, 2000107, 12100070]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 3015,
+    "RoomName": "Wächter 15",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3014,
+    "UnlockTime": []
+  },
+  "3016": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 20402,
+    "ExtraTarget": [
+      [1, 2000104, 12100071],
+      [2, 2000105, 12100072]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 3016,
+    "RoomName": "Wächter 16",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3015,
+    "UnlockTime": []
+  },
+  "3017": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 20802,
+    "ExtraTarget": [
+      [1, 2000114, 12100073],
+      [2, 2000115, 12100074]
+    ],
+    "GsLimit": 40,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 3017,
+    "RoomName": "Wächter 17",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3016,
+    "UnlockTime": []
+  },
+  "3018": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 21303,
+    "ExtraTarget": [
+      [1, 2000106, 12100075],
+      [2, 2000107, 12100076]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 3018,
+    "RoomName": "Wächter 18",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3017,
+    "UnlockTime": []
+  },
+  "3019": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 20502,
+    "ExtraTarget": [
+      [1, 2000114, 12100077],
+      [2, 2000115, 12100078]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 3019,
+    "RoomName": "Wächter 19",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3018,
+    "UnlockTime": []
+  },
+  "3020": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 20702,
+    "ExtraTarget": [
+      [1, 2000114, 12100079],
+      [2, 2000115, 12100080]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 3020,
+    "RoomName": "Wächter 20",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3019,
+    "UnlockTime": []
+  },
+  "3021": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 21309,
+    "ExtraTarget": [
+      [1, 2000106, 12100141],
+      [2, 2000107, 12100142]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 3021,
+    "RoomName": "Wächter 21",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3020,
+    "UnlockTime": []
+  },
+  "3022": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 20202,
+    "ExtraTarget": [
+      [1, 2000114, 12100143],
+      [2, 2000115, 12100144]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 3022,
+    "RoomName": "Wächter 22",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3021,
+    "UnlockTime": []
+  },
+  "3023": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 21201,
+    "ExtraTarget": [
+      [1, 2000114, 12100145],
+      [2, 2000115, 12100146]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 3023,
+    "RoomName": "Wächter 23",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3022,
+    "UnlockTime": []
+  },
+  "3024": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 21304,
+    "ExtraTarget": [
+      [1, 2000106, 12100147],
+      [2, 2000107, 12100148]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 3024,
+    "RoomName": "Wächter 24",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3023,
+    "UnlockTime": []
+  },
+  "3025": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 20303,
+    "ExtraTarget": [
+      [1, 2000114, 12100149],
+      [2, 2000115, 12100150]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 3025,
+    "RoomName": "Wächter 25",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3024,
+    "UnlockTime": []
+  },
+  "3026": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "BonusRoom": false,
+    "DungeonId": 20803,
+    "ExtraTarget": [
+      [1, 2000114, 12100151],
+      [2, 2000115, 12100152]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_01",
+    "RoomId": 3026,
+    "RoomName": "Wächter 26",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3025,
+    "UnlockTime": []
+  },
+  "3027": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "BonusRoom": false,
+    "DungeonId": 21310,
+    "ExtraTarget": [
+      [1, 2000106, 12100153],
+      [2, 2000107, 12100154]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_02",
+    "RoomId": 3027,
+    "RoomName": "Wächter 27",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3026,
+    "UnlockTime": []
+  },
+  "3028": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "BonusRoom": false,
+    "DungeonId": 21402,
+    "ExtraTarget": [
+      [1, 2000114, 12100155],
+      [2, 2000115, 12100156]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_03",
+    "RoomId": 3028,
+    "RoomName": "Wächter 28",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3027,
+    "UnlockTime": []
+  },
+  "3029": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "BonusRoom": false,
+    "DungeonId": 21202,
+    "ExtraTarget": [
+      [1, 2000114, 12100157],
+      [2, 2000115, 12100158]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_04",
+    "RoomId": 3029,
+    "RoomName": "Wächter 29",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3028,
+    "UnlockTime": []
+  },
+  "3030": {
+    "BackGroundPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "BonusRoom": false,
+    "DungeonId": 21305,
+    "ExtraTarget": [
+      [1, 2000106, 12100159],
+      [2, 2000107, 12100160]
+    ],
+    "GsLimit": 50,
+    "LabelPic": "ui/textures/trialroad/dng_dmj_005_05",
+    "RoomId": 3030,
+    "RoomName": "Wächter 30",
+    "RoomType": 3,
+    "TargetMonster": [],
+    "UnlockRoomId": 3029,
+    "UnlockTime": []
+  }
+}

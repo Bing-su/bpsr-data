@@ -1,0 +1,969 @@
+{
+  "1": {
+    "Describe": "Complete the main quest \"Night Suspended on the Precipice\"",
+    "Id": 1,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "10": {
+    "Describe": "Activate {*val*} talents",
+    "Id": 10,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 144
+  },
+  "100": {
+    "Describe": "Consume {*val*} Pioneer Bureau points",
+    "Id": 100,
+    "Num": 250000,
+    "Param": [10001],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "101": {
+    "Describe": "Consume {*val*} Luno",
+    "Id": 101,
+    "Num": 20000,
+    "Param": [10002],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "102": {
+    "Describe": "Break {*val*} wind barriers in the plains",
+    "Id": 102,
+    "Num": 1,
+    "Param": [4],
+    "SceneId": 0,
+    "TargetType": 173
+  },
+  "103": {
+    "Describe": "Complete {*val*} wind particle challenges in the plains",
+    "Id": 103,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "104": {
+    "Describe": "Complete all wind tunnel challenges in the plains (not yet developed)",
+    "Id": 104,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "105": {
+    "Describe": "Open any {*val*} chests",
+    "Id": 105,
+    "Num": 400,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "106": {
+    "Describe": "Detect all monsters",
+    "Id": 106,
+    "Num": 10,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "107": {
+    "Describe": "Complete {*val*} scenic spot check-ins",
+    "Id": 107,
+    "Num": 11,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 128
+  },
+  "108": {
+    "Describe": "Restore all Breakpoints of all Engram Hubs",
+    "Id": 108,
+    "Num": 5,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "109": {
+    "Describe": "Unlock all recipes",
+    "Id": 109,
+    "Num": 18,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "11": {
+    "Describe": "Save {*val*} potential activation plans",
+    "Id": 11,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 120
+  },
+  "110": {
+    "Describe": "Major injuries take time to heal. If you're not an expert, don't jump around in high places~",
+    "Id": 110,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 172
+  },
+  "111": {
+    "Describe": "Obtain 100 Activity Merits",
+    "Id": 111,
+    "Num": 100,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "112": {
+    "Describe": "Obtain 200 Activity Merits",
+    "Id": 112,
+    "Num": 200,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "113": {
+    "Describe": "Obtain 300 Activity Merits",
+    "Id": 113,
+    "Num": 300,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "114": {
+    "Describe": "Complete all weekly quests",
+    "Id": 114,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "115": {
+    "Describe": "Complete all weekly quests",
+    "Id": 115,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "116": {
+    "Describe": "Complete all weekly quests",
+    "Id": 116,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "117": {
+    "Describe": "Daily login",
+    "Id": 117,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "12": {
+    "Describe": "Equip 1 Terra Resonance skill",
+    "Id": 12,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 150
+  },
+  "13": {
+    "Describe": "Equip all Terra Resonance skills",
+    "Id": 13,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 150
+  },
+  "14": {
+    "Describe": "Clear {*val*} times \"Unstable - Rescue Tina\"",
+    "Id": 14,
+    "Num": 1,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "15": {
+    "Describe": "Clear {*val*} times \"Unstable - Rescue Tina\"",
+    "Id": 15,
+    "Num": 2,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "16": {
+    "Describe": "Clear {*val*} times \"Unstable - Rescue Tina\"",
+    "Id": 16,
+    "Num": 10,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "17": {
+    "Describe": "Join {*val*} Guild",
+    "Id": 17,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 342
+  },
+  "18": {
+    "Describe": "Chat {*val*} times in the world channel",
+    "Id": 18,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 341
+  },
+  "19": {
+    "Describe": "Complete {*val*} Parkour events",
+    "Id": 19,
+    "Num": 1,
+    "Param": [7001, 7002, 7003],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "2": {
+    "Describe": "Complete {*val*} side quests",
+    "Id": 2,
+    "Num": 5,
+    "Param": [
+      -2, 180002, 180003, 180004, 20001, 20002, 20003, 20004, 20005, 20006, 20007, 20008, 20009,
+      20010, 20020, 20022, 20030, 20031, 29001, 29002, 29003, 29004, 29005, 31001, 31010, 31013,
+      31015, 31016, 31021, 31022, 31023, 31050, 31051, 31063, 31071, 31072, 31073, 31074, 500001
+    ],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "20": {
+    "Describe": "Complete {*val*} world events",
+    "Id": 20,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "21": {
+    "Describe": "Activate {*val*} Engram Hubs",
+    "Id": 21,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "22": {
+    "Describe": "Complete {*val*} monster detection events",
+    "Id": 22,
+    "Num": 2,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "23": {
+    "Describe": "Complete 1 normal mode photo shoot",
+    "Id": 23,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "24": {
+    "Describe": "Complete 1 FPV mode photo",
+    "Id": 24,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "25": {
+    "Describe": "Complete 1 selfie",
+    "Id": 25,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "26": {
+    "Describe": "Obtain headwear: Woven Seabreeze",
+    "Id": 26,
+    "Num": 1,
+    "Param": [7130130],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "27": {
+    "Describe": "It is said that the habits of the Caprahorn are unpredictable, if you provoke them...",
+    "Id": 27,
+    "Num": 3,
+    "Param": [10011, 101001],
+    "SceneId": 0,
+    "TargetType": 15
+  },
+  "28": {
+    "Describe": "Log in to the game",
+    "Id": 28,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "29": {
+    "Describe": "Complete the main quest \"Calamity's Herald and Dawn's Whisper\"",
+    "Id": 29,
+    "Num": 1,
+    "Param": [-2, 10211],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "3": {
+    "Describe": "Upgrade any weapon to Lv.10",
+    "Id": 3,
+    "Num": 1,
+    "Param": [1, 10],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "30": {
+    "Describe": "Upgrade any 2 weapons to Lv.30",
+    "Id": 30,
+    "Num": 1,
+    "Param": [2, 30],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "31": {
+    "Describe": "Upgrade any weapon skills {*val*} times in total",
+    "Id": 31,
+    "Num": 24,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "32": {
+    "Describe": "Modify the skill of any weapon {*val*} times",
+    "Id": 32,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "33": {
+    "Describe": "Modify the skill of any weapon {*val*} times",
+    "Id": 33,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "34": {
+    "Describe": "Equip 2 pieces of Legendary or higher quality gear",
+    "Id": 34,
+    "Num": 1,
+    "Param": [4, 2],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "35": {
+    "Describe": "Equip 4 pieces of Legendary or higher quality gear",
+    "Id": 35,
+    "Num": 1,
+    "Param": [4, 4],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "36": {
+    "Describe": "Equip 3 Imagines",
+    "Id": 36,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 152
+  },
+  "37": {
+    "Describe": "Equip 6 Imagines",
+    "Id": 37,
+    "Num": 1,
+    "Param": [6],
+    "SceneId": 0,
+    "TargetType": 152
+  },
+  "38": {
+    "Describe": "Unlock the scoring mode of \"Chaotic - Rescue Tina\"",
+    "Id": 38,
+    "Num": 1,
+    "Param": [1021],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "39": {
+    "Describe": "Achieve an outstanding score in the scoring mode of \"Chaotic - Rescue Tina\"",
+    "Id": 39,
+    "Num": 4500,
+    "Param": [],
+    "SceneId": 1022,
+    "TargetType": 27
+  },
+  "4": {
+    "Describe": "Upgrade any weapon to Lv.20",
+    "Id": 4,
+    "Num": 1,
+    "Param": [1, 20],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "40": {
+    "Describe": "Clear Planet Memory 3 - Advanced - Strong Enemy Duel",
+    "Id": 40,
+    "Num": 1,
+    "Param": [15501],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "41": {
+    "Describe": "Clear Planet Memory 12 - Normal - Output Trial",
+    "Id": 41,
+    "Num": 1,
+    "Param": [19002],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "42": {
+    "Describe": "[Deprecated] Clear Planet Memory Lv.15",
+    "Id": 42,
+    "Num": 1,
+    "Param": [15506],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "43": {
+    "Describe": "Complete {*val*} world events cumulatively",
+    "Id": 43,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "44": {
+    "Describe": "Activate all Teleportals in the \"Asterleeds\"",
+    "Id": 44,
+    "Num": 9,
+    "Param": [],
+    "SceneId": 8,
+    "TargetType": 153
+  },
+  "45": {
+    "Describe": "Activate all Star Core Hubs",
+    "Id": 45,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "46": {
+    "Describe": "Restore the first Breakpoint of any Engram Hub",
+    "Id": 46,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "47": {
+    "Describe": "Defeat {*val*} Boss(es)",
+    "Id": 47,
+    "Num": 2,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "48": {
+    "Describe": "Defeat {*val*} Wild World Bosses",
+    "Id": 48,
+    "Num": 1,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "49": {
+    "Describe": "Open any {*val*} chests",
+    "Id": 49,
+    "Num": 100,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "5": {
+    "Describe": "Upgrade any weapon skills {*val*} times in total",
+    "Id": 5,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "50": {
+    "Describe": "Slacked off {*val*} times",
+    "Id": 50,
+    "Num": 10,
+    "Param": [20000013, 20000014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "51": {
+    "Describe": "Complete gathering {*val*} times on the plains",
+    "Id": 51,
+    "Num": 20,
+    "Param": [
+      20000001, 20000002, 20000003, 20000004, 20000005, 20000006, 20000007, 20000008, 20000009,
+      20000010, 20000011
+    ],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "52": {
+    "Describe": "Complete cooking {*val*} times",
+    "Id": 52,
+    "Num": 10,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 156
+  },
+  "53": {
+    "Describe": "Warrior, dare to face the monsters' full strike?",
+    "Id": 53,
+    "Num": 1,
+    "Param": [90],
+    "SceneId": 0,
+    "TargetType": 170
+  },
+  "54": {
+    "Describe": "Log in to the game",
+    "Id": 54,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "55": {
+    "Describe": "Complete the main quest \"Embark on the Road to Stop the War\"",
+    "Id": 55,
+    "Num": 1,
+    "Param": [-2, 10217],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "56": {
+    "Describe": "Upgrade any 4 weapons to Lv.30",
+    "Id": 56,
+    "Num": 1,
+    "Param": [4, 30],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "57": {
+    "Describe": "Upgrade any weapon skills {*val*} times in total",
+    "Id": 57,
+    "Num": 48,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "58": {
+    "Describe": "Modify the skill of any weapon {*val*} times",
+    "Id": 58,
+    "Num": 8,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "59": {
+    "Describe": "Character's item Lv.200",
+    "Id": 59,
+    "Num": 1,
+    "Param": [200],
+    "SceneId": 0,
+    "TargetType": 159
+  },
+  "6": {
+    "Describe": "Upgrade any weapon skills {*val*} times in total",
+    "Id": 6,
+    "Num": 12,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "60": {
+    "Describe": "Complete item level breakthrough {*val*} times",
+    "Id": 60,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 158
+  },
+  "61": {
+    "Describe": "Complete item level breakthrough {*val*} times",
+    "Id": 61,
+    "Num": 3,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 158
+  },
+  "62": {
+    "Describe": "Any attribute value of \"Strength, Tenacity, Blessing\" reaches 180",
+    "Id": 62,
+    "Num": 1,
+    "Param": [180, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "63": {
+    "Describe": "Clear {*val*} times in a party",
+    "Id": 63,
+    "Num": 4,
+    "Param": [
+      15001, 15002, 15003, 15004, 15005, 15006, 15007, 15008, 15009, 15010, 15011, 15012, 15501,
+      15502, 15503, 15504, 15505, 15506, 15507, 15508, 16001, 16002, 16003, 16004, 16501, 16502,
+      16503, 16504, 17001, 17002, 17003, 17004, 17501, 17502, 17503, 17504, 17505, 18001, 18002,
+      18003, 18004, 18501, 18502, 18503, 18504, 19001, 19002, 19003, 19004, 19005, 1011, 1021, 1022,
+      1111, 1121, 1122
+    ],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "64": {
+    "Describe": "Clear {*val*} times \"Unstable - Towering Ruin\"",
+    "Id": 64,
+    "Num": 1,
+    "Param": [1111],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "65": {
+    "Describe": "Achieve an outstanding rating once in the rating mode of \"Chaotic - Towering Ruin\"",
+    "Id": 65,
+    "Num": 6500,
+    "Param": [],
+    "SceneId": 1122,
+    "TargetType": 27
+  },
+  "66": {
+    "Describe": "Complete Chaotic Realm  {*val*} time(s)",
+    "Id": 66,
+    "Num": 6,
+    "Param": [1022, 1122],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "67": {
+    "Describe": "Clear Planet Memory 19 - Normal - Territory Seizure",
+    "Id": 67,
+    "Num": 1,
+    "Param": [17505],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "68": {
+    "Describe": "Complete {*val*} world events cumulatively",
+    "Id": 68,
+    "Num": 7,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "69": {
+    "Describe": "Defeat {*val*} Bosses",
+    "Id": 69,
+    "Num": 6,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "7": {
+    "Describe": "Equip 3 pieces of Rare or higher quality gear",
+    "Id": 7,
+    "Num": 1,
+    "Param": [2, 3],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "70": {
+    "Describe": "Defeat {*val*} Wild World Bosses",
+    "Id": 70,
+    "Num": 2,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "71": {
+    "Describe": "Complete {*val*} monster detection events",
+    "Id": 71,
+    "Num": 4,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "72": {
+    "Describe": "Complete {*val*} scenic spot check-ins",
+    "Id": 72,
+    "Num": 6,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 128
+  },
+  "73": {
+    "Describe": "Restore all Breakpoints of any Engram Hub",
+    "Id": 73,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "74": {
+    "Describe": "Unlocked {*val*} recipes",
+    "Id": 74,
+    "Num": 5,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "75": {
+    "Describe": "Water can carry a boat, but it can also overturn it. Be careful when playing in the water!",
+    "Id": 75,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 171
+  },
+  "76": {
+    "Describe": "Log in to the game",
+    "Id": 76,
+    "Num": 4,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "77": {
+    "Describe": "Any one attribute of the character's \"Strength, Tenacity, Blessing\" reaches 210",
+    "Id": 77,
+    "Num": 1,
+    "Param": [210, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "78": {
+    "Describe": "Obtain {*val*} different Legendary Battle Imagines",
+    "Id": 78,
+    "Num": 12,
+    "Param": [
+      5110101, 5110102, 5110103, 5110104, 5110105, 5110106, 5110107, 5110108, 5110109, 5110110,
+      5120101, 5120102, 5120103, 5120104, 5120105, 5120106, 5120107, 5120108, 5120109, 5120110,
+      5130101, 5130102, 5130103, 5130104, 5130105, 5130106, 5130107, 5130108, 5130109, 5130110,
+      5140101, 5140102, 5140103, 5140104, 5140105, 5140106, 5140107, 5140108, 5140109, 5140110,
+      5150101, 5150102, 5150103, 5150104, 5150105, 5150106, 5150107, 5150108, 5150109, 5150110
+    ],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "79": {
+    "Describe": "Clear {*val*} times in a party",
+    "Id": 79,
+    "Num": 12,
+    "Param": [
+      15001, 15002, 15003, 15004, 15005, 15006, 15007, 15008, 15009, 15010, 15011, 15012, 15501,
+      15502, 15503, 15504, 15505, 15506, 15507, 15508, 16001, 16002, 16003, 16004, 16501, 16502,
+      16503, 16504, 17001, 17002, 17003, 17004, 17501, 17502, 17503, 17504, 17505, 18001, 18002,
+      18003, 18004, 18501, 18502, 18503, 18504, 19001, 19002, 19003, 19004, 19005, 1011, 1021, 1022,
+      1111, 1121, 1122
+    ],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "8": {
+    "Describe": "Equip 5 pieces of Epic or higher quality gear",
+    "Id": 8,
+    "Num": 1,
+    "Param": [3, 5],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "80": {
+    "Describe": "Achieve a perfect score once in the \"Chaotic - Rescue Tina\" scoring mode",
+    "Id": 80,
+    "Num": 7500,
+    "Param": [],
+    "SceneId": 1022,
+    "TargetType": 27
+  },
+  "81": {
+    "Describe": "Achieve a perfect score once in the \"Chaotic - Towering Ruin\" scoring mode",
+    "Id": 81,
+    "Num": 11000,
+    "Param": [],
+    "SceneId": 1122,
+    "TargetType": 27
+  },
+  "82": {
+    "Describe": "Achieve a gold rating in the team challenge \"Chaotic - Rescue Tina\" with the total number of team falls not exceeding 3 times",
+    "Id": 82,
+    "Num": 1,
+    "Param": [3, 1022],
+    "SceneId": 0,
+    "TargetType": 162
+  },
+  "83": {
+    "Describe": "Achieve a gold rating in the team challenge \"Chaotic - Towering Ruin\" with the total number of team falls not exceeding 3 times",
+    "Id": 83,
+    "Num": 1,
+    "Param": [3, 1122],
+    "SceneId": 0,
+    "TargetType": 162
+  },
+  "84": {
+    "Describe": "Clear Planet Memory 38 - Normal - Monster Bounty",
+    "Id": 84,
+    "Num": 1,
+    "Param": [17001],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "85": {
+    "Describe": "Complete {*val*} world events cumulatively",
+    "Id": 85,
+    "Num": 10,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "86": {
+    "Describe": "Consume {*val*} Pioneer Bureau points",
+    "Id": 86,
+    "Num": 1500000,
+    "Param": [10001],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "87": {
+    "Describe": "Consume {*val*} Luno",
+    "Id": 87,
+    "Num": 10000,
+    "Param": [10002],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "88": {
+    "Describe": "Defeat {*val*} Bosses",
+    "Id": 88,
+    "Num": 10,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "89": {
+    "Describe": "Defeat {*val*} Wild World Bosses",
+    "Id": 89,
+    "Num": 4,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "9": {
+    "Describe": "Equip two weapons",
+    "Id": 9,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 124
+  },
+  "90": {
+    "Describe": "Open all luxurious chests",
+    "Id": 90,
+    "Num": 8,
+    "Param": [52003, 52011, 52012, 52013, 52014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "91": {
+    "Describe": "Open any {*val*} chests",
+    "Id": 91,
+    "Num": 250,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "92": {
+    "Describe": "The feeling of flying is wonderful, like a dandelion...",
+    "Id": 92,
+    "Num": 1,
+    "Param": [30],
+    "SceneId": 0,
+    "TargetType": 344
+  },
+  "93": {
+    "Describe": "Log into the game",
+    "Id": 93,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "94": {
+    "Describe": "Character's item Lv.210",
+    "Id": 94,
+    "Num": 1,
+    "Param": [210],
+    "SceneId": 0,
+    "TargetType": 159
+  },
+  "95": {
+    "Describe": "Any one attribute of the character's \"Strength, Tenacity, Blessing\" reaches 240",
+    "Id": 95,
+    "Num": 1,
+    "Param": [240, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "96": {
+    "Describe": "Obtain {*val*} different Legendary Battle Imagines",
+    "Id": 96,
+    "Num": 24,
+    "Param": [
+      5110101, 5110102, 5110103, 5110104, 5110105, 5110106, 5110107, 5110108, 5110109, 5110110,
+      5120101, 5120102, 5120103, 5120104, 5120105, 5120106, 5120107, 5120108, 5120109, 5120110,
+      5130101, 5130102, 5130103, 5130104, 5130105, 5130106, 5130107, 5130108, 5130109, 5130110,
+      5140101, 5140102, 5140103, 5140104, 5140105, 5140106, 5140107, 5140108, 5140109, 5140110,
+      5150101, 5150102, 5150103, 5150104, 5150105, 5150106, 5150107, 5150108, 5150109, 5150110
+    ],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "97": {
+    "Describe": "Clear Planet Memory 50 - Expert - Strong Enemy Duel",
+    "Id": 97,
+    "Num": 1,
+    "Param": [15505],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "98": {
+    "Describe": "Cumulatively unlocked {*val*} wardrobe outfits",
+    "Id": 98,
+    "Num": 30,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 165
+  },
+  "99": {
+    "Describe": "Unlock {*val*} emotes",
+    "Id": 99,
+    "Num": 20,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 164
+  }
+}

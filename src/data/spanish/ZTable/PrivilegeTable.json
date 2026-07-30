@@ -1,0 +1,30 @@
+{
+  "1": {
+    "Example": "1=1003=1500",
+    "Param": "道具获取加成",
+    "RefreshNum": "1003的道具获取时额外获得15%（配置万分位）",
+    "ShowWords": "Eficiencia de {*val1*} +{*val2*}%",
+    "Type": 1
+  },
+  "2": {
+    "Example": "2=1500",
+    "Param": "活跃度加成",
+    "RefreshNum": "获取活跃度时，额外获得15%（配置万分位）",
+    "ShowWords": "Eficiencia de actividad +{*val*}%",
+    "Type": 2
+  },
+  "3": {
+    "Example": "3=10",
+    "Param": "直接提升通行证等级",
+    "RefreshNum": "通行证等级+10（但不超过通行证等级本身的上限）",
+    "ShowWords": "Pase de temporada nv. +{*val*}",
+    "Type": 3
+  },
+  "4": {
+    "Example": "4=6=2",
+    "Param": "增加神秘商店刷新次数",
+    "RefreshNum": "神秘商店次数可额外刷新2次",
+    "ShowWords": "Actualizaciones de la tienda misteriosa +{*val*}",
+    "Type": 4
+  }
+}

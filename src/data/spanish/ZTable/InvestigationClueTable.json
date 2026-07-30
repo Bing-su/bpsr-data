@@ -1,0 +1,980 @@
+{
+  "1000111": {
+    "Answer": ["", "El Pilar de la Divinidad no puede dar frutos."],
+    "Clue": "El sacerdote del Credo negó explícitamente la afirmación de que \"el Pilar de la Divinidad da frutos\", señalando que el Pilar es un milagro divino, no un árbol frutal. <tagId=1>*Los rumores relacionados son poco realistas*.",
+    "Id": 1000111,
+    "Sort": 1,
+    "TapBubble": ["", "Esta pista carece de respaldo fáctico."],
+    "TapBubbleAction": [9019],
+    "Tips": "Investiga con Darya para obtener pistas",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000112": {
+    "Answer": [
+      "",
+      "Los zorros comieron frutas comunes.",
+      "",
+      "Los cazadores solo han oído hablar de ello."
+    ],
+    "Clue": "La investigación <tagId=2>*solo encontró frutas comunes mordidas por zorros*. Los cazadores activos en el Yermo Sombraluna durante todo el año declararon que <tagId=3>*solo habían oído hablar de la fruta baya, pero nunca la habían visto con sus propios ojos*.",
+    "Id": 1000112,
+    "Sort": 2,
+    "TapBubble": ["", "Esta no es la fruta baya.", "", "No hay registros de avistamientos."],
+    "TapBubbleAction": [9019],
+    "Tips": "Investiga con Darya para obtener pistas",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000113": {
+    "Answer": [
+      "",
+      "No se encontró ningún objeto físico.",
+      "",
+      "No comieron la fruta baya.",
+      "",
+      "Los soldados fueron afectados por la plaga ilusoria."
+    ],
+    "Clue": "Tres <tagId=6>soldados *afectados por la plaga ilusoria* afirmaron unánimemente haber comprado frutas baya. Sin embargo, tras un registro exhaustivo de sus aposentos, <tagId=4>*no se encontraron frutas baya*, y los soldados confirmaron que <tagId=5>*no habían comido las frutas*.",
+    "Id": 1000113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Dudoso que realmente la compraran.",
+      "",
+      "La fruta baya se esfumó.",
+      "",
+      "Estaban alucinando."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Investiga con Darya para obtener pistas",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000211": {
+    "Answer": ["", "Fanes de la Compañía Ambulante."],
+    "Clue": "La mayoría de la gente solo había oído hablar de la fruta baya. Solo <tagId=1>*los fanes de la Compañía Ambulante* la habían visto, y escribieron en sus entradas del concierto que las frutas baya estaban disponibles en la estación de transporte de Beckmar.",
+    "Id": 1000211,
+    "Sort": 1,
+    "TapBubble": ["", "Pero diagnosticados con plaga ilusoria."],
+    "TapBubbleAction": [9019],
+    "Tips": "Investiga con Darya para obtener pistas",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000212": {
+    "Answer": [
+      "",
+      "Los ingredientes se obtienen de fuentes fijas.",
+      "",
+      "No se encontró ningún objeto físico."
+    ],
+    "Clue": "Los fanes de la compañía afirmaron que Berg añadió frutas baya a las comidas, causando su enfermedad. <br>Berg, quien está a cargo del catering, declaró que <tagId=2>*los ingredientes se obtienen de fuentes fijas*. <tagId=3>*No encontramos ninguna fruta baya* durante la investigación.",
+    "Id": 1000212,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Berg no compró ninguna.",
+      "",
+      "Las frutas baya no están en la estación de transporte."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Investiga con Darya para obtener pistas",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000213": {
+    "Answer": [
+      "",
+      "Solo enfermaron dos personas.",
+      "",
+      "Pacientes diagnosticados con plaga ilusoria."
+    ],
+    "Clue": "Berg preparó comidas para cientos de personas, sin embargo, <tagId=4>*solo dos fanes de la compañía enfermaron*. El sacerdote y el médico diagnosticaron que <tagId=5>*los dos pacientes contrajeron la plaga ilusoria*.",
+    "Id": 1000213,
+    "Sort": 3,
+    "TapBubble": ["", "Ningún problema con la comida.", "", "Estaban alucinando."],
+    "TapBubbleAction": [9026],
+    "Tips": "Investiga con Darya para obtener pistas",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000311": {
+    "Answer": ["", "Quiere volver a Asterleeds."],
+    "Clue": "La carta del joven minero estaba llena de <tagId=1>*nostalgia por Asterleeds*.",
+    "Id": 1000311,
+    "Sort": 1,
+    "TapBubble": ["", "Este tipo de minero probablemente quiera volver..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de la información buscada",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000312": {
+    "Answer": [
+      "",
+      "Los ancianos no pueden viajar largas distancias.",
+      "",
+      "Hay que considerar si los familiares deben quedarse o irse."
+    ],
+    "Clue": "Algunos mineros dijeron que <tagId=2>*los ancianos ya no pueden caminar* y que <tagId=3>*muchos han formado familias en la zona minera*.",
+    "Id": 1000312,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Estos mineros todavía tienen familias que considerar...",
+      "",
+      "Estos mineros todavía tienen familias que considerar..."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de la información buscada",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000313": {
+    "Answer": ["", "Indeciso, incapaz de elegir."],
+    "Clue": "Los mineros que han formado familias con los birnaldos <tagId=4>*no saben a dónde deberían ir con sus esposas...*",
+    "Id": 1000313,
+    "Sort": 3,
+    "TapBubble": ["", "Estos mineros realmente están en un dilema..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de la información buscada",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000411": {
+    "Answer": [
+      "",
+      "La lista sí existe en el proceso de interrogatorio.",
+      "",
+      "El tachado parece muy descuidado."
+    ],
+    "Clue": "[Registro de interrogatorio n.º 2-17]: <tagId=1>*Razón de la acusación: Activado por la lista*<tagId=2>*(Tachado de un trazo)*<br> Pregunta 1: ¿Sabe qué está tramando Grieg? Pregunta 2: ¿Dónde está Darya? Pregunta 3: ¿Ha visto a Slauk?",
+    "Id": 1000411,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Activado por la lista.",
+      "",
+      "Tachado... parece que se manejó muy casualmente."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de la investigación de la escena",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000412": {
+    "Answer": [
+      "",
+      "El interrogatorio fue solo una molestia trivial para él.",
+      "",
+      "La torre es el lugar privado de Reiner.",
+      "",
+      "La corona es algo que le importa mucho a Reiner."
+    ],
+    "Clue": "Una bola de papel arrugado: \"¿Vale la pena llamarme fuera de la <tagId=4>*torre* por esta cosa que <tagId=3>*ni siquiera reacciona*? La <tagId=5>*corona* me está esperando\".",
+    "Id": 1000412,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Suena más como el verdadero núcleo que la lista.",
+      "",
+      "Suena más como el verdadero núcleo que la lista."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de la investigación de la escena",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000413": {
+    "Answer": [
+      "",
+      "Hay huellas de botas de color rojo oscuro en el suelo.",
+      "",
+      "Probablemente dejadas por Reiner cuando regresó a la torre.",
+      "",
+      "Mejor seguir las huellas."
+    ],
+    "Clue": "Rastros en el suelo: Una gran mancha de <tagId=6>*color rojo oscuro* y signos de lucha. <br>Hay marcas claras de arrastre que conducen a la bifurcación. <br><tagId=7>*Otro conjunto de huellas de botas militares* es nítido con un espaciado fijo, y parece un camino <tagId=8>*que conduce de regreso a algún lugar*.",
+    "Id": 1000413,
+    "Sort": 3,
+    "TapBubble": ["", "Probablemente lleva a la torre.", "", "Sigue las huellas hacia la torre."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de la investigación de la escena",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000511": {
+    "Answer": ["", "Tipo de bestia incorrecto"],
+    "Clue": "No hay <tagId=1>*lagartos* en el Yermo Del Ocaso.",
+    "Id": 1000511,
+    "Sort": 1,
+    "TapBubble": ["", "Si no hay lagartos, entonces el dibujo debe estar equivocado..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Reflexiona sobre las experiencias pasadas.",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000512": {
+    "Answer": ["", "Parece un producto moderno."],
+    "Clue": "Los <tagId=2>*materiales y la artesanía de la botella son muy nuevos*.",
+    "Id": 1000512,
+    "Sort": 2,
+    "TapBubble": ["", "Esto no parece antiguo..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Reflexiona sobre las experiencias pasadas.",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000513": {
+    "Answer": ["", "Alguien está falsificando pistas de tesoros."],
+    "Clue": "Donde se encontró la botella, <tagId=3>*había rastros dejados por otros, y se enterraron otras notas a propósito*...",
+    "Id": 1000513,
+    "Sort": 3,
+    "TapBubble": ["", "Parece como si las hubieran dejado a propósito..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Reflexiona sobre las experiencias pasadas.",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100111": {
+    "Answer": ["", "El contacto podría tener un color de cabello llamativo"],
+    "Clue": "\"El plan comenzará pronto, mantén un perfil bajo. Tu <tagId=1>*color de cabello es demasiado llamativo* y, <tagId=7>*cuando nos veamos, te traeré un regalo de Byrnhald para ayudarte a disimularlo un poco*\".",
+    "Id": 100111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Parece que tendré que prestar mucha atención al color de cabello de la gente."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Pista proporcionada por Jerrad.",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100112": {
+    "Answer": ["", "El contacto podría ser físicamente fuerte"],
+    "Clue": "\"He oído que has estado <tagId=2>*entrenando duro* últimamente. <tagId=6>*Bien hecho. Nuestra causa es noble y tu salud es lo primero. Cuídate. Pronto te confiaré algo importante*\".",
+    "Id": 100112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Esta persona se ejercita con frecuencia, así que debe de estar en buena forma."
+    ],
+    "TapBubbleAction": [9033],
+    "Tips": "Pista proporcionada por Jerrad.",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100113": {
+    "Answer": ["", "Lirio de mar", "", "No es un mercader local"],
+    "Clue": "\"Juro por el <tagId=3>*nombre del lirio de mar*. Nos vemos en el Festival de Brisa Marina. Nota: <tagId=4>*Evita hablar con los mercaderes locales si es posible*. <tagId=5>*Son muchos y muy observadores, ten cuidado de no exponerte*\".",
+    "Id": 100113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "\"Lirio de mar\" podría ser algún tipo de código.",
+      "",
+      "A juzgar por su actitud, lo más probable es que no sea un mercader local."
+    ],
+    "TapBubbleAction": [9026, 9047],
+    "Tips": "Pista proporcionada por Jerrad.",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100121": {
+    "Answer": ["", "Joven", "", "Cabello de varios colores"],
+    "Clue": "<tagId=12>*\"Cuando todos estaban ocupados esquivando...*, vi a <tagId=1>*una persona joven* con <tagId=2>*un cabello supermoderno, ¡de varios colores!*... <tagId=7>*Pero cuando pasó el viento, esa cabellera que marcaba tendencia ya no estaba\"*.",
+    "Id": 100121,
+    "Sort": 4,
+    "TapBubble": [
+      "",
+      "Parece que el contacto es bastante joven.",
+      "",
+      "¡El contacto tiene el cabello de varios colores!"
+    ],
+    "TapBubbleAction": [9033, 9047],
+    "Tips": "Reúne información y pistas en el Distrito Recreación.",
+    "UnlockCondition": [[2, 20040, 20040016]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100122": {
+    "Answer": ["", "Lirio de mar", "", "Hombre"],
+    "Clue": "\"Sí, <tagId=3>*lirio de mar*... <tagId=10>*cerca*, <tagId=4>*había un hombre*, <tagId=8>*y él*, <tagId=9>*tenía su aroma*\".",
+    "Id": 100122,
+    "Sort": 5,
+    "TapBubble": [
+      "",
+      "El aroma del lirio de mar... Debe de ser un símbolo importante.",
+      "",
+      "Genial, ahora se confirma el género del sospechoso."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Reúne información y pistas en el Distrito Recreación.",
+    "UnlockCondition": [[2, 20040, 20040017]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100123": {
+    "Answer": ["", "Corpulento", "", "Vestido con pulcritud"],
+    "Clue": "\"¡<tagId=11>*Sí que vi* a <tagId=5>*un tipo corpulento*! ¡Esa persona <tagId=6>*también vestía con mucha pulcritud*!\".",
+    "Id": 100123,
+    "Sort": 6,
+    "TapBubble": [
+      "",
+      "Esta pista coincide con la información de que el sospechoso se ejercita con regularidad.",
+      "",
+      "Parece que viste con mucha pulcritud."
+    ],
+    "TapBubbleAction": [9026, 9047],
+    "Tips": "Reúne información y pistas en el Distrito Recreación.",
+    "UnlockCondition": [[2, 20040, 20040018]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100311": {
+    "Answer": ["", "Sustancia desconocida"],
+    "Clue": "Se encontraron los guantes de Ryan en la mesa de trabajo #4. <tagId=1>*Parecen equipo de artesano estándar, gastados, pero sin daños. Aun así, la textura es extraña*. Al examinarlos de cerca, se ve una capa de <tagId=7>*sustancia desconocida en la superficie*.",
+    "Id": 100311,
+    "Sort": 1,
+    "TapBubble": ["", "Tengo que observar con cuidado."],
+    "TapBubbleAction": [9033],
+    "Tips": "Reúne pistas en la mesa de trabajo del artesano.",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100312": {
+    "Answer": ["", "Diagrama de desmontaje"],
+    "Clue": "<tagId=8>*Unos planos para desmontar el legado divino del núcleo de rayo* <tagId=5>*fueron encontrados en la mesa de trabajo #2 de Feyn*. <tagId=6>*Muchos artesanos están interesados en estudiar este legado divino de inmenso poder del trueno*, <tagId=10>*pero solo Tauros sabe cómo usarla correctamente*.",
+    "Id": 100312,
+    "Sort": 2,
+    "TapBubble": ["", "¿Qué información podría ocultarse en esto...?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Reúne pistas en la mesa de trabajo del artesano.",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100313": {
+    "Answer": ["", "Marcas de quemaduras en la linterna"],
+    "Clue": "<tagId=11>*En la mesa de trabajo #1 había una linterna de mano preciosa*. <tagId=12>*El estilo es algo que le gustaría a una chica*, <tagId=13>*así que seguro que es de Sasha*. <tagId=9>*Pero tiene marcas de quemaduras por fuera*. <tagId=14>*Una linterna tan bonita debería estar bien cuidada*.",
+    "Id": 100313,
+    "Sort": 3,
+    "TapBubble": ["", "Qué aspecto tan raro. Estas marcas son demasiado evidentes."],
+    "TapBubbleAction": [9026],
+    "Tips": "Reúne pistas en la mesa de trabajo del artesano.",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100411": {
+    "Answer": ["", "Operación especial"],
+    "Clue": "<tagId=4>*Legión Niebla Oscura: Inicios de la guerra de la Independencia de Asterleeds*<br><tagId=1>*En las batallas recientes contra la Legión Niebla Oscura*, <tagId=6>*el subcomandante Jayden ha estado ausente del campo de batalla*. <tagId=7>*Según los informes*, <tagId=8>*Jayden planea dirigir a su unidad en una operación especial en Asterleeds*. <tagId=9>*Los detalles específicos son información clasificada*.",
+    "Id": 100411,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Jayden va a dirigir a sus subordinados en una operación especial en Asterleeds"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de los registros de investigación de la Legión Niebla Oscura.",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100412": {
+    "Answer": ["", "Operación de infiltración", "", "Fracaso"],
+    "Clue": "<tagId=10>*Registros de investigación de la Legión Niebla Oscura: Etapa media de la guerra de la Independencia de Asterleeds*<br>■■■■■■■■■■■<tagId=11>*La operación de infiltración llevada a cabo por la unidad de reconocimiento de la Legión Niebla Oscura contra Asterleeds* <tagId=12>*ha terminado en fracaso*. <tagId=13>*Lamentablemente, no pudieron capturar al comandante enemigo*. <tagId=14>*Esta operación fue directamente* <tagId=15>*supervisada* <tagId=2>*por altos mandos de la Legión Niebla* <tagId=16>*Oscura ■■■■■■■*.",
+    "Id": 100412,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "La operación de infiltración del equipo de reconocimiento de la Legión Niebla Oscura en Asterleeds",
+      "",
+      "Terminó en fracaso"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de los registros de investigación de la Legión Niebla Oscura.",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100413": {
+    "Answer": ["", "Ruina Imponente"],
+    "Clue": "<tagId=17>*Registros de investigación de la Legión Niebla Oscura: Finales de la guerra de la Independencia de Asterleeds*<br><tagId=18>*■■■■■Tras escapar de Asterleeds*,<tagId=19>*el equipo de reconocimiento de la Legión Niebla Oscura desapareció* en la <tagId=3>*Ruina Imponente*<tagId=20>. <tagId=21>*■■■■■■■■Según la investigación*, <tagId=22>*no se volvió a ver al equipo de reconocimiento■■■■■*.",
+    "Id": 100413,
+    "Sort": 3,
+    "TapBubble": ["", "Ruina Imponente"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de los registros de investigación de la Legión Niebla Oscura.",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100511": {
+    "Answer": ["", "Minsterhorn"],
+    "Clue": "Hace siete días, la señorita Lucy y Carlis encontraron a Tesoro en <tagId=1>*Minsterhorn*.",
+    "Id": 100511,
+    "Sort": 1,
+    "TapBubble": ["", "Minsterhorn"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las palabras de Carlis.",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100512": {
+    "Answer": ["", "Intenta irse todas las noches"],
+    "Clue": "La señorita Lucy le proporcionaba la mejor vida a Tesoro, pero este <tagId=2>*intentaba irse todas las noches*.",
+    "Id": 100512,
+    "Sort": 2,
+    "TapBubble": ["", "Intenta irse todas las noches"],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de las palabras de Carlis.",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100513": {
+    "Answer": ["", "Gemía constantemente"],
+    "Clue": "Anoche, <tagId=3>*Tesoro estuvo gimiendo toda la noche*. El vigilante nocturno, Carlis, quiso dejar que Tesoro tomara un poco de aire, <tagId=4>*pero accidentalmente lo dejó escapar*.",
+    "Id": 100513,
+    "Sort": 3,
+    "TapBubble": ["", "Gemía constantemente"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las palabras de Carlis.",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100611": {
+    "Answer": ["", "¿No es él?"],
+    "Clue": "Testimonio de Miru y Rumi: \"¡Kakater <tagId=1>*da una impresión completamente distinta* a la del millonario misterioso con el que hablamos antes!\".",
+    "Id": 100611,
+    "Sort": 1,
+    "TapBubble": ["", "¿Podrían Kakater y el millonario misterioso ser dos personas diferentes?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las indagaciones.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100612": {
+    "Answer": ["", "Salarios no pagados", "", "Joven de cabello negro"],
+    "Clue": "Declaración de Spike: \"¡Dicen que el empleador de Byrnhald <tagId=2>*aún no ha pagado*! Hay un <tagId=3>*joven de pelo negro* husmeando por el barco...\"",
+    "Id": 100612,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "El comportamiento del millonario misterioso desafía la lógica.",
+      "",
+      "Hay otros individuos sospechosos a bordo."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las indagaciones.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100613": {
+    "Answer": ["", "Expediente", "", "Reunión secreta", "", "En manos del guardaespaldas"],
+    "Clue": "Declaración de Tina: \"Kakater <tagId=4>*subió a la cubierta con el expediente*. Habló con un <tagId=5>*joven de pelo negro*... y luego le <tagId=6>*entregó los documentos al guardaespaldas*...\".",
+    "Id": 100613,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "¿Podría el expediente ser una nueva pista?",
+      "",
+      "Kakater y el hombre de pelo negro se han reunido.",
+      "",
+      "El expediente podría estar en manos del guardaespaldas."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las indagaciones.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200111": {
+    "Answer": [
+      "",
+      "Los lirios de mar no son comunes en las terraltas.",
+      "",
+      "Tal vez lo puso un aldeano."
+    ],
+    "Clue": "Testimonio 1: \"Lirios de mar... en un lugar como las terraltas, <tagId=1>*no deberían aparecer*. Colocar flores frescas bajo un árbol implica recuerdo... parece algo hecho por alguien <tagId=2>*familiarizado con Lallipar*...\"",
+    "Id": 200111,
+    "Sort": 1,
+    "TapBubble": ["", "El anciano de la aldea dio su veredicto..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las indagaciones",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200112": {
+    "Answer": [
+      "",
+      "Los lirios de mar frescos son caros.",
+      "",
+      "Los primeros cultivos de las terraltas fueron importados."
+    ],
+    "Clue": "Testimonio 2: \"¡Los <tagId=3>*lirios de mar frescos son terriblemente caros* esta temporada! No crecen mucho en las terraltas de forma natural. <tagId=4>*Los cultivos existentes parecen haber sido importados originalmente de fuera*\".",
+    "Id": 200112,
+    "Sort": 2,
+    "TapBubble": [],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las indagaciones",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200113": {
+    "Answer": [
+      "",
+      "Tal vez lo puso un viajero.",
+      "",
+      "Los viajeros traen regalos para mostrar gratitud."
+    ],
+    "Clue": "Testimonio 3: \"¿Podría haberlo puesto un <tagId=5>*viajero*? Todos respetan este lugar... Al visitarlo, mucha gente <tagId=6>*trae regalos de fuera* para mostrar gratitud...\"",
+    "Id": 200113,
+    "Sort": 3,
+    "TapBubble": [],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las indagaciones",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200201": {
+    "Answer": ["", "Consumido por el rojo"],
+    "Clue": "\"El día que la conocí... fue rojo. Mis ojos, <tagId=1>*consumidos por el rojo*\".",
+    "Id": 200201,
+    "Sort": 1,
+    "TapBubble": ["", "¿Por qué Saphir perdió la vista?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las palabras de Saphir.",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200202": {
+    "Answer": ["", "Cielo teñido de rojo, aire abrasador", "", "Hay viento a su alrededor"],
+    "Clue": "\"En <tagId=2>*el cielo teñido de rojo y el aire abrasador*, solo <tagId=3>*había viento a su alrededor*...\"",
+    "Id": 200202,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "¿El entorno donde Saphir conoció a la chica misteriosa?",
+      "",
+      "¿Características de la chica misteriosa?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las palabras de Saphir.",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200203": {
+    "Answer": ["", "Ella sujetó a Saphir"],
+    "Clue": "\"Cuando estaba cayendo por completo en la oscuridad, <tagId=4>*ella me sujetó*\".",
+    "Id": 200203,
+    "Sort": 3,
+    "TapBubble": ["", "¿Qué le hizo la chica misteriosa a Saphir?"],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de las palabras de Saphir.",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300111": {
+    "Answer": ["", "Atraer monstruos"],
+    "Clue": "Partimos y, hasta ahora, todo ha ido bien.<br>El equipo tiene mucha experiencia, son dignos de un equipo de expedición. La ruta que eligió el ecologista nos ha permitido evitar a casi todos los monstruos, es increíble.<br>Sin embargo, ese tipo que se unió al equipo temporalmente como yo, creo que se llama... ¿Ryan? <tagId=6>*Siempre atrae monstruos por accidente y el capitán lo regaña*.",
+    "Id": 300111,
+    "Sort": 1,
+    "TapBubble": ["", "¿Tan poco profesional es Ryan como guía?"],
+    "TapBubbleAction": [9033, 9047, 9047],
+    "Tips": "Obtén pistas del diario.",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300112": {
+    "Answer": ["", "Va a llover", "", "Monstruos merodeando"],
+    "Clue": "Estamos atrapados. A juzgar por los patrones climáticos, esta tormenta no parece natural. Nuestro ecologista sospecha que es obra de los góblines.<br><tagId=1>*Están empezando a aparecer nubes negras en la distancia*, y a juzgar por la dirección, parece que vienen del mar, lo que no es una buena señal. Si los góblines están realizando algún ritual extraño y nos encontramos con un aguacero en el bosque en esta estación, sería...<br><tagId=2>*Los aullidos de los monstruos resuenan por todas partes*. Por suerte, ajustamos nuestra ruta con antelación. Todavía quedan algunos suministros en la Estación Seis. Está en un terreno más alto, a salvo de inundaciones, y debería darnos un lugar para refugiarnos por ahora.",
+    "Id": 300112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Las nubes negras ya se han acercado y el cielo se ha oscurecido, por lo que no es adecuado seguir avanzando.",
+      "",
+      "Parece que el peligro acecha por los alrededores."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Obtén pistas del diario.",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300113": {
+    "Answer": [
+      "",
+      "El viento aúlla",
+      "",
+      "Pertenencias personales intactas",
+      "",
+      "Pasos apresurados",
+      "",
+      "Hacer una suposición"
+    ],
+    "Clue": "Todos hicieron lo que pudieron, <tagId=3>*el viento puede quebrar árboles*. Si no volvemos pronto a la Estación #6, solo tendremos problemas mayores.<br><tagId=4>*Encontramos su mochila junto al árbol del acantilado*, además de unas <tagId=5>*huellas desordenadas*. Ryan <tagId=7>*supuso que podría haberse resbalado y caído*.<br>Nadie sabe de dónde vino Roy, así que solo pudimos levantar un cenotafio junto al árbol que hay fuera de la estación.",
+    "Id": 300113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "El viento puede ahogar las voces de la gente.",
+      "",
+      "Dejó su mochila antes de ir al borde del acantilado.",
+      "",
+      "¿Habrá sido una emergencia... o había más de una persona presente?",
+      "",
+      "La conclusión de que fue un tropiezo parece un tanto superficial."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Obtén pistas del diario.",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300211": {
+    "Answer": [
+      "",
+      "Azota una tormenta",
+      "",
+      "Antigua maldición de Kanamia",
+      "",
+      "Marcas de arrastre en el suelo"
+    ],
+    "Clue": "Mientras el equipo avanzaba, <tagId=1>*una tormenta repentina apareció*, seguida de fuertes exclamaciones en la retaguardia. <br>Al voltear, descubrieron que... ¡Reed se había desvanecido! ¡La <tagId=2>*antigua maldición de Kanamia* se había cumplido!<br>Investigación en el lugar: Había largas <tagId=3>*marcas de arrastre* en el suelo.",
+    "Id": 300211,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Hay una tormenta",
+      "",
+      "Antigua maldición de Kanamia",
+      "",
+      "Marcas de arrastre"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Pistas obtenidas de los mercenarios.",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300212": {
+    "Answer": [
+      "",
+      "El viento se intensificó de repente",
+      "",
+      "Antigua maldición de Kanamia",
+      "",
+      "Junto a un acantilado imponente"
+    ],
+    "Clue": "Mientras el equipo pasaba por el desfiladero, <tagId=4>*el viento de repente se hizo tan fuerte que no podían abrir los ojos*. <br>Cuando recobraron el sentido, Golg ya no estaba. ¡Seguro tomó algo del altar e invocó la <tagId=5>*antigua maldición de Kanamia*!<br>Investigación en el lugar: Al lado había un <tagId=6>*acantilado imponente*.",
+    "Id": 300212,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "El viento se intensificó de repente",
+      "",
+      "Antigua maldición de Kanamia",
+      "",
+      "Junto a un acantilado imponente"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Pistas obtenidas de los mercenarios.",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300213": {
+    "Answer": [
+      "",
+      "Fuerte viento que sopla desde el acantilado",
+      "",
+      "El aullido del Lobo Blanco de Kanamia",
+      "",
+      "Gólem dañado"
+    ],
+    "Clue": "Mientras el grupo avanzaba con normalidad, de repente los golpeó <tagId=7>*una poderosa ráfaga de viento que soplaba desde el acantilado*. Entonces, Duko desapareció. <br>El valle resonaba con el aullido del viento, como el lamento de los lobos... el guía dijo que era <tagId=8>*el aullido furioso del Lobo Blanco de Kanamia*...<br> Aún más aterrador, se vio a un <tagId=9>*gólem dañado* flotando sobre las montañas lejanas, mirándonos con evidente hostilidad.",
+    "Id": 300213,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Fuerte viento que sopla desde el acantilado",
+      "",
+      "El aullido del Lobo Blanco de Kanamia",
+      "",
+      "Gólem dañado"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Pistas obtenidas de los mercenarios.",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400111": {
+    "Answer": ["", "Ritual de bendición"],
+    "Clue": "Una pareja joven: \"Durante el <tagId=1>*ritual de bendición*, el agua del manantial bendecida por los ancestros puede curar heridas...\".",
+    "Id": 400111,
+    "Sort": 1,
+    "TapBubble": ["", "Parece un ritual tribal muy importante."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de la conversación de los aldeanos.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400112": {
+    "Answer": ["", "Cerrado demasiado tiempo"],
+    "Clue": "Anciano kanamia: \"El Área Prohibida ha estado <tagId=2>*cerrada por demasiado tiempo*... Sin el agua del manantial, las heridas no se pueden curar...\".",
+    "Id": 400112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Parece que el Área Prohibida no ha estado abierta a los forasteros durante mucho tiempo."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de la conversación de los aldeanos.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400113": {
+    "Answer": ["", "El acantilado del este"],
+    "Clue": "Joven kanamia: \"Estaba debajo del <tagId=3>*acantilado del este* rezándole a los ancestros...\".",
+    "Id": 400113,
+    "Sort": 3,
+    "TapBubble": ["", "Hay un lugar de bendición debajo del acantilado del este."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de la conversación de los aldeanos.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500111": {
+    "Answer": ["", "Niebla roja pálida"],
+    "Clue": "Después de desmayarme..., vi una niebla. ¡Pero no era el nauseabunda engrama del vacío! Era... <tagId=1>*una niebla roja pálida*... hermosa y tan, tan irreal.",
+    "Id": 500111,
+    "Sort": 1,
+    "TapBubble": ["", "Nunca antes había visto una niebla roja."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las indagaciones.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500112": {
+    "Answer": ["", "Mantener la calma y estabilizar el ánimo."],
+    "Clue": "Entonces, me obligué a calmarme. Curiosamente, después de forzarme a <tagId=2>*mantener la calma*, los \"monstruos\" seguían a mi alrededor, pero ya no eran tan agresivos.",
+    "Id": 500112,
+    "Sort": 2,
+    "TapBubble": ["", "Una mente tranquila parece debilitar el impacto de la pesadilla."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtén pistas de las indagaciones.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500113": {
+    "Answer": ["", "Legado divino de Terraltas"],
+    "Clue": "Como miembro del Gremio de Artesanos, me enviaron a Terraltas a estudiar un legado recién desenterrado. Dicen que es una especie de <tagId=3>*dispositivo calmante*. Si podemos verificarlo y usarlo pronto, podría ayudar a mitigar este fenómeno.",
+    "Id": 500113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Un legado recién descubierto en Terraltas que parece tener un efecto calmante."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtén pistas de las indagaciones.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700111": {
+    "Answer": [
+      "",
+      "La obra maestra de Lothar",
+      "",
+      "La sacerdotisa Gisela distribuye los frascos periódicamente."
+    ],
+    "Clue": "El frasco de alma estelar es <tagId=1>*la obra maestra de Lothar*. No solo eso, Lothar también tiene que ir por ahí limpiando brotes ilusorios, así que está muy ocupado. De hecho, hoy ni siquiera está en el Pilar de la Divinidad.<br><tagId=2>*La sacerdotisa Gisela distribuye frascos de alma estelar periódicamente*. Pero 500... son demasiados. Aun así, si tienes una razón legítima, podría valer la pena preguntarle.",
+    "Id": 700111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Ni siquiera está en el Pilar de la Divinidad hoy...",
+      "",
+      "Definitivamente no aceptará entregar 500 frascos de alma estelar."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Encuentra pistas en las palabras del peregrino.",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700112": {
+    "Answer": ["", "Boyce supervisa la distribución de los frascos."],
+    "Clue": "Boyce nunca habla de su pasado, pero su porte lo delata como alguien con un trasfondo extraordinario. Su fuerza también parece excepcional. Se dice que, a veces, <tagId=3>*Boyce es quien mantiene el orden durante la distribución de los frascos de alma estelar*.",
+    "Id": 700112,
+    "Sort": 2,
+    "TapBubble": ["", "Boyce... Supongo que lo conozco, en cierto modo."],
+    "TapBubbleAction": [9019],
+    "Tips": "Encuentra pistas en las palabras del peregrino.",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700113": {
+    "Answer": ["", "En la avenida frente al Pilar de la Divinidad"],
+    "Clue": "Los frascos de alma estelar son limitados, y los de hoy se agotaron temprano. <br>Pero, si de verdad estás en un aprieto, intenta <tagId=4>hablar con Boyce *en la avenida frente al Pilar de la Divinidad*, él podría hacer una excepción.",
+    "Id": 700113,
+    "Sort": 3,
+    "TapBubble": ["", "¡Así es, este es el lugar!"],
+    "TapBubbleAction": [9019],
+    "Tips": "Encuentra pistas en las palabras del peregrino.",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800111": {
+    "Answer": ["", "Extraño espacio en blanco"],
+    "Clue": "Hay un <tagId=1>*extraño espacio en blanco* en medio del horario de turnos... ¿acaso no había nadie de guardia en ese momento?",
+    "Id": 800111,
+    "Sort": 1,
+    "TapBubble": ["", "¡Sí, así debe ser!"],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Encuentra pistas a través del horario de turnos.",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800112": {
+    "Answer": [
+      "",
+      "Los turnos se hicieron notablemente más largos",
+      "",
+      "Su zona de patrullaje se redujo"
+    ],
+    "Clue": "Usando el extraño espacio en blanco como línea divisoria, los sargentos se relevaban cada seis horas, pero después de eso <tagId=2>*los turnos se extendieron a ocho horas*.<br><tagId=5>*En algunas zonas incluso falta personal*.",
+    "Id": 800112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Así que hasta los soldados tienen que trabajar horas extra.",
+      "",
+      "¿Será que ya no tienen suficiente gente para cubrir las minas de superficie?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Encuentra pistas a través del horario de turnos.",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800113": {
+    "Answer": [
+      "",
+      "Sargento Milo",
+      "",
+      "Sargento Breck",
+      "",
+      "Sargento Devin.",
+      "",
+      "El número de sargentos de guardia ha disminuido"
+    ],
+    "Clue": "Si miro de cerca, <tagId=7>*el número de sargentos de guardia disminuyó*... Ahora, voy a organizar las listas de sargentos que estaban de guardia antes y después de la línea divisoria. <br>Antes de la línea divisoria: <tagId=3>*sargento Milo*, sargento Osmond, sargento Murray, sargento Leo, sargento Ethan, <tagId=4>*sargento Breck* y <tagId=6>*sargento Devin*. <br>Después de la línea divisoria: sargento Murray, sargento Osmond, sargento Ethan y sargento Leo.",
+    "Id": 800113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "¿Dónde estará...?",
+      "",
+      "Espero que esté bien.",
+      "",
+      "Tengo un mal presentimiento."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Encuentra pistas a través del horario de turnos.",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900111": {
+    "Answer": ["", "Mena carmesí", "", "Soldado de Rocanegra", "", "Maire."],
+    "Clue": "Neuler lleva consigo <tagId=1>*Mineral carmesí* y también puede hacer que los <tagId=2>*soldados de Blackstone* lo respalden. <br>Por los soldados que huían, supimos que su objetivo original era <tagId=3>*Myra*.",
+    "Id": 900111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Así que Neuler lleva consigo Mineral carmesí",
+      "",
+      "Hasta los soldados del Puesto Avanzado de Guarnición dieron la cara por él.",
+      "",
+      "Así podrá apoderarse de la caravana."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Investiga la escena para encontrar pistas.",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900112": {
+    "Answer": ["", "Hombre de negro"],
+    "Clue": "Quién sabe qué se trae entre manos ese <tagId=4>*hombre de negro*... ¡Está completamente loco! ¡No quiero volver a tratar con alguien así en mi vida! <br>Menos mal. En cuanto terminemos con la carga a granel, podré volver. Te traeré un recuerdo. <br>Le debemos el éxito de este trato a ese subordinado bien informado. Si no hubiera contactado con Nevelle, jamás me habría enterado de esta oportunidad. Hoy me ha mencionado que una figura importante que ayudó a establecer la conexión quiere conocerme... (el resto del texto se ha perdido).",
+    "Id": 900112,
+    "Sort": 2,
+    "TapBubble": ["", "Ese tipo debe de estar moviendo los hilos."],
+    "TapBubbleAction": [9019],
+    "Tips": "Investiga la escena para encontrar pistas.",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900113": {
+    "Answer": ["", "Acaba con tu jefe", "", "La riqueza y la gloria que anhelas"],
+    "Clue": "<tagId=5>*Acaba con tu jefe* y la caravana será tuya. Entonces, podrás participar en tratos de un nivel superior. Incluso podría dejar que te lleves algunas muestras primero. <br>Carl te ayudará. <br>Has visto ejemplos \"de este tipo\", ¿o no? <tagId=6>La riqueza y la gloria que anhelas están a un solo paso.",
+    "Id": 900113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "¿Quieres participar en tratos de un nivel superior...?",
+      "",
+      "Todo tiene su precio"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Investiga la escena para encontrar pistas.",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  }
+}

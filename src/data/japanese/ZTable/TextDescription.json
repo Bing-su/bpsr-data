@@ -1,0 +1,2938 @@
+{
+  "10001": {
+    "Description": "カスタム版に基づき、染色可能な工芸で再制作された衣装。自由に染色することができる。",
+    "Id": 10001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "幻色版",
+    "Type": 1
+  },
+  "1001": {
+    "Description": "攻撃キーで行う各種武器攻撃",
+    "Id": 1001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "通常攻撃",
+    "Type": 1
+  },
+  "1002": {
+    "Description": "武器の基本的な攻撃形式",
+    "Id": 1002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "基本攻撃",
+    "Type": 1
+  },
+  "1003": {
+    "Description": "攻撃キー長押しで発生する重撃",
+    "Id": 1003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "重撃",
+    "Type": 1
+  },
+  "1004": {
+    "Description": "地上から一定の高さで通常攻撃を繰り出すと発動する落下攻撃",
+    "Id": 1004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "落下攻撃",
+    "Type": 1
+  },
+  "1005": {
+    "Description": "武器の最も中心的で、広く知られている代表的なスキル",
+    "Id": 1005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "コアスキル",
+    "Type": 1
+  },
+  "1006": {
+    "Description": "武器が最もよく使うスキル",
+    "Id": 1006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "基本スキル",
+    "Type": 1
+  },
+  "1007": {
+    "Description": "武器の威力が最も強力な究極の戦闘奥義",
+    "Id": 1007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "究極スキル",
+    "Type": 1
+  },
+  "1008": {
+    "Description": "アビリティで習得する特性スキル",
+    "Id": 1008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "スキル関連",
+    "Type": 1
+  },
+  "1009": {
+    "Description": "攻撃を受けて浮いているときに使用できるスキル",
+    "Id": 1009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "受身スキル",
+    "Type": 1
+  },
+  "1010": {
+    "Description": "アビリティが習得した威力の強力な型スキル",
+    "Id": 1010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "アビリティバースト",
+    "Type": 1
+  },
+  "1011": {
+    "Description": "スキルはダメージを与えられる",
+    "Id": 1011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ダメージ",
+    "Type": 1
+  },
+  "1012": {
+    "Description": "スキル自体が与えるダメージ",
+    "Id": 1012,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "能力ダメージ",
+    "Type": 1
+  },
+  "1013": {
+    "Description": "スキルが属性特性による追加ダメージを発生させる",
+    "Id": 1013,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "特性ダメージ",
+    "Type": 1
+  },
+  "1014": {
+    "Description": "HPを回復できる効果",
+    "Id": 1014,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "回復",
+    "Type": 1
+  },
+  "1015": {
+    "Description": "1回で多くのHPを回復する",
+    "Id": 1015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "治癒",
+    "Type": 1
+  },
+  "1016": {
+    "Description": "HPを一定時間、回復し続ける",
+    "Id": 1016,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ヒーリング",
+    "Type": 1
+  },
+  "1017": {
+    "Description": "戦闘中の味方に有利な効果",
+    "Id": 1017,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "バフ",
+    "Type": 1
+  },
+  "1018": {
+    "Description": "一定時間、戦闘能力、移動能力、またはその他の強化能力効果が持続する",
+    "Id": 1018,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "祝福",
+    "Type": 1
+  },
+  "1019": {
+    "Description": "短時間、戦闘能力を大幅に向上させる効果",
+    "Id": 1019,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "激情",
+    "Type": 1
+  },
+  "1020": {
+    "Description": "戦闘ステータスが大幅に向上し、アビリティが開発されていれば、追加効果が付与される",
+    "Id": 1020,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "鼓舞",
+    "Type": 1
+  },
+  "1021": {
+    "Description": "戦闘中の味方をさまざまな不利な状態にする",
+    "Id": 1021,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "デバフ",
+    "Type": 1
+  },
+  "1022": {
+    "Description": "一定時間、戦闘ステータスがダウンする不利な効果",
+    "Id": 1022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "虚弱",
+    "Type": 1
+  },
+  "1023": {
+    "Description": "一定時間、受けるダメージがアップする不利な効果",
+    "Id": 1023,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "脆弱",
+    "Type": 1
+  },
+  "1024": {
+    "Description": "一定時間、受けるダメージがアップし、アビリティが開発されていれば、追加効果が付与される",
+    "Id": 1024,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "スマッシュ",
+    "Type": 1
+  },
+  "1025": {
+    "Description": "さまざまな行動が制限される不利な状態",
+    "Id": 1025,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "行動制限",
+    "Type": 1
+  },
+  "1026": {
+    "Description": "移動/戦闘行動不能の不利な状態",
+    "Id": 1026,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "凍結",
+    "Type": 1
+  },
+  "1027": {
+    "Description": "移動できない不利な状態",
+    "Id": 1027,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "束縛",
+    "Type": 1
+  },
+  "1028": {
+    "Description": "移動/戦闘/アイテム使用不能の不利な状態。短時間内に複数回付与すると持続時間が減少する。ボスには無効。",
+    "Id": 1028,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "スタン",
+    "Type": 1
+  },
+  "1029": {
+    "Description": "移動速度がダウンする不利な状態",
+    "Id": 1029,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "スロウ",
+    "Type": 1
+  },
+  "1030": {
+    "Description": "対象の強力な<style=\"ItemQuality_5\">剛体</style>ゲージを削る能力。",
+    "Id": 1030,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "耐久削り",
+    "Type": 1
+  },
+  "1031": {
+    "Description": "スキルがキャラクターの高速移動を助けられる",
+    "Id": 1031,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "移動",
+    "Type": 1
+  },
+  "1032": {
+    "Description": "連続移動タイプのスキル",
+    "Id": 1032,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ダッシュ",
+    "Type": 1
+  },
+  "1033": {
+    "Description": "非連続移動タイプのスキル",
+    "Id": 1033,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ブリンク",
+    "Type": 1
+  },
+  "1034": {
+    "Description": "キャラクターの生存を助けるスキル",
+    "Id": 1034,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "生存",
+    "Type": 1
+  },
+  "1035": {
+    "Description": "追加のHP<style=\"ItemQuality_5\">バリア</style>。HPよりも先にダメージを吸収する。",
+    "Id": 1035,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "バリア",
+    "Type": 1
+  },
+  "1036": {
+    "Description": "スキルの特殊な段階で、この段階中にダメージを受けると一部のダメージを無効化できる",
+    "Id": 1036,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "パリィ",
+    "Type": 1
+  },
+  "1037": {
+    "Description": "火属性ダメージを与える",
+    "Id": 1037,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "火属性ダメージ",
+    "Type": 1
+  },
+  "1038": {
+    "Description": "ダメージに火属性の力を付与する",
+    "Id": 1038,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "火属性",
+    "Type": 1
+  },
+  "1039": {
+    "Description": "一定時間ごとに火属性の特性ダメージを受ける不利な状態",
+    "Id": 1039,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "点火",
+    "Type": 1
+  },
+  "1040": {
+    "Description": "氷属性ダメージを与える",
+    "Id": 1040,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "氷属性ダメージ",
+    "Type": 1
+  },
+  "1041": {
+    "Description": "ダメージに氷属性の力を付与する",
+    "Id": 1041,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "氷属性",
+    "Type": 1
+  },
+  "1042": {
+    "Description": "雷属性ダメージを与える",
+    "Id": 1042,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "雷属性ダメージ",
+    "Type": 1
+  },
+  "1043": {
+    "Description": "ダメージに雷属性の力を付与する",
+    "Id": 1043,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "雷属性",
+    "Type": 1
+  },
+  "1044": {
+    "Description": "風属性ダメージを与える",
+    "Id": 1044,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "風属性ダメージ",
+    "Type": 1
+  },
+  "1045": {
+    "Description": "ダメージに風属性の力を付与する",
+    "Id": 1045,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "風属性",
+    "Type": 1
+  },
+  "1046": {
+    "Description": "岩属性ダメージを与える",
+    "Id": 1046,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "岩属性ダメージ",
+    "Type": 1
+  },
+  "1047": {
+    "Description": "ダメージに岩属性の力を付与する",
+    "Id": 1047,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "岩属性",
+    "Type": 1
+  },
+  "1048": {
+    "Description": "森属性ダメージを与える",
+    "Id": 1048,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "森属性ダメージ",
+    "Type": 1
+  },
+  "1049": {
+    "Description": "ダメージに森属性の力を付与する",
+    "Id": 1049,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "森属性",
+    "Type": 1
+  },
+  "1050": {
+    "Description": "光属性ダメージを与える",
+    "Id": 1050,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "光属性ダメージ",
+    "Type": 1
+  },
+  "1051": {
+    "Description": "ダメージに光属性の力を付与する",
+    "Id": 1051,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "光属性",
+    "Type": 1
+  },
+  "1052": {
+    "Description": "闇属性ダメージを与える",
+    "Id": 1052,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "闇属性ダメージ",
+    "Type": 1
+  },
+  "1053": {
+    "Description": "ダメージに闇属性の力を付与する",
+    "Id": 1053,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "闇属性",
+    "Type": 1
+  },
+  "1054": {
+    "Description": "追加の攻撃行動や防御行動を発生させる支援効果",
+    "Id": 1054,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "アシスト",
+    "Type": 1
+  },
+  "1055": {
+    "Description": "現在の戦闘に合わせて攻撃行動を同期させる効果",
+    "Id": 1055,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "連携",
+    "Type": 1
+  },
+  "1056": {
+    "Description": "独立して攻撃を行い、戦闘に協力する効果",
+    "Id": 1056,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "共闘",
+    "Type": 1
+  },
+  "1057": {
+    "Description": "一定時間準備してからでないと強力な威力を発揮できないスキル発動方法",
+    "Id": 1057,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "チャージ",
+    "Type": 1
+  },
+  "1058": {
+    "Description": "発動状態を維持して効果を継続させるスキル発動方法",
+    "Id": 1058,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "維持",
+    "Type": 1
+  },
+  "1059": {
+    "Description": "効果が強化または変化するスキル発動状態",
+    "Id": 1059,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "強化",
+    "Type": 1
+  },
+  "1060": {
+    "Description": "一部のスキルの発動に必要な条件。時間経過や何らかのシステムに応じて回復、補充される",
+    "Id": 1060,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "チャージ",
+    "Type": 1
+  },
+  "1061": {
+    "Description": "特定の条件下で発動できる効果の一種で、その発動確率はステータスの影響を受ける",
+    "Id": 1061,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "刻印",
+    "Type": 1
+  },
+  "1062": {
+    "Description": "自身のHPが対象よりも多い場合の状態。この状態時には与えるダメージやダメージ軽減にボーナスが付与される。アビリティが開発されていれば、さらに追加効果が付与される",
+    "Id": 1062,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "抑圧",
+    "Type": 1
+  },
+  "1063": {
+    "Description": "明確な召喚者がおり、存在中にその影響を受けて戦闘するユニット",
+    "Id": 1063,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "召喚物",
+    "Type": 1
+  },
+  "1064": {
+    "Description": "発動条件を満たすと効果が発生する召喚物の一種",
+    "Id": 1064,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "トラップ",
+    "Type": 1
+  },
+  "1065": {
+    "Description": "一定時間移動せず、周囲に効果を及ぼす召喚物の一種",
+    "Id": 1065,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "トーテム",
+    "Type": 1
+  },
+  "1066": {
+    "Description": "移動して召喚者に追従し、戦闘を補助する召喚物の一種",
+    "Id": 1066,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "従者",
+    "Type": 1
+  },
+  "1067": {
+    "Description": "自律的に行動する意志を持つ召喚物",
+    "Id": 1067,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "造物",
+    "Type": 1
+  },
+  "1068": {
+    "Description": "物理的な動きをし、命中後に効果を発生させるスキルメカニズム",
+    "Id": 1068,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "飛翔物",
+    "Type": 1
+  },
+  "1069": {
+    "Description": "比較的小さく、速度の速い飛翔物の一種",
+    "Id": 1069,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "弾丸",
+    "Type": 1
+  },
+  "1070": {
+    "Description": "比較的大きく、速度が普通の飛翔物の一種",
+    "Id": 1070,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "発射物",
+    "Type": 1
+  },
+  "1071": {
+    "Description": "範囲を持つエリア内で効果が発動する方式",
+    "Id": 1071,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "エリア効果",
+    "Type": 1
+  },
+  "1072": {
+    "Description": "自身または味方に持続的に有利な状態を提供する範囲効果",
+    "Id": 1072,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "領域",
+    "Type": 1
+  },
+  "1073": {
+    "Description": "敵に持続的にダメージまたは不利な状態を与える範囲効果",
+    "Id": 1073,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "エリア",
+    "Type": 1
+  },
+  "1074": {
+    "Description": "自身の範囲内の対象に持続的に効果を提供する",
+    "Id": 1074,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "オーラ",
+    "Type": 1
+  },
+  "1075": {
+    "Description": "通常モンスターよりはるかに強力な存在",
+    "Id": 1075,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "強力な対象",
+    "Type": 1
+  },
+  "1076": {
+    "Description": "ボス、ワイルドロード、ロード",
+    "Id": 1076,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ボス",
+    "Type": 1
+  },
+  "1077": {
+    "Description": "大陸で活動する普通のモンスター。戦闘能力は比較的低い",
+    "Id": 1077,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "通常モンスター",
+    "Type": 1
+  },
+  "1078": {
+    "Description": "モンスターの中でも抜きん出た戦士で、通常は脅威となる特殊スキルを持つ",
+    "Id": 1078,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "精鋭",
+    "Type": 1
+  },
+  "1079": {
+    "Description": "種族の中で絶対的な強者であり、王と呼んでも過言ではない",
+    "Id": 1079,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ボス",
+    "Type": 1
+  },
+  "1080": {
+    "Description": "マップの特定のエリアでしか見つけられない強力なモンスター",
+    "Id": 1080,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ワイルドロード",
+    "Type": 1
+  },
+  "1081": {
+    "Description": "ダンジョンマップで最も強力なモンスター",
+    "Id": 1081,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ロード",
+    "Type": 1
+  },
+  "1082": {
+    "Description": "現在のHPが最大HPの50%以上の状態",
+    "Id": 1082,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "健康",
+    "Type": 1
+  },
+  "1083": {
+    "Description": "現在のHPが最大HPの30%以下の状態",
+    "Id": 1083,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "負傷",
+    "Type": 1
+  },
+  "1084": {
+    "Description": "フィールドまたはステージモードで獲得するエクストラスキル",
+    "Id": 1084,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "フィールドスキル",
+    "Type": 1
+  },
+  "1085": {
+    "Description": "「煥光」シリーズ装備の洗錬しによって付与される持続状態の一種",
+    "Id": 1085,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "煥光",
+    "Type": 1
+  },
+  "1086": {
+    "Description": "無属性ダメージを与える",
+    "Id": 1086,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "無属性ダメージ",
+    "Type": 1
+  },
+  "1087": {
+    "Description": "ダメージに属性がなく、元素の力が付帯していない",
+    "Id": 1087,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "無属性",
+    "Type": 1
+  },
+  "1088": {
+    "Description": "未知の発生源から侵食され、さまざまな悪影響が生じる",
+    "Id": 1088,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "侵蝕",
+    "Type": 1
+  },
+  "1089": {
+    "Description": "「煥光」シリーズ装備の洗錬しによって付与される持続状態の一種",
+    "Id": 1089,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "煥光",
+    "Type": 1
+  },
+  "1090": {
+    "Description": "ダメージ量をアップする効果を有する",
+    "Id": 1090,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "激情",
+    "Type": 1
+  },
+  "1091": {
+    "Description": "ノックバック/ノックアップ/ノックダウンされない。",
+    "Id": 1091,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "剛体",
+    "Type": 1
+  },
+  "1092": {
+    "Description": "エネミーモンスターに自身を強制的に攻撃させる",
+    "Id": 1092,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "挑発",
+    "Type": 1
+  },
+  "1093": {
+    "Description": "ダメージ反射効果を有する",
+    "Id": 1093,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "継続の茨",
+    "Type": 1
+  },
+  "1094": {
+    "Description": "ユニットの戦闘能力に直接影響する効果。例えば移動速度/属性/受ける制御ダウン等の効果",
+    "Id": 1094,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "不利な状態",
+    "Type": 1
+  },
+  "1095": {
+    "Description": "被ダメージ+<style=\"accent-gn\">10%</style>。持続<style=\"accent-gn\">5</style>秒。",
+    "Id": 1095,
+    "Par": 3401095,
+    "ShowRule": 1,
+    "Text": "脆弱",
+    "Type": 3
+  },
+  "1096": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与え、かつ次の<style=\"accent-gn\">彼岸</style>に<style=\"accent-gn\">雷印</style>を<style=\"accent-gn\">2</style>つ追加獲得させる。",
+    "Id": 1096,
+    "Par": 3401096,
+    "ShowRule": 1,
+    "Text": "看破",
+    "Type": 3
+  },
+  "1097": {
+    "Description": "<style=\"accent-gn\">特殊攻撃</style>の発動速度が大幅にアップする。持続<style=\"accent-gn\">10</style>秒。この効果は<style=\"accent-gn\">特殊攻撃</style>発動後に消失する。",
+    "Id": 1097,
+    "Par": 3401097,
+    "ShowRule": 1,
+    "Text": "無心の好機",
+    "Type": 3
+  },
+  "1098": {
+    "Description": "<style=\"accent-gn\">迅雷連斬</style>の隠し技。素早く斬り上げ、対象に攻撃力の<style=\"accent-gn\">300%</style>の<style=\"physical\">物理ダメージ</style>を与える。攻撃速度が<style=\"accent-gn\">25%</style>|<style=\"accent-gn\">50%</style>|<style=\"accent-gn\">80%</style>に達するごとに、攻撃回数+<style=\"accent-gn\">1</style>|+<style=\"accent-gn\">2</style>|+<style=\"accent-gn\">3</style>（威力は<style=\"accent-gn\">迅雷連斬</style>のレベル/ランクに応じて上昇）。",
+    "Id": 1098,
+    "Par": 3401098,
+    "ShowRule": 1,
+    "Text": "霹靂墜斬",
+    "Type": 3
+  },
+  "1099": {
+    "Description": "各段が攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与える。<br>初期は<style=\"accent-gn\">1</style>段。器用さ<style=\"accent-gn\">10%</style>につき+<style=\"accent-gn\">1</style>段（最大<style=\"accent-gn\">4</style>段まで）。",
+    "Id": 1099,
+    "Par": 3401099,
+    "ShowRule": 1,
+    "Text": "刃域",
+    "Type": 3
+  },
+  "1100": {
+    "Description": "「幸運効果」：エネミーに攻撃力の<style=\"accent-gn\">80%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1100,
+    "Par": 3401100,
+    "ShowRule": 1,
+    "Text": "雷撃",
+    "Type": 3
+  },
+  "1101": {
+    "Description": "<style=\"accent-gn\">35</style>秒間、回転し続け<style=\"accent-gn\">2</style>秒ごとに対象に攻撃力の<style=\"accent-gn\">50%</style>の<style=\"physical\">物理ダメージ</style>を与える（威力は旋廻鎌のレベル/ランクに応じて上昇）。",
+    "Id": 1101,
+    "Par": 3401101,
+    "ShowRule": 1,
+    "Text": "月刃",
+    "Type": 3
+  },
+  "1102": {
+    "Description": "ノックバック、ノックアップ、ノックダウンされない。",
+    "Id": 1102,
+    "Par": 3401102,
+    "ShowRule": 1,
+    "Text": "剛体",
+    "Type": 3
+  },
+  "1103": {
+    "Description": "<style=\"accent-gn\">3</style>m以内にいるエネミーに攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1103,
+    "Par": 3401103,
+    "ShowRule": 1,
+    "Text": "雷烈",
+    "Type": 3
+  },
+  "1104": {
+    "Description": "<style=\"accent-gn\">雷印</style>を消費するスキルの発動時、<style=\"accent-gn\">雷印</style>を1つ消費するたびこのスキルのダメージ+<style=\"accent-gn\">25%</style>。",
+    "Id": 1104,
+    "Par": 3401104,
+    "ShowRule": 1,
+    "Text": "雷印",
+    "Type": 3
+  },
+  "1105": {
+    "Description": "過去<style=\"accent-gn\">10</style>秒間に消費した<style=\"accent-gn\">雷印</style>数に応じた大ダメージを与える。<br><style=\"accent-gn\">雷印</style>を<style=\"accent-gn\">1</style>つ消費するたび、攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与える（最大で<style=\"accent-gn\">15000%</style>）。",
+    "Id": 1105,
+    "Par": 3401105,
+    "ShowRule": 1,
+    "Text": "雷極一閃",
+    "Type": 3
+  },
+  "1106": {
+    "Description": "<style=\"accent-gn\">電禍</style>を<style=\"accent-gn\">20</style>個まで累積可能。<style=\"accent-gn\">迅雷連斬</style>発動時、<style=\"accent-gn\">電禍</style>を<style=\"accent-gn\">15</style>個消費して<style=\"accent-gn\">雷霆鎌</style>を発動し、周囲の対象に<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1106,
+    "Par": 3401106,
+    "ShowRule": 1,
+    "Text": "電禍",
+    "Type": 3
+  },
+  "1107": {
+    "Description": "祝福された対象に<style=\"accent-gn\">知力</style>、<style=\"accent-gn\">筋力</style>、<style=\"accent-gn\">敏捷</style>、<style=\"accent-gn\">耐久力</style>を<style=\"accent-gn\">100</style>pt、<style=\"accent-gn\">会心</style>、<style=\"accent-gn\">ファスト</style>、<style=\"accent-gn\">幸運</style>、<style=\"accent-gn\">器用さ</style>、<style=\"accent-gn\">万能</style>を<style=\"accent-gn\">1.5%</style>付与する。",
+    "Id": 1107,
+    "Par": 3401107,
+    "ShowRule": 1,
+    "Text": "鼓舞",
+    "Type": 3
+  },
+  "1108": {
+    "Description": "回復系<style=\"accent-gn\">マスタリースキル</style>や<style=\"accent-gn\">究極スキル</style>が回復を行うと、<style=\"accent-gn\">再生の蕾</style>を<style=\"accent-gn\">2</style>つ消費し、<style=\"accent-gn\">滋養の種</style>を1個放出する。<style=\"accent-gn\">1</style>秒ごとに1回発動。<br>ダメージ系<style=\"accent-gn\">マスタリースキル</style>や<style=\"accent-gn\">究極スキル</style>がダメージを与えると、<style=\"accent-gn\">再生の蕾</style>を<style=\"accent-gn\">2</style>つ消費して<style=\"accent-gn\">荒野の種</style>を1個放出する。<style=\"accent-gn\">1</style>秒ごとに1回発動。",
+    "Id": 1108,
+    "Par": 3401108,
+    "ShowRule": 1,
+    "Text": "再生の蕾",
+    "Type": 3
+  },
+  "1109": {
+    "Description": "ヒールチェーンが味方間を跳ね返り、そのたびにHPを攻撃力の<style=\"accent-gn\">40%</style>分回復する。初期の跳ね返り回数は<style=\"accent-gn\">2</style>。",
+    "Id": 1109,
+    "Par": 3401109,
+    "ShowRule": 1,
+    "Text": "ヒールリンク",
+    "Type": 3
+  },
+  "1110": {
+    "Description": "外側<style=\"accent-gn\">20</style>mに拡散し、接触した味方対象のHPを攻撃力の<style=\"accent-gn\">150%</style>分回復する。",
+    "Id": 1110,
+    "Par": 3401110,
+    "ShowRule": 1,
+    "Text": "治癒波動",
+    "Type": 3
+  },
+  "1111": {
+    "Description": "味方対象に攻撃力の<style=\"accent-gn\">150%</style>の<style=\"accent-gn\">バリア</style>を付与する。持続<style=\"accent-gn\">5</style>秒。",
+    "Id": 1111,
+    "Par": 3401111,
+    "ShowRule": 1,
+    "Text": "自然防壁",
+    "Type": 3
+  },
+  "1112": {
+    "Description": "",
+    "Id": 1112,
+    "Par": 3401112,
+    "ShowRule": 1,
+    "Text": "スタッグチャージ",
+    "Type": 3
+  },
+  "1113": {
+    "Description": "<style=\"accent-gn\">3</style>m以内にいるパーティメンバーのHPを攻撃力の<style=\"accent-gn\">60%</style>分オート回復する。",
+    "Id": 1113,
+    "Par": 3401113,
+    "ShowRule": 1,
+    "Text": "治癒球",
+    "Type": 3
+  },
+  "1114": {
+    "Description": "<style=\"accent-gn\">活力球</style>に近づくと（<style=\"accent-gn\">3</style>m）、<style=\"accent-gn\">再生の蕾</style>を<style=\"accent-gn\">1</style>つ獲得する。<style=\"accent-gn\">エナジーオーブ</style>は最大<style=\"accent-gn\">3</style>秒間存在する。",
+    "Id": 1114,
+    "Par": 3401114,
+    "ShowRule": 1,
+    "Text": "活力球",
+    "Type": 3
+  },
+  "1115": {
+    "Description": "地上で接触すると、全パーティメンバーのHPを攻撃力の<style=\"accent-gn\">40%</style>分回復する。",
+    "Id": 1115,
+    "Par": 3401115,
+    "ShowRule": 1,
+    "Text": "滋養の種",
+    "Type": 3
+  },
+  "1116": {
+    "Description": "エネミーに接触すると爆発し、攻撃力の<style=\"accent-gn\">100%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1116,
+    "Par": 3401116,
+    "ShowRule": 1,
+    "Text": "荒野の種",
+    "Type": 3
+  },
+  "1117": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">20%</style>の<style=\"magic\">魔法ダメージ</style>を毎秒与える。持続<style=\"accent-gn\">10</style>秒。",
+    "Id": 1117,
+    "Par": 3401117,
+    "ShowRule": 1,
+    "Text": "継続の茨",
+    "Type": 3
+  },
+  "1118": {
+    "Description": "",
+    "Id": 1118,
+    "Par": 3401118,
+    "ShowRule": 1,
+    "Text": "花の苗",
+    "Type": 3
+  },
+  "1119": {
+    "Description": "次に発動する<style=\"accent-gn\">マスタリースキル</style>のリキャスト-<style=\"accent-gn\">50%</style>。",
+    "Id": 1119,
+    "Par": 3401119,
+    "ShowRule": 1,
+    "Text": "紅き蓮",
+    "Type": 3
+  },
+  "1120": {
+    "Description": "次に<style=\"accent-gn\">マスタリースキル</style>を発動すると、自身の回復量+<style=\"accent-gn\">20%</style>。持続<style=\"accent-gn\">10</style>秒。",
+    "Id": 1120,
+    "Par": 3401120,
+    "ShowRule": 1,
+    "Text": "黄金の祈り",
+    "Type": 3
+  },
+  "1121": {
+    "Description": "次の<style=\"accent-gn\">バイタルブルーム</style>が回復を受けた対象に<style=\"accent-gn\">8</style>秒間持続する<style=\"accent-gn\">バリア</style>を付与する。吸収量は自身の攻撃力の<style=\"accent-gn\">200%</style>。<style=\"accent-gn\">バリア</style>を持つ対象が受ける全ダメージ-<style=\"accent-gn\">10%</style>。",
+    "Id": 1121,
+    "Par": 3401121,
+    "ShowRule": 1,
+    "Text": "蒼月の慰め",
+    "Type": 3
+  },
+  "1122": {
+    "Description": "ダメージを受けた時、自身のHPパーセントが攻撃者よりも高かった場合、攻撃者から受けるダメージ-<style=\"accent-gn\">10%</style>。<br>ダメージを与える時、自身のHPパーセントが攻撃者よりも高かった場合、与えるダメージ+<style=\"accent-gn\">10%</style>。",
+    "Id": 1122,
+    "Par": 3401122,
+    "ShowRule": 1,
+    "Text": "抑圧",
+    "Type": 3
+  },
+  "1123": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">50%</style>の<style=\"physical\">物理ダメージ</style>を与え、<style=\"accent-gn\">晶義</style>を<style=\"accent-gn\">1</style>個獲得する。",
+    "Id": 1123,
+    "Par": 3401123,
+    "ShowRule": 1,
+    "Text": "弱点攻撃",
+    "Type": 3
+  },
+  "1124": {
+    "Description": "バリア量+<style=\"accent-gn\">15%</style>。持続<style=\"accent-gn\">10</style>秒。",
+    "Id": 1124,
+    "Par": 3401124,
+    "ShowRule": 1,
+    "Text": "剛身強化",
+    "Type": 3
+  },
+  "1125": {
+    "Description": "自身から<style=\"accent-gn\">3</style>m以内にいるエネミーに<style=\"accent-gn\">レジスト</style>を無視して攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与え、大量の恐怖値を発生させる。",
+    "Id": 1125,
+    "Par": 3401125,
+    "ShowRule": 1,
+    "Text": "レジスト反撃",
+    "Type": 3
+  },
+  "1126": {
+    "Description": "<style=\"accent-gn\">レジスト</style>時に幸運%の確率で<style=\"accent-gn\"> 幸運レジスト</style>が発生する。",
+    "Id": 1126,
+    "Par": 3401126,
+    "ShowRule": 1,
+    "Text": "幸運レジスト",
+    "Type": 3
+  },
+  "1127": {
+    "Description": "以後<style=\"accent-gn\">7</style>秒間、<style=\"accent-gn\">砕刃の猛撃</style>が2連撃に変わり、発動時に<style=\"accent-gn\">怒り</style>と<style=\"accent-gn\">晶義</style>を消費しない。また、自身に<style=\"accent-gn\">バリア</style>を追加し、<style=\"accent-gn\">砕刃の猛撃</style>を発動してこの効果を消去する。",
+    "Id": 1127,
+    "Par": 3401127,
+    "ShowRule": 1,
+    "Text": "盾連撃",
+    "Type": 3
+  },
+  "1128": {
+    "Description": "自身から<style=\"accent-gn\">5</style>m以内にいるエネミーに攻撃力の<style=\"accent-gn\">300%</style>の<style=\"physical\">物理ダメージ</style>を与え、以後<style=\"accent-gn\">5</style>秒間、<style=\"accent-gn\">怒り</style>を<style=\"accent-gn\">1</style>秒ごとに<style=\"accent-gn\">20</style>回復する。この効果はスタック不可能。",
+    "Id": 1128,
+    "Par": 3401128,
+    "ShowRule": 1,
+    "Text": "盾残響",
+    "Type": 3
+  },
+  "1129": {
+    "Description": "受けるダメージ-<style=\"accent-gn\">50%</style>、受ける回復+<style=\"accent-gn\">30%</style>。持続<style=\"accent-gn\">10</style>秒。",
+    "Id": 1129,
+    "Par": 3401129,
+    "ShowRule": 1,
+    "Text": "絶境逢生",
+    "Type": 3
+  },
+  "1130": {
+    "Description": "毎秒、<style=\"accent-gn\">凍源</style>を上限値の<style=\"accent-gn\">3%</style>分回復する（この回復は器用さとファストの影響を受ける）。持続<style=\"accent-gn\">10</style>秒。",
+    "Id": 1130,
+    "Par": 3401130,
+    "ShowRule": 1,
+    "Text": "湧力法則",
+    "Type": 3
+  },
+  "1131": {
+    "Description": "最も近いエネミー対象<style=\"accent-gn\">1</style>体を攻撃し、攻撃力の<style=\"accent-gn\">70%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1131,
+    "Par": 3401131,
+    "ShowRule": 1,
+    "Text": "岩石弾",
+    "Type": 3
+  },
+  "1132": {
+    "Description": "対象の近くに強制移動して攻撃する。",
+    "Id": 1132,
+    "Par": 3401132,
+    "ShowRule": 1,
+    "Text": "目くらまし",
+    "Type": 3
+  },
+  "1133": {
+    "Description": "<style=\"accent-gn\">ブレイブメロディー</style>または<style=\"accent-gn\">ヒーリングメロディー</style>。",
+    "Id": 1133,
+    "Par": 3401133,
+    "ShowRule": 1,
+    "Text": "奏鳴スキル",
+    "Type": 3
+  },
+  "1134": {
+    "Description": "強化された<style=\"accent-gn\">憤怒の剛撃</style>が召喚した巨岩が爆裂し、攻撃力の<style=\"accent-gn\">750%</style>の<style=\"physical\">物理ダメージ</style>を与える（威力は<style=\"accent-gn\">憤怒の剛撃</style>のレベル/ランクに応じて上昇）。<br>発動時に<style=\"accent-gn\">晶義</style>を消費しない。",
+    "Id": 1134,
+    "Par": 3401134,
+    "ShowRule": 1,
+    "Text": "地崩の山摧",
+    "Type": 3
+  },
+  "1135": {
+    "Description": "ダメージ+<style=\"accent-gn\">20%</style>、移動速度+<style=\"accent-gn\">10%</style>、かつ<style=\"accent-gn\">剛体</style>を獲得する。",
+    "Id": 1135,
+    "Par": 3401135,
+    "ShowRule": 1,
+    "Text": "憤怒",
+    "Type": 3
+  },
+  "1136": {
+    "Description": "自身から<style=\"accent-gn\">3</style>m以内にいるエネミーに攻撃力の<style=\"accent-gn\">300%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1136,
+    "Par": 3401136,
+    "ShowRule": 1,
+    "Text": "晶義激震",
+    "Type": 3
+  },
+  "1137": {
+    "Description": "エリア内では自身の<style=\"magic\">魔法ダメージ</style>軽減+<style=\"accent-gn\">50%</style>。かつ、エリア内のパーティメンバー（最大<style=\"accent-gn\">10</style>名）が受けるダメージの<style=\"accent-gn\">50%</style>を吸収する。",
+    "Id": 1137,
+    "Par": 3401137,
+    "ShowRule": 1,
+    "Text": "砂石圏",
+    "Type": 3
+  },
+  "1138": {
+    "Description": "<style=\"accent-gn\">閃心</style>が満タンの場合、<style=\"accent-gn\">特殊攻撃</style>を発動すると<style=\"accent-gn\">閃心強化</style>状態になり、その間は<style=\"accent-gn\">特殊攻撃</style>と各<style=\"accent-gn\">マスタリースキル</style>が強化される。<style=\"accent-gn\">閃心</style>が減少し続けて<style=\"accent-gn\">0</style>になると状態を終了する。",
+    "Id": 1138,
+    "Par": 3401138,
+    "ShowRule": 1,
+    "Text": "閃心強化",
+    "Type": 3
+  },
+  "1139": {
+    "Description": "周囲<style=\"accent-gn\">5</style>m以内にいる対象に攻撃力の<style=\"accent-gn\">80%</style>の<style=\"physical\">物理ダメージ</style>を与え、対象に命中するたびダメージ+<style=\"accent-gn\">30%</style>（最大+<style=\"accent-gn\">120%</style>）、威力は<style=\"accent-gn\">通常攻撃</style>スキルのレベルアップ/ランクアップに応じてアップする。",
+    "Id": 1139,
+    "Par": 3401139,
+    "ShowRule": 1,
+    "Text": "掃撃",
+    "Type": 3
+  },
+  "1140": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与え、<style=\"accent-gn\">HPを流失</style>させる。",
+    "Id": 1140,
+    "Par": 3401140,
+    "ShowRule": 1,
+    "Text": "咬撃",
+    "Type": 3
+  },
+  "1141": {
+    "Description": "<style=\"accent-gn\">5</style>秒間、攻撃力の<style=\"accent-gn\">10%</style>の<style=\"physical\">物理ダメージ</style>を毎秒与える。同じ発動者から再び<style=\"accent-gn\">HP流失</style>を追加されると、前に付与されてまだ効果が終了していない<style=\"accent-gn\">HP流失</style>効果が直ちに清算される。",
+    "Id": 1141,
+    "Par": 3401141,
+    "ShowRule": 1,
+    "Text": "HP流失",
+    "Type": 3
+  },
+  "1142": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">50%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1142,
+    "Par": 3401142,
+    "ShowRule": 1,
+    "Text": "閃追矢",
+    "Type": 3
+  },
+  "1143": {
+    "Description": "エネミー対象に攻撃力の<style=\"accent-gn\">410%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1143,
+    "Par": 3401143,
+    "ShowRule": 1,
+    "Text": "雷撃衝撃",
+    "Type": 3
+  },
+  "1144": {
+    "Description": "エネミーとその周囲<style=\"accent-gn\">3</style>m以内にいる対象に攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1144,
+    "Par": 3401144,
+    "ShowRule": 1,
+    "Text": "爆裂矢",
+    "Type": 3
+  },
+  "1145": {
+    "Description": "範囲内のエネミーに攻撃力の<style=\"accent-gn\">250%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1145,
+    "Par": 3401145,
+    "ShowRule": 1,
+    "Text": "踏撃",
+    "Type": 3
+  },
+  "1146": {
+    "Description": "その場で羽ばたき、以後<style=\"accent-gn\">10</style>秒間の閃心の取得効率+<style=\"accent-gn\">100%</style>。",
+    "Id": 1146,
+    "Par": 3401146,
+    "ShowRule": 1,
+    "Text": "伝説の臣鷹",
+    "Type": 3
+  },
+  "1147": {
+    "Description": "凄まじい咆哮を上げ、<style=\"accent-gn\">10</style>秒間、光属性ボーナス+<style=\"accent-gn\">50%</style>。",
+    "Id": 1147,
+    "Par": 3401147,
+    "ShowRule": 1,
+    "Text": "伝説のボア",
+    "Type": 3
+  },
+  "1148": {
+    "Description": "<style=\"accent-gn\">弓心</style>のスタック数が<style=\"accent-gn\">5</style>以上だった場合、追加スタックされるたび<style=\"accent-gn\">30%</style>の固定確率で<style=\"accent-gn\">内部破裂</style>し、範囲内のエネミー対象に攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与える。<style=\"accent-gn\">弓心</style>は<style=\"accent-gn\">20</style>スタックまで可。但し、<style=\"accent-gn\">1</style>秒ごとにスタック数-<style=\"accent-gn\">1</style>。",
+    "Id": 1148,
+    "Par": 3401148,
+    "ShowRule": 1,
+    "Text": "弓心",
+    "Type": 3
+  },
+  "1149": {
+    "Description": "半径<style=\"accent-gn\">5</style>mの嵐を巻き起こし、嵐内にいる<style=\"accent-gn\">弓心</style>マーク付きの対象に<style=\"accent-gn\">0</style>.<style=\"accent-gn\">5</style>秒ごとに攻撃力の<style=\"accent-gn\">80%</style>の<style=\"physical\">物理ダメージ</style>（防御力無視）を与える。<style=\"accent-gn\">5</style>秒後には<style=\"accent-gn\">天界の臣鷹</style>が地面に急降下し、攻撃力の<style=\"accent-gn\">500%</style>の<style=\"physical\">物理ダメージ</style>（防御力無視）を与える。",
+    "Id": 1149,
+    "Par": 3401149,
+    "ShowRule": 1,
+    "Text": "天界の臣鷹",
+    "Type": 3
+  },
+  "1150": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">400%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1150,
+    "Par": 3401150,
+    "ShowRule": 1,
+    "Text": "幻影の臣鷹",
+    "Type": 3
+  },
+  "1151": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">35%</style>の<style=\"physical\">物理ダメージ</style>を与える（威力は<style=\"accent-gn\">通常攻撃</style>スキルのレベル/ランクに応じて上昇）。",
+    "Id": 1151,
+    "Par": 3401151,
+    "ShowRule": 1,
+    "Text": "分裂矢",
+    "Type": 3
+  },
+  "1152": {
+    "Description": "攻撃力+<style=\"accent-gn\">5%</style>。持続<style=\"accent-gn\">10</style>秒。",
+    "Id": 1152,
+    "Par": 3401152,
+    "ShowRule": 1,
+    "Text": "鋭利",
+    "Type": 3
+  },
+  "1153": {
+    "Description": "対象が攻撃力の<style=\"accent-gn\">25%</style>分のHPを毎秒失う。持続<style=\"accent-gn\">8</style>秒。",
+    "Id": 1153,
+    "Par": 3401153,
+    "ShowRule": 1,
+    "Text": "烈破",
+    "Type": 3
+  },
+  "1154": {
+    "Description": "<style=\"accent-gn\">烈破</style>のダメージ+<style=\"accent-gn\">100%</style>。持続<style=\"accent-gn\">5</style>秒。",
+    "Id": 1154,
+    "Par": 3401154,
+    "ShowRule": 1,
+    "Text": "千瘡百孔",
+    "Type": 3
+  },
+  "1155": {
+    "Description": "<style=\"accent-gn\">筋力</style>+<style=\"accent-gn\">30%</style>。持続<style=\"accent-gn\">12</style>秒。",
+    "Id": 1155,
+    "Par": 3401155,
+    "ShowRule": 1,
+    "Text": "気勁加持",
+    "Type": 3
+  },
+  "1156": {
+    "Description": "「幸運効果」：攻撃力の<style=\"accent-gn\">150%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1156,
+    "Par": 3401156,
+    "ShowRule": 1,
+    "Text": "長槍貫穿",
+    "Type": 3
+  },
+  "1157": {
+    "Description": "<style=\"accent-gn\">刹那</style>のダメージ+<style=\"accent-gn\">30%</style>。持続<style=\"accent-gn\">10</style>秒、<style=\"accent-gn\">2</style>スタックまで。<style=\"accent-gn\">刹那</style>がダメージを与えると-1スタック。",
+    "Id": 1157,
+    "Par": 3401157,
+    "ShowRule": 1,
+    "Text": "追撃身法",
+    "Type": 3
+  },
+  "1158": {
+    "Description": "範囲内のエネミー対象に攻撃力の<style=\"accent-gn\">350%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1158,
+    "Par": 3401158,
+    "ShowRule": 1,
+    "Text": "竜巻",
+    "Type": 3
+  },
+  "1159": {
+    "Description": "強化された<style=\"accent-gn\">鋭利衝</style>は、ジャンプして対象とその周囲に合計で<style=\"accent-gn\">800%</style>の<style=\"physical\">物理ダメージ</style>を与える（威力は<style=\"accent-gn\">鋭利衝</style>のレベル/ランクに応じて上昇）。",
+    "Id": 1159,
+    "Par": 3401159,
+    "ShowRule": 1,
+    "Text": "風陣・鋭利衝",
+    "Type": 3
+  },
+  "1160": {
+    "Description": "アイスメテオがダメージを与えると<style=\"accent-gn\">氷核</style>が<style=\"accent-gn\">アイスボルト</style>を発動し、<style=\"accent-gn\">玄氷</style>を1個獲得する。",
+    "Id": 1160,
+    "Par": 3401160,
+    "ShowRule": 1,
+    "Text": "アビリティ-砕氷攻撃",
+    "Type": 3
+  },
+  "1161": {
+    "Description": "スキルに追加効果をもたらす。",
+    "Id": 1161,
+    "Par": 3401161,
+    "ShowRule": 1,
+    "Text": "玄氷",
+    "Type": 3
+  },
+  "1162": {
+    "Description": "対象に攻撃力の<style=\"accent-gn\">100%</style><style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1162,
+    "Par": 3401162,
+    "ShowRule": 1,
+    "Text": "落氷",
+    "Type": 3
+  },
+  "1163": {
+    "Description": "周囲<style=\"accent-gn\">3</style>m以内にいるエネミーに攻撃力の<style=\"accent-gn\">100%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1163,
+    "Par": 3401163,
+    "ShowRule": 1,
+    "Text": "氷霜衝撃",
+    "Type": 3
+  },
+  "1164": {
+    "Description": "対象を貫通する<style=\"accent-gn\">スピア</style>が、エネミー対象に攻撃力の<style=\"accent-gn\">250%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1164,
+    "Par": 3401164,
+    "ShowRule": 1,
+    "Text": "貫通氷槍",
+    "Type": 3
+  },
+  "1165": {
+    "Description": "「幸運効果」：空から<style=\"accent-gn\">氷慧</style>を召喚し、エネミーに攻撃力の<style=\"accent-gn\">200%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1165,
+    "Par": 3401165,
+    "ShowRule": 1,
+    "Text": "氷慧",
+    "Type": 3
+  },
+  "1166": {
+    "Description": "フロストレイが強力なパルスを放ち、接触したエネミーに攻撃力の<style=\"accent-gn\">500%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1166,
+    "Par": 3401166,
+    "ShowRule": 1,
+    "Text": "氷冷波動",
+    "Type": 3
+  },
+  "1167": {
+    "Description": "<style=\"accent-gn\">刀意</style>を毎秒<style=\"accent-gn\">2</style>pt獲得する（初期上限は<style=\"accent-gn\">100</style>pt）。<br><style=\"accent-gn\">刀意</style>が<style=\"accent-gn\">100</style>ptに達すると、<style=\"accent-gn\">雷刃抜刀</style>の発動速度が大幅にアップするが、<style=\"accent-gn\">雷刃抜刀</style>発動後<style=\"accent-gn\">刀意</style>-<style=\"accent-gn\">100</style>pt。<br><style=\"accent-gn\">刀意</style>は<style=\"accent-gn\">迅雷連斬</style>の発動資源としても消費できる。",
+    "Id": 1167,
+    "Par": 3401167,
+    "ShowRule": 1,
+    "Text": "刀意",
+    "Type": 3
+  },
+  "1168": {
+    "Description": "<style=\"accent-gn\">バリア</style>強度+<style=\"accent-gn\">3%</style>。持続<style=\"accent-gn\">10</style>秒、<style=\"accent-gn\">10</style>スタックまで。",
+    "Id": 1168,
+    "Par": 3401168,
+    "ShowRule": 1,
+    "Text": "砂岩の加護",
+    "Type": 3
+  },
+  "1169": {
+    "Description": "ジャンプしてエリア内のエネミーに攻撃力の<style=\"accent-gn\">400%</style>の<style=\"physical\">物理ダメージ</style>を与え、必ず<style=\"accent-gn\">弱点攻撃</style>を発動する（威力は<style=\"accent-gn\">通常攻撃</style>スキルのレベル/ランクに応じて上昇）。",
+    "Id": 1169,
+    "Par": 3401169,
+    "ShowRule": 1,
+    "Text": "怒撃",
+    "Type": 3
+  },
+  "1170": {
+    "Description": "<style=\"physical\">物理ダメージ</style>を受けると一定確率でその回のダメージを<style=\"accent-gn\">レジスト</style>し、受けるダメージ-<style=\"accent-gn\">30%</style>。",
+    "Id": 1170,
+    "Par": 3401170,
+    "ShowRule": 1,
+    "Text": "レジスト",
+    "Type": 3
+  },
+  "1171": {
+    "Description": "対象を移動不能にし、受ける氷属性ダメージ+<style=\"accent-gn\">20%</style>。持続<style=\"accent-gn\">10</style>秒。攻撃を受けると解除される。短時間内に複数回付与すると持続時間が減少する。ボスには無効。",
+    "Id": 1171,
+    "Par": 3401171,
+    "ShowRule": 1,
+    "Text": "氷結",
+    "Type": 3
+  },
+  "1172": {
+    "Description": "盾に光を注ぎ込み、有効中は自身が受けるダメージの<style=\"accent-gn\">50%</style>を吸収する。再獲得すると吸収量が累積され（最大HPの<style=\"accent-gn\">100%</style>まで）、持続時間がリセットされる。",
+    "Id": 1172,
+    "Par": 3401172,
+    "ShowRule": 1,
+    "Text": "光明の盾",
+    "Type": 3
+  },
+  "1173": {
+    "Description": "<style=\"accent-gn\">5</style>秒間、味方対象のHPを<style=\"accent-gn\">0.5</style>秒ごとに攻撃力の<style=\"accent-gn\">20%</style>分回復する。",
+    "Id": 1173,
+    "Par": 3401173,
+    "ShowRule": 1,
+    "Text": "音響熱波",
+    "Type": 3
+  },
+  "1174": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">150%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1174,
+    "Par": 3401174,
+    "ShowRule": 1,
+    "Text": "光明の衝撃",
+    "Type": 3
+  },
+  "1175": {
+    "Description": "1スタックにつき自身の最大HP+<style=\"accent-gn\">2%</style>。<style=\"accent-gn\">光盾障壁</style>は<style=\"accent-gn\">10</style>スタックまで。ダメージを受けると<style=\"accent-gn\">1</style>スタック消費する。<style=\"accent-gn\">25</style>秒が経過するか、全スタックを使い切るまで持続。1スタック獲得するたび持続時間がリセットされる。",
+    "Id": 1175,
+    "Par": 3401175,
+    "ShowRule": 1,
+    "Text": "光盾障壁",
+    "Type": 3
+  },
+  "1176": {
+    "Description": "対象に攻撃力の<style=\"accent-gn\">240%</style>の<style=\"physical\">物理ダメージ</style>を与える（威力は<style=\"accent-gn\">グローイングガード</style>のレベル/ランクに応じて上昇）。<br><style=\"accent-gn\">ヴァンガードラッシュ</style>がダメージを与えると、自身のHPを最大HPの<style=\"accent-gn\">2%</style>分回復し、<style=\"accent-gn\">剛勇無畏</style>を獲得する。",
+    "Id": 1176,
+    "Par": 3401176,
+    "ShowRule": 1,
+    "Text": "ヴァンガードラッシュ",
+    "Type": 3
+  },
+  "1177": {
+    "Description": "攻撃力の<style=\"accent-gn\">50%</style>の<style=\"physical\">物理ダメージ</style>を与え、影響を受けた対象の移動速度-<style=\"accent-gn\">25%</style>。",
+    "Id": 1177,
+    "Par": 3401177,
+    "ShowRule": 1,
+    "Text": "神聖攻撃",
+    "Type": 3
+  },
+  "1178": {
+    "Description": "<style=\"accent-gn\">チューン </style>説明",
+    "Id": 1178,
+    "Par": 3401178,
+    "ShowRule": 1,
+    "Text": "チューン",
+    "Type": 3
+  },
+  "1179": {
+    "Description": "<style=\"accent-gn\">筋力</style>+<style=\"accent-gn\">12%</style>。持続<style=\"accent-gn\">8</style>秒。",
+    "Id": 1179,
+    "Par": 3401179,
+    "ShowRule": 1,
+    "Text": "破壊の風雷",
+    "Type": 3
+  },
+  "1180": {
+    "Description": "ストリングを放ち、付近のエネミー対象にダメージを与えるか、付近の味方対象を回復する。数値は現在の最大物理/魔法攻撃力の<style=\"accent-gn\">50%</style>に同じ。",
+    "Id": 1180,
+    "Par": 3401180,
+    "ShowRule": 1,
+    "Text": "アンコール",
+    "Type": 3
+  },
+  "1181": {
+    "Description": "<style=\"accent-gn\">知力</style>+<style=\"accent-gn\">5%</style>。持続<style=\"accent-gn\">6</style>秒。",
+    "Id": 1181,
+    "Par": 3401181,
+    "ShowRule": 1,
+    "Text": "炎の情熱",
+    "Type": 3
+  },
+  "1182": {
+    "Description": "攻撃力の<style=\"accent-gn\">50%</style>×スタック数の<style=\"physical\">物理ダメージ</style>を与える。持続<style=\"accent-gn\">10</style>秒。",
+    "Id": 1182,
+    "Par": 3401182,
+    "ShowRule": 1,
+    "Text": "鬼火",
+    "Type": 3
+  },
+  "1183": {
+    "Description": "<style=\"accent-gn\">音符</style>説明",
+    "Id": 1183,
+    "Par": 3401183,
+    "ShowRule": 1,
+    "Text": "音符",
+    "Type": 3
+  },
+  "1184": {
+    "Description": "<style=\"accent-gn\">サウンドサージ</style>",
+    "Id": 1184,
+    "Par": 3401184,
+    "ShowRule": 1,
+    "Text": "サウンドサージ",
+    "Type": 3
+  },
+  "1185": {
+    "Description": "周囲の味方対象を回復する。数値は魔法攻撃力の<style=\"accent-gn\">10%</style>",
+    "Id": 1185,
+    "Par": 3401185,
+    "ShowRule": 1,
+    "Text": "ヒーリングサウンド",
+    "Type": 3
+  },
+  "1186": {
+    "Description": "<style=\"accent-gn\">サウンドバリア</style>",
+    "Id": 1186,
+    "Par": 3401186,
+    "ShowRule": 1,
+    "Text": "サウンドバリア",
+    "Type": 3
+  },
+  "1187": {
+    "Description": "与えるダメージ+<style=\"accent-gn\">15%</style>、攻撃速度+<style=\"accent-gn\">10%</style>。持続<style=\"accent-gn\">15</style>秒。",
+    "Id": 1187,
+    "Par": 3401187,
+    "ShowRule": 1,
+    "Text": "風怒",
+    "Type": 3
+  },
+  "1188": {
+    "Description": "エネミーに攻撃力の<style=\"accent-gn\">80%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1188,
+    "Par": 3401188,
+    "ShowRule": 1,
+    "Text": "閃心矢",
+    "Type": 3
+  },
+  "1189": {
+    "Description": "自身の周囲のエネミーに攻撃力の<style=\"accent-gn\">300%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1189,
+    "Par": 3401189,
+    "ShowRule": 1,
+    "Text": "緑の衝撃",
+    "Type": 3
+  },
+  "1190": {
+    "Description": "範囲内のエネミーに攻撃力の<style=\"accent-gn\">60%</style>の<style=\"magic\">魔法ダメージ</style>を与える（威力は<style=\"accent-gn\">通常攻撃</style>スキルのレベル/ランクに応じて上昇）。",
+    "Id": 1190,
+    "Par": 3401190,
+    "ShowRule": 1,
+    "Text": "火柱衝撃",
+    "Type": 3
+  },
+  "1191": {
+    "Description": "自身の周囲<style=\"accent-gn\">5</style>mにフレイムショックを与え、接触したエネミーに攻撃力の<style=\"accent-gn\">100%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1191,
+    "Par": 3401191,
+    "ShowRule": 1,
+    "Text": "烈火衝撃",
+    "Type": 3
+  },
+  "1192": {
+    "Description": "<style=\"accent-gn\">10</style>秒間、対象のHPを攻撃力の<style=\"accent-gn\">35%</style>分回復する。<style=\"accent-gn\">音符</style>が再び追加されると、対象の持つ残りの<style=\"accent-gn\">音符</style>分の回復量が直ちに与えられる。",
+    "Id": 1192,
+    "Par": 3401192,
+    "ShowRule": 1,
+    "Text": "音符",
+    "Type": 3
+  },
+  "1193": {
+    "Description": "ダメージか回復の<style=\"accent-gn\">マスタリースキル</style>を使用するたび<style=\"accent-gn\">50%</style>の固定確率で<style=\"accent-gn\">追奏弦音</style>を発動し、その時点の対象にダメージを与えるか、HP最小の味方対象（パーティメンバー優先）のHPを回復する。",
+    "Id": 1193,
+    "Par": 3401193,
+    "ShowRule": 1,
+    "Text": "追奏弦音",
+    "Type": 3
+  },
+  "1194": {
+    "Description": "移動しながら6秒間、前方にパッショネートを放ち続ける。",
+    "Id": 1194,
+    "Par": 3401194,
+    "ShowRule": 1,
+    "Text": "レイジパッショネート",
+    "Type": 3
+  },
+  "1195": {
+    "Description": "直ちに<style=\"accent-gn\">エネルギー</style>を<style=\"accent-gn\">100</style>獲得し、回復系の全<style=\"accent-gn\">マスタリースキル</style>のリキャストを終了する。また、以後<style=\"accent-gn\">10</style>秒間の魔法攻撃力+<style=\"accent-gn\">30%</style>。",
+    "Id": 1195,
+    "Par": 3401195,
+    "ShowRule": 1,
+    "Text": "無心",
+    "Type": 3
+  },
+  "1196": {
+    "Description": "盾を掲げて前方にダッシュし、接触したエネミーに攻撃力の<style=\"accent-gn\">200%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1196,
+    "Par": 3401196,
+    "ShowRule": 1,
+    "Text": "盾衝撃",
+    "Type": 3
+  },
+  "1197": {
+    "Description": "範囲内のエネミーに攻撃力の<style=\"accent-gn\">100%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Id": 1197,
+    "Par": 3401197,
+    "ShowRule": 1,
+    "Text": "フレイムショック",
+    "Type": 3
+  },
+  "1198": {
+    "Description": "<style=\"accent-gn\">10</style>秒後、自身の周囲に神聖<style=\"accent-gn\">エネルギー</style>を噴出させ、基本攻撃力の<style=\"accent-gn\">500%</style>の<style=\"physical\">物理ダメージ</style>を与え、自身のHPを最大HPの<style=\"accent-gn\">15%</style>分回復する。",
+    "Id": 1198,
+    "Par": 3401198,
+    "ShowRule": 1,
+    "Text": "光核",
+    "Type": 3
+  },
+  "1199": {
+    "Description": "対象が以後<style=\"accent-gn\">10</style>秒間、攻撃力の<style=\"accent-gn\">20%</style>のダメージを毎秒受ける。また、この対象からダメージを受けると<style=\"accent-gn\">10%</style>の固定確率でHPを回復する（回復値は自身の最大HPの<style=\"accent-gn\">0.5%</style>）。",
+    "Id": 1199,
+    "Par": 3401199,
+    "ShowRule": 1,
+    "Text": "聖印",
+    "Type": 3
+  },
+  "1200": {
+    "Description": "「幸運効果」：<style=\"accent-gn\">3</style>m範囲内にいるエネミー対象に攻撃力の<style=\"accent-gn\">1375%</style>の自動適応ダメージを与えるが、会心は発生しない。",
+    "Id": 1200,
+    "Par": 3401200,
+    "ShowRule": 1,
+    "Text": "イマジンインパクト",
+    "Type": 3
+  },
+  "1201": {
+    "Description": "<style=\"accent-gn\">3</style>ｍ以内にいるエネミー対象に攻撃力<style=\"accent-gn\">850%</style>の自動適応ダメージを与える。会心ダメージは常に<style=\"accent-gn\">500%</style>で計算される。",
+    "Id": 1201,
+    "Par": 3401201,
+    "ShowRule": 1,
+    "Text": "幻夢の断罪",
+    "Type": 3
+  },
+  "1202": {
+    "Description": "<style=\"accent-gn\">3</style>ｍ以内にいるエネミー対象に攻撃力<style=\"accent-gn\">165%</style>の自動適応ダメージを与える。",
+    "Id": 1202,
+    "Par": 3401202,
+    "ShowRule": 1,
+    "Text": "夢幻の矢",
+    "Type": 3
+  },
+  "1203": {
+    "Description": "1スタックにつき、攻撃力+<style=\"accent-gn\">18</style>（シーズンレベルの上昇に伴い、最大+<style=\"accent-gn\">50</style>まで）。",
+    "Id": 1203,
+    "Par": 3401203,
+    "ShowRule": 1,
+    "Text": "夢幻迷界",
+    "Type": 3
+  },
+  "1204": {
+    "Description": "メインステータス+<style=\"accent-gn\">450</style>（シーズンレベルの上昇に伴い、最大+<style=\"accent-gn\">1050</style>まで）。効果中は残夢を獲得できない。",
+    "Id": 1204,
+    "Par": 3401204,
+    "ShowRule": 1,
+    "Text": "夢幻の力",
+    "Type": 3
+  },
+  "1205": {
+    "Description": "攻撃力-<style=\"accent-gn\">20%</style>、受ける夢界ダメージ+<style=\"accent-gn\">10%</style>、移動速度-<style=\"accent-gn\">20%</style>（スタック不可）。",
+    "Id": 1205,
+    "Par": 3401205,
+    "ShowRule": 1,
+    "Text": "寂滅",
+    "Type": 3
+  },
+  "1206": {
+    "Description": "自身の周囲<style=\"accent-gn\">5</style>m以内の敵に攻撃力<style=\"accent-gn\">200%</style>の自動適応ダメージを与え、<style=\"accent-gn\">1</style>.<style=\"accent-gn\">5</style>秒間\n<linktext=3005><style=\"ItemQuality_5\">スタン</style></linktext>状態にする。",
+    "Id": 1206,
+    "Par": 3401206,
+    "ShowRule": 1,
+    "Text": "寂滅撃",
+    "Type": 3
+  },
+  "1207": {
+    "Description": "死亡を無効化する。",
+    "Id": 1207,
+    "Par": 3401207,
+    "ShowRule": 1,
+    "Text": "瀕死",
+    "Type": 3
+  },
+  "1208": {
+    "Description": "自身の周囲<style=\"accent-gn\">5</style>ｍ以内のエネミー対象に物理防御力<style=\"accent-gn\">330%</style>の自動適応ダメージを与える。",
+    "Id": 1208,
+    "Par": 3401208,
+    "ShowRule": 1,
+    "Text": "虚妄断罪",
+    "Type": 3
+  },
+  "1209": {
+    "Description": "最大HP+<style=\"accent-gn\">3%</style>、器用さ+<style=\"accent-gn\">2%</style>。<style=\"accent-gn\">3</style>スタックまで可。",
+    "Id": 1209,
+    "Par": 3401209,
+    "ShowRule": 1,
+    "Text": "無限思考",
+    "Type": 3
+  },
+  "1210": {
+    "Description": "筋力、知力、敏捷<style=\"accent-gn\">2</style>ごとに攻撃力<style=\"accent-gn\">1</style>に変換<br>耐久力<style=\"accent-gn\">1</style>ごとに最大HP<style=\"accent-gn\">8</style>に変換<br>ファスト<style=\"accent-gn\">1%</style>ごとに攻撃速度<style=\"accent-gn\">0.6%</style>と詠唱速度<style=\"accent-gn\">1%</style>に変換<br>万能<style=\"accent-gn\">1%</style>ごとに与ダメージ、回復力、バリア付与時のボーナス比率+<style=\"accent-gn\">0.35%</style>、および被ダメージ軽減+<style=\"accent-gn\">0.15%</style><br>器用さ<style=\"accent-gn\">1%</style>ごとに全ダメージ+<style=\"accent-gn\">0.5%</style>に変換",
+    "Id": 1210,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "工匠の力",
+    "Type": 1
+  },
+  "1211": {
+    "Description": "<style=\"accent-gn\">マスタリースキル</style>攻撃速度+<style=\"accent-gn\">5%</style>。持続<style=\"accent-gn\">10</style>秒、<style=\"accent-gn\">5</style>スタックまで可。",
+    "Id": 1211,
+    "Par": 3401211,
+    "ShowRule": 1,
+    "Text": "炎魂",
+    "Type": 3
+  },
+  "1212": {
+    "Description": "火属性ボーナス+<style=\"accent-gn\">10%</style>、持続<style=\"accent-gn\">8</style>秒。",
+    "Id": 1212,
+    "Par": 3401212,
+    "ShowRule": 1,
+    "Text": "灼炎",
+    "Type": 3
+  },
+  "1213": {
+    "Description": "<style=\"accent-gn\">2</style>秒ごとに攻撃力の<style=\"accent-gn\">35%×スタック数</style>ptの<style=\"physical\">物理ダメージ</style>を与える。持続<style=\"accent-gn\">10</style>秒、<style=\"accent-gn\">10</style>スタックまで可。<style=\"accent-gn\">鬼火</style>がスタック上限に達しているときに新たに<style=\"accent-gn\">鬼火</style>が付与されると、直ちに攻撃力の<style=\"accent-gn\">35%</style>ptの<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1213,
+    "Par": 3401213,
+    "ShowRule": 1,
+    "Text": "鬼火",
+    "Type": 3
+  },
+  "1214": {
+    "Description": "範囲内のエネミー対象に攻撃力の<style=\"accent-gn\">800%</style>の<style=\"physical\">物理ダメージ</style>を与え、同時に<style=\"accent-gn\">霊火</style>を<style=\"accent-gn\">10</style>獲得する。",
+    "Id": 1214,
+    "Par": 3401214,
+    "ShowRule": 1,
+    "Text": "フレアバースト",
+    "Type": 3
+  },
+  "1215": {
+    "Description": "エネミー対象に攻撃力の<style=\"accent-gn\">500%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1215,
+    "Par": 3401215,
+    "ShowRule": 1,
+    "Text": "流星火",
+    "Type": 3
+  },
+  "1216": {
+    "Description": "ダメージを与えるたび、その時点の確率に応じて攻撃段数が追加される。確率は以下のとおり：<br>イラプション<style=\"accent-gn\">1</style>段目の確率：<style=\"accent-gn\">20%</style>。<br>同<style=\"accent-gn\">2</style>段目の確率：<style=\"accent-gn\">10%</style>。<br>同<style=\"accent-gn\">3</style>段目の確率：<style=\"accent-gn\">5%</style>。",
+    "Id": 1216,
+    "Par": 3401216,
+    "ShowRule": 1,
+    "Text": "イラプション",
+    "Type": 3
+  },
+  "1217": {
+    "Description": "範囲内のエネミー対象に攻撃力の<style=\"accent-gn\">800%</style>の<style=\"physical\">物理ダメージ</style>を与える。",
+    "Id": 1217,
+    "Par": 3401217,
+    "ShowRule": 1,
+    "Text": "フレイムスピン",
+    "Type": 3
+  },
+  "1218": {
+    "Description": "ダメージを受ける際、自身のHPが攻撃者よりも高かった場合、受けるダメージ-<style=\"accent-gn\">10%</style>。<br>ダメージを与える際、自身のHPが被撃者よりも高かった場合、与えるダメージ+<style=\"accent-gn\">5%</style>。",
+    "Id": 1218,
+    "Par": 3401218,
+    "ShowRule": 1,
+    "Text": "火炎制御",
+    "Type": 3
+  },
+  "1219": {
+    "Description": "筋力、知力、敏捷<style=\"accent-gn\">2</style>ptにつき、攻撃力<style=\"accent-gn\">1</style>ptに変換する。<br>耐久力<style=\"accent-gn\">1</style>ptにつき、最大HP<style=\"accent-gn\">8</style>ptに変換する。<br>自身の<style=\"accent-gn\">会心%</style>、<style=\"accent-gn\">幸運%</style>、<style=\"accent-gn\">器用さ%</style>、<style=\"accent-gn\">ファスト%</style>、<style=\"accent-gn\">万能%</style>はもとの効果を失い、以下の新たな能力を獲得する：現在の共鳴スキルのスキルダメージが必ず会心になるが、会心ダメージは<style=\"accent-gn\">会心%+幸運%+器用さ%+ファスト%+万能%</style>の合計値で固定計算される。",
+    "Id": 1219,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "能力変換",
+    "Type": 1
+  },
+  "1500": {
+    "Description": "",
+    "Id": 1500,
+    "Par": 1714,
+    "ShowRule": 1,
+    "Text": "雷刃抜刀",
+    "Type": 2
+  },
+  "1501": {
+    "Description": "",
+    "Id": 1501,
+    "Par": 1717,
+    "ShowRule": 1,
+    "Text": "一閃",
+    "Type": 2
+  },
+  "1502": {
+    "Description": "",
+    "Id": 1502,
+    "Par": 1713,
+    "ShowRule": 1,
+    "Text": "奥義・破刃連斬",
+    "Type": 2
+  },
+  "1503": {
+    "Description": "",
+    "Id": 1503,
+    "Par": 1724,
+    "ShowRule": 1,
+    "Text": "迅雷連斬",
+    "Type": 2
+  },
+  "1504": {
+    "Description": "",
+    "Id": 1504,
+    "Par": 1730,
+    "ShowRule": 1,
+    "Text": "無窮雷陣",
+    "Type": 2
+  },
+  "1505": {
+    "Description": "",
+    "Id": 1505,
+    "Par": 1731,
+    "ShowRule": 1,
+    "Text": "千雷",
+    "Type": 2
+  },
+  "1506": {
+    "Description": "",
+    "Id": 1506,
+    "Par": 1738,
+    "ShowRule": 1,
+    "Text": "繚乱兜割",
+    "Type": 2
+  },
+  "1507": {
+    "Description": "",
+    "Id": 1507,
+    "Par": 1715,
+    "ShowRule": 1,
+    "Text": "月影殺",
+    "Type": 2
+  },
+  "1508": {
+    "Description": "",
+    "Id": 1508,
+    "Par": 1246,
+    "ShowRule": 1,
+    "Text": "タイドプール",
+    "Type": 2
+  },
+  "1509": {
+    "Description": "",
+    "Id": 1509,
+    "Par": 1241,
+    "ShowRule": 1,
+    "Text": "フロストレイ",
+    "Type": 2
+  },
+  "1510": {
+    "Description": "",
+    "Id": 1510,
+    "Par": 1211,
+    "ShowRule": 1,
+    "Text": "ウォータースフィア",
+    "Type": 2
+  },
+  "1511": {
+    "Description": "",
+    "Id": 1511,
+    "Par": 1239,
+    "ShowRule": 1,
+    "Text": "メテオストーム",
+    "Type": 2
+  },
+  "1512": {
+    "Description": "",
+    "Id": 1512,
+    "Par": 1242,
+    "ShowRule": 1,
+    "Text": "フロストファング",
+    "Type": 2
+  },
+  "1513": {
+    "Description": "",
+    "Id": 1513,
+    "Par": 1244,
+    "ShowRule": 1,
+    "Text": "ブリザード",
+    "Type": 2
+  },
+  "1514": {
+    "Description": "",
+    "Id": 1514,
+    "Par": 1240,
+    "ShowRule": 1,
+    "Text": "フローズンストーム",
+    "Type": 2
+  },
+  "1515": {
+    "Description": "",
+    "Id": 1515,
+    "Par": 1243,
+    "ShowRule": 1,
+    "Text": "パーマフロスト",
+    "Type": 2
+  },
+  "1516": {
+    "Description": "",
+    "Id": 1516,
+    "Par": 1248,
+    "ShowRule": 1,
+    "Text": "極光・グレイシアルアンセム",
+    "Type": 2
+  },
+  "1517": {
+    "Description": "",
+    "Id": 1517,
+    "Par": 1418,
+    "ShowRule": 1,
+    "Text": "烈風撃",
+    "Type": 2
+  },
+  "1518": {
+    "Description": "",
+    "Id": 1518,
+    "Par": 1430,
+    "ShowRule": 1,
+    "Text": "勇心風環",
+    "Type": 2
+  },
+  "1519": {
+    "Description": "",
+    "Id": 1519,
+    "Par": 1424,
+    "ShowRule": 1,
+    "Text": "刹那",
+    "Type": 2
+  },
+  "1520": {
+    "Description": "",
+    "Id": 1520,
+    "Par": 1419,
+    "ShowRule": 1,
+    "Text": "飛燕乱",
+    "Type": 2
+  },
+  "1521": {
+    "Description": "",
+    "Id": 1521,
+    "Par": 1431,
+    "ShowRule": 1,
+    "Text": "鋭利衝",
+    "Type": 2
+  },
+  "1522": {
+    "Description": "",
+    "Id": 1522,
+    "Par": 1422,
+    "ShowRule": 1,
+    "Text": "破追",
+    "Type": 2
+  },
+  "1523": {
+    "Description": "",
+    "Id": 1523,
+    "Par": 1421,
+    "ShowRule": 1,
+    "Text": "螺旋撃",
+    "Type": 2
+  },
+  "1524": {
+    "Description": "",
+    "Id": 1524,
+    "Par": 1425,
+    "ShowRule": 1,
+    "Text": "飛鳥投",
+    "Type": 2
+  },
+  "1525": {
+    "Description": "",
+    "Id": 1525,
+    "Par": 1409,
+    "ShowRule": 1,
+    "Text": "風陣・豪嵐破",
+    "Type": 2
+  },
+  "1526": {
+    "Description": "",
+    "Id": 1526,
+    "Par": 1518,
+    "ShowRule": 1,
+    "Text": "ワイルドブルーム",
+    "Type": 2
+  },
+  "1527": {
+    "Description": "",
+    "Id": 1527,
+    "Par": 1507,
+    "ShowRule": 1,
+    "Text": "バイタルブルーム",
+    "Type": 2
+  },
+  "1528": {
+    "Description": "",
+    "Id": 1528,
+    "Par": 1522,
+    "ShowRule": 1,
+    "Text": "リジェネレーション",
+    "Type": 2
+  },
+  "1529": {
+    "Description": "",
+    "Id": 1529,
+    "Par": 1519,
+    "ShowRule": 1,
+    "Text": "フェラルシード",
+    "Type": 2
+  },
+  "1530": {
+    "Description": "",
+    "Id": 1530,
+    "Par": 1520,
+    "ShowRule": 1,
+    "Text": "インフュージョン",
+    "Type": 2
+  },
+  "1531": {
+    "Description": "",
+    "Id": 1531,
+    "Par": 1509,
+    "ShowRule": 1,
+    "Text": "深葉・ブルームサークル",
+    "Type": 2
+  },
+  "1532": {
+    "Description": "",
+    "Id": 1532,
+    "Par": 1523,
+    "ShowRule": 1,
+    "Text": "リジェネイトパルス",
+    "Type": 2
+  },
+  "1533": {
+    "Description": "",
+    "Id": 1533,
+    "Par": 1529,
+    "ShowRule": 1,
+    "Text": "ブルームチャージ",
+    "Type": 2
+  },
+  "1534": {
+    "Description": "",
+    "Id": 1534,
+    "Par": 1521,
+    "ShowRule": 1,
+    "Text": "グローヴウィッシュ",
+    "Type": 2
+  },
+  "1535": {
+    "Description": "",
+    "Id": 1535,
+    "Par": 1531,
+    "ShowRule": 1,
+    "Text": "ネイチャーワード",
+    "Type": 2
+  },
+  "1536": {
+    "Description": "",
+    "Id": 1536,
+    "Par": 1907,
+    "ShowRule": 1,
+    "Text": "岩堅・崩裂の廻刃",
+    "Type": 2
+  },
+  "1537": {
+    "Description": "",
+    "Id": 1537,
+    "Par": 1924,
+    "ShowRule": 1,
+    "Text": "砕星衝",
+    "Type": 2
+  },
+  "1538": {
+    "Description": "",
+    "Id": 1538,
+    "Par": 1931,
+    "ShowRule": 1,
+    "Text": "護刃の衝撃",
+    "Type": 2
+  },
+  "1539": {
+    "Description": "",
+    "Id": 1539,
+    "Par": 1937,
+    "ShowRule": 1,
+    "Text": "岩塊撃",
+    "Type": 2
+  },
+  "1540": {
+    "Description": "",
+    "Id": 1540,
+    "Par": 1922,
+    "ShowRule": 1,
+    "Text": "砕刃の猛撃",
+    "Type": 2
+  },
+  "1541": {
+    "Description": "",
+    "Id": 1541,
+    "Par": 1927,
+    "ShowRule": 1,
+    "Text": "砂塵外套",
+    "Type": 2
+  },
+  "1542": {
+    "Description": "",
+    "Id": 1542,
+    "Par": 1936,
+    "ShowRule": 1,
+    "Text": "巨岩躯体",
+    "Type": 2
+  },
+  "1543": {
+    "Description": "",
+    "Id": 1543,
+    "Par": 1938,
+    "ShowRule": 1,
+    "Text": "勇壮砦壁",
+    "Type": 2
+  },
+  "1544": {
+    "Description": "",
+    "Id": 1544,
+    "Par": 1925,
+    "ShowRule": 1,
+    "Text": "憤怒の剛撃",
+    "Type": 2
+  },
+  "1545": {
+    "Description": "",
+    "Id": 1545,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "サージショット",
+    "Type": 2
+  },
+  "1546": {
+    "Description": "",
+    "Id": 1546,
+    "Par": 2209,
+    "ShowRule": 1,
+    "Text": "鋭眼・ディバインボルト",
+    "Type": 2
+  },
+  "1547": {
+    "Description": "",
+    "Id": 1547,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "ストライクボルト",
+    "Type": 2
+  },
+  "1548": {
+    "Description": "",
+    "Id": 1548,
+    "Par": 2238,
+    "ShowRule": 1,
+    "Text": "ブラストショット",
+    "Type": 2
+  },
+  "1549": {
+    "Description": "",
+    "Id": 1549,
+    "Par": 2237,
+    "ShowRule": 1,
+    "Text": "ワイルドコール",
+    "Type": 2
+  },
+  "1550": {
+    "Description": "",
+    "Id": 1550,
+    "Par": 2232,
+    "ShowRule": 1,
+    "Text": "アローレイン",
+    "Type": 2
+  },
+  "1551": {
+    "Description": "",
+    "Id": 1551,
+    "Par": 1528,
+    "ShowRule": 1,
+    "Text": "ライフサージ",
+    "Type": 2
+  },
+  "1552": {
+    "Description": "",
+    "Id": 1552,
+    "Par": 1527,
+    "ShowRule": 1,
+    "Text": "ブルームヒール",
+    "Type": 2
+  },
+  "1553": {
+    "Description": "",
+    "Id": 1553,
+    "Par": 1420,
+    "ShowRule": 1,
+    "Text": "風姿卓絶",
+    "Type": 2
+  },
+  "1554": {
+    "Description": "",
+    "Id": 1554,
+    "Par": 1718,
+    "ShowRule": 1,
+    "Text": "飛雷",
+    "Type": 2
+  },
+  "1555": {
+    "Description": "",
+    "Id": 1555,
+    "Par": 2231,
+    "ShowRule": 1,
+    "Text": "メンタルフォーカス",
+    "Type": 2
+  },
+  "1556": {
+    "Description": "",
+    "Id": 1556,
+    "Par": 1705,
+    "ShowRule": 1,
+    "Text": "彼岸",
+    "Type": 2
+  },
+  "1557": {
+    "Description": "",
+    "Id": 1557,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "クアッドブラスト",
+    "Type": 2
+  },
+  "1558": {
+    "Description": "",
+    "Id": 1558,
+    "Par": 1210,
+    "ShowRule": 1,
+    "Text": "メイルストローム",
+    "Type": 2
+  },
+  "1559": {
+    "Description": "",
+    "Id": 1559,
+    "Par": 2421,
+    "ShowRule": 1,
+    "Text": "ホーリーソード",
+    "Type": 2
+  },
+  "1560": {
+    "Description": "",
+    "Id": 1560,
+    "Par": 2409,
+    "ShowRule": 1,
+    "Text": "ホーリーリング",
+    "Type": 2
+  },
+  "1561": {
+    "Description": "",
+    "Id": 1561,
+    "Par": 2405,
+    "ShowRule": 1,
+    "Text": "ブレイヴバッシュ",
+    "Type": 2
+  },
+  "1562": {
+    "Description": "",
+    "Id": 1562,
+    "Par": 2408,
+    "ShowRule": 1,
+    "Text": "シールドスロー",
+    "Type": 2
+  },
+  "1563": {
+    "Description": "",
+    "Id": 1563,
+    "Par": 2412,
+    "ShowRule": 1,
+    "Text": "レコニング",
+    "Type": 2
+  },
+  "1564": {
+    "Description": "",
+    "Id": 1564,
+    "Par": 2410,
+    "ShowRule": 1,
+    "Text": "ジャッジメント",
+    "Type": 2
+  },
+  "1565": {
+    "Description": "",
+    "Id": 1565,
+    "Par": 2415,
+    "ShowRule": 1,
+    "Text": "ホーリーガード",
+    "Type": 2
+  },
+  "1566": {
+    "Description": "",
+    "Id": 1566,
+    "Par": 2406,
+    "ShowRule": 1,
+    "Text": "グローイングガード",
+    "Type": 2
+  },
+  "1567": {
+    "Description": "",
+    "Id": 1567,
+    "Par": 2419,
+    "ShowRule": 1,
+    "Text": "コンクエスト",
+    "Type": 2
+  },
+  "1568": {
+    "Description": "",
+    "Id": 1568,
+    "Par": 2420,
+    "ShowRule": 1,
+    "Text": "セイクリッドオース",
+    "Type": 2
+  },
+  "1569": {
+    "Description": "",
+    "Id": 1569,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "インスパイアチューン",
+    "Type": 2
+  },
+  "1570": {
+    "Description": "",
+    "Id": 1570,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "サーマルブラスト",
+    "Type": 2
+  },
+  "1571": {
+    "Description": "",
+    "Id": 1571,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "リズムスパイア",
+    "Type": 2
+  },
+  "1572": {
+    "Description": "",
+    "Id": 1572,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "ロッキン・ニースライド",
+    "Type": 2
+  },
+  "1573": {
+    "Description": "",
+    "Id": 1573,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "火力全開",
+    "Type": 2
+  },
+  "1574": {
+    "Description": "",
+    "Id": 1574,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "バイタルリカバリー",
+    "Type": 2
+  },
+  "1575": {
+    "Description": "",
+    "Id": 1575,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "レイジチューン",
+    "Type": 2
+  },
+  "1576": {
+    "Description": "",
+    "Id": 1576,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "激情のラプソディ",
+    "Type": 2
+  },
+  "1577": {
+    "Description": "",
+    "Id": 1577,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "ヒーリングサウンド",
+    "Type": 2
+  },
+  "1578": {
+    "Description": "",
+    "Id": 1578,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "ブラストノーツ",
+    "Type": 2
+  },
+  "1579": {
+    "Description": "",
+    "Id": 1579,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "響演・バッドネスステージ",
+    "Type": 2
+  },
+  "1580": {
+    "Description": "",
+    "Id": 1580,
+    "Par": 2230,
+    "ShowRule": 1,
+    "Text": "レイジショット",
+    "Type": 2
+  },
+  "1581": {
+    "Description": "",
+    "Id": 1581,
+    "Par": 2234,
+    "ShowRule": 1,
+    "Text": "エナジーショット",
+    "Type": 2
+  },
+  "1582": {
+    "Description": "",
+    "Id": 1582,
+    "Par": 2233,
+    "ShowRule": 1,
+    "Text": "チャージショット",
+    "Type": 2
+  },
+  "1583": {
+    "Description": "",
+    "Id": 1583,
+    "Par": 1524,
+    "ShowRule": 1,
+    "Text": "ファストグロウス",
+    "Type": 2
+  },
+  "1584": {
+    "Description": "",
+    "Id": 1584,
+    "Par": 1735,
+    "ShowRule": 1,
+    "Text": "墜竜閃",
+    "Type": 2
+  },
+  "1585": {
+    "Description": "",
+    "Id": 1585,
+    "Par": 1736,
+    "ShowRule": 1,
+    "Text": "瞬影斬",
+    "Type": 2
+  },
+  "1586": {
+    "Description": "",
+    "Id": 1586,
+    "Par": 1733,
+    "ShowRule": 1,
+    "Text": "雷霆鎌",
+    "Type": 2
+  },
+  "1587": {
+    "Description": "",
+    "Id": 1587,
+    "Par": 1737,
+    "ShowRule": 1,
+    "Text": "審罰鎌",
+    "Type": 2
+  },
+  "1588": {
+    "Description": "",
+    "Id": 1588,
+    "Par": 1734,
+    "ShowRule": 1,
+    "Text": "雷閃",
+    "Type": 2
+  },
+  "1589": {
+    "Description": "",
+    "Id": 1589,
+    "Par": 1433,
+    "ShowRule": 1,
+    "Text": "嵐斬",
+    "Type": 2
+  },
+  "1590": {
+    "Description": "",
+    "Id": 1590,
+    "Par": 1434,
+    "ShowRule": 1,
+    "Text": "瞬影螺旋",
+    "Type": 2
+  },
+  "1591": {
+    "Description": "",
+    "Id": 1591,
+    "Par": 1435,
+    "ShowRule": 1,
+    "Text": "龍撃陣",
+    "Type": 2
+  },
+  "1592": {
+    "Description": "",
+    "Id": 1592,
+    "Par": 1411,
+    "ShowRule": 1,
+    "Text": "疾馳鋒刃",
+    "Type": 2
+  },
+  "1593": {
+    "Description": "",
+    "Id": 1593,
+    "Par": 1525,
+    "ShowRule": 1,
+    "Text": "スタッグチャージ",
+    "Type": 2
+  },
+  "1594": {
+    "Description": "",
+    "Id": 1594,
+    "Par": 1941,
+    "ShowRule": 1,
+    "Text": "砕星の鉄槌",
+    "Type": 2
+  },
+  "1595": {
+    "Description": "",
+    "Id": 1595,
+    "Par": 1942,
+    "ShowRule": 1,
+    "Text": "断裂の鉄槌",
+    "Type": 2
+  },
+  "1597": {
+    "Description": "",
+    "Id": 1597,
+    "Par": 1943,
+    "ShowRule": 1,
+    "Text": "巨岩の轟撃",
+    "Type": 2
+  },
+  "1598": {
+    "Description": "",
+    "Id": 1598,
+    "Par": 2416,
+    "ShowRule": 1,
+    "Text": "パニッシュメント",
+    "Type": 2
+  },
+  "1599": {
+    "Description": "",
+    "Id": 1599,
+    "Par": 2417,
+    "ShowRule": 1,
+    "Text": "強化パニッシュメント",
+    "Type": 2
+  },
+  "1600": {
+    "Description": "",
+    "Id": 1600,
+    "Par": 2413,
+    "ShowRule": 1,
+    "Text": "ブレイズレコニング",
+    "Type": 2
+  },
+  "1601": {
+    "Description": "",
+    "Id": 1601,
+    "Par": 2220,
+    "ShowRule": 1,
+    "Text": "ハウリングボルト",
+    "Type": 2
+  },
+  "1602": {
+    "Description": "",
+    "Id": 1602,
+    "Par": 2240,
+    "ShowRule": 1,
+    "Text": "レイジブラスト",
+    "Type": 2
+  },
+  "1603": {
+    "Description": "",
+    "Id": 1603,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "フレイムラプソディー",
+    "Type": 2
+  },
+  "1604": {
+    "Description": "",
+    "Id": 1604,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "ハードディストーション",
+    "Type": 2
+  },
+  "1605": {
+    "Description": "",
+    "Id": 1605,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "ハーモニックアンセム",
+    "Type": 2
+  },
+  "1606": {
+    "Description": "",
+    "Id": 1606,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "ヒーリングメロディー",
+    "Type": 2
+  },
+  "1607": {
+    "Description": "",
+    "Id": 1607,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "サージクインテット",
+    "Type": 2
+  },
+  "1608": {
+    "Description": "",
+    "Id": 1608,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "パッショネート",
+    "Type": 2
+  },
+  "1609": {
+    "Description": "",
+    "Id": 1609,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "コーラスヒーリング",
+    "Type": 2
+  },
+  "1610": {
+    "Description": "",
+    "Id": 1610,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "スポットライト",
+    "Type": 2
+  },
+  "1611": {
+    "Description": "",
+    "Id": 1611,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "響演・バッドネスステージ",
+    "Type": 2
+  },
+  "1612": {
+    "Description": "",
+    "Id": 1612,
+    "Par": 2335,
+    "ShowRule": 1,
+    "Text": "ブレイブフェローチェ",
+    "Type": 2
+  },
+  "1613": {
+    "Description": "",
+    "Id": 1613,
+    "Par": 2336,
+    "ShowRule": 1,
+    "Text": "アレグロヴィヴァーチェ",
+    "Type": 2
+  },
+  "1614": {
+    "Description": "",
+    "Id": 1614,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "ブレイブメロディー",
+    "Type": 2
+  },
+  "1615": {
+    "Description": "",
+    "Id": 1615,
+    "Par": 2317,
+    "ShowRule": 1,
+    "Text": "バイオレントスイング",
+    "Type": 2
+  },
+  "1616": {
+    "Description": "",
+    "Id": 1616,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "アンコール",
+    "Type": 2
+  },
+  "1617": {
+    "Description": "",
+    "Id": 1617,
+    "Par": 2332,
+    "ShowRule": 1,
+    "Text": "レイジパッショネート",
+    "Type": 2
+  },
+  "1618": {
+    "Description": "",
+    "Id": 1618,
+    "Par": 2301,
+    "ShowRule": 1,
+    "Text": "スラップビート",
+    "Type": 2
+  },
+  "1619": {
+    "Description": "",
+    "Id": 1619,
+    "Par": 1605,
+    "ShowRule": 1,
+    "Text": "スパイラルブロウ",
+    "Type": 2
+  },
+  "1620": {
+    "Description": "",
+    "Id": 1620,
+    "Par": 1619,
+    "ShowRule": 1,
+    "Text": "クリムゾンブロウ",
+    "Type": 2
+  },
+  "1621": {
+    "Description": "",
+    "Id": 1621,
+    "Par": 1606,
+    "ShowRule": 1,
+    "Text": "ブレイズアクス",
+    "Type": 2
+  },
+  "1622": {
+    "Description": "",
+    "Id": 1622,
+    "Par": 1607,
+    "ShowRule": 1,
+    "Text": "ツインラッシュ",
+    "Type": 2
+  },
+  "1623": {
+    "Description": "",
+    "Id": 1623,
+    "Par": 1608,
+    "ShowRule": 1,
+    "Text": "ラースアクス",
+    "Type": 2
+  },
+  "1624": {
+    "Description": "",
+    "Id": 1624,
+    "Par": 1612,
+    "ShowRule": 1,
+    "Text": "アクススパイラル",
+    "Type": 2
+  },
+  "1625": {
+    "Description": "",
+    "Id": 1625,
+    "Par": 1615,
+    "ShowRule": 1,
+    "Text": "バーニングギア",
+    "Type": 2
+  },
+  "1626": {
+    "Description": "",
+    "Id": 1626,
+    "Par": 1613,
+    "ShowRule": 1,
+    "Text": "バーニングラッシュ",
+    "Type": 2
+  },
+  "1627": {
+    "Description": "",
+    "Id": 1627,
+    "Par": 1614,
+    "ShowRule": 1,
+    "Text": "ラーヴァインパクト",
+    "Type": 2
+  },
+  "1628": {
+    "Description": "",
+    "Id": 1628,
+    "Par": 1621,
+    "ShowRule": 1,
+    "Text": "クリムゾンインパクト",
+    "Type": 2
+  },
+  "1629": {
+    "Description": "",
+    "Id": 1629,
+    "Par": 1617,
+    "ShowRule": 1,
+    "Text": "イグニッション",
+    "Type": 2
+  },
+  "1630": {
+    "Description": "",
+    "Id": 1630,
+    "Par": 1616,
+    "ShowRule": 1,
+    "Text": "バーニングクロス",
+    "Type": 2
+  },
+  "3000": {
+    "Description": "対象に詠唱中のスキルを中断させ、リキャストに移行させる。ボスには無効。",
+    "Id": 3000,
+    "Par": 3403000,
+    "ShowRule": 1,
+    "Text": "中断",
+    "Type": 3
+  },
+  "3001": {
+    "Description": "エネミーが魔法を詠唱できなくなるデバフ効果。ボスには無効。",
+    "Id": 3001,
+    "Par": 3403001,
+    "ShowRule": 1,
+    "Text": "沈黙",
+    "Type": 3
+  },
+  "3002": {
+    "Description": "エネミーが移動できなくなるデバフ効果。ボスには無効。",
+    "Id": 3002,
+    "Par": 3403002,
+    "ShowRule": 1,
+    "Text": "静止",
+    "Type": 3
+  },
+  "3003": {
+    "Description": "エネミーの移動速度-<style=\"accent-gn\">30%</style>。",
+    "Id": 3003,
+    "Par": 3403003,
+    "ShowRule": 1,
+    "Text": "霜寒",
+    "Type": 3
+  },
+  "3004": {
+    "Description": "エネミーの受ける回復効果が減少するデバフ効果。",
+    "Id": 3004,
+    "Par": 3403004,
+    "ShowRule": 1,
+    "Text": "重傷",
+    "Type": 3
+  },
+  "3005": {
+    "Description": "エネミーが行動不能になるデバフ効果。ボスには無効。",
+    "Id": 3005,
+    "Par": 3403005,
+    "ShowRule": 1,
+    "Text": "スタン",
+    "Type": 3
+  },
+  "3006": {
+    "Description": "エネミーが行動不能になるデバフ効果。ダメージを受けると解除される。ボスには無効。",
+    "Id": 3006,
+    "Par": 3403006,
+    "ShowRule": 1,
+    "Text": "凍結",
+    "Type": 3
+  },
+  "3007": {
+    "Description": "エネミーが行動不能になるデバフ効果。ダメージを受けると解除される。ボスには無効。",
+    "Id": 3007,
+    "Par": 3403007,
+    "ShowRule": 1,
+    "Text": "石化",
+    "Type": 3
+  },
+  "3008": {
+    "Description": "エネミーが行動不能になるデバフ効果。ダメージを受けると解除される。ボスには無効。",
+    "Id": 3008,
+    "Par": 3403008,
+    "ShowRule": 1,
+    "Text": "麻痺",
+    "Type": 3
+  },
+  "3009": {
+    "Description": "エネミーを現在の対象付近へ強制的に移動させ、攻撃させるデバフ効果。ボスには無効。",
+    "Id": 3009,
+    "Par": 3403009,
+    "ShowRule": 1,
+    "Text": "目くらまし",
+    "Type": 3
+  },
+  "3010": {
+    "Description": "スロウ",
+    "Id": 3010,
+    "Par": 3403010,
+    "ShowRule": 1,
+    "Text": "恐怖",
+    "Type": 3
+  },
+  "3011": {
+    "Description": "エネミーの移動速度をダウンさせるデバフ効果。ボスには無効。",
+    "Id": 3011,
+    "Par": 3403011,
+    "ShowRule": 1,
+    "Text": "スロウ",
+    "Type": 3
+  },
+  "3012": {
+    "Description": "エネミーがHPを失い続けるデバフ効果。",
+    "Id": 3012,
+    "Par": 3403012,
+    "ShowRule": 1,
+    "Text": "中毒",
+    "Type": 3
+  },
+  "3013": {
+    "Description": "エネミーがHPを失い続けるデバフ効果。",
+    "Id": 3013,
+    "Par": 3403013,
+    "ShowRule": 1,
+    "Text": "流血",
+    "Type": 3
+  },
+  "3014": {
+    "Description": "エネミーがHPを失い続けるデバフ効果。",
+    "Id": 3014,
+    "Par": 3403014,
+    "ShowRule": 1,
+    "Text": "燃焼",
+    "Type": 3
+  },
+  "3020": {
+    "Description": "<style=\"accent-gn\">スタン</style>、<style=\"accent-gn\">凍結</style>、<style=\"accent-gn\">石化</style>、<style=\"accent-gn\">麻痺</style>、<style=\"accent-gn\">目くらまし</style>、<style=\"accent-gn\">恐怖</style>を含む。",
+    "Id": 3020,
+    "Par": 3403020,
+    "ShowRule": 1,
+    "Text": "状態異常",
+    "Type": 3
+  },
+  "3021": {
+    "Description": "<style=\"accent-gn\">沈黙</style>、<style=\"accent-gn\">スロウ</style>、<style=\"accent-gn\">静止</style>、<style=\"accent-gn\">重傷</style>、<style=\"accent-gn\">中毒</style>、<style=\"accent-gn\">流血</style>、<style=\"accent-gn\">燃焼</style>など。",
+    "Id": 3021,
+    "Par": 3403021,
+    "ShowRule": 1,
+    "Text": "デバフ効果",
+    "Type": 3
+  }
+}

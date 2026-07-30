@@ -1,0 +1,28 @@
+{
+  "50101": {
+    "Button": "Resonance",
+    "Desc": "พืชสีฟ้าขนาดใหญ่ มีพลังงาน Engram มหา<br>ศาล เติบโตในเมือง Veil ถูกจัดเป็นวัตถุ Resonance เมื่อ Resonance กับมันจะได้รับ<br>สกิล Resonance สิ่งแวดล้อม: ลอยและร่อน<br>ต้องมี นักผจญภัย Lv.17 เพื่อ Resonance",
+    "Id": 50101,
+    "Name": "Hero Grass",
+    "PivotId": 50002,
+    "Position": 7353,
+    "SceneTag": 502,
+    "Skill": [],
+    "SlotType": 2,
+    "Time": 0,
+    "TriggerBuffIds": [510701, 510801]
+  },
+  "50102": {
+    "Button": "Resonance",
+    "Desc": "แก่นพลังงานขนาดใหญ่ สร้างลมแรงด้วยตัวเอง อยู่บนยอดชิ้นส่วนลอยฟ้าของ Towering Ruin ถูกจัดเป็นวัตถุ Resonance เมื่อ Resonance กับมันจะได้รับสกิล Resonance สิ่งแวดล้อม: Phantom Charge<br>ต้องมี นักผจญภัย Lv.17 เพื่อ Resonance<br><br><style=\"tipsYellow\">ผ่านช่องลมข้าง Andra Resting Post เพื่อขึ้นไปที่เกาะลอยฟ้า</style>",
+    "Id": 50102,
+    "Name": "Wind Core",
+    "PivotId": 50003,
+    "Position": 7352,
+    "SceneTag": 503,
+    "Skill": [1222, 1223],
+    "SlotType": 1,
+    "Time": 0,
+    "TriggerBuffIds": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "<style=\"physical\">Consomme 10</style> PV pour attaquer avec un bâton en bois.<br>Si l'attaque <style=\"physical\">touche un pisteur</style>, <style=\"physical\">restaure 20</style> PV.<br>Tuer un pisteur restaure entièrement les PV.<br><style=\"physical\">Ne peut pas être utilisé lorsque les PV sont insuffisants.</style><br>Les dégâts réels sont calculés en fonction de l'<style=\"physical\">armure de l'objet en lequel le pisteur s'est transformé</style>.</style><br><i><style=\"text_third_gray\">\"Un véritable maître ne se soucie pas de la qualité de son arme.\"</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "Fondation solide"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "<style=\"physical\">Consomme 10</style> PV pour attaquer avec l'épée de Fafala.<br>Si l'attaque <style=\"physical\">touche un pisteur</style>, <style=\"physical\">restaure 20 </style>PV.<br>Tuer un pisteur restaure entièrement les PV.<br><style=\"physical\">Ne peut pas être utilisé lorsque les PV sont insuffisants</style>.<br>Les dégâts réels sont calculés en fonction de <style=\"physical\">l'armure de l'objet en lequel le pisteur s'est transformé</style>.<br><style=\"physical\">Effet spécial de l'arme : Les chasseurs des ombres à proximité restaurent continuellement des PV et bénéficient d'une augmentation de leur vitesse de déplacement.</style><br><i><style=\"text_third_gray\">\"J'espère que cela vous apportera un peu de paix...\"</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "Conseil de la brume matinale"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "<style=\"physical\">Consomme 10</style> PV pour attaquer avec l'espadon de Denvel.<br>Si l'attaque <style=\"physical\">touche un pisteur</style>, <style=\"physical\">restaure 20</style> PV.<br>Tuer un pisteur restaure entièrement les PV.<br><style=\"physical\">Ne peut pas être utilisé lorsque les PV sont insuffisants</style>.<br>Les dégâts réels sont calculés en fonction de l'<style=\"physical\">armure de l'objet en lequel le pisteur s'est transformé</style>.<br><style=\"physical\">Effet spécial de l'arme : Tire 2 Lames d'énergie supplémentaires et dissipe tous les objets non-joueurs à portée.</style><br><i><style=\"text_third_gray\">\"Avec ceci, je purge les chagrins du passé.\"</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "Lame du pleureur"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "<style=\"physical\">Consomme 10</style> PV pour attaquer avec une pioche.<br>Si l'attaque <style=\"physical\">touche un pisteur</style>, <style=\"physical\">restaure 20</style> PV.<br>Tuer un pisteur restaure entièrement les PV.<br><style=\"physical\">Ne peut pas être utilisé lorsque les PV sont insuffisants.</style><br>Les dégâts réels sont calculés en fonction de l'<style=\"physical\">armure de l'objet en lequel le pisteur s'est transformé</style>.<br><style=\"physical\">Effet spécial de l'arme : Confère un morceau de minerai aléatoire à chaque attaque :<br>40 % de chance d'obtenir de l'Ambre : Réduit tous les TdR de compétence de 0,5 s ;<br>40 % de chance d'obtenir de la Bénitoïte : Restaure 10 PV ;<br>19 % de chance d'obtenir du Cristal de dragon : Tire 5 Lames d'énergie dans toutes les directions ;<br>1 % de chance d'obtenir de la Fulgurite : La foudre frappe tous les pisteurs dans un rayon de 30 m.</style><br><i><style=\"text_third_gray\">\"Dois-je aussi creuser ?\"</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "Rêve de ruée vers l'or"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "<style=\"physical\">Consomme 10</style> PV pour attaquer avec un Bâton lumineux.<br>Si l'attaque <style=\"physical\">touche un pisteur</style>, <style=\"physical\">restaure 20</style> PV.<br>Tuer un pisteur restaure tous les PV.<br><style=\"physical\">Ne peut pas être utilisé lorsque les PV sont insuffisants.</style><br>Les dégâts réels sont calculés en fonction de <style=\"physical\">l'armure de l'objet en lequel le pisteur s'est transformé</style>.<br><style=\"physical\">Effet spécial de l'arme : utiliser des compétences accumule de la puissance de danse. À 50 de puissance de danse, confère la compétence Compète de danse :<br>Lors de son utilisation, commence à danser, restaure progressivement des PV et met aléatoirement un pisteur à proximité sous le feu des projecteurs après la danse.</style><br><i><style=\"text_third_gray\">\" S'il vous plaît, arrêtez de vous battre... \"</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "Soutien de la justice"
+  }
+}

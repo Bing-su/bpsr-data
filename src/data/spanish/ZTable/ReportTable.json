@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Id": 1,
+    "ReportCategoryDes": ["Publicación de información ilegal", "Infracción en el perfil"],
+    "ReportCategoryId": [],
+    "ReportReason": [
+      [101, 102, 103, 104, 105, 106, 108, 199],
+      [901, 999]
+    ],
+    "ReportScene": "Escena de discurso de conversación",
+    "SceneId": 1
+  },
+  "101": {
+    "Id": 101,
+    "ReportCategoryDes": ["Infracciones del hogar"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[798]],
+    "ReportScene": "Escena de construcción del hogar",
+    "SceneId": 8
+  },
+  "2": {
+    "Id": 2,
+    "ReportCategoryDes": ["Infracción en el perfil"],
+    "ReportCategoryId": [9],
+    "ReportReason": [[901, 903, 999]],
+    "ReportScene": "Escena de perfil",
+    "SceneId": 2
+  },
+  "6": {
+    "Id": 6,
+    "ReportCategoryDes": ["Foto inapropiada"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[799]],
+    "ReportScene": "Reportar fotos del álbum",
+    "SceneId": 6
+  },
+  "7": {
+    "Id": 7,
+    "ReportCategoryDes": ["Infracción de datos"],
+    "ReportCategoryId": [8],
+    "ReportReason": [[801, 802, 803, 799, 899]],
+    "ReportScene": "Escena de datos de la organización",
+    "SceneId": 7
+  }
+}

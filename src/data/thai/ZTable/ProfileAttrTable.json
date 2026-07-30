@@ -1,0 +1,618 @@
+{
+  "1": {
+    "AttrId": 11320,
+    "Id": 1,
+    "Name": "Max HP",
+    "Type": 101,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "10": {
+    "AttrId": 11930,
+    "Id": 10,
+    "Name": "Haste",
+    "Type": 102,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "11": {
+    "AttrId": 11780,
+    "Id": 11,
+    "Name": "Lucky",
+    "Type": 102,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "12": {
+    "AttrId": 11940,
+    "Id": 12,
+    "Name": "Mastery",
+    "Type": 102,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "13": {
+    "AttrId": 11950,
+    "Id": 13,
+    "Name": "Versatility",
+    "Type": 102,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "14": {
+    "AttrId": 11970,
+    "Id": 14,
+    "Name": "Block",
+    "Type": 102,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "15": {
+    "AttrId": 11010,
+    "Id": 15,
+    "Name": "STR",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "16": {
+    "AttrId": 11020,
+    "Id": 16,
+    "Name": "Int",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "17": {
+    "AttrId": 11030,
+    "Id": 17,
+    "Name": "Agi",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "18": {
+    "AttrId": 11330,
+    "Id": 18,
+    "Name": "P.ATK",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "19": {
+    "AttrId": 11340,
+    "Id": 19,
+    "Name": "M.ATK",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "2": {
+    "AttrId": 11330,
+    "Id": 2,
+    "Name": "P.ATK",
+    "Type": 0,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "20": {
+    "AttrId": 11410,
+    "Id": 20,
+    "Name": "รีไฟน์ P.ATK",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "21": {
+    "AttrId": 11430,
+    "Id": 21,
+    "Name": "พลังโจมตีเวทมนตร์หลอม",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "22": {
+    "AttrId": 12550,
+    "Id": 22,
+    "Name": "เพิ่มเอฟเฟกต์กายภาพ",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "23": {
+    "AttrId": 12570,
+    "Id": 23,
+    "Name": "เพิ่มเอฟเฟกต์เวท",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "24": {
+    "AttrId": 11720,
+    "Id": 24,
+    "Name": "ความเร็วโจมตี",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "25": {
+    "AttrId": 11730,
+    "Id": 25,
+    "Name": "ความเร็วร่ายสกิล",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "26": {
+    "AttrId": 12510,
+    "Id": 26,
+    "Name": "CRIT DMG",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "27": {
+    "AttrId": 12530,
+    "Id": 27,
+    "Name": "อัตราเท่า DMG ของ Lucky Strike",
+    "Type": 201,
+    "TypeDisplayName": "สเตตัสการโจมตี"
+  },
+  "28": {
+    "AttrId": 11040,
+    "Id": 28,
+    "Name": "Endurance",
+    "Type": 202,
+    "TypeDisplayName": "สเตตัสรอดชีวิต"
+  },
+  "29": {
+    "AttrId": 11320,
+    "Id": 29,
+    "Name": "Max HP",
+    "Type": 202,
+    "TypeDisplayName": "สเตตัสรอดชีวิต"
+  },
+  "3": {
+    "AttrId": 11340,
+    "Id": 3,
+    "Name": "M.ATK",
+    "Type": 0,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "30": {
+    "AttrId": 11350,
+    "Id": 30,
+    "Name": "P.DEF",
+    "Type": 202,
+    "TypeDisplayName": "สเตตัสรอดชีวิต"
+  },
+  "31": {
+    "AttrId": 11360,
+    "Id": 31,
+    "Name": "M.DEF",
+    "Type": 202,
+    "TypeDisplayName": "สเตตัสรอดชีวิต"
+  },
+  "32": {
+    "AttrId": 11420,
+    "Id": 32,
+    "Name": "รีไฟน์ DEF",
+    "Type": 202,
+    "TypeDisplayName": "สเตตัสรอดชีวิต"
+  },
+  "33": {
+    "AttrId": 12560,
+    "Id": 33,
+    "Name": "ลดทอนกายภาพ",
+    "Type": 202,
+    "TypeDisplayName": "สเตตัสรอดชีวิต"
+  },
+  "34": {
+    "AttrId": 12580,
+    "Id": 34,
+    "Name": "ลดทอนเวท",
+    "Type": 202,
+    "TypeDisplayName": "สเตตัสรอดชีวิต"
+  },
+  "35": {
+    "AttrId": 12540,
+    "Id": 35,
+    "Name": "ลด DMG จาก Block",
+    "Type": 202,
+    "TypeDisplayName": "สเตตัสรอดชีวิต"
+  },
+  "36": {
+    "AttrId": 12740,
+    "Id": 36,
+    "Name": "CRIT Heal",
+    "Type": 203,
+    "TypeDisplayName": "สเตตัส Support"
+  },
+  "37": {
+    "AttrId": 12720,
+    "Id": 37,
+    "Name": "อัตราเท่า Heal ของ Lucky Strike",
+    "Type": 203,
+    "TypeDisplayName": "สเตตัส Support"
+  },
+  "38": {
+    "AttrId": 11790,
+    "Id": 38,
+    "Name": "ความแรง Heal",
+    "Type": 203,
+    "TypeDisplayName": "สเตตัส Support"
+  },
+  "39": {
+    "AttrId": 11800,
+    "Id": 39,
+    "Name": "ความแรง Heal ที่ได้รับ",
+    "Type": 203,
+    "TypeDisplayName": "สเตตัส Support"
+  },
+  "4": {
+    "AttrId": 11010,
+    "Id": 4,
+    "Name": "STR",
+    "Type": 0,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "40": {
+    "AttrId": 11810,
+    "Id": 40,
+    "Name": "เปอร์เซ็นต์ความแรงโล่",
+    "Type": 203,
+    "TypeDisplayName": "สเตตัส Support"
+  },
+  "41": {
+    "AttrId": 11820,
+    "Id": 41,
+    "Name": "เปอร์เซ็นต์ความแรงได้รับโล่",
+    "Type": 203,
+    "TypeDisplayName": "สเตตัส Support"
+  },
+  "42": {
+    "AttrId": 11500,
+    "Id": 42,
+    "Name": "All Element ATK",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "43": {
+    "AttrId": 11510,
+    "Id": 43,
+    "Name": "Fire ATK",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "44": {
+    "AttrId": 11520,
+    "Id": 44,
+    "Name": "Ice Attack",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "45": {
+    "AttrId": 11530,
+    "Id": 45,
+    "Name": "Forest ATK",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "46": {
+    "AttrId": 11540,
+    "Id": 46,
+    "Name": "Thunder ATK",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "47": {
+    "AttrId": 11550,
+    "Id": 47,
+    "Name": "Wind ATK",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "48": {
+    "AttrId": 11560,
+    "Id": 48,
+    "Name": "Rock ATK",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "49": {
+    "AttrId": 11570,
+    "Id": 49,
+    "Name": "Light ATK",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "5": {
+    "AttrId": 11020,
+    "Id": 5,
+    "Name": "Int",
+    "Type": 0,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "50": {
+    "AttrId": 11580,
+    "Id": 50,
+    "Name": "Dark ATK",
+    "Type": 204,
+    "TypeDisplayName": "Elemental Attack"
+  },
+  "51": {
+    "AttrId": 13000,
+    "Id": 51,
+    "Name": "ความแรงธาตุรวม",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "52": {
+    "AttrId": 13100,
+    "Id": 52,
+    "Name": "โบนัสธาตุรวม",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "53": {
+    "AttrId": 13010,
+    "Id": 53,
+    "Name": "ความแรงธาตุไฟ",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "54": {
+    "AttrId": 13110,
+    "Id": 54,
+    "Name": "โบนัสธาตุไฟ",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "55": {
+    "AttrId": 13020,
+    "Id": 55,
+    "Name": "ความแรงธาตุน้ำแข็ง",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "56": {
+    "AttrId": 13120,
+    "Id": 56,
+    "Name": "โบนัสธาตุน้ำแข็ง",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "57": {
+    "AttrId": 13030,
+    "Id": 57,
+    "Name": "ความแรงธาตุพฤกษา",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "58": {
+    "AttrId": 13130,
+    "Id": 58,
+    "Name": "โบนัสธาตุพฤกษา",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "59": {
+    "AttrId": 13040,
+    "Id": 59,
+    "Name": "ความแรงธาตุสายฟ้า",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "6": {
+    "AttrId": 11030,
+    "Id": 6,
+    "Name": "Agi",
+    "Type": 0,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "60": {
+    "AttrId": 13140,
+    "Id": 60,
+    "Name": "โบนัสธาตุสายฟ้า",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "61": {
+    "AttrId": 13050,
+    "Id": 61,
+    "Name": "ความแรงธาตุลม",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "62": {
+    "AttrId": 13150,
+    "Id": 62,
+    "Name": "โบนัสธาตุลม",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "63": {
+    "AttrId": 13060,
+    "Id": 63,
+    "Name": "ความแรงธาตุหิน",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "64": {
+    "AttrId": 13160,
+    "Id": 64,
+    "Name": "โบนัสธาตุหิน",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "65": {
+    "AttrId": 13070,
+    "Id": 65,
+    "Name": "ความแรงธาตุแสง",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "66": {
+    "AttrId": 13170,
+    "Id": 66,
+    "Name": "โบนัสธาตุแสง",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "67": {
+    "AttrId": 13080,
+    "Id": 67,
+    "Name": "ความแรงธาตุมืด",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "68": {
+    "AttrId": 13180,
+    "Id": 68,
+    "Name": "โบนัสธาตุมืด",
+    "Type": 205,
+    "TypeDisplayName": "โบนัสธาตุ"
+  },
+  "69": {
+    "AttrId": 13200,
+    "Id": 69,
+    "Name": "ต้านธาตุรวม",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "7": {
+    "AttrId": 11040,
+    "Id": 7,
+    "Name": "Endurance",
+    "Type": 101,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "70": {
+    "AttrId": 13310,
+    "Id": 70,
+    "Name": "ลด DMG ธาตุรวม",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "71": {
+    "AttrId": 13210,
+    "Id": 71,
+    "Name": "ต้านธาตุไฟ",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "72": {
+    "AttrId": 13320,
+    "Id": 72,
+    "Name": "ลด DMG ธาตุไฟ",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "73": {
+    "AttrId": 13220,
+    "Id": 73,
+    "Name": "ต้านธาตุน้ำแข็ง",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "74": {
+    "AttrId": 13330,
+    "Id": 74,
+    "Name": "ลด DMG ธาตุน้ำแข็ง",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "75": {
+    "AttrId": 13230,
+    "Id": 75,
+    "Name": "ต้านธาตุพฤกษา",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "76": {
+    "AttrId": 13340,
+    "Id": 76,
+    "Name": "ลด DMG ธาตุพฤกษา",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "77": {
+    "AttrId": 13240,
+    "Id": 77,
+    "Name": "ต้านธาตุสายฟ้า",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "78": {
+    "AttrId": 13350,
+    "Id": 78,
+    "Name": "ลด DMG ธาตุสายฟ้า",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "79": {
+    "AttrId": 13250,
+    "Id": 79,
+    "Name": "ต้านธาตุลม",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "8": {
+    "AttrId": 11440,
+    "Id": 8,
+    "Name": "Phantom Intensity",
+    "Type": 102,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  },
+  "80": {
+    "AttrId": 13360,
+    "Id": 80,
+    "Name": "ลด DMG ธาตุลม",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "81": {
+    "AttrId": 13260,
+    "Id": 81,
+    "Name": "ต้านธาตุหิน",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "82": {
+    "AttrId": 13370,
+    "Id": 82,
+    "Name": "ลด DMG ธาตุหิน",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "83": {
+    "AttrId": 13270,
+    "Id": 83,
+    "Name": "ต้านธาตุแสง",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "84": {
+    "AttrId": 13380,
+    "Id": 84,
+    "Name": "ลด DMG ธาตุแสง",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "85": {
+    "AttrId": 13280,
+    "Id": 85,
+    "Name": "ต้านธาตุมืด",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "86": {
+    "AttrId": 13390,
+    "Id": 86,
+    "Name": "ลด DMG ธาตุมืด",
+    "Type": 206,
+    "TypeDisplayName": "ลดธาตุ"
+  },
+  "87": {
+    "AttrId": 20020,
+    "Id": 87,
+    "Name": "ลิมิตพลังงาน Resonance",
+    "Type": 207,
+    "TypeDisplayName": "สเตตัสอื่น"
+  },
+  "88": {
+    "AttrId": 20120,
+    "Id": 88,
+    "Name": "ฟื้นค่าพลังงาน Engram สถานะต่อสู้",
+    "Type": 207,
+    "TypeDisplayName": "สเตตัสอื่น"
+  },
+  "9": {
+    "AttrId": 11710,
+    "Id": 9,
+    "Name": "CRIT",
+    "Type": 102,
+    "TypeDisplayName": "สเตตัสพื้นฐาน"
+  }
+}

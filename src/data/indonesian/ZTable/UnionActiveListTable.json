@@ -1,0 +1,170 @@
+{
+  "1": {
+    "AwardId": 20500000,
+    "AwardItem": [
+      [10010003, 20],
+      [10010001, 20],
+      [10010002, 40]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "Aktivitas mencapai 200",
+    "GetAwardId": 0,
+    "Id": 1,
+    "Label": "Harian",
+    "Picture": "ui/textures/union_2/union_temporary03",
+    "QuickJumpParam": [800505],
+    "QuickJumpType": 2,
+    "TargetId": [],
+    "TargetType": 1,
+    "TimeId": 15,
+    "UnionComment": "Aktivitas mencapai {*val*}",
+    "UnionTitle": "Aktivitas Guild"
+  },
+  "2": {
+    "AwardId": 20500010,
+    "AwardItem": [
+      [10010003, 20],
+      [10010001, 20],
+      [10010002, 40]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "Aktivitas mencapai 500",
+    "GetAwardId": 0,
+    "Id": 2,
+    "Label": "Harian",
+    "Picture": "ui/textures/union_2/union_temporary02",
+    "QuickJumpParam": [800505],
+    "QuickJumpType": 2,
+    "TargetId": [41, 500, 0],
+    "TargetType": 1,
+    "TimeId": 15,
+    "UnionComment": "Aktivitas mencapai{*val*}",
+    "UnionTitle": "Aktivitas Guild"
+  },
+  "3": {
+    "AwardId": 20500020,
+    "AwardItem": [
+      [10010003, 10],
+      [10010001, 10],
+      [10010002, 20]
+    ],
+    "ChangeUnion": 1,
+    "Comment": "Misi Check-in selesai",
+    "GetAwardId": 0,
+    "Id": 3,
+    "Label": "Harian",
+    "Picture": "ui/textures/union_2/union_temporary04",
+    "QuickJumpParam": [12000, 2, 6],
+    "QuickJumpType": 1,
+    "TargetId": [310, 1, 12000, 1200001, 23900101],
+    "TargetType": 1,
+    "TimeId": 15,
+    "UnionComment": "Selesaikan Misi Check-in Guild",
+    "UnionTitle": "Check-in Guild"
+  },
+  "4": {
+    "AwardId": 20500030,
+    "AwardItem": [
+      [10010003, 20],
+      [10010001, 20],
+      [10010002, 40]
+    ],
+    "ChangeUnion": 1,
+    "Comment": "Misi Angkutan selesai",
+    "GetAwardId": 0,
+    "Id": 4,
+    "Label": "Harian",
+    "Picture": "ui/textures/union_2/union_temporary05",
+    "QuickJumpParam": [12000, 2, 42],
+    "QuickJumpType": 1,
+    "TargetId": [43, 1, 0],
+    "TargetType": 1,
+    "TimeId": 15,
+    "UnionComment": "Selesaikan Misi Angkutan Guild",
+    "UnionTitle": "Angkutan Guild"
+  },
+  "5": {
+    "AwardId": 20500100,
+    "AwardItem": [
+      [10010001, 300],
+      [10010003, 300],
+      [10010002, 800]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "Ada 10 anggota Guild yang berpartisipasi dalam permainan perburuan minggu ini",
+    "GetAwardId": 0,
+    "Id": 5,
+    "Label": "Mingguan",
+    "Picture": "ui/textures/union_2/union_temporary07",
+    "QuickJumpParam": [500108, 500151],
+    "QuickJumpType": 2,
+    "TargetId": [42, 10, 0, 12011, 12012, 12013],
+    "TargetType": 2,
+    "TimeId": 17,
+    "UnionComment": "Partisipasi Minggu Ini: {*val*}",
+    "UnionTitle": "Perburuan Guild"
+  },
+  "6": {
+    "AwardId": 20500110,
+    "AwardItem": [
+      [10010001, 600],
+      [10010003, 600],
+      [10010002, 1800]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "Ada 30 anggota Guild yang berpartisipasi dalam permainan perburuan minggu ini",
+    "GetAwardId": 0,
+    "Id": 6,
+    "Label": "Mingguan",
+    "Picture": "ui/textures/union_2/union_temporary08",
+    "QuickJumpParam": [500108, 500152],
+    "QuickJumpType": 2,
+    "TargetId": [42, 30, 0, 12011, 12012, 12013],
+    "TargetType": 2,
+    "TimeId": 17,
+    "UnionComment": "Partisipasi Minggu Ini: {*val*}",
+    "UnionTitle": "Perburuan Guild"
+  },
+  "7": {
+    "AwardId": 20500120,
+    "AwardItem": [
+      [10010001, 150],
+      [10010003, 150],
+      [10010002, 400]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "Ada 10 anggota Guild yang berpartisipasi dalam War Dance minggu ini",
+    "GetAwardId": 0,
+    "Id": 7,
+    "Label": "Mingguan",
+    "Picture": "ui/textures/union_2/union_temporary09",
+    "QuickJumpParam": [500108, 900200],
+    "QuickJumpType": 2,
+    "TargetId": [44, 10, 12000],
+    "TargetType": 2,
+    "TimeId": 17,
+    "UnionComment": "Partisipasi Minggu Ini: {*val*}",
+    "UnionTitle": "Tarian Guild"
+  },
+  "8": {
+    "AwardId": 20500130,
+    "AwardItem": [
+      [10010001, 350],
+      [10010003, 350],
+      [10010002, 1200]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "Ada 30 anggota Guild yang berpartisipasi dalam War Dance minggu ini",
+    "GetAwardId": 0,
+    "Id": 8,
+    "Label": "Mingguan",
+    "Picture": "ui/textures/union_2/union_temporary09",
+    "QuickJumpParam": [500108, 900200],
+    "QuickJumpType": 2,
+    "TargetId": [44, 30, 12000],
+    "TargetType": 2,
+    "TimeId": 17,
+    "UnionComment": "Partisipasi Minggu Ini: {*val*}",
+    "UnionTitle": "Tarian Guild"
+  }
+}

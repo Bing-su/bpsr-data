@@ -1,0 +1,201 @@
+{
+  "1001": {
+    "BaseDetailsDes": "Les événements de base pour cette cagnotte incluent : <br>1. Chaque tirage garantit un certain nombre de <style=\"accent-gn\">Shangri-La Frontier - Points Miaou d'or</style>, dont le montant dépend de la rareté du lot : Le Lot S rapporte 50 points Miaou d'or, le Lot A 30 points Miaou d'or, le Lot B 20 points Miaou d'or, le Lot C 15 points Miaou d'or, le Lot D 10 points Miaou d'or, le Lot E 5 points Miaou d'or. <br>2. <style=\"accent-gn\">Le 60e tirage</style> est garanti d'être un <style=\"accent-gn\">ticket de Lot S</style> !",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip001_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip001_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850101,
+    "HelpLibraryId": 0,
+    "Id": 1001,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tirer 1 fois", "Tirer 5 fois"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Chaque tirage dans ce prix a <style=\"accent-gn\">25,0000%</style> de chance de déclencher un Événement Chance ! Une fois déclenché, vous obtiendrez aléatoirement un des effets de chance suivants, selon leurs probabilités : <br> Prochain tirage gratuit : 20,0000%<br> Prochain tirage rapporte 3× de points bonus : 32,0000%<br> Prochain tirage : probabilité d'obtenir un Lot S augmentée : 40,0000%<br> Prochain tirage exclut les Lots C/D/E : 8,0000%",
+    "LuckPoolId": 1001,
+    "MallItemId": 11001,
+    "MiniGuaranteeDetails": [[1, 60]],
+    "OnePrizeConsume": [],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70001,
+    "PointsActivityFunctionId": 20001,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Shangri-La Frontier",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip001", "ichibankuji/ichibankuji_ip001"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1001,
+    "PrizeShowDetails": [
+      100101, 100102, 100103, 100104, 100105, 100106, 100107, 100108, 100109, 100110, 100111, 100112
+    ],
+    "Sort": 1,
+    "TextColor": ""
+  },
+  "1002": {
+    "BaseDetailsDes": "Les [Événements de base] de cette session comprennent :<br>Chaque tirage garantit <style=\"accent-gn\">des remboursements de points Miaou d'or - Monogatari Series</style>. Le montant exact dépend de la rareté du prix : plus le prix est rare, plus vous obtenez de points.<br><style=\"accent-gn\">Bon de lot A</style> garanti <style=\"accent-gn\">aux 30e tirages</style> ;<br><style=\"accent-gn\">Bon de lot S</style> garanti <style=\"accent-gn\">au 80e tirage</style> !",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip003_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip003_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850102,
+    "HelpLibraryId": 25002,
+    "Id": 1002,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tirer 1 fois", "Tirer 5 fois"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Chaque tirage a <style=\"accent-gn\">25,0000 %</style> de chances de déclencher un [événement Chance] ! Les événements Chance pour cette session comprennent :<br>[Événement 1] : Prochain tirage gratuit ;<br>[Événement 2] : Prochain tirage rapporte 3x les points Miaou d'or ;<br>[Événement 3] : Probabilité accrue de lot A au prochain tirage ;<br>[Événement 4] : Prochain tirage exclut les lots C/D/E.",
+    "LuckPoolId": 1002,
+    "MallItemId": 11002,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12002, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70003,
+    "PointsActivityFunctionId": 20002,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Monogatari Series",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip003", "ichibankuji/ichibankuji_ip003"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1002,
+    "PrizeShowDetails": [
+      100201, 100202, 100203, 100204, 100205, 100206, 100207, 100208, 100209, 100210
+    ],
+    "Sort": 2,
+    "TextColor": ""
+  },
+  "1003": {
+    "BaseDetailsDes": "Les [Événements de base] de cette session comprennent :<br>Chaque tirage garantit <style=\"accent-gn\">des remboursements de points Miaou d'or - Fairy Tail</style>. Le montant exact dépend de la rareté du prix : plus le prix est rare, plus vous obtenez de points.<br><style=\"accent-gn\">Bon de lot A garanti</style> au <style=\"accent-gn\">30e tirage</style> ;<br><style=\"accent-gn\">Bon de lot S garanti</style> au <style=\"accent-gn\">80e tirage</style> !",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip004_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip004_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850103,
+    "HelpLibraryId": 25003,
+    "Id": 1003,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tirer 1 fois", "Tirer 5 fois"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Chaque tirage a <style=\"accent-gn\">25,0000 %</style> de chances de déclencher un [événement Chance] ! Les événements Chance pour cette session comprennent :<br>[Événement 1] : Prochain tirage gratuit ;<br>[Événement 2] : Prochain tirage rapporte 3x les points Miaou d'or ;<br>[Événement 3] : Probabilité accrue de lot A au prochain tirage ;<br>[Événement 4] : Prochain tirage exclut les lots C/D/E.",
+    "LuckPoolId": 1003,
+    "MallItemId": 11003,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12003, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70006,
+    "PointsActivityFunctionId": 20004,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Fairy Tail",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip004", "ichibankuji/ichibankuji_ip004"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1003,
+    "PrizeShowDetails": [
+      100301, 100302, 100303, 100304, 100305, 100306, 100307, 100308, 100309, 100310, 100311, 100312
+    ],
+    "Sort": 3,
+    "TextColor": "#ffffff"
+  },
+  "1004": {
+    "BaseDetailsDes": "Les [Événements de base] de cette session comprennent :<br>Chaque tirage garantit <style=\"accent-gn\">des remboursements de points Miaou d'or - Été luxuriant</style>. Le montant exact dépend de la rareté du prix : plus le prix est rare, plus vous obtenez de points.<br><style=\"accent-gn\">Bon de lot A garanti</style> au <style=\"accent-gn\">25e tirage</style> ;<br><style=\"accent-gn\">Bon de lot S garanti</style> au <style=\"accent-gn\">70e tirage</style> !",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850204],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850104,
+    "HelpLibraryId": 25004,
+    "Id": 1004,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tirer 1 fois", "Tirer 5 fois"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Chaque tirage a <style=\"accent-gn\">25,0000 %</style> de chances de déclencher un [événement Chance] ! Les événements Chance pour cette session comprennent :<br>[Événement 1] : Prochain tirage gratuit ;<br>[Événement 2] : Prochain tirage rapporte 3x les points Miaou d'or ;<br>[Événement 3] : Probabilité accrue de lot A au prochain tirage ;<br>[Événement 4] : Prochain tirage exclut les lots C/D/E.",
+    "LuckPoolId": 1004,
+    "MallItemId": 11004,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12004, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41001,
+    "PointsActivityFunctionId": 20007,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Été luxuriant",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1004,
+    "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
+    "Sort": 4,
+    "TextColor": "#ffffff"
+  }
+}

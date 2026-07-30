@@ -1,0 +1,181 @@
+{
+  "10001": {
+    "Award": [[]],
+    "Desc": "Lv.10に到達する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 10001,
+    "MainType": 2,
+    "Name": "頂上A12",
+    "Show": 0,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "10002": {
+    "Award": [
+      [10001, 1],
+      [10011, 1]
+    ],
+    "Desc": "Lv.20に到達する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hitbase",
+    "Id": 10002,
+    "MainType": 2,
+    "Name": "頂上2",
+    "Show": 0,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "10003": {
+    "Award": [[10002, 1]],
+    "Desc": "Lv.30に到達する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_8",
+    "Id": 10003,
+    "MainType": 2,
+    "Name": "頂上3",
+    "Show": 0,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "10004": {
+    "Award": [[10003, 1]],
+    "Desc": "Lv.40に到達する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_6",
+    "Id": 10004,
+    "MainType": 2,
+    "Name": "頂上4",
+    "Show": 0,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "10005": {
+    "Award": [[10004, 1]],
+    "Desc": "Lv.50に到達する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_5",
+    "Id": 10005,
+    "MainType": 2,
+    "Name": "頂上5",
+    "Show": 0,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "10006": {
+    "Award": [[10005, 1]],
+    "Desc": "Lv.60に到達する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 10006,
+    "MainType": 2,
+    "Name": "頂上6",
+    "Show": 0,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "10007": {
+    "Award": [[10006, 1]],
+    "Desc": "Lv.70に到達する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_4",
+    "Id": 10007,
+    "MainType": 2,
+    "Name": "頂上7",
+    "Show": 0,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "10008": {
+    "Award": [[10007, 1]],
+    "Desc": "Lv.80に到達する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 10008,
+    "MainType": 2,
+    "Name": "頂上8",
+    "Show": 0,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "10102": {
+    "Award": [[10016, 1]],
+    "Desc": "バインド金貨を累計10000以上所持する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_4",
+    "Id": 10102,
+    "MainType": 4,
+    "Name": "大富豪",
+    "Show": 0,
+    "SubType": 2,
+    "TimeLimit": 0
+  },
+  "11001": {
+    "Award": [[10016, 1]],
+    "Desc": "モンスターを1体倒す",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 11001,
+    "MainType": 2,
+    "Name": "少しだけトライ",
+    "Show": 1,
+    "SubType": 2,
+    "TimeLimit": 0
+  },
+  "11002": {
+    "Award": [[10016, 1]],
+    "Desc": "ダンジョン「神蔵の森」をクリアする",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 11002,
+    "MainType": 2,
+    "Name": "神蔵の森",
+    "Show": 1,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "11003": {
+    "Award": [[10016, 1]],
+    "Desc": "メインクエストを1つクリアする",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 11003,
+    "MainType": 2,
+    "Name": "人助けが好き",
+    "Show": 1,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "12001": {
+    "Award": [[10016, 1]],
+    "Desc": "全プレイヤーキルモードでプレイヤーを1人倒す",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 12001,
+    "MainType": 3,
+    "Name": "負けず嫌い",
+    "Show": 1,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "13001": {
+    "Award": [[10016, 1]],
+    "Desc": "いずれかの生活スキルを1つ習得する",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 13001,
+    "MainType": 4,
+    "Name": "生活必需品",
+    "Show": 1,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "14001": {
+    "Award": [[10016, 1]],
+    "Desc": "初めての復活",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 14001,
+    "MainType": 5,
+    "Name": "病み上がり",
+    "Show": 1,
+    "SubType": 1,
+    "TimeLimit": 0
+  },
+  "14002": {
+    "Award": [[10016, 1]],
+    "Desc": "初めての消滅",
+    "Icon": "asset/ui/atlas/ui_atlas_main:ui_sprite_skill_hero01_3",
+    "Id": 14002,
+    "MainType": 5,
+    "Name": "重傷",
+    "Show": 1,
+    "SubType": 1,
+    "TimeLimit": 0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "<style=\"physical\">เสีย HP 10 แต้ม</style> ใช้ไม้กระบองโจมตี<br>หากโจมตี<style=\"physical\">โดนสายลับ</style> จะ<style=\"physical\">ฟื้นฟู HP 20 แต้ม</style>ให้กับตัวเอง<br>เมื่อกำจัดสายลับ จะฟื้นฟู HP เต็มจำนวน<br><style=\"physical\">เมื่อ HP ไม่พอ</style> จะไม่สามารถใช้สกิลนี้ได้<br>DMG ที่เกิดขึ้นจริงจะคำนวณตาม<style=\"physical\">พลังป้องกันของวัตถุแปลงร่างของสายลับ</style></style><br><i><style=\"text_third_gray\">[สุดยอดฝีมือไม่เคยแยแสถึงความแข็งแกร่งของอาวุธ]</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "สกิลพื้นฐานขั้นสูง"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "<style=\"physical\">ใช้ HP 10 แต้ม</style> เพื่อโจมตีด้วยดาบของ Fafala<br>ถ้าโจมตี <style=\"physical\">โดน Stalker</style> จะ<style=\"physical\">ฟื้นฟู HP 20 แต้ม</style><br>เมื่อฆ่า Stalker ได้ จะฟื้นฟู HP เต็มทันที<br><style=\"physical\">ไม่สามารถใช้ได้หาก HP ไม่พอ</style><br>DMG จริงจะคำนวณตาม<style=\"physical\">ค่า Armor ของวัตถุที่ Stalker แปลงร่างเป็น</style><br><style=\"physical\">เอฟเฟกต์พิเศษของอาวุธ: Stalker ที่อยู่ใกล้เคียงจะฟื้นฟู HP อย่างต่อเนื่อง และได้รับความเร็วในการเคลื่อนที่เพิ่มขึ้น</style><br><i><style=\"text_third_gray\">\"หวังว่าสิ่งนี้จะช่วยให้เจ้าพบกับความสงบได้บ้าง...\"</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "Morning Mist's Guidance"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "<style=\"physical\">ใช้ HP 10 แต้ม</style> เพื่อโจมตีด้วยดาบใหญ่ของ Denvel<br> ถ้าโจมตี <style=\"physical\">โดน Stalker</style> จะ<style=\"physical\">ฟื้นฟู HP 20 แต้ม</style><br>เมื่อฆ่า Stalker ได้ จะฟื้นฟู HP เต็มทันที<br><style=\"physical\">ถ้า HP ไม่พอ จะไม่สามารถใช้ได้</style><br>DMG จริงจะคำนวณตาม <style=\"physical\">ค่า Armor ของวัตถุที่ Stalker แปลงร่างเป็น</style><br><style=\"physical\">เอฟเฟกต์พิเศษของอาวุธ: ยิงคลื่นดาบพลังงานเพิ่มอีก 2 ลูก และกวาดล้างวัตถุทั้งหมดที่ไม่ใช่ผู้เล่นภายในระยะ</style><br><i><style=\"text_third_gray\">\"ด้วยสิ่งนี้ ข้าจะชำระล้างความโศกเศร้าทั้งปวงในอดีต\"</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "Mourner's Blade"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "<style=\"physical\">ใช้ HP 10 แต้ม</style> เพื่อโจมตีด้วย Pickaxe<br>ถ้าโจมตี <style=\"physical\">โดน Stalker</style> จะ<style=\"physical\">ฟื้นฟู HP 20 แต้ม</style><br>เมื่อกำจัด Stalker ได้ จะฟื้นฟู HP เต็มทันที<br><style=\"physical\">ไม่สามารถใช้ได้หาก HP ไม่พอ</style><br>DMG จริงจะคำนวณตาม<style=\"physical\">ค่า Armor ของวัตถุที่ Stalker แปลงร่างเป็น</style><br><style=\"physical\">เอฟเฟกต์พิเศษของอาวุธ: เมื่อโจมตีจะสุ่มได้รับแร่ 1 ชนิด:<br>โอกาส 40% ได้รับ Amber: ลดคูลดาวน์ของสกิลทั้งหมด 0.5 วินาที;<br>โอกาส 40% ได้รับ Benitoite: ฟื้นฟู HP 10 แต้ม;<br>โอกาส 19% ได้รับ Dragon Crystal: ยิงคลื่นดาบพลังงาน 5 ทิศทางรอบตัว;<br>โอกาส 1% ได้รับ Fulgurite: เรียกสายฟ้าฟาด Stalker ทุกตัวภายในระยะ 30 เมตร</style><br><i><style=\"text_third_gray\">\"ข้าต้องขุดด้วยงั้นหรอ?\"</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "Gold Rush Dream"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "Justice Rally"
+  }
+}

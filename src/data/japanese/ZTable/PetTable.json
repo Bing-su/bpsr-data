@@ -1,0 +1,62 @@
+{
+  "14010001": {
+    "AIConfig": "common_pet_ip004x01_ai",
+    "DefaultState": 0,
+    "EnergyConsume": [2880, 1],
+    "EnergyItem": [[1019001, 30]],
+    "EnergyNum": [100, 100],
+    "GroupPhotoInteract": 1001,
+    "HideWhenNotHave": false,
+    "Icon": "ui/atlas/pet/pet_item_2",
+    "Id": 14010001,
+    "InteractionTemplate": [
+      [0, 99001],
+      [0, 99002]
+    ],
+    "IsHide": 0,
+    "ModelID": 8010001,
+    "Name": "ハッピー",
+    "PetActionId": [5, 6],
+    "PetFollowOffset": [],
+    "PetStickerId": [],
+    "Quality": 4,
+    "RideAnimTemplate": [],
+    "SexLimit": 1,
+    "ShowLimitType": [],
+    "SortId": 0,
+    "StatusInfo": [[0, 0]],
+    "SummonPetBuffID": 10101,
+    "Type": 1,
+    "UnrealSceneBg": ""
+  },
+  "14010002": {
+    "AIConfig": "common_pet_ip004x02_ai",
+    "DefaultState": 0,
+    "EnergyConsume": [2880, 1],
+    "EnergyItem": [[1019001, 30]],
+    "EnergyNum": [100, 100],
+    "GroupPhotoInteract": 1002,
+    "HideWhenNotHave": false,
+    "Icon": "ui/atlas/pet/pet_item_1",
+    "Id": 14010002,
+    "InteractionTemplate": [
+      [0, 99001],
+      [0, 99002]
+    ],
+    "IsHide": 0,
+    "ModelID": 8010002,
+    "Name": "シャルル",
+    "PetActionId": [7, 8],
+    "PetFollowOffset": [],
+    "PetStickerId": [],
+    "Quality": 4,
+    "RideAnimTemplate": [],
+    "SexLimit": 2,
+    "ShowLimitType": [],
+    "SortId": 0,
+    "StatusInfo": [[0, 0]],
+    "SummonPetBuffID": 10102,
+    "Type": 1,
+    "UnrealSceneBg": ""
+  }
+}

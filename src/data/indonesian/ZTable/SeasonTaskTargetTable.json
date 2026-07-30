@@ -1,0 +1,915 @@
+{
+  "1001": {
+    "Describe": "Login",
+    "Id": 1001,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "1002": {
+    "Describe": "Selesaikan {*val*} target di halaman ini",
+    "Id": 1002,
+    "Num": 8,
+    "Param": [1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "1003": {
+    "Describe": "Selesaikan cerita utama \"Dosa dan Tipuan Penyihir\"",
+    "Id": 1003,
+    "Num": 1,
+    "Param": [-1, 10202],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "1004": {
+    "Describe": "Total aktivitas harian mencapai {*val*}",
+    "Id": 1004,
+    "Num": 200,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 41
+  },
+  "1005": {
+    "Describe": "Pakai 4 equipment kualitas Rare",
+    "Id": 1005,
+    "Num": 1,
+    "Param": [4, 2, 0],
+    "SceneId": 0,
+    "TargetType": 30
+  },
+  "1006": {
+    "Describe": "Upgrade 1 skill apa pun ke Lv. 5",
+    "Id": 1006,
+    "Num": 1,
+    "Param": [1, 5],
+    "SceneId": 0,
+    "TargetType": 35
+  },
+  "1007": {
+    "Describe": "Total alokasi poin talent mencapai {*val*}",
+    "Id": 1007,
+    "Num": 6,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "1008": {
+    "Describe": "Menggunakan hingga {*val*} fokus",
+    "Id": 1008,
+    "Num": 200,
+    "Param": [20003],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "1009": {
+    "Describe": "Selesaikan tantangan \"Unstable Space\" {*val*} kali",
+    "Id": 1009,
+    "Num": 1,
+    "Param": [8],
+    "SceneId": 0,
+    "TargetType": 265
+  },
+  "1010": {
+    "Describe": "Selesaikan Trial Lt. 3 dari class apa pun",
+    "Id": 1010,
+    "Num": 1,
+    "Param": [21306, 23101, 24101],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "1011": {
+    "Describe": "Ikut mengalahkan {*val*} monster Boss",
+    "Id": 1011,
+    "Num": 1,
+    "Param": [
+      10032, 10009, 10018, 10056, 10059, 10010, 10084, 10085, 10081, 10007, 10069, 10086, 10077,
+      10029, 11007, 11014, 10118, 10119, 10041, 11023
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "1012": {
+    "Describe": "Gunakan {*val*} Healing Aroma - Lv. 1",
+    "Id": 1012,
+    "Num": 5,
+    "Param": [1015001],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "1013": {
+    "Describe": "Bergabung dengan {*val*} Guild",
+    "Id": 1013,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 342
+  },
+  "1014": {
+    "Describe": "Selesaikan foto di mode selfie 1 kali",
+    "Id": 1014,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "1015": {
+    "Describe": "Selesaikan 1 kali pengaturan Roda Pintasan",
+    "Id": 1015,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 347
+  },
+  "1016": {
+    "Describe": "Beli {*val*} produk di Toko Honor",
+    "Id": 1016,
+    "Num": 1,
+    "Param": [0, 8],
+    "SceneId": 0,
+    "TargetType": 61
+  },
+  "2001": {
+    "Describe": "Login",
+    "Id": 2001,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "2002": {
+    "Describe": "Selesaikan {*val*} target di halaman ini",
+    "Id": 2002,
+    "Num": 8,
+    "Param": [
+      2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017
+    ],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "2003": {
+    "Describe": "Selesaikan cerita utama \"Mencari di Masa Lalu\"",
+    "Id": 2003,
+    "Num": 1,
+    "Param": [-1, 10211],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "2004": {
+    "Describe": "Total aktivitas harian mencapai{*val*}",
+    "Id": 2004,
+    "Num": 400,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 41
+  },
+  "2005": {
+    "Describe": "Dapatkan Rank Season \"Junior Scout 2\"",
+    "Id": 2005,
+    "Num": 1,
+    "Param": [1010102001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "2006": {
+    "Describe": "Rating Ability mencapai{*val*}",
+    "Id": 2006,
+    "Num": 2600,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 236
+  },
+  "2007": {
+    "Describe": "Bioelement mencapai Lv. 18",
+    "Id": 2007,
+    "Num": 1,
+    "Param": [-1, 18],
+    "SceneId": 0,
+    "TargetType": 118
+  },
+  "2008": {
+    "Describe": "Pakai 2 equipment kualitas Epic",
+    "Id": 2008,
+    "Num": 1,
+    "Param": [2, 3, 0],
+    "SceneId": 0,
+    "TargetType": 30
+  },
+  "2009": {
+    "Describe": "Selesaikan Trial Lt. 6 dari class apa pun",
+    "Id": 2009,
+    "Num": 1,
+    "Param": [21301, 22501, 24102],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "2010": {
+    "Describe": "Selesaikan dungeon apa pun dengan tim {*val*} kali",
+    "Id": 2010,
+    "Num": 2,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "2011": {
+    "Describe": "Menyelesaikan Stimen Ruin 3F",
+    "Id": 2011,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 257
+  },
+  "2012": {
+    "Describe": "Ikut mengalahkan {*val*} monster Boss",
+    "Id": 2012,
+    "Num": 2,
+    "Param": [
+      10032, 10009, 10018, 10056, 10059, 10010, 10084, 10085, 10081, 10007, 10069, 10086, 10077,
+      10029, 11007, 11014, 10118, 10119, 10041, 11023
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "2013": {
+    "Describe": "Selesaikan misi keliling pusat event guild",
+    "Id": 2013,
+    "Num": 1,
+    "Param": [-1, 39003],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "2014": {
+    "Describe": "Ambil 1 foto bersama para pemain lain",
+    "Id": 2014,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 346
+  },
+  "2015": {
+    "Describe": "Buka {*val*} \"Peti Starborne Dasar\"",
+    "Id": 2015,
+    "Num": 8,
+    "Param": [1040102, 1040140, 1040360, 1040361],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "2016": {
+    "Describe": "Beli {*val*} produk di Toko Poin Season",
+    "Id": 2016,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 254
+  },
+  "2017": {
+    "Describe": "Rank season mencapai: \"Dream Diver 2\"",
+    "Id": 2017,
+    "Num": 1,
+    "Param": [1020102001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "3001": {
+    "Describe": "Login",
+    "Id": 3001,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "3002": {
+    "Describe": "Selesaikan {*val*} target di halaman ini",
+    "Id": 3002,
+    "Num": 8,
+    "Param": [3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "3003": {
+    "Describe": "Selesaikan cerita utama \"Badai yang Baru Tiba\"",
+    "Id": 3003,
+    "Num": 1,
+    "Param": [-1, 10215],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "3004": {
+    "Describe": "Selesaikan misi sampingan \"Dunia Rahasia Bawah Tanah\"",
+    "Id": 3004,
+    "Num": 1,
+    "Param": [-1, 30401],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "3005": {
+    "Describe": "Pakai 2 equipment kualitas Epic dengan tingkat kesempurnaan 10",
+    "Id": 3005,
+    "Num": 1,
+    "Param": [2, 3, 10],
+    "SceneId": 0,
+    "TargetType": 30
+  },
+  "3006": {
+    "Describe": "Aktifkan tambahan {*val*} skill opsional (tidak termasuk skill awal yang sudah aktif)",
+    "Id": 3006,
+    "Num": 2,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "3007": {
+    "Describe": "Total alokasi poin talent mencapai {*val*}",
+    "Id": 3007,
+    "Num": 15,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "3008": {
+    "Describe": "Menggunakan hingga {*val*} fokus",
+    "Id": 3008,
+    "Num": 600,
+    "Param": [20003],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "3009": {
+    "Describe": "Selesaikan tantangan \"Unstable Space\" total {*val*} kali",
+    "Id": 3009,
+    "Num": 3,
+    "Param": [8],
+    "SceneId": 0,
+    "TargetType": 265
+  },
+  "3010": {
+    "Describe": "Selesaikan Trial Lt. 9 dari class apa pun",
+    "Id": 3010,
+    "Num": 1,
+    "Param": [21307, 23102, 24103],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "3011": {
+    "Describe": "Selesaikan \"Extreme Space\" apa pun di mode normal 1 kali",
+    "Id": 3011,
+    "Num": 1,
+    "Param": [
+      1031, 1121, 1152, 1221, 1331, 1421, 1531, 1631, 6007, 6021, 6043, 6121, 6221, 6331, 6421,
+      6523, 6513, 6543, 6563
+    ],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "3012": {
+    "Describe": "Selesaikan Penaklukan Lord {*val*} kali",
+    "Id": 3012,
+    "Num": 1,
+    "Param": [15],
+    "SceneId": 0,
+    "TargetType": 265
+  },
+  "3013": {
+    "Describe": "Selesaikan Angkutan Guild {*val*} kali",
+    "Id": 3013,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 43
+  },
+  "3014": {
+    "Describe": "Pajang {*val*} produk di pusat transaksi",
+    "Id": 3014,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 65
+  },
+  "3015": {
+    "Describe": "Miliki {*val*} teman",
+    "Id": 3015,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 250
+  },
+  "4001": {
+    "Describe": "Login",
+    "Id": 4001,
+    "Num": 4,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "4002": {
+    "Describe": "Selesaikan {*val*} target di halaman ini",
+    "Id": 4002,
+    "Num": 8,
+    "Param": [4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 4011, 4012, 4013, 4014, 4015],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "4003": {
+    "Describe": "Rating Ability mencapai{*val*}",
+    "Id": 4003,
+    "Num": 4300,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 236
+  },
+  "4004": {
+    "Describe": "Bioelement mencapai Lv. 29",
+    "Id": 4004,
+    "Num": 1,
+    "Param": [-1, 29],
+    "SceneId": 0,
+    "TargetType": 118
+  },
+  "4005": {
+    "Describe": "Lakukan equipment refine {*val*} kali",
+    "Id": 4005,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 258
+  },
+  "4006": {
+    "Describe": "Upgrade 1 skill apa pun ke Lv. 12",
+    "Id": 4006,
+    "Num": 1,
+    "Param": [1, 12],
+    "SceneId": 0,
+    "TargetType": 35
+  },
+  "4007": {
+    "Describe": "Upgrade profesi kehidupan {*val*} kali",
+    "Id": 4007,
+    "Num": 5,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 81
+  },
+  "4008": {
+    "Describe": "Selesaikan \"Extreme Space\" apa pun di mode hard 1 kali",
+    "Id": 4008,
+    "Num": 1,
+    "Param": [1032, 1122, 1222, 6008, 6022, 6044, 1422, 1532, 6122, 6222, 6332, 6422],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "4009": {
+    "Describe": "Selesaikan Trial Lt. 11 dari class apa pun",
+    "Id": 4009,
+    "Num": 1,
+    "Param": [21401, 22301, 24402],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "4010": {
+    "Describe": "Ikut mengalahkan {*val*} monster Elite",
+    "Id": 4010,
+    "Num": 6,
+    "Param": [
+      10031, 10035, 10019, 10038, 10055, 10057, 10058, 10064, 10065, 10104, 10105, 10080, 10066,
+      10012, 10042, 10008, 10034, 10076, 10052, 11005, 11012, 11013, 10116, 10117, 10110, 10111,
+      10044, 11022
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "4011": {
+    "Describe": "Beli item di toserba guild {*val*} kali",
+    "Id": 4011,
+    "Num": 2,
+    "Param": [233],
+    "SceneId": 0,
+    "TargetType": 64
+  },
+  "4012": {
+    "Describe": "Selesaikan event perburuan guild dengan tingkat kesulitan apa pun 1 kali",
+    "Id": 4012,
+    "Num": 1,
+    "Param": [13],
+    "SceneId": 0,
+    "TargetType": 265
+  },
+  "4013": {
+    "Describe": "Buka {*val*} \"Peti Starborne Dasar\"",
+    "Id": 4013,
+    "Num": 40,
+    "Param": [1040102, 1040140, 1040360, 1040361],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "4014": {
+    "Describe": "Memancing {*val*} kali",
+    "Id": 4014,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 60
+  },
+  "4015": {
+    "Describe": "Beli {*val*} produk di Toko Reputasi.",
+    "Id": 4015,
+    "Num": 1,
+    "Param": [0, 9],
+    "SceneId": 0,
+    "TargetType": 61
+  },
+  "5001": {
+    "Describe": "Login",
+    "Id": 5001,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "5002": {
+    "Describe": "Selesaikan {*val*} target di halaman ini",
+    "Id": 5002,
+    "Num": 8,
+    "Param": [
+      5003, 5004, 5005, 5006, 5007, 5008, 5009, 5010, 5011, 5012, 5013, 5014, 5015, 5016, 5017
+    ],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "5003": {
+    "Describe": "Selesaikan cerita utama \"Pemandangan Indah\"",
+    "Id": 5003,
+    "Num": 1,
+    "Param": [-1, 10308],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "5004": {
+    "Describe": "Capai Rank Season \"Junior Scout 3\"",
+    "Id": 5004,
+    "Num": 1,
+    "Param": [1010103001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "5005": {
+    "Describe": "Aktifkan tambahan {*val*} skill opsional (tidak termasuk skill awal yang sudah aktif)",
+    "Id": 5005,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "5006": {
+    "Describe": "Pasang 2 Battle Fantasy apa pun",
+    "Id": 5006,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 33
+  },
+  "5007": {
+    "Describe": "Advance 1 skill apa pun ke Lv. 2",
+    "Id": 5007,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 36
+  },
+  "5008": {
+    "Describe": "Pilih aliran talent, dengan total alokasi poin talent mencapai {*val*}",
+    "Id": 5008,
+    "Num": 31,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "5009": {
+    "Describe": "Menggunakan hingga {*val*} fokus",
+    "Id": 5009,
+    "Num": 1000,
+    "Param": [20003],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "5010": {
+    "Describe": "Selesaikan Trial Lt. 12 dari class apa pun",
+    "Id": 5010,
+    "Num": 1,
+    "Param": [22502, 24104, 21302],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "5011": {
+    "Describe": "Selesaikan \"Extreme Space\" apa pun di mode normal {*val*} kali",
+    "Id": 5011,
+    "Num": 2,
+    "Param": [
+      1031, 1121, 1152, 1221, 1331, 1421, 1531, 1631, 6007, 6021, 6043, 6121, 6221, 6331, 6421,
+      6523, 6513, 6543, 6563
+    ],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "5012": {
+    "Describe": "Selesaikan Assist {*val*} kali",
+    "Id": 5012,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 263
+  },
+  "5013": {
+    "Describe": "Ikut mengalahkan {*val*} monster Boss",
+    "Id": 5013,
+    "Num": 5,
+    "Param": [
+      10032, 10009, 10018, 10056, 10059, 10010, 10084, 10085, 10081, 10007, 10069, 10086, 10077,
+      10029, 11007, 11014, 10118, 10119, 10041, 11023
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "5014": {
+    "Describe": "Tingkatkan pedoman penaklukan monster ke Lv. 2",
+    "Id": 5014,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 57
+  },
+  "5015": {
+    "Describe": "Selesaikan foto di mode pertarungan 1 kali",
+    "Id": 5015,
+    "Num": 1,
+    "Param": [5],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "5016": {
+    "Describe": "Beli {*val*} produk di Toko Poin Persahabatan",
+    "Id": 5016,
+    "Num": 1,
+    "Param": [0, 3],
+    "SceneId": 0,
+    "TargetType": 61
+  },
+  "5017": {
+    "Describe": "Rank season mencapai: \"Dream Diver 3\"",
+    "Id": 5017,
+    "Num": 1,
+    "Param": [1020103001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "6001": {
+    "Describe": "Login",
+    "Id": 6001,
+    "Num": 6,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "6002": {
+    "Describe": "Selesaikan {*val*} target di halaman ini",
+    "Id": 6002,
+    "Num": 8,
+    "Param": [6003, 6004, 6005, 6006, 6007, 6008, 6009, 6010, 6011, 6012, 6013, 6014],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "6003": {
+    "Describe": "Bioelement mencapai Lv. 34",
+    "Id": 6003,
+    "Num": 1,
+    "Param": [-1, 34],
+    "SceneId": 0,
+    "TargetType": 118
+  },
+  "6004": {
+    "Describe": "Pakai 6 equipment kualitas Epic dengan tingkat kesempurnaan 10",
+    "Id": 6004,
+    "Num": 1,
+    "Param": [6, 3, 10],
+    "SceneId": 0,
+    "TargetType": 30
+  },
+  "6005": {
+    "Describe": "Tingkatkan refine di 4 bagian equipment apa pun ke Lv. 3",
+    "Id": 6005,
+    "Num": 1,
+    "Param": [4, 3],
+    "SceneId": 0,
+    "TargetType": 260
+  },
+  "6006": {
+    "Describe": "Selesaikan \"Extreme Space\" apa pun di mode normal {*val*} kali",
+    "Id": 6006,
+    "Num": 4,
+    "Param": [
+      1031, 1121, 1152, 1221, 1331, 1421, 1531, 1631, 6007, 6021, 6043, 6121, 6221, 6331, 6421,
+      6523, 6513, 6543, 6563
+    ],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "6007": {
+    "Describe": "Selesaikan dungeon apa pun dengan tim {*val*} kali",
+    "Id": 6007,
+    "Num": 6,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "6008": {
+    "Describe": "Selesaikan Spot Wajib {*val*} kali",
+    "Id": 6008,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 128
+  },
+  "6009": {
+    "Describe": "Ikut mengalahkan {*val*} monster Elite",
+    "Id": 6009,
+    "Num": 10,
+    "Param": [
+      10031, 10035, 10019, 10038, 10055, 10057, 10058, 10064, 10065, 10104, 10105, 10080, 10066,
+      10012, 10042, 10008, 10034, 10076, 10052, 11005, 11012, 11013, 10116, 10117, 10110, 10111,
+      10044, 11022
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "6010": {
+    "Describe": "Dapatkan {*val*} Poin Penaklukan Lord dalam Event Penaklukan Lord",
+    "Id": 6010,
+    "Num": 1000,
+    "Param": [20010],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "6011": {
+    "Describe": "Buka {*val*} \"Peti Starborne Dasar\"",
+    "Id": 6011,
+    "Num": 60,
+    "Param": [1040102, 1040140, 1040360, 1040361],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "6012": {
+    "Describe": "Koleksi lemari mencapai:{*val*}",
+    "Id": 6012,
+    "Num": 100,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 62
+  },
+  "6013": {
+    "Describe": "Miliki {*val*} teman",
+    "Id": 6013,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 250
+  },
+  "7001": {
+    "Describe": "Login",
+    "Id": 7001,
+    "Num": 7,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "7002": {
+    "Describe": "Selesaikan {*val*} target di buku pedoman",
+    "Id": 7002,
+    "Num": 80,
+    "Param": [
+      7003, 7004, 7005, 7006, 7007, 7008, 7009, 7010, 7011, 7012, 7013, 7014, 7015, 1002, 1003,
+      1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 2002, 2003,
+      2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 3002, 3003,
+      3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 4002, 5002,
+      6002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 4011, 4012, 4013, 4014, 4015, 5003,
+      5004, 5005, 5006, 5007, 5008, 5009, 5010, 5011, 5012, 5013, 5014, 5015, 5016, 6003, 6004,
+      6005, 6006, 6007, 6008, 6009, 6010, 6011, 6012, 6013, 6014, 2017, 5017, 7016
+    ],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "7003": {
+    "Describe": "Selesaikan cerita utama \"Benda yang Hilang\"",
+    "Id": 7003,
+    "Num": 1,
+    "Param": [-1, 10313],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "7004": {
+    "Describe": "Selesaikan misi sampingan \"Ayo Maju! Penjelajahan Klub Pelajar di Dragonclaw Ruin!\"",
+    "Id": 7004,
+    "Num": 1,
+    "Param": [-1, 30313],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "7005": {
+    "Describe": "Capai Rank Season \"Novice Tracker 1\"",
+    "Id": 7005,
+    "Num": 1,
+    "Param": [1010201001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "7006": {
+    "Describe": "Rating Ability mencapai{*val*}",
+    "Id": 7006,
+    "Num": 6500,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 236
+  },
+  "7007": {
+    "Describe": "Bioelement mencapai Lv. 37",
+    "Id": 7007,
+    "Num": 1,
+    "Param": [-1, 37],
+    "SceneId": 0,
+    "TargetType": 118
+  },
+  "7008": {
+    "Describe": "Lakukan embed {*val*} kali",
+    "Id": 7008,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 264
+  },
+  "7009": {
+    "Describe": "Efek Inti Emblem mencapai Lv. 3",
+    "Id": 7009,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 51
+  },
+  "7010": {
+    "Describe": "Upgrade profesi kehidupan {*val*} kali",
+    "Id": 7010,
+    "Num": 7,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 81
+  },
+  "7011": {
+    "Describe": "Selesaikan \"Extreme Space\" apa pun di mode hard {*val*} kali",
+    "Id": 7011,
+    "Num": 2,
+    "Param": [1032, 1122, 1222, 6008, 6022, 6044, 1422, 1532, 6122, 6222, 6332, 6422],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "7012": {
+    "Describe": "Selesaikan Trial Lt. 15 dari class apa pun",
+    "Id": 7012,
+    "Num": 1,
+    "Param": [23103, 24105, 21308],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "7013": {
+    "Describe": "Menyelesaikan Stimen Ruin 20F",
+    "Id": 7013,
+    "Num": 1,
+    "Param": [20],
+    "SceneId": 0,
+    "TargetType": 257
+  },
+  "7014": {
+    "Describe": "Ikut mengalahkan {*val*} monster Boss",
+    "Id": 7014,
+    "Num": 7,
+    "Param": [
+      10032, 10009, 10018, 10056, 10059, 10010, 10084, 10085, 10081, 10007, 10069, 10086, 10077,
+      10029, 11007, 11014, 10118, 10119, 10041, 11023
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "7015": {
+    "Describe": "Tingkatkan pedoman penaklukan monster ke Lv. 3",
+    "Id": 7015,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 57
+  },
+  "7016": {
+    "Describe": "Rank season mencapai: \"Dream Traveler 1\"",
+    "Id": 7016,
+    "Num": 1,
+    "Param": [1020201001],
+    "SceneId": 0,
+    "TargetType": 53
+  }
+}

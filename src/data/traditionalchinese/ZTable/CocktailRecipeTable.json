@@ -1,0 +1,123 @@
+{
+  "1001": {
+    "Icon": "item_icons_moonlightchacha",
+    "Id": 1001,
+    "IntroductionText": "「親愛的，讓月亮和海風纏綿成一個吻，踏著甲板與我共舞吧。」深受阿斯特里斯情侶青睞的飲品，如在約會中品嚐，<style=\"emph-gn\">浪漫</style>點保守上升0.01%！",
+    "IsVisible": true,
+    "MadeIn": "阿斯特里斯",
+    "Model": "",
+    "Name": "月光恰恰",
+    "Recipe": [[], [1030009, 1]],
+    "RecipeText": "藍柑橘糖漿、檸檬水各一份",
+    "Tag": "酸甜沁心",
+    "Title": "「約會必點單品」"
+  },
+  "1002": {
+    "Icon": "item_icons_margarettwilight",
+    "Id": 1002,
+    "IntroductionText": "也許是在某個黃昏將至的海邊，心上人忽然間的回眸與笑意。相信我，這杯飲品能喚起你溫熱的、<style=\"emph-gn\">迷離</style>的記憶，（即使只有一點點）。",
+    "IsVisible": true,
+    "MadeIn": "阿斯特里斯",
+    "Model": "",
+    "Name": "瑪格麗特黃昏",
+    "Recipe": [
+      [1030006, 1],
+      [1030009, 1]
+    ],
+    "RecipeText": "紅果糖漿、檸檬水各一份",
+    "Tag": "絲柔醇厚",
+    "Title": "「優雅之人的摯愛」"
+  },
+  "1003": {
+    "Icon": "item_icons_sandheaven",
+    "Id": 1003,
+    "IntroductionText": "「和海浪一起<style=\"emph-gn\">燃燒</style>啊……我的靈魂！」叛逆而辛辣的象徵，硬漢的不二之選，每個海濱少年從青蔥邁入成年的必經之路。飲下後，心境就同午後的沙灘一樣滾燙。",
+    "IsVisible": true,
+    "MadeIn": "阿斯特里斯",
+    "Model": "",
+    "Name": "熱砂之天國",
+    "Recipe": [
+      [1030006, 1],
+      [1030008, 1],
+      [1030011, 1]
+    ],
+    "RecipeText": "紅果糖漿、蘇打水各一份，需要做熱飲",
+    "Tag": "辛辣勁爽",
+    "Title": "「備受硬漢青睞」"
+  },
+  "1004": {
+    "Icon": "item_icons_silentseabreeze",
+    "Id": 1004,
+    "IntroductionText": "「如果你恨一個人，就為他點這一杯。如果你愛一個人，就為他點這一杯。」無需多言，飲下之後的<style=\"emph-gn\">沉默</style>便是最好的回答。",
+    "IsVisible": true,
+    "MadeIn": "阿斯特里斯",
+    "Model": "",
+    "Name": "緘默海風",
+    "Recipe": [[], [1030008, 1], [1030010, 1]],
+    "RecipeText": "藍柑橘糖漿、蘇打水各一份，需要加冰",
+    "Tag": "酸澀濃郁",
+    "Title": "「文藝愛好者首推」"
+  },
+  "1005": {
+    "Icon": "item_icons_touchofneon",
+    "Id": 1005,
+    "IntroductionText": "永遠<style=\"emph-gn\">安全</style>、永遠受歡迎。溫暖、甜蜜又帶些人工的苦澀，可能是年輕人的第一款成年飲品。",
+    "IsVisible": true,
+    "MadeIn": "阿斯特里斯",
+    "Model": "",
+    "Name": "一抹霓虹",
+    "Recipe": [
+      [1030006, 2],
+      [1030011, 1]
+    ],
+    "RecipeText": "紅果糖漿兩份，需要做熱飲",
+    "Tag": "甜蜜溫熱",
+    "Title": "「掀起青春風暴」"
+  },
+  "1006": {
+    "Icon": "item_icons_icycoralsea",
+    "Id": 1006,
+    "IntroductionText": "在阿斯特里斯，沒人見過<style=\"emph-gn\">結冰</style>的大海，但這並不妨礙他們從舌尖上幻想。",
+    "IsVisible": true,
+    "MadeIn": "阿斯特里斯",
+    "Model": "",
+    "Name": "珊瑚冰海",
+    "Recipe": [
+      [1030007, 2],
+      [1030010, 1]
+    ],
+    "RecipeText": "藍柑橘糖漿兩份，需要加冰",
+    "Tag": "清新冰爽",
+    "Title": "「海風節限定特調」"
+  },
+  "2001": {
+    "Icon": "",
+    "Id": 2001,
+    "IntroductionText": "「它是真正硬漢的選擇。硬——漢，你明白嗎？它的顏色和火焰一樣充滿力量。飲下它的一瞬間，感覺心臟與靈魂都變得熾烈了……」",
+    "IsVisible": false,
+    "MadeIn": "",
+    "Model": "",
+    "Name": "「熱砂之天國」",
+    "Recipe": [
+      [1030006, 1],
+      [1030008, 3],
+      [1030011, 1]
+    ],
+    "RecipeText": "",
+    "Tag": "",
+    "Title": ""
+  },
+  "5001": {
+    "Icon": "",
+    "Id": 5001,
+    "IntroductionText": "…難以下嚥的飲品，失敗作誕生了。但沒關係，萬事皆可再試一次，調製飲品也不例外。",
+    "IsVisible": false,
+    "MadeIn": "",
+    "Model": "",
+    "Name": "調製失敗的飲品",
+    "Recipe": [],
+    "RecipeText": "",
+    "Tag": "不是滋味",
+    "Title": "「神秘……非常神秘」"
+  }
+}

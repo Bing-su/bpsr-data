@@ -1,0 +1,2938 @@
+{
+  "10001": {
+    "Description": "Ein Kleidungsstück, das mit färbbarer Handwerkskunst auf Basis exklusiver Maßanfertigungen nachgebildet wurde. Es kann nach Belieben gefärbt werden.",
+    "Id": 10001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Chroma-Edition",
+    "Type": 1
+  },
+  "1001": {
+    "Description": "Verschiedene Waffenangriffe, die mit der Angriffstaste ausgeführt werden",
+    "Id": 1001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Standardangriff",
+    "Type": 1
+  },
+  "1002": {
+    "Description": "Die Standardangriff-Form der Waffe",
+    "Id": 1002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Standardangriff",
+    "Type": 1
+  },
+  "1003": {
+    "Description": "Schwerer Angriff, der durch Gedrückthalten der Angriffstaste ausgeführt wird",
+    "Id": 1003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Schwerer Angriff",
+    "Type": 1
+  },
+  "1004": {
+    "Description": "Sturzangriff, der durch einen Standardangriff aus einer bestimmten Höhe über dem Boden ausgeführt wird",
+    "Id": 1004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Sturzangriff",
+    "Type": 1
+  },
+  "1005": {
+    "Description": "Der wichtigste und bekannteste Angriff der Waffe.",
+    "Id": 1005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Kernfähigkeiten",
+    "Type": 1
+  },
+  "1006": {
+    "Description": "Die am häufigsten verwendeten Fähigkeiten der Waffe",
+    "Id": 1006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Grundfähigkeiten",
+    "Type": 1
+  },
+  "1007": {
+    "Description": "Die mächtigste ultimative Kampfkunst der Waffe",
+    "Id": 1007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ultima",
+    "Type": 1
+  },
+  "1008": {
+    "Description": "Eine durch Talente erlernte Eigenschaftsfähigkeit",
+    "Id": 1008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Talentfähigkeiten",
+    "Type": 1
+  },
+  "1009": {
+    "Description": "Eine Fähigkeit, die nach einem Treffer und in der Luft eingesetzt werden kann.",
+    "Id": 1009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Erholungsfähigkeit",
+    "Type": 1
+  },
+  "1010": {
+    "Description": "Mächtige Fähigkeitsstile, die durch Talente erlernt werden",
+    "Id": 1010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Talent-Arkana",
+    "Type": 1
+  },
+  "1011": {
+    "Description": "Die Fähigkeit kann Schaden verursachen",
+    "Id": 1011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Schaden",
+    "Type": 1
+  },
+  "1012": {
+    "Description": "Schaden, der durch den Angriff selbst verursacht wird.",
+    "Id": 1012,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Fähigkeitsschaden",
+    "Type": 1
+  },
+  "1013": {
+    "Description": "Zusätzlicher Schaden, der durch von Fähigkeiten ausgelöste Elementareigenschaften verursacht wird",
+    "Id": 1013,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Eigenschaftsschaden",
+    "Type": 1
+  },
+  "1014": {
+    "Description": "Effekte, die LP wiederherstellen können",
+    "Id": 1014,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Heilung",
+    "Type": 1
+  },
+  "1015": {
+    "Description": "Stellt sofort eine große Menge LP wieder her",
+    "Id": 1015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Heilung",
+    "Type": 1
+  },
+  "1016": {
+    "Description": "Stellt über einen bestimmten Zeitraum kontinuierlich LP wieder her",
+    "Id": 1016,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Heilung",
+    "Type": 1
+  },
+  "1017": {
+    "Description": "Ein Effekt, der für Verbündete im Kampf von Vorteil sein kann.",
+    "Id": 1017,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Buff",
+    "Type": 1
+  },
+  "1018": {
+    "Description": "Ein Effekt, der die Kampffähigkeit, Beweglichkeit oder andere Fähigkeiten für eine bestimmte Zeit verbessert",
+    "Id": 1018,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Segen",
+    "Type": 1
+  },
+  "1019": {
+    "Description": "Ein Effekt, der die Kampffähigkeit kurzfristig erheblich steigert.",
+    "Id": 1019,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Hochgefühl",
+    "Type": 1
+  },
+  "1020": {
+    "Description": "Die Kampfattribute werden deutlich verbessert, und wenn unter Talenten entwickelt, werden zusätzliche Effekte hinzugefügt.",
+    "Id": 1020,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspiration",
+    "Type": 1
+  },
+  "1021": {
+    "Description": "Verschiedene Zustände, die sich nachteilig auf die eigene Kampfkraft auswirken.",
+    "Id": 1021,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Debuff",
+    "Type": 1
+  },
+  "1022": {
+    "Description": "Ein nachteiliger Effekt, der die Kampfattribute für eine bestimmte Zeit verringert",
+    "Id": 1022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Schwäche",
+    "Type": 1
+  },
+  "1023": {
+    "Description": "Ein nachteiliger Effekt, der den erlittenen Schaden für eine gewisse Zeit erhöht.",
+    "Id": 1023,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Verwundbarkeit",
+    "Type": 1
+  },
+  "1024": {
+    "Description": "Erhöht den erlittenen Schaden für eine gewisse Zeit, mit zusätzlichen Effekten, wenn unter bestimmten Talenten entwickelt.",
+    "Id": 1024,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Fraktur",
+    "Type": 1
+  },
+  "1025": {
+    "Description": "In einem Zustand, in dem verschiedene Handlungen eingeschränkt sind.",
+    "Id": 1025,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Kontrolle",
+    "Type": 1
+  },
+  "1026": {
+    "Description": "In einem Zustand, in dem Bewegung und Kampfhandlungen unmöglich sind.",
+    "Id": 1026,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Erstarrt",
+    "Type": 1
+  },
+  "1027": {
+    "Description": "In einem Zustand, in dem Bewegung unmöglich ist.",
+    "Id": 1027,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Binden",
+    "Type": 1
+  },
+  "1028": {
+    "Description": "Die betroffene Einheit wird in einen Zustand versetzt, in dem Bewegung, Kampfhandlungen und die Verwendung von Gegenständen vollständig eingeschränkt sind. Die wiederholte Anwendung dieses Effekts innerhalb kurzer Zeit verringert seine Gesamtdauer. Wirkt nicht bei Bossen.",
+    "Id": 1028,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Betäuben",
+    "Type": 1
+  },
+  "1029": {
+    "Description": "In einem Zustand verminderter Geschwindigkeit.",
+    "Id": 1029,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Verlangsamen",
+    "Type": 1
+  },
+  "1030": {
+    "Description": "Fähigkeit, die <style=\"ItemQuality_5\">Super-Rüstung</style>sleiste von mächtigen Zielen zu durchbrechen.",
+    "Id": 1030,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wanken",
+    "Type": 1
+  },
+  "1031": {
+    "Description": "Fähigkeiten, mit denen sich Charaktere schnell bewegen können.",
+    "Id": 1031,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Distanz",
+    "Type": 1
+  },
+  "1032": {
+    "Description": "Dauerhafte Fähigkeiten des Distanz-Typs.",
+    "Id": 1032,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Sprint",
+    "Type": 1
+  },
+  "1033": {
+    "Description": "Nicht-dauerhafte Fähigkeiten des Distanz-Typs.",
+    "Id": 1033,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Lidschlag",
+    "Type": 1
+  },
+  "1034": {
+    "Description": "Fähigkeiten, die dem Charakter beim Überleben helfen können.",
+    "Id": 1034,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Überleben",
+    "Type": 1
+  },
+  "1035": {
+    "Description": "Ein zusätzlicher LP-<style=\"ItemQuality_5\">Schild</style>, der Schaden vor den LP absorbieren kann.",
+    "Id": 1035,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Schild",
+    "Type": 1
+  },
+  "1036": {
+    "Description": "Eine besondere Phase einer Fähigkeit, in welcher der erlittene Schaden teilweise reduziert wird.",
+    "Id": 1036,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blocken",
+    "Type": 1
+  },
+  "1037": {
+    "Description": "Verursacht Feuerschaden",
+    "Id": 1037,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Feuerschaden",
+    "Type": 1
+  },
+  "1038": {
+    "Description": "Schaden mit der Macht des Feuers",
+    "Id": 1038,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Feuer",
+    "Type": 1
+  },
+  "1039": {
+    "Description": "Ein Debuff, durch den über einen bestimmten Zeitraum in Intervallen Feuerschaden erlitten wird",
+    "Id": 1039,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Entzünden",
+    "Type": 1
+  },
+  "1040": {
+    "Description": "Verursacht Eisschaden",
+    "Id": 1040,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Eisschaden",
+    "Type": 1
+  },
+  "1041": {
+    "Description": "Schaden mit der Macht des Eises",
+    "Id": 1041,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Eis",
+    "Type": 1
+  },
+  "1042": {
+    "Description": "Verursacht Donnerschaden.",
+    "Id": 1042,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Donnerschaden",
+    "Type": 1
+  },
+  "1043": {
+    "Description": "Schaden mit der Macht des Donners.",
+    "Id": 1043,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Donnerelement",
+    "Type": 1
+  },
+  "1044": {
+    "Description": "Verursacht Windschaden",
+    "Id": 1044,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Windschaden",
+    "Type": 1
+  },
+  "1045": {
+    "Description": "Schaden mit der Macht des Windes",
+    "Id": 1045,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wind",
+    "Type": 1
+  },
+  "1046": {
+    "Description": "Verursacht Erdschaden",
+    "Id": 1046,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Erdschaden",
+    "Type": 1
+  },
+  "1047": {
+    "Description": "Schaden mit der Macht der Erde",
+    "Id": 1047,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Stein",
+    "Type": 1
+  },
+  "1048": {
+    "Description": "Verursacht Waldschaden.",
+    "Id": 1048,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Waldschaden",
+    "Type": 1
+  },
+  "1049": {
+    "Description": "Schaden mit der Macht des Waldes",
+    "Id": 1049,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wald",
+    "Type": 1
+  },
+  "1050": {
+    "Description": "Verursacht Lichtschaden",
+    "Id": 1050,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Lichtschaden",
+    "Type": 1
+  },
+  "1051": {
+    "Description": "Schaden mit der Macht des Lichts",
+    "Id": 1051,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Licht",
+    "Type": 1
+  },
+  "1052": {
+    "Description": "Verursacht Dunkelschaden",
+    "Id": 1052,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dunkelschaden",
+    "Type": 1
+  },
+  "1053": {
+    "Description": "Schaden mit der Macht der Dunkelheit",
+    "Id": 1053,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dunkel",
+    "Type": 1
+  },
+  "1054": {
+    "Description": "Unterstützungseffekte, die zusätzliche Angriffsaktionen hervorrufen oder offensive Handlungen abwehren können.",
+    "Id": 1054,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Unterstützung im Kampf",
+    "Type": 1
+  },
+  "1055": {
+    "Description": "Effekte, die Angriffsaktionen mit dem Kampf synchronisieren.",
+    "Id": 1055,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Koordination",
+    "Type": 1
+  },
+  "1056": {
+    "Description": "Effekte, die eigenständig Angriffe zur Unterstützung im Kampf ausführen.",
+    "Id": 1056,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Kooperativer Kampf",
+    "Type": 1
+  },
+  "1057": {
+    "Description": "Eine Methode zum Auslösen der Fähigkeit, die einige Zeit zur Vorbereitung benötigt, um ein stärkeres Ergebnis zu erzielen.",
+    "Id": 1057,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aufladen",
+    "Type": 1
+  },
+  "1058": {
+    "Description": "Eine Methode zum Auslösen der Fähigkeit, bei der ein Wirkzustand aufrechterhalten werden muss, um den Effekt fortzusetzen.",
+    "Id": 1058,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Kanalisierung",
+    "Type": 1
+  },
+  "1059": {
+    "Description": "Fähigkeiten, die sich in einem Zustand der Verbesserung befinden oder Veränderungen bewirken.",
+    "Id": 1059,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Verbesserung",
+    "Type": 1
+  },
+  "1060": {
+    "Description": "Eine Ressource, die für den Einsatz bestimmter Fähigkeiten benötigt wird und sich mit der Zeit oder durch bestimmte Mechanismen wieder auffüllt.",
+    "Id": 1060,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aufladung",
+    "Type": 1
+  },
+  "1061": {
+    "Description": "Eine Art von Effekt, der unter bestimmten Bedingungen ausgelöst werden kann und dessen Auslösewahrscheinlichkeit von Attributen beeinflusst wird.",
+    "Id": 1061,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aufprägen",
+    "Type": 1
+  },
+  "1062": {
+    "Description": "Ein Zustand, bei dem deine LP höher sind als die des Ziels. Er gewährt Boni auf Schaden und SCH-Reduktion. Zusätzliche Effekte sind durch bestimmte Talente möglich.",
+    "Id": 1062,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Unterdrücken",
+    "Type": 1
+  },
+  "1063": {
+    "Description": "Eine Kampfeinheit, die an einen bestimmten Beschwörer gebunden ist und deren Zustand von diesem beeinflusst wird.",
+    "Id": 1063,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Beschwörung",
+    "Type": 1
+  },
+  "1064": {
+    "Description": "Eine Beschwörung, die Effekte hervorruft, nachdem bestimmte Bedingungen ausgelöst wurden.",
+    "Id": 1064,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Falle",
+    "Type": 1
+  },
+  "1065": {
+    "Description": "Eine Beschwörung, die für eine gewisse Zeit stationär bleibt und Effekte in ihrer Umgebung bewirkt.",
+    "Id": 1065,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Totem",
+    "Type": 1
+  },
+  "1066": {
+    "Description": "Eine Beschwörung, die sich bewegen und dem Beschwörer folgen kann, um ihn im Kampf zu unterstützen.",
+    "Id": 1066,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Gehilfe",
+    "Type": 1
+  },
+  "1067": {
+    "Description": "Ein beschworenes Wesen mit autonomem Verhalten und Bewusstsein.",
+    "Id": 1067,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Konstrukt",
+    "Type": 1
+  },
+  "1068": {
+    "Description": "Ein Fähigkeitsmechanismus, der physische Bewegungen ausführen und beim Aufprall Effekte hervorrufen kann.",
+    "Id": 1068,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Projektil",
+    "Type": 1
+  },
+  "1069": {
+    "Description": "Ein kleines, sich schnell bewegendes Projektil.",
+    "Id": 1069,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Kugel",
+    "Type": 1
+  },
+  "1070": {
+    "Description": "Ein großes, sich relativ schnell bewegendes Projektil.",
+    "Id": 1070,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Rakete",
+    "Type": 1
+  },
+  "1071": {
+    "Description": "Effektive Methode innerhalb eines bestimmten Bereichs.",
+    "Id": 1071,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Flächeneffekt",
+    "Type": 1
+  },
+  "1072": {
+    "Description": "Flächeneffekt, der sich selbst oder Verbündete kontinuierlich in einen vorteilhaften Zustand versetzen kann.",
+    "Id": 1072,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Domäne",
+    "Type": 1
+  },
+  "1073": {
+    "Description": "Flächeneffekt, der Gegner kontinuierlich in einen nachteiligen Zustand versetzen oder ihnen Schaden zufügen kann.",
+    "Id": 1073,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Flächenwirkung",
+    "Type": 1
+  },
+  "1074": {
+    "Description": "Kann kontinuierlich Effekte auf Ziele innerhalb seiner Reichweite ausüben.",
+    "Id": 1074,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aura",
+    "Type": 1
+  },
+  "1075": {
+    "Description": "Wesen, die viel stärker als Monster sind.",
+    "Id": 1075,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Mächtiges Ziel",
+    "Type": 1
+  },
+  "1076": {
+    "Description": "Boss, Wilder Boss und Weltboss.",
+    "Id": 1076,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Boss",
+    "Type": 1
+  },
+  "1077": {
+    "Description": "Monster, die auf dem Kontinent unterwegs sind und meist über grundlegende Kampffähigkeiten verfügen.",
+    "Id": 1077,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Normales Monster",
+    "Type": 1
+  },
+  "1078": {
+    "Description": "Außergewöhnliche Krieger unter den Monstern, die in der Regel über eine sehr bedrohliche Expertise verfügen.",
+    "Id": 1078,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Elite",
+    "Type": 1
+  },
+  "1079": {
+    "Description": "Der absolut Stärkste in der Gruppe, der ohne Übertreibung als König bezeichnet werden kann.",
+    "Id": 1079,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Boss",
+    "Type": 1
+  },
+  "1080": {
+    "Description": "Mächtige Monster, die man nur in bestimmten Gebieten auf der Karte findet.",
+    "Id": 1080,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wilder Boss",
+    "Type": 1
+  },
+  "1081": {
+    "Description": "Das mächtigste Monster auf Dungeon-Karten.",
+    "Id": 1081,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Weltboss",
+    "Type": 1
+  },
+  "1082": {
+    "Description": "Ein Status, bei dem die LP nicht unter 50 % der Max. LP liegen.",
+    "Id": 1082,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Gesund",
+    "Type": 1
+  },
+  "1083": {
+    "Description": "Ein Status, bei dem die LP nicht über 30 % der Max. LP liegen.",
+    "Id": 1083,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Verletzt",
+    "Type": 1
+  },
+  "1084": {
+    "Description": "Zusätzliche Fähigkeiten, die durch Szenarien oder Stufen-Gameplay erworben werden.",
+    "Id": 1084,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Szenario-Fähigkeit",
+    "Type": 1
+  },
+  "1085": {
+    "Description": "Ein durch das Veredeln von \"Strahlen\"-Ausrüstung gewährter, anhaltender Zustand.",
+    "Id": 1085,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Strahlen",
+    "Type": 1
+  },
+  "1086": {
+    "Description": "Verursacht elementlosen Schaden",
+    "Id": 1086,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Elementloser Schaden",
+    "Type": 1
+  },
+  "1087": {
+    "Description": "Der Schaden ist elementarlos und besitzt keine Elementarkraft.",
+    "Id": 1087,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Elementarlos",
+    "Type": 1
+  },
+  "1088": {
+    "Description": "Von einer unbekannten Kontaminationsquelle befallen, was verschiedene nachteilige Effekte zur Folge hat.",
+    "Id": 1088,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Zersetzung",
+    "Type": 1
+  },
+  "1089": {
+    "Description": "Ein durch das Veredeln von \"Strahlen\"-Ausrüstung gewährter, anhaltender Zustand.",
+    "Id": 1089,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Strahlen",
+    "Type": 1
+  },
+  "1090": {
+    "Description": "Erhöht den verursachten Schaden.",
+    "Id": 1090,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Hochgefühl",
+    "Type": 1
+  },
+  "1091": {
+    "Description": "Kann nicht zurückgestoßen, in die Luft geschleudert oder zu Boden gestoßen werden.",
+    "Id": 1091,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Super-Rüstung",
+    "Type": 1
+  },
+  "1092": {
+    "Description": "Zwingt gegnerische Monster dazu, sich selbst anzugreifen",
+    "Id": 1092,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Spott",
+    "Type": 1
+  },
+  "1093": {
+    "Description": "Reflektiert erlittenen Schaden.",
+    "Id": 1093,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dorn",
+    "Type": 1
+  },
+  "1094": {
+    "Description": "Effekte, die die Kampffähigkeit einer Einheit direkt beeinträchtigen, wie z. B. verringerte Geschwindigkeit, gesenkte Attribute oder Kontrolleffekte.",
+    "Id": 1094,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Debuff",
+    "Type": 1
+  },
+  "1095": {
+    "Description": "Erlittener SCH <style=\"accent-gn\">+10 %</style> für <style=\"accent-gn\">5 Sek</style>.",
+    "Id": 1095,
+    "Par": 3401095,
+    "ShowRule": 1,
+    "Text": "Verwundbarkeit",
+    "Type": 3
+  },
+  "1096": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG, und dein nächster <style=\"accent-gn\">Overdrive</style> erhält <style=\"accent-gn\">2</style> zusätzliche <style=\"accent-gn\">Donnersiegel</style>.",
+    "Id": 1096,
+    "Par": 3401096,
+    "ShowRule": 1,
+    "Text": "Durchdringender Hieb",
+    "Type": 3
+  },
+  "1097": {
+    "Description": "Beschleunigt beträchtlich den Einsatz des <style=\"accent-gn\">Spezialangriffs</style> für <style=\"accent-gn\">10 Sek</style>. Der Effekt endet, wenn du einen <style=\"accent-gn\">Spezialangriff</style> ausführst.",
+    "Id": 1097,
+    "Par": 3401097,
+    "ShowRule": 1,
+    "Text": "Zen-Moment",
+    "Type": 3
+  },
+  "1098": {
+    "Description": "Eine verborgene Technik von <style=\"accent-gn\">Donnerschnitter</style>. Führt einen schnellen Aufwärtshieb aus, verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">300 %</style> des ANG (skaliert mit Stufe/Rang von <style=\"accent-gn\">Donnerschnitter</style>). Sobald die Angriffsgeschwindigkeit <style=\"accent-gn\">25 %</style>|<style=\"accent-gn\">50 %</style>|<style=\"accent-gn\">80 %</style> erreicht, beträgt die Anzahl deiner Angriffe +<style=\"accent-gn\">1</style>|<style=\"accent-gn\">2</style>|<style=\"accent-gn\">3</style>",
+    "Id": 1098,
+    "Par": 3401098,
+    "ShowRule": 1,
+    "Text": "Donnerspalter",
+    "Type": 3
+  },
+  "1099": {
+    "Description": "Jede Welle verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG.<br>Startet mit <style=\"accent-gn\">1</style> Welle. Erhält <style=\"accent-gn\">1</style> zusätzliche Welle für jeweils <style=\"accent-gn\">10 %</style> Meisterschaft, bis zu <style=\"accent-gn\">4</style> Wellen.",
+    "Id": 1099,
+    "Par": 3401099,
+    "ShowRule": 1,
+    "Text": "Klingenwinddomäne",
+    "Type": 3
+  },
+  "1100": {
+    "Description": "Glückseffekt: Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">80 %</style> des ANG beim Gegner.",
+    "Id": 1100,
+    "Par": 3401100,
+    "ShowRule": 1,
+    "Text": "Donnerschlag",
+    "Type": 3
+  },
+  "1101": {
+    "Description": "Dreht sich kontinuierlich für <style=\"accent-gn\">35 Sek.</style> und verursacht alle <style=\"accent-gn\">2 Sek.</style> <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">50 %</style> des ANG (skaliert mit Stufe/Rang von Sensenrad).",
+    "Id": 1101,
+    "Par": 3401101,
+    "ShowRule": 1,
+    "Text": "Mondklingen",
+    "Type": 3
+  },
+  "1102": {
+    "Description": "Kann nicht zurückgestoßen, in die Luft geschleudert oder zu Boden gestoßen werden.",
+    "Id": 1102,
+    "Par": 3401102,
+    "ShowRule": 1,
+    "Text": "Super-Rüstung",
+    "Type": 3
+  },
+  "1103": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">3 m</style>.",
+    "Id": 1103,
+    "Par": 3401103,
+    "ShowRule": 1,
+    "Text": "Donnerknall",
+    "Type": 3
+  },
+  "1104": {
+    "Description": "Beim Einsatz einer Fähigkeit, die <style=\"accent-gn\">Donnersiegel</style> verbraucht, erhöht jedes verbrauchte <style=\"accent-gn\">Donnersiegel</style> den SCH der Fähigkeit um <style=\"accent-gn\">25 %</style>.",
+    "Id": 1104,
+    "Par": 3401104,
+    "ShowRule": 1,
+    "Text": "Donnersiegel",
+    "Type": 3
+  },
+  "1105": {
+    "Description": "Verursacht massiven SCH basierend auf der Anzahl der in den letzten <style=\"accent-gn\">10 Sek.</style> verbrauchten <style=\"accent-gn\">Donnersiegel</style>.<br><style=\"accent-gn\">Jedes</style> verbrauchte <style=\"accent-gn\">Donnersiegel</style> verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG, bis zu einem Maximum von <style=\"accent-gn\">15.000 %</style>.",
+    "Id": 1105,
+    "Par": 3401105,
+    "ShowRule": 1,
+    "Text": "Ultimativer Hieb",
+    "Type": 3
+  },
+  "1106": {
+    "Description": "Kann bis zu <style=\"accent-gn\">20</style> <style=\"accent-gn\">Ladungssaat</style> ansammeln. Beim Wirken von <style=\"accent-gn\">Donnerschnitter</style> werden <style=\"accent-gn\">15</style> <style=\"accent-gn\">Ladungssaat</style> verbraucht, um <style=\"accent-gn\">Sturmsense</style> auszulösen, was <style=\"physical\">Angriff-SCH</style> bei Zielen in der Nähe verursacht.",
+    "Id": 1106,
+    "Par": 3401106,
+    "ShowRule": 1,
+    "Text": "Ladungssaat",
+    "Type": 3
+  },
+  "1107": {
+    "Description": "Gewährt dem gesegneten Ziel <style=\"accent-gn\">100</style> <style=\"accent-gn\">Intelligenz</style>, <style=\"accent-gn\">Stärke</style>, <style=\"accent-gn\">Agilität</style> und <style=\"accent-gn\">Ausdauer</style> sowie <style=\"accent-gn\">1,5 %</style> <style=\"accent-gn\">Krit</style>, <style=\"accent-gn\">Tempo</style>, <style=\"accent-gn\">Glück</style>, <style=\"accent-gn\">Meisterschaft</style> und <style=\"accent-gn\">Vielseitigkeit</style>.",
+    "Id": 1107,
+    "Par": 3401107,
+    "ShowRule": 1,
+    "Text": "Inspiration",
+    "Type": 3
+  },
+  "1108": {
+    "Description": "Wenn eine heilende <style=\"accent-gn\">Expertisenfertigkeit</style> oder <style=\"accent-gn\">Ultimative Fertigkeit</style> LP wiederherstellt, werden <style=\"accent-gn\">2</style> <style=\"accent-gn\">Regenerationsknospen</style> verbraucht und es wird ein <style=\"accent-gn\">Nährsamen</style> geschleudert, einmal pro <style=\"accent-gn\">1 Sek</style>.<br>Wenn eine SCHD-<style=\"accent-gn\">Expertisenfertigkeit</style> oder SCHD-<style=\"accent-gn\">Ultimative Fertigkeit</style> SCHD verursacht, werden <style=\"accent-gn\">2</style> <style=\"accent-gn\">Regenerationsknospen</style> verbraucht und es wird einmal <style=\"accent-gn\">Wildsaat</style> abgefeuert, einmal <style=\"accent-gn\">pro</style> Sekunde.",
+    "Id": 1108,
+    "Par": 3401108,
+    "ShowRule": 1,
+    "Text": "Regenerationsknospe",
+    "Type": 3
+  },
+  "1109": {
+    "Description": "Die Heilungskette springt zwischen den Verbündeten hin und her und stellt LP in Höhe von <style=\"accent-gn\">40 %</style> des ANG pro Abpraller wieder her. Startet mit <style=\"accent-gn\">2</style> Abprallern.",
+    "Id": 1109,
+    "Par": 3401109,
+    "ShowRule": 1,
+    "Text": "Heilungskette",
+    "Type": 3
+  },
+  "1110": {
+    "Description": "Verbreitet sich bis zu <style=\"accent-gn\">20 m</style> nach außen und stellt LP in Höhe von <style=\"accent-gn\">150 %</style> des ANG bei allen getroffenen Verbündeten wieder her.",
+    "Id": 1110,
+    "Par": 3401110,
+    "ShowRule": 1,
+    "Text": "Heilungsimpuls",
+    "Type": 3
+  },
+  "1111": {
+    "Description": "Gewährt einem Verbündeten einen <style=\"accent-gn\">Schild</style> in Höhe von <style=\"accent-gn\">150 %</style> des ANG für <style=\"accent-gn\">5 Sek</style>.",
+    "Id": 1111,
+    "Par": 3401111,
+    "ShowRule": 1,
+    "Text": "Naturschild",
+    "Type": 3
+  },
+  "1112": {
+    "Description": "",
+    "Id": 1112,
+    "Par": 3401112,
+    "ShowRule": 1,
+    "Text": "Hirschangriff",
+    "Type": 3
+  },
+  "1113": {
+    "Description": "Stellt automatisch LP in Höhe von <style=\"accent-gn\">60 %</style> des ANG bei Verbündeten innerhalb von <style=\"accent-gn\">3 m</style> wieder her.",
+    "Id": 1113,
+    "Par": 3401113,
+    "ShowRule": 1,
+    "Text": "Heilungskugel",
+    "Type": 3
+  },
+  "1114": {
+    "Description": "Innerhalb von <style=\"accent-gn\">3 m</style> um die <style=\"accent-gn\">Engrammkugel</style> wird <style=\"accent-gn\">1</style> <style=\"accent-gn\">Regenerationsknospe</style> erhalten. Die <style=\"accent-gn\">Engrammkugel</style> hat eine Dauer von bis zu <style=\"accent-gn\">3 Sek</style>.",
+    "Id": 1114,
+    "Par": 3401114,
+    "ShowRule": 1,
+    "Text": "Engramm-Kugel",
+    "Type": 3
+  },
+  "1115": {
+    "Description": "Beim Aufprall auf den Boden werden LP in Höhe von <style=\"accent-gn\">40 %</style> des ANG bei allen Verbündeten wiederhergestellt.",
+    "Id": 1115,
+    "Par": 3401115,
+    "ShowRule": 1,
+    "Text": "Nährsaat",
+    "Type": 3
+  },
+  "1116": {
+    "Description": "Explodiert bei Kontakt mit einem Gegner und verursacht <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG.",
+    "Id": 1116,
+    "Par": 3401116,
+    "ShowRule": 1,
+    "Text": "Wildsaat",
+    "Type": 3
+  },
+  "1117": {
+    "Description": "Verursacht beim Gegner für <style=\"accent-gn\">10 Sek.</style> <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">20 %</style> des ANG pro Sekunde.",
+    "Id": 1117,
+    "Par": 3401117,
+    "ShowRule": 1,
+    "Text": "Dorn",
+    "Type": 3
+  },
+  "1118": {
+    "Description": "",
+    "Id": 1118,
+    "Par": 3401118,
+    "ShowRule": 1,
+    "Text": "Blumenstängel",
+    "Type": 3
+  },
+  "1119": {
+    "Description": "Die nächste eingesetzte <style=\"accent-gn\">Expertisefähigkeit</style> verkürzt ihre AZ um <style=\"accent-gn\">50 %</style>.",
+    "Id": 1119,
+    "Par": 3401119,
+    "ShowRule": 1,
+    "Text": "Karmesin-Erkenntnis",
+    "Type": 3
+  },
+  "1120": {
+    "Description": "Nach dem nächsten Wirken einer <style=\"accent-gn\">Expertisefähigkeit</style> erhöht sich deine Heilung für <style=\"accent-gn\">10 Sek.</style> um <style=\"accent-gn\">20 %</style>.",
+    "Id": 1120,
+    "Par": 3401120,
+    "ShowRule": 1,
+    "Text": "Goldene Hingabe",
+    "Type": 3
+  },
+  "1121": {
+    "Description": "Die nächste <style=\"accent-gn\">Lebensblüte</style> gewährt dem Ziel einen <style=\"accent-gn\">Schild</style> für <style=\"accent-gn\">8 Sek</style>, der SCH in Höhe von <style=\"accent-gn\">200 %</style> des ANG absorbiert. Ziele mit dem <style=\"accent-gn\">Schild</style> erleiden <style=\"accent-gn\">10 %</style> weniger SCH durch alle Quellen.",
+    "Id": 1121,
+    "Par": 3401121,
+    "ShowRule": 1,
+    "Text": "Mondschein-Trost",
+    "Type": 3
+  },
+  "1122": {
+    "Description": "Wenn SCH erlitten wird und der eigene LP-Prozentsatz höher ist als der des Angreifers, verringert sich der durch Angreifer erlittene SCH um <style=\"accent-gn\">10 %</style>.<br>Wenn SCH verursacht wird und der eigene LP-Prozentsatz höher ist als der des Ziels, erhöht sich der Zielen zugefügte SCH um <style=\"accent-gn\">10 %</style>.",
+    "Id": 1122,
+    "Par": 3401122,
+    "ShowRule": 1,
+    "Text": "Unterdrücken",
+    "Type": 3
+  },
+  "1123": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">50 %</style> des ANG bei einem Gegner und gewährt <style=\"accent-gn\">1</style> <style=\"accent-gn\">Sandkristall</style>.",
+    "Id": 1123,
+    "Par": 3401123,
+    "ShowRule": 1,
+    "Text": "Schwachpunkt-Schlag",
+    "Type": 3
+  },
+  "1124": {
+    "Description": "Verbessert die Schildeffektivität für <style=\"accent-gn\">10 Sek.</style> um <style=\"accent-gn\">15 %</style>.",
+    "Id": 1124,
+    "Par": 3401124,
+    "ShowRule": 1,
+    "Text": "Verstärkte Erdfestung",
+    "Type": 3
+  },
+  "1125": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">3 m</style>, ignoriert <style=\"accent-gn\">Blocken</style> und erzeugt eine beträchtliche Bedrohung.",
+    "Id": 1125,
+    "Par": 3401125,
+    "ShowRule": 1,
+    "Text": "Konterzermalmer",
+    "Type": 3
+  },
+  "1126": {
+    "Description": "Beim Ausführen eines <style=\"accent-gn\">Blockens</style> wird eine Chance gewährt, <style=\"accent-gn\">Glücksblocken</style> basierend auf dem Glücksprozentsatz auszulösen.",
+    "Id": 1126,
+    "Par": 3401126,
+    "ShowRule": 1,
+    "Text": "Glücksblocken",
+    "Type": 3
+  },
+  "1127": {
+    "Description": "Für die nächsten <style=\"accent-gn\">7 Sek.</style> wird <style=\"accent-gn\">Schildschlag</style> eine Zwei-Treffer-Kombo und kostet keine <style=\"accent-gn\">Wut</style> oder <style=\"accent-gn\">Sandkristalle</style>, was dir außerdem einen <style=\"accent-gn\">Schild</style> gewährt. Der Effekt endet nach dem Einsatz von <style=\"accent-gn\">Schildschlag</style>.",
+    "Id": 1127,
+    "Par": 3401127,
+    "ShowRule": 1,
+    "Text": "Schildkombo",
+    "Type": 3
+  },
+  "1128": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">300 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">5 m</style>. Für die nächsten <style=\"accent-gn\">5 Sek.</style> stellst du <style=\"accent-gn\">20</style> <style=\"accent-gn\">Wut</style> nach jeweils <style=\"accent-gn\">1 Sek.</style> wieder her. Dieser Effekt ist nicht stapelbar.",
+    "Id": 1128,
+    "Par": 3401128,
+    "ShowRule": 1,
+    "Text": "Schildecho",
+    "Type": 3
+  },
+  "1129": {
+    "Description": "Verringert den erlittenen SCH um <style=\"accent-gn\">50 %</style> und erhöht die erhaltene Heilung für <style=\"accent-gn\">10 Sek.</style> um <style=\"accent-gn\">30 %</style>.",
+    "Id": 1129,
+    "Par": 3401129,
+    "ShowRule": 1,
+    "Text": "Überlebensinstinkt",
+    "Type": 3
+  },
+  "1130": {
+    "Description": "Stellt pro Sekunde <style=\"accent-gn\">3 %</style> der maximalen <style=\"accent-gn\">Eisenergie</style> wieder her (skaliert mit Meisterschaft und Tempo) und hält <style=\"accent-gn\">10 Sek.</style> lang an.",
+    "Id": 1130,
+    "Par": 3401130,
+    "ShowRule": 1,
+    "Text": "Gesetz der Energiewoge",
+    "Type": 3
+  },
+  "1131": {
+    "Description": "Trifft <style=\"accent-gn\">1</style> Gegner, der am nächsten steht, und verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">70 %</style> des ANG.",
+    "Id": 1131,
+    "Par": 3401131,
+    "ShowRule": 1,
+    "Text": "Granit",
+    "Type": 3
+  },
+  "1132": {
+    "Description": "Bewegt sich gewaltsam in Nahkampfreichweite, um das Ziel anzugreifen.",
+    "Id": 1132,
+    "Par": 3401132,
+    "ShowRule": 1,
+    "Text": "Blenden",
+    "Type": 3
+  },
+  "1133": {
+    "Description": "<style=\"accent-gn\">Heroische Melodie</style> oder <style=\"accent-gn\">Heilende Melodie</style>",
+    "Id": 1133,
+    "Par": 3401133,
+    "ShowRule": 1,
+    "Text": "Melodie",
+    "Type": 3
+  },
+  "1134": {
+    "Description": "Eine verbesserte Version von <style=\"accent-gn\">Wutausbruch</style>, die riesige Steine um den Wirker herum beschwört, die dann explodieren und <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">750 %</style> des ANG verursachen (der mit Stufe/Rang von <style=\"accent-gn\">Wutausbruch</style> skaliert). <br>Verbraucht keine <style=\"accent-gn\">Sandkristalle</style>.",
+    "Id": 1134,
+    "Par": 3401134,
+    "ShowRule": 1,
+    "Text": "Erdentzweiung",
+    "Type": 3
+  },
+  "1135": {
+    "Description": "Verursachter SCH <style=\"accent-gn\">+20 %</style>, Bewegung-GES <style=\"accent-gn\">+10 %</style> und gewährt <style=\"accent-gn\">Super-Rüstung</style>.",
+    "Id": 1135,
+    "Par": 3401135,
+    "ShowRule": 1,
+    "Text": "Erzürnt",
+    "Type": 3
+  },
+  "1136": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">300 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">3 m</style>.",
+    "Id": 1136,
+    "Par": 3401136,
+    "ShowRule": 1,
+    "Text": "Sandkristallschock",
+    "Type": 3
+  },
+  "1137": {
+    "Description": "Reduziert den vom Zauberwirker im Kreis erlittenen <style=\"magic\">Magie-SCH</style> um <style=\"accent-gn\">50 %</style>. Bei Verbündeten im Inneren (bis zu <style=\"accent-gn\">10</style>) werden <style=\"accent-gn\">50 %</style> des erlittenen Schadens direkt absorbiert.",
+    "Id": 1137,
+    "Par": 3401137,
+    "ShowRule": 1,
+    "Text": "Sandfeld",
+    "Type": 3
+  },
+  "1138": {
+    "Description": "Wenn <style=\"accent-gn\">Photonenenergie</style> voll ist, erlaubt der Einsatz eines <style=\"accent-gn\">Spezialangriffs</style>, in <style=\"accent-gn\">Photonenumschmiedung</style> einzutreten. In diesem Zustand werden <style=\"accent-gn\">Spezialangriffe</style> und bestimmte <style=\"accent-gn\">Expertise</style> verbessert. <style=\"accent-gn\">Photonenumschmiedung</style> wird allmählich aufgebraucht und der Zustand endet, wenn der Wert <style=\"accent-gn\">0</style> erreicht ist.",
+    "Id": 1138,
+    "Par": 3401138,
+    "ShowRule": 1,
+    "Text": "Photonenumschmiedung",
+    "Type": 3
+  },
+  "1139": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">80 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">5 m</style>. Für jeden weiteren getroffenen Gegner erhöht sich der verursachte SCH um <style=\"accent-gn\">30 %</style> (bis zu +<style=\"accent-gn\">120 %</style>, skaliert mit Stufe/Rang des <style=\"accent-gn\">Standardangriffs</style>).",
+    "Id": 1139,
+    "Par": 3401139,
+    "ShowRule": 1,
+    "Text": "Schwanzfeger",
+    "Type": 3
+  },
+  "1140": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG bei einem Gegner und belegt ihn mit <style=\"accent-gn\">Bluten</style>.",
+    "Id": 1140,
+    "Par": 3401140,
+    "ShowRule": 1,
+    "Text": "Sprung und Biss",
+    "Type": 3
+  },
+  "1141": {
+    "Description": "Der Effekt dauert <style=\"accent-gn\">5 Sek.</style> an und verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">10 %</style> des ANG pro Sekunde. Beim erneuten Einsatz aus derselben Quelle, ehe das vorherige <style=\"accent-gn\">Bluten</style> endet, wird der gesamte verbleibende SCH des vorherigen <style=\"accent-gn\">Blutens</style> sofort verursacht.",
+    "Id": 1141,
+    "Par": 3401141,
+    "ShowRule": 1,
+    "Text": "Bluten",
+    "Type": 3
+  },
+  "1142": {
+    "Description": "Verursacht beim Gegner <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">50 %</style> des ANG.",
+    "Id": 1142,
+    "Par": 3401142,
+    "ShowRule": 1,
+    "Text": "Lichtsucher-Pfeil",
+    "Type": 3
+  },
+  "1143": {
+    "Description": "Verursacht beim Gegner <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">410 %</style> des ANG.",
+    "Id": 1143,
+    "Par": 3401143,
+    "ShowRule": 1,
+    "Text": "Blitzschlag",
+    "Type": 3
+  },
+  "1144": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">3 m</style>.",
+    "Id": 1144,
+    "Par": 3401144,
+    "ShowRule": 1,
+    "Text": "Explosivpfeil",
+    "Type": 3
+  },
+  "1145": {
+    "Description": "Verursacht bei Gegnern in Reichweite <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">250 %</style> des ANG.",
+    "Id": 1145,
+    "Par": 3401145,
+    "ShowRule": 1,
+    "Text": "Stampfer",
+    "Type": 3
+  },
+  "1146": {
+    "Description": "Schlägt an Ort und Stelle mit den Flügeln und erhöht die Zuwachsrate von Photonenenergie für die nächsten <style=\"accent-gn\">10</style> Sek. um <style=\"accent-gn\">100 %</style>.",
+    "Id": 1146,
+    "Par": 3401146,
+    "ShowRule": 1,
+    "Text": "Legendärer Adler",
+    "Type": 3
+  },
+  "1147": {
+    "Description": "Stößt ein lautes Heulen aus und erhöht den Lichtbonus für <style=\"accent-gn\">10 Sek.</style> um <style=\"accent-gn\">50 %</style>.",
+    "Id": 1147,
+    "Par": 3401147,
+    "ShowRule": 1,
+    "Text": "Legendärers Wildschwein",
+    "Type": 3
+  },
+  "1148": {
+    "Description": "Wenn die Stapel von <style=\"accent-gn\">Stahlschnabel</style> mindestens den Wert <style=\"accent-gn\">5</style> erreichen, hat jeder zusätzlich erhaltene Stapel von <style=\"accent-gn\">Stahlschnabel</style> eine feste Chance von <style=\"accent-gn\">30 %</style>, eine <style=\"accent-gn\">Implosion</style> auszulösen, die bei Gegnern in Reichweite <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG verursacht. <style=\"accent-gn\">Stahlschnabel</style> verliert <style=\"accent-gn\">pro</style> Sekunde <style=\"accent-gn\">1</style> Stapel und ist bis zu <style=\"accent-gn\">20</style>-mal stapelbar.",
+    "Id": 1148,
+    "Par": 3401148,
+    "ShowRule": 1,
+    "Text": "Stahlschnabel",
+    "Type": 3
+  },
+  "1149": {
+    "Description": "Löst einen Sturm mit einem Radius von <style=\"accent-gn\">5 m</style> aus, der alle <style=\"accent-gn\">0</style>,<style=\"accent-gn\">5 Sek.</style> <style=\"accent-gn\">80 %</style> des ANG als <style=\"magic\">Angriff-SCH</style> verursacht, der die Rüstung von Zielen ignoriert, die im Sturm stehen und mit <style=\"accent-gn\">Stahlschnabel</style> markiert sind. Nach <style=\"accent-gn\">5 Sek.</style> stürzt der <style=\"accent-gn\">Himmlische Adler</style> auf den Boden herab, verursacht <style=\"accent-gn\">500 %</style> des ANG als <style=\"magic\">Angriff-SCH</style> und ignoriert dabei Rüstung.",
+    "Id": 1149,
+    "Par": 3401149,
+    "ShowRule": 1,
+    "Text": "Himmlischer Adler",
+    "Type": 3
+  },
+  "1150": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">400 %</style> des ANG beim Gegner.",
+    "Id": 1150,
+    "Par": 3401150,
+    "ShowRule": 1,
+    "Text": "Phantomfalke",
+    "Type": 3
+  },
+  "1151": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">35 %</style> des ANG beim Gegner (skaliert mit Stufe/Rang des <style=\"accent-gn\">Standardangriffs</style>).",
+    "Id": 1151,
+    "Par": 3401151,
+    "ShowRule": 1,
+    "Text": "Spaltpfeil",
+    "Type": 3
+  },
+  "1152": {
+    "Description": "ANG <style=\"accent-gn\">+5 %</style> für <style=\"accent-gn\">10 Sek</style>.",
+    "Id": 1152,
+    "Par": 3401152,
+    "ShowRule": 1,
+    "Text": "Scharf",
+    "Type": 3
+  },
+  "1153": {
+    "Description": "Das Ziel verliert für <style=\"accent-gn\">8 Sek.</style> LP in Höhe von <style=\"accent-gn\">25 %</style> des ANG pro Sekunde.",
+    "Id": 1153,
+    "Par": 3401153,
+    "ShowRule": 1,
+    "Text": "Zerfleischen",
+    "Type": 3
+  },
+  "1154": {
+    "Description": "<style=\"accent-gn\">Zerfleischen</style>-SCH <style=\"accent-gn\">+100 %</style> für <style=\"accent-gn\">5 Sek</style>.",
+    "Id": 1154,
+    "Par": 3401154,
+    "ShowRule": 1,
+    "Text": "Ausbruch",
+    "Type": 3
+  },
+  "1155": {
+    "Description": "<style=\"accent-gn\">Stärke</style> <style=\"accent-gn\">+30 %</style> für <style=\"accent-gn\">12 Sek</style>.",
+    "Id": 1155,
+    "Par": 3401155,
+    "ShowRule": 1,
+    "Text": "Kraftspitze",
+    "Type": 3
+  },
+  "1156": {
+    "Description": "Glückseffekt: Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">150 %</style> des ANG.",
+    "Id": 1156,
+    "Par": 3401156,
+    "ShowRule": 1,
+    "Text": "Speerstoß",
+    "Type": 3
+  },
+  "1157": {
+    "Description": "SCH von <style=\"accent-gn\">Sofortiger Vorteil</style> <style=\"accent-gn\">+30 %</style> für <style=\"accent-gn\">10 Sek</style>. Stapelt sich bis zu <style=\"accent-gn\">2</style>-mal, und 1 Stapel wird nach dem Einsatz von <style=\"accent-gn\">Sofortiger Vorteil</style> verbraucht.",
+    "Id": 1157,
+    "Par": 3401157,
+    "ShowRule": 1,
+    "Text": "Verfolgungsschritt",
+    "Type": 3
+  },
+  "1158": {
+    "Description": "Verursacht bei Gegnern in Reichweite <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">350 %</style> des ANG.",
+    "Id": 1158,
+    "Par": 3401158,
+    "ShowRule": 1,
+    "Text": "Tornado",
+    "Type": 3
+  },
+  "1159": {
+    "Description": "Eine verbesserte Version von <style=\"accent-gn\">Schriller Aufprall</style>. Springt in die Luft, verursacht insgesamt <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">800 %</style> des ANG beim Ziel und Gegnern in der Nähe (skaliert mit Stufe/Rang von <style=\"accent-gn\">Schriller Aufprall</style>)",
+    "Id": 1159,
+    "Par": 3401159,
+    "ShowRule": 1,
+    "Text": "Taifun: Schriller Aufprall",
+    "Type": 3
+  },
+  "1160": {
+    "Description": "Wenn Eismeteor SCH verursacht, feuert der <style=\"accent-gn\">Eiskristallkern</style> einen <style=\"accent-gn\">Eispfeil</style> ab und gewährt 1 <style=\"accent-gn\">Frostkristall</style>.",
+    "Id": 1160,
+    "Par": 3401160,
+    "ShowRule": 1,
+    "Text": "Talent: Splitterschlag",
+    "Type": 3
+  },
+  "1161": {
+    "Description": "Gewährt bestimmten Fähigkeiten zusätzliche Effekte.",
+    "Id": 1161,
+    "Par": 3401161,
+    "ShowRule": 1,
+    "Text": "Frostkristall",
+    "Type": 3
+  },
+  "1162": {
+    "Description": "Verursacht beim Ziel <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG.",
+    "Id": 1162,
+    "Par": 3401162,
+    "ShowRule": 1,
+    "Text": "Eisbolzen",
+    "Type": 3
+  },
+  "1163": {
+    "Description": "Verursacht <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">3 m</style>.",
+    "Id": 1163,
+    "Par": 3401163,
+    "ShowRule": 1,
+    "Text": "Frostschock",
+    "Type": 3
+  },
+  "1164": {
+    "Description": "Schleudert eine <style=\"accent-gn\">Frostlanze</style>, die Ziele durchdringt und <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">250 %</style> des ANG verursacht.",
+    "Id": 1164,
+    "Par": 3401164,
+    "ShowRule": 1,
+    "Text": "Durchdringende Eislanze",
+    "Type": 3
+  },
+  "1165": {
+    "Description": "Glückseffekt: Beschwört einen <style=\"accent-gn\">Frostkometen</style> vom Himmel, der dem Gegner <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">200 %</style> des ANG zufügt.",
+    "Id": 1165,
+    "Par": 3401165,
+    "ShowRule": 1,
+    "Text": "Frostkomet",
+    "Type": 3
+  },
+  "1166": {
+    "Description": "Entfesselt einen mächtigen Impuls des Eisstrahls, der <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">500 %</style> des ANG bei getroffenen Gegnern verursacht.",
+    "Id": 1166,
+    "Par": 3401166,
+    "ShowRule": 1,
+    "Text": "Kälteimpuls",
+    "Type": 3
+  },
+  "1167": {
+    "Description": "Gewährt <style=\"accent-gn\">2</style> <style=\"accent-gn\">Klingenwille</style> pro Sekunde. Startet mit einem Maximum von <style=\"accent-gn\">100</style> <style=\"accent-gn\">Klingenwille</style>.<br>Wenn <style=\"accent-gn\">Klingenwille</style> den Wert <style=\"accent-gn\">100</style> erreicht, wird der Einsatz von <style=\"accent-gn\">Iaido-Hieb</style> beträchtlich beschleunigt. Der Einsatz von <style=\"accent-gn\">Iaido-Hieb</style> verbraucht <style=\"accent-gn\">100</style> <style=\"accent-gn\">Klingenwille</style>.<br><style=\"accent-gn\">Klingenwille</style> kann auch als Ressource für <style=\"accent-gn\">Donnerschnitter</style> verwendet werden.",
+    "Id": 1167,
+    "Par": 3401167,
+    "ShowRule": 1,
+    "Text": "Klingenwille",
+    "Type": 3
+  },
+  "1168": {
+    "Description": "Verbessert die <style=\"accent-gn\">Schild </style>-Effektivität um <style=\"accent-gn\">3 %</style>. Der Effekt dauert <style=\"accent-gn\">10 Sek.</style> an und stapelt sich bis zu <style=\"accent-gn\">10</style>-mal.",
+    "Id": 1168,
+    "Par": 3401168,
+    "ShowRule": 1,
+    "Text": "Sandzuflucht",
+    "Type": 3
+  },
+  "1169": {
+    "Description": "Springt und verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">400 %</style> des ANG bei Gegnern in Reichweite. Löst immer <style=\"accent-gn\">Schwachpunkt-Schlag</style> aus (skaliert mit Stufe/Rang des <style=\"accent-gn\">Standardangriffs</style>).",
+    "Id": 1169,
+    "Par": 3401169,
+    "ShowRule": 1,
+    "Text": "Wutschlag",
+    "Type": 3
+  },
+  "1170": {
+    "Description": "Gewährt eine Chance auf ein <style=\"accent-gn\">Blocken</style> des <style=\"physical\">Angriff-SCH</style> und auf seine Reduktion um <style=\"accent-gn\">30 %</style>.",
+    "Id": 1170,
+    "Par": 3401170,
+    "ShowRule": 1,
+    "Text": "Blocken",
+    "Type": 3
+  },
+  "1171": {
+    "Description": "Macht das Ziel bewegungsunfähig und erhöht den erlittenen Eis-SCH um für <style=\"accent-gn\">10 Sek.</style> <style=\"accent-gn\">20 %</style>. Der Effekt wird beim Erleiden von SCH aufgehoben. Wird dieser Effekt schnell hintereinander angewendet, verkürzt sich die Gesamtdauer. Wirkt nicht bei Bossen.",
+    "Id": 1171,
+    "Par": 3401171,
+    "ShowRule": 1,
+    "Text": "Erstarrt",
+    "Type": 3
+  },
+  "1172": {
+    "Description": "Durchdringt den Schild mit Licht, was <style=\"accent-gn\">50 %</style> des erlittenen SCH absorbiert. Der Effekt kann die Absorbierung stapeln und die Dauer zurücksetzen, wenn die Fähigkeit erneut eingesetzt wird. Die max. Absorbierung kann <style=\"accent-gn\">100 %</style> der Max. LP nicht überschreiten.",
+    "Id": 1172,
+    "Par": 3401172,
+    "ShowRule": 1,
+    "Text": "Strahlender Schild",
+    "Type": 3
+  },
+  "1173": {
+    "Description": "Stellt alle <style=\"accent-gn\">0,5 Sek.</style> für <style=\"accent-gn\">5 Sek.</style> LP in Höhe von <style=\"accent-gn\">20 %</style> des ANG für Verbündete wieder her.",
+    "Id": 1173,
+    "Par": 3401173,
+    "ShowRule": 1,
+    "Text": "Schallwoge",
+    "Type": 3
+  },
+  "1174": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">150 %</style> des ANG beim Gegner.",
+    "Id": 1174,
+    "Par": 3401174,
+    "ShowRule": 1,
+    "Text": "Strahlende Wirkung",
+    "Type": 3
+  },
+  "1175": {
+    "Description": "Jeder Stapel erhöht die max. LP um <style=\"accent-gn\">2 %</style> und <style=\"accent-gn\">Lichtgeschmiedete Barriere</style> stapelt sich bis zu <style=\"accent-gn\">10</style>-mal. Jeder erlittene SCH verbraucht <style=\"accent-gn\">1</style> Stapel. Der Effekt dauert <style=\"accent-gn\">25 Sek.</style> an oder bis alle Stapel verbraucht sind. Die Dauer wird nach jedem Erhalt eines neuen Stapels zurückgesetzt.",
+    "Id": 1175,
+    "Par": 3401175,
+    "ShowRule": 1,
+    "Text": "Lichtgeschmiedete Barriere",
+    "Type": 3
+  },
+  "1176": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">240 %</style> des ANG beim Ziel, der mit Stufe/Rang von <style=\"accent-gn\">Vorhutangriff</style> skaliert. <br>Wenn <style=\"accent-gn\">Vorhutjagd</style> SCH verursacht, werden <style=\"accent-gn\">2 %</style> der Max. LP wiederhergestellt und es wird <style=\"accent-gn\">Kühne Furchtlosigkeit</style> gewährt.",
+    "Id": 1176,
+    "Par": 3401176,
+    "ShowRule": 1,
+    "Text": "Vorhutjagd",
+    "Type": 3
+  },
+  "1177": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">50 %</style> des ANG, und die Bewegungsgeschwindigkeit des Ziels wird um <style=\"accent-gn\">25 %</style> verringert.",
+    "Id": 1177,
+    "Par": 3401177,
+    "ShowRule": 1,
+    "Text": "Göttlicher Schlag",
+    "Type": 3
+  },
+  "1178": {
+    "Description": "<style=\"accent-gn\">Melodie</style> (Beschr.)",
+    "Id": 1178,
+    "Par": 3401178,
+    "ShowRule": 1,
+    "Text": "Melodie",
+    "Type": 3
+  },
+  "1179": {
+    "Description": "<style=\"accent-gn\">Stärke</style> <style=\"accent-gn\">+12 %</style> für <style=\"accent-gn\">8 Sek</style>.",
+    "Id": 1179,
+    "Par": 3401179,
+    "ShowRule": 1,
+    "Text": "Unwetterschlag",
+    "Type": 3
+  },
+  "1180": {
+    "Description": "Schießt eine Saitennote auf einen Gegner/Verbündeten in der Nähe und verursacht SCH/Heilung in Höhe von <style=\"accent-gn\">50 %</style> des höchsten ANG oder M.ANG.",
+    "Id": 1180,
+    "Par": 3401180,
+    "ShowRule": 1,
+    "Text": "Zugabe",
+    "Type": 3
+  },
+  "1181": {
+    "Description": "<style=\"accent-gn\">Intelligenz</style> <style=\"accent-gn\">+5 %</style> für <style=\"accent-gn\">6 Sek</style>.",
+    "Id": 1181,
+    "Par": 3401181,
+    "ShowRule": 1,
+    "Text": "Feurige Leidenschaft",
+    "Type": 3
+  },
+  "1182": {
+    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">50 %</style> × Stapel des ANG pro Sekunde für <style=\"accent-gn\">10 Sek</style>.",
+    "Id": 1182,
+    "Par": 3401182,
+    "ShowRule": 1,
+    "Text": "Verbrennung",
+    "Type": 3
+  },
+  "1183": {
+    "Description": "<style=\"accent-gn\">Note</style> (Beschr.)",
+    "Id": 1183,
+    "Par": 3401183,
+    "ShowRule": 1,
+    "Text": "Note",
+    "Type": 3
+  },
+  "1184": {
+    "Description": "<style=\"accent-gn\">Schallwellenwoge</style>",
+    "Id": 1184,
+    "Par": 3401184,
+    "ShowRule": 1,
+    "Text": "Schallwellenwoge",
+    "Type": 3
+  },
+  "1185": {
+    "Description": "Wendet Heilung bei verbündeten Zielen in der Nähe in Höhe von <style=\"accent-gn\">10 %</style> des M.ANG des Beat-Performers an.",
+    "Id": 1185,
+    "Par": 3401185,
+    "ShowRule": 1,
+    "Text": "Heilwelle",
+    "Type": 3
+  },
+  "1186": {
+    "Description": "<style=\"accent-gn\">Schallmauer</style>",
+    "Id": 1186,
+    "Par": 3401186,
+    "ShowRule": 1,
+    "Text": "Schallmauer",
+    "Type": 3
+  },
+  "1187": {
+    "Description": "Erhöht für <style=\"accent-gn\">15 Sek.</style> den verursachten SCH um <style=\"accent-gn\">15 %</style> und die Angriff-GES um <style=\"accent-gn\">10 %</style>.",
+    "Id": 1187,
+    "Par": 3401187,
+    "ShowRule": 1,
+    "Text": "Windwut",
+    "Type": 3
+  },
+  "1188": {
+    "Description": "Verursacht <style=\"accent-gn\">80 %</style> des ANG-<style=\"physical\">Angriff-SCH</style> bei gegnerischen Zielen.",
+    "Id": 1188,
+    "Par": 3401188,
+    "ShowRule": 1,
+    "Text": "Photonenpfeil",
+    "Type": 3
+  },
+  "1189": {
+    "Description": "Verursacht <style=\"accent-gn\">300 %</style> des ANG-<style=\"magic\">Magie-SCH</style> bei gegnerischen Zielen um sich selbst.",
+    "Id": 1189,
+    "Par": 3401189,
+    "ShowRule": 1,
+    "Text": "Grüner Einschlag",
+    "Type": 3
+  },
+  "1190": {
+    "Description": "Verursacht <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">60 %</style> des ANG bei Gegnern in Reichweite (der mit Stufe/Rang des <style=\"accent-gn\">Standardangriffs</style> skaliert).",
+    "Id": 1190,
+    "Par": 3401190,
+    "ShowRule": 1,
+    "Text": "Flammensäulen-Explosion",
+    "Type": 3
+  },
+  "1191": {
+    "Description": "Entfesselt eine feurige Schockwelle innerhalb von <style=\"accent-gn\">5</style> Metern, die <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG bei getroffenen Gegnern verursacht.",
+    "Id": 1191,
+    "Par": 3401191,
+    "ShowRule": 1,
+    "Text": "Sengender Einschlag",
+    "Type": 3
+  },
+  "1192": {
+    "Description": "Stellt insgesamt LP in Höhe von <style=\"accent-gn\">35 %</style> des ANG innerhalb von <style=\"accent-gn\">10 Sek.</style> wieder her. Wenn erneut eine <style=\"accent-gn\">Note</style> gewährt wird, löst sie sofort die verbleibende Heilung der vorherigen <style=\"accent-gn\">Note</style> aus.",
+    "Id": 1192,
+    "Par": 3401192,
+    "ShowRule": 1,
+    "Text": "Note",
+    "Type": 3
+  },
+  "1193": {
+    "Description": "Wann immer eine <style=\"accent-gn\">Expertisefähigkeit</style> mit Schaden oder Heilung gewirkt wird, besteht eine feste Chance von <style=\"accent-gn\">50 %</style>, einmal <style=\"accent-gn\">Zugabe-Saiten</style> auszulösen, die entweder SCH beim aktuellen Ziel verursachen oder den Verbündeten mit den niedrigsten LP heilen (Gruppenmitglieder priorisiert).",
+    "Id": 1193,
+    "Par": 3401193,
+    "ShowRule": 1,
+    "Text": "Zugabe-Saiten",
+    "Type": 3
+  },
+  "1194": {
+    "Description": "Bewegt sich und kanalisiert 6 Sek. lang, während ständig Ausbruch der Leidenschaft nach vorne gewirkt wird.",
+    "Id": 1194,
+    "Par": 3401194,
+    "ShowRule": 1,
+    "Text": "Leidenschaftliche Wut",
+    "Type": 3
+  },
+  "1195": {
+    "Description": "Gewährt sofort <style=\"accent-gn\">100</style> <style=\"accent-gn\">Energie</style> und setzt die AZ aller <style=\"accent-gn\">Expertise</style> mit Heilung zurück. Erhöht den MANG um <style=\"accent-gn\">30 %</style> für <style=\"accent-gn\">10 Sek</style>.",
+    "Id": 1195,
+    "Par": 3401195,
+    "ShowRule": 1,
+    "Text": "Transzendenz",
+    "Type": 3
+  },
+  "1196": {
+    "Description": "Erhebt den Schild und greift nach vorn an und verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">200 %</style> des ANG bei allen getroffenen Gegnern.",
+    "Id": 1196,
+    "Par": 3401196,
+    "ShowRule": 1,
+    "Text": "Schildstoß",
+    "Type": 3
+  },
+  "1197": {
+    "Description": "Verursacht bei Gegnern in Reichweite <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG.",
+    "Id": 1197,
+    "Par": 3401197,
+    "ShowRule": 1,
+    "Text": "Flammenschock",
+    "Type": 3
+  },
+  "1198": {
+    "Description": "Nach <style=\"accent-gn\">10 Sek.</style> wird eine Explosion <style=\"accent-gn\">Heiliger Energie</style> im Umkreis entfesselt, die Angriff-SCH in Höhe von <style=\"accent-gn\">500 %</style> des <style=\"physical\">ANG</style> verursacht und <style=\"accent-gn\">15 %</style> der Max. LP wiederherstellt.",
+    "Id": 1198,
+    "Par": 3401198,
+    "ShowRule": 1,
+    "Text": "Strahlender Kern",
+    "Type": 3
+  },
+  "1199": {
+    "Description": "Das Ziel erleidet für die nächsten <style=\"accent-gn\">10 Sek.</style> SCH in Höhe von <style=\"accent-gn\">20 %</style> des ANG pro Sekunde. Wann immer dir das Ziel während dieser Zeit SCH zufügt, besteht eine feste Chance von <style=\"accent-gn\">10 %</style>, LP im Höhe von <style=\"accent-gn\">0,5 %</style> deiner max. LP wiederherzustellen.",
+    "Id": 1199,
+    "Par": 3401199,
+    "ShowRule": 1,
+    "Text": "Heiliges Mal",
+    "Type": 3
+  },
+  "1200": {
+    "Description": "Glückseffekt: Verursacht Adaptiv-SCH in Höhe von <style=\"accent-gn\">1.375 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">3 m</style>, kann aber keinen Krit verursachen.",
+    "Id": 1200,
+    "Par": 3401200,
+    "ShowRule": 1,
+    "Text": "Fantasieeinschlag",
+    "Type": 3
+  },
+  "1201": {
+    "Description": "Verursacht Adaptiv-SCH in Höhe von <style=\"accent-gn\">850 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">3 m</style> und der Krit-SCH erreicht <style=\"accent-gn\">500 %</style>.",
+    "Id": 1201,
+    "Par": 3401201,
+    "ShowRule": 1,
+    "Text": "Phantomhinrichtung",
+    "Type": 3
+  },
+  "1202": {
+    "Description": "Verursacht Adaptiv-SCH in Höhe von <style=\"accent-gn\">165 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">3 m</style>.",
+    "Id": 1202,
+    "Par": 3401202,
+    "ShowRule": 1,
+    "Text": "Phantompfeil",
+    "Type": 3
+  },
+  "1203": {
+    "Description": "Erhöht den ANG pro Stapel um <style=\"accent-gn\">18</style> (bis zu +<style=\"accent-gn\">50</style>, skaliert mit der Saisonstufe).",
+    "Id": 1203,
+    "Par": 3401203,
+    "ShowRule": 1,
+    "Text": "Trugbildtraum",
+    "Type": 3
+  },
+  "1204": {
+    "Description": "Erhöht die Hauptwerte um <style=\"accent-gn\">450</style> (bis zu <style=\"accent-gn\">1.050</style>, skaliert mit der Saisonstufe). Während der Wirkungsdauer kann kein Nachhall erhalten werden.",
+    "Id": 1204,
+    "Par": 3401204,
+    "ShowRule": 1,
+    "Text": "Traumkraft",
+    "Type": 3
+  },
+  "1205": {
+    "Description": "ANG −<style=\"accent-gn\">20 %</style>, erlittener Traum-SCH +<style=\"accent-gn\">10 %</style>, Bewegungsgeschwindigkeit −<style=\"accent-gn\">20 %</style> (nicht stapelbar).",
+    "Id": 1205,
+    "Par": 3401205,
+    "ShowRule": 1,
+    "Text": "Vergessenheit",
+    "Type": 3
+  },
+  "1206": {
+    "Description": "Verursacht Adaptiv-SCH in Höhe von <style=\"accent-gn\">200 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">5 m</style> und <linktext=3005><style=\"ItemQuality_5\">betäubt</style></linktext> sie für <style=\"accent-gn\">1</style>,<style=\"accent-gn\">5 Sek.</style>",
+    "Id": 1206,
+    "Par": 3401206,
+    "ShowRule": 1,
+    "Text": "Vernichtungsschlag",
+    "Type": 3
+  },
+  "1207": {
+    "Description": "Immun gegen den Tod.",
+    "Id": 1207,
+    "Par": 3401207,
+    "ShowRule": 1,
+    "Text": "Nahtod",
+    "Type": 3
+  },
+  "1208": {
+    "Description": "Verursacht Adaptiv-SCH in Höhe von <style=\"accent-gn\">330 %</style> der Rüstung bei Gegnern innerhalb von <style=\"accent-gn\">5 m</style>.",
+    "Id": 1208,
+    "Par": 3401208,
+    "ShowRule": 1,
+    "Text": "Zerschmetterte Illusion",
+    "Type": 3
+  },
+  "1209": {
+    "Description": "Max. LP +<style=\"accent-gn\">3 %</style>, Meisterschaft +<style=\"accent-gn\">2 %</style>, bis zu <style=\"accent-gn\">3</style>-mal stapelbar.",
+    "Id": 1209,
+    "Par": 3401209,
+    "ShowRule": 1,
+    "Text": "Endloser Geist",
+    "Type": 3
+  },
+  "1210": {
+    "Description": "Je <style=\"accent-gn\">2</style> STÄ/INT/AGI werden in <style=\"accent-gn\">1</style> ANG umgewandelt.<br>Je <style=\"accent-gn\">1</style> Ausdauer wird in <style=\"accent-gn\">8</style> Max. LP umgewandelt.<br>Jedes <style=\"accent-gn\">1 %</style> Tempo wird in <style=\"accent-gn\">0,6 %</style> Angriff-GES und <style=\"accent-gn\">1 %</style> Zauber-GES umgewandelt.<br>Jedes <style=\"accent-gn\">1 %</style> Vielseitigkeit erhöht verursachten SCH, Heilung und Schilde um <style=\"accent-gn\">0,35 %</style> sowie die SCH-Reduktion um <style=\"accent-gn\">0,15 %</style>.<br>Jedes <style=\"accent-gn\">1 %</style> Meisterschaft wird in einen universellen Schadensbonus von <style=\"accent-gn\">0,5 %</style> umgewandelt.",
+    "Id": 1210,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Macht des Handwerkers",
+    "Type": 1
+  },
+  "1211": {
+    "Description": "Angriff-GES von <style=\"accent-gn\">Expertisefähigkeiten</style> +<style=\"accent-gn\">5 %</style> für <style=\"accent-gn\">10</style> Sek., bis zu <style=\"accent-gn\">5</style>-mal stapelbar.",
+    "Id": 1211,
+    "Par": 3401211,
+    "ShowRule": 1,
+    "Text": "Infernalische Kombo.",
+    "Type": 3
+  },
+  "1212": {
+    "Description": "Gewährt <style=\"accent-gn\">10 %</style> Feuerbonus für <style=\"accent-gn\">8</style> Sek.",
+    "Id": 1212,
+    "Par": 3401212,
+    "ShowRule": 1,
+    "Text": "Lohe.",
+    "Type": 3
+  },
+  "1213": {
+    "Description": "Verursacht <style=\"accent-gn\">10</style> Sek. lang alle <style=\"accent-gn\">2</style> Sek. <style=\"accent-gn\">35 % × Stapelanzahl</style> ANG als <style=\"physical\">Angriff-SCH</style>. Bis zu <style=\"accent-gn\">10</style>-mal stapelbar. Wenn <style=\"accent-gn\">Verbrennung</style> die maximalen Stapel erreicht, verursacht neu zugefügte <style=\"accent-gn\">Verbrennung</style> sofort <style=\"accent-gn\">35 %</style> ANG als <style=\"physical\">Angriff-SCH</style>.",
+    "Id": 1213,
+    "Par": 3401213,
+    "ShowRule": 1,
+    "Text": "Verbrennung.",
+    "Type": 3
+  },
+  "1214": {
+    "Description": "Verursacht <style=\"accent-gn\">800 %</style> ANG als <style=\"physical\">Angriff-SCH</style> bei Gegnern in Reichweite und gewährt <style=\"accent-gn\">10</style> <style=\"accent-gn\">Flammenseele</style>.",
+    "Id": 1214,
+    "Par": 3401214,
+    "ShowRule": 1,
+    "Text": "Explosion.",
+    "Type": 3
+  },
+  "1215": {
+    "Description": "Fügt feindlichen Zielen <style=\"accent-gn\">500 %</style> ANG als <style=\"physical\">Angriff-SCH</style> zu.",
+    "Id": 1215,
+    "Par": 3401215,
+    "ShowRule": 1,
+    "Text": "Höllenfeuer-Meteor.",
+    "Type": 3
+  },
+  "1216": {
+    "Description": "Jeder Treffer hat eine Chance, weitere Stufen basierend auf dem aktuellen Fähigkeitsmultiplikator hinzuzufügen:<br>Formloser Flammenhieb<style=\"accent-gn\"> Stufe 1</style> Chance: <style=\"accent-gn\">20 %</style>.<br>Formloser Flammenhieb<style=\"accent-gn\"> Stufe 2</style> Chance: <style=\"accent-gn\">10 %</style>.<br>Formloser Flammenhieb<style=\"accent-gn\"> Stufe 3</style> Chance: <style=\"accent-gn\">5 %</style>.",
+    "Id": 1216,
+    "Par": 3401216,
+    "ShowRule": 1,
+    "Text": "Formloser Flammenhieb.",
+    "Type": 3
+  },
+  "1217": {
+    "Description": "Fügt Gegnern in Reichweite <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">800 %</style> des ANG zu.",
+    "Id": 1217,
+    "Par": 3401217,
+    "ShowRule": 1,
+    "Text": "Großer Karmesin-Lotos",
+    "Type": 3
+  },
+  "1218": {
+    "Description": "Wenn SCH erlitten wird und der eigene LP-Prozentsatz höher ist als der des Angreifers, verringert sich der durch diesen Angreifer erlittene SCH um <style=\"accent-gn\">10 %</style>.<br>Wenn SCH verursacht wird und der eigene LP-Prozentsatz höher ist als der des Ziels, erhöht sich der diesem Ziel zugefügte SCH um <style=\"accent-gn\">5 %</style>.",
+    "Id": 1218,
+    "Par": 3401218,
+    "ShowRule": 1,
+    "Text": "Flammenunterdrückung",
+    "Type": 3
+  },
+  "1219": {
+    "Description": "Je <style=\"accent-gn\">2</style> STÄ/INT/AGI werden in <style=\"accent-gn\">1</style> ANG umgewandelt.<br>Je <style=\"accent-gn\">1</style> Ausdauer wird in <style=\"accent-gn\">8</style> Max. LP umgewandelt.<br><style=\"accent-gn\">Krit %</style>, <style=\"accent-gn\">Glück %</style>, <style=\"accent-gn\">Meisterschaft %</style>, <style=\"accent-gn\">Tempo %</style> und <style=\"accent-gn\">Vielseitigkeit %</style> verlieren ihre ursprünglichen Effekte und erhalten eine neue Fähigkeit: Der Fähigkeitenschaden der aktuellen Resonanzfähigkeit ist ein garantierter Krit, aber der Krit-SCH ist festgelegt und wird als Summe von <style=\"accent-gn\">Krit % + Glück % + Meisterschaft % + Tempo % + Vielseitigkeit %</style> berechnet.",
+    "Id": 1219,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Fähigkeitsumwandlung",
+    "Type": 1
+  },
+  "1500": {
+    "Description": "",
+    "Id": 1500,
+    "Par": 1714,
+    "ShowRule": 1,
+    "Text": "Iaido-Hieb",
+    "Type": 2
+  },
+  "1501": {
+    "Description": "",
+    "Id": 1501,
+    "Par": 1717,
+    "ShowRule": 1,
+    "Text": "Leuchtblitz",
+    "Type": 2
+  },
+  "1502": {
+    "Description": "",
+    "Id": 1502,
+    "Par": 1713,
+    "ShowRule": 1,
+    "Text": "Vergessenheit-Kombo",
+    "Type": 2
+  },
+  "1503": {
+    "Description": "",
+    "Id": 1503,
+    "Par": 1724,
+    "ShowRule": 1,
+    "Text": "Donnerschnitter",
+    "Type": 2
+  },
+  "1504": {
+    "Description": "",
+    "Id": 1504,
+    "Par": 1730,
+    "ShowRule": 1,
+    "Text": "Spannungsspitze",
+    "Type": 2
+  },
+  "1505": {
+    "Description": "",
+    "Id": 1505,
+    "Par": 1731,
+    "ShowRule": 1,
+    "Text": "Sturmblitz",
+    "Type": 2
+  },
+  "1506": {
+    "Description": "",
+    "Id": 1506,
+    "Par": 1738,
+    "ShowRule": 1,
+    "Text": "Chaosbrecher",
+    "Type": 2
+  },
+  "1507": {
+    "Description": "",
+    "Id": 1507,
+    "Par": 1715,
+    "ShowRule": 1,
+    "Text": "Mondschlag",
+    "Type": 2
+  },
+  "1508": {
+    "Description": "",
+    "Id": 1508,
+    "Par": 1246,
+    "ShowRule": 1,
+    "Text": "Gezeitenbecken",
+    "Type": 2
+  },
+  "1509": {
+    "Description": "",
+    "Id": 1509,
+    "Par": 1241,
+    "ShowRule": 1,
+    "Text": "Froststrahl",
+    "Type": 2
+  },
+  "1510": {
+    "Description": "",
+    "Id": 1510,
+    "Par": 1211,
+    "ShowRule": 1,
+    "Text": "Kristallschleier",
+    "Type": 2
+  },
+  "1511": {
+    "Description": "",
+    "Id": 1511,
+    "Par": 1239,
+    "ShowRule": 1,
+    "Text": "Meteorsturm",
+    "Type": 2
+  },
+  "1512": {
+    "Description": "",
+    "Id": 1512,
+    "Par": 1242,
+    "ShowRule": 1,
+    "Text": "Frostlanze",
+    "Type": 2
+  },
+  "1513": {
+    "Description": "",
+    "Id": 1513,
+    "Par": 1244,
+    "ShowRule": 1,
+    "Text": "Schneesturm",
+    "Type": 2
+  },
+  "1514": {
+    "Description": "",
+    "Id": 1514,
+    "Par": 1240,
+    "ShowRule": 1,
+    "Text": "Gefrorener Sturm",
+    "Type": 2
+  },
+  "1515": {
+    "Description": "",
+    "Id": 1515,
+    "Par": 1243,
+    "ShowRule": 1,
+    "Text": "Permafrost",
+    "Type": 2
+  },
+  "1516": {
+    "Description": "",
+    "Id": 1516,
+    "Par": 1248,
+    "ShowRule": 1,
+    "Text": "Gletscherhymne",
+    "Type": 2
+  },
+  "1517": {
+    "Description": "",
+    "Id": 1517,
+    "Par": 1418,
+    "ShowRule": 1,
+    "Text": "Sturmstoß",
+    "Type": 2
+  },
+  "1518": {
+    "Description": "",
+    "Id": 1518,
+    "Par": 1430,
+    "ShowRule": 1,
+    "Text": "Heldenmut-Zyklon",
+    "Type": 2
+  },
+  "1519": {
+    "Description": "",
+    "Id": 1519,
+    "Par": 1424,
+    "ShowRule": 1,
+    "Text": "Sofortiger Vorteil",
+    "Type": 2
+  },
+  "1520": {
+    "Description": "",
+    "Id": 1520,
+    "Par": 1419,
+    "ShowRule": 1,
+    "Text": "Himmelssturz",
+    "Type": 2
+  },
+  "1521": {
+    "Description": "",
+    "Id": 1521,
+    "Par": 1431,
+    "ShowRule": 1,
+    "Text": "Schriller Aufprall",
+    "Type": 2
+  },
+  "1522": {
+    "Description": "",
+    "Id": 1522,
+    "Par": 1422,
+    "ShowRule": 1,
+    "Text": "Durchbruch-Verfolgung",
+    "Type": 2
+  },
+  "1523": {
+    "Description": "",
+    "Id": 1523,
+    "Par": 1421,
+    "ShowRule": 1,
+    "Text": "Spiralstoß",
+    "Type": 2
+  },
+  "1524": {
+    "Description": "",
+    "Id": 1524,
+    "Par": 1425,
+    "ShowRule": 1,
+    "Text": "Falkenwurf",
+    "Type": 2
+  },
+  "1525": {
+    "Description": "",
+    "Id": 1525,
+    "Par": 1409,
+    "ShowRule": 1,
+    "Text": "Taifun-Spalter",
+    "Type": 2
+  },
+  "1526": {
+    "Description": "",
+    "Id": 1526,
+    "Par": 1518,
+    "ShowRule": 1,
+    "Text": "Wilde Blüte",
+    "Type": 2
+  },
+  "1527": {
+    "Description": "",
+    "Id": 1527,
+    "Par": 1507,
+    "ShowRule": 1,
+    "Text": "Lebensblüte",
+    "Type": 2
+  },
+  "1528": {
+    "Description": "",
+    "Id": 1528,
+    "Par": 1522,
+    "ShowRule": 1,
+    "Text": "Nähren",
+    "Type": 2
+  },
+  "1529": {
+    "Description": "",
+    "Id": 1529,
+    "Par": 1519,
+    "ShowRule": 1,
+    "Text": "Wilde Saat",
+    "Type": 2
+  },
+  "1530": {
+    "Description": "",
+    "Id": 1530,
+    "Par": 1520,
+    "ShowRule": 1,
+    "Text": "Infusion",
+    "Type": 2
+  },
+  "1531": {
+    "Description": "",
+    "Id": 1531,
+    "Par": 1509,
+    "ShowRule": 1,
+    "Text": "Göttliche Kreisblüte",
+    "Type": 2
+  },
+  "1532": {
+    "Description": "",
+    "Id": 1532,
+    "Par": 1523,
+    "ShowRule": 1,
+    "Text": "Regenerationsimpuls",
+    "Type": 2
+  },
+  "1533": {
+    "Description": "",
+    "Id": 1533,
+    "Par": 1529,
+    "ShowRule": 1,
+    "Text": "Blütenansturm",
+    "Type": 2
+  },
+  "1534": {
+    "Description": "",
+    "Id": 1534,
+    "Par": 1521,
+    "ShowRule": 1,
+    "Text": "Hainwunsch",
+    "Type": 2
+  },
+  "1535": {
+    "Description": "",
+    "Id": 1535,
+    "Par": 1531,
+    "ShowRule": 1,
+    "Text": "Naturschutz",
+    "Type": 2
+  },
+  "1536": {
+    "Description": "",
+    "Id": 1536,
+    "Par": 1907,
+    "ShowRule": 1,
+    "Text": "Krachendes Echo",
+    "Type": 2
+  },
+  "1537": {
+    "Description": "",
+    "Id": 1537,
+    "Par": 1924,
+    "ShowRule": 1,
+    "Text": "Sternzerstörung",
+    "Type": 2
+  },
+  "1538": {
+    "Description": "",
+    "Id": 1538,
+    "Par": 1931,
+    "ShowRule": 1,
+    "Text": "Konterzermalmer",
+    "Type": 2
+  },
+  "1539": {
+    "Description": "",
+    "Id": 1539,
+    "Par": 1937,
+    "ShowRule": 1,
+    "Text": "Granitfuror",
+    "Type": 2
+  },
+  "1540": {
+    "Description": "",
+    "Id": 1540,
+    "Par": 1922,
+    "ShowRule": 1,
+    "Text": "Schildschlag",
+    "Type": 2
+  },
+  "1541": {
+    "Description": "",
+    "Id": 1541,
+    "Par": 1927,
+    "ShowRule": 1,
+    "Text": "Sandschleier",
+    "Type": 2
+  },
+  "1542": {
+    "Description": "",
+    "Id": 1542,
+    "Par": 1936,
+    "ShowRule": 1,
+    "Text": "Steingestalt",
+    "Type": 2
+  },
+  "1543": {
+    "Description": "",
+    "Id": 1543,
+    "Par": 1938,
+    "ShowRule": 1,
+    "Text": "Tapfere Bastion",
+    "Type": 2
+  },
+  "1544": {
+    "Description": "",
+    "Id": 1544,
+    "Par": 1925,
+    "ShowRule": 1,
+    "Text": "Wutausbruch",
+    "Type": 2
+  },
+  "1545": {
+    "Description": "",
+    "Id": 1545,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Wogenschuss",
+    "Type": 2
+  },
+  "1546": {
+    "Description": "",
+    "Id": 1546,
+    "Par": 2209,
+    "ShowRule": 1,
+    "Text": "Leuchtbolzen",
+    "Type": 2
+  },
+  "1547": {
+    "Description": "",
+    "Id": 1547,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Doppelpfeil",
+    "Type": 2
+  },
+  "1548": {
+    "Description": "",
+    "Id": 1548,
+    "Par": 2238,
+    "ShowRule": 1,
+    "Text": "Sprengschuss",
+    "Type": 2
+  },
+  "1549": {
+    "Description": "",
+    "Id": 1549,
+    "Par": 2237,
+    "ShowRule": 1,
+    "Text": "Wildruf",
+    "Type": 2
+  },
+  "1550": {
+    "Description": "",
+    "Id": 1550,
+    "Par": 2232,
+    "ShowRule": 1,
+    "Text": "Pfeilregen",
+    "Type": 2
+  },
+  "1551": {
+    "Description": "",
+    "Id": 1551,
+    "Par": 1528,
+    "ShowRule": 1,
+    "Text": "Vitalwelle",
+    "Type": 2
+  },
+  "1552": {
+    "Description": "",
+    "Id": 1552,
+    "Par": 1527,
+    "ShowRule": 1,
+    "Text": "Blütenheilung",
+    "Type": 2
+  },
+  "1553": {
+    "Description": "",
+    "Id": 1553,
+    "Par": 1420,
+    "ShowRule": 1,
+    "Text": "Sturmform",
+    "Type": 2
+  },
+  "1554": {
+    "Description": "",
+    "Id": 1554,
+    "Par": 1718,
+    "ShowRule": 1,
+    "Text": "Raijin-Flitzer",
+    "Type": 2
+  },
+  "1555": {
+    "Description": "",
+    "Id": 1555,
+    "Par": 2231,
+    "ShowRule": 1,
+    "Text": "Fokus",
+    "Type": 2
+  },
+  "1556": {
+    "Description": "",
+    "Id": 1556,
+    "Par": 1705,
+    "ShowRule": 1,
+    "Text": "Overdrive",
+    "Type": 2
+  },
+  "1557": {
+    "Description": "",
+    "Id": 1557,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Quadralodern",
+    "Type": 2
+  },
+  "1558": {
+    "Description": "",
+    "Id": 1558,
+    "Par": 1210,
+    "ShowRule": 1,
+    "Text": "Mahlstrom",
+    "Type": 2
+  },
+  "1559": {
+    "Description": "",
+    "Id": 1559,
+    "Par": 2421,
+    "ShowRule": 1,
+    "Text": "Heilige Klinge",
+    "Type": 2
+  },
+  "1560": {
+    "Description": "",
+    "Id": 1560,
+    "Par": 2409,
+    "ShowRule": 1,
+    "Text": "Göttlicher Kreis",
+    "Type": 2
+  },
+  "1561": {
+    "Description": "",
+    "Id": 1561,
+    "Par": 2405,
+    "ShowRule": 1,
+    "Text": "Tapferkeitsschlag",
+    "Type": 2
+  },
+  "1562": {
+    "Description": "",
+    "Id": 1562,
+    "Par": 2408,
+    "ShowRule": 1,
+    "Text": "Schildwurf",
+    "Type": 2
+  },
+  "1563": {
+    "Description": "",
+    "Id": 1563,
+    "Par": 2412,
+    "ShowRule": 1,
+    "Text": "Abrechnung",
+    "Type": 2
+  },
+  "1564": {
+    "Description": "",
+    "Id": 1564,
+    "Par": 2410,
+    "ShowRule": 1,
+    "Text": "Urteil",
+    "Type": 2
+  },
+  "1565": {
+    "Description": "",
+    "Id": 1565,
+    "Par": 2415,
+    "ShowRule": 1,
+    "Text": "Ägis-Wächter",
+    "Type": 2
+  },
+  "1566": {
+    "Description": "",
+    "Id": 1566,
+    "Par": 2406,
+    "ShowRule": 1,
+    "Text": "Vorhutangriff",
+    "Type": 2
+  },
+  "1567": {
+    "Description": "",
+    "Id": 1567,
+    "Par": 2419,
+    "ShowRule": 1,
+    "Text": "Kreuzzug des Eifers",
+    "Type": 2
+  },
+  "1568": {
+    "Description": "",
+    "Id": 1568,
+    "Par": 2420,
+    "ShowRule": 1,
+    "Text": "Strahlen",
+    "Type": 2
+  },
+  "1569": {
+    "Description": "",
+    "Id": 1569,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Erhebende Melodie",
+    "Type": 2
+  },
+  "1570": {
+    "Description": "",
+    "Id": 1570,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Hitzewoge",
+    "Type": 2
+  },
+  "1571": {
+    "Description": "",
+    "Id": 1571,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Rhythmuswirbel",
+    "Type": 2
+  },
+  "1572": {
+    "Description": "",
+    "Id": 1572,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Leidenschaftliches Glissando",
+    "Type": 2
+  },
+  "1573": {
+    "Description": "",
+    "Id": 1573,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Volle Feuerkraft",
+    "Type": 2
+  },
+  "1574": {
+    "Description": "",
+    "Id": 1574,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Vitale Wiederbelebung",
+    "Type": 2
+  },
+  "1575": {
+    "Description": "",
+    "Id": 1575,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Erblühende Melodie",
+    "Type": 2
+  },
+  "1576": {
+    "Description": "",
+    "Id": 1576,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Leidenschaftliche Rhapsodie",
+    "Type": 2
+  },
+  "1577": {
+    "Description": "",
+    "Id": 1577,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Heilende Klangwelle",
+    "Type": 2
+  },
+  "1578": {
+    "Description": "",
+    "Id": 1578,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Explosive Note",
+    "Type": 2
+  },
+  "1579": {
+    "Description": "",
+    "Id": 1579,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "Bühnenrocken",
+    "Type": 2
+  },
+  "1580": {
+    "Description": "",
+    "Id": 1580,
+    "Par": 2230,
+    "ShowRule": 1,
+    "Text": "Sturzflutsalve",
+    "Type": 2
+  },
+  "1581": {
+    "Description": "",
+    "Id": 1581,
+    "Par": 2234,
+    "ShowRule": 1,
+    "Text": "Strahlungskanonade",
+    "Type": 2
+  },
+  "1582": {
+    "Description": "",
+    "Id": 1582,
+    "Par": 2233,
+    "ShowRule": 1,
+    "Text": "Kraftzug",
+    "Type": 2
+  },
+  "1583": {
+    "Description": "",
+    "Id": 1583,
+    "Par": 1524,
+    "ShowRule": 1,
+    "Text": "Schnelles Wachstum",
+    "Type": 2
+  },
+  "1584": {
+    "Description": "",
+    "Id": 1584,
+    "Par": 1735,
+    "ShowRule": 1,
+    "Text": "Drachenblitz",
+    "Type": 2
+  },
+  "1585": {
+    "Description": "",
+    "Id": 1585,
+    "Par": 1736,
+    "ShowRule": 1,
+    "Text": "Phantom-Hieb",
+    "Type": 2
+  },
+  "1586": {
+    "Description": "",
+    "Id": 1586,
+    "Par": 1733,
+    "ShowRule": 1,
+    "Text": "Sturmsense",
+    "Type": 2
+  },
+  "1587": {
+    "Description": "",
+    "Id": 1587,
+    "Par": 1737,
+    "ShowRule": 1,
+    "Text": "Göttliche Sichel",
+    "Type": 2
+  },
+  "1588": {
+    "Description": "",
+    "Id": 1588,
+    "Par": 1734,
+    "ShowRule": 1,
+    "Text": "Donnerschnitt",
+    "Type": 2
+  },
+  "1589": {
+    "Description": "",
+    "Id": 1589,
+    "Par": 1433,
+    "ShowRule": 1,
+    "Text": "Azur-Trennung",
+    "Type": 2
+  },
+  "1590": {
+    "Description": "",
+    "Id": 1590,
+    "Par": 1434,
+    "ShowRule": 1,
+    "Text": "Wirbelschlag",
+    "Type": 2
+  },
+  "1591": {
+    "Description": "",
+    "Id": 1591,
+    "Par": 1435,
+    "ShowRule": 1,
+    "Text": "Drachenkanone",
+    "Type": 2
+  },
+  "1592": {
+    "Description": "",
+    "Id": 1592,
+    "Par": 1411,
+    "ShowRule": 1,
+    "Text": "Schnelle Klinge",
+    "Type": 2
+  },
+  "1593": {
+    "Description": "",
+    "Id": 1593,
+    "Par": 1525,
+    "ShowRule": 1,
+    "Text": "Hirschangriff",
+    "Type": 2
+  },
+  "1594": {
+    "Description": "",
+    "Id": 1594,
+    "Par": 1941,
+    "ShowRule": 1,
+    "Text": "Sternfall",
+    "Type": 2
+  },
+  "1595": {
+    "Description": "",
+    "Id": 1595,
+    "Par": 1942,
+    "ShowRule": 1,
+    "Text": "Ausbruch",
+    "Type": 2
+  },
+  "1597": {
+    "Description": "",
+    "Id": 1597,
+    "Par": 1943,
+    "ShowRule": 1,
+    "Text": "Steinfaust",
+    "Type": 2
+  },
+  "1598": {
+    "Description": "",
+    "Id": 1598,
+    "Par": 2416,
+    "ShowRule": 1,
+    "Text": "Verurteilung",
+    "Type": 2
+  },
+  "1599": {
+    "Description": "",
+    "Id": 1599,
+    "Par": 2417,
+    "ShowRule": 1,
+    "Text": "Verbesserte Verurteilung",
+    "Type": 2
+  },
+  "1600": {
+    "Description": "",
+    "Id": 1600,
+    "Par": 2413,
+    "ShowRule": 1,
+    "Text": "Inferno-Abrechnung",
+    "Type": 2
+  },
+  "1601": {
+    "Description": "",
+    "Id": 1601,
+    "Par": 2220,
+    "ShowRule": 1,
+    "Text": "Sturmpfeil",
+    "Type": 2
+  },
+  "1602": {
+    "Description": "",
+    "Id": 1602,
+    "Par": 2240,
+    "ShowRule": 1,
+    "Text": "Lumi-Lawine",
+    "Type": 2
+  },
+  "1603": {
+    "Description": "",
+    "Id": 1603,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Rhapsodie der Flamme",
+    "Type": 2
+  },
+  "1604": {
+    "Description": "",
+    "Id": 1604,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Verstärkter Takt",
+    "Type": 2
+  },
+  "1605": {
+    "Description": "",
+    "Id": 1605,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Harmonische Hymne",
+    "Type": 2
+  },
+  "1606": {
+    "Description": "",
+    "Id": 1606,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Heilende Melodie",
+    "Type": 2
+  },
+  "1607": {
+    "Description": "",
+    "Id": 1607,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Fünffaches Crescendo",
+    "Type": 2
+  },
+  "1608": {
+    "Description": "",
+    "Id": 1608,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Ausbruch der Leidenschaft",
+    "Type": 2
+  },
+  "1609": {
+    "Description": "",
+    "Id": 1609,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Heilender Takt",
+    "Type": 2
+  },
+  "1610": {
+    "Description": "",
+    "Id": 1610,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Hauptbühne",
+    "Type": 2
+  },
+  "1611": {
+    "Description": "",
+    "Id": 1611,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "Bühnenrocken",
+    "Type": 2
+  },
+  "1612": {
+    "Description": "",
+    "Id": 1612,
+    "Par": 2335,
+    "ShowRule": 1,
+    "Text": "Unendliche Rhapsodie",
+    "Type": 2
+  },
+  "1613": {
+    "Description": "",
+    "Id": 1613,
+    "Par": 2336,
+    "ShowRule": 1,
+    "Text": "Konzert-Tournee",
+    "Type": 2
+  },
+  "1614": {
+    "Description": "",
+    "Id": 1614,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Heroische Melodie",
+    "Type": 2
+  },
+  "1615": {
+    "Description": "",
+    "Id": 1615,
+    "Par": 2317,
+    "ShowRule": 1,
+    "Text": "Heftiger Schlag",
+    "Type": 2
+  },
+  "1616": {
+    "Description": "",
+    "Id": 1616,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Zugabe",
+    "Type": 2
+  },
+  "1617": {
+    "Description": "",
+    "Id": 1617,
+    "Par": 2332,
+    "ShowRule": 1,
+    "Text": "Leidenschaftliche Wut",
+    "Type": 2
+  },
+  "1618": {
+    "Description": "",
+    "Id": 1618,
+    "Par": 2301,
+    "ShowRule": 1,
+    "Text": "Schwingende Saiten",
+    "Type": 2
+  },
+  "1619": {
+    "Description": "",
+    "Id": 1619,
+    "Par": 1605,
+    "ShowRule": 1,
+    "Text": "Lodernder Aufstieg.",
+    "Type": 2
+  },
+  "1620": {
+    "Description": "",
+    "Id": 1620,
+    "Par": 1619,
+    "ShowRule": 1,
+    "Text": "Aufsteigende Flamme.",
+    "Type": 2
+  },
+  "1621": {
+    "Description": "",
+    "Id": 1621,
+    "Par": 1606,
+    "ShowRule": 1,
+    "Text": "Rasender Hieb",
+    "Type": 2
+  },
+  "1622": {
+    "Description": "",
+    "Id": 1622,
+    "Par": 1607,
+    "ShowRule": 1,
+    "Text": "Lodernder Ansturm.",
+    "Type": 2
+  },
+  "1623": {
+    "Description": "",
+    "Id": 1623,
+    "Par": 1608,
+    "ShowRule": 1,
+    "Text": "Wutspalter.",
+    "Type": 2
+  },
+  "1624": {
+    "Description": "",
+    "Id": 1624,
+    "Par": 1612,
+    "ShowRule": 1,
+    "Text": "Axtwind",
+    "Type": 2
+  },
+  "1625": {
+    "Description": "",
+    "Id": 1625,
+    "Par": 1615,
+    "ShowRule": 1,
+    "Text": "Ödland-Ende.",
+    "Type": 2
+  },
+  "1626": {
+    "Description": "",
+    "Id": 1626,
+    "Par": 1613,
+    "ShowRule": 1,
+    "Text": "Wildfeuertanz.",
+    "Type": 2
+  },
+  "1627": {
+    "Description": "",
+    "Id": 1627,
+    "Par": 1614,
+    "ShowRule": 1,
+    "Text": "Entfesselter Meteor.",
+    "Type": 2
+  },
+  "1628": {
+    "Description": "",
+    "Id": 1628,
+    "Par": 1621,
+    "ShowRule": 1,
+    "Text": "Fallendes Höllenfeuer.",
+    "Type": 2
+  },
+  "1629": {
+    "Description": "",
+    "Id": 1629,
+    "Par": 1617,
+    "ShowRule": 1,
+    "Text": "Endloses Höllenfeuer",
+    "Type": 2
+  },
+  "1630": {
+    "Description": "",
+    "Id": 1630,
+    "Par": 1616,
+    "ShowRule": 1,
+    "Text": "Fließender Prachthieb.",
+    "Type": 2
+  },
+  "3000": {
+    "Description": "Unterbricht das Wirken des Ziels und versetzt die unterbrochene Fähigkeit in die AZ. Wirkt nicht bei Bossen.",
+    "Id": 3000,
+    "Par": 3403000,
+    "ShowRule": 1,
+    "Text": "Unterbrechen",
+    "Type": 3
+  },
+  "3001": {
+    "Description": "Verhindert, dass der Gegner Zauber wirken kann. Wirkt nicht bei Bossen. Dies ist ein Debuff.",
+    "Id": 3001,
+    "Par": 3403001,
+    "ShowRule": 1,
+    "Text": "Stille",
+    "Type": 3
+  },
+  "3002": {
+    "Description": "Verhindert, dass sich der Gegner bewegen kann. Wirkt nicht bei Bossen. Dies ist ein Debuff.",
+    "Id": 3002,
+    "Par": 3403002,
+    "ShowRule": 1,
+    "Text": "Verwurzelt",
+    "Type": 3
+  },
+  "3003": {
+    "Description": "Verringert die gegnerische Bewegung-GES um <style=\"accent-gn\">30 %</style>.",
+    "Id": 3003,
+    "Par": 3403003,
+    "ShowRule": 1,
+    "Text": "Frost",
+    "Type": 3
+  },
+  "3004": {
+    "Description": "Verringert die Menge an Heilung, die der Gegner erhält. Dies ist ein Debuff.",
+    "Id": 3004,
+    "Par": 3403004,
+    "ShowRule": 1,
+    "Text": "Wunde",
+    "Type": 3
+  },
+  "3005": {
+    "Description": "Verhindert, dass der Gegner Aktionen ausführen kann. Wirkt nicht bei Bossen. Dies ist ein Statuseffekt.",
+    "Id": 3005,
+    "Par": 3403005,
+    "ShowRule": 1,
+    "Text": "Betäuben",
+    "Type": 3
+  },
+  "3006": {
+    "Description": "Verhindert, dass der Gegner Aktionen ausführen kann. Der Effekt wird beim Erleiden von SCH aufgehoben. Wirkt nicht bei Bossen. Dies ist ein Statuseffekt.",
+    "Id": 3006,
+    "Par": 3403006,
+    "ShowRule": 1,
+    "Text": "Erstarrt",
+    "Type": 3
+  },
+  "3007": {
+    "Description": "Verhindert, dass der Gegner Aktionen ausführen kann. Der Effekt wird beim Erleiden von SCH aufgehoben. Wirkt nicht bei Bossen. Dies ist ein Statuseffekt.",
+    "Id": 3007,
+    "Par": 3403007,
+    "ShowRule": 1,
+    "Text": "Versteinert",
+    "Type": 3
+  },
+  "3008": {
+    "Description": "Verhindert, dass der Gegner Aktionen ausführen kann. Der Effekt wird beim Erleiden von SCH aufgehoben. Wirkt nicht bei Bossen. Dies ist ein Statuseffekt.",
+    "Id": 3008,
+    "Par": 3403008,
+    "ShowRule": 1,
+    "Text": "Gelähmt",
+    "Type": 3
+  },
+  "3009": {
+    "Description": "Zwingt den Gegner, sich in Nahkampfreichweite seines aktuellen Ziels zu bewegen, um anzugreifen. Wirkt nicht bei Bossen. Dies ist ein Statuseffekt.",
+    "Id": 3009,
+    "Par": 3403009,
+    "ShowRule": 1,
+    "Text": "Blenden",
+    "Type": 3
+  },
+  "3010": {
+    "Description": "Der Gegner kauert vor Angst an Ort und Stelle. Der Effekt wird beim Erleiden von SCH aufgehoben. Wirkt nicht bei Bossen. Dies ist ein Statuseffekt.",
+    "Id": 3010,
+    "Par": 3403010,
+    "ShowRule": 1,
+    "Text": "Furcht",
+    "Type": 3
+  },
+  "3011": {
+    "Description": "Verringert die gegnerische Bewegung-GES. Wirkt nicht bei Bossen. Dies ist ein Debuff.",
+    "Id": 3011,
+    "Par": 3403011,
+    "ShowRule": 1,
+    "Text": "Verlangsamen",
+    "Type": 3
+  },
+  "3012": {
+    "Description": "Verursacht, dass der Gegner kontinuierlich LP verliert. Dies ist ein Debuff.",
+    "Id": 3012,
+    "Par": 3403012,
+    "ShowRule": 1,
+    "Text": "Vergiftet",
+    "Type": 3
+  },
+  "3013": {
+    "Description": "Verursacht, dass der Gegner kontinuierlich LP verliert. Dies ist ein Debuff.",
+    "Id": 3013,
+    "Par": 3403013,
+    "ShowRule": 1,
+    "Text": "Blutung",
+    "Type": 3
+  },
+  "3014": {
+    "Description": "Verursacht, dass der Gegner kontinuierlich LP verliert. Dies ist ein Debuff.",
+    "Id": 3014,
+    "Par": 3403014,
+    "ShowRule": 1,
+    "Text": "Verbrennung",
+    "Type": 3
+  },
+  "3020": {
+    "Description": "Umfasst: <style=\"accent-gn\">Betäuben</style>, <style=\"accent-gn\">Erstarrt</style>, <style=\"accent-gn\">Versteinert</style>, <style=\"accent-gn\">Gelähmt</style>, <style=\"accent-gn\">Blenden</style> und <style=\"accent-gn\">Furcht</style>.",
+    "Id": 3020,
+    "Par": 3403020,
+    "ShowRule": 1,
+    "Text": "Statuseffekte",
+    "Type": 3
+  },
+  "3021": {
+    "Description": "Umfasst <style=\"accent-gn\">Verstummt</style>, <style=\"accent-gn\">Verlangsamt</style>, <style=\"accent-gn\">Verwurzelt</style>, <style=\"accent-gn\">Verwundet</style>, <style=\"accent-gn\">Vergiftet</style>, <style=\"accent-gn\">Blutend</style>, <style=\"accent-gn\">Brennend</style>.",
+    "Id": 3021,
+    "Par": 3403021,
+    "ShowRule": 1,
+    "Text": "Debuffs",
+    "Type": 3
+  }
+}

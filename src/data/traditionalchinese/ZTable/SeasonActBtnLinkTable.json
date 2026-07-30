@@ -1,0 +1,54 @@
+{
+  "1": {
+    "BtnFunction": [],
+    "Icon": "ui/atlas/recommendedplay/play_icon_2",
+    "Id": 1,
+    "Name": "積分獎勵",
+    "RedDotId": 113,
+    "ShowCondition": []
+  },
+  "2": {
+    "BtnFunction": ["CheckOpenTreasureView", "treasure", "self"],
+    "Icon": "ui/atlas/recommendedplay/play_icon_3",
+    "Id": 2,
+    "Name": "開拓者嘉獎",
+    "RedDotId": 50120100,
+    "ShowCondition": []
+  },
+  "3": {
+    "BtnFunction": ["OpenMaseterScoreView", "hero_dungeon_main"],
+    "Icon": "ui/atlas/recommendedplay/play_icon_4",
+    "Id": 3,
+    "Name": "大師之證",
+    "RedDotId": 81000700,
+    "ShowCondition": [[112, 1]]
+  },
+  "4": {
+    "BtnFunction": ["OpenShopView", "shop", "800817"],
+    "Icon": "ui/atlas/recommendedplay/play_icon_2",
+    "Id": 4,
+    "Name": "友情商店",
+    "RedDotId": 0,
+    "ShowCondition": []
+  },
+  "5": {
+    "BtnFunction": ["OpenTargetView", "weekly_hunt"],
+    "Icon": "ui/atlas/recommendedplay/play_icon_5",
+    "Id": 5,
+    "Name": "層數獎勵",
+    "RedDotId": 1601,
+    "ShowCondition": [[14, 500888]]
+  },
+  "6": {
+    "BtnFunction": ["OpenJumpDialog", "weekly_hunt"],
+    "Icon": "ui/atlas/recommendedplay/play_icon_5",
+    "Id": 6,
+    "Name": "跳層獎勵",
+    "RedDotId": 0,
+    "ShowCondition": [
+      [14, 500889],
+      [114, 0],
+      [115, 0]
+    ]
+  }
+}

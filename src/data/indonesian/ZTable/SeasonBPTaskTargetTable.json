@@ -1,0 +1,969 @@
+{
+  "1": {
+    "Describe": "Selesaikan cerita utama \"Malam di Atas Tebing\"",
+    "Id": 1,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "10": {
+    "Describe": "Alokasikan {*val*} poin Mastery dalam sistem Talent",
+    "Id": 10,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 144
+  },
+  "100": {
+    "Describe": "Total gunakan {*val*} poin Biro Perintisan",
+    "Id": 100,
+    "Num": 250000,
+    "Param": [10001],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "101": {
+    "Describe": "Total gunakan {*val*} Luno Coin",
+    "Id": 101,
+    "Num": 20000,
+    "Param": [10002],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "102": {
+    "Describe": "Hancurkan {*val*} Wind Barrier di Dataran",
+    "Id": 102,
+    "Num": 1,
+    "Param": [4],
+    "SceneId": 0,
+    "TargetType": 173
+  },
+  "103": {
+    "Describe": "Selesaikan {*val*} tantangan Wind Particle di Dataran",
+    "Id": 103,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "104": {
+    "Describe": "Selesaikan semua tantangan Wind Channel di Dataran (belum tersedia)",
+    "Id": 104,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "105": {
+    "Describe": "Buka {*val*} peti apa pun",
+    "Id": 105,
+    "Num": 400,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "106": {
+    "Describe": "Selesaikan semua Deteksi Monster",
+    "Id": 106,
+    "Num": 10,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "107": {
+    "Describe": "Selesaikan Spot Wajib {*val*} kali",
+    "Id": 107,
+    "Num": 11,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 128
+  },
+  "108": {
+    "Describe": "Pulihkan semua breakpoint di seluruh Astra Nexus",
+    "Id": 108,
+    "Num": 5,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "109": {
+    "Describe": "Buka semua resep",
+    "Id": 109,
+    "Num": 18,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "11": {
+    "Describe": "{*val*} Skema Aktivasi Potential tersimpan",
+    "Id": 11,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 120
+  },
+  "110": {
+    "Describe": "Cedera tulang butuh waktu lama untuk pulih. Jadi kalau bukan ahlinya, jangan lompat-lompat di tempat tinggi ya~",
+    "Id": 110,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 172
+  },
+  "111": {
+    "Describe": "Aktivitas mencapai 100",
+    "Id": 111,
+    "Num": 100,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "112": {
+    "Describe": "Aktivitas mencapai 200",
+    "Id": 112,
+    "Num": 200,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "113": {
+    "Describe": "Aktivitas mencapai 300",
+    "Id": 113,
+    "Num": 300,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 174
+  },
+  "114": {
+    "Describe": "Selesaikan semua misi mingguan",
+    "Id": 114,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "115": {
+    "Describe": "Selesaikan semua misi mingguan",
+    "Id": 115,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "116": {
+    "Describe": "Selesaikan semua misi mingguan",
+    "Id": 116,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 175
+  },
+  "117": {
+    "Describe": "Login Harian",
+    "Id": 117,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "12": {
+    "Describe": "Pasang 1 Terra Resonance Skill",
+    "Id": 12,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 150
+  },
+  "13": {
+    "Describe": "Pasang semua Terra Resonance Skill",
+    "Id": 13,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 150
+  },
+  "14": {
+    "Describe": "Selesaikan \"Unstable Space - Selamatkan Tina\" {*val*} kali",
+    "Id": 14,
+    "Num": 1,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "15": {
+    "Describe": "Selesaikan \"Unstable Space - Selamatkan Tina\" {*val*} kali",
+    "Id": 15,
+    "Num": 2,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "16": {
+    "Describe": "Selesaikan \"Unstable Space - Selamatkan Tina\" {*val*} kali",
+    "Id": 16,
+    "Num": 10,
+    "Param": [1011],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "17": {
+    "Describe": "Bergabung dengan {*val*} Guild",
+    "Id": 17,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 342
+  },
+  "18": {
+    "Describe": "Kirim pesan di kanal dunia {*val*} kali",
+    "Id": 18,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 341
+  },
+  "19": {
+    "Describe": "Selesaikan parkur multiplayer {*val*} kali",
+    "Id": 19,
+    "Num": 1,
+    "Param": [7001, 7002, 7003],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "2": {
+    "Describe": "Selesaikan misi sampingan {*val*} kali",
+    "Id": 2,
+    "Num": 5,
+    "Param": [
+      -2, 180002, 180003, 180004, 20001, 20002, 20003, 20004, 20005, 20006, 20007, 20008, 20009,
+      20010, 20020, 20022, 20030, 20031, 29001, 29002, 29003, 29004, 29005, 31001, 31010, 31013,
+      31015, 31016, 31021, 31022, 31023, 31050, 31051, 31063, 31071, 31072, 31073, 31074, 500001
+    ],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "20": {
+    "Describe": "Selesaikan peristiwa dunia {*val*} kali",
+    "Id": 20,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "21": {
+    "Describe": "Aktifkan {*val*} Astra Nexus",
+    "Id": 21,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "22": {
+    "Describe": "Selesaikan Deteksi Monster {*val*} kali",
+    "Id": 22,
+    "Num": 2,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "23": {
+    "Describe": "Selesaikan foto di mode normal 1 kali",
+    "Id": 23,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "24": {
+    "Describe": "Selesaikan foto di mode gestur 1 kali",
+    "Id": 24,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "25": {
+    "Describe": "Selesaikan selfie 1 kali",
+    "Id": 25,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "26": {
+    "Describe": "Mendapat Headwear: Woven Seabreeze",
+    "Id": 26,
+    "Num": 1,
+    "Param": [7130130],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "27": {
+    "Describe": "Konon, Caprahorn punya sifat yang mudah berubah-ubah. Kalau sampai mengusik mereka ....",
+    "Id": 27,
+    "Num": 3,
+    "Param": [10011, 101001],
+    "SceneId": 0,
+    "TargetType": 15
+  },
+  "28": {
+    "Describe": "Login",
+    "Id": 28,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "29": {
+    "Describe": "Selesaikan cerita utama \"Peringatan Bencana dan Secercah Harapan\"",
+    "Id": 29,
+    "Num": 1,
+    "Param": [-2, 10211],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "3": {
+    "Describe": "Tingkatkan 1 weapon apa pun ke Lv. 10",
+    "Id": 3,
+    "Num": 1,
+    "Param": [1, 10],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "30": {
+    "Describe": "Tingkatkan 2 weapon apa pun ke Lv. 30",
+    "Id": 30,
+    "Num": 1,
+    "Param": [2, 30],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "31": {
+    "Describe": "Upgrade skill weapon apa pun total {*val*} kali",
+    "Id": 31,
+    "Num": 24,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "32": {
+    "Describe": "Modifikasi skill weapon apa pun sebanyak {*val*} kali",
+    "Id": 32,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "33": {
+    "Describe": "Modifikasi skill weapon apa pun sebanyak {*val*} kali",
+    "Id": 33,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "34": {
+    "Describe": "Pakai 2 equipment kualitas Legendary atau lebih tinggi",
+    "Id": 34,
+    "Num": 1,
+    "Param": [4, 2],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "35": {
+    "Describe": "Pakai 4 equipment kualitas Legendary atau lebih tinggi",
+    "Id": 35,
+    "Num": 1,
+    "Param": [4, 4],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "36": {
+    "Describe": "Pasang 3 Fantasy",
+    "Id": 36,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 152
+  },
+  "37": {
+    "Describe": "Pasang 6 Fantasy",
+    "Id": 37,
+    "Num": 1,
+    "Param": [6],
+    "SceneId": 0,
+    "TargetType": 152
+  },
+  "38": {
+    "Describe": "Buka mode rating di \"Extreme Space - Selamatkan Tina\"",
+    "Id": 38,
+    "Num": 1,
+    "Param": [1021],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "39": {
+    "Describe": "Dapatkan rating Outstanding di mode rating pada \"Extreme Space - Selamatkan Tina\" sebanyak 1 kali",
+    "Id": 39,
+    "Num": 4500,
+    "Param": [],
+    "SceneId": 1022,
+    "TargetType": 27
+  },
+  "4": {
+    "Describe": "Tingkatkan 1 weapon apa pun ke Lv. 20",
+    "Id": 4,
+    "Num": 1,
+    "Param": [1, 20],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "40": {
+    "Describe": "Selesaikan Planet Memory 3: Advanced - Nemesis Fight",
+    "Id": 40,
+    "Num": 1,
+    "Param": [15501],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "41": {
+    "Describe": "Selesaikan Planet Memory 12: Normal - DPS Trial",
+    "Id": 41,
+    "Num": 1,
+    "Param": [19002],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "42": {
+    "Describe": "[Tidak dipakai] Selesaikan Planet Memory Lv. 15",
+    "Id": 42,
+    "Num": 1,
+    "Param": [15506],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "43": {
+    "Describe": "Selesaikan peristiwa dunia total {*val*} kali",
+    "Id": 43,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "44": {
+    "Describe": "Aktifkan semua portal di \"Asteris\"",
+    "Id": 44,
+    "Num": 9,
+    "Param": [],
+    "SceneId": 8,
+    "TargetType": 153
+  },
+  "45": {
+    "Describe": "Aktifkan semua Stellar Core Hub",
+    "Id": 45,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 155
+  },
+  "46": {
+    "Describe": "Pulihkan breakpoint tahap pertama di salah satu Astra Nexus",
+    "Id": 46,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "47": {
+    "Describe": "Ikut mengalahkan {*val*} Boss",
+    "Id": 47,
+    "Num": 2,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "48": {
+    "Describe": "Ikut mengalahkan {*val*} Field Lord",
+    "Id": 48,
+    "Num": 1,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "49": {
+    "Describe": "Buka {*val*} peti apa pun",
+    "Id": 49,
+    "Num": 100,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "5": {
+    "Describe": "Upgrade skill weapon apa pun total {*val*} kali",
+    "Id": 5,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "50": {
+    "Describe": "Mager {*val*} kali",
+    "Id": 50,
+    "Num": 10,
+    "Param": [20000013, 20000014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "51": {
+    "Describe": "Selesaikan koleksi di Dataran {*val*} kali",
+    "Id": 51,
+    "Num": 20,
+    "Param": [
+      20000001, 20000002, 20000003, 20000004, 20000005, 20000006, 20000007, 20000008, 20000009,
+      20000010, 20000011
+    ],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "52": {
+    "Describe": "Selesaikan Cuisine {*val*} kali",
+    "Id": 52,
+    "Num": 10,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 156
+  },
+  "53": {
+    "Describe": "Wahai pejuang, beranikah kamu menghadapi serangan para monster berkekuatan penuh?",
+    "Id": 53,
+    "Num": 1,
+    "Param": [90],
+    "SceneId": 0,
+    "TargetType": 170
+  },
+  "54": {
+    "Describe": "Login",
+    "Id": 54,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "55": {
+    "Describe": "Selesaikan Cerita Utama \"Jalan Harapan untuk Menghentikan Perang\"",
+    "Id": 55,
+    "Num": 1,
+    "Param": [-2, 10217],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "56": {
+    "Describe": "Tingkatkan 4 weapon apa pun ke Lv. 30",
+    "Id": 56,
+    "Num": 1,
+    "Param": [4, 30],
+    "SceneId": 0,
+    "TargetType": 130
+  },
+  "57": {
+    "Describe": "Upgrade skill weapon apa pun total {*val*} kali",
+    "Id": 57,
+    "Num": 48,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "58": {
+    "Describe": "Modifikasi skill weapon apa pun sebanyak {*val*} kali",
+    "Id": 58,
+    "Num": 8,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "59": {
+    "Describe": "Capai item karakter Lv. 200",
+    "Id": 59,
+    "Num": 1,
+    "Param": [200],
+    "SceneId": 0,
+    "TargetType": 159
+  },
+  "6": {
+    "Describe": "Upgrade skill weapon apa pun total {*val*} kali",
+    "Id": 6,
+    "Num": 12,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 131
+  },
+  "60": {
+    "Describe": "Selesaikan item level uncap {*val*} kali",
+    "Id": 60,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 158
+  },
+  "61": {
+    "Describe": "Selesaikan item level uncap {*val*} kali",
+    "Id": 61,
+    "Num": 3,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 158
+  },
+  "62": {
+    "Describe": "Salah satu stat \"STR/Endurance/Blessing\" karakter mencapai 180",
+    "Id": 62,
+    "Num": 1,
+    "Param": [180, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "63": {
+    "Describe": "Selesaikan dungeon apa pun dengan tim {*val*} kali",
+    "Id": 63,
+    "Num": 4,
+    "Param": [
+      15001, 15002, 15003, 15004, 15005, 15006, 15007, 15008, 15009, 15010, 15011, 15012, 15501,
+      15502, 15503, 15504, 15505, 15506, 15507, 15508, 16001, 16002, 16003, 16004, 16501, 16502,
+      16503, 16504, 17001, 17002, 17003, 17004, 17501, 17502, 17503, 17504, 17505, 18001, 18002,
+      18003, 18004, 18501, 18502, 18503, 18504, 19001, 19002, 19003, 19004, 19005, 1011, 1021, 1022,
+      1111, 1121, 1122
+    ],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "64": {
+    "Describe": "Selesaikan \"Unstable Space - Tower Ruin\" {*val*} kali",
+    "Id": 64,
+    "Num": 1,
+    "Param": [1111],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "65": {
+    "Describe": "Dapatkan rating Outstanding di mode rating pada \"Extreme Space - Tower Ruin\" sebanyak 1 kali",
+    "Id": 65,
+    "Num": 6500,
+    "Param": [],
+    "SceneId": 1122,
+    "TargetType": 27
+  },
+  "66": {
+    "Describe": "Selesaikan Tantangan Extreme Space {*val*} kali",
+    "Id": 66,
+    "Num": 6,
+    "Param": [1022, 1122],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "67": {
+    "Describe": "Selesaikan Planet Memory 19: Normal - Territory Seize",
+    "Id": 67,
+    "Num": 1,
+    "Param": [17505],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "68": {
+    "Describe": "Selesaikan peristiwa dunia total {*val*} kali",
+    "Id": 68,
+    "Num": 7,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "69": {
+    "Describe": "Ikut mengalahkan {*val*} Boss",
+    "Id": 69,
+    "Num": 6,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "7": {
+    "Describe": "Pakai 3 equipment kualitas Rare atau lebih tinggi",
+    "Id": 7,
+    "Num": 1,
+    "Param": [2, 3],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "70": {
+    "Describe": "Ikut mengalahkan {*val*} Field Lord",
+    "Id": 70,
+    "Num": 2,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "71": {
+    "Describe": "Selesaikan Deteksi Monster {*val*} kali",
+    "Id": 71,
+    "Num": 4,
+    "Param": [10029, 10018, 10007, 10004, 10003, 10002, 10008, 10019, 10024, 10009],
+    "SceneId": 0,
+    "TargetType": 167
+  },
+  "72": {
+    "Describe": "Selesaikan Spot Wajib {*val*} kali",
+    "Id": 72,
+    "Num": 6,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 128
+  },
+  "73": {
+    "Describe": "Pulihkan semua breakpoint di salah satu Astra Nexus",
+    "Id": 73,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 154
+  },
+  "74": {
+    "Describe": "Buka {*val*} Resep",
+    "Id": 74,
+    "Num": 5,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 157
+  },
+  "75": {
+    "Describe": "Air bisa menopang perahu, tapi juga bisa menenggelamkannya. Jadi, tetaplah berhati-hati saat bermain di air!",
+    "Id": 75,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 171
+  },
+  "76": {
+    "Describe": "Login",
+    "Id": 76,
+    "Num": 4,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "77": {
+    "Describe": "Salah satu stat \"STR/Endurance/Blessing\" karakter mencapai 210",
+    "Id": 77,
+    "Num": 1,
+    "Param": [210, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "78": {
+    "Describe": "Dapatkan {*val*} Fantasy berbeda kualitas Legendary",
+    "Id": 78,
+    "Num": 12,
+    "Param": [
+      5110101, 5110102, 5110103, 5110104, 5110105, 5110106, 5110107, 5110108, 5110109, 5110110,
+      5120101, 5120102, 5120103, 5120104, 5120105, 5120106, 5120107, 5120108, 5120109, 5120110,
+      5130101, 5130102, 5130103, 5130104, 5130105, 5130106, 5130107, 5130108, 5130109, 5130110,
+      5140101, 5140102, 5140103, 5140104, 5140105, 5140106, 5140107, 5140108, 5140109, 5140110,
+      5150101, 5150102, 5150103, 5150104, 5150105, 5150106, 5150107, 5150108, 5150109, 5150110
+    ],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "79": {
+    "Describe": "Selesaikan dungeon apa pun dengan tim {*val*} kali",
+    "Id": 79,
+    "Num": 12,
+    "Param": [
+      15001, 15002, 15003, 15004, 15005, 15006, 15007, 15008, 15009, 15010, 15011, 15012, 15501,
+      15502, 15503, 15504, 15505, 15506, 15507, 15508, 16001, 16002, 16003, 16004, 16501, 16502,
+      16503, 16504, 17001, 17002, 17003, 17004, 17501, 17502, 17503, 17504, 17505, 18001, 18002,
+      18003, 18004, 18501, 18502, 18503, 18504, 19001, 19002, 19003, 19004, 19005, 1011, 1021, 1022,
+      1111, 1121, 1122
+    ],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "8": {
+    "Describe": "Pakai 5 equipment kualitas Epic atau lebih tinggi",
+    "Id": 8,
+    "Num": 1,
+    "Param": [3, 5],
+    "SceneId": 0,
+    "TargetType": 134
+  },
+  "80": {
+    "Describe": "Dapatkan rating Sempurna di mode rating pada \"Extreme Space - Selamatkan Tina\" sebanyak 1 kali",
+    "Id": 80,
+    "Num": 7500,
+    "Param": [],
+    "SceneId": 1022,
+    "TargetType": 27
+  },
+  "81": {
+    "Describe": "Dapatkan rating Sempurna di mode rating pada \"Extreme Space - Tower Ruin\" sebanyak 1 kali",
+    "Id": 81,
+    "Num": 11000,
+    "Param": [],
+    "SceneId": 1122,
+    "TargetType": 27
+  },
+  "82": {
+    "Describe": "Dapatkan rating Emas Dalam tantangan tim \"Extreme Space - Selamatkan Tina\". Kesempatan tim tumbang maks. 3 kali",
+    "Id": 82,
+    "Num": 1,
+    "Param": [3, 1022],
+    "SceneId": 0,
+    "TargetType": 162
+  },
+  "83": {
+    "Describe": "Dapatkan rating Emas Dalam tantangan tim \"Extreme Space - Tower Ruin\". Kesempatan tim tumbang maks. 3 kali",
+    "Id": 83,
+    "Num": 1,
+    "Param": [3, 1122],
+    "SceneId": 0,
+    "TargetType": 162
+  },
+  "84": {
+    "Describe": "Selesaikan Planet Memory 38: Normal - Monster Bounty",
+    "Id": 84,
+    "Num": 1,
+    "Param": [17001],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "85": {
+    "Describe": "Selesaikan peristiwa dunia total {*val*} kali",
+    "Id": 85,
+    "Num": 10,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 117
+  },
+  "86": {
+    "Describe": "Total gunakan {*val*} poin Biro Perintisan",
+    "Id": 86,
+    "Num": 1500000,
+    "Param": [10001],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "87": {
+    "Describe": "Total gunakan {*val*} Luno Coin",
+    "Id": 87,
+    "Num": 10000,
+    "Param": [10002],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "88": {
+    "Describe": "Ikut mengalahkan {*val*} Boss",
+    "Id": 88,
+    "Num": 10,
+    "Param": [10007, 10018, 10029],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "89": {
+    "Describe": "Ikut mengalahkan {*val*} Field Lord",
+    "Id": 89,
+    "Num": 4,
+    "Param": [20004],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "9": {
+    "Describe": "Pakai 2 weapon",
+    "Id": 9,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 124
+  },
+  "90": {
+    "Describe": "Buka seluruh Peti Mewah",
+    "Id": 90,
+    "Num": 8,
+    "Param": [52003, 52011, 52012, 52013, 52014],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "91": {
+    "Describe": "Buka {*val*} peti apa pun",
+    "Id": 91,
+    "Num": 250,
+    "Param": [52001, 52002, 52003, 52011, 52012, 52013, 52014, 52015],
+    "SceneId": 0,
+    "TargetType": 107
+  },
+  "92": {
+    "Describe": "Terbang itu rasanya ajaib banget deh, bagaikan bunga dandelion ....",
+    "Id": 92,
+    "Num": 1,
+    "Param": [30],
+    "SceneId": 0,
+    "TargetType": 344
+  },
+  "93": {
+    "Describe": "Login",
+    "Id": 93,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "94": {
+    "Describe": "Capai item karakter Lv. 210",
+    "Id": 94,
+    "Num": 1,
+    "Param": [210],
+    "SceneId": 0,
+    "TargetType": 159
+  },
+  "95": {
+    "Describe": "Salah satu stat \"STR/Endurance/Blessing\" karakter mencapai 240",
+    "Id": 95,
+    "Num": 1,
+    "Param": [240, 12000, 12010, 12020, 12030, 12040, 12050],
+    "SceneId": 0,
+    "TargetType": 160
+  },
+  "96": {
+    "Describe": "Dapatkan {*val*} Fantasy berbeda kualitas Legendary",
+    "Id": 96,
+    "Num": 24,
+    "Param": [
+      5110101, 5110102, 5110103, 5110104, 5110105, 5110106, 5110107, 5110108, 5110109, 5110110,
+      5120101, 5120102, 5120103, 5120104, 5120105, 5120106, 5120107, 5120108, 5120109, 5120110,
+      5130101, 5130102, 5130103, 5130104, 5130105, 5130106, 5130107, 5130108, 5130109, 5130110,
+      5140101, 5140102, 5140103, 5140104, 5140105, 5140106, 5140107, 5140108, 5140109, 5140110,
+      5150101, 5150102, 5150103, 5150104, 5150105, 5150106, 5150107, 5150108, 5150109, 5150110
+    ],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "97": {
+    "Describe": "Selesaikan Planet Memory 50: Expert - Nemesis Fight",
+    "Id": 97,
+    "Num": 1,
+    "Param": [15505],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "98": {
+    "Describe": "Buka total {*val*} Dandanan Lemari",
+    "Id": 98,
+    "Num": 30,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 165
+  },
+  "99": {
+    "Describe": "Buka total {*val*} Gerakan",
+    "Id": 99,
+    "Num": 20,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 164
+  }
+}

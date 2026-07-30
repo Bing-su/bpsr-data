@@ -1,0 +1,74 @@
+{
+  "1": {
+    "ColliderSize": [600.0, 160.0, 600.0],
+    "CubePosition": [],
+    "HasTerrain": false,
+    "Id": 1,
+    "Name": "主城",
+    "SceneFilePath": "scene/maps/cty001new.unity",
+    "TerrainFilePath": ""
+  },
+  "2": {
+    "ColliderSize": [1000.0, 300.0, 1000.0],
+    "CubePosition": [500.0, 100.0, 500.0],
+    "HasTerrain": true,
+    "Id": 2,
+    "Name": "龙爪",
+    "SceneFilePath": "scene/maps/dragon001.unity",
+    "TerrainFilePath": "scene/terrain/dragon001_data/terrain to mesh/dragon001/dragon001.prefab"
+  },
+  "3": {
+    "ColliderSize": [300.0, 90.0, 265.0],
+    "CubePosition": [-128.39999389648438, 119.30000305175781, -328.1000061035156],
+    "HasTerrain": false,
+    "Id": 3,
+    "Name": "巨塔",
+    "SceneFilePath": "scene/maps/dng002.unity",
+    "TerrainFilePath": ""
+  },
+  "4": {
+    "ColliderSize": [2100.0, 500.0, 2100.0],
+    "CubePosition": [5.0, 180.0, 36.0],
+    "HasTerrain": true,
+    "Id": 4,
+    "Name": "阿斯特里斯平原",
+    "SceneFilePath": "scene/maps/fld001.unity",
+    "TerrainFilePath": "scene/terrain/field001_data/terrain to mesh/fld001/fld001.prefab"
+  },
+  "5": {
+    "ColliderSize": [300.0, 90.0, 265.0],
+    "CubePosition": [-128.39999389648438, 119.30000305175781, -328.1000061035156],
+    "HasTerrain": false,
+    "Id": 5,
+    "Name": "巨塔-英雄",
+    "SceneFilePath": "scene/maps/dng002_hero.unity",
+    "TerrainFilePath": ""
+  },
+  "6": {
+    "ColliderSize": [60.0, 10.0, 60.0],
+    "CubePosition": [0.0, 0.0, 0.0],
+    "HasTerrain": false,
+    "Id": 6,
+    "Name": "测试方副本",
+    "SceneFilePath": "scene/maps/testdng001.unity",
+    "TerrainFilePath": ""
+  },
+  "7": {
+    "ColliderSize": [60.0, 10.0, 60.0],
+    "CubePosition": [0.0, 0.0, 0.0],
+    "HasTerrain": false,
+    "Id": 7,
+    "Name": "测试圆副本",
+    "SceneFilePath": "scene/maps/testdng002.unity",
+    "TerrainFilePath": ""
+  },
+  "8": {
+    "ColliderSize": [1000.0, 300.0, 1000.0],
+    "CubePosition": [-175.0, 86.748046875, -134.0],
+    "HasTerrain": false,
+    "Id": 8,
+    "Name": "营救蒂娜-线性本",
+    "SceneFilePath": "scene/maps/dng001_dina.unity",
+    "TerrainFilePath": ""
+  }
+}

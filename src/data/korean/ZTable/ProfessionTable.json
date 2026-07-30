@@ -1,0 +1,1263 @@
+{
+  "1": {
+    "AIConfigFile": "auto_battle_olvera",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_olvera-01_",
+    "AnimTemplate": "animtpl/ch_wp_olvera-01_01",
+    "BasicHitTag": 1,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [7601, 7501],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#9191f4",
+    "FightResTemplateId": 1,
+    "FightbackSkillIds": [1795, 1792, 1793],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": false,
+    "Id": 1,
+    "InitialWeaponId": 2000101,
+    "IsClose": true,
+    "LargeLockCancelRange": [16.0, 16.0, 16.0],
+    "LargeSTCancelRange": [
+      [16.0, 10.0],
+      [16.0, 10.0],
+      [16.0, 10.0]
+    ],
+    "LargeSTRange": [12.0, 12.0, 12.0],
+    "LockCancelRange": [8.0, 8.0, 8.0],
+    "Mount": [["ep_buff01_point", "ap_r_weapon01_point"]],
+    "MountOffset": [],
+    "MountRot": [
+      {
+        "x": 18.0,
+        "y": -9.0,
+        "z": 155.0
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 1799,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud03",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_tdl-01_dodge_b.bytes", "curve/as_f_tdl-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [8.0, 5.0],
+      [8.0, 5.0],
+      [8.0, 5.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [],
+    "STSphereRange": [2.0],
+    "STSphereRangeRate": [1.0],
+    "SkillIds": [1791, 1792, 1793, 1794, 1795, 2002, 1715, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 1710,
+    "SpacingDistance": 0.800000011920929,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [100, 101, 102],
+    "WeaponIdle": [["as_wp_tdl-01_idle", "as_wp_tdl-01_fidle"]],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "10": {
+    "AIConfigFile": "",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_rorola-01_",
+    "AnimTemplate": "animtpl/ch_wp_rorola-01_01",
+    "BasicHitTag": 1,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [55109, 55108],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.5,
+    "DodgeStartTime": [0.0, 0.5],
+    "DpsPanelColor": "",
+    "FightResTemplateId": 10,
+    "FightbackSkillIds": [2112, 2113, 2114],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": true,
+    "Id": 10,
+    "InitialWeaponId": 2000108,
+    "IsClose": false,
+    "LargeLockCancelRange": [50.0],
+    "LargeSTCancelRange": [[50.0]],
+    "LargeSTRange": [40.0, 40.0, 40.0],
+    "LockCancelRange": [25.0],
+    "Mount": [
+      ["dp_r_back01_point", "ap_r_weapon01_point"],
+      ["dp_l_back01_point", "ap_l_weapon01_point"]
+    ],
+    "MountOffset": [
+      {
+        "x": 0.2800000011920929,
+        "y": -0.12700000405311584,
+        "z": 0.23100000619888306
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": -0.032999999821186066,
+        "y": -0.13500000536441803,
+        "z": 0.23600000143051147
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": 112.33499908447266,
+        "y": 27.947999954223633,
+        "z": -111.77100372314453
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 79.39199829101562,
+        "y": 133.8679962158203,
+        "z": 20.87299919128418
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 2199,
+    "ProfessionIcon": "",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_tdl-01_dodge_b.bytes", "curve/as_f_tdl-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [[25.0]],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [20.0, 20.0, 20.0],
+    "STSphereRange": [3.0],
+    "STSphereRangeRate": [0.6000000238418579],
+    "SkillIds": [2112, 2113, 2114, 2125, 2002, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 2110,
+    "SpacingDistance": 1.2000000476837158,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [],
+    "WeaponIdle": [],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.30000001192092896
+  },
+  "11": {
+    "AIConfigFile": "auto_battle_rodri",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_rodri-01_",
+    "AnimTemplate": "animtpl/ch_wp_rodri-01_01",
+    "BasicHitTag": 2,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [55210, 55211],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#e1c36d",
+    "FightResTemplateId": 11,
+    "FightbackSkillIds": [2211, 2212, 2213],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": true,
+    "Id": 11,
+    "InitialWeaponId": 2000109,
+    "IsClose": false,
+    "LargeLockCancelRange": [46.0, 46.0, 46.0],
+    "LargeSTCancelRange": [
+      [46.0, 18.0],
+      [46.0, 18.0],
+      [46.0, 18.0]
+    ],
+    "LargeSTRange": [40.0, 40.0, 40.0],
+    "LockCancelRange": [23.0, 23.0, 23.0],
+    "Mount": [
+      ["dp_m_back01_point", "ap_r_weapon01_point"],
+      ["ep_buff01_point", "ap_l_weapon01_point"]
+    ],
+    "MountOffset": [
+      {
+        "x": -0.12999999523162842,
+        "y": -0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.10000000149011612,
+        "y": 0.25999999046325684,
+        "z": -0.17499999701976776
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": 73.0,
+        "y": -73.0,
+        "z": 163.0
+      },
+      {
+        "x": -90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": -160.0,
+        "y": -9.0,
+        "z": 38.0
+      },
+      {
+        "x": -90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 2299,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud07",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_iruna-01_dodge_b.bytes", "curve/as_f_iruna-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-12.0, -12.0, -12.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [23.0, 9.0],
+      [23.0, 9.0],
+      [23.0, 9.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-1.0, -1.0, -1.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [20.0, 20.0, 20.0],
+    "STSphereRange": [3.0],
+    "STSphereRangeRate": [0.6000000238418579],
+    "SkillIds": [
+      2210, 2211, 2212, 2213, 2002, 2236, 2223, 2222, 1101, 1102, 1103, 1104, 1105, 1106
+    ],
+    "SkySkillId": 2206,
+    "SpacingDistance": 1.0,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [115, 116, 117],
+    "WeaponIdle": [],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "12": {
+    "AIConfigFile": "auto_battle_jiandun",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_farfara-01_",
+    "AnimTemplate": "animtpl/ch_wp_farfara-01_01",
+    "BasicHitTag": 1,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [50013, 50012],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#dbaf2f",
+    "FightResTemplateId": 12,
+    "FightbackSkillIds": [2424, 2422, 2423],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": true,
+    "Id": 12,
+    "InitialWeaponId": 2000110,
+    "IsClose": true,
+    "LargeLockCancelRange": [16.0, 16.0, 16.0],
+    "LargeSTCancelRange": [
+      [16.0, 10.0],
+      [16.0, 10.0],
+      [16.0, 10.0]
+    ],
+    "LargeSTRange": [12.0, 12.0, 12.0],
+    "LockCancelRange": [8.0, 8.0, 8.0],
+    "Mount": [
+      ["ep_buff01_point", "ap_r_weapon01_point"],
+      ["ep_buff01_point", "ap_l_weapon01_point"]
+    ],
+    "MountOffset": [
+      {
+        "x": 0.23000000417232513,
+        "y": 0.6200000047683716,
+        "z": -0.10000000149011612
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.25,
+        "z": -0.25
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": -191.0,
+        "y": 177.0,
+        "z": -28.0
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": -72.0,
+        "y": -61.0,
+        "z": 150.0
+      },
+      {
+        "x": 180.0,
+        "y": 90.0,
+        "z": -90.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 2499,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud01",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_farfara-01_dodge_b.bytes", "curve/as_f_farfara-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [8.0, 5.0],
+      [8.0, 5.0],
+      [8.0, 5.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [],
+    "STSphereRange": [2.0],
+    "STSphereRangeRate": [1.0],
+    "SkillIds": [2418, 2002, 2422, 2423, 2424, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 2418,
+    "SpacingDistance": 0.5,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [121, 122, 123],
+    "WeaponIdle": [],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.20000000298023224
+  },
+  "13": {
+    "AIConfigFile": "auto_battle_jita",
+    "AnimFadeTemplate": "ch_wp_guitar-01",
+    "AnimPrefix": "as_f_guitar-01_",
+    "AnimTemplate": "animtpl/ch_wp_guitar-01_01",
+    "BasicHitTag": 1,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [7401, 7301],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#e99078",
+    "FightResTemplateId": 14,
+    "FightbackSkillIds": [2337, 2327, 2328],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": true,
+    "Id": 13,
+    "InitialWeaponId": 2000111,
+    "IsClose": false,
+    "LargeLockCancelRange": [16.0, 16.0, 30.0],
+    "LargeSTCancelRange": [
+      [16.0, 10.0],
+      [16.0, 10.0],
+      [30.0, 18.0]
+    ],
+    "LargeSTRange": [12.0, 12.0, 24.0],
+    "LockCancelRange": [8.0, 8.0, 15.0],
+    "Mount": [
+      ["dp_m_back01_point", "ap_r_weapon01_point"],
+      ["ep_buff01_point", "ap_l_weapon01_point"]
+    ],
+    "MountOffset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": -0.08500000089406967,
+        "y": 0.4000000059604645,
+        "z": -0.23000000417232513
+      },
+      {
+        "x": -0.019999999552965164,
+        "y": -0.019999999552965164,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": -17.5,
+        "y": -187.0,
+        "z": -18.0
+      },
+      {
+        "x": -90.0,
+        "y": 180.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 1699,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud08",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_guitar-01_dodge_b.bytes", "curve/as_f_guitar-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -12.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [8.0, 5.0],
+      [8.0, 5.0],
+      [15.0, 9.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -1.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [6.0, 6.0, 12.0],
+    "STSphereRange": [3.0],
+    "STSphereRangeRate": [0.6000000238418579],
+    "SkillIds": [2002, 2327, 2328, 2337, 2318, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 2305,
+    "SpacingDistance": 0.800000011920929,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [118, 119, 120],
+    "WeaponIdle": [],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "14": {
+    "AIConfigFile": "auto_battle_ip004x02",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_wpnpc_f_base_ip004x02_",
+    "AnimTemplate": "",
+    "BasicHitTag": 2,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.0,
+    "DodgeClientBuff": [45121, 45120],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "",
+    "FightResTemplateId": 0,
+    "FightbackSkillIds": [1810, 1811, 1812],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": false,
+    "Id": 14,
+    "InitialWeaponId": 2000112,
+    "IsClose": true,
+    "LargeLockCancelRange": [],
+    "LargeSTCancelRange": [],
+    "LargeSTRange": [],
+    "LockCancelRange": [25.0],
+    "Mount": [],
+    "MountOffset": [],
+    "MountRot": [],
+    "NoNeedWeapon": true,
+    "PassiveId": 1899,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud00",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_fz-01_dodge_b.bytes", "curve/as_f_fz-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [[25.0]],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [20.0, 20.0, 20.0],
+    "STSphereRange": [3.0],
+    "STSphereRangeRate": [0.6000000238418579],
+    "SkillIds": [],
+    "SkySkillId": 0,
+    "SpacingDistance": 1.0,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [130, 131, 132],
+    "WeaponIdle": [],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "15": {
+    "AIConfigFile": "auto_battle_ip004x01",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_wpnpc_f_base_ip004x01_",
+    "AnimTemplate": "",
+    "BasicHitTag": 2,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.0,
+    "DodgeClientBuff": [45121, 45120],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "",
+    "FightResTemplateId": 0,
+    "FightbackSkillIds": [1810, 1811, 1812],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": false,
+    "Id": 15,
+    "InitialWeaponId": 2000113,
+    "IsClose": true,
+    "LargeLockCancelRange": [],
+    "LargeSTCancelRange": [],
+    "LargeSTRange": [],
+    "LockCancelRange": [25.0],
+    "Mount": [],
+    "MountOffset": [],
+    "MountRot": [],
+    "NoNeedWeapon": true,
+    "PassiveId": 1899,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud00",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_fz-01_dodge_b.bytes", "curve/as_f_fz-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [[25.0]],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [20.0, 20.0, 20.0],
+    "STSphereRange": [3.0],
+    "STSphereRangeRate": [0.6000000238418579],
+    "SkillIds": [],
+    "SkySkillId": 0,
+    "SpacingDistance": 1.0,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [133, 134, 135],
+    "WeaponIdle": [],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "2": {
+    "AIConfigFile": "auto_battle_boyce",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_boyce-01_",
+    "AnimTemplate": "animtpl/ch_wp_boyce-01_01",
+    "BasicHitTag": 2,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [25103, 25103],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#77cce0",
+    "FightResTemplateId": 2,
+    "FightbackSkillIds": [1294, 1224, 1225],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": false,
+    "Id": 2,
+    "InitialWeaponId": 2000102,
+    "IsClose": false,
+    "LargeLockCancelRange": [36.0, 36.0, 36.0],
+    "LargeSTCancelRange": [
+      [36.0, 18.0],
+      [36.0, 18.0],
+      [36.0, 18.0]
+    ],
+    "LargeSTRange": [30.0, 30.0, 30.0],
+    "LockCancelRange": [18.0, 18.0, 18.0],
+    "Mount": [["ep_buff01_point", "ap_r_weapon01_point"]],
+    "MountOffset": [
+      {
+        "x": -0.008899999782443047,
+        "y": 0.17399999499320984,
+        "z": -0.25
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": 2.950000047683716,
+        "y": 27.399999618530273,
+        "z": 23.0
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 1299,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud05",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_fz-01_dodge_b.bytes", "curve/as_f_fz-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-12.0, -12.0, -12.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [18.0, 9.0],
+      [18.0, 9.0],
+      [18.0, 9.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-1.0, -1.0, -1.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [15.0, 15.0, 15.0],
+    "STSphereRange": [3.0],
+    "STSphereRangeRate": [0.6000000238418579],
+    "SkillIds": [1224, 1225, 1293, 1294, 2002, 1242, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 1208,
+    "SpacingDistance": 1.0,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [103, 104, 105],
+    "WeaponIdle": [],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "3": {
+    "AIConfigFile": "auto_battle_tata",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_tata-01_",
+    "AnimTemplate": "animtpl/ch_wp_tata-01_01",
+    "BasicHitTag": 1,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [7401, 7301],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#e99078",
+    "FightResTemplateId": 4,
+    "FightbackSkillIds": [1624, 1693, 1694],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": true,
+    "Id": 3,
+    "InitialWeaponId": 2000103,
+    "IsClose": true,
+    "LargeLockCancelRange": [16.0, 16.0, 16.0],
+    "LargeSTCancelRange": [
+      [16.0, 10.0],
+      [16.0, 10.0],
+      [16.0, 10.0]
+    ],
+    "LargeSTRange": [12.0, 12.0, 12.0],
+    "LockCancelRange": [8.0, 8.0, 8.0],
+    "Mount": [
+      ["dp_r_back01_point", "ap_r_weapon01_point"],
+      ["dp_l_back01_point", "ap_l_weapon01_point"]
+    ],
+    "MountOffset": [
+      {
+        "x": 0.0,
+        "y": -0.07000000029802322,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -0.10000000149011612,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": 100.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": -100.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 1699,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud09",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_sf-01_dodge_b.bytes", "curve/as_f_sf-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [8.0, 5.0],
+      [8.0, 5.0],
+      [8.0, 5.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [],
+    "STSphereRange": [2.0],
+    "STSphereRangeRate": [1.0],
+    "SkillIds": [1693, 1694, 1624, 2002, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 0,
+    "SpacingDistance": 0.800000011920929,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [127, 128, 129],
+    "WeaponIdle": [["as_wp_sf-01_idle"], ["as_wp_sf-01_idle"]],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "4": {
+    "AIConfigFile": "auto_battle_tina",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_tina-01_",
+    "AnimTemplate": "animtpl/ch_wp_tina-01_01",
+    "BasicHitTag": 1,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [8101, 8001],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#7ccfb0",
+    "FightResTemplateId": 5,
+    "FightbackSkillIds": [1417, 1413, 1414],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": false,
+    "Id": 4,
+    "InitialWeaponId": 2000104,
+    "IsClose": true,
+    "LargeLockCancelRange": [16.0, 16.0, 28.0],
+    "LargeSTCancelRange": [
+      [16.0, 10.0],
+      [16.0, 10.0],
+      [28.0, 0.0]
+    ],
+    "LargeSTRange": [12.0, 12.0, 12.0],
+    "LockCancelRange": [8.0, 8.0, 14.0],
+    "Mount": [["ep_buff01_point", "ap_r_weapon01_point"]],
+    "MountOffset": [
+      {
+        "x": 0.03500000014901161,
+        "y": 0.05999999865889549,
+        "z": -0.3199999928474426
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": 12.0,
+        "y": -13.0,
+        "z": -33.0
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 1499,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud02",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_tina-01_dodge_b.bytes", "curve/as_f_tina-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [8.0, 5.0],
+      [8.0, 5.0],
+      [14.0, 0.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [],
+    "STSphereRange": [2.0],
+    "STSphereRangeRate": [1.0],
+    "SkillIds": [
+      1412, 1413, 1414, 1416, 1417, 2002, 1419, 1436, 1101, 1102, 1103, 1104, 1105, 1106
+    ],
+    "SkySkillId": 1406,
+    "SpacingDistance": 0.800000011920929,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [106, 107, 108],
+    "WeaponIdle": [["as_wp_tina-01_idle", "as_wp_tina-01_fidle"]],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "5": {
+    "AIConfigFile": "auto_battle_iruna",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_iruna-01_",
+    "AnimTemplate": "animtpl/ch_wp_iruna-01_01",
+    "BasicHitTag": 2,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [8301, 8201],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#85d079",
+    "FightResTemplateId": 13,
+    "FightbackSkillIds": [1517, 1511, 1512],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": true,
+    "Id": 5,
+    "InitialWeaponId": 2000105,
+    "IsClose": false,
+    "LargeLockCancelRange": [30.0, 30.0, 30.0],
+    "LargeSTCancelRange": [
+      [30.0, 18.0],
+      [30.0, 18.0],
+      [30.0, 18.0]
+    ],
+    "LargeSTRange": [24.0, 24.0, 24.0],
+    "LockCancelRange": [15.0, 15.0, 15.0],
+    "Mount": [
+      ["ep_buff01_point", "ap_r_shield01_point"],
+      ["ep_buff01_point", "ap_l_shield01_point"]
+    ],
+    "MountOffset": [
+      {
+        "x": 0.11100000143051147,
+        "y": 0.4399999976158142,
+        "z": -0.20399999618530273
+      },
+      {
+        "x": -0.05000000074505806,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": -0.07800000160932541,
+        "y": 0.30000001192092896,
+        "z": -0.22499999403953552
+      },
+      {
+        "x": -0.05000000074505806,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": -25.200000762939453,
+        "y": -200.0,
+        "z": 8.0
+      },
+      {
+        "x": 0.0,
+        "y": -90.0,
+        "z": 0.0
+      },
+      {
+        "x": -16.350000381469727,
+        "y": -173.5,
+        "z": -154.0
+      },
+      {
+        "x": 0.0,
+        "y": -90.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 1599,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud04",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_iruna-01_dodge_b.bytes", "curve/as_f_iruna-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-12.0, -12.0, -12.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [15.0, 9.0],
+      [15.0, 9.0],
+      [15.0, 9.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-1.0, -1.0, -1.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [12.0, 12.0, 12.0],
+    "STSphereRange": [3.0],
+    "STSphereRangeRate": [0.6000000238418579],
+    "SkillIds": [1511, 1512, 1515, 1517, 2002, 1507, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 1510,
+    "SpacingDistance": 1.0,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [109, 110, 111],
+    "WeaponIdle": [],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "8": {
+    "AIConfigFile": "auto_battle_taurus",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_taurus-01_",
+    "AnimTemplate": "animtpl/ch_wp_taurus-01_01",
+    "BasicHitTag": 2,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [45121, 45120],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "",
+    "FightResTemplateId": 0,
+    "FightbackSkillIds": [1810, 1811, 1812],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": true,
+    "Id": 8,
+    "InitialWeaponId": 2000106,
+    "IsClose": false,
+    "LargeLockCancelRange": [50.0],
+    "LargeSTCancelRange": [[50.0]],
+    "LargeSTRange": [40.0, 40.0, 40.0],
+    "LockCancelRange": [25.0],
+    "Mount": [
+      ["dp_chest_mount01_point", "ap_r_weapon01_point"],
+      ["dp_chest_mount01_point", "dp_chest_mount01_point"]
+    ],
+    "MountOffset": [
+      {
+        "x": 0.12999999523162842,
+        "y": 0.05000000074505806,
+        "z": -0.05999999865889549
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.12999999523162842,
+        "y": 0.05000000074505806,
+        "z": -0.05999999865889549
+      },
+      {
+        "x": 0.1289999932050705,
+        "y": 0.050999999046325684,
+        "z": -0.061000000685453415
+      }
+    ],
+    "MountRot": [
+      {
+        "x": 15.0,
+        "y": -15.0,
+        "z": 47.0
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 15.0,
+        "y": -15.0,
+        "z": 47.0
+      },
+      {
+        "x": 5.38700008392334,
+        "y": -5.293000221252441,
+        "z": 46.73699951171875
+      }
+    ],
+    "NoNeedWeapon": true,
+    "PassiveId": 1899,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud00",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_fz-01_dodge_b.bytes", "curve/as_f_fz-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [[25.0]],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [20.0, 20.0, 20.0],
+    "STSphereRange": [3.0],
+    "STSphereRangeRate": [0.6000000238418579],
+    "SkillIds": [1804, 1810, 1811, 1812, 2002, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 1809,
+    "SpacingDistance": 1.0,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [124, 125, 126],
+    "WeaponIdle": [["as_wp_taurus-01_idle", "as_wp_taurus-01_fidle"]],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.5
+  },
+  "9": {
+    "AIConfigFile": "auto_battle_comeau",
+    "AnimFadeTemplate": "",
+    "AnimPrefix": "as_f_comeau-01_",
+    "AnimTemplate": "animtpl/ch_wp_comeau-01_01",
+    "BasicHitTag": 1,
+    "BattleRushChargeTime": 8.0,
+    "BattleRushMaxChargeCount": 2,
+    "BattleRushOriginEnergyCost": [120, 120],
+    "ChangeWeaponAction": [],
+    "CommonSkillIds": [],
+    "CurTargetAdditionalRate": 0.5,
+    "CurTargetAdditionalWeightTime": 0.20000000298023224,
+    "DodgeClientBuff": [50013, 50012],
+    "DodgeCountDown": 1.0,
+    "DodgeInvincibleTime": 0.30000001192092896,
+    "DodgeStartTime": [0.0, 0.30000001192092896],
+    "DpsPanelColor": "#a27d60",
+    "FightResTemplateId": 9,
+    "FightbackSkillIds": [1912, 1914, 1915],
+    "FocusCancelRange": 15.0,
+    "FocusCheckEndTime": 2.0,
+    "HasSecondary": false,
+    "Id": 9,
+    "InitialWeaponId": 2000107,
+    "IsClose": true,
+    "LargeLockCancelRange": [16.0, 16.0, 16.0],
+    "LargeSTCancelRange": [
+      [16.0, 10.0],
+      [16.0, 10.0],
+      [16.0, 10.0]
+    ],
+    "LargeSTRange": [12.0, 12.0, 12.0],
+    "LockCancelRange": [8.0, 8.0, 8.0],
+    "Mount": [["ep_buff01_point", "ap_r_weapon01_point"]],
+    "MountOffset": [
+      {
+        "x": 0.3400000035762787,
+        "y": 0.0,
+        "z": -0.4000000059604645
+      },
+      {
+        "x": 0.0,
+        "y": 0.014999999664723873,
+        "z": 0.0
+      }
+    ],
+    "MountRot": [
+      {
+        "x": 13.0,
+        "y": 0.0,
+        "z": 33.0
+      },
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "NoNeedWeapon": false,
+    "PassiveId": 1999,
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud06",
+    "RushAnimTime": [1.0, 1.0],
+    "RushBreakTime": 0.3499999940395355,
+    "RushCurve": ["curve/as_f_tdl-01_dodge_b.bytes", "curve/as_f_tdl-01_dodge_f.bytes"],
+    "RushPerformanceBuff": [],
+    "RushSkillId": 0,
+    "STAngleWeightA": [-5.0, -5.0, -5.0],
+    "STAngleWeightB": [1500.0, 1500.0, 1500.0],
+    "STCancelRange": [
+      [8.0, 5.0],
+      [8.0, 5.0],
+      [8.0, 5.0]
+    ],
+    "STCheckEndTime": [15.0, 15.0, 15.0],
+    "STDistanceWeightA": [-20.0, -20.0, -20.0],
+    "STDistanceWeightB": [1500.0, 1500.0, 1500.0],
+    "STRange": [],
+    "STSphereRange": [2.0],
+    "STSphereRangeRate": [1.0],
+    "SkillIds": [1912, 1913, 1914, 1915, 2002, 1930, 1101, 1102, 1103, 1104, 1105, 1106],
+    "SkySkillId": 1908,
+    "SpacingDistance": 0.800000011920929,
+    "SpecialSkillIds": [],
+    "Tags": [],
+    "TakeWeaponInBattle": true,
+    "TalentStage": [112, 113, 114],
+    "WeaponIdle": [["as_wp_comeau-01_idle", "as_wp_comeau-01_fidle"]],
+    "WhackSkillId": 0,
+    "WhackTakeEffectTime": 0.20000000298023224
+  }
+}

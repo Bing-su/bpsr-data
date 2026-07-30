@@ -1,0 +1,2938 @@
+{
+  "10001": {
+    "Description": "고급 커스텀 스타일을 기반으로 한 염색 공정으로 다시 제작한 의상으로, 자유롭게 염색할 수 있습니다.",
+    "Id": 10001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "크로마 버전",
+    "Type": 1
+  },
+  "1001": {
+    "Description": "공격 버튼을 사용한 각종 무기 공격",
+    "Id": 1001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "일반 공격",
+    "Type": 1
+  },
+  "1002": {
+    "Description": "무기의 기본 공격 형식",
+    "Id": 1002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "기본 공격",
+    "Type": 1
+  },
+  "1003": {
+    "Description": "공격 버튼을 길게 누르는 강타",
+    "Id": 1003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "강타",
+    "Type": 1
+  },
+  "1004": {
+    "Description": "공중에서 일반 공격으로 발동하는 낙하 공격",
+    "Id": 1004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "낙하 공격",
+    "Type": 1
+  },
+  "1005": {
+    "Description": "무기의 핵심이자 상징과도 같은 대표 스킬",
+    "Id": 1005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "코어 스킬",
+    "Type": 1
+  },
+  "1006": {
+    "Description": "가장 자주 사용하는 무기 스킬",
+    "Id": 1006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "기본 스킬",
+    "Type": 1
+  },
+  "1007": {
+    "Description": "무기 위력을 극대화하는 궁극의 전투 오의",
+    "Id": 1007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "궁극 스킬",
+    "Type": 1
+  },
+  "1008": {
+    "Description": "어빌리티로 획득하는 특성 스킬",
+    "Id": 1008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "어빌리티 스킬",
+    "Type": 1
+  },
+  "1009": {
+    "Description": "피격 후 공중에 떠올랐을 때 사용 가능한 스킬",
+    "Id": 1009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "낙법 스킬",
+    "Type": 1
+  },
+  "1010": {
+    "Description": "어빌리티로 습득한 강력한 계열 스킬",
+    "Id": 1010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "어빌리티 폭발",
+    "Type": 1
+  },
+  "1011": {
+    "Description": "스킬을 사용하면 더 효과적으로 대미지를 줄 수 있다.",
+    "Id": 1011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "대미지",
+    "Type": 1
+  },
+  "1012": {
+    "Description": "스킬 자체의 대미지",
+    "Id": 1012,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "능력 대미지",
+    "Type": 1
+  },
+  "1013": {
+    "Description": "스킬이 원소 특성을 발동시켜서 생기는 추가 대미지",
+    "Id": 1013,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "특성 대미지",
+    "Type": 1
+  },
+  "1014": {
+    "Description": "체력을 회복할 수 있는 효과",
+    "Id": 1014,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "치료",
+    "Type": 1
+  },
+  "1015": {
+    "Description": "한 번에 비교적 많은 체력 회복",
+    "Id": 1015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "치유",
+    "Type": 1
+  },
+  "1016": {
+    "Description": "일정 시간 동안 체력 지속 회복",
+    "Id": 1016,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "치유",
+    "Type": 1
+  },
+  "1017": {
+    "Description": "전투 시 아군에게 이로운 효과를 부여하는 효과",
+    "Id": 1017,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "버프",
+    "Type": 1
+  },
+  "1018": {
+    "Description": "일정 시간 동안 전투 능력, 이동 등 각종 능력치가 강화되는 효과",
+    "Id": 1018,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "축복",
+    "Type": 1
+  },
+  "1019": {
+    "Description": "짧은 시간 동안 전투 능력을 대폭 향상시키는 효과",
+    "Id": 1019,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "격앙",
+    "Type": 1
+  },
+  "1020": {
+    "Description": "전투 능력치가 대폭 상승한다. 어빌리티 육성 시 추가 효과가 부여된다.",
+    "Id": 1020,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "고무",
+    "Type": 1
+  },
+  "1021": {
+    "Description": "전투 상태에서 아군에게 부여된 해로운 효과",
+    "Id": 1021,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "디버프",
+    "Type": 1
+  },
+  "1022": {
+    "Description": "일정 시간 동안 전투 능력치가 하락하는 해로운 효과",
+    "Id": 1022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "허약",
+    "Type": 1
+  },
+  "1023": {
+    "Description": "일정 시간 동안 받는 대미지가 증가하는 해로운 효과",
+    "Id": 1023,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "취약",
+    "Type": 1
+  },
+  "1024": {
+    "Description": "일정 시간 동안 받는 대미지가 증가한다. 어빌리티 육성 시 추가 효과가 부여된다.",
+    "Id": 1024,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "파쇄",
+    "Type": 1
+  },
+  "1025": {
+    "Description": "행동 제약이 따르는 해로운 상태",
+    "Id": 1025,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "제어",
+    "Type": 1
+  },
+  "1026": {
+    "Description": "이동 및 일체의 전투 행위가 불가능한 해로운 상태",
+    "Id": 1026,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "동결",
+    "Type": 1
+  },
+  "1027": {
+    "Description": "이동이 불가능한 해로운 상태",
+    "Id": 1027,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "속박",
+    "Type": 1
+  },
+  "1028": {
+    "Description": "이동 불가, 전투 행위 불가, 아이템 사용 불가 상태에 놓이는 해로운 상태. 짧은 시간 내에 여러 번 중첩되면 지속 시간이 줄어든다. 보스에게는 적용되지 않는다.",
+    "Id": 1028,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "스턴",
+    "Type": 1
+  },
+  "1029": {
+    "Description": "이동속도가 감소하는 해로운 상태",
+    "Id": 1029,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "둔화",
+    "Type": 1
+  },
+  "1030": {
+    "Description": "강력한 목표의 <style=\"ItemQuality_5\">슈퍼 아머</style> 게이지 격파 능력",
+    "Id": 1030,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "파훼",
+    "Type": 1
+  },
+  "1031": {
+    "Description": "스킬로 캐릭터의 빠른 이동을 도울 수 있다.",
+    "Id": 1031,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "이동",
+    "Type": 1
+  },
+  "1032": {
+    "Description": "연속 이동 스킬",
+    "Id": 1032,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "대시",
+    "Type": 1
+  },
+  "1033": {
+    "Description": "불연속 이동 스킬",
+    "Id": 1033,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "점멸",
+    "Type": 1
+  },
+  "1034": {
+    "Description": "스킬로 캐릭터의 생존을 도울 수 있다.",
+    "Id": 1034,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "생존",
+    "Type": 1
+  },
+  "1035": {
+    "Description": "추가 체력으로 전환되는 <style=\"ItemQuality_5\">실드</style>. 체력보다 우선적으로 대미지 흡수",
+    "Id": 1035,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "실드",
+    "Type": 1
+  },
+  "1036": {
+    "Description": "시전 중 특정 타이밍에 피격 시 일부 대미지를 무시할 수 있는 스킬",
+    "Id": 1036,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "패링",
+    "Type": 1
+  },
+  "1037": {
+    "Description": "불 원소 대미지 부여",
+    "Id": 1037,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "불 원소 대미지",
+    "Type": 1
+  },
+  "1038": {
+    "Description": "대미지에 불 원소의 힘 부여",
+    "Id": 1038,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "불 원소",
+    "Type": 1
+  },
+  "1039": {
+    "Description": "일정 시간 동안 불 원소 특성 대미지를 주기적으로 받는 해로운 상태",
+    "Id": 1039,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "점화",
+    "Type": 1
+  },
+  "1040": {
+    "Description": "얼음 원소 대미지 부여",
+    "Id": 1040,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "얼음 원소 대미지",
+    "Type": 1
+  },
+  "1041": {
+    "Description": "대미지에 얼음 원소의 힘 부여",
+    "Id": 1041,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "얼음 원소",
+    "Type": 1
+  },
+  "1042": {
+    "Description": "번개 원소 대미지 부여",
+    "Id": 1042,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "번개 원소 대미지",
+    "Type": 1
+  },
+  "1043": {
+    "Description": "대미지에 번개 원소의 힘 부여",
+    "Id": 1043,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "번개 원소",
+    "Type": 1
+  },
+  "1044": {
+    "Description": "바람 원소 대미지 부여",
+    "Id": 1044,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "바람 원소 대미지",
+    "Type": 1
+  },
+  "1045": {
+    "Description": "대미지에 바람 원소의 힘 부여",
+    "Id": 1045,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "바람 원소",
+    "Type": 1
+  },
+  "1046": {
+    "Description": "바위 원소 대미지 부여",
+    "Id": 1046,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "바위 원소 대미지",
+    "Type": 1
+  },
+  "1047": {
+    "Description": "대미지에 바위 원소의 힘 부여",
+    "Id": 1047,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "바위 원소",
+    "Type": 1
+  },
+  "1048": {
+    "Description": "나무 원소 대미지 부여",
+    "Id": 1048,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "나무 원소 대미지",
+    "Type": 1
+  },
+  "1049": {
+    "Description": "대미지에 나무 원소의 힘 부여",
+    "Id": 1049,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "나무 원소",
+    "Type": 1
+  },
+  "1050": {
+    "Description": "빛 원소 대미지 부여",
+    "Id": 1050,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "빛 원소 대미지",
+    "Type": 1
+  },
+  "1051": {
+    "Description": "대미지에 빛 원소의 힘 부여",
+    "Id": 1051,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "빛 원소",
+    "Type": 1
+  },
+  "1052": {
+    "Description": "어둠 원소 대미지 부여",
+    "Id": 1052,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "어둠 원소 대미지",
+    "Type": 1
+  },
+  "1053": {
+    "Description": "대미지에 어둠 원소의 힘 부여",
+    "Id": 1053,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "어둠 원소",
+    "Type": 1
+  },
+  "1054": {
+    "Description": "추가 공격 행동을 발생시키거나 공격에 저항하는 지원 효과",
+    "Id": 1054,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "어시스트",
+    "Type": 1
+  },
+  "1055": {
+    "Description": "전투에 호응해 함께 공격하는 효과",
+    "Id": 1055,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "협동",
+    "Type": 1
+  },
+  "1056": {
+    "Description": "스스로 공격하고 전투를 돕는 효과",
+    "Id": 1056,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "협공",
+    "Type": 1
+  },
+  "1057": {
+    "Description": "일정 시간 힘을 모아야 강력한 위력을 발휘할 수 있는 스킬 시전 방식",
+    "Id": 1057,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "차징",
+    "Type": 1
+  },
+  "1058": {
+    "Description": "효과 지속을 위해 시전 상태 유지가 필요한 스킬 시전 방식",
+    "Id": 1058,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "가이드",
+    "Type": 1
+  },
+  "1059": {
+    "Description": "효과가 강화되거나 변화된 스킬 발동 상태",
+    "Id": 1059,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "강화",
+    "Type": 1
+  },
+  "1060": {
+    "Description": "일부 스킬을 시전할 때 소모되며, 시간 또는 특정 메커니즘에 따라 보충",
+    "Id": 1060,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "충전",
+    "Type": 1
+  },
+  "1061": {
+    "Description": "특정 조건에서 발동하는 효과. 발동 확률은 능력치에 영향을 받는다.",
+    "Id": 1061,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "각인",
+    "Type": 1
+  },
+  "1062": {
+    "Description": "자신의 체력이 목표의 체력보다 높은 상태. 이 상태에서는 주는 대미지 증가 및 대미지 경감 보너스를 획득하며, 어빌리티를 육성하면 추가 효과 부여",
+    "Id": 1062,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "제압",
+    "Type": 1
+  },
+  "1063": {
+    "Description": "명확한 소환자가 있으며, 존재 여부가 소환자에게 영향받는 전투 유닛",
+    "Id": 1063,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "소환물",
+    "Type": 1
+  },
+  "1064": {
+    "Description": "특정 조건 만족 시 효과를 발동하는 소환물",
+    "Id": 1064,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "트랩",
+    "Type": 1
+  },
+  "1065": {
+    "Description": "일정 시간 동안 움직이지 않고 주변에 효과를 부여하는 소환물",
+    "Id": 1065,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "토템",
+    "Type": 1
+  },
+  "1066": {
+    "Description": "소환자를 따라 이동하며 전투를 지원하는 소환물",
+    "Id": 1066,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "시종",
+    "Type": 1
+  },
+  "1067": {
+    "Description": "자율 행동 의지를 지닌 소환물",
+    "Id": 1067,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "피조물",
+    "Type": 1
+  },
+  "1068": {
+    "Description": "물리적으로 작용하여 명중 시 효과를 발동하는 스킬 메커니즘",
+    "Id": 1068,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "투사체",
+    "Type": 1
+  },
+  "1069": {
+    "Description": "소형 고속 투사체",
+    "Id": 1069,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "탄환",
+    "Type": 1
+  },
+  "1070": {
+    "Description": "대형 일반 속도 투사체",
+    "Id": 1070,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "발사물",
+    "Type": 1
+  },
+  "1071": {
+    "Description": "일정 범위의 구역 내에서만 효과가 발동하는 방식",
+    "Id": 1071,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "구역 효과",
+    "Type": 1
+  },
+  "1072": {
+    "Description": "자신 또는 아군에게 지속적으로 이로운 상태를 부여하는 범위 효과",
+    "Id": 1072,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "영역",
+    "Type": 1
+  },
+  "1073": {
+    "Description": "적군에게 지속적인 대미지나 해로운 상태를 유발하는 범위 효과",
+    "Id": 1073,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "구역",
+    "Type": 1
+  },
+  "1074": {
+    "Description": "자신의 범위 내 목표에게 지속적인 효과를 부여한다.",
+    "Id": 1074,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "오라",
+    "Type": 1
+  },
+  "1075": {
+    "Description": "일반 몬스터와는 격이 다른 존재",
+    "Id": 1075,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "강력한 목표",
+    "Type": 1
+  },
+  "1076": {
+    "Description": "보스, 군주, 월드 보스",
+    "Id": 1076,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "두목",
+    "Type": 1
+  },
+  "1077": {
+    "Description": "대륙에서 활동하는 일반 몬스터. 전투 능력은 기본적인 수준이다.",
+    "Id": 1077,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "일반 몬스터",
+    "Type": 1
+  },
+  "1078": {
+    "Description": "몬스터 중에서도 특히 뛰어난 전사. 위협적인 특수 스킬을 사용한다.",
+    "Id": 1078,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "엘리트",
+    "Type": 1
+  },
+  "1079": {
+    "Description": "종족 내 절대 강자, 왕이라 칭해도 과언이 아니다.",
+    "Id": 1079,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "보스",
+    "Type": 1
+  },
+  "1080": {
+    "Description": "지도 내 특수 영지 구역에서만 출현하는 강력한 몬스터",
+    "Id": 1080,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "군주",
+    "Type": 1
+  },
+  "1081": {
+    "Description": "던전에서 가장 강한 몬스터",
+    "Id": 1081,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "월드 보스",
+    "Type": 1
+  },
+  "1082": {
+    "Description": "현재 체력이 최대 체력의 50% 이상인 상태",
+    "Id": 1082,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "건강",
+    "Type": 1
+  },
+  "1083": {
+    "Description": "현재 체력이 최대 체력의 30% 이하인 상태",
+    "Id": 1083,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "부상",
+    "Type": 1
+  },
+  "1084": {
+    "Description": "필드 또는 스테이지에서 획득하는 추가 스킬",
+    "Id": 1084,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "필드 스킬",
+    "Type": 1
+  },
+  "1085": {
+    "Description": "'루미너스' 시리즈 장비 제련 시 부여되는 지속 상태",
+    "Id": 1085,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "루미너스",
+    "Type": 1
+  },
+  "1086": {
+    "Description": "무속성 대미지 부여",
+    "Id": 1086,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "무속성 대미지",
+    "Type": 1
+  },
+  "1087": {
+    "Description": "무속성 대미지를 주며, 원소의 힘 미보유",
+    "Id": 1087,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "무속성",
+    "Type": 1
+  },
+  "1088": {
+    "Description": "미지의 오염원에 노출되어 각종 해로운 영향에 노출된 상태",
+    "Id": 1088,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "침식",
+    "Type": 1
+  },
+  "1089": {
+    "Description": "'루미너스' 시리즈 장비 제련 시 부여되는 지속 상태",
+    "Id": 1089,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "루미너스",
+    "Type": 1
+  },
+  "1090": {
+    "Description": "대미지량이 증가하는 효과 보유",
+    "Id": 1090,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "격앙",
+    "Type": 1
+  },
+  "1091": {
+    "Description": "넉백, 띄우기, 넉다운 면역",
+    "Id": 1091,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "슈퍼 아머",
+    "Type": 1
+  },
+  "1092": {
+    "Description": "적군 몬스터가 강제로 자신을 공격하게 만드는 효과 보유",
+    "Id": 1092,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "도발",
+    "Type": 1
+  },
+  "1093": {
+    "Description": "대미지를 반사하는 효과 보유",
+    "Id": 1093,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "가시",
+    "Type": 1
+  },
+  "1094": {
+    "Description": "유닛의 전투 능력에 직접적인 영향을 주는 효과. 예: 이동속도 감소, 능력치 약화, 제어 상태 등",
+    "Id": 1094,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "해로운 상태",
+    "Type": 1
+  },
+  "1095": {
+    "Description": "대상의 받는 대미지 +<style=\"accent-gn\">10%</style>. <style=\"accent-gn\">5</style>초 지속.",
+    "Id": 1095,
+    "Par": 3401095,
+    "ShowRule": 1,
+    "Text": "취약",
+    "Type": 3
+  },
+  "1096": {
+    "Description": "적 대상에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입히고, 다음 <style=\"accent-gn\">초고출력</style> 시전 시 <style=\"accent-gn\">번개의 인장</style> <style=\"accent-gn\">2</style>개를 추가로 획득합니다.",
+    "Id": 1096,
+    "Par": 3401096,
+    "ShowRule": 1,
+    "Text": "간파 베기",
+    "Type": 3
+  },
+  "1097": {
+    "Description": "<style=\"accent-gn\">특수 공격</style> 시전 속도가 대폭 증가합니다. <style=\"accent-gn\">10</style>초 지속, <style=\"accent-gn\">특수 공격</style> 시전 후 해당 효과는 사라집니다.",
+    "Id": 1097,
+    "Par": 3401097,
+    "ShowRule": 1,
+    "Text": "순간적인 빈틈",
+    "Type": 3
+  },
+  "1098": {
+    "Description": "<style=\"accent-gn\">벽력연참</style>의 숨겨진 초식. 빠르게 위로 베어 올리며 대상에게 공격력 <style=\"accent-gn\">300%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 공격 속도가 <style=\"accent-gn\">25%</style>|<style=\"accent-gn\">50%</style>|<style=\"accent-gn\">80%</style>에 도달할 때마다 공격 횟수가 <style=\"accent-gn\">1</style>|<style=\"accent-gn\">2</style>|<style=\"accent-gn\">3</style> 증가합니다. <style=\"accent-gn\">벽력연참</style> 스킬의 업그레이드/승급에 따라 성장합니다.",
+    "Id": 1098,
+    "Par": 3401098,
+    "ShowRule": 1,
+    "Text": "벽력승룡참",
+    "Type": 3
+  },
+  "1099": {
+    "Description": "1단 공격당 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.<br>초기에는 <style=\"accent-gn\">1</style>단 공격이며, 숙련 <style=\"accent-gn\">10%</style>당 <style=\"accent-gn\">1</style>단이 추가됩니다. 최대 <style=\"accent-gn\">4</style>단 공격까지 증가합니다.",
+    "Id": 1099,
+    "Par": 3401099,
+    "ShowRule": 1,
+    "Text": "검풍 영역",
+    "Type": 3
+  },
+  "1100": {
+    "Description": "「행운 효과」: 적 대상에게 공격력 <style=\"accent-gn\">80%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1100,
+    "Par": 3401100,
+    "ShowRule": 1,
+    "Text": "뇌격",
+    "Type": 3
+  },
+  "1101": {
+    "Description": "<style=\"accent-gn\">35</style>초 동안 지속되며, <style=\"accent-gn\">2</style>초마다 목표에게 공격력 <style=\"accent-gn\">50%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 차륜의 낫 스킬 업그레이드/승급에 따라 성장합니다.",
+    "Id": 1101,
+    "Par": 3401101,
+    "ShowRule": 1,
+    "Text": "월광의 낫",
+    "Type": 3
+  },
+  "1102": {
+    "Description": "넉백, 띄우기, 넉다운 면역",
+    "Id": 1102,
+    "Par": 3401102,
+    "ShowRule": 1,
+    "Text": "슈퍼 아머",
+    "Type": 3
+  },
+  "1103": {
+    "Description": "<style=\"accent-gn\">3</style>m 이내의 적에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1103,
+    "Par": 3401103,
+    "ShowRule": 1,
+    "Text": "뇌폭",
+    "Type": 3
+  },
+  "1104": {
+    "Description": "<style=\"accent-gn\">번개의 인장</style>을 소모하는 스킬을 시전할 때, 소모한 <style=\"accent-gn\">번개의 인장</style> 1개당 해당 스킬의 대미지가 <style=\"accent-gn\">25%</style> 증가합니다.",
+    "Id": 1104,
+    "Par": 3401104,
+    "ShowRule": 1,
+    "Text": "번개의 인장",
+    "Type": 3
+  },
+  "1105": {
+    "Description": "이전 <style=\"accent-gn\">10</style>초 동안 소모한 <style=\"accent-gn\">번개의 인장</style> 수량에 따라 막대한 대미지를 입힙니다.<br>소모한 <style=\"accent-gn\">번개의 인장</style> <style=\"accent-gn\">1</style>개당 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 대미지 최대치는 <style=\"accent-gn\">15,000%</style>입니다.",
+    "Id": 1105,
+    "Par": 3401105,
+    "ShowRule": 1,
+    "Text": "궁극의 참격",
+    "Type": 3
+  },
+  "1106": {
+    "Description": "<style=\"accent-gn\">전하 씨앗</style>을 최대 <style=\"accent-gn\">20</style>개까지 모을 수 있습니다. <style=\"accent-gn\">벽력연참</style> 시전 시 <style=\"accent-gn\">전하 씨앗</style>을 <style=\"accent-gn\">15</style>개 소모하면 <style=\"accent-gn\">뇌전의 낫</style>이 주위 목표에게 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1106,
+    "Par": 3401106,
+    "ShowRule": 1,
+    "Text": "전하 씨앗",
+    "Type": 3
+  },
+  "1107": {
+    "Description": "축복이 부여된 대상에게 <style=\"accent-gn\">지력</style>, <style=\"accent-gn\">힘</style>, <style=\"accent-gn\">민첩</style>, <style=\"accent-gn\">내구력</style> <style=\"accent-gn\">100</style>pt 및 <style=\"accent-gn\">치명타</style>, <style=\"accent-gn\">속공</style>, <style=\"accent-gn\">행운</style>, <style=\"accent-gn\">숙련</style>, <style=\"accent-gn\">만능</style> <style=\"accent-gn\">1.5%</style>를 부여합니다.",
+    "Id": 1107,
+    "Par": 3401107,
+    "ShowRule": 1,
+    "Text": "고무",
+    "Type": 3
+  },
+  "1108": {
+    "Description": "치료형 <style=\"accent-gn\">마스터리 스킬</style> 또는 <style=\"accent-gn\">궁극 스킬</style>로 치료할 때, <style=\"accent-gn\">재생의 꽃망울</style>을 <style=\"accent-gn\">2</style>개 소모하여 <style=\"accent-gn\">양분의 씨앗</style> 1개를 생성합니다. <style=\"accent-gn\">1</style>초당 최대 1회 발동.<br>대미지형 <style=\"accent-gn\">마스터리 스킬</style> 및 <style=\"accent-gn\">궁극 스킬</style>로 대미지를 입힐 때, <style=\"accent-gn\">재생의 꽃망울</style>을 <style=\"accent-gn\">2</style>개 소모하여 <style=\"accent-gn\">야생의 씨앗</style> 1개를 발사합니다. <style=\"accent-gn\">1</style>초당 최대 1회 발동.",
+    "Id": 1108,
+    "Par": 3401108,
+    "ShowRule": 1,
+    "Text": "재생의 꽃망울",
+    "Type": 3
+  },
+  "1109": {
+    "Description": "치료 효과가 아군 사이에서 연쇄됩니다. 한 번 연쇄될 때마다 공격력 <style=\"accent-gn\">40%</style>만큼의 체력을 회복시키며, 기본 연쇄 횟수는 <style=\"accent-gn\">2</style>회입니다.",
+    "Id": 1109,
+    "Par": 3401109,
+    "ShowRule": 1,
+    "Text": "치료 연쇄",
+    "Type": 3
+  },
+  "1110": {
+    "Description": "<style=\"accent-gn\">20</style>m까지 확산하며 접촉한 아군 대상의 체력을 공격력 <style=\"accent-gn\">150%</style>만큼 회복시킵니다.",
+    "Id": 1110,
+    "Par": 3401110,
+    "ShowRule": 1,
+    "Text": "치료 파동",
+    "Type": 3
+  },
+  "1111": {
+    "Description": "아군 대상에게 공격력 <style=\"accent-gn\">150%</style>만큼의 <style=\"accent-gn\">실드</style>를 부여합니다, <style=\"accent-gn\">5</style>초 지속.",
+    "Id": 1111,
+    "Par": 3401111,
+    "ShowRule": 1,
+    "Text": "자연 실드",
+    "Type": 3
+  },
+  "1112": {
+    "Description": "",
+    "Id": 1112,
+    "Par": 3401112,
+    "ShowRule": 1,
+    "Text": "사슴의 돌진",
+    "Type": 3
+  },
+  "1113": {
+    "Description": "<style=\"accent-gn\">3</style>m 이내의 파티원의 체력을 자동으로 공격력 <style=\"accent-gn\">60%</style>만큼 회복시킵니다.",
+    "Id": 1113,
+    "Par": 3401113,
+    "ShowRule": 1,
+    "Text": "치료 구체",
+    "Type": 3
+  },
+  "1114": {
+    "Description": "자신이 <style=\"accent-gn\">에너지볼</style>에 접근하면(<style=\"accent-gn\">3</style>m) <style=\"accent-gn\">재생의 꽃망울</style>을 <style=\"accent-gn\">1</style>개 획득합니다. <style=\"accent-gn\">에너지볼</style>은 최대 <style=\"accent-gn\">3</style>초 동안 유지됩니다.",
+    "Id": 1114,
+    "Par": 3401114,
+    "ShowRule": 1,
+    "Text": "에너지볼",
+    "Type": 3
+  },
+  "1115": {
+    "Description": "지면에 닿을 때 모든 파티원의 체력을 공격력 <style=\"accent-gn\">40%</style>만큼 회복시킵니다.",
+    "Id": 1115,
+    "Par": 3401115,
+    "ShowRule": 1,
+    "Text": "양분의 씨앗",
+    "Type": 3
+  },
+  "1116": {
+    "Description": "적에게 닿으면 폭발해 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1116,
+    "Par": 3401116,
+    "ShowRule": 1,
+    "Text": "야생의 씨앗",
+    "Type": 3
+  },
+  "1117": {
+    "Description": "적에게 매 초마다 공격력의 <style=\"accent-gn\">20%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다, <style=\"accent-gn\">10</style>초 지속. ",
+    "Id": 1117,
+    "Par": 3401117,
+    "ShowRule": 1,
+    "Text": "가시",
+    "Type": 3
+  },
+  "1118": {
+    "Description": "",
+    "Id": 1118,
+    "Par": 3401118,
+    "ShowRule": 1,
+    "Text": "꽃송이",
+    "Type": 3
+  },
+  "1119": {
+    "Description": "다음에 시전하는 <style=\"accent-gn\">마스터리 스킬</style> 쿨타임이 <style=\"accent-gn\">50%</style> 단축됩니다.",
+    "Id": 1119,
+    "Par": 3401119,
+    "ShowRule": 1,
+    "Text": "홍련 통찰",
+    "Type": 3
+  },
+  "1120": {
+    "Description": "다음 <style=\"accent-gn\">마스터리 스킬</style> 시전 후, 자신의 치료 강도 +<style=\"accent-gn\">20%</style>, <style=\"accent-gn\">10</style>초 지속.",
+    "Id": 1120,
+    "Par": 3401120,
+    "ShowRule": 1,
+    "Text": "금빛 신앙",
+    "Type": 3
+  },
+  "1121": {
+    "Description": "다음 <style=\"accent-gn\">생명의 꽃</style>이 치료받는 대상에게 <style=\"accent-gn\">8</style>초 동안 유지되는 <style=\"accent-gn\">실드</style>를 부여합니다. 실드량은 자신 공격력의 <style=\"accent-gn\">200%</style>이며, <style=\"accent-gn\">실드</style>를 보유한 대상은 받는 모든 대미지가 <style=\"accent-gn\">10%</style> 감소합니다.",
+    "Id": 1121,
+    "Par": 3401121,
+    "ShowRule": 1,
+    "Text": "창월의 위로",
+    "Type": 3
+  },
+  "1122": {
+    "Description": "대미지를 받을 때 자신의 체력 비율이 공격자의 체력 비율보다 높을 경우, 공격자로부터 받는 대미지가 <style=\"accent-gn\">10%</style> 감소합니다.<br>대미지를 입힐 때 자신의 체력 비율이 공격 대상의 체력 비율보다 높을 경우, 공격 대상에게 주는 대미지가 <style=\"accent-gn\">10%</style> 증가합니다.",
+    "Id": 1122,
+    "Par": 3401122,
+    "ShowRule": 1,
+    "Text": "제압",
+    "Type": 3
+  },
+  "1123": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">50%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입히고, <style=\"accent-gn\">모래 결정</style> <style=\"accent-gn\">1</style>개를 획득합니다.",
+    "Id": 1123,
+    "Par": 3401123,
+    "ShowRule": 1,
+    "Text": "약점 타격",
+    "Type": 3
+  },
+  "1124": {
+    "Description": "실드 강도 +<style=\"accent-gn\">15%</style>, <style=\"accent-gn\">10</style>초 지속.",
+    "Id": 1124,
+    "Par": 3401124,
+    "ShowRule": 1,
+    "Text": "암석 방패 강화",
+    "Type": 3
+  },
+  "1125": {
+    "Description": "<style=\"accent-gn\">3</style>m 이내의 적에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 이 스킬은 <style=\"accent-gn\">막기</style>를 무시하며, 높은 위협도를 부여합니다.",
+    "Id": 1125,
+    "Par": 3401125,
+    "ShowRule": 1,
+    "Text": "막기 반격",
+    "Type": 3
+  },
+  "1126": {
+    "Description": "<style=\"accent-gn\">막기</style> 발동 시, 행운 확률과 같은 확률로 <style=\"accent-gn\">행운 막기</style>가 발동됩니다.",
+    "Id": 1126,
+    "Par": 3401126,
+    "ShowRule": 1,
+    "Text": "행운 막기",
+    "Type": 3
+  },
+  "1127": {
+    "Description": "이후 <style=\"accent-gn\">7</style>초 동안 <style=\"accent-gn\">실드 배쉬</style>가 2단 콤보로 변화하며, 시전 시 <style=\"accent-gn\">분노</style>와 <style=\"accent-gn\">모래 결정</style>을 소모하지 않습니다. 동시에 자신에게 <style=\"accent-gn\">실드</style>를 부여합니다. <style=\"accent-gn\">실드 배쉬</style> 시전 후 해당 효과는 사라집니다.",
+    "Id": 1127,
+    "Par": 3401127,
+    "ShowRule": 1,
+    "Text": "실드 콤보",
+    "Type": 3
+  },
+  "1128": {
+    "Description": "<style=\"accent-gn\">5</style>m 이내의 적에게 공격력 <style=\"accent-gn\">300%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 이후 <style=\"accent-gn\">5</style>초 동안 <style=\"accent-gn\">1</style>초마다 <style=\"accent-gn\">분노</style>를 <style=\"accent-gn\">20pt</style> 회복합니다. 해당 효과는 중첩되지 않습니다.",
+    "Id": 1128,
+    "Par": 3401128,
+    "ShowRule": 1,
+    "Text": "실드 에코",
+    "Type": 3
+  },
+  "1129": {
+    "Description": "받는 대미지 -<style=\"accent-gn\">50%</style>, 받는 치료 +<style=\"accent-gn\">30%</style>. <style=\"accent-gn\">10</style>초 지속.",
+    "Id": 1129,
+    "Par": 3401129,
+    "ShowRule": 1,
+    "Text": "구사일생",
+    "Type": 3
+  },
+  "1130": {
+    "Description": "초당 <style=\"accent-gn\">아이스 에너지</style> 최대치의 <style=\"accent-gn\">3%</style>를 회복합니다(숙련과 속공의 영향을 받음), <style=\"accent-gn\">10</style>초 지속.",
+    "Id": 1130,
+    "Par": 3401130,
+    "ShowRule": 1,
+    "Text": "에너지 분출 법칙",
+    "Type": 3
+  },
+  "1131": {
+    "Description": "가장 가까운 적 <style=\"accent-gn\">1</style>명을 공격해, 공격력 <style=\"accent-gn\">70%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1131,
+    "Par": 3401131,
+    "ShowRule": 1,
+    "Text": "암석탄",
+    "Type": 3
+  },
+  "1132": {
+    "Description": "목표의 근처로 강제 이동하여 공격합니다.",
+    "Id": 1132,
+    "Par": 3401132,
+    "ShowRule": 1,
+    "Text": "눈부심",
+    "Type": 3
+  },
+  "1133": {
+    "Description": "<style=\"accent-gn\">울림・용맹의 악장</style> 또는 <style=\"accent-gn\">울림・치유의 악장</style>.",
+    "Id": 1133,
+    "Par": 3401133,
+    "ShowRule": 1,
+    "Text": "울림 스킬",
+    "Type": 3
+  },
+  "1134": {
+    "Description": "강화된 <style=\"accent-gn\">분노 폭발</style>. 주위에 거대한 암석을 소환한 뒤 폭발시켜, 공격력 <style=\"accent-gn\">750%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. <style=\"accent-gn\">분노 폭발</style> 스킬 업그레이드/승급에 따라 성장합니다.<br>시전 시 <style=\"accent-gn\">모래 결정</style>을 소모하지 않습니다.",
+    "Id": 1134,
+    "Par": 3401134,
+    "ShowRule": 1,
+    "Text": "대지 붕괴",
+    "Type": 3
+  },
+  "1135": {
+    "Description": "대미지 +<style=\"accent-gn\">20%</style>, 이동속도 +<style=\"accent-gn\">10%</style>. <style=\"accent-gn\">슈퍼 아머</style> 획득.",
+    "Id": 1135,
+    "Par": 3401135,
+    "ShowRule": 1,
+    "Text": "격노",
+    "Type": 3
+  },
+  "1136": {
+    "Description": "<style=\"accent-gn\">3</style>m 이내의 적에게 공격력 <style=\"accent-gn\">300%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1136,
+    "Par": 3401136,
+    "ShowRule": 1,
+    "Text": "모래 결정 진동",
+    "Type": 3
+  },
+  "1137": {
+    "Description": "범위 내에 있는 동안 자신의 <style=\"magic\">마법 대미지</style> 감면이 <style=\"accent-gn\">50%</style> 증가하며, 범위 내에 있는 파티원(최대 <style=\"accent-gn\">10</style>명)이 받는 대미지의 <style=\"accent-gn\">50%</style>가 흡수됩니다.",
+    "Id": 1137,
+    "Par": 3401137,
+    "ShowRule": 1,
+    "Text": "모래 영역",
+    "Type": 3
+  },
+  "1138": {
+    "Description": "<style=\"accent-gn\">라이트 에너지</style>가 가득 찼을 때, <style=\"accent-gn\">특수 공격</style>을 시전하면 <style=\"accent-gn\">라이트 리캐스트</style> 상태에 진입합니다. 이 상태에서는 <style=\"accent-gn\">특수 공격</style>과 일부 <style=\"accent-gn\">마스터리 스킬</style>이 강화됩니다. 지속 시간 동안 <style=\"accent-gn\">라이트 에너지</style>가 지속적으로 감소하며, <style=\"accent-gn\">0</style>이 되면 상태가 해제됩니다.",
+    "Id": 1138,
+    "Par": 3401138,
+    "ShowRule": 1,
+    "Text": "라이트 리캐스트",
+    "Type": 3
+  },
+  "1139": {
+    "Description": "주위 <style=\"accent-gn\">5</style>m 이내의 적에게 공격력 <style=\"accent-gn\">80%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 명중한 적 1명당 대미지 +<style=\"accent-gn\">30%</style>(최대 +<style=\"accent-gn\">120%</style>). <style=\"accent-gn\">일반 공격</style> 스킬의 업그레이드/승급에 따라 성장합니다.",
+    "Id": 1139,
+    "Par": 3401139,
+    "ShowRule": 1,
+    "Text": "꼬리 휩쓸기",
+    "Type": 3
+  },
+  "1140": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입히고, <style=\"accent-gn\">출혈</style>을 부여합니다.",
+    "Id": 1140,
+    "Par": 3401140,
+    "ShowRule": 1,
+    "Text": "물어뜯기",
+    "Type": 3
+  },
+  "1141": {
+    "Description": "지속 시간 <style=\"accent-gn\">5</style>초, 1초마다 공격력 <style=\"accent-gn\">10%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 같은 스킬로부터의 <style=\"accent-gn\">출혈</style> 효과가 중복 적용될 경우, 기존 <style=\"accent-gn\">출혈</style> 효과의 남은 대미지를 즉시 입힙니다.",
+    "Id": 1141,
+    "Par": 3401141,
+    "ShowRule": 1,
+    "Text": "출혈",
+    "Type": 3
+  },
+  "1142": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">50%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1142,
+    "Par": 3401142,
+    "ShowRule": 1,
+    "Text": "샤이닝 애로우",
+    "Type": 3
+  },
+  "1143": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">410%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1143,
+    "Par": 3401143,
+    "ShowRule": 1,
+    "Text": "섬광 돌진",
+    "Type": 3
+  },
+  "1144": {
+    "Description": "대상 및 주위 <style=\"accent-gn\">3</style>m 이내의 적에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1144,
+    "Par": 3401144,
+    "ShowRule": 1,
+    "Text": "폭발 화살",
+    "Type": 3
+  },
+  "1145": {
+    "Description": "범위 내 적에게 공격력 <style=\"accent-gn\">250%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1145,
+    "Par": 3401145,
+    "ShowRule": 1,
+    "Text": "짓밟기",
+    "Type": 3
+  },
+  "1146": {
+    "Description": "제자리에서 날갯짓을 합니다. 이후 <style=\"accent-gn\">10</style>초 동안 라이트 에너지 획득 효율이 <style=\"accent-gn\">100%</style> 증가합니다.",
+    "Id": 1146,
+    "Par": 3401146,
+    "ShowRule": 1,
+    "Text": "전설의 매",
+    "Type": 3
+  },
+  "1147": {
+    "Description": "흉포한 포효를 내지릅니다. 빛 원소 보너스 +<style=\"accent-gn\">50%</style>, <style=\"accent-gn\">10</style>초 지속.",
+    "Id": 1147,
+    "Par": 3401147,
+    "ShowRule": 1,
+    "Text": "전설 멧돼지",
+    "Type": 3
+  },
+  "1148": {
+    "Description": "<style=\"accent-gn\">강철 부리</style>의 스택 수가 <style=\"accent-gn\">5</style> 이상일 경우, <style=\"accent-gn\">강철 부리</style>가 중첩될 때마다 <style=\"accent-gn\">30%</style>의 고정 확률로 <style=\"accent-gn\">내폭</style>이 1회 발동해 범위 내 적군 목표에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. <style=\"accent-gn\">강철 부리</style>는 <style=\"accent-gn\">1</style>초마다 스택 수가 <style=\"accent-gn\">1</style> 감소하며, 최대 <style=\"accent-gn\">20</style>스택까지 중첩됩니다.",
+    "Id": 1148,
+    "Par": 3401148,
+    "ShowRule": 1,
+    "Text": "강철 부리",
+    "Type": 3
+  },
+  "1149": {
+    "Description": "반경 <style=\"accent-gn\">5</style>m의 폭풍을 일으켜, <style=\"accent-gn\">0</style>.<style=\"accent-gn\">5</style>초마다 폭풍 범위 내의 <style=\"accent-gn\">강철 부리</style> 표식이 있는 적에게 공격력 <style=\"accent-gn\">80%</style>만큼의 방어 무시 <style=\"physical\">물리 대미지</style>를 입힙니다. <style=\"accent-gn\">5</style>초 후, <style=\"accent-gn\">천공의 매</style>가 지면으로 급강하해, 공격력 <style=\"accent-gn\">500%</style>만큼의 방어 무시 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1149,
+    "Par": 3401149,
+    "ShowRule": 1,
+    "Text": "천공의 매",
+    "Type": 3
+  },
+  "1150": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">400%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1150,
+    "Par": 3401150,
+    "ShowRule": 1,
+    "Text": "환영 팔콘",
+    "Type": 3
+  },
+  "1151": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">35%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. <style=\"accent-gn\">일반 공격</style> 스킬의 업그레이드/승급에 따라 성장합니다.",
+    "Id": 1151,
+    "Par": 3401151,
+    "ShowRule": 1,
+    "Text": "스플릿 애로우",
+    "Type": 3
+  },
+  "1152": {
+    "Description": "공격 +<style=\"accent-gn\">5%</style>, <style=\"accent-gn\">10</style>초 지속.",
+    "Id": 1152,
+    "Par": 3401152,
+    "ShowRule": 1,
+    "Text": "예리함",
+    "Type": 3
+  },
+  "1153": {
+    "Description": "목표가 1초마다 공격력 <style=\"accent-gn\">25%</style>만큼의 체력을 잃습니다, <style=\"accent-gn\">8</style>초 지속.",
+    "Id": 1153,
+    "Par": 3401153,
+    "ShowRule": 1,
+    "Text": "파열",
+    "Type": 3
+  },
+  "1154": {
+    "Description": "<style=\"accent-gn\">파열</style> 대미지 +<style=\"accent-gn\">100%</style>, <style=\"accent-gn\">5</style>초 지속.",
+    "Id": 1154,
+    "Par": 3401154,
+    "ShowRule": 1,
+    "Text": "만신창이",
+    "Type": 3
+  },
+  "1155": {
+    "Description": "<style=\"accent-gn\">힘</style> +<style=\"accent-gn\">30%</style>, <style=\"accent-gn\">12</style>초 지속.",
+    "Id": 1155,
+    "Par": 3401155,
+    "ShowRule": 1,
+    "Text": "기력 강화",
+    "Type": 3
+  },
+  "1156": {
+    "Description": "「행운 효과」: 공격력 <style=\"accent-gn\">150%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1156,
+    "Par": 3401156,
+    "ShowRule": 1,
+    "Text": "스피어 피어싱",
+    "Type": 3
+  },
+  "1157": {
+    "Description": "<style=\"accent-gn\">찰나</style> 대미지 +<style=\"accent-gn\">30%</style>, <style=\"accent-gn\">10</style>초 지속, 최대 <style=\"accent-gn\">2</style>스택 중첩. <style=\"accent-gn\">찰나</style>로 대미지를 입힐 시 1스택 감소.",
+    "Id": 1157,
+    "Par": 3401157,
+    "ShowRule": 1,
+    "Text": "추격 신법",
+    "Type": 3
+  },
+  "1158": {
+    "Description": "범위 내 적에게 공격력 <style=\"accent-gn\">350%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1158,
+    "Par": 3401158,
+    "ShowRule": 1,
+    "Text": "토네이도",
+    "Type": 3
+  },
+  "1159": {
+    "Description": "강화된 <style=\"accent-gn\">예리한 찌르기</style>. 공중에 도약해 대상 및 대상 주변에 총 <style=\"accent-gn\">800%</style>의 <style=\"physical\">물리 대미지</style>를 입힙니다. <style=\"accent-gn\">예리한 찌르기</style> 스킬 업그레이드/승급에 따라 성장합니다.",
+    "Id": 1159,
+    "Par": 3401159,
+    "ShowRule": 1,
+    "Text": "풍신・예리한 찌르기",
+    "Type": 3
+  },
+  "1160": {
+    "Description": "얼음 운석이 대미지를 입힐 때 <style=\"accent-gn\">아이스 코어</style>가 <style=\"accent-gn\">아이스 애로우</style>를 발동하고, <style=\"accent-gn\">미스틱 아이스</style> 1개를 획득합니다.",
+    "Id": 1160,
+    "Par": 3401160,
+    "ShowRule": 1,
+    "Text": "어빌리티 - 아이스 브레이크",
+    "Type": 3
+  },
+  "1161": {
+    "Description": "스킬에 추가 효과를 부여합니다.",
+    "Id": 1161,
+    "Par": 3401161,
+    "ShowRule": 1,
+    "Text": "미스틱 아이스",
+    "Type": 3
+  },
+  "1162": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1162,
+    "Par": 3401162,
+    "ShowRule": 1,
+    "Text": "아이스 볼트",
+    "Type": 3
+  },
+  "1163": {
+    "Description": "주변 <style=\"accent-gn\">3</style>m 이내의 적에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1163,
+    "Par": 3401163,
+    "ShowRule": 1,
+    "Text": "프로스트 쇼크",
+    "Type": 3
+  },
+  "1164": {
+    "Description": "목표를 관통할 수 있는 <style=\"accent-gn\">장창</style>. 적군 목표에게 공격력 <style=\"accent-gn\">250%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1164,
+    "Par": 3401164,
+    "ShowRule": 1,
+    "Text": "피어싱 아이스 스피어",
+    "Type": 3
+  },
+  "1165": {
+    "Description": "「행운 효과」: 하늘에서 <style=\"accent-gn\">프로스트 코멧</style> 1개를 소환하여 적에게 공격력 <style=\"accent-gn\">200%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1165,
+    "Par": 3401165,
+    "ShowRule": 1,
+    "Text": "프로스트 코멧",
+    "Type": 3
+  },
+  "1166": {
+    "Description": "얼음 광선 중에 강력한 파동을 1회 일으켜 파동에 닿은 적에게 공격력 <style=\"accent-gn\">500%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1166,
+    "Par": 3401166,
+    "ShowRule": 1,
+    "Text": "콜드 펄스",
+    "Type": 3
+  },
+  "1167": {
+    "Description": "초당 <style=\"accent-gn\">2pt</style>의 <style=\"accent-gn\">도의</style>를 획득합니다. <style=\"accent-gn\">도의</style>의 기본 최대치는 <style=\"accent-gn\">100pt</style>입니다.<br><style=\"accent-gn\">도의</style>가 <style=\"accent-gn\">100pt</style>에 도달하면 <style=\"accent-gn\">발도</style> 시전 속도가 대폭 증가하며, <style=\"accent-gn\">발도</style> 시전 후 <style=\"accent-gn\">도의</style>를 <style=\"accent-gn\">100pt</style> 소모합니다.<br><style=\"accent-gn\">도의</style>는 <style=\"accent-gn\">벽력연참</style>의 자원으로도 소모할 수 있습니다.",
+    "Id": 1167,
+    "Par": 3401167,
+    "ShowRule": 1,
+    "Text": "도의",
+    "Type": 3
+  },
+  "1168": {
+    "Description": "<style=\"accent-gn\">실드</style> 강도 +<style=\"accent-gn\">3%</style>, <style=\"accent-gn\">10</style>초 지속, 최대 <style=\"accent-gn\">10</style>스택 중첩 가능.",
+    "Id": 1168,
+    "Par": 3401168,
+    "ShowRule": 1,
+    "Text": "모래의 가호",
+    "Type": 3
+  },
+  "1169": {
+    "Description": "뛰어올라 범위 내 적에게 공격력 <style=\"accent-gn\">400%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입히고, 반드시 <style=\"accent-gn\">약점 타격</style>을 발동시킵니다. <style=\"accent-gn\">일반 공격</style> 스킬의 업그레이드/승급에 따라 성장합니다.",
+    "Id": 1169,
+    "Par": 3401169,
+    "ShowRule": 1,
+    "Text": "노격",
+    "Type": 3
+  },
+  "1170": {
+    "Description": "<style=\"physical\">물리 대미지</style>를 받았을 때, 일정 확률로 <style=\"accent-gn\">막기</style>로 방어해, 해당 공격으로 받는 대미지가 <style=\"accent-gn\">30%</style> 감소합니다.",
+    "Id": 1170,
+    "Par": 3401170,
+    "ShowRule": 1,
+    "Text": "막기",
+    "Type": 3
+  },
+  "1171": {
+    "Description": "대상을 이동 불가 상태로 만들고, <style=\"accent-gn\">10</style>초 동안 받는 얼음 원소 대미지 +<style=\"accent-gn\">20%</style>. 해당 효과는 피격 시 해제됩니다. 짧은 시간 동안 여러 번 적용될 경우 지속 시간이 단축됩니다. 보스에게는 적용되지 않습니다.",
+    "Id": 1171,
+    "Par": 3401171,
+    "ShowRule": 1,
+    "Text": "빙결",
+    "Type": 3
+  },
+  "1172": {
+    "Description": "방패에 빛을 주입하여, 지속 시간 동안 자신이 받는 대미지의 <style=\"accent-gn\">50%</style>를 흡수합니다. 중복 시전 시 대미지 흡수량이 중첩되며 지속 시간이 초기화됩니다. 대미지 흡수량은 최대 체력의 <style=\"accent-gn\">100%</style>를 초과할 수 없습니다.",
+    "Id": 1172,
+    "Par": 3401172,
+    "ShowRule": 1,
+    "Text": "광명의 방패",
+    "Type": 3
+  },
+  "1173": {
+    "Description": "<style=\"accent-gn\">5</style>초 동안 <style=\"accent-gn\">0.5</style>초마다 아군 대상의 체력을 공격력 <style=\"accent-gn\">20%</style>만큼 회복시킵니다.",
+    "Id": 1173,
+    "Par": 3401173,
+    "ShowRule": 1,
+    "Text": "소닉 서지",
+    "Type": 3
+  },
+  "1174": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">150%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1174,
+    "Par": 3401174,
+    "ShowRule": 1,
+    "Text": "라이트 임팩트",
+    "Type": 3
+  },
+  "1175": {
+    "Description": "스택당 자신의 최종 최대 체력 +<style=\"accent-gn\">2%</style>. <style=\"accent-gn\">라이트포지드 배리어</style>는 최대 <style=\"accent-gn\">10</style>스택까지 보유할 수 있으며, 대미지를 받을 때마다 <style=\"accent-gn\">1</style>스택씩 소모됩니다. <style=\"accent-gn\">25</style>초 또는 모든 스택이 소모될 때까지 지속되며, 스택을 획득할 때마다 지속 시간이 초기화됩니다.",
+    "Id": 1175,
+    "Par": 3401175,
+    "ShowRule": 1,
+    "Text": "라이트포지드 배리어",
+    "Type": 3
+  },
+  "1176": {
+    "Description": "대상에게 공격력 <style=\"accent-gn\">240%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. <style=\"accent-gn\">선봉 공격</style> 스킬 업그레이드/승급에 따라 성장합니다.<br><style=\"accent-gn\">선봉 추격</style>으로 대미지를 입히면 자신 최대 체력의 <style=\"accent-gn\">2%</style>만큼 회복하며, <style=\"accent-gn\">용감무쌍</style> 상태를 획득합니다.",
+    "Id": 1176,
+    "Par": 3401176,
+    "ShowRule": 1,
+    "Text": "선봉 추격",
+    "Type": 3
+  },
+  "1177": {
+    "Description": "공격력 <style=\"accent-gn\">50%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입히고, 이동속도를 <style=\"accent-gn\">25%</style> 감소시킵니다.",
+    "Id": 1177,
+    "Par": 3401177,
+    "ShowRule": 1,
+    "Text": "신성한 일격",
+    "Type": 3
+  },
+  "1178": {
+    "Description": "<style=\"accent-gn\">선율</style> 설명",
+    "Id": 1178,
+    "Par": 3401178,
+    "ShowRule": 1,
+    "Text": "선율",
+    "Type": 3
+  },
+  "1179": {
+    "Description": "<style=\"accent-gn\">힘</style> +<style=\"accent-gn\">12%</style>, <style=\"accent-gn\">8</style>초 지속.",
+    "Id": 1179,
+    "Par": 3401179,
+    "ShowRule": 1,
+    "Text": "스톰 버스트",
+    "Type": 3
+  },
+  "1180": {
+    "Description": "근처 적 또는 아군에게 현을 발사하여 대미지를 주거나 치료합니다. 해당 수치는 현재 물리/마법 공격력 중 더 높은 수치의 <style=\"accent-gn\">50%</style>입니다.",
+    "Id": 1180,
+    "Par": 3401180,
+    "ShowRule": 1,
+    "Text": "앵콜",
+    "Type": 3
+  },
+  "1181": {
+    "Description": "<style=\"accent-gn\">지력</style> +<style=\"accent-gn\">5%</style>, <style=\"accent-gn\">6</style>초 지속.",
+    "Id": 1181,
+    "Par": 3401181,
+    "ShowRule": 1,
+    "Text": "불꽃의 열정",
+    "Type": 3
+  },
+  "1182": {
+    "Description": "매초마다 공격력 <style=\"accent-gn\">50%</style> * 스택 수만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. <style=\"accent-gn\">10</style>초 지속.",
+    "Id": 1182,
+    "Par": 3401182,
+    "ShowRule": 1,
+    "Text": "연소",
+    "Type": 3
+  },
+  "1183": {
+    "Description": "<style=\"accent-gn\">음표</style> 설명",
+    "Id": 1183,
+    "Par": 3401183,
+    "ShowRule": 1,
+    "Text": "음표",
+    "Type": 3
+  },
+  "1184": {
+    "Description": "<style=\"accent-gn\">흐르는 음파</style>",
+    "Id": 1184,
+    "Par": 3401184,
+    "ShowRule": 1,
+    "Text": "흐르는 음파",
+    "Type": 3
+  },
+  "1185": {
+    "Description": "주위 아군 대상에게 치료를 시전합니다. 수치는 비트 퍼포머 마법 공격력의 <style=\"accent-gn\">10%</style>입니다.",
+    "Id": 1185,
+    "Par": 3401185,
+    "ShowRule": 1,
+    "Text": "치료 음파",
+    "Type": 3
+  },
+  "1186": {
+    "Description": "<style=\"accent-gn\">음악 장벽</style>",
+    "Id": 1186,
+    "Par": 3401186,
+    "ShowRule": 1,
+    "Text": "음악 장벽",
+    "Type": 3
+  },
+  "1187": {
+    "Description": "주는 대미지 +<style=\"accent-gn\">15%</style>, 공격 속도 +<style=\"accent-gn\">10%</style>, <style=\"accent-gn\">15</style>초 지속.",
+    "Id": 1187,
+    "Par": 3401187,
+    "ShowRule": 1,
+    "Text": "바람의 분노",
+    "Type": 3
+  },
+  "1188": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">80%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1188,
+    "Par": 3401188,
+    "ShowRule": 1,
+    "Text": "루미너스 애로우",
+    "Type": 3
+  },
+  "1189": {
+    "Description": "주위 적에게 공격력 <style=\"accent-gn\">300%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1189,
+    "Par": 3401189,
+    "ShowRule": 1,
+    "Text": "녹음의 충격",
+    "Type": 3
+  },
+  "1190": {
+    "Description": "범위 내 적에게 공격력 <style=\"accent-gn\">60%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다. <style=\"accent-gn\">일반 공격</style> 스킬의 업그레이드/승급에 따라 성장합니다.",
+    "Id": 1190,
+    "Par": 3401190,
+    "ShowRule": 1,
+    "Text": "불기둥 임팩트",
+    "Type": 3
+  },
+  "1191": {
+    "Description": "자신 주위 <style=\"accent-gn\">5</style>m 범위에 화염 임팩트를 1회 발사해, 적중한 적에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1191,
+    "Par": 3401191,
+    "ShowRule": 1,
+    "Text": "화염 임팩트",
+    "Type": 3
+  },
+  "1192": {
+    "Description": "<style=\"accent-gn\">10</style>초 동안 대상의 체력을 공격력 <style=\"accent-gn\">35%</style>만큼 서서히 회복시킵니다. 최대 <style=\"accent-gn\">10</style>스택 중첩. <style=\"accent-gn\">10</style>스택인 상태에서 다시 부여될 때, 대상에게 남아 있는 <style=\"accent-gn\">음표</style> 치료량을 즉시 적용합니다.",
+    "Id": 1192,
+    "Par": 3401192,
+    "ShowRule": 1,
+    "Text": "음표",
+    "Type": 3
+  },
+  "1193": {
+    "Description": "대미지 또는 치료 효과를 가진 <style=\"accent-gn\">마스터리 스킬</style>을 시전할 때마다 <style=\"accent-gn\">50%</style>의 고정 확률로 <style=\"accent-gn\">앵콜 스트링</style>을 1회 발동해, 현재 공격 대상에게 대미지를 입히거나, 체력이 가장 낮은 아군 대상(파티원 우선)의 체력을 회복시킵니다.",
+    "Id": 1193,
+    "Par": 3401193,
+    "ShowRule": 1,
+    "Text": "앵콜 스트링",
+    "Type": 3
+  },
+  "1194": {
+    "Description": "6초 동안 이동하며 채널링하여, 지속적으로 전방을 향해 열정 발산을 시전합니다.",
+    "Id": 1194,
+    "Par": 3401194,
+    "ShowRule": 1,
+    "Text": "격앙・열정 발산",
+    "Type": 3
+  },
+  "1195": {
+    "Description": "즉시 <style=\"accent-gn\">에너지</style>를 <style=\"accent-gn\">100</style> 획득하며, 모든 치료형 <style=\"accent-gn\">마스터리 스킬</style>의 쿨타임이 회복됩니다. 이후 <style=\"accent-gn\">10</style>초 동안 마법 공격력 +<style=\"accent-gn\">30%</style>.",
+    "Id": 1195,
+    "Par": 3401195,
+    "ShowRule": 1,
+    "Text": "초월",
+    "Type": 3
+  },
+  "1196": {
+    "Description": "방패를 들고 전방으로 돌진해, 부딪힌 적에게 공격력 <style=\"accent-gn\">200%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1196,
+    "Par": 3401196,
+    "ShowRule": 1,
+    "Text": "방패 돌격",
+    "Type": 3
+  },
+  "1197": {
+    "Description": "범위 내 적에게 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Id": 1197,
+    "Par": 3401197,
+    "ShowRule": 1,
+    "Text": "플레임 쇼크",
+    "Type": 3
+  },
+  "1198": {
+    "Description": "<style=\"accent-gn\">10</style>초 후 자신 주변으로 신성 <style=\"accent-gn\">에너지</style>를 폭발시켜, 공격력 <style=\"accent-gn\">500%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입히고, 자신은 최대 체력의 <style=\"accent-gn\">15%</style>를 회복합니다.",
+    "Id": 1198,
+    "Par": 3401198,
+    "ShowRule": 1,
+    "Text": "라이트 코어",
+    "Type": 3
+  },
+  "1199": {
+    "Description": "대상이 이후 <style=\"accent-gn\">10</style>초 동안 1초마다 공격력 <style=\"accent-gn\">20%</style>만큼의 대미지를 입습니다. 또한, 해당 대상으로부터 대미지를 받을 때, <style=\"accent-gn\">10%</style>의 고정 확률로 체력을 회복합니다. 회복량은 최대 체력의 <style=\"accent-gn\">0.5%</style>입니다.",
+    "Id": 1199,
+    "Par": 3401199,
+    "ShowRule": 1,
+    "Text": "신성 인장",
+    "Type": 3
+  },
+  "1200": {
+    "Description": "「행운 효과」: <style=\"accent-gn\">3</style>m 범위 내 적군 목표에게 공격력의 <style=\"accent-gn\">1375%</style>에 해당하는 적응형 대미지를 줍니다. 치명타는 적용되지 않습니다.",
+    "Id": 1200,
+    "Par": 3401200,
+    "ShowRule": 1,
+    "Text": "환상 충격",
+    "Type": 3
+  },
+  "1201": {
+    "Description": "<style=\"accent-gn\">3</style>m 범위 내 적군 목표에게 공격력의 <style=\"accent-gn\">850%</style>에 해당하는 적응형 대미지를 줍니다. 동시에 치명타 대미지는 항상 <style=\"accent-gn\">500%</style>로 결산됩니다.",
+    "Id": 1201,
+    "Par": 3401201,
+    "ShowRule": 1,
+    "Text": "환상꿈 처형",
+    "Type": 3
+  },
+  "1202": {
+    "Description": "<style=\"accent-gn\">3</style>미터 범위 내 적군 목표에게 공격력 <style=\"accent-gn\">165%</style>의 적응형 대미지를 줍니다.",
+    "Id": 1202,
+    "Par": 3401202,
+    "ShowRule": 1,
+    "Text": "몽환의 화살",
+    "Type": 3
+  },
+  "1203": {
+    "Description": "스택당 공격력이 <style=\"accent-gn\">18</style> 증가합니다(시즌 레벨에 따라 최대 <style=\"accent-gn\">50</style>까지 증가).",
+    "Id": 1203,
+    "Par": 3401203,
+    "ShowRule": 1,
+    "Text": "몽롱한 꿈속",
+    "Type": 3
+  },
+  "1204": {
+    "Description": "메인 능력치가 <style=\"accent-gn\">450</style> 증가합니다(시즌 레벨에 다라 최대 <style=\"accent-gn\">1050</style>까지 증가). 지속 시간 동안 남겨진 꿈을 획득할 수 없습니다.",
+    "Id": 1204,
+    "Par": 3401204,
+    "ShowRule": 1,
+    "Text": "몽환의 힘",
+    "Type": 3
+  },
+  "1205": {
+    "Description": "공격력이 <style=\"accent-gn\">20%</style> 감소하며, 받는 꿈 대미지가 <style=\"accent-gn\">10%</style> 증가하고, 이동속도가 <style=\"accent-gn\">20%</style> 감소합니다(중첩 불가).",
+    "Id": 1205,
+    "Par": 3401205,
+    "ShowRule": 1,
+    "Text": "적멸",
+    "Type": 3
+  },
+  "1206": {
+    "Description": "자신의 <style=\"accent-gn\">5</style>미터 내 적군 목표에게 공격력 <style=\"accent-gn\">200%</style>의 적응형 대미지를 주며, 목표에게 <style=\"accent-gn\">1</style>.<style=\"accent-gn\">5</style>초 동안 <linktext=3005><style=\"ItemQuality_5\">스턴</style></linktext>을 부여합니다.",
+    "Id": 1206,
+    "Par": 3401206,
+    "ShowRule": 1,
+    "Text": "적멸 타격",
+    "Type": 3
+  },
+  "1207": {
+    "Description": "사망에 면역됩니다.",
+    "Id": 1207,
+    "Par": 3401207,
+    "ShowRule": 1,
+    "Text": "빈사",
+    "Type": 3
+  },
+  "1208": {
+    "Description": "자신의 <style=\"accent-gn\">5</style>미터 내 적군 목표에게 물리 방어력 <style=\"accent-gn\">330%</style>의 적응형 대미지를 줍니다.",
+    "Id": 1208,
+    "Par": 3401208,
+    "ShowRule": 1,
+    "Text": "허망의 판결",
+    "Type": 3
+  },
+  "1209": {
+    "Description": "최대 체력이 <style=\"accent-gn\">3%</style> 증가하고, 숙련이 <style=\"accent-gn\">2%</style> 증가합니다. 최대 <style=\"accent-gn\">3</style>스택까지 중첩됩니다.",
+    "Id": 1209,
+    "Par": 3401209,
+    "ShowRule": 1,
+    "Text": "끝없는 사유",
+    "Type": 3
+  },
+  "1210": {
+    "Description": "힘, 지력, 민첩 <style=\"accent-gn\">2</style>pt마다, <style=\"accent-gn\">1</style>pt 공격력으로 전환됩니다.<br><style=\"accent-gn\">1</style>pt 내구력마다 <style=\"accent-gn\">8</style>pt 최대 체력으로 전환됩니다.<br><style=\"accent-gn\">1%</style> 속공마다 <style=\"accent-gn\">0.6%</style> 공격 속도 및 <style=\"accent-gn\">1%</style> 스킬 시전 속도로 전환됩니다.<br><style=\"accent-gn\">1%</style> 만능마다 주는 대미지, 치료, 실드 부여 시의 퍼센트 보너스가 <style=\"accent-gn\">0.35%</style>씩 증가하며, 대미지를 받을 시의 대미지 감면이 <style=\"accent-gn\">0.15%</style> 감소합니다.<br><style=\"accent-gn\">1%</style>숙련마다 <style=\"accent-gn\">0.5%</style> 공통 대미지 증가로 전환됩니다.",
+    "Id": 1210,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "대장장이의 힘",
+    "Type": 1
+  },
+  "1211": {
+    "Description": "<style=\"accent-gn\">마스터리 스킬</style> 공격 속도 +<style=\"accent-gn\">5%</style>, 지속 시간 <style=\"accent-gn\">10</style>초, 최대 <style=\"accent-gn\">5</style>스택 중첩 가능.",
+    "Id": 1211,
+    "Par": 3401211,
+    "ShowRule": 1,
+    "Text": "업화의 연격",
+    "Type": 3
+  },
+  "1212": {
+    "Description": "불 원소 보너스 +<style=\"accent-gn\">10%</style>, 지속 시간 <style=\"accent-gn\">8</style>초.",
+    "Id": 1212,
+    "Par": 3401212,
+    "ShowRule": 1,
+    "Text": "치염",
+    "Type": 3
+  },
+  "1213": {
+    "Description": "<style=\"accent-gn\">2</style>초마다 공격력 <style=\"accent-gn\">35% * 스택 수</style>만큼의 <style=\"physical\">물리 대미지</style>를 줍니다. 지속 시간 <style=\"accent-gn\">10</style>초, 최대 <style=\"accent-gn\">10</style>스택 중첩 가능. <style=\"accent-gn\">연소</style> 중첩 최대치 도달 시 새로 부여되는 <style=\"accent-gn\">연소</style>는 즉시 공격력 <style=\"accent-gn\">35%</style>의 <style=\"physical\">물리 대미지</style>를 즉시 줍니다.",
+    "Id": 1213,
+    "Par": 3401213,
+    "ShowRule": 1,
+    "Text": "연소",
+    "Type": 3
+  },
+  "1214": {
+    "Description": "범위 내의 적 대상에게 공격력 <style=\"accent-gn\">800%</style>의 <style=\"physical\">물리 대미지</style>를 주며, <style=\"accent-gn\">염혼</style>을 <style=\"accent-gn\">10</style>pt 획득합니다.",
+    "Id": 1214,
+    "Par": 3401214,
+    "ShowRule": 1,
+    "Text": "염폭",
+    "Type": 3
+  },
+  "1215": {
+    "Description": "적에게 공격력 <style=\"accent-gn\">500%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1215,
+    "Par": 3401215,
+    "ShowRule": 1,
+    "Text": "지옥불 유성",
+    "Type": 3
+  },
+  "1216": {
+    "Description": "대미지를 입힐 때마다 현재 스킬 배율의 추가 타격이 발생합니다. 확률은 다음과 같습니다: <br>무상화참 <style=\"accent-gn\">1</style>단 확률: <style=\"accent-gn\">20%</style>.<br>무상화참 <style=\"accent-gn\">2</style>단 확률：<style=\"accent-gn\">10%</style>.<br>무상화참 <style=\"accent-gn\">3</style>단 확률: <style=\"accent-gn\">5%</style>.",
+    "Id": 1216,
+    "Par": 3401216,
+    "ShowRule": 1,
+    "Text": "무상화참",
+    "Type": 3
+  },
+  "1217": {
+    "Description": "범위 내 적에게 공격력 <style=\"accent-gn\">800%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다.",
+    "Id": 1217,
+    "Par": 3401217,
+    "ShowRule": 1,
+    "Text": "대홍련환",
+    "Type": 3
+  },
+  "1218": {
+    "Description": "대미지를 받을 때 자신의 체력 비율이 공격자의 체력 비율보다 높을 경우, 받는 대미지가 <style=\"accent-gn\">10%</style> 감소합니다.<br>대미지를 입힐 때 자신의 체력 비율이 대상의 체력 비율보다 높을 경우, 주는 대미지가 <style=\"accent-gn\">5%</style> 증가합니다.",
+    "Id": 1218,
+    "Par": 3401218,
+    "ShowRule": 1,
+    "Text": "화염 제압",
+    "Type": 3
+  },
+  "1219": {
+    "Description": "힘, 지력, 민첩이 <style=\"accent-gn\">2</style>pt당 공격력 <style=\"accent-gn\">1</style>pt로 전환됩니다.<br>내구력이 <style=\"accent-gn\">1</style>pt당 최대 체력 <style=\"accent-gn\">8</style>pt로 전환됩니다.<br>보유 중인 <style=\"accent-gn\">치명타%</style>, <style=\"accent-gn\">행운%</style>, <style=\"accent-gn\">숙련%</style>, <style=\"accent-gn\">속공%</style> 그리고 <style=\"accent-gn\">만능%</style>가 원래 효과를 잃는 대신, 새로운 능력을 얻습니다: 현재 공명 스킬의 스킬 대미지가 반드시 치명타로 적중하며, 치명타 대미지는 <style=\"accent-gn\">치명타%+행운%+숙련%+속공%+만능%</style>의 합계 수치로 계산됩니다.",
+    "Id": 1219,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "능력치 전환",
+    "Type": 1
+  },
+  "1500": {
+    "Description": "",
+    "Id": 1500,
+    "Par": 1714,
+    "ShowRule": 1,
+    "Text": "발도",
+    "Type": 2
+  },
+  "1501": {
+    "Description": "",
+    "Id": 1501,
+    "Par": 1717,
+    "ShowRule": 1,
+    "Text": "일섬",
+    "Type": 2
+  },
+  "1502": {
+    "Description": "",
+    "Id": 1502,
+    "Par": 1713,
+    "ShowRule": 1,
+    "Text": "극의・대파멸연참",
+    "Type": 2
+  },
+  "1503": {
+    "Description": "",
+    "Id": 1503,
+    "Par": 1724,
+    "ShowRule": 1,
+    "Text": "벽력연참",
+    "Type": 2
+  },
+  "1504": {
+    "Description": "",
+    "Id": 1504,
+    "Par": 1730,
+    "ShowRule": 1,
+    "Text": "무궁뇌정의 힘",
+    "Type": 2
+  },
+  "1505": {
+    "Description": "",
+    "Id": 1505,
+    "Par": 1731,
+    "ShowRule": 1,
+    "Text": "천뢰섬영의 의지",
+    "Type": 2
+  },
+  "1506": {
+    "Description": "",
+    "Id": 1506,
+    "Par": 1738,
+    "ShowRule": 1,
+    "Text": "흩날리는 칼날",
+    "Type": 2
+  },
+  "1507": {
+    "Description": "",
+    "Id": 1507,
+    "Par": 1715,
+    "ShowRule": 1,
+    "Text": "월영",
+    "Type": 2
+  },
+  "1508": {
+    "Description": "",
+    "Id": 1508,
+    "Par": 1246,
+    "ShowRule": 1,
+    "Text": "타이드풀",
+    "Type": 2
+  },
+  "1509": {
+    "Description": "",
+    "Id": 1509,
+    "Par": 1241,
+    "ShowRule": 1,
+    "Text": "프로스트 레이",
+    "Type": 2
+  },
+  "1510": {
+    "Description": "",
+    "Id": 1510,
+    "Par": 1211,
+    "ShowRule": 1,
+    "Text": "워터 볼",
+    "Type": 2
+  },
+  "1511": {
+    "Description": "",
+    "Id": 1511,
+    "Par": 1239,
+    "ShowRule": 1,
+    "Text": "메테오 스톰",
+    "Type": 2
+  },
+  "1512": {
+    "Description": "",
+    "Id": 1512,
+    "Par": 1242,
+    "ShowRule": 1,
+    "Text": "프로스트 스피어",
+    "Type": 2
+  },
+  "1513": {
+    "Description": "",
+    "Id": 1513,
+    "Par": 1244,
+    "ShowRule": 1,
+    "Text": "블리자드",
+    "Type": 2
+  },
+  "1514": {
+    "Description": "",
+    "Id": 1514,
+    "Par": 1240,
+    "ShowRule": 1,
+    "Text": "프로즌 게일",
+    "Type": 2
+  },
+  "1515": {
+    "Description": "",
+    "Id": 1515,
+    "Par": 1243,
+    "ShowRule": 1,
+    "Text": "퍼마프로스트",
+    "Type": 2
+  },
+  "1516": {
+    "Description": "",
+    "Id": 1516,
+    "Par": 1248,
+    "ShowRule": 1,
+    "Text": "극한・글레이셜 앤섬",
+    "Type": 2
+  },
+  "1517": {
+    "Description": "",
+    "Id": 1517,
+    "Par": 1418,
+    "ShowRule": 1,
+    "Text": "질풍 찌르기",
+    "Type": 2
+  },
+  "1518": {
+    "Description": "",
+    "Id": 1518,
+    "Par": 1430,
+    "ShowRule": 1,
+    "Text": "윈드 오라",
+    "Type": 2
+  },
+  "1519": {
+    "Description": "",
+    "Id": 1519,
+    "Par": 1424,
+    "ShowRule": 1,
+    "Text": "찰나",
+    "Type": 2
+  },
+  "1520": {
+    "Description": "",
+    "Id": 1520,
+    "Par": 1419,
+    "ShowRule": 1,
+    "Text": "공중 반격",
+    "Type": 2
+  },
+  "1521": {
+    "Description": "",
+    "Id": 1521,
+    "Par": 1431,
+    "ShowRule": 1,
+    "Text": "예리한 찌르기",
+    "Type": 2
+  },
+  "1522": {
+    "Description": "",
+    "Id": 1522,
+    "Par": 1422,
+    "ShowRule": 1,
+    "Text": "체이싱",
+    "Type": 2
+  },
+  "1523": {
+    "Description": "",
+    "Id": 1523,
+    "Par": 1421,
+    "ShowRule": 1,
+    "Text": "나선 찌르기",
+    "Type": 2
+  },
+  "1524": {
+    "Description": "",
+    "Id": 1524,
+    "Par": 1425,
+    "ShowRule": 1,
+    "Text": "팔콘 토스",
+    "Type": 2
+  },
+  "1525": {
+    "Description": "",
+    "Id": 1525,
+    "Par": 1409,
+    "ShowRule": 1,
+    "Text": "풍신・파괴의 바람",
+    "Type": 2
+  },
+  "1526": {
+    "Description": "",
+    "Id": 1526,
+    "Par": 1518,
+    "ShowRule": 1,
+    "Text": "야생의 꽃",
+    "Type": 2
+  },
+  "1527": {
+    "Description": "",
+    "Id": 1527,
+    "Par": 1507,
+    "ShowRule": 1,
+    "Text": "생명의 꽃",
+    "Type": 2
+  },
+  "1528": {
+    "Description": "",
+    "Id": 1528,
+    "Par": 1522,
+    "ShowRule": 1,
+    "Text": "양분 주기",
+    "Type": 2
+  },
+  "1529": {
+    "Description": "",
+    "Id": 1529,
+    "Par": 1519,
+    "ShowRule": 1,
+    "Text": "자유의 씨앗",
+    "Type": 2
+  },
+  "1530": {
+    "Description": "",
+    "Id": 1530,
+    "Par": 1520,
+    "ShowRule": 1,
+    "Text": "인퓨전",
+    "Type": 2
+  },
+  "1531": {
+    "Description": "",
+    "Id": 1531,
+    "Par": 1509,
+    "ShowRule": 1,
+    "Text": "만개・희망의 결계",
+    "Type": 2
+  },
+  "1532": {
+    "Description": "",
+    "Id": 1532,
+    "Par": 1523,
+    "ShowRule": 1,
+    "Text": "재생의 파동",
+    "Type": 2
+  },
+  "1533": {
+    "Description": "",
+    "Id": 1533,
+    "Par": 1529,
+    "ShowRule": 1,
+    "Text": "에너지 주입",
+    "Type": 2
+  },
+  "1534": {
+    "Description": "",
+    "Id": 1534,
+    "Par": 1521,
+    "ShowRule": 1,
+    "Text": "숲의 기도",
+    "Type": 2
+  },
+  "1535": {
+    "Description": "",
+    "Id": 1535,
+    "Par": 1531,
+    "ShowRule": 1,
+    "Text": "자연의 가호",
+    "Type": 2
+  },
+  "1536": {
+    "Description": "",
+    "Id": 1536,
+    "Par": 1907,
+    "ShowRule": 1,
+    "Text": "바위 수호・붕괴의 고리",
+    "Type": 2
+  },
+  "1537": {
+    "Description": "",
+    "Id": 1537,
+    "Par": 1924,
+    "ShowRule": 1,
+    "Text": "별 쪼개기",
+    "Type": 2
+  },
+  "1538": {
+    "Description": "",
+    "Id": 1538,
+    "Par": 1931,
+    "ShowRule": 1,
+    "Text": "블로킹 스트라이크",
+    "Type": 2
+  },
+  "1539": {
+    "Description": "",
+    "Id": 1539,
+    "Par": 1937,
+    "ShowRule": 1,
+    "Text": "분노의 바위",
+    "Type": 2
+  },
+  "1540": {
+    "Description": "",
+    "Id": 1540,
+    "Par": 1922,
+    "ShowRule": 1,
+    "Text": "실드 배쉬",
+    "Type": 2
+  },
+  "1541": {
+    "Description": "",
+    "Id": 1541,
+    "Par": 1927,
+    "ShowRule": 1,
+    "Text": "모래 장막",
+    "Type": 2
+  },
+  "1542": {
+    "Description": "",
+    "Id": 1542,
+    "Par": 1936,
+    "ShowRule": 1,
+    "Text": "거암의 신체",
+    "Type": 2
+  },
+  "1543": {
+    "Description": "",
+    "Id": 1543,
+    "Par": 1938,
+    "ShowRule": 1,
+    "Text": "영웅의 방벽",
+    "Type": 2
+  },
+  "1544": {
+    "Description": "",
+    "Id": 1544,
+    "Par": 1925,
+    "ShowRule": 1,
+    "Text": "분노 폭발",
+    "Type": 2
+  },
+  "1545": {
+    "Description": "",
+    "Id": 1545,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "격렬한 사격",
+    "Type": 2
+  },
+  "1546": {
+    "Description": "",
+    "Id": 1546,
+    "Par": 2209,
+    "ShowRule": 1,
+    "Text": "꿰뚫는 눈・샤이닝 애로우",
+    "Type": 2
+  },
+  "1547": {
+    "Description": "",
+    "Id": 1547,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "더블 애로우",
+    "Type": 2
+  },
+  "1548": {
+    "Description": "",
+    "Id": 1548,
+    "Par": 2238,
+    "ShowRule": 1,
+    "Text": "익스플로전 샷",
+    "Type": 2
+  },
+  "1549": {
+    "Description": "",
+    "Id": 1549,
+    "Par": 2237,
+    "ShowRule": 1,
+    "Text": "야생의 부름",
+    "Type": 2
+  },
+  "1550": {
+    "Description": "",
+    "Id": 1550,
+    "Par": 2232,
+    "ShowRule": 1,
+    "Text": "화살비",
+    "Type": 2
+  },
+  "1551": {
+    "Description": "",
+    "Id": 1551,
+    "Par": 1528,
+    "ShowRule": 1,
+    "Text": "넘치는 생기",
+    "Type": 2
+  },
+  "1552": {
+    "Description": "",
+    "Id": 1552,
+    "Par": 1527,
+    "ShowRule": 1,
+    "Text": "치유의 꽃말",
+    "Type": 2
+  },
+  "1553": {
+    "Description": "",
+    "Id": 1553,
+    "Par": 1420,
+    "ShowRule": 1,
+    "Text": "비범한 풍모",
+    "Type": 2
+  },
+  "1554": {
+    "Description": "",
+    "Id": 1554,
+    "Par": 1718,
+    "ShowRule": 1,
+    "Text": "비뢰신",
+    "Type": 2
+  },
+  "1555": {
+    "Description": "",
+    "Id": 1555,
+    "Par": 2231,
+    "ShowRule": 1,
+    "Text": "정신 집중",
+    "Type": 2
+  },
+  "1556": {
+    "Description": "",
+    "Id": 1556,
+    "Par": 1705,
+    "ShowRule": 1,
+    "Text": "초고출력",
+    "Type": 2
+  },
+  "1557": {
+    "Description": "",
+    "Id": 1557,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "빛의 의지・쿼드러플 애로우",
+    "Type": 2
+  },
+  "1558": {
+    "Description": "",
+    "Id": 1558,
+    "Par": 1210,
+    "ShowRule": 1,
+    "Text": "메일스트롬",
+    "Type": 2
+  },
+  "1559": {
+    "Description": "",
+    "Id": 1559,
+    "Par": 2421,
+    "ShowRule": 1,
+    "Text": "성스러운 검",
+    "Type": 2
+  },
+  "1560": {
+    "Description": "",
+    "Id": 1560,
+    "Par": 2409,
+    "ShowRule": 1,
+    "Text": "디바인 서클",
+    "Type": 2
+  },
+  "1561": {
+    "Description": "",
+    "Id": 1561,
+    "Par": 2405,
+    "ShowRule": 1,
+    "Text": "용맹의 방패",
+    "Type": 2
+  },
+  "1562": {
+    "Description": "",
+    "Id": 1562,
+    "Par": 2408,
+    "ShowRule": 1,
+    "Text": "방패 투척",
+    "Type": 2
+  },
+  "1563": {
+    "Description": "",
+    "Id": 1563,
+    "Par": 2412,
+    "ShowRule": 1,
+    "Text": "숙청",
+    "Type": 2
+  },
+  "1564": {
+    "Description": "",
+    "Id": 1564,
+    "Par": 2410,
+    "ShowRule": 1,
+    "Text": "심판",
+    "Type": 2
+  },
+  "1565": {
+    "Description": "",
+    "Id": 1565,
+    "Par": 2415,
+    "ShowRule": 1,
+    "Text": "라이트 프로텍션",
+    "Type": 2
+  },
+  "1566": {
+    "Description": "",
+    "Id": 1566,
+    "Par": 2406,
+    "ShowRule": 1,
+    "Text": "선봉 타격",
+    "Type": 2
+  },
+  "1567": {
+    "Description": "",
+    "Id": 1567,
+    "Par": 2419,
+    "ShowRule": 1,
+    "Text": "냉혹한 정벌",
+    "Type": 2
+  },
+  "1568": {
+    "Description": "",
+    "Id": 1568,
+    "Par": 2420,
+    "ShowRule": 1,
+    "Text": "결의의 빛",
+    "Type": 2
+  },
+  "1569": {
+    "Description": "",
+    "Id": 1569,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "용기의 선율",
+    "Type": 2
+  },
+  "1570": {
+    "Description": "",
+    "Id": 1570,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "열기 분출",
+    "Type": 2
+  },
+  "1571": {
+    "Description": "",
+    "Id": 1571,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "리듬의 소용돌이",
+    "Type": 2
+  },
+  "1572": {
+    "Description": "",
+    "Id": 1572,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "격앙 니 슬라이드",
+    "Type": 2
+  },
+  "1573": {
+    "Description": "",
+    "Id": 1573,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "화력 전개",
+    "Type": 2
+  },
+  "1574": {
+    "Description": "",
+    "Id": 1574,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "활기찬 소생",
+    "Type": 2
+  },
+  "1575": {
+    "Description": "",
+    "Id": 1575,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "재생의 선율",
+    "Type": 2
+  },
+  "1576": {
+    "Description": "",
+    "Id": 1576,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "열정의 랩소디",
+    "Type": 2
+  },
+  "1577": {
+    "Description": "",
+    "Id": 1577,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "치유 음파",
+    "Type": 2
+  },
+  "1578": {
+    "Description": "",
+    "Id": 1578,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "폭렬 음표",
+    "Type": 2
+  },
+  "1579": {
+    "Description": "",
+    "Id": 1579,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "승격・열광의 스테이지",
+    "Type": 2
+  },
+  "1580": {
+    "Description": "",
+    "Id": 1580,
+    "Par": 2230,
+    "ShowRule": 1,
+    "Text": "래피드 샷",
+    "Type": 2
+  },
+  "1581": {
+    "Description": "",
+    "Id": 1581,
+    "Par": 2234,
+    "ShowRule": 1,
+    "Text": "라이트 봄버",
+    "Type": 2
+  },
+  "1582": {
+    "Description": "",
+    "Id": 1582,
+    "Par": 2233,
+    "ShowRule": 1,
+    "Text": "차지 샷",
+    "Type": 2
+  },
+  "1583": {
+    "Description": "",
+    "Id": 1583,
+    "Par": 1524,
+    "ShowRule": 1,
+    "Text": "가속 성장",
+    "Type": 2
+  },
+  "1584": {
+    "Description": "",
+    "Id": 1584,
+    "Par": 1735,
+    "ShowRule": 1,
+    "Text": "용섬",
+    "Type": 2
+  },
+  "1585": {
+    "Description": "",
+    "Id": 1585,
+    "Par": 1736,
+    "ShowRule": 1,
+    "Text": "그림자 베기",
+    "Type": 2
+  },
+  "1586": {
+    "Description": "",
+    "Id": 1586,
+    "Par": 1733,
+    "ShowRule": 1,
+    "Text": "뇌전의 낫",
+    "Type": 2
+  },
+  "1587": {
+    "Description": "",
+    "Id": 1587,
+    "Par": 1737,
+    "ShowRule": 1,
+    "Text": "신벌의 낫",
+    "Type": 2
+  },
+  "1588": {
+    "Description": "",
+    "Id": 1588,
+    "Par": 1734,
+    "ShowRule": 1,
+    "Text": "뇌절",
+    "Type": 2
+  },
+  "1589": {
+    "Description": "",
+    "Id": 1589,
+    "Par": 1433,
+    "ShowRule": 1,
+    "Text": "궁극・폭풍 가르기",
+    "Type": 2
+  },
+  "1590": {
+    "Description": "",
+    "Id": 1590,
+    "Par": 1434,
+    "ShowRule": 1,
+    "Text": "그림자 나선",
+    "Type": 2
+  },
+  "1591": {
+    "Description": "",
+    "Id": 1591,
+    "Par": 1435,
+    "ShowRule": 1,
+    "Text": "용격포",
+    "Type": 2
+  },
+  "1592": {
+    "Description": "",
+    "Id": 1592,
+    "Par": 1411,
+    "ShowRule": 1,
+    "Text": "신속의 창",
+    "Type": 2
+  },
+  "1593": {
+    "Description": "",
+    "Id": 1593,
+    "Par": 1525,
+    "ShowRule": 1,
+    "Text": "사슴의 돌진",
+    "Type": 2
+  },
+  "1594": {
+    "Description": "",
+    "Id": 1594,
+    "Par": 1941,
+    "ShowRule": 1,
+    "Text": "별 부수기",
+    "Type": 2
+  },
+  "1595": {
+    "Description": "",
+    "Id": 1595,
+    "Par": 1942,
+    "ShowRule": 1,
+    "Text": "붕괴",
+    "Type": 2
+  },
+  "1597": {
+    "Description": "",
+    "Id": 1597,
+    "Par": 1943,
+    "ShowRule": 1,
+    "Text": "거암 강타",
+    "Type": 2
+  },
+  "1598": {
+    "Description": "",
+    "Id": 1598,
+    "Par": 2416,
+    "ShowRule": 1,
+    "Text": "단죄",
+    "Type": 2
+  },
+  "1599": {
+    "Description": "",
+    "Id": 1599,
+    "Par": 2417,
+    "ShowRule": 1,
+    "Text": "강화 단죄",
+    "Type": 2
+  },
+  "1600": {
+    "Description": "",
+    "Id": 1600,
+    "Par": 2413,
+    "ShowRule": 1,
+    "Text": "열화의 숙청",
+    "Type": 2
+  },
+  "1601": {
+    "Description": "",
+    "Id": 1601,
+    "Par": 2220,
+    "ShowRule": 1,
+    "Text": "스톰 애로우",
+    "Type": 2
+  },
+  "1602": {
+    "Description": "",
+    "Id": 1602,
+    "Par": 2240,
+    "ShowRule": 1,
+    "Text": "빛의 의지・래피드 샷",
+    "Type": 2
+  },
+  "1603": {
+    "Description": "",
+    "Id": 1603,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "불꽃의 랩소디",
+    "Type": 2
+  },
+  "1604": {
+    "Description": "",
+    "Id": 1604,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "증폭하는 비트",
+    "Type": 2
+  },
+  "1605": {
+    "Description": "",
+    "Id": 1605,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "결집의 악장",
+    "Type": 2
+  },
+  "1606": {
+    "Description": "",
+    "Id": 1606,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "울림・치유의 악장",
+    "Type": 2
+  },
+  "1607": {
+    "Description": "",
+    "Id": 1607,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "격렬한 오중주",
+    "Type": 2
+  },
+  "1608": {
+    "Description": "",
+    "Id": 1608,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "열정 발산",
+    "Type": 2
+  },
+  "1609": {
+    "Description": "",
+    "Id": 1609,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "치유의 비트",
+    "Type": 2
+  },
+  "1610": {
+    "Description": "",
+    "Id": 1610,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "어텐션",
+    "Type": 2
+  },
+  "1611": {
+    "Description": "",
+    "Id": 1611,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "승격・열광의 스테이지",
+    "Type": 2
+  },
+  "1612": {
+    "Description": "",
+    "Id": 1612,
+    "Par": 2335,
+    "ShowRule": 1,
+    "Text": "승격・인피니트 랩소디",
+    "Type": 2
+  },
+  "1613": {
+    "Description": "",
+    "Id": 1613,
+    "Par": 2336,
+    "ShowRule": 1,
+    "Text": "승격・객석 순회",
+    "Type": 2
+  },
+  "1614": {
+    "Description": "",
+    "Id": 1614,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "울림・용맹의 악장",
+    "Type": 2
+  },
+  "1615": {
+    "Description": "",
+    "Id": 1615,
+    "Par": 2317,
+    "ShowRule": 1,
+    "Text": "맹렬한 휘두르기",
+    "Type": 2
+  },
+  "1616": {
+    "Description": "",
+    "Id": 1616,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "앵콜",
+    "Type": 2
+  },
+  "1617": {
+    "Description": "",
+    "Id": 1617,
+    "Par": 2332,
+    "ShowRule": 1,
+    "Text": "격앙・열정 발산",
+    "Type": 2
+  },
+  "1618": {
+    "Description": "",
+    "Id": 1618,
+    "Par": 2301,
+    "ShowRule": 1,
+    "Text": "스트로크",
+    "Type": 2
+  },
+  "1619": {
+    "Description": "",
+    "Id": 1619,
+    "Par": 1605,
+    "ShowRule": 1,
+    "Text": "작열 승천",
+    "Type": 2
+  },
+  "1620": {
+    "Description": "",
+    "Id": 1620,
+    "Par": 1619,
+    "ShowRule": 1,
+    "Text": "비상하는 화염",
+    "Type": 2
+  },
+  "1621": {
+    "Description": "",
+    "Id": 1621,
+    "Par": 1606,
+    "ShowRule": 1,
+    "Text": "광열의 참격",
+    "Type": 2
+  },
+  "1622": {
+    "Description": "",
+    "Id": 1622,
+    "Par": 1607,
+    "ShowRule": 1,
+    "Text": "열화의 습격",
+    "Type": 2
+  },
+  "1623": {
+    "Description": "",
+    "Id": 1623,
+    "Par": 1608,
+    "ShowRule": 1,
+    "Text": "격노 강타",
+    "Type": 2
+  },
+  "1624": {
+    "Description": "",
+    "Id": 1624,
+    "Par": 1612,
+    "ShowRule": 1,
+    "Text": "도끼 폭풍",
+    "Type": 2
+  },
+  "1625": {
+    "Description": "",
+    "Id": 1625,
+    "Par": 1615,
+    "ShowRule": 1,
+    "Text": "황천의 적멸",
+    "Type": 2
+  },
+  "1626": {
+    "Description": "",
+    "Id": 1626,
+    "Par": 1613,
+    "ShowRule": 1,
+    "Text": "광염난무",
+    "Type": 2
+  },
+  "1627": {
+    "Description": "",
+    "Id": 1627,
+    "Par": 1614,
+    "ShowRule": 1,
+    "Text": "해방된 유성",
+    "Type": 2
+  },
+  "1628": {
+    "Description": "",
+    "Id": 1628,
+    "Par": 1621,
+    "ShowRule": 1,
+    "Text": "염마천락살",
+    "Type": 2
+  },
+  "1629": {
+    "Description": "",
+    "Id": 1629,
+    "Par": 1617,
+    "ShowRule": 1,
+    "Text": "무한의 염마",
+    "Type": 2
+  },
+  "1630": {
+    "Description": "",
+    "Id": 1630,
+    "Par": 1616,
+    "ShowRule": 1,
+    "Text": "유수화참",
+    "Type": 2
+  },
+  "3000": {
+    "Description": "목표가 캐스팅 중인 스킬을 중단시키고 쿨타임 상태로 전환합니다. 보스에게는 적용되지 않습니다.",
+    "Id": 3000,
+    "Par": 3403000,
+    "ShowRule": 1,
+    "Text": "방해",
+    "Type": 3
+  },
+  "3001": {
+    "Description": "적이 마법을 캐스팅할 수 없게 만듭니다. 보스에게는 적용되지 않으며, 일종의 디버프입니다.",
+    "Id": 3001,
+    "Par": 3403001,
+    "ShowRule": 1,
+    "Text": "침묵",
+    "Type": 3
+  },
+  "3002": {
+    "Description": "적이 이동할 수 없게 만듭니다. 보스에게는 적용되지 않으며, 일종의 디버프입니다.",
+    "Id": 3002,
+    "Par": 3403002,
+    "ShowRule": 1,
+    "Text": "고정",
+    "Type": 3
+  },
+  "3003": {
+    "Description": "적의 이동속도를 <style=\"accent-gn\">30%</style> 감소시킵니다.",
+    "Id": 3003,
+    "Par": 3403003,
+    "ShowRule": 1,
+    "Text": "서리",
+    "Type": 3
+  },
+  "3004": {
+    "Description": "적이 받는 치료 효과를 감소시킵니다. 일종의 디버프입니다.",
+    "Id": 3004,
+    "Par": 3403004,
+    "ShowRule": 1,
+    "Text": "중상",
+    "Type": 3
+  },
+  "3005": {
+    "Description": "적이 아무 행동도 할 수 없게 만듭니다. 보스에게는 적용되지 않으며, 일종의 이상 상태입니다.",
+    "Id": 3005,
+    "Par": 3403005,
+    "ShowRule": 1,
+    "Text": "스턴",
+    "Type": 3
+  },
+  "3006": {
+    "Description": "적이 아무 행동도 할 수 없게 만들며, 대미지를 받으면 해제됩니다. 보스에게는 적용되지 않으며, 일종의 이상 상태입니다.",
+    "Id": 3006,
+    "Par": 3403006,
+    "ShowRule": 1,
+    "Text": "동결",
+    "Type": 3
+  },
+  "3007": {
+    "Description": "적이 아무 행동도 할 수 없게 만들며, 대미지를 받으면 해제됩니다. 보스에게는 적용되지 않으며, 일종의 이상 상태입니다.",
+    "Id": 3007,
+    "Par": 3403007,
+    "ShowRule": 1,
+    "Text": "석화",
+    "Type": 3
+  },
+  "3008": {
+    "Description": "적이 아무 행동도 할 수 없게 만들며, 대미지를 받으면 해제됩니다. 보스에게는 적용되지 않으며, 일종의 이상 상태입니다.",
+    "Id": 3008,
+    "Par": 3403008,
+    "ShowRule": 1,
+    "Text": "마비",
+    "Type": 3
+  },
+  "3009": {
+    "Description": "적을 현재 목표에서 가까운 곳으로 강제 이동시켜 공격합니다. 보스에게는 적용되지 않으며, 일종의 이상 상태입니다.",
+    "Id": 3009,
+    "Par": 3403009,
+    "ShowRule": 1,
+    "Text": "눈부심",
+    "Type": 3
+  },
+  "3010": {
+    "Description": "적이 공포 속에서 움츠리게 만들며, 대미지를 받으면 해제됩니다. 보스에게는 적용되지 않으며, 일종의 이상 상태입니다.",
+    "Id": 3010,
+    "Par": 3403010,
+    "ShowRule": 1,
+    "Text": "공포",
+    "Type": 3
+  },
+  "3011": {
+    "Description": "적의 이동속도를 감소시킵니다. 보스에게는 적용되지 않으며, 일종의 디버프입니다.",
+    "Id": 3011,
+    "Par": 3403011,
+    "ShowRule": 1,
+    "Text": "둔화",
+    "Type": 3
+  },
+  "3012": {
+    "Description": "적이 지속적으로 체력을 잃게 만듭니다. 일종의 디버프입니다.",
+    "Id": 3012,
+    "Par": 3403012,
+    "ShowRule": 1,
+    "Text": "중독",
+    "Type": 3
+  },
+  "3013": {
+    "Description": "적이 지속적으로 체력을 잃게 만듭니다. 일종의 디버프입니다.",
+    "Id": 3013,
+    "Par": 3403013,
+    "ShowRule": 1,
+    "Text": "출혈",
+    "Type": 3
+  },
+  "3014": {
+    "Description": "적이 지속적으로 체력을 잃게 만듭니다. 일종의 디버프입니다.",
+    "Id": 3014,
+    "Par": 3403014,
+    "ShowRule": 1,
+    "Text": "화상",
+    "Type": 3
+  },
+  "3020": {
+    "Description": "<style=\"accent-gn\">스턴</style>, <style=\"accent-gn\">동결</style>, <style=\"accent-gn\">석화</style>, <style=\"accent-gn\">마비</style>, <style=\"accent-gn\">눈부심</style>, <style=\"accent-gn\">공포</style>가 포함됩니다.",
+    "Id": 3020,
+    "Par": 3403020,
+    "ShowRule": 1,
+    "Text": "이상 상태",
+    "Type": 3
+  },
+  "3021": {
+    "Description": "<style=\"accent-gn\">침묵</style>, <style=\"accent-gn\">둔화</style>, <style=\"accent-gn\">고정</style>, <style=\"accent-gn\">중상</style>, <style=\"accent-gn\">중독</style>, <style=\"accent-gn\">출혈</style>, <style=\"accent-gn\">화상</style>이 포함됩니다.",
+    "Id": 3021,
+    "Par": 3403021,
+    "ShowRule": 1,
+    "Text": "디버프",
+    "Type": 3
+  }
+}

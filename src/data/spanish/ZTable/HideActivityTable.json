@@ -1,0 +1,18 @@
+{
+  "1": {
+    "CampId": 801,
+    "Description": "Es necesario localizar a los acechadores transformados y atacarlos con armas y habilidades. Un acechador sufre una derrota cuando sus PS llegan a cero.<br><style=\"physical\">Condición de victoria: Derrota de todos los acechadores.</style><br>Al unirse al grupo de los cazadores sombríos, se obtienen automáticamente las siguientes habilidades exclusivas:",
+    "Id": 1,
+    "Name": "Cazador sombrío",
+    "SkillId": [],
+    "SkillText": "Los objetos añadidos se deducirán después de la <style=\"physical\">fase de confirmación de facción</style>. Se obtiene la habilidad correspondiente, la cual <style=\"physical\">dura solo una partida</style>. Para usarla en la siguiente partida, se debe consumir el objeto de nuevo."
+  },
+  "2": {
+    "CampId": 802,
+    "Description": "El uso de la habilidad Transformación permite convertirse en objetos de la escena. Es posible esconderse en lugares adecuados para confundir a los cazadores sombríos o moverse con frecuencia para evitar sus ataques.<br><style=\"physical\">Condición de victoria: Al menos un acechador sobrevive hasta que se agote el tiempo.</style><br>Al convertirse en acechador, se otorgan automáticamente las siguientes habilidades exclusivas:",
+    "Id": 2,
+    "Name": "Acechador",
+    "SkillId": [6500, 6504, 6501],
+    "SkillText": "Los objetos añadidos se deducirán después de la <style=\"physical\">fase de confirmación de facción</style>. Se obtiene la habilidad correspondiente, la cual <style=\"physical\">dura solo una partida</style>. Para usarla en la siguiente partida, se debe consumir el objeto de nuevo."
+  }
+}

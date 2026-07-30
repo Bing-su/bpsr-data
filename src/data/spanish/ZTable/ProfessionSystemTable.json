@@ -1,0 +1,565 @@
+{
+  "1": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_03",
+    "Id": 1,
+    "Index": 7,
+    "Intro": "Empuña una <color=#fcbe03>guadaña segadora</color> y sobresale en el <color=#fcbe03>combate a corta distancia</color>. Alterna sin problemas las formas de guadaña y espada larga, y ejecuta <color=#fcbe03>golpes de área precisos</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Filo tormentoso",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_4",
+    "MasteryDes": [
+      [
+        "",
+        "Cada 1 % de maestría aumenta el DÑO de las habilidades que usan sellos del trueno un 3.4 %<br>"
+      ],
+      [
+        "",
+        "Cada 1 % de maestría aumenta en un 1.2 % el DÑO de Corte Relámpago, Guadaña Tormenta y Hoz Divina<br>."
+      ]
+    ],
+    "Name": "Filo tormentoso",
+    "NormalAttackSkill": [1701],
+    "NormalSkill": [1705, 1717, 1718, 1719, 1724, 1730, 1731, 1720],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[]],
+    "ProfessionId": 1,
+    "ProfessionStarExtraItem": [[1020001]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [101, 102],
+    "SpecialSkill": [1714],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1715, 1728, 1733, 1734, 1735, 1736, 1737, 1738],
+    "UltimateSkill": [1713],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7310002
+  },
+  "10": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 8,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 10,
+    "Index": 11,
+    "Intro": "Arma de corto a medio alcance que permite lanzar Ataque Coordinado.",
+    "IsOpen": false,
+    "LineFeedName": "Danza ritual de espíritus sombríos: filo ceremonial/bastón",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Añade DÑO oscuro."],
+      ["", "Añade DÑO oscuro."]
+    ],
+    "Name": "Danza ritual de espíritus sombríos: filo ceremonial/bastón",
+    "NormalAttackSkill": [2101],
+    "NormalSkill": [2107],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052408, 1052416, 1052424, 1052301, 1052307, 1052303]],
+    "ProfessionId": 10,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2105],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2108],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7380001
+  },
+  "11": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_07",
+    "Id": 11,
+    "Index": 3,
+    "Intro": "Empuña un <color=#fcbe03>arco</color> y sobresale en el combate a <color=#fcbe03>larga distancia</color>. Colabora con acompañantes animales para realizar <color=#fcbe03>ataques en áreas amplias</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Tirador",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_6",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_6",
+    "MasteryDes": [
+      ["", "Cada 1 % de maestría aumenta el DÑO del acompañante en un 2.75 %."],
+      ["", "Cada 1 % de maestría otorga un 0.6 % de bonus lumínico."]
+    ],
+    "Name": "Tirador",
+    "NormalAttackSkill": [2201],
+    "NormalSkill": [2230, 2232, 2237, 2233, 2234, 2231, 2238, 2235],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052314, 1052305]],
+    "ProfessionId": 11,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [116, 117],
+    "SpecialSkill": [2220],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [2224, 2240],
+    "UltimateSkill": [2209],
+    "UnlockCondition": [[2, 170103, 2]],
+    "WeaponSkinId": 7390002
+  },
+  "12": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 12,
+    "Index": 5,
+    "Intro": "Empuña una <color=#fcbe03>espada y escudo</color>, y sobresale en el <color=#fcbe03>combate a corta distancia</color>. Usa una armadura forjada con luz radiante y posee una <color=#fcbe03>defensa</color> y una <color=#fcbe03>autocuración</color> excepcionales.",
+    "IsOpen": true,
+    "LineFeedName": "Caballero escudado",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_7",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_7",
+    "MasteryDes": [
+      [
+        "",
+        "Cada 1 % de maestría aumenta la obtención de escudo radiante en un 2.5 % y la resistencia multielemental en un 0.2 %."
+      ],
+      [
+        "",
+        "Cada 1 % de maestría aumenta el efecto de aumento de PS de la Barrera Lumiforjada en un 3 % y la resistencia multielemental en un 0.2 %."
+      ]
+    ],
+    "Name": "Caballero escudado",
+    "NormalAttackSkill": [2401],
+    "NormalSkill": [2410, 2412, 2408, 2421, 2420, 2415, 2419, 2409],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052310, 1052308]],
+    "ProfessionId": 12,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [122, 123],
+    "SpecialSkill": [2405],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [2406, 2411, 2413, 2416, 2417, 2425],
+    "UltimateSkill": [2407],
+    "UnlockCondition": [[2, 170106, 2]],
+    "WeaponSkinId": 7400002
+  },
+  "13": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_08",
+    "Id": 13,
+    "Index": 8,
+    "Intro": "Sobresale en el combate a <color=#fcbe03>larga distancia</color> y usa una <color=#fcbe03>guitarra</color> como arma. <color=#fcbe03>Cura</color> mientras ataca, destaca en la entrega de <color=#fcbe03>ventajas</color> a aliados y posee una excelente capacidad de <color=#fcbe03>apoyo</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Artista del ritmo",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_8",
+    "MasteryDes": [
+      ["", "Cada 1 % de maestría aumenta el bonus de conversión de Melodía Pacífica en un 1 %."],
+      [
+        "",
+        "Cada 1 % de maestría reduce la velocidad de disipación de Melodía Curativa en un 0.35 %<br>."
+      ]
+    ],
+    "Name": "Artista del ritmo",
+    "NormalAttackSkill": [2321],
+    "NormalSkill": [2308, 2309, 2310, 2311, 2312, 2313, 2315, 2316],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052304, 1052306]],
+    "ProfessionId": 13,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [119, 120],
+    "SpecialSkill": [2306],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [2307, 2317, 2332, 2335, 2336],
+    "UltimateSkill": [2314],
+    "UnlockCondition": [[2, 170107, 2]],
+    "WeaponSkinId": 7410002
+  },
+  "14": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 0,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 14,
+    "Index": 98,
+    "Intro": "Sobresale en el <color=#fcbe03>combate a larga distancia</color><br>y puede golpear áreas amplias con ataques rápidos. Aumentar la <color=#fcbe03>probabilidad de sello</color> también aumenta mucho la frecuencia de activación.<br>Puede <color=#fcbe03>embestir</color> a corta distancia para infligir DÑO masivo. Aumenta la <color=#fcbe03>tasa de críticos</color> para infligir DÑO masivo.",
+    "IsOpen": false,
+    "LineFeedName": "Lucy",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Aumenta el DÑO crítico."],
+      ["", "Aumenta el DÑO crítico."]
+    ],
+    "Name": "Lucy",
+    "NormalAttackSkill": [2501],
+    "NormalSkill": [2505],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 14,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2504],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2506],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7420001
+  },
+  "15": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 15,
+    "Index": 97,
+    "Intro": "Sobresale en el <color=#fcbe03>combate a larga distancia</color><br>y puede golpear áreas amplias con ataques rápidos. Aumentar la <color=#fcbe03>probabilidad de sello</color> también aumenta mucho la frecuencia de activación.<br>Puede <color=#fcbe03>embestir</color> a corta distancia para infligir DÑO masivo. Aumenta la <color=#fcbe03>tasa de críticos</color> para infligir DÑO masivo.",
+    "IsOpen": false,
+    "LineFeedName": "Natsu",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Aumenta el DÑO crítico."],
+      ["", "Aumenta el DÑO crítico."]
+    ],
+    "Name": "Natsu",
+    "NormalAttackSkill": [2601],
+    "NormalSkill": [2605],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 15,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2604],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2606],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7430001
+  },
+  "2": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 2,
+    "Icon": "ui/atlas/profession/profession_horizontal_05",
+    "Id": 2,
+    "Index": 4,
+    "Intro": "Empuña un <color=#fcbe03>báculo gélido</color> y sobresale en el <color=#fcbe03>combate a larga distancia</color>. Controla el poder del hielo para infligir <color=#fcbe03>DÑO de área amplia</color> y ejercer un <color=#fcbe03>control</color> formidable.",
+    "IsOpen": true,
+    "LineFeedName": "Mago gélido",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_3",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_3",
+    "MasteryDes": [
+      ["", "Cada 1 % de maestría otorga un 0.65 % de bonus gélido<br>."],
+      [
+        "",
+        "Cada 1 % de maestría otorga un 1 % de eficiencia en la obtención de energía gélida y un 0.2 % de bonus gélido.<br>Aumento de maestría: Cada 1 % de maestría aumenta la tasa de conversión del bonus gélido un 3 %.<br>"
+      ]
+    ],
+    "Name": "Mago gélido",
+    "NormalAttackSkill": [1201],
+    "NormalSkill": [1239, 1211, 1244, 1210, 1240, 1243, 1246, 1245],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052402, 1052410, 1052418, 1052301, 1052307, 1052308]],
+    "ProfessionId": 2,
+    "ProfessionStarExtraItem": [[1020002]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [104, 105],
+    "SpecialSkill": [1242],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1241],
+    "UltimateSkill": [1248],
+    "UnlockCondition": [[2, 170102, 2]],
+    "WeaponSkinId": 7320002
+  },
+  "3": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_09",
+    "Id": 3,
+    "Index": 9,
+    "Intro": "Sobresale en el combate a <color=#fcbe03>corta distancia</color>, usando <color=#fcbe03>hachas dobles</color> como arma. Sus movimientos son tan rápidos y feroces como el fuego, con excelentes capacidades de <color=#fcbe03>ataque en áreas pequeñas</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Golpeador doble",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_9",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_9",
+    "MasteryDes": [
+      [
+        "",
+        "Cada 1 % de maestría otorga un 3.2 % de aumento de TdR de Asalto Ardiente, Hendidura de Furia y Viento de Hacha, y un 0.2 % de ATQ.<br>"
+      ],
+      ["", "Cada 1 % de maestría otorga un 0.72 % de bonus ígneo.<br>"]
+    ],
+    "Name": "Golpeador doble",
+    "NormalAttackSkill": [1601],
+    "NormalSkill": [1607, 1608, 1612, 1613, 1614, 1615, 1616, 1617],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052302, 1052303]],
+    "ProfessionId": 3,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [128, 129],
+    "SpecialSkill": [1605],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1618],
+    "UnlockCondition": [[2, 170108, 2]],
+    "WeaponSkinId": 7330002
+  },
+  "4": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 5,
+    "Icon": "ui/atlas/profession/profession_horizontal_02",
+    "Id": 4,
+    "Index": 6,
+    "Intro": "Sobresale en el combate a <color=#fcbe03>corta distancia</color> y usa una <color=#fcbe03>lanza</color> como arma. Además de agilidad y rapidez, tiene excelente capacidad de <color=#fcbe03>ataque en áreas pequeñas</color>.",
+    "IsOpen": true,
+    "LineFeedName": "Caballero del viento",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_2",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_2",
+    "MasteryDes": [
+      [
+        "",
+        "Cada 1 % de maestría otorga un 0.35 % de bonus eólico.<br>Aumento de maestría: Cada 1 % de maestría aumenta la tasa de conversión del bonus eólico un 3 %.<br>"
+      ],
+      ["", "Cada 1 % de maestría otorga un 0.65 % de bonus eólico<br>."]
+    ],
+    "Name": "Caballero del viento",
+    "NormalAttackSkill": [1401],
+    "NormalSkill": [1420, 1421, 1422, 1425, 1424, 1430, 1431, 1423],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052404, 1052412, 1052420, 1052301, 1052310, 1052303]],
+    "ProfessionId": 4,
+    "ProfessionStarExtraItem": [[1020004]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [107, 108],
+    "SpecialSkill": [1418],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1409, 1410, 1411, 1419, 1433, 1434, 1435],
+    "UltimateSkill": [1426],
+    "UnlockCondition": [[2, 170101, 2]],
+    "WeaponSkinId": 7340002
+  },
+  "5": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 4,
+    "Icon": "ui/atlas/profession/profession_horizontal_04",
+    "Id": 5,
+    "Index": 1,
+    "Intro": "Empuña un <color=#fcbe03>anillo natural</color> y sobresale en la <color=#fcbe03>curación a larga distancia</color>. Canaliza la esencia frondosa del bosque para ofrecer <color=#fcbe03>curación</color> y <color=#fcbe03>ventajas</color> excepcionales.",
+    "IsOpen": true,
+    "LineFeedName": "Oráculo frondoso",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
+    "MasteryDes": [
+      [
+        "",
+        "Cada 1 % de maestría otorga un 0.75 % de bonus de bosque y un 0.3 % de fuerza de escudo<br>"
+      ],
+      ["", "Cada 1 % de maestría aumenta la curación en un 1 %."]
+    ],
+    "Name": "Oráculo frondoso",
+    "NormalAttackSkill": [1501],
+    "NormalSkill": [1519, 1520, 1522, 1523, 1521, 1531, 1529, 1524],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052406, 1052414, 1052422, 1052301, 1052314, 1052313]],
+    "ProfessionId": 5,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [110, 111],
+    "SpecialSkill": [1518],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [1507, 1525, 1527, 1528, 1541],
+    "UltimateSkill": [1509],
+    "UnlockCondition": [[2, 170104, 2]],
+    "WeaponSkinId": 7350002
+  },
+  "8": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 8,
+    "Index": 99,
+    "Intro": "Sobresale en el <color=#fcbe03>combate a larga distancia</color><br>y puede golpear áreas amplias con ataques rápidos. Aumentar la <color=#fcbe03>probabilidad de sello</color> también aumenta mucho la frecuencia de activación.<br>Puede <color=#fcbe03>embestir</color> a corta distancia para infligir DÑO masivo. Aumenta la <color=#fcbe03>tasa de críticos</color> para infligir DÑO masivo.",
+    "IsOpen": false,
+    "LineFeedName": "Destello del trueno: Cañón de mano",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Añade DÑO atronador."],
+      ["", "Añade DÑO atronador."]
+    ],
+    "Name": "Destello del trueno: Cañón de mano",
+    "NormalAttackSkill": [1801],
+    "NormalSkill": [1807],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 8,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [1806],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1808],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7360001
+  },
+  "9": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 6,
+    "Icon": "ui/atlas/profession/profession_horizontal_06",
+    "Id": 9,
+    "Index": 2,
+    "Intro": "Empuña una <color=#fcbe03>hoja guardiana</color> y sobresale en el <color=#fcbe03>combate a corta distancia</color>. Canaliza el poder de la roca para formar una coraza protectora y ofrecer <color=#fcbe03>defensa</color> y <color=#fcbe03>control</color> excepcionales.",
+    "IsOpen": true,
+    "LineFeedName": "Guardián pesado",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_1",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_1",
+    "MasteryDes": [
+      ["", "Cada 1 % de maestría aumenta la fuerza del escudo en un 2.5 %."],
+      [
+        "",
+        "Cada 1 % de maestría otorga un 0.2 % de reducción de DÑO por bloqueo y un 0.2 % de reducción de DÑO por bloqueo de suerte."
+      ]
+    ],
+    "Name": "Guardián pesado",
+    "NormalAttackSkill": [1901],
+    "NormalSkill": [1924, 1927, 1936, 1926, 1937, 1925, 1938, 1923],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052405, 1052413, 1052421, 1052301, 1052302, 1052309]],
+    "ProfessionId": 9,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [113, 114],
+    "SpecialSkill": [1922],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [1932, 1933, 1939, 1940, 1941, 1942, 1943, 1944],
+    "UltimateSkill": [1907],
+    "UnlockCondition": [[2, 170105, 2]],
+    "WeaponSkinId": 7370002
+  }
+}

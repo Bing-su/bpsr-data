@@ -1,0 +1,201 @@
+{
+  "1001": {
+    "BaseDetailsDes": "รางวัลพื้นฐานในรางวัลกองนี้ประกอบด้วย:<br>1. ทุกครั้งที่สุ่มจะได้รับ<style=\"accent-gn\">Shangri-La Frontier - Gold Meow Point</style>คืนตามระดับความหายากของรางวัลที่สุ่มได้: S รางวัลคืน 50 Gold Meow Point, A รางวัลคืน 30 Gold Meow Point, B รางวัลคืน 20 Gold Meow Point, C รางวัลคืน 15 Gold Meow Point, D รางวัลคืน 10 Gold Meow Point, E รางวัลคืน 5 Gold Meow Point;<br>2. <style=\"accent-gn\">ครั้งที่ 60 ในการสุ่ม</style>จะได้รับ<style=\"accent-gn\">S ตั๋วรางวัล</style>อย่างแน่นอน!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip001_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip001_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850101,
+    "HelpLibraryId": 0,
+    "Id": 1001,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["สุ่ม 1 ครั้ง", "สุ่ม 5 ครั้ง"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "ทุกการสุ่มรางวัลของพูลนี้มี<style=\"accent-gn\">25.0000%</style> ที่จะเกิดเหตุการณ์แห่งโชค! เมื่อเกิดขึ้นแล้ว จะสุ่มรับเอฟเฟกต์แห่งโชคตามอัตราต่อไปนี้:<br> การสุ่มครั้งถัดไปฟรี: 20.0000%<br> การสุ่มครั้งถัดไปคืนคะแนน 3 เท่า: 32.0000%<br> การสุ่มครั้งถัดไปเพิ่มโอกาสรับรางวัล S: 40.0000%<br> การสุ่มครั้งถัดไปจะไม่ออกของรางวัล C/D/E: 8.0000%",
+    "LuckPoolId": 1001,
+    "MallItemId": 11001,
+    "MiniGuaranteeDetails": [[1, 60]],
+    "OnePrizeConsume": [],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70001,
+    "PointsActivityFunctionId": 20001,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Shangri-la Frontier",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip001", "ichibankuji/ichibankuji_ip001"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1001,
+    "PrizeShowDetails": [
+      100101, 100102, 100103, 100104, 100105, 100106, 100107, 100108, 100109, 100110, 100111, 100112
+    ],
+    "Sort": 1,
+    "TextColor": ""
+  },
+  "1002": {
+    "BaseDetailsDes": "กิจกรรมพื้นฐานในรอบนี้ประกอบด้วย:<br>การจับรางวัลแต่ละครั้งรับประกันการคืนคะแนน <style=\"accent-gn\">Story Series·Golden Cat Points</style> ในจำนวนที่แน่นอน โดยจำนวนคะแนนที่ได้รับจะขึ้นอยู่กับความหายากของรางวัลที่จับได้ ยิ่งรางวัลหายากมากเท่าไหร่ ก็ยิ่งได้รับคะแนนคืนมากขึ้นเท่านั้น;<br><style=\"accent-gn\">การจับรางวัลครั้งที่ 30</style> รับประกันการได้รับ <style=\"accent-gn\">ตั๋วรางวัล A</style>;<br><style=\"accent-gn\">การจับรางวัลครั้งที่ 80</style> รับประกันการได้รับ <style=\"accent-gn\">ตั๋วรางวัล S</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip003_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip003_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850200],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850102,
+    "HelpLibraryId": 25002,
+    "Id": 1002,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["สุ่ม 1 ครั้ง", "สุ่ม 5 ครั้ง"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "สุ่มรางวัลแต่ละครั้งมีโอกาส 25.0000% ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้ได้แก่:<br> เหตุการณ์ที่ 1: สุ่มรางวัลครั้งต่อไปฟรี;<br> เหตุการณ์ที่ 2: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Cat 3 เท่า;<br> เหตุการณ์ที่ 3: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br> เหตุการณ์ที่ 4: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
+    "LuckPoolId": 1002,
+    "MallItemId": 11002,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12002, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70003,
+    "PointsActivityFunctionId": 20002,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Monogatari Series",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip003", "ichibankuji/ichibankuji_ip003"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1002,
+    "PrizeShowDetails": [
+      100201, 100202, 100203, 100204, 100205, 100206, 100207, 100208, 100209, 100210
+    ],
+    "Sort": 2,
+    "TextColor": ""
+  },
+  "1003": {
+    "BaseDetailsDes": "กิจกรรมพื้นฐานในรอบนี้ประกอบด้วย:<br>การสุ่มรางวัลแต่ละครั้งรับประกันการคืนคะแนน <style=\"accent-gn\">Fairy Tail: Golden Meow Points</style> ในจำนวนที่แน่นอน โดยจำนวนคะแนนที่ได้รับจะขึ้นอยู่กับความหายากของรางวัลที่จับได้ ยิ่งรางวัลหายากมากเท่าไหร่ ก็ยิ่งได้รับคะแนนคืนมากขึ้นเท่านั้น;<br><style=\"accent-gn\">การสุ่มรางวัลครั้งที่ 30</style> รับประกันการได้รับ <style=\"accent-gn\">ตั๋วรางวัล A</style>;<br><style=\"accent-gn\">การสุ่มรางวัลครั้งที่ 80</style> รับประกันการได้รับ <style=\"accent-gn\">ตั๋วรางวัล S</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip004_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip004_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850103,
+    "HelpLibraryId": 25003,
+    "Id": 1003,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["สุ่ม 1 ครั้ง", "สุ่ม 5 ครั้ง"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "สุ่มรางวัลแต่ละครั้งมีโอกาส 25.0000% ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้ได้แก่:<br> เหตุการณ์ที่ 1: สุ่มรางวัลครั้งต่อไปฟรี;<br> เหตุการณ์ที่ 2: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Cat 3 เท่า;<br> เหตุการณ์ที่ 3: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br> เหตุการณ์ที่ 4: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
+    "LuckPoolId": 1003,
+    "MallItemId": 11003,
+    "MiniGuaranteeDetails": [
+      [1, 80],
+      [2, 30]
+    ],
+    "OnePrizeConsume": [12003, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 70006,
+    "PointsActivityFunctionId": 20004,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Fairy Tail",
+    "PoolShowTV": ["ichibankuji/ichibankuji_ip004", "ichibankuji/ichibankuji_ip004"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip004/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip004/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1003,
+    "PrizeShowDetails": [
+      100301, 100302, 100303, 100304, 100305, 100306, 100307, 100308, 100309, 100310, 100311, 100312
+    ],
+    "Sort": 3,
+    "TextColor": "#ffffff"
+  },
+  "1004": {
+    "BaseDetailsDes": "กิจกรรมพื้นฐานของรอบนี้:<br> ทุกครั้งที่สุ่ม จะได้รับ<style=\"accent-gn\">Lush Summer: คืน Gold Meow Points</style>จำนวนหนึ่งแน่นอน จำนวนที่ได้รับขึ้นอยู่กับความหายากของรางวัลที่สุ่มได้ ยิ่งหายากยิ่งได้รับคืนมาก;<br><style=\"accent-gn\">สุ่มครั้งที่ 25</style>รับ<style=\"accent-gn\">A Prize Voucher</style>แน่นอน;<br><style=\"accent-gn\">สุ่มครั้งที่ 70</style>รับ<style=\"accent-gn\">S Prize Voucher</style>แน่นอน!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850204],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850104,
+    "HelpLibraryId": 25004,
+    "Id": 1004,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["สุ่ม 1 ครั้ง", "สุ่ม 5 ครั้ง"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "สุ่มรางวัลแต่ละครั้งมีโอกาส 25.0000% ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้ได้แก่:<br> เหตุการณ์ที่ 1: สุ่มรางวัลครั้งต่อไปฟรี;<br> เหตุการณ์ที่ 2: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Cat 3 เท่า;<br> เหตุการณ์ที่ 3: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br> เหตุการณ์ที่ 4: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
+    "LuckPoolId": 1004,
+    "MallItemId": 11004,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12004, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41001,
+    "PointsActivityFunctionId": 20007,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Lush Summer",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1004,
+    "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
+    "Sort": 4,
+    "TextColor": "#ffffff"
+  }
+}

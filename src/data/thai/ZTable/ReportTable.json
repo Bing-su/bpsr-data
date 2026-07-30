@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Id": 1,
+    "ReportCategoryDes": ["การโพสต์ข้อมูลผิดกฎ", "ข้อมูลส่วนตัวผิดกฎ"],
+    "ReportCategoryId": [],
+    "ReportReason": [
+      [101, 102, 103, 104, 105, 106, 108, 199],
+      [901, 999]
+    ],
+    "ReportScene": "สนทนาในฉาก",
+    "SceneId": 1
+  },
+  "101": {
+    "Id": 101,
+    "ReportCategoryDes": ["Homestead Violations"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[798]],
+    "ReportScene": "Homestead Building Scene",
+    "SceneId": 8
+  },
+  "2": {
+    "Id": 2,
+    "ReportCategoryDes": ["ข้อมูลส่วนตัวผิดกฎ"],
+    "ReportCategoryId": [9],
+    "ReportReason": [[901, 903, 999]],
+    "ReportScene": "ฉากข้อมูลส่วนตัว",
+    "SceneId": 2
+  },
+  "6": {
+    "Id": 6,
+    "ReportCategoryDes": ["รูปภาพผิดกฎ"],
+    "ReportCategoryId": [7],
+    "ReportReason": [[799]],
+    "ReportScene": "รายงานภาพอัลบั้ม",
+    "SceneId": 6
+  },
+  "7": {
+    "Id": 7,
+    "ReportCategoryDes": ["ข้อมูลองค์กรผิดกฎ"],
+    "ReportCategoryId": [8],
+    "ReportReason": [[801, 802, 803, 799, 899]],
+    "ReportScene": "ฉากข้อมูลองค์กร",
+    "SceneId": 7
+  }
+}

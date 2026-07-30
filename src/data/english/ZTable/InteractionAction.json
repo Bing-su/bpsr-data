@@ -1,0 +1,1025 @@
+{
+  "1": {
+    "ActionName": "toServer",
+    "ActionType": 0,
+    "Desc": "调用服务器交互",
+    "Id": 1,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "10": {
+    "ActionName": "vm",
+    "ActionType": 0,
+    "Desc": "触发UI事件",
+    "Id": 10,
+    "MaxTime": 0,
+    "ParamDesc": ["系统定义"],
+    "ParamType": ["string_array"],
+    "TimeoutIsSuccess": false
+  },
+  "1000": {
+    "ActionName": "base",
+    "ActionType": 1,
+    "Desc": "基础交互逻辑,比如采集,宝箱等",
+    "Id": 1000,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1001": {
+    "ActionName": "pivot",
+    "ActionType": 1,
+    "Desc": "激活星元枢纽",
+    "Id": 1001,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1002": {
+    "ActionName": "pivotBreak",
+    "ActionType": 1,
+    "Desc": "激活星元枢纽断点",
+    "Id": 1002,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1003": {
+    "ActionName": "transferPoint",
+    "ActionType": 1,
+    "Desc": "激活传送点",
+    "Id": 1003,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1004": {
+    "ActionName": "logicResonance",
+    "ActionType": 1,
+    "Desc": "环境共鸣",
+    "Id": 1004,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1005": {
+    "ActionName": "LogicSeat",
+    "ActionType": 1,
+    "Desc": "分配座位",
+    "Id": 1005,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1006": {
+    "ActionName": "logicDance",
+    "ActionType": 1,
+    "Desc": "多人交互",
+    "Id": 1006,
+    "MaxTime": 0,
+    "ParamDesc": ["actionId"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1007": {
+    "ActionName": "addBuff",
+    "ActionType": 1,
+    "Desc": "添加后端buff",
+    "Id": 1007,
+    "MaxTime": 0,
+    "ParamDesc": ["buffId", "层数", "持续时间", "等级"],
+    "ParamType": ["int", "int", "float", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1008": {
+    "ActionName": "teleport",
+    "ActionType": 1,
+    "Desc": "传送(当前场景)",
+    "Id": 1008,
+    "MaxTime": 0,
+    "ParamDesc": ["参数传送点id", "ETransferType(切换标记)"],
+    "ParamType": ["int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1009": {
+    "ActionName": "enterDungeon",
+    "ActionType": 1,
+    "Desc": "进入副本",
+    "Id": 1009,
+    "MaxTime": 0,
+    "ParamDesc": ["地图id", "目标地图的传送点id", "传送效果"],
+    "ParamType": ["int", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1010": {
+    "ActionName": "enterVisualLayer",
+    "ActionType": 1,
+    "Desc": "进入视野层级",
+    "Id": 1010,
+    "MaxTime": 0,
+    "ParamDesc": ["视野层级id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1011": {
+    "ActionName": "exitVisualLayer",
+    "ActionType": 1,
+    "Desc": "退出视野层级",
+    "Id": 1011,
+    "MaxTime": 0,
+    "ParamDesc": ["退出结果"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1012": {
+    "ActionName": "triggerSceneEvent",
+    "ActionType": 1,
+    "Desc": "不需要参数,用uuid当自定义参数",
+    "Id": 1012,
+    "MaxTime": 0,
+    "ParamDesc": ["触发关卡编辑器[实体交互]事件专用动作"],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1013": {
+    "ActionName": "triggerSceneCustomEvent",
+    "ActionType": 1,
+    "Desc": "触发场景的自定义事件",
+    "Id": 1013,
+    "MaxTime": 0,
+    "ParamDesc": ["事件名", "自定义参数(只能是int)"],
+    "ParamType": ["string", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1014": {
+    "ActionName": "userDoAction",
+    "ActionType": 1,
+    "Desc": "触发场景的OnUserDoAction(交互模板事件)",
+    "Id": 1014,
+    "MaxTime": 0,
+    "ParamDesc": ["事件名"],
+    "ParamType": ["string"],
+    "TimeoutIsSuccess": false
+  },
+  "1015": {
+    "ActionName": "pickup",
+    "ActionType": 1,
+    "Desc": "",
+    "Id": 1015,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1016": {
+    "ActionName": "openEliteTreasureBox",
+    "ActionType": 1,
+    "Desc": "",
+    "Id": 1016,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1017": {
+    "ActionName": "openBossTreasureBox",
+    "ActionType": 1,
+    "Desc": "",
+    "Id": 1017,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1018": {
+    "ActionName": "getQuest",
+    "ActionType": 1,
+    "Desc": "交互后接取某任务，注意不能给NPC实体挂接该交互！",
+    "Id": 1018,
+    "MaxTime": 0,
+    "ParamDesc": ["任务id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1019": {
+    "ActionName": "questEvent",
+    "ActionType": 1,
+    "Desc": "交互后向任务发送事件",
+    "Id": 1019,
+    "MaxTime": 0,
+    "ParamDesc": ["事件名（int）"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1020": {
+    "ActionName": "killSelf",
+    "ActionType": 1,
+    "Desc": "杀死交互物自身",
+    "Id": 1020,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1021": {
+    "ActionName": "sendAiEvent",
+    "ActionType": 1,
+    "Desc": "给当前场景的指定实体发送ai事件,只能给关卡编辑器部署的怪物发,会发给玩家当前在的视野层级",
+    "Id": 1021,
+    "MaxTime": 0,
+    "ParamDesc": ["事件名", "实体类型", "实体uid"],
+    "ParamType": ["string", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1022": {
+    "ActionName": "danceAwardNPC",
+    "ActionType": 1,
+    "Desc": "",
+    "Id": 1022,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1023": {
+    "ActionName": "RequestInteractionSeat",
+    "ActionType": 1,
+    "Desc": "请求交互点位",
+    "Id": 1023,
+    "MaxTime": 0,
+    "ParamDesc": ["scenePoint组id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1024": {
+    "ActionName": "RemoveBuff",
+    "ActionType": 1,
+    "Desc": "删除后端buff",
+    "Id": 1024,
+    "MaxTime": 0,
+    "ParamDesc": ["buffID"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1025": {
+    "ActionName": "AddBuffToTarget",
+    "ActionType": 1,
+    "Desc": "给服务器交互物加后端buff",
+    "Id": 1025,
+    "MaxTime": 0,
+    "ParamDesc": ["buffId", "层数", "持续时间", "等级"],
+    "ParamType": ["int", "int", "float", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1026": {
+    "ActionName": "RemoveTargetBuff",
+    "ActionType": 1,
+    "Desc": "删除服务器交互物的后端buff",
+    "Id": 1026,
+    "MaxTime": 0,
+    "ParamDesc": ["buffId", "层数"],
+    "ParamType": ["int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1027": {
+    "ActionName": "PaintToySwitchPage",
+    "ActionType": 1,
+    "Desc": "玩具画板翻页",
+    "Id": 1027,
+    "MaxTime": 0,
+    "ParamDesc": ["isNextPage 是否为下一页(0表示上一页1表示下一页)"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1030": {
+    "ActionName": "openTowerTreasureBox",
+    "ActionType": 1,
+    "Desc": "爬塔玩法开宝箱",
+    "Id": 1030,
+    "MaxTime": 0,
+    "ParamDesc": ["不需要参数"],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1031": {
+    "ActionName": "FineCollection",
+    "ActionType": 1,
+    "Desc": "消耗精力精细采集交互",
+    "Id": 1031,
+    "MaxTime": 0,
+    "ParamDesc": ["采集后采集物消失时间（毫秒）"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1032": {
+    "ActionName": "RoughCollection",
+    "ActionType": 1,
+    "Desc": "不消耗精力粗糙采集交互",
+    "Id": 1032,
+    "MaxTime": 0,
+    "ParamDesc": ["采集后采集物消失时间（毫秒）"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1033": {
+    "ActionName": "BubbleActStart",
+    "ActionType": 2,
+    "Desc": "开始目标泡点活动",
+    "Id": 1033,
+    "MaxTime": 0,
+    "ParamDesc": ["泡点活动ID", "离开交互范围是否停止泡点(0", "false 1", "true)"],
+    "ParamType": ["int", "bool"],
+    "TimeoutIsSuccess": false
+  },
+  "1034": {
+    "ActionName": "BubbleActEnd",
+    "ActionType": 2,
+    "Desc": "退出目标泡点活动",
+    "Id": 1034,
+    "MaxTime": 0,
+    "ParamDesc": ["泡点活动ID"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1035": {
+    "ActionName": "RaidOpenBox",
+    "ActionType": 1,
+    "Desc": "这是boss掉落的宝箱，但携带的是bossId的参数",
+    "Id": 1035,
+    "MaxTime": 0,
+    "ParamDesc": ["bossId"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1036": {
+    "ActionName": "EInteractionActionBuffCustomizeEvent",
+    "ActionType": 1,
+    "Desc": "交互触发buff自定义事件",
+    "Id": 1036,
+    "MaxTime": 0,
+    "ParamDesc": ["事件名", "自定义参数"],
+    "ParamType": ["string", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1037": {
+    "ActionName": "EInteractionActionOpenRogueUi",
+    "ActionType": 2,
+    "Desc": "打开肉鸽UI",
+    "Id": 1037,
+    "MaxTime": 0,
+    "ParamDesc": ["UI类型（0随机1升级）"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1038": {
+    "ActionName": "EInteractionActionTempAffixCtr",
+    "ActionType": 1,
+    "Desc": "操作（增/删）临时词缀",
+    "Id": 1038,
+    "MaxTime": 0,
+    "ParamDesc": ["词缀Id", "是否增加(1增加,0删除)"],
+    "ParamType": ["int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "1039": {
+    "ActionName": "EInteractionActionTempAffixInit",
+    "ActionType": 1,
+    "Desc": "临时词缀初始化（并触发生效时机：临时词缀初始化后检查对象进入场景）",
+    "Id": 1039,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1040": {
+    "ActionName": "",
+    "ActionType": 1,
+    "Desc": "麻将活动匹配交互",
+    "Id": 1040,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1041": {
+    "ActionName": "",
+    "ActionType": 2,
+    "Desc": "宠物交互",
+    "Id": 1041,
+    "MaxTime": -1,
+    "ParamDesc": ["宠物交互动作槽位index"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "1042": {
+    "ActionName": "",
+    "ActionType": 0,
+    "Desc": "进入副本（单人时则单人进，组队时则组队进）",
+    "Id": 1042,
+    "MaxTime": 0,
+    "ParamDesc": ["functionid", "dungeonid", "大师本难度(可以不填)"],
+    "ParamType": ["int", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "11": {
+    "ActionName": "tips",
+    "ActionType": 0,
+    "Desc": "发送tips",
+    "Id": 11,
+    "MaxTime": 0,
+    "ParamDesc": ["Message表id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "12": {
+    "ActionName": "openUI",
+    "ActionType": 0,
+    "Desc": "打开UI（废弃）",
+    "Id": 12,
+    "MaxTime": 0,
+    "ParamDesc": ["界面名字"],
+    "ParamType": ["string"],
+    "TimeoutIsSuccess": false
+  },
+  "13": {
+    "ActionName": "windZone",
+    "ActionType": 0,
+    "Desc": "风场",
+    "Id": 13,
+    "MaxTime": 0,
+    "ParamDesc": ["附加速度"],
+    "ParamType": ["float"],
+    "TimeoutIsSuccess": false
+  },
+  "14": {
+    "ActionName": "windRing",
+    "ActionType": 0,
+    "Desc": "风环",
+    "Id": 14,
+    "MaxTime": 0,
+    "ParamDesc": ["附加速度", "衰减速度"],
+    "ParamType": ["float", "float"],
+    "TimeoutIsSuccess": false
+  },
+  "15": {
+    "ActionName": "windTornado",
+    "ActionType": 0,
+    "Desc": "旋风",
+    "Id": 15,
+    "MaxTime": 0,
+    "ParamDesc": ["垂直方向参数K1", "水平方向向心参数K2", "水平方向切线参数K3"],
+    "ParamType": ["float", "float", "float"],
+    "TimeoutIsSuccess": false
+  },
+  "16": {
+    "ActionName": "danceTogether",
+    "ActionType": 0,
+    "Desc": "齐舞",
+    "Id": 16,
+    "MaxTime": 0,
+    "ParamDesc": ["Action表id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "17": {
+    "ActionName": "startFlow",
+    "ActionType": 0,
+    "Desc": "播放流图",
+    "Id": 17,
+    "MaxTime": 0,
+    "ParamDesc": ["PresentationEPFlow表id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "18": {
+    "ActionName": "showCutScene",
+    "ActionType": 0,
+    "Desc": "播放cutscene",
+    "Id": 18,
+    "MaxTime": 0,
+    "ParamDesc": ["Cutscene表id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "19": {
+    "ActionName": "unionHuntEntry",
+    "ActionType": 0,
+    "Desc": "协会狩猎入口",
+    "Id": 19,
+    "MaxTime": 0,
+    "ParamDesc": ["dungeonId"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "2": {
+    "ActionName": "npcTalk",
+    "ActionType": 0,
+    "Desc": "npc对话,不需要参数,用uuid当自定义参数",
+    "Id": 2,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "20": {
+    "ActionName": "unionBuild",
+    "ActionType": 0,
+    "Desc": "协会建造",
+    "Id": 20,
+    "MaxTime": 0,
+    "ParamDesc": ["buildId"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "21": {
+    "ActionName": "unionBuildFunc",
+    "ActionType": 0,
+    "Desc": "协会建造功能入口",
+    "Id": 21,
+    "MaxTime": 0,
+    "ParamDesc": ["buildId", "param"],
+    "ParamType": ["int", "int_array"],
+    "TimeoutIsSuccess": false
+  },
+  "22": {
+    "ActionName": "ExploreMonsterDeplete",
+    "ActionType": 0,
+    "Desc": "",
+    "Id": 22,
+    "MaxTime": 0,
+    "ParamDesc": ["itemId"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "23": {
+    "ActionName": "useSkill",
+    "ActionType": 2,
+    "Desc": "技能释放方式: 0(朝当前玩家朝向)  1(朝交互目标释放),  2(朝指定坐标释放,后续跟随完整的场景坐标)，3（朝指定实体释放，需填写后两个参数）",
+    "Id": 23,
+    "MaxTime": 0,
+    "ParamDesc": ["技能id", "技能释放方式", "对象类型", "对象实体id"],
+    "ParamType": ["int", "int", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "24": {
+    "ActionName": "fishing",
+    "ActionType": 2,
+    "Desc": "钓鱼",
+    "Id": 24,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "25": {
+    "ActionName": "sendAiEvent",
+    "ActionType": 2,
+    "Desc": "给当前场景的指定实体发送ai事件,只能给关卡编辑器部署的怪物发,会发给玩家当前在的视野层级",
+    "Id": 25,
+    "MaxTime": 0,
+    "ParamDesc": ["事件名int", "实体类型", "实体uid"],
+    "ParamType": ["int", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "27": {
+    "ActionName": "doNoThing",
+    "ActionType": 2,
+    "Desc": "什么都不做",
+    "Id": 27,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "28": {
+    "ActionName": "cookFunc",
+    "ActionType": 0,
+    "Desc": "生活职业-各类制作交互（从烹饪锅交互改造而来）",
+    "Id": 28,
+    "MaxTime": 0,
+    "ParamDesc": ["lifeproId", "cameraId"],
+    "ParamType": ["int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "29": {
+    "ActionName": "moveToDistance",
+    "ActionType": 0,
+    "Desc": "玩家走向交互物指定距离（持续）（例，NPC、小动物交互），体型适配数据是interactive表AdaptIKParam字段",
+    "Id": 29,
+    "MaxTime": 5000,
+    "ParamDesc": [
+      "(0确切（太近了会自动往远走），1小于（在距离内就行）)",
+      "距离float",
+      "(0\\1是否适配体型)",
+      "（0\\1是否应用交互偏移）",
+      "(0面向交互对象\\1与交互对象同方向)"
+    ],
+    "ParamType": ["int", "float", "int"],
+    "TimeoutIsSuccess": true
+  },
+  "3": {
+    "ActionName": "dungeonEntry",
+    "ActionType": 0,
+    "Desc": "副本入口",
+    "Id": 3,
+    "MaxTime": 0,
+    "ParamDesc": ["Dungeons表id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "30": {
+    "ActionName": "MoveToPosition",
+    "ActionType": 0,
+    "Desc": "玩家走向指定点 （持续）（相对交互物坐标\\世界坐标)",
+    "Id": 30,
+    "MaxTime": 5000,
+    "ParamDesc": [
+      "（0相对\\1世界\\2 NPC对话）",
+      "x",
+      "y",
+      "z",
+      "（0\\1是否应用交互偏移）",
+      "(0面向交互对象\\1与交互对象同方向)"
+    ],
+    "ParamType": ["int", "float", "float", "float"],
+    "TimeoutIsSuccess": true
+  },
+  "31": {
+    "ActionName": "MoveToInteractionSeat",
+    "ActionType": 0,
+    "Desc": "玩家走向指定点空位 （持续）（世界坐标）（例：钓鱼）",
+    "Id": 31,
+    "MaxTime": 5000,
+    "ParamDesc": ["不需要参数，点位通过服务器属性同步"],
+    "ParamType": [],
+    "TimeoutIsSuccess": true
+  },
+  "32": {
+    "ActionName": "RotateToTarget",
+    "ActionType": 0,
+    "Desc": "玩家\\交互物转向对方 (瞬间）这个版本只要执行就算完成，会继续执行后面的action，同时会持续转向",
+    "Id": 32,
+    "MaxTime": 0,
+    "ParamDesc": [
+      "（bool玩家转向）",
+      "(bool交互物转向)",
+      "（0玩家面朝对方\\1背朝对方\\2和对方朝向相同\\3和对方朝向相反）",
+      "（0站着转身\\1坐着转身）"
+    ],
+    "ParamType": ["bool", "bool", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "33": {
+    "ActionName": "RotateToTargetAndWait",
+    "ActionType": 0,
+    "Desc": "玩家\\交互物转向对方 (持续）这个版本要转向对方才算完成 ",
+    "Id": 33,
+    "MaxTime": 5000,
+    "ParamDesc": [
+      "（bool玩家转向）",
+      "(bool交互物转向)",
+      "（0玩家面朝对方\\1背朝对方\\2和对方朝向相同\\3和对方朝向相反）",
+      "（0站着转身\\1坐着转身）"
+    ],
+    "ParamType": ["bool", "bool", "int", "int"],
+    "TimeoutIsSuccess": true
+  },
+  "34": {
+    "ActionName": "AddClientBuff",
+    "ActionType": 0,
+    "Desc": "给玩家施加表现buff （瞬间）",
+    "Id": 34,
+    "MaxTime": 0,
+    "ParamDesc": ["buffID", "(0/1离开范围删除)"],
+    "ParamType": ["int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "35": {
+    "ActionName": "AddClientBuffAndWait",
+    "ActionType": 0,
+    "Desc": "给玩家施加表现buff （持续） 要buff播完才算完成",
+    "Id": 35,
+    "MaxTime": 30000,
+    "ParamDesc": ["buffID"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": true
+  },
+  "36": {
+    "ActionName": "AddClientBuffToTarget",
+    "ActionType": 0,
+    "Desc": "给交互物施加表现buff （瞬间）",
+    "Id": 36,
+    "MaxTime": 0,
+    "ParamDesc": ["buffID", "(0/1离开范围删除)"],
+    "ParamType": ["int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "37": {
+    "ActionName": "AddClientBuffToTargetAndWait",
+    "ActionType": 0,
+    "Desc": "给交互物施加表现buff （持续）要buff播完才算完成",
+    "Id": 37,
+    "MaxTime": 30000,
+    "ParamDesc": ["buffID"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": true
+  },
+  "38": {
+    "ActionName": "ProgressBar",
+    "ActionType": 2,
+    "Desc": "读条",
+    "Id": 38,
+    "MaxTime": 30000,
+    "ParamDesc": [
+      "读条时间类型（1固定时间/2生活职业）",
+      "基础时间",
+      "参数（类型2",
+      "：生活职业类型）"
+    ],
+    "ParamType": ["int", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "39": {
+    "ActionName": "CameraInvoke",
+    "ActionType": 0,
+    "Desc": "打开\\关闭指定相机状态，并调用指定相机模板 （瞬间）",
+    "Id": 39,
+    "MaxTime": 0,
+    "ParamDesc": ["1/0(打开/关闭)", "相机模板ID", "相机状态枚举（不填为Default状态）"],
+    "ParamType": ["int", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "4": {
+    "ActionName": "functionEntry",
+    "ActionType": 0,
+    "Desc": "功能入口",
+    "Id": 4,
+    "MaxTime": 0,
+    "ParamDesc": ["Function表id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "40": {
+    "ActionName": "WaitUiConfirm",
+    "ActionType": 0,
+    "Desc": "（预留）打开UI确定窗（例如提交物品UI）（持续）（玩家确认提交算成功，取消算失败打断）",
+    "Id": 40,
+    "MaxTime": -1,
+    "ParamDesc": ["UIID", "其他参数"],
+    "ParamType": ["stirng", "string"],
+    "TimeoutIsSuccess": false
+  },
+  "41": {
+    "ActionName": "IgnoreInput",
+    "ActionType": 0,
+    "Desc": "屏蔽输入",
+    "Id": 41,
+    "MaxTime": 0,
+    "ParamDesc": ["1/0（添加/删除屏蔽)", "掩码（不配默认是全部）"],
+    "ParamType": ["int", "inputMask"],
+    "TimeoutIsSuccess": false
+  },
+  "42": {
+    "ActionName": "HideHud",
+    "ActionType": 0,
+    "Desc": "隐藏HUD",
+    "Id": 42,
+    "MaxTime": 0,
+    "ParamDesc": ["1/0(隐藏/恢复)"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "43": {
+    "ActionName": "HideUI",
+    "ActionType": 0,
+    "Desc": "隐藏UI",
+    "Id": 43,
+    "MaxTime": 0,
+    "ParamDesc": ["1/0(隐藏/恢复)"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "44": {
+    "ActionName": "MoveToStaticObj",
+    "ActionType": 0,
+    "Desc": "坐下",
+    "Id": 44,
+    "MaxTime": -1,
+    "ParamDesc": ["不需要参数"],
+    "ParamType": [],
+    "TimeoutIsSuccess": true
+  },
+  "45": {
+    "ActionName": "UnionWarDance",
+    "ActionType": 0,
+    "Desc": "战舞",
+    "Id": 45,
+    "MaxTime": 0,
+    "ParamDesc": ["不需要参数"],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "46": {
+    "ActionName": "WaitInputMove",
+    "ActionType": 0,
+    "Desc": "等待移动输入",
+    "Id": 46,
+    "MaxTime": -1,
+    "ParamDesc": ["不需要参数"],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "47": {
+    "ActionName": "RemoveClientBuff",
+    "ActionType": 0,
+    "Desc": "删除玩家表现buff（瞬间）",
+    "Id": 47,
+    "MaxTime": 0,
+    "ParamDesc": ["buffID"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "48": {
+    "ActionName": "RemoveTargetClientBuff",
+    "ActionType": 0,
+    "Desc": "删除交互物表现buff（瞬间）",
+    "Id": 48,
+    "MaxTime": 0,
+    "ParamDesc": ["buffID"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "49": {
+    "ActionName": "EnterAutoFlow",
+    "ActionType": 0,
+    "Desc": "自动漂浮",
+    "Id": 49,
+    "MaxTime": 0,
+    "ParamDesc": ["不需要参数"],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "5": {
+    "ActionName": "clientSceneEvent",
+    "ActionType": 0,
+    "Desc": "触发关卡事件：交互模板事件",
+    "Id": 5,
+    "MaxTime": 0,
+    "ParamDesc": ["关卡事件名"],
+    "ParamType": ["string"],
+    "TimeoutIsSuccess": false
+  },
+  "51": {
+    "ActionName": "NpcTalkFlow",
+    "ActionType": 0,
+    "Desc": "npc对话流图",
+    "Id": 51,
+    "MaxTime": -1,
+    "ParamDesc": ["不需要参数"],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "52": {
+    "ActionName": "StartFlowAndWait",
+    "ActionType": 0,
+    "Desc": "播放流图等待完成",
+    "Id": 52,
+    "MaxTime": -1,
+    "ParamDesc": ["PresentationEPFlow表id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "53": {
+    "ActionName": "ShowCutSceneAndWait",
+    "ActionType": 0,
+    "Desc": "播放cutscene等待完成",
+    "Id": 53,
+    "MaxTime": -1,
+    "ParamDesc": ["Cutscene表id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "54": {
+    "ActionName": "SittingControl",
+    "ActionType": 0,
+    "Desc": "坐在椅子上移动(废弃)",
+    "Id": 54,
+    "MaxTime": -1,
+    "ParamDesc": [
+      "移动类型：1坐着转身",
+      "最多转多少度（0不限制）",
+      "每次最少转多少度",
+      "小于多少度不转"
+    ],
+    "ParamType": ["int", "float", "float", "float"],
+    "TimeoutIsSuccess": false
+  },
+  "55": {
+    "ActionName": "MagneticAttach",
+    "ActionType": 0,
+    "Desc": "磁吸玩法，吸附到目标尾部",
+    "Id": 55,
+    "MaxTime": -1,
+    "ParamDesc": ["不需要参数"],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "56": {
+    "ActionName": "SwitchCameraTemplate",
+    "ActionType": 0,
+    "Desc": "开启\\关闭指定相机模板 （瞬间）",
+    "Id": 56,
+    "MaxTime": 0,
+    "ParamDesc": ["1/0(开启/关闭)", "相机模板ID", "相机状态枚举（不填为None状态）"],
+    "ParamType": ["int", "int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "57": {
+    "ActionName": "HomeFarm",
+    "ActionType": 0,
+    "Desc": "种田",
+    "Id": 57,
+    "MaxTime": 0,
+    "ParamDesc": ["交互类型（1.种植。2.施肥。3.授粉）"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "58": {
+    "ActionName": "ScenicSpotPhoto",
+    "ActionType": 0,
+    "Desc": "景点拍照打卡",
+    "Id": 58,
+    "MaxTime": 0,
+    "ParamDesc": ["贴纸id", "相机模板id"],
+    "ParamType": ["int", "int"],
+    "TimeoutIsSuccess": false
+  },
+  "59": {
+    "ActionName": "JoinParade",
+    "ActionType": 0,
+    "Desc": "巡游",
+    "Id": 59,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "6": {
+    "ActionName": "optionSelect",
+    "ActionType": 0,
+    "Desc": "触发关卡后端UserDoAction",
+    "Id": 6,
+    "MaxTime": 0,
+    "ParamDesc": ["关卡事件名"],
+    "ParamType": ["string"],
+    "TimeoutIsSuccess": false
+  },
+  "60": {
+    "ActionName": "",
+    "ActionType": 1,
+    "Desc": "大世界场景玩法",
+    "Id": 60,
+    "MaxTime": 0,
+    "ParamDesc": ["大世界场景玩法ID"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "7": {
+    "ActionName": "heroNormalDungeon",
+    "ActionType": 0,
+    "Desc": "英雄本入口",
+    "Id": 7,
+    "MaxTime": 0,
+    "ParamDesc": ["入口id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "8": {
+    "ActionName": "HeroChallengeDungeon",
+    "ActionType": 0,
+    "Desc": "挑战本入口",
+    "Id": 8,
+    "MaxTime": 0,
+    "ParamDesc": ["ChallengeHeroDungeonTableMgr表DungeonGroup id"],
+    "ParamType": ["int"],
+    "TimeoutIsSuccess": false
+  },
+  "9": {
+    "ActionName": "revive",
+    "ActionType": 2,
+    "Desc": "复活，不需要参数,用uuid当自定义参数",
+    "Id": 9,
+    "MaxTime": 30000,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  }
+}

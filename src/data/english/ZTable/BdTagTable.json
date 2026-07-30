@@ -1,0 +1,1024 @@
+{
+  "1": {
+    "Id": 1,
+    "ParentTag": 1001,
+    "TagName": "Heavy Attack",
+    "TagString": "Moves triggered by holding down the Basic Attack button",
+    "TagType": 2
+  },
+  "10": {
+    "Id": 10,
+    "ParentTag": 1002,
+    "TagName": "DoT",
+    "TagString": "Skills that affect the target or leave a DMG area that persists for a period, causing continuous DMG that cannot trigger Luck effects (this type of healing cannot trigger Luck effect)",
+    "TagType": 2
+  },
+  "100": {
+    "Id": 100,
+    "ParentTag": 0,
+    "TagName": "Food, Cuisine",
+    "TagString": "Marks this buff as a food/cuisine buff",
+    "TagType": 1
+  },
+  "1001": {
+    "Id": 1001,
+    "ParentTag": 1010,
+    "TagName": "Basic Attack",
+    "TagString": "Various moves triggered by the Basic Attack button",
+    "TagType": 1
+  },
+  "1002": {
+    "Id": 1002,
+    "ParentTag": 0,
+    "TagName": "Damage",
+    "TagString": "Effects that cause targets to lose HP",
+    "TagType": 1
+  },
+  "1003": {
+    "Id": 1003,
+    "ParentTag": 0,
+    "TagName": "Healing",
+    "TagString": "Effects that restore the target's HP",
+    "TagType": 1
+  },
+  "1004": {
+    "Id": 1004,
+    "ParentTag": 0,
+    "TagName": "Buff",
+    "TagString": "An effect that can be beneficial to allies in combat",
+    "TagType": 1
+  },
+  "1005": {
+    "Id": 1005,
+    "ParentTag": 0,
+    "TagName": "Debuff",
+    "TagString": "In various states that are disadvantageous to one's own combat",
+    "TagType": 1
+  },
+  "1006": {
+    "Id": 1006,
+    "ParentTag": 0,
+    "TagName": "Control",
+    "TagString": "In a state where various actions are restricted",
+    "TagType": 1
+  },
+  "1007": {
+    "Id": 1007,
+    "ParentTag": 0,
+    "TagName": "Displacement",
+    "TagString": "Skills that help characters move quickly",
+    "TagType": 1
+  },
+  "1008": {
+    "Id": 1008,
+    "ParentTag": 0,
+    "TagName": "Survival",
+    "TagString": "Skills that can help the character survive",
+    "TagType": 1
+  },
+  "1009": {
+    "Id": 1009,
+    "ParentTag": 0,
+    "TagName": "Release Type",
+    "TagString": "Special Release Method of Skill",
+    "TagType": 1
+  },
+  "101": {
+    "Id": 101,
+    "ParentTag": 1004,
+    "TagName": "Versatility",
+    "TagString": "In a state of increased Versatility Boost",
+    "TagType": 2
+  },
+  "1010": {
+    "Id": 1010,
+    "ParentTag": 0,
+    "TagName": "Class Skills",
+    "TagString": "Skills inherent to the Class",
+    "TagType": 1
+  },
+  "1011": {
+    "Id": 1011,
+    "ParentTag": 0,
+    "TagName": "Roguelike Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 1
+  },
+  "1017": {
+    "Id": 1017,
+    "ParentTag": 0,
+    "TagName": "Assist in Battle",
+    "TagString": "Auxiliary effects that can generate additional attack actions or resist offensive actions",
+    "TagType": 1
+  },
+  "1018": {
+    "Id": 1018,
+    "ParentTag": 0,
+    "TagName": "Summon",
+    "TagString": "Can summon combat units influenced by the summoner's state",
+    "TagType": 1
+  },
+  "1019": {
+    "Id": 1019,
+    "ParentTag": 0,
+    "TagName": "Projectile",
+    "TagString": "A skill mechanism that can perform physical motion and produce effects upon hitting",
+    "TagType": 1
+  },
+  "102": {
+    "Id": 102,
+    "ParentTag": 0,
+    "TagName": "Monster-Equipped Debuff",
+    "TagString": "A tag marking used specifically for field monsters targeting Type A and Type B tags",
+    "TagType": 1
+  },
+  "1020": {
+    "Id": 1020,
+    "ParentTag": 0,
+    "TagName": "Area Effect",
+    "TagString": "Effective method within a specified range",
+    "TagType": 1
+  },
+  "1021": {
+    "Id": 1021,
+    "ParentTag": 0,
+    "TagName": "Powerful Target",
+    "TagString": "Entities far stronger than Monsters",
+    "TagType": 1
+  },
+  "1022": {
+    "Id": 1022,
+    "ParentTag": 1021,
+    "TagName": "Boss",
+    "TagString": "Boss, Wild Boss, and World Boss",
+    "TagType": 2
+  },
+  "103": {
+    "Id": 103,
+    "ParentTag": 0,
+    "TagName": "Role Skills",
+    "TagString": "Special skills gained based on the assigned roles of Guardian, Attack, or Support",
+    "TagType": 1
+  },
+  "1031": {
+    "Id": 1031,
+    "ParentTag": 0,
+    "TagName": "Monster Type Tag",
+    "TagString": "",
+    "TagType": 1
+  },
+  "104": {
+    "Id": 104,
+    "ParentTag": 0,
+    "TagName": "Remove Debuff",
+    "TagString": "A control state that can be removed by CC-breaking skills",
+    "TagType": 1
+  },
+  "105": {
+    "Id": 105,
+    "ParentTag": 1011,
+    "TagName": "Brutality Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2
+  },
+  "106": {
+    "Id": 106,
+    "ParentTag": 0,
+    "TagName": "Lucky Strike",
+    "TagString": "The base Luck effect inherent to a Class",
+    "TagType": 1
+  },
+  "11": {
+    "Id": 11,
+    "ParentTag": 1003,
+    "TagName": "Direct Healing",
+    "TagString": "Healing generated by the skill or move itself",
+    "TagType": 2
+  },
+  "12": {
+    "Id": 12,
+    "ParentTag": 1003,
+    "TagName": "HoT",
+    "TagString": "Skills that affect the target or leave a healing area that persists for a period, causing the target to continuously restore HP (this type of healing cannot trigger Luck effects)",
+    "TagType": 2
+  },
+  "13": {
+    "Id": 13,
+    "ParentTag": 1004,
+    "TagName": "Blessing",
+    "TagString": "In an advantageous state where combat, movement, or other abilities are enhanced",
+    "TagType": 2
+  },
+  "14": {
+    "Id": 14,
+    "ParentTag": 1004,
+    "TagName": "Battle Imagine Buff",
+    "TagString": "A buff effect granted after Battle Imagine casts an active skill.",
+    "TagType": 2
+  },
+  "140": {
+    "Id": 140,
+    "ParentTag": 0,
+    "TagName": "Scenario Skill",
+    "TagString": "Additional skills obtained through scenarios or level gameplay",
+    "TagType": 1
+  },
+  "141": {
+    "Id": 141,
+    "ParentTag": 0,
+    "TagName": "Tag Exclusive",
+    "TagString": "Can only be used in Tag",
+    "TagType": 1
+  },
+  "142": {
+    "Id": 142,
+    "ParentTag": 0,
+    "TagName": "Tag Insight",
+    "TagString": "Belongs to the Insight system in Tag",
+    "TagType": 1
+  },
+  "15": {
+    "Id": 15,
+    "ParentTag": 1004,
+    "TagName": "Inspiration",
+    "TagString": "Combat attributes are greatly enhanced, and if developed under talents, additional effects will be added",
+    "TagType": 2
+  },
+  "16": {
+    "Id": 16,
+    "ParentTag": 1005,
+    "TagName": "Weakness",
+    "TagString": "In a disadvantageous state where combat, movement, or other abilities are reduced",
+    "TagType": 2
+  },
+  "17": {
+    "Id": 17,
+    "ParentTag": 1005,
+    "TagName": "Vulnerability",
+    "TagString": "A detrimental effect that increases damage taken for a period of time",
+    "TagType": 2
+  },
+  "18": {
+    "Id": 18,
+    "ParentTag": 1005,
+    "TagName": "Fracture",
+    "TagString": "Increases damage taken for a period of time, with additional effects if developed under certain talents",
+    "TagType": 2
+  },
+  "19": {
+    "Id": 19,
+    "ParentTag": 1006,
+    "TagName": "Frozen",
+    "TagString": "In a state where movement and any combat actions are impossible",
+    "TagType": 2
+  },
+  "2": {
+    "Id": 2,
+    "ParentTag": 1001,
+    "TagName": "Plunge Attack",
+    "TagString": "Falling moves executed by using Basic Attacks from a certain height above the ground",
+    "TagType": 2
+  },
+  "20": {
+    "Id": 20,
+    "ParentTag": 1006,
+    "TagName": "Bind",
+    "TagString": "In a state where movement is impossible",
+    "TagType": 2
+  },
+  "201": {
+    "Id": 201,
+    "ParentTag": 0,
+    "TagName": "Field Boss",
+    "TagString": "Quest: Participate in killing a specific type of monster",
+    "TagType": 1
+  },
+  "202": {
+    "Id": 202,
+    "ParentTag": 1031,
+    "TagName": "Wild",
+    "TagString": "",
+    "TagType": 1
+  },
+  "203": {
+    "Id": 203,
+    "ParentTag": 1031,
+    "TagName": "Dungeon",
+    "TagString": "",
+    "TagType": 1
+  },
+  "204": {
+    "Id": 204,
+    "ParentTag": 1031,
+    "TagName": "Melee",
+    "TagString": "",
+    "TagType": 1
+  },
+  "205": {
+    "Id": 205,
+    "ParentTag": 1031,
+    "TagName": "Ranged",
+    "TagString": "",
+    "TagType": 1
+  },
+  "206": {
+    "Id": 206,
+    "ParentTag": 1031,
+    "TagName": "Strength",
+    "TagString": "",
+    "TagType": 1
+  },
+  "207": {
+    "Id": 207,
+    "ParentTag": 1031,
+    "TagName": "Agility",
+    "TagString": "",
+    "TagType": 1
+  },
+  "208": {
+    "Id": 208,
+    "ParentTag": 1031,
+    "TagName": "Intellect",
+    "TagString": "",
+    "TagType": 1
+  },
+  "209": {
+    "Id": 209,
+    "ParentTag": 1031,
+    "TagName": "Support",
+    "TagString": "",
+    "TagType": 1
+  },
+  "21": {
+    "Id": 21,
+    "ParentTag": 1006,
+    "TagName": "Stun",
+    "TagString": "In a state of immobility, unable to perform any combat actions, and unable to use items",
+    "TagType": 2
+  },
+  "210": {
+    "Id": 210,
+    "ParentTag": 1031,
+    "TagName": "Warrior",
+    "TagString": "",
+    "TagType": 1
+  },
+  "211": {
+    "Id": 211,
+    "ParentTag": 1031,
+    "TagName": "Tank",
+    "TagString": "",
+    "TagType": 1
+  },
+  "212": {
+    "Id": 212,
+    "ParentTag": 1031,
+    "TagName": "Assassin",
+    "TagString": "",
+    "TagType": 1
+  },
+  "213": {
+    "Id": 213,
+    "ParentTag": 1031,
+    "TagName": "Mage",
+    "TagString": "",
+    "TagType": 1
+  },
+  "214": {
+    "Id": 214,
+    "ParentTag": 1031,
+    "TagName": "Marksman",
+    "TagString": "",
+    "TagType": 1
+  },
+  "22": {
+    "Id": 22,
+    "ParentTag": 1006,
+    "TagName": "Slow",
+    "TagString": "In a state of reduced Speed",
+    "TagType": 2
+  },
+  "221": {
+    "Id": 221,
+    "ParentTag": 1031,
+    "TagName": "Minion (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "222": {
+    "Id": 222,
+    "ParentTag": 1031,
+    "TagName": "Minor Elite (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "223": {
+    "Id": 223,
+    "ParentTag": 1031,
+    "TagName": "Major Elite (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "224": {
+    "Id": 224,
+    "ParentTag": 1031,
+    "TagName": "Ultra Elite (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "225": {
+    "Id": 225,
+    "ParentTag": 1031,
+    "TagName": "Boss (Dungeon)",
+    "TagString": "",
+    "TagType": 1
+  },
+  "23": {
+    "Id": 23,
+    "ParentTag": 1006,
+    "TagName": "Stagger",
+    "TagString": "The ability to break the super armor bar of a powerful target",
+    "TagType": 2
+  },
+  "24": {
+    "Id": 24,
+    "ParentTag": 1007,
+    "TagName": "Sprint",
+    "TagString": "Continuous displacement type skills",
+    "TagType": 2
+  },
+  "25": {
+    "Id": 25,
+    "ParentTag": 1007,
+    "TagName": "Blink",
+    "TagString": "Non-continuous displacement type skills",
+    "TagType": 2
+  },
+  "26": {
+    "Id": 26,
+    "ParentTag": 1004,
+    "TagName": "Shield",
+    "TagString": "Additional health shield that absorbs damage before health",
+    "TagType": 2
+  },
+  "27": {
+    "Id": 27,
+    "ParentTag": 0,
+    "TagName": "Block",
+    "TagString": "A special phase of a skill where damage taken is partially mitigated",
+    "TagType": 1
+  },
+  "28": {
+    "Id": 28,
+    "ParentTag": 0,
+    "TagName": "Fire",
+    "TagString": "Skill carries the power of the Fire",
+    "TagType": 1
+  },
+  "29": {
+    "Id": 29,
+    "ParentTag": 0,
+    "TagName": "Ice",
+    "TagString": "Skill carries the power of the Ice",
+    "TagType": 1
+  },
+  "3": {
+    "Id": 3,
+    "ParentTag": 1010,
+    "TagName": "Special Attack",
+    "TagString": "The most core and well-known signature skill move of the weapon",
+    "TagType": 1
+  },
+  "30": {
+    "Id": 30,
+    "ParentTag": 0,
+    "TagName": "Thunder",
+    "TagString": "Skills imbued with the power of the Thunder",
+    "TagType": 1
+  },
+  "31": {
+    "Id": 31,
+    "ParentTag": 0,
+    "TagName": "Wind",
+    "TagString": "Skills imbued with the power of the Wind",
+    "TagType": 1
+  },
+  "32": {
+    "Id": 32,
+    "ParentTag": 0,
+    "TagName": "Rock",
+    "TagString": "Skills imbued with the power of the Rock",
+    "TagType": 1
+  },
+  "33": {
+    "Id": 33,
+    "ParentTag": 0,
+    "TagName": "Forest",
+    "TagString": "Skills imbued with the power of the Forest",
+    "TagType": 1
+  },
+  "34": {
+    "Id": 34,
+    "ParentTag": 0,
+    "TagName": "Light",
+    "TagString": "Skills imbued with the power of the Light",
+    "TagType": 1
+  },
+  "35": {
+    "Id": 35,
+    "ParentTag": 0,
+    "TagName": "Dark",
+    "TagString": "Skills imbued with the power of the Dark",
+    "TagType": 1
+  },
+  "36": {
+    "Id": 36,
+    "ParentTag": 1017,
+    "TagName": "Coordination",
+    "TagString": "Effects that synchronize attack actions with the battle",
+    "TagType": 2
+  },
+  "37": {
+    "Id": 37,
+    "ParentTag": 1017,
+    "TagName": "Cooperative Battle",
+    "TagString": "Effects that independently perform attacks to assist in combat",
+    "TagType": 2
+  },
+  "38": {
+    "Id": 38,
+    "ParentTag": 1009,
+    "TagName": "Charging",
+    "TagString": "A skill release method that requires some time to prepare to achieve stronger power",
+    "TagType": 1
+  },
+  "39": {
+    "Id": 39,
+    "ParentTag": 1009,
+    "TagName": "Channelling",
+    "TagString": "A skill release method that requires maintaining a casting state to continue the effect",
+    "TagType": 1
+  },
+  "4": {
+    "Id": 4,
+    "ParentTag": 1010,
+    "TagName": "Expertise Skill",
+    "TagString": "Skills and moves that can be freely combined and replaced with the weapon",
+    "TagType": 1
+  },
+  "40": {
+    "Id": 40,
+    "ParentTag": 1008,
+    "TagName": "Enhancement",
+    "TagString": "Skills in a state of being enhanced or producing changes",
+    "TagType": 1
+  },
+  "41": {
+    "Id": 41,
+    "ParentTag": 0,
+    "TagName": "Energy Restore",
+    "TagString": "Can obtain combat resources needed for certain skill releases",
+    "TagType": 1
+  },
+  "42": {
+    "Id": 42,
+    "ParentTag": 0,
+    "TagName": "Imprint",
+    "TagString": "A type of effect that can be triggered under specific conditions, with the trigger probability influenced by attributes",
+    "TagType": 1
+  },
+  "43": {
+    "Id": 43,
+    "ParentTag": 1004,
+    "TagName": "Suppress",
+    "TagString": "A state when one's health is higher than the target's health, providing damage and DMG Reduction bonuses, and if developed under talents, additional effects will be added",
+    "TagType": 2
+  },
+  "44": {
+    "Id": 44,
+    "ParentTag": 1018,
+    "TagName": "Trap",
+    "TagString": "A summon that produces effects after certain conditions are triggered",
+    "TagType": 2
+  },
+  "45": {
+    "Id": 45,
+    "ParentTag": 1018,
+    "TagName": "Totem",
+    "TagString": "A summon that remains stationary for a period of time and produces effects around it",
+    "TagType": 2
+  },
+  "46": {
+    "Id": 46,
+    "ParentTag": 1018,
+    "TagName": "Companion",
+    "TagString": "A summon that can move and follow the summoner to assist in combat",
+    "TagType": 2
+  },
+  "47": {
+    "Id": 47,
+    "ParentTag": 1018,
+    "TagName": "Construct",
+    "TagString": "A summon with collision that can change terrain",
+    "TagType": 2
+  },
+  "48": {
+    "Id": 48,
+    "ParentTag": 1019,
+    "TagName": "Bullet",
+    "TagString": "A small-sized, fast-moving projectile",
+    "TagType": 2
+  },
+  "49": {
+    "Id": 49,
+    "ParentTag": 1019,
+    "TagName": "Missile",
+    "TagString": "A large-sized, moderately fast-moving projectile",
+    "TagType": 2
+  },
+  "5": {
+    "Id": 5,
+    "ParentTag": 1010,
+    "TagName": "Ultimate",
+    "TagString": "The ultimate combat arcane of the most powerful weapon",
+    "TagType": 1
+  },
+  "50": {
+    "Id": 50,
+    "ParentTag": 1020,
+    "TagName": "Domain",
+    "TagString": "Area effect that can continuously provide beneficial status to oneself or allies",
+    "TagType": 2
+  },
+  "51": {
+    "Id": 51,
+    "ParentTag": 1020,
+    "TagName": "AoE",
+    "TagString": "Area effect that can continuously cause damage or adverse status to enemies",
+    "TagType": 2
+  },
+  "52": {
+    "Id": 52,
+    "ParentTag": 1020,
+    "TagName": "Aura",
+    "TagString": "Can continuously provide effects to targets within its own range",
+    "TagType": 2
+  },
+  "53": {
+    "Id": 53,
+    "ParentTag": 0,
+    "TagName": "Normal Monster",
+    "TagString": "monsters active on the continent, generally with basic combat abilities",
+    "TagType": 1
+  },
+  "54": {
+    "Id": 54,
+    "ParentTag": 1021,
+    "TagName": "Elite",
+    "TagString": "Outstanding warriors among monsters, generally possessing highly threatening Expertise",
+    "TagType": 2
+  },
+  "55": {
+    "Id": 55,
+    "ParentTag": 1022,
+    "TagName": "Boss",
+    "TagString": "The absolute strong in the group, can be called a king without exaggeration",
+    "TagType": 3
+  },
+  "56": {
+    "Id": 56,
+    "ParentTag": 1022,
+    "TagName": "Wild Boss",
+    "TagString": "Powerful monsters found only in special territorial areas on the map",
+    "TagType": 3
+  },
+  "57": {
+    "Id": 57,
+    "ParentTag": 1022,
+    "TagName": "World Boss",
+    "TagString": "The most powerful monster in dungeon maps",
+    "TagType": 3
+  },
+  "58": {
+    "Id": 58,
+    "ParentTag": 0,
+    "TagName": "Healthy",
+    "TagString": "Status where health is not less than 50% of the health cap",
+    "TagType": 1
+  },
+  "59": {
+    "Id": 59,
+    "ParentTag": 0,
+    "TagName": "Injured",
+    "TagString": "Status where health is not more than 30% of the health cap",
+    "TagType": 1
+  },
+  "6": {
+    "Id": 6,
+    "ParentTag": 0,
+    "TagName": "Supplementary Skill",
+    "TagString": "Trait skill learned from talent",
+    "TagType": 1
+  },
+  "60": {
+    "Id": 60,
+    "ParentTag": 0,
+    "TagName": "Goblin",
+    "TagString": "",
+    "TagType": 1
+  },
+  "61": {
+    "Id": 61,
+    "ParentTag": 1001,
+    "TagName": "Basic Attack",
+    "TagString": "Basic moves of the weapon",
+    "TagType": 2
+  },
+  "62": {
+    "Id": 62,
+    "ParentTag": 0,
+    "TagName": "No element",
+    "TagString": "Skills not imbued with elemental power",
+    "TagType": 1
+  },
+  "63": {
+    "Id": 63,
+    "ParentTag": 1005,
+    "TagName": "Corrosion",
+    "TagString": "Affected by an unknown source of contamination, causing various adverse effects",
+    "TagType": 2
+  },
+  "64": {
+    "Id": 64,
+    "ParentTag": 0,
+    "TagName": "Strong Control",
+    "TagString": "Strong control over targets without super armor value",
+    "TagType": 1
+  },
+  "65": {
+    "Id": 65,
+    "ParentTag": 1001,
+    "TagName": "Counterattack",
+    "TagString": "Attack after successful red light counter",
+    "TagType": 2
+  },
+  "66": {
+    "Id": 66,
+    "ParentTag": 0,
+    "TagName": "Physical",
+    "TagString": "Damage is physical, affected by Block",
+    "TagType": 1
+  },
+  "67": {
+    "Id": 67,
+    "ParentTag": 0,
+    "TagName": "Magic",
+    "TagString": "Damage is magic, not affected by Block",
+    "TagType": 1
+  },
+  "68": {
+    "Id": 68,
+    "ParentTag": 0,
+    "TagName": "Single Target",
+    "TagString": "When there are fewer targets, the effect is stronger (if dealing damage, damage to the primary target does not diminish, but damage to other targets diminishes sharply)",
+    "TagType": 1
+  },
+  "69": {
+    "Id": 69,
+    "ParentTag": 0,
+    "TagName": "AoE",
+    "TagString": "Triggers a stronger effect when there are many targets (if it causes DMG, the DMG to all targets diminishes simultaneously)",
+    "TagType": 1
+  },
+  "7": {
+    "Id": 7,
+    "ParentTag": 0,
+    "TagName": "Recovery Skill",
+    "TagString": "Skill that can be used when being hit and airborne",
+    "TagType": 1
+  },
+  "70": {
+    "Id": 70,
+    "ParentTag": 1009,
+    "TagName": "Chanting",
+    "TagString": "A skill release method that requires some time to prepare before releasing",
+    "TagType": 1
+  },
+  "71": {
+    "Id": 71,
+    "ParentTag": 1004,
+    "TagName": "Crit",
+    "TagString": "In a state of increased Crit",
+    "TagType": 2
+  },
+  "72": {
+    "Id": 72,
+    "ParentTag": 1004,
+    "TagName": "Luck",
+    "TagString": "In a state of increased luck",
+    "TagType": 2
+  },
+  "73": {
+    "Id": 73,
+    "ParentTag": 1004,
+    "TagName": "Acceleration",
+    "TagString": "In a state of reduced CD",
+    "TagType": 2
+  },
+  "74": {
+    "Id": 74,
+    "ParentTag": 1004,
+    "TagName": "Mastery",
+    "TagString": "In a state of increased mastery",
+    "TagType": 2
+  },
+  "75": {
+    "Id": 75,
+    "ParentTag": 1004,
+    "TagName": "Increased Damage",
+    "TagString": "In an advantageous state where DMG-dealing ability is enhanced",
+    "TagType": 2
+  },
+  "76": {
+    "Id": 76,
+    "ParentTag": 1004,
+    "TagName": "Protect",
+    "TagString": "In a state of increased survivability",
+    "TagType": 2
+  },
+  "77": {
+    "Id": 77,
+    "ParentTag": 1005,
+    "TagName": "Attack Reduction",
+    "TagString": "In a state of reduced offensive capability",
+    "TagType": 2
+  },
+  "78": {
+    "Id": 78,
+    "ParentTag": 1005,
+    "TagName": "Armor Reduce",
+    "TagString": "In a state of reduced survivability",
+    "TagType": 2
+  },
+  "79": {
+    "Id": 79,
+    "ParentTag": 1006,
+    "TagName": "Envelop",
+    "TagString": "In a state of immobility, unable to perform any combat actions, and continuously being knocked back and attracted",
+    "TagType": 2
+  },
+  "8": {
+    "Id": 8,
+    "ParentTag": 0,
+    "TagName": "Resonance Skill",
+    "TagString": "Powerful skill learned from resonance",
+    "TagType": 1
+  },
+  "80": {
+    "Id": 80,
+    "ParentTag": 1006,
+    "TagName": "Crowd Control",
+    "TagString": "Gathering enemy targets around oneself",
+    "TagType": 2
+  },
+  "81": {
+    "Id": 81,
+    "ParentTag": 1004,
+    "TagName": "Haste",
+    "TagString": "In a state of increased haste",
+    "TagType": 2
+  },
+  "82": {
+    "Id": 82,
+    "ParentTag": 0,
+    "TagName": "Wild Monster",
+    "TagString": "Use to mark wild monsters, level Suppress calculation formula used",
+    "TagType": 1
+  },
+  "83": {
+    "Id": 83,
+    "ParentTag": 1006,
+    "TagName": "Silence",
+    "TagString": "In a state of being unable to perform any combat actions",
+    "TagType": 2
+  },
+  "84": {
+    "Id": 84,
+    "ParentTag": 0,
+    "TagName": "Void Corruption",
+    "TagString": "Infected by unknown seasonal infection",
+    "TagType": 1
+  },
+  "85": {
+    "Id": 85,
+    "ParentTag": 1005,
+    "TagName": "Wound",
+    "TagString": "In a state of reduced Healingiveness",
+    "TagType": 2
+  },
+  "86": {
+    "Id": 86,
+    "ParentTag": 0,
+    "TagName": "Toy and Mount Skills",
+    "TagString": "",
+    "TagType": 1
+  },
+  "87": {
+    "Id": 87,
+    "ParentTag": 0,
+    "TagName": "Transformation skill",
+    "TagString": "Use to mark transformation buffs, use the exit button to remove all transformation buffs with this tag.",
+    "TagType": 1
+  },
+  "88": {
+    "Id": 88,
+    "ParentTag": 1002,
+    "TagName": "Lucky Effect DMG",
+    "TagString": "DMG caused by Lucky Effects triggered by skills (When using class skills that deal direct DMG or healing, all Lucky Effects you possess have a chance to trigger equal to your Luck Rate)",
+    "TagType": 2
+  },
+  "89": {
+    "Id": 89,
+    "ParentTag": 1003,
+    "TagName": "Luck Effect Healing",
+    "TagString": "Healing caused by Lucky Effects triggered by skills (When using class skills that deal direct DMG or healing, all Lucky Effects you possess have a chance to trigger equal to your Luck Rate)",
+    "TagType": 2
+  },
+  "9": {
+    "Id": 9,
+    "ParentTag": 1002,
+    "TagName": "Direct DMG",
+    "TagString": "Damage generated by the skill move itself",
+    "TagType": 2
+  },
+  "90": {
+    "Id": 90,
+    "ParentTag": 1004,
+    "TagName": "Main attribute",
+    "TagString": "In a beneficial state of main attribute enhancement",
+    "TagType": 2
+  },
+  "91": {
+    "Id": 91,
+    "ParentTag": 1018,
+    "TagName": "Summon",
+    "TagString": "A basic combat unit that repeatedly uses relatively simple skills",
+    "TagType": 2
+  },
+  "92": {
+    "Id": 92,
+    "ParentTag": 1004,
+    "TagName": "Healing Boost",
+    "TagString": "In a state that increases Healingiveness",
+    "TagType": 2
+  },
+  "93": {
+    "Id": 93,
+    "ParentTag": 0,
+    "TagName": "Melee",
+    "TagString": "The skill only affects targets within close range",
+    "TagType": 1
+  },
+  "94": {
+    "Id": 94,
+    "ParentTag": 0,
+    "TagName": "Ranged",
+    "TagString": "The skill remains effective even at a longer distance from the target",
+    "TagType": 1
+  },
+  "95": {
+    "Id": 95,
+    "ParentTag": 1011,
+    "TagName": "Curse Stats",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2
+  },
+  "96": {
+    "Id": 96,
+    "ParentTag": 0,
+    "TagName": "Bouncing Bullet",
+    "TagString": "Skill marker used in roguelike gameplay",
+    "TagType": 1
+  },
+  "97": {
+    "Id": 97,
+    "ParentTag": 1011,
+    "TagName": "Bloodwrath Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2
+  },
+  "98": {
+    "Id": 98,
+    "ParentTag": 1011,
+    "TagName": "Unscathed Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2
+  },
+  "99": {
+    "Id": 99,
+    "ParentTag": 1011,
+    "TagName": "Luck Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "1": {
+    "CampId": 801,
+    "Description": "Localisez les pisteurs transformés et attaquez-les en utilisant vos armes et vos compétences. Un pisteur est vaincu lorsque ses PV tombent à zéro.<br><style=\"physical\">Condition de victoire : Vaincre tous les pisteurs.</style><br>En devenant un chasseur des ombres, vous obtenez automatiquement les compétences exclusives suivantes :",
+    "Id": 1,
+    "Name": "Chasseur des ombres",
+    "SkillId": [],
+    "SkillText": "Les objets ajoutés seront déduits après la <style=\"physical\">phase de confirmation de la faction</style>. Vous obtenez la compétence correspondante, qui <style=\"physical\">dure le temps d'une seule partie</style>. Pour l'utiliser lors de la partie suivante, l'objet doit être consommé à nouveau."
+  },
+  "2": {
+    "CampId": 802,
+    "Description": "Utilisez la compétence de Transformation pour vous changer en objets du décor. Cachez-vous dans des endroits appropriés pour semer la confusion chez les chasseurs des ombres, ou déplacez-vous fréquemment pour éviter leurs attaques.<br><style=\"physical\">Condition de victoire : Au moins un pisteur survit jusqu'à la fin du temps imparti.</style><br>Devenir un pisteur confère automatiquement les compétences exclusives suivantes :",
+    "Id": 2,
+    "Name": "Pisteur",
+    "SkillId": [6500, 6504, 6501],
+    "SkillText": "Les objets ajoutés seront déduits après la <style=\"physical\">phase de confirmation de la faction</style>. Vous obtenez la compétence correspondante, qui <style=\"physical\">dure le temps d'une seule partie</style>. Pour l'utiliser lors de la partie suivante, l'objet doit être consommé à nouveau."
+  }
+}

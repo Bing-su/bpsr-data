@@ -1,0 +1,48 @@
+{
+  "1000": {
+    "Id": 1000,
+    "IsShow": true,
+    "LockedText": "完成<style=\"emph-gn\">“在那些梦后的瞬间”</style>开启",
+    "Remark": "",
+    "RoleName": "博伊斯",
+    "RolePic": "ui/textures/npctask/boyce/storyboard_boyce",
+    "StoryboardPool": [100001],
+    "UnlockCondition": [[], [9, 30105]]
+  },
+  "1001": {
+    "Id": 1001,
+    "IsShow": true,
+    "LockedText": "完成<style=\"emph-gn\">“在那些梦后的瞬间”</style>开启",
+    "Remark": "",
+    "RoleName": "法法菈",
+    "RolePic": "ui/textures/npctask/farfara/storyboard_farfara",
+    "StoryboardPool": [100101],
+    "UnlockCondition": [[], [9, 30103]]
+  },
+  "1002": {
+    "Id": 1002,
+    "IsShow": true,
+    "LockedText": "完成<style=\"emph-gn\">“夜迈进漫长的街道”</style>开启",
+    "Remark": "",
+    "RoleName": "达雅",
+    "RolePic": "ui/textures/npctask/daya/storyboard_daya",
+    "StoryboardPool": [100201],
+    "UnlockCondition": [
+      [2, 10607, 2],
+      [9, 30101]
+    ]
+  },
+  "1003": {
+    "Id": 1003,
+    "IsShow": true,
+    "LockedText": "完成<style=\"emph-gn\">“最初的原点”</style>开启",
+    "Remark": "",
+    "RoleName": "艾露娜",
+    "RolePic": "ui/textures/npctask/iruna/storyboard_iruna",
+    "StoryboardPool": [100301],
+    "UnlockCondition": [
+      [2, 10001, 2],
+      [9, 41106]
+    ]
+  }
+}

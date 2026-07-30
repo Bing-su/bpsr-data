@@ -1,0 +1,227 @@
+{
+  "1": {
+    "AppearDisAppearCfg": [],
+    "AttributeId": 1001,
+    "DissolutionCfg": [],
+    "FollowConfigId": 0,
+    "FollowType": 0,
+    "Id": 1,
+    "InitBuffs": [2203041],
+    "IsFlying": false,
+    "IsPetCanBeHit": 0,
+    "IsResident": true,
+    "ModelID": 80000002,
+    "Name": "Little Wolf",
+    "RunSpeed": 6.0,
+    "SkillIds": [],
+    "Tags": []
+  },
+  "2": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4000000059604645
+      },
+      {
+        "x": 55294.0,
+        "y": 0.699999988079071
+      }
+    ],
+    "AttributeId": 1002,
+    "DissolutionCfg": [],
+    "FollowConfigId": 10002,
+    "FollowType": 1,
+    "Id": 2,
+    "InitBuffs": [2203291],
+    "IsFlying": true,
+    "IsPetCanBeHit": 0,
+    "IsResident": true,
+    "ModelID": 80000001,
+    "Name": "Little Eagle",
+    "RunSpeed": 0.0,
+    "SkillIds": [101110, 101111],
+    "Tags": []
+  },
+  "3": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4000000059604645
+      },
+      {
+        "x": 55294.0,
+        "y": 0.699999988079071
+      }
+    ],
+    "AttributeId": 1001,
+    "DissolutionCfg": [],
+    "FollowConfigId": 0,
+    "FollowType": 0,
+    "Id": 3,
+    "InitBuffs": [2203041],
+    "IsFlying": false,
+    "IsPetCanBeHit": 0,
+    "IsResident": true,
+    "ModelID": 80000003,
+    "Name": "Big Wolf",
+    "RunSpeed": 6.0,
+    "SkillIds": [],
+    "Tags": []
+  },
+  "4": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4000000059604645
+      },
+      {
+        "x": 55294.0,
+        "y": 0.699999988079071
+      }
+    ],
+    "AttributeId": 1001,
+    "DissolutionCfg": [],
+    "FollowConfigId": 0,
+    "FollowType": 0,
+    "Id": 4,
+    "InitBuffs": [2203041, 55292],
+    "IsFlying": false,
+    "IsPetCanBeHit": 0,
+    "IsResident": false,
+    "ModelID": 80000005,
+    "Name": "Summon Wolf",
+    "RunSpeed": 6.0,
+    "SkillIds": [1700820, 1700824, 1700826, 1700827],
+    "Tags": []
+  },
+  "5": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4000000059604645
+      },
+      {
+        "x": 55294.0,
+        "y": 0.699999988079071
+      }
+    ],
+    "AttributeId": 1002,
+    "DissolutionCfg": [],
+    "FollowConfigId": 10002,
+    "FollowType": 1,
+    "Id": 5,
+    "InitBuffs": [2203291, 55291],
+    "IsFlying": true,
+    "IsPetCanBeHit": 0,
+    "IsResident": false,
+    "ModelID": 80000004,
+    "Name": "Summon Eagle",
+    "RunSpeed": 0.0,
+    "SkillIds": [101110, 101111, 101112],
+    "Tags": []
+  },
+  "6": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 55298.0,
+        "y": 0.4000000059604645
+      },
+      {
+        "x": 55297.0,
+        "y": 0.699999988079071
+      }
+    ],
+    "AttributeId": 1001,
+    "DissolutionCfg": [],
+    "FollowConfigId": 0,
+    "FollowType": 0,
+    "Id": 6,
+    "InitBuffs": [2110080],
+    "IsFlying": false,
+    "IsPetCanBeHit": 0,
+    "IsResident": false,
+    "ModelID": 80000006,
+    "Name": "Resonance Skill Summon Wolf",
+    "RunSpeed": 6.0,
+    "SkillIds": [1700820, 1700824, 1700826, 1700827, 1700828],
+    "Tags": []
+  },
+  "7": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4000000059604645
+      },
+      {
+        "x": 55294.0,
+        "y": 0.699999988079071
+      }
+    ],
+    "AttributeId": 1001,
+    "DissolutionCfg": [],
+    "FollowConfigId": 0,
+    "FollowType": 0,
+    "Id": 7,
+    "InitBuffs": [2203041, 2203111],
+    "IsFlying": false,
+    "IsPetCanBeHit": 0,
+    "IsResident": false,
+    "ModelID": 80000002,
+    "Name": "Little Wolf - Talent",
+    "RunSpeed": 6.0,
+    "SkillIds": [],
+    "Tags": []
+  },
+  "8": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4000000059604645
+      },
+      {
+        "x": 55294.0,
+        "y": 0.699999988079071
+      }
+    ],
+    "AttributeId": 1001,
+    "DissolutionCfg": [],
+    "FollowConfigId": 0,
+    "FollowType": 0,
+    "Id": 8,
+    "InitBuffs": [2203041, 2203111],
+    "IsFlying": false,
+    "IsPetCanBeHit": 0,
+    "IsResident": false,
+    "ModelID": 80000003,
+    "Name": "Big Wolf - Talent",
+    "RunSpeed": 6.0,
+    "SkillIds": [],
+    "Tags": []
+  },
+  "9": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4000000059604645
+      },
+      {
+        "x": 55294.0,
+        "y": 0.699999988079071
+      }
+    ],
+    "AttributeId": 1002,
+    "DissolutionCfg": [],
+    "FollowConfigId": 10002,
+    "FollowType": 1,
+    "Id": 9,
+    "InitBuffs": [2203291, 55291],
+    "IsFlying": true,
+    "IsPetCanBeHit": 0,
+    "IsResident": false,
+    "ModelID": 80000004,
+    "Name": "Roguelike - Summon Eagle",
+    "RunSpeed": 0.0,
+    "SkillIds": [101110, 101111, 101112],
+    "Tags": []
+  }
+}

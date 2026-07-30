@@ -1,0 +1,48 @@
+{
+  "1000": {
+    "Id": 1000,
+    "IsShow": true,
+    "LockedText": "<style=\"emph-gn\">「夢の後の刹那」</style>をクリアすると開放",
+    "Remark": "",
+    "RoleName": "ボイス",
+    "RolePic": "ui/textures/npctask/boyce/storyboard_boyce",
+    "StoryboardPool": [100001],
+    "UnlockCondition": [[], [9, 30105]]
+  },
+  "1001": {
+    "Id": 1001,
+    "IsShow": true,
+    "LockedText": "<style=\"emph-gn\">「夢の後の刹那」</style>をクリアすると開放",
+    "Remark": "",
+    "RoleName": "ファルファラ",
+    "RolePic": "ui/textures/npctask/farfara/storyboard_farfara",
+    "StoryboardPool": [100101],
+    "UnlockCondition": [[], [9, 30103]]
+  },
+  "1002": {
+    "Id": 1002,
+    "IsShow": true,
+    "LockedText": "<style=\"emph-gn\">「長い街の夜」</style>をクリアすると開放",
+    "Remark": "",
+    "RoleName": "ダヤ",
+    "RolePic": "ui/textures/npctask/daya/storyboard_daya",
+    "StoryboardPool": [100201],
+    "UnlockCondition": [
+      [2, 10607, 2],
+      [9, 30101]
+    ]
+  },
+  "1003": {
+    "Id": 1003,
+    "IsShow": true,
+    "LockedText": "<style=\"emph-gn\">「原点」</style>をクリアすると開放",
+    "Remark": "",
+    "RoleName": "アルーナ",
+    "RolePic": "ui/textures/npctask/iruna/storyboard_iruna",
+    "StoryboardPool": [100301],
+    "UnlockCondition": [
+      [2, 10001, 2],
+      [9, 41106]
+    ]
+  }
+}

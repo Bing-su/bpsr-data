@@ -1,0 +1,74 @@
+{
+  "1": {
+    "Des": "协会成员上限增加至50人",
+    "Id": 1,
+    "PurviewParam": [],
+    "ShowPurview": "길드원 최대치 {*val*}까지 증가"
+  },
+  "10": {
+    "Des": "第二个参数为电子屏对应的唯一ID，第三个参数为可设置的照片数量",
+    "Id": 10,
+    "PurviewParam": [10, 1, 2],
+    "ShowPurview": "연출란 구역 {*val1*} 사진 수량 {*val2*}까지 증가"
+  },
+  "11": {
+    "Des": "协会相册数量上限增加，基础数量是10",
+    "Id": 11,
+    "PurviewParam": [11, 2],
+    "ShowPurview": "길드 앨범 최대치 {*val*}까지 증가"
+  },
+  "12": {
+    "Des": "",
+    "Id": 12,
+    "PurviewParam": [],
+    "ShowPurview": "이벤트 센터 업그레이드 후 다른 건물도 업그레이드 가능"
+  },
+  "2": {
+    "Des": "特效格子解锁1个",
+    "Id": 2,
+    "PurviewParam": [2, 1],
+    "ShowPurview": "축복의 샘 해제 수량: {*val*}"
+  },
+  "3": {
+    "Des": "解锁对应特效ID",
+    "Id": 3,
+    "PurviewParam": [3, 0],
+    "ShowPurview": "축복 효과 {*val*} 해제"
+  },
+  "4": {
+    "Des": "解锁厨房",
+    "Id": 4,
+    "PurviewParam": [4, 1],
+    "ShowPurview": "주방 해제"
+  },
+  "5": {
+    "Des": "解锁PVE玩法",
+    "Id": 5,
+    "PurviewParam": [5, 1],
+    "ShowPurview": "길드 사냥 콘텐츠 해제"
+  },
+  "6": {
+    "Des": "解锁休闲区域1",
+    "Id": 6,
+    "PurviewParam": [6, 1],
+    "ShowPurview": "휴식 구역 {*val*} 해제"
+  },
+  "7": {
+    "Des": "这个没有参数，限制在兑换商店那边",
+    "Id": 7,
+    "PurviewParam": [],
+    "ShowPurview": "길드 잡화점의 일부 아이템 해제"
+  },
+  "8": {
+    "Des": "解锁电子屏区域1,第二个参数为对应不同电子屏【废弃】",
+    "Id": 8,
+    "PurviewParam": [8, 1],
+    "ShowPurview": "연출란 {*val*} 해제"
+  },
+  "9": {
+    "Des": "解锁协会场景",
+    "Id": 9,
+    "PurviewParam": [9, 1],
+    "ShowPurview": "길드 이벤트 센터 해제"
+  }
+}

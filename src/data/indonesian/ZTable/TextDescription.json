@@ -1,0 +1,2938 @@
+{
+  "10001": {
+    "Description": "Pakaian yang dibuat ulang dengan teknik pewarnaan sesuai dengan model kustomisasi lanjutan. Mendukung pewarnaan bebas.",
+    "Id": 10001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Chroma Edition",
+    "Type": 1
+  },
+  "1001": {
+    "Description": "Berbagai Attack dari Weapon yang dilakukan menggunakan tombol serangan",
+    "Id": 1001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Normal Attack",
+    "Type": 1
+  },
+  "1002": {
+    "Description": "Bentuk Basic Attack dari Weapon",
+    "Id": 1002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Basic Attack",
+    "Type": 1
+  },
+  "1003": {
+    "Description": "Serangan Bash yang dihasilkan dengan menahan tombol serangan",
+    "Id": 1003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bash",
+    "Type": 1
+  },
+  "1004": {
+    "Description": "Plunge Attack yang dilakukan dengan melancarkan Normal Attack saat berada pada ketinggian tertentu dari tanah",
+    "Id": 1004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Plunge Attack",
+    "Type": 1
+  },
+  "1005": {
+    "Description": "Skill yang paling inti dan paling khas dari sebuah weapon",
+    "Id": 1005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Core Skill",
+    "Type": 1
+  },
+  "1006": {
+    "Description": "Skill Weapon yang paling sering digunakan",
+    "Id": 1006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Basic Skill",
+    "Type": 1
+  },
+  "1007": {
+    "Description": "Skill Weapon yang paling kuat",
+    "Id": 1007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ultimate",
+    "Type": 1
+  },
+  "1008": {
+    "Description": "Skill tambahan yang dipelajari dari talent",
+    "Id": 1008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Talent Skill",
+    "Type": 1
+  },
+  "1009": {
+    "Description": "Skill yang bisa dipakai saat menerima serangan di udara",
+    "Id": 1009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Landing Skill",
+    "Type": 1
+  },
+  "1010": {
+    "Description": "Skill bergaya yang kuat dan dipelajari dari Talent",
+    "Id": 1010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Talent Burst",
+    "Type": 1
+  },
+  "1011": {
+    "Description": "Skill bisa mengakibatkan DMG",
+    "Id": 1011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "DMG",
+    "Type": 1
+  },
+  "1012": {
+    "Description": "DMG yang dihasilkan oleh skill itu sendiri",
+    "Id": 1012,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ability DMG",
+    "Type": 1
+  },
+  "1013": {
+    "Description": "DMG tambahan yang dihasilkan dari FItur Element yang dipicu oleh Skill",
+    "Id": 1013,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Special DMG",
+    "Type": 1
+  },
+  "1014": {
+    "Description": "Efek yang bisa memulihkan HP",
+    "Id": 1014,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Heal",
+    "Type": 1
+  },
+  "1015": {
+    "Description": "Langsung memulihkan sejumlah besar HP",
+    "Id": 1015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Heal",
+    "Type": 1
+  },
+  "1016": {
+    "Description": "Memulihkan HP secara berkelanjutan selama jangka waktu tertentu",
+    "Id": 1016,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Healing",
+    "Type": 1
+  },
+  "1017": {
+    "Description": "Efek yang menguntungkan pihak kita dalam pertarungan",
+    "Id": 1017,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Buff",
+    "Type": 1
+  },
+  "1018": {
+    "Description": "Efek yang meningkatkan kemampuan bertarung, bergerak, atau kemampuan lain selama jangka waktu tertentu",
+    "Id": 1018,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blessing",
+    "Type": 1
+  },
+  "1019": {
+    "Description": "Efek yang meningkatkan kemampuan bertarung secara signifikan untuk waktu yang singkat",
+    "Id": 1019,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Exalt",
+    "Type": 1
+  },
+  "1020": {
+    "Description": "Stat pertarungan mendapat peningkatan drastis. Pengembangan talent yang terkait akan memberikan efek tambahan.",
+    "Id": 1020,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspire",
+    "Type": 1
+  },
+  "1021": {
+    "Description": "Dalam berbagai kondisi yang merugikan kemampuan bertarung diri sendiri",
+    "Id": 1021,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Debuff",
+    "Type": 1
+  },
+  "1022": {
+    "Description": "Efek negatif yang menurunkan stat pertarungan selama jangka waktu tertentu",
+    "Id": 1022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Weak",
+    "Type": 1
+  },
+  "1023": {
+    "Description": "Efek yang meningkatkan DMG yang diterima selama beberapa saat",
+    "Id": 1023,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Vulnerable",
+    "Type": 1
+  },
+  "1024": {
+    "Description": "DMG yang diterima bertambah dalam beberapa saat. Pengembangan talent yang terkait akan memberikan efek tambahan.",
+    "Id": 1024,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Shatter",
+    "Type": 1
+  },
+  "1025": {
+    "Description": "Berada dalam status yang membatasi berbagai tindakan",
+    "Id": 1025,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Control",
+    "Type": 1
+  },
+  "1026": {
+    "Description": "Berada dalam status tidak dapat bergerak dan tidak dapat melakukan tindakan bertarung apa pun",
+    "Id": 1026,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Freeze",
+    "Type": 1
+  },
+  "1027": {
+    "Description": "Berada dalam status tidak dapat bergerak",
+    "Id": 1027,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bind",
+    "Type": 1
+  },
+  "1028": {
+    "Description": "Berada dalam status tidak dapat bergerak, tidak dapat melakukan tindakan bertarung apa pun, dan tidak dapat memakai item. Jika efek ini diterapkan berulang dalam waktu singkat, durasi totalnya akan berkurang. Tidak berpengaruh terhadap Boss.",
+    "Id": 1028,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Stun",
+    "Type": 1
+  },
+  "1029": {
+    "Description": "Berada dalam status yang mengurangi kecepatan bergerak",
+    "Id": 1029,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Slow",
+    "Type": 1
+  },
+  "1030": {
+    "Description": "Kemampuan untuk menembus bilah <style=\"ItemQuality_5\">Super Armor</style> pada target prioritas.",
+    "Id": 1030,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Endurance Shred",
+    "Type": 1
+  },
+  "1031": {
+    "Description": "Skill yang bisa membantu karakter bergerak dengan cepat",
+    "Id": 1031,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Displacement",
+    "Type": 1
+  },
+  "1032": {
+    "Description": "Skill dengan displacement yang berkelanjutan",
+    "Id": 1032,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Sprint",
+    "Type": 1
+  },
+  "1033": {
+    "Description": "Skill dengan displacement yang tidak berkelanjutan",
+    "Id": 1033,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blink",
+    "Type": 1
+  },
+  "1034": {
+    "Description": "Skill yang bisa membantu karakter bertahan hidup",
+    "Id": 1034,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Survival",
+    "Type": 1
+  },
+  "1035": {
+    "Description": "<style=\"ItemQuality_5\">Perisai</style> HP tambahan yang bisa menyerap DMG sebelum mengurangi HP.",
+    "Id": 1035,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Shield",
+    "Type": 1
+  },
+  "1036": {
+    "Description": "Tahap spesial dalam skill. Sebagian DMG dapat dihilangkan saat menerima DMG dalam tahap ini",
+    "Id": 1036,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Parry",
+    "Type": 1
+  },
+  "1037": {
+    "Description": "Mengakibatkan Fire DMG",
+    "Id": 1037,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Fire DMG",
+    "Type": 1
+  },
+  "1038": {
+    "Description": "DMG berkekuatan Fire",
+    "Id": 1038,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Fire",
+    "Type": 1
+  },
+  "1039": {
+    "Description": "Berada dalam status Debuff yang berakibat menerima Special DMG elemen Fire secara berkala selama jangka waktu tertentu",
+    "Id": 1039,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Nyalakan",
+    "Type": 1
+  },
+  "1040": {
+    "Description": "Mengakibatkan Ice DMG",
+    "Id": 1040,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ice DMG",
+    "Type": 1
+  },
+  "1041": {
+    "Description": "DMG berkekuatan Ice",
+    "Id": 1041,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ice",
+    "Type": 1
+  },
+  "1042": {
+    "Description": "Mengakibatkan Thunder DMG",
+    "Id": 1042,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Thunder DMG",
+    "Type": 1
+  },
+  "1043": {
+    "Description": "DMG berkekuatan Thunder",
+    "Id": 1043,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Thunder",
+    "Type": 1
+  },
+  "1044": {
+    "Description": "Mengakibatkan Wind DMG",
+    "Id": 1044,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wind DMG",
+    "Type": 1
+  },
+  "1045": {
+    "Description": "DMG berkekuatan Wind",
+    "Id": 1045,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wind",
+    "Type": 1
+  },
+  "1046": {
+    "Description": "Mengakibatkan Rock DMG",
+    "Id": 1046,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Rock DMG",
+    "Type": 1
+  },
+  "1047": {
+    "Description": "DMG berkekuatan Rock",
+    "Id": 1047,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Rock",
+    "Type": 1
+  },
+  "1048": {
+    "Description": "Mengakibatkan Forest DMG",
+    "Id": 1048,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Forest DMG",
+    "Type": 1
+  },
+  "1049": {
+    "Description": "DMG berkekuatan Forest",
+    "Id": 1049,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Forest",
+    "Type": 1
+  },
+  "1050": {
+    "Description": "Mengakibatkan Light DMG",
+    "Id": 1050,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Light DMG",
+    "Type": 1
+  },
+  "1051": {
+    "Description": "DMG berkekuatan Light",
+    "Id": 1051,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Light",
+    "Type": 1
+  },
+  "1052": {
+    "Description": "Mengakibatkan Dark DMG",
+    "Id": 1052,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dark DMG",
+    "Type": 1
+  },
+  "1053": {
+    "Description": "DMG berkekuatan Dark",
+    "Id": 1053,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dark",
+    "Type": 1
+  },
+  "1054": {
+    "Description": "Efek dukungan yang bisa menghasilkan tindakan serangan atau tindakan menahan serangan",
+    "Id": 1054,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Assist",
+    "Type": 1
+  },
+  "1055": {
+    "Description": "Mengikuti tindakan serangan Battle Mage saat ini untuk mencapai efek serangan bersama",
+    "Id": 1055,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Sync",
+    "Type": 1
+  },
+  "1056": {
+    "Description": "Melancarkan serangan sendiri untuk mendukung pertarungan",
+    "Id": 1056,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Co-op",
+    "Type": 1
+  },
+  "1057": {
+    "Description": "Cara melancarkan skill dengan persiapan sementara waktu untuk mencapai kekuatan yang lebih besar",
+    "Id": 1057,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Charge",
+    "Type": 1
+  },
+  "1058": {
+    "Description": "Cara melancarkan skill yang perlu terus merapal mantra untuk melanjutkan efeknya",
+    "Id": 1058,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Channel",
+    "Type": 1
+  },
+  "1059": {
+    "Description": "Status melancarkan skill dengan efek yang diperkuat atau mengalami perubahan",
+    "Id": 1059,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Enhanced",
+    "Type": 1
+  },
+  "1060": {
+    "Description": "Kondisi yang mengharuskan untuk melancarkan Skill tertentu, yang dapat pulih atau terisi kembali seiring waktu atau melalui mekanisme tertentu",
+    "Id": 1060,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Charge",
+    "Type": 1
+  },
+  "1061": {
+    "Description": "Efek yang bisa dipicu dalam kondisi tertentu, peluang memicunya dipengaruhi stat",
+    "Id": 1061,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Imprint",
+    "Type": 1
+  },
+  "1062": {
+    "Description": "Status saat HP diri sendiri lebih tinggi dari target. Akan memberikan bonus penguatan terhadap DMG yang diakibatkan dan pengurangan DMG yang diterima. Jika dikembangkan melalui Talent, akan memberikan efek tambahan",
+    "Id": 1062,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Suppress",
+    "Type": 1
+  },
+  "1063": {
+    "Description": "Unit tempur yang memiliki summoner spesifik, status keberadaannya dipengaruhi oleh summoner tersebut",
+    "Id": 1063,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Summon Unit",
+    "Type": 1
+  },
+  "1064": {
+    "Description": "Unit panggilan yang efeknya terpicu setelah memenuhi syarat tertentu",
+    "Id": 1064,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Trap",
+    "Type": 1
+  },
+  "1065": {
+    "Description": "Unit panggilan yang tidak bergerak dan mengakibatkan efek terhadap lingkungan sekitarnya selama beberapa saat",
+    "Id": 1065,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Totem",
+    "Type": 1
+  },
+  "1066": {
+    "Description": "Unit panggilan yang bisa bergerak mengikuti dan membantu pemanggilnya dalam pertarungan",
+    "Id": 1066,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Servant",
+    "Type": 1
+  },
+  "1067": {
+    "Description": "Jenis summon yang memiliki kesadaran dan perilaku sendiri",
+    "Id": 1067,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Creation",
+    "Type": 1
+  },
+  "1068": {
+    "Description": "Mekanisme skill yang bisa bergerak secara fisik dan menghasilkan efek setelah mengenai target",
+    "Id": 1068,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Flying Object",
+    "Type": 1
+  },
+  "1069": {
+    "Description": "Benda terbang yang ukurannya kecil dan kecepatannya cukup tinggi",
+    "Id": 1069,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bullet",
+    "Type": 1
+  },
+  "1070": {
+    "Description": "Benda terbang yang ukurannya besar dan kecepatannya biasa saja",
+    "Id": 1070,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Projectile",
+    "Type": 1
+  },
+  "1071": {
+    "Description": "Efek yang berlaku di area tertentu",
+    "Id": 1071,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "AoE Effect",
+    "Type": 1
+  },
+  "1072": {
+    "Description": "Ruang lingkup efek yang terus-menerus memberi buff bagi diri sendiri atau rekan",
+    "Id": 1072,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Domain",
+    "Type": 1
+  },
+  "1073": {
+    "Description": "Ruang lingkup efek yang terus-menerus mengakibatkan DMG atau memberi debuff terhadap musuh",
+    "Id": 1073,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Area",
+    "Type": 1
+  },
+  "1074": {
+    "Description": "Dapat terus-menerus memberi efek bagi target yang berada dalam jarak tertentu dari diri sendiri",
+    "Id": 1074,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aura",
+    "Type": 1
+  },
+  "1075": {
+    "Description": "Keberadaan yang kekuatannya jauh di atas monster biasa",
+    "Id": 1075,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Target Prioritas",
+    "Type": 1
+  },
+  "1076": {
+    "Description": "Boss, Field Lord, dan Lord",
+    "Id": 1076,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Chief",
+    "Type": 1
+  },
+  "1077": {
+    "Description": "Monster biasa yang beraktivitas di benua ini, kemampuan bertarungnya biasa saja",
+    "Id": 1077,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Monster Biasa",
+    "Type": 1
+  },
+  "1078": {
+    "Description": "Pejuang elite di antara monster ini biasanya memiliki skill spesial yang cukup berbahaya",
+    "Id": 1078,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Elite",
+    "Type": 1
+  },
+  "1079": {
+    "Description": "Yang terkuat di antara kawanan, bahkan layak disebut raja",
+    "Id": 1079,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Boss",
+    "Type": 1
+  },
+  "1080": {
+    "Description": "Monster kuat yang hanya bisa ditemui di area spesial dalam peta",
+    "Id": 1080,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Field Lord",
+    "Type": 1
+  },
+  "1081": {
+    "Description": "Monster yang paling kuat dalam peta dungeon",
+    "Id": 1081,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Lord",
+    "Type": 1
+  },
+  "1082": {
+    "Description": "Status dengan HP di atas 50% dari Max HP",
+    "Id": 1082,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Healthy",
+    "Type": 1
+  },
+  "1083": {
+    "Description": "Status dengan HP di bawah 30% dari Max HP",
+    "Id": 1083,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Injured",
+    "Type": 1
+  },
+  "1084": {
+    "Description": "Skill tambahan yang didapat dari area atau permainan stage",
+    "Id": 1084,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Stage Skill",
+    "Type": 1
+  },
+  "1085": {
+    "Description": "Status berkelanjutan yang didapat dari proses Refine set Equipment \"Radiance\"",
+    "Id": 1085,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Radiance",
+    "Type": 1
+  },
+  "1086": {
+    "Description": "Mengakibatkan No Stat DMG",
+    "Id": 1086,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "No Stat DMG",
+    "Type": 1
+  },
+  "1087": {
+    "Description": "DMG No Stat, tidak mengandung kekuatan Element apa pun",
+    "Id": 1087,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "No Stat",
+    "Type": 1
+  },
+  "1088": {
+    "Description": "Terkena pengaruh dari sumber yang tidak dikenal, akan menghasilkan berbagai dampak buruk",
+    "Id": 1088,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Corruption",
+    "Type": 1
+  },
+  "1089": {
+    "Description": "Status berkelanjutan yang didapat dari proses Refine set Equipment \"Radiance\"",
+    "Id": 1089,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Radiance",
+    "Type": 1
+  },
+  "1090": {
+    "Description": "Memiliki efek yang meningkatkan jumlah DMG yang diakibatkan",
+    "Id": 1090,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Exalt",
+    "Type": 1
+  },
+  "1091": {
+    "Description": "Tidak dapat terpental, terlempar, atau terjatuh.",
+    "Id": 1091,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Super Armor",
+    "Type": 1
+  },
+  "1092": {
+    "Description": "Memaksa musuh untuk menyerang diri sendiri",
+    "Id": 1092,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Taunt",
+    "Type": 1
+  },
+  "1093": {
+    "Description": "Memiliki efek memantulkan DMG yang diterima",
+    "Id": 1093,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Thorns",
+    "Type": 1
+  },
+  "1094": {
+    "Description": "Efek yang secara langsung memengaruhi kemampuan tempur unit, seperti pengurangan kecepatan, penurunan Stat, atau efek kontrol lainnya",
+    "Id": 1094,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Debuff",
+    "Type": 1
+  },
+  "1095": {
+    "Description": "DMG yang diterima +<style=\"accent-gn\">10%</style> selama <style=\"accent-gn\">5</style> detik.",
+    "Id": 1095,
+    "Par": 3401095,
+    "ShowRule": 1,
+    "Text": "Vulnerable",
+    "Type": 3
+  },
+  "1096": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada target musuh, sekaligus membuat serangan <style=\"accent-gn\">Overpower</style> berikutnya mendapat tambahan <style=\"accent-gn\">2</style> <style=\"accent-gn\">Thunder Seal</style>.",
+    "Id": 1096,
+    "Par": 3401096,
+    "ShowRule": 1,
+    "Text": "Piercing Slash",
+    "Type": 3
+  },
+  "1097": {
+    "Description": "Casting Speed <style=\"accent-gn\">Special Attack</style> meningkat drastis selama <style=\"accent-gn\">10</style> detik. Efek ini akan hilang setelah <style=\"accent-gn\">Special Attack</style> digunakan.",
+    "Id": 1097,
+    "Par": 3401097,
+    "ShowRule": 1,
+    "Text": "Zen Moment",
+    "Type": 3
+  },
+  "1098": {
+    "Description": "Teknik tersembunyi <style=\"accent-gn\">Thunderbolt Strike</style>, berupa tebasan cepat ke atas yang mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">300%</style> ATK pada target. Saat Attack Speed mencapai <style=\"accent-gn\">25%</style>|<style=\"accent-gn\">50%</style>|<style=\"accent-gn\">80%</style>, jumlah serangan bertambah +<style=\"accent-gn\">1</style>|+<style=\"accent-gn\">2</style>|+<style=\"accent-gn\">3</style>. Nilai serangan meningkat seiring level/upgrade <style=\"accent-gn\">Thunderbolt Strike</style>.",
+    "Id": 1098,
+    "Par": 3401098,
+    "ShowRule": 1,
+    "Text": "Thunderbolt Cleave",
+    "Type": 3
+  },
+  "1099": {
+    "Description": "Setiap tumpuk mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada musuh.<br>Memulai dengan <style=\"accent-gn\">1</style> tumpuk serangan, dan setiap <style=\"accent-gn\">10%</style> Mastery akan menambahkan <style=\"accent-gn\">1</style> tumpuk tambahan. Maks. <style=\"accent-gn\">4</style> tumpuk DMG.",
+    "Id": 1099,
+    "Par": 3401099,
+    "ShowRule": 1,
+    "Text": "Bladewind Domain",
+    "Type": 3
+  },
+  "1100": {
+    "Description": "[Lucky]: Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">80%</style> ATK pada musuh.",
+    "Id": 1100,
+    "Par": 3401100,
+    "ShowRule": 1,
+    "Text": "Thunderstrike",
+    "Type": 3
+  },
+  "1101": {
+    "Description": "Berputar selama <style=\"accent-gn\">35</style> detik, mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">50%</style> ATK pada target setiap <style=\"accent-gn\">2</style> detik. Skala serangan meningkat seiring level/upgrade Skill Scythe Cart.",
+    "Id": 1101,
+    "Par": 3401101,
+    "ShowRule": 1,
+    "Text": "Moonblade",
+    "Type": 3
+  },
+  "1102": {
+    "Description": "Tidak dapat terpental, terlempar, atau terjatuh.",
+    "Id": 1102,
+    "Par": 3401102,
+    "ShowRule": 1,
+    "Text": "Super Armor",
+    "Type": 3
+  },
+  "1103": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada musuh dalam jarak <style=\"accent-gn\">3</style> meter.",
+    "Id": 1103,
+    "Par": 3401103,
+    "ShowRule": 1,
+    "Text": "Thunderbomb",
+    "Type": 3
+  },
+  "1104": {
+    "Description": "Saat melancarkan Skill yang mengonsumsi <style=\"accent-gn\">Thunder Seal</style>, setiap tambahan 1 <style=\"accent-gn\">Thunder Seal</style> yang digunakan akan meningkatkan DMG Skill tersebut sebesar <style=\"accent-gn\">25%</style>.",
+    "Id": 1104,
+    "Par": 3401104,
+    "ShowRule": 1,
+    "Text": "Thunder Seal",
+    "Type": 3
+  },
+  "1105": {
+    "Description": "Mengakibatkan DMG besar berdasarkan jumlah <style=\"accent-gn\">Thunder Seal</style> yang telah dikonsumsi dalam <style=\"accent-gn\">10</style> detik terakhir.<br>Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK untuk setiap <style=\"accent-gn\">1</style> <style=\"accent-gn\">Thunder Seal</style> yang dikonsumsi. Maks. <style=\"accent-gn\">15000%</style>.",
+    "Id": 1105,
+    "Par": 3401105,
+    "ShowRule": 1,
+    "Text": "Final Slash",
+    "Type": 3
+  },
+  "1106": {
+    "Description": "Dapat menampung hingga <style=\"accent-gn\">20</style> <style=\"accent-gn\">Charge Seed</style>. Saat melancarkan <style=\"accent-gn\">Thunderbolt Strike</style>, akan mengonsumsi <style=\"accent-gn\">15</style> <style=\"accent-gn\">Charge Seed</style> untuk memicu <style=\"accent-gn\">Scythe of Thunder</style>, yang mengakibatkan <style=\"physical\">PDMG</style> pada target di sekitarnya.",
+    "Id": 1106,
+    "Par": 3401106,
+    "ShowRule": 1,
+    "Text": "Charge Seed",
+    "Type": 3
+  },
+  "1107": {
+    "Description": "Memberikan buff kepada target Blessing, menambahkan <style=\"accent-gn\">100</style> poin <style=\"accent-gn\">INT</style>, <style=\"accent-gn\">STR</style>, <style=\"accent-gn\">AGI</style>, dan <style=\"accent-gn\">Endurance</style>, serta <style=\"accent-gn\">1,5%</style> <style=\"accent-gn\">Crit</style>, <style=\"accent-gn\">Haste</style>, <style=\"accent-gn\">Luck</style>, <style=\"accent-gn\">Mastery</style>, dan <style=\"accent-gn\">Versatility</style>.",
+    "Id": 1107,
+    "Par": 3401107,
+    "ShowRule": 1,
+    "Text": "Inspire",
+    "Type": 3
+  },
+  "1108": {
+    "Description": "Saat <style=\"accent-gn\">Expertise Skill</style> jenis Healing atau <style=\"accent-gn\">Ultimate Skill</style> memberikan Heal, mengonsumsi <style=\"accent-gn\">2</style> <style=\"accent-gn\">Regen Sprout</style> untuk melempar <style=\"accent-gn\">Nourishment Seed</style>, maks. sekali setiap <style=\"accent-gn\">1</style> detik.<br>Saat DMG <style=\"accent-gn\">Expertise Skill</style> atau <style=\"accent-gn\">Ultimate Skill</style> mengakibatkan DMG, akan mengonsumsi <style=\"accent-gn\">2</style> <style=\"accent-gn\">Regen Sprout</style> dan menembakkan 1 <style=\"accent-gn\">Wild Seed</style>. Efek ini dapat terpicu sekali setiap <style=\"accent-gn\">1</style> detik.",
+    "Id": 1108,
+    "Par": 3401108,
+    "ShowRule": 1,
+    "Text": "Regen Sprout",
+    "Type": 3
+  },
+  "1109": {
+    "Description": "Heal Link memantul antar target rekan, setiap pantulan memulihkan HP sebesar <style=\"accent-gn\">40%</style> ATK. Mulai dengan <style=\"accent-gn\">2</style> kali pantulan.",
+    "Id": 1109,
+    "Par": 3401109,
+    "ShowRule": 1,
+    "Text": "Heal Link",
+    "Type": 3
+  },
+  "1110": {
+    "Description": "Menyebar ke luar sejauh <style=\"accent-gn\">20</style> meter, memulihkan HP target rekan yang terkena sebesar <style=\"accent-gn\">150%</style> ATK.",
+    "Id": 1110,
+    "Par": 3401110,
+    "ShowRule": 1,
+    "Text": "Heal Pulse",
+    "Type": 3
+  },
+  "1111": {
+    "Description": "Memberikan <style=\"accent-gn\">Shield</style> sebesar <style=\"accent-gn\">150%</style> ATK kepada target rekan selama <style=\"accent-gn\">5</style> detik.",
+    "Id": 1111,
+    "Par": 3401111,
+    "ShowRule": 1,
+    "Text": "Nature Shield",
+    "Type": 3
+  },
+  "1112": {
+    "Description": "",
+    "Id": 1112,
+    "Par": 3401112,
+    "ShowRule": 1,
+    "Text": "Deer Charge",
+    "Type": 3
+  },
+  "1113": {
+    "Description": "Secara otomatis memulihkan HP rekan satu tim dalam jarak <style=\"accent-gn\">3</style> meter sebesar <style=\"accent-gn\">60%</style> ATK.",
+    "Id": 1113,
+    "Par": 3401113,
+    "ShowRule": 1,
+    "Text": "Heal Orb",
+    "Type": 3
+  },
+  "1114": {
+    "Description": "Saat mendekati <style=\"accent-gn\">Energy Orb</style> (dalam jarak <style=\"accent-gn\">3</style> meter), akan mendapatkan <style=\"accent-gn\">1</style> <style=\"accent-gn\">Regen Sprout</style>. <style=\"accent-gn\">Energy Orb</style> bertahan maks. <style=\"accent-gn\">3</style> detik.",
+    "Id": 1114,
+    "Par": 3401114,
+    "ShowRule": 1,
+    "Text": "Energy Orb",
+    "Type": 3
+  },
+  "1115": {
+    "Description": "Saat menyentuh tanah, memulihkan HP semua rekan satu tim sebesar <style=\"accent-gn\">40%</style> ATK.",
+    "Id": 1115,
+    "Par": 3401115,
+    "ShowRule": 1,
+    "Text": "Nourishment Seed",
+    "Type": 3
+  },
+  "1116": {
+    "Description": "Meledak saat menyentuh target musuh, mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK.",
+    "Id": 1116,
+    "Par": 3401116,
+    "ShowRule": 1,
+    "Text": "Wild Seed",
+    "Type": 3
+  },
+  "1117": {
+    "Description": "Mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">20%</style> ATK per detik terhadap musuh yang ditargetkan selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1117,
+    "Par": 3401117,
+    "ShowRule": 1,
+    "Text": "Thorns",
+    "Type": 3
+  },
+  "1118": {
+    "Description": "",
+    "Id": 1118,
+    "Par": 3401118,
+    "ShowRule": 1,
+    "Text": "Flower Plant",
+    "Type": 3
+  },
+  "1119": {
+    "Description": "Waktu CD untuk <style=\"accent-gn\">Expertise Skill</style> berikutnya berkurang <style=\"accent-gn\">50%</style>.",
+    "Id": 1119,
+    "Par": 3401119,
+    "ShowRule": 1,
+    "Text": "Red Lotus Insight",
+    "Type": 3
+  },
+  "1120": {
+    "Description": "Setelah melancarkan <style=\"accent-gn\">Expertise Skill</style> berikutnya, Heal Power diri sendiri +<style=\"accent-gn\">20%</style> selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1120,
+    "Par": 3401120,
+    "ShowRule": 1,
+    "Text": "Golden Devotion",
+    "Type": 3
+  },
+  "1121": {
+    "Description": "<style=\"accent-gn\">Life Bloom</style> berikutnya menambahkan <style=\"accent-gn\">Shield</style> yang berlangsung selama <style=\"accent-gn\">8</style> detik pada target heal dengan nilai penyerapan sebesar <style=\"accent-gn\">200%</style> dari ATK diri sendiri. Semua DMG yang diterima target dengan <style=\"accent-gn\">Shield</style> berkurang <style=\"accent-gn\">10%</style>.",
+    "Id": 1121,
+    "Par": 3401121,
+    "ShowRule": 1,
+    "Text": "Moonlight Solace",
+    "Type": 3
+  },
+  "1122": {
+    "Description": "Saat menerima DMG, jika persentase HP diri sendiri lebih tinggi daripada HP penyerang, DMG yang diterima dari penyerang berkurang -<style=\"accent-gn\">10%</style>.<br>Saat mengakibatkan DMG, jika persentase HP diri sendiri lebih tinggi daripada target yang terkena serangan, DMG terhadap target tersebut +<style=\"accent-gn\">10%</style>.",
+    "Id": 1122,
+    "Par": 3401122,
+    "ShowRule": 1,
+    "Text": "Suppress",
+    "Type": 3
+  },
+  "1123": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">50%</style> ATK pada target musuh, sekaligus mendapatkan <style=\"accent-gn\">1</style> <style=\"accent-gn\">Sand Crystal</style>.",
+    "Id": 1123,
+    "Par": 3401123,
+    "ShowRule": 1,
+    "Text": "Weakness Strike",
+    "Type": 3
+  },
+  "1124": {
+    "Description": "Shield Power +<style=\"accent-gn\">15%</style> selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1124,
+    "Par": 3401124,
+    "ShowRule": 1,
+    "Text": "Amplified Earthfort",
+    "Type": 3
+  },
+  "1125": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada musuh dalam jarak <style=\"accent-gn\">3</style> meter, mengabaikan <style=\"accent-gn\">Block</style>, dan menghasilkan sejumlah besar Threat.",
+    "Id": 1125,
+    "Par": 3401125,
+    "ShowRule": 1,
+    "Text": "Block Counter",
+    "Type": 3
+  },
+  "1126": {
+    "Description": "Saat melakukan <style=\"accent-gn\">Block</style>, memiliki peluang untuk memicu <style=\"accent-gn\">Lucky Block</style> berdasarkan % Luck.",
+    "Id": 1126,
+    "Par": 3401126,
+    "ShowRule": 1,
+    "Text": "Lucky Block",
+    "Type": 3
+  },
+  "1127": {
+    "Description": "Selama <style=\"accent-gn\">7</style> detik berikutnya, <style=\"accent-gn\">Shield Bash</style> berubah menjadi Double Strike dan tidak lagi mengonsumsi <style=\"accent-gn\">Fury</style> maupun <style=\"accent-gn\">Sand Crystal</style>. Selain itu, pengguna akan mendapatkan <style=\"accent-gn\">Shield</style>. Efek ini hilang setelah <style=\"accent-gn\">Shield Bash</style> dilancarkan.",
+    "Id": 1127,
+    "Par": 3401127,
+    "ShowRule": 1,
+    "Text": "Shield Combo",
+    "Type": 3
+  },
+  "1128": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">300%</style> ATK pada musuh dalam jarak <style=\"accent-gn\">5</style> meter. Selama <style=\"accent-gn\">5</style> detik berikutnya, memulihkan <style=\"accent-gn\">20</style> <style=\"accent-gn\">Fury</style> setiap <style=\"accent-gn\">1</style> detik. Efek ini tidak dapat ditumpuk.",
+    "Id": 1128,
+    "Par": 3401128,
+    "ShowRule": 1,
+    "Text": "Shield Echo",
+    "Type": 3
+  },
+  "1129": {
+    "Description": "DMG yang diterima -<style=\"accent-gn\">50%</style> dan heal yang diterima +<style=\"accent-gn\">30%</style> selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1129,
+    "Par": 3401129,
+    "ShowRule": 1,
+    "Text": "Last Stand",
+    "Type": 3
+  },
+  "1130": {
+    "Description": "Memulihkan <style=\"accent-gn\">3%</style> dari batas <style=\"accent-gn\">Ice Energy</style> setiap detik (pemulihan dipengaruhi oleh Mastery dan Haste), berlangsung selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1130,
+    "Par": 3401130,
+    "ShowRule": 1,
+    "Text": "Surge Rule",
+    "Type": 3
+  },
+  "1131": {
+    "Description": "Menyerang <style=\"accent-gn\">1</style> target musuh terdekat, mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">70%</style> ATK.",
+    "Id": 1131,
+    "Par": 3401131,
+    "ShowRule": 1,
+    "Text": "Stone Projectile",
+    "Type": 3
+  },
+  "1132": {
+    "Description": "Memaksa karakter bergerak ke jarak Melee target untuk menyerang.",
+    "Id": 1132,
+    "Par": 3401132,
+    "ShowRule": 1,
+    "Text": "Dazzle",
+    "Type": 3
+  },
+  "1133": {
+    "Description": "<style=\"accent-gn\">Melody - Valor Movement</style> atau <style=\"accent-gn\">Melody - Healing Movement</style>.",
+    "Id": 1133,
+    "Par": 3401133,
+    "ShowRule": 1,
+    "Text": "Melody Skill",
+    "Type": 3
+  },
+  "1134": {
+    "Description": "<style=\"accent-gn\">Rage Burst</style> yang diperkuat akan memanggil batu raksasa di sekitar pengguna, lalu meledak, mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">750%</style> ATK. Skala serangan meningkat seiring level/upgrade Skill <style=\"accent-gn\">Rage Burst</style>.<br>Tidak mengonsumsi <style=\"accent-gn\">Sand Crystal</style> saat digunakan.",
+    "Id": 1134,
+    "Par": 3401134,
+    "ShowRule": 1,
+    "Text": "Terra Sunder",
+    "Type": 3
+  },
+  "1135": {
+    "Description": "DMG +<style=\"accent-gn\">20%</style>, Move Speed +<style=\"accent-gn\">10%</style>, dan mendapat <style=\"accent-gn\">Super Armor</style>.",
+    "Id": 1135,
+    "Par": 3401135,
+    "ShowRule": 1,
+    "Text": "Enrage",
+    "Type": 3
+  },
+  "1136": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">300%</style> ATK pada musuh dalam jarak <style=\"accent-gn\">3</style> meter.",
+    "Id": 1136,
+    "Par": 3401136,
+    "ShowRule": 1,
+    "Text": "Sand Crystal Shock",
+    "Type": 3
+  },
+  "1137": {
+    "Description": "Mengurangi <style=\"magic\">MDMG</style> yang diterima diri sendiri sebesar <style=\"accent-gn\">50%</style> saat berada di dalam lingkaran. <style=\"accent-gn\">50%</style> DMG yang diterima rekan satu tim di dalam area (maks. <style=\"accent-gn\">10</style> orang) akan langsung diserap.",
+    "Id": 1137,
+    "Par": 3401137,
+    "ShowRule": 1,
+    "Text": "Sandfield",
+    "Type": 3
+  },
+  "1138": {
+    "Description": "Saat <style=\"accent-gn\">Light</style> penuh, melancarkan <style=\"accent-gn\">Special Attack</style> akan memasuki status <style=\"accent-gn\">Light Reforge</style>. Dalam status ini, <style=\"accent-gn\">Special Attack</style> dan beberapa <style=\"accent-gn\">Expertise Skill</style> akan diperkuat. <style=\"accent-gn\">Light</style> terus berkurang dalam status ini. Status akan berakhir saat Light mencapai <style=\"accent-gn\">0</style>.",
+    "Id": 1138,
+    "Par": 3401138,
+    "ShowRule": 1,
+    "Text": "Light Reforge",
+    "Type": 3
+  },
+  "1139": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">80%</style> ATK pada target dalam jarak <style=\"accent-gn\">5</style> meter. Setiap tambahan target yang terkena meningkatkan DMG +<style=\"accent-gn\">30%</style> (Maks. +<style=\"accent-gn\">120%</style>). Skala serangan meningkat seiring level/upgrade <style=\"accent-gn\">Normal Attack</style>.",
+    "Id": 1139,
+    "Par": 3401139,
+    "ShowRule": 1,
+    "Text": "Sweep",
+    "Type": 3
+  },
+  "1140": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada target musuh dan membuat target mengalami efek <style=\"accent-gn\">Life Loss</style>.",
+    "Id": 1140,
+    "Par": 3401140,
+    "ShowRule": 1,
+    "Text": "Pounce Bite",
+    "Type": 3
+  },
+  "1141": {
+    "Description": "Berlangsung selama <style=\"accent-gn\">5</style> detik, mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">10%</style> ATK per detik. Jika efek <style=\"accent-gn\">Life Loss</style> dari sumber yang sama diterapkan kembali, efek <style=\"accent-gn\">Life Loss</style> sebelumnya yang belum selesai akan langsung selesai.",
+    "Id": 1141,
+    "Par": 3401141,
+    "ShowRule": 1,
+    "Text": "Life Loss",
+    "Type": 3
+  },
+  "1142": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">50%</style> ATK pada target musuh.",
+    "Id": 1142,
+    "Par": 3401142,
+    "ShowRule": 1,
+    "Text": "Lightseeker Arrow",
+    "Type": 3
+  },
+  "1143": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">410%</style> ATK pada target musuh.",
+    "Id": 1143,
+    "Par": 3401143,
+    "ShowRule": 1,
+    "Text": "Lightning Impact",
+    "Type": 3
+  },
+  "1144": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada target musuh dan musuh di sekitarnya dalam jarak <style=\"accent-gn\">3</style> meter.",
+    "Id": 1144,
+    "Par": 3401144,
+    "ShowRule": 1,
+    "Text": "Explosive Arrow",
+    "Type": 3
+  },
+  "1145": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">250%</style> ATK pada musuh di dalam area.",
+    "Id": 1145,
+    "Par": 3401145,
+    "ShowRule": 1,
+    "Text": "Trample",
+    "Type": 3
+  },
+  "1146": {
+    "Description": "Mengepakkan sayap di tempat, efisiensi perolehan Light +<style=\"accent-gn\">100%</style> selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1146,
+    "Par": 3401146,
+    "ShowRule": 1,
+    "Text": "Legendary Eagle",
+    "Type": 3
+  },
+  "1147": {
+    "Description": "Mengaum dengan ganas, Light Boost +<style=\"accent-gn\">50%</style> selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1147,
+    "Par": 3401147,
+    "ShowRule": 1,
+    "Text": "Legendary Wildhog",
+    "Type": 3
+  },
+  "1148": {
+    "Description": "Saat <style=\"accent-gn\">Steel Beak</style> mencapai <style=\"accent-gn\">5</style> tumpuk atau lebih, setiap kali <style=\"accent-gn\">Steel Beak</style> ditumpuk memiliki <style=\"accent-gn\">30%</style> peluang tetap untuk memicu <style=\"accent-gn\">Implosion</style>, yang mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada musuh di dalam area. <style=\"accent-gn\">Steel Beak</style> -<style=\"accent-gn\">1</style> tumpuk setiap <style=\"accent-gn\">1</style> detik. Maks. <style=\"accent-gn\">20</style> tumpuk.",
+    "Id": 1148,
+    "Par": 3401148,
+    "ShowRule": 1,
+    "Text": "Steel Beak",
+    "Type": 3
+  },
+  "1149": {
+    "Description": "Menciptakan badai dengan radius <style=\"accent-gn\">5</style> meter, mengakibatkan <style=\"physical\">PDMG</style> yang mengabaikan Defense sebesar <style=\"accent-gn\">80%</style> ATK setiap <style=\"accent-gn\">0</style>,<style=\"accent-gn\">5</style> detik pada target di dalam badai yang memiliki tanda <style=\"accent-gn\">Steel Beak</style>.<style=\"accent-gn\"> Setelah 5</style> detik, <style=\"accent-gn\">Celestial Eagle</style> menukik ke tanah, mengakibatkan <style=\"physical\">PDMG</style> yang mengabaikan Defense sebesar <style=\"accent-gn\">500%</style> ATK.",
+    "Id": 1149,
+    "Par": 3401149,
+    "ShowRule": 1,
+    "Text": "Celestial Eagle",
+    "Type": 3
+  },
+  "1150": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">400%</style> ATK pada target musuh.",
+    "Id": 1150,
+    "Par": 3401150,
+    "ShowRule": 1,
+    "Text": "Phantom Hawk",
+    "Type": 3
+  },
+  "1151": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">35%</style> ATK pada target musuh. Skala serangan meningkat seiring level/upgrade <style=\"accent-gn\">Normal Attack</style>.",
+    "Id": 1151,
+    "Par": 3401151,
+    "ShowRule": 1,
+    "Text": "Split Arrow",
+    "Type": 3
+  },
+  "1152": {
+    "Description": "Attack +<style=\"accent-gn\">5%</style> selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1152,
+    "Par": 3401152,
+    "ShowRule": 1,
+    "Text": "Sharp",
+    "Type": 3
+  },
+  "1153": {
+    "Description": "Target kehilangan HP sebesar <style=\"accent-gn\">25%</style> ATK setiap detik selama <style=\"accent-gn\">8</style> detik.",
+    "Id": 1153,
+    "Par": 3401153,
+    "ShowRule": 1,
+    "Text": "Tear",
+    "Type": 3
+  },
+  "1154": {
+    "Description": "DMG <style=\"accent-gn\">Tear</style> +<style=\"accent-gn\">100%</style> selama <style=\"accent-gn\">5</style> detik.",
+    "Id": 1154,
+    "Par": 3401154,
+    "ShowRule": 1,
+    "Text": "Riddled",
+    "Type": 3
+  },
+  "1155": {
+    "Description": "<style=\"accent-gn\">STR</style> +<style=\"accent-gn\">30%</style> selama <style=\"accent-gn\">12</style> detik.",
+    "Id": 1155,
+    "Par": 3401155,
+    "ShowRule": 1,
+    "Text": "Vigor Spike",
+    "Type": 3
+  },
+  "1156": {
+    "Description": "[Lucky]: Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">150%</style> ATK.",
+    "Id": 1156,
+    "Par": 3401156,
+    "ShowRule": 1,
+    "Text": "Spear Thrust",
+    "Type": 3
+  },
+  "1157": {
+    "Description": "DMG <style=\"accent-gn\">Instant</style> +<style=\"accent-gn\">30%</style> selama <style=\"accent-gn\">10</style> detik. Maks. <style=\"accent-gn\">2</style> tumpuk. Berkurang 1 tumpuk setelah <style=\"accent-gn\">Instant</style> mengakibatkan DMG.",
+    "Id": 1157,
+    "Par": 3401157,
+    "ShowRule": 1,
+    "Text": "Pursuit Maneuver",
+    "Type": 3
+  },
+  "1158": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">350%</style> ATK pada musuh di dalam area.",
+    "Id": 1158,
+    "Par": 3401158,
+    "ShowRule": 1,
+    "Text": "Tornado",
+    "Type": 3
+  },
+  "1159": {
+    "Description": "<style=\"accent-gn\">Sharp Impact</style> yang diperkuat membuat pengguna melompat dan mengakibatkan total <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">800%</style> pada target dan musuh di sekitarnya. Skala serangan meningkat seiring level/upgrade Skill <style=\"accent-gn\">Sharp Impact</style>.",
+    "Id": 1159,
+    "Par": 3401159,
+    "ShowRule": 1,
+    "Text": "Wind God - Sharp Impact",
+    "Type": 3
+  },
+  "1160": {
+    "Description": "Saat Ice Meteor mengakibatkan DMG, <style=\"accent-gn\">Ice Crystal Core</style> akan memicu <style=\"accent-gn\">Ice Arrow</style> dan mendapatkan 1 <style=\"accent-gn\">Black Ice</style>.",
+    "Id": 1160,
+    "Par": 3401160,
+    "ShowRule": 1,
+    "Text": "Talent - Shatter Ice Strike",
+    "Type": 3
+  },
+  "1161": {
+    "Description": "Dapat memberikan efek tambahan pada Skill.",
+    "Id": 1161,
+    "Par": 3401161,
+    "ShowRule": 1,
+    "Text": "Black Ice",
+    "Type": 3
+  },
+  "1162": {
+    "Description": "Mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada target.",
+    "Id": 1162,
+    "Par": 3401162,
+    "ShowRule": 1,
+    "Text": "Ice Crystal Fall",
+    "Type": 3
+  },
+  "1163": {
+    "Description": "Mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK pada musuh di sekitar dalam jarak <style=\"accent-gn\">3</style> meter.",
+    "Id": 1163,
+    "Par": 3401163,
+    "ShowRule": 1,
+    "Text": "Frost Impact",
+    "Type": 3
+  },
+  "1164": {
+    "Description": "Sebuah <style=\"accent-gn\">tombak</style> yang dapat menembus target, mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">250%</style> ATK pada musuh.",
+    "Id": 1164,
+    "Par": 3401164,
+    "ShowRule": 1,
+    "Text": "Piercing Ice Spear",
+    "Type": 3
+  },
+  "1165": {
+    "Description": "[Lucky]: Memanggil <style=\"accent-gn\">Frost Comet</style> dari langit, mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">200%</style> ATK pada target musuh.",
+    "Id": 1165,
+    "Par": 3401165,
+    "ShowRule": 1,
+    "Text": "Frost Comet",
+    "Type": 3
+  },
+  "1166": {
+    "Description": "Melepaskan denyutan kuat dari Frost Ray, mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">500%</style> ATK pada musuh yang terkena serangan.",
+    "Id": 1166,
+    "Par": 3401166,
+    "ShowRule": 1,
+    "Text": "Chill Pulse",
+    "Type": 3
+  },
+  "1167": {
+    "Description": "Mendapat <style=\"accent-gn\">2</style> poin <style=\"accent-gn\">Bladewill</style> setiap detik. Batas maksimum awal <style=\"accent-gn\">Bladewill</style> <style=\"accent-gn\">100</style> poin.<br>Saat <style=\"accent-gn\">Bladewill</style> mencapai <style=\"accent-gn\">100</style> poin, Casting Speed <style=\"accent-gn\">Quick Draw Slash</style> meningkat drastis. Setelah <style=\"accent-gn\">Quick Draw Slash</style> digunakan, <style=\"accent-gn\">100</style> poin <style=\"accent-gn\">Bladewill</style> akan dikonsumsi.<br><style=\"accent-gn\"> Bladewill</style> juga dapat digunakan sebagai sumber daya untuk melancarkan <style=\"accent-gn\">Thunderbolt Strike</style>.",
+    "Id": 1167,
+    "Par": 3401167,
+    "ShowRule": 1,
+    "Text": "Bladewill",
+    "Type": 3
+  },
+  "1168": {
+    "Description": "<style=\"accent-gn\">Shield</style> Power +<style=\"accent-gn\">3%</style> selama <style=\"accent-gn\">10</style> detik. Maks. <style=\"accent-gn\">10</style> tumpuk.",
+    "Id": 1168,
+    "Par": 3401168,
+    "ShowRule": 1,
+    "Text": "Sand Protection",
+    "Type": 3
+  },
+  "1169": {
+    "Description": "Melompat dan mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">400%</style> ATK pada musuh di area, selalu memicu <style=\"accent-gn\">Weakness Strike</style>. Skala serangan meningkat seiring level/upgrade <style=\"accent-gn\">Normal Attack</style>.",
+    "Id": 1169,
+    "Par": 3401169,
+    "ShowRule": 1,
+    "Text": "Fury Strike",
+    "Type": 3
+  },
+  "1170": {
+    "Description": "Saat menerima <style=\"physical\">PDMG</style>, memiliki peluang tertentu untuk <style=\"accent-gn\">Block</style> serangan tersebut, mengurangi DMG yang diterima sebesar <style=\"accent-gn\">30%</style>.",
+    "Id": 1170,
+    "Par": 3401170,
+    "ShowRule": 1,
+    "Text": "Block",
+    "Type": 3
+  },
+  "1171": {
+    "Description": "Membuat target tidak dapat bergerak dan meningkatkan Ice DMG yang diterimanya sebesar <style=\"accent-gn\">20%</style> selama <style=\"accent-gn\">10</style> detik. Efek ini akan hilang saat target menerima serangan. Jika efek ini diterapkan berulang dalam waktu singkat, durasi totalnya akan berkurang. Tidak berpengaruh terhadap Boss.",
+    "Id": 1171,
+    "Par": 3401171,
+    "ShowRule": 1,
+    "Text": "Frost",
+    "Type": 3
+  },
+  "1172": {
+    "Description": "Mengalirkan cahaya ke dalam perisai, menyerap <style=\"accent-gn\">50%</style> DMG yang diterima selama durasi efek. Saat skill digunakan kembali, akan menambah kapasitas penyerapan dan mereset durasi. Maks. <style=\"accent-gn\">100%</style> dari Max HP.",
+    "Id": 1172,
+    "Par": 3401172,
+    "ShowRule": 1,
+    "Text": "Light Holyshield",
+    "Type": 3
+  },
+  "1173": {
+    "Description": "Selama <style=\"accent-gn\">5</style> detik, memulihkan HP setara dengan <style=\"accent-gn\">20%</style> ATK setiap <style=\"accent-gn\">0,5</style> detik untuk semua rekan.",
+    "Id": 1173,
+    "Par": 3401173,
+    "ShowRule": 1,
+    "Text": "Note Heatwave",
+    "Type": 3
+  },
+  "1174": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">150%</style> ATK pada target musuh.",
+    "Id": 1174,
+    "Par": 3401174,
+    "ShowRule": 1,
+    "Text": "Light Impact",
+    "Type": 3
+  },
+  "1175": {
+    "Description": "Setiap tumpukan meningkatkan Max HP akhir diri sendiri <style=\"accent-gn\">2%</style>. Dapat memiliki hingga <style=\"accent-gn\">10</style> tumpuk <style=\"accent-gn\">Lightforged Barrier</style>, dan setiap kali menerima DMG akan mengonsumsi <style=\"accent-gn\">1</style> tumpuk. Berlangsung selama <style=\"accent-gn\">25</style> detik atau hingga semua tumpuk habis, setiap kali mendapatkan tumpukan baru, durasi akan direset.",
+    "Id": 1175,
+    "Par": 3401175,
+    "ShowRule": 1,
+    "Text": "Lightforged Barrier",
+    "Type": 3
+  },
+  "1176": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">240%</style> ATK pada target. Skala serangan meningkat seiring level/upgrade <style=\"accent-gn\">Vanguard Strike</style>.<br><style=\"accent-gn\"> Vanguard Pursuit</style> mengakibatkan DMG, memulihkan <style=\"accent-gn\">2%</style> Max HP diri sendiri dan mendapatkan efek <style=\"accent-gn\">Fearless Valor</style>.",
+    "Id": 1176,
+    "Par": 3401176,
+    "ShowRule": 1,
+    "Text": "Vanguard Pursuit",
+    "Type": 3
+  },
+  "1177": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> setara dengan <style=\"accent-gn\">50%</style> ATK, membuat target yang terkena efek mengalami penurunan <style=\"accent-gn\">25%</style> Move Speed.",
+    "Id": 1177,
+    "Par": 3401177,
+    "ShowRule": 1,
+    "Text": "Holy Strike",
+    "Type": 3
+  },
+  "1178": {
+    "Description": "<style=\"accent-gn\">Tune</style> Deskripsi",
+    "Id": 1178,
+    "Par": 3401178,
+    "ShowRule": 1,
+    "Text": "Tune",
+    "Type": 3
+  },
+  "1179": {
+    "Description": "<style=\"accent-gn\">STR</style> +<style=\"accent-gn\">12%</style> selama <style=\"accent-gn\">8</style> detik.",
+    "Id": 1179,
+    "Par": 3401179,
+    "ShowRule": 1,
+    "Text": "Wind & Thunder Smash",
+    "Type": 3
+  },
+  "1180": {
+    "Description": "Menembakkan proyektil ke arah target musuh atau rekan di sekitar, mengakibatkan DMG atau memulihkan HP setara dengan <style=\"accent-gn\">50%</style> PATK/MATK tertinggi saat ini.",
+    "Id": 1180,
+    "Par": 3401180,
+    "ShowRule": 1,
+    "Text": "Encore",
+    "Type": 3
+  },
+  "1181": {
+    "Description": "<style=\"accent-gn\">INT</style> +<style=\"accent-gn\">5%</style> selama <style=\"accent-gn\">6</style> detik.",
+    "Id": 1181,
+    "Par": 3401181,
+    "ShowRule": 1,
+    "Text": "Fiery Passion",
+    "Type": 3
+  },
+  "1182": {
+    "Description": "Mengakibatkan <style=\"accent-gn\">50%</style> * jumlah tumpuk ATK <style=\"physical\">PDMG</style> setiap detik selama <style=\"accent-gn\">10</style> detik.",
+    "Id": 1182,
+    "Par": 3401182,
+    "ShowRule": 1,
+    "Text": "Burn",
+    "Type": 3
+  },
+  "1183": {
+    "Description": "<style=\"accent-gn\">Note</style> Deskripsi",
+    "Id": 1183,
+    "Par": 3401183,
+    "ShowRule": 1,
+    "Text": "Note",
+    "Type": 3
+  },
+  "1184": {
+    "Description": "<style=\"accent-gn\">Soundwave Surge</style>",
+    "Id": 1184,
+    "Par": 3401184,
+    "ShowRule": 1,
+    "Text": "Soundwave Surge",
+    "Type": 3
+  },
+  "1185": {
+    "Description": "Memberi Heal pada target rekan di sekitar sebesar <style=\"accent-gn\">10%</style> MATK Beat Performer",
+    "Id": 1185,
+    "Par": 3401185,
+    "ShowRule": 1,
+    "Text": "Heal Soundwave",
+    "Type": 3
+  },
+  "1186": {
+    "Description": "<style=\"accent-gn\">Sound Barrier</style>",
+    "Id": 1186,
+    "Par": 3401186,
+    "ShowRule": 1,
+    "Text": "Sound Barrier",
+    "Type": 3
+  },
+  "1187": {
+    "Description": "DMG yang diakibatkan +<style=\"accent-gn\">15%</style>, Attack Speed +<style=\"accent-gn\">10%</style> selama <style=\"accent-gn\">15</style> detik.",
+    "Id": 1187,
+    "Par": 3401187,
+    "ShowRule": 1,
+    "Text": "Wind Fury",
+    "Type": 3
+  },
+  "1188": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">80%</style> ATK pada target musuh.",
+    "Id": 1188,
+    "Par": 3401188,
+    "ShowRule": 1,
+    "Text": "Light Arrow",
+    "Type": 3
+  },
+  "1189": {
+    "Description": "Mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">300%</style> ATK pada target musuh di sekitar diri sendiri",
+    "Id": 1189,
+    "Par": 3401189,
+    "ShowRule": 1,
+    "Text": "Greenwill Impact",
+    "Type": 3
+  },
+  "1190": {
+    "Description": "Mengakibatkan <style=\"magic\">Magic Damage</style> sebesar <style=\"accent-gn\">60%</style> ATK kepada musuh di area sekitar, mengikuti upgrade/advance skill dari <style=\"accent-gn\">Normal Attack</style>.",
+    "Id": 1190,
+    "Par": 3401190,
+    "ShowRule": 1,
+    "Text": "Flamepillar Impact",
+    "Type": 3
+  },
+  "1191": {
+    "Description": "Melepaskan gelombang api dalam radius <style=\"accent-gn\">5</style> meter di sekitar diri sendiri, memberikan <style=\"magic\">Magic Damage</style> sebesar <style=\"accent-gn\">100%</style> ATK kepada musuh yang terkena.",
+    "Id": 1191,
+    "Par": 3401191,
+    "ShowRule": 1,
+    "Text": "Blazing Impact",
+    "Type": 3
+  },
+  "1192": {
+    "Description": "Memulihkan HP setara dengan <style=\"accent-gn\">35%</style> ATK dalam <style=\"accent-gn\">10</style> detik, maks. <style=\"accent-gn\">10</style> tumpuk. Jika ditambahkan saat mencapai <style=\"accent-gn\">10</style> tumpuk, sisa Healing dari <style=\"accent-gn\">Note</style> target langsung diperhitungkan.",
+    "Id": 1192,
+    "Par": 3401192,
+    "ShowRule": 1,
+    "Text": "Note",
+    "Type": 3
+  },
+  "1193": {
+    "Description": "Setiap kali menggunakan <style=\"accent-gn\">Expertise Skill</style> DMG atau Heal, memiliki <style=\"accent-gn\">50%</style> peluang tetap untuk memicu <style=\"accent-gn\">Encore Chords</style> yang akan memberikan DMG kepada target saat ini atau memulihkan HP rekan dengan HP terendah (prioritas pada rekan tim).",
+    "Id": 1193,
+    "Par": 3401193,
+    "ShowRule": 1,
+    "Text": "Encore Chords",
+    "Type": 3
+  },
+  "1194": {
+    "Description": "Bergerak dan melakukan channel selama 6 detik, menembakkan Passion Flow terus-menerus ke depan.",
+    "Id": 1194,
+    "Par": 3401194,
+    "ShowRule": 1,
+    "Text": "Exalt - Passion Flow",
+    "Type": 3
+  },
+  "1195": {
+    "Description": "Segera mendapat <style=\"accent-gn\">100</style> <style=\"accent-gn\">Energi</style>, seluruh CD <style=\"accent-gn\">Expertise Skill</style> jenis Healing akan langsung selesai, dan selama <style=\"accent-gn\">10</style> detik berikutnya MATK +<style=\"accent-gn\">30%</style>.",
+    "Id": 1195,
+    "Par": 3401195,
+    "ShowRule": 1,
+    "Text": "Sublime",
+    "Type": 3
+  },
+  "1196": {
+    "Description": "Mengangkat perisai dan menerjang ke depan, mengakibatkan <style=\"physical\">PDMG</style> setara dengan <style=\"accent-gn\">200%</style> ATK pada musuh yang terkena.",
+    "Id": 1196,
+    "Par": 3401196,
+    "ShowRule": 1,
+    "Text": "Shield Bearer Impact",
+    "Type": 3
+  },
+  "1197": {
+    "Description": "Memberikan <style=\"magic\">Magic Damage</style> sebesar <style=\"accent-gn\">100%</style> ATK kepada musuh di area sekitar.",
+    "Id": 1197,
+    "Par": 3401197,
+    "ShowRule": 1,
+    "Text": "Flame Shock",
+    "Type": 3
+  },
+  "1198": {
+    "Description": "Melepaskan Holy <style=\"accent-gn\">Energy</style> ke sekitar diri sendiri setelah <style=\"accent-gn\">10</style> detik, mengakibatkan <style=\"physical\">PDMG</style> dasar sebesar <style=\"accent-gn\">500%</style> ATK dan memulihkan <style=\"accent-gn\">15%</style> dari Max HP diri sendiri.",
+    "Id": 1198,
+    "Par": 3401198,
+    "ShowRule": 1,
+    "Text": "Core of Light",
+    "Type": 3
+  },
+  "1199": {
+    "Description": "Target menerima DMG sebesar <style=\"accent-gn\">20%</style> ATK per detik selama <style=\"accent-gn\">10</style> detik berikutnya, dan saat target tersebut mengakibatkan DMG padamu, ada <style=\"accent-gn\">10%</style> peluang tetap untuk memulihkan HP sebesar <style=\"accent-gn\">0,5%</style> Max HP-mu.",
+    "Id": 1199,
+    "Par": 3401199,
+    "ShowRule": 1,
+    "Text": "Holy Mark",
+    "Type": 3
+  },
+  "1200": {
+    "Description": "[Lucky]: Mengakibatkan DMG adaptif sebesar <style=\"accent-gn\">1375%</style> ATK pada musuh dalam area <style=\"accent-gn\">3</style> meter, namun tidak dapat mengakibatkan Crit.",
+    "Id": 1200,
+    "Par": 3401200,
+    "ShowRule": 1,
+    "Text": "Fantasy Impact",
+    "Type": 3
+  },
+  "1201": {
+    "Description": "Mengakibatkan DMG adaptif sebesar <style=\"accent-gn\">850%</style> ATK pada musuh dalam area <style=\"accent-gn\">3</style> meter. Crit DMG akan selalu dihitung dengan persentase <style=\"accent-gn\">500%</style>.",
+    "Id": 1201,
+    "Par": 3401201,
+    "ShowRule": 1,
+    "Text": "Phantasm Execution",
+    "Type": 3
+  },
+  "1202": {
+    "Description": "Mengakibatkan DMG adaptif sebesar <style=\"accent-gn\">165%</style> ATK pada musuh dalam area <style=\"accent-gn\">3</style> meter.",
+    "Id": 1202,
+    "Par": 3401202,
+    "ShowRule": 1,
+    "Text": "Dream Arrow",
+    "Type": 3
+  },
+  "1203": {
+    "Description": "Setiap tumpuk ATK +<style=\"accent-gn\">18</style> (meningkat seiring level season, maks. +<style=\"accent-gn\">50</style>).",
+    "Id": 1203,
+    "Par": 3401203,
+    "ShowRule": 1,
+    "Text": "Illusionary Dream",
+    "Type": 3
+  },
+  "1204": {
+    "Description": "Stat utama +<style=\"accent-gn\">450</style> (meningkat seiring level season, maks. +<style=\"accent-gn\">1050</style>), tidak bisa mendapat Remnant Dream selama efek berlangsung.",
+    "Id": 1204,
+    "Par": 3401204,
+    "ShowRule": 1,
+    "Text": "Dream Power",
+    "Type": 3
+  },
+  "1205": {
+    "Description": "ATK -<style=\"accent-gn\">20%</style>, Dream DMG yang diterima +<style=\"accent-gn\">10%</style>, Move Speed -<style=\"accent-gn\">20%</style> (tidak dapat ditumpuk).",
+    "Id": 1205,
+    "Par": 3401205,
+    "ShowRule": 1,
+    "Text": "Oblivion",
+    "Type": 3
+  },
+  "1206": {
+    "Description": "Mengakibatkan DMG adaptif sebesar <style=\"accent-gn\">200%</style> ATK pada musuh yang berjarak <style=\"accent-gn\">5</style> meter dari diri sendiri dan memberi efek <linktext=3005><style=\"ItemQuality_5\">Stun</style></linktext> pada target selama <style=\"accent-gn\">1</style>,<style=\"accent-gn\">5</style> detik.",
+    "Id": 1206,
+    "Par": 3401206,
+    "ShowRule": 1,
+    "Text": "Oblivion Strike",
+    "Type": 3
+  },
+  "1207": {
+    "Description": "Kebal terhadap kematian.",
+    "Id": 1207,
+    "Par": 3401207,
+    "ShowRule": 1,
+    "Text": "Near Death",
+    "Type": 3
+  },
+  "1208": {
+    "Description": "Mengakibatkan DMG adaptif sebesar <style=\"accent-gn\">330%</style> PDEF pada musuh yang berjarak <style=\"accent-gn\">5</style> meter dari diri sendiri.",
+    "Id": 1208,
+    "Par": 3401208,
+    "ShowRule": 1,
+    "Text": "False Judgment",
+    "Type": 3
+  },
+  "1209": {
+    "Description": "Max HP +<style=\"accent-gn\">3%</style>, Mastery +<style=\"accent-gn\">2%</style>, maks. <style=\"accent-gn\">3</style> tumpuk.",
+    "Id": 1209,
+    "Par": 3401209,
+    "ShowRule": 1,
+    "Text": "Endless Thought",
+    "Type": 3
+  },
+  "1210": {
+    "Description": "Setiap <style=\"accent-gn\">2</style> STR, INT, dan AGI akan dikonversi menjadi <style=\"accent-gn\">1</style> ATK.<br>Setiap <style=\"accent-gn\">1</style> END akan dikonversi menjadi <style=\"accent-gn\">8</style> Max HP.<br>Setiap <style=\"accent-gn\">1%</style> Haste akan dikonversi menjadi <style=\"accent-gn\">0,6%</style> Attack Speed dan <style=\"accent-gn\">1%</style> Cast Speed.<br>Setiap <style=\"accent-gn\">1%</style> Versatility akan meningkatkan <style=\"accent-gn\">0,35%</style> bonus persentase untuk DMG yang diakibatkan, heal, dan shield yang diberikan, serta <style=\"accent-gn\">0,15%</style> DR saat menerima DMG.<br>Setiap <style=\"accent-gn\">1%</style> Mastery akan dikonversi menjadi <style=\"accent-gn\">0,5%</style> peningkatan DMG universal.",
+    "Id": 1210,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Artisan Power",
+    "Type": 1
+  },
+  "1211": {
+    "Description": "<style=\"accent-gn\">Keahlian Khusus</style> Kecepatan Serangan +<style=\"accent-gn\">5%</style>, berlangsung selama <style=\"accent-gn\">10</style> detik, dapat ditumpuk hingga <style=\"accent-gn\">5</style> lapis.",
+    "Id": 1211,
+    "Par": 3401211,
+    "ShowRule": 1,
+    "Text": "Serangan Beruntun Api",
+    "Type": 3
+  },
+  "1212": {
+    "Description": "Fire Boost+<style=\"accent-gn\">10%</style>, berlangsung selama<style=\"accent-gn\">8</style> detik.",
+    "Id": 1212,
+    "Par": 3401212,
+    "ShowRule": 1,
+    "Text": "Api Membara",
+    "Type": 3
+  },
+  "1213": {
+    "Description": "Setiap <style=\"accent-gn\">2</style> detik mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">35% x jumlah tumpukan</style> x ATK selama <style=\"accent-gn\">10</style> detik, maks. <style=\"accent-gn\">10</style> tumpuk. Saat <style=\"accent-gn\">Burn</style> mencapai tumpukan tertinggi, <style=\"accent-gn\">Burn</style> yang baru ditambahkan akan langsung mengakibatkan satu kali <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">35%</style> ATK.",
+    "Id": 1213,
+    "Par": 3401213,
+    "ShowRule": 1,
+    "Text": "Burn",
+    "Type": 3
+  },
+  "1214": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">800%</style> ATK pada target di dalam area, sekaligus mendapatkan <style=\"accent-gn\">10</style> <style=\"accent-gn\">Flame Soul</style>.",
+    "Id": 1214,
+    "Par": 3401214,
+    "ShowRule": 1,
+    "Text": "Ledakan Api",
+    "Type": 3
+  },
+  "1215": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">500%</style> ATK pada target musuh.",
+    "Id": 1215,
+    "Par": 3401215,
+    "ShowRule": 1,
+    "Text": "Meteor Api Abadi",
+    "Type": 3
+  },
+  "1216": {
+    "Description": "Setiap DMG akan disertai tahap tambahan sesuai angka pengali skill saat ini, peluangnya sebagai berikut:<br>Peluang Formless Slash tahap <style=\"accent-gn\">1</style>: <style=\"accent-gn\">20%</style>.<br>Peluang Formless Slash tahap <style=\"accent-gn\">2</style>: <style=\"accent-gn\">10%</style>.<br>Peluang Formless Slash tahap <style=\"accent-gn\">3</style>: <style=\"accent-gn\">5%</style>.",
+    "Id": 1216,
+    "Par": 3401216,
+    "ShowRule": 1,
+    "Text": "Pemotongan Api Null",
+    "Type": 3
+  },
+  "1217": {
+    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">800%</style> ATK pada musuh di dalam area.",
+    "Id": 1217,
+    "Par": 3401217,
+    "ShowRule": 1,
+    "Text": "Crimson Lotus",
+    "Type": 3
+  },
+  "1218": {
+    "Description": "Saat menerima DMG, jika persentase HP diri sendiri lebih tinggi daripada HP penyerang, DMG yang diterima dari penyerang berkurang -<style=\"accent-gn\">10%</style>.<br>Saat mengakibatkan DMG, jika persentase HP diri sendiri lebih tinggi daripada target yang terkena serangan, DMG terhadap target tersebut +<style=\"accent-gn\">5%</style>.",
+    "Id": 1218,
+    "Par": 3401218,
+    "ShowRule": 1,
+    "Text": "Flame Suppress",
+    "Type": 3
+  },
+  "1219": {
+    "Description": "Setiap <style=\"accent-gn\">2</style> poin STR, INT, dan AGI dikonversi menjadi <style=\"accent-gn\">1</style> poin ATK. <br>Setiap <style=\"accent-gn\">1</style> poin END dikonversi menjadi <style=\"accent-gn\">8</style> poin Max HP.<br><style=\"accent-gn\">Crit%</style>, <style=\"accent-gn\">Luck%</style>, <style=\"accent-gn\">Mastery%</style>, <style=\"accent-gn\">Haste%</style>, dan <style=\"accent-gn\">Versatility%</style> milikmu akan kehilangan efek semula dan mendapat ability baru: DMG dari Resonance Skill saat ini pasti mengakibatkan Crit, tapi Crit DMG tersebut selalu sebesar perhitungan jumlah <style=\"accent-gn\">Crit%+Luck%+Mastery%+Haste%+Versatility%</style>.",
+    "Id": 1219,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Konversi Ability",
+    "Type": 1
+  },
+  "1500": {
+    "Description": "",
+    "Id": 1500,
+    "Par": 1714,
+    "ShowRule": 1,
+    "Text": "Quick Draw Slash",
+    "Type": 2
+  },
+  "1501": {
+    "Description": "",
+    "Id": 1501,
+    "Par": 1717,
+    "ShowRule": 1,
+    "Text": "Flash",
+    "Type": 2
+  },
+  "1502": {
+    "Description": "",
+    "Id": 1502,
+    "Par": 1713,
+    "ShowRule": 1,
+    "Text": "Ultimate: Cataclysm Combo",
+    "Type": 2
+  },
+  "1503": {
+    "Description": "",
+    "Id": 1503,
+    "Par": 1724,
+    "ShowRule": 1,
+    "Text": "Thunderbolt Strike",
+    "Type": 2
+  },
+  "1504": {
+    "Description": "",
+    "Id": 1504,
+    "Par": 1730,
+    "ShowRule": 1,
+    "Text": "Infinite Thunder Surge",
+    "Type": 2
+  },
+  "1505": {
+    "Description": "",
+    "Id": 1505,
+    "Par": 1731,
+    "ShowRule": 1,
+    "Text": "Thousand Thunder Flash",
+    "Type": 2
+  },
+  "1506": {
+    "Description": "",
+    "Id": 1506,
+    "Par": 1738,
+    "ShowRule": 1,
+    "Text": "Whirling Slash",
+    "Type": 2
+  },
+  "1507": {
+    "Description": "",
+    "Id": 1507,
+    "Par": 1715,
+    "ShowRule": 1,
+    "Text": "Moonshade",
+    "Type": 2
+  },
+  "1508": {
+    "Description": "",
+    "Id": 1508,
+    "Par": 1246,
+    "ShowRule": 1,
+    "Text": "Tide Merge",
+    "Type": 2
+  },
+  "1509": {
+    "Description": "",
+    "Id": 1509,
+    "Par": 1241,
+    "ShowRule": 1,
+    "Text": "Ice Ray",
+    "Type": 2
+  },
+  "1510": {
+    "Description": "",
+    "Id": 1510,
+    "Par": 1211,
+    "ShowRule": 1,
+    "Text": "Cascade Beads",
+    "Type": 2
+  },
+  "1511": {
+    "Description": "",
+    "Id": 1511,
+    "Par": 1239,
+    "ShowRule": 1,
+    "Text": "Meteor Storm",
+    "Type": 2
+  },
+  "1512": {
+    "Description": "",
+    "Id": 1512,
+    "Par": 1242,
+    "ShowRule": 1,
+    "Text": "Frost Spear",
+    "Type": 2
+  },
+  "1513": {
+    "Description": "",
+    "Id": 1513,
+    "Par": 1244,
+    "ShowRule": 1,
+    "Text": "Ice Storm",
+    "Type": 2
+  },
+  "1514": {
+    "Description": "",
+    "Id": 1514,
+    "Par": 1240,
+    "ShowRule": 1,
+    "Text": "Freezing Wind",
+    "Type": 2
+  },
+  "1515": {
+    "Description": "",
+    "Id": 1515,
+    "Par": 1243,
+    "ShowRule": 1,
+    "Text": "Ice Infuse",
+    "Type": 2
+  },
+  "1516": {
+    "Description": "",
+    "Id": 1516,
+    "Par": 1248,
+    "ShowRule": 1,
+    "Text": "Glacier - Ice Hymn",
+    "Type": 2
+  },
+  "1517": {
+    "Description": "",
+    "Id": 1517,
+    "Par": 1418,
+    "ShowRule": 1,
+    "Text": "Gale Thrust",
+    "Type": 2
+  },
+  "1518": {
+    "Description": "",
+    "Id": 1518,
+    "Par": 1430,
+    "ShowRule": 1,
+    "Text": "Courage Wind Ring",
+    "Type": 2
+  },
+  "1519": {
+    "Description": "",
+    "Id": 1519,
+    "Par": 1424,
+    "ShowRule": 1,
+    "Text": "Instant",
+    "Type": 2
+  },
+  "1520": {
+    "Description": "",
+    "Id": 1520,
+    "Par": 1419,
+    "ShowRule": 1,
+    "Text": "Soaring Return",
+    "Type": 2
+  },
+  "1521": {
+    "Description": "",
+    "Id": 1521,
+    "Par": 1431,
+    "ShowRule": 1,
+    "Text": "Sharp Impact",
+    "Type": 2
+  },
+  "1522": {
+    "Description": "",
+    "Id": 1522,
+    "Par": 1422,
+    "ShowRule": 1,
+    "Text": "Chase Break",
+    "Type": 2
+  },
+  "1523": {
+    "Description": "",
+    "Id": 1523,
+    "Par": 1421,
+    "ShowRule": 1,
+    "Text": "Spiral Thrust",
+    "Type": 2
+  },
+  "1524": {
+    "Description": "",
+    "Id": 1524,
+    "Par": 1425,
+    "ShowRule": 1,
+    "Text": "Falcon Toss",
+    "Type": 2
+  },
+  "1525": {
+    "Description": "",
+    "Id": 1525,
+    "Par": 1409,
+    "ShowRule": 1,
+    "Text": "Wind God - Break Gale",
+    "Type": 2
+  },
+  "1526": {
+    "Description": "",
+    "Id": 1526,
+    "Par": 1518,
+    "ShowRule": 1,
+    "Text": "Wild Bloom",
+    "Type": 2
+  },
+  "1527": {
+    "Description": "",
+    "Id": 1527,
+    "Par": 1507,
+    "ShowRule": 1,
+    "Text": "Life Bloom",
+    "Type": 2
+  },
+  "1528": {
+    "Description": "",
+    "Id": 1528,
+    "Par": 1522,
+    "ShowRule": 1,
+    "Text": "Nourishment",
+    "Type": 2
+  },
+  "1529": {
+    "Description": "",
+    "Id": 1529,
+    "Par": 1519,
+    "ShowRule": 1,
+    "Text": "Rebellious Seed",
+    "Type": 2
+  },
+  "1530": {
+    "Description": "",
+    "Id": 1530,
+    "Par": 1520,
+    "ShowRule": 1,
+    "Text": "Infuse",
+    "Type": 2
+  },
+  "1531": {
+    "Description": "",
+    "Id": 1531,
+    "Par": 1509,
+    "ShowRule": 1,
+    "Text": "Flourish - Hope Barrier",
+    "Type": 2
+  },
+  "1532": {
+    "Description": "",
+    "Id": 1532,
+    "Par": 1523,
+    "ShowRule": 1,
+    "Text": "Regen Pulse",
+    "Type": 2
+  },
+  "1533": {
+    "Description": "",
+    "Id": 1533,
+    "Par": 1529,
+    "ShowRule": 1,
+    "Text": "Blossom Charge",
+    "Type": 2
+  },
+  "1534": {
+    "Description": "",
+    "Id": 1534,
+    "Par": 1521,
+    "ShowRule": 1,
+    "Text": "Forest Blessing",
+    "Type": 2
+  },
+  "1535": {
+    "Description": "",
+    "Id": 1535,
+    "Par": 1531,
+    "ShowRule": 1,
+    "Text": "Nature's Shelter",
+    "Type": 2
+  },
+  "1536": {
+    "Description": "",
+    "Id": 1536,
+    "Par": 1907,
+    "ShowRule": 1,
+    "Text": "Rock - Guard Smash",
+    "Type": 2
+  },
+  "1537": {
+    "Description": "",
+    "Id": 1537,
+    "Par": 1924,
+    "ShowRule": 1,
+    "Text": "Shattered Star",
+    "Type": 2
+  },
+  "1538": {
+    "Description": "",
+    "Id": 1538,
+    "Par": 1931,
+    "ShowRule": 1,
+    "Text": "Block Impact",
+    "Type": 2
+  },
+  "1539": {
+    "Description": "",
+    "Id": 1539,
+    "Par": 1937,
+    "ShowRule": 1,
+    "Text": "Rock Fury Strike",
+    "Type": 2
+  },
+  "1540": {
+    "Description": "",
+    "Id": 1540,
+    "Par": 1922,
+    "ShowRule": 1,
+    "Text": "Shield Bash",
+    "Type": 2
+  },
+  "1541": {
+    "Description": "",
+    "Id": 1541,
+    "Par": 1927,
+    "ShowRule": 1,
+    "Text": "Sandgravel Cloak",
+    "Type": 2
+  },
+  "1542": {
+    "Description": "",
+    "Id": 1542,
+    "Par": 1936,
+    "ShowRule": 1,
+    "Text": "Giant Rock Body",
+    "Type": 2
+  },
+  "1543": {
+    "Description": "",
+    "Id": 1543,
+    "Par": 1938,
+    "ShowRule": 1,
+    "Text": "Heroic Bulwark",
+    "Type": 2
+  },
+  "1544": {
+    "Description": "",
+    "Id": 1544,
+    "Par": 1925,
+    "ShowRule": 1,
+    "Text": "Rage Burst",
+    "Type": 2
+  },
+  "1545": {
+    "Description": "",
+    "Id": 1545,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Surging Shot",
+    "Type": 2
+  },
+  "1546": {
+    "Description": "",
+    "Id": 1546,
+    "Par": 2209,
+    "ShowRule": 1,
+    "Text": "Sharp Eye - Light Arrow",
+    "Type": 2
+  },
+  "1547": {
+    "Description": "",
+    "Id": 1547,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Double Arrow",
+    "Type": 2
+  },
+  "1548": {
+    "Description": "",
+    "Id": 1548,
+    "Par": 2238,
+    "ShowRule": 1,
+    "Text": "Explosive Shot",
+    "Type": 2
+  },
+  "1549": {
+    "Description": "",
+    "Id": 1549,
+    "Par": 2237,
+    "ShowRule": 1,
+    "Text": "Wild Call",
+    "Type": 2
+  },
+  "1550": {
+    "Description": "",
+    "Id": 1550,
+    "Par": 2232,
+    "ShowRule": 1,
+    "Text": "Arrow Rain",
+    "Type": 2
+  },
+  "1551": {
+    "Description": "",
+    "Id": 1551,
+    "Par": 1528,
+    "ShowRule": 1,
+    "Text": "Vital Surge",
+    "Type": 2
+  },
+  "1552": {
+    "Description": "",
+    "Id": 1552,
+    "Par": 1527,
+    "ShowRule": 1,
+    "Text": "Bloom Recovery",
+    "Type": 2
+  },
+  "1553": {
+    "Description": "",
+    "Id": 1553,
+    "Par": 1420,
+    "ShowRule": 1,
+    "Text": "Graceful",
+    "Type": 2
+  },
+  "1554": {
+    "Description": "",
+    "Id": 1554,
+    "Par": 1718,
+    "ShowRule": 1,
+    "Text": "Flying Thunder God",
+    "Type": 2
+  },
+  "1555": {
+    "Description": "",
+    "Id": 1555,
+    "Par": 2231,
+    "ShowRule": 1,
+    "Text": "Mental Focus",
+    "Type": 2
+  },
+  "1556": {
+    "Description": "",
+    "Id": 1556,
+    "Par": 1705,
+    "ShowRule": 1,
+    "Text": "Overpower",
+    "Type": 2
+  },
+  "1557": {
+    "Description": "",
+    "Id": 1557,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Lightwill - Quadraflare",
+    "Type": 2
+  },
+  "1558": {
+    "Description": "",
+    "Id": 1558,
+    "Par": 1210,
+    "ShowRule": 1,
+    "Text": "Water Vortex",
+    "Type": 2
+  },
+  "1559": {
+    "Description": "",
+    "Id": 1559,
+    "Par": 2421,
+    "ShowRule": 1,
+    "Text": "Holysword",
+    "Type": 2
+  },
+  "1560": {
+    "Description": "",
+    "Id": 1560,
+    "Par": 2409,
+    "ShowRule": 1,
+    "Text": "Holy Ring",
+    "Type": 2
+  },
+  "1561": {
+    "Description": "",
+    "Id": 1561,
+    "Par": 2405,
+    "ShowRule": 1,
+    "Text": "Valor Shield Bash",
+    "Type": 2
+  },
+  "1562": {
+    "Description": "",
+    "Id": 1562,
+    "Par": 2408,
+    "ShowRule": 1,
+    "Text": "Shield Throw",
+    "Type": 2
+  },
+  "1563": {
+    "Description": "",
+    "Id": 1563,
+    "Par": 2412,
+    "ShowRule": 1,
+    "Text": "Reckoning",
+    "Type": 2
+  },
+  "1564": {
+    "Description": "",
+    "Id": 1564,
+    "Par": 2410,
+    "ShowRule": 1,
+    "Text": "Judgement",
+    "Type": 2
+  },
+  "1565": {
+    "Description": "",
+    "Id": 1565,
+    "Par": 2415,
+    "ShowRule": 1,
+    "Text": "Holylight Guard",
+    "Type": 2
+  },
+  "1566": {
+    "Description": "",
+    "Id": 1566,
+    "Par": 2406,
+    "ShowRule": 1,
+    "Text": "Vanguard Strike",
+    "Type": 2
+  },
+  "1567": {
+    "Description": "",
+    "Id": 1567,
+    "Par": 2419,
+    "ShowRule": 1,
+    "Text": "Cruel Conquest",
+    "Type": 2
+  },
+  "1568": {
+    "Description": "",
+    "Id": 1568,
+    "Par": 2420,
+    "ShowRule": 1,
+    "Text": "Light Resolve",
+    "Type": 2
+  },
+  "1569": {
+    "Description": "",
+    "Id": 1569,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Courage Tune Surge",
+    "Type": 2
+  },
+  "1570": {
+    "Description": "",
+    "Id": 1570,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Thermal Surge",
+    "Type": 2
+  },
+  "1571": {
+    "Description": "",
+    "Id": 1571,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Rhythm Vortex",
+    "Type": 2
+  },
+  "1572": {
+    "Description": "",
+    "Id": 1572,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Fervent Slide Sequence",
+    "Type": 2
+  },
+  "1573": {
+    "Description": "",
+    "Id": 1573,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Full Firepower",
+    "Type": 2
+  },
+  "1574": {
+    "Description": "",
+    "Id": 1574,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Vitality Rebirth",
+    "Type": 2
+  },
+  "1575": {
+    "Description": "",
+    "Id": 1575,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Bloom Fury Regenerating Tune",
+    "Type": 2
+  },
+  "1576": {
+    "Description": "",
+    "Id": 1576,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Frenzied Rhapsody",
+    "Type": 2
+  },
+  "1577": {
+    "Description": "",
+    "Id": 1577,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Healing Soundwave",
+    "Type": 2
+  },
+  "1578": {
+    "Description": "",
+    "Id": 1578,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Explosive Note",
+    "Type": 2
+  },
+  "1579": {
+    "Description": "",
+    "Id": 1579,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "Boost - Full Impact",
+    "Type": 2
+  },
+  "1580": {
+    "Description": "",
+    "Id": 1580,
+    "Par": 2230,
+    "ShowRule": 1,
+    "Text": "Raging Shot",
+    "Type": 2
+  },
+  "1581": {
+    "Description": "",
+    "Id": 1581,
+    "Par": 2234,
+    "ShowRule": 1,
+    "Text": "Light Bombard",
+    "Type": 2
+  },
+  "1582": {
+    "Description": "",
+    "Id": 1582,
+    "Par": 2233,
+    "ShowRule": 1,
+    "Text": "Charged Shot",
+    "Type": 2
+  },
+  "1583": {
+    "Description": "",
+    "Id": 1583,
+    "Par": 1524,
+    "ShowRule": 1,
+    "Text": "Accelerated Growth",
+    "Type": 2
+  },
+  "1584": {
+    "Description": "",
+    "Id": 1584,
+    "Par": 1735,
+    "ShowRule": 1,
+    "Text": "Dracoflash",
+    "Type": 2
+  },
+  "1585": {
+    "Description": "",
+    "Id": 1585,
+    "Par": 1736,
+    "ShowRule": 1,
+    "Text": "Phantom Slash",
+    "Type": 2
+  },
+  "1586": {
+    "Description": "",
+    "Id": 1586,
+    "Par": 1733,
+    "ShowRule": 1,
+    "Text": "Scythe of Thunder",
+    "Type": 2
+  },
+  "1587": {
+    "Description": "",
+    "Id": 1587,
+    "Par": 1737,
+    "ShowRule": 1,
+    "Text": "Scythe of Punishment",
+    "Type": 2
+  },
+  "1588": {
+    "Description": "",
+    "Id": 1588,
+    "Par": 1734,
+    "ShowRule": 1,
+    "Text": "Thunder Cut",
+    "Type": 2
+  },
+  "1589": {
+    "Description": "",
+    "Id": 1589,
+    "Par": 1433,
+    "ShowRule": 1,
+    "Text": "Ultimate - Gale Slash",
+    "Type": 2
+  },
+  "1590": {
+    "Description": "",
+    "Id": 1590,
+    "Par": 1434,
+    "ShowRule": 1,
+    "Text": "Divine Spiral",
+    "Type": 2
+  },
+  "1591": {
+    "Description": "",
+    "Id": 1591,
+    "Par": 1435,
+    "ShowRule": 1,
+    "Text": "Dragon Blast",
+    "Type": 2
+  },
+  "1592": {
+    "Description": "",
+    "Id": 1592,
+    "Par": 1411,
+    "ShowRule": 1,
+    "Text": "Dashing Blade",
+    "Type": 2
+  },
+  "1593": {
+    "Description": "",
+    "Id": 1593,
+    "Par": 1525,
+    "ShowRule": 1,
+    "Text": "Deer Charge",
+    "Type": 2
+  },
+  "1594": {
+    "Description": "",
+    "Id": 1594,
+    "Par": 1941,
+    "ShowRule": 1,
+    "Text": "Shattered Star Collapse",
+    "Type": 2
+  },
+  "1595": {
+    "Description": "",
+    "Id": 1595,
+    "Par": 1942,
+    "ShowRule": 1,
+    "Text": "Shatter",
+    "Type": 2
+  },
+  "1597": {
+    "Description": "",
+    "Id": 1597,
+    "Par": 1943,
+    "ShowRule": 1,
+    "Text": "Giant Rock Bombard",
+    "Type": 2
+  },
+  "1598": {
+    "Description": "",
+    "Id": 1598,
+    "Par": 2416,
+    "ShowRule": 1,
+    "Text": "Condemn",
+    "Type": 2
+  },
+  "1599": {
+    "Description": "",
+    "Id": 1599,
+    "Par": 2417,
+    "ShowRule": 1,
+    "Text": "Enhanced Judgement",
+    "Type": 2
+  },
+  "1600": {
+    "Description": "",
+    "Id": 1600,
+    "Par": 2413,
+    "ShowRule": 1,
+    "Text": "Blazing Reckon",
+    "Type": 2
+  },
+  "1601": {
+    "Description": "",
+    "Id": 1601,
+    "Par": 2220,
+    "ShowRule": 1,
+    "Text": "Storm Arrow",
+    "Type": 2
+  },
+  "1602": {
+    "Description": "",
+    "Id": 1602,
+    "Par": 2240,
+    "ShowRule": 1,
+    "Text": "Lightwill - Raging Shot",
+    "Type": 2
+  },
+  "1603": {
+    "Description": "",
+    "Id": 1603,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Flame Fantasy",
+    "Type": 2
+  },
+  "1604": {
+    "Description": "",
+    "Id": 1604,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Amplify Beat",
+    "Type": 2
+  },
+  "1605": {
+    "Description": "",
+    "Id": 1605,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Harmonic Movement",
+    "Type": 2
+  },
+  "1606": {
+    "Description": "",
+    "Id": 1606,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Melody - Healing Movement",
+    "Type": 2
+  },
+  "1607": {
+    "Description": "",
+    "Id": 1607,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Surge Quintet",
+    "Type": 2
+  },
+  "1608": {
+    "Description": "",
+    "Id": 1608,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Passion Flow",
+    "Type": 2
+  },
+  "1609": {
+    "Description": "",
+    "Id": 1609,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Healing Beat",
+    "Type": 2
+  },
+  "1610": {
+    "Description": "",
+    "Id": 1610,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Crowd Focus",
+    "Type": 2
+  },
+  "1611": {
+    "Description": "",
+    "Id": 1611,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "Boost - Full Impact",
+    "Type": 2
+  },
+  "1612": {
+    "Description": "",
+    "Id": 1612,
+    "Par": 2335,
+    "ShowRule": 1,
+    "Text": "Boost - Infinite Rhapsody",
+    "Type": 2
+  },
+  "1613": {
+    "Description": "",
+    "Id": 1613,
+    "Par": 2336,
+    "ShowRule": 1,
+    "Text": "Boost - Tour Song",
+    "Type": 2
+  },
+  "1614": {
+    "Description": "",
+    "Id": 1614,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Melody - Valor Movement",
+    "Type": 2
+  },
+  "1615": {
+    "Description": "",
+    "Id": 1615,
+    "Par": 2317,
+    "ShowRule": 1,
+    "Text": "Fierce Swing",
+    "Type": 2
+  },
+  "1616": {
+    "Description": "",
+    "Id": 1616,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Encore",
+    "Type": 2
+  },
+  "1617": {
+    "Description": "",
+    "Id": 1617,
+    "Par": 2332,
+    "ShowRule": 1,
+    "Text": "Exalt - Passion Flow",
+    "Type": 2
+  },
+  "1618": {
+    "Description": "",
+    "Id": 1618,
+    "Par": 2301,
+    "ShowRule": 1,
+    "Text": "String Pluck",
+    "Type": 2
+  },
+  "1619": {
+    "Description": "",
+    "Id": 1619,
+    "Par": 1605,
+    "ShowRule": 1,
+    "Text": "Api Membara",
+    "Type": 2
+  },
+  "1620": {
+    "Description": "",
+    "Id": 1620,
+    "Par": 1619,
+    "ShowRule": 1,
+    "Text": "Api Melonjak",
+    "Type": 2
+  },
+  "1621": {
+    "Description": "",
+    "Id": 1621,
+    "Par": 1606,
+    "ShowRule": 1,
+    "Text": "Zealous Slash",
+    "Type": 2
+  },
+  "1622": {
+    "Description": "",
+    "Id": 1622,
+    "Par": 1607,
+    "ShowRule": 1,
+    "Text": "Blazing Raid",
+    "Type": 2
+  },
+  "1623": {
+    "Description": "",
+    "Id": 1623,
+    "Par": 1608,
+    "ShowRule": 1,
+    "Text": "Serangan Amarah",
+    "Type": 2
+  },
+  "1624": {
+    "Description": "",
+    "Id": 1624,
+    "Par": 1612,
+    "ShowRule": 1,
+    "Text": "Axewind",
+    "Type": 2
+  },
+  "1625": {
+    "Description": "",
+    "Id": 1625,
+    "Par": 1615,
+    "ShowRule": 1,
+    "Text": "Arakawa Desolation",
+    "Type": 2
+  },
+  "1626": {
+    "Description": "",
+    "Id": 1626,
+    "Par": 1613,
+    "ShowRule": 1,
+    "Text": "Tarian Api Gila",
+    "Type": 2
+  },
+  "1627": {
+    "Description": "",
+    "Id": 1627,
+    "Par": 1614,
+    "ShowRule": 1,
+    "Text": "Bintang Jatuh Tanpa Batas",
+    "Type": 2
+  },
+  "1628": {
+    "Description": "",
+    "Id": 1628,
+    "Par": 1621,
+    "ShowRule": 1,
+    "Text": "Pembunuhan Langit Jatuh Flame Demon",
+    "Type": 2
+  },
+  "1629": {
+    "Description": "",
+    "Id": 1629,
+    "Par": 1617,
+    "ShowRule": 1,
+    "Text": "Flame Demon Tak Berujung",
+    "Type": 2
+  },
+  "1630": {
+    "Description": "",
+    "Id": 1630,
+    "Par": 1616,
+    "ShowRule": 1,
+    "Text": "Seperti Arus Sungai Hua Slash",
+    "Type": 2
+  },
+  "3000": {
+    "Description": "Menghentikan skill chant target dan membuatnya memasuki CD. Tidak berpengaruh terhadap Boss.",
+    "Id": 3000,
+    "Par": 3403000,
+    "ShowRule": 1,
+    "Text": "Interrupt",
+    "Type": 3
+  },
+  "3001": {
+    "Description": "Membuat musuh tidak bisa chant spell. Tidak berpengaruh pada Boss. Ini adalah Debuff Effect.",
+    "Id": 3001,
+    "Par": 3403001,
+    "ShowRule": 1,
+    "Text": "Silence",
+    "Type": 3
+  },
+  "3002": {
+    "Description": "Membuat musuh tidak bisa bergerak. Tidak berpengaruh pada Boss. Ini adalah Debuff Effect.",
+    "Id": 3002,
+    "Par": 3403002,
+    "ShowRule": 1,
+    "Text": "Immobilize",
+    "Type": 3
+  },
+  "3003": {
+    "Description": "Mengurangi move speed musuh sebesar <style=\"accent-gn\">30%</style>.",
+    "Id": 3003,
+    "Par": 3403003,
+    "ShowRule": 1,
+    "Text": "Arctic",
+    "Type": 3
+  },
+  "3004": {
+    "Description": "Mengurangi Healing Effect yang diterima musuh. Ini adalah Debuff Effect.",
+    "Id": 3004,
+    "Par": 3403004,
+    "ShowRule": 1,
+    "Text": "Severe Wound",
+    "Type": 3
+  },
+  "3005": {
+    "Description": "Membuat musuh tidak bisa melakukan gerakan apa pun. Tidak berpengaruh pada Boss. Ini adalah Debuff Status.",
+    "Id": 3005,
+    "Par": 3403005,
+    "ShowRule": 1,
+    "Text": "Stun",
+    "Type": 3
+  },
+  "3006": {
+    "Description": "Membuat musuh tidak bisa melakukan gerakan apa pun, terlepas setelah menerima DMG. Tidak berpengaruh pada Boss. Ini adalah Debuff Status.",
+    "Id": 3006,
+    "Par": 3403006,
+    "ShowRule": 1,
+    "Text": "Freeze",
+    "Type": 3
+  },
+  "3007": {
+    "Description": "Membuat musuh tidak bisa melakukan gerakan apa pun, terlepas setelah menerima DMG. Tidak berpengaruh pada Boss. Ini adalah Debuff Status.",
+    "Id": 3007,
+    "Par": 3403007,
+    "ShowRule": 1,
+    "Text": "Petrify",
+    "Type": 3
+  },
+  "3008": {
+    "Description": "Membuat musuh tidak bisa melakukan gerakan apa pun, terlepas setelah menerima DMG. Tidak berpengaruh pada Boss. Ini adalah Debuff Status.",
+    "Id": 3008,
+    "Par": 3403008,
+    "ShowRule": 1,
+    "Text": "Paralysis",
+    "Type": 3
+  },
+  "3009": {
+    "Description": "Memaksa musuh bergerak ke jarak Melee target saat ini untuk menyerang. Tidak berpengaruh pada Boss. Ini adalah Debuff Status.",
+    "Id": 3009,
+    "Par": 3403009,
+    "ShowRule": 1,
+    "Text": "Dazzle",
+    "Type": 3
+  },
+  "3010": {
+    "Description": "Membuat musuh mundur ketakutan di tempat, terlepas setelah menerima DMG. Tidak berpengaruh pada Boss. Ini adalah Debuff Status.",
+    "Id": 3010,
+    "Par": 3403010,
+    "ShowRule": 1,
+    "Text": "Takut",
+    "Type": 3
+  },
+  "3011": {
+    "Description": "Mengurangi move speed musuh. Tidak berpengaruh pada Boss. Ini adalah Debuff Effect.",
+    "Id": 3011,
+    "Par": 3403011,
+    "ShowRule": 1,
+    "Text": "Slow",
+    "Type": 3
+  },
+  "3012": {
+    "Description": "Membuat musuh terus kehilangan HP. Ini adalah Debuff Effect.",
+    "Id": 3012,
+    "Par": 3403012,
+    "ShowRule": 1,
+    "Text": "Poison",
+    "Type": 3
+  },
+  "3013": {
+    "Description": "Membuat musuh terus kehilangan HP. Ini adalah Debuff Effect.",
+    "Id": 3013,
+    "Par": 3403013,
+    "ShowRule": 1,
+    "Text": "Bleed",
+    "Type": 3
+  },
+  "3014": {
+    "Description": "Membuat musuh terus kehilangan HP. Ini adalah Debuff Effect.",
+    "Id": 3014,
+    "Par": 3403014,
+    "ShowRule": 1,
+    "Text": "Burn",
+    "Type": 3
+  },
+  "3020": {
+    "Description": "Meliputi <style=\"accent-gn\">Stun</style>, <style=\"accent-gn\">Freeze</style>, <style=\"accent-gn\">Petrify</style>, <style=\"accent-gn\">Paralysis</style>, <style=\"accent-gn\">Dazzle</style>, dan <style=\"accent-gn\">Fear</style>.",
+    "Id": 3020,
+    "Par": 3403020,
+    "ShowRule": 1,
+    "Text": "Debuff Status",
+    "Type": 3
+  },
+  "3021": {
+    "Description": "Mengandung <style=\"accent-gn\">Silence</style>, <style=\"accent-gn\">Slow</style>, <style=\"accent-gn\">Immobilize</style>, <style=\"accent-gn\">Severe Wound</style>, <style=\"accent-gn\">Poison</style>, <style=\"accent-gn\">Bleed</style>, <style=\"accent-gn\">Burn</style>.",
+    "Id": 3021,
+    "Par": 3403021,
+    "ShowRule": 1,
+    "Text": "Debuff Effect",
+    "Type": 3
+  }
+}

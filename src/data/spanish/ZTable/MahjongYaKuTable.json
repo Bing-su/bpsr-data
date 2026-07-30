@@ -1,0 +1,402 @@
+{
+  "1": {
+    "Card": [],
+    "Desc": "Declara riichi cuando a tu mano oculta le falte una ficha para ganar. Gana la mano mientras estás en estado de riichi.",
+    "Id": 1,
+    "Name": "Riichi",
+    "Special": 2,
+    "Type": 1
+  },
+  "10": {
+    "Card": [5, 9, 13, 53, 53, 53, 81, 85, 89, 93, 0, 101, 101, 101, 101, 0, 81],
+    "Desc": "Ganar con la ficha de reemplazo robada después de formar un cuádruple.",
+    "Id": 10,
+    "Name": "Rinshan kaihou (ganar con robo del muro muerto)",
+    "Special": 0,
+    "Type": 1
+  },
+  "11": {
+    "Card": [5, 5, 5, 0, 49, 53, 57, 0, 81, 81, 81, 0, 105, 105, 105, 0, 109, 0, 109],
+    "Desc": "Ganar al robar la última ficha del muro.",
+    "Id": 11,
+    "Name": "Haitei raoyue (ganar con el último robo)",
+    "Special": 0,
+    "Type": 1
+  },
+  "12": {
+    "Card": [5, 5, 5, 0, 49, 53, 57, 0, 81, 81, 81, 0, 105, 105, 105, 0, 109, 0, 109],
+    "Desc": "Ganar con la última ficha descartada.",
+    "Id": 12,
+    "Name": "Houtei raoyui (ganar con el último descarte)",
+    "Special": 0,
+    "Type": 1
+  },
+  "13": {
+    "Card": [],
+    "Desc": "Ganar dentro de una ronda de turnos tras declarar riichi, siempre que ningún jugador haya hecho llamadas (pon, chi, kan).",
+    "Id": 13,
+    "Name": "Ippatsu (ganar al primer turno tras riichi)",
+    "Special": 0,
+    "Type": 1
+  },
+  "14": {
+    "Card": [1, 999, 999, 999, 999, 0, 5],
+    "Desc": "La ficha que sigue a la ficha indicadora de dora.",
+    "Id": 14,
+    "Name": "Dora (ficha de bonus)",
+    "Special": 3,
+    "Type": 1
+  },
+  "15": {
+    "Card": [20, 0, 56, 0, 92],
+    "Desc": "El 5 rojo de caracteres, el 5 rojo de círculos y el 5 rojo de bambúes.",
+    "Id": 15,
+    "Name": "Aka dora (dora roja)",
+    "Special": 3,
+    "Type": 1
+  },
+  "16": {
+    "Card": [1, 5, 9, 13, 13, 13, 53, 57, 61, 125, 125, 125, 129, 0, 129],
+    "Desc": "Declarar riichi en el primer turno de la mano, antes de que cualquier jugador haya hecho llamadas (pon, chi, kan).",
+    "Id": 16,
+    "Name": "Doble riichi",
+    "Special": 2,
+    "Type": 2
+  },
+  "17": {
+    "Card": [9, 9, 9, 0, 45, 45, 45, 0, 81, 81, 81, 0, 89, 93, 97, 0, 133, 133],
+    "Desc": "Una mano que contiene un trío del mismo número en los tres palos (caracteres, círculos y bambúes).",
+    "Id": 17,
+    "Name": "Sanshoku doukou (triple trío)",
+    "Special": 0,
+    "Type": 2
+  },
+  "18": {
+    "Card": [53, 57, 61, 0, 9, 9, 9, 9, 0, 45, 45, 45, 45, 0, 81, 81, 81, 81, 0, 129, 129],
+    "Desc": "Una mano en la que un jugador haya declarado tres cuádruples.",
+    "Id": 18,
+    "Name": "San kantsu (tres cuádruples)",
+    "Special": 0,
+    "Type": 2
+  },
+  "19": {
+    "Card": [9, 9, 9, 0, 49, 49, 49, 0, 81, 81, 81, 0, 109, 109, 109, 0, 113, 113],
+    "Desc": "Una mano que contiene cuatro tríos o cuádruples.",
+    "Id": 19,
+    "Name": "Toi-toi (todos los tríos)",
+    "Special": 0,
+    "Type": 2
+  },
+  "2": {
+    "Card": [5, 9, 13, 0, 17, 21, 25, 0, 45, 45, 45, 0, 85, 89, 93, 0, 101, 0, 101],
+    "Desc": "Una mano que no contiene fichas terminales (1 y 9) ni de honor.",
+    "Id": 2,
+    "Name": "Tanyao (todos simples)",
+    "Special": 0,
+    "Type": 1
+  },
+  "20": {
+    "Card": [1, 1, 1, 37, 37, 37, 73, 73, 73, 0, 81, 85, 89, 0, 109, 0, 109],
+    "Desc": "Una mano que contiene tres tríos ocultos.",
+    "Id": 20,
+    "Name": "San ankou (tres tríos ocultos)",
+    "Special": 0,
+    "Type": 2
+  },
+  "21": {
+    "Card": [5, 9, 17, 53, 57, 61, 0, 125, 125, 125, 0, 129, 129, 129, 0, 133, 0, 133],
+    "Desc": "Una mano que contiene tríos de dos fichas de dragón (blanco, verde, rojo) y un par de la tercera ficha de dragón.",
+    "Id": 21,
+    "Name": "Shou sangen (tres dragoncitos)",
+    "Special": 0,
+    "Type": 2
+  },
+  "22": {
+    "Card": [1, 1, 1, 0, 33, 33, 33, 0, 37, 37, 37, 0, 73, 73, 73, 0, 109, 0, 109],
+    "Desc": "Una mano ganadora compuesta solo de terminales (1 y 9 de caracteres, círculos y bambúes) y fichas de honor.",
+    "Id": 22,
+    "Name": "Honroutou (todos terminales y honores)",
+    "Special": 0,
+    "Type": 2
+  },
+  "23": {
+    "Card": [1, 1, 5, 5, 22, 22, 33, 33, 41, 41, 113, 113, 121, 0, 121],
+    "Desc": "Una mano formada por siete pares distintos.",
+    "Id": 23,
+    "Name": "Chiitoitsu (siete pares)",
+    "Special": 2,
+    "Type": 2
+  },
+  "24": {
+    "Card": [1, 5, 9, 0, 25, 29, 33, 0, 37, 41, 45, 0, 109, 109, 109, 0, 129, 129],
+    "Desc": "Una mano en que cada grupo (secuencia o trío) y el par contienen al menos una ficha terminal (1 o 9) o una de honor.",
+    "Id": 24,
+    "Name": "Hon chanta (mano exterior mixta)",
+    "Special": 1,
+    "Type": 2
+  },
+  "25": {
+    "Card": [1, 5, 9, 13, 17, 21, 25, 29, 33, 0, 37, 37, 37, 0, 109, 109],
+    "Desc": "Una mano que contiene las secuencias 1-2-3, 4-5-6 y 7-8-9 del mismo palo.",
+    "Id": 25,
+    "Name": "Ittsuu (escalera pura)",
+    "Special": 1,
+    "Type": 2
+  },
+  "26": {
+    "Card": [1, 5, 9, 0, 37, 41, 45, 0, 73, 77, 81, 0, 93, 93, 93, 0, 117, 117],
+    "Desc": "Una mano que contiene la misma secuencia en los tres palos (caracteres, círculos y bambúes).",
+    "Id": 26,
+    "Name": "Sanshoku doujun (secuencia triple mixta)",
+    "Special": 1,
+    "Type": 2
+  },
+  "27": {
+    "Card": [1, 5, 9, 1, 5, 9, 0, 37, 41, 45, 37, 41, 45, 0, 109, 109],
+    "Desc": "Una mano que contiene dos secuencias idénticas (dos secuencias puras dobles).",
+    "Id": 27,
+    "Name": "Ryanpeikou (secuencia pura doble)",
+    "Special": 2,
+    "Type": 3
+  },
+  "28": {
+    "Card": [1, 5, 9, 0, 25, 29, 33, 0, 37, 41, 45, 0, 105, 105, 105, 0, 73, 73],
+    "Desc": "Una mano en que cada grupo (secuencia o trío) y el par contienen al menos una ficha terminal (1 o 9), sin fichas de honor.",
+    "Id": 28,
+    "Name": "Junchan (mano externa completa)",
+    "Special": 1,
+    "Type": 3
+  },
+  "29": {
+    "Card": [1, 1, 1, 5, 9, 13, 17, 21, 25, 113, 113, 113, 0, 125, 125],
+    "Desc": "Una mano compuesta por fichas de un solo palo, que incluye uno o más tríos o un par de fichas de honor.",
+    "Id": 29,
+    "Name": "Honitsu (medio color)",
+    "Special": 1,
+    "Type": 3
+  },
+  "3": {
+    "Card": [1, 1, 1, 5, 9, 13, 45, 45, 45, 85, 89, 93, 129, 0, 129],
+    "Desc": "Gana robando tú mismo la ficha ganadora con una mano completamente oculta.",
+    "Id": 3,
+    "Name": "Menzen tsumo (robo propio con mano oculta)",
+    "Special": 2,
+    "Type": 1
+  },
+  "30": {
+    "Card": [1, 5, 9, 0, 5, 9, 13, 0, 9, 13, 17, 0, 21, 21, 21, 0, 33, 33],
+    "Desc": "Una mano compuesta por fichas de un solo palo, sin fichas de honor.",
+    "Id": 30,
+    "Name": "Chinitsu (color completo)",
+    "Special": 1,
+    "Type": 4
+  },
+  "31": {
+    "Card": [33, 1, 109, 109, 113, 113, 133, 113, 117, 117, 117, 105, 105, 105, 69, 129, 121, 33],
+    "Desc": "La pila de descartes del jugador consiste únicamente en fichas terminales y de honor en un robo exhaustivo, y ninguno de sus descartes ha sido reclamado por otros jugadores.",
+    "Id": 31,
+    "Name": "Nagashi mangan (mangan en robo)",
+    "Special": 0,
+    "Type": 5
+  },
+  "32": {
+    "Card": [1, 5, 9, 49, 49, 49, 89, 93, 97, 109, 109, 109, 113, 113],
+    "Desc": "El repartidor gana con su mano inicial de 14 fichas.",
+    "Id": 32,
+    "Name": "Tenhou (bendición del cielo)",
+    "Special": 4,
+    "Type": 6
+  },
+  "33": {
+    "Card": [],
+    "Desc": "Ganar por autorrobo en el primer turno como no repartidor, antes de que se haga ningún canto (pon, chi, kan).",
+    "Id": 33,
+    "Name": "Chiihou (bendición de la tierra)",
+    "Special": 5,
+    "Type": 6
+  },
+  "34": {
+    "Card": [1, 5, 9, 0, 125, 125, 125, 0, 129, 129, 129, 0, 133, 133, 133, 0, 33, 33],
+    "Desc": "Una mano que contiene tríos de las tres fichas de dragón (blanco, verde y rojo).",
+    "Id": 34,
+    "Name": "Dai sangen (tres grandes dragones)",
+    "Special": 0,
+    "Type": 6
+  },
+  "35": {
+    "Card": [1, 1, 1, 5, 5, 5, 45, 45, 45, 49, 49, 49, 89, 89],
+    "Desc": "Una mano que contiene cuatro tríos ocultos.",
+    "Id": 35,
+    "Name": "Suu ankou (cuatro tríos ocultos)",
+    "Special": 2,
+    "Type": 6
+  },
+  "36": {
+    "Card": [109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 125, 125, 125, 0, 129, 129],
+    "Desc": "Una mano compuesta enteramente por fichas de honor (vientos y dragones).",
+    "Id": 36,
+    "Name": "Tsuuiisou (todos honores)",
+    "Special": 0,
+    "Type": 6
+  },
+  "37": {
+    "Card": [77, 77, 77, 0, 81, 81, 81, 0, 85, 85, 85, 0, 93, 93, 93, 0, 129, 129],
+    "Desc": "Una mano compuesta enteramente por fichas verdes (2, 3, 4, 6, 8 de bambúes) y la ficha del dragón verde (también es válida sin ella).",
+    "Id": 37,
+    "Name": "Ryuuiisou (todo verde)",
+    "Special": 0,
+    "Type": 6
+  },
+  "38": {
+    "Card": [1, 1, 1, 0, 33, 33, 33, 0, 37, 37, 37, 0, 69, 69, 69, 0, 73, 73],
+    "Desc": "Una mano que contiene solo fichas terminales (1 y 9 de caracteres, círculos y bambúes).",
+    "Id": 38,
+    "Name": "Chinroutou (todos terminales)",
+    "Special": 0,
+    "Type": 6
+  },
+  "39": {
+    "Card": [1, 33, 33, 37, 69, 73, 105, 109, 113, 117, 121, 125, 129, 0, 133],
+    "Desc": "Una mano que contiene una de cada ficha de terminal y de honor, más una ficha adicional que coincida con cualquiera de ellas.",
+    "Id": 39,
+    "Name": "Kokushi musou (trece huérfanos)",
+    "Special": 2,
+    "Type": 6
+  },
+  "4": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 117, 117, 117, 73, 0, 73],
+    "Desc": "Una mano que contiene un trío de la ficha de viento del asiento del jugador.",
+    "Id": 4,
+    "Name": "Yakuhai (fichas valiosas): Viento del Asiento",
+    "Special": 0,
+    "Type": 1
+  },
+  "40": {
+    "Card": [1, 5, 9, 0, 109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 121, 121],
+    "Desc": "Una mano que contiene tríos de tres fichas de viento y un par de la cuarta ficha de viento.",
+    "Id": 40,
+    "Name": "Shousuushii (cuatro vientos pequeños)",
+    "Special": 0,
+    "Type": 6
+  },
+  "41": {
+    "Card": [1, 1, 1, 1, 0, 41, 41, 41, 41, 0, 81, 81, 81, 81, 0, 109, 109, 109, 109, 0, 129, 129],
+    "Desc": "Una mano ganadora que un solo jugador ha formado con cuatro cuádruples.",
+    "Id": 41,
+    "Name": "Suukantsu (cuatro cuádruples)",
+    "Special": 0,
+    "Type": 6
+  },
+  "42": {
+    "Card": [1, 1, 1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 33, 0, 33],
+    "Desc": "Una mano oculta de 1112345678999 de un solo palo, más cualquier otra ficha de ese palo para ganar.",
+    "Id": 42,
+    "Name": "Chuuren poutou (nueve puertas)",
+    "Special": 2,
+    "Type": 6
+  },
+  "43": {
+    "Card": [1, 1, 1, 41, 41, 41, 53, 53, 53, 97, 97, 97, 121, 0, 121],
+    "Desc": "Una mano de cuatro tríos ocultos que se completa formando un par.",
+    "Id": 43,
+    "Name": "Suu ankou tanki (cuatro tríos ocultos con espera única)",
+    "Special": 2,
+    "Type": 7
+  },
+  "44": {
+    "Card": [1, 33, 37, 69, 73, 105, 109, 113, 117, 121, 125, 129, 133, 0, 1],
+    "Desc": "Un kokushi musou (trece huérfanos) que espera ganar con cualquiera de las 13 fichas terminales o de honor.",
+    "Id": 44,
+    "Name": "Kokushi musou juusanmenmachi (trece huérfanos con espera de trece lados)",
+    "Special": 2,
+    "Type": 7
+  },
+  "45": {
+    "Card": [1, 1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 33, 33, 0, 21],
+    "Desc": "Una mano de nueve puertas que espera ganar con cualquiera de las 9 fichas posibles.",
+    "Id": 45,
+    "Name": "Junsei chuuren poutou (nueve puertas verdaderas)",
+    "Special": 2,
+    "Type": 7
+  },
+  "46": {
+    "Card": [109, 109, 109, 0, 113, 113, 113, 0, 117, 117, 117, 0, 121, 121, 121, 0, 17, 17],
+    "Desc": "Una mano que contiene tríos de las cuatro fichas de viento.",
+    "Id": 46,
+    "Name": "Dai suushi (cuatro grandes vientos)",
+    "Special": 0,
+    "Type": 7
+  },
+  "47": {
+    "Card": [117, 0, 117, 0, 117, 0, 117],
+    "Desc": "Un empate abortivo que ocurre cuando los cuatro jugadores descartan la misma ficha de viento en el primer turno, sin que se haya cantado nada.",
+    "Id": 47,
+    "Name": "Suufon renda (empate abortivo con cuatro vientos)",
+    "Special": 0,
+    "Type": 8
+  },
+  "48": {
+    "Card": [1, 1, 1, 1, 0, 9, 9, 9, 9, 0, 57, 57, 57, 57, 0, 97, 97, 97, 97],
+    "Desc": "Un empate abortivo que ocurre cuando dos o más jugadores declaran un total de cuatro cuádruples.",
+    "Id": 48,
+    "Name": "Suukaikan (empate abortivo por cuatro cuádruples)",
+    "Special": 0,
+    "Type": 8
+  },
+  "49": {
+    "Card": [1, 33, 37, 57, 69, 73, 81, 85, 89, 93, 109, 113, 125, 0, 129],
+    "Desc": "Un jugador puede declarar un empate abortivo si su mano inicial contiene nueve o más fichas terminales o de honor diferentes, siempre que no se haya cantado nada antes de su primer turno.",
+    "Id": 49,
+    "Name": "Kyuushu kyuuhai (empate abortivo por nueve terminales/honores diferentes)",
+    "Special": 0,
+    "Type": 8
+  },
+  "5": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 109, 109, 109, 73, 0, 73],
+    "Desc": "Una mano que contiene un trío de la ficha de viento de la ronda actual.",
+    "Id": 5,
+    "Name": "Yakuhai (fichas valiosas): Viento de la Ronda",
+    "Special": 0,
+    "Type": 1
+  },
+  "50": {
+    "Card": [],
+    "Desc": "Un empate abortivo que ocurre cuando los cuatro jugadores han declarado riichi con éxito.",
+    "Id": 50,
+    "Name": "Suucha riichi (empate abortivo por cuatro riichis)",
+    "Special": 0,
+    "Type": 8
+  },
+  "6": {
+    "Card": [9, 9, 9, 49, 53, 57, 97, 101, 105, 0, 125, 125, 125, 73, 0, 73],
+    "Desc": "La mano incluye un trío de cualquier ficha de dragón (blanco, verde o rojo).",
+    "Id": 6,
+    "Name": "Yakuhai: Fichas de dragón",
+    "Special": 0,
+    "Type": 1
+  },
+  "7": {
+    "Card": [1, 5, 9, 17, 21, 25, 41, 45, 49, 93, 97, 105, 105, 0, 89],
+    "Desc": "Una mano oculta con 4 secuencias, un par sin valor (no de dragones, viento de asiento o viento de ronda) y una espera abierta por la ficha final.",
+    "Id": 7,
+    "Name": "Pinfu (todas secuencias, mano sin puntos)",
+    "Special": 2,
+    "Type": 1
+  },
+  "8": {
+    "Card": [1, 5, 9, 1, 5, 9, 49, 49, 49, 61, 65, 69, 81, 0, 81],
+    "Desc": "La mano contiene dos secuencias idénticas.",
+    "Id": 8,
+    "Name": "Iipeikou (secuencia pura doble)",
+    "Special": 2,
+    "Type": 1
+  },
+  "9": {
+    "Card": [37, 37, 37, 0, 37],
+    "Desc": "Ganar con una ficha que un oponente use para agregarla a un grupo y formar un cuádruple (una mano de trece huérfanos puede robar un cuádruple oculto).",
+    "Id": 9,
+    "Name": "Chankan (robar un cuádruple)",
+    "Special": 0,
+    "Type": 1
+  }
+}

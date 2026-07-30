@@ -1,0 +1,120 @@
+{
+  "100001": {
+    "BeginNode": 100001001,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/boyce/storyboard_boyce_story_01",
+    "EndingNodePool": [100001023, 100001024],
+    "FirstPassAwardId": 31003390,
+    "Id": 100001,
+    "LockedText": "미해제",
+    "PercentageAwardId": [
+      [50, 31003960],
+      [70, 31003970],
+      [100, 31003980]
+    ],
+    "QuestId": 40500,
+    "Remark": "博伊斯角色任务01",
+    "RoleId": 1000,
+    "StoryInfo": "지난번 보이스와 헤어진 이후로, 이 교단의 고위 경비병을 오랫동안 다시 만나지 못했습니다. 며칠 전 그가 사람을 통해 전하길, 중요한 의뢰를 당신과 직접 이야기하고 싶다고 합니다. 만남 장소는 라팔 마을로 정해졌습니다.",
+    "StoryboardName": "영롱한 얼음의 메아리",
+    "StoryboardNodePool": [
+      100001001, 100001002, 100001003, 100001004, 100001005, 100001006, 100001007, 100001008,
+      100001014, 100001019, 100001023, 100001024
+    ],
+    "UnlockCondition": []
+  },
+  "1001": {
+    "BeginNode": 1001002,
+    "ChartBackgroundPic": "ui/textures/taskinfo_ep/taskinfo_ep02_07",
+    "ChartPic": "ui/textures/taskinfo_ep/taskinfo_ep02_05",
+    "EndingNodePool": [1001006],
+    "FirstPassAwardId": 20210254,
+    "Id": 1001,
+    "LockedText": "미해제",
+    "PercentageAwardId": [
+      [50, 20210251],
+      [70, 20210252],
+      [100, 20210253]
+    ],
+    "QuestId": 30704,
+    "Remark": "test",
+    "RoleId": 1,
+    "StoryInfo": "테스트테스트테스트",
+    "StoryboardName": "테스트 트리",
+    "StoryboardNodePool": [1001001, 1001002, 1001003, 1001004, 1001006],
+    "UnlockCondition": []
+  },
+  "100101": {
+    "BeginNode": 100101001,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/farfara/storyboard_farfara_story_01",
+    "EndingNodePool": [100101009, 100101010, 126589770, 100101013],
+    "FirstPassAwardId": 31003400,
+    "Id": 100101,
+    "LockedText": "미해제",
+    "PercentageAwardId": [
+      [50, 31003850],
+      [70, 31003860],
+      [100, 31003870]
+    ],
+    "QuestId": 40502,
+    "Remark": "法法菈角色任务01",
+    "RoleId": 1001,
+    "StoryInfo": "파파라를 만난 지 꽤 오래됐습니다. 라팔 마을에 가서 그녀를 만나보세요.",
+    "StoryboardName": "잊을 수 없는 것",
+    "StoryboardNodePool": [
+      100101001, 100101003, 100101005, 100101004, 100101006, 100101007, 100101008, 100101009,
+      100101010, 100101011, 126589770, 100101012, 100101013, 100101019
+    ],
+    "UnlockCondition": []
+  },
+  "100201": {
+    "BeginNode": 100201002,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/daya/storyboard_daya_story_01",
+    "EndingNodePool": [100201003, 100201004, 100201005, 100201006],
+    "FirstPassAwardId": 31003410,
+    "Id": 100201,
+    "LockedText": "미해제",
+    "PercentageAwardId": [
+      [50, 31003990],
+      [70, 31004000],
+      [100, 31004010]
+    ],
+    "QuestId": 40501,
+    "Remark": "达雅NPC任务",
+    "RoleId": 1002,
+    "StoryInfo": "한 통의 편지가 도착했습니다. 고원의 친구가 당신의 도움이 필요한 고민이 있는 듯합니다...",
+    "StoryboardName": "붉은빛의 열매를 찾아",
+    "StoryboardNodePool": [
+      100201001, 100201002, 100201003, 100201004, 100201005, 100201006, 100201007, 100201008,
+      100201009, 100201011, 100201012, 100201013, 100201014, 100201015, 100201017, 100201018,
+      100201021, 100201022, 100201023, 100201025
+    ],
+    "UnlockCondition": []
+  },
+  "100301": {
+    "BeginNode": 100301004,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/iruna/storyboard_iruna_story_01",
+    "EndingNodePool": [100301011, 100301021, 100301024],
+    "FirstPassAwardId": 31003420,
+    "Id": 100301,
+    "LockedText": "미해제",
+    "PercentageAwardId": [
+      [50, 31004130],
+      [70, 31004140],
+      [100, 31004150]
+    ],
+    "QuestId": 40503,
+    "Remark": "",
+    "RoleId": 1003,
+    "StoryInfo": "해풍절이 지난 후, 라팔 마을은 예전의 평온을 되찾았습니다. 그러던 중, 마을의 큰 나무 아래에서 계절과 어울리지 않는 바다나리 다발이 발견되었습니다. 과연 누가 어떤 목적으로 두고 간 것일까요? 이 특별한 의뢰는 그렇게 시작되었습니다…",
+    "StoryboardName": "한 송이 꽃에 대한 상념",
+    "StoryboardNodePool": [
+      100301004, 100301007, 100301011, 100301012, 100301013, 100301014, 100301016, 100301017,
+      100301019, 100301020, 100301021, 100301023, 100301024
+    ],
+    "UnlockCondition": []
+  }
+}

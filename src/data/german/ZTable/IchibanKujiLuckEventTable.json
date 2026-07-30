@@ -1,0 +1,27 @@
+{
+  "1": {
+    "Id": 1,
+    "LuckDes": "Dein nächster Zug ist <style=\"accent-gn\">kostenlos</style>!",
+    "RecordLuckDes": ""
+  },
+  "2": {
+    "Id": 2,
+    "LuckDes": "Dein nächster Zug gibt dir <style=\"accent-gn\">{*val+1*}</style>-fache Goldmiau-Punkte zusätzlich zurück!",
+    "RecordLuckDes": ""
+  },
+  "3": {
+    "Id": 3,
+    "LuckDes": "Die Wahrscheinlichkeit, <style=\"accent-gn\">{*val1*}</style> zu ziehen, wird für die nächste Ziehung auf <style=\"accent-gn\">{*val2*} %</style> erhöht!",
+    "RecordLuckDes": "Wahrscheinlichkeit, <style=\"accent-gn\">{*val*}</style> zu ziehen, ist für den nächsten Zug erhöht!"
+  },
+  "4": {
+    "Id": 4,
+    "LuckDes": "Du wirst beim nächsten Zug nicht <style=\"accent-gn\">{*val*}</style> ziehen!",
+    "RecordLuckDes": ""
+  },
+  "999": {
+    "Id": 999,
+    "LuckDes": "Keine!",
+    "RecordLuckDes": ""
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "Id": 1,
+    "LuckDes": "¡Tu siguiente tirada es <style=\"accent-gn\">gratis</style>!",
+    "RecordLuckDes": ""
+  },
+  "2": {
+    "Id": 2,
+    "LuckDes": "¡La siguiente tirada reembolsa <style=\"accent-gn\">{*val+1*}</style> punto(s) de miau dorado adicionales!",
+    "RecordLuckDes": ""
+  },
+  "3": {
+    "Id": 3,
+    "LuckDes": "¡La probabilidad de obtener <style=\"accent-gn\">{*val1*}</style> aumenta a <style=\"accent-gn\">{*val2*} %</style> para la siguiente tirada!",
+    "RecordLuckDes": "¡La probabilidad de obtener <style=\"accent-gn\">{*val*}</style> aumenta en la siguiente tirada!"
+  },
+  "4": {
+    "Id": 4,
+    "LuckDes": "¡No obtendrás ningún <style=\"accent-gn\">premio {*val*}</style> en la siguiente tirada!",
+    "RecordLuckDes": ""
+  },
+  "999": {
+    "Id": 999,
+    "LuckDes": "¡Ninguno!",
+    "RecordLuckDes": ""
+  }
+}

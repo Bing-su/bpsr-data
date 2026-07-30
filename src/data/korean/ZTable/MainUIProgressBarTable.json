@@ -1,0 +1,62 @@
+{
+  "1": {
+    "Datas": [],
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_illusion",
+    "IconColor": "#000000",
+    "Id": 1,
+    "IsShowPercent": 1,
+    "Order": 1,
+    "ProgressColor": "#F04F84",
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar",
+    "ShowName": "환각 수치",
+    "Type": 1
+  },
+  "2": {
+    "Datas": ["illusion_value", "illusion_value_max"],
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_light",
+    "IconColor": "#000000",
+    "Id": 2,
+    "IsShowPercent": 0,
+    "Order": 2,
+    "ProgressColor": "#F04F84",
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar",
+    "ShowName": "몽롱한 꿈 수치",
+    "Type": 2
+  },
+  "3": {
+    "Datas": ["90011", "90017"],
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_illusion",
+    "IconColor": "#000000",
+    "Id": 3,
+    "IsShowPercent": 1,
+    "Order": 3,
+    "ProgressColor": "#F04F84",
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar",
+    "ShowName": "침몽 수치",
+    "Type": 1
+  },
+  "4": {
+    "Datas": ["music_value", "music_value_max"],
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_music",
+    "IconColor": "#000000",
+    "Id": 4,
+    "IsShowPercent": 0,
+    "Order": 2,
+    "ProgressColor": "#FFFFFF",
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar_3_color",
+    "ShowName": "메아리의 잔향",
+    "Type": 2
+  },
+  "5": {
+    "Datas": ["90021", "90027"],
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_illusion",
+    "IconColor": "#000000",
+    "Id": 5,
+    "IsShowPercent": 1,
+    "Order": 3,
+    "ProgressColor": "#F04F84",
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar",
+    "ShowName": "미망 수치",
+    "Type": 1
+  }
+}

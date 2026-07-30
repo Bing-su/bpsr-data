@@ -1,0 +1,524 @@
+{
+  "1000111": {
+    "Answer": [1],
+    "Id": 1000111,
+    "Question": "委托人提供的线索是正确的吗？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000112": {
+    "Answer": [2, 3],
+    "Id": 1000112,
+    "Question": "莓色果在月影之野吗？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000113": {
+    "Answer": [4, 5, 6],
+    "Id": 1000113,
+    "Question": "至今没有人见过莓色果，它到底在哪里？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000211": {
+    "Answer": [1],
+    "Id": 1000211,
+    "Question": "谁见过莓色果？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000212": {
+    "Answer": [2, 3],
+    "Id": 1000212,
+    "Question": "贝克马尔运输站是否存在莓色果？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000213": {
+    "Answer": [4, 5],
+    "Id": 1000213,
+    "Question": "乐团粉丝得病与莓色果有关吗？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000311": {
+    "Answer": [1],
+    "Id": 1000311,
+    "Question": "年轻矿工的态度？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000312": {
+    "Answer": [2, 3],
+    "Id": 1000312,
+    "Question": "年长矿工的态度？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000313": {
+    "Answer": [4],
+    "Id": 1000313,
+    "Question": "与班哈尔特人成家的矿工的态度？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000411": {
+    "Answer": [],
+    "Id": 1000411,
+    "Question": "「名单」在这条流程里，究竟扮演什么角色？",
+    "QuestionBubble": "或许继续调查会比较好……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，线索对不上。", "再想想吧，思绪乱了。"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000412": {
+    "Answer": [3, 4, 5],
+    "Id": 1000412,
+    "Question": "「塔」与「王冠」意味着什么？",
+    "QuestionBubble": "假设名单存在，那非常可能在「塔」里。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，线索对不上。", "再想想吧，思绪乱了。"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000413": {
+    "Answer": [6, 7, 8],
+    "Id": 1000413,
+    "Question": "想要找到「王冠」的话，下一步应该怎么走？",
+    "QuestionBubble": "想要找到名单，还是得顺着足迹进入塔中调查。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，线索对不上。", "再想想吧，思绪乱了。"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000511": {
+    "Answer": [1],
+    "Id": 1000511,
+    "Question": "漂流瓶的宝藏线索内容准确吗？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000512": {
+    "Answer": [2],
+    "Id": 1000512,
+    "Question": "瓶子真的是过去的人留下的吗？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……"],
+    "WrongBubbleAction": [9007]
+  },
+  "1000513": {
+    "Answer": [3],
+    "Id": 1000513,
+    "Question": "为什么会出现被埋起来的相似纸条？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "100111": {
+    "Answer": [],
+    "Id": 100111,
+    "Question": "让我瞧瞧……这家伙有什么外貌特征！",
+    "QuestionBubble": "这些线索，似乎都指向了一个人……",
+    "QuestionBubbleAction": 9019,
+    "WrongBubble": ["这似乎与接头人的外表没有关联……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100112": {
+    "Answer": [3, 4],
+    "Id": 100112,
+    "Question": "嗯哼，下一步就从“接头信物”与“身份信息”来思考！",
+    "QuestionBubble": "显然这些就是接头人外表特征了，那么接下来……",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100121": {
+    "Answer": [1, 4],
+    "Id": 100121,
+    "Question": "进一步去缩小范围吧，从年龄、性别着手……",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100122": {
+    "Answer": [5, 6],
+    "Id": 100122,
+    "Question": "如果能确定体型和衣着的话……",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100123": {
+    "Answer": [2],
+    "Id": 100123,
+    "Question": "还差最关键的一个特征，与头发有关！",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100311": {
+    "Answer": [7],
+    "Id": 100311,
+    "Question": "工匠常用的手套，有什么特殊之处呢？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100312": {
+    "Answer": [8],
+    "Id": 100312,
+    "Question": "图纸的内容是？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100313": {
+    "Answer": [9],
+    "Id": 100313,
+    "Question": "漂亮的提灯会有什么异常呢？从外观来看的话……",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100411": {
+    "Answer": [8],
+    "Id": 100411,
+    "Question": "独立战争中，杰克失踪之前要去做什么？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100412": {
+    "Answer": [11, 12],
+    "Id": 100412,
+    "Question": "特别行动的内容可能是？结果怎么样？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100413": {
+    "Answer": [3],
+    "Id": 100413,
+    "Question": "看来渗透行动指挥官可能就是杰克，那他最后去哪了？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100511": {
+    "Answer": [1],
+    "Id": 100511,
+    "Question": "珍宝可能来自哪里？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100512": {
+    "Answer": [2],
+    "Id": 100512,
+    "Question": "卡利斯管家不喜欢珍宝的原因？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100513": {
+    "Answer": [3],
+    "Id": 100513,
+    "Question": "昨天珍宝的反常之处？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100611": {
+    "Answer": [1],
+    "Id": 100611,
+    "Question": "从咪露&露咪的话中可以知道……",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100612": {
+    "Answer": [2, 3],
+    "Id": 100612,
+    "Question": "从斯派克的话中可以知道……",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "100613": {
+    "Answer": [4, 5],
+    "Id": 100613,
+    "Question": "从蒂娜的话中可以知道……",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "200111": {
+    "Answer": [],
+    "Id": 200111,
+    "Question": "村民对神秘海百合的看法是？",
+    "QuestionBubble": "看看村民怎么想。",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["这里不是重要线索……"],
+    "WrongBubbleAction": [9007]
+  },
+  "200112": {
+    "Answer": [3, 4],
+    "Id": 200112,
+    "Question": "商人提供了哪些线索？",
+    "QuestionBubble": "商人会有可靠的情报吗？",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["这里不是重要线索……"],
+    "WrongBubbleAction": [9007]
+  },
+  "200113": {
+    "Answer": [5, 6],
+    "Id": 200113,
+    "Question": "巡礼者对神秘海百合的看法是？",
+    "QuestionBubble": "还剩下最后一人的情报了。",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["这里不是重要线索……"],
+    "WrongBubbleAction": [9007]
+  },
+  "200201": {
+    "Answer": [2],
+    "Id": 200201,
+    "Question": "萨菲尔和神秘少女相遇时的环境？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "200202": {
+    "Answer": [1],
+    "Id": 200202,
+    "Question": "萨菲尔为什么失明？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "200203": {
+    "Answer": [3, 4],
+    "Id": 200203,
+    "Question": "神秘少女的特征？她对萨菲尔做了什么？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300111": {
+    "Answer": [1, 2, 3],
+    "Id": 300111,
+    "Question": "事发时的环境如何？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300112": {
+    "Answer": [4, 5],
+    "Id": 300112,
+    "Question": "现场有什么遗留的线索？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300113": {
+    "Answer": [6, 7],
+    "Id": 300113,
+    "Question": "线索中反复提到的“赖恩”，做了什么事？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300211": {
+    "Answer": [1, 2, 3],
+    "Id": 300211,
+    "Question": "关于瑞德消失的目击描述中，有什么值得注意的细节？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300212": {
+    "Answer": [4, 5, 6],
+    "Id": 300212,
+    "Question": "关于格尔格消失的目击描述中，有什么值得注意的细节？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "300213": {
+    "Answer": [7, 8, 9],
+    "Id": 300213,
+    "Question": "关于杜科的目击描述中，有什么值得注意的细节？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像不太对……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "400111": {
+    "Answer": [1],
+    "Id": 400111,
+    "Question": "禁地的用途是？",
+    "QuestionBubble": "应该是举行某个活动的地方……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "400112": {
+    "Answer": [2],
+    "Id": 400112,
+    "Question": "禁地目前的情况是？",
+    "QuestionBubble": "我记得有人提起过，应该是……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "400113": {
+    "Answer": [3],
+    "Id": 400113,
+    "Question": "禁地可能的位置是？",
+    "QuestionBubble": "如果禁地是祈福的场所，那线索就指向了这个地方……",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["不对，再想想……", "可恶！没有头绪！"],
+    "WrongBubbleAction": [9007]
+  },
+  "500111": {
+    "Answer": [1],
+    "Id": 500111,
+    "Question": "人们看见的异常气候是什么？",
+    "QuestionBubble": "希望别再和虚雾有什么关系了。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……"],
+    "WrongBubbleAction": [9007]
+  },
+  "500112": {
+    "Answer": [2],
+    "Id": 500112,
+    "Question": "遇到噩梦时，怎样做可以缓解症状？",
+    "QuestionBubble": "做噩梦的滋味可不好受……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["不对，再想想……"],
+    "WrongBubbleAction": [9007]
+  },
+  "500113": {
+    "Answer": [3],
+    "Id": 500113,
+    "Question": "也许存在某种手段，能够减轻噩梦带来的影响……",
+    "QuestionBubble": "希望它能对缓解噩梦有效。",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": ["不对，再想想……"],
+    "WrongBubbleAction": [9007]
+  },
+  "700111": {
+    "Answer": [1, 2, 3],
+    "Id": 700111,
+    "Question": "要找谁问星魂瓶的事呢？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "700112": {
+    "Answer": [4],
+    "Id": 700112,
+    "Question": "如何才能找到负责人呢？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "800111": {
+    "Answer": [1],
+    "Id": 800111,
+    "Question": "如果军团内部出现变动，那么这件事最有可能发生在什么时候呢？",
+    "QuestionBubble": "有许多异常的记录……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "800112": {
+    "Answer": [2, 5, 7],
+    "Id": 800112,
+    "Question": "发生变动后，军团执勤状况都出现哪些异常呢？",
+    "QuestionBubble": "那么，接下来……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "800113": {
+    "Answer": [3, 4, 6],
+    "Id": 800113,
+    "Question": "发生变动后，有几个中士不在名单上了，试着找出这些消失的人名吧。",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "900111": {
+    "Answer": [1],
+    "Id": 900111,
+    "Question": "秘密交易的货物到底是什么呢？",
+    "QuestionBubble": "得从中抽取有用的信息才行啊……",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "900112": {
+    "Answer": [2, 4],
+    "Id": 900112,
+    "Question": "内卫勒搭上了什么人？",
+    "QuestionBubble": "还不够啊。",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  },
+  "900113": {
+    "Answer": [3, 5, 6],
+    "Id": 900113,
+    "Question": "内卫勒为什么这么做？",
+    "QuestionBubble": "结论就快出来了！",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["好像哪里不对……", "可恶！没有头绪！", "还是再仔细想想吧……"],
+    "WrongBubbleAction": [9007]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "1": {
+    "AwardId": 20500000,
+    "AwardItem": [
+      [10010003, 20],
+      [10010001, 20],
+      [10010002, 40]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "활약도 200 달성",
+    "GetAwardId": 0,
+    "Id": 1,
+    "Label": "일일",
+    "Picture": "ui/textures/union_2/union_temporary03",
+    "QuickJumpParam": [800505],
+    "QuickJumpType": 2,
+    "TargetId": [],
+    "TargetType": 1,
+    "TimeId": 15,
+    "UnionComment": "활약도 {*val*} 달성",
+    "UnionTitle": "길드 활약도"
+  },
+  "2": {
+    "AwardId": 20500010,
+    "AwardItem": [
+      [10010003, 20],
+      [10010001, 20],
+      [10010002, 40]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "활약도 500 달성",
+    "GetAwardId": 0,
+    "Id": 2,
+    "Label": "일일",
+    "Picture": "ui/textures/union_2/union_temporary02",
+    "QuickJumpParam": [800505],
+    "QuickJumpType": 2,
+    "TargetId": [41, 500, 0],
+    "TargetType": 1,
+    "TimeId": 15,
+    "UnionComment": "활약도 {*val*} 달성",
+    "UnionTitle": "길드 활약도"
+  },
+  "3": {
+    "AwardId": 20500020,
+    "AwardItem": [
+      [10010003, 10],
+      [10010001, 10],
+      [10010002, 20]
+    ],
+    "ChangeUnion": 1,
+    "Comment": "출석 퀘스트 완료",
+    "GetAwardId": 0,
+    "Id": 3,
+    "Label": "일일",
+    "Picture": "ui/textures/union_2/union_temporary04",
+    "QuickJumpParam": [12000, 2, 6],
+    "QuickJumpType": 1,
+    "TargetId": [310, 1, 12000, 1200001, 23900101],
+    "TargetType": 1,
+    "TimeId": 15,
+    "UnionComment": "길드 출석 체크 퀘스트 완료",
+    "UnionTitle": "길드 출석 체크"
+  },
+  "4": {
+    "AwardId": 20500030,
+    "AwardItem": [
+      [10010003, 20],
+      [10010001, 20],
+      [10010002, 40]
+    ],
+    "ChangeUnion": 1,
+    "Comment": "납품 퀘스트 완료",
+    "GetAwardId": 0,
+    "Id": 4,
+    "Label": "일일",
+    "Picture": "ui/textures/union_2/union_temporary05",
+    "QuickJumpParam": [12000, 2, 42],
+    "QuickJumpType": 1,
+    "TargetId": [43, 1, 0],
+    "TargetType": 1,
+    "TimeId": 15,
+    "UnionComment": "길드 납품 퀘스트 완료",
+    "UnionTitle": "길드 납품"
+  },
+  "5": {
+    "AwardId": 20500100,
+    "AwardItem": [
+      [10010001, 300],
+      [10010003, 300],
+      [10010002, 800]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "이번 주에 길드원 10명이 사냥 콘텐츠 참여하기",
+    "GetAwardId": 0,
+    "Id": 5,
+    "Label": "주간",
+    "Picture": "ui/textures/union_2/union_temporary07",
+    "QuickJumpParam": [500108, 500151],
+    "QuickJumpType": 2,
+    "TargetId": [42, 10, 0, 12011, 12012, 12013],
+    "TargetType": 2,
+    "TimeId": 17,
+    "UnionComment": "이번 주에 {*val*}명이 참여하기",
+    "UnionTitle": "길드 사냥"
+  },
+  "6": {
+    "AwardId": 20500110,
+    "AwardItem": [
+      [10010001, 600],
+      [10010003, 600],
+      [10010002, 1800]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "이번 주에 길드원 30명이 사냥 콘텐츠 참여하기",
+    "GetAwardId": 0,
+    "Id": 6,
+    "Label": "주간",
+    "Picture": "ui/textures/union_2/union_temporary08",
+    "QuickJumpParam": [500108, 500152],
+    "QuickJumpType": 2,
+    "TargetId": [42, 30, 0, 12011, 12012, 12013],
+    "TargetType": 2,
+    "TimeId": 17,
+    "UnionComment": "이번 주에 {*val*}명이 참여하기",
+    "UnionTitle": "길드 사냥"
+  },
+  "7": {
+    "AwardId": 20500120,
+    "AwardItem": [
+      [10010001, 150],
+      [10010003, 150],
+      [10010002, 400]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "이번 주에 길드원 10명이 무도회 콘텐츠 참여하기",
+    "GetAwardId": 0,
+    "Id": 7,
+    "Label": "주간",
+    "Picture": "ui/textures/union_2/union_temporary09",
+    "QuickJumpParam": [500108, 900200],
+    "QuickJumpType": 2,
+    "TargetId": [44, 10, 12000],
+    "TargetType": 2,
+    "TimeId": 17,
+    "UnionComment": "이번 주에 {*val*}명이 참여하기",
+    "UnionTitle": "길드 무도회"
+  },
+  "8": {
+    "AwardId": 20500130,
+    "AwardItem": [
+      [10010001, 350],
+      [10010003, 350],
+      [10010002, 1200]
+    ],
+    "ChangeUnion": 0,
+    "Comment": "이번 주에 길드원 30명이 무도회 콘텐츠 참여하기",
+    "GetAwardId": 0,
+    "Id": 8,
+    "Label": "주간",
+    "Picture": "ui/textures/union_2/union_temporary09",
+    "QuickJumpParam": [500108, 900200],
+    "QuickJumpType": 2,
+    "TargetId": [44, 30, 12000],
+    "TargetType": 2,
+    "TimeId": 17,
+    "UnionComment": "이번 주에 {*val*}명이 참여하기",
+    "UnionTitle": "길드 무도회"
+  }
+}

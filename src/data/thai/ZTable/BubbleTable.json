@@ -1,0 +1,273 @@
+{
+  "1001": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1.จะได้รับคะแนนเป็นรอบโดยรอบทหาร",
+      "2.สังหารมอนสเตอร์ระหว่างทางได้รับคะแนนเพิ่มเติม"
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1001,
+    "Name": "ลาดตระเวนเมืองโบราณ Vill",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1002": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1.จะได้รับคะแนนเป็นรอบโดยรอบทหาร",
+      "2.สังหารมอนสเตอร์ระหว่างทางได้รับคะแนนเพิ่มเติม"
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1002,
+    "Name": "ลาดตระเวน Brigand Camp",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "1003": {
+    "AdditionalTarget": [[272, 1, 7, 82]],
+    "AdditionalTargetCompleteCoolDown": [1],
+    "AdditionalTargetCompleteMaxNum": [999],
+    "AdditionalTargetIdleScore": [3],
+    "AdditionalTargetName": [
+      "1.จะได้รับคะแนนเป็นรอบโดยรอบนักรบ",
+      "2.สังหารมอนสเตอร์ระหว่างทางได้รับคะแนนเพิ่มเติม"
+    ],
+    "AdditionalTargetToEntriesMessage": [2],
+    "BubbleType": 1,
+    "Id": 1003,
+    "Name": "ลาดตระเวน Muku Camp",
+    "ScoreCycle": [],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2001": {
+    "AdditionalTarget": [[24, 1, 8, 200101]],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [15],
+    "AdditionalTargetName": ["ได้รับคะแนนเป็นรอบภายในพื้นที่"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2001,
+    "Name": "นักเรียนเต้น",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2002": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200201],
+      [24, 1, 8, 200202]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 0],
+    "AdditionalTargetCompleteMaxNum": [50, 100],
+    "AdditionalTargetIdleScore": [50, 25],
+    "AdditionalTargetName": [
+      "1. ได้รับคะแนนเป็นรอบภายในพื้นที่",
+      "2.ทุกช่วง 150s ได้รับตั๋วโหวต 1 ใบ",
+      "3.ผู้ถูกโหวตรับความนิยมเพิ่ม 1 คะแนน การโหวตจะได้รับคะแนนพิเศษ ({*val1*}/{*val2*})",
+      "4.ผู้ถูกโหวตจะได้รับคะแนนเพิ่ม ({*val1*}/{*val2*})",
+      "5.เมื่อความนิยมถึง 5/10/15 แต้มจะเพิ่ม",
+      "6.มีความนิยมแล้วจะหายไปในอีก 5 นาที เมื่อได้รับความนิยมใหม่จะรีเฟรชเวลา"
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2002,
+    "Name": "โรงละครโรดโชว์",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1.จะได้รับคะแนนเป็นรอบโดยรอบ Gold Nappo และ Silver Nappo กิจกรรมพลุแต่ละรอบต่อเนื่อง 10m",
+      "2.เข้าร่วมครั้งแรกรายวัน จะได้รับแต้มเฟรนด์ชิพจำนวนมาก ตรา Silver Star และวัสดุอุปกรณ์"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2003,
+    "Name": "Starlight Fireworks",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["Spirited Dance ในพื้นที่เพื่อรับคะแนนเป็นรอบๆ"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2004,
+    "Name": "Spirited Dance",
+    "ScoreCycle": [1, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. ได้รับคะแนนเป็นรอบภายในพื้นที่",
+      "2. ในพื้นที่กิจกรรมจะมี 2 จุดที่สามารถแปลงร่างได้ โต้ตอบเพื่อสุ่มรับไอเทมWinterfest"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 2005,
+    "Name": "Morph Party",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2008": {
+    "AdditionalTarget": [
+      [24, 1, 8, 200801],
+      [24, 1, 8, 200802]
+    ],
+    "AdditionalTargetCompleteCoolDown": [5, 1],
+    "AdditionalTargetCompleteMaxNum": [10, 20],
+    "AdditionalTargetIdleScore": [200, 100],
+    "AdditionalTargetName": [
+      "1. ได้รับคะแนนเป็นรอบภายในพื้นที่",
+      "2.มีดอกไม้ไฟ 3 แบบ: สีแดง สีเขียว และสีน้ำเงิน ทุกๆ 15 วินาทีจะสุ่มได้รับดอกไม้ไฟ 1 ชิ้น",
+      "3.เติมดอกไม้ไฟใส่ฐานดอกไม้ไฟรับคะแนนพิเศษเพิ่ม ({*val1*}/{*val2*})",
+      "4.ยิงดอกไม้ไฟกระบอกที่เติมไว้แล้ว ผู้เล่นทั้งหมดในพื้นที่จะได้รับคะแนนพิเศษ ({*val1*}/{*val2*})"
+    ],
+    "AdditionalTargetToEntriesMessage": [3, 4],
+    "BubbleType": 1,
+    "Id": 2008,
+    "Name": "ทดสอบจุดไฟ",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2009": {
+    "AdditionalTarget": [[24, 1, 7, 200901]],
+    "AdditionalTargetCompleteCoolDown": [5],
+    "AdditionalTargetCompleteMaxNum": [10],
+    "AdditionalTargetIdleScore": [300],
+    "AdditionalTargetName": [
+      "1. ได้รับคะแนนเป็นรอบภายในพื้นที่",
+      "2.ในพื้นที่จะได้รับเศษโคมไฟ 1 ชิ้นทุกๆ 100 วินาที เมื่อสะสมเศษครบ 3 ชิ้นจะอัญเชิญเรียกโคมไฟฉลองฤดูใบไม้ผลิได้",
+      "3.ปล่อยโคมเพื่อรับคะแนนพิเศษ ({*val1*}/{*val2*})"
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2009,
+    "Name": "เทศกาลโคมตรุษจีน",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "2010": {
+    "AdditionalTarget": [[24, 1, 11, 201001]],
+    "AdditionalTargetCompleteCoolDown": [0],
+    "AdditionalTargetCompleteMaxNum": [240],
+    "AdditionalTargetIdleScore": [10],
+    "AdditionalTargetName": [
+      "1. ได้รับคะแนนเป็นรอบภายในพื้นที่",
+      "2.ทุกๆ สิบนาทีคณะเต้นจะเปลี่ยนการเต้น อย่าลืมตามจังหวะให้ทันนะ!",
+      "3.ตามการเคลื่อนไหวของหัวหน้าผู้เต้นเพื่อรับคะแนนพิเศษเป็นรอบ ({*val1*}/{*val2*})"
+    ],
+    "AdditionalTargetToEntriesMessage": [3],
+    "BubbleType": 1,
+    "Id": 2010,
+    "Name": "จังหวะแห่งแสง",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3001": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["ติดตามไกด์ท่องเที่ยวเพื่อรับคะแนน"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3001,
+    "Name": "ท่องเที่ยวจับปลาพราวเสน่ห์",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3002": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["ติดตามไกด์ท่องเที่ยวเพื่อรับคะแนน"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3002,
+    "Name": "ท่องเที่ยวกับอัศวิน Boarlet",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3003": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": ["ตามนำทีมของ Ee-chan เพื่อรับคะแนน"],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3003,
+    "Name": "วงดนตรี Ee-chan Drums",
+    "ScoreCycle": [3, 5],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3004": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. ได้รับคะแนนเป็นรอบภายในพื้นที่",
+      "2. ภายในพื้นที่กิจกรรม สามารถโต้ตอบกับเหล่า Star Pupil บนเวทีได้ผ่านการเชียร์หรือเต้นร่วมกัน!"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3004,
+    "Name": "ค่ำคืนนี้ ร้องเพลงเคียงดวงดาว",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3005": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. ได้รับคะแนนเป็นรอบภายในพื้นที่",
+      "2. ภายในพื้นที่กิจกรรม สามารถโต้ตอบกับเหล่า Star Pupil บนเวทีได้ผ่านการเชียร์หรือเต้นร่วมกัน!"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3005,
+    "Name": "ค่ำคืนนี้ ร้องเพลงเคียงดวงดาว",
+    "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  }
+}

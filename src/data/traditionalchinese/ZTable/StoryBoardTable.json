@@ -1,0 +1,120 @@
+{
+  "100001": {
+    "BeginNode": 100001001,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/boyce/storyboard_boyce_story_01",
+    "EndingNodePool": [100001023, 100001024],
+    "FirstPassAwardId": 31003390,
+    "Id": 100001,
+    "LockedText": "未解鎖",
+    "PercentageAwardId": [
+      [50, 31003960],
+      [70, 31003970],
+      [100, 31003980]
+    ],
+    "QuestId": 40500,
+    "Remark": "博伊斯角色任务01",
+    "RoleId": 1000,
+    "StoryInfo": "自從上次與博伊斯分開後，已許久未再見到這位教團高階守衛。前幾日他托人帶話，說有重要的委託要與我面談。會面地點定在拉爾帕爾村。",
+    "StoryboardName": "冰之玉響",
+    "StoryboardNodePool": [
+      100001001, 100001002, 100001003, 100001004, 100001005, 100001006, 100001007, 100001008,
+      100001014, 100001019, 100001023, 100001024
+    ],
+    "UnlockCondition": []
+  },
+  "1001": {
+    "BeginNode": 1001002,
+    "ChartBackgroundPic": "ui/textures/taskinfo_ep/taskinfo_ep02_07",
+    "ChartPic": "ui/textures/taskinfo_ep/taskinfo_ep02_05",
+    "EndingNodePool": [1001006],
+    "FirstPassAwardId": 20210254,
+    "Id": 1001,
+    "LockedText": "未解鎖",
+    "PercentageAwardId": [
+      [50, 20210251],
+      [70, 20210252],
+      [100, 20210253]
+    ],
+    "QuestId": 30704,
+    "Remark": "test",
+    "RoleId": 1,
+    "StoryInfo": "測試測試測試",
+    "StoryboardName": "測試樹",
+    "StoryboardNodePool": [1001001, 1001002, 1001003, 1001004, 1001006],
+    "UnlockCondition": []
+  },
+  "100101": {
+    "BeginNode": 100101001,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/farfara/storyboard_farfara_story_01",
+    "EndingNodePool": [100101009, 100101010, 126589770, 100101013],
+    "FirstPassAwardId": 31003400,
+    "Id": 100101,
+    "LockedText": "未解鎖",
+    "PercentageAwardId": [
+      [50, 31003850],
+      [70, 31003860],
+      [100, 31003870]
+    ],
+    "QuestId": 40502,
+    "Remark": "法法菈角色任务01",
+    "RoleId": 1001,
+    "StoryInfo": "好久沒見法法菈了，去拉爾帕爾村看看她吧。",
+    "StoryboardName": "不曾忘卻之物",
+    "StoryboardNodePool": [
+      100101001, 100101003, 100101005, 100101004, 100101006, 100101007, 100101008, 100101009,
+      100101010, 100101011, 126589770, 100101012, 100101013, 100101019
+    ],
+    "UnlockCondition": []
+  },
+  "100201": {
+    "BeginNode": 100201002,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/daya/storyboard_daya_story_01",
+    "EndingNodePool": [100201003, 100201004, 100201005, 100201006],
+    "FirstPassAwardId": 31003410,
+    "Id": 100201,
+    "LockedText": "未解鎖",
+    "PercentageAwardId": [
+      [50, 31003990],
+      [70, 31004000],
+      [100, 31004010]
+    ],
+    "QuestId": 40501,
+    "Remark": "达雅NPC任务",
+    "RoleId": 1002,
+    "StoryInfo": "一封信件被送到手中，高原上的好友似乎有什麼煩惱需要你的説明……",
+    "StoryboardName": "莓色果奇遇",
+    "StoryboardNodePool": [
+      100201001, 100201002, 100201003, 100201004, 100201005, 100201006, 100201007, 100201008,
+      100201009, 100201011, 100201012, 100201013, 100201014, 100201015, 100201017, 100201018,
+      100201021, 100201022, 100201023, 100201025
+    ],
+    "UnlockCondition": []
+  },
+  "100301": {
+    "BeginNode": 100301004,
+    "ChartBackgroundPic": "",
+    "ChartPic": "ui/textures/npctask/iruna/storyboard_iruna_story_01",
+    "EndingNodePool": [100301011, 100301021, 100301024],
+    "FirstPassAwardId": 31003420,
+    "Id": 100301,
+    "LockedText": "未解鎖",
+    "PercentageAwardId": [
+      [50, 31004130],
+      [70, 31004140],
+      [100, 31004150]
+    ],
+    "QuestId": 40503,
+    "Remark": "",
+    "RoleId": 1003,
+    "StoryInfo": "海風節結束後，拉爾帕爾村又恢復了往日的寧靜。就在這時，村裡的大樹下多出了一束不屬於這個季節的海百合。它是誰留下的？又為什麼會出現在這裡？一份特別的委託，就這樣開始了……",
+    "StoryboardName": "關於一朵花的追想",
+    "StoryboardNodePool": [
+      100301004, 100301007, 100301011, 100301012, 100301013, 100301014, 100301016, 100301017,
+      100301019, 100301020, 100301021, 100301023, 100301024
+    ],
+    "UnlockCondition": []
+  }
+}

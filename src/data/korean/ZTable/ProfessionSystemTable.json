@@ -1,0 +1,547 @@
+{
+  "1": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_03",
+    "Id": 1,
+    "Index": 7,
+    "Intro": "<color=#fcbe03>근거리</color> 전투에 능하며, <color=#fcbe03>대낫</color>을 무기로 사용합니다. 낫 또는 장도 형태로 자유롭게 전환할 수 있으며, 뛰어난 <color=#fcbe03>소규모 범위 공격</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "스톰 블레이드",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_4",
+    "MasteryDes": [
+      ["", "숙련 1%당 번개의 인장을 소모하는 스킬의 대미지 +3.4%.<br>"],
+      ["", "숙련 1%당 벽력연참, 뇌전의 낫, 신벌의 낫의 대미지가 1.2% 증가합니다.<br>"]
+    ],
+    "Name": "스톰 블레이드",
+    "NormalAttackSkill": [1701],
+    "NormalSkill": [1705, 1717, 1718, 1719, 1724, 1730, 1731, 1720],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[]],
+    "ProfessionId": 1,
+    "ProfessionStarExtraItem": [[1020001]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [101, 102],
+    "SpecialSkill": [1714],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1715, 1728, 1733, 1734, 1735, 1736, 1737, 1738],
+    "UltimateSkill": [1713],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7310002
+  },
+  "10": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 8,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 10,
+    "Index": 11,
+    "Intro": "중/근접 무기. 협동 공격 능력 보유.",
+    "IsOpen": false,
+    "LineFeedName": "어둠 정령의 춤・의식검/의식용 지팡이",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "어둠 원소 대미지 부여<br>"],
+      ["", "어둠 원소 대미지 부여<br>"]
+    ],
+    "Name": "어둠 정령의 춤・의식검/의식용 지팡이",
+    "NormalAttackSkill": [2101],
+    "NormalSkill": [2107],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052408, 1052416, 1052424, 1052301, 1052307, 1052303]],
+    "ProfessionId": 10,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2105],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2108],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7380001
+  },
+  "11": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_07",
+    "Id": 11,
+    "Index": 3,
+    "Intro": "<color=#fcbe03>원거리</color> 전투에 능하며, <color=#fcbe03>활</color>을 무기로 사용합니다. 동물 동료와 함께 싸우며, 뛰어난 <color=#fcbe03>광범위 공격</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "디바인 아처",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_6",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_6",
+    "MasteryDes": [
+      ["", "숙련 1%당 야수 대미지가 2.75% 증가합니다.<br>"],
+      ["", "숙련 1%당 빛 원소 보너스가 0.6% 증가합니다.<br>"]
+    ],
+    "Name": "디바인 아처",
+    "NormalAttackSkill": [2201],
+    "NormalSkill": [2230, 2232, 2237, 2233, 2234, 2231, 2238, 2235],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052314, 1052305]],
+    "ProfessionId": 11,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [116, 117],
+    "SpecialSkill": [2220],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [2224, 2240],
+    "UltimateSkill": [2209],
+    "UnlockCondition": [[2, 170103, 2]],
+    "WeaponSkinId": 7390002
+  },
+  "12": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 12,
+    "Index": 5,
+    "Intro": "<color=#fcbe03>근거리</color> 전투에 능하며, <color=#fcbe03>검방패</color>를 무기로 사용합니다. 빛으로 갑옷을 주조하여 뛰어난 <color=#fcbe03>방어</color> 및 <color=#fcbe03>자가 치유</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "실드 나이트",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_7",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_7",
+    "MasteryDes": [
+      ["", "숙련 1%당 광명의 방패 획득 효율 2.5% 및 모든 원소 저항 0.2%가 증가합니다.<br>"],
+      [
+        "",
+        "숙련 1%당 라이트포지드 배리어 체력 증가 효과 3% 및 모든 원소 저항 0.2%가 증가합니다.<br>"
+      ]
+    ],
+    "Name": "실드 나이트",
+    "NormalAttackSkill": [2401],
+    "NormalSkill": [2410, 2412, 2408, 2421, 2420, 2415, 2419, 2409],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052310, 1052308]],
+    "ProfessionId": 12,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [122, 123],
+    "SpecialSkill": [2405],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [2406, 2411, 2413, 2416, 2417, 2425],
+    "UltimateSkill": [2407],
+    "UnlockCondition": [[2, 170106, 2]],
+    "WeaponSkinId": 7400002
+  },
+  "13": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_08",
+    "Id": 13,
+    "Index": 8,
+    "Intro": "<color=#fcbe03>근거리와 원거리</color> 전투에 능하며, <color=#fcbe03>기타</color>를 무기로 사용합니다. 공격을 통해 <color=#fcbe03>치료</color> 효과를 부여할 수 있으며, 파티원에게 <color=#fcbe03>버프</color>를 부여하는 데 능합니다. 뛰어난 <color=#fcbe03>지원</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "비트 퍼포머",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_8",
+    "MasteryDes": [
+      ["", "숙련 1%당 평온한 선율 전환 보너스 효과가 1% 증가합니다.<br>"],
+      ["", "숙련 1%당 울림・치유의 악장 약화 속도가 0.35% 감소합니다.<br>"]
+    ],
+    "Name": "비트 퍼포머",
+    "NormalAttackSkill": [2321],
+    "NormalSkill": [2308, 2309, 2310, 2311, 2312, 2313, 2315, 2316],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052304, 1052306]],
+    "ProfessionId": 13,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [119, 120],
+    "SpecialSkill": [2306],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [2307, 2317, 2332, 2335, 2336],
+    "UltimateSkill": [2314],
+    "UnlockCondition": [[2, 170107, 2]],
+    "WeaponSkinId": 7410002
+  },
+  "14": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 0,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 14,
+    "Index": 98,
+    "Intro": "<color=#fcbe03>원거리</color> 전투에 능하며, 뛰어난 공격력을 지니고 있습니다.<br>멀리서 고빈도 공격으로 광범위의 적에게 타격을 줄 수 있습니다. <color=#fcbe03>각인 확률 보너스</color>를 높이면 발동 빈도가 증가합니다.<br>근거리에서 <color=#fcbe03>차징</color>해 강력한 폭발 대미지를 줄 수 있습니다. <color=#fcbe03>치명타 확률</color>을 높여 큰 수익을 얻을 수 있습니다.",
+    "IsOpen": false,
+    "LineFeedName": "루시",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "치명타 대미지 증가<br>"],
+      ["", "치명타 대미지 증가<br>"]
+    ],
+    "Name": "루시",
+    "NormalAttackSkill": [2501],
+    "NormalSkill": [2505],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 14,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2504],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2506],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7420001
+  },
+  "15": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 15,
+    "Index": 97,
+    "Intro": "<color=#fcbe03>원거리</color> 전투에 능하며, 뛰어난 공격력을 지니고 있습니다.<br>멀리서 고빈도 공격으로 광범위의 적에게 타격을 줄 수 있습니다. <color=#fcbe03>각인 확률 보너스</color>를 높이면 발동 빈도가 증가합니다.<br>근거리에서 <color=#fcbe03>차징</color>해 강력한 폭발 대미지를 줄 수 있습니다. <color=#fcbe03>치명타 확률</color>을 높여 큰 수익을 얻을 수 있습니다.",
+    "IsOpen": false,
+    "LineFeedName": "나츠",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "치명타 대미지 증가<br>"],
+      ["", "치명타 대미지 증가<br>"]
+    ],
+    "Name": "나츠",
+    "NormalAttackSkill": [2601],
+    "NormalSkill": [2605],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 15,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2604],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2606],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7430001
+  },
+  "2": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 2,
+    "Icon": "ui/atlas/profession/profession_horizontal_05",
+    "Id": 2,
+    "Index": 4,
+    "Intro": "<color=#fcbe03>원거리</color> 전투에 능하며, <color=#fcbe03>얼음 지팡이</color>를 무기로 사용합니다. 얼음의 힘을 다루며, 뛰어난 <color=#fcbe03>광범위 공격</color>과 <color=#fcbe03>제어</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "프로스트 메이지",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_3",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_3",
+    "MasteryDes": [
+      ["", "숙련 1%당, 얼음 원소 보너스가 0.65% 증가합니다.<br>"],
+      [
+        "",
+        "숙련 1%당 아이스 에너지 획득 효율 1% 및 얼음 원소 보너스 0.2%가 증가합니다.<br>숙련 버프: 숙련 1%당 얼음 원소 보너스 전환 비율이 3% 증가합니다.<br>"
+      ]
+    ],
+    "Name": "프로스트 메이지",
+    "NormalAttackSkill": [1201],
+    "NormalSkill": [1239, 1211, 1244, 1210, 1240, 1243, 1246, 1245],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052402, 1052410, 1052418, 1052301, 1052307, 1052308]],
+    "ProfessionId": 2,
+    "ProfessionStarExtraItem": [[1020002]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [104, 105],
+    "SpecialSkill": [1242],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1241],
+    "UltimateSkill": [1248],
+    "UnlockCondition": [[2, 170102, 2]],
+    "WeaponSkinId": 7320002
+  },
+  "3": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_09",
+    "Id": 3,
+    "Index": 9,
+    "Intro": "<color=#fcbe03>근거리</color> 전투에 능하며, <color=#fcbe03>쌍도끼</color>를 무기로 사용합니다. 스킬은 불꽃처럼 빠르고 격렬하며, 뛰어난 <color=#fcbe03>작은 범위 공격</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "트윈 스트라이커",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_9",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_9",
+    "MasteryDes": [
+      [
+        "",
+        "숙련 1%당 열화의 습격, 격노 강타, 도끼 폭풍의 쿨타임 가속 3.2% 및 물리 공격 0.2%를 제공합니다.<br>"
+      ],
+      ["", "숙련 1%당 불 원소 보너스가 0.72% 증가합니다.<br>"]
+    ],
+    "Name": "트윈 스트라이커",
+    "NormalAttackSkill": [1601],
+    "NormalSkill": [1607, 1608, 1612, 1613, 1614, 1615, 1616, 1617],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052302, 1052303]],
+    "ProfessionId": 3,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [128, 129],
+    "SpecialSkill": [1605],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1618],
+    "UnlockCondition": [[2, 170108, 2]],
+    "WeaponSkinId": 7330002
+  },
+  "4": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 5,
+    "Icon": "ui/atlas/profession/profession_horizontal_02",
+    "Id": 4,
+    "Index": 6,
+    "Intro": "<color=#fcbe03>근거리</color> 전투에 능하며, <color=#fcbe03>장창</color>을 무기로 사용합니다. 바람처럼 형태를 바꾸며, 뛰어난 <color=#fcbe03>작은 범위 공격</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "윈드 나이트",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_2",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_2",
+    "MasteryDes": [
+      [
+        "",
+        "숙련 1%당 바람 원소 보너스 0.35%가 증가합니다.<br>숙련 버프: 숙련 1%당 바람 원소 보너스 전환 비율이 3% 증가합니다.<br>"
+      ],
+      ["", "숙련 1%당 바람 원소 보너스가 0.65% 증가합니다.<br>"]
+    ],
+    "Name": "윈드 나이트",
+    "NormalAttackSkill": [1401],
+    "NormalSkill": [1420, 1421, 1422, 1425, 1424, 1430, 1431, 1423],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052404, 1052412, 1052420, 1052301, 1052310, 1052303]],
+    "ProfessionId": 4,
+    "ProfessionStarExtraItem": [[1020004]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [107, 108],
+    "SpecialSkill": [1418],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1409, 1410, 1411, 1419, 1433, 1434, 1435],
+    "UltimateSkill": [1426],
+    "UnlockCondition": [[2, 170101, 2]],
+    "WeaponSkinId": 7340002
+  },
+  "5": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 4,
+    "Icon": "ui/atlas/profession/profession_horizontal_04",
+    "Id": 5,
+    "Index": 1,
+    "Intro": "<color=#fcbe03>원거리 치료</color>에 능하며, <color=#fcbe03>마법 고리</color>를 무기로 사용합니다. 숲의 생명의 힘으로 뛰어난 <color=#fcbe03>치료</color> 및 <color=#fcbe03>지원</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "실반 오라클",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
+    "MasteryDes": [
+      ["", "숙련 1%당 나무 원소 보너스 0.75% 및 실드 강도 0.3%가 증가합니다.<br>"],
+      ["", "숙련 1%당 치료 강도가 1% 증가합니다.<br>"]
+    ],
+    "Name": "실반 오라클",
+    "NormalAttackSkill": [1501],
+    "NormalSkill": [1519, 1520, 1522, 1523, 1521, 1531, 1529, 1524],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052406, 1052414, 1052422, 1052301, 1052314, 1052313]],
+    "ProfessionId": 5,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [110, 111],
+    "SpecialSkill": [1518],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [1507, 1525, 1527, 1528, 1541],
+    "UltimateSkill": [1509],
+    "UnlockCondition": [[2, 170104, 2]],
+    "WeaponSkinId": 7350002
+  },
+  "8": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 8,
+    "Index": 99,
+    "Intro": "<color=#fcbe03>원거리</color> 전투에 능하며, 뛰어난 공격력을 지니고 있습니다.<br>멀리서 고빈도 공격으로 광범위의 적에게 타격을 줄 수 있습니다. <color=#fcbe03>각인 확률 보너스</color>를 높이면 발동 빈도가 증가합니다.<br>근거리에서 <color=#fcbe03>차징</color>해 강력한 폭발 대미지를 줄 수 있습니다. <color=#fcbe03>치명타 확률</color>을 높여 큰 수익을 얻을 수 있습니다.",
+    "IsOpen": false,
+    "LineFeedName": "번개 섬광・핸드 캐논",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "번개 원소 대미지 부여<br>"],
+      ["", "번개 원소 대미지 부여<br>"]
+    ],
+    "Name": "번개 섬광・핸드 캐논",
+    "NormalAttackSkill": [1801],
+    "NormalSkill": [1807],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 8,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [1806],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1808],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7360001
+  },
+  "9": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 6,
+    "Icon": "ui/atlas/profession/profession_horizontal_06",
+    "Id": 9,
+    "Index": 2,
+    "Intro": "<color=#fcbe03>근거리</color> 전투에 능하며, <color=#fcbe03>실드 블레이드</color>를 무기로 사용합니다. 암석의 힘을 모아 몸을 보호하며, 뛰어난 <color=#fcbe03>방어</color> 및 <color=#fcbe03>전장 제어</color> 능력을 가지고 있습니다.",
+    "IsOpen": true,
+    "LineFeedName": "헤비 가디언",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_1",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_1",
+    "MasteryDes": [
+      ["", "숙련 1%당 실드 강도가 2.5% 증가합니다.<br>"],
+      ["", "숙련 1%당 막기 대미지 경감 0.2% 및 행운 막기 대미지 경감 0.2%가 증가합니다.<br>"]
+    ],
+    "Name": "헤비 가디언",
+    "NormalAttackSkill": [1901],
+    "NormalSkill": [1924, 1927, 1936, 1926, 1937, 1925, 1938, 1923],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052405, 1052413, 1052421, 1052301, 1052302, 1052309]],
+    "ProfessionId": 9,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [113, 114],
+    "SpecialSkill": [1922],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [1932, 1933, 1939, 1940, 1941, 1942, 1943, 1944],
+    "UltimateSkill": [1907],
+    "UnlockCondition": [[2, 170105, 2]],
+    "WeaponSkinId": 7370002
+  }
+}

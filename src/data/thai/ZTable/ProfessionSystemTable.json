@@ -1,0 +1,553 @@
+{
+  "1": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_03",
+    "Id": 1,
+    "Index": 7,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะใกล้</color> โดยใช้<color=#fcbe03>ดาบ<br>ยาวรูปเคียว</color>เป็นอาวุธ สามารถสลับ<br>ระหว่างเคียวกับดาบยาวได้อย่างอิสระ มีความสามารถในการ<color=#fcbe03>โจมตีพื้นที่เล็ก</color>ที่<br>ยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Stormblade",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_4",
+    "MasteryDes": [
+      ["", "ทุกๆ 1% Mastery จะเพิ่ม DMG ของสกิลที่ใช้ Thunder Sigils ขึ้น 3.4%<br>"],
+      ["", "ทุกๆ 1% ของค่า Mastery จะเพิ่ม DMG 1.2% ให้กับ Thundercut, Storm Scythe, Divine Sickle<br>"]
+    ],
+    "Name": "Stormblade",
+    "NormalAttackSkill": [1701],
+    "NormalSkill": [1705, 1717, 1718, 1719, 1724, 1730, 1731, 1720],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[]],
+    "ProfessionId": 1,
+    "ProfessionStarExtraItem": [[1020001]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [101, 102],
+    "SpecialSkill": [1714],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1715, 1728, 1733, 1734, 1735, 1736, 1737, 1738],
+    "UltimateSkill": [1713],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7310002
+  },
+  "10": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 8,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 10,
+    "Index": 11,
+    "Intro": "อาวุธระยะกลางและใกล้ มีความสามารถในการโจมตีร่วมกัน",
+    "IsOpen": false,
+    "LineFeedName": "ระบำภาวนาวิญญาณมืด - ดาบพิธี/ไม้เท้าพิธี",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "เพิ่ม DMG ธาตุมืด<br>"],
+      ["", "เพิ่ม DMG ธาตุมืด<br>"]
+    ],
+    "Name": "ระบำภาวนาวิญญาณมืด - ดาบพิธี/ไม้เท้าพิธี",
+    "NormalAttackSkill": [2101],
+    "NormalSkill": [2107],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052408, 1052416, 1052424, 1052301, 1052307, 1052303]],
+    "ProfessionId": 10,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2105],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2108],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7380001
+  },
+  "11": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_07",
+    "Id": 11,
+    "Index": 3,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> โดยใช้<color=#fcbe03>ธนู</color><br>เป็นอาวุธ ออกรบร่วมกับสัตว์คู่หู มี<br>ความสามารถในการ<color=#fcbe03>โจมตีพื้นที่กว้าง</color><br>ที่ยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Marksman",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_6",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_6",
+    "MasteryDes": [
+      ["", "ทุกๆ 1% ของค่า Mastery จะเพิ่ม DMG สัตว์เลี้ยง 2.75%<br>"],
+      ["", "ทุกๆ 1% ของค่า Mastery จะให้โบนัสธาตุแสง 0.6%<br>"]
+    ],
+    "Name": "Marksman",
+    "NormalAttackSkill": [2201],
+    "NormalSkill": [2230, 2232, 2237, 2233, 2234, 2231, 2238, 2235],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052314, 1052305]],
+    "ProfessionId": 11,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [116, 117],
+    "SpecialSkill": [2220],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [2224, 2240],
+    "UltimateSkill": [2209],
+    "UnlockCondition": [[2, 170103, 2]],
+    "WeaponSkinId": 7390002
+  },
+  "12": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 12,
+    "Index": 5,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะประชิด</color> โดยใช้ <color=#fcbe03>Sword and Shield</color> เป็นอาวุธ ใช้<br>แสงหล่อเป็นเกราะ มี<color=#fcbe03>การป้องกัน</color>และ<br><color=#fcbe03>การฟื้นฟูตัวเอง</color>ที่ยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Shield Knight",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_7",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_7",
+    "MasteryDes": [
+      [
+        "",
+        "ทุกๆ 1% ของค่า Mastery จะเพิ่มประสิทธิภาพการได้รับ Radiant shield 2.5% และต้านทานทุกธาตุ 0.2%<br>"
+      ],
+      [
+        "",
+        "ทุกๆ 1% ของค่า Mastery จะเพิ่มเอฟเฟกต์การเพิ่ม HP ของ Lightforged Barrier 3% และต้านทานทุกธาตุ 0.2%<br>"
+      ]
+    ],
+    "Name": "Shield Knight",
+    "NormalAttackSkill": [2401],
+    "NormalSkill": [2410, 2412, 2408, 2421, 2420, 2415, 2419, 2409],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052310, 1052308]],
+    "ProfessionId": 12,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [122, 123],
+    "SpecialSkill": [2405],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [2406, 2411, 2413, 2416, 2417, 2425],
+    "UltimateSkill": [2407],
+    "UnlockCondition": [[2, 170106, 2]],
+    "WeaponSkinId": 7400002
+  },
+  "13": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_08",
+    "Id": 13,
+    "Index": 8,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> โดยใช้ <color=#fcbe03>Guitar</color> เป็นอาวุธ โจมตีสามารถร่าย<br>เอฟเฟกต์ <color=#fcbe03>Heal</color> เชี่ยวชาญในการร่าย<br><color=#fcbe03>บัฟ</color>แก่เพื่อร่วมทีม มีความสามารถ <color=#fcbe03>Support</color>ที่ยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Beat Performer",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_8",
+    "MasteryDes": [
+      ["", "ทุกๆ 1% ของค่า Mastery จะเพิ่มโบนัสการแปลงเปลี่ยนของ Peaceful Tune 1%<br>"],
+      ["", "ทุกๆ 1% ของค่ า Mastery จะทำให้ Healing Melody ลดลงช้าลง 0.35%<br>"]
+    ],
+    "Name": "Beat Performer",
+    "NormalAttackSkill": [2321],
+    "NormalSkill": [2308, 2309, 2310, 2311, 2312, 2313, 2315, 2316],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052304, 1052306]],
+    "ProfessionId": 13,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [119, 120],
+    "SpecialSkill": [2306],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [2307, 2317, 2332, 2335, 2336],
+    "UltimateSkill": [2314],
+    "UnlockCondition": [[2, 170107, 2]],
+    "WeaponSkinId": 7410002
+  },
+  "14": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 0,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 14,
+    "Index": 98,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> มีความสามารถในการโจมตีที่ยอดเยี่ยม<br>สามารถโจมตีศัตรูในพื้นที่กว้างจากระยะไกลด้วยการโจมตีความถี่สูง การเพิ่ม<color=#fcbe03>โบนัสโอกาสเครื่องหมาย</color>จะช่วยเพิ่มความถี่ในการทำงาน<br>ยังสามารถ<color=#fcbe03>ชาร์จพลัง</color>ในระยะใกล้ เพื่อสร้าง DMG ระเบิดที่สูงมาก การเพิ่ม<color=#fcbe03>โอกาส CRIT</color>จะนำมาซึ่งผลตอบแทนที่มหาศาล",
+    "IsOpen": false,
+    "LineFeedName": "Lucy",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Crit DMG เพิ่ม<br>"],
+      ["", "Crit DMG เพิ่ม<br>"]
+    ],
+    "Name": "Lucy",
+    "NormalAttackSkill": [2501],
+    "NormalSkill": [2505],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 14,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2504],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2506],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7420001
+  },
+  "15": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 15,
+    "Index": 97,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> มีความสามารถในการโจมตีที่ยอดเยี่ยม<br>สามารถโจมตีศัตรูในพื้นที่กว้างจากระยะไกลด้วยการโจมตีความถี่สูง การเพิ่ม<color=#fcbe03>โบนัสโอกาสเครื่องหมาย</color>จะช่วยเพิ่มความถี่ในการทำงาน<br>ยังสามารถ<color=#fcbe03>ชาร์จพลัง</color>ในระยะใกล้ เพื่อสร้าง DMG ระเบิดที่สูงมาก การเพิ่ม<color=#fcbe03>โอกาส CRIT</color>จะนำมาซึ่งผลตอบแทนที่มหาศาล",
+    "IsOpen": false,
+    "LineFeedName": "Natsu",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Crit DMG เพิ่ม<br>"],
+      ["", "Crit DMG เพิ่ม<br>"]
+    ],
+    "Name": "Natsu",
+    "NormalAttackSkill": [2601],
+    "NormalSkill": [2605],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 15,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2604],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2606],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7430001
+  },
+  "2": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 2,
+    "Icon": "ui/atlas/profession/profession_horizontal_05",
+    "Id": 2,
+    "Index": 4,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> โดยใช้<br><color=#fcbe03>คทาเวทน้ำแข็ง</color>เป็นอาวุธ ควบคุมพลัง<br>แห่งความหนาวเหน็บ มีความสามารถ<br>ในการ<color=#fcbe03>โจมตีพื้นที่กว้าง</color>และ<color=#fcbe03>ควบคุม</color><br>ที่ยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Frost Mage",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_3",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_3",
+    "MasteryDes": [
+      ["", "ทุกๆ 1% ของค่า Mastery จะให้โบนัสธาตุน้ำแข็ง 0.65%<br>"],
+      [
+        "",
+        "ทุกๆ 1% Mastery จะเพิ่มประสิทธิภาพการได้รับ Ice Energy ขึ้น 1% และเพิ่ม Ice Bonus ขึ้น 0.2%<br>Mastery Enhancement: ทุกๆ 1% Mastery จะเพิ่มอัตราการแปลง Ice Bonus ขึ้น 3%<br>"
+      ]
+    ],
+    "Name": "Frost Mage",
+    "NormalAttackSkill": [1201],
+    "NormalSkill": [1239, 1211, 1244, 1210, 1240, 1243, 1246, 1245],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052402, 1052410, 1052418, 1052301, 1052307, 1052308]],
+    "ProfessionId": 2,
+    "ProfessionStarExtraItem": [[1020002]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [104, 105],
+    "SpecialSkill": [1242],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1241],
+    "UltimateSkill": [1248],
+    "UnlockCondition": [[2, 170102, 2]],
+    "WeaponSkinId": 7320002
+  },
+  "3": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_09",
+    "Id": 3,
+    "Index": 9,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะใกล้</color> ใช้<color=#fcbe03>ขวานคู่</color>เป็นอาวุธ การเคลื่อนไหวรวดเร็วและรุนแรง มีความสามารถในการโจมตี<color=#fcbe03>พื้นที่แคบ</color>ได้อย่างยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Twin Striker",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_9",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_9",
+    "MasteryDes": [
+      [
+        "",
+        "ทุกๆ 1% Mastery จะมอบ CD Boost ให้แก่ Blazing Assault, Rage Cleave และ Axe Wind ขึ้น 3.2% และเพิ่ม ATK ขึ้น 0.2%<br>"
+      ],
+      ["", "ทุกๆ 1% Mastery จะเพิ่ม Fire Bonus ขึ้น 0.72%<br>"]
+    ],
+    "Name": "Twin Striker",
+    "NormalAttackSkill": [1601],
+    "NormalSkill": [1607, 1608, 1612, 1613, 1614, 1615, 1616, 1617],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052302, 1052303]],
+    "ProfessionId": 3,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [128, 129],
+    "SpecialSkill": [1605],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1618],
+    "UnlockCondition": [[2, 170108, 2]],
+    "WeaponSkinId": 7330002
+  },
+  "4": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 5,
+    "Icon": "ui/atlas/profession/profession_horizontal_02",
+    "Id": 4,
+    "Index": 6,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะประชิด</color> โดย<br>ใช้<color=#fcbe03>หอกยาว</color>เป็นอาวุธ แปลงร่างเสมือน<br>สายลม มีความสามารถในการ<color=#fcbe03>โจมตีพื้น<br>ที่เล็ก</color>ที่ยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Wind Knight",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_2",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_2",
+    "MasteryDes": [
+      ["", "Wind Axe"],
+      ["", "ทุกๆ 1% ของค่า Mastery จะให้โบนัสธาตุลม 0.65%<br>"]
+    ],
+    "Name": "Wind Knight",
+    "NormalAttackSkill": [1401],
+    "NormalSkill": [1420, 1421, 1422, 1425, 1424, 1430, 1431, 1423],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052404, 1052412, 1052420, 1052301, 1052310, 1052303]],
+    "ProfessionId": 4,
+    "ProfessionStarExtraItem": [[1020004]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [107, 108],
+    "SpecialSkill": [1418],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1409, 1410, 1411, 1419, 1433, 1434, 1435],
+    "UltimateSkill": [1426],
+    "UnlockCondition": [[2, 170101, 2]],
+    "WeaponSkinId": 7340002
+  },
+  "5": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 4,
+    "Icon": "ui/atlas/profession/profession_horizontal_04",
+    "Id": 5,
+    "Index": 1,
+    "Intro": "เชี่ยวชาญการ <color=#fcbe03>Heal ระยะไกล</color> ใช้<br><color=#fcbe03>แหวนเวท</color>เป็นอาวุธ ควบคุมพลังชีวิต<br>แห่งป่า มีความสามารถในการ <color=#fcbe03>Heal</color> และ <color=#fcbe03>Support</color> ที่ยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Verdant Oracle",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
+    "MasteryDes": [
+      [
+        "",
+        "ทุก <style=\"accent-gn\">1%</style> ของ Mastery จะเพิ่ม Forest Bonus <style=\"accent-gn\">0.75%</style> และเพิ่ม Shield Strength <style=\"accent-gn\">0.3%</style><br>"
+      ],
+      ["", "ทุกๆ 1% ของค่า Mastery จะเพิ่มความแรง Heal 1%<br>"]
+    ],
+    "Name": "Verdant Oracle",
+    "NormalAttackSkill": [1501],
+    "NormalSkill": [1519, 1520, 1522, 1523, 1521, 1531, 1529, 1524],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052406, 1052414, 1052422, 1052301, 1052314, 1052313]],
+    "ProfessionId": 5,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [110, 111],
+    "SpecialSkill": [1518],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [1507, 1525, 1527, 1528, 1541],
+    "UltimateSkill": [1509],
+    "UnlockCondition": [[2, 170104, 2]],
+    "WeaponSkinId": 7350002
+  },
+  "8": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 8,
+    "Index": 99,
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> มีความสามารถในการโจมตีที่ยอดเยี่ยม<br>สามารถโจมตีศัตรูในพื้นที่กว้างจากระยะไกลด้วยการโจมตีความถี่สูง การเพิ่ม<color=#fcbe03>โบนัสโอกาสเครื่องหมาย</color>จะช่วยเพิ่มความถี่ในการทำงาน<br>ยังสามารถ<color=#fcbe03>ชาร์จพลัง</color>ในระยะใกล้ เพื่อสร้าง DMG ระเบิดที่สูงมาก การเพิ่ม<color=#fcbe03>โอกาส CRIT</color>จะนำมาซึ่งผลตอบแทนที่มหาศาล",
+    "IsOpen": false,
+    "LineFeedName": "Thunder Flash - Hand Cannon",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "เพิ่ม DMG ธาตุสายฟ้า<br>"],
+      ["", "เพิ่ม DMG ธาตุสายฟ้า<br>"]
+    ],
+    "Name": "Thunder Flash - Hand Cannon",
+    "NormalAttackSkill": [1801],
+    "NormalSkill": [1807],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 8,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [1806],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1808],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7360001
+  },
+  "9": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 6,
+    "Icon": "ui/atlas/profession/profession_horizontal_06",
+    "Id": 9,
+    "Index": 2,
+    "Intro": "เชี่ยวชาญ<color=#fcbe03>การต่อสู้ระยะประชิด</color> โดยใช้ <color=#fcbe03>Guard Blade</color>เป็นอาวุธ รวบรวมหิน<br>เพื่อป้องกันตัว มีความสามารถ<color=#fcbe03>ในการ<br>ป้องกัน</color>และ<color=#fcbe03>ควบคุมสนาม</color>ที่ยอดเยี่ยม",
+    "IsOpen": true,
+    "LineFeedName": "Heavy Guardian",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_1",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_1",
+    "MasteryDes": [
+      ["", "ทุกๆ 1% ของค่า Mastery จะเพิ่มความแข็งแกร่งของโล่ 2.5%<br>"],
+      [
+        "",
+        "ทุกๆ 1% ของค่า Mastery จะเพิ่มการลด DMG จากการ Block 0.2% และลด DMG จากการ Lucky Block 0.2%<br>"
+      ]
+    ],
+    "Name": "Heavy Guardian",
+    "NormalAttackSkill": [1901],
+    "NormalSkill": [1924, 1927, 1936, 1926, 1937, 1925, 1938, 1923],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052405, 1052413, 1052421, 1052301, 1052302, 1052309]],
+    "ProfessionId": 9,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [113, 114],
+    "SpecialSkill": [1922],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [1932, 1933, 1939, 1940, 1941, 1942, 1943, 1944],
+    "UltimateSkill": [1907],
+    "UnlockCondition": [[2, 170105, 2]],
+    "WeaponSkinId": 7370002
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "1": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_03",
+    "Id": 1,
+    "Index": 7,
+    "Intro": "Ahli dalam pertarungan<color=#fcbe03>jarak dekat</color> yang bersenjatakan <color=#fcbe03>Sickle Sword</color>. Dapat berganti antara senjata sabit dan pedang, memiliki kemampuan <color=#fcbe03>serangan jarak dekat</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Stormblade",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_4",
+    "MasteryDes": [
+      ["", "DMG dari skill yang menggunakan Thunder Seal +3,4% setiap 1% Mastery<br>"],
+      [
+        "",
+        "Setiap 1% Mastery meningkatkan DMG Thunderbolt Strike, Scythe of Thunder, dan Scythe of Punishment sebesar 1,2%<br>"
+      ]
+    ],
+    "Name": "Stormblade",
+    "NormalAttackSkill": [1701],
+    "NormalSkill": [1705, 1717, 1718, 1719, 1724, 1730, 1731, 1720],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[]],
+    "ProfessionId": 1,
+    "ProfessionStarExtraItem": [[1020001]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [101, 102],
+    "SpecialSkill": [1714],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1715, 1728, 1733, 1734, 1735, 1736, 1737, 1738],
+    "UltimateSkill": [1713],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7310002
+  },
+  "10": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 8,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 10,
+    "Index": 11,
+    "Intro": "Menggunakan senjata jarak sedang dan dekat, memiliki kemampuan Sync Attack.",
+    "IsOpen": false,
+    "LineFeedName": "Darkspirit Prayer - Ritual Blade/Ritual Staff",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Menambahkan Dark DMG<br>"],
+      ["", "Menambahkan Dark DMG<br>"]
+    ],
+    "Name": "Darkspirit Prayer - Ritual Blade/Ritual Staff",
+    "NormalAttackSkill": [2101],
+    "NormalSkill": [2107],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052408, 1052416, 1052424, 1052301, 1052307, 1052303]],
+    "ProfessionId": 10,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2105],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2108],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7380001
+  },
+  "11": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_07",
+    "Id": 11,
+    "Index": 3,
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak jauh</color> yang bersenjatakan <color=#fcbe03>Bow</color>. Menyerang dengan rekan binatangnya dan memiliki kemampuan <color=#fcbe03>serangan jarak jauh</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Divine Archer",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_6",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_6",
+    "MasteryDes": [
+      ["", "Setiap 1% Mastery meningkatkan Pet DMG sebesar 2,75%<br>"],
+      ["", "Setiap 1% Mastery meningkatkan Light Boost sebesar 0,6%<br>"]
+    ],
+    "Name": "Divine Archer",
+    "NormalAttackSkill": [2201],
+    "NormalSkill": [2230, 2232, 2237, 2233, 2234, 2231, 2238, 2235],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052314, 1052305]],
+    "ProfessionId": 11,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [116, 117],
+    "SpecialSkill": [2220],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [2224, 2240],
+    "UltimateSkill": [2209],
+    "UnlockCondition": [[2, 170103, 2]],
+    "WeaponSkinId": 7390002
+  },
+  "12": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 12,
+    "Index": 5,
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak dekat</color> yang bersenjatakan <color=#fcbe03>Bladeshield</color>. Menggunakan armor Lightforged serta memiliki kemampuan <color=#fcbe03>defense</color> dan <color=#fcbe03>self-heal</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Shield Fighter",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_7",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_7",
+    "MasteryDes": [
+      [
+        "",
+        "Setiap 1% Mastery meningkatkan efisiensi perolehan Light Holyshield sebesar 2,5% dan Element Res sebesar 0,2%<br>"
+      ],
+      [
+        "",
+        "Setiap 1% Mastery meningkatkan efek peningkatan HP Lightforged Barrier sebesar 3% dan Element Res sebesar 0,2%<br>"
+      ]
+    ],
+    "Name": "Shield Fighter",
+    "NormalAttackSkill": [2401],
+    "NormalSkill": [2410, 2412, 2408, 2421, 2420, 2415, 2419, 2409],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "ProfessionBrokeExtraItem": [[1052407, 1052415, 1052423, 1052301, 1052310, 1052308]],
+    "ProfessionId": 12,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "ShowTalentStage": [122, 123],
+    "SpecialSkill": [2405],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [2406, 2411, 2413, 2416, 2417, 2425],
+    "UltimateSkill": [2407],
+    "UnlockCondition": [[2, 170106, 2]],
+    "WeaponSkinId": 7400002
+  },
+  "13": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_08",
+    "Id": 13,
+    "Index": 8,
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak jauh dan dekat</color> yang bersenjatakan <color=#fcbe03>Guitar</color>. Serangannya dapat memberi efek<color=#fcbe03> Healing</color>. Mahir memberi <color=#fcbe03>buff</color> pada rekan dan memiliki kemampuan <color=#fcbe03>Support</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Beat Performer",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_8",
+    "MasteryDes": [
+      ["", "Setiap 1% Mastery meningkatkan efek boost konversi Peaceful Tune sebesar 1%<br>"],
+      [
+        "",
+        "Setiap 1% Mastery mengurangi laju penurunan Melody - Healing Movement sebesar 0,35%<br>"
+      ]
+    ],
+    "Name": "Beat Performer",
+    "NormalAttackSkill": [2321],
+    "NormalSkill": [2308, 2309, 2310, 2311, 2312, 2313, 2315, 2316],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052304, 1052306]],
+    "ProfessionId": 13,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [119, 120],
+    "SpecialSkill": [2306],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [2307, 2317, 2332, 2335, 2336],
+    "UltimateSkill": [2314],
+    "UnlockCondition": [[2, 170107, 2]],
+    "WeaponSkinId": 7410002
+  },
+  "14": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 0,
+    "Element": 7,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 14,
+    "Index": 98,
+    "Intro": "Mahir bertarung dalam <color=#fcbe03>jarak jauh</color> dan memiliki daya serang yang luar biasa.<br>Dapat menyerang musuh dalam jangkauan luas dengan intensitas tinggi dari jarak jauh. Tambahkan <color=#fcbe03>Imprint Chance Boost</color> untuk meningkatkan peluang memicunya.<br>Dia juga dapat melakukan <color=#fcbe03>charge</color> dari jarak dekat untuk mengakibatkan Burst DMG yang luar biasa. Tambahkan <color=#fcbe03>Critical Chance</color> untuk mencapai hasil yang dahsyat.",
+    "IsOpen": false,
+    "LineFeedName": "Lucy",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Meningkatkan Crit DMG<br>"],
+      ["", "Meningkatkan Crit DMG<br>"]
+    ],
+    "Name": "Lucy",
+    "NormalAttackSkill": [2501],
+    "NormalSkill": [2505],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 14,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2504],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2506],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7420001
+  },
+  "15": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 15,
+    "Index": 97,
+    "Intro": "Mahir bertarung dalam <color=#fcbe03>jarak jauh</color> dan memiliki daya serang yang luar biasa.<br>Dapat menyerang musuh dalam jangkauan luas dengan intensitas tinggi dari jarak jauh. Tambahkan <color=#fcbe03>Imprint Chance Boost</color> untuk meningkatkan peluang memicunya.<br>Dia juga dapat melakukan <color=#fcbe03>charge</color> dari jarak dekat untuk mengakibatkan Burst DMG yang luar biasa. Tambahkan <color=#fcbe03>Critical Chance</color> untuk mencapai hasil yang dahsyat.",
+    "IsOpen": false,
+    "LineFeedName": "Natsu",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Meningkatkan Crit DMG<br>"],
+      ["", "Meningkatkan Crit DMG<br>"]
+    ],
+    "Name": "Natsu",
+    "NormalAttackSkill": [2601],
+    "NormalSkill": [2605],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 15,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [2604],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [2606],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7430001
+  },
+  "2": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 2,
+    "Icon": "ui/atlas/profession/profession_horizontal_05",
+    "Id": 2,
+    "Index": 4,
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak jauh</color> yang bersenjatakan <color=#fcbe03>Ice Staff</color>. Mengendalikan kekuatan es dan memiliki kemampuan <color=#fcbe03>serangan jarak jauh</color> dan <color=#fcbe03>control</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Frost Mage",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_3",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_3",
+    "MasteryDes": [
+      ["", "Setiap 1% Mastery meningkatkan Ice Boost sebesar 0,65%<br>"],
+      [
+        "",
+        "Setiap 1% Mastery meningkatkan efisiensi perolehan Ice Energy sebesar 1% dan Ice Boost sebesar 0,2%.<br>Mastery Boost: Setiap 1% Mastery meningkatkan rasio konversi Ice Boost sebesar 3%.<br>"
+      ]
+    ],
+    "Name": "Frost Mage",
+    "NormalAttackSkill": [1201],
+    "NormalSkill": [1239, 1211, 1244, 1210, 1240, 1243, 1246, 1245],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052402, 1052410, 1052418, 1052301, 1052307, 1052308]],
+    "ProfessionId": 2,
+    "ProfessionStarExtraItem": [[1020002]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [104, 105],
+    "SpecialSkill": [1242],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1241],
+    "UltimateSkill": [1248],
+    "UnlockCondition": [[2, 170102, 2]],
+    "WeaponSkinId": 7320002
+  },
+  "3": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 1,
+    "Icon": "ui/atlas/profession/profession_horizontal_09",
+    "Id": 3,
+    "Index": 9,
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak dekat</color> yang bersenjatakan <color=#fcbe03>Twinaxe</color>. Jurusnya tampak membara seperti api. Class ini memiliki kemampuan <color=#fcbe03>serangan jarak dekat</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Prajurit Gila Api Merah",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_9",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_9",
+    "MasteryDes": [
+      [
+        "",
+        "Setiap 1% Mastery meningkatkan CD Boost untuk Blazing Raid, Rage Cleave, dan Axewind sebesar 3,2% serta PATK sebesar 0,2%.<br>"
+      ],
+      ["", "Setiap 1% Mastery meningkatkan Fire Boost sebesar 0,72%.<br>"]
+    ],
+    "Name": "Redflame Berserker",
+    "NormalAttackSkill": [1601],
+    "NormalSkill": [1607, 1608, 1612, 1613, 1614, 1615, 1616, 1617],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052401, 1052409, 1052417, 1052301, 1052302, 1052303]],
+    "ProfessionId": 3,
+    "ProfessionStarExtraItem": [[1020003]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [128, 129],
+    "SpecialSkill": [1605],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1618],
+    "UnlockCondition": [[2, 170108, 2]],
+    "WeaponSkinId": 7330002
+  },
+  "4": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 5,
+    "Icon": "ui/atlas/profession/profession_horizontal_02",
+    "Id": 4,
+    "Index": 6,
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak dekat</color> yang bersenjatakan <color=#fcbe03>Lance</color>. Wujudnya berubah-ubah bagaikan angin dan memiliki kemampuan <color=#fcbe03>serangan jarak dekat</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Gale Lancer",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_2",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_2",
+    "MasteryDes": [
+      [
+        "",
+        "Setiap 1% Mastery meningkatkan Wind Boost sebesar 0,35%.<br>Mastery Boost: Setiap 1% Mastery membuat rasio konversi Wind Boost meningkat sebesar 3%.<br>"
+      ],
+      ["", "Setiap 1% Mastery meningkatkan Wind Boost sebesar 0,65%<br>"]
+    ],
+    "Name": "Gale Lancer",
+    "NormalAttackSkill": [1401],
+    "NormalSkill": [1420, 1421, 1422, 1425, 1424, 1430, 1431, 1423],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "ProfessionBrokeExtraItem": [[1052404, 1052412, 1052420, 1052301, 1052310, 1052303]],
+    "ProfessionId": 4,
+    "ProfessionStarExtraItem": [[1020004]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "ShowTalentStage": [107, 108],
+    "SpecialSkill": [1418],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [1409, 1410, 1411, 1419, 1433, 1434, 1435],
+    "UltimateSkill": [1426],
+    "UnlockCondition": [[2, 170101, 2]],
+    "WeaponSkinId": 7340002
+  },
+  "5": {
+    "AttackShow": [
+      [0, 11340],
+      [1, 11340]
+    ],
+    "Create": 1,
+    "Element": 4,
+    "Icon": "ui/atlas/profession/profession_horizontal_04",
+    "Id": 5,
+    "Index": 1,
+    "Intro": "Ahli <color=#fcbe03>heal jarak jauh</color> yang bersenjatakan <color=#fcbe03>Magic Ring</color>. Mengendalikan kekuatan kehidupan di hutan dan memiliki kemampuan <color=#fcbe03>heal</color> dan <color=#fcbe03>support</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Verdant Oracle",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
+    "MasteryDes": [
+      [
+        "",
+        "Setiap 1% Mastery meningkatkan Forest Boost sebesar 0,75% dan Shield Power sebesar 0,3%<br>"
+      ],
+      ["", "Setiap 1% Mastery meningkatkan Heal Power sebesar 1%<br>"]
+    ],
+    "Name": "Verdant Oracle",
+    "NormalAttackSkill": [1501],
+    "NormalSkill": [1519, 1520, 1522, 1523, 1521, 1531, 1529, 1524],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052406, 1052414, 1052422, 1052301, 1052314, 1052313]],
+    "ProfessionId": 5,
+    "ProfessionStarExtraItem": [[1020005]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [110, 111],
+    "SpecialSkill": [1518],
+    "StrOrIntOrDexShow": [
+      [0, 11020],
+      [1, 11020]
+    ],
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "TalentSkill": [1507, 1525, 1527, 1528, 1541],
+    "UltimateSkill": [1509],
+    "UnlockCondition": [[2, 170104, 2]],
+    "WeaponSkinId": 7350002
+  },
+  "8": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 0,
+    "Element": 3,
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Id": 8,
+    "Index": 99,
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak jauh</color> yang memiliki kemampuan serangan yang luar biasa.<br>Dapat melancarkan serangan bertubi-tubi dari jarak jauh untuk menyerang musuh dalam area yang luas. Tingkatkan <color=#fcbe03>Imprint Chance Boost</color> untuk meningkatkan intensitas memicunya.<br>Juga dapat melakukan <color=#fcbe03>Charge</color> di jarak dekat untuk mengakibatkan Burst DMG dalam jumlah yang sangat besar. Tingkatkan <color=#fcbe03>Critical Chance</color> untuk mendapatkan hasil yang lebih besar.",
+    "IsOpen": false,
+    "LineFeedName": "Thunder Strike - Hand Cannon",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MasteryDes": [
+      ["", "Menambahkan Thunder DMG<br>"],
+      ["", "Menambahkan Thunder DMG<br>"]
+    ],
+    "Name": "Thunder Strike - Hand Cannon",
+    "NormalAttackSkill": [1801],
+    "NormalSkill": [1807],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052403, 1052411, 1052419, 1052301, 1052315, 1052312]],
+    "ProfessionId": 8,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [],
+    "SpecialSkill": [1806],
+    "StrOrIntOrDexShow": [
+      [0, 11030],
+      [1, 11030]
+    ],
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "TalentSkill": [],
+    "UltimateSkill": [1808],
+    "UnlockCondition": [[2, 170100, 2]],
+    "WeaponSkinId": 7360001
+  },
+  "9": {
+    "AttackShow": [
+      [0, 11330],
+      [1, 11330]
+    ],
+    "Create": 1,
+    "Element": 6,
+    "Icon": "ui/atlas/profession/profession_horizontal_06",
+    "Id": 9,
+    "Index": 2,
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak dekat</color> yang bersenjatakan <color=#fcbe03>Blade</color>. Mengumpulkan batu untuk melindungi diri, memiliki kemampuan <color=#fcbe03>defense</color> dan <color=#fcbe03>crowd control</color> yang luar biasa.",
+    "IsOpen": true,
+    "LineFeedName": "Heavy Guardian",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_1",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_1",
+    "MasteryDes": [
+      ["", "Setiap 1% Mastery meningkatkan Shield Power sebesar 2,5%<br>"],
+      [
+        "",
+        "Setiap 1% Mastery meningkatkan Block DR sebesar 0,2% dan Lucky Block DR sebesar 0,2%<br>"
+      ]
+    ],
+    "Name": "Heavy Guardian",
+    "NormalAttackSkill": [1901],
+    "NormalSkill": [1924, 1927, 1936, 1926, 1937, 1925, 1938, 1923],
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "ProfessionBrokeExtraItem": [[1052405, 1052413, 1052421, 1052301, 1052302, 1052309]],
+    "ProfessionId": 9,
+    "ProfessionStarExtraItem": [[1020006]],
+    "RangeType": 0,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "ShowTalentStage": [113, 114],
+    "SpecialSkill": [1922],
+    "StrOrIntOrDexShow": [
+      [0, 11010],
+      [1, 11010]
+    ],
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "TalentSkill": [1932, 1933, 1939, 1940, 1941, 1942, 1943, 1944],
+    "UltimateSkill": [1907],
+    "UnlockCondition": [[2, 170105, 2]],
+    "WeaponSkinId": 7370002
+  }
+}

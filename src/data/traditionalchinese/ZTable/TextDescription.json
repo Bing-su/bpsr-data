@@ -1,0 +1,2938 @@
+{
+  "10001": {
+    "Description": "按照高級訂製款式，使用可染色工藝重新製作的服飾，可進行自由染色。",
+    "Id": 10001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "幻色版",
+    "Type": 1
+  },
+  "1001": {
+    "Description": "使用攻擊鍵進行的各類武器攻擊",
+    "Id": 1001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "普通攻擊",
+    "Type": 1
+  },
+  "1002": {
+    "Description": "武器的基本攻擊形式",
+    "Id": 1002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "基本攻擊",
+    "Type": 1
+  },
+  "1003": {
+    "Description": "長按攻擊鍵產生的重擊",
+    "Id": 1003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "重擊",
+    "Type": 1
+  },
+  "1004": {
+    "Description": "在離地一定高度下進行普通攻擊施展的下落攻擊",
+    "Id": 1004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "下落攻擊",
+    "Type": 1
+  },
+  "1005": {
+    "Description": "武器最為核心、廣為人知的招牌技能招式",
+    "Id": 1005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "核心技能",
+    "Type": 1
+  },
+  "1006": {
+    "Description": "武器最為常用的技能招式",
+    "Id": 1006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "基礎技能",
+    "Type": 1
+  },
+  "1007": {
+    "Description": "武器威力最為強大的的終極戰鬥奧義",
+    "Id": 1007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "終極技能",
+    "Type": 1
+  },
+  "1008": {
+    "Description": "由天賦習得的特性技能",
+    "Id": 1008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "天賦技能",
+    "Type": 1
+  },
+  "1009": {
+    "Description": "處於受擊浮空時能夠使用的技能",
+    "Id": 1009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "受身技能",
+    "Type": 1
+  },
+  "1010": {
+    "Description": "有天賦習得的威力強大的流派技能",
+    "Id": 1010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "天賦爆發",
+    "Type": 1
+  },
+  "1011": {
+    "Description": "技能能夠造成傷害",
+    "Id": 1011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "傷害",
+    "Type": 1
+  },
+  "1012": {
+    "Description": "技能招式本身所產生的傷害",
+    "Id": 1012,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "能力傷害",
+    "Type": 1
+  },
+  "1013": {
+    "Description": "技能引發元素特性所產生的額外傷害",
+    "Id": 1013,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "特性傷害",
+    "Type": 1
+  },
+  "1014": {
+    "Description": "能夠回復生命值的效果",
+    "Id": 1014,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "治療",
+    "Type": 1
+  },
+  "1015": {
+    "Description": "一次性回復較多生命值",
+    "Id": 1015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "治癒",
+    "Type": 1
+  },
+  "1016": {
+    "Description": "持續回復生命值一段時間",
+    "Id": 1016,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "癒合",
+    "Type": 1
+  },
+  "1017": {
+    "Description": "能夠在戰鬥中對己方有利的效果",
+    "Id": 1017,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "增益",
+    "Type": 1
+  },
+  "1018": {
+    "Description": "持續一段時間的戰鬥能力、移動能力或其他強化能力效果",
+    "Id": 1018,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "祝福",
+    "Type": 1
+  },
+  "1019": {
+    "Description": "持續小段時間，強力提升戰鬥能力的效果",
+    "Id": 1019,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "激昂",
+    "Type": 1
+  },
+  "1020": {
+    "Description": "戰鬥屬性獲得了大幅提升，若在天賦下有所養成，將會附加額外效果",
+    "Id": 1020,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "鼓舞",
+    "Type": 1
+  },
+  "1021": {
+    "Description": "處於各種不利益己方戰鬥的狀態下",
+    "Id": 1021,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "減益",
+    "Type": 1
+  },
+  "1022": {
+    "Description": "一段時間內戰鬥屬性下降的不利效果",
+    "Id": 1022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "虛弱",
+    "Type": 1
+  },
+  "1023": {
+    "Description": "一段時間內所受傷害增加的不利效果",
+    "Id": 1023,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "易傷",
+    "Type": 1
+  },
+  "1024": {
+    "Description": "一段時間內所受傷害增加，若在天賦下有所養成，將會附加額外效果",
+    "Id": 1024,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "碎裂",
+    "Type": 1
+  },
+  "1025": {
+    "Description": "處於各種行為受到限制的不利狀態下",
+    "Id": 1025,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "控制",
+    "Type": 1
+  },
+  "1026": {
+    "Description": "處於無法移動，無法做出任何戰鬥行為的不利狀態下",
+    "Id": 1026,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "凍結",
+    "Type": 1
+  },
+  "1027": {
+    "Description": "處於無法移動的不利狀態下",
+    "Id": 1027,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "束縛",
+    "Type": 1
+  },
+  "1028": {
+    "Description": "處於無法移動，無法做出任何戰鬥行為，無法使用道具的不利狀態下。短時間內多次添加持續時間會縮短。無法對首領生效。",
+    "Id": 1028,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "暈眩",
+    "Type": 1
+  },
+  "1029": {
+    "Description": "處於移動速度下降的不利狀態下",
+    "Id": 1029,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "減速",
+    "Type": 1
+  },
+  "1030": {
+    "Description": "擊破強力目標<style=\"ItemQuality_5\">霸體</style>條的能力。",
+    "Id": 1030,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "削韌",
+    "Type": 1
+  },
+  "1031": {
+    "Description": "技能能夠幫助角色快速移動",
+    "Id": 1031,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "位移",
+    "Type": 1
+  },
+  "1032": {
+    "Description": "連續位移類型技能",
+    "Id": 1032,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "衝刺",
+    "Type": 1
+  },
+  "1033": {
+    "Description": "不連續位移類型技能",
+    "Id": 1033,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "閃現",
+    "Type": 1
+  },
+  "1034": {
+    "Description": "技能能夠幫助角色存活",
+    "Id": 1034,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "生存",
+    "Type": 1
+  },
+  "1035": {
+    "Description": "額外的生命值<style=\"ItemQuality_5\">護盾</style>，能夠優先於生命值吸收傷害。",
+    "Id": 1035,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "護盾",
+    "Type": 1
+  },
+  "1036": {
+    "Description": "技能的特殊階段，在此階段下受到傷害時能夠免除部分傷害",
+    "Id": 1036,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "招架",
+    "Type": 1
+  },
+  "1037": {
+    "Description": "造成火元素傷害",
+    "Id": 1037,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "火元素傷害",
+    "Type": 1
+  },
+  "1038": {
+    "Description": "傷害附帶火元素的力量",
+    "Id": 1038,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "火元素",
+    "Type": 1
+  },
+  "1039": {
+    "Description": "處於一段時間內間隔受到火元素特性傷害的不利狀態",
+    "Id": 1039,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "點燃",
+    "Type": 1
+  },
+  "1040": {
+    "Description": "造成冰元素傷害",
+    "Id": 1040,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "冰元素傷害",
+    "Type": 1
+  },
+  "1041": {
+    "Description": "傷害附帶冰元素的力量",
+    "Id": 1041,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "冰元素",
+    "Type": 1
+  },
+  "1042": {
+    "Description": "造成雷元素傷害",
+    "Id": 1042,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "雷元素傷害",
+    "Type": 1
+  },
+  "1043": {
+    "Description": "傷害附帶雷元素的力量",
+    "Id": 1043,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "雷元素",
+    "Type": 1
+  },
+  "1044": {
+    "Description": "造成風元素傷害",
+    "Id": 1044,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "風元素傷害",
+    "Type": 1
+  },
+  "1045": {
+    "Description": "傷害附帶風元素的力量",
+    "Id": 1045,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "風元素",
+    "Type": 1
+  },
+  "1046": {
+    "Description": "造成岩元素傷害",
+    "Id": 1046,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "岩元素傷害",
+    "Type": 1
+  },
+  "1047": {
+    "Description": "傷害附帶岩元素的力量",
+    "Id": 1047,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "岩元素",
+    "Type": 1
+  },
+  "1048": {
+    "Description": "造成森元素傷害",
+    "Id": 1048,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "森元素傷害",
+    "Type": 1
+  },
+  "1049": {
+    "Description": "傷害附帶森元素的力量",
+    "Id": 1049,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "森元素",
+    "Type": 1
+  },
+  "1050": {
+    "Description": "造成光元素傷害",
+    "Id": 1050,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "光元素傷害",
+    "Type": 1
+  },
+  "1051": {
+    "Description": "傷害附帶光元素的力量",
+    "Id": 1051,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "光元素",
+    "Type": 1
+  },
+  "1052": {
+    "Description": "造成暗元素傷害",
+    "Id": 1052,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "暗元素傷害",
+    "Type": 1
+  },
+  "1053": {
+    "Description": "傷害附帶暗元素的力量",
+    "Id": 1053,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "暗元素",
+    "Type": 1
+  },
+  "1054": {
+    "Description": "能額外產生攻擊行為或抵抗進攻行為的輔助效果",
+    "Id": 1054,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "助戰",
+    "Type": 1
+  },
+  "1055": {
+    "Description": "跟隨當前戰鬥使攻擊行為進行同步攻擊的效果",
+    "Id": 1055,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "協同",
+    "Type": 1
+  },
+  "1056": {
+    "Description": "自行獨立進行攻擊，協助作戰的效果",
+    "Id": 1056,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "協戰",
+    "Type": 1
+  },
+  "1057": {
+    "Description": "需要一段時間準備才能達到更強威力的技能釋放方式",
+    "Id": 1057,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "蓄力",
+    "Type": 1
+  },
+  "1058": {
+    "Description": "需要維持施法狀態來延續效果的技能釋放方式",
+    "Id": 1058,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "引導",
+    "Type": 1
+  },
+  "1059": {
+    "Description": "效果處於增強或產生變化的技能釋放狀態",
+    "Id": 1059,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "強化",
+    "Type": 1
+  },
+  "1060": {
+    "Description": "釋放某些技能需要消耗的條件，能夠隨著時間或某些機制進行回復補充",
+    "Id": 1060,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "充能",
+    "Type": 1
+  },
+  "1061": {
+    "Description": "在特定條件下能夠觸發的一類效果，其觸發機率受到屬性影響",
+    "Id": 1061,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "刻印",
+    "Type": 1
+  },
+  "1062": {
+    "Description": "自身生命高於目標生命時的狀態，該狀態下提供造成傷害與減傷加成，若在天賦下有所養成，將會附加額外效果",
+    "Id": 1062,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "壓制",
+    "Type": 1
+  },
+  "1063": {
+    "Description": "有明確召喚者，存在狀態受到召喚者影響的戰鬥單位",
+    "Id": 1063,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "召喚物",
+    "Type": 1
+  },
+  "1064": {
+    "Description": "一種需要觸發條件後產生效果的召喚物",
+    "Id": 1064,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "陷阱",
+    "Type": 1
+  },
+  "1065": {
+    "Description": "一種持續一段時間不移動對周圍產生效果的召喚物",
+    "Id": 1065,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "圖騰",
+    "Type": 1
+  },
+  "1066": {
+    "Description": "一種能夠移動跟隨召喚者協助作戰的召喚物",
+    "Id": 1066,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "侍從",
+    "Type": 1
+  },
+  "1067": {
+    "Description": "一種具有自主行為意識的召喚物",
+    "Id": 1067,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "造物",
+    "Type": 1
+  },
+  "1068": {
+    "Description": "能夠做物理運動並在命中後產生效果的技能機制",
+    "Id": 1068,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "飛行物",
+    "Type": 1
+  },
+  "1069": {
+    "Description": "一種體積較小、速度較快的飛行物",
+    "Id": 1069,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "彈丸",
+    "Type": 1
+  },
+  "1070": {
+    "Description": "一種體積較大、速度一般的飛行物",
+    "Id": 1070,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "發射物",
+    "Type": 1
+  },
+  "1071": {
+    "Description": "在一個有範圍的區域生效的生效方式",
+    "Id": 1071,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "區域效果",
+    "Type": 1
+  },
+  "1072": {
+    "Description": "能夠持續為自身或友方提供有利狀態的範圍效果",
+    "Id": 1072,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "領域",
+    "Type": 1
+  },
+  "1073": {
+    "Description": "能夠持續對敵方造成傷害或不利狀態的範圍效果",
+    "Id": 1073,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "區域",
+    "Type": 1
+  },
+  "1074": {
+    "Description": "能夠持續給自身範圍內目標提供效果",
+    "Id": 1074,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "光環",
+    "Type": 1
+  },
+  "1075": {
+    "Description": "實力遠高於普通怪物的存在",
+    "Id": 1075,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "強力目標",
+    "Type": 1
+  },
+  "1076": {
+    "Description": "首領、曠野領主及領主",
+    "Id": 1076,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "頭目",
+    "Type": 1
+  },
+  "1077": {
+    "Description": "活躍於大陸中的普通怪物，戰鬥能力一般較為基礎",
+    "Id": 1077,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "普通怪物",
+    "Type": 1
+  },
+  "1078": {
+    "Description": "怪物中出類拔萃的戰士，一般具有威脅度較高的特殊技能",
+    "Id": 1078,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "精英",
+    "Type": 1
+  },
+  "1079": {
+    "Description": "族群中絕對的強者，稱之為王也毫不過分",
+    "Id": 1079,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "首領",
+    "Type": 1
+  },
+  "1080": {
+    "Description": "在地圖中特殊領地區域才能發現的強力怪物",
+    "Id": 1080,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "曠野領主",
+    "Type": 1
+  },
+  "1081": {
+    "Description": "在副本地圖中最為強力的怪物",
+    "Id": 1081,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "領主",
+    "Type": 1
+  },
+  "1082": {
+    "Description": "當前生命值不低於生命上限50%的狀態",
+    "Id": 1082,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "健康",
+    "Type": 1
+  },
+  "1083": {
+    "Description": "當前生命值不高於生命上限30%的狀態",
+    "Id": 1083,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "受傷",
+    "Type": 1
+  },
+  "1084": {
+    "Description": "透過場景或者關卡玩法獲得的額外技能",
+    "Id": 1084,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "場景技能",
+    "Type": 1
+  },
+  "1085": {
+    "Description": "「煥光」系列裝備洗練所賦予的一種持續狀態",
+    "Id": 1085,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "煥光",
+    "Type": 1
+  },
+  "1086": {
+    "Description": "造成無屬性傷害",
+    "Id": 1086,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "無屬性傷害",
+    "Type": 1
+  },
+  "1087": {
+    "Description": "傷害為無屬性，未攜帶元素力量",
+    "Id": 1087,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "無屬性",
+    "Type": 1
+  },
+  "1088": {
+    "Description": "受到未知來源的侵染，將會產生各種不良影響",
+    "Id": 1088,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "侵蝕",
+    "Type": 1
+  },
+  "1089": {
+    "Description": "「煥光」系列裝備洗練所賦予的一種持續狀態",
+    "Id": 1089,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "煥光",
+    "Type": 1
+  },
+  "1090": {
+    "Description": "具有增加傷害量的效果",
+    "Id": 1090,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "激昂",
+    "Type": 1
+  },
+  "1091": {
+    "Description": "不會被擊退、擊飛、擊倒。",
+    "Id": 1091,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "霸體",
+    "Type": 1
+  },
+  "1092": {
+    "Description": "強制敵方怪物攻擊自己",
+    "Id": 1092,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "嘲諷",
+    "Type": 1
+  },
+  "1093": {
+    "Description": "具有反彈傷害的效果",
+    "Id": 1093,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "荊棘",
+    "Type": 1
+  },
+  "1094": {
+    "Description": "直接影響單位的作戰能力的效果，比如移速降低，屬性降低，受到控制等效果",
+    "Id": 1094,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "不利狀態",
+    "Type": 1
+  },
+  "1095": {
+    "Description": "受到傷害+<style=\"accent-gn\">10%</style>，持續<style=\"accent-gn\">5</style>秒。",
+    "Id": 1095,
+    "Par": 3401095,
+    "ShowRule": 1,
+    "Text": "易傷",
+    "Type": 3
+  },
+  "1096": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"physical\">物理傷害</style>，同時使下一個<style=\"accent-gn\">超高出力</style>額外獲得<style=\"accent-gn\">2</style>枚<style=\"accent-gn\">雷之印</style>。",
+    "Id": 1096,
+    "Par": 3401096,
+    "ShowRule": 1,
+    "Text": "看破斬",
+    "Type": 3
+  },
+  "1097": {
+    "Description": "<style=\"accent-gn\">特殊攻擊</style>施放速度大幅提升，持續<style=\"accent-gn\">10</style>秒，施放<style=\"accent-gn\">特殊攻擊</style>後移除該效果。",
+    "Id": 1097,
+    "Par": 3401097,
+    "ShowRule": 1,
+    "Text": "禪瞬之機",
+    "Type": 3
+  },
+  "1098": {
+    "Description": "<style=\"accent-gn\">霹靂連斬</style>的隱藏招式，快速上挑揮砍，對目標造成<style=\"accent-gn\">300%</style>攻擊力<style=\"physical\">物理傷害</style>，每當攻擊速度達到<style=\"accent-gn\">25%</style>|<style=\"accent-gn\">50%</style>|<style=\"accent-gn\">80%</style>時攻擊次數+<style=\"accent-gn\">1</style>|+<style=\"accent-gn\">2</style>|+<style=\"accent-gn\">3</style>，跟隨<style=\"accent-gn\">霹靂連斬</style>技能升級/進階進行成長。",
+    "Id": 1098,
+    "Par": 3401098,
+    "ShowRule": 1,
+    "Text": "霹靂升龍斬",
+    "Type": 3
+  },
+  "1099": {
+    "Description": "每段造成<style=\"accent-gn\">100%</style>攻擊力<style=\"physical\">物理傷害</style>。<br>初始<style=\"accent-gn\">1</style>段，每<style=\"accent-gn\">10%</style>精通額外附加<style=\"accent-gn\">1</style>段，最高<style=\"accent-gn\">4</style>段傷害。",
+    "Id": 1099,
+    "Par": 3401099,
+    "ShowRule": 1,
+    "Text": "刃風界域",
+    "Type": 3
+  },
+  "1100": {
+    "Description": "「幸運效果」：對敵方目標造成<style=\"accent-gn\">80%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1100,
+    "Par": 3401100,
+    "ShowRule": 1,
+    "Text": "雷擊",
+    "Type": 3
+  },
+  "1101": {
+    "Description": "持續旋轉<style=\"accent-gn\">35</style>秒，每<style=\"accent-gn\">2</style>秒對目標造成<style=\"accent-gn\">50%</style>攻擊力<style=\"physical\">物理傷害</style>，跟隨鐮車技能升級/進階進行成長。",
+    "Id": 1101,
+    "Par": 3401101,
+    "ShowRule": 1,
+    "Text": "月刃",
+    "Type": 3
+  },
+  "1102": {
+    "Description": "不會被擊退、擊飛、擊倒。",
+    "Id": 1102,
+    "Par": 3401102,
+    "ShowRule": 1,
+    "Text": "霸體",
+    "Type": 3
+  },
+  "1103": {
+    "Description": "對<style=\"accent-gn\">3</style>公尺內敵方目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1103,
+    "Par": 3401103,
+    "ShowRule": 1,
+    "Text": "雷爆",
+    "Type": 3
+  },
+  "1104": {
+    "Description": "施放消耗<style=\"accent-gn\">雷之印</style>的技能時，每多消耗一枚<style=\"accent-gn\">雷之印</style>可使該技能傷害增加<style=\"accent-gn\">25%</style>。",
+    "Id": 1104,
+    "Par": 3401104,
+    "ShowRule": 1,
+    "Text": "雷之印",
+    "Type": 3
+  },
+  "1105": {
+    "Description": "根據過去<style=\"accent-gn\">10</style>秒內消耗的<style=\"accent-gn\">雷之印</style>數量，造成巨額傷害。<br>每消耗<style=\"accent-gn\">1</style>枚<style=\"accent-gn\">雷之印</style>造成<style=\"accent-gn\">100%</style>攻擊力<style=\"physical\">物理傷害</style>，最高不超過<style=\"accent-gn\">15000%</style>。",
+    "Id": 1105,
+    "Par": 3401105,
+    "ShowRule": 1,
+    "Text": "終極一斬",
+    "Type": 3
+  },
+  "1106": {
+    "Description": "最多可以累積<style=\"accent-gn\">20</style>個<style=\"accent-gn\">電荷之種</style>，施放<style=\"accent-gn\">霹靂連斬</style>時消耗<style=\"accent-gn\">15</style>個<style=\"accent-gn\">電荷之種</style>觸發<style=\"accent-gn\">雷霆之鐮</style>對周圍目標造成<style=\"physical\">物理傷害</style>。",
+    "Id": 1106,
+    "Par": 3401106,
+    "ShowRule": 1,
+    "Text": "電荷之種",
+    "Type": 3
+  },
+  "1107": {
+    "Description": "為祝福目標附加<style=\"accent-gn\">100</style>點<style=\"accent-gn\">智力</style>、<style=\"accent-gn\">力量</style>、<style=\"accent-gn\">敏捷</style>、<style=\"accent-gn\">耐力</style>和<style=\"accent-gn\">1.5%</style><style=\"accent-gn\">暴擊</style>、<style=\"accent-gn\">急速</style>、<style=\"accent-gn\">幸運</style>、<style=\"accent-gn\">精通</style>、<style=\"accent-gn\">全能</style>。",
+    "Id": 1107,
+    "Par": 3401107,
+    "ShowRule": 1,
+    "Text": "鼓舞",
+    "Type": 3
+  },
+  "1108": {
+    "Description": "治療型<style=\"accent-gn\">專精技能</style>、<style=\"accent-gn\">終極技能</style>施加治療時，消耗<style=\"accent-gn\">2</style>個<style=\"accent-gn\">再生蓓蕾</style>同時拋出一個<style=\"accent-gn\">滋養之種</style>，每<style=\"accent-gn\">1</style>秒最多生效一次。<br>傷害型<style=\"accent-gn\">專精技能</style>、<style=\"accent-gn\">終極技能</style>造成傷害時，消耗<style=\"accent-gn\">2</style>個<style=\"accent-gn\">再生蓓蕾</style>同時發射一個<style=\"accent-gn\">狂野之種</style>，每<style=\"accent-gn\">1</style>秒最多生效一次。",
+    "Id": 1108,
+    "Par": 3401108,
+    "ShowRule": 1,
+    "Text": "再生蓓蕾",
+    "Type": 3
+  },
+  "1109": {
+    "Description": "治療鏈在友方之間彈射，每次彈射回復<style=\"accent-gn\">40%</style>攻擊力生命值，初始彈射次數為<style=\"accent-gn\">2</style>。",
+    "Id": 1109,
+    "Par": 3401109,
+    "ShowRule": 1,
+    "Text": "治療連結",
+    "Type": 3
+  },
+  "1110": {
+    "Description": "向外擴散<style=\"accent-gn\">20</style>公尺，對碰到的友方目標回復<style=\"accent-gn\">150%</style>攻擊力生命值。",
+    "Id": 1110,
+    "Par": 3401110,
+    "ShowRule": 1,
+    "Text": "治療脈衝",
+    "Type": 3
+  },
+  "1111": {
+    "Description": "為友方目標施加<style=\"accent-gn\">150%</style>攻擊力的<style=\"accent-gn\">護盾</style>，持續<style=\"accent-gn\">5</style>秒。",
+    "Id": 1111,
+    "Par": 3401111,
+    "ShowRule": 1,
+    "Text": "自然護盾",
+    "Type": 3
+  },
+  "1112": {
+    "Description": "",
+    "Id": 1112,
+    "Par": 3401112,
+    "ShowRule": 1,
+    "Text": "鹿之奔襲",
+    "Type": 3
+  },
+  "1113": {
+    "Description": "自動給<style=\"accent-gn\">3</style>公尺內隊友回復<style=\"accent-gn\">60%</style>攻擊力生命值。",
+    "Id": 1113,
+    "Par": 3401113,
+    "ShowRule": 1,
+    "Text": "治療球",
+    "Type": 3
+  },
+  "1114": {
+    "Description": "自身靠近（<style=\"accent-gn\">3</style>公尺）<style=\"accent-gn\">能量球</style>獲得<style=\"accent-gn\">1</style>個<style=\"accent-gn\">再生蓓蕾</style>，<style=\"accent-gn\">能量球</style>最多存在<style=\"accent-gn\">3</style>秒。",
+    "Id": 1114,
+    "Par": 3401114,
+    "ShowRule": 1,
+    "Text": "能量球",
+    "Type": 3
+  },
+  "1115": {
+    "Description": "觸碰到地上時為所有隊友回復<style=\"accent-gn\">40%</style>攻擊力生命值。",
+    "Id": 1115,
+    "Par": 3401115,
+    "ShowRule": 1,
+    "Text": "滋養之種",
+    "Type": 3
+  },
+  "1116": {
+    "Description": "觸碰到敵方目標爆炸，造成<style=\"accent-gn\">100%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1116,
+    "Par": 3401116,
+    "ShowRule": 1,
+    "Text": "狂野之種",
+    "Type": 3
+  },
+  "1117": {
+    "Description": "對敵方目標每秒造成<style=\"accent-gn\">20%</style>攻擊力<style=\"magic\">魔法傷害</style>，持續<style=\"accent-gn\">10</style>秒。",
+    "Id": 1117,
+    "Par": 3401117,
+    "ShowRule": 1,
+    "Text": "荊棘",
+    "Type": 3
+  },
+  "1118": {
+    "Description": "",
+    "Id": 1118,
+    "Par": 3401118,
+    "ShowRule": 1,
+    "Text": "花株",
+    "Type": 3
+  },
+  "1119": {
+    "Description": "下一次施放的<style=\"accent-gn\">專精技能</style>冷卻時間縮減<style=\"accent-gn\">50%</style>。",
+    "Id": 1119,
+    "Par": 3401119,
+    "ShowRule": 1,
+    "Text": "紅蓮洞察",
+    "Type": 3
+  },
+  "1120": {
+    "Description": "下一次施放<style=\"accent-gn\">專精技能</style>後，自身治療強度+<style=\"accent-gn\">20%</style>，持續<style=\"accent-gn\">10</style>秒。",
+    "Id": 1120,
+    "Par": 3401120,
+    "ShowRule": 1,
+    "Text": "金輝虔誠",
+    "Type": 3
+  },
+  "1121": {
+    "Description": "下一次<style=\"accent-gn\">生命綻放</style>為受治療目標施加持續<style=\"accent-gn\">8</style>秒的<style=\"accent-gn\">護盾</style>，吸收量為自身攻擊力的<style=\"accent-gn\">200%</style>，擁有<style=\"accent-gn\">護盾</style>的目標受到所有傷害降低<style=\"accent-gn\">10%</style>。",
+    "Id": 1121,
+    "Par": 3401121,
+    "ShowRule": 1,
+    "Text": "蒼月慰藉",
+    "Type": 3
+  },
+  "1122": {
+    "Description": "受到傷害時，自身生命值百分比高於攻擊者生命值百分比時，受到來自攻擊者的傷害-<style=\"accent-gn\">10%</style>。<br>造成傷害時，自身生命值百分比高於受擊者生命值百分比時，對受擊者的傷害+<style=\"accent-gn\">10%</style>。",
+    "Id": 1122,
+    "Par": 3401122,
+    "ShowRule": 1,
+    "Text": "壓制",
+    "Type": 3
+  },
+  "1123": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">50%</style>攻擊力<style=\"physical\">物理傷害</style>，同時獲得<style=\"accent-gn\">1</style>枚<style=\"accent-gn\">砂晶石</style>。",
+    "Id": 1123,
+    "Par": 3401123,
+    "ShowRule": 1,
+    "Text": "弱點打擊",
+    "Type": 3
+  },
+  "1124": {
+    "Description": "護盾強度+<style=\"accent-gn\">15%</style>，持續<style=\"accent-gn\">10</style>秒。",
+    "Id": 1124,
+    "Par": 3401124,
+    "ShowRule": 1,
+    "Text": "岩盾倍增",
+    "Type": 3
+  },
+  "1125": {
+    "Description": "對自身<style=\"accent-gn\">3</style>公尺內敵方目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"physical\">物理傷害</style>，無視<style=\"accent-gn\">格擋</style>，並產生大量威脅值。",
+    "Id": 1125,
+    "Par": 3401125,
+    "ShowRule": 1,
+    "Text": "格擋反擊",
+    "Type": 3
+  },
+  "1126": {
+    "Description": "<style=\"accent-gn\">格擋</style>時有幸運%機率觸發<style=\"accent-gn\">幸運格擋</style>。",
+    "Id": 1126,
+    "Par": 3401126,
+    "ShowRule": 1,
+    "Text": "幸運格擋",
+    "Type": 3
+  },
+  "1127": {
+    "Description": "接下來<style=\"accent-gn\">7</style>秒內<style=\"accent-gn\">護盾猛擊</style>變為二連擊且施放不再消耗<style=\"accent-gn\">怒氣</style>和<style=\"accent-gn\">砂晶石</style>，同時為自身添加<style=\"accent-gn\">護盾</style>，施放<style=\"accent-gn\">護盾猛擊</style>後該效果移除。",
+    "Id": 1127,
+    "Par": 3401127,
+    "ShowRule": 1,
+    "Text": "護盾連擊",
+    "Type": 3
+  },
+  "1128": {
+    "Description": "對自身<style=\"accent-gn\">5</style>公尺內敵方目標造成<style=\"accent-gn\">300%</style>攻擊力<style=\"physical\">物理傷害</style>，接下來<style=\"accent-gn\">5</style>秒內每<style=\"accent-gn\">1</style>秒回復<style=\"accent-gn\">20</style><style=\"accent-gn\">怒氣</style>，該效果不可疊加。",
+    "Id": 1128,
+    "Par": 3401128,
+    "ShowRule": 1,
+    "Text": "護盾迴聲",
+    "Type": 3
+  },
+  "1129": {
+    "Description": "受到傷害-<style=\"accent-gn\">50%</style>，受到治療+<style=\"accent-gn\">30%</style>，持續<style=\"accent-gn\">10</style>秒。",
+    "Id": 1129,
+    "Par": 3401129,
+    "ShowRule": 1,
+    "Text": "絕境逢生",
+    "Type": 3
+  },
+  "1130": {
+    "Description": "每秒回復<style=\"accent-gn\">3%</style>最大<style=\"accent-gn\">寒冰能量</style>上限（該回復受到精通和急速影響），持續<style=\"accent-gn\">10</style>秒。",
+    "Id": 1130,
+    "Par": 3401130,
+    "ShowRule": 1,
+    "Text": "湧能法則",
+    "Type": 3
+  },
+  "1131": {
+    "Description": "打擊最近的<style=\"accent-gn\">1</style>個敵方目標，造成<style=\"accent-gn\">70%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1131,
+    "Par": 3401131,
+    "ShowRule": 1,
+    "Text": "岩彈",
+    "Type": 3
+  },
+  "1132": {
+    "Description": "強制移動至目標的近距離處進行攻擊。",
+    "Id": 1132,
+    "Par": 3401132,
+    "ShowRule": 1,
+    "Text": "眩目",
+    "Type": 3
+  },
+  "1133": {
+    "Description": "<style=\"accent-gn\">鳴奏·英勇樂章</style>或<style=\"accent-gn\">鳴奏·癒合樂章</style>。",
+    "Id": 1133,
+    "Par": 3401133,
+    "ShowRule": 1,
+    "Text": "鳴奏技能",
+    "Type": 3
+  },
+  "1134": {
+    "Description": "強化後的<style=\"accent-gn\">怒爆</style>，在身邊召喚巨岩，隨後巨岩爆裂，造成<style=\"accent-gn\">750%</style>攻擊力<style=\"physical\">物理傷害</style>，跟隨<style=\"accent-gn\">怒爆</style>技能升級/進階進行成長。<br>施放時不消耗<style=\"accent-gn\">砂晶石</style>。",
+    "Id": 1134,
+    "Par": 3401134,
+    "ShowRule": 1,
+    "Text": "地崩山摧",
+    "Type": 3
+  },
+  "1135": {
+    "Description": "傷害+<style=\"accent-gn\">20%</style>，移動速度+<style=\"accent-gn\">10%</style>，獲得<style=\"accent-gn\">霸體</style>。",
+    "Id": 1135,
+    "Par": 3401135,
+    "ShowRule": 1,
+    "Text": "激怒",
+    "Type": 3
+  },
+  "1136": {
+    "Description": "對自身<style=\"accent-gn\">3</style>公尺內敵方目標造成<style=\"accent-gn\">300%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1136,
+    "Par": 3401136,
+    "ShowRule": 1,
+    "Text": "砂晶石震盪",
+    "Type": 3
+  },
+  "1137": {
+    "Description": "圈內自身<style=\"magic\">魔法傷害</style>減免+<style=\"accent-gn\">50%</style>，圈內隊友（最多<style=\"accent-gn\">10</style>名）受到傷害的<style=\"accent-gn\">50%</style>將被直接吸收。",
+    "Id": 1137,
+    "Par": 3401137,
+    "ShowRule": 1,
+    "Text": "沙石區域",
+    "Type": 3
+  },
+  "1138": {
+    "Description": "當<style=\"accent-gn\">光能</style>充滿時，施放<style=\"accent-gn\">特殊攻擊</style>可進入<style=\"accent-gn\">光能重鑄</style>狀態。狀態內，<style=\"accent-gn\">特殊攻擊</style>和個別<style=\"accent-gn\">專精技能</style>獲得強化。期間<style=\"accent-gn\">光能</style>持續減少，減少到<style=\"accent-gn\">0</style>後退出狀態。",
+    "Id": 1138,
+    "Par": 3401138,
+    "ShowRule": 1,
+    "Text": "光能重鑄",
+    "Type": 3
+  },
+  "1139": {
+    "Description": "對周圍<style=\"accent-gn\">5</style>公尺內目標造成<style=\"accent-gn\">80%</style>攻擊力<style=\"physical\">物理傷害</style>，每多命中一個目標傷害+<style=\"accent-gn\">30%</style>（最高+<style=\"accent-gn\">120%</style>），跟隨<style=\"accent-gn\">普通攻擊</style>技能升級/升階進行成長。",
+    "Id": 1139,
+    "Par": 3401139,
+    "ShowRule": 1,
+    "Text": "掃尾",
+    "Type": 3
+  },
+  "1140": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"physical\">物理傷害</style>，並使目標<style=\"accent-gn\">生命流失</style>。",
+    "Id": 1140,
+    "Par": 3401140,
+    "ShowRule": 1,
+    "Text": "撲咬",
+    "Type": 3
+  },
+  "1141": {
+    "Description": "持續<style=\"accent-gn\">5</style>秒，每秒造成<style=\"accent-gn\">10%</style>攻擊力<style=\"physical\">物理傷害</style>，當同來源的<style=\"accent-gn\">生命流失</style>重複添加時可立即結算上一個未結束的<style=\"accent-gn\">生命流失</style>效果。",
+    "Id": 1141,
+    "Par": 3401141,
+    "ShowRule": 1,
+    "Text": "生命流失",
+    "Type": 3
+  },
+  "1142": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">50%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1142,
+    "Par": 3401142,
+    "ShowRule": 1,
+    "Text": "光追箭矢",
+    "Type": 3
+  },
+  "1143": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">410%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1143,
+    "Par": 3401143,
+    "ShowRule": 1,
+    "Text": "閃電衝擊",
+    "Type": 3
+  },
+  "1144": {
+    "Description": "對敵方及其周圍<style=\"accent-gn\">3</style>公尺內目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1144,
+    "Par": 3401144,
+    "ShowRule": 1,
+    "Text": "爆炸箭矢",
+    "Type": 3
+  },
+  "1145": {
+    "Description": "對範圍內敵方目標造成<style=\"accent-gn\">250%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1145,
+    "Par": 3401145,
+    "ShowRule": 1,
+    "Text": "踐踏",
+    "Type": 3
+  },
+  "1146": {
+    "Description": "原地振翅，接下來<style=\"accent-gn\">10</style>秒內光能獲取效率+<style=\"accent-gn\">100%</style>。",
+    "Id": 1146,
+    "Par": 3401146,
+    "ShowRule": 1,
+    "Text": "傳奇雄鷹",
+    "Type": 3
+  },
+  "1147": {
+    "Description": "發出兇猛的嚎叫，接下來<style=\"accent-gn\">10</style>秒內光元素加成+<style=\"accent-gn\">50%</style>。",
+    "Id": 1147,
+    "Par": 3401147,
+    "ShowRule": 1,
+    "Text": "傳奇野豬",
+    "Type": 3
+  },
+  "1148": {
+    "Description": "當<style=\"accent-gn\">鋼製喙</style>層數大於等於<style=\"accent-gn\">5</style>時，每次疊加<style=\"accent-gn\">鋼製喙</style>有<style=\"accent-gn\">30%</style>固定機率觸發一次<style=\"accent-gn\">內爆</style>對範圍內敵方目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"physical\">物理傷害</style>。<style=\"accent-gn\">鋼製喙</style>每<style=\"accent-gn\">1</style>秒層數-<style=\"accent-gn\">1</style>，最多疊加<style=\"accent-gn\">20</style>層。",
+    "Id": 1148,
+    "Par": 3401148,
+    "ShowRule": 1,
+    "Text": "鋼製喙",
+    "Type": 3
+  },
+  "1149": {
+    "Description": "扇起半徑<style=\"accent-gn\">5</style>公尺的風暴，每<style=\"accent-gn\">0</style>.<style=\"accent-gn\">5</style>秒對風暴中有<style=\"accent-gn\">鋼製喙</style>標記的目標造成<style=\"accent-gn\">80%</style>攻擊力無視防禦<style=\"physical\">物理傷害</style>。<style=\"accent-gn\">5</style>秒後，<style=\"accent-gn\">天界雄鷹</style>俯衝到地面，造成<style=\"accent-gn\">500%</style>攻擊力無視防禦<style=\"physical\">物理傷害</style>。",
+    "Id": 1149,
+    "Par": 3401149,
+    "ShowRule": 1,
+    "Text": "天界雄鷹",
+    "Type": 3
+  },
+  "1150": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">400%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1150,
+    "Par": 3401150,
+    "ShowRule": 1,
+    "Text": "幻影獵鷹",
+    "Type": 3
+  },
+  "1151": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">35%</style>攻擊力<style=\"physical\">物理傷害</style>，跟隨<style=\"accent-gn\">普通攻擊</style>技能升級/升階進行成長。",
+    "Id": 1151,
+    "Par": 3401151,
+    "ShowRule": 1,
+    "Text": "分裂箭矢",
+    "Type": 3
+  },
+  "1152": {
+    "Description": "攻擊+<style=\"accent-gn\">5%</style>，持續<style=\"accent-gn\">10</style>秒。",
+    "Id": 1152,
+    "Par": 3401152,
+    "ShowRule": 1,
+    "Text": "銳利",
+    "Type": 3
+  },
+  "1153": {
+    "Description": "目標每秒損失<style=\"accent-gn\">25%</style>攻擊力生命值，持續<style=\"accent-gn\">8</style>秒。",
+    "Id": 1153,
+    "Par": 3401153,
+    "ShowRule": 1,
+    "Text": "撕裂",
+    "Type": 3
+  },
+  "1154": {
+    "Description": "使得<style=\"accent-gn\">撕裂</style>傷害+<style=\"accent-gn\">100%</style>，持續<style=\"accent-gn\">5</style>秒。",
+    "Id": 1154,
+    "Par": 3401154,
+    "ShowRule": 1,
+    "Text": "千瘡百孔",
+    "Type": 3
+  },
+  "1155": {
+    "Description": "<style=\"accent-gn\">力量</style>+<style=\"accent-gn\">30%</style>，持續<style=\"accent-gn\">12</style>秒。",
+    "Id": 1155,
+    "Par": 3401155,
+    "ShowRule": 1,
+    "Text": "氣勁加持",
+    "Type": 3
+  },
+  "1156": {
+    "Description": "「幸運效果」：造成<style=\"accent-gn\">150%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1156,
+    "Par": 3401156,
+    "ShowRule": 1,
+    "Text": "長矛貫穿",
+    "Type": 3
+  },
+  "1157": {
+    "Description": "<style=\"accent-gn\">刹那</style>傷害+<style=\"accent-gn\">30%</style>，持續<style=\"accent-gn\">10</style>秒，最多疊加<style=\"accent-gn\">2</style>層。<style=\"accent-gn\">刹那</style>造成傷害後扣除一層。",
+    "Id": 1157,
+    "Par": 3401157,
+    "ShowRule": 1,
+    "Text": "追擊身法",
+    "Type": 3
+  },
+  "1158": {
+    "Description": "對範圍內敵方目標造成<style=\"accent-gn\">350%</style>攻擊力的<style=\"physical\">物理傷害</style>。",
+    "Id": 1158,
+    "Par": 3401158,
+    "ShowRule": 1,
+    "Text": "龍捲風",
+    "Type": 3
+  },
+  "1159": {
+    "Description": "強化後的<style=\"accent-gn\">銳利衝擊</style>，一躍而起對目標及其周圍造成共計<style=\"accent-gn\">800%</style><style=\"physical\">物理傷害</style>，跟隨<style=\"accent-gn\">銳利衝擊</style>技能升級/進階進行成長。",
+    "Id": 1159,
+    "Par": 3401159,
+    "ShowRule": 1,
+    "Text": "風神·銳利衝擊",
+    "Type": 3
+  },
+  "1160": {
+    "Description": "冰隕石造成傷害時使得<style=\"accent-gn\">冰晶核心</style>觸發<style=\"accent-gn\">冰箭</style>，獲得一枚<style=\"accent-gn\">玄冰</style>。",
+    "Id": 1160,
+    "Par": 3401160,
+    "ShowRule": 1,
+    "Text": "天賦-碎冰之擊",
+    "Type": 3
+  },
+  "1161": {
+    "Description": "可為技能帶來額外效果。",
+    "Id": 1161,
+    "Par": 3401161,
+    "ShowRule": 1,
+    "Text": "玄冰",
+    "Type": 3
+  },
+  "1162": {
+    "Description": "對目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1162,
+    "Par": 3401162,
+    "ShowRule": 1,
+    "Text": "冰晶墜落",
+    "Type": 3
+  },
+  "1163": {
+    "Description": "對周圍<style=\"accent-gn\">3</style>公尺內敵方目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1163,
+    "Par": 3401163,
+    "ShowRule": 1,
+    "Text": "冰霜衝擊",
+    "Type": 3
+  },
+  "1164": {
+    "Description": "一支可以穿透目標的<style=\"accent-gn\">長矛</style>，對敵方目標造成<style=\"accent-gn\">250%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1164,
+    "Par": 3401164,
+    "ShowRule": 1,
+    "Text": "貫穿冰矛",
+    "Type": 3
+  },
+  "1165": {
+    "Description": "「幸運效果」：從天上召喚一個<style=\"accent-gn\">冰霜彗星</style>，對敵方目標造成<style=\"accent-gn\">200%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1165,
+    "Par": 3401165,
+    "ShowRule": 1,
+    "Text": "冰霜彗星",
+    "Type": 3
+  },
+  "1166": {
+    "Description": "從冰霜射線中迸發一次強有力的脈衝，對碰撞到的敵方目標造成<style=\"accent-gn\">500%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1166,
+    "Par": 3401166,
+    "ShowRule": 1,
+    "Text": "冰冷脈衝",
+    "Type": 3
+  },
+  "1167": {
+    "Description": "每秒獲得<style=\"accent-gn\">2</style>點<style=\"accent-gn\">刀意</style>，初始<style=\"accent-gn\">刀意</style>上限<style=\"accent-gn\">100</style>點。<br>當<style=\"accent-gn\">刀意</style>達到<style=\"accent-gn\">100</style>點時，<style=\"accent-gn\">居合斬</style>施放速度大幅提升，施放<style=\"accent-gn\">居合斬</style>後<style=\"accent-gn\">刀意</style>值扣除<style=\"accent-gn\">100</style>點。<br><style=\"accent-gn\">刀意</style>也可作為<style=\"accent-gn\">霹靂連斬</style>的施放資源進行消耗。",
+    "Id": 1167,
+    "Par": 3401167,
+    "ShowRule": 1,
+    "Text": "刀意",
+    "Type": 3
+  },
+  "1168": {
+    "Description": "<style=\"accent-gn\">護盾</style>強度+<style=\"accent-gn\">3%</style>，持續<style=\"accent-gn\">10</style>秒，最多疊加<style=\"accent-gn\">10</style>層。",
+    "Id": 1168,
+    "Par": 3401168,
+    "ShowRule": 1,
+    "Text": "砂之庇護",
+    "Type": 3
+  },
+  "1169": {
+    "Description": "跳起後對區域內敵方目標造成<style=\"accent-gn\">400%</style>攻擊力<style=\"physical\">物理傷害</style>，且必定觸發<style=\"accent-gn\">弱點打擊</style>，跟隨<style=\"accent-gn\">普通攻擊</style>技能升級/進階進行成長。",
+    "Id": 1169,
+    "Par": 3401169,
+    "ShowRule": 1,
+    "Text": "怒擊",
+    "Type": 3
+  },
+  "1170": {
+    "Description": "當受到<style=\"physical\">物理傷害</style>時，有一定機率<style=\"accent-gn\">格擋</style>該次傷害使得受到的傷害降低<style=\"accent-gn\">30%</style>。",
+    "Id": 1170,
+    "Par": 3401170,
+    "ShowRule": 1,
+    "Text": "格擋",
+    "Type": 3
+  },
+  "1171": {
+    "Description": "使目標無法移動，同時受到冰元素傷害+<style=\"accent-gn\">20%</style>，持續<style=\"accent-gn\">10</style>秒，受到攻擊後解除。 短時間內多次添加持續時間會縮短。無法對首領生效。",
+    "Id": 1171,
+    "Par": 3401171,
+    "ShowRule": 1,
+    "Text": "冰凍",
+    "Type": 3
+  },
+  "1172": {
+    "Description": "將光芒灌注至盾牌中，持續時間內吸收自身所受傷害的<style=\"accent-gn\">50%</style>，重複獲得可疊加吸收量並重置持續時間，最多不超過最大生命上限的<style=\"accent-gn\">100%</style>。",
+    "Id": 1172,
+    "Par": 3401172,
+    "ShowRule": 1,
+    "Text": "光明聖盾",
+    "Type": 3
+  },
+  "1173": {
+    "Description": "<style=\"accent-gn\">5</style>秒時間內，每<style=\"accent-gn\">0.5</style>秒為友方目標回復<style=\"accent-gn\">20%</style>攻擊力點生命。",
+    "Id": 1173,
+    "Par": 3401173,
+    "ShowRule": 1,
+    "Text": "音符熱浪",
+    "Type": 3
+  },
+  "1174": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">150%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1174,
+    "Par": 3401174,
+    "ShowRule": 1,
+    "Text": "光明衝擊",
+    "Type": 3
+  },
+  "1175": {
+    "Description": "每層使自身最終生命上限+<style=\"accent-gn\">2%</style>。最多可以擁有<style=\"accent-gn\">10</style>層<style=\"accent-gn\">光鑄屏障</style>，受到任何傷害都會消耗<style=\"accent-gn\">1</style>層。持續<style=\"accent-gn\">25</style>秒或所有層數被消耗完為止，每次獲得層數時重置持續時間。",
+    "Id": 1175,
+    "Par": 3401175,
+    "ShowRule": 1,
+    "Text": "光鑄屏障",
+    "Type": 3
+  },
+  "1176": {
+    "Description": "對目標造成<style=\"accent-gn\">240%</style>攻擊力<style=\"physical\">物理傷害</style>，跟隨<style=\"accent-gn\">先鋒打擊</style>技能升級/進階進行成長。<br><style=\"accent-gn\">先鋒追擊</style>造成傷害時回復自身<style=\"accent-gn\">2%</style>最大生命值，並獲得<style=\"accent-gn\">悍勇無畏</style>。",
+    "Id": 1176,
+    "Par": 3401176,
+    "ShowRule": 1,
+    "Text": "先鋒追擊",
+    "Type": 3
+  },
+  "1177": {
+    "Description": "造成<style=\"accent-gn\">50%</style>攻擊力<style=\"physical\">物理傷害</style>，使受影響目標移動速度降低<style=\"accent-gn\">25%</style>。",
+    "Id": 1177,
+    "Par": 3401177,
+    "ShowRule": 1,
+    "Text": "神聖之擊",
+    "Type": 3
+  },
+  "1178": {
+    "Description": "<style=\"accent-gn\">旋律 </style>描述",
+    "Id": 1178,
+    "Par": 3401178,
+    "ShowRule": 1,
+    "Text": "旋律",
+    "Type": 3
+  },
+  "1179": {
+    "Description": "<style=\"accent-gn\">力量</style>+<style=\"accent-gn\">12%</style>，持續<style=\"accent-gn\">8</style>秒。",
+    "Id": 1179,
+    "Par": 3401179,
+    "ShowRule": 1,
+    "Text": "風雷破擊",
+    "Type": 3
+  },
+  "1180": {
+    "Description": "朝附近敵方/友方目標發射一記琴弦造成傷害或治療，數值等於當前物理/魔法攻擊力最高值的<style=\"accent-gn\">50%</style>。",
+    "Id": 1180,
+    "Par": 3401180,
+    "ShowRule": 1,
+    "Text": "安可",
+    "Type": 3
+  },
+  "1181": {
+    "Description": "<style=\"accent-gn\">智力</style>+<style=\"accent-gn\">5%</style>，持續<style=\"accent-gn\">6</style>秒。",
+    "Id": 1181,
+    "Par": 3401181,
+    "ShowRule": 1,
+    "Text": "火焰熱情",
+    "Type": 3
+  },
+  "1182": {
+    "Description": "每秒造成<style=\"accent-gn\">50%</style> * 層數點攻擊力<style=\"physical\">物理傷害</style>，持續<style=\"accent-gn\">10</style>秒。",
+    "Id": 1182,
+    "Par": 3401182,
+    "ShowRule": 1,
+    "Text": "燃燒",
+    "Type": 3
+  },
+  "1183": {
+    "Description": "<style=\"accent-gn\">音符</style>描述",
+    "Id": 1183,
+    "Par": 3401183,
+    "ShowRule": 1,
+    "Text": "音符",
+    "Type": 3
+  },
+  "1184": {
+    "Description": "<style=\"accent-gn\">音浪湧潮</style>",
+    "Id": 1184,
+    "Par": 3401184,
+    "ShowRule": 1,
+    "Text": "音浪湧潮",
+    "Type": 3
+  },
+  "1185": {
+    "Description": "對周圍友方目標施加治療，數值等於靈魂樂手魔法攻擊力的<style=\"accent-gn\">10%</style>",
+    "Id": 1185,
+    "Par": 3401185,
+    "ShowRule": 1,
+    "Text": "治療音浪",
+    "Type": 3
+  },
+  "1186": {
+    "Description": "<style=\"accent-gn\">音障</style>",
+    "Id": 1186,
+    "Par": 3401186,
+    "ShowRule": 1,
+    "Text": "音障",
+    "Type": 3
+  },
+  "1187": {
+    "Description": "造成傷害+<style=\"accent-gn\">15%</style>，攻擊速度+<style=\"accent-gn\">10%</style>，持續<style=\"accent-gn\">15</style>秒。",
+    "Id": 1187,
+    "Par": 3401187,
+    "ShowRule": 1,
+    "Text": "風怒",
+    "Type": 3
+  },
+  "1188": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">80%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1188,
+    "Par": 3401188,
+    "ShowRule": 1,
+    "Text": "光能箭矢",
+    "Type": 3
+  },
+  "1189": {
+    "Description": "對自身周圍敵方目標造成<style=\"accent-gn\">300%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1189,
+    "Par": 3401189,
+    "ShowRule": 1,
+    "Text": "綠意衝擊",
+    "Type": 3
+  },
+  "1190": {
+    "Description": "對範圍內敵方目標造成<style=\"accent-gn\">60%</style>攻擊力<style=\"magic\">魔法傷害</style>，跟隨<style=\"accent-gn\">普通攻擊</style>技能升級/進階進行成長。",
+    "Id": 1190,
+    "Par": 3401190,
+    "ShowRule": 1,
+    "Text": "火柱衝擊",
+    "Type": 3
+  },
+  "1191": {
+    "Description": "向自身周圍<style=\"accent-gn\">5</style>公尺迸發一次火焰衝擊，對碰撞到的敵方目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1191,
+    "Par": 3401191,
+    "ShowRule": 1,
+    "Text": "烈火衝擊",
+    "Type": 3
+  },
+  "1192": {
+    "Description": "<style=\"accent-gn\">10</style>秒內為目標回復總計<style=\"accent-gn\">35%</style>攻擊力點生命值，最多疊加<style=\"accent-gn\">10</style>層。處於<style=\"accent-gn\">10</style>層時添加，立刻結算目標身上剩餘的<style=\"accent-gn\">音符</style>治療量。",
+    "Id": 1192,
+    "Par": 3401192,
+    "ShowRule": 1,
+    "Text": "音符",
+    "Type": 3
+  },
+  "1193": {
+    "Description": "每次施放傷害或者治療<style=\"accent-gn\">專精技能</style>時有<style=\"accent-gn\">50%</style>固定機率觸發一記<style=\"accent-gn\">安可琴弦</style>，對當前目標造成傷害或對生命最低的友方目標（優先隊友）回復生命。",
+    "Id": 1193,
+    "Par": 3401193,
+    "ShowRule": 1,
+    "Text": "安可琴弦",
+    "Type": 3
+  },
+  "1194": {
+    "Description": "移動引導6秒，持續朝前方施放熱情揮灑。",
+    "Id": 1194,
+    "Par": 3401194,
+    "ShowRule": 1,
+    "Text": "激昂·熱情揮灑",
+    "Type": 3
+  },
+  "1195": {
+    "Description": "立即獲得<style=\"accent-gn\">100</style><style=\"accent-gn\">能量</style>，同時所有治療型<style=\"accent-gn\">專精技能</style>立刻冷卻結束，接下來<style=\"accent-gn\">10</style>秒內魔法攻擊力+<style=\"accent-gn\">30%</style>。",
+    "Id": 1195,
+    "Par": 3401195,
+    "ShowRule": 1,
+    "Text": "超然",
+    "Type": 3
+  },
+  "1196": {
+    "Description": "舉起盾牌朝前方衝刺，對碰撞的敵方目標造成<style=\"accent-gn\">200%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1196,
+    "Par": 3401196,
+    "ShowRule": 1,
+    "Text": "持盾衝擊",
+    "Type": 3
+  },
+  "1197": {
+    "Description": "對範圍內敵方目標造成<style=\"accent-gn\">100%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Id": 1197,
+    "Par": 3401197,
+    "ShowRule": 1,
+    "Text": "火焰震擊",
+    "Type": 3
+  },
+  "1198": {
+    "Description": "<style=\"accent-gn\">10</style>秒後向自身四周爆發出神聖<style=\"accent-gn\">能量</style>，基礎造成<style=\"accent-gn\">500%</style>攻擊力<style=\"physical\">物理傷害</style>並為自身回復<style=\"accent-gn\">15%</style>最大生命值。",
+    "Id": 1198,
+    "Par": 3401198,
+    "ShowRule": 1,
+    "Text": "光芒核心",
+    "Type": 3
+  },
+  "1199": {
+    "Description": "目標在接下來<style=\"accent-gn\">10</style>秒內每秒受到<style=\"accent-gn\">20%</style>攻擊力傷害，同時該目標對你造成傷害時有<style=\"accent-gn\">10%</style>固定機率為你回復生命，回復值等於你生命上限的<style=\"accent-gn\">0.5%</style>。",
+    "Id": 1199,
+    "Par": 3401199,
+    "ShowRule": 1,
+    "Text": "神聖印記",
+    "Type": 3
+  },
+  "1200": {
+    "Description": "「幸運效果」：對<style=\"accent-gn\">3</style>公尺範圍內敵方目標造成<style=\"accent-gn\">1375%</style>攻擊力自我調整傷害，但是無法暴擊。",
+    "Id": 1200,
+    "Par": 3401200,
+    "ShowRule": 1,
+    "Text": "幻想衝擊",
+    "Type": 3
+  },
+  "1201": {
+    "Description": "對<style=\"accent-gn\">3</style>公尺範圍內敵方目標造成<style=\"accent-gn\">850%</style>攻擊力自我調整傷害，且暴擊傷害始終以<style=\"accent-gn\">500%</style>進行結算。",
+    "Id": 1201,
+    "Par": 3401201,
+    "ShowRule": 1,
+    "Text": "幻夢處決",
+    "Type": 3
+  },
+  "1202": {
+    "Description": "對<style=\"accent-gn\">3</style>公尺範圍內敵方目標造成<style=\"accent-gn\">165%</style>攻擊力自我調整傷害。",
+    "Id": 1202,
+    "Par": 3401202,
+    "ShowRule": 1,
+    "Text": "夢幻之箭",
+    "Type": 3
+  },
+  "1203": {
+    "Description": "每層攻擊力+<style=\"accent-gn\">18</style>（隨賽季等級提高最多+<style=\"accent-gn\">50</style>）。",
+    "Id": 1203,
+    "Par": 3401203,
+    "ShowRule": 1,
+    "Text": "迷幻夢境",
+    "Type": 3
+  },
+  "1204": {
+    "Description": "主屬性+<style=\"accent-gn\">450</style>（隨賽季等級提高最多+<style=\"accent-gn\">1050</style>），持續期間無法獲得遺夢。",
+    "Id": 1204,
+    "Par": 3401204,
+    "ShowRule": 1,
+    "Text": "夢幻之力",
+    "Type": 3
+  },
+  "1205": {
+    "Description": "攻擊力-<style=\"accent-gn\">20%</style>，受到夢境傷害+<style=\"accent-gn\">10%</style>，移動速度-<style=\"accent-gn\">20%</style>（不可疊加）。",
+    "Id": 1205,
+    "Par": 3401205,
+    "ShowRule": 1,
+    "Text": "寂滅",
+    "Type": 3
+  },
+  "1206": {
+    "Description": "對自身<style=\"accent-gn\">5</style>公尺內敵方目標造成<style=\"accent-gn\">200%</style>攻擊力自我調整傷害並<linktext=3005><style=\"ItemQuality_5\">眩暈</style></linktext>目標<style=\"accent-gn\">1</style>.<style=\"accent-gn\">5</style>秒。",
+    "Id": 1206,
+    "Par": 3401206,
+    "ShowRule": 1,
+    "Text": "寂滅打擊",
+    "Type": 3
+  },
+  "1207": {
+    "Description": "免疫死亡。",
+    "Id": 1207,
+    "Par": 3401207,
+    "ShowRule": 1,
+    "Text": "瀕死",
+    "Type": 3
+  },
+  "1208": {
+    "Description": "對自身<style=\"accent-gn\">5</style>公尺內敵方目標造成<style=\"accent-gn\">330%</style>物理防禦力自我調整傷害。",
+    "Id": 1208,
+    "Par": 3401208,
+    "ShowRule": 1,
+    "Text": "虛妄裁定",
+    "Type": 3
+  },
+  "1209": {
+    "Description": "生命上限+<style=\"accent-gn\">3%</style>，精通+<style=\"accent-gn\">2%</style>，最多疊加<style=\"accent-gn\">3</style>層。",
+    "Id": 1209,
+    "Par": 3401209,
+    "ShowRule": 1,
+    "Text": "無盡思維",
+    "Type": 3
+  },
+  "1210": {
+    "Description": "每<style=\"accent-gn\">2</style>點力量、智力、敏捷，轉化為<style=\"accent-gn\">1</style>點攻擊力<br>每<style=\"accent-gn\">1</style>點耐力轉化為<style=\"accent-gn\">8</style>點生命上限<br>每<style=\"accent-gn\">1%</style>急速轉化為<style=\"accent-gn\">0.6%</style>攻擊速度和<style=\"accent-gn\">1%</style>施法速度<br>每<style=\"accent-gn\">1%</style>全能提高<style=\"accent-gn\">0.35%</style>造成傷害、治療和施加護盾時的百分比加成，以及<style=\"accent-gn\">0.15%</style>受到傷害時的傷害減免<br>每<style=\"accent-gn\">1%</style>精通轉化為<style=\"accent-gn\">0.5%</style>通用傷害提升",
+    "Id": 1210,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "工匠之力",
+    "Type": 1
+  },
+  "1211": {
+    "Description": "<style=\"accent-gn\">專精技能</style>攻擊速度+<style=\"accent-gn\">5%</style>，持續<style=\"accent-gn\">10</style>秒，最多疊加<style=\"accent-gn\">5</style>層。",
+    "Id": 1211,
+    "Par": 3401211,
+    "ShowRule": 1,
+    "Text": "業火連擊",
+    "Type": 3
+  },
+  "1212": {
+    "Description": "火元素加成+<style=\"accent-gn\">10%</style>，持續<style=\"accent-gn\">8</style>秒。",
+    "Id": 1212,
+    "Par": 3401212,
+    "ShowRule": 1,
+    "Text": "熾炎",
+    "Type": 3
+  },
+  "1213": {
+    "Description": "每<style=\"accent-gn\">2</style>秒造成<style=\"accent-gn\">35%*層數</style>點攻擊力<style=\"physical\">物理傷害</style>，持續<style=\"accent-gn\">10</style>秒，最多疊加<style=\"accent-gn\">10</style>層；當<style=\"accent-gn\">燃燒</style>達到最大層數時新添加的<style=\"accent-gn\">燃燒</style>將立即造成一次<style=\"accent-gn\">35%</style>點攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1213,
+    "Par": 3401213,
+    "ShowRule": 1,
+    "Text": "燃燒",
+    "Type": 3
+  },
+  "1214": {
+    "Description": "對範圍內敵方目標造成<style=\"accent-gn\">800%</style>攻擊力<style=\"physical\">物理傷害</style>，同時獲得<style=\"accent-gn\">10</style>點<style=\"accent-gn\">炎魂</style>。",
+    "Id": 1214,
+    "Par": 3401214,
+    "ShowRule": 1,
+    "Text": "炎爆",
+    "Type": 3
+  },
+  "1215": {
+    "Description": "對敵方目標造成<style=\"accent-gn\">500%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1215,
+    "Par": 3401215,
+    "ShowRule": 1,
+    "Text": "地火流星",
+    "Type": 3
+  },
+  "1216": {
+    "Description": "每次傷害附帶當前技能倍率的額外段數，其機率如下：<br>無相火斬<style=\"accent-gn\">1</style>段機率：<style=\"accent-gn\">20%</style>。<br>無相火斬<style=\"accent-gn\">2</style>段機率：<style=\"accent-gn\">10%</style>。<br>無相火斬<style=\"accent-gn\">3</style>段機率：<style=\"accent-gn\">5%</style>。",
+    "Id": 1216,
+    "Par": 3401216,
+    "ShowRule": 1,
+    "Text": "無相火斬",
+    "Type": 3
+  },
+  "1217": {
+    "Description": "對範圍內敵方目標造成<style=\"accent-gn\">800%</style>攻擊力<style=\"physical\">物理傷害</style>。",
+    "Id": 1217,
+    "Par": 3401217,
+    "ShowRule": 1,
+    "Text": "大紅蓮丸",
+    "Type": 3
+  },
+  "1218": {
+    "Description": "受到傷害時，自身生命值百分比高於攻擊者生命值百分比時，受到來自攻擊者的傷害-<style=\"accent-gn\">10%</style>。<br>造成傷害時，自身生命值百分比高於受擊者生命值百分比時，對受擊者的傷害+<style=\"accent-gn\">5%</style>。",
+    "Id": 1218,
+    "Par": 3401218,
+    "ShowRule": 1,
+    "Text": "火焰壓制",
+    "Type": 3
+  },
+  "1219": {
+    "Description": "每<style=\"accent-gn\">2</style>點力量、智力、敏捷，轉化為<style=\"accent-gn\">1</style>點攻擊力。<br>每<style=\"accent-gn\">1</style>點耐力轉化為<style=\"accent-gn\">8</style>點生命上限。<br>你的<style=\"accent-gn\">暴擊%</style>、<style=\"accent-gn\">幸運%</style>、<style=\"accent-gn\">精通%</style>、<style=\"accent-gn\">急速%</style>和<style=\"accent-gn\">全能%</style>將失去原有效果，獲得新的能力：當前共鳴技能的技能傷害必定暴擊，但是暴擊傷害固定以<style=\"accent-gn\">暴擊%+幸運%+精通%+急速%+全能%</style>的總和結算。",
+    "Id": 1219,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "能力轉化",
+    "Type": 1
+  },
+  "1500": {
+    "Description": "",
+    "Id": 1500,
+    "Par": 1714,
+    "ShowRule": 1,
+    "Text": "居合斬",
+    "Type": 2
+  },
+  "1501": {
+    "Description": "",
+    "Id": 1501,
+    "Par": 1717,
+    "ShowRule": 1,
+    "Text": "一閃",
+    "Type": 2
+  },
+  "1502": {
+    "Description": "",
+    "Id": 1502,
+    "Par": 1713,
+    "ShowRule": 1,
+    "Text": "極詣·大破滅連斬",
+    "Type": 2
+  },
+  "1503": {
+    "Description": "",
+    "Id": 1503,
+    "Par": 1724,
+    "ShowRule": 1,
+    "Text": "霹靂連斬",
+    "Type": 2
+  },
+  "1504": {
+    "Description": "",
+    "Id": 1504,
+    "Par": 1730,
+    "ShowRule": 1,
+    "Text": "無窮雷霆之力",
+    "Type": 2
+  },
+  "1505": {
+    "Description": "",
+    "Id": 1505,
+    "Par": 1731,
+    "ShowRule": 1,
+    "Text": "千雷閃影之意",
+    "Type": 2
+  },
+  "1506": {
+    "Description": "",
+    "Id": 1506,
+    "Par": 1738,
+    "ShowRule": 1,
+    "Text": "繚亂兜割",
+    "Type": 2
+  },
+  "1507": {
+    "Description": "",
+    "Id": 1507,
+    "Par": 1715,
+    "ShowRule": 1,
+    "Text": "月影",
+    "Type": 2
+  },
+  "1508": {
+    "Description": "",
+    "Id": 1508,
+    "Par": 1246,
+    "ShowRule": 1,
+    "Text": "浪潮匯聚",
+    "Type": 2
+  },
+  "1509": {
+    "Description": "",
+    "Id": 1509,
+    "Par": 1241,
+    "ShowRule": 1,
+    "Text": "寒冰射線",
+    "Type": 2
+  },
+  "1510": {
+    "Description": "",
+    "Id": 1510,
+    "Par": 1211,
+    "ShowRule": 1,
+    "Text": "清瀧繞珠",
+    "Type": 2
+  },
+  "1511": {
+    "Description": "",
+    "Id": 1511,
+    "Par": 1239,
+    "ShowRule": 1,
+    "Text": "隕星風暴",
+    "Type": 2
+  },
+  "1512": {
+    "Description": "",
+    "Id": 1512,
+    "Par": 1242,
+    "ShowRule": 1,
+    "Text": "冰霜之矛",
+    "Type": 2
+  },
+  "1513": {
+    "Description": "",
+    "Id": 1513,
+    "Par": 1244,
+    "ShowRule": 1,
+    "Text": "寒冰風暴",
+    "Type": 2
+  },
+  "1514": {
+    "Description": "",
+    "Id": 1514,
+    "Par": 1240,
+    "ShowRule": 1,
+    "Text": "凍結寒風",
+    "Type": 2
+  },
+  "1515": {
+    "Description": "",
+    "Id": 1515,
+    "Par": 1243,
+    "ShowRule": 1,
+    "Text": "冰之灌注",
+    "Type": 2
+  },
+  "1516": {
+    "Description": "",
+    "Id": 1516,
+    "Par": 1248,
+    "ShowRule": 1,
+    "Text": "極寒·冰雪頌歌",
+    "Type": 2
+  },
+  "1517": {
+    "Description": "",
+    "Id": 1517,
+    "Par": 1418,
+    "ShowRule": 1,
+    "Text": "疾風刺",
+    "Type": 2
+  },
+  "1518": {
+    "Description": "",
+    "Id": 1518,
+    "Par": 1430,
+    "ShowRule": 1,
+    "Text": "勇氣風環",
+    "Type": 2
+  },
+  "1519": {
+    "Description": "",
+    "Id": 1519,
+    "Par": 1424,
+    "ShowRule": 1,
+    "Text": "剎那",
+    "Type": 2
+  },
+  "1520": {
+    "Description": "",
+    "Id": 1520,
+    "Par": 1419,
+    "ShowRule": 1,
+    "Text": "翔返",
+    "Type": 2
+  },
+  "1521": {
+    "Description": "",
+    "Id": 1521,
+    "Par": 1431,
+    "ShowRule": 1,
+    "Text": "銳利衝擊",
+    "Type": 2
+  },
+  "1522": {
+    "Description": "",
+    "Id": 1522,
+    "Par": 1422,
+    "ShowRule": 1,
+    "Text": "破追",
+    "Type": 2
+  },
+  "1523": {
+    "Description": "",
+    "Id": 1523,
+    "Par": 1421,
+    "ShowRule": 1,
+    "Text": "螺旋擊刺",
+    "Type": 2
+  },
+  "1524": {
+    "Description": "",
+    "Id": 1524,
+    "Par": 1425,
+    "ShowRule": 1,
+    "Text": "飛鳥投",
+    "Type": 2
+  },
+  "1525": {
+    "Description": "",
+    "Id": 1525,
+    "Par": 1409,
+    "ShowRule": 1,
+    "Text": "風神·破陣之風",
+    "Type": 2
+  },
+  "1526": {
+    "Description": "",
+    "Id": 1526,
+    "Par": 1518,
+    "ShowRule": 1,
+    "Text": "狂野綻放",
+    "Type": 2
+  },
+  "1527": {
+    "Description": "",
+    "Id": 1527,
+    "Par": 1507,
+    "ShowRule": 1,
+    "Text": "生命綻放",
+    "Type": 2
+  },
+  "1528": {
+    "Description": "",
+    "Id": 1528,
+    "Par": 1522,
+    "ShowRule": 1,
+    "Text": "滋養",
+    "Type": 2
+  },
+  "1529": {
+    "Description": "",
+    "Id": 1529,
+    "Par": 1519,
+    "ShowRule": 1,
+    "Text": "不羈之種",
+    "Type": 2
+  },
+  "1530": {
+    "Description": "",
+    "Id": 1530,
+    "Par": 1520,
+    "ShowRule": 1,
+    "Text": "灌注",
+    "Type": 2
+  },
+  "1531": {
+    "Description": "",
+    "Id": 1531,
+    "Par": 1509,
+    "ShowRule": 1,
+    "Text": "繁盛·希望結界",
+    "Type": 2
+  },
+  "1532": {
+    "Description": "",
+    "Id": 1532,
+    "Par": 1523,
+    "ShowRule": 1,
+    "Text": "再生脈衝",
+    "Type": 2
+  },
+  "1533": {
+    "Description": "",
+    "Id": 1533,
+    "Par": 1529,
+    "ShowRule": 1,
+    "Text": "盛放注能",
+    "Type": 2
+  },
+  "1534": {
+    "Description": "",
+    "Id": 1534,
+    "Par": 1521,
+    "ShowRule": 1,
+    "Text": "森之祈願",
+    "Type": 2
+  },
+  "1535": {
+    "Description": "",
+    "Id": 1535,
+    "Par": 1531,
+    "ShowRule": 1,
+    "Text": "自然庇護",
+    "Type": 2
+  },
+  "1536": {
+    "Description": "",
+    "Id": 1536,
+    "Par": 1907,
+    "ShowRule": 1,
+    "Text": "岩禦·崩裂迴環",
+    "Type": 2
+  },
+  "1537": {
+    "Description": "",
+    "Id": 1537,
+    "Par": 1924,
+    "ShowRule": 1,
+    "Text": "碎星衝",
+    "Type": 2
+  },
+  "1538": {
+    "Description": "",
+    "Id": 1538,
+    "Par": 1931,
+    "ShowRule": 1,
+    "Text": "格擋衝擊",
+    "Type": 2
+  },
+  "1539": {
+    "Description": "",
+    "Id": 1539,
+    "Par": 1937,
+    "ShowRule": 1,
+    "Text": "岩怒之擊",
+    "Type": 2
+  },
+  "1540": {
+    "Description": "",
+    "Id": 1540,
+    "Par": 1922,
+    "ShowRule": 1,
+    "Text": "護盾猛擊",
+    "Type": 2
+  },
+  "1541": {
+    "Description": "",
+    "Id": 1541,
+    "Par": 1927,
+    "ShowRule": 1,
+    "Text": "砂石斗篷",
+    "Type": 2
+  },
+  "1542": {
+    "Description": "",
+    "Id": 1542,
+    "Par": 1936,
+    "ShowRule": 1,
+    "Text": "巨岩軀體",
+    "Type": 2
+  },
+  "1543": {
+    "Description": "",
+    "Id": 1543,
+    "Par": 1938,
+    "ShowRule": 1,
+    "Text": "勇者壁壘",
+    "Type": 2
+  },
+  "1544": {
+    "Description": "",
+    "Id": 1544,
+    "Par": 1925,
+    "ShowRule": 1,
+    "Text": "怒爆",
+    "Type": 2
+  },
+  "1545": {
+    "Description": "",
+    "Id": 1545,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "激湧射擊",
+    "Type": 2
+  },
+  "1546": {
+    "Description": "",
+    "Id": 1546,
+    "Par": 2209,
+    "ShowRule": 1,
+    "Text": "銳眼·光能巨箭",
+    "Type": 2
+  },
+  "1547": {
+    "Description": "",
+    "Id": 1547,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "二連矢",
+    "Type": 2
+  },
+  "1548": {
+    "Description": "",
+    "Id": 1548,
+    "Par": 2238,
+    "ShowRule": 1,
+    "Text": "爆炸射擊",
+    "Type": 2
+  },
+  "1549": {
+    "Description": "",
+    "Id": 1549,
+    "Par": 2237,
+    "ShowRule": 1,
+    "Text": "狂野呼喚",
+    "Type": 2
+  },
+  "1550": {
+    "Description": "",
+    "Id": 1550,
+    "Par": 2232,
+    "ShowRule": 1,
+    "Text": "箭雨",
+    "Type": 2
+  },
+  "1551": {
+    "Description": "",
+    "Id": 1551,
+    "Par": 1528,
+    "ShowRule": 1,
+    "Text": "生機湧動",
+    "Type": 2
+  },
+  "1552": {
+    "Description": "",
+    "Id": 1552,
+    "Par": 1527,
+    "ShowRule": 1,
+    "Text": "花語回升",
+    "Type": 2
+  },
+  "1553": {
+    "Description": "",
+    "Id": 1553,
+    "Par": 1420,
+    "ShowRule": 1,
+    "Text": "風姿卓絕",
+    "Type": 2
+  },
+  "1554": {
+    "Description": "",
+    "Id": 1554,
+    "Par": 1718,
+    "ShowRule": 1,
+    "Text": "飛雷神",
+    "Type": 2
+  },
+  "1555": {
+    "Description": "",
+    "Id": 1555,
+    "Par": 2231,
+    "ShowRule": 1,
+    "Text": "精神凝聚",
+    "Type": 2
+  },
+  "1556": {
+    "Description": "",
+    "Id": 1556,
+    "Par": 1705,
+    "ShowRule": 1,
+    "Text": "超高出力",
+    "Type": 2
+  },
+  "1557": {
+    "Description": "",
+    "Id": 1557,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "光意·四連矢",
+    "Type": 2
+  },
+  "1558": {
+    "Description": "",
+    "Id": 1558,
+    "Par": 1210,
+    "ShowRule": 1,
+    "Text": "水之渦流",
+    "Type": 2
+  },
+  "1559": {
+    "Description": "",
+    "Id": 1559,
+    "Par": 2421,
+    "ShowRule": 1,
+    "Text": "聖劍",
+    "Type": 2
+  },
+  "1560": {
+    "Description": "",
+    "Id": 1560,
+    "Par": 2409,
+    "ShowRule": 1,
+    "Text": "聖環",
+    "Type": 2
+  },
+  "1561": {
+    "Description": "",
+    "Id": 1561,
+    "Par": 2405,
+    "ShowRule": 1,
+    "Text": "英勇盾擊",
+    "Type": 2
+  },
+  "1562": {
+    "Description": "",
+    "Id": 1562,
+    "Par": 2408,
+    "ShowRule": 1,
+    "Text": "投擲盾牌",
+    "Type": 2
+  },
+  "1563": {
+    "Description": "",
+    "Id": 1563,
+    "Par": 2412,
+    "ShowRule": 1,
+    "Text": "清算",
+    "Type": 2
+  },
+  "1564": {
+    "Description": "",
+    "Id": 1564,
+    "Par": 2410,
+    "ShowRule": 1,
+    "Text": "裁決",
+    "Type": 2
+  },
+  "1565": {
+    "Description": "",
+    "Id": 1565,
+    "Par": 2415,
+    "ShowRule": 1,
+    "Text": "聖光守衛",
+    "Type": 2
+  },
+  "1566": {
+    "Description": "",
+    "Id": 1566,
+    "Par": 2406,
+    "ShowRule": 1,
+    "Text": "先鋒打擊",
+    "Type": 2
+  },
+  "1567": {
+    "Description": "",
+    "Id": 1567,
+    "Par": 2419,
+    "ShowRule": 1,
+    "Text": "冷酷征伐",
+    "Type": 2
+  },
+  "1568": {
+    "Description": "",
+    "Id": 1568,
+    "Par": 2420,
+    "ShowRule": 1,
+    "Text": "光明決心",
+    "Type": 2
+  },
+  "1569": {
+    "Description": "",
+    "Id": 1569,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "激盪勇氣旋律",
+    "Type": 2
+  },
+  "1570": {
+    "Description": "",
+    "Id": 1570,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "熱力噴湧",
+    "Type": 2
+  },
+  "1571": {
+    "Description": "",
+    "Id": 1571,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "節奏渦流",
+    "Type": 2
+  },
+  "1572": {
+    "Description": "",
+    "Id": 1572,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "激昂滑跪連奏",
+    "Type": 2
+  },
+  "1573": {
+    "Description": "",
+    "Id": 1573,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "火力全開",
+    "Type": 2
+  },
+  "1574": {
+    "Description": "",
+    "Id": 1574,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "活力復甦",
+    "Type": 2
+  },
+  "1575": {
+    "Description": "",
+    "Id": 1575,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "怒放再生旋律",
+    "Type": 2
+  },
+  "1576": {
+    "Description": "",
+    "Id": 1576,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "激情狂想",
+    "Type": 2
+  },
+  "1577": {
+    "Description": "",
+    "Id": 1577,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "治癒音浪",
+    "Type": 2
+  },
+  "1578": {
+    "Description": "",
+    "Id": 1578,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "爆裂音符",
+    "Type": 2
+  },
+  "1579": {
+    "Description": "",
+    "Id": 1579,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "升格·勁爆全場",
+    "Type": 2
+  },
+  "1580": {
+    "Description": "",
+    "Id": 1580,
+    "Par": 2230,
+    "ShowRule": 1,
+    "Text": "怒濤射擊",
+    "Type": 2
+  },
+  "1581": {
+    "Description": "",
+    "Id": 1581,
+    "Par": 2234,
+    "ShowRule": 1,
+    "Text": "光能轟炸",
+    "Type": 2
+  },
+  "1582": {
+    "Description": "",
+    "Id": 1582,
+    "Par": 2233,
+    "ShowRule": 1,
+    "Text": "聚能射擊",
+    "Type": 2
+  },
+  "1583": {
+    "Description": "",
+    "Id": 1583,
+    "Par": 1524,
+    "ShowRule": 1,
+    "Text": "加速生長",
+    "Type": 2
+  },
+  "1584": {
+    "Description": "",
+    "Id": 1584,
+    "Par": 1735,
+    "ShowRule": 1,
+    "Text": "墜龍閃",
+    "Type": 2
+  },
+  "1585": {
+    "Description": "",
+    "Id": 1585,
+    "Par": 1736,
+    "ShowRule": 1,
+    "Text": "神影斬",
+    "Type": 2
+  },
+  "1586": {
+    "Description": "",
+    "Id": 1586,
+    "Par": 1733,
+    "ShowRule": 1,
+    "Text": "雷霆之鐮",
+    "Type": 2
+  },
+  "1587": {
+    "Description": "",
+    "Id": 1587,
+    "Par": 1737,
+    "ShowRule": 1,
+    "Text": "神罰之鐮",
+    "Type": 2
+  },
+  "1588": {
+    "Description": "",
+    "Id": 1588,
+    "Par": 1734,
+    "ShowRule": 1,
+    "Text": "雷切",
+    "Type": 2
+  },
+  "1589": {
+    "Description": "",
+    "Id": 1589,
+    "Par": 1433,
+    "ShowRule": 1,
+    "Text": "極·嵐切",
+    "Type": 2
+  },
+  "1590": {
+    "Description": "",
+    "Id": 1590,
+    "Par": 1434,
+    "ShowRule": 1,
+    "Text": "神影螺旋",
+    "Type": 2
+  },
+  "1591": {
+    "Description": "",
+    "Id": 1591,
+    "Par": 1435,
+    "ShowRule": 1,
+    "Text": "龍擊炮",
+    "Type": 2
+  },
+  "1592": {
+    "Description": "",
+    "Id": 1592,
+    "Par": 1411,
+    "ShowRule": 1,
+    "Text": "疾馳鋒刃",
+    "Type": 2
+  },
+  "1593": {
+    "Description": "",
+    "Id": 1593,
+    "Par": 1525,
+    "ShowRule": 1,
+    "Text": "鹿之奔襲",
+    "Type": 2
+  },
+  "1594": {
+    "Description": "",
+    "Id": 1594,
+    "Par": 1941,
+    "ShowRule": 1,
+    "Text": "碎星崩裂",
+    "Type": 2
+  },
+  "1595": {
+    "Description": "",
+    "Id": 1595,
+    "Par": 1942,
+    "ShowRule": 1,
+    "Text": "崩裂",
+    "Type": 2
+  },
+  "1597": {
+    "Description": "",
+    "Id": 1597,
+    "Par": 1943,
+    "ShowRule": 1,
+    "Text": "巨岩轟擊",
+    "Type": 2
+  },
+  "1598": {
+    "Description": "",
+    "Id": 1598,
+    "Par": 2416,
+    "ShowRule": 1,
+    "Text": "斷罪",
+    "Type": 2
+  },
+  "1599": {
+    "Description": "",
+    "Id": 1599,
+    "Par": 2417,
+    "ShowRule": 1,
+    "Text": "強化斷罪",
+    "Type": 2
+  },
+  "1600": {
+    "Description": "",
+    "Id": 1600,
+    "Par": 2413,
+    "ShowRule": 1,
+    "Text": "熾熱清算",
+    "Type": 2
+  },
+  "1601": {
+    "Description": "",
+    "Id": 1601,
+    "Par": 2220,
+    "ShowRule": 1,
+    "Text": "暴風箭矢",
+    "Type": 2
+  },
+  "1602": {
+    "Description": "",
+    "Id": 1602,
+    "Par": 2240,
+    "ShowRule": 1,
+    "Text": "光意·怒濤射擊",
+    "Type": 2
+  },
+  "1603": {
+    "Description": "",
+    "Id": 1603,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "烈焰狂想",
+    "Type": 2
+  },
+  "1604": {
+    "Description": "",
+    "Id": 1604,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "增幅節拍",
+    "Type": 2
+  },
+  "1605": {
+    "Description": "",
+    "Id": 1605,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "聚合樂章",
+    "Type": 2
+  },
+  "1606": {
+    "Description": "",
+    "Id": 1606,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "鳴奏·癒合樂章",
+    "Type": 2
+  },
+  "1607": {
+    "Description": "",
+    "Id": 1607,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "激湧五重奏",
+    "Type": 2
+  },
+  "1608": {
+    "Description": "",
+    "Id": 1608,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "熱情揮灑",
+    "Type": 2
+  },
+  "1609": {
+    "Description": "",
+    "Id": 1609,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "癒合節拍",
+    "Type": 2
+  },
+  "1610": {
+    "Description": "",
+    "Id": 1610,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "萬眾矚目",
+    "Type": 2
+  },
+  "1611": {
+    "Description": "",
+    "Id": 1611,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "升格·勁爆全場",
+    "Type": 2
+  },
+  "1612": {
+    "Description": "",
+    "Id": 1612,
+    "Par": 2335,
+    "ShowRule": 1,
+    "Text": "升格·無限狂想",
+    "Type": 2
+  },
+  "1613": {
+    "Description": "",
+    "Id": 1613,
+    "Par": 2336,
+    "ShowRule": 1,
+    "Text": "升格·巡演曲",
+    "Type": 2
+  },
+  "1614": {
+    "Description": "",
+    "Id": 1614,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "鳴奏·英勇樂章",
+    "Type": 2
+  },
+  "1615": {
+    "Description": "",
+    "Id": 1615,
+    "Par": 2317,
+    "ShowRule": 1,
+    "Text": "猛烈揮擊",
+    "Type": 2
+  },
+  "1616": {
+    "Description": "",
+    "Id": 1616,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "安可",
+    "Type": 2
+  },
+  "1617": {
+    "Description": "",
+    "Id": 1617,
+    "Par": 2332,
+    "ShowRule": 1,
+    "Text": "激昂·熱情揮灑",
+    "Type": 2
+  },
+  "1618": {
+    "Description": "",
+    "Id": 1618,
+    "Par": 2301,
+    "ShowRule": 1,
+    "Text": "琴弦撩撥",
+    "Type": 2
+  },
+  "1619": {
+    "Description": "",
+    "Id": 1619,
+    "Par": 1605,
+    "ShowRule": 1,
+    "Text": "熾烈升騰",
+    "Type": 2
+  },
+  "1620": {
+    "Description": "",
+    "Id": 1620,
+    "Par": 1619,
+    "ShowRule": 1,
+    "Text": "飛騰炎華",
+    "Type": 2
+  },
+  "1621": {
+    "Description": "",
+    "Id": 1621,
+    "Par": 1606,
+    "ShowRule": 1,
+    "Text": "狂熱斬擊",
+    "Type": 2
+  },
+  "1622": {
+    "Description": "",
+    "Id": 1622,
+    "Par": 1607,
+    "ShowRule": 1,
+    "Text": "熾焰突襲",
+    "Type": 2
+  },
+  "1623": {
+    "Description": "",
+    "Id": 1623,
+    "Par": 1608,
+    "ShowRule": 1,
+    "Text": "暴怒劈斬",
+    "Type": 2
+  },
+  "1624": {
+    "Description": "",
+    "Id": 1624,
+    "Par": 1612,
+    "ShowRule": 1,
+    "Text": "斧風",
+    "Type": 2
+  },
+  "1625": {
+    "Description": "",
+    "Id": 1625,
+    "Par": 1615,
+    "ShowRule": 1,
+    "Text": "荒川之寂滅",
+    "Type": 2
+  },
+  "1626": {
+    "Description": "",
+    "Id": 1626,
+    "Par": 1613,
+    "ShowRule": 1,
+    "Text": "迷狂炎舞",
+    "Type": 2
+  },
+  "1627": {
+    "Description": "",
+    "Id": 1627,
+    "Par": 1614,
+    "ShowRule": 1,
+    "Text": "無羈墜星",
+    "Type": 2
+  },
+  "1628": {
+    "Description": "",
+    "Id": 1628,
+    "Par": 1621,
+    "ShowRule": 1,
+    "Text": "炎魔天落殺",
+    "Type": 2
+  },
+  "1629": {
+    "Description": "",
+    "Id": 1629,
+    "Par": 1617,
+    "ShowRule": 1,
+    "Text": "無盡之炎魔",
+    "Type": 2
+  },
+  "1630": {
+    "Description": "",
+    "Id": 1630,
+    "Par": 1616,
+    "ShowRule": 1,
+    "Text": "如川流華斬",
+    "Type": 2
+  },
+  "3000": {
+    "Description": "中斷目標正在吟唱的技能，並使其進入冷卻。無法對首領生效。",
+    "Id": 3000,
+    "Par": 3403000,
+    "ShowRule": 1,
+    "Text": "打斷",
+    "Type": 3
+  },
+  "3001": {
+    "Description": "使敵人無法吟唱法術。對首領不生效。是一種負面效果。",
+    "Id": 3001,
+    "Par": 3403001,
+    "ShowRule": 1,
+    "Text": "沉默",
+    "Type": 3
+  },
+  "3002": {
+    "Description": "使敵人無法移動。對首領不生效。是一種負面效果。",
+    "Id": 3002,
+    "Par": 3403002,
+    "ShowRule": 1,
+    "Text": "定身",
+    "Type": 3
+  },
+  "3003": {
+    "Description": "減少敵人<style=\"accent-gn\">30%</style>的移動速度。",
+    "Id": 3003,
+    "Par": 3403003,
+    "ShowRule": 1,
+    "Text": "寒霜",
+    "Type": 3
+  },
+  "3004": {
+    "Description": "使敵人受到的治療效果降低。是一種負面效果。",
+    "Id": 3004,
+    "Par": 3403004,
+    "ShowRule": 1,
+    "Text": "重傷",
+    "Type": 3
+  },
+  "3005": {
+    "Description": "使敵人無法做出任何動作。對首領不生效。是一種異常狀態。",
+    "Id": 3005,
+    "Par": 3403005,
+    "ShowRule": 1,
+    "Text": "暈眩",
+    "Type": 3
+  },
+  "3006": {
+    "Description": "使敵人無法做出任何動作，受到傷害後解除。對首領不生效。是一種異常狀態。",
+    "Id": 3006,
+    "Par": 3403006,
+    "ShowRule": 1,
+    "Text": "凍結",
+    "Type": 3
+  },
+  "3007": {
+    "Description": "使敵人無法做出任何動作，受到傷害後解除。對首領不生效。是一種異常狀態。",
+    "Id": 3007,
+    "Par": 3403007,
+    "ShowRule": 1,
+    "Text": "石化",
+    "Type": 3
+  },
+  "3008": {
+    "Description": "使敵人無法做出任何動作，受到傷害後解除。對首領不生效。是一種異常狀態。",
+    "Id": 3008,
+    "Par": 3403008,
+    "ShowRule": 1,
+    "Text": "麻痹",
+    "Type": 3
+  },
+  "3009": {
+    "Description": "使敵人強制移動至當前目標的近距離處進行攻擊。對首領不生效。是一種異常狀態。",
+    "Id": 3009,
+    "Par": 3403009,
+    "ShowRule": 1,
+    "Text": "眩目",
+    "Type": 3
+  },
+  "3010": {
+    "Description": "使敵人在恐懼中原地畏縮，受到傷害後解除。對首領不生效。是一種異常狀態。",
+    "Id": 3010,
+    "Par": 3403010,
+    "ShowRule": 1,
+    "Text": "恐懼",
+    "Type": 3
+  },
+  "3011": {
+    "Description": "減少敵人的移動速度。對首領不生效。是一種負面效果。",
+    "Id": 3011,
+    "Par": 3403011,
+    "ShowRule": 1,
+    "Text": "減速",
+    "Type": 3
+  },
+  "3012": {
+    "Description": "使敵人持續損失生命值。是一種負面效果。",
+    "Id": 3012,
+    "Par": 3403012,
+    "ShowRule": 1,
+    "Text": "中毒",
+    "Type": 3
+  },
+  "3013": {
+    "Description": "使敵人持續損失生命值。是一種負面效果。",
+    "Id": 3013,
+    "Par": 3403013,
+    "ShowRule": 1,
+    "Text": "流血",
+    "Type": 3
+  },
+  "3014": {
+    "Description": "使敵人持續損失生命值。是一種負面效果。",
+    "Id": 3014,
+    "Par": 3403014,
+    "ShowRule": 1,
+    "Text": "灼燒",
+    "Type": 3
+  },
+  "3020": {
+    "Description": "包含<style=\"accent-gn\">眩暈</style>、<style=\"accent-gn\">凍結</style>、<style=\"accent-gn\">石化</style>、<style=\"accent-gn\">麻痹</style>、<style=\"accent-gn\">眩目</style>、<style=\"accent-gn\">恐懼</style>。",
+    "Id": 3020,
+    "Par": 3403020,
+    "ShowRule": 1,
+    "Text": "異常狀態",
+    "Type": 3
+  },
+  "3021": {
+    "Description": "包含<style=\"accent-gn\">沉默</style>、<style=\"accent-gn\">減速</style>、<style=\"accent-gn\">定身</style>、<style=\"accent-gn\">重傷</style>、<style=\"accent-gn\">中毒</style>、<style=\"accent-gn\">流血</style>、<style=\"accent-gn\">灼燒</style>。",
+    "Id": 3021,
+    "Par": 3403021,
+    "ShowRule": 1,
+    "Text": "負面效果",
+    "Type": 3
+  }
+}

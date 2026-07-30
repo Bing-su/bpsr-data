@@ -1,0 +1,2938 @@
+{
+  "10001": {
+    "Description": "Tenue recréée avec un savoir-faire permettant la teinture, basée sur des styles personnalisés haut de gamme. Peut être teinte à volonté.",
+    "Id": 10001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Édition Chroma",
+    "Type": 1
+  },
+  "1001": {
+    "Description": "Diverses attaques d'arme utilisant la touche d'attaque",
+    "Id": 1001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Attaque de base",
+    "Type": 1
+  },
+  "1002": {
+    "Description": "Forme d'attaque de base de l'arme",
+    "Id": 1002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Attaque de base",
+    "Type": 1
+  },
+  "1003": {
+    "Description": "Attaque violente effectuée en maintenant la touche d'attaque",
+    "Id": 1003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Attaque puissante",
+    "Type": 1
+  },
+  "1004": {
+    "Description": "Attaque plongeante effectuée en exécutant une attaque de base depuis une certaine hauteur.",
+    "Id": 1004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Attaque plongeante",
+    "Type": 1
+  },
+  "1005": {
+    "Description": "Compétence la plus emblématique et caractéristique de l'arme",
+    "Id": 1005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Compétences principales",
+    "Type": 1
+  },
+  "1006": {
+    "Description": "Les compétences les plus utilisées de l'arme",
+    "Id": 1006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Compétences de base",
+    "Type": 1
+  },
+  "1007": {
+    "Description": "L'arcane de combat ultime le plus puissant de l'arme",
+    "Id": 1007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ultime",
+    "Type": 1
+  },
+  "1008": {
+    "Description": "Compétence d'attribut apprise via les talents",
+    "Id": 1008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Compétences de talent",
+    "Type": 1
+  },
+  "1009": {
+    "Description": "Compétence utilisable en cas de coup reçu ou de projection aérienne",
+    "Id": 1009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Compétence de récupération",
+    "Type": 1
+  },
+  "1010": {
+    "Description": "De puissants styles de compétence appris via les talents",
+    "Id": 1010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Arcane de talent",
+    "Type": 1
+  },
+  "1011": {
+    "Description": "La compétence peut infliger des dégâts",
+    "Id": 1011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts",
+    "Type": 1
+  },
+  "1012": {
+    "Description": "Dégâts générés directement par la compétence elle-même",
+    "Id": 1012,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de capacité",
+    "Type": 1
+  },
+  "1013": {
+    "Description": "Dégâts supplémentaires causés par les caractéristiques élémentaires déclenchées par une compétence.",
+    "Id": 1013,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de caractéristique",
+    "Type": 1
+  },
+  "1014": {
+    "Description": "Effets qui peuvent restaurer des PV.",
+    "Id": 1014,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Soins",
+    "Type": 1
+  },
+  "1015": {
+    "Description": "Restaure instantanément une grande quantité de PV.",
+    "Id": 1015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Soins",
+    "Type": 1
+  },
+  "1016": {
+    "Description": "Restaure des PV en continu sur une certaine durée.",
+    "Id": 1016,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Soins",
+    "Type": 1
+  },
+  "1017": {
+    "Description": "Un effet pouvant avantager les alliés en combat",
+    "Id": 1017,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Buff",
+    "Type": 1
+  },
+  "1018": {
+    "Description": "Un effet qui améliore la capacité de combat, la capacité de déplacement ou d'autres aptitudes pendant une certaine durée.",
+    "Id": 1018,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bénédiction",
+    "Type": 1
+  },
+  "1019": {
+    "Description": "Effet boostant fortement la capacité de combat pendant une courte période",
+    "Id": 1019,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Exaltation",
+    "Type": 1
+  },
+  "1020": {
+    "Description": "Les attributs de combat sont grandement renforcés, avec effets supplémentaires si développée via certains talents",
+    "Id": 1020,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aspiration",
+    "Type": 1
+  },
+  "1021": {
+    "Description": "En divers états désavantageux à son propre combat",
+    "Id": 1021,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Débuff",
+    "Type": 1
+  },
+  "1022": {
+    "Description": "Un effet néfaste qui réduit les attributs de combat pendant une certaine durée.",
+    "Id": 1022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Faiblesse",
+    "Type": 1
+  },
+  "1023": {
+    "Description": "Effet néfaste qui augmente les dégâts subis pendant un certain temps",
+    "Id": 1023,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Vulnérabilité",
+    "Type": 1
+  },
+  "1024": {
+    "Description": "Augmente les dégâts subis pendant un certain temps, avec effets supplémentaires si développée via certains talents",
+    "Id": 1024,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Fracture",
+    "Type": 1
+  },
+  "1025": {
+    "Description": "État limitant les actions du personnage",
+    "Id": 1025,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Contrôle",
+    "Type": 1
+  },
+  "1026": {
+    "Description": "État rendant tout mouvement et toute action de combat impossibles",
+    "Id": 1026,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Gel",
+    "Type": 1
+  },
+  "1027": {
+    "Description": "État empêchant tout déplacement",
+    "Id": 1027,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Entrave",
+    "Type": 1
+  },
+  "1028": {
+    "Description": "L'entité affectée est placée dans un état d'incapacité qui l'empêche complètement de se déplacer, d'effectuer des actions de combat et d'utiliser des objets. Appliquer cet effet plusieurs fois en peu de temps réduira sa durée totale. N'affecte pas les boss.",
+    "Id": 1028,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Étourdissement",
+    "Type": 1
+  },
+  "1029": {
+    "Description": "État de vitesse réduite",
+    "Id": 1029,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ralentissement",
+    "Type": 1
+  },
+  "1030": {
+    "Description": "Capacité à briser la barre de <style=\"ItemQuality_5\">super armure</style> des cibles puissantes.",
+    "Id": 1030,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Titubement",
+    "Type": 1
+  },
+  "1031": {
+    "Description": "Compétences aidant les personnages à se déplacer rapidement",
+    "Id": 1031,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Déplacement",
+    "Type": 1
+  },
+  "1032": {
+    "Description": "Compétences de déplacement continu",
+    "Id": 1032,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Sprint",
+    "Type": 1
+  },
+  "1033": {
+    "Description": "Compétences de déplacement non continu",
+    "Id": 1033,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Téléportation",
+    "Type": 1
+  },
+  "1034": {
+    "Description": "Compétences permettant d'améliorer les chances de survie du personnage",
+    "Id": 1034,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Survie",
+    "Type": 1
+  },
+  "1035": {
+    "Description": "Un <style=\"ItemQuality_5\">bouclier</style> de PV supplémentaires qui peut absorber les dégâts avant les PV.",
+    "Id": 1035,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bouclier",
+    "Type": 1
+  },
+  "1036": {
+    "Description": "Phase spéciale d'une compétence réduisant partiellement les dégâts subis",
+    "Id": 1036,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blocage",
+    "Type": 1
+  },
+  "1037": {
+    "Description": "Inflige des dégâts de feu.",
+    "Id": 1037,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de feu",
+    "Type": 1
+  },
+  "1038": {
+    "Description": "Dégâts dotés du pouvoir du Feu.",
+    "Id": 1038,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Feu",
+    "Type": 1
+  },
+  "1039": {
+    "Description": "Un débuff qui inflige des dégâts de feu à intervalles réguliers sur une certaine durée.",
+    "Id": 1039,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Embrasement",
+    "Type": 1
+  },
+  "1040": {
+    "Description": "Inflige des dégâts de glace.",
+    "Id": 1040,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de glace",
+    "Type": 1
+  },
+  "1041": {
+    "Description": "Dégâts dotés du pouvoir de la glace.",
+    "Id": 1041,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Glace",
+    "Type": 1
+  },
+  "1042": {
+    "Description": "Inflige des dégâts de foudre.",
+    "Id": 1042,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de foudre",
+    "Type": 1
+  },
+  "1043": {
+    "Description": "Dégâts dotés du pouvoir de foudre.",
+    "Id": 1043,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Foudre",
+    "Type": 1
+  },
+  "1044": {
+    "Description": "Inflige des dégâts de vent.",
+    "Id": 1044,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de vent",
+    "Type": 1
+  },
+  "1045": {
+    "Description": "Dégâts dotés du pouvoir du vent.",
+    "Id": 1045,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Vent",
+    "Type": 1
+  },
+  "1046": {
+    "Description": "Inflige des dégâts de roche.",
+    "Id": 1046,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de roche",
+    "Type": 1
+  },
+  "1047": {
+    "Description": "Dégâts dotés du pouvoir de roche.",
+    "Id": 1047,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Roche",
+    "Type": 1
+  },
+  "1048": {
+    "Description": "Inflige des dégâts de forêt.",
+    "Id": 1048,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de forêt",
+    "Type": 1
+  },
+  "1049": {
+    "Description": "Dégâts dotés du pouvoir de forêt.",
+    "Id": 1049,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Forêt",
+    "Type": 1
+  },
+  "1050": {
+    "Description": "Inflige des dégâts de lumière.",
+    "Id": 1050,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts de lumière",
+    "Type": 1
+  },
+  "1051": {
+    "Description": "Dégâts dotés du pouvoir de lumière.",
+    "Id": 1051,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Lumière",
+    "Type": 1
+  },
+  "1052": {
+    "Description": "Inflige des dégâts des ténèbres.",
+    "Id": 1052,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts des ténèbres",
+    "Type": 1
+  },
+  "1053": {
+    "Description": "Dégâts dotés du pouvoir des ténèbres.",
+    "Id": 1053,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ténèbres",
+    "Type": 1
+  },
+  "1054": {
+    "Description": "Effets auxiliaires générant des actions d'attaque supplémentaires ou permettant de résister aux attaques ennemies",
+    "Id": 1054,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Soutien au combat",
+    "Type": 1
+  },
+  "1055": {
+    "Description": "Effets synchronisant les actions d'attaque avec le combat",
+    "Id": 1055,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Coordination",
+    "Type": 1
+  },
+  "1056": {
+    "Description": "Effets exécutant des attaques indépendantes pour assister au combat",
+    "Id": 1056,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Combat coopératif",
+    "Type": 1
+  },
+  "1057": {
+    "Description": "Une méthode de lancement de compétence nécessitant un temps de préparation pour atteindre une puissance accrue",
+    "Id": 1057,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Chargement",
+    "Type": 1
+  },
+  "1058": {
+    "Description": "Une méthode de lancement nécessitant de maintenir un état de lancement pour prolonger l'effet",
+    "Id": 1058,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Canalisation",
+    "Type": 1
+  },
+  "1059": {
+    "Description": "Compétences en état d'amélioration ou provoquant des changements",
+    "Id": 1059,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Amélioration",
+    "Type": 1
+  },
+  "1060": {
+    "Description": "Conditions requises pour utiliser certaines compétences. Elles peuvent être rechargées avec le temps ou via certains mécanismes.",
+    "Id": 1060,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Charge",
+    "Type": 1
+  },
+  "1061": {
+    "Description": "Type d'effet se déclenchant dans des conditions spécifiques, avec une probabilité influencée par les attributs",
+    "Id": 1061,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Marquage",
+    "Type": 1
+  },
+  "1062": {
+    "Description": "État actif lorsque les PV sont supérieurs à ceux de la cible, qui octroie des bonus de dégâts et de réduction de dégâts. Des effets supplémentaires peuvent être débloqués via certains talents.",
+    "Id": 1062,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Suppression",
+    "Type": 1
+  },
+  "1063": {
+    "Description": "Une unité de combat liée à un invocateur spécifique et dont l'état est influencé par ce dernier.",
+    "Id": 1063,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Invocation",
+    "Type": 1
+  },
+  "1064": {
+    "Description": "Une invocation produisant un effet après déclenchement de certaines conditions",
+    "Id": 1064,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Piège",
+    "Type": 1
+  },
+  "1065": {
+    "Description": "Une invocation immobile produisant des effets dans une zone pendant un temps donné",
+    "Id": 1065,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Totem",
+    "Type": 1
+  },
+  "1066": {
+    "Description": "Une invocation mobile suivant l'invocateur pour assister au combat",
+    "Id": 1066,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Assistant",
+    "Type": 1
+  },
+  "1067": {
+    "Description": "Une créature invoquée dotée d'un comportement et d'une conscience autonomes.",
+    "Id": 1067,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Construction",
+    "Type": 1
+  },
+  "1068": {
+    "Description": "Un mécanisme de compétence se déplaçant physiquement et produisant un effet à l'impact",
+    "Id": 1068,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Projectile",
+    "Type": 1
+  },
+  "1069": {
+    "Description": "Projectile de petite taille, rapide",
+    "Id": 1069,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Balle",
+    "Type": 1
+  },
+  "1070": {
+    "Description": "Projectile de grande taille, vitesse modérée",
+    "Id": 1070,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Missile",
+    "Type": 1
+  },
+  "1071": {
+    "Description": "Méthode efficace dans une zone donnée",
+    "Id": 1071,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Effet de zone",
+    "Type": 1
+  },
+  "1072": {
+    "Description": "Effet de zone procurant continuellement un état bénéfique à soi-même ou aux alliés",
+    "Id": 1072,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Domaine",
+    "Type": 1
+  },
+  "1073": {
+    "Description": "Effet de zone infligeant continuellement des dégâts ou des états néfastes aux ennemis",
+    "Id": 1073,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Effet de zone",
+    "Type": 1
+  },
+  "1074": {
+    "Description": "Confère en continu des effets aux cibles dans sa propre portée",
+    "Id": 1074,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aura",
+    "Type": 1
+  },
+  "1075": {
+    "Description": "Entité bien plus forte que les monstres classiques",
+    "Id": 1075,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Cible puissante",
+    "Type": 1
+  },
+  "1076": {
+    "Description": "Boss, boss sauvage et boss mondial",
+    "Id": 1076,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Boss",
+    "Type": 1
+  },
+  "1077": {
+    "Description": "monstres actifs sur le continent, dotés de capacités de combat basiques",
+    "Id": 1077,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Monstre normal",
+    "Type": 1
+  },
+  "1078": {
+    "Description": "Guerrier d'élite parmi les monstres, généralement doté d'une expertise très menaçante",
+    "Id": 1078,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Élite",
+    "Type": 1
+  },
+  "1079": {
+    "Description": "Puissance absolue du groupe, digne du titre de roi sans exagération",
+    "Id": 1079,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Boss",
+    "Type": 1
+  },
+  "1080": {
+    "Description": "Monstre puissant apparaissant uniquement dans des zones territoriales spéciales",
+    "Id": 1080,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Boss sauvage",
+    "Type": 1
+  },
+  "1081": {
+    "Description": "Le monstre le plus puissant des cartes de donjon",
+    "Id": 1081,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Boss mondial",
+    "Type": 1
+  },
+  "1082": {
+    "Description": "État où le nombre de PV n'est pas inférieur à 50 % des PV max",
+    "Id": 1082,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "En bonne santé",
+    "Type": 1
+  },
+  "1083": {
+    "Description": "État où le nombre de PV n'est pas inférieur à 30 % des PV max",
+    "Id": 1083,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blessé",
+    "Type": 1
+  },
+  "1084": {
+    "Description": "Compétences supplémentaires obtenues via des scénarios ou des niveaux spécifiques",
+    "Id": 1084,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Compétence de scénario",
+    "Type": 1
+  },
+  "1085": {
+    "Description": "Un statut continu conféré par le raffinage de l'équipement de la série \"Radiance\".",
+    "Id": 1085,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Radiance",
+    "Type": 1
+  },
+  "1086": {
+    "Description": "Inflige des dégâts non élémentaires.",
+    "Id": 1086,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dégâts non élémentaires",
+    "Type": 1
+  },
+  "1087": {
+    "Description": "Les dégâts sont non élémentaires et ne possèdent aucun pouvoir élémentaire.",
+    "Id": 1087,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Non élémentaire",
+    "Type": 1
+  },
+  "1088": {
+    "Description": "Affecté par une contamination inconnue, provoquant divers effets néfastes",
+    "Id": 1088,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Corrosion",
+    "Type": 1
+  },
+  "1089": {
+    "Description": "Un statut continu conféré par le raffinage de l'équipement de la série \"Radiance\".",
+    "Id": 1089,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Radiance",
+    "Type": 1
+  },
+  "1090": {
+    "Description": "Augmente le montant des dégâts.",
+    "Id": 1090,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Exaltation",
+    "Type": 1
+  },
+  "1091": {
+    "Description": "Ne peut pas être repoussé, projeté en l'air ni renversé.",
+    "Id": 1091,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Super armure",
+    "Type": 1
+  },
+  "1092": {
+    "Description": "Force les monstres ennemis à attaquer le lanceur.",
+    "Id": 1092,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Provocation",
+    "Type": 1
+  },
+  "1093": {
+    "Description": "Possède un effet qui renvoie les dégâts.",
+    "Id": 1093,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Épine",
+    "Type": 1
+  },
+  "1094": {
+    "Description": "Effets qui impactent directement la capacité de combat d'une unité, tels que la réduction de Vitesse, la diminution des attributs, le contrôle, etc.",
+    "Id": 1094,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Débuff",
+    "Type": 1
+  },
+  "1095": {
+    "Description": "Dégâts subis <style=\"accent-gn\">+10 %</style> pendant <style=\"accent-gn\">5 s</style>.",
+    "Id": 1095,
+    "Par": 3401095,
+    "ShowRule": 1,
+    "Text": "Vulnérabilité",
+    "Type": 3
+  },
+  "1096": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque et permet à votre prochain <style=\"accent-gn\">Surrégime</style> de gagner <style=\"accent-gn\">2</style> <style=\"accent-gn\">Sceaux de foudre</style> supplémentaires.",
+    "Id": 1096,
+    "Par": 3401096,
+    "ShowRule": 1,
+    "Text": "Taillade perforante",
+    "Type": 3
+  },
+  "1097": {
+    "Description": "Accélère grandement l'utilisation de <style=\"accent-gn\">l'attaque spéciale</style> pendant <style=\"accent-gn\">10 s</style>. L'effet prend fin après le lancement d'une <style=\"accent-gn\">attaque spéciale</style>.",
+    "Id": 1097,
+    "Par": 3401097,
+    "ShowRule": 1,
+    "Text": "Moment zen",
+    "Type": 3
+  },
+  "1098": {
+    "Description": "Technique secrète issue de <style=\"accent-gn\">Coup de tonnerre</style>. Effectue une taillade ascendante rapide, infligeant des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">300 %</style> de l'attaque (selon le niveau/palier de <style=\"accent-gn\">Rafale de taillades</style>). Lorsque la vitesse d'attaque atteint <style=\"accent-gn\">25 %</style>|<style=\"accent-gn\">50 %</style>|<style=\"accent-gn\">80 %</style>, votre nombre d'attaques augmente de <style=\"accent-gn\">1</style>|<style=\"accent-gn\">2</style>|<style=\"accent-gn\">3</style>.",
+    "Id": 1098,
+    "Par": 3401098,
+    "ShowRule": 1,
+    "Text": "Tranche-foudre",
+    "Type": 3
+  },
+  "1099": {
+    "Description": "Chaque vague inflige des <style=\"physical\">dégâts d'attaque</style> équivalents à <style=\"accent-gn\">100 %</style> de l'attaque.<br>Commence avec <style=\"accent-gn\">1</style> vague. Gagne <style=\"accent-gn\">1</style> vague supplémentaire tous les <style=\"accent-gn\">10 %</style> de maîtrise, jusqu'à <style=\"accent-gn\">4</style> vagues.",
+    "Id": 1099,
+    "Par": 3401099,
+    "ShowRule": 1,
+    "Text": "Domaine du vent des lames",
+    "Type": 3
+  },
+  "1100": {
+    "Description": "Effet de chance : inflige des <style=\"physical\">dégâts d'attaque</style> équivalents à <style=\"accent-gn\">80 %</style> de l'attaque à l'ennemi.",
+    "Id": 1100,
+    "Par": 3401100,
+    "ShowRule": 1,
+    "Text": "Frappe-foudre",
+    "Type": 3
+  },
+  "1101": {
+    "Description": "Tourne en continu pendant <style=\"accent-gn\">35 s</style>, infligeant des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">50 %</style> de l'attaque toutes les <style=\"accent-gn\">2 s</style> (selon le niveau/palier de Faux rotative).",
+    "Id": 1101,
+    "Par": 3401101,
+    "ShowRule": 1,
+    "Text": "Lames lunaires",
+    "Type": 3
+  },
+  "1102": {
+    "Description": "Ne peut pas être repoussé, projeté en l'air ni renversé.",
+    "Id": 1102,
+    "Par": 3401102,
+    "ShowRule": 1,
+    "Text": "Super armure",
+    "Type": 3
+  },
+  "1103": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">3</style> m.",
+    "Id": 1103,
+    "Par": 3401103,
+    "ShowRule": 1,
+    "Text": "Explosion foudroyante",
+    "Type": 3
+  },
+  "1104": {
+    "Description": "Lorsqu'une compétence consomme des <style=\"accent-gn\">Sceaux de foudre</style>, chaque <style=\"accent-gn\">Sceau de foudre</style> supplémentaire consommé augmente les dégâts de la compétence de <style=\"accent-gn\">25 %</style>.",
+    "Id": 1104,
+    "Par": 3401104,
+    "ShowRule": 1,
+    "Text": "Sceau de foudre",
+    "Type": 3
+  },
+  "1105": {
+    "Description": "Inflige d'énormes dégâts en fonction du nombre de <style=\"accent-gn\">Sceaux de foudre</style> consommés au cours des <style=\"accent-gn\">10 dernières secondes</style>.<br><style=\"accent-gn\">Chaque</style> <style=\"accent-gn\">Sceau de foudre</style> consommé inflige des <style=\"physical\">dégâts physiques</style> équivalents à <style=\"accent-gn\">100 %</style> de l'attaque, jusqu'à <style=\"accent-gn\">15 000 %</style>.",
+    "Id": 1105,
+    "Par": 3401105,
+    "ShowRule": 1,
+    "Text": "Taillade ultime",
+    "Type": 3
+  },
+  "1106": {
+    "Description": "Peut accumuler jusqu'à <style=\"accent-gn\">20</style> <style=\"accent-gn\">Graines de charge</style>. Lors du lancement de <style=\"accent-gn\">Coup de tonnerre</style>, consomme <style=\"accent-gn\">15</style> <style=\"accent-gn\">Graines de charge</style> pour déclencher <style=\"accent-gn\">​Faux de la tempête​</style>, infligeant des <style=\"physical\">dégâts d'attaque</style> aux cibles proches.",
+    "Id": 1106,
+    "Par": 3401106,
+    "ShowRule": 1,
+    "Text": "Graine de charge",
+    "Type": 3
+  },
+  "1107": {
+    "Description": "Confère à la cible bénie <style=\"accent-gn\">100</style> points d'<style=\"accent-gn\">intelligence</style>, de <style=\"accent-gn\">force</style>, d'<style=\"accent-gn\">agilité</style> et d'<style=\"accent-gn\">endurance</style>, ainsi que <style=\"accent-gn\">1,5 %</style> de <style=\"accent-gn\">CRIT</style>, de <style=\"accent-gn\">célérité</style>, de <style=\"accent-gn\">chance</style>, de <style=\"accent-gn\">maîtrise</style> et de <style=\"accent-gn\">polyvalence</style>.",
+    "Id": 1107,
+    "Par": 3401107,
+    "ShowRule": 1,
+    "Text": "Aspiration",
+    "Type": 3
+  },
+  "1108": {
+    "Description": "Lorsqu'une <style=\"accent-gn\">compétence d'expertise</style> de soins ou une compétence <style=\"accent-gn\">ultime</style> restaure des PV, elle consomme <style=\"accent-gn\">2</style> <style=\"accent-gn\">Bourgeons régénérants</style> et lance une <style=\"accent-gn\">Graine nourricière</style>, une fois <style=\"accent-gn\">par</style> seconde.<br>Lorsqu'une <style=\"accent-gn\">compétence d'expertise</style> de dégâts ou une compétence <style=\"accent-gn\">ultime</style> inflige des dégâts, elle consomme <style=\"accent-gn\">2</style> <style=\"accent-gn\">Bourgeons régénérants</style> et tire une <style=\"accent-gn\">Graine sauvage</style>, une fois <style=\"accent-gn\">par</style> seconde.",
+    "Id": 1108,
+    "Par": 3401108,
+    "ShowRule": 1,
+    "Text": "Bourgeon régénérant",
+    "Type": 3
+  },
+  "1109": {
+    "Description": "La Chaîne de soins rebondit entre les alliés, restaurant des PV égaux à <style=\"accent-gn\">40 %</style> de l'attaque à chaque rebond. Commence avec <style=\"accent-gn\">2</style> rebonds.",
+    "Id": 1109,
+    "Par": 3401109,
+    "ShowRule": 1,
+    "Text": "Chaîne de soins",
+    "Type": 3
+  },
+  "1110": {
+    "Description": "Se propage jusqu'à <style=\"accent-gn\">20</style> m, restaurant des PV égaux à <style=\"accent-gn\">150 %</style> de l'attaque à tous les alliés touchés.",
+    "Id": 1110,
+    "Par": 3401110,
+    "ShowRule": 1,
+    "Text": "Impulsion de soin",
+    "Type": 3
+  },
+  "1111": {
+    "Description": "Confère à un allié un <style=\"accent-gn\">bouclier</style> équivalant à <style=\"accent-gn\">150 %</style> de l'attaque pendant <style=\"accent-gn\">5 s</style>.",
+    "Id": 1111,
+    "Par": 3401111,
+    "ShowRule": 1,
+    "Text": "Bouclier naturel",
+    "Type": 3
+  },
+  "1112": {
+    "Description": "",
+    "Id": 1112,
+    "Par": 3401112,
+    "ShowRule": 1,
+    "Text": "Charge du cerf",
+    "Type": 3
+  },
+  "1113": {
+    "Description": "Restaure automatiquement des PV égaux à <style=\"accent-gn\">60 %</style> de l'attaque aux alliés dans un rayon de <style=\"accent-gn\">3</style> m.",
+    "Id": 1113,
+    "Par": 3401113,
+    "ShowRule": 1,
+    "Text": "Orbe de soin",
+    "Type": 3
+  },
+  "1114": {
+    "Description": "À moins de <style=\"accent-gn\">3</style> m de l'<style=\"accent-gn\">Orbe d'engramme</style>, obtient <style=\"accent-gn\">1</style> <style=\"accent-gn\">Bourgeon régénérant</style>. L'<style=\"accent-gn\">Orbe d'engramme</style> dure jusqu'à <style=\"accent-gn\">3 s</style>.",
+    "Id": 1114,
+    "Par": 3401114,
+    "ShowRule": 1,
+    "Text": "Orbe d'Engramme",
+    "Type": 3
+  },
+  "1115": {
+    "Description": "Lorsqu'elle touche le sol, restaure des PV égaux à <style=\"accent-gn\">40 %</style> de l'attaque à tous les alliés.",
+    "Id": 1115,
+    "Par": 3401115,
+    "ShowRule": 1,
+    "Text": "Graine nourricière",
+    "Type": 3
+  },
+  "1116": {
+    "Description": "Explose au contact d'un ennemi, infligeant des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque.",
+    "Id": 1116,
+    "Par": 3401116,
+    "ShowRule": 1,
+    "Text": "Graine sauvage",
+    "Type": 3
+  },
+  "1117": {
+    "Description": "Inflige des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">20 %</style> de l'attaque par seconde à l'ennemi pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1117,
+    "Par": 3401117,
+    "ShowRule": 1,
+    "Text": "Épine",
+    "Type": 3
+  },
+  "1118": {
+    "Description": "",
+    "Id": 1118,
+    "Par": 3401118,
+    "ShowRule": 1,
+    "Text": "Tige florale",
+    "Type": 3
+  },
+  "1119": {
+    "Description": "La prochaine <style=\"accent-gn\">compétence d'expertise</style> utilisée voit son temps de rechargement diminuer de <style=\"accent-gn\">50 %</style>.",
+    "Id": 1119,
+    "Par": 3401119,
+    "ShowRule": 1,
+    "Text": "Clarté pourpre",
+    "Type": 3
+  },
+  "1120": {
+    "Description": "Après la prochaine <style=\"accent-gn\">compétence d'expertise</style> lancée, augmente vos soins de <style=\"accent-gn\">20 %</style> pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1120,
+    "Par": 3401120,
+    "ShowRule": 1,
+    "Text": "Dévotion dorée",
+    "Type": 3
+  },
+  "1121": {
+    "Description": "La prochaine <style=\"accent-gn\">Floraison vitale</style> confère à la cible un <style=\"accent-gn\">bouclier</style> de <style=\"accent-gn\">8 s</style>, absorbant des dégâts égaux à <style=\"accent-gn\">200 %</style> de l'attaque. Les cibles bénéficiant d'un <style=\"accent-gn\">bouclier</style> subissent <style=\"accent-gn\">10 %</style> de dégâts en moins de toutes sources.",
+    "Id": 1121,
+    "Par": 3401121,
+    "ShowRule": 1,
+    "Text": "Réconfort du clair de Lune",
+    "Type": 3
+  },
+  "1122": {
+    "Description": "Lorsque des dégâts sont subis et que vos PV sont supérieurs à ceux de l'assaillant, réduit les dégâts infligés par celui-ci de <style=\"accent-gn\">10 %</style>.<br>Lorsque des dégâts sont infligés et que vos PV sont supérieurs à ceux de la cible, augmente les dégâts infligés de <style=\"accent-gn\">10 %</style>.",
+    "Id": 1122,
+    "Par": 3401122,
+    "ShowRule": 1,
+    "Text": "Suppression",
+    "Type": 3
+  },
+  "1123": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">50 %</style> de l'attaque à un ennemi et confère <style=\"accent-gn\">1</style> <style=\"accent-gn\">Cristal de sable</style>.",
+    "Id": 1123,
+    "Par": 3401123,
+    "ShowRule": 1,
+    "Text": "Frappe sur point faible",
+    "Type": 3
+  },
+  "1124": {
+    "Description": "Améliore l'efficacité du bouclier de <style=\"accent-gn\">15 %</style> pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1124,
+    "Par": 3401124,
+    "ShowRule": 1,
+    "Text": "Forteresse terrestre amplifiée",
+    "Type": 3
+  },
+  "1125": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">3</style> m, ignore le <style=\"accent-gn\">blocage</style> et génère une forte menace.",
+    "Id": 1125,
+    "Par": 3401125,
+    "ShowRule": 1,
+    "Text": "Contre-écrasement",
+    "Type": 3
+  },
+  "1126": {
+    "Description": "Lors d'un <style=\"accent-gn\">Blocage</style>, accorde une chance de déclencher <style=\"accent-gn\">Blocage chanceux</style> selon le pourcentage de chance.",
+    "Id": 1126,
+    "Par": 3401126,
+    "ShowRule": 1,
+    "Text": "Blocage Chanceux",
+    "Type": 3
+  },
+  "1127": {
+    "Description": "Pendant les <style=\"accent-gn\">7 s</style> suivantes, <style=\"accent-gn\">Coup de bouclier</style> devient une combinaison à deux frappes et ne consomme pas de <style=\"accent-gn\">Rage</style> ni de <style=\"accent-gn\">Cristaux de sable</style>, tout en vous conférant un <style=\"accent-gn\">bouclier</style>. L'effet prend fin après l'utilisation de <style=\"accent-gn\">Coup de bouclier</style>.",
+    "Id": 1127,
+    "Par": 3401127,
+    "ShowRule": 1,
+    "Text": "Combo de bouclier",
+    "Type": 3
+  },
+  "1128": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">300 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">5</style> m. Pendant les <style=\"accent-gn\">5 s</style> suivantes, récupère <style=\"accent-gn\">20</style> de <style=\"accent-gn\">Rage</style> <style=\"accent-gn\">par</style> seconde. Cet effet est non cumulable.",
+    "Id": 1128,
+    "Par": 3401128,
+    "ShowRule": 1,
+    "Text": "Écho de bouclier",
+    "Type": 3
+  },
+  "1129": {
+    "Description": "Réduit les dégâts subis de <style=\"accent-gn\">50 %</style> et augmente les soins reçus de <style=\"accent-gn\">30 %</style> pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1129,
+    "Par": 3401129,
+    "ShowRule": 1,
+    "Text": "Instinct de survie",
+    "Type": 3
+  },
+  "1130": {
+    "Description": "Restaure <style=\"accent-gn\">3 %</style> du maximum <style=\"accent-gn\">d'énergie de glace</style> par seconde (évolue avec la maîtrise et la célérité), pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1130,
+    "Par": 3401130,
+    "ShowRule": 1,
+    "Text": "Loi du déferlement d'énergie",
+    "Type": 3
+  },
+  "1131": {
+    "Description": "Frappe l'ennemi le plus proche (<style=\"accent-gn\">1</style>), infligeant des <style=\"physical\">dégâts d'attaque</style> équivalents à <style=\"accent-gn\">70 %</style> de l'attaque.",
+    "Id": 1131,
+    "Par": 3401131,
+    "ShowRule": 1,
+    "Text": "Granit",
+    "Type": 3
+  },
+  "1132": {
+    "Description": "Se déplace de force à portée de mêlée pour frapper la cible.",
+    "Id": 1132,
+    "Par": 3401132,
+    "ShowRule": 1,
+    "Text": "Éblouissement",
+    "Type": 3
+  },
+  "1133": {
+    "Description": "<style=\"accent-gn\">Mélodie héroïque</style> ou <style=\"accent-gn\">Mélodie de soin</style>",
+    "Id": 1133,
+    "Par": 3401133,
+    "ShowRule": 1,
+    "Text": "Mélodie",
+    "Type": 3
+  },
+  "1134": {
+    "Description": "Version améliorée d'<style=\"accent-gn\">Explosion de rage</style> qui invoque d'énormes rochers autour de vous, lesquels explosent pour infliger des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">750 %</style> de l'attaque (selon le niveau/palier d'<style=\"accent-gn\">Explosion de rage</style>). <br>Ne consomme pas de <style=\"accent-gn\">Cristaux de sable</style>.",
+    "Id": 1134,
+    "Par": 3401134,
+    "ShowRule": 1,
+    "Text": "Déchirure de la terre",
+    "Type": 3
+  },
+  "1135": {
+    "Description": "Dégâts infligés <style=\"accent-gn\">+20 %</style>, vitesse de déplacement <style=\"accent-gn\">+10 %</style>, et confère <style=\"accent-gn\">Super armure</style>.",
+    "Id": 1135,
+    "Par": 3401135,
+    "ShowRule": 1,
+    "Text": "Enragé",
+    "Type": 3
+  },
+  "1136": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">300 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">3</style> m.",
+    "Id": 1136,
+    "Par": 3401136,
+    "ShowRule": 1,
+    "Text": "Choc cristallin de sable",
+    "Type": 3
+  },
+  "1137": {
+    "Description": "Réduit de <style=\"accent-gn\">50 %</style> les <style=\"magic\">dégâts magiques</style> subis par le conjurateur à l'intérieur du cercle. <style=\"accent-gn\">50 %</style> des dégâts subis par les alliés (jusqu'à <style=\"accent-gn\">10</style>) à l'intérieur sont directement absorbés.",
+    "Id": 1137,
+    "Par": 3401137,
+    "ShowRule": 1,
+    "Text": "Champ de sable",
+    "Type": 3
+  },
+  "1138": {
+    "Description": "Quand l'<style=\"accent-gn\">Énergie photonique</style> est pleine, utiliser une <style=\"accent-gn\">attaque spéciale</style> permet d'entrer en état de <style=\"accent-gn\">Refonte photonique</style>. Dans cet état, les <style=\"accent-gn\">attaques spéciales</style> et certaines <style=\"accent-gn\">expertises</style> sont améliorées. La <style=\"accent-gn\">Refonte photonique</style> se vide progressivement et l'état prend fin lorsqu'elle atteint <style=\"accent-gn\">0</style>.",
+    "Id": 1138,
+    "Par": 3401138,
+    "ShowRule": 1,
+    "Text": "Refonte photonique",
+    "Type": 3
+  },
+  "1139": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">80 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">5</style> m. Pour chaque ennemi supplémentaire touché, augmente les dégâts infligés de <style=\"accent-gn\">30 %</style> (jusqu'à +<style=\"accent-gn\">120 %</style>, selon le niveau/palier de l'<style=\"accent-gn\">attaque de base,</style>).",
+    "Id": 1139,
+    "Par": 3401139,
+    "ShowRule": 1,
+    "Text": "Balayage de queue",
+    "Type": 3
+  },
+  "1140": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque à un ennemi et lui inflige <style=\"accent-gn\">Saignement</style>.",
+    "Id": 1140,
+    "Par": 3401140,
+    "ShowRule": 1,
+    "Text": "Bond mordant",
+    "Type": 3
+  },
+  "1141": {
+    "Description": "L'effet dure <style=\"accent-gn\">5 s</style>, infligeant des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">10 %</style> de l'attaque par seconde. Si le même <style=\"accent-gn\">Saignement</style> est appliqué à nouveau avant la fin du précédent, tous les dégâts restants du <style=\"accent-gn\">Saignement</style> précédent sont infligés immédiatement.",
+    "Id": 1141,
+    "Par": 3401141,
+    "ShowRule": 1,
+    "Text": "Saignement",
+    "Type": 3
+  },
+  "1142": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">50 %</style> de l'attaque à l'ennemi.",
+    "Id": 1142,
+    "Par": 3401142,
+    "ShowRule": 1,
+    "Text": "Flèche chasse-lumière",
+    "Type": 3
+  },
+  "1143": {
+    "Description": "Inflige à l'ennemi des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">410 %</style> de l'attaque.",
+    "Id": 1143,
+    "Par": 3401143,
+    "ShowRule": 1,
+    "Text": "Coup de foudre",
+    "Type": 3
+  },
+  "1144": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">3</style> m.",
+    "Id": 1144,
+    "Par": 3401144,
+    "ShowRule": 1,
+    "Text": "Flèche explosive",
+    "Type": 3
+  },
+  "1145": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">250 %</style> de l'attaque aux ennemis à portée.",
+    "Id": 1145,
+    "Par": 3401145,
+    "ShowRule": 1,
+    "Text": "Piétinement",
+    "Type": 3
+  },
+  "1146": {
+    "Description": "Bat des ailes sur place, augmentant le taux de gain d'Énergie photonique de <style=\"accent-gn\">100 %</style> pendant <style=\"accent-gn\">10</style> s.",
+    "Id": 1146,
+    "Par": 3401146,
+    "ShowRule": 1,
+    "Text": "Aigle légendaire",
+    "Type": 3
+  },
+  "1147": {
+    "Description": "Pousse un hurlement féroce, augmentant le bonus de lumière de <style=\"accent-gn\">50 %</style> pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1147,
+    "Par": 3401147,
+    "ShowRule": 1,
+    "Text": "Sanglier Légendaire",
+    "Type": 3
+  },
+  "1148": {
+    "Description": "Lorsque les cumuls de <style=\"accent-gn\">Bec d'acier</style> atteignent <style=\"accent-gn\">5</style> ou plus, chaque cumul supplémentaire de <style=\"accent-gn\">Bec d'acier</style> obtenu a une chance fixe de <style=\"accent-gn\">30 %</style> de déclencher une <style=\"accent-gn\">Implosion</style>, infligeant des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque aux ennemis à portée. <style=\"accent-gn\">Bec d'acier</style> perd <style=\"accent-gn\">1</style> cumul <style=\"accent-gn\">par</style> seconde et peut se cumuler jusqu'à <style=\"accent-gn\">20</style> fois.",
+    "Id": 1148,
+    "Par": 3401148,
+    "ShowRule": 1,
+    "Text": "Bec d'acier",
+    "Type": 3
+  },
+  "1149": {
+    "Description": "Crée une tempête d'un rayon de <style=\"accent-gn\">5</style> m, infligeant <style=\"accent-gn\">80 %</style> de l'attaque en <style=\"magic\">dégâts d'attaque</style> qui ignorent l'armure aux cibles marquées par <style=\"accent-gn\">Bec d'acier</style> à l'intérieur de la tempête toutes les <style=\"accent-gn\">0</style>,<style=\"accent-gn\">5 s</style>. Après <style=\"accent-gn\">5 s</style>, l'<style=\"accent-gn\">Aigle céleste</style> plonge au sol et inflige <style=\"accent-gn\">500 %</style> de l'attaque en <style=\"magic\">dégâts d'attaque</style> qui ignorent l'armure.",
+    "Id": 1149,
+    "Par": 3401149,
+    "ShowRule": 1,
+    "Text": "Aigle céleste",
+    "Type": 3
+  },
+  "1150": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">400 %</style> de l'attaque à l'ennemi.",
+    "Id": 1150,
+    "Par": 3401150,
+    "ShowRule": 1,
+    "Text": "Faucon fantôme",
+    "Type": 3
+  },
+  "1151": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">35 %</style> de l'attaque à l'ennemi (selon le niveau/palier de l'<style=\"accent-gn\">attaque de base</style>).",
+    "Id": 1151,
+    "Par": 3401151,
+    "ShowRule": 1,
+    "Text": "Flèche scindée",
+    "Type": 3
+  },
+  "1152": {
+    "Description": "Attaque <style=\"accent-gn\">+5 %</style> pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1152,
+    "Par": 3401152,
+    "ShowRule": 1,
+    "Text": "Tranchant",
+    "Type": 3
+  },
+  "1153": {
+    "Description": "La cible perd des PV égaux à <style=\"accent-gn\">25 %</style> de l'attaque par seconde pendant <style=\"accent-gn\">8 s</style>.",
+    "Id": 1153,
+    "Par": 3401153,
+    "ShowRule": 1,
+    "Text": "Déchirure",
+    "Type": 3
+  },
+  "1154": {
+    "Description": "Les dégâts de <style=\"accent-gn\">Déchirure</style> augmentent de <style=\"accent-gn\">100 %</style> pendant <style=\"accent-gn\">5 s</style>.",
+    "Id": 1154,
+    "Par": 3401154,
+    "ShowRule": 1,
+    "Text": "Rupture",
+    "Type": 3
+  },
+  "1155": {
+    "Description": "<style=\"accent-gn\">Force</style> <style=\"accent-gn\">+30 %</style> pendant <style=\"accent-gn\">12 s</style>.",
+    "Id": 1155,
+    "Par": 3401155,
+    "ShowRule": 1,
+    "Text": "Pic de vigueur",
+    "Type": 3
+  },
+  "1156": {
+    "Description": "Effet de chance : inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">150 %</style> de l'attaque.",
+    "Id": 1156,
+    "Par": 3401156,
+    "ShowRule": 1,
+    "Text": "Estoc de lance",
+    "Type": 3
+  },
+  "1157": {
+    "Description": "Dégâts de <style=\"accent-gn\">Lame instantanée</style> <style=\"accent-gn\">+30 %</style> pendant <style=\"accent-gn\">10 s</style>. Se cumule jusqu'à <style=\"accent-gn\">2</style> fois et 1 cumul est consommé après l'utilisation de <style=\"accent-gn\">Lame instantanée</style>.",
+    "Id": 1157,
+    "Par": 3401157,
+    "ShowRule": 1,
+    "Text": "Pas de poursuite",
+    "Type": 3
+  },
+  "1158": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">350 %</style> de l'attaque aux ennemis à portée.",
+    "Id": 1158,
+    "Par": 3401158,
+    "ShowRule": 1,
+    "Text": "Tornade",
+    "Type": 3
+  },
+  "1159": {
+    "Description": "Version améliorée d'<style=\"accent-gn\">Impact tranchant</style>. Bondit en l'air et inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">800 %</style> de l'attaque au total à la cible et aux ennemis alentour (selon le niveau/palier d'<style=\"accent-gn\">Impact tranchant</style>).",
+    "Id": 1159,
+    "Par": 3401159,
+    "ShowRule": 1,
+    "Text": "Typhon : Impact tranchant",
+    "Type": 3
+  },
+  "1160": {
+    "Description": "Quand Météore de glace inflige des dégâts, le <style=\"accent-gn\">Noyau de cristal de glace</style> tire une <style=\"accent-gn\">Flèche de glace</style>, conférant 1 <style=\"accent-gn\">Cristal de givre</style>.",
+    "Id": 1160,
+    "Par": 3401160,
+    "ShowRule": 1,
+    "Text": "Talent : Frappe fracassante",
+    "Type": 3
+  },
+  "1161": {
+    "Description": "Octroie des effets supplémentaires à certaines compétences.",
+    "Id": 1161,
+    "Par": 3401161,
+    "ShowRule": 1,
+    "Text": "Cristal de givre",
+    "Type": 3
+  },
+  "1162": {
+    "Description": "Inflige des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque à la cible.",
+    "Id": 1162,
+    "Par": 3401162,
+    "ShowRule": 1,
+    "Text": "Éclair de givre",
+    "Type": 3
+  },
+  "1163": {
+    "Description": "Inflige des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">3</style> m.",
+    "Id": 1163,
+    "Par": 3401163,
+    "ShowRule": 1,
+    "Text": "Choc de givre",
+    "Type": 3
+  },
+  "1164": {
+    "Description": "Lance une <style=\"accent-gn\">Lance de givre</style> qui transperce les cibles et inflige des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">250 %</style> de l'attaque.",
+    "Id": 1164,
+    "Par": 3401164,
+    "ShowRule": 1,
+    "Text": "Lance de glace perforante",
+    "Type": 3
+  },
+  "1165": {
+    "Description": "Effet de chance : invoque une <style=\"accent-gn\">Comète de givre</style> depuis le ciel, infligeant des <style=\"magic\">dégâts magiques</style> équivalents à <style=\"accent-gn\">200 %</style> de l'attaque à l'ennemi.",
+    "Id": 1165,
+    "Par": 3401165,
+    "ShowRule": 1,
+    "Text": "Comète de givre",
+    "Type": 3
+  },
+  "1166": {
+    "Description": "Libère une puissante impulsion du Reflet de givre, infligeant des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">500 %</style> de l'attaque aux ennemis touchés.",
+    "Id": 1166,
+    "Par": 3401166,
+    "ShowRule": 1,
+    "Text": "Impulsion froide",
+    "Type": 3
+  },
+  "1167": {
+    "Description": "Confère <style=\"accent-gn\">2</style> points d'<style=\"accent-gn\">Intention de la lame</style> par seconde. Commence avec un max de <style=\"accent-gn\">100</style> points d'<style=\"accent-gn\">Intention de la lame</style>.<br>Quand l'<style=\"accent-gn\">Intention de la lame</style> atteint <style=\"accent-gn\">100</style> points, accélère grandement l'utilisation de <style=\"accent-gn\">Taillade iaido</style>. Utiliser <style=\"accent-gn\">Taillade iaido</style> consomme <style=\"accent-gn\">100</style> points d'<style=\"accent-gn\">Intention de la lame</style>.<br>Les points d'<style=\"accent-gn\">Intention de la lame</style> peuvent aussi être utilisés comme ressource pour <style=\"accent-gn\">Coup de tonnerre</style>.",
+    "Id": 1167,
+    "Par": 3401167,
+    "ShowRule": 1,
+    "Text": "Intention de la lame",
+    "Type": 3
+  },
+  "1168": {
+    "Description": "Améliore l'efficacité du <style=\"accent-gn\">bouclier</style> de <style=\"accent-gn\">3 %</style>. L'effet dure <style=\"accent-gn\">10 s</style> et se cumule jusqu'à <style=\"accent-gn\">10</style> fois.",
+    "Id": 1168,
+    "Par": 3401168,
+    "ShowRule": 1,
+    "Text": "Abri sablonneux",
+    "Type": 3
+  },
+  "1169": {
+    "Description": "Saute et inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">400 %</style> de l'attaque aux ennemis à portée. Déclenche toujours <style=\"accent-gn\">Frappe sur point faible</style> (selon le niveau/palier de l'<style=\"accent-gn\">attaque de base</style>).",
+    "Id": 1169,
+    "Par": 3401169,
+    "ShowRule": 1,
+    "Text": "Coup furieux",
+    "Type": 3
+  },
+  "1170": {
+    "Description": "Confère une chance de <style=\"accent-gn\">bloquer</style> les <style=\"physical\">dégâts d'attaque</style> et de les réduire de <style=\"accent-gn\">30 %</style>.",
+    "Id": 1170,
+    "Par": 3401170,
+    "ShowRule": 1,
+    "Text": "Blocage",
+    "Type": 3
+  },
+  "1171": {
+    "Description": "Immobilise la cible et augmente les dégâts de glace subis de <style=\"accent-gn\">20 %</style> pendant <style=\"accent-gn\">10 s</style>. L'effet se brise si des dégâts sont subis. L'application rapide de cet effet sur une courte durée réduit sa durée totale. N'affecte pas les boss.",
+    "Id": 1171,
+    "Par": 3401171,
+    "ShowRule": 1,
+    "Text": "Gel",
+    "Type": 3
+  },
+  "1172": {
+    "Description": "Imprègne le bouclier de lumière, ce qui lui permet d'absorber <style=\"accent-gn\">50 %</style> des dégâts entrants. L'absorption peut se cumuler et la durée est réinitialisée quand la compétence est relancée. L'absorption max ne peut pas dépasser <style=\"accent-gn\">100 %</style> des PV max.",
+    "Id": 1172,
+    "Par": 3401172,
+    "ShowRule": 1,
+    "Text": "Bouclier radieux",
+    "Type": 3
+  },
+  "1173": {
+    "Description": "Restaure des PV égaux à <style=\"accent-gn\">20 %</style> de l'attaque pour les alliés toutes les <style=\"accent-gn\">0,5 s</style> pendant <style=\"accent-gn\">5 s</style>.",
+    "Id": 1173,
+    "Par": 3401173,
+    "ShowRule": 1,
+    "Text": "Déferlante sonique",
+    "Type": 3
+  },
+  "1174": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">150 %</style> de l'attaque à l'ennemi.",
+    "Id": 1174,
+    "Par": 3401174,
+    "ShowRule": 1,
+    "Text": "Impact radieux",
+    "Type": 3
+  },
+  "1175": {
+    "Description": "Chaque cumul augmente les PV max de <style=\"accent-gn\">2 %</style>, et la <style=\"accent-gn\">Barrière forgée par la lumière</style> se cumule jusqu'à <style=\"accent-gn\">10</style> fois. Chaque dégât entrant consomme <style=\"accent-gn\">1</style> cumul. L'effet dure <style=\"accent-gn\">25 s</style> ou jusqu'à consommation de tous les cumuls. La durée est réinitialisée à chaque nouveau cumul obtenu.",
+    "Id": 1175,
+    "Par": 3401175,
+    "ShowRule": 1,
+    "Text": "Barrière forgelumière",
+    "Type": 3
+  },
+  "1176": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> équivalents à <style=\"accent-gn\">240 %</style> de l'attaque à la cible, selon le niveau/palier de <style=\"accent-gn\">Frappe d'avant-garde</style>. <br>Lorsque <style=\"accent-gn\">Chasse d'avant-garde</style> inflige des dégâts, restaure <style=\"accent-gn\">2 %</style> des PV max et confère <style=\"accent-gn\">Courage intrépide</style>.",
+    "Id": 1176,
+    "Par": 3401176,
+    "ShowRule": 1,
+    "Text": "Chasse d'avant-garde",
+    "Type": 3
+  },
+  "1177": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> équivalents à <style=\"accent-gn\">50 %</style> de l'attaque et réduit la vitesse de déplacement de la cible de <style=\"accent-gn\">25 %</style>.",
+    "Id": 1177,
+    "Par": 3401177,
+    "ShowRule": 1,
+    "Text": "Frappe divine",
+    "Type": 3
+  },
+  "1178": {
+    "Description": "<style=\"accent-gn\">Mélodie</style> (Description)",
+    "Id": 1178,
+    "Par": 3401178,
+    "ShowRule": 1,
+    "Text": "Mélodie",
+    "Type": 3
+  },
+  "1179": {
+    "Description": "<style=\"accent-gn\">Force</style> <style=\"accent-gn\">+12 %</style> pendant <style=\"accent-gn\">8 s</style>.",
+    "Id": 1179,
+    "Par": 3401179,
+    "ShowRule": 1,
+    "Text": "Frappe-tempête",
+    "Type": 3
+  },
+  "1180": {
+    "Description": "Tire une note de corde sur un ennemi/allié proche, infligeant des dégâts ou des soins égaux à <style=\"accent-gn\">50 %</style> de l'ATQ ou de l'ATQM la plus élevée.",
+    "Id": 1180,
+    "Par": 3401180,
+    "ShowRule": 1,
+    "Text": "Rappel",
+    "Type": 3
+  },
+  "1181": {
+    "Description": "<style=\"accent-gn\">Intelligence</style> <style=\"accent-gn\">+5 %</style> pendant <style=\"accent-gn\">6 s</style>.",
+    "Id": 1181,
+    "Par": 3401181,
+    "ShowRule": 1,
+    "Text": "Passion Ardente",
+    "Type": 3
+  },
+  "1182": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">50 %</style> *cumuls d'attaque par seconde pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1182,
+    "Par": 3401182,
+    "ShowRule": 1,
+    "Text": "Brûlure",
+    "Type": 3
+  },
+  "1183": {
+    "Description": "<style=\"accent-gn\">Note</style> (Description)",
+    "Id": 1183,
+    "Par": 3401183,
+    "ShowRule": 1,
+    "Text": "Note",
+    "Type": 3
+  },
+  "1184": {
+    "Description": "<style=\"accent-gn\">Déferlante sonore</style>",
+    "Id": 1184,
+    "Par": 3401184,
+    "ShowRule": 1,
+    "Text": "Déferlante Sonore",
+    "Type": 3
+  },
+  "1185": {
+    "Description": "Soigne les alliés proches d'un montant égal à <style=\"accent-gn\">10 %</style> de l'ATQM du Virtuose du rythme.",
+    "Id": 1185,
+    "Par": 3401185,
+    "ShowRule": 1,
+    "Text": "Vague de guérison",
+    "Type": 3
+  },
+  "1186": {
+    "Description": "<style=\"accent-gn\">Barrière sonique</style>",
+    "Id": 1186,
+    "Par": 3401186,
+    "ShowRule": 1,
+    "Text": "Barrière Sonique",
+    "Type": 3
+  },
+  "1187": {
+    "Description": "Augmente les dégâts infligés de <style=\"accent-gn\">15 %</style> et la VIT ATQ de <style=\"accent-gn\">10 %</style> pendant <style=\"accent-gn\">15 s</style>.",
+    "Id": 1187,
+    "Par": 3401187,
+    "ShowRule": 1,
+    "Text": "Fureur du vent",
+    "Type": 3
+  },
+  "1188": {
+    "Description": "Inflige <style=\"accent-gn\">80 %</style> de l'attaque en <style=\"physical\">dégâts d'attaque</style> aux cibles ennemies.",
+    "Id": 1188,
+    "Par": 3401188,
+    "ShowRule": 1,
+    "Text": "Flèche photonique",
+    "Type": 3
+  },
+  "1189": {
+    "Description": "Inflige <style=\"accent-gn\">300 %</style> de l'attaque en <style=\"magic\">dégâts magiques</style> aux ennemis proches.",
+    "Id": 1189,
+    "Par": 3401189,
+    "ShowRule": 1,
+    "Text": "Impact verdoyant",
+    "Type": 3
+  },
+  "1190": {
+    "Description": "Inflige des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">60 %</style> de l'attaque aux ennemis à portée (selon le niveau/palier de l'<style=\"accent-gn\">attaque de base</style>).",
+    "Id": 1190,
+    "Par": 3401190,
+    "ShowRule": 1,
+    "Text": "Explosion du pilier de flammes",
+    "Type": 3
+  },
+  "1191": {
+    "Description": "Libère une onde de choc enflammée dans un rayon de <style=\"accent-gn\">5</style> m autour de soi, infligeant des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque aux ennemis touchés.",
+    "Id": 1191,
+    "Par": 3401191,
+    "ShowRule": 1,
+    "Text": "Impact brûlant",
+    "Type": 3
+  },
+  "1192": {
+    "Description": "Restaure un total de PV égaux à <style=\"accent-gn\">35 %</style> de l'attaque sur <style=\"accent-gn\">10 s</style>. Lorsqu'une <style=\"accent-gn\">Note</style> est appliquée à nouveau, elle déclenche immédiatement le soin restant de la <style=\"accent-gn\">Note</style> précédente.",
+    "Id": 1192,
+    "Par": 3401192,
+    "ShowRule": 1,
+    "Text": "Note",
+    "Type": 3
+  },
+  "1193": {
+    "Description": "Chaque fois qu'une <style=\"accent-gn\">compétence d'expertise</style> de dégâts ou de soin est lancée, elle a <style=\"accent-gn\">50 %</style> de chances fixes de déclencher <style=\"accent-gn\">Cordes de rappel</style> une fois, infligeant des dégâts à la cible actuelle ou soignant l'allié au nombre de PV le plus faible (alliés prioritaires).",
+    "Id": 1193,
+    "Par": 3401193,
+    "ShowRule": 1,
+    "Text": "Cordes de rappel",
+    "Type": 3
+  },
+  "1194": {
+    "Description": "Se déplace et canalise pendant 6 s, lançant continuellement Explosion de passion vers l'avant.",
+    "Id": 1194,
+    "Par": 3401194,
+    "ShowRule": 1,
+    "Text": "Fureur passionnée",
+    "Type": 3
+  },
+  "1195": {
+    "Description": "Gagne instantanément <style=\"accent-gn\">100</style> points d'<style=\"accent-gn\">énergie</style> et réinitialise immédiatement le temps de recharge de toutes les compétences d'<style=\"accent-gn\">expertise</style> de soin. Augmente l'ATQM de <style=\"accent-gn\">30 %</style> pendant <style=\"accent-gn\">10 s</style>.",
+    "Id": 1195,
+    "Par": 3401195,
+    "ShowRule": 1,
+    "Text": "Élévation",
+    "Type": 3
+  },
+  "1196": {
+    "Description": "Lève le bouclier et charge en avant, infligeant des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">200 %</style> de l'attaque aux ennemis touchés.",
+    "Id": 1196,
+    "Par": 3401196,
+    "ShowRule": 1,
+    "Text": "Impact de bouclier",
+    "Type": 3
+  },
+  "1197": {
+    "Description": "Inflige des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque aux ennemis à portée.",
+    "Id": 1197,
+    "Par": 3401197,
+    "ShowRule": 1,
+    "Text": "Choc de flammes",
+    "Type": 3
+  },
+  "1198": {
+    "Description": "Après <style=\"accent-gn\">10 s</style>, libère une explosion d'<style=\"accent-gn\">énergie</style> sacrée, infligeant des dégâts d'attaque égaux à <style=\"accent-gn\">500 %</style> de l'<style=\"physical\">ATQ</style> et restaurant <style=\"accent-gn\">15 %</style> des PV max.",
+    "Id": 1198,
+    "Par": 3401198,
+    "ShowRule": 1,
+    "Text": "Noyau radieux",
+    "Type": 3
+  },
+  "1199": {
+    "Description": "La cible subit des dégâts égaux à <style=\"accent-gn\">20 %</style> de l'attaque chaque seconde pendant <style=\"accent-gn\">10 s</style>. Pendant ce temps, chaque fois que la cible vous inflige des dégâts, vous avez <style=\"accent-gn\">10 %</style> de chances fixes de restaurer <style=\"accent-gn\">0,5 %</style> de vos PV max.",
+    "Id": 1199,
+    "Par": 3401199,
+    "ShowRule": 1,
+    "Text": "Marque sacrée",
+    "Type": 3
+  },
+  "1200": {
+    "Description": "Effet de chance : inflige des dégâts adaptatifs équivalents à <style=\"accent-gn\">1 375 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">3 m</style>, mais ne peut pas infliger de coup critique.",
+    "Id": 1200,
+    "Par": 3401200,
+    "ShowRule": 1,
+    "Text": "Impact Fantasia",
+    "Type": 3
+  },
+  "1201": {
+    "Description": "Inflige des dégâts adaptatifs équivalents à <style=\"accent-gn\">850 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">3 m</style>, et les dégâts critiques atteignent <style=\"accent-gn\">500 %</style>.",
+    "Id": 1201,
+    "Par": 3401201,
+    "ShowRule": 1,
+    "Text": "Exécution fantôme",
+    "Type": 3
+  },
+  "1202": {
+    "Description": "Inflige des dégâts adaptatifs équivalents à <style=\"accent-gn\">165 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">3 m</style>.",
+    "Id": 1202,
+    "Par": 3401202,
+    "ShowRule": 1,
+    "Text": "Flèche fantôme",
+    "Type": 3
+  },
+  "1203": {
+    "Description": "Augmente l'attaque de <style=\"accent-gn\">18</style> par cumul (jusqu'à +<style=\"accent-gn\">50</style>, progresse avec le niveau de la saison).",
+    "Id": 1203,
+    "Par": 3401203,
+    "ShowRule": 1,
+    "Text": "Rêve de mirage",
+    "Type": 3
+  },
+  "1204": {
+    "Description": "Augmente les statistiques principales de <style=\"accent-gn\">450</style> (jusqu'à <style=\"accent-gn\">1 050</style>, progresse avec le niveau de la saison). Impossible d'obtenir Vestige tant que l'effet est actif.",
+    "Id": 1204,
+    "Par": 3401204,
+    "ShowRule": 1,
+    "Text": "Force onirique",
+    "Type": 3
+  },
+  "1205": {
+    "Description": "Attaque -<style=\"accent-gn\">20 %</style>, dégâts oniriques subis +<style=\"accent-gn\">10 %</style>, vitesse de déplacement -<style=\"accent-gn\">20 %</style> (non cumulable).",
+    "Id": 1205,
+    "Par": 3401205,
+    "ShowRule": 1,
+    "Text": "Oubli",
+    "Type": 3
+  },
+  "1206": {
+    "Description": "Inflige des dégâts adaptatifs égaux à <style=\"accent-gn\">200 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">5 m</style> et les <linktext=3005><style=\"ItemQuality_5\">étourdit</style></linktext> pendant <style=\"accent-gn\">1,</style><style=\"accent-gn\">5 s</style>.",
+    "Id": 1206,
+    "Par": 3401206,
+    "ShowRule": 1,
+    "Text": "Frappe d'annihilation",
+    "Type": 3
+  },
+  "1207": {
+    "Description": "Immunise contre la mort.",
+    "Id": 1207,
+    "Par": 3401207,
+    "ShowRule": 1,
+    "Text": "Acharnement",
+    "Type": 3
+  },
+  "1208": {
+    "Description": "Inflige des dégâts adaptatifs équivalents à <style=\"accent-gn\">330 %</style> de l'armure aux ennemis dans un rayon de <style=\"accent-gn\">5 m</style>.",
+    "Id": 1208,
+    "Par": 3401208,
+    "ShowRule": 1,
+    "Text": "Illusion brisée",
+    "Type": 3
+  },
+  "1209": {
+    "Description": "PV max +<style=\"accent-gn\">3 %</style>, maîtrise +<style=\"accent-gn\">2 %</style>, jusqu'à <style=\"accent-gn\">3</style> cumuls.",
+    "Id": 1209,
+    "Par": 3401209,
+    "ShowRule": 1,
+    "Text": "Esprit infini",
+    "Type": 3
+  },
+  "1210": {
+    "Description": "Tous les <style=\"accent-gn\">2</style> points de FOR/INT/AGI sont convertis en <style=\"accent-gn\">1</style> point d'attaque.<br>Chaque <style=\"accent-gn\">1</style> point d'endurance est converti en <style=\"accent-gn\">8</style> PV max.<br>Chaque <style=\"accent-gn\">1 %</style> de célérité est converti en <style=\"accent-gn\">0,6 %</style> de VIT ATQ et <style=\"accent-gn\">1 %</style> de VIT INC.<br>Chaque <style=\"accent-gn\">1 %</style> de polyvalence augmente les dégâts infligés, les soins prodigués et les boucliers de <style=\"accent-gn\">0,35 %</style>, et la réduction de dégâts de <style=\"accent-gn\">0,15 %</style>.<br>Chaque <style=\"accent-gn\">1 %</style> de maîtrise est converti en bonus de dégâts universel de <style=\"accent-gn\">0,5 %</style>.",
+    "Id": 1210,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Puissance de l'Artisan",
+    "Type": 1
+  },
+  "1211": {
+    "Description": "Vitesse d'attaque de <style=\"accent-gn\">compétence d'expertise</style> +<style=\"accent-gn\">5 %</style> pendant <style=\"accent-gn\">10</style> s, cumulable jusqu'à <style=\"accent-gn\">5</style> fois.",
+    "Id": 1211,
+    "Par": 3401211,
+    "ShowRule": 1,
+    "Text": "Combo infernal.",
+    "Type": 3
+  },
+  "1212": {
+    "Description": "Confère <style=\"accent-gn\">10 %</style> de bonus de feu pendant <style=\"accent-gn\">8</style> s.",
+    "Id": 1212,
+    "Par": 3401212,
+    "ShowRule": 1,
+    "Text": "Embrasement.",
+    "Type": 3
+  },
+  "1213": {
+    "Description": "Inflige <style=\"accent-gn\">35 % × le nombre de cumuls</style> de l'attaque en <style=\"physical\">dégâts d'attaque</style> toutes les <style=\"accent-gn\">2</style> s pendant <style=\"accent-gn\">10</style> s, cumulable jusqu'à <style=\"accent-gn\">10</style> fois. Lorsque <style=\"accent-gn\">Brûlure</style> atteint le nombre de cumuls max, toute nouvelle <style=\"accent-gn\">Brûlure</style> appliquée inflige immédiatement <style=\"accent-gn\">35 %</style> de l'attaque en <style=\"physical\">dégâts d'attaque</style>.",
+    "Id": 1213,
+    "Par": 3401213,
+    "ShowRule": 1,
+    "Text": "Brûlure.",
+    "Type": 3
+  },
+  "1214": {
+    "Description": "Inflige <style=\"accent-gn\">800 %</style> de l'attaque en <style=\"physical\">dégâts d'attaque</style> aux ennemis à portée, et confère <style=\"accent-gn\">10</style> <style=\"accent-gn\">Âmes de flamme</style>.",
+    "Id": 1214,
+    "Par": 3401214,
+    "ShowRule": 1,
+    "Text": "Explosion.",
+    "Type": 3
+  },
+  "1215": {
+    "Description": "Inflige <style=\"accent-gn\">500 %</style> de l'attaque en <style=\"physical\">dégâts d'attaque</style> aux cibles ennemies.",
+    "Id": 1215,
+    "Par": 3401215,
+    "ShowRule": 1,
+    "Text": "Météore de feu infernal.",
+    "Type": 3
+  },
+  "1216": {
+    "Description": "Chaque coup a une chance d'ajouter des stades supplémentaires basés sur le multiplicateur de compétence actuel :<br>Taillade de flamme informe<style=\"accent-gn\"> stade 1</style> Chances : <style=\"accent-gn\">20 %</style>.<br>Taillade de flamme informe<style=\"accent-gn\"> stade 2</style> Chances : <style=\"accent-gn\">10 %</style>.<br>Taillade de flamme informe<style=\"accent-gn\"> stade 3</style> Chances : <style=\"accent-gn\">5 %</style>.",
+    "Id": 1216,
+    "Par": 3401216,
+    "ShowRule": 1,
+    "Text": "Taillade de flamme informe.",
+    "Type": 3
+  },
+  "1217": {
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> équivalant à <style=\"accent-gn\">800 %</style> de l'ATQ aux ennemis à portée.",
+    "Id": 1217,
+    "Par": 3401217,
+    "ShowRule": 1,
+    "Text": "Grand lotus pourpre",
+    "Type": 3
+  },
+  "1218": {
+    "Description": "Lorsque des dégâts sont subis, si le pourcentage de PV propres est supérieur à celui de l'attaquant, les dégâts subis de la part de cet attaquant sont réduits de <style=\"accent-gn\">10 %</style>.<br>Lorsque des dégâts sont infligés, si le pourcentage de PV propres est supérieur à celui de la cible, les dégâts infligés à cette cible sont augmentés de <style=\"accent-gn\">5 %</style>.",
+    "Id": 1218,
+    "Par": 3401218,
+    "ShowRule": 1,
+    "Text": "Suppression de flamme",
+    "Type": 3
+  },
+  "1219": {
+    "Description": "Tous les <style=\"accent-gn\">2</style> FOR/INT/AGI sont convertis en <style=\"accent-gn\">1</style> ATQ.<br>Chaque <style=\"accent-gn\">1</style> endurance est convertie en <style=\"accent-gn\">8</style> PV max.<br><style=\"accent-gn\">CRIT %</style>, <style=\"accent-gn\">chance %</style>, <style=\"accent-gn\">maîtrise %</style>, <style=\"accent-gn\">célérité %</style> et <style=\"accent-gn\">polyvalence %</style> perdent leurs effets d'origine et obtiennent une nouvelle capacité : les dégâts de la compétence de résonance actuelle infligent un coup critique garanti, mais les dégâts critiques sont fixes et calculés comme la somme de <style=\"accent-gn\">CRIT % + chance % + maîtrise % + célérité % + polyvalence %</style>.",
+    "Id": 1219,
+    "Par": 0,
+    "ShowRule": 2,
+    "Text": "Conversion de capacité",
+    "Type": 1
+  },
+  "1500": {
+    "Description": "",
+    "Id": 1500,
+    "Par": 1714,
+    "ShowRule": 1,
+    "Text": "​Taillade iaido​",
+    "Type": 2
+  },
+  "1501": {
+    "Description": "",
+    "Id": 1501,
+    "Par": 1717,
+    "ShowRule": 1,
+    "Text": "Frappe éclair",
+    "Type": 2
+  },
+  "1502": {
+    "Description": "",
+    "Id": 1502,
+    "Par": 1713,
+    "ShowRule": 1,
+    "Text": "Combo de l'oubli",
+    "Type": 2
+  },
+  "1503": {
+    "Description": "",
+    "Id": 1503,
+    "Par": 1724,
+    "ShowRule": 1,
+    "Text": "Coup de tonnerre",
+    "Type": 2
+  },
+  "1504": {
+    "Description": "",
+    "Id": 1504,
+    "Par": 1730,
+    "ShowRule": 1,
+    "Text": "Surtension",
+    "Type": 2
+  },
+  "1505": {
+    "Description": "",
+    "Id": 1505,
+    "Par": 1731,
+    "ShowRule": 1,
+    "Text": "Éclair de tempête",
+    "Type": 2
+  },
+  "1506": {
+    "Description": "",
+    "Id": 1506,
+    "Par": 1738,
+    "ShowRule": 1,
+    "Text": "​Briseur du chaos​",
+    "Type": 2
+  },
+  "1507": {
+    "Description": "",
+    "Id": 1507,
+    "Par": 1715,
+    "ShowRule": 1,
+    "Text": "Frappe lunaire",
+    "Type": 2
+  },
+  "1508": {
+    "Description": "",
+    "Id": 1508,
+    "Par": 1246,
+    "ShowRule": 1,
+    "Text": "Bassin des marées",
+    "Type": 2
+  },
+  "1509": {
+    "Description": "",
+    "Id": 1509,
+    "Par": 1241,
+    "ShowRule": 1,
+    "Text": "Rayon de givre",
+    "Type": 2
+  },
+  "1510": {
+    "Description": "",
+    "Id": 1510,
+    "Par": 1211,
+    "ShowRule": 1,
+    "Text": "Voile de cristal",
+    "Type": 2
+  },
+  "1511": {
+    "Description": "",
+    "Id": 1511,
+    "Par": 1239,
+    "ShowRule": 1,
+    "Text": "Tempête de météores",
+    "Type": 2
+  },
+  "1512": {
+    "Description": "",
+    "Id": 1512,
+    "Par": 1242,
+    "ShowRule": 1,
+    "Text": "Lance de givre",
+    "Type": 2
+  },
+  "1513": {
+    "Description": "",
+    "Id": 1513,
+    "Par": 1244,
+    "ShowRule": 1,
+    "Text": "Blizzard",
+    "Type": 2
+  },
+  "1514": {
+    "Description": "",
+    "Id": 1514,
+    "Par": 1240,
+    "ShowRule": 1,
+    "Text": "Bourrasque gelée",
+    "Type": 2
+  },
+  "1515": {
+    "Description": "",
+    "Id": 1515,
+    "Par": 1243,
+    "ShowRule": 1,
+    "Text": "Gelée éternelle",
+    "Type": 2
+  },
+  "1516": {
+    "Description": "",
+    "Id": 1516,
+    "Par": 1248,
+    "ShowRule": 1,
+    "Text": "Hymne glacial​",
+    "Type": 2
+  },
+  "1517": {
+    "Description": "",
+    "Id": 1517,
+    "Par": 1418,
+    "ShowRule": 1,
+    "Text": "Percée de la bourrasque",
+    "Type": 2
+  },
+  "1518": {
+    "Description": "",
+    "Id": 1518,
+    "Par": 1430,
+    "ShowRule": 1,
+    "Text": "Cyclone de vaillance",
+    "Type": 2
+  },
+  "1519": {
+    "Description": "",
+    "Id": 1519,
+    "Par": 1424,
+    "ShowRule": 1,
+    "Text": "Lame instantanée",
+    "Type": 2
+  },
+  "1520": {
+    "Description": "",
+    "Id": 1520,
+    "Par": 1419,
+    "ShowRule": 1,
+    "Text": "Effondrement céleste",
+    "Type": 2
+  },
+  "1521": {
+    "Description": "",
+    "Id": 1521,
+    "Par": 1431,
+    "ShowRule": 1,
+    "Text": "Impact tranchant",
+    "Type": 2
+  },
+  "1522": {
+    "Description": "",
+    "Id": 1522,
+    "Par": 1422,
+    "ShowRule": 1,
+    "Text": "Poursuite de la brèche",
+    "Type": 2
+  },
+  "1523": {
+    "Description": "",
+    "Id": 1523,
+    "Par": 1421,
+    "ShowRule": 1,
+    "Text": "Percée en spirale",
+    "Type": 2
+  },
+  "1524": {
+    "Description": "",
+    "Id": 1524,
+    "Par": 1425,
+    "ShowRule": 1,
+    "Text": "Lancer de faucon",
+    "Type": 2
+  },
+  "1525": {
+    "Description": "",
+    "Id": 1525,
+    "Par": 1409,
+    "ShowRule": 1,
+    "Text": "Entaille du typhon",
+    "Type": 2
+  },
+  "1526": {
+    "Description": "",
+    "Id": 1526,
+    "Par": 1518,
+    "ShowRule": 1,
+    "Text": "Floraison sauvage",
+    "Type": 2
+  },
+  "1527": {
+    "Description": "",
+    "Id": 1527,
+    "Par": 1507,
+    "ShowRule": 1,
+    "Text": "Floraison vitale",
+    "Type": 2
+  },
+  "1528": {
+    "Description": "",
+    "Id": 1528,
+    "Par": 1522,
+    "ShowRule": 1,
+    "Text": "Nourrir",
+    "Type": 2
+  },
+  "1529": {
+    "Description": "",
+    "Id": 1529,
+    "Par": 1519,
+    "ShowRule": 1,
+    "Text": "​Graine féroce​",
+    "Type": 2
+  },
+  "1530": {
+    "Description": "",
+    "Id": 1530,
+    "Par": 1520,
+    "ShowRule": 1,
+    "Text": "Infusion",
+    "Type": 2
+  },
+  "1531": {
+    "Description": "",
+    "Id": 1531,
+    "Par": 1509,
+    "ShowRule": 1,
+    "Text": "Floraison du cercle divin",
+    "Type": 2
+  },
+  "1532": {
+    "Description": "",
+    "Id": 1532,
+    "Par": 1523,
+    "ShowRule": 1,
+    "Text": "Impulsion régénérante",
+    "Type": 2
+  },
+  "1533": {
+    "Description": "",
+    "Id": 1533,
+    "Par": 1529,
+    "ShowRule": 1,
+    "Text": "​Charge florale",
+    "Type": 2
+  },
+  "1534": {
+    "Description": "",
+    "Id": 1534,
+    "Par": 1521,
+    "ShowRule": 1,
+    "Text": "Souhait du bosquet",
+    "Type": 2
+  },
+  "1535": {
+    "Description": "",
+    "Id": 1535,
+    "Par": 1531,
+    "ShowRule": 1,
+    "Text": "​Protection de la nature​",
+    "Type": 2
+  },
+  "1536": {
+    "Description": "",
+    "Id": 1536,
+    "Par": 1907,
+    "ShowRule": 1,
+    "Text": "Écho fracturant",
+    "Type": 2
+  },
+  "1537": {
+    "Description": "",
+    "Id": 1537,
+    "Par": 1924,
+    "ShowRule": 1,
+    "Text": "Rupture stellaire",
+    "Type": 2
+  },
+  "1538": {
+    "Description": "",
+    "Id": 1538,
+    "Par": 1931,
+    "ShowRule": 1,
+    "Text": "Contre-écrasement",
+    "Type": 2
+  },
+  "1539": {
+    "Description": "",
+    "Id": 1539,
+    "Par": 1937,
+    "ShowRule": 1,
+    "Text": "Furie de granit",
+    "Type": 2
+  },
+  "1540": {
+    "Description": "",
+    "Id": 1540,
+    "Par": 1922,
+    "ShowRule": 1,
+    "Text": "Coup de bouclier",
+    "Type": 2
+  },
+  "1541": {
+    "Description": "",
+    "Id": 1541,
+    "Par": 1927,
+    "ShowRule": 1,
+    "Text": "Voile de sable",
+    "Type": 2
+  },
+  "1542": {
+    "Description": "",
+    "Id": 1542,
+    "Par": 1936,
+    "ShowRule": 1,
+    "Text": "Forme de pierre",
+    "Type": 2
+  },
+  "1543": {
+    "Description": "",
+    "Id": 1543,
+    "Par": 1938,
+    "ShowRule": 1,
+    "Text": "Bastion du courage",
+    "Type": 2
+  },
+  "1544": {
+    "Description": "",
+    "Id": 1544,
+    "Par": 1925,
+    "ShowRule": 1,
+    "Text": "Explosion de rage",
+    "Type": 2
+  },
+  "1545": {
+    "Description": "",
+    "Id": 1545,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Tir Déferlant",
+    "Type": 2
+  },
+  "1546": {
+    "Description": "",
+    "Id": 1546,
+    "Par": 2209,
+    "ShowRule": 1,
+    "Text": "Éclair lumineux",
+    "Type": 2
+  },
+  "1547": {
+    "Description": "",
+    "Id": 1547,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "Double flèche",
+    "Type": 2
+  },
+  "1548": {
+    "Description": "",
+    "Id": 1548,
+    "Par": 2238,
+    "ShowRule": 1,
+    "Text": "Tir explosif",
+    "Type": 2
+  },
+  "1549": {
+    "Description": "",
+    "Id": 1549,
+    "Par": 2237,
+    "ShowRule": 1,
+    "Text": "Appel de la nature",
+    "Type": 2
+  },
+  "1550": {
+    "Description": "",
+    "Id": 1550,
+    "Par": 2232,
+    "ShowRule": 1,
+    "Text": "Pluie de flèches",
+    "Type": 2
+  },
+  "1551": {
+    "Description": "",
+    "Id": 1551,
+    "Par": 1528,
+    "ShowRule": 1,
+    "Text": "​Poussée vitale​",
+    "Type": 2
+  },
+  "1552": {
+    "Description": "",
+    "Id": 1552,
+    "Par": 1527,
+    "ShowRule": 1,
+    "Text": "​Guérifloraison​",
+    "Type": 2
+  },
+  "1553": {
+    "Description": "",
+    "Id": 1553,
+    "Par": 1420,
+    "ShowRule": 1,
+    "Text": "​Forme de bourrasque​",
+    "Type": 2
+  },
+  "1554": {
+    "Description": "",
+    "Id": 1554,
+    "Par": 1718,
+    "ShowRule": 1,
+    "Text": "Ruée de Raijin",
+    "Type": 2
+  },
+  "1555": {
+    "Description": "",
+    "Id": 1555,
+    "Par": 2231,
+    "ShowRule": 1,
+    "Text": "Concentration",
+    "Type": 2
+  },
+  "1556": {
+    "Description": "",
+    "Id": 1556,
+    "Par": 1705,
+    "ShowRule": 1,
+    "Text": "Surrégime",
+    "Type": 2
+  },
+  "1557": {
+    "Description": "",
+    "Id": 1557,
+    "Par": 2222,
+    "ShowRule": 1,
+    "Text": "​Quadraflamboiement​",
+    "Type": 2
+  },
+  "1558": {
+    "Description": "",
+    "Id": 1558,
+    "Par": 1210,
+    "ShowRule": 1,
+    "Text": "Maelström",
+    "Type": 2
+  },
+  "1559": {
+    "Description": "",
+    "Id": 1559,
+    "Par": 2421,
+    "ShowRule": 1,
+    "Text": "Lame sacrée",
+    "Type": 2
+  },
+  "1560": {
+    "Description": "",
+    "Id": 1560,
+    "Par": 2409,
+    "ShowRule": 1,
+    "Text": "Cercle divin",
+    "Type": 2
+  },
+  "1561": {
+    "Description": "",
+    "Id": 1561,
+    "Par": 2405,
+    "ShowRule": 1,
+    "Text": "Coup de vaillance",
+    "Type": 2
+  },
+  "1562": {
+    "Description": "",
+    "Id": 1562,
+    "Par": 2408,
+    "ShowRule": 1,
+    "Text": "Lancer de bouclier",
+    "Type": 2
+  },
+  "1563": {
+    "Description": "",
+    "Id": 1563,
+    "Par": 2412,
+    "ShowRule": 1,
+    "Text": "Châtiment",
+    "Type": 2
+  },
+  "1564": {
+    "Description": "",
+    "Id": 1564,
+    "Par": 2410,
+    "ShowRule": 1,
+    "Text": "Jugement",
+    "Type": 2
+  },
+  "1565": {
+    "Description": "",
+    "Id": 1565,
+    "Par": 2415,
+    "ShowRule": 1,
+    "Text": "Protection d'égide",
+    "Type": 2
+  },
+  "1566": {
+    "Description": "",
+    "Id": 1566,
+    "Par": 2406,
+    "ShowRule": 1,
+    "Text": "Frappe d'avant-garde",
+    "Type": 2
+  },
+  "1567": {
+    "Description": "",
+    "Id": 1567,
+    "Par": 2419,
+    "ShowRule": 1,
+    "Text": "Croisade fanatique",
+    "Type": 2
+  },
+  "1568": {
+    "Description": "",
+    "Id": 1568,
+    "Par": 2420,
+    "ShowRule": 1,
+    "Text": "Radiance",
+    "Type": 2
+  },
+  "1569": {
+    "Description": "",
+    "Id": 1569,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Mélodie entraînante",
+    "Type": 2
+  },
+  "1570": {
+    "Description": "",
+    "Id": 1570,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Vague thermique",
+    "Type": 2
+  },
+  "1571": {
+    "Description": "",
+    "Id": 1571,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Vortex Rythmique",
+    "Type": 2
+  },
+  "1572": {
+    "Description": "",
+    "Id": 1572,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Glissade Passionnée",
+    "Type": 2
+  },
+  "1573": {
+    "Description": "",
+    "Id": 1573,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Feu à Volonté",
+    "Type": 2
+  },
+  "1574": {
+    "Description": "",
+    "Id": 1574,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Regain de Vitalité",
+    "Type": 2
+  },
+  "1575": {
+    "Description": "",
+    "Id": 1575,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Mélodie Florissante",
+    "Type": 2
+  },
+  "1576": {
+    "Description": "",
+    "Id": 1576,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Rhapsodie Passionnée",
+    "Type": 2
+  },
+  "1577": {
+    "Description": "",
+    "Id": 1577,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Onde Sonore Curative",
+    "Type": 2
+  },
+  "1578": {
+    "Description": "",
+    "Id": 1578,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Note Explosive",
+    "Type": 2
+  },
+  "1579": {
+    "Description": "",
+    "Id": 1579,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "Scène en folie",
+    "Type": 2
+  },
+  "1580": {
+    "Description": "",
+    "Id": 1580,
+    "Par": 2230,
+    "ShowRule": 1,
+    "Text": "Rafale torrentielle",
+    "Type": 2
+  },
+  "1581": {
+    "Description": "",
+    "Id": 1581,
+    "Par": 2234,
+    "ShowRule": 1,
+    "Text": "Déluge de radiance",
+    "Type": 2
+  },
+  "1582": {
+    "Description": "",
+    "Id": 1582,
+    "Par": 2233,
+    "ShowRule": 1,
+    "Text": "Tension maximale",
+    "Type": 2
+  },
+  "1583": {
+    "Description": "",
+    "Id": 1583,
+    "Par": 1524,
+    "ShowRule": 1,
+    "Text": "Croissance rapide",
+    "Type": 2
+  },
+  "1584": {
+    "Description": "",
+    "Id": 1584,
+    "Par": 1735,
+    "ShowRule": 1,
+    "Text": "Éclair draconique",
+    "Type": 2
+  },
+  "1585": {
+    "Description": "",
+    "Id": 1585,
+    "Par": 1736,
+    "ShowRule": 1,
+    "Text": "​Taillade fantôme​",
+    "Type": 2
+  },
+  "1586": {
+    "Description": "",
+    "Id": 1586,
+    "Par": 1733,
+    "ShowRule": 1,
+    "Text": "​Faux de la tempête​",
+    "Type": 2
+  },
+  "1587": {
+    "Description": "",
+    "Id": 1587,
+    "Par": 1737,
+    "ShowRule": 1,
+    "Text": "Faucille divine",
+    "Type": 2
+  },
+  "1588": {
+    "Description": "",
+    "Id": 1588,
+    "Par": 1734,
+    "ShowRule": 1,
+    "Text": "Coup de tonnerre",
+    "Type": 2
+  },
+  "1589": {
+    "Description": "",
+    "Id": 1589,
+    "Par": 1433,
+    "ShowRule": 1,
+    "Text": "Tranchant azur",
+    "Type": 2
+  },
+  "1590": {
+    "Description": "",
+    "Id": 1590,
+    "Par": 1434,
+    "ShowRule": 1,
+    "Text": "Frappe du vortex",
+    "Type": 2
+  },
+  "1591": {
+    "Description": "",
+    "Id": 1591,
+    "Par": 1435,
+    "ShowRule": 1,
+    "Text": "Canon draconique",
+    "Type": 2
+  },
+  "1592": {
+    "Description": "",
+    "Id": 1592,
+    "Par": 1411,
+    "ShowRule": 1,
+    "Text": "Lame rapide",
+    "Type": 2
+  },
+  "1593": {
+    "Description": "",
+    "Id": 1593,
+    "Par": 1525,
+    "ShowRule": 1,
+    "Text": "Charge du cerf",
+    "Type": 2
+  },
+  "1594": {
+    "Description": "",
+    "Id": 1594,
+    "Par": 1941,
+    "ShowRule": 1,
+    "Text": "Pluie d'étoiles",
+    "Type": 2
+  },
+  "1595": {
+    "Description": "",
+    "Id": 1595,
+    "Par": 1942,
+    "ShowRule": 1,
+    "Text": "Rupture",
+    "Type": 2
+  },
+  "1597": {
+    "Description": "",
+    "Id": 1597,
+    "Par": 1943,
+    "ShowRule": 1,
+    "Text": "Poing de pierre",
+    "Type": 2
+  },
+  "1598": {
+    "Description": "",
+    "Id": 1598,
+    "Par": 2416,
+    "ShowRule": 1,
+    "Text": "Condamnation",
+    "Type": 2
+  },
+  "1599": {
+    "Description": "",
+    "Id": 1599,
+    "Par": 2417,
+    "ShowRule": 1,
+    "Text": "Condamnation améliorée",
+    "Type": 2
+  },
+  "1600": {
+    "Description": "",
+    "Id": 1600,
+    "Par": 2413,
+    "ShowRule": 1,
+    "Text": "Châtiment infernal",
+    "Type": 2
+  },
+  "1601": {
+    "Description": "",
+    "Id": 1601,
+    "Par": 2220,
+    "ShowRule": 1,
+    "Text": "Flèche de tempête",
+    "Type": 2
+  },
+  "1602": {
+    "Description": "",
+    "Id": 1602,
+    "Par": 2240,
+    "ShowRule": 1,
+    "Text": "Torrent de Lumi",
+    "Type": 2
+  },
+  "1603": {
+    "Description": "",
+    "Id": 1603,
+    "Par": 2309,
+    "ShowRule": 1,
+    "Text": "Rhapsodie de flammes",
+    "Type": 2
+  },
+  "1604": {
+    "Description": "",
+    "Id": 1604,
+    "Par": 2306,
+    "ShowRule": 1,
+    "Text": "Rythme amplifié",
+    "Type": 2
+  },
+  "1605": {
+    "Description": "",
+    "Id": 1605,
+    "Par": 2308,
+    "ShowRule": 1,
+    "Text": "Hymne harmonique",
+    "Type": 2
+  },
+  "1606": {
+    "Description": "",
+    "Id": 1606,
+    "Par": 2311,
+    "ShowRule": 1,
+    "Text": "Mélodie de soin",
+    "Type": 2
+  },
+  "1607": {
+    "Description": "",
+    "Id": 1607,
+    "Par": 2312,
+    "ShowRule": 1,
+    "Text": "Crescendo quintuple",
+    "Type": 2
+  },
+  "1608": {
+    "Description": "",
+    "Id": 1608,
+    "Par": 2313,
+    "ShowRule": 1,
+    "Text": "Explosion de passion",
+    "Type": 2
+  },
+  "1609": {
+    "Description": "",
+    "Id": 1609,
+    "Par": 2307,
+    "ShowRule": 1,
+    "Text": "Rythme de soin",
+    "Type": 2
+  },
+  "1610": {
+    "Description": "",
+    "Id": 1610,
+    "Par": 2316,
+    "ShowRule": 1,
+    "Text": "Scène centrale",
+    "Type": 2
+  },
+  "1611": {
+    "Description": "",
+    "Id": 1611,
+    "Par": 2314,
+    "ShowRule": 1,
+    "Text": "Scène en folie",
+    "Type": 2
+  },
+  "1612": {
+    "Description": "",
+    "Id": 1612,
+    "Par": 2335,
+    "ShowRule": 1,
+    "Text": "Rhapsodie infinie",
+    "Type": 2
+  },
+  "1613": {
+    "Description": "",
+    "Id": 1613,
+    "Par": 2336,
+    "ShowRule": 1,
+    "Text": "Circuit du concert",
+    "Type": 2
+  },
+  "1614": {
+    "Description": "",
+    "Id": 1614,
+    "Par": 2310,
+    "ShowRule": 1,
+    "Text": "Mélodie héroïque",
+    "Type": 2
+  },
+  "1615": {
+    "Description": "",
+    "Id": 1615,
+    "Par": 2317,
+    "ShowRule": 1,
+    "Text": "Frappe féroce",
+    "Type": 2
+  },
+  "1616": {
+    "Description": "",
+    "Id": 1616,
+    "Par": 2315,
+    "ShowRule": 1,
+    "Text": "Rappel",
+    "Type": 2
+  },
+  "1617": {
+    "Description": "",
+    "Id": 1617,
+    "Par": 2332,
+    "ShowRule": 1,
+    "Text": "Fureur passionnée",
+    "Type": 2
+  },
+  "1618": {
+    "Description": "",
+    "Id": 1618,
+    "Par": 2301,
+    "ShowRule": 1,
+    "Text": "Cordes résonnantes",
+    "Type": 2
+  },
+  "1619": {
+    "Description": "",
+    "Id": 1619,
+    "Par": 1605,
+    "ShowRule": 1,
+    "Text": "Ascension flamboyante.",
+    "Type": 2
+  },
+  "1620": {
+    "Description": "",
+    "Id": 1620,
+    "Par": 1619,
+    "ShowRule": 1,
+    "Text": "Flamme grimpante.",
+    "Type": 2
+  },
+  "1621": {
+    "Description": "",
+    "Id": 1621,
+    "Par": 1606,
+    "ShowRule": 1,
+    "Text": "Taillade frénétique",
+    "Type": 2
+  },
+  "1622": {
+    "Description": "",
+    "Id": 1622,
+    "Par": 1607,
+    "ShowRule": 1,
+    "Text": "Assaut flamboyant.",
+    "Type": 2
+  },
+  "1623": {
+    "Description": "",
+    "Id": 1623,
+    "Par": 1608,
+    "ShowRule": 1,
+    "Text": "Fendoir de rage.",
+    "Type": 2
+  },
+  "1624": {
+    "Description": "",
+    "Id": 1624,
+    "Par": 1612,
+    "ShowRule": 1,
+    "Text": "Vent de hache",
+    "Type": 2
+  },
+  "1625": {
+    "Description": "",
+    "Id": 1625,
+    "Par": 1615,
+    "ShowRule": 1,
+    "Text": "Confins des terres défrichées.",
+    "Type": 2
+  },
+  "1626": {
+    "Description": "",
+    "Id": 1626,
+    "Par": 1613,
+    "ShowRule": 1,
+    "Text": "Danse du feu sauvage.",
+    "Type": 2
+  },
+  "1627": {
+    "Description": "",
+    "Id": 1627,
+    "Par": 1614,
+    "ShowRule": 1,
+    "Text": "Météore déchaîné.",
+    "Type": 2
+  },
+  "1628": {
+    "Description": "",
+    "Id": 1628,
+    "Par": 1621,
+    "ShowRule": 1,
+    "Text": "Chute de feu infernal.",
+    "Type": 2
+  },
+  "1629": {
+    "Description": "",
+    "Id": 1629,
+    "Par": 1617,
+    "ShowRule": 1,
+    "Text": "Feu infernal infini",
+    "Type": 2
+  },
+  "1630": {
+    "Description": "",
+    "Id": 1630,
+    "Par": 1616,
+    "ShowRule": 1,
+    "Text": "Taillade de splendeur fluide.",
+    "Type": 2
+  },
+  "3000": {
+    "Description": "Interrompt le lancement de la cible et met la compétence interrompue en temps de rechargement. N'affecte pas les boss.",
+    "Id": 3000,
+    "Par": 3403000,
+    "ShowRule": 1,
+    "Text": "Interruption",
+    "Type": 3
+  },
+  "3001": {
+    "Description": "Empêche l'ennemi de lancer des sorts. N'affecte pas les boss. Ceci est un débuff.",
+    "Id": 3001,
+    "Par": 3403001,
+    "ShowRule": 1,
+    "Text": "Silence",
+    "Type": 3
+  },
+  "3002": {
+    "Description": "Empêche l'ennemi de se déplacer. N'affecte pas les boss. Ceci est un débuff.",
+    "Id": 3002,
+    "Par": 3403002,
+    "ShowRule": 1,
+    "Text": "Immobilisation",
+    "Type": 3
+  },
+  "3003": {
+    "Description": "Réduit la vitesse de déplacement de l'ennemi de <style=\"accent-gn\">30 %</style>.",
+    "Id": 3003,
+    "Par": 3403003,
+    "ShowRule": 1,
+    "Text": "Givre",
+    "Type": 3
+  },
+  "3004": {
+    "Description": "Réduit la quantité de soins reçus par l'ennemi. Ceci est un débuff.",
+    "Id": 3004,
+    "Par": 3403004,
+    "ShowRule": 1,
+    "Text": "Plaie",
+    "Type": 3
+  },
+  "3005": {
+    "Description": "Empêche l'ennemi d'effectuer toute action. N'affecte pas les boss. Ceci est un effet d'état.",
+    "Id": 3005,
+    "Par": 3403005,
+    "ShowRule": 1,
+    "Text": "Étourdissement",
+    "Type": 3
+  },
+  "3006": {
+    "Description": "Empêche l'ennemi d'effectuer toute action. L'effet est supprimé dès qu'il subit des dégâts. N'affecte pas les boss. Ceci est un effet d'état.",
+    "Id": 3006,
+    "Par": 3403006,
+    "ShowRule": 1,
+    "Text": "Gel",
+    "Type": 3
+  },
+  "3007": {
+    "Description": "Empêche l'ennemi d'effectuer toute action. L'effet est supprimé dès qu'il subit des dégâts. N'affecte pas les boss. Ceci est un effet d'état.",
+    "Id": 3007,
+    "Par": 3403007,
+    "ShowRule": 1,
+    "Text": "Pétrification",
+    "Type": 3
+  },
+  "3008": {
+    "Description": "Empêche l'ennemi d'effectuer toute action. L'effet est supprimé dès qu'il subit des dégâts. N'affecte pas les boss. Ceci est un effet d'état.",
+    "Id": 3008,
+    "Par": 3403008,
+    "ShowRule": 1,
+    "Text": "Paralysie",
+    "Type": 3
+  },
+  "3009": {
+    "Description": "Force l'ennemi à se déplacer à portée de mêlée de sa cible actuelle pour attaquer. N'affecte pas les boss. Ceci est un effet d'état.",
+    "Id": 3009,
+    "Par": 3403009,
+    "ShowRule": 1,
+    "Text": "Éblouissement",
+    "Type": 3
+  },
+  "3010": {
+    "Description": "L'ennemi reste figé sur place, paralysé par la peur. L'effet est supprimé dès qu'il subit des dégâts. N'affecte pas les boss. Ceci est un effet d'état.",
+    "Id": 3010,
+    "Par": 3403010,
+    "ShowRule": 1,
+    "Text": "Peur",
+    "Type": 3
+  },
+  "3011": {
+    "Description": "Réduit la vitesse de déplacement de l'ennemi. N'affecte pas les boss. Ceci est un débuff.",
+    "Id": 3011,
+    "Par": 3403011,
+    "ShowRule": 1,
+    "Text": "Ralentissement",
+    "Type": 3
+  },
+  "3012": {
+    "Description": "Fait perdre continuellement des PV à l'ennemi. Ceci est un débuff.",
+    "Id": 3012,
+    "Par": 3403012,
+    "ShowRule": 1,
+    "Text": "Poison",
+    "Type": 3
+  },
+  "3013": {
+    "Description": "Fait perdre continuellement des PV à l'ennemi. Ceci est un débuff.",
+    "Id": 3013,
+    "Par": 3403013,
+    "ShowRule": 1,
+    "Text": "Saignement",
+    "Type": 3
+  },
+  "3014": {
+    "Description": "Fait perdre continuellement des PV à l'ennemi. Ceci est un débuff.",
+    "Id": 3014,
+    "Par": 3403014,
+    "ShowRule": 1,
+    "Text": "Brûlure",
+    "Type": 3
+  },
+  "3020": {
+    "Description": "Inclut <style=\"accent-gn\">Étourdissement</style>, <style=\"accent-gn\">Gel</style>, <style=\"accent-gn\">Pétrification</style>, <style=\"accent-gn\">Paralysie</style>, <style=\"accent-gn\">Éblouissement</style> et <style=\"accent-gn\">Peur</style>.",
+    "Id": 3020,
+    "Par": 3403020,
+    "ShowRule": 1,
+    "Text": "Effets de statut",
+    "Type": 3
+  },
+  "3021": {
+    "Description": "Inclut <style=\"accent-gn\">Silence</style>, <style=\"accent-gn\">Ralentissement</style>, <style=\"accent-gn\">Immobilisation</style>, <style=\"accent-gn\">Blessure</style>, <style=\"accent-gn\">Poison</style>, <style=\"accent-gn\">Saignement</style> et <style=\"accent-gn\">Brûlure</style>.",
+    "Id": 3021,
+    "Par": 3403021,
+    "ShowRule": 1,
+    "Text": "Débuffs",
+    "Type": 3
+  }
+}

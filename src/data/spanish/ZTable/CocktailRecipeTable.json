@@ -1,0 +1,123 @@
+{
+  "1001": {
+    "Icon": "item_icons_moonlightchacha",
+    "Id": 1001,
+    "IntroductionText": "\"Cariño, deja que la luna y la brisa marina se entrelacen en un beso y baila conmigo en cubierta\". Una bebida predilecta entre las parejas de Asterleeds. Si se toma durante una cita, ¡los puntos de <style=\"emph-gn\">romance</style> aumentarán, como poco, en un 0.01 %!",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Chachachá de luz de luna",
+    "Recipe": [[], [1030009, 1]],
+    "RecipeText": "Una parte de suero de cítrico azul y una de limonada.",
+    "Tag": "Agridulce y refrescante",
+    "Title": "\"La elección perfecta para una cita\""
+  },
+  "1002": {
+    "Icon": "item_icons_margarettwilight",
+    "Id": 1002,
+    "IntroductionText": "Un sorbo y vuelves a la orilla del mar al atardecer, cuando la persona que amas se gira y sonríe. Recuerdos cálidos y <style=\"emph-gn\">difusos</style> en una copa (aunque sea solo un poquito).",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Ocaso Margarita",
+    "Recipe": [
+      [1030006, 1],
+      [1030009, 1]
+    ],
+    "RecipeText": "Una porción de suero de baya roja y una de limonada",
+    "Tag": "Sedoso y suntuoso",
+    "Title": "\"El predilecto de la gente elegante\""
+  },
+  "1003": {
+    "Icon": "item_icons_sandheaven",
+    "Id": 1003,
+    "IntroductionText": "\"¡<style=\"emph-gn\">Arde</style> con las olas, alma mía!\". Audaz, picante y rebelde. Esta bebida es para los chicos de la costa que se convierten en hombres. Un sorbo y tu ánimo arderá como el sol de la tarde.",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Paraíso de Arenas Ardientes",
+    "Recipe": [
+      [1030006, 1],
+      [1030008, 1],
+      [1030011, 1]
+    ],
+    "RecipeText": "Una porción de suero de baya roja y una de soda, debe servirse caliente",
+    "Tag": "Picante y vigorizante",
+    "Title": "\"El preferido de los tipos duros\""
+  },
+  "1004": {
+    "Icon": "item_icons_silentseabreeze",
+    "Id": 1004,
+    "IntroductionText": "\"Si odias o amas a alguien, pídele esta bebida\". No hacen falta palabras, el <style=\"emph-gn\">silencio</style> tras beber es la mejor respuesta.",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Brisa marina silenciosa",
+    "Recipe": [[], [1030008, 1], [1030010, 1]],
+    "RecipeText": "Una porción de suero de cítrico azul y una de soda, debe servirse con hielo",
+    "Tag": "Ácido e intenso",
+    "Title": "\"La máxima recomendación para los amantes del arte\""
+  },
+  "1005": {
+    "Icon": "item_icons_touchofneon",
+    "Id": 1005,
+    "IntroductionText": "Siempre <style=\"emph-gn\">seguro</style>, siempre popular. Cálido, dulce y con un toque de amargor artificial, podría ser la primera bebida de adultos para los jóvenes.",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Un Toque de Neón",
+    "Recipe": [
+      [1030006, 2],
+      [1030011, 1]
+    ],
+    "RecipeText": "Dos porciones de suero de baya roja, debe servirse caliente",
+    "Tag": "Dulce y cálido",
+    "Title": "\"Desata la tormenta de la juventud\""
+  },
+  "1006": {
+    "Icon": "item_icons_icycoralsea",
+    "Id": 1006,
+    "IntroductionText": "En Asterleeds, nadie ha visto un mar <style=\"emph-gn\">congelado</style>, pero eso no les impide imaginarlo en su paladar.",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Model": "",
+    "Name": "Mar de Hielo Coralino",
+    "Recipe": [
+      [1030007, 2],
+      [1030010, 1]
+    ],
+    "RecipeText": "Dos porciones de suero de cítrico azul, debe servirse con hielo",
+    "Tag": "Fresco y helado",
+    "Title": "\"Especial exclusivo del Festival de Brisa Marina\""
+  },
+  "2001": {
+    "Icon": "",
+    "Id": 2001,
+    "IntroductionText": "Es la verdadera elección para los tipos duros. Tipos... duros, ¿entiendes? Su color es tan potente como las llamas. En el momento en que lo bebes, sientes cómo tu corazón y tu alma se encienden.",
+    "IsVisible": false,
+    "MadeIn": "",
+    "Model": "",
+    "Name": "\"Paraíso de Arenas Ardientes\"",
+    "Recipe": [
+      [1030006, 1],
+      [1030008, 3],
+      [1030011, 1]
+    ],
+    "RecipeText": "",
+    "Tag": "",
+    "Title": ""
+  },
+  "5001": {
+    "Icon": "",
+    "Id": 5001,
+    "IntroductionText": "Nació una creación fallida, una bebida intomable. Pero no te preocupes, todo se puede volver a intentar, y la coctelería no es la excepción.",
+    "IsVisible": false,
+    "MadeIn": "",
+    "Model": "",
+    "Name": "Bebida fallida",
+    "Recipe": [],
+    "RecipeText": "",
+    "Tag": "De mal gusto",
+    "Title": "\"Misterioso... muy misterioso\""
+  }
+}

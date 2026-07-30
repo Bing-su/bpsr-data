@@ -1,0 +1,618 @@
+{
+  "1": {
+    "AttrId": 11320,
+    "Id": 1,
+    "Name": "PS máx.",
+    "Type": 101,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "10": {
+    "AttrId": 11930,
+    "Id": 10,
+    "Name": "Presteza",
+    "Type": 102,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "11": {
+    "AttrId": 11780,
+    "Id": 11,
+    "Name": "Suerte",
+    "Type": 102,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "12": {
+    "AttrId": 11940,
+    "Id": 12,
+    "Name": "Maestría",
+    "Type": 102,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "13": {
+    "AttrId": 11950,
+    "Id": 13,
+    "Name": "Versatil.",
+    "Type": 102,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "14": {
+    "AttrId": 11970,
+    "Id": 14,
+    "Name": "Bloqueo",
+    "Type": 102,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "15": {
+    "AttrId": 11010,
+    "Id": 15,
+    "Name": "Fuerza",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "16": {
+    "AttrId": 11020,
+    "Id": 16,
+    "Name": "Intelecto",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "17": {
+    "AttrId": 11030,
+    "Id": 17,
+    "Name": "Agilidad",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "18": {
+    "AttrId": 11330,
+    "Id": 18,
+    "Name": "ATQ",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "19": {
+    "AttrId": 11340,
+    "Id": 19,
+    "Name": "ATQ-M",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "2": {
+    "AttrId": 11330,
+    "Id": 2,
+    "Name": "ATQ",
+    "Type": 0,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "20": {
+    "AttrId": 11410,
+    "Id": 20,
+    "Name": "ATQ refinado",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "21": {
+    "AttrId": 11430,
+    "Id": 21,
+    "Name": "ATQ-M refinado",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "22": {
+    "AttrId": 12550,
+    "Id": 22,
+    "Name": "Aumento FÍS",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "23": {
+    "AttrId": 12570,
+    "Id": 23,
+    "Name": "Aumento MÁG",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "24": {
+    "AttrId": 11720,
+    "Id": 24,
+    "Name": "VEL de ATQ",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "25": {
+    "AttrId": 11730,
+    "Id": 25,
+    "Name": "VEL de lanzamiento",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "26": {
+    "AttrId": 12510,
+    "Id": 26,
+    "Name": "DÑO crítico",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "27": {
+    "AttrId": 12530,
+    "Id": 27,
+    "Name": "Multiplicador de DÑO de golpe de suerte",
+    "Type": 201,
+    "TypeDisplayName": "Atributos ofensivos"
+  },
+  "28": {
+    "AttrId": 11040,
+    "Id": 28,
+    "Name": "Aguante",
+    "Type": 202,
+    "TypeDisplayName": "Atributos defensivos"
+  },
+  "29": {
+    "AttrId": 11320,
+    "Id": 29,
+    "Name": "PS máx.",
+    "Type": 202,
+    "TypeDisplayName": "Atributos defensivos"
+  },
+  "3": {
+    "AttrId": 11340,
+    "Id": 3,
+    "Name": "ATQ-M",
+    "Type": 0,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "30": {
+    "AttrId": 11350,
+    "Id": 30,
+    "Name": "Armadura",
+    "Type": 202,
+    "TypeDisplayName": "Atributos defensivos"
+  },
+  "31": {
+    "AttrId": 11360,
+    "Id": 31,
+    "Name": "Resistencia",
+    "Type": 202,
+    "TypeDisplayName": "Atributos defensivos"
+  },
+  "32": {
+    "AttrId": 11420,
+    "Id": 32,
+    "Name": "Armadura refinada",
+    "Type": 202,
+    "TypeDisplayName": "Atributos defensivos"
+  },
+  "33": {
+    "AttrId": 12560,
+    "Id": 33,
+    "Name": "Reducción de ATQ",
+    "Type": 202,
+    "TypeDisplayName": "Atributos defensivos"
+  },
+  "34": {
+    "AttrId": 12580,
+    "Id": 34,
+    "Name": "Reducción de ATQ-M",
+    "Type": 202,
+    "TypeDisplayName": "Atributos defensivos"
+  },
+  "35": {
+    "AttrId": 12540,
+    "Id": 35,
+    "Name": "Reducción de DÑO de bloqueo",
+    "Type": 202,
+    "TypeDisplayName": "Atributos defensivos"
+  },
+  "36": {
+    "AttrId": 12740,
+    "Id": 36,
+    "Name": "Curación crítica",
+    "Type": 203,
+    "TypeDisplayName": "Atributos de apoyo"
+  },
+  "37": {
+    "AttrId": 12720,
+    "Id": 37,
+    "Name": "Curación de golpe de suerte",
+    "Type": 203,
+    "TypeDisplayName": "Atributos de apoyo"
+  },
+  "38": {
+    "AttrId": 11790,
+    "Id": 38,
+    "Name": "Fuerza de curación",
+    "Type": 203,
+    "TypeDisplayName": "Atributos de apoyo"
+  },
+  "39": {
+    "AttrId": 11800,
+    "Id": 39,
+    "Name": "Fuerza de curación recibida",
+    "Type": 203,
+    "TypeDisplayName": "Atributos de apoyo"
+  },
+  "4": {
+    "AttrId": 11010,
+    "Id": 4,
+    "Name": "Fuerza",
+    "Type": 0,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "40": {
+    "AttrId": 11810,
+    "Id": 40,
+    "Name": "Fuerza de escudo por miríada",
+    "Type": 203,
+    "TypeDisplayName": "Atributos de apoyo"
+  },
+  "41": {
+    "AttrId": 11820,
+    "Id": 41,
+    "Name": "Potencia de escudo recibido por miríada",
+    "Type": 203,
+    "TypeDisplayName": "Atributos de apoyo"
+  },
+  "42": {
+    "AttrId": 11500,
+    "Id": 42,
+    "Name": "ATQ multielemental",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "43": {
+    "AttrId": 11510,
+    "Id": 43,
+    "Name": "ATQ ígneo",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "44": {
+    "AttrId": 11520,
+    "Id": 44,
+    "Name": "Ataque helado",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "45": {
+    "AttrId": 11530,
+    "Id": 45,
+    "Name": "ATQ forestal",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "46": {
+    "AttrId": 11540,
+    "Id": 46,
+    "Name": "ATQ atronador",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "47": {
+    "AttrId": 11550,
+    "Id": 47,
+    "Name": "ATQ eólico",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "48": {
+    "AttrId": 11560,
+    "Id": 48,
+    "Name": "ATQ rocoso",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "49": {
+    "AttrId": 11570,
+    "Id": 49,
+    "Name": "ATQ lumínico",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "5": {
+    "AttrId": 11020,
+    "Id": 5,
+    "Name": "Intelecto",
+    "Type": 0,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "50": {
+    "AttrId": 11580,
+    "Id": 50,
+    "Name": "ATQ oscuro",
+    "Type": 204,
+    "TypeDisplayName": "Ataque elemental"
+  },
+  "51": {
+    "AttrId": 13000,
+    "Id": 51,
+    "Name": "Fuerza multielemental",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "52": {
+    "AttrId": 13100,
+    "Id": 52,
+    "Name": "Bonus multielemental",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "53": {
+    "AttrId": 13010,
+    "Id": 53,
+    "Name": "Fuerza ígnea",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "54": {
+    "AttrId": 13110,
+    "Id": 54,
+    "Name": "Bonus ígneo",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "55": {
+    "AttrId": 13020,
+    "Id": 55,
+    "Name": "Fuerza gélida",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "56": {
+    "AttrId": 13120,
+    "Id": 56,
+    "Name": "Bonus gélido",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "57": {
+    "AttrId": 13030,
+    "Id": 57,
+    "Name": "Fuerza forestal",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "58": {
+    "AttrId": 13130,
+    "Id": 58,
+    "Name": "Bonus forestal",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "59": {
+    "AttrId": 13040,
+    "Id": 59,
+    "Name": "Fuerza atronadora",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "6": {
+    "AttrId": 11030,
+    "Id": 6,
+    "Name": "Agilidad",
+    "Type": 0,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "60": {
+    "AttrId": 13140,
+    "Id": 60,
+    "Name": "Bonus atronador",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "61": {
+    "AttrId": 13050,
+    "Id": 61,
+    "Name": "Fuerza eólica",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "62": {
+    "AttrId": 13150,
+    "Id": 62,
+    "Name": "Bonus eólico",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "63": {
+    "AttrId": 13060,
+    "Id": 63,
+    "Name": "Fuerza rocosa",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "64": {
+    "AttrId": 13160,
+    "Id": 64,
+    "Name": "Bonus rocoso",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "65": {
+    "AttrId": 13070,
+    "Id": 65,
+    "Name": "Fuerza lumínica",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "66": {
+    "AttrId": 13170,
+    "Id": 66,
+    "Name": "Bonus lumínico",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "67": {
+    "AttrId": 13080,
+    "Id": 67,
+    "Name": "Fuerza oscura",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "68": {
+    "AttrId": 13180,
+    "Id": 68,
+    "Name": "Bonus oscuro",
+    "Type": 205,
+    "TypeDisplayName": "Bonus elemental"
+  },
+  "69": {
+    "AttrId": 13200,
+    "Id": 69,
+    "Name": "Resistencia multielemental",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia elemental"
+  },
+  "7": {
+    "AttrId": 11040,
+    "Id": 7,
+    "Name": "Aguante",
+    "Type": 101,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "70": {
+    "AttrId": 13310,
+    "Id": 70,
+    "Name": "Resistencia multielemental",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "71": {
+    "AttrId": 13210,
+    "Id": 71,
+    "Name": "Resistencia ígnea",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "72": {
+    "AttrId": 13320,
+    "Id": 72,
+    "Name": "Resistencia ígnea",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "73": {
+    "AttrId": 13220,
+    "Id": 73,
+    "Name": "Resistencia gélida",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "74": {
+    "AttrId": 13330,
+    "Id": 74,
+    "Name": "Resistencia gélida",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "75": {
+    "AttrId": 13230,
+    "Id": 75,
+    "Name": "Resistencia forestal",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "76": {
+    "AttrId": 13340,
+    "Id": 76,
+    "Name": "Resistencia forestal",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "77": {
+    "AttrId": 13240,
+    "Id": 77,
+    "Name": "Resistencia atronadora",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "78": {
+    "AttrId": 13350,
+    "Id": 78,
+    "Name": "Resistencia atronadora",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "79": {
+    "AttrId": 13250,
+    "Id": 79,
+    "Name": "Resistencia eólica",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "8": {
+    "AttrId": 11440,
+    "Id": 8,
+    "Name": "Fuerza ilusoria",
+    "Type": 102,
+    "TypeDisplayName": "Atributos básicos"
+  },
+  "80": {
+    "AttrId": 13360,
+    "Id": 80,
+    "Name": "Resistencia eólica",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "81": {
+    "AttrId": 13260,
+    "Id": 81,
+    "Name": "Resistencia rocosa",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "82": {
+    "AttrId": 13370,
+    "Id": 82,
+    "Name": "Resistencia rocosa",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "83": {
+    "AttrId": 13270,
+    "Id": 83,
+    "Name": "Resistencia lumínica",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "84": {
+    "AttrId": 13380,
+    "Id": 84,
+    "Name": "Resistencia lumínica",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "85": {
+    "AttrId": 13280,
+    "Id": 85,
+    "Name": "Resistencia oscura",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "86": {
+    "AttrId": 13390,
+    "Id": 86,
+    "Name": "Resistencia oscura",
+    "Type": 206,
+    "TypeDisplayName": "Resistencia"
+  },
+  "87": {
+    "AttrId": 20020,
+    "Id": 87,
+    "Name": "Energía de resonancia máx.",
+    "Type": 207,
+    "TypeDisplayName": "Otros atributos"
+  },
+  "88": {
+    "AttrId": 20120,
+    "Id": 88,
+    "Name": "Recuperación de engrama en combate",
+    "Type": 207,
+    "TypeDisplayName": "Otros atributos"
+  },
+  "9": {
+    "AttrId": 11710,
+    "Id": 9,
+    "Name": "Crítico",
+    "Type": 102,
+    "TypeDisplayName": "Atributos básicos"
+  }
+}

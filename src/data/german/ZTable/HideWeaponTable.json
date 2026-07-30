@@ -1,0 +1,45 @@
+{
+  "1": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [],
+    "Description": "<style=\"physical\">Verbraucht 10</style> LP, um mit einem Holzstock anzugreifen.<br>Wenn der Angriff <style=\"physical\">einen Pirscher trifft</style>, werden <style=\"physical\">20 LP wiederhergestellt</style>.<br>Das Töten eines Pirschers stellt die LP vollständig wieder her.<br><style=\"physical\">Kann nicht verwendet werden, wenn die LP unzureichend sind.</style><br>Der tatsächliche Schaden wird basierend auf der <style=\"physical\">Rüstung des Gegenstands berechnet, in den sich der Pirscher verwandelt hat</style>.</style><br><i><style=\"text_third_gray\">\"Ein wahrer Meister kümmert sich nicht um die Qualität seiner Waffe.\"</style></i>",
+    "Id": 1,
+    "ItemId": 1056024,
+    "Name": "Solides Fundament"
+  },
+  "2": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056019, 1],
+    "Description": "<style=\"physical\">Verbraucht 10</style> LP, um mit Fafalas Schwert anzugreifen.<br>Wenn der Angriff <style=\"physical\">einen Pirscher trifft</style>, werden <style=\"physical\">20 LP wiederhergestellt</style>.<br>Das Töten eines Pirschers stellt die LP vollständig wieder her.<br><style=\"physical\">Kann bei unzureichenden LP nicht verwendet werden</style>.<br>Der tatsächliche Schaden wird basierend auf <style=\"physical\">der Rüstung des Gegenstands berechnet, in den sich der Pirscher verwandelt hat</style>.<br><style=\"physical\">Waffen-Spezialeffekt: Schattenjäger in der Nähe stellen kontinuierlich LP wieder her und erhalten erhöhte Bewegungsgeschwindigkeit.</style><br><i><style=\"text_third_gray\">\"Ich hoffe, das bringt dir etwas Frieden ...\"</style></i>",
+    "Id": 2,
+    "ItemId": 1056019,
+    "Name": "Führung des Morgennebels"
+  },
+  "3": {
+    "Attr": [
+      [11320, 400],
+      [11330, 100]
+    ],
+    "Condition": [1056020, 1],
+    "Description": "<style=\"physical\">Verbraucht 10</style> LP, um mit Denvels Großschwert anzugreifen.<br>Wenn der Angriff <style=\"physical\">einen Pirscher trifft</style>, werden <style=\"physical\">20 LP wiederhergestellt</style>.<br>Das Töten eines Pirschers stellt die LP vollständig wieder her.<br><style=\"physical\">Kann bei unzureichenden LP nicht verwendet werden</style>.<br>Der tatsächliche Schaden wird basierend auf der <style=\"physical\">Rüstung des Gegenstands berechnet, in den sich der Pirscher verwandelt hat</style>.<br><style=\"physical\">Waffen-Spezialeffekt: Feuert 2 zusätzliche Energieklingen ab und entfernt alle Nicht-Spieler-Gegenstände in Reichweite.</style><br><i><style=\"text_third_gray\">\"Damit tilge ich die Sorgen der Vergangenheit.\"</style></i>",
+    "Id": 3,
+    "ItemId": 1056020,
+    "Name": "Klinge des Trauernden"
+  },
+  "4": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056021, 1],
+    "Description": "<style=\"physical\">Verbraucht 10</style> LP, um mit einer Spitzhacke anzugreifen.<br>Wenn der Angriff <style=\"physical\">einen Pirscher trifft</style>, werden <style=\"physical\">20 LP wiederhergestellt</style>.<br>Das Töten eines Pirschers stellt die LP vollständig wieder her.<br><style=\"physical\">Kann bei unzureichenden LP nicht verwendet werden.</style><br>Der tatsächliche Schaden wird basierend auf der <style=\"physical\">Rüstung des Gegenstands berechnet, in den sich der Pirscher verwandelt hat</style>.<br><style=\"physical\">Waffen-Spezialeffekt: Gewährt beim Angriff ein zufälliges Stück Erz:<br>40 % Chance, Bernstein zu erhalten: Reduziert alle AZ von Fähigkeiten um 0,5 Sek.;<br>40 % Chance, Benitoit zu erhalten: Stellt 10 LP wieder her;<br>19 % Chance, Drachenkristall zu erhalten: Feuert 5 Energieklingen in alle Richtungen;<br>1 % Chance, Fulgurit zu erhalten: Ein Blitz trifft alle Pirscher im Umkreis von 30 m.</style><br><i><style=\"text_third_gray\">\"Muss ich auch graben?\"</style></i>",
+    "Id": 4,
+    "ItemId": 1056021,
+    "Name": "Goldrausch-Traum"
+  },
+  "5": {
+    "Attr": [[], [11330, 100]],
+    "Condition": [1056022, 1],
+    "Description": "<style=\"physical\">Verbraucht 10</style> LP für einen Angriff mit einem Leuchtstab.<br>Wenn der Angriff <style=\"physical\">einen Pirscher trifft</style>, werden <style=\"physical\">20</style> LP wiederhergestellt.<br>Das Töten eines Pirschers stellt die LP vollständig wieder her.<br><style=\"physical\">Kann bei unzureichenden LP nicht verwendet werden.</style><br>Der tatsächliche Schaden wird basierend auf der <style=\"physical\">Rüstung des Objekts berechnet, in das sich der Pirscher verwandelt hat</style>.<br><style=\"physical\">Spezieller Waffeneffekt: Der Einsatz von Fähigkeiten sammelt Tanzkraft an. Bei 50 Tanzkraft wird die Fähigkeit Tanz-Wettbewerb gewährt:<br>Beginnt bei Einsatz zu tanzen, stellt allmählich LP wieder her und macht nach dem Tanz einen zufälligen Pirscher in der Nähe zum Rampenlicht.</style><br><i><style=\"text_third_gray\">\"Bitte, hört auf zu kämpfen ...\"</style></i>",
+    "Id": 5,
+    "ItemId": 1056022,
+    "Name": "Gerechtigkeitsunterstützung"
+  }
+}

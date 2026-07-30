@@ -1,0 +1,985 @@
+{
+  "1000111": {
+    "Answer": ["", "Le Pilier divin ne peut pas porter de fruits."],
+    "Clue": "Le prêtre du Credo a explicitement nié l'affirmation selon laquelle \"le Pilier divin porte des fruits\", soulignant que le Pilier est un miracle divin, pas un arbre fruitier. <tagId=1>*Les rumeurs à ce sujet sont irréalistes*.",
+    "Id": 1000111,
+    "Sort": 1,
+    "TapBubble": ["", "Cet indice manque de preuves factuelles."],
+    "TapBubbleAction": [9019],
+    "Tips": "Enquêter avec Darya pour obtenir des indices",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000112": {
+    "Answer": [
+      "",
+      "Les renards ont mangé des fruits ordinaires.",
+      "",
+      "Les chasseurs en ont seulement entendu parler."
+    ],
+    "Clue": "L'enquête <tagId=2>*n'a trouvé que des fruits ordinaires mordus par des renards*. Les chasseurs actifs toute l'année dans les étendues de Sombrelune ont déclaré qu'ils <tagId=3>*avaient seulement entendu parler de la Baie pourpre, mais ne l'avaient jamais vue de leurs propres yeux*.",
+    "Id": 1000112,
+    "Sort": 2,
+    "TapBubble": ["", "Ce n'est pas la Baie pourpre.", "", "Aucun signalement."],
+    "TapBubbleAction": [9019],
+    "Tips": "Enquêter avec Darya pour obtenir des indices",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000113": {
+    "Answer": [
+      "",
+      "Aucun objet matériel trouvé.",
+      "",
+      "N'a pas mangé la Baie pourpre.",
+      "",
+      "Les soldats étaient affectés par la Calamité illusoire."
+    ],
+    "Clue": "Trois soldats <tagId=6>*affectés par la Calamité illusoire* ont unanimement affirmé avoir acheté des Baies pourpres. Cependant, après une fouille complète de leurs quartiers, <tagId=4>*auc une Baie pourpre n'a été trouvée*, et les soldats ont confirmé qu'ils <tagId=5>*n'avaient pas mangé les fruits*.",
+    "Id": 1000113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Douteux qu'ils l'aient vraiment achetée.",
+      "",
+      "La Baie pourpre s'est volatilisée.",
+      "",
+      "Ils avaient des hallucinations."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Enquêter avec Darya pour obtenir des indices",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000211": {
+    "Answer": ["", "Fans de la troupe itinérante."],
+    "Clue": "La plupart des gens avaient seulement entendu parler de la Baie pourpre. Seuls <tagId=1>*les fans de la troupe itinérante* l'avaient vue, et ils ont écrit sur leurs billets de concert que des Baies pourpres étaient disponibles à la station de transport de Beckmar.",
+    "Id": 1000211,
+    "Sort": 1,
+    "TapBubble": ["", "Mais diagnostiqués avec la Calamité illusoire."],
+    "TapBubbleAction": [9019],
+    "Tips": "Enquêter avec Darya pour obtenir des indices",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000212": {
+    "Answer": [
+      "",
+      "Les ingrédients proviennent de sources fixes.",
+      "",
+      "Aucun objet matériel trouvé."
+    ],
+    "Clue": "Les fans de la troupe ont affirmé que Berg avait ajouté des Baies pourpres aux repas, causant leur maladie. <br>Berg, qui est responsable de la restauration, a déclaré que <tagId=2>*les ingrédients proviennent de sources fixes*. Nous <tagId=3>*n'avons trouvé aucune Baie pourpre* au cours de l'enquête.",
+    "Id": 1000212,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Berg n'en a pas acheté.",
+      "",
+      "Les Baies pourpres ne sont pas à la station de transport."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Enquêter avec Darya pour obtenir des indices",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000213": {
+    "Answer": [
+      "",
+      "Seules deux personnes sont tombées malades.",
+      "",
+      "Patients diagnostiqués avec la Calamité illusoire."
+    ],
+    "Clue": "Berg a préparé des repas pour des centaines de personnes, pourtant <tagId=4>*seuls deux fans de la troupe sont tombés malades*. Le prêtre et le médecin ont diagnostiqué que <tagId=5>*les deux patients avaient contracté la Calamité illusoire*.",
+    "Id": 1000213,
+    "Sort": 3,
+    "TapBubble": ["", "Aucun problème avec la nourriture.", "", "Ils avaient des hallucinations."],
+    "TapBubbleAction": [9026],
+    "Tips": "Enquêter avec Darya pour obtenir des indices",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000311": {
+    "Answer": ["", "Veut retourner à Asterleeds."],
+    "Clue": "La lettre du jeune mineur était remplie de <tagId=1>*nostalgie pour Asterleeds*.",
+    "Id": 1000311,
+    "Sort": 1,
+    "TapBubble": ["", "Ce type de mineur veut probablement rentrer..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtenir des indices à partir des informations trouvées",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000312": {
+    "Answer": [
+      "",
+      "Les personnes âgées ne peuvent pas voyager sur de longues distances.",
+      "",
+      "Il faut se demander si les membres de la famille doivent rester ou partir."
+    ],
+    "Clue": "Certains mineurs ont dit que <tagId=2>*les personnes âgées ne peuvent plus marcher*, et que <tagId=3>*beaucoup ont fondé une famille dans la zone minière*.",
+    "Id": 1000312,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Ces mineurs ont encore une famille à prendre en compte...",
+      "",
+      "Ces mineurs ont encore une famille à prendre en compte..."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtenir des indices à partir des informations trouvées",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000313": {
+    "Answer": ["", "Indécis, incapable de choisir."],
+    "Clue": "Les mineurs qui ont fondé une famille avec les Byrnhaldiens <tagId=4>*ne savent pas où aller avec leurs épouses...*",
+    "Id": 1000313,
+    "Sort": 3,
+    "TapBubble": ["", "Ces mineurs sont vraiment face à un dilemme..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtenir des indices à partir des informations trouvées",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000411": {
+    "Answer": [
+      "",
+      "La \"Liste\" existe bel et bien dans le processus d'interrogatoire.",
+      "",
+      "La rature semble très désinvolte."
+    ],
+    "Clue": "[Dossier d'interrogatoire N° 2-17] : <tagId=1>*Motif de l'accusation : Déclenché par la Liste*<tagId=2>*(Raturé d'un trait)*<br> Question 1 : Savez-vous ce que Grieg complote ? Question 2 : Où est Darya ? Question 3 : Avez-vous vu Slauk ?",
+    "Id": 1000411,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Déclenché par la Liste.",
+      "",
+      "Raturé... on dirait que ça a été traité de manière très désinvolte."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtenir des indices en enquêtant sur les lieux",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000412": {
+    "Answer": [
+      "",
+      "L'interrogatoire n'était pour lui qu'une nuisance triviale.",
+      "",
+      "La \"Tour\" est le lieu privé de Reiner.",
+      "",
+      "La \"Couronne\" est quelque chose qui tient très à cœur à Reiner."
+    ],
+    "Clue": "Une boule de papier froissée : \"...Est-ce que ça vaut la peine de me faire sortir de la <tagId=4>*Tour* pour ce truc qui <tagId=3>*ne réagit même pas* ? ...La <tagId=5>*Couronne* m'attend.\"",
+    "Id": 1000412,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Ressemble plus au véritable noyau que la Liste.",
+      "",
+      "Ressemble plus au véritable noyau que la Liste."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtenir des indices en enquêtant sur les lieux",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000413": {
+    "Answer": [
+      "",
+      "Il y a des empreintes de bottes rouge foncé sur le sol.",
+      "",
+      "Ça a probablement été laissé par Reiner quand il est retourné à la \"Tour\".",
+      "",
+      "Mieux vaut suivre les traces."
+    ],
+    "Clue": "Traces au sol : Une grande zone de <tagId=6>*taches rouge foncé* et des signes de lutte. <br>Il y a des traces de traînée claires menant à l'embranchement. <br><tagId=7>*Une autre série d'empreintes de bottes militaires* est nette avec un espacement fixe, et ressemble à un chemin <tagId=8>*ramenant quelque part*.",
+    "Id": 1000413,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Mène probablement à la \"Tour\".",
+      "",
+      "Suivez les traces jusque dans la Tour."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtenir des indices en enquêtant sur les lieux",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000511": {
+    "Answer": ["", "Type de bête incorrect"],
+    "Clue": "Il n'y a <tagId=1>*pas de lézards* dans les Étendues sauvages du couchant.",
+    "Id": 1000511,
+    "Sort": 1,
+    "TapBubble": ["", "S'il n'y a pas de lézards, alors le dessin doit être faux..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Réfléchissez aux expériences passées...",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000512": {
+    "Answer": ["", "On dirait un produit moderne."],
+    "Clue": "Les <tagId=2>*matériaux et la fabrication de la bouteille sont très récents*.",
+    "Id": 1000512,
+    "Sort": 2,
+    "TapBubble": ["", "Ça n'a pas l'air vieux..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Réfléchissez aux expériences passées...",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000513": {
+    "Answer": ["", "Quelqu'un fabrique de faux indices de trésor."],
+    "Clue": "Là où la bouteille a été trouvée, <tagId=3>*il y avait des traces laissées par d'autres, et d'autres notes ont été délibérément enterrées*...",
+    "Id": 1000513,
+    "Sort": 3,
+    "TapBubble": ["", "On dirait qu'ils ont été laissés là exprès..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Réfléchissez aux expériences passées...",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100111": {
+    "Answer": ["", "Le contact pourrait avoir une couleur de cheveux voyante"],
+    "Clue": "\"Le plan commence bientôt, fais preuve de discrétion. Ta <tagId=1>*couleur de cheveux est trop voyante*, <tagId=7>*lorsque nous nous reverrons, je t'apporterai un cadeau de Byrnhald pour t'aider à la dissimuler un peu.*\"",
+    "Id": 100111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Il va falloir faire très attention à la couleur de cheveux des gens du coin..."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Indice fourni par Jerrad.",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100112": {
+    "Answer": ["", "Le contact pourrait être physiquement robuste"],
+    "Clue": "\"J'ai entendu dire que tu t'<tagId=2>*entraînais dur* ces derniers temps, <tagId=6>*c'est bien. Notre cause est grande, et ta santé est primordiale. Prends soin de toi. Je te confierai bientôt une tâche importante.*\"",
+    "Id": 100112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Cette personne s'entraîne souvent, elle doit donc être en bonne forme physique."
+    ],
+    "TapBubbleAction": [9033],
+    "Tips": "Indice fourni par Jerrad.",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100113": {
+    "Answer": ["", "Lys de mer", "", "Ce n'est pas un marchand local"],
+    "Clue": "\"Je le jure au <tagId=3>*nom du Lys de mer*, nous nous verrons au Festival de la brise marine. Remarque : <tagId=4>*évite de parler aux marchands locaux autant que possible.*<tagId=5>*Ils sont nombreux et observateurs, prends garde à ne pas te faire repérer.*\"",
+    "Id": 100113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "\"Lys de mer\" est peut-être une sorte de nom de code.",
+      "",
+      "À en juger par son attitude, il ne s'agit probablement pas d'un marchand local."
+    ],
+    "TapBubbleAction": [9026, 9047],
+    "Tips": "Indice fourni par Jerrad.",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100121": {
+    "Answer": ["", "Jeune", "", "Cheveux multicolores"],
+    "Clue": "\"<tagId=12>*Alors que tout le monde cherchait à s'abriter...* j'ai vu <tagId=1>*une jeune personne* avec <tagId=2>*des cheveux super stylés, de plusieurs couleurs*!!!!!... <tagId=7>*Mais une fois le coup de vent passé, cette tête à la pointe de la mode avait disparu.*\"",
+    "Id": 100121,
+    "Sort": 4,
+    "TapBubble": [
+      "",
+      "On dirait que le contact est assez jeune...",
+      "",
+      "Le contact a les cheveux multicolores !"
+    ],
+    "TapBubbleAction": [9033, 9047],
+    "Tips": "Recueillez des informations et des indices dans le quartier des divertissements.",
+    "UnlockCondition": [[2, 20040, 20040016]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100122": {
+    "Answer": ["", "Lys de mer", "", "Homme"],
+    "Clue": "\"Oui, le <tagId=3>*Lys de mer*... <tagId=10>*tout près*, <tagId=4>*il y avait un homme*, <tagId=8>*sur lui*, <tagId=9>*il y avait son parfum*.\"",
+    "Id": 100122,
+    "Sort": 5,
+    "TapBubble": [
+      "",
+      "Le parfum du Lys de mer... Ce doit être un signe de reconnaissance important.",
+      "",
+      "Parfait, le sexe du suspect est maintenant confirmé."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Recueillez des informations et des indices dans le quartier des divertissements.",
+    "UnlockCondition": [[2, 20040, 20040017]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100123": {
+    "Answer": ["", "Bien bâti", "", "Tenue soignée"],
+    "Clue": "\"<tagId=11>*Oui, j'ai vu* <tagId=5>*un type bien bâti* ! Il <tagId=6>*était aussi très bien habillé* !\"",
+    "Id": 100123,
+    "Sort": 6,
+    "TapBubble": [
+      "",
+      "Cet indice correspond à l'information selon laquelle le suspect s'entraîne régulièrement.",
+      "",
+      "On dirait qu'il s'habille avec beaucoup de soin."
+    ],
+    "TapBubbleAction": [9026, 9047],
+    "Tips": "Recueillez des informations et des indices dans le quartier des divertissements.",
+    "UnlockCondition": [[2, 20040, 20040018]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100311": {
+    "Answer": ["", "Substance inconnue"],
+    "Clue": "Trouvé les gants de Ryan à l'Établi n° 4. <tagId=1>*Ils ressemblent à un équipement d'artisan standard : usés mais sans dégâts. Pourtant, la texture est étrange*. En y regardant de plus près, on trouve une couche de <tagId=7>*substance inconnue à la surface*.",
+    "Id": 100311,
+    "Sort": 1,
+    "TapBubble": ["", "Je dois observer ça attentivement."],
+    "TapBubbleAction": [9033],
+    "Tips": "Rassemblez des indices à l'établi de l'artisan.",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100312": {
+    "Answer": ["", "Schéma de démantèlement"],
+    "Clue": "<tagId=8>*Des plans pour le démantèlement de l'Héritage divin du noyau de foudre* <tagId=5>*ont été trouvés à l'Établi n° 2 de Feyn*. <tagId=6>*De nombreux artisans sont passionnés par l'étude de cet Héritage divin au puissant pouvoir de foudre*, <tagId=10>*mais seul Tauros sait comment l'utiliser correctement*.",
+    "Id": 100312,
+    "Sort": 2,
+    "TapBubble": ["", "Quelles informations peuvent bien se cacher là-dedans... ?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Rassemblez des indices à l'établi de l'artisan.",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100313": {
+    "Answer": ["", "Marques de brûlure sur la lanterne"],
+    "Clue": "<tagId=11>*Une très belle lanterne à main était posée sur l'établi n°1*. <tagId=12>*Son style plairait à une fille*, <tagId=13>*ce doit être celle de Sasha*. Mais <tagId=9>*il y a des marques de brûlure à l'extérieur*. <tagId=14>*On devrait prendre grand soin d'une si belle lanterne*.",
+    "Id": 100313,
+    "Sort": 3,
+    "TapBubble": ["", "L'aspect est anormal, ces marques sont trop évidentes."],
+    "TapBubbleAction": [9026],
+    "Tips": "Rassemblez des indices à l'établi de l'artisan.",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100411": {
+    "Answer": ["", "Opération spéciale"],
+    "Clue": "<tagId=4>*Légion de la Brume sombre : début de la guerre d'indépendance d'Asterleeds*<br><tagId=1>*Lors des récentes batailles contre la légion de la Brume sombre*, <tagId=6>*le commandant adjoint Jayden était absent du champ de bataille*. <tagId=7>*Selon les rapports*, <tagId=8>*Jayden prévoirait de mener son unité dans une opération spéciale à Asterleeds*, <tagId=9>*dont les détails spécifiques sont confidentiels*.",
+    "Id": 100411,
+    "Sort": 1,
+    "TapBubble": ["", "Jayden va mener ses subordonnés dans une opération spéciale à Asterleeds"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtenez des indices dans les dossiers d'enquête de la légion de la Brume sombre.",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100412": {
+    "Answer": ["", "Opération d'infiltration", "", "Échec"],
+    "Clue": "<tagId=10>*Dossiers d'enquête de la légion de la Brume sombre - Phase intermédiaire de la guerre d'indépendance d'Asterleeds*<br>■■■■■■■■■■■<tagId=11>*L'opération d'infiltration menée par l'unité de reconnaissance de la légion de la Brume sombre contre Asterleeds* <tagId=12>*s'est soldée par un échec*. <tagId=13>*Malheureusement, ils n'ont pas pu capturer le commandant ennemi*. <tagId=14>*Cette opération était directement* <tagId=15>*supervisée* <tagId=2>*par de hauts responsables de la* <tagId=16>*légion de la Brume sombre ■■■■■■■*.",
+    "Id": 100412,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Opération d'infiltration de l'équipe de reconnaissance de la légion de la Brume sombre à Asterleeds",
+      "",
+      "Résultat : échec"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtenez des indices dans les dossiers d'enquête de la légion de la Brume sombre.",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100413": {
+    "Answer": ["", "Ruines imposantes"],
+    "Clue": "<tagId=17>*Dossiers d'enquête de la légion de la Brume sombre - Phase finale de la guerre d'indépendance d'Asterleeds*<br><tagId=18>*■■■■■Après s'être échappée d'Asterleeds*, <tagId=19>*l'équipe de reconnaissance de la légion de la Brume sombre a disparu* aux <tagId=3>*Ruines imposantes*. <tagId=21>*■■■■■■■■D'après l'enquête*, <tagId=22>*l'équipe de reconnaissance n'a jamais été revue■■■■■*.",
+    "Id": 100413,
+    "Sort": 3,
+    "TapBubble": ["", "Ruines imposantes"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtenez des indices dans les dossiers d'enquête de la légion de la Brume sombre.",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100511": {
+    "Answer": ["", "Minsterhorn"],
+    "Clue": "Il y a sept jours, Mademoiselle Lucy et Carlis ont trouvé Trésor à <tagId=1>*Minsterhorn*.",
+    "Id": 100511,
+    "Sort": 1,
+    "TapBubble": ["", "Minsterhorn"],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les paroles de Carlis.",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100512": {
+    "Answer": ["", "Chaque nuit, il essaie de partir"],
+    "Clue": "Mademoiselle Lucy offrait la meilleure vie possible à Trésor, mais Trésor <tagId=2>*essayait de partir toutes les nuits.*",
+    "Id": 100512,
+    "Sort": 2,
+    "TapBubble": ["", "Chaque nuit, il essaie de partir"],
+    "TapBubbleAction": [9026],
+    "Tips": "Trouvez des indices dans les paroles de Carlis.",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100513": {
+    "Answer": ["", "Pleurniche constamment"],
+    "Clue": "La nuit dernière, <tagId=3>*Trésor a gémi toute la nuit.* Le gardien de nuit, Carlis, voulait lui faire prendre l'air, <tagId=4>*mais l'a accidentellement laissé s'échapper.*",
+    "Id": 100513,
+    "Sort": 3,
+    "TapBubble": ["", "Pleurniche constamment"],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les paroles de Carlis.",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100611": {
+    "Answer": ["", "Pas lui ?"],
+    "Clue": "Déclaration de Miru et Rumi : \"Kakater <tagId=1>*semble totalement différent* du mystérieux homme riche avec qui nous avons parlé plus tôt !\"",
+    "Id": 100611,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Se pourrait-il que Kakater et le mystérieux homme riche soient deux personnes différentes ?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100612": {
+    "Answer": ["", "Salaires impayés", "", "Jeune homme aux cheveux noirs"],
+    "Clue": "Déclaration de Spike : \"On dit que l'employeur de Byrnhald <tagId=2>*n'a toujours pas payé* ! Il y a un <tagId=3>*jeune homme aux cheveux noirs* qui fouine sur le navire...\"",
+    "Id": 100612,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Le comportement du mystérieux homme riche défie toute logique.",
+      "",
+      "Il y a d'autres individus suspects à bord."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "100613": {
+    "Answer": ["", "Dossier", "", "Rencontre secrète", "", "Dans les mains du garde du corps"],
+    "Clue": "Déclaration de Tina : \"Kakater <tagId=4>*est monté sur le pont avec le dossier*. Il a parlé avec un <tagId=5>*jeune homme aux cheveux noirs*... puis il a <tagId=6>*remis les documents au garde du corps*...\"",
+    "Id": 100613,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Ce dossier pourrait-il être un nouvel indice ?",
+      "",
+      "Kakater et l'homme aux cheveux noirs se sont rencontrés.",
+      "",
+      "Le dossier est peut-être entre les mains du garde du corps."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "200111": {
+    "Answer": [
+      "",
+      "Les Lys de mer sont rares dans les Hautes terres.",
+      "",
+      "C'est peut-être un villageois qui l'a déposé."
+    ],
+    "Clue": "Témoignage 1 : \"Des lys de mer... dans un endroit comme les Hautes terres, <tagId=1>*ne devraient pas pousser*. Déposer des fleurs fraîches sous un arbre implique un hommage... on dirait l'œuvre de quelqu'un <tagId=2>*qui connaît bien Lallipar*...\"",
+    "Id": 200111,
+    "Sort": 1,
+    "TapBubble": ["", "L'ancien du village a rendu son jugement..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtenir des indices grâce aux renseignements",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "200112": {
+    "Answer": [
+      "",
+      "Les Lys de mer frais sont chers.",
+      "",
+      "Les premières cultures des Hautes terres ont été importées."
+    ],
+    "Clue": "Témoignage 2 : \"Les <tagId=3>*lys de mer frais sont terriblement chers* cette saison ! Peu de choses poussent naturellement dans les Hautes terres... <tagId=4>*Les cultures existantes semblent avoir été importées de l'extérieur à l'origine*...\"",
+    "Id": 200112,
+    "Sort": 2,
+    "TapBubble": [],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtenir des indices grâce aux renseignements",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "200113": {
+    "Answer": [
+      "",
+      "C'est peut-être un voyageur qui l'a déposé.",
+      "",
+      "Les voyageurs apportent des cadeaux pour montrer leur gratitude."
+    ],
+    "Clue": "Témoignage 3 : \"Est-ce qu'un <tagId=5>*voyageur* aurait pu déposer ça ? Tout le monde respecte cet endroit... Lors de leur visite, beaucoup de gens <tagId=6>*apportent des cadeaux de l'extérieur* pour montrer leur gratitude...\"",
+    "Id": 200113,
+    "Sort": 3,
+    "TapBubble": [],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtenir des indices grâce aux renseignements",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "200201": {
+    "Answer": ["", "Enveloppé de rouge"],
+    "Clue": "\"Le jour où je l'ai rencontrée... était rouge. Mes yeux, <tagId=1>*enveloppés de rouge*...\"",
+    "Id": 200201,
+    "Sort": 1,
+    "TapBubble": ["", "Pourquoi Saphir a perdu la vue ?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les paroles de Saphir.",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "200202": {
+    "Answer": ["", "Ciel rougeoyant et air brûlant", "", "Un vent l'entoure"],
+    "Clue": "\"Dans <tagId=2>*le ciel rougeoyant et l'air brûlant*, seul <tagId=3>*un vent l'entourait*...\"",
+    "Id": 200202,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "L'environnement lors de la rencontre entre Saphir et la mystérieuse jeune fille ?",
+      "",
+      "Les caractéristiques de la mystérieuse jeune fille ?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les paroles de Saphir.",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "200203": {
+    "Answer": ["", "Elle a attrapé Saphir"],
+    "Clue": "\"Alors que je sombrais complètement dans les ténèbres, <tagId=4>*elle m'a attrapée*.\"",
+    "Id": 200203,
+    "Sort": 3,
+    "TapBubble": ["", "Qu'a fait la mystérieuse jeune fille à Saphir ?"],
+    "TapBubbleAction": [9026],
+    "Tips": "Trouvez des indices dans les paroles de Saphir.",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "300111": {
+    "Answer": ["", "Attirer des monstres"],
+    "Clue": "Nous nous sommes mis en route et, jusqu'à présent, tout s'est bien passé.<br>L'équipe est très expérimentée, digne d'une équipe d'expédition. L'itinéraire choisi par l'écologiste nous a presque permis d'éviter tous les monstres, c'est incroyable.<br>Cependant, ce type qui a rejoint temporairement l'équipe comme moi, il me semble qu'il s'appelle... Ryan ? <tagId=6>*Il attire toujours des monstres par accident et se fait réprimander par le capitaine.*",
+    "Id": 300111,
+    "Sort": 1,
+    "TapBubble": ["", "Ryan est-il peu professionnel en tant que guide ?"],
+    "TapBubbleAction": [9033, 9047, 9047],
+    "Tips": "Trouvez des indices dans le journal.",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "300112": {
+    "Answer": ["", "Il va pleuvoir", "", "Monstres errants"],
+    "Clue": "Nous sommes coincés. À en juger par la météo, cette tempête n'a rien de naturel - notre écologiste soupçonne que c'est l'œuvre des gobelins.<br><tagId=1>*Des nuages noirs commencent à apparaître au loin,* et, à en juger par leur direction, ils semblent venir de la mer, ce qui n'est pas bon signe. Si les gobelins accomplissent un étrange rituel et que nous subissons un déluge en forêt à cette saison, ce serait...<br><tagId=2>*Les hurlements des monstres résonnent de toutes parts.* Heureusement, nous avons modifié notre itinéraire à l'avance. Il reste quelques provisions à la Station Six. Elle est en hauteur, à l'abri des inondations, et devrait nous offrir un abri pour le moment.",
+    "Id": 300112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Les nuages noirs se sont approchés, le ciel s'est assombri et il n'est plus possible de continuer à avancer.",
+      "",
+      "On dirait que le danger rôde."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Trouvez des indices dans le journal.",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "300113": {
+    "Answer": [
+      "",
+      "Le vent hurle",
+      "",
+      "Affaires personnelles intactes",
+      "",
+      "Pas précipités",
+      "",
+      "Faire une supposition"
+    ],
+    "Clue": "Tout le monde a fait de son mieux, <tagId=3>*le vent peut briser les arbres*. Si nous ne retournons pas bientôt à la station n°6, nous n'aurons que de plus gros ennuis.<br>Nous <tagId=4>*avons trouvé son sac à dos près de l'arbre au bord de la falaise*, ainsi que quelques <tagId=5>*empreintes de pas désordonnées*. Ryan <tagId=7>*a supposé qu'il avait peut-être glissé et était tombé*.<br>Personne ne sait d'où venait Roy, nous n'avons donc pu qu'ériger un cénotaphe près de l'arbre à l'extérieur de la station.",
+    "Id": 300113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Le vent peut couvrir la voix des gens.",
+      "",
+      "Il a posé son sac avant d'aller au bord de la falaise.",
+      "",
+      "Serait-ce une urgence... ou y avait-il plus d'une personne présente ?",
+      "",
+      "La conclusion du faux pas semble un peu expéditive..."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Trouvez des indices dans le journal.",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "300211": {
+    "Answer": [
+      "",
+      "Une tempête a éclaté",
+      "",
+      "Malédiction ancienne de Kanamia",
+      "",
+      "Traces de traînée au sol"
+    ],
+    "Clue": "Alors que l'équipe avançait, soudain <tagId=1>*une tempête a éclaté*, suivie de fortes exclamations à l'arrière. <br>En se retournant, ils découvrirent que... Reed s'était volatilisé ! C'était la <tagId=2>*malédiction ancienne de Kanamia* qui s'était réalisée !<br>Enquête sur place : il y avait de longues <tagId=3>*traces de traînée* au sol.",
+    "Id": 300211,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Il y a une tempête",
+      "",
+      "Malédiction ancienne de Kanamia",
+      "",
+      "Traces de traînée"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Indices obtenus auprès des mercenaires.",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "300212": {
+    "Answer": [
+      "",
+      "Le vent s'est soudainement intensifié",
+      "",
+      "Malédiction ancienne de Kanamia",
+      "",
+      "À côté d'une falaise vertigineuse"
+    ],
+    "Clue": "Alors que l'équipe traversait le col venteux, <tagId=4>*le vent est soudainement devenu si fort qu'ils ne pouvaient plus ouvrir les yeux*. <br>Lorsqu'ils reprirent leurs esprits, Golg avait déjà disparu. Il a dû prendre quelque chose sur l'autel, provoquant ainsi la <tagId=5>*malédiction ancienne de Kanamia* !<br>Enquête sur place : à côté se trouvait une <tagId=6>*falaise vertigineuse*.",
+    "Id": 300212,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Le vent s'est soudainement intensifié",
+      "",
+      "Malédiction ancienne de Kanamia",
+      "",
+      "À côté d'une falaise vertigineuse"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Indices obtenus auprès des mercenaires.",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "300213": {
+    "Answer": [
+      "",
+      "Vent violent soufflant de la falaise",
+      "",
+      "Le hurlement du Loup Blanc de Kanamia",
+      "",
+      "Le golem endommagé"
+    ],
+    "Clue": "Alors que le groupe avançait normalement, il a été soudainement frappé par <tagId=7>*une puissante rafale de vent soufflant de la falaise*. Puis, Duko a disparu. <br>La vallée résonnait du vent hurlant, comme un cri de loups... le guide a dit que c'était <tagId=8>*le hurlement furieux du Loup blanc de Kanamia*...<br> Plus terrifiant encore, un <tagId=9>*golem endommagé* a été vu planant au-dessus des montagnes lointaines, nous fixant avec une hostilité évidente.",
+    "Id": 300213,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Vent violent soufflant de la falaise",
+      "",
+      "Le hurlement du Loup Blanc de Kanamia",
+      "",
+      "Le golem endommagé"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Indices obtenus auprès des mercenaires.",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "400111": {
+    "Answer": ["", "Rituel de bénédiction"],
+    "Clue": "Un jeune couple : \"Pendant le <tagId=1>*rituel de bénédiction*, l'eau de source bénie par les ancêtres peut guérir les blessures...\"",
+    "Id": 400111,
+    "Sort": 1,
+    "TapBubble": ["", "On dirait un rituel tribal très important..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les conversations des villageois.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "400112": {
+    "Answer": ["", "Fermée depuis trop longtemps"],
+    "Clue": "Ancien Kanamia : \"La Zone interdite est <tagId=2>*fermée depuis trop longtemps*... Sans l'eau de source, les blessures ne peuvent pas guérir...\"",
+    "Id": 400112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "On dirait que la Zone interdite n'est plus ouverte aux étrangers depuis longtemps."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les conversations des villageois.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "400113": {
+    "Answer": ["", "La falaise est"],
+    "Clue": "Jeune Kanamia : \"J'étais en bas de <tagId=3>*la falaise est* en train de prier les ancêtres...\"",
+    "Id": 400113,
+    "Sort": 3,
+    "TapBubble": ["", "Il y a un site de bénédiction en bas de la falaise est."],
+    "TapBubbleAction": [9026],
+    "Tips": "Trouvez des indices dans les conversations des villageois.",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "500111": {
+    "Answer": ["", "Brume rouge pâle"],
+    "Clue": "Après mon évanouissement... j'ai vu de la brume. Mais ce n'était pas l'écœurant engramme du néant ! C'était... <tagId=1>*une brume rouge pâle*... magnifique, et tellement, tellement irréelle...",
+    "Id": 500111,
+    "Sort": 1,
+    "TapBubble": ["", "Je n'avais encore jamais vu de brume rouge."],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "500112": {
+    "Answer": ["", "Se calmer"],
+    "Clue": "Puis, j'ai lutté pour retrouver mon calme. Étrangement, une fois que j'ai réussi à <tagId=2>*me calmer*, les \"monstres\" étaient toujours là, mais leur agressivité avait diminué.",
+    "Id": 500112,
+    "Sort": 2,
+    "TapBubble": ["", "Un esprit calme semble affaiblir l'impact du cauchemar."],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "500113": {
+    "Answer": ["", "Héritage divin des Hautes terres"],
+    "Clue": "En tant que membre de la Guilde des artisans, on m'a envoyé dans les Hautes terres pour étudier un Héritage récemment mis au jour. Il paraît que c'est une sorte de <tagId=3>*dispositif d'apaisement*. Si nous pouvons le vérifier et l'utiliser au plus vite, cela pourrait aider à atténuer ce phénomène.",
+    "Id": 500113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Un Héritage récemment découvert dans les Hautes terres, qui semble avoir un effet apaisant."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "700111": {
+    "Answer": [
+      "",
+      "Le chef-d'œuvre de Lothar",
+      "",
+      "La prêtresse Gisela distribue les fioles d'âme stellaire périodiquement."
+    ],
+    "Clue": "La fiole d'âme stellaire est <tagId=1>*le chef-d'œuvre de Lothar.* De plus, Lothar doit s'occuper d'éliminer les Fleurs illusoires, il est donc extrêmement occupé. D'ailleurs, il n'est même pas au Pilier divin aujourd'hui.<br><tagId=2>*Le prêtre Gisela distribue périodiquement des fioles d'âme stellaire.* Mais 500... c'est beaucoup trop. Cependant, si vous avez une raison légitime, ça vaut peut-être le coup de lui demander.",
+    "Id": 700111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Il n'est même pas au Pilier divin aujourd'hui...",
+      "",
+      "Elle n'acceptera certainement pas de donner 500 fioles d'âme stellaire."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les paroles du pèlerin.",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "700112": {
+    "Answer": ["", "Boyce supervise la distribution des fioles d'âme stellaire."],
+    "Clue": "Boyce ne parle jamais de son passé, mais sa prestance indique qu'il a un parcours hors du commun. Sa force, elle aussi, semble exceptionnelle. On dit que parfois, <tagId=3>*c'est Boyce qui maintient l'ordre pendant la distribution des fioles d'âme stellaire*.",
+    "Id": 700112,
+    "Sort": 2,
+    "TapBubble": ["", "Boyce... Je suppose que je le connais, d'une certaine manière."],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les paroles du pèlerin.",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "700113": {
+    "Answer": ["", "Sur la route devant le Pilier divin"],
+    "Clue": "Les fioles d'âme stellaire sont en quantité limitée, et le stock d'aujourd'hui est déjà épuisé. <br>Mais si tu es vraiment en difficulté, essaie de <tagId=4>parler à Boyce *sur la route devant le Pilier divin*, il pourrait faire une exception.",
+    "Id": 700113,
+    "Sort": 3,
+    "TapBubble": ["", "C'est ça, c'est bien ici !"],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices dans les paroles du pèlerin.",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "800111": {
+    "Answer": ["", "Un blanc étrange"],
+    "Clue": "Il y a un <tagId=1>*blanc étrange* au milieu du planning des équipes. Personne n'était de service à ce moment-là ?",
+    "Id": 800111,
+    "Sort": 1,
+    "TapBubble": ["", "Oui, ça doit être ça !"],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Trouvez des indices grâce au planning des équipes.",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "800112": {
+    "Answer": [
+      "",
+      "Les périodes de service se sont notablement allongées",
+      "",
+      "Leur périmètre de patrouille a diminué"
+    ],
+    "Clue": "En utilisant le blanc étrange comme ligne de démarcation, les sergents se relayaient toutes les six heures auparavant, mais après ça, <tagId=2>*les tours de garde ont été prolongés à huit heures*.<br><tagId=5>*Certaines zones présentent même des manques de personnel*.",
+    "Id": 800112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Alors comme ça, même les soldats doivent faire des heures sup.",
+      "",
+      "Manqueraient-ils de personnel pour couvrir les mines à ciel ouvert ?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices grâce au planning des équipes.",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "800113": {
+    "Answer": [
+      "",
+      "Sergent Milo",
+      "",
+      "Sergent Breck",
+      "",
+      "Sergent Devin",
+      "",
+      "Le nombre de sergents de service a diminué"
+    ],
+    "Clue": "En y regardant de plus près, <tagId=7>*le nombre de sergents de service a diminué*... Il est temps de trier les listes des sergents de service avant et après la ligne de démarcation. <br>Avant la ligne de démarcation : <tagId=3>*sergent Milo*, sergent Osmond, sergent Murray, sergent Léo, sergent Ethan, <tagId=4>*sergent Breck* et <tagId=6>*sergent Devin*. <br>Après la ligne de démarcation : sergent Murray, sergent Osmond, sergent Ethan et sergent Léo",
+    "Id": 800113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Où est-il... ?",
+      "",
+      "J'espère qu'il va bien.",
+      "",
+      "J'ai un mauvais pressentiment."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Trouvez des indices grâce au planning des équipes.",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "900111": {
+    "Answer": ["", "Minerai cramoisi", "", "Soldat de la Pierre noire", "", "Maire"],
+    "Clue": "Neuler transporte du <tagId=1>*Minerai cramoisi* sur lui et peut également faire en sorte que les <tagId=2>*Soldats de Blackstone* le soutiennent. <br>Nous avons appris par les soldats en fuite que leur cible initiale était <tagId=3>*Myra*.",
+    "Id": 900111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Donc Neuler a du Minerai cramoisi sur lui",
+      "",
+      "Même les soldats du poste avancé de garnison sont intervenus pour lui",
+      "",
+      "Comme ça, il pourra prendre le contrôle de la caravane."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices sur les lieux.",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "900112": {
+    "Answer": ["", "Homme en noir"],
+    "Clue": "Qui sait ce qu'il voulait, cet <tagId=4>*Homme en noir*... Il est complètement cinglé ! Je ne veux plus jamais avoir affaire à quelqu'un comme lui de toute ma vie ! <br>Dieu merci, une fois que nous aurons fini de décharger la cargaison, je pourrai rentrer. Je te rapporterai un souvenir. <br>Nous devons le succès de cette affaire à ce subordonné bien informé. S'il n'avait pas contacté Nevelle, je n'aurais jamais eu connaissance de cette opportunité. Aujourd'hui, il m'a dit qu'un personnage important qui a aidé à établir cette connexion voulait me rencontrer... (le reste du texte est perdu)",
+    "Id": 900112,
+    "Sort": 2,
+    "TapBubble": ["", "Ce type doit manigancer quelque chose en coulisses"],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices sur les lieux.",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "900113": {
+    "Answer": ["", "Éliminez votre chef", "", "La richesse et la gloire que vous convoitez"],
+    "Clue": "<tagId=5>*Débarrasse-toi de ton chef* et la caravane sera à toi. Ensuite, tu pourras participer à des transactions de plus haut niveau. Je pourrais même te laisser prendre quelques échantillons d'abord. <br>Carl t'aidera. <br>Tu as déjà vu des exemples \"de ce genre\", n'est-ce pas ? <tagId=6>La richesse et la gloire que tu convoites ne sont plus qu'à un pas.",
+    "Id": 900113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Tu veux participer à des transactions de plus haut niveau ?",
+      "",
+      "Tout a un prix"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Trouvez des indices sur les lieux.",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  }
+}

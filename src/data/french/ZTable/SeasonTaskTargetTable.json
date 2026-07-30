@@ -1,0 +1,915 @@
+{
+  "1001": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 1001,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "1002": {
+    "Describe": "Terminez {*val*} objectifs sur cette page.",
+    "Id": 1002,
+    "Num": 8,
+    "Param": [1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "1003": {
+    "Describe": "Terminez la quête principale \"Péché et supercherie : une sorcière\".",
+    "Id": 1003,
+    "Num": 1,
+    "Param": [-1, 10202],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "1004": {
+    "Describe": "Obtenez {*val*} points d'activité.",
+    "Id": 1004,
+    "Num": 200,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 41
+  },
+  "1005": {
+    "Describe": "Équipez 4 pièces d'équipement rare.",
+    "Id": 1005,
+    "Num": 1,
+    "Param": [4, 2, 0],
+    "SceneId": 0,
+    "TargetType": 30
+  },
+  "1006": {
+    "Describe": "Améliorez une compétence au niv. 5.",
+    "Id": 1006,
+    "Num": 1,
+    "Param": [1, 5],
+    "SceneId": 0,
+    "TargetType": 35
+  },
+  "1007": {
+    "Describe": "Activez {*val*} talents.",
+    "Id": 1007,
+    "Num": 6,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "1008": {
+    "Describe": "Consommez {*val*} points de concentration.",
+    "Id": 1008,
+    "Num": 200,
+    "Param": [20003],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "1009": {
+    "Describe": "Terminez l'Espace instable {*val*} fois.",
+    "Id": 1009,
+    "Num": 1,
+    "Param": [8],
+    "SceneId": 0,
+    "TargetType": 265
+  },
+  "1010": {
+    "Describe": "Terminez l'épreuve de niveau 3 de n'importe quelle classe.",
+    "Id": 1010,
+    "Num": 1,
+    "Param": [21306, 23101, 24101],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "1011": {
+    "Describe": "Éliminez {*val*} boss.",
+    "Id": 1011,
+    "Num": 1,
+    "Param": [
+      10032, 10009, 10018, 10056, 10059, 10010, 10084, 10085, 10081, 10007, 10069, 10086, 10077,
+      10029, 11007, 11014, 10118, 10119, 10041, 11023
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "1012": {
+    "Describe": "Utilisez {*val*} arôme(s) curatif(s) niv. 1.",
+    "Id": 1012,
+    "Num": 5,
+    "Param": [1015001],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "1013": {
+    "Describe": "Rejoignez {*val*} guilde.",
+    "Id": 1013,
+    "Num": 1,
+    "Param": [1],
+    "SceneId": 0,
+    "TargetType": 342
+  },
+  "1014": {
+    "Describe": "Prenez une photo en mode selfie.",
+    "Id": 1014,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "1015": {
+    "Describe": "Configurez la roue rapide 1 fois.",
+    "Id": 1015,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 347
+  },
+  "1016": {
+    "Describe": "Achetez {*val*} article(s) dans la boutique d'honneur.",
+    "Id": 1016,
+    "Num": 1,
+    "Param": [0, 8],
+    "SceneId": 0,
+    "TargetType": 61
+  },
+  "2001": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 2001,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "2002": {
+    "Describe": "Terminez {*val*} objectifs sur cette page.",
+    "Id": 2002,
+    "Num": 8,
+    "Param": [
+      2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017
+    ],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "2003": {
+    "Describe": "Terminez la quête principale \"À la recherche du passé\".",
+    "Id": 2003,
+    "Num": 1,
+    "Param": [-1, 10211],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "2004": {
+    "Describe": "Obtenez {*val*} points d'activité.",
+    "Id": 2004,
+    "Num": 400,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 41
+  },
+  "2005": {
+    "Describe": "Obtenez le titre de saison \"Garde forestier débutant II\".",
+    "Id": 2005,
+    "Num": 1,
+    "Param": [1010102001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "2006": {
+    "Describe": "Score de capacité : {*val*}.",
+    "Id": 2006,
+    "Num": 2600,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 236
+  },
+  "2007": {
+    "Describe": "Atteignez le niveau d'aventurier 18.",
+    "Id": 2007,
+    "Num": 1,
+    "Param": [-1, 18],
+    "SceneId": 0,
+    "TargetType": 118
+  },
+  "2008": {
+    "Describe": "Équipez 2 pièces d'équipement épique.",
+    "Id": 2008,
+    "Num": 1,
+    "Param": [2, 3, 0],
+    "SceneId": 0,
+    "TargetType": 30
+  },
+  "2009": {
+    "Describe": "Terminez l'épreuve de niveau 6 de n'importe quelle classe.",
+    "Id": 2009,
+    "Num": 1,
+    "Param": [21301, 22501, 24102],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "2010": {
+    "Describe": "Terminez un donjon {*val*} fois en groupe.",
+    "Id": 2010,
+    "Num": 2,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "2011": {
+    "Describe": "Terminez l'étage 3 des Vestiges de Stimen.",
+    "Id": 2011,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 257
+  },
+  "2012": {
+    "Describe": "Terrassez {*val*} boss.",
+    "Id": 2012,
+    "Num": 2,
+    "Param": [
+      10032, 10009, 10018, 10056, 10059, 10010, 10084, 10085, 10081, 10007, 10069, 10086, 10077,
+      10029, 11007, 11014, 10118, 10119, 10041, 11023
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "2013": {
+    "Describe": "Terminez la quête de guide du Centre de guilde.",
+    "Id": 2013,
+    "Num": 1,
+    "Param": [-1, 39003],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "2014": {
+    "Describe": "Participez 1 fois à une séance photo multijoueur.",
+    "Id": 2014,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 346
+  },
+  "2015": {
+    "Describe": "Ouvrez le \"coffre d'étoiles basique\" {*val*} fois.",
+    "Id": 2015,
+    "Num": 8,
+    "Param": [1040102, 1040140, 1040360, 1040361],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "2016": {
+    "Describe": "Faites {*val*} achats dans la boutique de saison.",
+    "Id": 2016,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 254
+  },
+  "2017": {
+    "Describe": "Atteignez le titre de saison \"Rêveur II\".",
+    "Id": 2017,
+    "Num": 1,
+    "Param": [1020102001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "3001": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 3001,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "3002": {
+    "Describe": "Terminez {*val*} objectifs sur cette page.",
+    "Id": 3002,
+    "Num": 8,
+    "Param": [3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "3003": {
+    "Describe": "Terminez la quête principale \"Vers la nouvelle tempête\".",
+    "Id": 3003,
+    "Num": 1,
+    "Param": [-1, 10215],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "3004": {
+    "Describe": "Terminez la quête secondaire \"Le monde secret souterrain\".",
+    "Id": 3004,
+    "Num": 1,
+    "Param": [-1, 30401],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "3005": {
+    "Describe": "Équipez 2 pièces d'équipement épique avec un niveau de Perfection de 10.",
+    "Id": 3005,
+    "Num": 1,
+    "Param": [2, 3, 10],
+    "SceneId": 0,
+    "TargetType": 30
+  },
+  "3006": {
+    "Describe": "Activez {*val*} compétences optionnelles.",
+    "Id": 3006,
+    "Num": 2,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "3007": {
+    "Describe": "Activez {*val*} talents.",
+    "Id": 3007,
+    "Num": 15,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "3008": {
+    "Describe": "Consommez {*val*} points de concentration.",
+    "Id": 3008,
+    "Num": 600,
+    "Param": [20003],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "3009": {
+    "Describe": "Terminez \"l'Espace instable\" {*val*} fois au total.",
+    "Id": 3009,
+    "Num": 3,
+    "Param": [8],
+    "SceneId": 0,
+    "TargetType": 265
+  },
+  "3010": {
+    "Describe": "Terminez l'épreuve de niveau 9 de n'importe quelle classe.",
+    "Id": 3010,
+    "Num": 1,
+    "Param": [21307, 23102, 24103],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "3011": {
+    "Describe": "Terminez le mode Normal d'un \"Royaume chaotique\" 1 fois.",
+    "Id": 3011,
+    "Num": 1,
+    "Param": [
+      1031, 1121, 1152, 1221, 1331, 1421, 1531, 1631, 6007, 6021, 6043, 6121, 6221, 6331, 6421,
+      6523, 6513, 6543, 6563
+    ],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "3012": {
+    "Describe": "Éliminez le boss mondial {*val*} fois.",
+    "Id": 3012,
+    "Num": 1,
+    "Param": [15],
+    "SceneId": 0,
+    "TargetType": 265
+  },
+  "3013": {
+    "Describe": "Terminez {*val*} cargaisons de guilde.",
+    "Id": 3013,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 43
+  },
+  "3014": {
+    "Describe": "Mettez en vente {*val*} objets dans le Centre d'échange.",
+    "Id": 3014,
+    "Num": 1,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 65
+  },
+  "3015": {
+    "Describe": "Ayez {*val*} amis.",
+    "Id": 3015,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 250
+  },
+  "4001": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 4001,
+    "Num": 4,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "4002": {
+    "Describe": "Terminez {*val*} objectifs sur cette page.",
+    "Id": 4002,
+    "Num": 8,
+    "Param": [4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 4011, 4012, 4013, 4014, 4015],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "4003": {
+    "Describe": "Score de capacité : {*val*}.",
+    "Id": 4003,
+    "Num": 4300,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 236
+  },
+  "4004": {
+    "Describe": "Atteignez le niveau d'aventurier 29.",
+    "Id": 4004,
+    "Num": 1,
+    "Param": [-1, 29],
+    "SceneId": 0,
+    "TargetType": 118
+  },
+  "4005": {
+    "Describe": "Raffinez de l'équipement {*val*} fois",
+    "Id": 4005,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 258
+  },
+  "4006": {
+    "Describe": "Améliorez 1 compétence au choix au niv. 12.",
+    "Id": 4006,
+    "Num": 1,
+    "Param": [1, 12],
+    "SceneId": 0,
+    "TargetType": 35
+  },
+  "4007": {
+    "Describe": "Améliorez les compétences de vie {*val*} fois.",
+    "Id": 4007,
+    "Num": 5,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 81
+  },
+  "4008": {
+    "Describe": "Terminez le \"Royaume chaotique\" en mode Difficile 1 fois.",
+    "Id": 4008,
+    "Num": 1,
+    "Param": [1032, 1122, 1222, 6008, 6022, 6044, 1422, 1532, 6122, 6222, 6332, 6422],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "4009": {
+    "Describe": "Terminez la 11e épreuve de n'importe quelle classe.",
+    "Id": 4009,
+    "Num": 1,
+    "Param": [21401, 22301, 24402],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "4010": {
+    "Describe": "Éliminez {*val*} monstres d'élite.",
+    "Id": 4010,
+    "Num": 6,
+    "Param": [
+      10031, 10035, 10019, 10038, 10055, 10057, 10058, 10064, 10065, 10104, 10105, 10080, 10066,
+      10012, 10042, 10008, 10034, 10076, 10052, 11005, 11012, 11013, 10116, 10117, 10110, 10111,
+      10044, 11022
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "4011": {
+    "Describe": "Achetez des objets {*val*} fois à l'épicerie de la guilde.",
+    "Id": 4011,
+    "Num": 2,
+    "Param": [233],
+    "SceneId": 0,
+    "TargetType": 64
+  },
+  "4012": {
+    "Describe": "Terminez l'événement de Chasse de guilde 1 fois dans n'importe quelle difficulté.",
+    "Id": 4012,
+    "Num": 1,
+    "Param": [13],
+    "SceneId": 0,
+    "TargetType": 265
+  },
+  "4013": {
+    "Describe": "Ouvrez le \"coffre d'étoiles basique\" {*val*} fois.",
+    "Id": 4013,
+    "Num": 40,
+    "Param": [1040102, 1040140, 1040360, 1040361],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "4014": {
+    "Describe": "Allez pêcher {*val*} fois.",
+    "Id": 4014,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 60
+  },
+  "4015": {
+    "Describe": "Achetez {*val*} articles à la boutique de réputation.",
+    "Id": 4015,
+    "Num": 1,
+    "Param": [0, 9],
+    "SceneId": 0,
+    "TargetType": 61
+  },
+  "5001": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 5001,
+    "Num": 5,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "5002": {
+    "Describe": "Terminez {*val*} objectifs sur cette page.",
+    "Id": 5002,
+    "Num": 8,
+    "Param": [
+      5003, 5004, 5005, 5006, 5007, 5008, 5009, 5010, 5011, 5012, 5013, 5014, 5015, 5016, 5017
+    ],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "5003": {
+    "Describe": "Terminez la quête principale \"Vue spectaculaire\".",
+    "Id": 5003,
+    "Num": 1,
+    "Param": [-1, 10308],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "5004": {
+    "Describe": "Obtenez le titre de saison \"Apprenti enquêteur III\".",
+    "Id": 5004,
+    "Num": 1,
+    "Param": [1010103001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "5005": {
+    "Describe": "Activez {*val*} compétences optionnelles.",
+    "Id": 5005,
+    "Num": 4,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 147
+  },
+  "5006": {
+    "Describe": "Équipez 2 Imagines de combat au choix.",
+    "Id": 5006,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 33
+  },
+  "5007": {
+    "Describe": "Faites progresser 1 compétence au choix au niveau 2.",
+    "Id": 5007,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 36
+  },
+  "5008": {
+    "Describe": "Choisissez un talent, avec une allocation totale de {*val*} points de talent.",
+    "Id": 5008,
+    "Num": 31,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 177
+  },
+  "5009": {
+    "Describe": "Consommez {*val*} points de concentration.",
+    "Id": 5009,
+    "Num": 1000,
+    "Param": [20003],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "5010": {
+    "Describe": "Terminez le palier 12 de n'importe quelle épreuve de classe.",
+    "Id": 5010,
+    "Num": 1,
+    "Param": [22502, 24104, 21302],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "5011": {
+    "Describe": "Terminez le \"Royaume chaotique\" en mode Normal {*val*} fois.",
+    "Id": 5011,
+    "Num": 2,
+    "Param": [
+      1031, 1121, 1152, 1221, 1331, 1421, 1531, 1631, 6007, 6021, 6043, 6121, 6221, 6331, 6421,
+      6523, 6513, 6543, 6563
+    ],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "5012": {
+    "Describe": "Aidez lors de {*val*} combats.",
+    "Id": 5012,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 263
+  },
+  "5013": {
+    "Describe": "Terrassez {*val*} boss.",
+    "Id": 5013,
+    "Num": 5,
+    "Param": [
+      10032, 10009, 10018, 10056, 10059, 10010, 10084, 10085, 10081, 10007, 10069, 10086, 10077,
+      10029, 11007, 11014, 10118, 10119, 10041, 11023
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "5014": {
+    "Describe": "Améliorez le Guide de Chasse aux monstres au niv. 2.",
+    "Id": 5014,
+    "Num": 1,
+    "Param": [2],
+    "SceneId": 0,
+    "TargetType": 57
+  },
+  "5015": {
+    "Describe": "Prenez 1 photo en mode combat.",
+    "Id": 5015,
+    "Num": 1,
+    "Param": [5],
+    "SceneId": 0,
+    "TargetType": 343
+  },
+  "5016": {
+    "Describe": "Achetez {*val*} objet(s) dans la boutique d'amitié.",
+    "Id": 5016,
+    "Num": 1,
+    "Param": [0, 3],
+    "SceneId": 0,
+    "TargetType": 61
+  },
+  "5017": {
+    "Describe": "Atteignez le titre de saison \"Rêveur III\"",
+    "Id": 5017,
+    "Num": 1,
+    "Param": [1020103001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "6001": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 6001,
+    "Num": 6,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "6002": {
+    "Describe": "Terminez {*val*} objectifs sur cette page.",
+    "Id": 6002,
+    "Num": 8,
+    "Param": [6003, 6004, 6005, 6006, 6007, 6008, 6009, 6010, 6011, 6012, 6013, 6014],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "6003": {
+    "Describe": "Atteignez le niveau d'aventurier 34.",
+    "Id": 6003,
+    "Num": 1,
+    "Param": [-1, 34],
+    "SceneId": 0,
+    "TargetType": 118
+  },
+  "6004": {
+    "Describe": "Équipez 6 pièces d'équipement épique avec un niveau de Perfection de 10.",
+    "Id": 6004,
+    "Num": 1,
+    "Param": [6, 3, 10],
+    "SceneId": 0,
+    "TargetType": 30
+  },
+  "6005": {
+    "Describe": "Augmentez le niveau de raffinage de 4 pièces d'équipement au niv. 3.",
+    "Id": 6005,
+    "Num": 1,
+    "Param": [4, 3],
+    "SceneId": 0,
+    "TargetType": 260
+  },
+  "6006": {
+    "Describe": "Terminez le \"Royaume chaotique\" en mode Normal {*val*} fois.",
+    "Id": 6006,
+    "Num": 4,
+    "Param": [
+      1031, 1121, 1152, 1221, 1331, 1421, 1531, 1631, 6007, 6021, 6043, 6121, 6221, 6331, 6421,
+      6523, 6513, 6543, 6563
+    ],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "6007": {
+    "Describe": "Terminez un donjon {*val*} fois en groupe.",
+    "Id": 6007,
+    "Num": 6,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 161
+  },
+  "6008": {
+    "Describe": "Visitez {*val*} sites pittoresques.",
+    "Id": 6008,
+    "Num": 2,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 128
+  },
+  "6009": {
+    "Describe": "Éliminez {*val*} monstres d'élite.",
+    "Id": 6009,
+    "Num": 10,
+    "Param": [
+      10031, 10035, 10019, 10038, 10055, 10057, 10058, 10064, 10065, 10104, 10105, 10080, 10066,
+      10012, 10042, 10008, 10034, 10076, 10052, 11005, 11012, 11013, 10116, 10117, 10110, 10111,
+      10044, 11022
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "6010": {
+    "Describe": "Obtenez {*val*} points dans la Croisade de boss mondial.",
+    "Id": 6010,
+    "Num": 1000,
+    "Param": [20010],
+    "SceneId": 0,
+    "TargetType": 145
+  },
+  "6011": {
+    "Describe": "Ouvrez le \"coffre d'étoiles basique\" {*val*} fois.",
+    "Id": 6011,
+    "Num": 60,
+    "Param": [1040102, 1040140, 1040360, 1040361],
+    "SceneId": 0,
+    "TargetType": 163
+  },
+  "6012": {
+    "Describe": "Collection de la garde-robe : {*val*}.",
+    "Id": 6012,
+    "Num": 100,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 62
+  },
+  "6013": {
+    "Describe": "Ayez {*val*} amis.",
+    "Id": 6013,
+    "Num": 3,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 250
+  },
+  "7001": {
+    "Describe": "Connectez-vous au jeu.",
+    "Id": 7001,
+    "Num": 7,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 135
+  },
+  "7002": {
+    "Describe": "Terminez les {*val*} objectifs de ce guide.",
+    "Id": 7002,
+    "Num": 80,
+    "Param": [
+      7003, 7004, 7005, 7006, 7007, 7008, 7009, 7010, 7011, 7012, 7013, 7014, 7015, 1002, 1003,
+      1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 2002, 2003,
+      2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 3002, 3003,
+      3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 4002, 5002,
+      6002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 4011, 4012, 4013, 4014, 4015, 5003,
+      5004, 5005, 5006, 5007, 5008, 5009, 5010, 5011, 5012, 5013, 5014, 5015, 5016, 6003, 6004,
+      6005, 6006, 6007, 6008, 6009, 6010, 6011, 6012, 6013, 6014, 2017, 5017, 7016
+    ],
+    "SceneId": 0,
+    "TargetType": 67
+  },
+  "7003": {
+    "Describe": "Terminez la quête principale \"Objets disparus\".",
+    "Id": 7003,
+    "Num": 1,
+    "Param": [-1, 10313],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "7004": {
+    "Describe": "Terminez la quête secondaire \"En route ! L'exploration des ruines de la Griffe du Dragon par les érudits !\".",
+    "Id": 7004,
+    "Num": 1,
+    "Param": [-1, 30313],
+    "SceneId": 0,
+    "TargetType": 115
+  },
+  "7005": {
+    "Describe": "Obtenez le titre de saison \"Traqueur novice I\".",
+    "Id": 7005,
+    "Num": 1,
+    "Param": [1010201001],
+    "SceneId": 0,
+    "TargetType": 53
+  },
+  "7006": {
+    "Describe": "Score de capacité : {*val*}.",
+    "Id": 7006,
+    "Num": 6500,
+    "Param": [],
+    "SceneId": 0,
+    "TargetType": 236
+  },
+  "7007": {
+    "Describe": "Atteignez le niveau d'aventurier 37.",
+    "Id": 7007,
+    "Num": 1,
+    "Param": [-1, 37],
+    "SceneId": 0,
+    "TargetType": 118
+  },
+  "7008": {
+    "Describe": "Effectuez {*val*} incrustations.",
+    "Id": 7008,
+    "Num": 1,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 264
+  },
+  "7009": {
+    "Describe": "Atteignez le niv. 3 de l'effet principal de l'emblème.",
+    "Id": 7009,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 51
+  },
+  "7010": {
+    "Describe": "Améliorez les compétences de vie {*val*} fois.",
+    "Id": 7010,
+    "Num": 7,
+    "Param": [0],
+    "SceneId": 0,
+    "TargetType": 81
+  },
+  "7011": {
+    "Describe": "Terminez le \"Royaume chaotique\" en mode Difficile {*val*} fois.",
+    "Id": 7011,
+    "Num": 2,
+    "Param": [1032, 1122, 1222, 6008, 6022, 6044, 1422, 1532, 6122, 6222, 6332, 6422],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "7012": {
+    "Describe": "Terminez le palier 15 de n'importe quelle épreuve de classe.",
+    "Id": 7012,
+    "Num": 1,
+    "Param": [23103, 24105, 21308],
+    "SceneId": 0,
+    "TargetType": 1
+  },
+  "7013": {
+    "Describe": "Terminez l'étage 20 des Vestiges de Stimen.",
+    "Id": 7013,
+    "Num": 1,
+    "Param": [20],
+    "SceneId": 0,
+    "TargetType": 257
+  },
+  "7014": {
+    "Describe": "Terrassez {*val*} boss.",
+    "Id": 7014,
+    "Num": 7,
+    "Param": [
+      10032, 10009, 10018, 10056, 10059, 10010, 10084, 10085, 10081, 10007, 10069, 10086, 10077,
+      10029, 11007, 11014, 10118, 10119, 10041, 11023
+    ],
+    "SceneId": 0,
+    "TargetType": 109
+  },
+  "7015": {
+    "Describe": "Améliorez le guide de Chasse aux monstres au niv. 3.",
+    "Id": 7015,
+    "Num": 1,
+    "Param": [3],
+    "SceneId": 0,
+    "TargetType": 57
+  },
+  "7016": {
+    "Describe": "Atteignez le titre de saison \"Voyageur onirique I\".",
+    "Id": 7016,
+    "Num": 1,
+    "Param": [1020201001],
+    "SceneId": 0,
+    "TargetType": 53
+  }
+}

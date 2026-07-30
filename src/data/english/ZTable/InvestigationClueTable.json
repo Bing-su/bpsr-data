@@ -1,0 +1,916 @@
+{
+  "1000111": {
+    "Answer": ["", "The Pillar of Divinity cannot bear fruit."],
+    "Clue": "The Creed Priest explicitly denied the claim that \"the Pillar of Divinity bears fruit\", pointing out that the Pillar is a divine miracle, not a fruit tree. <tagId=1>*Related rumors are unrealistic*.",
+    "Id": 1000111,
+    "Sort": 1,
+    "TapBubble": ["", "This clue lacks factual support."],
+    "TapBubbleAction": [9019],
+    "Tips": "Investigate with Darya to obtain clues",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000112": {
+    "Answer": ["", "Foxes ate common fruits.", "", "Hunters have only heard of it."],
+    "Clue": "The investigation <tagId=2>*only found common fruits bitten by foxes*. Hunters active in the Moonshadow Wilds year-round stated that they <tagId=3>*had only heard of the Berry Fruit, but they had never seen it with their own eyes*.",
+    "Id": 1000112,
+    "Sort": 2,
+    "TapBubble": ["", "This is not the Berry Fruit.", "", "No sighting records."],
+    "TapBubbleAction": [9019],
+    "Tips": "Investigate with Darya to obtain clues",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000113": {
+    "Answer": [
+      "",
+      "No physical object found.",
+      "",
+      "Did not eat the Berry Fruit.",
+      "",
+      "Soldiers were affected by the Illusory Plague."
+    ],
+    "Clue": "Three soldiers <tagId=6>*affected by the Illusory Plague* unanimously claimed to have purchased Berry Fruits. However, after a comprehensive search of their quarters, <tagId=4>*no Berry Fruits were found*, and the soldiers confirmed they <tagId=5>*had not eaten the fruits*.",
+    "Id": 1000113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Doubtful if they really bought it.",
+      "",
+      "The Berry Fruit vanished.",
+      "",
+      "They were hallucinating."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Investigate with Darya to obtain clues",
+    "UnlockCondition": [[2, 40501, 40501022]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000211": {
+    "Answer": ["", "Traveling Troupe fans."],
+    "Clue": "Most people had only heard of the Berry Fruit. Only <tagId=1>*fans of the Traveling Troupe* had seen it, and they wrote on their concert tickets that Berry Fruits were available at the Bekmar Transport Station.",
+    "Id": 1000211,
+    "Sort": 1,
+    "TapBubble": ["", "But diagnosed with Illusory Plague."],
+    "TapBubbleAction": [9019],
+    "Tips": "Investigate with Darya to obtain clues",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000212": {
+    "Answer": ["", "Ingredients are procured from fixed sources.", "", "No physical object found."],
+    "Clue": "Troupe fans claimed Berg added Berry Fruits to the meals, causing their illness. <br>Berg, who is in charge of catering, stated that <tagId=2>*ingredients are procured from fixed sources*. We <tagId=3>*did not find any Berry Fruits* during the investigation.",
+    "Id": 1000212,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Berg did not purchase any.",
+      "",
+      "Berry Fruits are not at the Transport Station."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Investigate with Darya to obtain clues",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000213": {
+    "Answer": ["", "Only two people fell ill.", "", "Patients diagnosed with Illusory Plague."],
+    "Clue": "Berg prepared meals for hundreds of people, yet <tagId=4>*only two troupe fans fell ill*. The Priest and the doctor diagnosed that <tagId=5>*the two patients contracted the Illusory Plague*.",
+    "Id": 1000213,
+    "Sort": 3,
+    "TapBubble": ["", "No issue with the food.", "", "They were hallucinating."],
+    "TapBubbleAction": [9026],
+    "Tips": "Investigate with Darya to obtain clues",
+    "UnlockCondition": [[2, 40501, 40501053]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000311": {
+    "Answer": ["", "Wants to return to Asterleeds."],
+    "Clue": "The young miner's letter was filled with <tagId=1>*nostalgia for Asterleeds*.",
+    "Id": 1000311,
+    "Sort": 1,
+    "TapBubble": ["", "This type of miner probably wants to go back..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from the searched information",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000312": {
+    "Answer": [
+      "",
+      "The elderly cannot travel long distances.",
+      "",
+      "Need to consider whether family members should stay or leave."
+    ],
+    "Clue": "Some miners said that <tagId=2>*the elderly can't walk anymore*, and <tagId=3>*many have started families in the mining area*.",
+    "Id": 1000312,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "These miners still have families to consider...",
+      "",
+      "These miners still have families to consider..."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from the searched information",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000313": {
+    "Answer": ["", "Undecided, unable to choose."],
+    "Clue": "Miners who have started families with the Byrnhalds <tagId=4>*don't know where they should go with their wives...*",
+    "Id": 1000313,
+    "Sort": 3,
+    "TapBubble": ["", "These miners are really in a dilemma..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from the searched information",
+    "UnlockCondition": [[2, 20026, 20026010]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000411": {
+    "Answer": [
+      "",
+      "The \"List\" does exist in the interrogation process.",
+      "",
+      "The crossing out looks very casual."
+    ],
+    "Clue": "[Interrogation Record No. 2-17]: <tagId=1>*Reason for Arraignment: Triggered by List*<tagId=2>*(Crossed out with a stroke)*<br> Question 1: Do you know what Grieg is plotting? Question 2: Where is Darya? Question 3: Have you seen Slauk?",
+    "Id": 1000411,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Triggered by List.",
+      "",
+      "Crossed out... looks like it was handled very casually."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from investigating the scene",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000412": {
+    "Answer": [
+      "",
+      "The interrogation was just a trivial nuisance to him.",
+      "",
+      "The \"Tower\" is Reiner's private place.",
+      "",
+      "The \"Crown\" is something Reiner cares about deeply."
+    ],
+    "Clue": "A crumpled ball of paper: \"...Is it worth calling me out of the <tagId=4>*Tower* for this thing that <tagId=3>*doesn't even react*? ...The <tagId=5>*Crown* is waiting for me.\"",
+    "Id": 1000412,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Sounds more like the true core than the List.",
+      "",
+      "Sounds more like the true core than the List."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from investigating the scene",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000413": {
+    "Answer": [
+      "",
+      "There are dark red boot prints on the ground.",
+      "",
+      "Likely left by Reiner when he returned to the \"Tower.\"",
+      "",
+      "Better to follow the tracks."
+    ],
+    "Clue": "Ground traces: A large patch of <tagId=6>*dark red stains* and signs of struggle. <br>There are clear drag marks leading to the fork. <br><tagId=7>*Another set of military boot prints* is neat with fixed spacing, and it looks like a path <tagId=8>*leading back to somewhere*.",
+    "Id": 1000413,
+    "Sort": 3,
+    "TapBubble": ["", "Likely leads to the \"Tower\".", "", "Follow the tracks into the Tower."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from investigating the scene",
+    "UnlockCondition": [[2, 20025, 20025062]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000511": {
+    "Answer": ["", "Incorrect Beast Type"],
+    "Clue": "There are <tagId=1>*no lizards* in Sunset Wilds.",
+    "Id": 1000511,
+    "Sort": 1,
+    "TapBubble": ["", "If there are no lizards, then the drawing must be wrong..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Reflect on past experiences...",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000512": {
+    "Answer": ["", "Looks like a modern product."],
+    "Clue": "The bottle's <tagId=2>*materials and craftsmanship are very new*.",
+    "Id": 1000512,
+    "Sort": 2,
+    "TapBubble": ["", "This doesn't look old..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Reflect on past experiences...",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000513": {
+    "Answer": ["", "Someone is fabricating treasure clues."],
+    "Clue": "Where the bottle was found, <tagId=3>*there were traces left by others, and other notes were deliberately buried*...",
+    "Id": 1000513,
+    "Sort": 3,
+    "TapBubble": ["", "It feels like they were left behind on purpose..."],
+    "TapBubbleAction": [9026],
+    "Tips": "Reflect on past experiences...",
+    "UnlockCondition": [[2, 30814, 30814013]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100111": {
+    "Answer": ["", "The contact might have conspicuous hair color"],
+    "Clue": "\"The plan begins soon-stay low. Your <tagId=1>*hair color is too conspicuous*, <tagId=7>*when we meet later, I will bring a gift from Byrnhald to help you cover it up a bit.*\"",
+    "Id": 100111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "It seems necessary to pay close attention to the hair color of people around..."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Clue provided by Jerrad",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100112": {
+    "Answer": ["", "The contact might be physically strong"],
+    "Clue": "\"I hear you've been <tagId=2>*exercising hard* recently, <tagId=6>*well done. Our cause is great, and your health comes first. Take care. I'll soon entrust you with something important.*\"",
+    "Id": 100112,
+    "Sort": 2,
+    "TapBubble": ["", "This person exercises frequently, so they're likely in good shape."],
+    "TapBubbleAction": [9033],
+    "Tips": "Clue provided by Jerrad",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100113": {
+    "Answer": ["", "Sea Lily", "", "Not a local merchant"],
+    "Clue": "\"I swear by the <tagId=3>*name of the Sea Lily*, see you at the Seabreeze Festival. Note: <tagId=4>*Avoid talking to local merchants if possible.*<tagId=5>*They are numerous and observant, be cautious of exposure.*\"",
+    "Id": 100113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "\"Sea Lily\" might be some kind of code.",
+      "",
+      "Judging by their attitude, it's likely they're not a local merchant."
+    ],
+    "TapBubbleAction": [9026, 9047],
+    "Tips": "Clue provided by Jerrad",
+    "UnlockCondition": [[]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100121": {
+    "Answer": ["", "Young", "", "Rich hair color"],
+    "Clue": "<tagId=12>*\"When everyone was busy avoiding...* I saw <tagId=1>*a young person* with <tagId=2>*multi-color super stylish hair!*!!!!... <tagId=7>*But once the wind passed, that trendsetting head was gone*.\"",
+    "Id": 100121,
+    "Sort": 4,
+    "TapBubble": [
+      "",
+      "Looks like the contact is fairly young..",
+      "",
+      "The contact has rich hair colors!"
+    ],
+    "TapBubbleAction": [9033, 9047],
+    "Tips": "Gather information and clues on Entertainment District",
+    "UnlockCondition": [[2, 20040, 20040016]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100122": {
+    "Answer": ["", "Sea Lily", "", "Man"],
+    "Clue": "\"Yes, <tagId=3>*Sea Lily*... <tagId=10>*nearby*, <tagId=4>*there was a man*, <tagId=8>*on him*, <tagId=9>*there was its scent*.\"",
+    "Id": 100122,
+    "Sort": 5,
+    "TapBubble": [
+      "",
+      "The Sea Lily's scent... It must be a meaningful token.",
+      "",
+      "Great, now the suspect's gender is confirmed."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Gather information and clues on Entertainment District",
+    "UnlockCondition": [[2, 20040, 20040017]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100123": {
+    "Answer": ["", "Well-built", "", "Neatly dressed"],
+    "Clue": "\"<tagId=11>*I did see* <tagId=5>*a well-built guy*! That person <tagId=6>*was also dressed very neatly*!\"",
+    "Id": 100123,
+    "Sort": 6,
+    "TapBubble": [
+      "",
+      "This clue matches the information that the suspect exercises regularly.",
+      "",
+      "It seems he dresses very neatly."
+    ],
+    "TapBubbleAction": [9026, 9047],
+    "Tips": "Gather information and clues on Entertainment District",
+    "UnlockCondition": [[2, 20040, 20040018]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100311": {
+    "Answer": ["", "Unknown substance"],
+    "Clue": "Found Ryan's gloves at Workbench No. 4. <tagId=1>*They look like standard craftsman gear—worn but without damage. Still, the texture feels off*. On closer look, there is a layer of <tagId=7>*unknown substance on the surface*.",
+    "Id": 100311,
+    "Sort": 1,
+    "TapBubble": ["", "Need to observe carefully."],
+    "TapBubbleAction": [9033],
+    "Tips": "Gather clues at the Artisan's workbench",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100312": {
+    "Answer": ["", "Dismantle diagram"],
+    "Clue": "<tagId=8>*Blueprints for the dismantling of the lightning core Divine Legacy*, <tagId=5>*were found at Feyn's No. 2 Workbench*, <tagId=6>*many craftsmen are keen to study this divine Legacy with powerful thunder power*, <tagId=10>*but only Tauros understands how to use it properly*.",
+    "Id": 100312,
+    "Sort": 2,
+    "TapBubble": ["", "What information could be hidden in this..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Gather clues at the Artisan's workbench",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100313": {
+    "Answer": ["", "Scorch marks on the lantern"],
+    "Clue": "<tagId=11>*A very beautiful handheld lantern was placed on workbench No. 1*, <tagId=12>*the style is something a girl would like*, <tagId=13>*it must be Sasha's*. But <tagId=9>*there are some scorch marks on the outside*, <tagId=14>*such a beautiful lantern should be cherished*.",
+    "Id": 100313,
+    "Sort": 3,
+    "TapBubble": ["", "The abnormal appearance, these marks are too obvious."],
+    "TapBubbleAction": [9026],
+    "Tips": "Gather clues at the Artisan's workbench",
+    "UnlockCondition": [[2, 185210, 185210043]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100411": {
+    "Answer": ["", "Special operation"],
+    "Clue": "<tagId=4>*Dark Mist Legion: Early Asterleeds Independence War*<br><tagId=1>*In recent battles with the Dark Mist Legion*, <tagId=6>*Deputy Commander Jayden has been absent from the battlefield*. <tagId=7>*According to reports*, <tagId=8>*Jayden is planning to lead his unit on a special operation in Asterleeds*, <tagId=9>*specific details are classified*.",
+    "Id": 100411,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Jayden is going to lead his subordinates on a special operation in Asterleeds"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from the Dark Mist Legion Investigation Records",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100412": {
+    "Answer": ["", "Infiltration operation", "", "Failure"],
+    "Clue": "<tagId=10>*Dark Mist Legion Investigation Records - Middle Stage of Asterleeds Independence War*<br>■■■■■■■■■■■<tagId=11>*The infiltration operation conducted by the Dark Mist Legion reconnaissance unit against Asterleeds* <tagId=12>*has ended in failure*. <tagId=13>*Regrettably, they were unable to capture the enemy commander*. <tagId=14>*This operation was directly* <tagId=15>*overseen* <tagId=2>*by high-ranking officials of the Dark Mist* <tagId=16>*Legion ■■■■■■■*.",
+    "Id": 100412,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "The Dark Mist Legion reconnaissance team's infiltration operation in Asterleeds",
+      "",
+      "Ended in failure"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from the Dark Mist Legion Investigation Records",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100413": {
+    "Answer": ["", "Towering Ruin"],
+    "Clue": "<tagId=17>*Dark Mist Legion Investigation Records Late War of Secession*<br><tagId=18>*■■■■■After escaping Asterleeds*,<tagId=19>*The Dark Mist Legion reconnaissance team disappeared* at the <tagId=3>*Towering Ruin*<tagId=20>. <tagId=21>*■■■■■■■■According to the investigation*, <tagId=22>*the reconnaissance team was never seen again■■■■■*.",
+    "Id": 100413,
+    "Sort": 3,
+    "TapBubble": ["", "Towering Ruin"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from the Dark Mist Legion Investigation Records",
+    "UnlockCondition": [[2, 10211, 10211051]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100511": {
+    "Answer": ["", "Minsterhorn"],
+    "Clue": "Seven days ago, Miss Lucy and Carlis found Treasure in <tagId=1>*Minsterhorn*.",
+    "Id": 100511,
+    "Sort": 1,
+    "TapBubble": ["", "Minsterhorn"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from Carlis's words",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100512": {
+    "Answer": ["", "Every night he tries to leave"],
+    "Clue": "Miss Lucy provided the best life for Treasure, but Treasure <tagId=2>*tried to leave every night.*",
+    "Id": 100512,
+    "Sort": 2,
+    "TapBubble": ["", "Every night he tries to leave"],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from Carlis's words",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100513": {
+    "Answer": ["", "Constantly whimpering"],
+    "Clue": "Last night, <tagId=3>*Treasure was whimpering all night.* The night watchman, Carlis, wanted to let Treasure get some air, <tagId=4>*but accidentally let it escape.*",
+    "Id": 100513,
+    "Sort": 3,
+    "TapBubble": ["", "Constantly whimpering"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from Carlis's words",
+    "UnlockCondition": [[2, 30122, 30122012]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100611": {
+    "Answer": ["", "Not Him?"],
+    "Clue": "Statement from Miru & Rumi: \"Kakater <tagId=1>*feels totally different* from the mysterious rich guy we talked to earlier!\"",
+    "Id": 100611,
+    "Sort": 1,
+    "TapBubble": ["", "Could Kakater and the mysterious rich guy be two different people?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100612": {
+    "Answer": ["", "Unpaid wages", "", "Black-haired young Man"],
+    "Clue": "Statement from Spike: \"They say the Byrnhald employer <tagId=2>*still hasn't paid up*! There's a <tagId=3>*black-haired young man* poking around the ship...\"",
+    "Id": 100612,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "The mysterious rich guy's behavior defies logic.",
+      "",
+      "There are other suspicious individuals on board."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "100613": {
+    "Answer": ["", "file", "", "Secret meeting", "", "In the bodyguard's hands"],
+    "Clue": "Statement from Tina: \"Kakater <tagId=4>*went up to the deck with the file*. He talked with a <tagId=5>*black-haired young man*... then <tagId=6>*handed the bodyguard* the documents...\"",
+    "Id": 100613,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Could the file be a new clue?",
+      "",
+      "Kakater and the black-haired man have met.",
+      "",
+      "The file might be in the bodyguard's hands."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200111": {
+    "Answer": ["", "Sea Lilies are uncommon in the highlands.", "", "Maybe a villager placed it."],
+    "Clue": "Testimony 1: \"Sea Lilies... in a place like the highlands, <tagId=1>*they shouldn't appear*. Placing fresh flowers under a tree implies remembrance... feels like something done by someone <tagId=2>*familiar with Lallipar*...\"",
+    "Id": 200111,
+    "Sort": 1,
+    "TapBubble": ["", "The village elder made their judgment..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200112": {
+    "Answer": [
+      "",
+      "Fresh Sea Lilies are expensive.",
+      "",
+      "The highlands' first crops were imported."
+    ],
+    "Clue": "Testimony 2: \"Fresh <tagId=3>*Sea Lilies are terribly expensive* this season! Not much grows in the highlands naturally... <tagId=4>*Existing crops seem to have been originally imported from outside*...\"",
+    "Id": 200112,
+    "Sort": 2,
+    "TapBubble": [],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200113": {
+    "Answer": ["", "Maybe a Voyager placed it.", "", "Voyagers bring gifts to show gratitude."],
+    "Clue": "Testimony 3: \"Could it be a <tagId=5>*Voyager* who placed it? Everyone respects this place... When visiting, many people <tagId=6>*bring gifts from outside* to show gratitude...\"",
+    "Id": 200113,
+    "Sort": 3,
+    "TapBubble": [],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 186521, 186521003]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200201": {
+    "Answer": ["", "Engulfed in red"],
+    "Clue": "\"The day I met her... was red. My eyes, <tagId=1>*engulfed in red*.\"",
+    "Id": 200201,
+    "Sort": 1,
+    "TapBubble": ["", "Why did Saphir go blind?"],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from Saphir's words",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200202": {
+    "Answer": ["", "Red all over the sky, scorching air", "", "There is wind around her"],
+    "Clue": "\"In <tagId=2>*the red all over the sky, scorching air*, only <tagId=3>*there is wind around her*...\"",
+    "Id": 200202,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "The environment when Saphir met the mysterious girl?",
+      "",
+      "Characteristics of the mysterious girl?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from Saphir's words",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "200203": {
+    "Answer": ["", "She grabbed Saphir"],
+    "Clue": "\"When I was completely falling into darkness, <tagId=4>*she grabbed me*.\"",
+    "Id": 200203,
+    "Sort": 3,
+    "TapBubble": ["", "What did the mysterious girl do to Saphir?"],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from Saphir's words",
+    "UnlockCondition": [[2, 20020, 20020005]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300111": {
+    "Answer": ["", "Attracting monsters"],
+    "Clue": "We set off, and so far, everything has been smooth.<br>The team is very experienced, worthy of being an expedition team. The route chosen by the ecologist has almost allowed us to avoid all the monsters, which is incredible.<br>However, that guy who joined the team temporarily like me, seems to be called... Ryan? <tagId=6>*He always accidentally attracts monsters and gets scolded by the captain.*",
+    "Id": 300111,
+    "Sort": 1,
+    "TapBubble": ["", "How unprofessional is Ryan as a guide?"],
+    "TapBubbleAction": [9033, 9047, 9047],
+    "Tips": "Obtain clues from the diary",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300112": {
+    "Answer": ["", "It's going to rain", "", "Monsters wandering"],
+    "Clue": "We're stuck. Judging by the weather patterns, this storm doesn't look natural-our ecologist suspects it's the work of goblins.<br><tagId=1>*Black clouds are starting to appear in the distance,* and judging by the direction, they seem to be coming from the sea, which is not a good sign. If goblins are performing some strange ritual and we encounter a forest downpour in this season, that would be...<br><tagId=2>*The howls of monsters are echoing from all directions.* Thankfully, we adjusted our route ahead of time. There are still some supplies at Station Six. It's on higher ground, safe from flooding, and should give us a place to take shelter for now.",
+    "Id": 300112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "The black clouds have already approached, and the sky has darkened, making it unsuitable to continue moving forward.",
+      "",
+      "It looks like danger is lurking around."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Obtain clues from the diary",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300113": {
+    "Answer": [
+      "",
+      "The wind is howling",
+      "",
+      "Personal belongings intact",
+      "",
+      "Steps are hurried",
+      "",
+      "Make a guess"
+    ],
+    "Clue": "Everyone tried their best, <tagId=3>*the wind can break trees*. If we don't return to Station No. 6 soon, there will only be bigger troubles.<br>We <tagId=4>*found his backpack by the tree at the cliff*, along with some <tagId=5>*messy footprints*. Ryan <tagId=7>*guessed he might have slipped and fallen*.<br>No one knows where Roy came from, so we could only put up a cenotaph by the tree outside the station.",
+    "Id": 300113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "The wind can drown out people's voices.",
+      "",
+      "He put down his backpack before going to the edge of the cliff.",
+      "",
+      "Could it be an emergency... or was there more than one person present?",
+      "",
+      "The conclusion of the misstep seems somewhat perfunctory..."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Obtain clues from the diary",
+    "UnlockCondition": [[2, 30205, 30205005]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300211": {
+    "Answer": ["", "storm strikes", "", "Ancient curse of Kanamia", "", "Drag marks on the ground"],
+    "Clue": "As the team was advancing, suddenly a <tagId=1>*storm struck*, followed by loud exclamations from behind. <br>Turning back, they found... Reed had vanished into thin air! It was the <tagId=2>*ancient curse of Kanamia* that had come true!<br>On-site investigation: There were long <tagId=3>*drag marks* on the ground.",
+    "Id": 300211,
+    "Sort": 1,
+    "TapBubble": ["", "There is a storm", "", "Ancient curse of Kanamia", "", "Drag marks"],
+    "TapBubbleAction": [9019],
+    "Tips": "Clues obtained from mercenaries",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300212": {
+    "Answer": [
+      "",
+      "The wind suddenly intensified",
+      "",
+      "Ancient curse of Kanamia",
+      "",
+      "Beside a thousand-foot cliff"
+    ],
+    "Clue": "As the team passed through the wind gap, <tagId=4>*the wind suddenly became so strong that they couldn't open their eyes*. <br>When they came to their senses, Golg was already gone. He must have taken something from the altar, invoking the <tagId=5>*ancient curse of Kanamia*!<br>On-site investigation: Beside was a <tagId=6>*thousand-foot cliff*.",
+    "Id": 300212,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "The wind suddenly intensified",
+      "",
+      "Ancient curse of Kanamia",
+      "",
+      "Beside a thousand-foot cliff"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Clues obtained from mercenaries",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "300213": {
+    "Answer": [
+      "",
+      "Strong wind blowing from the cliff",
+      "",
+      "The howl of Kanamia's white wolf",
+      "",
+      "Damaged Golem"
+    ],
+    "Clue": "As the group was moving normally, they were suddenly struck by <tagId=7>*a powerful gust of wind blowing from the cliff.* Then, Duko vanished. <br>The valley echoed with the howling wind, like the cry of wolves... the guide said it was <tagId=8>*the furious howl of the Kanamia White Wolf*...<br> Even more terrifying, a <tagId=9>*damaged Golem* was seen hovering over the distant mountains, glaring at us with obvious hostility.",
+    "Id": 300213,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Strong wind blowing from the cliff",
+      "",
+      "The howl of Kanamia's white wolf",
+      "",
+      "Damaged Golem"
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Clues obtained from mercenaries",
+    "UnlockCondition": [[2, 30301, 30301017]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400111": {
+    "Answer": ["", "blessing ritual"],
+    "Clue": "A Young Couple: \"During the <tagId=1>*blessing ritual*, spring water blessed by the ancestors can heal wounds...\"",
+    "Id": 400111,
+    "Sort": 1,
+    "TapBubble": ["", "Sounds like a very important tribal ritual..."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from villagers' conversation",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400112": {
+    "Answer": ["", "Closed too long"],
+    "Clue": "Elder Kanamian: \"The Forbidden Zone has been <tagId=2>*closed for too long*... Without the spring water, injuries can't heal...\"",
+    "Id": 400112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Looks like the Forbidden Zone hasn't been open to outsiders for a long time."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from villagers' conversation",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "400113": {
+    "Answer": ["", "The eastern cliff"],
+    "Clue": "Kanamian Youth: \"I was below <tagId=3>*the eastern cliff* praying to the ancestors...\"",
+    "Id": 400113,
+    "Sort": 3,
+    "TapBubble": ["", "There's a blessing site below the eastern cliff."],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from villagers' conversation",
+    "UnlockCondition": [[2, 185402, 185402002]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500111": {
+    "Answer": ["", "Pale Red Mist"],
+    "Clue": "After I fainted... I saw mist. But it wasn't the nauseating Void Engram! It was... <tagId=1>*some pale red mist*... beautiful, and so, so unreal.",
+    "Id": 500111,
+    "Sort": 1,
+    "TapBubble": ["", "I've never seen red mist before."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500112": {
+    "Answer": ["", "Calm Down"],
+    "Clue": "Then, I forced myself to calm down. Oddly, after I forced myself to <tagId=2>*calm down*, the \"monsters\" were still around me but not as aggressive anymore.",
+    "Id": 500112,
+    "Sort": 2,
+    "TapBubble": ["", "A calm mind seems to weaken the nightmare's impact."],
+    "TapBubbleAction": [9019],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "500113": {
+    "Answer": ["", "Highlands' Divine Legacy"],
+    "Clue": "As a member of the Artisan Guild, I was sent to the Highlands to study a newly unearthed Legacy. They say it's a kind of <tagId=3>*calming device*. If we can verify and use it early, it might help ease this phenomenon.",
+    "Id": 500113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "A newly discovered Legacy on the Highlands, seeming to have a calming effect."
+    ],
+    "TapBubbleAction": [9026],
+    "Tips": "Obtain clues from inquiries",
+    "UnlockCondition": [[2, 185592, 185592004]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700111": {
+    "Answer": ["", "Lothar's masterpiece", "", "Priest Gisela distributes the flasks periodically"],
+    "Clue": "The Starsoul Flask is <tagId=1>*Lothar's masterpiece.* Not only that, Lothar also has to go around clearing out Illusory Blooms, so he's extremely busy. In fact, he's not even at the Pillar of Divinity today.<br><tagId=2>*Priest Gisela distributes Starsoul Flasks periodically.* But 500... that's too many. Still, if you have a legitimate reason, it might be worth asking her.",
+    "Id": 700111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "He's not even at the Pillar of Divinity today...",
+      "",
+      "She definitely won't agree to hand over 500 Starsoul Flasks."
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Find clues from the Pilgrim's words",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700112": {
+    "Answer": ["", "Boyce oversees the distribution of the flasks"],
+    "Clue": "Boyce never talks about his past, but his bearing marks him as someone with an extraordinary background. His strength, too, seems exceptional. It's said that sometimes, <tagId=3>*Boyce is the one who keeps order during the distribution of Starsoul Flasks*.",
+    "Id": 700112,
+    "Sort": 2,
+    "TapBubble": ["", "Boyce... I suppose I know him, in a way."],
+    "TapBubbleAction": [9019],
+    "Tips": "Find clues from the Pilgrim's words",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubbleAction": 9019
+  },
+  "700113": {
+    "Answer": ["", "On the road in front of the Pillar of Divinity"],
+    "Clue": "Starsoul Flasks are limited, and today's supply ran out early. <br>But if you're truly in a bind, try speaking with Boyce <tagId=4>*on the road in front of the Pillar of Divinity*—he might be willing to make an exception.",
+    "Id": 700113,
+    "Sort": 3,
+    "TapBubble": ["", "That's right, this is the place!"],
+    "TapBubbleAction": [9019],
+    "Tips": "Find clues from the Pilgrim's words",
+    "UnlockCondition": [[2, 10702, 10702001]],
+    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800111": {
+    "Answer": ["", "Strange blank space"],
+    "Clue": "There's a <tagId=1>*strange blank space* in the middle of the duty roster—was no one on shift at the time?",
+    "Id": 800111,
+    "Sort": 1,
+    "TapBubble": ["", "Yes, it must be so!"],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Find clues via Shift Schedule",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800112": {
+    "Answer": ["", "Shifts became noticeably longer", "", "Their patrol range has shrunk"],
+    "Clue": "Using the strange blank space as a dividing line, the sergeants previously handed over duty every six hours, and after that <tagId=2>*duty shifts were extended to eight hours*.<br><tagId=5>*Some areas even show personnel gaps*.",
+    "Id": 800112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "So even the troopers have to work overtime",
+      "",
+      "Could it be that they no longer have enough people to cover the surface mines?"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Find clues via Shift Schedule",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubbleAction": 9019
+  },
+  "800113": {
+    "Answer": [
+      "",
+      "Sergeant Milo",
+      "",
+      "Sergeant Breck",
+      "",
+      "Sergeant Devin",
+      "",
+      "The number of Sergeants on Duty has dropped"
+    ],
+    "Clue": "On closer inspection, <tagId=7>*the number of Sergeants on Duty has dropped*... Now, sort out the lists of sergeants who were on duty before and after the dividing line. <br>Before the dividing line: <tagId=3>*Sergeant Milo*, Sergeant Osmond, Sergeant Murray, Sergeant Leo, Sergeant Ethan, <tagId=4>*Sergeant Breck*, and <tagId=6>*Sergeant Devin*. <br>After the dividing line: Sergeant Murray, Sergeant Osmond, Sergeant Ethan, and Sergeant Leo",
+    "Id": 800113,
+    "Sort": 3,
+    "TapBubble": ["", "Where is he...", "", "Hope he's fine.", "", "I have a bad feeling."],
+    "TapBubbleAction": [9026],
+    "Tips": "Find clues via Shift Schedule",
+    "UnlockCondition": [[2, 10801, 10801021]],
+    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900111": {
+    "Answer": ["", "Crimson Marrow", "", "Blackstone Soldier", "", "Maire"],
+    "Clue": "Nevelle carries <tagId=1>*Crimson Marrow* on him and can also make <tagId=2>*Blackstone soldiers* back him up. <br>From the fleeing soldiers we learned their original target was <tagId=3>*Maire*.",
+    "Id": 900111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "So Nevelle has Crimson Marrow on him",
+      "",
+      "Even the soldiers of the Garrison Outpost stepped forward for him",
+      "",
+      "That way he can take over the caravan"
+    ],
+    "TapBubbleAction": [9019],
+    "Tips": "Find clues from the scene",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900112": {
+    "Answer": ["", "Man in Black"],
+    "Clue": "Who knows what that <tagId=4>*Man in Black* is about... Completely unhinged! I never want to deal with someone like that again in my life! <br>Thank goodness. Once we finish clearing the bulk cargo, I can head back. I'll bring you a souvenir. <br>We owe the success of this deal to that well-informed subordinate. If he hadn't made contact with Nevelle, I would never have known about this opportunity. Today he mentioned that an important figure who helped arrange this connection wants to meet me... (remainder of text lost)",
+    "Id": 900112,
+    "Sort": 2,
+    "TapBubble": ["", "That guy must be stirring things up behind the scenes"],
+    "TapBubbleAction": [9019],
+    "Tips": "Find clues from the scene",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubbleAction": 9019
+  },
+  "900113": {
+    "Answer": ["", "Take out your boss", "", "The wealth and glory you crave"],
+    "Clue": "<tagId=5>*Take out your boss* and the caravan is yours. Then, you'll get in on higher-tier deals. I might even let you take some samples first. <br>Carl will help you. <br>You've seen \"this kind of\" examples, haven't you? <tagId=6>*The wealth and glory you crave* are just one shot away.",
+    "Id": 900113,
+    "Sort": 3,
+    "TapBubble": ["", "Want to get in on higher-tier deals?", "", "Everything has its price"],
+    "TapBubbleAction": [9019],
+    "Tips": "Find clues from the scene",
+    "UnlockCondition": [[2, 185703, 185703004]],
+    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubbleAction": 9019
+  }
+}

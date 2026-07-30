@@ -1,0 +1,90 @@
+{
+  "680101": {
+    "ActiveLevel": 50,
+    "AutoActive": 0,
+    "BuffId": 680101,
+    "BuffName": "舞空",
+    "Deactive": false,
+    "Desc": "Grants the ability to slowly ascend in mid-air. <style=\"accent-gn\">Hold the jump button while jumping to enter ascend state, which continuously consumes Stamina until canceled.</style>",
+    "LockItem": [],
+    "Name": "Air Dance",
+    "Style": 0
+  },
+  "680201": {
+    "ActiveLevel": 40,
+    "AutoActive": 0,
+    "BuffId": 680201,
+    "BuffName": "水平跳",
+    "Deactive": false,
+    "Desc": "Grants the ability to leap forward with a special move.<br>After landing, a <style=\"accent-gn\">Timing Gauge</style> appears. Jumping again at the right moment will build <style=\"accent-gn\">Stamina recovery progress; when full, Stamina is greatly restored.</style>",
+    "LockItem": [],
+    "Name": "Horizontal Jump",
+    "Style": 0
+  },
+  "680401": {
+    "ActiveLevel": 48,
+    "AutoActive": 0,
+    "BuffId": 680401,
+    "BuffName": "踢墙跳",
+    "Deactive": false,
+    "Desc": "Grants the ability to wall-kick upward. When near a wall, kicking propels the user upward, consuming Stamina with each jump.",
+    "LockItem": [],
+    "Name": "Wall Jump",
+    "Style": 0
+  },
+  "680501": {
+    "ActiveLevel": 45,
+    "AutoActive": 0,
+    "BuffId": 680501,
+    "BuffName": "蹬墙跑",
+    "Deactive": false,
+    "Desc": "Grants the ability to run on walls.<br>Running slowly consumes Stamina, while standing still enters a wall-hang state that consumes no Stamina.",
+    "LockItem": [],
+    "Name": "Wall Run",
+    "Style": 0
+  },
+  "680701": {
+    "ActiveLevel": 1,
+    "AutoActive": 1,
+    "BuffId": 680701,
+    "BuffName": "懒人跳",
+    "Deactive": false,
+    "Desc": "Grants the ability to automatically vault certain obstacles without consuming Stamina.",
+    "LockItem": [],
+    "Name": "Auto-Vault",
+    "Style": 0
+  },
+  "682501": {
+    "ActiveLevel": 18,
+    "AutoActive": 0,
+    "BuffId": 682501,
+    "BuffName": "跳跃次数+1 3段跳 免疫坠落",
+    "Deactive": false,
+    "Desc": "Mid-air jump +1, consumes stamina, maximum 3 jumps.<br>Grants immunity to fall damage.",
+    "LockItem": [],
+    "Name": "Multi-Jump",
+    "Style": 0
+  },
+  "682503": {
+    "ActiveLevel": 30,
+    "AutoActive": 0,
+    "BuffId": 682503,
+    "BuffName": "跳跃次数+1 4段跳",
+    "Deactive": false,
+    "Desc": "Mid-air jump +1, consumes stamina, maximum 4 jumps.",
+    "LockItem": [],
+    "Name": "Multi-Jump",
+    "Style": 0
+  },
+  "682505": {
+    "ActiveLevel": 35,
+    "AutoActive": 0,
+    "BuffId": 682505,
+    "BuffName": "跳跃次数+1 5段跳",
+    "Deactive": false,
+    "Desc": "Mid-air jump +1, consumes stamina, maximum 5 jumps.",
+    "LockItem": [],
+    "Name": "Multi-Jump",
+    "Style": 0
+  }
+}
