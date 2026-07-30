@@ -50,7 +50,7 @@
         throw new Error(`${response.status} ${response.statusText}`);
       }
       json = await response.text();
-      status = "Loaded.";
+      status = "";
     } catch (error) {
       if (error instanceof DOMException && error.name === "AbortError") return;
       status = `Failed to load: ${error instanceof Error ? error.message : error}`;
@@ -147,7 +147,7 @@
         </a>
       {/if}
     </header>
-    <p class="text-sm opacity-70" aria-live="polite">
+    <p class="min-h-5 text-sm opacity-70" aria-live="polite">
       {tables.length ? status : "No matching tables."}
     </p>
     <pre
