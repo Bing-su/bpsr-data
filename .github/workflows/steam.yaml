@@ -47,11 +47,13 @@ jobs:
             "portuguese"
           ]
           for lang in $langs {
-            bpsr-tool --pkg $meta --output ./src/data/$lang --language $lang
+            bpsr-tool --pkg $meta --output $"./src/data/($lang)" --language $lang
             print $"::debug::Extracted ($lang) data"
           }
 
       - run: oxfmt
+
+      - run: ls src/data
 
       - uses: EndBug/add-and-commit@v10
         with:
