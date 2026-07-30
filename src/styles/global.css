@@ -1,5 +1,9 @@
 @import "tailwindcss";
-@plugin "daisyui";
+@plugin "daisyui" {
+  themes:
+    cupcake --default,
+    dracula --prefersdark;
+}
 
 select[size].select {
   appearance: none;
