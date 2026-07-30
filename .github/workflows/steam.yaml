@@ -16,6 +16,8 @@ jobs:
 
       - name: Install tools
         run: mise use -g github:Bing-su/bpsr-tool oxfmt fd xh
+        env:
+          MISE_MINIMUM_RELEASE_AGE: "0s"
 
       # 3681810: Global
       # 4073960: KR/JP
