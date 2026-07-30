@@ -1,17 +1,170 @@
 ---
+import { dataFiles } from "../data-files";
+import "../styles/global.css";
 
+const files = dataFiles.map((file) => {
+  const [language, , filename] = file.split("/");
+  return { language, table: filename.slice(0, -".json".length) };
+});
+const languages = [...new Set(files.map(({ language }) => language))];
+const base = import.meta.env.BASE_URL;
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <link rel="icon" href={`${base}favicon.ico`} />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>BPSR Data</title>
+  </head>
+  <body class="min-h-screen bg-base-200 text-base-content">
+    <main class="grid min-h-screen lg:grid-cols-[22rem_minmax(0,1fr)]">
+      <aside
+        class="flex min-h-0 flex-col gap-4 border-base-300 border-r bg-base-100 p-5"
+      >
+        <header>
+          <h1 class="text-2xl font-bold">BPSR Data</h1>
+          <p class="mt-1 text-sm opacity-70">
+            {files.length.toLocaleString()} JSON files
+          </p>
+        </header>
+
+        <label class="form-control">
+          <span class="label-text mb-1">언어</span>
+          <select id="language" class="select w-full" aria-label="언어">
+            {
+              languages.map((language) => (
+                <option value={language}>{language}</option>
+              ))
+            }
+          </select>
+        </label>
+
+        <label class="form-control">
+          <span class="label-text mb-1">테이블 검색</span>
+          <input
+            id="search"
+            class="input w-full"
+            type="search"
+            placeholder="ItemTable"
+            autocomplete="off"
+          />
+        </label>
+
+        <p id="result-count" class="text-sm opacity-70" aria-live="polite"></p>
+        <select
+          id="table"
+          class="select min-h-64 w-full flex-1"
+          size="20"
+          aria-label="테이블"></select>
+      </aside>
+
+      <section class="flex min-h-0 min-w-0 flex-col gap-3 p-5">
+        <header class="flex flex-wrap items-center gap-2">
+          <h2 id="title" class="mr-auto text-xl font-semibold">
+            JSON을 선택하세요
+          </h2>
+          <a id="raw-link" class="btn btn-sm" hidden>원본 열기</a>
+          <a id="download-link" class="btn btn-sm btn-primary" download hidden
+            >다운로드</a
+          >
+        </header>
+        <p id="status" class="text-sm opacity-70" aria-live="polite"></p>
+        <pre
+          class="min-h-80 flex-1 overflow-auto rounded-box bg-neutral p-4 text-sm text-neutral-content"
+          tabindex="0"><code id="json" /></pre>
+      </section>
+    </main>
+
+    <script define:vars={{ files, languages, base }}>
+      const languageSelect = document.querySelector("#language");
+      const searchInput = document.querySelector("#search");
+      const tableSelect = document.querySelector("#table");
+      const resultCount = document.querySelector("#result-count");
+      const title = document.querySelector("#title");
+      const status = document.querySelector("#status");
+      const json = document.querySelector("#json");
+      const rawLink = document.querySelector("#raw-link");
+      const downloadLink = document.querySelector("#download-link");
+      const params = new URLSearchParams(location.search);
+      let controller;
+
+      const tablesForLanguage = (language) =>
+        files
+          .filter((file) => file.language === language)
+          .map((file) => file.table);
+
+      function renderTables(preferredTable) {
+        const query = searchInput.value.trim().toLowerCase();
+        const tables = tablesForLanguage(languageSelect.value).filter((table) =>
+          table.toLowerCase().includes(query),
+        );
+
+        tableSelect.replaceChildren(
+          ...tables.map((table) => new Option(table, table)),
+        );
+        resultCount.textContent = `${tables.length.toLocaleString()}개 테이블`;
+
+        if (preferredTable && tables.includes(preferredTable)) {
+          tableSelect.value = preferredTable;
+        }
+
+        if (tables.length === 0) {
+          status.textContent = "검색 결과가 없습니다.";
+        }
+      }
+
+      async function loadSelected() {
+        const language = languageSelect.value;
+        const table = tableSelect.value;
+        if (!table) return;
+
+        controller?.abort();
+        controller = new AbortController();
+        const url = `${base}data/${encodeURIComponent(language)}/ZTable/${encodeURIComponent(table)}.json`;
+
+        title.textContent = `${language} / ${table}`;
+        status.textContent = "불러오는 중…";
+        json.textContent = "";
+        rawLink.href = url;
+        downloadLink.href = url;
+        downloadLink.download = `${table}.json`;
+        rawLink.hidden = false;
+        downloadLink.hidden = false;
+
+        const nextParams = new URLSearchParams({ lang: language, table });
+        history.replaceState(null, "", `?${nextParams}`);
+
+        try {
+          const response = await fetch(url, { signal: controller.signal });
+          if (!response.ok)
+            throw new Error(`${response.status} ${response.statusText}`);
+          json.textContent = await response.text();
+          status.textContent = "불러왔습니다.";
+        } catch (error) {
+          if (error.name === "AbortError") return;
+          status.textContent = `불러오지 못했습니다: ${error.message}`;
+        }
+      }
+
+      const initialLanguage = languages.includes(params.get("lang"))
+        ? params.get("lang")
+        : languages[0];
+      languageSelect.value = initialLanguage;
+      renderTables(params.get("table"));
+      loadSelected();
+
+      languageSelect.addEventListener("change", () => {
+        searchInput.value = "";
+        renderTables();
+        loadSelected();
+      });
+      searchInput.addEventListener("input", () =>
+        renderTables(tableSelect.value),
+      );
+      tableSelect.addEventListener("change", loadSelected);
+    </script>
+  </body>
 </html>

@@ -1,2 +1,17 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+select[size] {
+  height: auto;
+}
+
+pre {
+  max-height: calc(100vh - 6rem);
+  white-space: pre;
+}
+
+@media (max-width: 63.999rem) {
+  pre {
+    max-height: 70vh;
+  }
+}
