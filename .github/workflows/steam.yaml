@@ -9,6 +9,10 @@ jobs:
     defaults:
       run:
         shell: nu {0}
+
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v7
       - uses: hustcer/setup-nu@v3
@@ -44,7 +48,7 @@ jobs:
           ]
           for lang in $langs {
             bpsr-tool --pkg $meta --output ./src/data/$lang --language $lang
-            echo "Extracted $lang data"
+            print $"::debug::Extracted ($lang) data"
           }
 
       - run: oxfmt
