@@ -1,11 +1,21 @@
 <script lang="ts">
+  import {
+    Download,
+    ExternalLink,
+    FileBracesCorner,
+    Moon,
+    Search,
+    Sun,
+  } from "@lucide/svelte";
   import { onMount } from "svelte";
 
   type DataFile = { language: string; table: string; size: number };
+  type Theme = keyof typeof themeNames;
 
   export let files: DataFile[] = [];
   export let base = "";
 
+  const themeNames = { light: "cupcake", dark: "dracula" } as const;
   const languages = [...new Set(files.map(({ language }) => language))];
   const tablesFor = (language: string) =>
     files.filter((file) => file.language === language);
@@ -22,6 +32,7 @@
   let table = tablesFor(language)[0]?.table ?? "";
   let json = "";
   let status = "Loading…";
+  let theme: Theme = "light";
   let controller: AbortController | undefined;
 
   $: tables = tablesFor(language).filter(({ table }) =>
@@ -63,7 +74,22 @@
     void load();
   }
 
+  function toggleTheme() {
+    theme = theme === "light" ? "dark" : "light";
+    document.documentElement.dataset.theme = themeNames[theme];
+    localStorage.setItem("theme", theme);
+  }
+
   onMount(() => {
+    const savedTheme = localStorage.getItem("theme");
+    theme =
+      savedTheme === "light" || savedTheme === "dark"
+        ? savedTheme
+        : matchMedia("(prefers-color-scheme: dark)").matches
+          ? "dark"
+          : "light";
+    document.documentElement.dataset.theme = themeNames[theme];
+
     const params = new URLSearchParams(location.search);
     const requestedLanguage = params.get("lang");
     if (requestedLanguage && languages.includes(requestedLanguage)) {
@@ -85,11 +111,25 @@
   <aside
     class="flex min-h-0 flex-col gap-4 border-base-300 border-r bg-base-100 p-5"
   >
-    <header>
-      <h1 class="text-2xl font-bold">BPSR Data</h1>
-      <p class="mt-1 text-sm opacity-70">
-        {files.length.toLocaleString("en-US")} JSON files
-      </p>
+    <header class="flex items-start gap-2">
+      <div class="mr-auto">
+        <h1 class="text-2xl font-bold">BPSR Data</h1>
+        <p class="mt-1 text-sm opacity-70">
+          {files.length.toLocaleString("en-US")} JSON files
+        </p>
+      </div>
+      <label class="swap swap-rotate btn btn-circle btn-sm btn-ghost">
+        <input
+          type="checkbox"
+          class="theme-controller"
+          value={themeNames.dark}
+          checked={theme === "dark"}
+          onchange={toggleTheme}
+          aria-label={`Switch to ${theme === "light" ? "dark" : "light"} theme`}
+        />
+        <Sun class="swap-off h-6 w-6" aria-hidden="true" />
+        <Moon class="swap-on h-6 w-6" aria-hidden="true" />
+      </label>
     </header>
 
     <label class="form-control">
@@ -107,7 +147,10 @@
     </label>
 
     <label class="form-control">
-      <span class="label-text mb-1">Search tables</span>
+      <span class="label-text mb-1 flex items-center gap-1.5">
+        <Search class="h-4 w-4" aria-hidden="true" />
+        Search tables
+      </span>
       <input
         class="input w-full"
         type="search"
@@ -137,12 +180,17 @@
 
   <section class="flex min-h-0 min-w-0 flex-col gap-3 p-5">
     <header class="flex flex-wrap items-center gap-2">
-      <h2 class="mr-auto text-xl font-semibold">
-        {table ? `${language} / ${table}` : "Select a JSON file"}
+      <h2 class="mr-auto flex items-center gap-2 text-xl font-semibold">
+        <FileBracesCorner class="h-5 w-5 shrink-0" aria-hidden="true" />
+        <span>{table ? `${language} / ${table}` : "Select a JSON file"}</span>
       </h2>
       {#if url}
-        <a class="btn btn-sm" href={url}>View raw</a>
+        <a class="btn btn-sm" href={url}>
+          <ExternalLink class="h-4 w-4" aria-hidden="true" />
+          View raw
+        </a>
         <a class="btn btn-sm btn-primary" href={url} download={`${table}.json`}>
+          <Download class="h-4 w-4" aria-hidden="true" />
           Download
         </a>
       {/if}
