@@ -1,0 +1,32 @@
+name: Publish to HuggingFace
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v9.0.0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - uses: pnpm/action-setup@v6
+        with:
+          version: latest
+
+      - run: uv tool install hf
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Build
+        run: pnpm run build
+
+      - name: Publish to HuggingFace
+        run: hf upload Bingsu/bpsr-data ./dist / --repo-type space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
