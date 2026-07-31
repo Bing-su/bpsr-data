@@ -11,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: astral-sh/setup-uv@v9.0.0
       - uses: actions/setup-node@v7
         with:
           node-version: 24
@@ -19,14 +18,17 @@ jobs:
         with:
           version: latest
 
-      - run: uv tool install hf
-
       - run: pnpm install --frozen-lockfile
 
       - name: Build
         run: pnpm run build
 
+      - uses: astral-sh/setup-uv@v9.0.0
+      - run: uv tool install hf
       - name: Publish to HuggingFace
-        run: hf upload Bingsu/bpsr-data ./dist / --repo-type space
+        run: |
+          hf repos delete Bingsu/bpsr-data --missing-ok -y
+          hf repos create Bingsu/bpsr-data --type space --sdk static
+          hf upload Bingsu/bpsr-data ./dist / --repo-type space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
