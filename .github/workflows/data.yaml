@@ -23,9 +23,6 @@ jobs:
         env:
           MISE_MINIMUM_RELEASE_AGE: "0s"
 
-      # 3681810: Global
-      # 4073960: KR/JP
-      # 4113810: HAOPLAY
       - name: "Install Blue Protocol: Star Resonance"
         run: |
           xh -I -q -d ${{ secrets.DOWNLOAD_URL }} -o bpsr.zip
@@ -46,17 +43,24 @@ jobs:
             "spanish",
             "portuguese"
           ]
+          bpsr-tool il2cpp --pkg $meta --output ./_dll
+          print "::debug::Extracted DLLs"
           for lang in $langs {
-            bpsr-tool --pkg $meta --output $"./src/data/($lang)" --language $lang
+            bpsr-tool extract --pkg $meta --dll ./_dll --output $"./src/data/($lang)" --language $lang
             print $"::debug::Extracted ($lang) data"
           }
 
       - run: oxfmt
-
       - run: ls src/data
+
+      - name: Get current date
+        id: get-date
+        run: |
+          let now = date now | date to-timezone "Asia/Seoul" | format date "%Y-%m-%d"
+          echo $"now=($now)\n" | save -a $env.GITHUB_OUTPUT
 
       - uses: EndBug/add-and-commit@v10
         with:
           add: "src/data"
           default_author: github_actions
-          message: "data: update game data"
+          message: "data: update game data (${{ steps.get-date.outputs.now }})"
