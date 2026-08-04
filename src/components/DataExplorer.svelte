@@ -109,7 +109,7 @@
   });
 </script>
 
-<main class="grid min-h-screen lg:grid-cols-[22rem_minmax(0,1fr)]">
+<main class="grid min-h-screen lg:h-screen lg:grid-cols-[22rem_minmax(0,1fr)]">
   <aside class="flex min-h-0 flex-col gap-4 border-base-300 border-r bg-base-100 p-5">
     <header class="flex items-start gap-2">
       <div class="mr-auto">
