@@ -27,7 +27,7 @@ jobs:
       - run: uv tool install hf
       - name: Publish to HuggingFace
         run: |
-          hf repos delete Bingsu/bpsr-data --missing-ok -y
+          hf repos delete Bingsu/bpsr-data --type space --missing-ok -y
           hf repos create Bingsu/bpsr-data --type space --sdk static
           hf upload Bingsu/bpsr-data ./dist / --repo-type space
         env:
