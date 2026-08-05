@@ -1656,7 +1656,7 @@
     "Id": 2205410
   },
   "2205420": {
-    "Description": "<linktext=1592><style=\"ItemQuality_5\">신속의 창</style></linktext> 시전 시, <style=\"accent-gn\">10%</style>의 고정 확률로 이후 <style=\"accent-gn\">10</style>초 동안 <style=\"accent-gn\">일반 공격</style>이 <linktext=1591><style=\"ItemQuality_5\">용격포</style></linktext>로 파생됩니다. 파생에 실패할 때마다 해당 확률이 <style=\"accent-gn\">10%</style> 증가합니다(파생 성공 시 초기화). ",
+    "Description": "<linktext=1592><style=\"ItemQuality_5\">신속의 창</style></linktext> 시전 시, <style=\"accent-gn\">10%</style>의 고정 확률로 이후 <style=\"accent-gn\">10</style>초 동안 <style=\"accent-gn\">일반 공격</style>이 <linktext=1591><style=\"ItemQuality_5\">용격포</style></linktext>로 파생됩니다. 파생에 실패할 때마다 해당 확률이 <style=\"accent-gn\">10%</style> 증가합니다(파생 성공 시 초기화).",
     "Id": 2205420
   },
   "2205430": {
@@ -2000,7 +2000,7 @@
     "Id": 2206590
   },
   "2206600": {
-    "Description": "자신이 <linktext=1560><style=\"ItemQuality_5\">디바인 서클</style></linktext> 안에 있는 동안, 받는 모든 대미지 -<style=\"accent-gn\">10%</style>.<br>주위 <style=\"accent-gn\">10</style>미터 내에 있는 적 <style=\"accent-gn\">1</style>명당, 받는 물리 대미지 경감 +<style=\"accent-gn\">1.5%</style>(최대 +<style=\"accent-gn\">9%</style>), 받는 마법 대미지 경감 +<style=\"accent-gn\">0.75%</style>(최대 +<style=\"accent-gn\">4.5%</style>).",
+    "Description": "자신이 <linktext=1560><style=\"ItemQuality_5\">디바인 서클</style></linktext> 안에 있는 동안, 받는 모든 대미지 -<style=\"accent-gn\">10%</style>.<br>주위 <style=\"accent-gn\">10</style>m 이내에 있는 적 <style=\"accent-gn\">1</style>명당, 받는 물리 대미지 경감 +<style=\"accent-gn\">1.5%</style>(최대 +<style=\"accent-gn\">9%</style>), 받는 마법 대미지 경감 +<style=\"accent-gn\">0.75%</style>(최대 +<style=\"accent-gn\">4.5%</style>).",
     "Id": 2206600
   },
   "2206610": {
@@ -3396,7 +3396,7 @@
     "Id": 3002010
   },
   "3002020": {
-    "Description": "주위 <style=\"accent-gn\">10</style>미터 이내에 위치한 파티원 <style=\"accent-gn\">1</style>명당, 행운 확률 +<style=\"accent-gn\">1%</style>, 최대 +<style=\"accent-gn\">3%</style>.",
+    "Description": "주위 <style=\"accent-gn\">10</style>m 이내에 위치한 파티원 <style=\"accent-gn\">1</style>명당, 행운 확률 +<style=\"accent-gn\">1%</style>, 최대 +<style=\"accent-gn\">3%</style>.",
     "Id": 3002020
   },
   "3002030": {
@@ -3556,7 +3556,7 @@
     "Id": 3002870
   },
   "3003010": {
-    "Description": "<style=\"accent-gn\">적멸의 꿈</style> 시전 시, 자신 주위 <style=\"accent-gn\">5</style>미터 내의 적에게 <linktext=1205><style=\"ItemQuality_5\">적멸</style></linktext>을 시전합니다.",
+    "Description": "<style=\"accent-gn\">적멸의 꿈</style> 시전 시, 자신 주위 <style=\"accent-gn\">5</style>m 이내의 적에게 <linktext=1205><style=\"ItemQuality_5\">적멸</style></linktext>을 시전합니다.",
     "Id": 3003010
   },
   "3003020": {
@@ -3568,7 +3568,7 @@
     "Id": 3003030
   },
   "3003040": {
-    "Description": "<style=\"accent-gn\">적멸의 꿈</style>의 범위가 <style=\"accent-gn\">10</style>미터로 확대됩니다.",
+    "Description": "<style=\"accent-gn\">적멸의 꿈</style>의 범위가 <style=\"accent-gn\">10</style>m로 확대됩니다.",
     "Id": 3003040
   },
   "3003050": {
@@ -3896,7 +3896,7 @@
     "Id": 3050140
   },
   "3050150": {
-    "Description": "천뢰섬영의 의지 지속 시간 동안 벽력연참을 시전할 때마다 자신 5미터 범위 내 최대 6명 적군 목표에게 뇌격을 시전하며, 동시에 전하 씨앗 3개를 획득합니다.<br>뇌격 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
+    "Description": "천뢰섬영의 의지 지속 시간 동안 벽력연참을 시전할 때마다 자신 5m 범위 내 최대 6명 적군 목표에게 뇌격을 시전하며, 동시에 전하 씨앗 3개를 획득합니다.<br>뇌격 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
     "Id": 3050150
   },
   "3050400": {
@@ -3968,7 +3968,7 @@
     "Id": 3051110
   },
   "3051120": {
-    "Description": "윈드 오라가 목표를 10회 명중할 때마다(여러 목표 명중 시 1회로 계산), 풍력 오라를 발동하며, 자신 주위 5미터 내 적군 목표에게 공격력 1500%만큼의 물리 대미지를 줍니다.<br>풍력 오라 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
+    "Description": "윈드 오라가 목표를 10회 명중할 때마다(여러 목표 명중 시 1회로 계산), 풍력 오라를 발동하며, 자신 주위 5m 이내 적군 목표에게 공격력 1500%만큼의 물리 대미지를 줍니다.<br>풍력 오라 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
     "Id": 3051120
   },
   "3051130": {
@@ -4312,7 +4312,7 @@
     "Id": 3055130
   },
   "3055140": {
-    "Description": "영웅의 방벽 시전 후 10초 동안, 자신 주위 5미터 범위 내 랜덤으로 거암 강타를 발동합니다.<br>거암 강타 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
+    "Description": "영웅의 방벽 시전 후 10초 동안, 자신 주위 5m 범위 내 랜덤으로 거암 강타를 발동합니다.<br>거암 강타 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
     "Id": 3055140
   },
   "3055150": {
@@ -4396,7 +4396,7 @@
     "Id": 3056130
   },
   "3056140": {
-    "Description": "양분의 씨앗 투척 후, 주위 5미터 내 랜덤으로 에너지 주입을 발동합니다.<br>재생의 꽃망울 획득 후 양분의 씨앗을 투척합니다.<br>에너지 주입 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
+    "Description": "양분의 씨앗 투척 후, 주위 5m 이내 랜덤으로 에너지 주입을 발동합니다.<br>재생의 꽃망울 획득 후 양분의 씨앗을 투척합니다.<br>에너지 주입 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
     "Id": 3056140
   },
   "3056150": {
@@ -4484,7 +4484,7 @@
     "Id": 3057140
   },
   "3057150": {
-    "Description": "치유의 악장이 치료를 가할 시, 자신 주위 10미터 내 적군에게 공격력 100%만큼의 마법 대미지를 줍니다.<br>치유의 악장 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
+    "Description": "치유의 악장이 치료를 가할 시, 자신 주위 10m 이내 적군에게 공격력 100%만큼의 마법 대미지를 줍니다.<br>치유의 악장 파망 대미지 +{*Decision.unmarkpercent(1)*}.",
     "Id": 3057150
   },
   "3057400": {
@@ -5024,7 +5024,7 @@
     "Id": 3401116
   },
   "3401117": {
-    "Description": "적에게 매 초마다 공격력의 <style=\"accent-gn\">20%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다, <style=\"accent-gn\">10</style>초 지속. ",
+    "Description": "적에게 매 초마다 공격력의 <style=\"accent-gn\">20%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다, <style=\"accent-gn\">10</style>초 지속.",
     "Id": 3401117
   },
   "3401118": {
@@ -5364,7 +5364,7 @@
     "Id": 3401201
   },
   "3401202": {
-    "Description": "<style=\"accent-gn\">3</style>미터 범위 내 적군 목표에게 공격력 <style=\"accent-gn\">165%</style>의 적응형 대미지를 줍니다.",
+    "Description": "<style=\"accent-gn\">3</style>m 범위 내 적군 목표에게 공격력 <style=\"accent-gn\">165%</style>의 적응형 대미지를 줍니다.",
     "Id": 3401202
   },
   "3401203": {
@@ -5380,7 +5380,7 @@
     "Id": 3401205
   },
   "3401206": {
-    "Description": "자신의 <style=\"accent-gn\">5</style>미터 내 적군 목표에게 공격력 <style=\"accent-gn\">200%</style>의 적응형 대미지를 주며, 목표에게 <style=\"accent-gn\">1</style>.<style=\"accent-gn\">5</style>초 동안 <linktext=3005><style=\"ItemQuality_5\">스턴</style></linktext>을 부여합니다.",
+    "Description": "자신의 <style=\"accent-gn\">5</style>m 이내 적군 목표에게 공격력 <style=\"accent-gn\">200%</style>의 적응형 대미지를 주며, 목표에게 <style=\"accent-gn\">1</style>.<style=\"accent-gn\">5</style>초 동안 <linktext=3005><style=\"ItemQuality_5\">스턴</style></linktext>을 부여합니다.",
     "Id": 3401206
   },
   "3401207": {
@@ -5388,7 +5388,7 @@
     "Id": 3401207
   },
   "3401208": {
-    "Description": "자신의 <style=\"accent-gn\">5</style>미터 내 적군 목표에게 물리 방어력 <style=\"accent-gn\">330%</style>의 적응형 대미지를 줍니다.",
+    "Description": "자신의 <style=\"accent-gn\">5</style>m 이내 적군 목표에게 물리 방어력 <style=\"accent-gn\">330%</style>의 적응형 대미지를 줍니다.",
     "Id": 3401208
   },
   "3401209": {

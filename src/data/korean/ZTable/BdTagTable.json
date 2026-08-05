@@ -104,6 +104,13 @@
     "TagString": "로그라이크 콘텐츠용 버프 옵션 유형",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "타워 디펜스 계열 태그",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "스킬이 목표에게 작용하거나 일정 시간 동안 유지되는 치료 영역을 생성해 목표의 체력을 지속적으로 회복시킨다. (해당 치료 유형은 행운 효과를 발동하지 않음)",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "물리",
+    "TagString": "타워 디펜스 계열",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "마법",
+    "TagString": "타워 디펜스 계열",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "인간형",
+    "TagString": "육성하기 어렵지만, 후반부에 매우 강력합니다.",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "연소",
+    "TagString": "연소 효과를 중심으로 구성해 '타타'를 핵심 딜러로 활용하는 조합입니다.",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "자원",
+    "TagString": "초반에 결정 파편을 빠르게 모아 후반부에 높은 대미지를 뽑아냅니다.",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "차지",
+    "TagString": "범위 내에 진입해야만 스킬을 시전합니다. 보스를 상대하는 데 특화되어 있습니다.",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "버프",
+    "TagString": "타워 디펜스 계열",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "디버프",
+    "TagString": "타워 디펜스 계열",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "아이로나",
+    "TagString": "타워 디펜스 계열",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "타타",
+    "TagString": "타워 디펜스 계열",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "축복",
     "TagString": "전투 능력, 이동 능력 또는 다른 능력을 강화하는 버프 상태",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "올베라",
+    "TagString": "타워 디펜스 계열",
     "TagType": 2
   },
   "14": {

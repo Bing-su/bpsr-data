@@ -104,6 +104,13 @@
     "TagString": "Um tipo de bonificação usada em jogos roguelike",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "Tag de Build de Defesa de Torres",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "Habilidades que afetam o alvo ou deixam uma área de cura que persiste por um período, fazendo o alvo restaurar PV continuamente (esse tipo de cura não pode ativar efeitos de Sorte)",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "Físico",
+    "TagString": "Build de Defesa de Torres",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "Mágico",
+    "TagString": "Build de Defesa de Torres",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "Humanoide",
+    "TagString": "Difícil de desenvolver, mas extremamente poderoso no fim de jogo.",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "Queimadura",
+    "TagString": "Monte uma equipe com Tatta como principal DPS, utilizando efeitos de Queimadura.",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "Recurso",
+    "TagString": "Obtenha Estilhaços de Cristal rapidamente no início do jogo para causar grande dano no final.",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "Carga",
+    "TagString": "Só lança habilidades quando os alvos entram no alcance, causando dano especial aos chefes.",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "Bonificação",
+    "TagString": "Build de Defesa de Torres",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "Enfraquecimento",
+    "TagString": "Build de Defesa de Torres",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "Airona",
+    "TagString": "Build de Defesa de Torres",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "Tatta",
+    "TagString": "Build de Defesa de Torres",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "Bênção",
     "TagString": "Em um estado vantajoso onde combate, movimento ou outras habilidades são melhoradas",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "Olvera",
+    "TagString": "Build de Defesa de Torres",
     "TagType": 2
   },
   "14": {

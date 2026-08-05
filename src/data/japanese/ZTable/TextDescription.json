@@ -1184,7 +1184,7 @@
     "Type": 3
   },
   "1148": {
-    "Description": "<style=\"accent-gn\">弓心</style>のスタック数が<style=\"accent-gn\">5</style>以上だった場合、追加スタックされるたび<style=\"accent-gn\">30%</style>の固定確率で<style=\"accent-gn\">内部破裂</style>し、範囲内のエネミー対象に攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与える。<style=\"accent-gn\">弓心</style>は<style=\"accent-gn\">20</style>スタックまで可。但し、<style=\"accent-gn\">1</style>秒ごとにスタック数-<style=\"accent-gn\">1</style>。",
+    "Description": "<style=\"accent-gn\">弓心</style>のスタック数が<style=\"accent-gn\">5</style>以上だった場合、追加スタックされるたび<style=\"accent-gn\">30%</style>の固定確率で<style=\"accent-gn\">内部破裂</style>し、範囲内のエネミー対象に攻撃力の<style=\"accent-gn\">100%</style>の<style=\"physical\">物理ダメージ</style>を与える。<style=\"accent-gn\">弓心</style>は<style=\"accent-gn\">20</style>スタックまで。但し、<style=\"accent-gn\">1</style>秒ごとにスタック数-<style=\"accent-gn\">1</style>。",
     "Id": 1148,
     "Par": 3401148,
     "ShowRule": 1,
@@ -1672,7 +1672,7 @@
     "Type": 3
   },
   "1209": {
-    "Description": "最大HP+<style=\"accent-gn\">3%</style>、器用さ+<style=\"accent-gn\">2%</style>。<style=\"accent-gn\">3</style>スタックまで可。",
+    "Description": "最大HP+<style=\"accent-gn\">3%</style>、器用さ+<style=\"accent-gn\">2%</style>。<style=\"accent-gn\">3</style>スタックまで。",
     "Id": 1209,
     "Par": 3401209,
     "ShowRule": 1,
@@ -1688,7 +1688,7 @@
     "Type": 1
   },
   "1211": {
-    "Description": "<style=\"accent-gn\">マスタリースキル</style>攻撃速度+<style=\"accent-gn\">5%</style>。持続<style=\"accent-gn\">10</style>秒、<style=\"accent-gn\">5</style>スタックまで可。",
+    "Description": "<style=\"accent-gn\">マスタリースキル</style>攻撃速度+<style=\"accent-gn\">5%</style>。持続<style=\"accent-gn\">10</style>秒、<style=\"accent-gn\">5</style>スタックまで。",
     "Id": 1211,
     "Par": 3401211,
     "ShowRule": 1,
@@ -1700,11 +1700,11 @@
     "Id": 1212,
     "Par": 3401212,
     "ShowRule": 1,
-    "Text": "灼炎",
+    "Text": "熾炎",
     "Type": 3
   },
   "1213": {
-    "Description": "<style=\"accent-gn\">2</style>秒ごとに攻撃力の<style=\"accent-gn\">35%×スタック数</style>ptの<style=\"physical\">物理ダメージ</style>を与える。持続<style=\"accent-gn\">10</style>秒、<style=\"accent-gn\">10</style>スタックまで可。<style=\"accent-gn\">鬼火</style>がスタック上限に達しているときに新たに<style=\"accent-gn\">鬼火</style>が付与されると、直ちに攻撃力の<style=\"accent-gn\">35%</style>ptの<style=\"physical\">物理ダメージ</style>を与える。",
+    "Description": "<style=\"accent-gn\">2</style>秒ごとに攻撃力の<style=\"accent-gn\">35%×スタック数</style>ptの<style=\"physical\">物理ダメージ</style>を与える。持続<style=\"accent-gn\">10</style>秒、<style=\"accent-gn\">10</style>スタックまで。<style=\"accent-gn\">鬼火</style>がスタック上限に達しているときに新たに<style=\"accent-gn\">鬼火</style>が付与されると、直ちに攻撃力の<style=\"accent-gn\">35%</style>ptの<style=\"physical\">物理ダメージ</style>を与える。",
     "Id": 1213,
     "Par": 3401213,
     "ShowRule": 1,

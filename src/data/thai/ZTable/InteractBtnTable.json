@@ -361,7 +361,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1041,
-    "Name": "ฉีดพลังงาน Engram Line"
+    "Name": "ฉีด Engram Line Energy"
   },
   "104101": {
     "BtnType": 1,
@@ -739,7 +739,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_mine_energy",
     "Id": 1098,
-    "Name": "{*coll.name(coll.Id)*} (เก็บแบบโฟกัส)"
+    "Name": "{*coll.name(coll.Id)*} (เก็บแบบ Focus )"
   },
   "1099": {
     "BtnType": 1,
@@ -767,7 +767,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand_energy",
     "Id": 1102,
-    "Name": "{*coll.name(coll.Id)*} (เก็บแบบโฟกัส)"
+    "Name": "{*coll.name(coll.Id)*} (เก็บแบบ Focus )"
   },
   "1103": {
     "BtnType": 1,
@@ -1054,14 +1054,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_26",
     "Id": 1138,
-    "Name": "นักล่ากิลด์ระดับปกติ"
+    "Name": "Guild Hunt (Common)"
   },
   "1139": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_26",
     "Id": 1139,
-    "Name": "นักล่ากิลด์"
+    "Name": "Guild Hunt"
   },
   "1140": {
     "BtnType": 1,
@@ -1978,7 +1978,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 1252,
-    "Name": "เสร็จสิ้นเป้าหมายดันเจี้ยนทั้งหมดก่อนหน้า"
+    "Name": "ผ่านดันเจี้ยนทั้งหมดก่อนหน้า"
   },
   "1257": {
     "BtnType": 1,
@@ -2048,14 +2048,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 1300,
-    "Name": "เปิดใช้งาน [รูปปั้นรบหลัก รุ่น 99]"
+    "Name": "เปิดใช้ [Main Battle Mech 99]"
   },
   "1301": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 1301,
-    "Name": "เปิดใช้งาน [หุ่นยนต์รบเสริม Machine รุ่น 03]"
+    "Name": "เปิดใช้ [Sub Battle Mech 03]"
   },
   "130103": {
     "BtnType": 1,
@@ -2083,7 +2083,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 1302,
-    "Name": "เปิดใช้งาน [กองกำลังหุ่นยนต์รบแนวหน้า รุ่น 7]"
+    "Name": "เปิดใช้ [Frontline Mech Unit 7]"
   },
   "1302001": {
     "BtnType": 1,
@@ -2189,6 +2189,27 @@
     "IconPath": "ui/atlas/npc/map_season_02",
     "Id": 1400,
     "Name": "Illusion-Shroud Woods"
+  },
+  "14001": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_45",
+    "Id": 14001,
+    "Name": "วาง Imagine"
+  },
+  "14002": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_05",
+    "Id": 14002,
+    "Name": "อัปขั้น"
+  },
+  "14003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_64",
+    "Id": 14003,
+    "Name": "รีไซเคิล"
   },
   "140201": {
     "BtnType": 1,
@@ -2363,14 +2384,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1503,
-    "Name": "<บันทึกหลังสงคราม - Profile>"
+    "Name": "Post-War Chronicles: Profiles"
   },
   "1504": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1504,
-    "Name": "<บทบันทึกเรื่องราวที่ไม่ปรากฏชื่อ>"
+    "Name": "Compilation of Unnamed Chronicles"
   },
   "1505": {
     "BtnType": 1,
@@ -2846,7 +2867,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_26",
     "Id": 200064,
-    "Name": "Floating Island - Dragon Shackles"
+    "Name": "<style=\"emph-sq\">Floating Island - Dragon Shackles</style>"
   },
   "200065": {
     "BtnType": 1,
@@ -2930,7 +2951,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_worldquest",
     "Id": 200077,
-    "Name": "รางวัล Meow พิเศษ"
+    "Name": "Meowlux Special"
   },
   "200078": {
     "BtnType": 1,
@@ -2944,7 +2965,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_75",
     "Id": 200079,
-    "Name": "รีไซเคิลไอเทมรางวัล Meow พิเศษ"
+    "Name": "รีไซเคิลไอเทม Meowlux Special"
   },
   "200080": {
     "BtnType": 1,
@@ -2965,7 +2986,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_09",
     "Id": 200082,
-    "Name": "ร้านดาวเคราะห์"
+    "Name": "Starland Store"
   },
   "200083": {
     "BtnType": 1,
@@ -3007,7 +3028,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 2001,
-    "Name": "Inferno Orc (Active)"
+    "Name": "Flame Orc (Active)"
   },
   "200100": {
     "BtnType": 1,
@@ -3098,7 +3119,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 2012,
-    "Name": "เสร็จสิ้นเป้าหมายดันเจี้ยน"
+    "Name": "ผ่านดันเจี้ยน"
   },
   "2013": {
     "BtnType": 1,
@@ -3819,7 +3840,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30400,
-    "Name": "เก็บเกี่ยวดอกคำฝอยสำหรับทำความสะอาด"
+    "Name": "เก็บเกี่ยว Saffron สำหรับทำความสะอาด"
   },
   "30401": {
     "BtnType": 1,
@@ -4239,28 +4260,28 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 4510,
-    "Name": "เก็บ [CRIT] Orb"
+    "Name": "เก็บ Crit Orb"
   },
   "4511": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 4511,
-    "Name": "เก็บ [Lucky] Orb"
+    "Name": "เก็บ Luck Orb"
   },
   "4512": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 4512,
-    "Name": "เก็บ [ Haste] Orb"
+    "Name": "เก็บ Haste Orb"
   },
   "4513": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 4513,
-    "Name": "เก็บ [ชำนาญ] Orb"
+    "Name": "เก็บ Mastery orb"
   },
   "4520": {
     "BtnType": 1,
@@ -5226,7 +5247,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 6028,
-    "Name": "ระบุตัว Louisien"
+    "Name": "ระบุตัว Lucien"
   },
   "6029": {
     "BtnType": 1,
@@ -6844,6 +6865,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739010,
     "Name": "ศึกตามล่าเงาปลาในตำนาน"
+  },
+  "739011": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "Id": 739011,
+    "Name": "สำรวจใต้ทะเล: Engram Line Tuning"
   },
   "7501": {
     "BtnType": 1,

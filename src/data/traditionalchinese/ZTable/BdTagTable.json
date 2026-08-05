@@ -104,6 +104,13 @@
     "TagString": "用於肉鴿玩法的buff詞條類型",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "塔防流派tag",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "技能對目標產生影響，或留下存在一段時間的治療區域，使得目標持續回復生命值（該類治療無法觸發幸運效果）",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "物理",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "魔法",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "人形",
+    "TagString": "養成困難，後期極強。",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "燃燒",
+    "TagString": "以塔塔為核心輸出，圍繞燃燒效果構建隊伍。",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "資源",
+    "TagString": "前期快速獲取碎晶，後期高額輸出。",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "蓄力",
+    "TagString": "進入範圍圈才會釋放技能，對首領特攻。",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "增益",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "減益",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "艾露娜",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "塔塔",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "祝福",
     "TagString": "處於戰鬥能力、移動能力或其他能力強化的有利狀態",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "奧爾維拉",
+    "TagString": "塔防流派",
     "TagType": 2
   },
   "14": {

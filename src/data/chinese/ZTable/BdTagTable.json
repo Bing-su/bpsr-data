@@ -104,6 +104,13 @@
     "TagString": "用于肉鸽玩法的buff词条类型",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "塔防流派tag",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "技能对目标产生影响，或留下存在一段时间的治疗区域，使得目标持续回复生命值（该类治疗无法触发幸运效果）",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "物理",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "魔法",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "人形",
+    "TagString": "养成困难，后期极强。",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "燃烧",
+    "TagString": "以塔塔为核心输出，围绕燃烧效果构建队伍。",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "资源",
+    "TagString": "前期快速获取碎晶，后期高额输出。",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "蓄力",
+    "TagString": "进入范围圈才会释放技能，对首领特攻。",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "增益",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "减益",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "艾露娜",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "塔塔",
+    "TagString": "塔防流派",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "祝福",
     "TagString": "处于战斗能力、移动能力或其他能力强化的有利状态",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "奥尔维拉",
+    "TagString": "塔防流派",
     "TagType": 2
   },
   "14": {

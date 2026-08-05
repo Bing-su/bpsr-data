@@ -104,6 +104,13 @@
     "TagString": "ローグライクモード用のバフオプションタイプ",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "タワーディフェンス型タグ",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "スキルが対象に与える影響、または一定時間存在する回復エリアは、対象のHPを回復し続ける（この種の回復には幸運効果は発生しない）",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "物理",
+    "TagString": "タワーディフェンス型",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "魔法",
+    "TagString": "タワーディフェンス型",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "人型",
+    "TagString": "育成は困難だが、終盤は非常に強力。",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "バーニング",
+    "TagString": "タータをメインアタッカーとし、燃焼効果を中心にパーティを構築する。",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "資源",
+    "TagString": "序盤は砕晶を素早く獲得し、終盤は高ダメージを与える。",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "チャージ",
+    "TagString": "範囲内に入らないとスキルを発動しない。ボスに対して特効を持つ。",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "バフ",
+    "TagString": "タワーディフェンス型",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "デバフ",
+    "TagString": "タワーディフェンス型",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "アルーナ",
+    "TagString": "タワーディフェンス型",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "タータ",
+    "TagString": "タワーディフェンス型",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "祝福",
     "TagString": "戦闘力、移動能力、その他の能力が強化される有利な状態",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "オルヴェラ",
+    "TagString": "タワーディフェンス型",
     "TagType": 2
   },
   "14": {

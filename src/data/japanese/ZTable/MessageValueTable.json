@@ -1,0 +1,477 @@
+{
+  "1": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：鎌を連続で3回振り回す。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val2*}%×3</style><br><br><style=\"tipsYellow\">終末のリング</style>：2つのリングを放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val4*}%×リングの数</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
+    "Id": 1,
+    "ValueExchange": []
+  },
+  "10": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、攻撃時に追加で同調砕晶を{*val2*}獲得する",
+    "Id": 10,
+    "ValueExchange": [15.0, 5.0]
+  },
+  "11": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：自身を回転させ、対象に燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">天燃の斧</style>：前方に斧の光を放つ。対象の燃焼1スタックにつき、このダメージ+<style=\"accent-gn\">{*val3*}</style>。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 11,
+    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+  },
+  "12": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 12,
+    "ValueExchange": [45.0]
+  },
+  "13": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、燃焼を{*val2*}回付与するごとに、次回の攻撃で対象に煉獄列車を放つ",
+    "Id": 13,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "14": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-タータが必要）",
+    "Id": 14,
+    "ValueExchange": [35.0]
+  },
+  "15": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、燃焼の付与回数条件が{*val2*}回に減少、煉獄列車のダメージ+{*val3*}%",
+    "Id": 15,
+    "ValueExchange": [15.0, 6.0, 100.0]
+  },
+  "16": {
+    "Desc": "<style=\"tipsYellow\">斬千光</style>：無数の剣光を放ち、すべてのチャージスタック数を消費してダメージ+【<style=\"accent-gn\">{*val1*}%</style>×チャージスタック数】。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val3*}%</style><br>",
+    "Id": 16,
+    "ValueExchange": [40.0, 8.0, 688.0]
+  },
+  "17": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 17,
+    "ValueExchange": [45.0]
+  },
+  "18": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、{*val2*}秒ごとに最も近い対象{*val3*}体をロックオンして剣光を放つ",
+    "Id": 18,
+    "ValueExchange": [25.0, 10.0, 1.0]
+  },
+  "19": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-オルヴェラが必要）",
+    "Id": 19,
+    "ValueExchange": [35.0]
+  },
+  "2": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 2,
+    "ValueExchange": [45.0]
+  },
+  "20": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、剣光のロックオン対象数+{*val2*}",
+    "Id": 20,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "21": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方へ刺突を繰り出し、旗槍を回転させる。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">時の号令</style>：最も近い<style=\"accent-gn\">{*val3*}</style>体の同調イマジンのスキルリキャスト速度+<style=\"accent-gn\">{*val4*}%</style>。<style=\"accent-gn\">{*val5*}秒</style>持続。<br>影響範囲：フィールド全体<br>ダメージ倍率：なし<br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 21,
+    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+  },
+  "22": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 22,
+    "ValueExchange": [45.0]
+  },
+  "23": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、フィールドにいるとき、冒険者の移動速度+{*val2*}、ダメージ増加効果+{*val3*}",
+    "Id": 23,
+    "ValueExchange": [25.0, 25.0, 25.0]
+  },
+  "24": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-ティナが必要）",
+    "Id": 24,
+    "ValueExchange": [35.0]
+  },
+  "25": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、フィールドにいるとき、冒険者の移動速度が追加で+{*val2*}、ダメージ増加効果が追加で+{*val3*}",
+    "Id": 25,
+    "ValueExchange": [15.0, 25.0, 25.0]
+  },
+  "26": {
+    "Desc": "<style=\"tipsYellow\">地獄の岩トゲ</style>：地面のトゲを放ち、すべてのチャージスタック数を消費してダメージ+【<style=\"accent-gn\">{*val1*}%</style>×チャージスタック数】。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val3*}%</style><br>リキャスト：なし<br>",
+    "Id": 26,
+    "ValueExchange": [30.0, 9.0, 418.0]
+  },
+  "27": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 27,
+    "ValueExchange": [45.0]
+  },
+  "28": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、パッシブによるダメージが{*val2*}%の脆弱を付与する",
+    "Id": 28,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "29": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-鉄牙が必要）",
+    "Id": 29,
+    "ValueExchange": [35.0]
+  },
+  "3": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、リングの数+{*val2*}",
+    "Id": 3,
+    "ValueExchange": [25.0, 3.0]
+  },
+  "30": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、脆弱効果が追加で+{*val2*}%",
+    "Id": 30,
+    "ValueExchange": [15.0, 10.0]
+  },
+  "31": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：静止状態でない対象を優先してクモの糸を吐き、<style=\"accent-gn\">{*val1*}%</style>の一定確率で対象を<style=\"accent-gn\">{*val2*}秒間</style>静止状態にする。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val4*}%</style><br><br><style=\"tipsYellow\">クモの急襲</style>：地中に1秒間潜った後飛び出し、対象を必ず1秒間スタンさせる。<br>攻撃範囲：<style=\"accent-gn\">{*val5*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val6*}%</style><br>リキャスト：<style=\"accent-gn\">{*val7*}秒</style><br>",
+    "Id": 31,
+    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+  },
+  "32": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 32,
+    "ValueExchange": [45.0]
+  },
+  "33": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、静止の確率が{*val2*}%にアップする",
+    "Id": 33,
+    "ValueExchange": [40.0, 100.0]
+  },
+  "34": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-ゴーストカニクモが必要）",
+    "Id": 34,
+    "ValueExchange": [35.0]
+  },
+  "35": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、スタンの時間+{*val2*}秒",
+    "Id": 35,
+    "ValueExchange": [30.0, 2.5]
+  },
+  "36": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">{*val1*}</style>つのウォーターボールを落とし、スロウを付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val3*}%×ウォーターボールの数</style><br><br><style=\"tipsYellow\">魚群の暴走</style>：幻影のスカイフィッシュを1匹召喚し、前方へ突進させる。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 36,
+    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+  },
+  "37": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 37,
+    "ValueExchange": [45.0]
+  },
+  "38": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、スカイフィッシュ+{*val2*}、同調砕晶の獲得率+{*val3*}%",
+    "Id": 38,
+    "ValueExchange": [25.0, 1.0, 5.0]
+  },
+  "39": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-ヘヴンスカイが必要）",
+    "Id": 39,
+    "ValueExchange": [35.0]
+  },
+  "4": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-災厄の主が必要）",
+    "Id": 4,
+    "ValueExchange": [35.0]
+  },
+  "40": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、スカイフィッシュが追加で+{*val2*}、同調砕晶の獲得率が追加で+{*val3*}%",
+    "Id": 40,
+    "ValueExchange": [15.0, 1.0, 5.0]
+  },
+  "41": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方にパンチを2回繰り出す。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val2*}%×2</style><br><br><style=\"tipsYellow\">命取りの火傷</style>：前方に5秒間炎を吐き出し続け、燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val4*}%</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
+    "Id": 41,
+    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+  },
+  "42": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 42,
+    "ValueExchange": [45.0]
+  },
+  "43": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、攻撃時にHPを{*val2*}%回復する",
+    "Id": 43,
+    "ValueExchange": [40.0, 5.0]
+  },
+  "44": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-フレイムオーガが必要）",
+    "Id": 44,
+    "ValueExchange": [35.0]
+  },
+  "45": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、上限を超えた回復量がバリアに変換される",
+    "Id": 45,
+    "ValueExchange": [30.0]
+  },
+  "46": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：対象を踏みつける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">雷天の盾</style>：雷の盾を獲得し、<style=\"accent-gn\">{*val3*}秒</style>ごとにランダムな対象1体に雷撃を放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 46,
+    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+  },
+  "47": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 47,
+    "ValueExchange": [45.0]
+  },
+  "48": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、攻撃目標が燃焼状態の場合、その燃焼を消費して雷火隠滅を1回発動し、大ダメージの範囲攻撃を与える",
+    "Id": 48,
+    "ValueExchange": [25.0]
+  },
+  "49": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-サンダーオーガが必要）",
+    "Id": 49,
+    "ValueExchange": [35.0]
+  },
+  "5": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、リングの範囲+{*val2*}%",
+    "Id": 5,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "50": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、雷火隠滅が対象の燃焼を消費しなくなる",
+    "Id": 50,
+    "ValueExchange": [15.0]
+  },
+  "51": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に5秒間氷を吐き出し続ける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">零度領域</style>：ランダムな対象3体に対して氷のトゲを放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val4*}%</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
+    "Id": 51,
+    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+  },
+  "52": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 52,
+    "ValueExchange": [45.0]
+  },
+  "53": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、氷のトゲの場所に砕晶の塊が形成され、拾うとランダムで同調砕晶を{*val2*}～{*val3*}獲得する",
+    "Id": 53,
+    "ValueExchange": [25.0, 1.0, 20.0]
+  },
+  "54": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-フロストオーガが必要）",
+    "Id": 54,
+    "ValueExchange": [35.0]
+  },
+  "55": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、氷のトゲの数+{*val2*}",
+    "Id": 55,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "56": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：ムークを1体召喚して戦闘を支援させる。フィールド上にすでにムークが存在する場合、自身が召喚したすべてのムークの攻撃速度がアップする。最大<style=\"accent-gn\">{*val1*}</style>スタックまで。<br>攻撃範囲：なし<br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">ボスの意志</style>：範囲内の味方のHPを<style=\"accent-gn\">{*val3*}%</style>回復し、味方の攻撃力+<style=\"accent-gn\">{*val4*}%</style>。<style=\"accent-gn\">{*val5*}秒</style>持続。<br>影響範囲：<style=\"accent-gn\">{*val6*}</style><br>ダメージ倍率：なし<br>リキャスト：<style=\"accent-gn\">{*val7*}秒</style><br>",
+    "Id": 56,
+    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+  },
+  "57": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 57,
+    "ValueExchange": [45.0]
+  },
+  "58": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、追加でボウガンムークを1体召喚する",
+    "Id": 58,
+    "ValueExchange": [25.0]
+  },
+  "59": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-キングムークが必要）",
+    "Id": 59,
+    "ValueExchange": [35.0]
+  },
+  "6": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">{*val1*}秒</style>ごとに隕石を1つ落とす。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val3*}%</style><br><br><style=\"tipsYellow\">精霊鹿の奇襲</style>：精霊鹿を呼び出して前方へ疾走させる。フィールド上にいる人型の同調イマジン1体につき、追加で1回発動する。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 6,
+    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+  },
+  "60": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、追加でムークボスを1体召喚する",
+    "Id": 60,
+    "ValueExchange": [15.0]
+  },
+  "61": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に向かって振り下ろす。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">大軍一掃</style>：前方に向かってなぎ払いを2回放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val4*}%×2</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
+    "Id": 61,
+    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+  },
+  "62": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 62,
+    "ValueExchange": [45.0]
+  },
+  "63": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、通常攻撃時に追加で地割れ波を{*val2*}つ放ち、攻撃距離+{*val3*}%",
+    "Id": 63,
+    "ValueExchange": [25.0, 2.0, 50.0]
+  },
+  "64": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-ゴブリンキングが必要）",
+    "Id": 64,
+    "ValueExchange": [35.0]
+  },
+  "65": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、ダメージ+{*val2*}%",
+    "Id": 65,
+    "ValueExchange": [15.0, 20.0]
+  },
+  "66": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に斬りつけを放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">風の主</style>：ランダムな対象2体に対して竜巻を放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val4*}%×{*val5*}秒</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 66,
+    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+  },
+  "67": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 67,
+    "ValueExchange": [45.0]
+  },
+  "68": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、フィールドに存在するチャージ型同調イマジン1体につき、竜巻の数+{*val2*}、上限+{*val3*}",
+    "Id": 68,
+    "ValueExchange": [25.0, 1.0, 3.0]
+  },
+  "69": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-嵐のキングゴブリンが必要）",
+    "Id": 69,
+    "ValueExchange": [35.0]
+  },
+  "7": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 7,
+    "ValueExchange": [45.0]
+  },
+  "70": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、竜巻が1つ出現するごとに、チャージ型同調イマジンの次回のスキルダメージがアップする。最大{*val2*}まで",
+    "Id": 70,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "71": {
+    "Desc": "<style=\"tipsYellow\">炎のスパイラル</style>：自身を回転させ、対象に燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
+    "Id": 71,
+    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+  },
+  "72": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 72,
+    "ValueExchange": [45.0]
+  },
+  "73": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、燃焼状態の対象が死亡すると同調砕晶を{*val2*}獲得する。",
+    "Id": 73,
+    "ValueExchange": [40.0, 15.0]
+  },
+  "74": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-異国の山賊長ヒグマが必要）",
+    "Id": 74,
+    "ValueExchange": [35.0]
+  },
+  "75": {
+    "Desc": "Lv5：攻撃力+{*val1*}%、燃焼状態の対象が死亡すると追加で同調砕晶を{*val2*}獲得する。",
+    "Id": 75,
+    "ValueExchange": [30.0, 15.0]
+  },
+  "76": {
+    "Desc": "<style=\"tipsYellow\">落雷のオーブ</style>：落雷のオーブを1つ召喚し、<style=\"accent-gn\">{*val1*}秒</style>ごとにランダムな対象1体に雷撃を放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
+    "Id": 76,
+    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+  },
+  "77": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 77,
+    "ValueExchange": [45.0]
+  },
+  "78": {
+    "Desc": "Lv3：攻撃力+{*val1*}%",
+    "Id": 78,
+    "ValueExchange": [40.0]
+  },
+  "79": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-猛る金色が必要）",
+    "Id": 79,
+    "ValueExchange": [35.0]
+  },
+  "8": {
+    "Desc": "Lv3：攻撃力+{*val1*}%、攻撃時に同調砕晶を{*val2*}獲得する",
+    "Id": 8,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "80": {
+    "Desc": "Lv5：攻撃力+{*val1*}%",
+    "Id": 80,
+    "ValueExchange": [30.0]
+  },
+  "81": {
+    "Desc": "<style=\"tipsYellow\">クレイジースマッシュ</style>：連続で地面を3回叩きつける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val2*}%×3</style><br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
+    "Id": 81,
+    "ValueExchange": [14.0, 133.0, 8.0]
+  },
+  "82": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 82,
+    "ValueExchange": [45.0]
+  },
+  "83": {
+    "Desc": "Lv3：攻撃力+{*val1*}%",
+    "Id": 83,
+    "ValueExchange": [40.0]
+  },
+  "84": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-ムークボスが必要）",
+    "Id": 84,
+    "ValueExchange": [35.0]
+  },
+  "85": {
+    "Desc": "Lv5：攻撃力+{*val1*}%",
+    "Id": 85,
+    "ValueExchange": [30.0]
+  },
+  "86": {
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：波を1つ放ち、<style=\"accent-gn\">{*val1*}%</style>のスロウを付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val3*}%</style><br><br><style=\"tipsYellow\">ヴォルテックス</style>：水の渦を放ち、<style=\"accent-gn\">{*val4*}%</style>のスロウを付与し続ける。<br>攻撃範囲：<style=\"accent-gn\">{*val5*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val6*}%×{*val7*}秒</style><br>リキャスト：<style=\"accent-gn\">{*val8*}秒</style><br>",
+    "Id": 86,
+    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+  },
+  "87": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 87,
+    "ValueExchange": [45.0]
+  },
+  "88": {
+    "Desc": "Lv3：攻撃力+{*val1*}%",
+    "Id": 88,
+    "ValueExchange": [40.0]
+  },
+  "89": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-キングギルミーが必要）",
+    "Id": 89,
+    "ValueExchange": [35.0]
+  },
+  "9": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-アルーナが必要）",
+    "Id": 9,
+    "ValueExchange": [35.0]
+  },
+  "90": {
+    "Desc": "Lv5：攻撃力+{*val1*}%",
+    "Id": 90,
+    "ValueExchange": [30.0]
+  },
+  "91": {
+    "Desc": "<style=\"tipsYellow\">毒の泉噴出</style>：ランダムな対象<style=\"accent-gn\">{*val1*}</style>体に対して毒の泉を放ち、腐食を付与する。最大<style=\"accent-gn\">{*val2*}</style>スタックまで。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val4*}%×{*val5*}秒</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 91,
+    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+  },
+  "92": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 92,
+    "ValueExchange": [45.0]
+  },
+  "93": {
+    "Desc": "Lv3：攻撃力+{*val1*}%",
+    "Id": 93,
+    "ValueExchange": [40.0]
+  },
+  "94": {
+    "Desc": "Lv4：攻撃力+{*val1*}%（B-ヴェノミーンの巣が必要）",
+    "Id": 94,
+    "ValueExchange": [35.0]
+  },
+  "95": {
+    "Desc": "Lv5：攻撃力+{*val1*}%",
+    "Id": 95,
+    "ValueExchange": [30.0]
+  }
+}

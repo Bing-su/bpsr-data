@@ -1,0 +1,477 @@
+{
+  "1": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : balance la faux 3 fois de suite. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'ATQ x3</style>.<br><br><style=\"tipsYellow\">Anneau apocalyptique</style> : libère 2 anneaux. <br>Portée d'attaque : <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val4*} % de l'ATQ x le nombre d'anneaux</style>.<br>TdR : <style=\"accent-gn\">{*val5*} s</style>.<br>",
+    "Id": 1,
+    "ValueExchange": []
+  },
+  "10": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; octroie {*val2*} Éclat(s) de cristal de syntonisation supplémentaire(s) lors d'une attaque.",
+    "Id": 10,
+    "ValueExchange": [15.0, 5.0]
+  },
+  "11": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : tourbillonne et applique Brûlure à la cible. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQ.<br><br><style=\"tipsYellow\">Hache de Flambeciel</style> : fend l'avant avec une lueur de hache. Pour chaque cumul de Brûlure sur la cible, ces dégâts sont augmentés de <style=\"accent-gn\">{*val3*}</style>. <br>Portée d'attaque : <style=\"accent-gn\">{*val4*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val5*} % de l'</style>ATQ.<br>TdR : <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 11,
+    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+  },
+  "12": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 12,
+    "ValueExchange": [45.0]
+  },
+  "13": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; toutes les {*val2*} fois que Brûlure est appliquée, la prochaine attaque libère Train infernal sur la cible.",
+    "Id": 13,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "14": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Tatta).",
+    "Id": 14,
+    "ValueExchange": [35.0]
+  },
+  "15": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; le nombre d'applications de Brûlure requises est réduit à {*val2*} ; dégâts de Train infernal +{*val3*} %.",
+    "Id": 15,
+    "ValueExchange": [15.0, 6.0, 100.0]
+  },
+  "16": {
+    "Desc": "<style=\"tipsYellow\">Taillade des mille lumières</style> : lance d'innombrables faisceaux de lame, consommant tous les cumuls de charge pour augmenter les dégâts de <style=\"accent-gn\">{*val1*} %</style> x le nombre de cumuls de charge. <br>Portée d'attaque : <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val3*} % de l'</style>ATQ.<br>",
+    "Id": 16,
+    "ValueExchange": [40.0, 8.0, 688.0]
+  },
+  "17": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 17,
+    "ValueExchange": [45.0]
+  },
+  "18": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; verrouille la ou les {*val3*} cible(s) la/les plus proche(s) toutes les {*val2*} s pour tirer des faisceaux de lame.",
+    "Id": 18,
+    "ValueExchange": [25.0, 10.0, 1.0]
+  },
+  "19": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Olvera).",
+    "Id": 19,
+    "ValueExchange": [35.0]
+  },
+  "2": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 2,
+    "ValueExchange": [45.0]
+  },
+  "20": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; le faisceau de lame verrouille {*val2*} cible(s) supplémentaire(s).",
+    "Id": 20,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "21": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : donne un coup d'estoc vers l'avant et fait tournoyer la lance de bannière. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQ.<br><br><style=\"tipsYellow\">Ordre temporel</style> : l'accélération du temps de recharge des compétences de la ou des <style=\"accent-gn\">{*val3*}</style> Imagine(s) de syntonisation la/les plus proche(s) augmente de +<style=\"accent-gn\">{*val4*} %</style> pendant <style=\"accent-gn\">{*val5*} s</style>. <br>Zone d'effet : tout le terrain.<br>Multiplicateur de dégâts : aucun.<br>TdR : <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 21,
+    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+  },
+  "22": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 22,
+    "ValueExchange": [45.0]
+  },
+  "23": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; sur le terrain, vitesse de déplacement de l'aventurier +{*val2*} et boost de dégâts +{*val3*}.",
+    "Id": 23,
+    "ValueExchange": [25.0, 25.0, 25.0]
+  },
+  "24": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Tina).",
+    "Id": 24,
+    "ValueExchange": [35.0]
+  },
+  "25": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; sur le terrain, vitesse de déplacement de l'aventurier +{*val2*} supplémentaire et boost de dégâts +{*val3*} supplémentaire.",
+    "Id": 25,
+    "ValueExchange": [15.0, 25.0, 25.0]
+  },
+  "26": {
+    "Desc": "<style=\"tipsYellow\">Spikes de Roche d'Enfer</style> : libère des pics au sol, consommant tous les cumuls de charge pour augmenter les dégâts de <style=\"accent-gn\">{*val1*} %</style> x le nombre de cumuls de charge. <br>Portée d'attaque : <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val3*} % de l'</style>ATQ.<br>TdR : aucun.<br>",
+    "Id": 26,
+    "ValueExchange": [30.0, 9.0, 418.0]
+  },
+  "27": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 27,
+    "ValueExchange": [45.0]
+  },
+  "28": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; les dégâts infligés par les effets passifs appliquent {*val2*} % de Vulnérabilité.",
+    "Id": 28,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "29": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Crocs de fer).",
+    "Id": 29,
+    "ValueExchange": [35.0]
+  },
+  "3": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; nombre d'anneaux +{*val2*}.",
+    "Id": 3,
+    "ValueExchange": [25.0, 3.0]
+  },
+  "30": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; effet de Vulnérabilité +{*val2*} % supplémentaire.",
+    "Id": 30,
+    "ValueExchange": [15.0, 10.0]
+  },
+  "31": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : crache de la toile d'araignée en priorité sur les cibles ne subissant pas Immobilisation, avec <style=\"accent-gn\">{*val1*} %</style> de chances d'appliquer Immobilisation à la cible pendant <style=\"accent-gn\">{*val2*} s</style>. <br>Portée d'attaque : <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val4*} % de l'</style>ATQ.<br><br><style=\"tipsYellow\">Frappe d'araignée</style> : s'enfouit pendant 1 s puis émerge, garantissant un étourdissement d'une seconde sur la cible. <br>Portée d'attaque : <style=\"accent-gn\">{*val5*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val6*} % de l'</style>ATQ.<br>TdR : <style=\"accent-gn\">{*val7*} s</style>.<br>",
+    "Id": 31,
+    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+  },
+  "32": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 32,
+    "ValueExchange": [45.0]
+  },
+  "33": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; les chances d'appliquer Immobilisation passent à {*val2*} %.",
+    "Id": 33,
+    "ValueExchange": [40.0, 100.0]
+  },
+  "34": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Arachnocrabe fantomatique).",
+    "Id": 34,
+    "ValueExchange": [35.0]
+  },
+  "35": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; durée d'étourdissement +{*val2*} s.",
+    "Id": 35,
+    "ValueExchange": [30.0, 2.5]
+  },
+  "36": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : libère <style=\"accent-gn\">{*val1*}</style> orbes aquatiques tombants, appliquant un Ralentissement. <br>Portée d'attaque : <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val3*} % de l'ATQ x le nombre d'orbes aquatiques</style>.<br><br><style=\"tipsYellow\">Frénésie des poissons</style> : invoque 1 poisson céleste fantôme pour charger droit devant. <br>Portée d'attaque : <style=\"accent-gn\">{*val4*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val5*} % de l'</style>ATQ.<br>TdR : <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 36,
+    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+  },
+  "37": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 37,
+    "ValueExchange": [45.0]
+  },
+  "38": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; poisson céleste +{*val2*} ; taux d'obtention d'Éclats de cristal de syntonisation +{*val3*} %.",
+    "Id": 38,
+    "ValueExchange": [25.0, 1.0, 5.0]
+  },
+  "39": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Voltigeur céleste).",
+    "Id": 39,
+    "ValueExchange": [35.0]
+  },
+  "4": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Seigneur du fléau).",
+    "Id": 4,
+    "ValueExchange": [35.0]
+  },
+  "40": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; poisson céleste +{*val2*} supplémentaire ; taux d'obtention d'Éclats de cristal de syntonisation +{*val3*} % supplémentaire.",
+    "Id": 40,
+    "ValueExchange": [15.0, 1.0, 5.0]
+  },
+  "41": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : donne 2 coups de poing vers l'avant. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'ATQM x2</style>.<br><br><style=\"tipsYellow\">Brûlure Létale</style> : crache du feu en continu vers l'avant pendant 5 s, appliquant Brûlure. <br>Portée d'attaque : <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val4*} % de l'</style>ATQM.<br>TdR : <style=\"accent-gn\">{*val5*} s</style>.<br>",
+    "Id": 41,
+    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+  },
+  "42": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 42,
+    "ValueExchange": [45.0]
+  },
+  "43": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; récupère {*val2*} % des PV lors d'une attaque.",
+    "Id": 43,
+    "ValueExchange": [40.0, 5.0]
+  },
+  "44": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Ogre infernal).",
+    "Id": 44,
+    "ValueExchange": [35.0]
+  },
+  "45": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; l'excédent de soin est converti en un bouclier.",
+    "Id": 45,
+    "ValueExchange": [30.0]
+  },
+  "46": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : utilise Piétinement sur la cible. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQ.<br><br><style=\"tipsYellow\">Bouclier de foudre céleste</style> : octroie un bouclier de foudre. Libère une Frappe-foudre sur 1 cible aléatoire toutes les <style=\"accent-gn\">{*val3*} s</style>. <br>Portée d'attaque : <style=\"accent-gn\">{*val4*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val5*} % de l'</style>ATQ.<br>TdR : <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 46,
+    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+  },
+  "47": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 47,
+    "ValueExchange": [45.0]
+  },
+  "48": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; si la cible attaquée subit Brûlure, consomme sa Brûlure pour déclencher 1 Explosion foudroyant, infligeant de lourds dégâts de zone.",
+    "Id": 48,
+    "ValueExchange": [25.0]
+  },
+  "49": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Ogre de la tempête).",
+    "Id": 49,
+    "ValueExchange": [35.0]
+  },
+  "5": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; portée des anneaux +{*val2*} %.",
+    "Id": 5,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "50": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; Explosion foudroyant ne consomme plus la Brûlure de la cible.",
+    "Id": 50,
+    "ValueExchange": [15.0]
+  },
+  "51": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : crache de la glace en continu vers l'avant pendant 5 s. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQ.<br><br><style=\"tipsYellow\">Domaine de zéro degré</style> : libère des Pics de glace sur 3 cibles aléatoires. <br>Portée d'attaque : <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val4*} % de l'</style>ATQ.<br>TdR : <style=\"accent-gn\">{*val5*} s</style>.<br>",
+    "Id": 51,
+    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+  },
+  "52": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 52,
+    "ValueExchange": [45.0]
+  },
+  "53": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; des amas d'éclats de cristal se forment au niveau des Pics de glace, et les ramasser octroie aléatoirement {*val2*} à {*val3*} Éclat(s) de cristal de syntonisation.",
+    "Id": 53,
+    "ValueExchange": [25.0, 1.0, 20.0]
+  },
+  "54": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Ogre de givre).",
+    "Id": 54,
+    "ValueExchange": [35.0]
+  },
+  "55": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; quantité de Pics de glace +{*val2*}.",
+    "Id": 55,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "56": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : invoque 1 Muku pour aider au combat. Si un Muku est déjà sur le terrain, la VIT ATQ de tous vos Mukus invoqués est augmentée, cumulable jusqu'à <style=\"accent-gn\">{*val1*}</style> fois. <br>Portée d'attaque : aucune.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQ.<br><br><style=\"tipsYellow\">Volonté du boss</style> : soigne les alliés à portée à hauteur de <style=\"accent-gn\">{*val3*} %</style> de leurs PV, et augmente leur ATQ de <style=\"accent-gn\">{*val4*} %</style> pendant <style=\"accent-gn\">{*val5*} s</style>. <br>Zone d'effet : <style=\"accent-gn\">{*val6*}</style>.<br>Multiplicateur de dégâts : aucun.<br>TdR : <style=\"accent-gn\">{*val7*} s</style>.<br>",
+    "Id": 56,
+    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+  },
+  "57": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 57,
+    "ValueExchange": [45.0]
+  },
+  "58": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; invoque 1 arbalétrier muku supplémentaire.",
+    "Id": 58,
+    "ValueExchange": [25.0]
+  },
+  "59": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Roi muku).",
+    "Id": 59,
+    "ValueExchange": [35.0]
+  },
+  "6": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : fait tomber 1 météorite toutes les <style=\"accent-gn\">{*val1*} s</style>. <br>Portée d'attaque : <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val3*} % de l'</style>ATQM.<br><br><style=\"tipsYellow\">Ruée du Cerf Spirituel</style> : invoque un cerf spirituel qui charge droit devant. Pour chaque Imagine de syntonisation de type Humanoïde sur le terrain, l'effet se déclenche 1 fois supplémentaire. <br>Portée d'attaque : <style=\"accent-gn\">{*val4*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val5*} % de l'</style>ATQM.<br>TdR : <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 6,
+    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+  },
+  "60": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; invoque 1 chef muku supplémentaire.",
+    "Id": 60,
+    "ValueExchange": [15.0]
+  },
+  "61": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : donne un coup de taille vers le bas droit devant. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQ.<br><br><style=\"tipsYellow\">Grand Balayage</style> : libère 2 balayages vers l'avant. <br>Portée d'attaque : <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val4*} % de l'ATQ x2</style>.<br>TdR : <style=\"accent-gn\">{*val5*} s</style>.<br>",
+    "Id": 61,
+    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+  },
+  "62": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 62,
+    "ValueExchange": [45.0]
+  },
+  "63": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; L'attaque de base libère {*val2*} onde(s) briseterre(s) supplémentaire(s), et la portée d'attaque +{*val3*} %.",
+    "Id": 63,
+    "ValueExchange": [25.0, 2.0, 50.0]
+  },
+  "64": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Roi gobelin).",
+    "Id": 64,
+    "ValueExchange": [35.0]
+  },
+  "65": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; dégâts +{*val2*} %.",
+    "Id": 65,
+    "ValueExchange": [15.0, 20.0]
+  },
+  "66": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : lance une attaque tranchante vers l'avant. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQM.<br><br><style=\"tipsYellow\">Seigneur des vents</style> : lance des Tornades sur 2 cibles aléatoires. <br>Portée d'attaque : <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val4*} % de l'ATQM x {*val5*} s</style>.<br>TdR : <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 66,
+    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+  },
+  "67": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 67,
+    "ValueExchange": [45.0]
+  },
+  "68": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; pour chaque Imagine de syntonisation de type Charge sur le terrain, quantité de Tornades +{*val2*} (limite max. de +{*val3*}).",
+    "Id": 68,
+    "ValueExchange": [25.0, 1.0, 3.0]
+  },
+  "69": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (Nécessite Imagine de combat – Roi gobelin de la tempête).",
+    "Id": 69,
+    "ValueExchange": [35.0]
+  },
+  "7": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 7,
+    "ValueExchange": [45.0]
+  },
+  "70": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; chaque fois qu'une Tornade apparaît, les dégâts infligés par la prochaine compétence des Imagines de syntonisation de type Charge augmentent (cumulable jusqu'à {*val2*} fois).",
+    "Id": 70,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "71": {
+    "Desc": "<style=\"tipsYellow\">Tourbillon de flammes</style> : tourne et applique Brûlure à la cible. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQ.<br>TdR : <style=\"accent-gn\">{*val3*} s</style>.<br>",
+    "Id": 71,
+    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+  },
+  "72": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 72,
+    "ValueExchange": [45.0]
+  },
+  "73": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; obtention de {*val2*} Éclat(s) de cristal de syntonisation lorsqu'une cible atteinte de Brûlure meurt.",
+    "Id": 73,
+    "ValueExchange": [40.0, 15.0]
+  },
+  "74": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (Nécessite Imagine de combat – Chef des brigands).",
+    "Id": 74,
+    "ValueExchange": [35.0]
+  },
+  "75": {
+    "Desc": "niv. 5 : ATQ +{*val1*} % ; obtention de {*val2*} Éclat(s) de cristal de syntonisation supplémentaire(s) lorsqu'une cible atteinte de Brûlure meurt.",
+    "Id": 75,
+    "ValueExchange": [30.0, 15.0]
+  },
+  "76": {
+    "Desc": "<style=\"tipsYellow\">Orbe de foudre</style> : invoque un orbe de foudre qui inflige Frappe-foudre à 1 cible aléatoire toutes les <style=\"accent-gn\">{*val1*} s</style>. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'</style>ATQ.<br>TdR : <style=\"accent-gn\">{*val3*} s</style>.<br>",
+    "Id": 76,
+    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+  },
+  "77": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 77,
+    "ValueExchange": [45.0]
+  },
+  "78": {
+    "Desc": "niv. 3 : ATQ +{*val1*} %.",
+    "Id": 78,
+    "ValueExchange": [40.0]
+  },
+  "79": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (Nécessite Imagine de combat – Colosse doré).",
+    "Id": 79,
+    "ValueExchange": [35.0]
+  },
+  "8": {
+    "Desc": "niv. 3 : ATQ +{*val1*} % ; octroie {*val2*} Éclat(s) de cristal de syntonisation lors d'une attaque.",
+    "Id": 8,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "80": {
+    "Desc": "niv. 5 : ATQ +{*val1*} %.",
+    "Id": 80,
+    "ValueExchange": [30.0]
+  },
+  "81": {
+    "Desc": "<style=\"tipsYellow\">Fracas frénétique</style> : déclenche 3 Fracas au sol consécutifs. <br>Portée d'attaque : <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val2*} % de l'ATQ x 3</style>.<br>TdR : <style=\"accent-gn\">{*val3*} s</style>.<br>",
+    "Id": 81,
+    "ValueExchange": [14.0, 133.0, 8.0]
+  },
+  "82": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 82,
+    "ValueExchange": [45.0]
+  },
+  "83": {
+    "Desc": "niv. 3 : ATQ +{*val1*} %.",
+    "Id": 83,
+    "ValueExchange": [40.0]
+  },
+  "84": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (Nécessite Imagine de combat – chef muku).",
+    "Id": 84,
+    "ValueExchange": [35.0]
+  },
+  "85": {
+    "Desc": "niv. 5 : ATQ +{*val1*} %.",
+    "Id": 85,
+    "ValueExchange": [30.0]
+  },
+  "86": {
+    "Desc": "<style=\"tipsYellow\">Attaque de base</style> : lance 1 vague d'eau qui applique <style=\"accent-gn\">{*val1*} %</style> de Ralentissement. <br>Portée d'attaque : <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val3*} % </style>de l'ATQ magique.<br><br><style=\"tipsYellow\">Vortex</style> : lance un vortex d'eau pour appliquer de façon continue <style=\"accent-gn\">{*val4*} %</style> de Ralentissement. <br>Portée d'attaque : <style=\"accent-gn\">{*val5*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val6*} % de l'ATQ magique x {*val7*} s</style>.<br>TdR : <style=\"accent-gn\">{*val8*} s</style>.<br>",
+    "Id": 86,
+    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+  },
+  "87": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 87,
+    "ValueExchange": [45.0]
+  },
+  "88": {
+    "Desc": "niv. 3 : ATQ +{*val1*} %.",
+    "Id": 88,
+    "ValueExchange": [40.0]
+  },
+  "89": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (Nécessite Imagine de combat – Roi des hommes-lézards).",
+    "Id": 89,
+    "ValueExchange": [35.0]
+  },
+  "9": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (nécessite l'Imagine de combat - Airona).",
+    "Id": 9,
+    "ValueExchange": [35.0]
+  },
+  "90": {
+    "Desc": "niv. 5 : ATQ +{*val1*} %.",
+    "Id": 90,
+    "ValueExchange": [30.0]
+  },
+  "91": {
+    "Desc": "<style=\"tipsYellow\">Geyser de poison</style> : déclenche un Geyser de poison sur <style=\"accent-gn\">{*val1*}</style> cible(s) aléatoire(s), appliquant Corrosion (cumulable jusqu'à <style=\"accent-gn\">{*val2*}</style> fois). <br>Portée d'attaque : <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicateur de dégâts : <style=\"accent-gn\">{*val4*} % de l'ATQ magique x {*val5*} s</style>.<br>TdR : <style=\"accent-gn\">{*val6*} s.</style><br>",
+    "Id": 91,
+    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+  },
+  "92": {
+    "Desc": "niv. 2 : ATQ +{*val1*} %.",
+    "Id": 92,
+    "ValueExchange": [45.0]
+  },
+  "93": {
+    "Desc": "niv. 3 : ATQ +{*val1*} %.",
+    "Id": 93,
+    "ValueExchange": [40.0]
+  },
+  "94": {
+    "Desc": "niv. 4 : ATQ +{*val1*} % (Nécessite Imagine de combat – incubateur Venobzzar).",
+    "Id": 94,
+    "ValueExchange": [35.0]
+  },
+  "95": {
+    "Desc": "niv. 5 : ATQ +{*val1*} %.",
+    "Id": 95,
+    "ValueExchange": [30.0]
+  }
+}

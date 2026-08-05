@@ -848,7 +848,7 @@
     "Id": 1118,
     "Level": 2,
     "MiniShow": 0,
-    "Name": "รางวัล Meow พิเศษ",
+    "Name": "Meowlux Special",
     "Number": 0,
     "Param": "",
     "Show": 11,
@@ -1343,6 +1343,78 @@
     "Type": 4,
     "Unlock": 0
   },
+  "14001": {
+    "Description": "ui/atlas/map/union_talk_29",
+    "FunctionId": 0,
+    "Icon1": "ui/atlas/map/map_tower_defense_5",
+    "Icon2": "",
+    "IconRawSize": [],
+    "Id": 14001,
+    "Level": 0,
+    "MiniShow": 0,
+    "Name": "Attunement Imagine",
+    "Number": 0,
+    "Param": "",
+    "Show": 4,
+    "ShowGroupIcon": "ui/atlas/map/map_season_01",
+    "ShowGroupName": "ฟังก์ชัน",
+    "ShowLayer": false,
+    "ShowName": false,
+    "Sort": 30,
+    "SpecialIconPath": "",
+    "SwitchLayer": false,
+    "TrackType": 0,
+    "Type": 7,
+    "Unlock": 0
+  },
+  "14002": {
+    "Description": "ui/atlas/map/union_talk_29",
+    "FunctionId": 0,
+    "Icon1": "ui/atlas/map/map_tower_defense_3",
+    "Icon2": "",
+    "IconRawSize": [],
+    "Id": 14002,
+    "Level": 0,
+    "MiniShow": 0,
+    "Name": "ค่า Turbulence",
+    "Number": 0,
+    "Param": "",
+    "Show": 10,
+    "ShowGroupIcon": "ui/atlas/map/map_season_01",
+    "ShowGroupName": "ฟังก์ชัน",
+    "ShowLayer": false,
+    "ShowName": false,
+    "Sort": 30,
+    "SpecialIconPath": "",
+    "SwitchLayer": false,
+    "TrackType": 0,
+    "Type": 3,
+    "Unlock": 0
+  },
+  "14003": {
+    "Description": "ui/atlas/map/union_talk_29",
+    "FunctionId": 0,
+    "Icon1": "ui/atlas/map/map_pivot_on_anime",
+    "Icon2": "",
+    "IconRawSize": [],
+    "Id": 14003,
+    "Level": 0,
+    "MiniShow": 0,
+    "Name": "Engram Line",
+    "Number": 0,
+    "Param": "",
+    "Show": 10,
+    "ShowGroupIcon": "ui/atlas/map/map_season_01",
+    "ShowGroupName": "ฟังก์ชัน",
+    "ShowLayer": false,
+    "ShowName": false,
+    "Sort": 30,
+    "SpecialIconPath": "",
+    "SwitchLayer": false,
+    "TrackType": 0,
+    "Type": 3,
+    "Unlock": 0
+  },
   "201": {
     "Description": "ui/atlas/map/union_talk_29",
     "FunctionId": 0,
@@ -1376,7 +1448,7 @@
     "Id": 202,
     "Level": 0,
     "MiniShow": 0,
-    "Name": "ตำเเหน่งกิจกรรม",
+    "Name": "ตำแหน่งกิจกรรม",
     "Number": 0,
     "Param": "",
     "Show": 0,
@@ -2832,7 +2904,7 @@
     "Unlock": 0
   },
   "713": {
-    "Description": "เมื่อกิจกรรมนักล่ากิลด์เปิดขึ้น มาหาผู้ดูแลนักล่ากิลด์เพื่อเข้าร่วมกิจกรรม!",
+    "Description": "เมื่อกิจกรรม Guild Hunt เปิดแล้ว มาหาผู้ดูแล Guild Hunt เพื่อเข้าร่วมกิจกรรม!",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/union_talk_14",
     "Icon2": "",
@@ -2840,7 +2912,7 @@
     "Id": 713,
     "Level": 0,
     "MiniShow": 0,
-    "Name": "นักล่ากิลด์",
+    "Name": "Guild Hunt",
     "Number": 0,
     "Param": "",
     "Show": 0,
@@ -4296,7 +4368,7 @@
     "Unlock": 0
   },
   "807": {
-    "Description": "มอนสเตอร์ปริศนาปรากฏตัวอย่างต่อเนื่อง ดำดิ่งสู่ใต้ทะเล แล้วเริ่มการไล่ล่าครั้งใหญ่บนเกาะ!<br>มีการท้าทายทั้งหมด 4 รอบ ในช่วง 4 สัปดาห์แรกของกิจกรรมจะเปิดสัปดาห์ละ 1 รอบ<br>ภายในดันเจี้ยน นักผจญภัยสามารถเลือก Boss ที่จะท้าทายได้ตามต้องการ จะสู้ทีละตัวหรือเปิดพร้อมกันก็ได้",
+    "Description": "เงาปลาในตำนาน<br>ดำดิ่งสู่ใต้ทะเล แล้วเริ่มการไล่ล่าครั้งใหญ่บนเกาะ!<br>มีการท้าทายทั้งหมด 4 รอบ ในช่วง 4 สัปดาห์แรกของกิจกรรมจะเปิดสัปดาห์ละ 1 รอบ<br>ภายในดันเจี้ยน นักผจญภัยสามารถเลือก Boss ที่จะท้าทายได้ตามต้องการ จะสู้ทีละตัวหรือเปิดพร้อมกันก็ได้<br>สำรวจใต้ทะเล: Engram Line Tuning<br>พลังงานดวงดาวที่ปั่นป่วนยังคงมีอยู่ภายในถ้ำใต้น้ำ จงออกสำรวจพื้นที่ผิดปกติและระงับความปั่นป่วนที่ควบคุมไม่ได้นี้!",
     "FunctionId": 820053,
     "Icon1": "ui/atlas/map/map_season_04",
     "Icon2": "",
@@ -4304,7 +4376,7 @@
     "Id": 807,
     "Level": 0,
     "MiniShow": 0,
-    "Name": "ศึกตามล่าเงาปลาในตำนาน",
+    "Name": "Mysterious whirlpool",
     "Number": 0,
     "Param": "",
     "Show": 4,
@@ -4320,7 +4392,7 @@
     "Unlock": 0
   },
   "90001": {
-    "Description": "Phantom Intensity ที่แนะนำ: 400<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 400<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4344,7 +4416,7 @@
     "Unlock": 0
   },
   "90002": {
-    "Description": "Phantom Intensity ที่แนะนำ: 685<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 685<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4368,7 +4440,7 @@
     "Unlock": 0
   },
   "90003": {
-    "Description": "Phantom Intensity ที่แนะนำ: 728<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 728<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4392,7 +4464,7 @@
     "Unlock": 0
   },
   "90004": {
-    "Description": "Phantom Intensity ที่แนะนำ: 887<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 887<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4416,7 +4488,7 @@
     "Unlock": 0
   },
   "90005": {
-    "Description": "Phantom Intensity ที่แนะนำ: 945<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 945<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4440,7 +4512,7 @@
     "Unlock": 0
   },
   "90006": {
-    "Description": "Phantom Intensity ที่แนะนำ: 1009<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 1009<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4464,7 +4536,7 @@
     "Unlock": 0
   },
   "90007": {
-    "Description": "Phantom Intensity ที่แนะนำ: 1041<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 1041<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4488,7 +4560,7 @@
     "Unlock": 0
   },
   "90008": {
-    "Description": "Phantom Intensity ที่แนะนำ: 1293<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 1293<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4512,7 +4584,7 @@
     "Unlock": 0
   },
   "90009": {
-    "Description": "Phantom Intensity ที่แนะนำ: 1418<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 1418<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4536,7 +4608,7 @@
     "Unlock": 0
   },
   "90010": {
-    "Description": "Phantom Intensity ที่แนะนำ: 1504<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 1504<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4560,7 +4632,7 @@
     "Unlock": 0
   },
   "90011": {
-    "Description": "Phantom Intensity ที่แนะนำ: 1734<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 1734<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4584,7 +4656,7 @@
     "Unlock": 0
   },
   "90012": {
-    "Description": "Phantom Intensity ที่แนะนำ: 2235<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 2235<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4608,7 +4680,7 @@
     "Unlock": 0
   },
   "90013": {
-    "Description": "Phantom Intensity ที่แนะนำ: 2325<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 2325<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4632,7 +4704,7 @@
     "Unlock": 0
   },
   "90014": {
-    "Description": "Phantom Intensity ที่แนะนำ: 2415<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 2415<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4656,7 +4728,7 @@
     "Unlock": 0
   },
   "90015": {
-    "Description": "Phantom Intensity ที่แนะนำ: 2595<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 2595<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",
@@ -4680,7 +4752,7 @@
     "Unlock": 0
   },
   "90016": {
-    "Description": "Phantom Intensity ที่แนะนำ: 3199<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตนที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
+    "Description": "Illusion Strength ที่แนะนำ: 3199<br>นักผจญภัยสามารถเข้าสู่ Land of Dream ผ่าน Floating Cocoon ไปกำจัด Monster Illusion ข้างในเพื่อรับ Dream Factor!<br>ใน Land of Dream ใดๆ สามารถรับ Dream Factor สะสมได้สูงสุด 100 ชิ้นต่อสัปดาห์ Lv. ของ Dream Factor จะเติบโตตามเวลาของซีซั่น<br>ใน Land of Dream จะมีการสะสม [ค่าภาพหลอน] ไปเรื่อยๆ เมื่อค่าภาพหลอนเต็ม จะถูก Land of Dream ผลักดันกลับสู่โลกความจริง พร้อมเข้าสู่สถานะหลงทาง ขณะอยู่ในสถานะหลงทาง จะไม่สามารถเข้าสู่ Land of Dream ได้อีก<br>ช่วงเริ่มต้นนักผจญภัยสามารถยืนหยัดใน Land of Dream ได้ 30 นาที Lv. Deepslumber Heart Resonator ของตัวเองที่สูงกว่า Lv. Floating Cocoon ทุกๆ 1 Lv. จะขยายเวลาได้ 2 นาที และทุกๆ 1 Lv. ที่ต่ำกว่าจะลดเวลาลง 2 นาที สถานะหลงทางเป็นเวลา 5 นาที",
     "FunctionId": 0,
     "Icon1": "ui/atlas/map/map_season_01",
     "Icon2": "",

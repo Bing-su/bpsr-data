@@ -104,6 +104,13 @@
     "TagString": "A type of buff used in roguelike gameplay",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "Tower Defense Build tag",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "Skills that affect the target or leave a healing area that persists for a period, causing the target to continuously restore HP (this type of healing cannot trigger Luck effects)",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "Physical",
+    "TagString": "Tower Defense Build",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "Magic",
+    "TagString": "Tower Defense Build",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "Humanoid",
+    "TagString": "Difficult to build, but extremely powerful in the late game.",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "Burn",
+    "TagString": "Build a team centered around Tatta as the main DPS, utilizing Burn effects.",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "Resource",
+    "TagString": "Quickly obtain Crystalshards in the early game for high damage output later on.",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "Charge",
+    "TagString": "Only casts skills when targets enter range, dealing special damage to bosses.",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "Buff",
+    "TagString": "Tower Defense Build",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "Debuff",
+    "TagString": "Tower Defense Build",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "Airona",
+    "TagString": "Tower Defense Build",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "Tatta",
+    "TagString": "Tower Defense Build",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "Blessing",
     "TagString": "In an advantageous state where combat, movement, or other abilities are enhanced",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "Olvera",
+    "TagString": "Tower Defense Build",
     "TagType": 2
   },
   "14": {

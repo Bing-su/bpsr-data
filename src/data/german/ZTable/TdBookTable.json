@@ -1,0 +1,322 @@
+{
+  "1": {
+    "Desc": "Seltenheit: Unsterblich<br>Archetyp: [Humanoid]<br>Max. Stufe: St. 5.<br>Angriffstyp: Physisch<br>Passiver Effekt: Keiner<br>Standardangriff: Schwingt die Sense 3-mal und verursacht Flächen-SCH. <br>Kernfähigkeit: Schwingt die Sense und löst 2 Ringe aus, die massiven Flächen-SCH verursachen. <br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Ringe +3.<br>Einstimmungsvorstellung St. 5: Ring-Reichweite +100 %.",
+    "Id": 1,
+    "IsHide": 0,
+    "ObjectId": 1,
+    "Sort": 1,
+    "Type": 1
+  },
+  "10": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Verbrennung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit erleiden Monster mit dem Status Verbrennung um [1 % * Verbrennungsstapel] erhöhten SCH durch Verbrennungstürme. <br>Standardangriff: Stampfer auf den Boden, was geringen Flächen-SCH verursacht. <br>Kernfähigkeit: Erhält einen Blitzschild, der alle 2 Sek. ein zufälliges Ziel mit Blitzen trifft.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Wenn das Ziel verbrannt ist, werden seine Verbrennungsstapel verbraucht, um eine Blitzexplosion auszulösen, die massiven Flächen-SCH verursacht. <br>Einstimmungsvorstellung St. 5: Blitzexplosion verbraucht nicht länger die Verbrennungsstapel des Ziels.",
+    "Id": 10,
+    "IsHide": 0,
+    "ObjectId": 46,
+    "Sort": 10,
+    "Type": 1
+  },
+  "1001": {
+    "Desc": "Typ: Boss<br>Eigenschaft: Reduziert die Angriffsgeschwindigkeit von Einstimmungsvorstellungen in Reichweite erheblich, aber erhöht ihren ANG.",
+    "Id": 1001,
+    "IsHide": 0,
+    "ObjectId": 5003000,
+    "Sort": 1,
+    "Type": 2
+  },
+  "1002": {
+    "Desc": "Typ: Boss<br>Eigenschaft: Erleidet verringerten SCH durch frontale Angriffe und erhöhten SCH durch Angriffe von hinten.",
+    "Id": 1002,
+    "IsHide": 0,
+    "ObjectId": 5003001,
+    "Sort": 2,
+    "Type": 2
+  },
+  "1003": {
+    "Desc": "Typ: Boss<br>Eigenschaft: Die Phantom-Spinnenkrabbe deaktiviert zufällig die Fähigkeiten einiger Einstimmungsvorstellungen.",
+    "Id": 1003,
+    "IsHide": 0,
+    "ObjectId": 5003002,
+    "Sort": 3,
+    "Type": 2
+  },
+  "1004": {
+    "Desc": "Typ: Boss<br>Eigenschaft: Jedes Mal, wenn eine Vorstellung platziert wird, verschlingt die Raubspinnenkrabbe einige Einstimmung – Kristallsplitter.",
+    "Id": 1004,
+    "IsHide": 0,
+    "ObjectId": 5003003,
+    "Sort": 4,
+    "Type": 2
+  },
+  "1005": {
+    "Desc": "Typ: Boss<br>Eigenschaft: Jedes Mal, wenn sein Schlaflied gesungen wird, versetzt es alle Einstimmungsvorstellungen auf dem Feld in den Schlaf.",
+    "Id": 1005,
+    "IsHide": 0,
+    "ObjectId": 5003004,
+    "Sort": 5,
+    "Type": 2
+  },
+  "1006": {
+    "Desc": "Typ: Boss<br>Eigenschaft: Erhöht die LP erheblich, aber erhöht auch den erlittenen SCH. Je höher die Gesamtstufe aller Einstimmungsvorstellungen auf dem Feld ist, desto mehr SCH erleidet es.",
+    "Id": 1006,
+    "IsHide": 0,
+    "ObjectId": 5003005,
+    "Sort": 6,
+    "Type": 2
+  },
+  "1007": {
+    "Desc": "Typ: Elite<br>Eigenschaft: Gewährt allen Monstern in Reichweite Unverwundbarkeit, sich selbst ausgenommen.",
+    "Id": 1007,
+    "IsHide": 0,
+    "ObjectId": 5002000,
+    "Sort": 7,
+    "Type": 2
+  },
+  "1008": {
+    "Desc": "Typ: Elite<br>Eigenschaft: Lässt die erste Einstimmungsvorstellung erstarren, die es angreift. Wer möchte der Erste sein?",
+    "Id": 1008,
+    "IsHide": 0,
+    "ObjectId": 5002001,
+    "Sort": 8,
+    "Type": 2
+  },
+  "1009": {
+    "Desc": "Typ: Elite<br>Eigenschaften: Heilt umliegende Monster kontinuierlich.",
+    "Id": 1009,
+    "IsHide": 0,
+    "ObjectId": 5002002,
+    "Sort": 9,
+    "Type": 2
+  },
+  "1010": {
+    "Desc": "Typ: Elite<br>Eigenschaft: Wird nach einer Niederlage wiederbelebt.",
+    "Id": 1010,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 10,
+    "Type": 2
+  },
+  "1011": {
+    "Desc": "Typ: Elite<br>Eigenschaft: Hat eine extrem hohe Bewegungsgeschwindigkeit. Aber noch schlimmer, es ist auch super zäh!",
+    "Id": 1011,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 11,
+    "Type": 2
+  },
+  "1012": {
+    "Desc": "Typ: Elite<br>Eigenschaft: Ignoriert bei der Fortbewegung das Terrain, ist aber super faul und macht oft Pausen.",
+    "Id": 1012,
+    "IsHide": 0,
+    "ObjectId": 5002005,
+    "Sort": 12,
+    "Type": 2
+  },
+  "1013": {
+    "Desc": "Typ: Normal<br>Eigenschaft: Die am häufigsten anzutreffende Meereskreatur.",
+    "Id": 1013,
+    "IsHide": 0,
+    "ObjectId": 5001000,
+    "Sort": 13,
+    "Type": 2
+  },
+  "1014": {
+    "Desc": "Typ: Normal<br>Eigenschaft: Hat eine extrem hohe Bewegungsgeschwindigkeit, aber die gute Nachricht ist, dass es ziemlich zerbrechlich ist!",
+    "Id": 1014,
+    "IsHide": 0,
+    "ObjectId": 5001001,
+    "Sort": 14,
+    "Type": 2
+  },
+  "1015": {
+    "Desc": "Typ: Normal<br>Eigenschaft: Trägt einen dicken Schild und erscheint normalerweise ganz zu Beginn einer Welle.",
+    "Id": 1015,
+    "IsHide": 0,
+    "ObjectId": 5001002,
+    "Sort": 15,
+    "Type": 2
+  },
+  "1016": {
+    "Desc": "Typ: Normal<br>Eigenschaft: Schützt andere Monster auf dem Feld, indem es ihren erlittenen SCH reduziert. Sie werden ein riesiges Problem sein, wenn du sie nicht zuerst besiegst!",
+    "Id": 1016,
+    "IsHide": 0,
+    "ObjectId": 5001003,
+    "Sort": 16,
+    "Type": 2
+  },
+  "1017": {
+    "Desc": "Typ: Normal<br>Eigenschaft: Seine harte Schale blockt massiven physischen SCH, ist aber im Gegenzug sehr anfällig für Magie.",
+    "Id": 1017,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 17,
+    "Type": 2
+  },
+  "1018": {
+    "Desc": "Typ: Normal<br>Eigenschaft: Der Fluch der Magie, doch physischer SCH wirkt äußerst effektiv gegen sie.",
+    "Id": 1018,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 18,
+    "Type": 2
+  },
+  "1019": {
+    "Desc": "Typ: Normal<br>Eigenschaft: Gräbt sich in die Erde ein und wird in dieser Zeit unverwundbar. Besser, du lauerst aus der Ferne!",
+    "Id": 1019,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 19,
+    "Type": 2
+  },
+  "1020": {
+    "Desc": "Typ: Normal<br>Eigenschaft: Ignoriert bei der Fortbewegung das Terrain. Was für eine Nervensäge!",
+    "Id": 1020,
+    "IsHide": 0,
+    "ObjectId": 5001007,
+    "Sort": 20,
+    "Type": 2
+  },
+  "1021": {
+    "Desc": "",
+    "Id": 1021,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 21,
+    "Type": 2
+  },
+  "11": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Ressource]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Beim Zerlegen werden zusätzlich 100 Einstimmung – Kristallsplitter zurückerstattet. <br>Standardangriff: Haucht Eisnebel nach vorne und verursacht SCH. <br>Kernfähigkeit: Löst Eisstacheln auf 3 zufällige Ziele aus.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Splittercluster bilden sich dort, wo Eisstacheln landen. Das Sammeln bringt zufällig 1–20 Einstimmung – Kristallsplitter ein und hält bis zu 10 Sek. an. <br>Einstimmungsvorstellung St. 5: Eisstacheln +2.",
+    "Id": 11,
+    "IsHide": 0,
+    "ObjectId": 51,
+    "Sort": 11,
+    "Type": 1
+  },
+  "12": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Unterstützung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit wird der verursachte SCH aller Verbündeten um 5 % erhöht (bis zu 20 %). <br>Standardangriff: Beschwört 1 zufälligen Muku zur Unterstützung im Kampf und erhöht seine Angriffsgeschwindigkeit. <br>Kernfähigkeit: Heilt Verbündete in Reichweite und steigert ihren ANG für 10 Sek. um 20 %.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Beschwört 1 zusätzliche Muku-Armbrust. <br>Einstimmungsvorstellung St. 5: Beschwört 1 zusätzlichen Muku-Anführer.",
+    "Id": 12,
+    "IsHide": 0,
+    "ObjectId": 56,
+    "Sort": 12,
+    "Type": 1
+  },
+  "13": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Unterstützung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit wird der erlittene SCH aller Feinde um 5 % erhöht (bis zu 20 %). <br>Standardangriff: Führt einen Abwärtsschlag nach vorne aus, der linearen Flächen-SCH verursacht. <br>Kernfähigkeit: Spaltet den Bereich davor und verursacht zweimal massiven Flächen-SCH.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Standardangriffe entfesseln 2 zusätzliche Bodenwellen, Angriffsreichweite +50 %. <br>Einstimmungsvorstellung St. 5: SCH +20 %.",
+    "Id": 13,
+    "IsHide": 0,
+    "ObjectId": 61,
+    "Sort": 13,
+    "Type": 1
+  },
+  "14": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Aufladen]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: Erhöht den ANG um 10 % für jedes Ziel in Reichweite (bis zu 100 %). <br>Standardangriff: Schlägt nach vorne und verursacht großen fächerförmigen Flächen-SCH. <br>Kernfähigkeit: Entfesselt Tornados auf 2 zufällige Ziele, die 5 Sek. andauern.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Für jede Einstimmungsvorstellung des Auflade-Typs auf dem Feld: Tornado-Anzahl +1 (bis zu +3).<br>Einstimmungsvorstellung St. 5: Jedes Mal, wenn ein Tornado erscheint, erhöht dies den verursachten SCH der nächsten Fähigkeit von Einstimmungsvorstellungen des Auflade-Typs (stapelbar bis 100 %).",
+    "Id": 14,
+    "IsHide": 0,
+    "ObjectId": 66,
+    "Sort": 14,
+    "Type": 1
+  },
+  "15": {
+    "Desc": "Seltenheit: Überlegen<br>Archetyp: [Ressource] [Verbrennung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit erhält der Abenteurer alle 10 Sek. 100 Einstimmung – Kristallsplitter (max. 5 gleichzeitig aktiv). <br>Standardangriff: Keiner<br>Kernfähigkeit: Dreht sich, um kleinen Flächen-SCH und Verbrennung zu verursachen.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Gewährt 15 Einstimmung – Kristallsplitter, wenn ein verbranntes Ziel stirbt. <br>Einstimmungsvorstellung St. 5: Gewährt 30 Einstimmung – Kristallsplitter, wenn ein verbranntes Ziel stirbt.",
+    "Id": 15,
+    "IsHide": 0,
+    "ObjectId": 71,
+    "Sort": 15,
+    "Type": 1
+  },
+  "16": {
+    "Desc": "Seltenheit: Überlegen<br>Archetyp: Keiner<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Verursacht 25 % Verlangsamung bei Zielen, wenn SCH verursacht wird. Dieser Effekt ist nicht stapelbar. <br>Standardangriff: Keiner<br>Kernfähigkeit: Beschwört Blitzkugeln, die kontinuierlich Ziele in Reichweite angreifen.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: SCH der Kernfähigkeit erhöht. <br>Einstimmungsvorstellung St. 5: SCH der Kernfähigkeit erhöht.",
+    "Id": 16,
+    "IsHide": 0,
+    "ObjectId": 76,
+    "Sort": 16,
+    "Type": 1
+  },
+  "17": {
+    "Desc": "Seltenheit: Überlegen<br>Archetyp: [Aufladen]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit erhöht jeder Muku-Anführer die Krit-Rate von Einstimmungsvorstellungen des Auflade-Typs um 10 % (bis zu 100 %). <br>Standardangriff: Keiner<br>Kernfähigkeit: Schlägt 3 Mal hintereinander auf den Boden und verursacht großen Flächen-SCH.<br>Abklingzeit: 6 Sek.<br>Einstimmungsvorstellung St. 3: SCH der Kernfähigkeit erhöht. <br>Einstimmungsvorstellung St. 5: SCH der Kernfähigkeit erhöht.",
+    "Id": 17,
+    "IsHide": 0,
+    "ObjectId": 84,
+    "Sort": 17,
+    "Type": 1
+  },
+  "18": {
+    "Desc": "Seltenheit: Überlegen<br>Archetyp: Keiner<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: 30 % Chance, bei Angriff Erstarrt zu verursachen. <br>Standardangriff: Verursacht Flächen-SCH und 10 % Verlangsamung. <br>Kernfähigkeit: Wirkt einen Wasserwirbel, was kontinuierlichen Flächen-SCH und 20 % Verlangsamung verursacht.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: SCH der Kernfähigkeit erhöht. <br>Einstimmungsvorstellung St. 5: SCH der Kernfähigkeit erhöht.",
+    "Id": 18,
+    "IsHide": 0,
+    "ObjectId": 89,
+    "Sort": 18,
+    "Type": 1
+  },
+  "19": {
+    "Desc": "Seltenheit: Überlegen<br>Archetyp: Keiner<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: Verursacht zusätzlichen SCH bei korrodierten Zielen; +10 % SCH pro Korrosionsstapel. <br>Standardangriff: Keiner<br>Kernfähigkeit: Wirkt Giftquellen auf 3 zufällige Ziele, was kontinuierlichen Flächen-SCH und Korrosion verursacht.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: SCH der Kernfähigkeit erhöht. <br>Einstimmungsvorstellung St. 5: SCH der Kernfähigkeit erhöht.",
+    "Id": 19,
+    "IsHide": 0,
+    "ObjectId": 94,
+    "Sort": 19,
+    "Type": 1
+  },
+  "2": {
+    "Desc": "Seltenheit: Episch<br>Archetyp: [Humanoid] [Ressource]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: ANG +[1 % * Gesamtstufe aller Einstimmungsvorstellungen auf dem Feld]. Der Preis im Shop wird um 50 % reduziert. <br>Standardangriff: Lässt kontinuierlich Meteore auf ein einzelnes Ziel in Reichweite herabfallen. <br>Kernfähigkeit: Ruft einen Geisterhirschen, der vorwärts stürmt. Dieser Effekt wird 1 weiteres Mal für jede humanoide Einstimmungsvorstellung auf dem Feld ausgelöst. <br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Gewährt bei Angriff 10 Einstimmung – Kristallsplitter. Abklingzeit: 3 Sek. <br>Einstimmungsvorstellung St. 5: Gewährt bei Angriff 15 Einstimmung – Kristallsplitter. Abklingzeit: 1 Sek.",
+    "Id": 2,
+    "IsHide": 0,
+    "ObjectId": 6,
+    "Sort": 2,
+    "Type": 1
+  },
+  "3": {
+    "Desc": "Seltenheit: Episch<br>: [Humanoid] [Verbrennung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: Verursacht ein zusätzliches Mal Feuer-SCH, wann immer ein Feind in Reichweite Verbrennungs-SCH erleidet. <br>Standardangriff: Dreht sich, um Flächen-SCH und Verbrennung zu verursachen. <br>Kernfähigkeit: Sendet einen Axtstrahl nach vorne, der massiven SCH verursacht. SCH +20 % für jeden Verbrennungsstapel auf dem Ziel. <br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Nach 10-maligem Verursachen von Verbrennung entfesselt der nächste Angriff den Höllenzug auf das Ziel. <br>Einstimmungsvorstellung St. 5: Anforderung für das Verursachen von Verbrennung auf 6 reduziert, Höllenzug-Schaden +100 %.",
+    "Id": 3,
+    "IsHide": 0,
+    "ObjectId": 11,
+    "Sort": 3,
+    "Type": 1
+  },
+  "4": {
+    "Desc": "Seltenheit: Episch<br>Archetyp: [Humanoid] [Aufladen]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Grenze für Aufladungsstapel auf 20 erhöht. <br>Standardangriff: Greift nicht normal an. Geht ins Aufladen über und erhält alle 3 Sek. 1 Stapel, bis zu 20 Stapel. Löst die Fähigkeit aus, wenn der Abenteurer in Reichweite kommt. <br>Kernfähigkeit: Entfesselt unzählige Klingenstrahlen, die Flächen-SCH verursachen und alle Aufladungsstapel verbrauchen, um den SCH um [40 % * Aufladungsstapel] zu erhöhen. <br>Abklingzeit: Keine<br>Einstimmungsvorstellung St. 3: Visiert alle 10 Sek. das nächste Ziel an und feuert einen Klingenstrahl ab. <br>Einstimmungsvorstellung St. 5: Ziele für die Anvisierung von Klingenstrahlen +2.",
+    "Id": 4,
+    "IsHide": 0,
+    "ObjectId": 16,
+    "Sort": 4,
+    "Type": 1
+  },
+  "5": {
+    "Desc": "Seltenheit: Episch<br>: [Humanoid]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Wenn anwesend: Abklingzeitgeschwindigkeit von Abenteurerfähigkeiten +50 %. Dieser Effekt ist nicht stapelbar. <br>Standardangriff: Sticht nach vorne und dreht den Speer, um Flächen-SCH zu verursachen. <br>Kernfähigkeit: Die 5 nächsten Einstimmungsvorstellungen erhalten 5 Sek. lang 100 % Abklingzeitgeschwindigkeit. <br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Bewegungsgeschwindigkeit des Abenteurers +25 %, SCH-Schub +25 %. <br>Einstimmungsvorstellung St. 5: Bewegungsgeschwindigkeit des Abenteurers +50 %, SCH-Schub +50 %.",
+    "Id": 5,
+    "IsHide": 0,
+    "ObjectId": 21,
+    "Sort": 5,
+    "Type": 1
+  },
+  "6": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Aufladen]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Löst alle 10 Sek. eine Bodenwelle auf 3 zufällige Ziele aus und verursacht Wunde. <br>Standardangriff: Greift nicht normal an. Geht ins Aufladen über und erhält alle 3 Sek. 1 Stapel (bis zu 10 Stapel). Löst die Fähigkeit aus, wenn der Abenteurer in Reichweite kommt. <br>Kernfähigkeit: Entfesselt Höllenstachel über einen großen Bereich, was massiven SCH verursacht und alle Aufladungsstapel verbraucht, um den SCH um [30 % * Aufladungsstapel] zu erhöhen.<br>Abklingzeit: Keine<br>Einstimmungsvorstellung St. 3: Durch den passiven Effekt verursachter SCH fügt 5 Sek. lang 10 % Verwundbarkeit zu. <br>Einstimmungsvorstellung St. 5: Zusätzliche +10 % Verwundbarkeit.",
+    "Id": 6,
+    "IsHide": 0,
+    "ObjectId": 26,
+    "Sort": 6,
+    "Type": 1
+  },
+  "7": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: Keiner<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Verursacht 100 % mehr SCH bei bewegungsunfähigen Zielen. <br>Standardangriff: Priorisiert Ziele, die nicht bewegungsunfähig sind. Spuckt Spinnenseide, um SCH mit einer Chance von 40 % zu verursachen, das Ziel für 5 Sek. bewegungsunfähig zu machen. <br>Kernfähigkeit: Gräbt sich ein und taucht dann auf, was großen Flächen-SCH verursacht und das Ziel garantiert für 1 Sek. betäubt.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Chance auf Bewegungsunfähigkeit auf 100 % erhöht. <br>Einstimmungsvorstellung St. 5: Betäubungsdauer auf 2,5 Sek. erhöht.",
+    "Id": 7,
+    "IsHide": 0,
+    "ObjectId": 31,
+    "Sort": 7,
+    "Type": 1
+  },
+  "8": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Ressource]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Gewährt Himmelsflieger 1 % Bonusschaden pro 100 Einstimmung – Kristallsplitter im Besitz des Abenteurers (bis zu 100 %). <br>Standardangriff: Lässt eine Wasserkugel fallen, die Flächen-SCH und Verlangsamung verursacht. <br>Kernfähigkeit: Beschwört einen Phantomflieger, der vorwärts stürmt.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Flieger +1 und die Erwerbsrate von Einstimmung – Kristallsplittern +5 %. <br>Einstimmungsvorstellung St. 5: Flieger +2 und die Erwerbsrate von Einstimmung – Kristallsplittern +10 %.",
+    "Id": 8,
+    "IsHide": 0,
+    "ObjectId": 36,
+    "Sort": 8,
+    "Type": 1
+  },
+  "9": {
+    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Verbrennung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: Je höher die aktuellen LP, desto höher der ANG (bis zu +200 %), verliert jedoch kontinuierlich LP. <br>Standardangriff: Keiner<br>Kernfähigkeit: Speit kontinuierlich Feuer nach vorne, was SCH und Verbrennung verursacht.<br>Abklingzeit: 8 Sek.<br>Einstimmungsvorstellung St. 3: Stellt bei Angriff 5 % LP wieder her. <br>Einstimmungsvorstellung St. 5: Wandelt überschüssige Heilung in einen Schild um.",
+    "Id": 9,
+    "IsHide": 0,
+    "ObjectId": 41,
+    "Sort": 9,
+    "Type": 1
+  }
+}

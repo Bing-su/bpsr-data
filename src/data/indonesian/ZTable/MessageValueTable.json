@@ -1,0 +1,477 @@
+{
+  "1": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Mengayunkan sabit 3 kali berturut-turut.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% ATK x3</style><br><br><style=\"tipsYellow\">Lingkaran Kiamat</style>: Melepaskan 2 lingkaran.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}% ATK x jumlah lingkaran</style><br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Id": 1,
+    "ValueExchange": []
+  },
+  "10": {
+    "Desc": "Lv5: ATK +{*val1*}%, saat menyerang mendapat tambahan {*val2*} poin Tuning Shard",
+    "Id": 10,
+    "ValueExchange": [15.0, 5.0]
+  },
+  "11": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Memutar Diri Sendiri dan memberikan efek Burn pada Target.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Pengali DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Skyburn Axe</style>: Menebaskan cahaya kapak ke depan, untuk setiap 1 tumpukan Burn pada Target, DMG ini +<style=\"accent-gn\">{*val3*}</style>.<br>Area Attack: <style=\"accent-gn\">{*val4*}</style><br>Pengali DMG: <style=\"accent-gn\">{*val5*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val6*} dtk</style><br>",
+    "Id": 11,
+    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+  },
+  "12": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 12,
+    "ValueExchange": [45.0]
+  },
+  "13": {
+    "Desc": "Lv3: ATK +{*val1*}%, setiap memberikan {*val2*} kali Burn, serangan berikutnya akan melepaskan Kereta Purgatori ke Target",
+    "Id": 13,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "14": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Tata)",
+    "Id": 14,
+    "ValueExchange": [35.0]
+  },
+  "15": {
+    "Desc": "Lv5: ATK +{*val1*}%, syarat Kesempatan untuk memicu Burn berkurang menjadi {*val2*}, DMG Kereta Purgatori +{*val3*}%",
+    "Id": 15,
+    "ValueExchange": [15.0, 6.0, 100.0]
+  },
+  "16": {
+    "Desc": "<style=\"tipsYellow\">Tebasan Seribu Cahaya</style>: Mengeluarkan tebasan cahaya yang tak terhitung jumlahnya, dan menggunakan semua Tumpuk Charge untuk meningkatkan DMG sebesar [<style=\"accent-gn\">{*val1*}%</style>*Tumpuk Charge].<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> ATK<br>",
+    "Id": 16,
+    "ValueExchange": [40.0, 8.0, 688.0]
+  },
+  "17": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 17,
+    "ValueExchange": [45.0]
+  },
+  "18": {
+    "Desc": "Lv3: ATK +{*val1*}%, setiap {*val2*} detik mengunci {*val3*} target terdekat untuk menembakkan cahaya pedang",
+    "Id": 18,
+    "ValueExchange": [25.0, 10.0, 1.0]
+  },
+  "19": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Olvera)",
+    "Id": 19,
+    "ValueExchange": [35.0]
+  },
+  "2": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 2,
+    "ValueExchange": [45.0]
+  },
+  "20": {
+    "Desc": "Lv5: ATK +{*val1*}%, cahaya pedang mengunci +{*val2*} Target",
+    "Id": 20,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "21": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menusuk ke depan dan memutar Flagspear.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Pengali DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Perintah Waktu</style>: Speed Up Skill Cooldown untuk <style=\"accent-gn\">{*val3*}</style> Fantasy Harmoni terdekat +<style=\"accent-gn\">{*val4*}%</style>, Sustained selama <style=\"accent-gn\">{*val5*} detik</style>.<br>Area Efek: Seluruh area<br>Pengali DMG: Tidak ada<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Id": 21,
+    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+  },
+  "22": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 22,
+    "ValueExchange": [45.0]
+  },
+  "23": {
+    "Desc": "Lv3: ATK +{*val1*}%, saat berada di medan pertempuran, Move Speed Petualang +{*val2*}, Peningkatan DMG +{*val3*}",
+    "Id": 23,
+    "ValueExchange": [25.0, 25.0, 25.0]
+  },
+  "24": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Tina)",
+    "Id": 24,
+    "ValueExchange": [35.0]
+  },
+  "25": {
+    "Desc": "Lv5: ATK +{*val1*}%, saat berada di medan pertempuran, tambahan Move Speed Petualang +{*val2*}, tambahan Peningkatan DMG +{*val3*}",
+    "Id": 25,
+    "ValueExchange": [15.0, 25.0, 25.0]
+  },
+  "26": {
+    "Desc": "<style=\"tipsYellow\">Hell Rock Spike</style>: Mengeluarkan duri tanah, dan menggunakan semua Tumpuk Charge untuk meningkatkan DMG sebesar [<style=\"accent-gn\">{*val1*}%</style>*Tumpuk Charge].<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> ATK<br>Waktu CD: Tidak ada<br>",
+    "Id": 26,
+    "ValueExchange": [30.0, 9.0, 418.0]
+  },
+  "27": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 27,
+    "ValueExchange": [45.0]
+  },
+  "28": {
+    "Desc": "Lv3: ATK +{*val1*}%, DMG dari Pasif memberikan tambahan Vulnerable {*val2*}%",
+    "Id": 28,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "29": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Iron Teeth)",
+    "Id": 29,
+    "ValueExchange": [35.0]
+  },
+  "3": {
+    "Desc": "Lv3: ATK +{*val1*}%, Jumlah Lingkaran +{*val2*}",
+    "Id": 3,
+    "ValueExchange": [25.0, 3.0]
+  },
+  "30": {
+    "Desc": "Lv5: ATK +{*val1*}%, Efek Vulnerable tambahan +{*val2*}%",
+    "Id": 30,
+    "ValueExchange": [15.0, 10.0]
+  },
+  "31": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Memprioritaskan menembakkan Web ke Target yang tidak terkena Immobilize, memiliki peluang <style=\"accent-gn\">{*val1*}%</style> untuk memberikan Immobilize pada Target selama <style=\"accent-gn\">{*val2*} detik</style>.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}%</style> ATK<br><br><style=\"tipsYellow\">Sergapan Laba-laba</style>: Masuk ke bawah tanah selama 1 detik lalu muncul, pasti memberikan Stun pada Target selama 1 detik.<br>Area Attack: <style=\"accent-gn\">{*val5*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val6*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val7*} detik</style><br>",
+    "Id": 31,
+    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+  },
+  "32": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 32,
+    "ValueExchange": [45.0]
+  },
+  "33": {
+    "Desc": "Lv3: ATK +{*val1*}%, peluang Immobilize meningkat menjadi {*val2*}%",
+    "Id": 33,
+    "ValueExchange": [40.0, 100.0]
+  },
+  "34": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Spectral Spidercrab)",
+    "Id": 34,
+    "ValueExchange": [35.0]
+  },
+  "35": {
+    "Desc": "Lv5: ATK +{*val1*}%, Durasi Stun +{*val2*} detik",
+    "Id": 35,
+    "ValueExchange": [30.0, 2.5]
+  },
+  "36": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menjatuhkan <style=\"accent-gn\">{*val1*}</style> bola air, memberikan efek Slow.<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}% ATK x jumlah bola air</style><br><br><style=\"tipsYellow\">Amukan Kawanan Ikan</style>: Summon 1 Phantom Skyfish untuk melakukan Assault ke depan.<br>Area Attack: <style=\"accent-gn\">{*val4*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val5*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val6*} dtk</style><br>",
+    "Id": 36,
+    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+  },
+  "37": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 37,
+    "ValueExchange": [45.0]
+  },
+  "38": {
+    "Desc": "Lv3: ATK +{*val1*}%, Skyfish +{*val2*}, Tingkat Mendapat Shard Tuning +{*val3*}%",
+    "Id": 38,
+    "ValueExchange": [25.0, 1.0, 5.0]
+  },
+  "39": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Sacred Skyfish)",
+    "Id": 39,
+    "ValueExchange": [35.0]
+  },
+  "4": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Lord of Calamity)",
+    "Id": 4,
+    "ValueExchange": [35.0]
+  },
+  "40": {
+    "Desc": "Lv5: ATK +{*val1*}%, Skyfish tambahan +{*val2*}, Tingkat Mendapat Shard Tuning tambahan +{*val3*}%",
+    "Id": 40,
+    "ValueExchange": [15.0, 1.0, 5.0]
+  },
+  "41": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Melancarkan 2 pukulan ke depan.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% MATK x2</style><br><br><style=\"tipsYellow\">Fatal Burn</style>: Melancarkan Flamethrow ke depan secara Sustained selama 5 detik, memberikan efek Burn.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}%</style> MATK<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Id": 41,
+    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+  },
+  "42": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 42,
+    "ValueExchange": [45.0]
+  },
+  "43": {
+    "Desc": "Lv3: ATK +{*val1*}%, memulihkan {*val2*}% HP saat menyerang",
+    "Id": 43,
+    "ValueExchange": [40.0, 5.0]
+  },
+  "44": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Flame Ogre)",
+    "Id": 44,
+    "ValueExchange": [35.0]
+  },
+  "45": {
+    "Desc": "Lv5: ATK +{*val1*}%, Healing berlebih diubah menjadi Shield",
+    "Id": 45,
+    "ValueExchange": [30.0]
+  },
+  "46": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Melakukan Trample pada Target.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Perisai Petir Surgawi</style>: Mendapat Perisai Petir, melepaskan Thunderstrike ke 1 Target acak setiap <style=\"accent-gn\">{*val3*} detik</style>.<br>Area Attack: <style=\"accent-gn\">{*val4*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val5*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Id": 46,
+    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+  },
+  "47": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 47,
+    "ValueExchange": [45.0]
+  },
+  "48": {
+    "Desc": "Lv3: ATK +{*val1*}%, jika Target terkena Burn, gunakan Burn tersebut untuk memicu 1 Thunder-Fire Annihilation, mengakibatkan Area Damage yang tinggi",
+    "Id": 48,
+    "ValueExchange": [25.0]
+  },
+  "49": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Thunder Ogre)",
+    "Id": 49,
+    "ValueExchange": [35.0]
+  },
+  "5": {
+    "Desc": "Lv5: ATK +{*val1*}%, Area Lingkaran +{*val2*}%",
+    "Id": 5,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "50": {
+    "Desc": "Lv5: ATK +{*val1*}%, Thunder-Fire Annihilation tidak lagi menggunakan Burn pada Target",
+    "Id": 50,
+    "ValueExchange": [15.0]
+  },
+  "51": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Terus menyemburkan es ke depan selama 5 detik.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Domain Nol Derajat</style>: Melepaskan duri es ke 3 Target secara acak.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Id": 51,
+    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+  },
+  "52": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 52,
+    "ValueExchange": [45.0]
+  },
+  "53": {
+    "Desc": "Lv3: ATK +{*val1*}%, gugusan Shard akan terbentuk di area duri es. Setelah diambil, akan mendapat {*val2*} hingga {*val3*} poin Shard Tuning secara acak.",
+    "Id": 53,
+    "ValueExchange": [25.0, 1.0, 20.0]
+  },
+  "54": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Arctic Ogre)",
+    "Id": 54,
+    "ValueExchange": [35.0]
+  },
+  "55": {
+    "Desc": "Lv5: ATK +{*val1*}%, Jumlah Duri Es +{*val2*}",
+    "Id": 55,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "56": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Summon 1 Muku untuk Assist. Jika Muku sudah ada di medan pertempuran, meningkatkan Attack Speed semua Muku yang di-Summon oleh Diri Sendiri, dapat ditumpuk hingga <style=\"accent-gn\">{*val1*}</style> lapis.<br>Area Attack: Tidak ada<br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Boss Will</style>: Heal <style=\"accent-gn\">{*val3*}%</style> HP Rekan di dalam Area, dan meningkatkan <style=\"accent-gn\">{*val4*}%</style> ATK Rekan, Sustained selama <style=\"accent-gn\">{*val5*} dtk</style>.<br>Area Efek: <style=\"accent-gn\">{*val6*}</style><br>Rasio DMG: Tidak ada<br>Waktu CD: <style=\"accent-gn\">{*val7*} dtk</style><br>",
+    "Id": 56,
+    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+  },
+  "57": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 57,
+    "ValueExchange": [45.0]
+  },
+  "58": {
+    "Desc": "Lv3: ATK +{*val1*}%, Summon 1 Crossbow Muku tambahan",
+    "Id": 58,
+    "ValueExchange": [25.0]
+  },
+  "59": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Muku King)",
+    "Id": 59,
+    "ValueExchange": [35.0]
+  },
+  "6": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menjatuhkan 1 Meteor setiap <style=\"accent-gn\">{*val1*} detik</style>.<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> MATK<br><br><style=\"tipsYellow\">Serbuan Rusa Roh</style>: Memanggil rusa roh untuk menerjang ke depan, memicu 1 kali tambahan untuk setiap Tuning Fantasy Humanoid di medan pertempuran.<br>Area Attack: <style=\"accent-gn\">{*val4*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val5*}%</style> MATK<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Id": 6,
+    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+  },
+  "60": {
+    "Desc": "Lv5: ATK +{*val1*}%, Summon 1 Muku Chief tambahan",
+    "Id": 60,
+    "ValueExchange": [15.0]
+  },
+  "61": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Melepaskan Downward Strike ke depan.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Sapuan Maut</style>: Melepaskan 2 sapuan ke depan.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}% ATK x2</style><br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Id": 61,
+    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+  },
+  "62": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 62,
+    "ValueExchange": [45.0]
+  },
+  "63": {
+    "Desc": "Lv. 3: ATK +{*val1*}%, Normal Attack melepaskan tambahan {*val2*} Ground-Splitting Wave, Jangkauan Serangan +{*val3*}%",
+    "Id": 63,
+    "ValueExchange": [25.0, 2.0, 50.0]
+  },
+  "64": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Goblin King)",
+    "Id": 64,
+    "ValueExchange": [35.0]
+  },
+  "65": {
+    "Desc": "Lv5: ATK +{*val1*}%, DMG +{*val2*}%",
+    "Id": 65,
+    "ValueExchange": [15.0, 20.0]
+  },
+  "66": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Melancarkan Slash ke depan.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> MATK<br><br><style=\"tipsYellow\">Lord of Wind</style>: Melepaskan Tornado secara acak ke 2 Target.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}% MATK x{*val5*} detik</style><br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Id": 66,
+    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+  },
+  "67": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 67,
+    "ValueExchange": [45.0]
+  },
+  "68": {
+    "Desc": "Lv3: ATK +{*val1*}%, setiap 1 Charge Tuning Fantasy di medan pertempuran, jumlah Tornado +{*val2*}, batas maks. +{*val3*}",
+    "Id": 68,
+    "ValueExchange": [25.0, 1.0, 3.0]
+  },
+  "69": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Storm Goblin King)",
+    "Id": 69,
+    "ValueExchange": [35.0]
+  },
+  "7": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 7,
+    "ValueExchange": [45.0]
+  },
+  "70": {
+    "Desc": "Lv5: ATK +{*val1*}%, setiap kali Tornado muncul, akan meningkatkan DMG Skill Charge Tuning Fantasy berikutnya, maksimal {*val2*}",
+    "Id": 70,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "71": {
+    "Desc": "<style=\"tipsYellow\">Putaran Api</style>: Memutar diri sendiri dan memberikan efek Burn pada Target.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val3*} detik</style><br>",
+    "Id": 71,
+    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+  },
+  "72": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 72,
+    "ValueExchange": [45.0]
+  },
+  "73": {
+    "Desc": "Lv3: ATK +{*val1*}%, saat Target Burn mati, mendapat {*val2*} Tuning Shard.",
+    "Id": 73,
+    "ValueExchange": [40.0, 15.0]
+  },
+  "74": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Bandit Chief)",
+    "Id": 74,
+    "ValueExchange": [35.0]
+  },
+  "75": {
+    "Desc": "Lv5: ATK +{*val1*}%, saat Target Burn mati, mendapat tambahan {*val2*} Tuning Shard.",
+    "Id": 75,
+    "ValueExchange": [30.0, 15.0]
+  },
+  "76": {
+    "Desc": "<style=\"tipsYellow\">Thunder Orb</style>: Summon 1 Thunder Orb, melancarkan Thunderstrike pada 1 Target acak setiap <style=\"accent-gn\">{*val1*} detik</style>.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val3*} detik</style><br>",
+    "Id": 76,
+    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+  },
+  "77": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 77,
+    "ValueExchange": [45.0]
+  },
+  "78": {
+    "Desc": "Lv3: ATK +{*val1*}%",
+    "Id": 78,
+    "ValueExchange": [40.0]
+  },
+  "79": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Golden Juggernaut)",
+    "Id": 79,
+    "ValueExchange": [35.0]
+  },
+  "8": {
+    "Desc": "Lv3: ATK +{*val1*}%, saat menyerang mendapat {*val2*} poin Tuning Shard",
+    "Id": 8,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "80": {
+    "Desc": "Lv5: ATK +{*val1*}%",
+    "Id": 80,
+    "ValueExchange": [30.0]
+  },
+  "81": {
+    "Desc": "<style=\"tipsYellow\">Pukulan Gila</style>: Menghantam tanah 3 kali berturut-turut.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% ATK x3</style><br>Waktu CD: <style=\"accent-gn\">{*val3*} detik</style><br>",
+    "Id": 81,
+    "ValueExchange": [14.0, 133.0, 8.0]
+  },
+  "82": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 82,
+    "ValueExchange": [45.0]
+  },
+  "83": {
+    "Desc": "Lv3: ATK +{*val1*}%",
+    "Id": 83,
+    "ValueExchange": [40.0]
+  },
+  "84": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Muku Chief)",
+    "Id": 84,
+    "ValueExchange": [35.0]
+  },
+  "85": {
+    "Desc": "Lv5: ATK +{*val1*}%",
+    "Id": 85,
+    "ValueExchange": [30.0]
+  },
+  "86": {
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Melepaskan 1 gelombang Air yang memberikan <style=\"accent-gn\">{*val1*}%</style> Slow.<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> MATK<br><br><style=\"tipsYellow\">Vortex</style>: Melepaskan pusaran Air, memberikan Sustained <style=\"accent-gn\">{*val4*}%</style> Slow.<br>Area Attack: <style=\"accent-gn\">{*val5*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val6*}% MATK x{*val7*} detik</style><br>Waktu CD: <style=\"accent-gn\">{*val8*} detik</style><br>",
+    "Id": 86,
+    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+  },
+  "87": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 87,
+    "ValueExchange": [45.0]
+  },
+  "88": {
+    "Desc": "Lv3: ATK +{*val1*}%",
+    "Id": 88,
+    "ValueExchange": [40.0]
+  },
+  "89": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Scaleborn King)",
+    "Id": 89,
+    "ValueExchange": [35.0]
+  },
+  "9": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Eluna)",
+    "Id": 9,
+    "ValueExchange": [35.0]
+  },
+  "90": {
+    "Desc": "Lv5: ATK +{*val1*}%",
+    "Id": 90,
+    "ValueExchange": [30.0]
+  },
+  "91": {
+    "Desc": "<style=\"tipsYellow\">Semburan Racun</style>: Melepaskan semburan racun secara acak ke <style=\"accent-gn\">{*val1*}</style> Target, memberikan efek Korosi, dapat ditumpuk hingga <style=\"accent-gn\">{*val2*}</style> lapis.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}% MATK x{*val5*} detik</style><br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Id": 91,
+    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+  },
+  "92": {
+    "Desc": "Lv2: ATK +{*val1*}%",
+    "Id": 92,
+    "ValueExchange": [45.0]
+  },
+  "93": {
+    "Desc": "Lv3: ATK +{*val1*}%",
+    "Id": 93,
+    "ValueExchange": [40.0]
+  },
+  "94": {
+    "Desc": "Lv4: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Toxic Beehive)",
+    "Id": 94,
+    "ValueExchange": [35.0]
+  },
+  "95": {
+    "Desc": "Lv5: ATK +{*val1*}%",
+    "Id": 95,
+    "ValueExchange": [30.0]
+  }
+}

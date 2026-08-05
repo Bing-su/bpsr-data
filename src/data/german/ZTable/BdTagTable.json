@@ -104,6 +104,13 @@
     "TagString": "Eine Art von Buff, der in Roguelike-Spielen verwendet wird",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "Tag: Tower-Defense-Build",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "Fähigkeiten, die sich auf das Ziel auswirken oder einen Heilungsbereich hinterlassen, der eine gewisse Zeit lang bestehen bleibt und bewirkt, dass das Ziel kontinuierlich LP wiederherstellt (diese Art der Heilung kann keine Glückseffekte auslösen).",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "Physisch",
+    "TagString": "Tower-Defense-Build",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "Magie",
+    "TagString": "Tower-Defense-Build",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "Humanoid",
+    "TagString": "Schwierig aufzubauen, aber im späten Spielverlauf äußerst mächtig.",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "Verbrennung",
+    "TagString": "Bilde ein Team mit Tatta als Haupt-Schadensausteiler und nutze den Verbrennungseffekt.",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "Ressourcen",
+    "TagString": "Sammle frühzeitig Kristallsplitter, um später hohen Schaden zu verursachen.",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "Aufladen",
+    "TagString": "Wirkt Fähigkeiten nur, wenn Ziele in Reichweite kommen, und verursacht besonderen Schaden an Bossen.",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "Buff",
+    "TagString": "Tower-Defense-Build",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "Debuff",
+    "TagString": "Tower-Defense-Build",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "Airona",
+    "TagString": "Tower-Defense-Build",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "Tatta",
+    "TagString": "Tower-Defense-Build",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "Segen",
     "TagString": "Ein vorteilhafter Zustand, in dem Kampf, Bewegung oder andere Fähigkeiten verbessert sind.",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "Olvera",
+    "TagString": "Tower-Defense-Build",
     "TagType": 2
   },
   "14": {

@@ -1,0 +1,477 @@
+{
+  "1": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: กวัดแกว่งเคียว 3 ครั้ง<br>ระยะโจมตี: <style=\"accent-gn\">{*val1*}</style><br>Crit Rate:<style=\"accent-gn\">{*val2*}ATK%×3</style><br><br><style=\"tipsYellow\">Doomsday Ring</style>: ปล่อย Ring 2 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}ATK%×จำนวน Ring</style><br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
+    "Id": 1,
+    "ValueExchange": []
+  },
+  "10": {
+    "Desc": "Lv5: ATK+{*val1*}% เมื่อโจมตีจะได้รับ Attunement - Crystalshards {*val2*} แต้ม",
+    "Id": 10,
+    "ValueExchange": [15.0, 5.0]
+  },
+  "11": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: หมุนตัวมอบ Burn ใส่เป้าหมาย<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">Skyblaze Axe</style>: โจมตีไปด้านหน้าจนมีแสง เป้าหมายที่มี Burn 1 Stack ครั้งนี้ DMG+<style=\"accent-gn\">{*val3*}</style><br>ระยะโจมตี:<style=\"accent-gn\">{*val4*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val5*}%</style><br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Id": 11,
+    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+  },
+  "12": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 12,
+    "ValueExchange": [45.0]
+  },
+  "13": {
+    "Desc": "Lv3: ATK+{*val1*}% มอบ Burn {*val2*} ครั้ง ครั้งต่อไปโจมตีจะมอบ Purgatory Train ใส่เป้าหมาย",
+    "Id": 13,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "14": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Tatta)",
+    "Id": 14,
+    "ValueExchange": [35.0]
+  },
+  "15": {
+    "Desc": "Lv5: ATK+{*val1*}% จำนวนมอบ Burn ลดลงถึง {*val2*} Purgatory Train DMG+{*val3*}%",
+    "Id": 15,
+    "ValueExchange": [15.0, 6.0, 100.0]
+  },
+  "16": {
+    "Desc": "<style=\"tipsYellow\">Thousand Lights Slash</style>: ฟันปล่อย Blade Beam นับไม่ถ้วน และใช้ Stack ทั้งหมดของ Charge เพิ่ [<style=\"accent-gn\">{*val1*}%</style>*Charge Stack] ของ DMG<br>ระยะโจมตี:<style=\"accent-gn\">{*val2*}</style><br>Crit Rate:<style=\"accent-gn\">{*val3*}%</style>攻击力<br>",
+    "Id": 16,
+    "ValueExchange": [40.0, 8.0, 688.0]
+  },
+  "17": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 17,
+    "ValueExchange": [45.0]
+  },
+  "18": {
+    "Desc": "Lv3: ATK+{*val1*}% ทุก {*val2*} วินาที เป้าหมายที่โดนล็อกที่ใกล้ที่สุด {*val3*} ตัวจะโดน Blade beam",
+    "Id": 18,
+    "ValueExchange": [25.0, 10.0, 1.0]
+  },
+  "19": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Olvera)",
+    "Id": 19,
+    "ValueExchange": [35.0]
+  },
+  "2": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 2,
+    "ValueExchange": [45.0]
+  },
+  "20": {
+    "Desc": "Lv5: ATK+{*val1*}% Blade Beam ล็อกเป้าหมาย+{*val2*}",
+    "Id": 20,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "21": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ใช้ Banner Spear โจมตีด้านหน้า<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">Time Order</style>: Attunement Imagine ที่อยู่ใกล้ที่สุด <style=\"accent-gn\">{*val3*}</style> ชิ้น เร่งเวลา CD+<style=\"accent-gn\">{*val4*}%</style> เป็นเวลา <style=\"accent-gn\">{*val5*} วินาที</style><br>ระยะที่มีผล: ทั้งสนาม<br>Crit Rate:ไม่มี<br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Id": 21,
+    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+  },
+  "22": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 22,
+    "ValueExchange": [45.0]
+  },
+  "23": {
+    "Desc": "Lv3: ATK+{*val1*}% เมื่ออยู่ในสนาม นักผจญภัย SPD+{*val2*} DMG Boost+{*val3*}",
+    "Id": 23,
+    "ValueExchange": [25.0, 25.0, 25.0]
+  },
+  "24": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Tina)",
+    "Id": 24,
+    "ValueExchange": [35.0]
+  },
+  "25": {
+    "Desc": "Lv5: ATK+{*val1*}% เมื่ออยู่ในสนาม นักผจญภัย SPD เพิ่ม+{*val2*} DMG Boost+{*val3*}",
+    "Id": 25,
+    "ValueExchange": [15.0, 25.0, 25.0]
+  },
+  "26": {
+    "Desc": "<style=\"tipsYellow\">Hellrock Spikes</style>: ปล่อย Spike ใช้ Stack ทั้งหมดของ Charge เพิ่ม [<style=\"accent-gn\">{*val1*}%</style>*Charge Stack] ของ DMG<br>ระยะโจมตี:<style=\"accent-gn\">{*val2*}</style><br>Crit Rate:ATK <style=\"accent-gn\">{*val3*}%</style><br>เวลา CD:ไม่มี<br>",
+    "Id": 26,
+    "ValueExchange": [30.0, 9.0, 418.0]
+  },
+  "27": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 27,
+    "ValueExchange": [45.0]
+  },
+  "28": {
+    "Desc": "Lv3: ATK+{*val1*}% Passive สร้าง DMG พร้อมมอบ Vulnerability {*val2*}%",
+    "Id": 28,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "29": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Iron Fang)",
+    "Id": 29,
+    "ValueExchange": [35.0]
+  },
+  "3": {
+    "Desc": "Lv3: ATK+{*val1*}%, Ring+{*val2*}",
+    "Id": 3,
+    "ValueExchange": [25.0, 3.0]
+  },
+  "30": {
+    "Desc": "Lv5: ATK+{*val1*}% Vulnerability เพิ่ม +{*val2*}%",
+    "Id": 30,
+    "ValueExchange": [15.0, 10.0]
+  },
+  "31": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ถมใยแมงมุมใส่เป้าหมายที่ล็อก มีโอกาส <style=\"accent-gn\">{*val1*}%</style> ล็อกเป้าหมาย <style=\"accent-gn\">{*val2*} วินาที</style><br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val4*}%</style><br><br><style=\"tipsYellow\">Spider Strike</style>: หลัง Burrow Guard 1 วินาที ทำให้เป้าหมายติด Stun 1 วินาที<br>ระยะโจมตี:<style=\"accent-gn\">{*val5*}</style><br>Crit Rate: ATK<style=\"accent-gn\">{*val6*}%</style><br>เวลา CD:<style=\"accent-gn\">{*val7*} วินาที</style><br>",
+    "Id": 31,
+    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+  },
+  "32": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 32,
+    "ValueExchange": [45.0]
+  },
+  "33": {
+    "Desc": "Lv3: ATK+{*val1*}% Rooted Rate เพิ่มถึง {*val2*}%",
+    "Id": 33,
+    "ValueExchange": [40.0, 100.0]
+  },
+  "34": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Phantom Arachnocrab)",
+    "Id": 34,
+    "ValueExchange": [35.0]
+  },
+  "35": {
+    "Desc": "Lv5: ATK+{*val1*}% เวลา Stun+{*val2*} วินาที",
+    "Id": 35,
+    "ValueExchange": [30.0, 2.5]
+  },
+  "36": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ปล่อย Water Orb <style=\"accent-gn\">{*val1*}</style> ชิ้น มอบ Slow<br>ระยะโจมตี:<style=\"accent-gn\">{*val2*}</style><br>Crit Rate:<style=\"accent-gn\">{*val3*}ATK%×Water Orb</style><br><br><style=\"tipsYellow\">Fish Frenzy</style>: ซัมม่อน Phantom Skyfish 1 ตัวพุ่งโจมตีไปด้านหน้า<br>ระยะโจมตี:<style=\"accent-gn\">{*val4*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val5*}%</style><br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Id": 36,
+    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+  },
+  "37": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 37,
+    "ValueExchange": [45.0]
+  },
+  "38": {
+    "Desc": "Lv3: ATK+{*val1*}% Skyfish+{*val2*} จะได้รับ Attunement - Crystalshards+{*val3*}%",
+    "Id": 38,
+    "ValueExchange": [25.0, 1.0, 5.0]
+  },
+  "39": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Celestial Flier)",
+    "Id": 39,
+    "ValueExchange": [35.0]
+  },
+  "4": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Bane Lord)",
+    "Id": 4,
+    "ValueExchange": [35.0]
+  },
+  "40": {
+    "Desc": "Lv5: ATK+{*val1*}% Skyfish เพิ่ม +{*val2*} จะได้รับ Attunement - Crystalshards เพิ่ม+{*val3*}%",
+    "Id": 40,
+    "ValueExchange": [15.0, 1.0, 5.0]
+  },
+  "41": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ชกโจมตีไปด้านหน้า 2 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate:<style=\"accent-gn\">{*val2*}%M.ATK×2</style><br><br><style=\"tipsYellow\">Lethal Scorch</style>: พ่นไฟต่อเนื่อง 5 วินาที มอบ Burn<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}%</style>M.ATK<br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
+    "Id": 41,
+    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+  },
+  "42": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 42,
+    "ValueExchange": [45.0]
+  },
+  "43": {
+    "Desc": "Lv3: ATK+{*val1*}% เมื่อโจมตีฟื้น HP {*val2*}%",
+    "Id": 43,
+    "ValueExchange": [40.0, 5.0]
+  },
+  "44": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Inferno Ogre)",
+    "Id": 44,
+    "ValueExchange": [35.0]
+  },
+  "45": {
+    "Desc": "Lv5: ATK+{*val1*}% Healing ที่เกินจะกลายเป็น Shield",
+    "Id": 45,
+    "ValueExchange": [30.0]
+  },
+  "46": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: เหยียบเป้าหมาย<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\"> Sky Thunder Shield</style>: ได้รับ Sky Thunder Shield ทุก <style=\"accent-gn\">{*val3*} วินาที</style> จะสุ่มโจมตี Lightming ใส่เป้าหมาย 1 ตัว<br>ระยะโจมตี:<style=\"accent-gn\">{*val4*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val5*}%</style><br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Id": 46,
+    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+  },
+  "47": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 47,
+    "ValueExchange": [45.0]
+  },
+  "48": {
+    "Desc": "Lv3: ATK+{*val1*}% โจมตีเป้าหมาย ถ้าอยู่ในสถานะ Burn ใช้ Burn ของเป้าหมายทำให้ Thunderfire Annihilation ทำงาน 1 ครั้ง สร้าง DMG แบบ AOE มหาศาล",
+    "Id": 48,
+    "ValueExchange": [25.0]
+  },
+  "49": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Tempest Ogre)",
+    "Id": 49,
+    "ValueExchange": [35.0]
+  },
+  "5": {
+    "Desc": "Lv5: ATK+{*val1*}%, ระยะ Ring+{*val2*}%",
+    "Id": 5,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "50": {
+    "Desc": "Lv5: ATK+{*val1*}% Thunderfire Annihilation จะไม่ใช้ Burn ของเป้าหมาย",
+    "Id": 50,
+    "ValueExchange": [15.0]
+  },
+  "51": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: พ่น Ice ต่อเนื่องที่ด้านหน้า 5 วินาที<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">Zero Realm</style>: สุ่มใช้ Ice Pike ใส่เป้าหมาย 3 ตัว<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}%</style>攻击力<br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
+    "Id": 51,
+    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+  },
+  "52": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 52,
+    "ValueExchange": [45.0]
+  },
+  "53": {
+    "Desc": "Lv3: ATK+{*val1*}% Ice Spike จะเป็น Ice Spikes land หลังรับจะสุ่มได้รับ Attunement - Crystalshards {*val2*} - {*val3*} แต้ม",
+    "Id": 53,
+    "ValueExchange": [25.0, 1.0, 20.0]
+  },
+  "54": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Frost Ogre)",
+    "Id": 54,
+    "ValueExchange": [35.0]
+  },
+  "55": {
+    "Desc": "Lv5: ATK+{*val1*}% จำนวน Ice Spike+{*val2*}",
+    "Id": 55,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "56": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ซัมม่อน Muku 1 ตัวมาช่วยต่อสู้ ในสนามถ้ามี Muku จะเพิ่ม Attack SPD ให้ Muku ที่ซัมม่อนมา ซ้อนทับสูงสุด <style=\"accent-gn\">{*val1*}</style> Stack<br>ระยะโจมตี:ไม่มี<br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">Boss's Will</style>: Healing พันธมิตรทั้งหมดในระยะ HP <style=\"accent-gn\">{*val3*}%</style> ทำให้พันธมิตร ATK +<style=\"accent-gn\">{*val4*}%</style> เป็นเวลา <style=\"accent-gn\">{*val5*} วินาที</style><br>ระยะที่มีผล:<style=\"accent-gn\">{*val6*}</style><br>Crit Rate:ไม่มี<br>เวลา CD:<style=\"accent-gn\">{*val7*} วินาที</style><br>",
+    "Id": 56,
+    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+  },
+  "57": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 57,
+    "ValueExchange": [45.0]
+  },
+  "58": {
+    "Desc": "Lv3: ATK+{*val1*}% ซัมม่อน Crossbow Muku 1 ตัว",
+    "Id": 58,
+    "ValueExchange": [25.0]
+  },
+  "59": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Muku King)",
+    "Id": 59,
+    "ValueExchange": [35.0]
+  },
+  "6": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ทุก<style=\"accent-gn\">{*val1*} วินาที</style> ทุบด้วย Meteor 1 ชิ้น<br>ระยะโจมตี:<style=\"accent-gn\">{*val2*}</style><br>Crit Rate:<style=\"accent-gn\">{*val3*}%</style>M.ATK<br><br><style=\"tipsYellow\">Spirit Deer Stampede</style>: ซัมม่อน Deer Spirit พุ่งโจมตีไปด้านหน้า ในสนามมี Human Attunement Imagine 1 ชิ้น จะทำงานเพิ่ม 1 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val4*}</style><br>Crit Rate:<style=\"accent-gn\">{*val5*}%</style>M.ATK<br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Id": 6,
+    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+  },
+  "60": {
+    "Desc": "Lv5: ATK+{*val1*}% ซัมม่อน Muku Chief 1 ตัว",
+    "Id": 60,
+    "ValueExchange": [15.0]
+  },
+  "61": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: โจมตี Downward Strike ใส่ด้านหน้า<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">Grand Sweep</style>: โจมตีเป้าหมายด้านหน้าและ Sweep 2 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}ATK%×2</style><br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
+    "Id": 61,
+    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+  },
+  "62": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 62,
+    "ValueExchange": [45.0]
+  },
+  "63": {
+    "Desc": "Lv3: ATK+{*val1*}% โจมตีทั่วไปจะใช้ Ground-Splitting Wave {*val2*} ครั้ง ATK+{*val3*}%",
+    "Id": 63,
+    "ValueExchange": [25.0, 2.0, 50.0]
+  },
+  "64": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Goblin King)",
+    "Id": 64,
+    "ValueExchange": [35.0]
+  },
+  "65": {
+    "Desc": "Lv5: ATK+{*val1*}% DMG+{*val2*}%",
+    "Id": 65,
+    "ValueExchange": [15.0, 20.0]
+  },
+  "66": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: โจมตี Slash Damage ใส่ด้านหน้า<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate:<style=\"accent-gn\">{*val2*}%</style>M.ATK<br><br><style=\"tipsYellow\">Lord of Winds</style>: สุ่มโจมตีด้วย Tornado ใส่เป้าหมาย 2 ตัว<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}%M.ATK×{*val5*} วินาที</style><br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Id": 66,
+    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+  },
+  "67": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 67,
+    "ValueExchange": [45.0]
+  },
+  "68": {
+    "Desc": "Lv3: ATK+{*val1*}% ในสนามมี Charge Attunement Imagines 1 ที่ Tornado+{*val2*} ลิมิท+{*val3*}",
+    "Id": 68,
+    "ValueExchange": [25.0, 1.0, 3.0]
+  },
+  "69": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Storm Goblin King)",
+    "Id": 69,
+    "ValueExchange": [35.0]
+  },
+  "7": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 7,
+    "ValueExchange": [45.0]
+  },
+  "70": {
+    "Desc": "Lv5: ATK+{*val1*}% เมื่อทุก Tornado ปรากฎ จะเพิ่ม DMG ครั้งต่อไปของ Attunement Imagine สะสมสูงสุด {*val2*}",
+    "Id": 70,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "71": {
+    "Desc": "<style=\"tipsYellow\">Flame Spin</style>: หมุนตัวและมอบ Burn ใส่เป้าหมาย<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br>เวลา CD:<style=\"accent-gn\">{*val3*} วินาที</style><br>",
+    "Id": 71,
+    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+  },
+  "72": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 72,
+    "ValueExchange": [45.0]
+  },
+  "73": {
+    "Desc": "Lv3: ATK+{*val1*}% เมื่อเป้าหมายถูก Burn ตาย จะได้รับ Attunement - Crystalshards {*val2*} แต้ม",
+    "Id": 73,
+    "ValueExchange": [40.0, 15.0]
+  },
+  "74": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Brigand Leader)",
+    "Id": 74,
+    "ValueExchange": [35.0]
+  },
+  "75": {
+    "Desc": "Lv5: ATK+{*val1*}% เมื่อเป้าหมายถูก Burn ตาย จะได้รับ Attunement - Crystalshards เพิ่ม {*val2*} แต้ม",
+    "Id": 75,
+    "ValueExchange": [30.0, 15.0]
+  },
+  "76": {
+    "Desc": "<style=\"tipsYellow\">Lightning Orb</style>: ซัมม่อน Lightning Orb 1 ชิ้น ทุก <style=\"accent-gn\">{*val1*} วินาที</style> โจมตีด้วย Lightning ใส่เป้าหมาย 1 ตัว<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br>เวลา CD:<style=\"accent-gn\">{*val3*} วินาที</style><br>",
+    "Id": 76,
+    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+  },
+  "77": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 77,
+    "ValueExchange": [45.0]
+  },
+  "78": {
+    "Desc": "Lv3: ATK+{*val1*}%",
+    "Id": 78,
+    "ValueExchange": [40.0]
+  },
+  "79": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Golden Juggernaut)",
+    "Id": 79,
+    "ValueExchange": [35.0]
+  },
+  "8": {
+    "Desc": "Lv3: ATK+{*val1*}% เมื่อโจมตีจะได้รับ Attunement - Crystalshards {*val2*} แต้ม",
+    "Id": 8,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "80": {
+    "Desc": "Lv5: ATK+{*val1*}%",
+    "Id": 80,
+    "ValueExchange": [30.0]
+  },
+  "81": {
+    "Desc": "<style=\"tipsYellow\">Frenzied Smash</style>: ทุบพื้นต่อเนื่อง 3 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate:<style=\"accent-gn\">{*val2*}ATK%×3</style><br>เวลา CD:<style=\"accent-gn\">{*val3*} วินาที</style><br>",
+    "Id": 81,
+    "ValueExchange": [14.0, 133.0, 8.0]
+  },
+  "82": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 82,
+    "ValueExchange": [45.0]
+  },
+  "83": {
+    "Desc": "Lv3: ATK+{*val1*}%",
+    "Id": 83,
+    "ValueExchange": [40.0]
+  },
+  "84": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Muku Chief)",
+    "Id": 84,
+    "ValueExchange": [35.0]
+  },
+  "85": {
+    "Desc": "Lv5: ATK+{*val1*}%",
+    "Id": 85,
+    "ValueExchange": [30.0]
+  },
+  "86": {
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ปล่อยคลื่นน้ำ 1 สาย มอบ Slow <style=\"accent-gn\">{*val1*}%</style><br>ระยะโจมตี:<style=\"accent-gn\">{*val2*}</style><br>Crit Rate:<style=\"accent-gn\">{*val3*}%</style>M.ATK<br><br><style=\"tipsYellow\">Vortex</style>: ใช้ Water Vortex มอบ Slow เป็นเวลา <style=\"accent-gn\">{*val4*}%</style><br>ระยะโจมตี:<style=\"accent-gn\">{*val5*}</style><br>Crit Rate:<style=\"accent-gn\">{*val6*}%M.ATK×{*val7*} วินาที</style><br>เวลา CD:<style=\"accent-gn\">{*val8*} วินาที</style><br>",
+    "Id": 86,
+    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+  },
+  "87": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 87,
+    "ValueExchange": [45.0]
+  },
+  "88": {
+    "Desc": "Lv3: ATK+{*val1*}%",
+    "Id": 88,
+    "ValueExchange": [40.0]
+  },
+  "89": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Lizardman King)",
+    "Id": 89,
+    "ValueExchange": [35.0]
+  },
+  "9": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Airona)",
+    "Id": 9,
+    "ValueExchange": [35.0]
+  },
+  "90": {
+    "Desc": "Lv5: ATK+{*val1*}%",
+    "Id": 90,
+    "ValueExchange": [30.0]
+  },
+  "91": {
+    "Desc": "<style=\"tipsYellow\">Toxic Geyser</style>: สุ่มปล่อย Poison Geyser ใส่เป้าหมาย <style=\"accent-gn\">{*val1*}</style> ตัว มอบ Corrosion ซ้อนทับสูงสุด <style=\"accent-gn\">{*val2*}</style> Stack <br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}%M.ATK×{*val5*} วินาที</style><br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Id": 91,
+    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+  },
+  "92": {
+    "Desc": "Lv2: ATK+{*val1*}%",
+    "Id": 92,
+    "ValueExchange": [45.0]
+  },
+  "93": {
+    "Desc": "Lv3: ATK+{*val1*}%",
+    "Id": 93,
+    "ValueExchange": [40.0]
+  },
+  "94": {
+    "Desc": "Lv4: ATK+{*val1*}% (ต้องมี Battle Imagine - Venobzzar Incubator)",
+    "Id": 94,
+    "ValueExchange": [35.0]
+  },
+  "95": {
+    "Desc": "Lv5: ATK+{*val1*}%",
+    "Id": 95,
+    "ValueExchange": [30.0]
+  }
+}

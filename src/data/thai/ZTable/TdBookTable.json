@@ -1,0 +1,322 @@
+{
+  "1": {
+    "Desc": "ระดับ Rare: Immortal<br>Spec: [Human]<br>Max Lv.: Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ไม่มี<br>โจมตีทั่วไป: กวัดแกว่งเคียว 3 ครั้ง สร้าง DMG เป็นวงกว้าง<br>สกิลหลัก: กวัดแกว่งเคียวทำให้วงแหวนทำงาน 2 ครั้ง สร้าง DMG เป็นวงกว้างรุนแรง<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: จำนวนวงแหวน +3<br>Attunement Imagine Lv.5: ขนาดวงแหวน +100%",
+    "Id": 1,
+    "IsHide": 0,
+    "ObjectId": 1,
+    "Sort": 1,
+    "Type": 1
+  },
+  "10": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: [Burn]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม มอนสเตอร์ที่ติด Burn จะได้รับ DMG จาก Tower ประเภท Burn เพิ่มขึ้น [1%*จำนวน Stack ของ Burn]<br>โจมตีทั่วไป: เหยียบกระแทกสร้าง DMG ในพื้นที่เล็ก<br>สกิลหลัก: ได้รับ Thunder Shield และทุก 2 วินาทีจะสุ่มปล่อยสายฟ้าโจมตีเป้าหมาย<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: ถ้าเป้าหมายที่โจมตีติด Burn จะใช้ Burn ของเป้าหมาย เพื่อทำให้ Thunderflame Annihilation ทำงาน 1 ครั้ง สร้าง DMG เป็นวงกว้างรุนแรง<br>Attunement Imagine Lv.5: Thunderfire Annihilation จะไม่ใช้ Burn ของเป้าหมายอีกต่อไป",
+    "Id": 10,
+    "IsHide": 0,
+    "ObjectId": 46,
+    "Sort": 10,
+    "Type": 1
+  },
+  "1001": {
+    "Desc": "ประเภท: Boss<br>พิเศษ: สกิล Attunement Imagine มีผลเป็นวงกว้าง จะลดความเร็วในการโจมตี และเพิ่มพลังโจมตีขึ้น",
+    "Id": 1001,
+    "IsHide": 0,
+    "ObjectId": 5003000,
+    "Sort": 1,
+    "Type": 2
+  },
+  "1002": {
+    "Desc": "ประเภท: Boss<br>พิเศษ: ได้รับ DMG ด้านหน้าลดลง ได้รับ DMG จากด้านหลังเพิ่มขึ้น",
+    "Id": 1002,
+    "IsHide": 0,
+    "ObjectId": 5003001,
+    "Sort": 2,
+    "Type": 2
+  },
+  "1003": {
+    "Desc": "ประเภท: Boss<br>พิเศษ: Phantom Arachnocrab สุ่มทำให้ Attunement Imagine บางส่วนสกิลหาย",
+    "Id": 1003,
+    "IsHide": 0,
+    "ObjectId": 5003002,
+    "Sort": 3,
+    "Type": 2
+  },
+  "1004": {
+    "Desc": "ประเภท: Boss<br>พิเศษ: ทุกครั้งปล่อย Imagine จะถูก Predator Arachnocrab กิน Attunement - Crystalshard บางส่วน",
+    "Id": 1004,
+    "IsHide": 0,
+    "ObjectId": 5003003,
+    "Sort": 4,
+    "Type": 2
+  },
+  "1005": {
+    "Desc": "ประเภท: Boss<br>พิเศษ: ทุกครั้งที่ร้องเพลงกล่อมเด็ก จะทำให้ Attunement Imagine ทั้ง Field หลับ",
+    "Id": 1005,
+    "IsHide": 0,
+    "ObjectId": 5003004,
+    "Sort": 5,
+    "Type": 2
+  },
+  "1006": {
+    "Desc": "ประเภท: Boss<br>พิเศษ: HP เพิ่มจำนวนมาก แต่ตัวเองจะได้รับได้ DMG เพิ่มขึ้น Attunement Imagine ทั้ง Field Lv.รวมยิ่งสูง ได้รับ DMG ยิ่งเยอะ",
+    "Id": 1006,
+    "IsHide": 0,
+    "ObjectId": 5003005,
+    "Sort": 6,
+    "Type": 2
+  },
+  "1007": {
+    "Desc": "ประเภท: Elite<br>พิเศษ: ในระยะ AOE มอนสเตอร์ทั้งหมดไร้ศัตรู นอกจากมันเอง",
+    "Id": 1007,
+    "IsHide": 0,
+    "ObjectId": 5002000,
+    "Sort": 7,
+    "Type": 2
+  },
+  "1008": {
+    "Desc": "ประเภท: Elite<br>พิเศษ: Freeze คนที่โจมตี Attunement Imagine เป็นคนแรก ใครอยากเป็นคนแรก",
+    "Id": 1008,
+    "IsHide": 0,
+    "ObjectId": 5002001,
+    "Sort": 8,
+    "Type": 2
+  },
+  "1009": {
+    "Desc": "ประเภท: Elite<br>พิเศษ: รักษามอนสเตอร์รอบๆ ต่อเนื่อง",
+    "Id": 1009,
+    "IsHide": 0,
+    "ObjectId": 5002002,
+    "Sort": 9,
+    "Type": 2
+  },
+  "1010": {
+    "Desc": "ประเภท: Elite<br>พิเศษ: หลังถูกฆ่าจะฟื้นชีพ",
+    "Id": 1010,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 10,
+    "Type": 2
+  },
+  "1011": {
+    "Desc": "ประเภท: Elite<br>พิเศษ: มีความเร็วในการเคลื่อนที่สูงมาก แต่ก็อึดมากเช่นกัน",
+    "Id": 1011,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 11,
+    "Type": 2
+  },
+  "1012": {
+    "Desc": "ประเภท: Elite<br>พิเศษ: เคลื่อนที่ไม่สนภูมิประเทศ แต่ขี้เกียจมาก ชอบพักสุดๆ",
+    "Id": 1012,
+    "IsHide": 0,
+    "ObjectId": 5002005,
+    "Sort": 12,
+    "Type": 2
+  },
+  "1013": {
+    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: สิ่งมีชีวิตใต้ทะเลที่พบได้ทั่วไป",
+    "Id": 1013,
+    "IsHide": 0,
+    "ObjectId": 5001000,
+    "Sort": 13,
+    "Type": 2
+  },
+  "1014": {
+    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: มีความเร็วสูง แต่ไม่ทนต่อการโจมตี",
+    "Id": 1014,
+    "IsHide": 0,
+    "ObjectId": 5001001,
+    "Sort": 14,
+    "Type": 2
+  },
+  "1015": {
+    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: มีโล่หนามาก จะปรากฏตัวเมื่อเริ่มต่อสู้",
+    "Id": 1015,
+    "IsHide": 0,
+    "ObjectId": 5001002,
+    "Sort": 15,
+    "Type": 2
+  },
+  "1016": {
+    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: พวกมันจะคอยปกป้องสัตว์ประหลาดตัวอื่นๆ ในบริเวณนั้นจากอันตราย ถ้าไม่กำจัดพวกมันก่อน จะเป็นเรื่องยุ่งยากมาก",
+    "Id": 1016,
+    "IsHide": 0,
+    "ObjectId": 5001003,
+    "Sort": 16,
+    "Type": 2
+  },
+  "1017": {
+    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: เปลือกแข็งสามารถป้องกัน PDMG ได้มาก แต่พลังป้องกัน MDMG ต่ำ",
+    "Id": 1017,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 17,
+    "Type": 2
+  },
+  "1018": {
+    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: พวกมันเป็นศัตรูตัวฉกาจของสายเวทฯ เมื่อโจมตีกายภาพจะพบว่าจัดการพวกมันได้อย่างมีประสิทธิภาพ",
+    "Id": 1018,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 18,
+    "Type": 2
+  },
+  "1019": {
+    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: มุดลงใต้ดิน ในระยะเวลานี้พวกมันจะไร้ศัตรู รอดูต่อไปจากระยไกลว่าอะไรจะเกิดขึ้น",
+    "Id": 1019,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 19,
+    "Type": 2
+  },
+  "1020": {
+    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: มันเคลื่อนที่โดยไม่สนสภาพภูมิประเทศ แล้วทำไมถึงมีสิ่งมีชีวิตที่น่ารำคาญเช่นนี้?",
+    "Id": 1020,
+    "IsHide": 0,
+    "ObjectId": 5001007,
+    "Sort": 20,
+    "Type": 2
+  },
+  "1021": {
+    "Desc": "",
+    "Id": 1021,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 21,
+    "Type": 2
+  },
+  "11": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: [Resource]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: เมื่อทำลายตัวเอง จะได้รับ Attunement - Crystalshard คืนเพิ่มอีก 100 แต้ม<br>โจมตีทั่วไป: พ่นหมอกน้ำแข็งไปด้านหน้า สร้าง DMG<br>สกิลหลัก: สุ่มปล่อย Ice Spike ใส่เป้าหมาย 3 ตัว<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: บริเวณที่ Ice Spike ปรากฏจะสร้าง Tuning Crystal Cluster เมื่อเก็บจะสุ่มได้รับ Attunement - Crystalshard 1-20 แต้ม เป็นเวลา 10 วินาที<br>Attunement Imagine Lv.5: จำนวน Ice Spike +2",
+    "Id": 11,
+    "IsHide": 0,
+    "ObjectId": 51,
+    "Sort": 11,
+    "Type": 1
+  },
+  "12": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: [Support]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม DMG ที่ฝ่ายเดียวกันทั้งหมดสร้าง +5% สูงสุดมีผล 20%<br>โจมตีทั่วไป: สุ่มอัญเชิญ Muku 1 ตัวมาช่วยต่อสู้ และเพิ่มความเร็วโจมตีของมัน<br>สกิลหลัก: ฟื้นฟู HP ให้พันธมิตรในระยะ และเพิ่ม ATK ของพันธมิตร 20% เป็นเวลา 10 วินาที<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: อัญเชิญ Crossbow Muku เพิ่มอีก 1 ตัว<br>Attunement Imagine Lv.5: ซัมม่อน Muku Chief 1 ตัว",
+    "Id": 12,
+    "IsHide": 0,
+    "ObjectId": 56,
+    "Sort": 12,
+    "Type": 1
+  },
+  "13": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: [Support]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม ศัตรูทั้งหมดได้รับ DMG +5% สูงสุดมีผล 20%<br>โจมตีทั่วไป: ฟันลงด้านหน้า 1 ครั้ง สร้าง DMG เป็นแนวเส้นตรง<br>สกิลหลัก: กวาดฟันด้านหน้า 2 ครั้ง สร้าง DMG เป็นวงกว้างรุนแรง<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: การโจมตีทั่วไปจะปล่อย Ground-Splitting Wave 2 ครั้ง ระยะโจมตี+50%<br>Attunement Imagine Lv.5: DMG+20%",
+    "Id": 13,
+    "IsHide": 0,
+    "ObjectId": 61,
+    "Sort": 13,
+    "Type": 1
+  },
+  "14": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: [Charge]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: ทุก เป้าหมาย 1 ตัวภายในระยะ ATK ของตัวเอง +10% สูงสุด +100%<br>โจมตีทั่วไป: ฟันด้านหน้า สร้าง DMG เป็นวงกว้างรูปพัด<br>สกิลหลัก: สุ่มปล่อย Tornado ใส่เป้าหมาย 2 ตัว เป็นเวลา 5 วินาที<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: ทุก Charge Attunement Imagine ในสนาม 1 ตัว จำนวน Tornado +1 สูงสุด+3<br>Attunement Imagine Lv.5: DMG ของ Charge Attunement Imagine ทั้งหมด 1 ครั้ง สูงสุด 100%",
+    "Id": 14,
+    "IsHide": 0,
+    "ObjectId": 66,
+    "Sort": 14,
+    "Type": 1
+  },
+  "15": {
+    "Desc": "ระดับ Rare: Fine<br>Spec: [Resource][Burn]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม นักผจญภัยทุก 10 วินาทีได้รับ Attunement - Crystalshard 100 แต้ม สูงสุดมีผล 5 ตัว<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: หมุนตัวสร้าง DMG ในพื้นที่เล็กและติด Burn<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เมื่อสังหารเป้าหมายที่ติด Burn จะได้รับ Attunement - Crystalshard 15 แต้ม<br>Attunement Imagine Lv.5: เมื่อฆ่าเป้าหมายที่ติด Burn จะได้รับ Attunement - Crystalshard 30 แต้ม",
+    "Id": 15,
+    "IsHide": 0,
+    "ObjectId": 71,
+    "Sort": 15,
+    "Type": 1
+  },
+  "16": {
+    "Desc": "ระดับ Rare: Fine<br>Spec: ไม่มี<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: เมื่อสร้าง DMG จะทำให้เป้าหมายติด Slow 25% (ไม่สามารถซ้อนทับได้)<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: อัญเชิญ Thunder Orb เพื่อโจมตีเป้าหมายในระยะอย่างต่อเนื่อง<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เพิ่ม DMG ของสกิลหลัก<br>Attunement Imagine Lv.5: เพิ่ม DMG ของสกิลหลัก",
+    "Id": 16,
+    "IsHide": 0,
+    "ObjectId": 76,
+    "Sort": 16,
+    "Type": 1
+  },
+  "17": {
+    "Desc": "ระดับ Rare: Fine<br>Spec: [Charge]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม Muku Chief แต่ละตัวจะเพิ่ม Crit Rate ให้ Charge Attunement Imagine +10% สูงสุดมีผล 100%<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: กระแทกพื้นต่อเนื่อง 3 ครั้ง สร้าง DMG เป็นวงกว้าง<br>เวลา CD: 6 วินาที<br>Attunement Imagine Lv.3: เพิ่ม DMG ของสกิลหลัก<br>Attunement Imagine Lv.5: เพิ่ม DMG ของสกิลหลัก",
+    "Id": 17,
+    "IsHide": 0,
+    "ObjectId": 84,
+    "Sort": 17,
+    "Type": 1
+  },
+  "18": {
+    "Desc": "ระดับ Rare: Fine<br>Spec: ไม่มี<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: เมื่อโจมตีมีโอกาส 30% ที่จะทำให้เป้าหมายติด Freeze<br>โจมตีทั่วไป: สร้าง DMG 1 ครั้งรอบตัวและติด Slow 10%<br>สกิลหลัก: ปล่อย Water Whirlpool สร้าง DMG เป็นวงกว้างต่อเนื่องและติด Slow 20 %<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เพิ่ม DMG ของสกิลหลัก<br>Attunement Imagine Lv.5: เพิ่ม DMG ของสกิลหลัก",
+    "Id": 18,
+    "IsHide": 0,
+    "ObjectId": 89,
+    "Sort": 18,
+    "Type": 1
+  },
+  "19": {
+    "Desc": "ระดับ Rare: Fine<br>Spec: ไม่มี<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: สร้าง DMG เพิ่มเติมใส่เป้าหมายที่ติด Corrosion ทุก 1 Stack ของ Corrosion จะเพิ่ม DMG +10%<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: สุ่มปล่อย Poison Spring ใส่เป้าหมาย 3 ตัว สร้าง DMG เป็นวงกว้างต่อเนื่องและติด Corrosion<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เพิ่ม DMG ของสกิลหลัก<br>Attunement Imagine Lv.5: เพิ่ม DMG ของสกิลหลัก",
+    "Id": 19,
+    "IsHide": 0,
+    "ObjectId": 94,
+    "Sort": 19,
+    "Type": 1
+  },
+  "2": {
+    "Desc": "ระดับ Rare: Epic<br>Spec: [Human][Resource]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: ATK ของตัวเอง +[1%*Lv. รวมของ Attunement Imagine ทั้งหมดในสนาม] ;และราคาขายในร้านค้าของตัวเองลดลง 50%<br>โจมตีทั่วไป: ปล่อยอุกกาบาตโจมตีเป้าหมายเดี่ยวภายในระยะอย่างต่อเนื่อง<br>สกิลหลัก: เรียก Deer Spirit พุ่งไปด้านหน้า ทุก Attunement Imagine ประเภท Human ในสนาม 1 ตัว จะทำงานเพิ่มอีก 1 ครั้ง<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เมื่อโจมตีจะได้รับ Attunement - Crystalshard 10 แต้ม เวลา CD 3 วินาที<br>Attunement Imagine Lv.5: เมื่อโจมตีจะได้รับ Attunement - Crystalshard 15 แต้ม เวลา CD 1 วินาที",
+    "Id": 2,
+    "IsHide": 0,
+    "ObjectId": 6,
+    "Sort": 2,
+    "Type": 1
+  },
+  "3": {
+    "Desc": "ระดับ Rare: Epic<br>Spec: [Human][Burn]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: เมื่อเกิด DMG จาก Burn ภายในระยะ จะทำให้ DMG ไฟทำงานเพิ่มเติมอีก 1 ครั้ง<br>โจมตีทั่วไป: หมุนตัวสร้าง DMG เป็นวงกว้างและติด Burn<br>สกิลหลัก: ฟันปล่อยแสงขวานไปด้านหน้า สร้าง DMG จำนวนมาก เป้าหมายทุก 1 Stack ของ Burn จะทำให้ DMG ครั้งนี้ +20%<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: ทุกการติด Burn 10 ครั้ง การโจมตีครั้งถัดไปจะปล่อย Purgatory Train ใส่เป้าหมาย<br>Attunement Imagine Lv.5: จำนวนในการติด Burn ลดเหลือ 6 และ DMG ของ Purgatory Train+100%",
+    "Id": 3,
+    "IsHide": 0,
+    "ObjectId": 11,
+    "Sort": 3,
+    "Type": 1
+  },
+  "4": {
+    "Desc": "ระดับ Rare: Epic<br>Spec: [Human][Charge]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: เพิ่มจำนวน Stack ของ Charge สูงสุดเป็น 20 Stack<br>โจมตีทั่วไป: ปกติจะไม่โจมตี แต่จะเข้าสู่สถานะ Charge ทุก 3 วินาทีจะได้รับ 1 Stack สูงสุด 20 Stack เมื่อนักผจญภัยเข้ามาในระยะจะทำให้สกิลทำงาน<br>สกิลหลัก: ฟาดปล่อยคมดาบนับไม่ถ้วน สร้าง DMG เป็นวงกว้าง และใช้ Stack ของ Charge ทั้งหมดเพื่อเพิ่ม DMG อีก [40%*จำนวน Stack ของ Charge]<br>เวลา CD: ไม่มี<br>Attunement Imagine Lv.3: ทุก 10 วินาทีจะล็อกเป้าหมายที่ใกล้ที่สุด 1 เป้าหมายเพื่อยิงคมดาบ<br>Attunement Imagine Lv.5: จำนวนเป้าหมายคมดาบ +2",
+    "Id": 4,
+    "IsHide": 0,
+    "ObjectId": 16,
+    "Sort": 4,
+    "Type": 1
+  },
+  "5": {
+    "Desc": "ระดับ Rare: Epic<br>Spec: [Human]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม นักผจญภัยได้รับเรทเร่งคูลดาวน์สกิล +50% (ไม่สามารถซ้อนทับได้)<br>โจมตีทั่วไป: แทงไปด้านหน้าพร้อมหมุนหอก สร้าง DMG เป็นวงกว้าง<br>สกิลหลัก: Attunement Imagine ที่อยู่ใกล้ตัวเองที่สุด 5 ตัว จะได้รับเรทเร่งคูลดาวน์ 100% เป็นเวลา 5 วินาที<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: ความเร็วเคลื่อนที่ของนักผจญภัย +25% และโบนัส DMG +25%<br>Attunement Imagine Lv.5: ความเร็วเคลื่อนที่ของนักผจญภัย +50% และโบนัส DMG +50%",
+    "Id": 5,
+    "IsHide": 0,
+    "ObjectId": 21,
+    "Sort": 5,
+    "Type": 1
+  },
+  "6": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: [Charge]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ทุก 10 วินาทีจะสุ่มปล่อย Ground Wave ใส่เป้าหมาย 3 ตัว พร้อมติดสถานะ Wound<br>โจมตีทั่วไป: ปกติจะไม่โจมตี แต่จะเข้าสู่สถานะ Charge ทุก 3 วินาทีจะได้รับ 1 Stack สูงสุด 10 Stack เมื่อนักผจญภัยเข้ามาในระยะจะทำให้สกิลทำงาน<br>สกิลหลัก: ปล่อย Hell Thrust พื้นที่กว้าง สร้าง DMG รุนแรง และใช้ Stack ของ Charge ทั้งหมดเพื่อเพิ่ม DMG อีก [30%*จำนวน Stack ของ Charge]<br>เวลา CD: ไม่มี<br>Attunement Imagine Lv.3: DMG จาก Passive จะเพิ่มสถานะ Vulnerability 10% เป็นเวลา 5 วินาที<br>Attunement Imagine Lv.5: DMG จาก Passive จะเพิ่มสถานะ Vulnerability+10%",
+    "Id": 6,
+    "IsHide": 0,
+    "ObjectId": 26,
+    "Sort": 6,
+    "Type": 1
+  },
+  "7": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: ไม่มี<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: สร้าง DMG ต่อเป้าหมายที่ถูกตรึง +100%<br>โจมตีทั่วไป: พ่นใยแมงมุมใส่เป้าหมายที่ยังไม่ถูกตรึงเป็นอันดับแรก สร้าง DMG และมีโอกาส 40% ที่จะตรึงเป้าหมายเป็นเวลา 5 วินาที<br>สกิลหลัก: ดำดินแล้วพุ่งขึ้นมา สร้าง DMG เป็นวงกว้าง และทำให้เป้าหมาย Stun 1 วินาทีแน่นอน<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: โอกาสติดสถานะตรึงเพิ่มเป็น 100%<br>Attunement Imagine Lv.5: ระยะเวลา Stun เพิ่มเป็น 2.5 วินาที",
+    "Id": 7,
+    "IsHide": 0,
+    "ObjectId": 31,
+    "Sort": 7,
+    "Type": 1
+  },
+  "8": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: [Resource]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ทุก Attunement - Crystalshard 100 แต้มที่นักผจญภัยมี จะเพิ่มโบนัส DMG ให้ Celestial Flier 1% สูงสุด 100%<br>โจมตีทั่วไป: ปล่อย Water Orb ตกลงมา สร้าง DMG เป็นวงกว้างและติด Slow<br>สกิลหลัก: อัญเชิญ Phantom Skyfish 1 ตัวพุ่งไปด้านหน้า<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: จำนวน Flying Fish +1 และเรทการได้รับ Attunement - Crystalshard ของนักผจญภัย +5%<br>Attunement Imagine Lv.5: จำนวน SkyFish +2 และเรทการได้รับ Attunement - Crystalshard ของนักผจญภัย +10%",
+    "Id": 8,
+    "IsHide": 0,
+    "ObjectId": 36,
+    "Sort": 8,
+    "Type": 1
+  },
+  "9": {
+    "Desc": "ระดับ Rare: Rare<br>Spec: [Burn]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: ยิ่ง HP ของตัวเองสูง ATK ก็จะยิ่งสูง สูงสุด +200% แต่จะเสีย HP ต่อเนื่อง<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: พ่นไฟต่อเนื่องไปด้านหน้า สร้าง DMG และติด Burn<br>เวลา CD: 8 วินาที<br>Attunement Imagine Lv.3: เมื่อโจมตีฟื้น HP 5% <br>Attunement Imagine Lv.5: จำนวนฮีลที่เกินจะกลายเป็นโล่",
+    "Id": 9,
+    "IsHide": 0,
+    "ObjectId": 41,
+    "Sort": 9,
+    "Type": 1
+  }
+}

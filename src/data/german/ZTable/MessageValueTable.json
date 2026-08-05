@@ -1,0 +1,477 @@
+{
+  "1": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Schwingt die Sense 3-mal hintereinander. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % des ANG x 3</style>.<br><br><style=\"tipsYellow\">Weltuntergangsring</style>: Entfesselt 2 Ringe. <br>Angriffsreichweite: <style=\"accent-gn\">{*val3*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val4*} % des ANG x Anzahl der Ringe</style>.<br>Abklingzeit: <style=\"accent-gn\">{*val5*} Sek.</style>.<br>",
+    "Id": 1,
+    "ValueExchange": []
+  },
+  "10": {
+    "Desc": "St. 5: ANG +{*val1*} %; gewährt beim Angriff {*val2*} zusätzliche Einstimmungs-Kristallsplitter.",
+    "Id": 10,
+    "ValueExchange": [15.0, 5.0]
+  },
+  "11": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Dreht sich und fügt dem Ziel Verbrennung zu. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % des </style>ANG.<br><br><style=\"tipsYellow\">Himmelsglut-Axt</style>: Spaltet mit einem Axtlicht nach vorne. Für jeden Verbrennungs-Stapel auf dem Ziel wird dieser Schaden um <style=\"accent-gn\">{*val3*}</style> erhöht. <br>Angriffsreichweite: <style=\"accent-gn\">{*val4*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val5*} % des </style>ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val6*} Sek.</style>.<br>",
+    "Id": 11,
+    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+  },
+  "12": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 12,
+    "ValueExchange": [45.0]
+  },
+  "13": {
+    "Desc": "St. 3: ANG +{*val1*} %; für jedes {*val2*}. Mal, dass Verbrennung zugefügt wird, entfesselt der nächste Angriff den Fegefeuerzug auf das Ziel.",
+    "Id": 13,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "14": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Tatta).",
+    "Id": 14,
+    "ValueExchange": [35.0]
+  },
+  "15": {
+    "Desc": "St. 5: ANG +{*val1*} %; die Anforderung für die Anzahl der zugefügten Verbrennungen wurde auf {*val2*} reduziert; Schaden von Fegefeuerzug +{*val3*} %.",
+    "Id": 15,
+    "ValueExchange": [15.0, 6.0, 100.0]
+  },
+  "16": {
+    "Desc": "<style=\"tipsYellow\">Tausend-Lichter-Schlag</style>: Spaltet unzählige Klingenstrahlen ab und verbraucht alle Aufladungsstapel, um den Schaden um <style=\"accent-gn\">{*val1*} %</style> x Aufladungsstapel zu erhöhen. <br>Angriffsreichweite: <style=\"accent-gn\">{*val2*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val3*} % des </style>ANG.<br>",
+    "Id": 16,
+    "ValueExchange": [40.0, 8.0, 688.0]
+  },
+  "17": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 17,
+    "ValueExchange": [45.0]
+  },
+  "18": {
+    "Desc": "St. 3: ANG +{*val1*} %; erfasst alle {*val2*} Sek. die {*val3*} nächstgelegenen Ziele, um Klingenstrahlen abzufeuern.",
+    "Id": 18,
+    "ValueExchange": [25.0, 10.0, 1.0]
+  },
+  "19": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Olvera).",
+    "Id": 19,
+    "ValueExchange": [35.0]
+  },
+  "2": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 2,
+    "ValueExchange": [45.0]
+  },
+  "20": {
+    "Desc": "St. 5: ANG +{*val1*} %; Klingenstrahl erfasst {*val2*} weitere Ziele.",
+    "Id": 20,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "21": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Stößt nach vorne und dreht den Bannerspeer. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % des </style>ANG.<br><br><style=\"tipsYellow\">Zeitbefehl</style>: Beschleunigung der Fähigkeiten-Abklingzeit für die <style=\"accent-gn\">{*val3*}</style> nächstgelegenen Einstimmungsvorstellungen +<style=\"accent-gn\">{*val4*} %</style> für <style=\"accent-gn\">{*val5*} Sek.</style>. <br>Wirkungsbereich: Gesamtes Feld.<br>SCH-Multiplikator: Keiner.<br>Abklingzeit: <style=\"accent-gn\">{*val6*} Sek.</style>.<br>",
+    "Id": 21,
+    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+  },
+  "22": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 22,
+    "ValueExchange": [45.0]
+  },
+  "23": {
+    "Desc": "St. 3: ANG +{*val1*} %; während sie sich auf dem Feld befinden: Bewegungsgeschwindigkeit von Abenteurern +{*val2*} und Schadensschub +{*val3*}.",
+    "Id": 23,
+    "ValueExchange": [25.0, 25.0, 25.0]
+  },
+  "24": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Tina).",
+    "Id": 24,
+    "ValueExchange": [35.0]
+  },
+  "25": {
+    "Desc": "St. 5: ANG +{*val1*} %; während sie sich auf dem Feld befinden: Bewegungsgeschwindigkeit von Abenteurern zusätzlich +{*val2*} und Schadensschub zusätzlich +{*val3*}.",
+    "Id": 25,
+    "ValueExchange": [15.0, 25.0, 25.0]
+  },
+  "26": {
+    "Desc": "<style=\"tipsYellow\">Höllenfels-Stacheln</style>: Entfesselt Bodenstacheln und verbraucht alle Aufladungsstapel, um den Schaden um <style=\"accent-gn\">{*val1*} %</style> x Aufladungsstapel zu erhöhen. <br>Angriffsreichweite: <style=\"accent-gn\">{*val2*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val3*} % des </style>ANG.<br>Abklingzeit: Keine.<br>",
+    "Id": 26,
+    "ValueExchange": [30.0, 9.0, 418.0]
+  },
+  "27": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 27,
+    "ValueExchange": [45.0]
+  },
+  "28": {
+    "Desc": "St. 3: ANG +{*val1*} %; durch Passive verursachter Schaden fügt {*val2*} % Verwundbarkeit zu.",
+    "Id": 28,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "29": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Eisenfangzahn).",
+    "Id": 29,
+    "ValueExchange": [35.0]
+  },
+  "3": {
+    "Desc": "St. 3: ANG +{*val1*} %; Anzahl der Ringe +{*val2*}.",
+    "Id": 3,
+    "ValueExchange": [25.0, 3.0]
+  },
+  "30": {
+    "Desc": "St. 5: ANG +{*val1*} %; Verwundbarkeitseffekt zusätzlich +{*val2*} %.",
+    "Id": 30,
+    "ValueExchange": [15.0, 10.0]
+  },
+  "31": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Spuckt bevorzugt Spinnenseide auf nicht verwurzelte Ziele, mit einer Chance von <style=\"accent-gn\">{*val1*} %</style>, das Ziel für <style=\"accent-gn\">{*val2*} Sek.</style> zu verwurzeln. <br>Angriffsreichweite: <style=\"accent-gn\">{*val3*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val4*} % des </style>ANG.<br><br><style=\"tipsYellow\">Spinnenschlag</style>: Gräbt sich für 1 Sek. ein und taucht dann wieder auf, was eine 1-sekündige Betäubung beim Ziel garantiert. <br>Angriffsreichweite: <style=\"accent-gn\">{*val5*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val6*} % des </style>ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val7*} Sek.</style>.<br>",
+    "Id": 31,
+    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+  },
+  "32": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 32,
+    "ValueExchange": [45.0]
+  },
+  "33": {
+    "Desc": "St. 3: ANG +{*val1*} %; Chance auf Bewegungsunfähigkeit auf {*val2*} % erhöht.",
+    "Id": 33,
+    "ValueExchange": [40.0, 100.0]
+  },
+  "34": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Phantom-Spinnenkrabbe).",
+    "Id": 34,
+    "ValueExchange": [35.0]
+  },
+  "35": {
+    "Desc": "St. 5: ANG +{*val1*} %; Betäubungsdauer +{*val2*} Sek.",
+    "Id": 35,
+    "ValueExchange": [30.0, 2.5]
+  },
+  "36": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Entfesselt <style=\"accent-gn\">{*val1*}</style> fallende Wasserkugeln, die Verlangsamung verursachen. <br>Angriffsreichweite: <style=\"accent-gn\">{*val2*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val3*} % des ANG x Anzahl der Wasserkugeln</style>.<br><br><style=\"tipsYellow\">Fisch-Fiesta</style>: Beschwört 1 Phantom-Himmelsfisch, der nach vorne stürmt. <br>Angriffsreichweite: <style=\"accent-gn\">{*val4*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val5*} % des </style>ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val6*} Sek.</style>.<br>",
+    "Id": 36,
+    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+  },
+  "37": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 37,
+    "ValueExchange": [45.0]
+  },
+  "38": {
+    "Desc": "St. 3: ANG +{*val1*} %; Himmelsfisch +{*val2*}; Beuterate von Einstimmungs-Kristallsplittern +{*val3*} %.",
+    "Id": 38,
+    "ValueExchange": [25.0, 1.0, 5.0]
+  },
+  "39": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Himmelsflieger).",
+    "Id": 39,
+    "ValueExchange": [35.0]
+  },
+  "4": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Verderbensfürst).",
+    "Id": 4,
+    "ValueExchange": [35.0]
+  },
+  "40": {
+    "Desc": "St. 5: ANG +{*val1*} %; Himmelsfisch zusätzlich +{*val2*}; Beuterate von Einstimmungs-Kristallsplittern zusätzlich +{*val3*} %.",
+    "Id": 40,
+    "ValueExchange": [15.0, 1.0, 5.0]
+  },
+  "41": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Führt 2 Vorwärtsschläge aus. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % des M-ANG x 2</style>.<br><br><style=\"tipsYellow\">Tödliches Versengen</style>: Atmet 5 Sek. lang kontinuierlich Feuer nach vorne aus und verursacht Verbrennung. <br>Angriffsreichweite: <style=\"accent-gn\">{*val3*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val4*} % des </style>M-ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val5*} Sek.</style>.<br>",
+    "Id": 41,
+    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+  },
+  "42": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 42,
+    "ValueExchange": [45.0]
+  },
+  "43": {
+    "Desc": "St. 3: ANG +{*val1*} %; stellt beim Angriff {*val2*} % LP wieder her.",
+    "Id": 43,
+    "ValueExchange": [40.0, 5.0]
+  },
+  "44": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Inferno-Oger).",
+    "Id": 44,
+    "ValueExchange": [35.0]
+  },
+  "45": {
+    "Desc": "St. 5: ANG +{*val1*} %; überschüssige Heilung wird in einen Schild umgewandelt.",
+    "Id": 45,
+    "ValueExchange": [30.0]
+  },
+  "46": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Stampft auf das Ziel. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % des </style>ANG.<br><br><style=\"tipsYellow\">Himmelsdonnerschild</style>: Erhält einen Donnerschild. Entfesselt alle <style=\"accent-gn\">{*val3*} Sek.</style> einen Donnerschlag auf 1 zufälliges Ziel. <br>Angriffsreichweite: <style=\"accent-gn\">{*val4*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val5*} % des </style>ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val6*} Sek.</style>.<br>",
+    "Id": 46,
+    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+  },
+  "47": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 47,
+    "ValueExchange": [45.0]
+  },
+  "48": {
+    "Desc": "St. 3: ANG +{*val1*} %; wenn das angegriffene Ziel unter Verbrennung leidet, wird diese Verbrennung verbraucht, um 1 Donnerfeuer-Vernichtung auszulösen, die massiven Flächenschaden verursacht.",
+    "Id": 48,
+    "ValueExchange": [25.0]
+  },
+  "49": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Sturm-Oger).",
+    "Id": 49,
+    "ValueExchange": [35.0]
+  },
+  "5": {
+    "Desc": "St. 5: ANG +{*val1*} %; Ringreichweite +{*val2*} %.",
+    "Id": 5,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "50": {
+    "Desc": "St. 5: ANG +{*val1*} %; Donnerfeuer-Vernichtung verbraucht nicht länger die Verbrennung des Ziels.",
+    "Id": 50,
+    "ValueExchange": [15.0]
+  },
+  "51": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Atmet 5 Sek. lang kontinuierlich Eis nach vorne aus. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % des </style>ANG.<br><br><style=\"tipsYellow\">Null-Grad-Domäne</style>: Entfesselt Eisstacheln auf 3 zufällige Ziele. <br>Angriffsreichweite: <style=\"accent-gn\">{*val3*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val4*} % des </style>ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val5*} Sek.</style>.<br>",
+    "Id": 51,
+    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+  },
+  "52": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 52,
+    "ValueExchange": [45.0]
+  },
+  "53": {
+    "Desc": "St. 3: ANG +{*val1*} %; Kristallsplitter-Haufen bilden sich bei Eisstacheln. Das Aufsammeln gewährt zufällig {*val2*} bis {*val3*} Einstimmungs-Kristallsplitter.",
+    "Id": 53,
+    "ValueExchange": [25.0, 1.0, 20.0]
+  },
+  "54": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Frost-Oger).",
+    "Id": 54,
+    "ValueExchange": [35.0]
+  },
+  "55": {
+    "Desc": "St. 5: ANG +{*val1*} %; Anzahl der Eisstacheln +{*val2*}.",
+    "Id": 55,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "56": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Beschwört 1 Muku, um im Kampf zu helfen. Wenn bereits ein Muku auf dem Feld ist, wird die Angriffs-GES aller selbst beschworenen Mukus erhöht. Ist bis zu <style=\"accent-gn\">{*val1*}</style>-mal stapelbar. <br>Angriffsreichweite: Keine.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % des </style>ANG.<br><br><style=\"tipsYellow\">Wille des Bosses</style>: Heilt die LP von Verbündeten in Reichweite um <style=\"accent-gn\">{*val3*} %</style> und erhöht ihren ANG für <style=\"accent-gn\">{*val5*} Sek.</style> um <style=\"accent-gn\">{*val4*} %</style>. <br>Wirkungsbereich: <style=\"accent-gn\">{*val6*}</style>.<br>SCH-Multiplikator: Keiner.<br>Abklingzeit: <style=\"accent-gn\">{*val7*} Sek.</style>.<br>",
+    "Id": 56,
+    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+  },
+  "57": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 57,
+    "ValueExchange": [45.0]
+  },
+  "58": {
+    "Desc": "St. 3: ANG +{*val1*} %; beschwört 1 zusätzliche Muku-Armbrust.",
+    "Id": 58,
+    "ValueExchange": [25.0]
+  },
+  "59": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Muku-König).",
+    "Id": 59,
+    "ValueExchange": [35.0]
+  },
+  "6": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Lässt alle <style=\"accent-gn\">{*val1*} Sek.</style> 1 Meteoriten fallen. <br>Angriffsreichweite: <style=\"accent-gn\">{*val2*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val3*} % des </style>M-ANG.<br><br><style=\"tipsYellow\">Geisterhirsch-Ansturm</style>: Beschwört einen Geisterhirsch, der nach vorne stürmt. Wird für jede Einstimmungsvorstellung des Humanoid-Typs auf dem Feld 1-mal zusätzlich ausgelöst. <br>Angriffsreichweite: <style=\"accent-gn\">{*val4*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val5*} % des </style>M-ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val6*} Sek.</style>.<br>",
+    "Id": 6,
+    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+  },
+  "60": {
+    "Desc": "St. 5: ANG +{*val1*} %; beschwört 1 zusätzlichen Muku-Anführer.",
+    "Id": 60,
+    "ValueExchange": [15.0]
+  },
+  "61": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Führt einen Abwärtsschlag nach vorne aus. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % des </style>ANG.<br><br><style=\"tipsYellow\">Großer Schwung</style>: Führt 2 Schwünge nach vorne aus. <br>Angriffsreichweite: <style=\"accent-gn\">{*val3*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val4*} % des ANG x 2</style>.<br>Abklingzeit: <style=\"accent-gn\">{*val5*} Sek.</style>.<br>",
+    "Id": 61,
+    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+  },
+  "62": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 62,
+    "ValueExchange": [45.0]
+  },
+  "63": {
+    "Desc": "St. 3: ANG +{*val1*} %; Standardangriff setzt {*val2*} zusätzliche bodenspaltende Welle(n) frei und Angriffsreichweite +{*val3*} %.",
+    "Id": 63,
+    "ValueExchange": [25.0, 2.0, 50.0]
+  },
+  "64": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Goblin-König).",
+    "Id": 64,
+    "ValueExchange": [35.0]
+  },
+  "65": {
+    "Desc": "St. 5: ANG +{*val1*} %; Schaden +{*val2*} %.",
+    "Id": 65,
+    "ValueExchange": [15.0, 20.0]
+  },
+  "66": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Führt einen Hieb nach vorne aus. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % </style>M-ANG.<br><br><style=\"tipsYellow\">Herr der Winde</style>: Setzt Tornados auf 2 zufällige Ziele frei. <br>Angriffsreichweite: <style=\"accent-gn\">{*val3*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val4*} % M-ANG x {*val5*} Sek.</style>.<br>Abklingzeit: <style=\"accent-gn\">{*val6*} Sek.</style>.<br>",
+    "Id": 66,
+    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+  },
+  "67": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 67,
+    "ValueExchange": [45.0]
+  },
+  "68": {
+    "Desc": "St. 3: ANG +{*val1*} %; für jede aufladende Einstimmungsvorstellung auf dem Feld Tornado-Menge +{*val2*}, bis zu einem Maximum von +{*val3*}.",
+    "Id": 68,
+    "ValueExchange": [25.0, 1.0, 3.0]
+  },
+  "69": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Sturm-Goblin-König).",
+    "Id": 69,
+    "ValueExchange": [35.0]
+  },
+  "7": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 7,
+    "ValueExchange": [45.0]
+  },
+  "70": {
+    "Desc": "St. 5: ANG +{*val1*} %; bei jedem Erscheinen eines Tornados erhöht sich der Schaden, der durch die nächste Fähigkeit der aufladenden Einstimmungsvorstellungen verursacht wird, stapelbar bis zu {*val2*}.",
+    "Id": 70,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "71": {
+    "Desc": "<style=\"tipsYellow\">Flammenwirbel</style>: Dreht sich und verursacht Verbrennung. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % </style>ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val3*} Sek.</style>.<br>",
+    "Id": 71,
+    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+  },
+  "72": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 72,
+    "ValueExchange": [45.0]
+  },
+  "73": {
+    "Desc": "St. 3: ANG +{*val1*} %; gewährt {*val2*} Einstimmungs-Kristallsplitter, wenn ein Ziel unter Verbrennung stirbt.",
+    "Id": 73,
+    "ValueExchange": [40.0, 15.0]
+  },
+  "74": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Brigantenboss).",
+    "Id": 74,
+    "ValueExchange": [35.0]
+  },
+  "75": {
+    "Desc": "St. 5: ANG +{*val1*} %; gewährt {*val2*} zusätzliche Einstimmungs-Kristallsplitter, wenn ein Ziel unter Verbrennung stirbt.",
+    "Id": 75,
+    "ValueExchange": [30.0, 15.0]
+  },
+  "76": {
+    "Desc": "<style=\"tipsYellow\">Donnerkugel</style>: Beschwört eine Donnerkugel, die alle <style=\"accent-gn\">{*val1*} Sek.</style> 1 zufälliges Ziel mit Donnerschlag trifft. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>SCH-Multiplikator: <style=\"accent-gn\">{*val2*} % </style>ANG.<br>Abklingzeit: <style=\"accent-gn\">{*val3*} Sek.</style>.<br>",
+    "Id": 76,
+    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+  },
+  "77": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 77,
+    "ValueExchange": [45.0]
+  },
+  "78": {
+    "Desc": "St. 3: ANG +{*val1*} %.",
+    "Id": 78,
+    "ValueExchange": [40.0]
+  },
+  "79": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Goldener Moloch).",
+    "Id": 79,
+    "ValueExchange": [35.0]
+  },
+  "8": {
+    "Desc": "St. 3: ANG +{*val1*} %; gewährt beim Angriff {*val2*} Einstimmungs-Kristallsplitter.",
+    "Id": 8,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "80": {
+    "Desc": "St. 5: ANG +{*val1*} %.",
+    "Id": 80,
+    "ValueExchange": [30.0]
+  },
+  "81": {
+    "Desc": "<style=\"tipsYellow\">Rasender Schmetterschlag</style>: Löst 3 aufeinanderfolgende Bodenerschütterungen aus. <br>Angriffsreichweite: <style=\"accent-gn\">{*val1*}</style>.<br>Schadensmultiplikator: <style=\"accent-gn\">{*val2*} % ANG x 3</style>.<br>Abklingzeit: <style=\"accent-gn\">{*val3*} s</style>.<br>",
+    "Id": 81,
+    "ValueExchange": [14.0, 133.0, 8.0]
+  },
+  "82": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 82,
+    "ValueExchange": [45.0]
+  },
+  "83": {
+    "Desc": "St. 3: ANG +{*val1*} %.",
+    "Id": 83,
+    "ValueExchange": [40.0]
+  },
+  "84": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Muku-Anführer).",
+    "Id": 84,
+    "ValueExchange": [35.0]
+  },
+  "85": {
+    "Desc": "St. 5: ANG +{*val1*} %.",
+    "Id": 85,
+    "ValueExchange": [30.0]
+  },
+  "86": {
+    "Desc": "<style=\"tipsYellow\">Standardangriff</style>: Setzt 1 Wasserwelle frei, um <style=\"accent-gn\">{*val1*} %</style> Verlangsamung anzuwenden. <br>Angriffsreichweite: <style=\"accent-gn\">{*val2*}</style>.<br>Schadensmultiplikator: <style=\"accent-gn\">{*val3*} % </style>M-ANG.<br><br><style=\"tipsYellow\">Wirbel</style>: Setzt einen Wasserwirbel frei, um kontinuierlich <style=\"accent-gn\">{*val4*} %</style> Verlangsamung anzuwenden. <br>Angriffsreichweite: <style=\"accent-gn\">{*val5*}</style>.<br>Schadensmultiplikator: <style=\"accent-gn\">{*val6*} % M-ANG x {*val7*} s</style>.<br>Abklingzeit: <style=\"accent-gn\">{*val8*} s</style>.<br>",
+    "Id": 86,
+    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+  },
+  "87": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 87,
+    "ValueExchange": [45.0]
+  },
+  "88": {
+    "Desc": "St. 3: ANG +{*val1*} %.",
+    "Id": 88,
+    "ValueExchange": [40.0]
+  },
+  "89": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Echsenmensch-König).",
+    "Id": 89,
+    "ValueExchange": [35.0]
+  },
+  "9": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Airona).",
+    "Id": 9,
+    "ValueExchange": [35.0]
+  },
+  "90": {
+    "Desc": "St. 5: ANG +{*val1*} %.",
+    "Id": 90,
+    "ValueExchange": [30.0]
+  },
+  "91": {
+    "Desc": "<style=\"tipsYellow\">Giftgeysir</style>: Setzt einen Giftgeysir auf <style=\"accent-gn\">{*val1*}</style> zufällige(s) Ziel(e) frei und wendet Korrosion an (bis zu <style=\"accent-gn\">{*val2*}</style> Stapel). <br>Angriffsreichweite: <style=\"accent-gn\">{*val3*}</style>.<br>Schadensmultiplikator: <style=\"accent-gn\">{*val4*} % M-ANG x {*val5*} s</style>.<br>Abklingzeit: <style=\"accent-gn\">{*val6*} s.</style><br>",
+    "Id": 91,
+    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+  },
+  "92": {
+    "Desc": "St. 2: ANG +{*val1*}%.",
+    "Id": 92,
+    "ValueExchange": [45.0]
+  },
+  "93": {
+    "Desc": "St. 3: ANG +{*val1*} %.",
+    "Id": 93,
+    "ValueExchange": [40.0]
+  },
+  "94": {
+    "Desc": "St. 4: ANG +{*val1*} % (Erfordert Kampfvorstellung – Giftbssar-Inkubator).",
+    "Id": 94,
+    "ValueExchange": [35.0]
+  },
+  "95": {
+    "Desc": "St. 5: ANG +{*val1*} %.",
+    "Id": 95,
+    "ValueExchange": [30.0]
+  }
+}

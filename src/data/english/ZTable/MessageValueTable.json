@@ -1,0 +1,477 @@
+{
+  "1": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Swing the scythe 3 times consecutively. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% ATK x 3</style>.<br><br><style=\"tipsYellow\">Doomsday Ring</style>: Release 2 rings. <br>Attack Range: <style=\"accent-gn\">{*val3*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val4*}% ATK x Number of Rings</style>.<br>CD: <style=\"accent-gn\">{*val5*}s</style>.<br>",
+    "Id": 1,
+    "ValueExchange": []
+  },
+  "10": {
+    "Desc": "Lv.5: ATK +{*val1*}%; obtain {*val2*} extra Attunement Crystalshard(s) when attacking.",
+    "Id": 10,
+    "ValueExchange": [15.0, 5.0]
+  },
+  "11": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Spin and apply Burn to the target. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>ATK.<br><br><style=\"tipsYellow\">Skyblaze Axe</style>: Cleave forward with an axe light. For each stack of Burn on the target, this damage is increased by <style=\"accent-gn\">{*val3*}</style>. <br>Attack Range: <style=\"accent-gn\">{*val4*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val5*}% </style>ATK.<br>CD: <style=\"accent-gn\">{*val6*}s</style>.<br>",
+    "Id": 11,
+    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+  },
+  "12": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 12,
+    "ValueExchange": [45.0]
+  },
+  "13": {
+    "Desc": "Lv.3: ATK +{*val1*}%; for every {*val2*} time(s) Burn is applied, the next attack releases Purgatory Train on the target.",
+    "Id": 13,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "14": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Tatta).",
+    "Id": 14,
+    "ValueExchange": [35.0]
+  },
+  "15": {
+    "Desc": "Lv.5: ATK +{*val1*}%; requirement for applied Burn counts has been reduced to {*val2*}; Purgatory Train damage +{*val3*}%.",
+    "Id": 15,
+    "ValueExchange": [15.0, 6.0, 100.0]
+  },
+  "16": {
+    "Desc": "<style=\"tipsYellow\">Thousand Lights Slash</style>: Cleave out countless blade beams, consuming all charge stacks to increase damage by <style=\"accent-gn\">{*val1*}%</style> x charge stacks. <br>Attack Range: <style=\"accent-gn\">{*val2*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val3*}% </style>ATK.<br>",
+    "Id": 16,
+    "ValueExchange": [40.0, 8.0, 688.0]
+  },
+  "17": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 17,
+    "ValueExchange": [45.0]
+  },
+  "18": {
+    "Desc": "Lv.3: ATK +{*val1*}%; lock onto {*val3*} nearest target(s) every {*val2*}s to fire blade beams.",
+    "Id": 18,
+    "ValueExchange": [25.0, 10.0, 1.0]
+  },
+  "19": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Olvera).",
+    "Id": 19,
+    "ValueExchange": [35.0]
+  },
+  "2": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 2,
+    "ValueExchange": [45.0]
+  },
+  "20": {
+    "Desc": "Lv.5: ATK +{*val1*}%; blade beam locks onto {*val2*} more target(s).",
+    "Id": 20,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "21": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Thrust forward and spin the banner spear. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>ATK.<br><br><style=\"tipsYellow\">Time Order</style>: Skill CD acceleration for the <style=\"accent-gn\">{*val3*}</style> nearest Attunement Imagine(s) +<style=\"accent-gn\">{*val4*}%</style>, lasting <style=\"accent-gn\">{*val5*}s</style>. <br>Effect Range: Entire Field.<br>Damage Multiplier: None.<br>CD: <style=\"accent-gn\">{*val6*}s</style>.<br>",
+    "Id": 21,
+    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+  },
+  "22": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 22,
+    "ValueExchange": [45.0]
+  },
+  "23": {
+    "Desc": "Lv.3: ATK +{*val1*}%; while on the field, Adventurer Movement Speed +{*val2*} and Damage Boost +{*val3*}.",
+    "Id": 23,
+    "ValueExchange": [25.0, 25.0, 25.0]
+  },
+  "24": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Tina).",
+    "Id": 24,
+    "ValueExchange": [35.0]
+  },
+  "25": {
+    "Desc": "Lv.5: ATK +{*val1*}%; while on the field, Adventurer Movement Speed +{*val2*} additionally and Damage Boost +{*val3*} additionally.",
+    "Id": 25,
+    "ValueExchange": [15.0, 25.0, 25.0]
+  },
+  "26": {
+    "Desc": "<style=\"tipsYellow\">Hellrock Spikes</style>: Release ground spikes, consuming all charge stacks to increase damage by <style=\"accent-gn\">{*val1*}%</style> x charge stacks. <br>Attack Range: <style=\"accent-gn\">{*val2*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val3*}% </style>ATK.<br>CD: None.<br>",
+    "Id": 26,
+    "ValueExchange": [30.0, 9.0, 418.0]
+  },
+  "27": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 27,
+    "ValueExchange": [45.0]
+  },
+  "28": {
+    "Desc": "Lv.3: ATK +{*val1*}%; damage dealt by passives inflicts {*val2*}% Vulnerability.",
+    "Id": 28,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "29": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Iron Fang).",
+    "Id": 29,
+    "ValueExchange": [35.0]
+  },
+  "3": {
+    "Desc": "Lv.3: ATK +{*val1*}%; number of rings +{*val2*}.",
+    "Id": 3,
+    "ValueExchange": [25.0, 3.0]
+  },
+  "30": {
+    "Desc": "Lv.5: ATK +{*val1*}%; Vulnerability effect +{*val2*}% additionally.",
+    "Id": 30,
+    "ValueExchange": [15.0, 10.0]
+  },
+  "31": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Prioritize spitting spider silk at non-rooted targets, with a <style=\"accent-gn\">{*val1*}%</style> chance of rooting the target for <style=\"accent-gn\">{*val2*}s</style>. <br>Attack Range: <style=\"accent-gn\">{*val3*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val4*}% </style>ATK.<br><br><style=\"tipsYellow\">Spider Strike</style>: Burrow for 1s then emerge, guaranteeing a 1s Stun on the target. <br>Attack Range: <style=\"accent-gn\">{*val5*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val6*}% </style>ATK.<br>CD: <style=\"accent-gn\">{*val7*}s</style>.<br>",
+    "Id": 31,
+    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+  },
+  "32": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 32,
+    "ValueExchange": [45.0]
+  },
+  "33": {
+    "Desc": "Lv.3: ATK +{*val1*}%; immobilize chance increased to {*val2*}%.",
+    "Id": 33,
+    "ValueExchange": [40.0, 100.0]
+  },
+  "34": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Phantom Arachnocrab).",
+    "Id": 34,
+    "ValueExchange": [35.0]
+  },
+  "35": {
+    "Desc": "Lv.5: ATK +{*val1*}%; stun duration +{*val2*}s.",
+    "Id": 35,
+    "ValueExchange": [30.0, 2.5]
+  },
+  "36": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Release <style=\"accent-gn\">{*val1*}</style> dropping water orbs, applying Slow. <br>Attack Range: <style=\"accent-gn\">{*val2*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val3*}% ATK x Number of Water Orbs</style>.<br><br><style=\"tipsYellow\">Fish Frenzy</style>: Summon 1 Phantom Skyfish to charge forward. <br>Attack Range: <style=\"accent-gn\">{*val4*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val5*}% </style>ATK.<br>CD: <style=\"accent-gn\">{*val6*}s</style>.<br>",
+    "Id": 36,
+    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+  },
+  "37": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 37,
+    "ValueExchange": [45.0]
+  },
+  "38": {
+    "Desc": "Lv.3: ATK +{*val1*}%; Skyfish +{*val2*}; Attunement Crystalshard drop rate +{*val3*}%.",
+    "Id": 38,
+    "ValueExchange": [25.0, 1.0, 5.0]
+  },
+  "39": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Celestial Flier).",
+    "Id": 39,
+    "ValueExchange": [35.0]
+  },
+  "4": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Bane Lord).",
+    "Id": 4,
+    "ValueExchange": [35.0]
+  },
+  "40": {
+    "Desc": "Lv.5: ATK +{*val1*}%; Skyfish +{*val2*} additionally; Attunement Crystalshard drop rate +{*val3*}% additionally.",
+    "Id": 40,
+    "ValueExchange": [15.0, 1.0, 5.0]
+  },
+  "41": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Swing 2 forward punches. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% MATK x 2</style>.<br><br><style=\"tipsYellow\">Lethal Scorch</style>: Continuously breathe fire forward for 5s, applying Burn. <br>Attack Range: <style=\"accent-gn\">{*val3*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val4*}% </style>MATK.<br>CD: <style=\"accent-gn\">{*val5*}s</style>.<br>",
+    "Id": 41,
+    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+  },
+  "42": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 42,
+    "ValueExchange": [45.0]
+  },
+  "43": {
+    "Desc": "Lv.3: ATK +{*val1*}%; recover {*val2*}% HP when attacking.",
+    "Id": 43,
+    "ValueExchange": [40.0, 5.0]
+  },
+  "44": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Inferno Ogre).",
+    "Id": 44,
+    "ValueExchange": [35.0]
+  },
+  "45": {
+    "Desc": "Lv.5: ATK +{*val1*}%; excess healing is converted into a shield.",
+    "Id": 45,
+    "ValueExchange": [30.0]
+  },
+  "46": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Stomp the target. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>ATK.<br><br><style=\"tipsYellow\">Sky Thunder Shield</style>: Obtain a Thunder Shield. Releases a Thunderstrike on 1 random target every <style=\"accent-gn\">{*val3*}s</style>. <br>Attack Range: <style=\"accent-gn\">{*val4*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val5*}% </style>ATK.<br>CD: <style=\"accent-gn\">{*val6*}s</style>.<br>",
+    "Id": 46,
+    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+  },
+  "47": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 47,
+    "ValueExchange": [45.0]
+  },
+  "48": {
+    "Desc": "Lv.3: ATK +{*val1*}%; if the attacked target is under Burn, consumes their Burn to trigger 1 Thunderfire Annihilation, dealing massive AoE damage.",
+    "Id": 48,
+    "ValueExchange": [25.0]
+  },
+  "49": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Tempest Ogre).",
+    "Id": 49,
+    "ValueExchange": [35.0]
+  },
+  "5": {
+    "Desc": "Lv.5: ATK +{*val1*}%; ring range +{*val2*}%.",
+    "Id": 5,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "50": {
+    "Desc": "Lv.5: ATK +{*val1*}%; Thunderfire Annihilation no longer consumes the target's Burn.",
+    "Id": 50,
+    "ValueExchange": [15.0]
+  },
+  "51": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Continuously breathe ice forward for 5s. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>ATK.<br><br><style=\"tipsYellow\">Zero-Degree Domain</style>: Release Ice Spikes on 3 random targets. <br>Attack Range: <style=\"accent-gn\">{*val3*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val4*}% </style>ATK.<br>CD: <style=\"accent-gn\">{*val5*}s</style>.<br>",
+    "Id": 51,
+    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+  },
+  "52": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 52,
+    "ValueExchange": [45.0]
+  },
+  "53": {
+    "Desc": "Lv.3: ATK +{*val1*}%; Crystalshard clusters will form at Ice Spikes, and picking them up randomly grants {*val2*} to {*val3*} Attunement Crystalshard(s).",
+    "Id": 53,
+    "ValueExchange": [25.0, 1.0, 20.0]
+  },
+  "54": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Frost Ogre).",
+    "Id": 54,
+    "ValueExchange": [35.0]
+  },
+  "55": {
+    "Desc": "Lv.5: ATK +{*val1*}%; Ice Spike quantity +{*val2*}.",
+    "Id": 55,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "56": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Summon 1 Muku to assist in battle. If Muku is already on the field, the Attack SPD of all self-summoned Mukus will be increased, stacking up to <style=\"accent-gn\">{*val1*}</style> stacks. <br>Attack Range: None.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>ATK.<br><br><style=\"tipsYellow\">Boss's Will</style>: Heal allies within range for <style=\"accent-gn\">{*val3*}%</style> HP, and increase their ATK by <style=\"accent-gn\">{*val4*}%</style>, lasting <style=\"accent-gn\">{*val5*}s</style>. <br>Effect Range: <style=\"accent-gn\">{*val6*}</style>.<br>Damage Multiplier: None.<br>CD: <style=\"accent-gn\">{*val7*}s</style>.<br>",
+    "Id": 56,
+    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+  },
+  "57": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 57,
+    "ValueExchange": [45.0]
+  },
+  "58": {
+    "Desc": "Lv.3: ATK +{*val1*}%; summon 1 extra Crossbow Muku.",
+    "Id": 58,
+    "ValueExchange": [25.0]
+  },
+  "59": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Muku King).",
+    "Id": 59,
+    "ValueExchange": [35.0]
+  },
+  "6": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Drop 1 meteorite every <style=\"accent-gn\">{*val1*}s</style>. <br>Attack Range: <style=\"accent-gn\">{*val2*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val3*}% </style>MATK.<br><br><style=\"tipsYellow\">Spirit Deer Stampede</style>: Summon a spirit deer to charge forward. For every humanoid Attunement Imagine on the field, it is triggered 1 extra time. <br>Attack Range: <style=\"accent-gn\">{*val4*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val5*}% </style>MATK.<br>CD: <style=\"accent-gn\">{*val6*}s</style>.<br>",
+    "Id": 6,
+    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+  },
+  "60": {
+    "Desc": "Lv.5: ATK +{*val1*}%; summon 1 extra Muku Chief.",
+    "Id": 60,
+    "ValueExchange": [15.0]
+  },
+  "61": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Release a downward cleave forward. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>ATK.<br><br><style=\"tipsYellow\">Grand Sweep</style>: Release 2 sweeps forward. <br>Attack Range: <style=\"accent-gn\">{*val3*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val4*}% ATK x 2</style>.<br>CD: <style=\"accent-gn\">{*val5*}s</style>.<br>",
+    "Id": 61,
+    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+  },
+  "62": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 62,
+    "ValueExchange": [45.0]
+  },
+  "63": {
+    "Desc": "Lv.3: ATK +{*val1*}%; Basic Attack releases {*val2*} extra Ground-Splitting Wave(s), and the Attack Range +{*val3*}%.",
+    "Id": 63,
+    "ValueExchange": [25.0, 2.0, 50.0]
+  },
+  "64": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Goblin King).",
+    "Id": 64,
+    "ValueExchange": [35.0]
+  },
+  "65": {
+    "Desc": "Lv.5: ATK +{*val1*}%; Damage +{*val2*}%.",
+    "Id": 65,
+    "ValueExchange": [15.0, 20.0]
+  },
+  "66": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Release a forward slash. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>MATK.<br><br><style=\"tipsYellow\">Lord of Winds</style>: Release Tornados on 2 random targets. <br>Attack Range: <style=\"accent-gn\">{*val3*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val4*}% MATK x {*val5*}s</style>.<br>CD: <style=\"accent-gn\">{*val6*}s</style>.<br>",
+    "Id": 66,
+    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+  },
+  "67": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 67,
+    "ValueExchange": [45.0]
+  },
+  "68": {
+    "Desc": "Lv.3: ATK +{*val1*}%; for every charging Attunement Imagine on the field, Tornado quantity +{*val2*} with a max limit of +{*val3*}.",
+    "Id": 68,
+    "ValueExchange": [25.0, 1.0, 3.0]
+  },
+  "69": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Storm Goblin King).",
+    "Id": 69,
+    "ValueExchange": [35.0]
+  },
+  "7": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 7,
+    "ValueExchange": [45.0]
+  },
+  "70": {
+    "Desc": "Lv.5: ATK +{*val1*}%; every time a Tornado appears, it increases the damage dealt by the next skill of the charging Attunement Imagines, stacking up to {*val2*}.",
+    "Id": 70,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "71": {
+    "Desc": "<style=\"tipsYellow\">Flame Spin</style>: Spin and apply Burn to the target. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>ATK.<br>CD: <style=\"accent-gn\">{*val3*}s</style>.<br>",
+    "Id": 71,
+    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+  },
+  "72": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 72,
+    "ValueExchange": [45.0]
+  },
+  "73": {
+    "Desc": "Lv.3: ATK +{*val1*}%; obtain {*val2*} Attunement Crystalshard(s) when a Burn target dies.",
+    "Id": 73,
+    "ValueExchange": [40.0, 15.0]
+  },
+  "74": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Brigand Leader).",
+    "Id": 74,
+    "ValueExchange": [35.0]
+  },
+  "75": {
+    "Desc": "Lv.5: ATK +{*val1*}%; obtain {*val2*} extra Attunement Crystalshard(s) when a Burn target dies.",
+    "Id": 75,
+    "ValueExchange": [30.0, 15.0]
+  },
+  "76": {
+    "Desc": "<style=\"tipsYellow\">Thunder Orb</style>: Summon a Thunder Orb that deals Thunderstrike to 1 random target every <style=\"accent-gn\">{*val1*}s</style>. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% </style>ATK.<br>CD: <style=\"accent-gn\">{*val3*}s</style>.<br>",
+    "Id": 76,
+    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+  },
+  "77": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 77,
+    "ValueExchange": [45.0]
+  },
+  "78": {
+    "Desc": "Lv.3: ATK +{*val1*}%.",
+    "Id": 78,
+    "ValueExchange": [40.0]
+  },
+  "79": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Golden Juggernaut).",
+    "Id": 79,
+    "ValueExchange": [35.0]
+  },
+  "8": {
+    "Desc": "Lv.3: ATK +{*val1*}%; obtain {*val2*} Attunement Crystalshard(s) when attacking.",
+    "Id": 8,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "80": {
+    "Desc": "Lv.5: ATK +{*val1*}%.",
+    "Id": 80,
+    "ValueExchange": [30.0]
+  },
+  "81": {
+    "Desc": "<style=\"tipsYellow\">Frenzied Smash</style>: Release 3 consecutive ground smashes. <br>Attack Range: <style=\"accent-gn\">{*val1*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val2*}% ATK x 3</style>.<br>CD: <style=\"accent-gn\">{*val3*}s</style>.<br>",
+    "Id": 81,
+    "ValueExchange": [14.0, 133.0, 8.0]
+  },
+  "82": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 82,
+    "ValueExchange": [45.0]
+  },
+  "83": {
+    "Desc": "Lv.3: ATK +{*val1*}%.",
+    "Id": 83,
+    "ValueExchange": [40.0]
+  },
+  "84": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Muku Chief).",
+    "Id": 84,
+    "ValueExchange": [35.0]
+  },
+  "85": {
+    "Desc": "Lv.5: ATK +{*val1*}%.",
+    "Id": 85,
+    "ValueExchange": [30.0]
+  },
+  "86": {
+    "Desc": "<style=\"tipsYellow\">Basic Attack</style>: Release 1 water wave to apply <style=\"accent-gn\">{*val1*}%</style> Slow. <br>Attack Range: <style=\"accent-gn\">{*val2*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val3*}% </style>MATK.<br><br><style=\"tipsYellow\">Vortex</style>: Release a Water Vortex to continuously apply <style=\"accent-gn\">{*val4*}%</style> Slow. <br>Attack Range: <style=\"accent-gn\">{*val5*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val6*}% MATK x {*val7*}s</style>.<br>CD: <style=\"accent-gn\">{*val8*}s</style>.<br>",
+    "Id": 86,
+    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+  },
+  "87": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 87,
+    "ValueExchange": [45.0]
+  },
+  "88": {
+    "Desc": "Lv.3: ATK +{*val1*}%.",
+    "Id": 88,
+    "ValueExchange": [40.0]
+  },
+  "89": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Lizardman King).",
+    "Id": 89,
+    "ValueExchange": [35.0]
+  },
+  "9": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Airona).",
+    "Id": 9,
+    "ValueExchange": [35.0]
+  },
+  "90": {
+    "Desc": "Lv.5: ATK +{*val1*}%.",
+    "Id": 90,
+    "ValueExchange": [30.0]
+  },
+  "91": {
+    "Desc": "<style=\"tipsYellow\">Poison Geyser</style>: Release a Poison Geyser on <style=\"accent-gn\">{*val1*}</style> random target(s), applying Corrosion, stacking up to <style=\"accent-gn\">{*val2*}</style> times. <br>Attack Range: <style=\"accent-gn\">{*val3*}</style>.<br>Damage Multiplier: <style=\"accent-gn\">{*val4*}% MATK x {*val5*}s</style>.<br>CD: <style=\"accent-gn\">{*val6*}s.</style><br>",
+    "Id": 91,
+    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+  },
+  "92": {
+    "Desc": "Lv.2: ATK +{*val1*}%.",
+    "Id": 92,
+    "ValueExchange": [45.0]
+  },
+  "93": {
+    "Desc": "Lv.3: ATK +{*val1*}%.",
+    "Id": 93,
+    "ValueExchange": [40.0]
+  },
+  "94": {
+    "Desc": "Lv.4: ATK +{*val1*}% (Requires Battle Imagine - Venobzzar Incubator).",
+    "Id": 94,
+    "ValueExchange": [35.0]
+  },
+  "95": {
+    "Desc": "Lv.5: ATK +{*val1*}%.",
+    "Id": 95,
+    "ValueExchange": [30.0]
+  }
+}

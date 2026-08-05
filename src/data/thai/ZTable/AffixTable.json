@@ -10,7 +10,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "ทดสอบ Entry 1-ดาบไฟของนักรบ",
+    "Name": "Testentry1 - Warrior's Fiery Blade Crit",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1
@@ -90,7 +90,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "ผู้เฝ้าสังเกตการณ์",
+    "Name": "Watcher",
     "PauseLogic": [],
     "Remark": "爬塔事件",
     "TargetType": 3
@@ -122,7 +122,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [81, 82],
-    "Name": "Dark Corrosion",
+    "Name": "Dark Corruption",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 3
@@ -192,7 +192,7 @@
     "TargetType": 1
   },
   "106": {
-    "Description": "สร้างภาพมายาที่คุ้มกันควบคุมและฟื้นฟู HP ตาม DMG จริงที่สร้าง 1 ตัวเป็นระยะ โจมตีผู้เล่นต่อเนื่อง และพยายามร่ายกระบวนท่าสุดท้ายเพื่อสร้าง DMG สูงแก่ทั้งทีม หากภาพมายานี้ถูกทำลาย จะมอบโบนัสสเตตัส Mastery แก่ผู้เล่น",
+    "Description": "สร้าง Illusion ที่คุ้มกันควบคุมและฟื้นฟู HP ตาม DMG จริงที่สร้าง 1 ตัวเป็นระยะ โจมตีผู้เล่นต่อเนื่อง และพยายามร่ายกระบวนท่าสุดท้ายเพื่อสร้าง DMG สูงแก่ทั้งทีม หากภาพมายานี้ถูกทำลาย จะมอบโบนัสสเตตัส Mastery แก่ผู้เล่น",
     "Effect": [[3, 1, 873424, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -304,7 +304,7 @@
     "TargetType": 1
   },
   "112": {
-    "Description": "สร้างภาพมายาที่คุ้มกันควบคุมและฟื้นฟู HP ตาม DMG จริงที่สร้าง 1 ตัวเป็นระยะ โจมตีผู้เล่นต่อเนื่อง และพยายามร่ายกระบวนท่าสุดท้ายเพื่อสร้าง DMG สูงแก่ทั้งทีม หากภาพมายานี้ถูกทำลาย จะมอบโบนัสสเตตัส Mastery แก่ผู้เล่น",
+    "Description": "สร้าง Illusion ที่คุ้มกันควบคุมและฟื้นฟู HP ตาม DMG จริงที่สร้าง 1 ตัวเป็นระยะ โจมตีผู้เล่นต่อเนื่อง และพยายามร่ายกระบวนท่าสุดท้ายเพื่อสร้าง DMG สูงแก่ทั้งทีม หากภาพมายานี้ถูกทำลาย จะมอบโบนัสสเตตัส Mastery แก่ผู้เล่น",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -378,7 +378,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "อุปกรณ์กลไกที่ไม่รู้จัก",
+    "Name": "\"Unit X\"",
     "PauseLogic": [],
     "Remark": "介绍用词缀",
     "TargetType": 1
@@ -474,7 +474,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Source of Dreams",
+    "Name": "Source of Illusion",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 3
@@ -624,7 +624,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [1],
-    "Name": "ทดสอบ Entry 2-เต๋าเรียกหมาได้ 15 ตัว เดินกร่างได้ทั้งเซิร์ฟ",
+    "Name": "Testentry2 - Taoist 15 Dogs, Dominating the Region",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 3
@@ -720,7 +720,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nightmare Figment",
+    "Name": "Dreamflood Manifestation",
     "PauseLogic": [],
     "Remark": "S2核心词缀",
     "TargetType": 3
@@ -800,7 +800,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "ผลึกพลังงานมายา",
+    "Name": "Illusory Energy Crystal Cluster",
     "PauseLogic": [],
     "Remark": "S2核心词缀",
     "TargetType": 3
@@ -880,7 +880,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nightmare Figment - Rage",
+    "Name": "Dreamflood Manifestation: Rage",
     "PauseLogic": [],
     "Remark": "S2核心词缀",
     "TargetType": 3
@@ -960,7 +960,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nightmare Figment - Rupture",
+    "Name": "Dreamflood Manifestation: Rupture",
     "PauseLogic": [],
     "Remark": "S2核心词缀",
     "TargetType": 3
@@ -1040,7 +1040,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nightmare Figment - Hunt",
+    "Name": "Dreamflood Manifestation: Hunt",
     "PauseLogic": [],
     "Remark": "S2核心词缀",
     "TargetType": 3
@@ -1120,7 +1120,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nightmare Figment - Redemption",
+    "Name": "Dreamflood Manifestation: Salvation",
     "PauseLogic": [],
     "Remark": "S2核心词缀",
     "TargetType": 3
@@ -1136,7 +1136,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·衰败深处",
     "TargetType": 3
@@ -1152,7 +1152,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·衰败深处",
     "TargetType": 3
@@ -1168,7 +1168,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·衰败深处",
     "TargetType": 3
@@ -1184,7 +1184,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·衰败深处",
     "TargetType": 3
@@ -1200,7 +1200,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·岩蛇巢穴",
     "TargetType": 3
@@ -1216,7 +1216,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·岩蛇巢穴",
     "TargetType": 3
@@ -1232,7 +1232,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·岩蛇巢穴",
     "TargetType": 3
@@ -1248,7 +1248,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·岩蛇巢穴",
     "TargetType": 3
@@ -1264,7 +1264,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·荒灵祭所",
     "TargetType": 3
@@ -1280,7 +1280,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·荒灵祭所",
     "TargetType": 3
@@ -1296,7 +1296,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·荒灵祭所",
     "TargetType": 3
@@ -1312,7 +1312,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·荒灵祭所",
     "TargetType": 3
@@ -1328,7 +1328,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·沉落无音的遗迹",
     "TargetType": 3
@@ -1344,7 +1344,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·沉落无音的遗迹",
     "TargetType": 3
@@ -1360,7 +1360,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·沉落无音的遗迹",
     "TargetType": 3
@@ -1376,7 +1376,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·沉落无音的遗迹",
     "TargetType": 3
@@ -1392,7 +1392,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·噬光牢笼",
     "TargetType": 3
@@ -1408,7 +1408,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·噬光牢笼",
     "TargetType": 3
@@ -1424,7 +1424,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·噬光牢笼",
     "TargetType": 3
@@ -1440,7 +1440,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·噬光牢笼",
     "TargetType": 3
@@ -1456,7 +1456,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·幻华流月之野",
     "TargetType": 3
@@ -1472,7 +1472,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·幻华流月之野",
     "TargetType": 3
@@ -1488,7 +1488,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·幻华流月之野",
     "TargetType": 3
@@ -1504,7 +1504,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Nappo จอมป่วน",
+    "Name": "Nappo's Pandemonium",
     "PauseLogic": [],
     "Remark": "极限·幻华流月之野",
     "TargetType": 3
@@ -1536,7 +1536,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Speech",
+    "Name": "Slumberdream Mask - Raving",
     "PauseLogic": [],
     "Remark": "娜宝面具1肉鸽大秘境",
     "TargetType": 3
@@ -1552,7 +1552,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Sleeper",
+    "Name": "Slumberdream Mask - Somniloquy",
     "PauseLogic": [],
     "Remark": "娜宝面具2肉鸽大秘境",
     "TargetType": 3
@@ -1574,7 +1574,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Beguiler",
+    "Name": "Slumberdream Mask - Bewilderment",
     "PauseLogic": [],
     "Remark": "娜宝面具3肉鸽大秘境",
     "TargetType": 3
@@ -1590,7 +1590,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Betrayal",
+    "Name": "Slumberdream Mask - Betrayal",
     "PauseLogic": [],
     "Remark": "娜宝面具4肉鸽大秘境",
     "TargetType": 3
@@ -1606,7 +1606,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Nightmare",
+    "Name": "Slumberdream Mask - Nightmare",
     "PauseLogic": [],
     "Remark": "娜宝面具5肉鸽大秘境",
     "TargetType": 3
@@ -1628,7 +1628,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Chuckle",
+    "Name": "Slumberdream Mask - Snicker",
     "PauseLogic": [],
     "Remark": "娜宝面具6肉鸽大秘境",
     "TargetType": 3
@@ -1644,7 +1644,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Veiled Moon",
+    "Name": "Slumberdream Mask - Veiled Moon",
     "PauseLogic": [],
     "Remark": "娜宝面具7肉鸽大秘境",
     "TargetType": 3
@@ -1668,7 +1668,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Echo",
+    "Name": "Slumberdream Mask - Echo",
     "PauseLogic": [],
     "Remark": "娜宝面具8肉鸽大秘境",
     "TargetType": 3
@@ -1684,7 +1684,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Endgame",
+    "Name": "Slumberdream Mask - Finale",
     "PauseLogic": [],
     "Remark": "娜宝面具9肉鸽大秘境",
     "TargetType": 3
@@ -1706,7 +1706,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dream Mask - Symmetry",
+    "Name": "Slumberdream Mask - Symmetry",
     "PauseLogic": [],
     "Remark": "娜宝面具10肉鸽大秘境",
     "TargetType": 3
@@ -1722,7 +1722,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Illusion-Shroud Mask: Wild Raving",
+    "Name": "Illusion-Shroud Mask - Raving",
     "PauseLogic": [],
     "Remark": "娜宝面具1肉鸽大秘境s3",
     "TargetType": 3
@@ -1738,7 +1738,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Illusion-Shroud Mask: Sleep Talk",
+    "Name": "Illusion-Shroud Mask - Somniloquy",
     "PauseLogic": [],
     "Remark": "娜宝面具2肉鸽大秘境s3",
     "TargetType": 3
@@ -1760,7 +1760,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Illusion-Shroud Mask: Heart-Beguiling",
+    "Name": "Illusion-Shroud Mask - Bewilderment",
     "PauseLogic": [],
     "Remark": "娜宝面具3肉鸽大秘境s3",
     "TargetType": 3
@@ -1776,7 +1776,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Illusion-Shroud Mask: Treachery",
+    "Name": "Illusion-Shroud Mask - Betrayal",
     "PauseLogic": [],
     "Remark": "娜宝面具4肉鸽大秘境s3",
     "TargetType": 3
@@ -1792,7 +1792,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Illusion-Shroud Mask: Nightmare",
+    "Name": "Illusion-Shroud Mask - Nightmare",
     "PauseLogic": [],
     "Remark": "娜宝面具5肉鸽大秘境s3",
     "TargetType": 3
@@ -1814,7 +1814,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Illusion-Shroud Mask: Snickering",
+    "Name": "Illusion-Shroud Mask - Snicker",
     "PauseLogic": [],
     "Remark": "娜宝面具6肉鸽大秘境s3",
     "TargetType": 3
@@ -1830,7 +1830,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Illusion-Shroud Mask: Veiled Moon",
+    "Name": "Illusion-Shroud Mask - Veiled Moon",
     "PauseLogic": [],
     "Remark": "娜宝面具7肉鸽大秘境s3",
     "TargetType": 3
@@ -1924,7 +1924,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·诅咒的煌墓",
     "TargetType": 3
@@ -1940,7 +1940,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·诅咒的煌墓",
     "TargetType": 3
@@ -1956,7 +1956,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·诅咒的煌墓",
     "TargetType": 3
@@ -1972,7 +1972,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·诅咒的煌墓",
     "TargetType": 3
@@ -1988,7 +1988,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·机化处理所",
     "TargetType": 3
@@ -2004,7 +2004,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·机化处理所",
     "TargetType": 3
@@ -2020,7 +2020,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·机化处理所",
     "TargetType": 3
@@ -2036,7 +2036,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·机化处理所",
     "TargetType": 3
@@ -2052,7 +2052,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·蚀·蒂娜的精神之界",
     "TargetType": 3
@@ -2068,7 +2068,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·蚀·蒂娜的精神之界",
     "TargetType": 3
@@ -2084,7 +2084,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·蚀·蒂娜的精神之界",
     "TargetType": 3
@@ -2100,7 +2100,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·蚀·蒂娜的精神之界",
     "TargetType": 3
@@ -2116,7 +2116,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·隐雾猎场",
     "TargetType": 3
@@ -2132,7 +2132,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·隐雾猎场",
     "TargetType": 3
@@ -2148,7 +2148,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·隐雾猎场",
     "TargetType": 3
@@ -2164,7 +2164,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·隐雾猎场",
     "TargetType": 3
@@ -2180,7 +2180,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·蚀·巨塔遗迹",
     "TargetType": 3
@@ -2196,7 +2196,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·蚀·巨塔遗迹",
     "TargetType": 3
@@ -2212,7 +2212,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·蚀·巨塔遗迹",
     "TargetType": 3
@@ -2228,7 +2228,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·蚀·巨塔遗迹",
     "TargetType": 3
@@ -2244,7 +2244,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·环海石礁",
     "TargetType": 3
@@ -2260,7 +2260,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·环海石礁",
     "TargetType": 3
@@ -2276,7 +2276,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·环海石礁",
     "TargetType": 3
@@ -2292,7 +2292,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "The Boar's Noise Heist",
+    "Name": "Boarlet's Noise Heist",
     "PauseLogic": [],
     "Remark": "极限·环海石礁",
     "TargetType": 3
@@ -2308,7 +2308,7 @@
     "IsShowUI": true,
     "Level": 2,
     "Mutex": [],
-    "Name": "โมดูลอัปเกรด",
+    "Name": "Upgrade Module",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 2
@@ -2404,7 +2404,7 @@
     "IsShowUI": true,
     "Level": 2,
     "Mutex": [],
-    "Name": "Motivate",
+    "Name": "Inspire",
     "PauseLogic": [],
     "Remark": "英雄本词缀",
     "TargetType": 2
@@ -2420,7 +2420,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "ทดสอบ Entry 3 - เมจสายเยือกแข็ง ฆ่าทั้งสนามในพริบตา",
+    "Name": "Testentry3 - Mage's Frost Instant Kill",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 2
@@ -2868,7 +2868,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "สนามประลอง",
+    "Name": "Arena",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 2
@@ -2948,7 +2948,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "ไร้ความรู้สึก",
+    "Name": "Analgesia",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1
@@ -2980,7 +2980,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "พิษหนัก",
+    "Name": "Venom",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 2
@@ -3012,7 +3012,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "สถานะสมบูรณ์",
+    "Name": "Perfect State",
     "PauseLogic": [],
     "Remark": "英雄本词缀",
     "TargetType": 1
@@ -3028,7 +3028,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "วิญญาณกัดกร่อน",
+    "Name": "Void Soul",
     "PauseLogic": [],
     "Remark": "英雄本词缀",
     "TargetType": 2
@@ -3156,7 +3156,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "สิ่งปลูกสร้างผิดกฎหมาย",
+    "Name": "Illegal Construction",
     "PauseLogic": [],
     "Remark": "不思议的追逃游戏",
     "TargetType": 3
@@ -3172,7 +3172,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "คอนเสิร์ต",
+    "Name": "Concert",
     "PauseLogic": [],
     "Remark": "不思议的追逃游戏",
     "TargetType": 3
@@ -3188,7 +3188,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "พลังงานล้นออก",
+    "Name": "Energy Overflow",
     "PauseLogic": [],
     "Remark": "不思议的追逃游戏",
     "TargetType": 3
@@ -3204,7 +3204,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "ลมหนาวเย็นยะเยือก",
+    "Name": "Biting Cold Wind",
     "PauseLogic": [],
     "Remark": "不思议的追逃游戏",
     "TargetType": 3
@@ -3220,13 +3220,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "แรงบันดาลใจพุ่งพล่าน",
+    "Name": "Flash of Insight",
     "PauseLogic": [],
     "Remark": "不思议的追逃游戏",
     "TargetType": 3
   },
   "5006": {
-    "Description": "<style=\"physical\">ระบบ Entry จะเปิดให้เล่นในเวอร์ชันถัดไป>/style><br><br><style=\"text_third_gray\">มิติแฟนตาซีในช่วงนี้ไม่ค่อยเสถียร มีรอยแตกของกาลเวลาเกิดขึ้นมากมาย การเข้าสู่รอยแตกสามารถสุ่มส่งไปที่จุดพิกัดในฉากได้>/style>",
+    "Description": "<style=\"physical\">ระบบ Entry จะเปิดให้เล่นในเวอร์ชันถัดไป</style><br><br><style=\"text_third_gray\">มิติแฟนตาซีในช่วงนี้ไม่ค่อยเสถียร มีรอยแตกของกาลเวลาเกิดขึ้นมากมาย การเข้าสู่รอยแตกสามารถสุ่มส่งไปที่จุดพิกัดในฉากได้</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -3236,7 +3236,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "ปั่นป่วนกาลเวลา",
+    "Name": "Spacetime Distortion",
     "PauseLogic": [],
     "Remark": "不思议的追逃游戏",
     "TargetType": 3
@@ -3623,7 +3623,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Promote (Elite)",
+    "Name": "Ascension (Elite)",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 2
@@ -3687,7 +3687,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Evolve - ช่วง 1",
+    "Name": "Evolution - Part One",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 2
@@ -3703,7 +3703,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Evolve - ช่วง 2",
+    "Name": "Evolution - Part Two",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 2
@@ -3901,7 +3901,7 @@
     "TargetType": 1
   },
   "89": {
-    "Description": "ในทุกช่วงเวลา สุ่มผู้เล่น 3 คนเพื่อก่อให้เกิดโซนสั่นสะเทือนใต้เท้าตามรอบ เมื่อโซนระเบิดจะสร้าง DMG และมึนงงเเก่ผู้เล่นอื่นภายในโซน",
+    "Description": "ในทุกช่วงเวลา สุ่มผู้เล่น 3 คนเพื่อก่อให้เกิดโซนสั่นสะเทือนใต้เท้าตามรอบ เมื่อโซนระเบิดจะสร้าง DMG และมึนงงแก่ผู้เล่นอื่นภายในโซน",
     "Effect": [[3, 1, 873104, 0, 1, 3]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -4071,7 +4071,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "พรแห่งความโชคดี",
+    "Name": "Gift of Luck",
     "PauseLogic": [],
     "Remark": "S1钥匙库",
     "TargetType": 1
@@ -4103,7 +4103,7 @@
     "IsShowUI": false,
     "Level": 1,
     "Mutex": [],
-    "Name": "แท็ก - Unstable Solo",
+    "Name": "Tag - Unstable Solo",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1
@@ -4119,7 +4119,7 @@
     "IsShowUI": false,
     "Level": 1,
     "Mutex": [],
-    "Name": "แท็ก - Unstable Multiplayer",
+    "Name": "Tag - Unstable Multiplayer",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1
@@ -4135,7 +4135,7 @@
     "IsShowUI": false,
     "Level": 1,
     "Mutex": [],
-    "Name": "ทำเครื่องหมายใช้-ระดับ PT",
+    "Name": "Mark for -PT difficulty",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1
@@ -4151,7 +4151,7 @@
     "IsShowUI": false,
     "Level": 1,
     "Mutex": [],
-    "Name": "ทำเครื่องหมายใช้-ระดับ H",
+    "Name": "Mark for -H difficulty",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1
@@ -4167,7 +4167,7 @@
     "IsShowUI": false,
     "Level": 1,
     "Mutex": [],
-    "Name": "ทำเครื่องหมายใช้-ระดับ M",
+    "Name": "Mark for -M difficulty",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1

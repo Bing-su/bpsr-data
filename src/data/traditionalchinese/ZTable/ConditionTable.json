@@ -311,6 +311,22 @@
     "ShowPurview": "{*val1*}圖鑑等級達到{*val2*}",
     "Type": 134
   },
+  "136": {
+    "Example": "136=3910=1",
+    "FailureMessage": 11002155,
+    "Param": "是否拥有N阶指定战斗幻想技能",
+    "RefreshNum": "幻想技能ID=阶数（可以查看SkillAoyiStarTable）",
+    "ShowPurview": "等级",
+    "Type": 136
+  },
+  "137": {
+    "Example": "137=30000500=0=1",
+    "FailureMessage": 11002156,
+    "Param": "是否拥有指定数量的临时道具",
+    "RefreshNum": "判断背包内临时道具ID=大于（0）/等于（1）/小于（2）=数量",
+    "ShowPurview": "等级",
+    "Type": 137
+  },
   "14": {
     "Example": "14=100101",
     "FailureMessage": 1500004,

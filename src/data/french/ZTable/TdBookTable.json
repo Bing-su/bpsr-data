@@ -1,0 +1,322 @@
+{
+  "1": {
+    "Desc": "Rareté : Immortel<br>Archétype : [Humanoïde]<br>Niveau max : niv. 5.<br>Type d'attaque : Physique<br>Effet passif : aucun<br>Attaque de base : balance la faux 3 fois, infligeant des dégâts de zone. <br>Compétence principale : balance la faux et déclenche 2 Anneaux qui infligent de lourds dégâts de zone. <br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : Anneaux +3.<br>Imagine de syntonisation niv. 5 : Portée des Anneaux +100 %.",
+    "Id": 1,
+    "IsHide": 0,
+    "ObjectId": 1,
+    "Sort": 1,
+    "Type": 1
+  },
+  "10": {
+    "Desc": "Rareté : Excellente<br>Archétype : [Brûlure]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, les dégâts subis par les monstres sous l'état Brûlure de la part de tours de type Brûlure augmentent de [1 % * cumuls de Brûlure]. <br>Attaque de base : frappe le sol du pied, infligeant de légers dégâts de zone. <br>Compétence principale : gagne un bouclier de foudre, foudroyant une cible aléatoire toutes les 2 s.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : si la cible est sous l'effet de Brûlure, consomme ses cumuls de Brûlure pour déclencher Explosion foudroyante, infligeant de lourds dégâts de zone. <br>Imagine de syntonisation niv. 5 : Explosion foudroyante ne consomme plus les cumuls de Brûlure de la cible.",
+    "Id": 10,
+    "IsHide": 0,
+    "ObjectId": 46,
+    "Sort": 10,
+    "Type": 1
+  },
+  "1001": {
+    "Desc": "Type : Boss<br>Caractéristique : réduit considérablement la vitesse d'attaque des Imagines de syntonisation à portée, mais augmente leur ATQ.",
+    "Id": 1001,
+    "IsHide": 0,
+    "ObjectId": 5003000,
+    "Sort": 1,
+    "Type": 2
+  },
+  "1002": {
+    "Desc": "Type : Boss<br>Caractéristique : subit des dégâts réduits lors d'attaques frontales et des dégâts accrus lors d'attaques par-derrière.",
+    "Id": 1002,
+    "IsHide": 0,
+    "ObjectId": 5003001,
+    "Sort": 2,
+    "Type": 2
+  },
+  "1003": {
+    "Desc": "Type : Boss<br>Caractéristique : l'Arachnocrabe fantomatique désactive de manière aléatoire les compétences de certaines Imagines de syntonisation.",
+    "Id": 1003,
+    "IsHide": 0,
+    "ObjectId": 5003002,
+    "Sort": 3,
+    "Type": 2
+  },
+  "1004": {
+    "Desc": "Type : Boss<br>Caractéristique : chaque fois qu'une Imagine est déployée, l'Arachnocrabe prédateur dévore des Éclats de cristal de syntonisation.",
+    "Id": 1004,
+    "IsHide": 0,
+    "ObjectId": 5003003,
+    "Sort": 4,
+    "Type": 2
+  },
+  "1005": {
+    "Desc": "Type : Boss<br>Caractéristique : chaque fois que sa berceuse est chantée, elle endort toutes les Imagines de syntonisation sur le terrain.",
+    "Id": 1005,
+    "IsHide": 0,
+    "ObjectId": 5003004,
+    "Sort": 5,
+    "Type": 2
+  },
+  "1006": {
+    "Desc": "Type : Boss<br>Caractéristique : augmente considérablement les PV, mais augmente les dégâts subis. Plus le niveau total de toutes les Imagines de syntonisation sur le terrain est élevé, plus les dégâts subis sont importants.",
+    "Id": 1006,
+    "IsHide": 0,
+    "ObjectId": 5003005,
+    "Sort": 6,
+    "Type": 2
+  },
+  "1007": {
+    "Desc": "Type : Élite<br>Caractéristique : confère Invincibilité à tous les monstres à portée, à l'exception de lui-même.",
+    "Id": 1007,
+    "IsHide": 0,
+    "ObjectId": 5002000,
+    "Sort": 7,
+    "Type": 2
+  },
+  "1008": {
+    "Desc": "Type : Élite<br>Caractéristique : gèle la première Imagine de syntonisation qui l'attaque. Qui veut se lancer en premier ?",
+    "Id": 1008,
+    "IsHide": 0,
+    "ObjectId": 5002001,
+    "Sort": 8,
+    "Type": 2
+  },
+  "1009": {
+    "Desc": "Type : Élite<br>Caractéristique : soigne en continu les monstres environnants.",
+    "Id": 1009,
+    "IsHide": 0,
+    "ObjectId": 5002002,
+    "Sort": 9,
+    "Type": 2
+  },
+  "1010": {
+    "Desc": "Type : Élite<br>Caractéristique : se réanime après avoir été vaincu.",
+    "Id": 1010,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 10,
+    "Type": 2
+  },
+  "1011": {
+    "Desc": "Type : Élite<br>Caractéristique : possède une vitesse de déplacement extrêmement élevée. Pire encore, il est aussi super résistant !",
+    "Id": 1011,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 11,
+    "Type": 2
+  },
+  "1012": {
+    "Desc": "Type : Élite<br>Caractéristique : ignore le terrain lors de ses déplacements, mais est super paresseux et fait souvent des pauses.",
+    "Id": 1012,
+    "IsHide": 0,
+    "ObjectId": 5002005,
+    "Sort": 12,
+    "Type": 2
+  },
+  "1013": {
+    "Desc": "Type : Normal<br>Caractéristique : la créature marine la plus courante.",
+    "Id": 1013,
+    "IsHide": 0,
+    "ObjectId": 5001000,
+    "Sort": 13,
+    "Type": 2
+  },
+  "1014": {
+    "Desc": "Type : Normal<br>Caractéristique : possède une vitesse de déplacement extrêmement élevée, mais la bonne nouvelle est qu'il est plutôt fragile !",
+    "Id": 1014,
+    "IsHide": 0,
+    "ObjectId": 5001001,
+    "Sort": 14,
+    "Type": 2
+  },
+  "1015": {
+    "Desc": "Type : Normal<br>Caractéristique : porte un bouclier épais et apparaît généralement tout au début d'une vague.",
+    "Id": 1015,
+    "IsHide": 0,
+    "ObjectId": 5001002,
+    "Sort": 15,
+    "Type": 2
+  },
+  "1016": {
+    "Desc": "Type : Normal<br>Caractéristique : protège les autres monstres sur le terrain en réduisant les dégâts subis. Ils seront un énorme problème si vous ne les éliminez pas en premier !",
+    "Id": 1016,
+    "IsHide": 0,
+    "ObjectId": 5001003,
+    "Sort": 16,
+    "Type": 2
+  },
+  "1017": {
+    "Desc": "Type : Normal<br>Caractéristique : sa carapace dure bloque une quantité massive de dégâts physiques, mais à l'inverse, il est très vulnérable à la magie.",
+    "Id": 1017,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 17,
+    "Type": 2
+  },
+  "1018": {
+    "Desc": "Type : Normal<br>Caractéristique : le fléau de la magie, mais les dégâts physiques sont extrêmement efficaces contre lui.",
+    "Id": 1018,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 18,
+    "Type": 2
+  },
+  "1019": {
+    "Desc": "Type : Normal<br>Caractéristique : s'enfouit sous terre, devenant invincible pendant ce temps. Mieux vaut l'attendre de loin !",
+    "Id": 1019,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 19,
+    "Type": 2
+  },
+  "1020": {
+    "Desc": "Type : Normal<br>Caractéristique : ignore le terrain lors de ses déplacements. Quelle nuisance !",
+    "Id": 1020,
+    "IsHide": 0,
+    "ObjectId": 5001007,
+    "Sort": 20,
+    "Type": 2
+  },
+  "1021": {
+    "Desc": "",
+    "Id": 1021,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 21,
+    "Type": 2
+  },
+  "11": {
+    "Desc": "Rareté : Excellente<br>Archétype : [Ressource]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : lors du démantèlement, rembourse 100 Éclats de cristal de syntonisation supplémentaires. <br>Attaque de base : exhale une brume glaciale droit devant, infligeant des dégâts. <br>Compétence principale : lance des Pics de glace sur 3 cibles aléatoires.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : des amas d'éclats se forment là où les Pics de glace atterrissent ; les récolter octroie entre 1 et 20 Éclats de cristal de syntonisation de manière aléatoire, persistant jusqu'à 10 s. <br>Imagine de syntonisation niv. 5 : Pics de glace +2.",
+    "Id": 11,
+    "IsHide": 0,
+    "ObjectId": 51,
+    "Sort": 11,
+    "Type": 1
+  },
+  "12": {
+    "Desc": "Rareté : Excellente<br>Archétype : [Soutien]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, augmente les dégâts infligés par tous les alliés de 5 % (jusqu'à 20 %). <br>Attaque de base : invoque 1 muku aléatoire pour aider au combat et augmente sa vitesse d'attaque. <br>Compétence principale : soigne les alliés à portée et augmente leur ATQ de 20 % pendant 10 s.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : invoque 1 arbalétrier muku supplémentaire. <br>Imagine de syntonisation niv. 5 : invoque 1 chef muku supplémentaire.",
+    "Id": 12,
+    "IsHide": 0,
+    "ObjectId": 56,
+    "Sort": 12,
+    "Type": 1
+  },
+  "13": {
+    "Desc": "Rareté : Excellente<br>Archétype : [Soutien]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, augmente les dégâts subis par tous les ennemis de 5 % (jusqu'à 20 %). <br>Attaque de base : donne un coup de taille vers le bas droit devant, infligeant des dégâts de zone linéaires. <br>Compétence principale : fend l'avant, infligeant deux fois de lourds dégâts de zone.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : les attaques de base libèrent 2 Ondes Briseterres supplémentaires, portée d'attaque +50 %. <br>Imagine de syntonisation niv. 5 : dégâts +20 %.",
+    "Id": 13,
+    "IsHide": 0,
+    "ObjectId": 61,
+    "Sort": 13,
+    "Type": 1
+  },
+  "14": {
+    "Desc": "Rareté : Excellente<br>Archétype : [Charge]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Magie<br>Effet passif : augmente l'ATQ de 10 % pour chaque cible à portée (jusqu'à 100 %). <br>Attaque de base : donne un coup de taille droit devant, infligeant de lourds dégâts de zone en éventail. <br>Compétence principale : lance des Tornades sur 2 cibles aléatoires, persistant pendant 5 s.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : pour chaque Imagine de syntonisation de type Charge sur le terrain, nombre de Tornades +1 (jusqu'à +3).<br>Imagine de syntonisation niv. 5 : chaque fois qu'une Tornade apparaît, elle augmente les dégâts infligés par la prochaine compétence des Imagines de syntonisation de type Charge (cumulable jusqu'à 100 %).",
+    "Id": 14,
+    "IsHide": 0,
+    "ObjectId": 66,
+    "Sort": 14,
+    "Type": 1
+  },
+  "15": {
+    "Desc": "Rareté : Supérieure<br>Archétype : [Ressource] [Brûlure]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, l'aventurier gagne 100 Éclats de cristal de syntonisation toutes les 10 s (jusqu'à 5 actifs en même temps). <br>Attaque de base : aucune<br>Compétence principale : tourbillonne pour infliger de légers dégâts de zone et appliquer Brûlure.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : octroie 15 Éclats de cristal de syntonisation lorsqu'une cible sous l'effet de Brûlure meurt. <br>Imagine de syntonisation niv. 5 : octroie 30 Éclats de cristal de syntonisation lorsqu'une cible sous l'effet de Brûlure meurt.",
+    "Id": 15,
+    "IsHide": 0,
+    "ObjectId": 71,
+    "Sort": 15,
+    "Type": 1
+  },
+  "16": {
+    "Desc": "Rareté : Supérieure<br>Archétype : aucun<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : inflige un ralentissement de 25 % aux cibles lors de l'infliction de dégâts. Cet effet est non cumulable. <br>Attaque de base : aucune<br>Compétence principale : invoque des Orbes de foudre qui attaquent en continu les cibles à portée.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : dégâts de la compétence principale augmentés. <br>Imagine de syntonisation niv. 5 : dégâts de la compétence principale augmentés.",
+    "Id": 16,
+    "IsHide": 0,
+    "ObjectId": 76,
+    "Sort": 16,
+    "Type": 1
+  },
+  "17": {
+    "Desc": "Rareté : Supérieure<br>Archétype : [Charge]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, chaque chef muku augmente le taux de critique des Imagines de syntonisation de type Charge de 10 % (jusqu'à 100 %). <br>Attaque de base : aucune<br>Compétence principale : frappe le sol 3 fois de suite, infligeant de lourds dégâts de zone.<br>Temps de recharge : 6 s<br>Imagine de syntonisation niv. 3 : dégâts de la compétence principale augmentés. <br>Imagine de syntonisation niv. 5 : dégâts de la compétence principale augmentés.",
+    "Id": 17,
+    "IsHide": 0,
+    "ObjectId": 84,
+    "Sort": 17,
+    "Type": 1
+  },
+  "18": {
+    "Desc": "Rareté : Supérieure<br>Archétype : aucun<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Magie<br>Effet passif : 30 % de chance d'infliger Gel à l'attaque. <br>Attaque de base : inflige des dégâts de zone et un ralentissement de 10 %. <br>Compétence principale : lance un vortex d'eau qui inflige des dégâts de zone continus et un ralentissement de 20 %.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : dégâts de la compétence principale augmentés. <br>Imagine de syntonisation niv. 5 : dégâts de la compétence principale augmentés.",
+    "Id": 18,
+    "IsHide": 0,
+    "ObjectId": 89,
+    "Sort": 18,
+    "Type": 1
+  },
+  "19": {
+    "Desc": "Rareté : Supérieure<br>Archétype : aucun<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Magie<br>Effet passif : inflige des dégâts supplémentaires aux cibles corrodées ; +10 % de dégâts par cumul de Corrosion. <br>Attaque de base : aucune<br>Compétence principale : lance des sources de poison sur 3 cibles aléatoires, infligeant des dégâts de zone continus et Corrosion.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : dégâts de la compétence principale augmentés. <br>Imagine de syntonisation niv. 5 : dégâts de la compétence principale augmentés.",
+    "Id": 19,
+    "IsHide": 0,
+    "ObjectId": 94,
+    "Sort": 19,
+    "Type": 1
+  },
+  "2": {
+    "Desc": "Rareté : Épique<br>Archétype : [Humanoïde] [Ressource]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Magie<br>Effet passif : ATQ +[1 % * niveau total de toutes les Imagines de syntonisation sur le terrain]. Le prix dans la boutique est réduit de 50 %. <br>Attaque de base : fait continuellement s'abattre des météores sur une cible unique à portée. <br>Compétence principale : invoque un Cerf spirituel qui charge droit devant. Cet effet se déclenche 1 fois de plus pour chaque Imagine de syntonisation humanoïde sur le terrain. <br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : confère 10 Éclats de cristal de syntonisation à l'attaque. TdR : 3 s. <br>Imagine de syntonisation niv. 5 : confère 15 Éclats de cristal de syntonisation à l'attaque. TdR : 1 s.",
+    "Id": 2,
+    "IsHide": 0,
+    "ObjectId": 6,
+    "Sort": 2,
+    "Type": 1
+  },
+  "3": {
+    "Desc": "Rareté : Épique<br> : [Humanoïde] [Brûlure]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Magie<br>Effet passif : inflige une instance supplémentaire de dégâts de feu chaque fois qu'un ennemi à portée subit des dégâts de Brûlure. <br>Attaque de base : tournoie pour infliger des dégâts de zone et appliquer Brûlure. <br>Compétence principale : projette un rayon de hache droit devant, infligeant de lourds dégâts. Dégâts +20 % pour chaque cumul de Brûlure sur la cible. <br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : après avoir appliqué Brûlure 10 fois, la prochaine attaque lance Train infernal sur la cible. <br>Imagine de syntonisation niv. 5 : condition d'application de Brûlure réduite à 6, dégâts de Train infernal +100 %.",
+    "Id": 3,
+    "IsHide": 0,
+    "ObjectId": 11,
+    "Sort": 3,
+    "Type": 1
+  },
+  "4": {
+    "Desc": "Rareté : Épique<br>Archétype : [Humanoïde] [Charge]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : limite des cumuls de Charge augmentée à 20. <br>Attaque de base : n'attaque pas normalement. Entre en Charge, gagnant 1 cumul toutes les 3 s, jusqu'à un maximum de 20 cumuls. Déclenche la compétence lorsque l'aventurier entre dans la zone. <br>Compétence principale : libère d'innombrables rayons de lame, infligeant des dégâts de zone, et consomme tous les cumuls de Charge pour augmenter les dégâts de [40 % * cumuls de Charge]. <br>Temps de recharge : aucun<br>Imagine de syntonisation niv. 3 : toutes les 10 s, verrouille la cible la plus proche et tire un rayon de lame. <br>Imagine de syntonisation niv. 5 : cibles verrouillées par le rayon de lame +2.",
+    "Id": 4,
+    "IsHide": 0,
+    "ObjectId": 16,
+    "Sort": 4,
+    "Type": 1
+  },
+  "5": {
+    "Desc": "Rareté : Épique<br> : [Humanoïde]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, vitesse de recharge des compétences de l'aventurier +50 %. Cet effet est non cumulable. <br>Attaque de base : donne un coup d'estoc droit devant et fait tournoyer la lance pour infliger des dégâts de zone. <br>Compétence principale : les 5 Imagines de syntonisation les plus proches gagnent 100 % de vitesse de recharge pendant 5 s. <br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : vitesse de déplacement de l'aventurier +25 %, Boost de dégâts +25 %. <br>Imagine de syntonisation niv. 5 : vitesse de déplacement de l'aventurier +50 %, Boost de dégâts +50 %.",
+    "Id": 5,
+    "IsHide": 0,
+    "ObjectId": 21,
+    "Sort": 5,
+    "Type": 1
+  },
+  "6": {
+    "Desc": "Rareté : Excellente<br>Archétype : [Charge]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : toutes les 10 s, libère une onde terrestre sur 3 cibles aléatoires, appliquant Blessure. <br>Attaque de base : n'attaque pas normalement. Entre en Charge, gagnant 1 cumul toutes les 3 s, jusqu'à 10 cumuls. Déclenche la compétence lorsque l'aventurier entre dans la zone. <br>Compétence principale : lance une Pointe de l'Enfer sur une vaste zone, infligeant de lourds dégâts et consommant tous les cumuls de Charge pour augmenter les dégâts de [30 % * cumuls de Charge].<br>TdR : aucun<br>Imagine de syntonisation niv. 3 : les dégâts infligés par l'effet passif appliquent 10 % de vulnérabilité pendant 5 s. <br>Imagine de syntonisation niv. 5 : Vulnérabilité +10 % supplémentaires.",
+    "Id": 6,
+    "IsHide": 0,
+    "ObjectId": 26,
+    "Sort": 6,
+    "Type": 1
+  },
+  "7": {
+    "Desc": "Rareté : Excellente<br>Archétype : aucun<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : inflige 100 % de dégâts supplémentaires aux cibles immobilisées. <br>Attaque de base : cible en priorité les cibles non immobilisées. Crache de la toile d'araignée pour infliger des dégâts avec 40 % de chance d'immobiliser la cible pendant 5 s. <br>Compétence principale : s'enfouit sous terre puis émerge, infligeant de lourds dégâts de zone et étourdissant à coup sûr la cible pendant 1 s.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : les chances d'immobilisation passent à 100 %. <br>Imagine de syntonisation niv. 5 : durée d'étourdissement augmentée à 2,5 s.",
+    "Id": 7,
+    "IsHide": 0,
+    "ObjectId": 31,
+    "Sort": 7,
+    "Type": 1
+  },
+  "8": {
+    "Desc": "Rareté : Excellente<br>Archétype : [Ressource]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : octroie au Voltigeur céleste 1 % de dégâts bonus par tranche de 100 Éclats de cristal de syntonisation détenus par l'aventurier, jusqu'à 100 %. <br>Attaque de base : lâche un orbe aquatique qui inflige des dégâts de zone et applique Ralentissement. <br>Compétence principale : invoque un voltigeur fantôme qui charge droit devant.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : Voltigeur +1, et taux d'obtention d'Éclats de cristal de syntonisation +5 %. <br>Imagine de syntonisation niv. 5 : Voltigeur +2, et taux d'obtention d'Éclats de cristal de syntonisation +10 %.",
+    "Id": 8,
+    "IsHide": 0,
+    "ObjectId": 36,
+    "Sort": 8,
+    "Type": 1
+  },
+  "9": {
+    "Desc": "Rareté : Excellente<br>Archétype : [Brûlure]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Magie<br>Effet passif : plus les PV actuels sont élevés, plus l'ATQ augmente (jusqu'à +200 %), mais fait perdre des PV en continu. <br>Attaque de base : aucune<br>Compétence principale : crache du feu en continu droit devant, infligeant des dégâts et appliquant Brûlure.<br>TdR : 8 s<br>Imagine de syntonisation niv. 3 : restaure 5 % des PV à l'attaque. <br>Imagine de syntonisation niv. 5 : convertit le surplus de soin en bouclier.",
+    "Id": 9,
+    "IsHide": 0,
+    "ObjectId": 41,
+    "Sort": 9,
+    "Type": 1
+  }
+}

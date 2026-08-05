@@ -524,6 +524,48 @@
     "Tags": [],
     "TakeWeaponInSkill": false
   },
+  "100216101": {
+    "AiReleaseSkillRange": [0.0, 2.0, 3.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100216101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1002161,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": false
+  },
+  "100216201": {
+    "AiReleaseSkillRange": [0.0, 3.0, 5.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100216201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "姆克下砸",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1002162,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "100220101": {
     "AiReleaseSkillRange": [3.0, 6.0, 10.0, 0.0],
     "BuffTags": [],
@@ -1314,6 +1356,69 @@
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
+  },
+  "100285201": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100285201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "寒冰荆棘",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1002852,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "100286001": {
+    "AiReleaseSkillRange": [0.0, 7.0, 50.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100286001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "荆棘之冰",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1002860,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "100286101": {
+    "AiReleaseSkillRange": [0.0, 8.0, 14.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100286101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "冰雾",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1002861,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": false
   },
   "10030101": {
     "AiReleaseSkillRange": [0.0, 3.0, 6.0, 20.0],
@@ -5185,6 +5290,27 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "100595001": {
+    "AiReleaseSkillRange": [6.0, 12.0, 12.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100595001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "姆克狂战士-跳砸",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1005950,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "10060101": {
     "AiReleaseSkillRange": [4.0, 8.0, 15.0, -1.0],
     "BuffTags": [],
@@ -6200,6 +6326,69 @@
     "Tags": [],
     "TakeWeaponInSkill": false
   },
+  "100695001": {
+    "AiReleaseSkillRange": [0.0, 5.0, 10.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100695001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "蟹蛛王遁地",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1006950,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "100695101": {
+    "AiReleaseSkillRange": [0.0, 5.0, 10.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100695101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "蟹蛛王正面吐子弹",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1006951,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "100699801": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100699801,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "蟹蛛王地刺虚拟体",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1006998,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "100699901": {
     "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
     "BuffTags": [],
@@ -7187,6 +7376,27 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "10076101": {
+    "AiReleaseSkillRange": [7.0, 12.0, 20.0, 45.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 10076101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "弩箭哥布林射击",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 100761,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "100761101": {
     "AiReleaseSkillRange": [0.0, 1.0, 2.0, 0.0],
     "BuffTags": [],
@@ -7246,6 +7456,48 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 1007613,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "10076201": {
+    "AiReleaseSkillRange": [0.0, 2.0, 2.0, -1.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 10076201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "弩箭哥布林推开",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 100762,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "10076301": {
+    "AiReleaseSkillRange": [0.0, 7.0, 7.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 10076301,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "弩箭哥布林后跳散射",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 100763,
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
@@ -7414,6 +7666,48 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 1007741,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "100775001": {
+    "AiReleaseSkillRange": [0.0, 5.0, 10.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100775001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "剧毒蜂巢-毒泉喷涌",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1007750,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "100775101": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100775101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1007751,
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
@@ -8405,6 +8699,48 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "100815001": {
+    "AiReleaseSkillRange": [0.0, 10.0, 15.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100815001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "铁牙-地狱突刺",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008150,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "100815101": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100815101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "蟹蛛王地刺虚拟体",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008151,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "10081901": {
     "AiReleaseSkillRange": [0.0, 2.0, 50.0, 0.0],
     "BuffTags": [],
@@ -8888,6 +9224,69 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "100845001": {
+    "AiReleaseSkillRange": [0.0, 5.0, 10.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100845001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "圣域飞鱼-远程投掷子弹",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008450,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "100845101": {
+    "AiReleaseSkillRange": [0.0, 15.0, 15.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100845101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008451,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "100845201": {
+    "AiReleaseSkillRange": [0.0, 10.0, 15.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100845201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "圣域飞鱼-召唤冰晶",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008452,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "100847001": {
     "AiReleaseSkillRange": [0.0, 15.0, 15.0, 0.0],
     "BuffTags": [],
@@ -8905,6 +9304,27 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 1008470,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "100849701": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100849701,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "圣域飞鱼-巡逻子弹",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008497,
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
@@ -9245,6 +9665,27 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "100855001": {
+    "AiReleaseSkillRange": [0.0, 5.0, 10.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100855001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "蜥蜴人王-涡流",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008550,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "10085501": {
     "AiReleaseSkillRange": [1.0, 2.0, 5.0, 10.0],
     "BuffTags": [],
@@ -9263,8 +9704,50 @@
     "SkillDamageDistance": 0.0,
     "SkillId": 100855,
     "SkillLearnBuffs": [],
-    "Tags": [],
+    "Tags": [5],
     "TakeWeaponInSkill": false
+  },
+  "100855101": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100855101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008551,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "100855201": {
+    "AiReleaseSkillRange": [0.0, 5.0, 10.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100855201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "蜥蜴人王-普攻",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008552,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
   },
   "10085601": {
     "AiReleaseSkillRange": [1.0, 2.0, 5.0, 10.0],
@@ -9618,6 +10101,27 @@
     "Tags": [],
     "TakeWeaponInSkill": false
   },
+  "100865001": {
+    "AiReleaseSkillRange": [0.0, 6.0, 12.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100865001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "哥布林王横扫千军",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008650,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "10086501": {
     "AiReleaseSkillRange": [0.0, 2.0, 3.5, -1.0],
     "BuffTags": [],
@@ -9635,6 +10139,27 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.6399999856948853,
     "SkillId": 100865,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "100865101": {
+    "AiReleaseSkillRange": [0.0, 6.0, 12.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 100865101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "哥布林王下劈",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1008651,
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
@@ -15088,6 +15613,48 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 101266,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "10127001": {
+    "AiReleaseSkillRange": [0.0, 8.0, 14.0, 30.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 10127001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "火焰兽人吐息",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 101270,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "10127101": {
+    "AiReleaseSkillRange": [0.0, 2.0, 5.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 10127101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "火焰兽人爪击三连",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 101271,
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
@@ -25309,7 +25876,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -25441,7 +26008,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({119370102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119370102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119370102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119370102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119370102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119370102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -25488,7 +26055,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({124100101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124100101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124100101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124100101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124100101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124100101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Heal ทั้งหมด", "{*skillpara.effect(\"hpcostPer\",\"up\")*} เลือดที่เสีย"]
     ],
@@ -35076,23 +35643,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({312040100},{1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({312040100},{1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({312040100},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({312040100},{1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({312040100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({312040100},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({312040100},{1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({312040100},{1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({312040100},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({312040100},{1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({312040100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({312040100},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({112030101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112030101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112030101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112030101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112030101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112030101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({312050100,312020100,312030100},{1,1,1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({312050100,312020100,312030100},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({312050100,312020100,312030100},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({312050100,312020100,312030100},{1,1,1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({312050100,312020100,312030100},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({312050100,312020100,312030100},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({112940102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112940102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112940102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112940102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112940102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112940102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 15.0,
@@ -35664,11 +36231,11 @@
     "SkillAttrDes": [
       [
         "DMG รวมของวังวน",
-        "{*skillpara.damageMerge({112500101},{20},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112500101},{20},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112500101},{20},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112500101},{20},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112500101},{20},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112500101},{20},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ระเบิดน้ำแข็ง",
-        "{*skillpara.damageMerge({112500104},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112500104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112500104},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112500104},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112500104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112500104},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -35695,11 +36262,11 @@
     "SkillAttrDes": [
       [
         "DMG ต่อครั้งของลูกแก้วน้ำ",
-        "{*skillpara.damageMerge({312150100},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({312150100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({312150100},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({312150100},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({312150100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({312150100},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ระเบิดน้ำแข็ง",
-        "{*skillpara.damageMerge({112160101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112160101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112160101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112160101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112160101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112160101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""],
       ["เวลา Charge", ""]
@@ -36529,7 +37096,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({112620101},{3},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112620101},{3},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112620101},{3},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112620101},{3},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112620101},{3},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112620101},{3},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""],
       ["เวลา Charge", ""]
@@ -36557,7 +37124,7 @@
     "SkillAttrDes": [
       [
         "DMG พื้นฐาน",
-        "{*skillpara.damageMerge({112400101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112400101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112400101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -36584,7 +37151,7 @@
     "SkillAttrDes": [
       [
         "DMG ต่อครั้งของรังสี",
-        "{*skillpara.damageMerge({112410104},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112410104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112410104},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112410104},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112410104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112410104},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -36610,7 +37177,7 @@
     "SkillAttrDes": [
       [
         "DMG หอกน้ำแข็ง",
-        "{*skillpara.damageMerge({312090200},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({312090200},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({312090200},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({312090200},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({312090200},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({312090200},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -36661,7 +37228,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({112570101},{18},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112570101},{18},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112570101},{18},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112570101},{18},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112570101},{18},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112570101},{18},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -36716,11 +37283,11 @@
     "SkillAttrDes": [
       [
         "DMG ต่อครั้งของทอร์นาโดน้ำ",
-        "{*skillpara.damageMerge({112560102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112560102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112560102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112560102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112560102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112560102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ระเบิดน้ำแข็ง",
-        "{*skillpara.damageMerge({112560101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112560101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112560101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112560101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112560101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112560101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -36772,7 +37339,7 @@
       ],
       [
         "DMG อุกกาบาต",
-        "{*skillpara.damageMerge({112630101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112630101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({112630101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({112630101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({112630101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({112630101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -37508,23 +38075,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({114010101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({114010101},{1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({114010101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114010101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({114010101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({114010101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({114020101,114020103},{1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({114020101,114020103},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({114020101,114020103},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114020101,114020103},{1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({114020101,114020103},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({114020101,114020103},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({114030101,114030102,114030103},{1,1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({114030101,114030102,114030103},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({114030101,114030102,114030103},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114030101,114030102,114030103},{1,1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({114030101,114030102,114030103},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({114030101,114030102,114030103},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({114040101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114040101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114040101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114040101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114040101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114040101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({114170102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114170102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114170102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114170102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114170102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114170102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -39860,7 +40427,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114090104},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114090104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114090104},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114090104},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114090104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114090104},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -40160,7 +40727,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114180101,114180102,114180103},{2,2,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114180101,114180102,114180103},{2,2,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114180101,114180102,114180103},{2,2,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114180101,114180102,114180103},{2,2,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114180101,114180102,114180103},{2,2,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114180101,114180102,114180103},{2,2,1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -40186,7 +40753,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114190102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114190102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114190102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114190102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114190102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114190102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -40242,7 +40809,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114210102,114210103},{1,6},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -40269,11 +40836,11 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({114220103},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114220103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114220103},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114220103},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114220103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114220103},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({114270104},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114270104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114270104},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114270104},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114270104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114270104},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -40327,7 +40894,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114240101,114240102},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114240101,114240102},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114240101,114240102},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114240101,114240102},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114240101,114240102},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114240101,114240102},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -40353,11 +40920,11 @@
     "SkillAttrDes": [
       [
         "DMG พุ่งชน",
-        "{*skillpara.damageMerge({114250107},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114250107},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114250107},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114250107},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114250107},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114250107},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG หอก",
-        "{*skillpara.damageMerge({11499050101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({11499050101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({11499050101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({11499050101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({11499050101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({11499050101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""],
       ["เวลา Charge", ""]
@@ -40385,7 +40952,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114260104},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114260104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114260104},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114260104},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114260104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114260104},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -40502,7 +41069,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114310106,11499070101},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114310106,11499070101},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114310106,11499070101},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114310106,11499070101},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114310106,11499070101},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114310106,11499070101},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -40550,11 +41117,11 @@
     "SkillAttrDes": [
       [
         "DMG พุ่งชน",
-        "{*skillpara.damageMerge({114330107},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114330107},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114330107},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114330107},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114330107},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114330107},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG หอก",
-        "{*skillpara.damageMerge({11499060101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({11499060101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({11499060101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({11499060101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({11499060101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({11499060101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -40580,7 +41147,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114340102,314030100},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114340102,314030100},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114340102,314030100},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114340102,314030100},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114340102,314030100},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114340102,314030100},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -40606,7 +41173,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({114350101,314040100},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114350101,314040100},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({114350101,314040100},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({114350101,314040100},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({114350101,314040100},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({114350101,314040100},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -41226,23 +41793,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({115010102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115010102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({115010102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({115010102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115010102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({115010102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({115020102,115020103},{1,1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({115020102,115020103},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({115020102,115020103},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({115020102,115020103},{1,1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({115020102,115020103},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({115020102,115020103},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ครั้งเดียวขั้น 3",
-        "{*skillpara.damageMerge({115030102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115030102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({115030102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({115030102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115030102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({115030102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({115040102,115040104},{1,1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115040102,115040104},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({115040102,115040104},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({115040102,115040104},{1,1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115040102,115040104},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({115040102,115040104},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({115170102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115170102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({115170102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({115170102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115170102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({115170102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 12.0,
@@ -41595,7 +42162,7 @@
         "{*skillpara.damageMerge({22141405},{5},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({22141405},{5},\"PVEFixedParameter\",\"un\")*}"
       ],
       [
-        "Heal ต่อเนื่อง",
+        "HOT",
         "{*skillpara.damageMerge({22141404},{5},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({22141404},{5},\"PVEFixedParameter\",\"un\")*}"
       ],
       ["เวลา CD", ""]
@@ -41791,7 +42358,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({115180102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115180102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({115180102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({115180102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115180102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({115180102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Heal ทั้งหมด",
@@ -41822,7 +42389,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({315010300,315010400,115500101},{1,1,1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({315010300,315010400,115500101},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({315010300,315010400,115500101},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({315010300,315010400,115500101},{1,1,1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({315010300,315010400,115500101},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({315010300,315010400,115500101},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""],
       ["เวลา Charge", ""]
@@ -41850,7 +42417,7 @@
     "SkillAttrDes": [
       [
         "DMG เมล็ดพันธุ์เดี่ยว",
-        "{*skillpara.damageMerge({315010500},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({315010500},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({315010500},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({315010500},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({315010500},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({315010500},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -42083,7 +42650,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({115290101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115290101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({115290101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({115290101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({115290101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({115290101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Heal ทั้งหมด",
@@ -42145,7 +42712,7 @@
     "STRange": [0.0],
     "SkillAttrDes": [
       [
-        "โล่",
+        "Shield",
         "{*skillpara.damageMerge({22142201},{1},\"PVEDamageRadio\",\"up\")*}M.ATK+{*skillpara.damageMerge({22142201},{1},\"PVEFixedParameter\",\"un\")*}"
       ],
       ["โล่ป้องกันเพิ่ม", "{*skillpara.effect(\"shieldHp\",\"up\")*} Max HP เป้าหมาย"],
@@ -43904,6 +44471,27 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "170015001": {
+    "AiReleaseSkillRange": [0.0, 20.0, 20.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 170015001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "野猪王-召唤雷球",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1700150,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
   "170019901": {
     "AiReleaseSkillRange": [4.0, 5.0, 6.0, 0.0],
     "BuffTags": [],
@@ -45548,6 +46136,90 @@
     "Tags": [],
     "TakeWeaponInSkill": false
   },
+  "170045001": {
+    "AiReleaseSkillRange": [0.0, 4.0, 8.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 170045001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "姆克疯狂乱敲",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1700450,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "170046101": {
+    "AiReleaseSkillRange": [0.0, 4.0, 4.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 170046101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "姆克首领普攻",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1700461,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "170046201": {
+    "AiReleaseSkillRange": [0.0, 20.0, 20.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 170046201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1700462,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "170046301": {
+    "AiReleaseSkillRange": [0.0, 20.0, 20.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 170046301,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 1700463,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "170070101": {
     "AiReleaseSkillRange": [0.5, 1.5, 3.0, 30.0],
     "BuffTags": [],
@@ -46720,23 +47392,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({117010101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117010101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117010101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117010101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117010101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117010101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({117020101,117020103},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117020101,117020103},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117020101,117020103},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117020101,117020103},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117020101,117020103},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117020101,117020103},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({117030101,117030103,117030104},{1,1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117030101,117030103,117030104},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117030101,117030103,117030104},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117030101,117030103,117030104},{1,1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117030101,117030103,117030104},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117030101,117030103,117030104},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({117040102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117040102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117040102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117040102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117040102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117040102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({117950102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117950102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117950102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117950102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117950102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117950102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 1.1799999475479126,
@@ -48379,15 +49051,15 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({117050101,117050103},{2,2},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117050101,117050103},{2,2},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117050101,117050103},{2,2},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117050101,117050103},{2,2},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117050101,117050103},{2,2},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117050101,117050103},{2,2},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({117050104,117050106},{2,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117050104,117050106},{2,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117050104,117050106},{2,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117050104,117050106},{2,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117050104,117050106},{2,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117050104,117050106},{2,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({117050105,117050108},{2,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117050105,117050108},{2,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117050105,117050108},{2,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117050105,117050108},{2,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117050105,117050108},{2,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117050105,117050108},{2,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา Charge", ""]
     ],
@@ -48519,7 +49191,7 @@
     "SkillAttrDes": [
       [
         "DMG อัลติเมท",
-        "(*{skillpara.damage(117130102,\"PVEDamageRadio\",\"up\")*}P.ATK+{*skillpara.damage(117130102,\"PVEFixedParameter\",\"un\")*})*8"
+        "({*skillpara.damage(117130102,\"PVEDamageRadio\",\"up\")*}P.ATK+{*skillpara.damage(117130102,\"PVEFixedParameter\",\"un\")*})*8"
       ],
       [
         "DMG ดาบสุดท้าย",
@@ -48597,7 +49269,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({117130102,117130108},{8,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117130102,117130108},{8,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117130102,117130108},{8,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117130102,117130108},{8,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117130102,117130108},{8,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117130102,117130108},{8,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -48624,7 +49296,7 @@
     "SkillAttrDes": [
       [
         "DMG พื้นฐาน",
-        "{*skillpara.damageMerge({117140111},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117140111},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117140111},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117140111},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117140111},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117140111},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -48651,7 +49323,7 @@
     "SkillAttrDes": [
       [
         "DMG พื้นฐาน",
-        "{*skillpara.damageMerge({117150102,117150105},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117150102,117150105},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117150102,117150105},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117150102,117150105},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117150102,117150105},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117150102,117150105},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 2.859999895095825,
@@ -48712,7 +49384,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({117170101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117170101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117170101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117170101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117170101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117170101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -48739,7 +49411,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({117180102},{3},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117180102},{3},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117180102},{3},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117180102},{3},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117180102},{3},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117180102},{3},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -48766,7 +49438,7 @@
     "SkillAttrDes": [
       [
         "DMG สกิล",
-        "{*skillpara.damageMerge({117190104,117190105},{6,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117190104,117190105},{6,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117190104,117190105},{6,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117190104,117190105},{6,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117190104,117190105},{6,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117190104,117190105},{6,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG Moon Blade ต่อครั้ง",
@@ -48874,7 +49546,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({117240132,117240133},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117240132,117240133},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117240132,117240133},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117240132,117240133},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117240132,117240133},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117240132,117240133},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 2.859999895095825,
@@ -50222,23 +50894,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({119010102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119010102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119010102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119010102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119010102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119010102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({119020102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119020102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119020102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119020102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119020102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119020102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({119030102,119030103},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119030102,119030103},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119030102,119030103},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119030102,119030103},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119030102,119030103},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119030102,119030103},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({119040102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119040102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119040102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119040102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119040102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119040102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({119120102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119120102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119120102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119120102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119120102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119120102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -50684,7 +51356,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({119070103},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119070103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119070103},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119070103},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119070103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119070103},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -50973,7 +51645,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({119220102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119220102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119220102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119220102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119220102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119220102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "ปริมาณโล่ต่อทุก 1 Sand Crystal ที่ใช้",
@@ -51008,7 +51680,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({119230113},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119230113},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119230113},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119230113},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119230113},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119230113},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -51035,7 +51707,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({119240102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119240102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119240102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119240102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119240102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119240102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""],
       ["เวลา Charge", ""]
@@ -51063,7 +51735,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({119250101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119250101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119250101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119250101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119250101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119250101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "ปริมาณโล่",
@@ -51096,7 +51768,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({25003301},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25003301},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({25003301},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({25003301},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25003301},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({25003301},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -51123,11 +51795,11 @@
     "SkillAttrDes": [
       [
         "DMG รวมตัวของทราย",
-        "{*skillpara.damageMerge({119270102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119270102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119270102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119270102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119270102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119270102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ต่อเนื่องทั้งหมด",
-        "{*skillpara.damageMerge({25004904},{6},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25004904},{6},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({25004904},{6},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({25004904},{6},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25004904},{6},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({25004904},{6},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -51196,7 +51868,7 @@
     "SkillAttrDes": [
       [
         "DMG พื้นฐาน",
-        "{*skillpara.damageMerge({119300101,119300109},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119300101,119300109},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119300101,119300109},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119300101,119300109},{1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119300101,119300109},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119300101,119300109},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -51410,7 +52082,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({119370102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119370102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({119370102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({119370102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({119370102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({119370102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -55426,6 +56098,48 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "200246001": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 200246001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "雷电食人魔雷怒",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2002460,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "200246101": {
+    "AiReleaseSkillRange": [0.0, 2.0, 5.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 200246101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "雷电食人魔重踏",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2002461,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "200250001": {
     "AiReleaseSkillRange": [0.0, 12.0, 12.0, 0.0],
     "BuffTags": [],
@@ -55929,6 +56643,48 @@
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": false
+  },
+  "200275001": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 200275001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "共鸣-强疗脉冲",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2002750,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "200275101": {
+    "AiReleaseSkillRange": [0.0, 10.0, 20.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 200275101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "姆克王召唤小弟",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2002751,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
   },
   "200280101": {
     "AiReleaseSkillRange": [0.0, 4.0, 9.0, 0.0],
@@ -56774,6 +57530,73 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "200288001": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 200288001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "风哥王召龙卷风",
+    "NeedScaleCamera": false,
+    "STRange": [10.0],
+    "SkillAttrDes": [
+      ["", ""],
+      ["", ""],
+      ["", ""]
+    ],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2002880,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": false
+  },
+  "200288101": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 200288101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2002881,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "200288201": {
+    "AiReleaseSkillRange": [0.0, 3.0, 7.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 200288201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "风哥王三连挥砍",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2002882,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "200289101": {
     "AiReleaseSkillRange": [0.0, 4.0, 12.0, 0.0],
     "BuffTags": [],
@@ -57067,6 +57890,27 @@
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
+  },
+  "200295001": {
+    "AiReleaseSkillRange": [0.0, 3.0, 6.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 200295001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "山贼旋风斩",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2002950,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": false
   },
   "200430101": {
     "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
@@ -57819,23 +58663,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({322010100},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322010100},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322010100},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322010100},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({322010100},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322010100},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322010100},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322010100},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({322010100},{2},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010100},{2},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322010100},{2},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322010100},{2},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010100},{2},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322010100},{2},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({322010300},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010300},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322010300},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322010300},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010300},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322010300},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({122110102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122110102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({122110102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({122110102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122110102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({122110102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 15.0,
@@ -58014,11 +58858,11 @@
     "SkillAttrDes": [
       [
         "DMG ลูกศร",
-        "{*skillpara.damageMerge({322030100},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322030100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322030100},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322030100},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322030100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322030100},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG แนวธนูต่อครั้ง",
-        "{*skillpara.damageMerge({122950102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122950102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({122950102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({122950102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122950102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({122950102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เจ็บง่าย", ""],
       ["ระยะเวลาต่อเนื่อง", "10 วินาที"],
@@ -58152,7 +58996,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({322010400},{5},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010400},{5},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322010400},{5},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322010400},{5},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010400},{5},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322010400},{5},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา Charge", ""]
     ],
@@ -58200,11 +59044,11 @@
     "SkillAttrDes": [
       [
         "DMG ปกติ",
-        "{*skillpara.damageMerge({322010600},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010600},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322010600},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322010600},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010600},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322010600},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG หลังอัปพลัง",
-        "{*skillpara.damageMerge({322011100,322020300,122940101},{4,1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322011100,322020300,122940101},{4,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322011100,322020300,122940101},{4,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322011100,322020300,122940101},{4,1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322011100,322020300,122940101},{4,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322011100,322020300,122940101},{4,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา Charge", ""]
     ],
@@ -58273,7 +59117,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({322010200},{21},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010200},{21},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322010200},{21},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322010200},{21},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322010200},{21},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322010200},{21},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -58325,7 +59169,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({122890101},{10},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122890101},{10},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({122890101},{10},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({122890101},{10},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122890101},{10},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({122890101},{10},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -58352,7 +59196,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({122330103},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122330103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({122330103},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({122330103},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122330103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({122330103},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""],
       ["เวลา Charge", ""]
@@ -58380,7 +59224,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({25524003},{10},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25524003},{10},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({25524003},{10},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({25524003},{10},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25524003},{10},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({25524003},{10},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -58460,11 +59304,11 @@
     "SkillAttrDes": [
       [
         "DMG หมาป่า",
-        "{*skillpara.damageMerge({117008260102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117008260102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117008260102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117008260102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({117008260102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117008260102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG เหยี่ยว",
-        "{*skillpara.damageMerge({11011120101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({11011120101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({11011120101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({11011120101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({11011120101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({11011120101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""],
       ["เวลา Charge", ""]
@@ -58492,11 +59336,11 @@
     "SkillAttrDes": [
       [
         "DMG Explosive Arrow",
-        "{*skillpara.damageMerge({322011000},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322011000},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({322011000},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({322011000},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({322011000},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({322011000},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG พื้นฐานเมื่อระเบิด",
-        "{*skillpara.damageMerge({25523102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25523102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({25523102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({25523102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25523102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({25523102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -58817,23 +59661,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({123010102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123010102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123010102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123010102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123010102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123010102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({123020102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123020102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123020102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123020102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123020102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123020102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({123030102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123030102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123030102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123030102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123030102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123030102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({123040102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123040102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123040102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123040102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123040102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123040102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({116240101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({116240101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({116240101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({116240101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({116240101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({116240101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -59090,7 +59934,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({123060101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123060101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123060101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123060101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123060101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123060101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -59142,7 +59986,7 @@
     "SkillAttrDes": [
       [
         "DMG ต่อนัด",
-        "{*skillpara.damageMerge({12301010101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({12301010101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({12301010101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({12301010101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({12301010101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({12301010101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา Charge", ""]
     ],
@@ -59169,7 +60013,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({323080100},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({323080100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({323080100},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({323080100},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({323080100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({323080100},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Heal ทั้งหมด",
@@ -59279,7 +60123,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({123130106},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123130106},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123130106},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123130106},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123130106},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123130106},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -59480,23 +60324,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({123210102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123210102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123210102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123210102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123210102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123210102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({123220102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123220102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123220102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123220102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123220102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123220102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({123230102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123230102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123230102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123230102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123230102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123230102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({123240102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123240102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123240102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123240102},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123240102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123240102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({123370101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123370101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({123370101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({123370101},{1},\"PVEDamageRadio\",\"up\")*}M.Atk+{*skillpara.damageMerge({123370101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({123370101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -60149,23 +60993,23 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({124010102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124010102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124010102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124010102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124010102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124010102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({124020102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124020102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124020102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124020102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124020102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124020102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({124030102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124030102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124030102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124030102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124030102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124030102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 4",
-        "{*skillpara.damageMerge({124040102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124040102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124040102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124040102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124040102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124040102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Red light counter",
-        "{*skillpara.damageMerge({124240102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124240102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124240102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124240102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124240102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124240102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -60254,7 +61098,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({124050104},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124050104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124050104},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124050104},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124050104},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124050104},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่ม P.DEF ทุก Stack", ""],
       ["ระยะเวลาต่อเนื่อง", "10 วินาที"]
@@ -60282,7 +61126,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({124060101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124060101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124060101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124060101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124060101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124060101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -60308,7 +61152,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({124070103},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124070103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124070103},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124070103},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124070103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124070103},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -60335,7 +61179,7 @@
     "SkillAttrDes": [
       [
         "DMG ต่อนัด",
-        "{*skillpara.damageMerge({324010100},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({324010100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({324010100},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({324010100},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({324010100},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({324010100},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["ลด DMG ที่ได้รับ", ""],
       ["เวลา CD", ""]
@@ -60363,7 +61207,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({25540404},{12},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25540404},{12},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({25540404},{12},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({25540404},{12},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25540404},{12},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({25540404},{12},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Heal ทั้งหมด",
@@ -60394,7 +61238,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({124100101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124100101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124100101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124100101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124100101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124100101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Heal ทั้งหมด", "{*skillpara.effect(\"hpcostPer\",\"up\")*} เลือดที่เสีย"]
     ],
@@ -60442,7 +61286,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({124120102,124120103,124120104},{1,1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124120102,124120103,124120104},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124120102,124120103,124120104},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124120102,124120103,124120104},{1,1,1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124120102,124120103,124120104},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124120102,124120103,124120104},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -60603,7 +61447,7 @@
     "SkillAttrDes": [
       [
         "DMG ต่อนัด",
-        "{*skillpara.damageMerge({25541203},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25541203},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({25541203},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({25541203},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({25541203},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({25541203},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -60630,7 +61474,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({324010200},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({324010200},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({324010200},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({324010200},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({324010200},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({324010200},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["สัดส่วนการลดหย่อน", "{*skillpara.effect(\"attrPer\",\"up\")*} พลังชีวิตสูงสุด"],
       ["เวลา Charge", ""]
@@ -60658,7 +61502,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({124210101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124210101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({124210101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({124210101},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({124210101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({124210101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -61827,6 +62671,97 @@
     "Tags": [],
     "TakeWeaponInSkill": false
   },
+  "290025001": {
+    "AiReleaseSkillRange": [0.0, 10.0, 15.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290025001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "艾露娜hot",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [
+      ["", ""],
+      ["", ""]
+    ],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900250,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "290025101": {
+    "AiReleaseSkillRange": [0.0, 0.0, 12.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290025101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "艾露娜繁花",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [
+      ["", ""],
+      ["", ""],
+      ["", ""]
+    ],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900251,
+    "SkillLearnBuffs": [],
+    "Tags": [5, 67, 33, 9, 11, 69, 94],
+    "TakeWeaponInSkill": true
+  },
+  "290025201": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290025201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "繁花种子",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900252,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "290025301": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290025301,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "繁花种子",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900253,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "290027001": {
     "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
     "BuffTags": [],
@@ -62041,6 +62976,55 @@
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": false
+  },
+  "290035001": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290035001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 10.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [
+      ["", ""],
+      ["", ""]
+    ],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900350,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "290035101": {
+    "AiReleaseSkillRange": [0.0, 2.0, 5.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290035101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [
+      ["", ""],
+      ["", ""],
+      ["", ""]
+    ],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900351,
+    "SkillLearnBuffs": [],
+    "Tags": [4, 66, 31, 9, 69, 93],
+    "TakeWeaponInSkill": true
   },
   "290037001": {
     "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
@@ -62319,6 +63303,48 @@
     "Tags": [],
     "TakeWeaponInSkill": false
   },
+  "290055001": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290055001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "奥尔维拉_SKILL_Ult02",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900550,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "290055101": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290055101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "塔塔地面火焰",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900551,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": false
+  },
   "290057001": {
     "AiReleaseSkillRange": [0.0, 0.0, 0.0, -1.0],
     "BuffTags": [],
@@ -62426,6 +63452,75 @@
     "SkillId": 2900640,
     "SkillLearnBuffs": [],
     "Tags": [8, 76],
+    "TakeWeaponInSkill": false
+  },
+  "290065001": {
+    "AiReleaseSkillRange": [0.0, 5.0, 10.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290065001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "塔塔燃天斧",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [
+      ["", ""],
+      ["", ""]
+    ],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900650,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "290065101": {
+    "AiReleaseSkillRange": [0.0, 2.0, 4.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290065101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "塔塔普通攻击",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [
+      ["", ""],
+      ["", ""]
+    ],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900651,
+    "SkillLearnBuffs": [],
+    "Tags": [4, 66, 28, 9, 68, 93],
+    "TakeWeaponInSkill": true
+  },
+  "290065201": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [0.0, 0.0, 0.0],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 290065201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "塔塔地面火焰",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 2900652,
+    "SkillLearnBuffs": [],
+    "Tags": [],
     "TakeWeaponInSkill": false
   },
   "290070101": {
@@ -68265,7 +69360,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({120024410102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({120024410102},{1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({120024410102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({120024410102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({120024410102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({120024410102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -68292,7 +69387,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({11012270101},{7},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({11012270101},{7},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({11012270101},{7},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({11012270101},{7},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({11012270101},{7},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({11012270101},{7},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["ลด DMG เพิ่มเติม", ""],
       ["ระยะเวลาต่อเนื่อง", ""],
@@ -68387,7 +69482,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110081410101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110081410101},{1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({110081410101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110081410101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110081410101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({110081410101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Wound", ""],
       ["ระยะเวลาต่อเนื่อง", ""],
@@ -68456,7 +69551,7 @@
     "NeedScaleCamera": false,
     "STRange": [0.0],
     "SkillAttrDes": [
-      ["โล่", "{*skillpara.effect(\"shield\",\"up\")*}ลิมิต HP"],
+      ["Shield", "{*skillpara.effect(\"shield\",\"up\")*}ลิมิต HP"],
       ["ระยะเวลาต่อเนื่อง", ""],
       ["เวลา CD", ""]
     ],
@@ -68924,7 +70019,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110085410101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110085410101},{1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({110085410101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110085410101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110085410101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({110085410101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["ระยะเวลาใบ้", ""],
       ["เวลา CD", ""]
@@ -80846,7 +81941,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({139010101},{7},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139010101},{7},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({139010101},{7},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({139010101},{7},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139010101},{7},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({139010101},{7},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Heal ทั้งหมด",
@@ -80877,7 +81972,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({120024400102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({120024400102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({120024400102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({120024400102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({120024400102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({120024400102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -80972,7 +82067,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110024400103},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110024400103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110024400103},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110024400103},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110024400103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110024400103},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Crit Bonus", ""],
       ["เพิ่ม CRIT DMG", ""],
@@ -81002,7 +82097,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({11026400101,11026400108},{1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({11026400101,11026400108},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({11026400101,11026400108},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({11026400101,11026400108},{1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({11026400101,11026400108},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({11026400101,11026400108},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["โบนัสการโจมตีพิเศษ", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81031,7 +82126,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110028300103,110028300104},{10,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110028300103,110028300104},{10,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110028300103,110028300104},{10,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110028300103,110028300104},{10,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110028300103,110028300104},{10,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110028300103,110028300104},{10,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่มโบนัสเจาะเกราะ", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81060,7 +82155,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({120028530101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({120028530101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({120028530101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({120028530101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({120028530101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({120028530101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่ม Int", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81146,11 +82241,11 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({339100100,339100200,339100300,339100400,339100500,339100600},{1,1,1,1,1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK+{*skillpara.damageMerge ({339100100,339100200,339100300,339100400,339100500,339100600},{1,1,1,1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({339100100,339100200,339100300,339100400,339100500,339100600},{1,1,1,1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({339100100,339100200,339100300,339100400,339100500,339100600},{1,1,1,1,1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK+{*skillpara.damageMerge ({339100100,339100200,339100300,339100400,339100500,339100600},{1,1,1,1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({339100100,339100200,339100300,339100400,339100500,339100600},{1,1,1,1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ต่อครั้งของทุก Stack กร่อน",
-        "{*skillpara.damageMerge({2211009003},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211009003},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({2211009003},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({2211009003},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211009003},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({2211009003},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -81223,7 +82318,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({139130010101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139130010101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({139130010101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({139130010101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139130010101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({139130010101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["โบนัสสกิลเชี่ยวชาญ", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81252,7 +82347,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({31004010200},{3},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({31004010200},{3},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({31004010200},{3},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({31004010200},{3},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({31004010200},{3},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({31004010200},{3},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่มการลด DMG เมื่อบล็อค", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81283,7 +82378,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({11007300102},{4},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({11007300102},{4},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({11007300102},{4},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({11007300102},{4},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({11007300102},{4},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({11007300102},{4},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Luck Bonus", ""],
       ["ทวีคูณ Lucky Strike เพิ่ม", ""],
@@ -81340,15 +82435,15 @@
     "SkillAttrDes": [
       [
         "DMG ขั้น 1",
-        "{*skillpara.damageMerge({130810230101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({130810230101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({130810230101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({130810230101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({130810230101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({130810230101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 2",
-        "{*skillpara.damageMerge({130810230102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({130810230102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({130810230102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({130810230102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({130810230102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({130810230102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ขั้น 3",
-        "{*skillpara.damageMerge({130810230103},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({130810230103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({130810230103},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({130810230103},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({130810230103},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({130810230103},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["ทุก Stack เพิ่ม DMG", ""],
       ["เวลา CD", ""]
@@ -81479,11 +82574,11 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({129005400101,129005400103,129005400104,129005400105,129005400106},{1,1,1,1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({129005400101,129005400103,129005400104,129005400105,129005400106},{1,1,1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({129005400101,129005400103,129005400104,129005400105,129005400106},{1,1,1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({129005400101,129005400103,129005400104,129005400105,129005400106},{1,1,1,1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({129005400101,129005400103,129005400104,129005400105,129005400106},{1,1,1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({129005400101,129005400103,129005400104,129005400105,129005400106},{1,1,1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ระเบิดต่อครั้ง",
-        "{*skillpara.damageMerge({2211008503},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211008503},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({2211008503},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({2211008503},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211008503},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({2211008503},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["โอกาส", ""],
       ["เวลา CD", ""]
@@ -81511,7 +82606,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({117004400103,117004400105},{1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({117004400103,117004400105},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({117004400103,117004400105},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117004400103,117004400105},{1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({117004400103,117004400105},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117004400103,117004400105},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Crit Bonus", ""],
       ["เพิ่ม CRIT DMG", ""],
@@ -81568,7 +82663,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({139250102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139250102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({139250102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({139250102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139250102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({139250102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่มโบนัสเจาะเกราะ", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81639,7 +82734,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({136990101},{5},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({136990101},{5},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({136990101},{5},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({136990101},{5},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({136990101},{5},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({136990101},{5},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Luck Bonus", ""],
       ["เพิ่มเอฟเฟกต์ Lucky", ""],
@@ -81669,7 +82764,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({2211006203},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211006203},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({2211006203},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({2211006203},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211006203},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({2211006203},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่มพลัง", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81698,7 +82793,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110052400101},{20},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110052400101},{20},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110052400101},{20},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110052400101},{20},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110052400101},{20},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110052400101},{20},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -81852,7 +82947,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({120017400103,120017400104,120017400105},{1,1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({120017400103,120017400104,120017400105},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(ค่าเจาะเกราะ:{*skillpara.damageMerge({120017400103,120017400104,120017400105},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({120017400103,120017400104,120017400105},{1,1,1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({120017400103,120017400104,120017400105},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({120017400103,120017400104,120017400105},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Agi เพิ่มขึ้น", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81881,9 +82976,9 @@
     "SkillAttrDes": [
       [
         "DMG ต่อนัด",
-        "{*skillpara.damageMerge({2211009604},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({2211009604},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({2211009604},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({2211009604},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({2211009604},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({2211009604},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["โล่", "{*skillpara.effect(\"shield\",\"up\")*}ลิมิต HP"],
+      ["Shield", "{*skillpara.effect(\"shield\",\"up\")*}ลิมิต HP"],
       ["ระยะเวลาต่อเนื่อง", "15 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -81931,7 +83026,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({139360010101},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139360010101},{10},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({139360010101},{10},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({139360010101},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139360010101},{10},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({139360010101},{10},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["โบนัสธาตุน้ำแข็ง", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -81960,7 +83055,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110104400102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110104400102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110104400102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110104400102},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110104400102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110104400102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Luck Bonus", ""],
       ["ทวีคูณ Lucky Strike เพิ่ม", ""],
@@ -81990,7 +83085,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110069400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110069400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110069400101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110069400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110069400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110069400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Mastery Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82019,7 +83114,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({31000200},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({31000200},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({31000200},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({31000200},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({31000200},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({31000200},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["โบนัสธาตุแสง", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82048,7 +83143,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110086410103},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110086410103},{10},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110086410103},{10},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110086410103},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110086410103},{10},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110086410103},{10},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["โบนัสธาตุลม", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82101,11 +83196,11 @@
     "SkillAttrDes": [
       [
         "ระเบิด DMG",
-        "{*skillpara.damageMerge({110077410101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110077410101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110077410101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110077410101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110077410101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110077410101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG ต่อเนื่องในครั้งเดียว",
-        "{*skillpara.damageMerge({2211009903},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211009903},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({2211009903},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({2211009903},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211009903},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({2211009903},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["บาดเจ็บง่ายมีผลกับตัวเอง", ""],
       ["บาดเจ็บง่ายฝ่ายพันธมิตรมีผล", ""],
@@ -82135,7 +83230,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110081400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110081400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110081400101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110081400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110081400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110081400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -82162,7 +83257,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110084400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110084400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110084400101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110084400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110084400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110084400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Haste Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82191,7 +83286,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110085400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110085400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110085400101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110085400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110085400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110085400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -82221,7 +83316,7 @@
       ["เวลา CD", ""],
       [
         "\"การโจมตีกวาดดาบ\"<br>DMG รวม",
-        "{*skillpara.damageMerge({31004010200},{3},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({31004010200},{3},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({31004010200},{3},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({31004010200},{3},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({31004010200},{3},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({31004010200},{3},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["\"การโจมตีกวาดดาบ\" บล็อกลด DMG เพิ่มขึ้น", ""],
       ["\"การโจมตีกวาดดาบ\" เวลาต่อเนื่องบล็อกลด DMG", "20 วินาที"],
@@ -82229,26 +83324,26 @@
       ["\"การโจมตีกวาดดาบ\" เวลาต่อเนื่องลด DEF เป้าหมาย", "10 วินาที<br>"],
       [
         "\"ยิงมั่ว\"<br>DMG รวม",
-        "{*skillpara.damageMerge({11007300102},{4},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({11007300102},{4},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({11007300102},{4},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({11007300102},{4},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({11007300102},{4},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({11007300102},{4},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["\"ยิงมั่ว\" Lucky เพิ่มขึ้น", ""],
       ["\"ยิงมั่ว\" อัตราเท่า Lucky Strike เพิ่มขึ้น", ""],
       ["\"ยิงมั่ว\" เวลาต่อเนื่อง", "20s<br>"],
       [
         "\"Roar Command\"<br>DMG รวม",
-        "{*skillpara.damageMerge({2211006203},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211006203},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({2211006203},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({2211006203},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({2211006203},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({2211006203},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["\"Roar Command\" Power เพิ่มขึ้น", ""],
       ["\"Roar Command\" เวลาต่อเนื่อง", "20s<br>"],
       [
         "\"การโจมตีพายุ\"<br>DMG รวม",
-        "{*skillpara.damageMerge({110086410103},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110086410103},{10},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110086410103},{10},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110086410103},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110086410103},{10},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110086410103},{10},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["\"การโจมตีพายุ\" โบนัสธาตุลม", ""],
       ["\"การโจมตีพายุ\" เวลาต่อเนื่อง", "20s<br>"],
       [
         "\"ดาวตกสลาย\"<br>DMG รวม",
-        "{*skillpara.damageMerge({136990101},{5},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({136990101},{5},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({136990101},{5},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({136990101},{5},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({136990101},{5},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({136990101},{5},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["\"ดาวตกสลาย\" Lucky เพิ่มขึ้น", ""],
       ["\"ดาวตกสลาย\" เอฟเฟกต์ Lucky เพิ่มขึ้น", ""],
@@ -82277,7 +83372,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110059400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110059400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking Tenacity:{*skillpara.damageMerge({110059400101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110059400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110059400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110059400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["โบนัสธาตุสายฟ้า", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82306,7 +83401,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({129008400103,129008400105,129008400107,129008400108,129008400109},{1,1,1,1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({129008400103,129008400105,129008400107,129008400108,129008400109},{1,1,1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({129008400103,129008400105,129008400107,129008400108,129008400109},{1,1,1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({129008400103,129008400105,129008400107,129008400108,129008400109},{1,1,1,1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({129008400103,129008400105,129008400107,129008400108,129008400109},{1,1,1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({129008400103,129008400105,129008400107,129008400108,129008400109},{1,1,1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["DMG เพิ่มขึ้น", ""],
       ["DMG เพิ่มขึ้นอีก", ""],
@@ -82406,7 +83501,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({129007400101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({129007400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({129007400101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({129007400101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({129007400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({129007400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่มพลังโจมตี", ""],
       ["เพิ่มพลังโจมตีเพิ่มเติม", ""],
@@ -82467,7 +83562,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110119060102},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110119060102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({110119060102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110119060102},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110119060102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110119060102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["ความเร็วโจมตีเพิ่มขึ้น", ""],
       ["ความเร็วร่าย Skills เพิ่มขึ้น", ""],
@@ -82497,7 +83592,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({111014400101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111014400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({111014400101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({111014400101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111014400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({111014400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["สกิลพิเศษเฉพาะเพิ่มขึ้น", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82526,7 +83621,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({117008290102},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({117008290102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({117008290102},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117008290102},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({117008290102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117008290102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่มพลังโจมตีของสัตว์เลี้ยง", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82555,7 +83650,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110118060101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110118060101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({110118060101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110118060101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110118060101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110118060101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -82582,7 +83677,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({111023060101,111023060102,111023060103},{1,1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111023060101,111023060102,111023060103},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({111023060101,111023060102,111023060103},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({111023060101,111023060102,111023060103},{1,1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111023060101,111023060102,111023060103},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({111023060101,111023060102,111023060103},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "เอฟเฟกต์ Lucky DMG",
@@ -82614,7 +83709,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({111007400108},{6},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111007400108},{6},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({111007400108},{6},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({111007400108},{6},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111007400108},{6},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({111007400108},{6},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["โบนัสธาตุรวม", ""],
       ["ระยะเวลาต่อเนื่อง", "10 วินาที"],
@@ -82643,7 +83738,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({111005040101},{6},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111005040101},{6},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({111005040101},{6},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({111005040101},{6},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111005040101},{6},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({111005040101},{6},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เพิ่มสเตตัส Versatility", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82672,7 +83767,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110110110101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110110110101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({110110110101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110110110101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110110110101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110110110101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "DMG เพิ่มเติมจาก P.DEF",
@@ -82704,7 +83799,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({139600101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({139600101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({139600101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({139600101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({139600101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({139600101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -82758,7 +83853,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({111013040101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111013040101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({111013040101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({111013040101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111013040101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({111013040101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       [
         "Heal ทั้งหมด",
@@ -82789,7 +83884,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({117007180101,117007180102},{1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({117007180101,117007180102},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({117007180101,117007180102},{1,1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({117007180101,117007180102},{1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({117007180101,117007180102},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({117007180101,117007180102},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Mastery Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -82818,7 +83913,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({110113120103},{2},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110113120103},{2},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({110113120103},{2},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110113120103},{2},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110113120103},{2},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110113120103},{2},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["CRIT Lv.1 เพิ่มขึ้น", ""],
       ["เพิ่ม CRIT DMG ระดับ 1", ""],
@@ -82852,7 +83947,7 @@
     "SkillAttrDes": [
       [
         "DMG ต่อนัด",
-        "{*skillpara.damageMerge({110112150101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110112150101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({110112150101},{1},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({110112150101},{1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({110112150101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110112150101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["เวลา CD", ""]
     ],
@@ -82879,7 +83974,7 @@
     "SkillAttrDes": [
       [
         "DMG รวม",
-        "{*skillpara.damageMerge({111022050102},{2},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111022050102},{2},\"PVEFixedParameter\",\"un\")*}<br>(Breaking tenacity:{*skillpara.damageMerge({111022050102},{2},\"PVEStunnedDamage\",\"un\")*})"
+        "{*skillpara.damageMerge({111022050102},{2},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111022050102},{2},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({111022050102},{2},\"PVEStunnedDamage\",\"un\")*})"
       ],
       ["Haste Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
@@ -83328,7 +84423,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({111218100101,111218100102},{1,1},\"PVEDamageRadio\",\"up\")*} ATK/MATK +{*skillpara.damageMerge({111218100101,111218100102},{1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({111218100101,111218100102},{1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["โล่", "{*skillpara.effect(\"attr\",\"up\")*} Max HP"],
+      ["Shield", "{*skillpara.effect(\"attr\",\"up\")*} Max HP"],
       ["ระยะเวลาต่อเนื่อง", "15 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -88186,6 +89281,27 @@
     "Tags": [],
     "TakeWeaponInSkill": true
   },
+  "420101": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 420101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "碎晶雷",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 4201,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
   "42010101": {
     "AiReleaseSkillRange": [0.0, 2.0, 4.0, 30.0],
     "BuffTags": [],
@@ -89179,6 +90295,27 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 420173,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "420201": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 420201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "碎晶雷",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 4202,
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
@@ -91258,6 +92395,90 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 4732,
+    "SkillLearnBuffs": [],
+    "Tags": [86],
+    "TakeWeaponInSkill": false
+  },
+  "474101": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 474101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "平衡修行",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 4741,
+    "SkillLearnBuffs": [],
+    "Tags": [86],
+    "TakeWeaponInSkill": false
+  },
+  "474201": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 474201,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "魔力爱心",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 4742,
+    "SkillLearnBuffs": [],
+    "Tags": [86],
+    "TakeWeaponInSkill": false
+  },
+  "474301": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 474301,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "平衡修行",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 4743,
+    "SkillLearnBuffs": [],
+    "Tags": [86],
+    "TakeWeaponInSkill": false
+  },
+  "474401": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 474401,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "魔力爱心",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 4744,
     "SkillLearnBuffs": [],
     "Tags": [86],
     "TakeWeaponInSkill": false
@@ -94567,6 +95788,27 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 5902,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "595001": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 595001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "通用-黑洞",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 5950,
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true
@@ -98148,6 +99390,48 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 700621,
+    "SkillLearnBuffs": [],
+    "Tags": [],
+    "TakeWeaponInSkill": true
+  },
+  "70065001": {
+    "AiReleaseSkillRange": [0.0, 10.0, 20.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 70065001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 700650,
+    "SkillLearnBuffs": [],
+    "Tags": [5],
+    "TakeWeaponInSkill": true
+  },
+  "70065101": {
+    "AiReleaseSkillRange": [0.0, 3.0, 6.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 70065101,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": true,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "普攻",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 700651,
     "SkillLearnBuffs": [],
     "Tags": [],
     "TakeWeaponInSkill": true

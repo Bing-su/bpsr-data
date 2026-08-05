@@ -449,7 +449,7 @@
   },
   "11010": {
     "AttrAdd": 11012,
-    "AttrDes": "เพิ่มพลังโจมตีของอาชีพ Wind Knight, Heavy Guardian, Shield Knight เพิ่ม P.DEF ของทุกอาชีพ",
+    "AttrDes": "เพิ่มพลังโจมตีของอาชีพ Wind Knight, Heavy Guardian, Shield Knight และ Twin Striker เพิ่ม P.DEF ของทุกอาชีพ",
     "AttrExAdd": 11013,
     "AttrExPer": 11015,
     "AttrFinal": 11010,
@@ -638,7 +638,7 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "幸运",
-    "OfficialName": "Lucky",
+    "OfficialName": "Luck",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
     "TipTemplate": "Lucky {*attr.value*}",
     "Type": "int32"
@@ -1121,7 +1121,7 @@
   },
   "11440": {
     "AttrAdd": 11442,
-    "AttrDes": "ร้าน Ember Void",
+    "AttrDes": "เมื่อเผชิญหน้ากับมอนสเตอร์ประจำซีซัน Ember:ถ้าค่า Illusion-Breaking Strength ของตัวเองสูงกว่าศัตรู ทุก 150 แต้มที่มากกว่า จะเพิ่ม DMG ที่สร้างขึ้น 5% (สูงสุด 20%) และเพิ่มการฟื้นฟู 2% (สูงสุด 8% มีผลเฉพาะใน Dungeon และบริเวณ Field Elite และ Boss)ถ้าค่า Illusion-Breaking Strength ของตัวเองต่ำกว่าศัตรู DMG ที่สร้างและการฟื้นฟูจะลดลงอย่างมาก และ DMG ที่ได้รับจะเพิ่มขึ้นอย่างมากเมื่อเผชิญหน้ากับมอนสเตอร์ในพื้นที่จากฤดูกาลก่อน:DMG ที่สร้างขึ้น +100%สามารถสังเกตระดับความอันตรายได้จากสีของไอคอนเหนือมอนสเตอร์ และยังสามารถตรวจสอบความแข็งแกร่งของมอนสเตอร์ได้จาก Monster Manual และ Dungeon Info",
     "AttrExAdd": 11443,
     "AttrExPer": 11445,
     "AttrFinal": 11440,
@@ -1142,9 +1142,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "赛季强度",
-    "OfficialName": "Dispel Force {*attr.value*}",
+    "OfficialName": "Illusion-Breaking Strength",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "มอนสเตอร์ [ซีซัน Ember]: <br> เมื่อ Dispel Force ของคุณสูงกว่าศัตรู ทุก 150 แต้มที่มากกว่าศัตรู จะสร้าง DMG เพิ่ม 5% (ไม่เกิน 20%) ฮีลเพิ่ม+2% (ไม่เกิน 8% มีผลแค่ในดันเจี้ยน Elite Field และระยะรอบ Boss เท่านั้น) <br>เมื่อ Dispel Force ของคุณต่ำกว่าศัตรู สร้าง DMG และฮีลลดลง ได้รับ DMG เพิ่ม<br><br>มอนสเตอร์ใน [ซีซันก่อน]: <br>สร้าง DMG เพิ่ม 100%<br><br>ความอันตรายประเมินได้จากสีของไอคอนที่อยู่เหนือหัวมอนสเตอร์ ความแข็งแกร่งของมอนสเตอร์ก็สามารถสังเกตได้จากคู่มือมอนสเตอร์และคำอธิบายดันเจี้ยน<br>",
+    "TipTemplate": "มอนสเตอร์ [ซีซัน Ember]: <br> เมื่อ Illusion-Breaking Strength ของคุณสูงกว่าศัตรู ทุก 150 แต้มที่มากกว่าศัตรู จะสร้าง DMG เพิ่ม 5% (ไม่เกิน 20%) ฮีลเพิ่ม+2% (ไม่เกิน 8% มีผลแค่ในดันเจี้ยน Elite Field และระยะรอบ Boss เท่านั้น) <br>เมื่อ Illusion-Breaking Strength ของคุณต่ำกว่าศัตรู สร้าง DMG และฮีลลดลง ได้รับ DMG เพิ่ม<br><br>มอนสเตอร์ใน [ซีซันก่อน]: <br>สร้าง DMG เพิ่ม 100%<br><br>ความอันตรายประเมินได้จากสีของไอคอนที่อยู่เหนือหัวมอนสเตอร์ ความแข็งแกร่งของมอนสเตอร์ก็สามารถสังเกตได้จากคู่มือมอนสเตอร์และคำอธิบายดันเจี้ยน<br>{*attr.value*}",
     "Type": "int32"
   },
   "11450": {
@@ -1646,7 +1646,7 @@
     "IsSyncMe": true,
     "Level": 3,
     "Name": "幸运万分比",
-    "OfficialName": "Lucky",
+    "OfficialName": "Luck",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
     "TipTemplate": "Lucky {*attr.value*}",
     "Type": "int32"
@@ -1730,9 +1730,9 @@
     "IsSyncMe": true,
     "Level": 4,
     "Name": "护盾强度万分比",
-    "OfficialName": "ความแข็งแกร่งของโล่",
+    "OfficialName": "Shield",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "ความแข็งแกร่งของโล่ {*attr.value*}",
+    "TipTemplate": "Shield {*attr.value*}",
     "Type": "int32"
   },
   "11820": {
@@ -1758,9 +1758,9 @@
     "IsSyncMe": true,
     "Level": 4,
     "Name": "受护盾强度万分比",
-    "OfficialName": "ความแข็งแกร่งโล่ที่ได้รับ",
+    "OfficialName": "ได้รับ Shield",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "ความแข็งแกร่งโล่ที่ได้รับ {*attr.value*}",
+    "TipTemplate": "ได้รับ Shield {*attr.value*}",
     "Type": "int32"
   },
   "11830": {
@@ -3662,9 +3662,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "冰元素抗性",
-    "OfficialName": "ต้านธาตุน้ำแข็ง",
+    "OfficialName": "Ice Resistance",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "ต้านธาตุน้ำแข็ง {*attr.value*}",
+    "TipTemplate": "Ice Resistance {*attr.value*}",
     "Type": "int32"
   },
   "13230": {
@@ -3690,9 +3690,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "森元素抗性",
-    "OfficialName": "ต้านธาตุพฤกษา",
+    "OfficialName": "Forest Resistance",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "ต้านธาตุพฤกษา {*attr.value*}",
+    "TipTemplate": "Forest Resistance {*attr.value*}",
     "Type": "int32"
   },
   "13240": {
@@ -3718,9 +3718,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "雷元素抗性",
-    "OfficialName": "ต้านธาตุสายฟ้า",
+    "OfficialName": "Thunder Resistance",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "ต้านธาตุสายฟ้า {*attr.value*}",
+    "TipTemplate": "Thunder Resistance {*attr.value*}",
     "Type": "int32"
   },
   "13250": {
@@ -3774,9 +3774,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "岩元素抗性",
-    "OfficialName": "ต้านธาตุหิน",
+    "OfficialName": "Rock Resistance",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "ต้านธาตุหิน {*attr.value*}",
+    "TipTemplate": "Rock Resistance {*attr.value*}",
     "Type": "int32"
   },
   "13270": {
@@ -3802,9 +3802,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "光元素抗性",
-    "OfficialName": "ต้านธาตุแสง",
+    "OfficialName": "Light Resistance",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "ต้านธาตุแสง {*attr.value*}",
+    "TipTemplate": "Light Resistance {*attr.value*}",
     "Type": "int32"
   },
   "13280": {
@@ -3830,9 +3830,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "暗元素抗性",
-    "OfficialName": "ต้านธาตุมืด",
+    "OfficialName": "Dark Resistance",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "ต้านธาตุมืด {*attr.value*}",
+    "TipTemplate": "Dark Resistance {*attr.value*}",
     "Type": "int32"
   },
   "13310": {

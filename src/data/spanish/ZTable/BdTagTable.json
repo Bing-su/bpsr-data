@@ -104,6 +104,13 @@
     "TagString": "Tipo de ventaja usada en el juego roguelike",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "Tag de Configuración de defensa",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "Habilidades que afectan al objetivo o dejan un área de curación que dura un tiempo. Permite que el objetivo restaure PS continuamente (este tipo de curación no puede activar efectos de suerte).",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "Físico",
+    "TagString": "Configuración de defensa",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "Mágico",
+    "TagString": "Configuración de defensa",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "Humanoide",
+    "TagString": "Es difícil de construir, pero resulta extremadamente potente en las últimas fases de la batalla.",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "Quemadura",
+    "TagString": "Crea un equipo centrado en Tatta como principal DPS, aprovechando los efectos de quemadura.",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "Recurso",
+    "TagString": "Consigue fragmentos de cristal rápidamente al principio de la batalla y genera un gran daño al final.",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "Carga",
+    "TagString": "Solo lanza habilidades cuando los objetivos entran en el área de efecto, infligiendo daño especial a los jefes.",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "Ventaja",
+    "TagString": "Configuración de defensa",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "Desventaja",
+    "TagString": "Configuración de defensa",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "Airona",
+    "TagString": "Configuración de defensa",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "Tatta",
+    "TagString": "Configuración de defensa",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "Bendición",
     "TagString": "Estado ventajoso que mejora las habilidades de combate, movimiento u otras.",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "Olvera",
+    "TagString": "Configuración de defensa",
     "TagType": 2
   },
   "14": {

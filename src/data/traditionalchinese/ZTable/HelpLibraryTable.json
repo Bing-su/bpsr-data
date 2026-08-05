@@ -576,6 +576,87 @@
     "Type": 1,
     "TypeGroup": 0
   },
+  "14001": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "<color=#eed335>開始遊戲</style>：點擊按鈕後玩法才會正式開始，在此之前可以進行準備工作。<br><style=\"GuideBookLab2\">注意：玩法開始前所有和調諧碎晶相關的調諧幻想效果都不會生效。</style>",
+      "<color=#eed335>亂流點</style>：玩法開始後，第一波怪物將從場地上的亂流點出現，然後沿著場景光點特效指示的路線移動。",
+      "<color=#eed335>星脈</style>：怪物最終目的地是星脈，玩家需要<style=\"GuideBookLab2\">防止怪物進入星脈。</style>",
+      "<color=#eed335>星脈能量</style>：怪物進入星脈後將消失並且吞噬星脈能量點數，怪物越強大吞噬的點數越多，一旦<style=\"GuideBookLab2\">星脈能量降至0點，玩法將直接結束</style>然後進入結算。",
+      "下一波倒數計時：告知下一波怪物出現的時機。",
+      "波次間隔置零：點擊後下一波倒數計時將置為0，並開始再下一波的倒數計時，但下一波怪物需要<style=\"GuideBookLab2\">等待上一波最後一隻怪物出現</style>後才會出現。<br><style=\"GuideBookLab2\">注意：場上最多只能存在3波普通怪物。</style>",
+      "下一波怪物信息：點擊波次後的圖示將顯示下一波怪物出現的資訊，根據資訊提前進行規劃。",
+      "開啟挑戰波次：玩法開始後，<style=\"GuideBookLab2\">隨時可以點擊</style>召喚挑戰波次的怪物，該波次怪物<style=\"GuideBookLab2\">無需等待時間</style>，點擊後直接登場。<style=\"GuideBookLab2\">注意：挑戰怪物異常強大，請做好萬全的準備，但波次獎勵也會非常豐厚；最多只能存在1波挑戰怪物。</style>"
+    ],
+    "DurationTime": 15,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 3,
+    "Icon": "",
+    "Id": 14001,
+    "MainTitle": "",
+    "Param": "",
+    "Res": ["td_003", "td_005", "td_006", "td_004", "td_0011", "td_0012", "td_0014", "td_0013"],
+    "Sequence": 48,
+    "SortId": 14001,
+    "Title": "星脈調諧·基礎流程",
+    "Type": 1,
+    "TypeGroup": 0
+  },
+  "14002": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "<color=#eed335>商店</style>：玩法內的專屬商店，商店會出現<style=\"GuideBookLab2\">隨機</style>商品，玩家點擊可購買商品，但需要<style=\"GuideBookLab2\">消耗對應的【調諧碎晶】數量</style>，消耗需求在商品最右側標出，每個商品<style=\"GuideBookLab2\">購買1次後售罄</style>。<br><color=#eed335>調諧碎晶</style>：重要的商店資源，數量顯示在商店上方，可以透過擊殺亂流點的怪物，調諧幻想的被動效果，解離調諧幻想等方式獲得；每局遊戲重置。<br><color=#eed335>商品資訊</style>：點擊商品圖示可以查看商品資訊，商品標籤包括品質，流派以及特殊資訊。<br><color=#eed335>唯一</style>：帶有[唯一]標籤的道具整局遊戲只能購買1次。",
+      "<color=#eed335>商店刷新</style>：可以消耗一定數量的【調諧碎晶】刷新商品列表，此前<style=\"GuideBookLab2\">未購買的商品不會保存</style>。<br><color=#eed335>商店升級</style>：當滿足一定條件後，刷新商店將會升級，升級後的商店會提供更多的商品數量，並且有更高機率隨機出更好品質的商品。<br><color=#eed335>商店折扣</style>：每次刷新後有一定機率遇到當前商品打折，機不可失，失不再來。"
+    ],
+    "DurationTime": 15,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 3,
+    "Icon": "",
+    "Id": 14002,
+    "MainTitle": "",
+    "Param": "",
+    "Res": ["td_001", "td_002"],
+    "Sequence": 49,
+    "SortId": 14002,
+    "Title": "星脈調諧·商店",
+    "Type": 1,
+    "TypeGroup": 0
+  },
+  "14003": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "<color=#eed335>隨身行囊</style>：玩法內的專屬背包，星脈調諧內獲得的所有玩法道具都將進入隨身行囊，並且在離開玩法後刪除。<br>可以隨時點擊打開隨身行囊，查看道具詳情。",
+      "星脈調諧內一共有3種道具類型：<br><color=#eed335>星脈饋贈</style>：成功抵擋波次後，有機率獲得星脈饋贈，打開饋贈禮包後會<style=\"GuideBookLab2\">隨機展示3個</style>道具，可以<style=\"GuideBookLab2\">選擇其中1個</style>獲得。<br><color=#eed335>調諧幻想</style>：獲得後可以在玩法中放置，協助玩家擊殺怪物；可以通過商店購買，選擇補給品，打開星脈饋贈-【星脈的幻想】等方式獲得。<br><color=#eed335>調諧介質</style>：進入背包後<style=\"GuideBookLab2\">自動生效</style>的道具，為指定的調諧幻想或者玩家<style=\"GuideBookLab2\">提供增益</style>；可以透過商店購買，選擇補給品，打開星脈饋贈-【調諧的補給】等方式獲得。",
+      "<color=#eed335>幻想放置</style>：在<style=\"GuideBookLab2\">幻想陣位</style>處或者<style=\"GuideBookLab2\">小地圖的對應圖示</style>處點擊，自動打開隨身行囊的調諧幻想頁籤，選擇其中一個創建至幻想陣位上。",
+      "<color=#eed335>幻想升階</style>：可以在已放置的調諧幻想處<style=\"GuideBookLab2\">消耗同名的調諧幻想</style>進行升階，升階後傷害大幅度提升，最高為3階。<br>如果擁有<style=\"GuideBookLab2\">同名的戰鬥幻想</style>，則上限提升至5階。<br>部分調諧幻想在3階和5階時擁有額外的效果。",
+      "<color=#eed335>幻想解離</style>：可以銷毀已放置的調諧幻想，並且只返還一定數量的調諧碎晶。"
+    ],
+    "DurationTime": 15,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 3,
+    "Icon": "",
+    "Id": 14003,
+    "MainTitle": "",
+    "Param": "",
+    "Res": ["td_007", "td_008", "td_0015", "td_0016", "td_0017"],
+    "Sequence": 50,
+    "SortId": 14003,
+    "Title": "星脈調諧·隨身行囊",
+    "Type": 1,
+    "TypeGroup": 0
+  },
   "14500": {
     "Button": "",
     "Condition": [],
@@ -833,7 +914,7 @@
     "Button": "",
     "Condition": [],
     "Content": [
-      "採集類生活職業包括<style=\"GuideBookLab1\">植生學、礦物學、晶石學</style>，生活職業初始解鎖時會獲得3點專精點，專精點所有生活職業通用，每<style=\"GuideBookLab1\">消耗300點專注會再獲得1點</style>，請先點擊專精頁簽去選擇你想要學習的專精。",
+      "採集類生活職業包括<style=\"GuideBookLab1\">植生學、礦物學、晶石學</style>，生活職業初始解鎖時會獲得3點專精點，專精點所有生活職業通用，每<style=\"GuideBookLab1\">消耗300點專注會再獲得1點</style>，請先點擊專精頁籤去選擇你想要學習的專精。",
       "選擇一個<style=\"GuideBookLab1\">專精</style>學習，可以解鎖一個採集目標，點擊左下的重置專精按鈕可以重置此職業的專精，<style=\"GuideBookLab1\">專精點全部返還</style>，需要消耗一個生活職業專精重置券。",
       "採集目標分為專注採集和普通採集，普通採集不會消耗專注，但是產出不可交易，主要是做裝備，傢俱的材料。選擇已解鎖的採集目標，點擊追蹤可以查看目標所在位置。",
       "右邊可以查看採集物的專注採集獎勵和普通採集獎勵，也有一部分採集物只有普通採集獎勵，大地圖上的圖示所在位置即採集物所在地，可以到所在位置尋找採集物。",
@@ -866,7 +947,7 @@
     "Button": "",
     "Condition": [],
     "Content": [
-      "製造類生活職業包括<style=\"GuideBookLab1\">鑄造、烹飪、煉金、工藝、木作</style>和<style=\"GuideBookLab1\">織造</style>，生活職業初始解鎖時會獲得3點專精點，專精點所有生活職業通用，每<style=\"GuideBookLab1\">消耗300點專注會再獲得1點</style>，請先點擊專精頁簽去選擇你想要學習的專精。",
+      "製造類生活職業包括<style=\"GuideBookLab1\">鑄造、烹飪、煉金、工藝、木作</style>和<style=\"GuideBookLab1\">織造</style>，生活職業初始解鎖時會獲得3點專精點，專精點所有生活職業通用，每<style=\"GuideBookLab1\">消耗300點專注會再獲得1點</style>，請先點擊專精頁籤去選擇你想要學習的專精。",
       "選擇一個<style=\"GuideBookLab1\">專精</style>學習，可以解鎖一個或多個製造配方。點擊左下的重置專精按鈕可以重置此職業的專精，<style=\"GuideBookLab1\">專精點全部返還</style>，需要消耗一個生活職業專精重置券。",
       "點擊左下的篩選按鈕會打開右側篩選彈窗。可以在裡面勾選或取消勾選對應的類型，目前有材料，消耗品，裝備，傢俱四種類型，合理勾選篩選自己需要查看的配方。",
       "製造配方分為專注配方和普通配方，普通配方不會消耗專注，但是產出不可交易。傢俱需要去家園的製造台製作，在這裡只能查看配方和解鎖條件。選擇已解鎖的配方，點擊前往即可開始追蹤該生活職業製造台的所在位置。",
@@ -6207,6 +6288,32 @@
     "Type": 3,
     "TypeGroup": 0
   },
+  "400112": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "",
+      "圖鑒說明",
+      "",
+      "可在圖鑒內查看當期活動出現的調諧幻想資訊及關卡內出現怪物的資訊。"
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 400112,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 2055,
+    "Title": "星脈調諧圖鑒說明",
+    "Type": 3,
+    "TypeGroup": 0
+  },
   "4002": {
     "Button": "",
     "Condition": [[105, 1]],
@@ -8014,7 +8121,7 @@
       "透過擊敗彌妄棲林中的敵人，冒險者可收集特殊資源<style=\"GuideBookLab1\">「彌妄塵埃」</style>，可在指定場合購買商品或啟動特殊效果。彌妄塵埃無法帶出彌妄棲林，戰勝最終首領<style=\"GuideBookLab1\">「彌妄裁定者 · 終式」</style>後，系統會將剩餘的彌妄塵埃轉化為可帶出的真實獎勵。<br>完成高難度挑戰，還會獎勵一定數量的<style=\"GuideBookLab2\">「彌妄凝華」</style>，可在彌妄商店中兌換各類養成道具。<br>完成相關任務可獲得<?",
       "彌妄棲林由五個等級遞進的區域構成。冒險者在區域內會持續積累<style=\"GuideBookLab1\">「彌妄值」</style>。等級越高的區域，彌妄值的自然增長速度也越快。當彌妄值達到100%時，冒險者將陷入<style=\"GuideBookLab1\">「彌妄」</style>狀態，禁止進行戰鬥與場景互動。<br>每個區域中各有一個獨特的區域事件，完成事件將啟動該區域的<style=\"GuideBookLab2\">「夢境分離器」</style>，冒險者可與之互動來啟動特殊效果。<br><style=\"GuideBookLab1\">救援隊友</style>：支付彌妄塵埃，可恢復一名附近陷入「彌妄」狀態的隊友。<br><style=\"GuideBookLab1\">夢境甦醒</style>：使全隊直接被傳送至最終首領處，發起決戰。觸發決戰時所在區域等級越高，則首領越強，獎勵越豐厚。",
       "冒險者可透過使用<style=\"GuideBookLab1\">「彌妄假面」</style>、<style=\"GuideBookLab1\">「破妄紋石」</style>和<style=\"GuideBookLab1\">「破妄術式」</style>等道具，獲得獨特增益和強化效果，進一步提升戰鬥體驗。<br>彌妄假面：開啟幻境前，可為場景中的<style=\"GuideBookLab1\">娜寶雕像</style>佩戴不同類型的面具來獲得獨特的<style=\"GuideBookLab2\">增益效果</style>與難",
-      "<style=\"GuideBookLab1\">「破妄心相儀」</style>為彌妄棲林的獨特養成系統，能夠為冒險者提供僅在彌妄棲林中生效的<style=\"GuideBookLab1\">全域增益</style>。在心相儀中插入「狂想因子」後，還可為職業帶來強大的增益效果。<br><style=\"GuideBookLab1\">*狂想因子可以在彌妄商店中購買。<br>彌妄心相儀支持<style=\"GuideBookLab2\">預設多套增益方案</style>，冒險者保存配置後，點擊介面左下角的<style=\"G?"
+      "<style=\"GuideBookLab1\">「破妄心相儀」</style>為彌妄棲林的獨特養成系統，能夠為冒險者提供僅在彌妄棲林中生效的<style=\"GuideBookLab1\">全域增益</style>。在心相儀中插入「狂想因子」後，還可為職業帶來強大的增益效果。<br><style=\"GuideBookLab1\">*狂想因子可以在彌妄商店中購買。<br>彌妄心相儀支持<style=\"GuideBookLab2\">預設多套增益方案</style>，冒險者保存配置後，點擊介面左下角的<style=\"GuideBookLab1\">「切換方案」</style>即可進行選擇與啟用。"
     ],
     "DurationTime": 15,
     "EventType": 0,

@@ -104,6 +104,13 @@
     "TagString": "Jenis atribut buff untuk digunakan di permainan roguelike.",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "Tag Aliran Tower Defense",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "Skill memengaruhi target atau meninggalkan area heal yang bertahan selama kurun waktu tertentu dan terus-menerus memulihkan HP target (heal jenis ini tidak bisa memicu efek Lucky)",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "Physical",
+    "TagString": "Aliran Tower Defense",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "Magical",
+    "TagString": "Aliran Tower Defense",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "Humanoid",
+    "TagString": "Sulit dikembangkan, sangat kuat di late game.",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "Menggunakan Tata sebagai DPS utama, membangun tim di sekitar efek Burn.",
+    "TagString": "Menggunakan Tata sebagai DPS utama, membangun tim di sekitar efek Burn.",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "Hanya melepaskan Skill saat memasuki lingkaran jangkauan, spesialis melawan Boss.",
+    "TagString": "Mendapatkan Attunement - Crystalshards dengan cepat di awal game, memberikan Damage tinggi di late game.",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Eluna Exclusive][Unique]</style><br>Meningkatkan efek pasif dan Normal Attack secara signifikan.",
+    "TagString": "Hanya melepaskan Skill saat memasuki lingkaran jangkauan, spesialis melawan Boss.",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "Buff",
+    "TagString": "Aliran Tower Defense",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "Debuff",
+    "TagString": "Aliran Tower Defense",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "Airona",
+    "TagString": "Aliran Tower Defense",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "Tatta",
+    "TagString": "Aliran Tower Defense",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "Blessing",
     "TagString": "Berada dalam status yang memperkuat kemampuan bertarung, bergerak, atau kemampuan lainnya",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "Olvera",
+    "TagString": "Aliran Tower Defense",
     "TagType": 2
   },
   "14": {

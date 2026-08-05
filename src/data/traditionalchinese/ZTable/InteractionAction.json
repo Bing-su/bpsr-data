@@ -439,6 +439,36 @@
     "ParamType": ["int"],
     "TimeoutIsSuccess": false
   },
+  "1100": {
+    "ActionName": "BuildTower",
+    "ActionType": 2,
+    "Desc": "创建塔（弹出选塔界面，发送选择的塔数据给服务器）",
+    "Id": 1100,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1101": {
+    "ActionName": "LevelUpTower",
+    "ActionType": 2,
+    "Desc": "升级塔（检测当前塔的等级并升级）",
+    "Id": 1101,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
+  "1102": {
+    "ActionName": "DestroyTower",
+    "ActionType": 2,
+    "Desc": "销毁塔（销毁当前塔并走返还逻辑）",
+    "Id": 1102,
+    "MaxTime": 0,
+    "ParamDesc": [],
+    "ParamType": [],
+    "TimeoutIsSuccess": false
+  },
   "12": {
     "ActionName": "openUI",
     "ActionType": 0,

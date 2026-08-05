@@ -5858,10 +5858,10 @@
       }
     ],
     "ForceStopInWaterDepth": 0.6000000238418579,
-    "HideWhenNotHave": true,
+    "HideWhenNotHave": false,
     "High": 1.0,
     "HudOffset": -0.6000000238418579,
-    "Icon": "item_icons_vehicle_honorguard01_01",
+    "Icon": "item_icons_vehicle_magicbroom01_01",
     "Id": 12010088,
     "InteractionMount": [],
     "InteractionTemplate": [],
@@ -5879,7 +5879,7 @@
     "MaxStepHeight": 1.0,
     "ModelID": 75088,
     "MoveCurve": "curve/vehicle/ch_vehicle_skateboard.bytes",
-    "MoveShowBuffId": [0, 683123, 683130],
+    "MoveShowBuffId": [0, 0, 683198],
     "Name": "Tonight, Depart by Stars",
     "ParentId": 0,
     "PassiveSkillId": [4599],
@@ -5893,7 +5893,7 @@
     "RunSpeedRate": 20000,
     "Score": 200,
     "SeatGroup": [100802],
-    "ShowLimitType": [],
+    "ShowLimitType": [[9, 80212]],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
@@ -5904,7 +5904,10 @@
     "UnlockCostItem": [],
     "UnlockSkinCondition": [],
     "UnrealSceneBg": "",
-    "VehSkillIds": [],
+    "VehSkillIds": [
+      [2, 4741],
+      [3, 4742]
+    ],
     "WalkSpeedRate": 15000
   },
   "12010089": {
@@ -5925,10 +5928,10 @@
       }
     ],
     "ForceStopInWaterDepth": 0.6000000238418579,
-    "HideWhenNotHave": true,
-    "High": 1.0,
+    "HideWhenNotHave": false,
+    "High": 1.5,
     "HudOffset": -0.6000000238418579,
-    "Icon": "item_icons_vehicle_honorguard02_01",
+    "Icon": "item_icons_vehicle_magicbroom02_01",
     "Id": 12010089,
     "InteractionMount": [],
     "InteractionTemplate": [],
@@ -5946,7 +5949,7 @@
     "MaxStepHeight": 1.0,
     "ModelID": 75089,
     "MoveCurve": "curve/vehicle/ch_vehicle_skateboard.bytes",
-    "MoveShowBuffId": [0, 683123, 683130],
+    "MoveShowBuffId": [0, 0, 683199],
     "Name": "Tonight, Depart by Stars - Radiance",
     "ParentId": 12010088,
     "PassiveSkillId": [4599],
@@ -5960,7 +5963,7 @@
     "RunSpeedRate": 20000,
     "Score": 400,
     "SeatGroup": [100803],
-    "ShowLimitType": [],
+    "ShowLimitType": [[9, 80212]],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_40",
@@ -5971,7 +5974,10 @@
     "UnlockCostItem": [1075045, 1],
     "UnlockSkinCondition": [5, 12010088, 1],
     "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_24",
-    "VehSkillIds": [],
+    "VehSkillIds": [
+      [2, 4743],
+      [3, 4744]
+    ],
     "WalkSpeedRate": 15000
   },
   "12010098": {

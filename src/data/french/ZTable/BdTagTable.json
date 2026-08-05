@@ -104,6 +104,13 @@
     "TagString": "Type de buff utilisé dans les modes roguelike",
     "TagType": 1
   },
+  "1012": {
+    "Id": 1012,
+    "ParentTag": 0,
+    "TagName": "Tag de spécialisation Défense de tour",
+    "TagString": "",
+    "TagType": 1
+  },
   "1017": {
     "Id": 1017,
     "ParentTag": 0,
@@ -202,11 +209,88 @@
     "TagString": "Compétences affectant la cible ou laissant une zone de soin persistante restaurant continuellement les PV (ce type de soin ne déclenche pas les effets de chance)",
     "TagType": 2
   },
+  "120": {
+    "Id": 120,
+    "ParentTag": 1012,
+    "TagName": "Physique",
+    "TagString": "Spécialisation Défense de tour",
+    "TagType": 2
+  },
+  "121": {
+    "Id": 121,
+    "ParentTag": 1012,
+    "TagName": "Magique",
+    "TagString": "Spécialisation Défense de tour",
+    "TagType": 2
+  },
+  "122": {
+    "Id": 122,
+    "ParentTag": 1012,
+    "TagName": "Humanoïde",
+    "TagString": "Difficile à développer, mais extrêmement puissant en fin de partie.",
+    "TagType": 2
+  },
+  "123": {
+    "Id": 123,
+    "ParentTag": 1012,
+    "TagName": "Brûlure",
+    "TagString": "Équipe centrée sur Tata (principal DPS), basée sur les dégâts de Brûlure.",
+    "TagType": 2
+  },
+  "124": {
+    "Id": 124,
+    "ParentTag": 1012,
+    "TagName": "Ressources",
+    "TagString": "Obtenir rapidement des Éclats de cristal en début de partie pour un gros dégâts en fin de partie.",
+    "TagType": 2
+  },
+  "125": {
+    "Id": 125,
+    "ParentTag": 1012,
+    "TagName": "Charge",
+    "TagString": "Les compétences ne se déclenchent que lorsque les ennemis entrent dans la zone, avec un bonus contre les boss.",
+    "TagType": 2
+  },
+  "126": {
+    "Id": 126,
+    "ParentTag": 1012,
+    "TagName": "Buff",
+    "TagString": "Spécialisation Défense de tour",
+    "TagType": 2
+  },
+  "127": {
+    "Id": 127,
+    "ParentTag": 1012,
+    "TagName": "Débuff",
+    "TagString": "Spécialisation Défense de tour",
+    "TagType": 2
+  },
+  "128": {
+    "Id": 128,
+    "ParentTag": 1012,
+    "TagName": "Airona",
+    "TagString": "Spécialisation Défense de tour",
+    "TagType": 2
+  },
+  "129": {
+    "Id": 129,
+    "ParentTag": 1012,
+    "TagName": "Tatta",
+    "TagString": "Spécialisation Défense de tour",
+    "TagType": 2
+  },
   "13": {
     "Id": 13,
     "ParentTag": 1004,
     "TagName": "Bénédiction",
     "TagString": "En état avantageux où les capacités de combat, de déplacement ou autres sont renforcées",
+    "TagType": 2
+  },
+  "130": {
+    "Id": 130,
+    "ParentTag": 1012,
+    "TagName": "Olvera",
+    "TagString": "Spécialisation Défense de tour",
     "TagType": 2
   },
   "14": {

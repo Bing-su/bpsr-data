@@ -1,0 +1,322 @@
+{
+  "1": {
+    "Desc": "Rareza: Inmortal<br>Arquetipo: [Humanoide]<br>Nivel máx.: nv. 5.<br>Tipo de ataque: Físico<br>Efecto pasivo: Ninguno<br>Ataque Básico: Balancea la guadaña 3 veces para infligir DÑO de AdE. <br>Habilidad principal: Balancea la guadaña y activa 2 anillos que infligen un gran DÑO de AdE. <br>CD: 15 s<br>Imagine de Sintonización nv. 3: Anillos +3.<br>Imagine de Sintonización nv. 5: Alcance del anillo +100 %.",
+    "Id": 1,
+    "IsHide": 0,
+    "ObjectId": 1,
+    "Sort": 1,
+    "Type": 1
+  },
+  "10": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: [Quemadura]<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Cuando está presente, los monstruos bajo el estado de Quemadura reciben un DÑO aumentado de las torres de Tipo Quemadura en un [1 % * acumulaciones de Quemadura]. <br>Ataque básico: Pisotea el suelo para infligir un DÑO de AdE menor. <br>Habilidad central: Obtiene un escudo de rayo que ataca a un objetivo al azar con un rayo cada 2 s.<br>Recarga: 15 s<br>Imagine de Sintonización nv. 3: Si el objetivo sufre Quemadura, consume sus acumulaciones de Quemadura para activar Explosión de Rayos, lo que inflige gran DÑO de AdE. <br>Imagine de Sintonización nv. 5: Explosión de Rayos ya no consume las acumulaciones de Quemadura del objetivo.",
+    "Id": 10,
+    "IsHide": 0,
+    "ObjectId": 46,
+    "Sort": 10,
+    "Type": 1
+  },
+  "1001": {
+    "Desc": "Tipo: Jefe<br>Rasgo: Reduce significativamente la VEL de ATQ de los Imagines de Sintonización dentro del alcance, pero aumenta su ATQ.",
+    "Id": 1001,
+    "IsHide": 0,
+    "ObjectId": 5003000,
+    "Sort": 1,
+    "Type": 2
+  },
+  "1002": {
+    "Desc": "Tipo: Jefe<br>Rasgo: Recibe menos DÑO de los ataques frontales y más DÑO de los ataques por la espalda.",
+    "Id": 1002,
+    "IsHide": 0,
+    "ObjectId": 5003001,
+    "Sort": 2,
+    "Type": 2
+  },
+  "1003": {
+    "Desc": "Tipo: Jefe<br>Rasgo: La Crustaraña Fantasmal desactiva al azar las habilidades de ciertos Imagines de Sintonización.",
+    "Id": 1003,
+    "IsHide": 0,
+    "ObjectId": 5003002,
+    "Sort": 3,
+    "Type": 2
+  },
+  "1004": {
+    "Desc": "Tipo: Jefe<br>Rasgo: Cada vez que se despliega un Imagine, la Crustaraña Depredadora devora algo de Sintonización - Fragmentos de cristal.",
+    "Id": 1004,
+    "IsHide": 0,
+    "ObjectId": 5003003,
+    "Sort": 4,
+    "Type": 2
+  },
+  "1005": {
+    "Desc": "Tipo: Jefe<br>Rasgo: Cada vez que canta su canción de cuna, pone a dormir a todos los Imagines de Sintonización en el campo.",
+    "Id": 1005,
+    "IsHide": 0,
+    "ObjectId": 5003004,
+    "Sort": 5,
+    "Type": 2
+  },
+  "1006": {
+    "Desc": "Tipo: Jefe<br>Rasgo: Aumenta significativamente los PS, pero aumenta el DÑO recibido. Cuanto mayor sea el nivel total de todos los Imagines de Sintonización en el campo, más DÑO recibirá.",
+    "Id": 1006,
+    "IsHide": 0,
+    "ObjectId": 5003005,
+    "Sort": 6,
+    "Type": 2
+  },
+  "1007": {
+    "Desc": "Tipo: Élite<br>Rasgo: Otorga Invencibilidad a todos los monstruos dentro del alcance, excluyéndose a sí mismo.",
+    "Id": 1007,
+    "IsHide": 0,
+    "ObjectId": 5002000,
+    "Sort": 7,
+    "Type": 2
+  },
+  "1008": {
+    "Desc": "Tipo: Élite<br>Rasgo: Congela al primer Imagine de Sintonización que lo ataque. ¿Quién quiere ser el primero?",
+    "Id": 1008,
+    "IsHide": 0,
+    "ObjectId": 5002001,
+    "Sort": 8,
+    "Type": 2
+  },
+  "1009": {
+    "Desc": "Tipo: Élite<br>Rasgo: Cura de forma continua a los monstruos cercanos.",
+    "Id": 1009,
+    "IsHide": 0,
+    "ObjectId": 5002002,
+    "Sort": 9,
+    "Type": 2
+  },
+  "1010": {
+    "Desc": "Tipo: Élite<br>Rasgo: Revive al ser derrotado.",
+    "Id": 1010,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 10,
+    "Type": 2
+  },
+  "1011": {
+    "Desc": "Tipo: Élite<br>Rasgo: Tiene una Velocidad de Movimiento extremadamente alta. Pero peor aún, ¡también es muy resistente!",
+    "Id": 1011,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 11,
+    "Type": 2
+  },
+  "1012": {
+    "Desc": "Tipo: Élite<br>Rasgo: Ignora el terreno al moverse, pero es muy perezoso y se toma descansos con frecuencia.",
+    "Id": 1012,
+    "IsHide": 0,
+    "ObjectId": 5002005,
+    "Sort": 12,
+    "Type": 2
+  },
+  "1013": {
+    "Desc": "Tipo: Normal<br>Rasgo: La criatura marina más común.",
+    "Id": 1013,
+    "IsHide": 0,
+    "ObjectId": 5001000,
+    "Sort": 13,
+    "Type": 2
+  },
+  "1014": {
+    "Desc": "Tipo: Normal<br>Rasgo: Tiene una Velocidad de Movimiento extremadamente alta, ¡pero la buena noticia es que es muy frágil!",
+    "Id": 1014,
+    "IsHide": 0,
+    "ObjectId": 5001001,
+    "Sort": 14,
+    "Type": 2
+  },
+  "1015": {
+    "Desc": "Tipo: Normal<br>Rasgo: Lleva un escudo grueso y suele aparecer justo al comienzo de una oleada.",
+    "Id": 1015,
+    "IsHide": 0,
+    "ObjectId": 5001002,
+    "Sort": 15,
+    "Type": 2
+  },
+  "1016": {
+    "Desc": "Tipo: Normal<br>Rasgo: Protege a otros monstruos en el campo al reducir el DÑO que reciben. ¡Será una gran molestia si no lo derrotas primero!",
+    "Id": 1016,
+    "IsHide": 0,
+    "ObjectId": 5001003,
+    "Sort": 16,
+    "Type": 2
+  },
+  "1017": {
+    "Desc": "Tipo: Normal<br>Rasgo: Su caparazón duro bloquea una enorme cantidad de DÑO Físico, pero a la inversa, es muy vulnerable a la Magia.",
+    "Id": 1017,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 17,
+    "Type": 2
+  },
+  "1018": {
+    "Desc": "Tipo: Normal<br>Rasgo: Es la ruina de la magia, pero el DÑO físico resulta extremadamente eficaz contra él.",
+    "Id": 1018,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 18,
+    "Type": 2
+  },
+  "1019": {
+    "Desc": "Tipo: Normal<br>Rasgo: Se entierra bajo el suelo y se vuelve Invencible durante este tiempo. ¡Es mejor estar al acecho desde la distancia!",
+    "Id": 1019,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 19,
+    "Type": 2
+  },
+  "1020": {
+    "Desc": "Tipo: Normal<br>Rasgo: Ignora el terreno al moverse. ¡Qué molestia!",
+    "Id": 1020,
+    "IsHide": 0,
+    "ObjectId": 5001007,
+    "Sort": 20,
+    "Type": 2
+  },
+  "1021": {
+    "Desc": "",
+    "Id": 1021,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 21,
+    "Type": 2
+  },
+  "11": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: [Recurso]<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Al desmontar, devuelve 100 de Sintonización - Esquirlas de cristal adicionales. <br>Ataque básico: Exhala una niebla helada hacia adelante, lo que inflige DÑO. <br>Habilidad central: Lanza impulsos helados a 3 objetivos al azar.<br>Recarga: 15 s<br>Imagine de Sintonización nv. 3: Se forman grupos de fragmentos donde caen los impulsos helados; recogerlos otorga de 1 a 20 de Sintonización - Esquirlas de cristal al azar y duran hasta 10 s. <br>Imagine de Sintonización nv. 5: Impulsos helados +2.",
+    "Id": 11,
+    "IsHide": 0,
+    "ObjectId": 51,
+    "Sort": 11,
+    "Type": 1
+  },
+  "12": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: [Apoyo]<br>Nivel máx.: nv. 3; con el Imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Al estar presente, aumenta el DÑO infligido por todos los aliados un 5 % (hasta un 20 %). <br>Ataque Básico: Invoca a 1 muku al azar para ayudar en la batalla y aumenta su VEL de ATQ. <br>Habilidad principal: Cura a los aliados dentro del alcance y aumenta su ATQ un 20 % durante 10 s.<br>CD: 15 s<br>Imagine de Sintonización nv. 3: Invoca a 1 muku ballestero adicional. <br>Imagine de Sintonización nv. 5: Invoca a 1 líder muku adicional.",
+    "Id": 12,
+    "IsHide": 0,
+    "ObjectId": 56,
+    "Sort": 12,
+    "Type": 1
+  },
+  "13": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: [Apoyo]<br>Nivel máx.: nv. 3; con el Imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Al estar presente, aumenta el DÑO recibido por todos los enemigos un 5 % (hasta un 20 %). <br>Ataque Básico: Da un tajo hacia abajo y adelante para infligir DÑO de AdE lineal. <br>Habilidad principal: Asesta un golpe al frente para infligir un gran DÑO de AdE dos veces.<br>CD: 15 s<br>Imagine de Sintonización nv. 3: Los Ataques Básicos desatan 2 ondas terrestres adicionales, alcance de ataque +50 %. <br>Imagine de Sintonización nv. 5: DÑO +20 %.",
+    "Id": 13,
+    "IsHide": 0,
+    "ObjectId": 61,
+    "Sort": 13,
+    "Type": 1
+  },
+  "14": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: [Carga]<br>Nivel máx.: nv. 3; con el Imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Mágico<br>Efecto pasivo: Aumenta el ATQ un 10 % por cada objetivo dentro del alcance (hasta un 100 %). <br>Ataque Básico: Da un tajo al frente, lo que inflige un gran DÑO de AdE en forma de abanico. <br>Habilidad principal: Lanza tornados a 2 objetivos al azar, que duran 5 s.<br>CD: 15 s<br>Imagine de Sintonización nv. 3: Por cada Imagine de Sintonización de Tipo Carga en el campo, recuento de tornados +1 (hasta +3).<br>Imagine de Sintonización nv. 5: Cada vez que aparece un tornado, aumenta el DÑO infligido por la siguiente habilidad de los Imagines de Sintonización de Tipo Carga (se acumula hasta un 100 %).",
+    "Id": 14,
+    "IsHide": 0,
+    "ObjectId": 66,
+    "Sort": 14,
+    "Type": 1
+  },
+  "15": {
+    "Desc": "Rareza: Superior<br>Arquetipo: [Recurso] [Quemadura]<br>Nivel máx.: nv. 3; con el Imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Al estar presente, el aventurero obtiene 100 de Sintonización - Fragmentos de cristal cada 10 s (máx. 5 activos a la vez). <br>Ataque Básico: Ninguno<br>Habilidad principal: Gira para infligir un pequeño DÑO de AdE y aplicar Quemadura.<br>CD: 15 s<br>Imagine de Sintonización nv. 3: Obtiene 15 de Sintonización - Fragmentos de cristal al morir un objetivo con Quemadura. <br>Imagine de Sintonización nv. 5: Obtiene 30 de Sintonización - Fragmentos de cristal al morir un objetivo con Quemadura.",
+    "Id": 15,
+    "IsHide": 0,
+    "ObjectId": 71,
+    "Sort": 15,
+    "Type": 1
+  },
+  "16": {
+    "Desc": "Rareza: Superior<br>Arquetipo: Ninguno<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Aplica una Ralentización del 25 % a los objetivos al infligir DÑO. Este efecto no se acumula. <br>Ataque básico: Ninguno<br>Habilidad central: Invoca Orbes del Rayo que atacan continuamente a los objetivos dentro del alcance.<br>Recarga: 15 s<br>Imagine de Sintonización nv. 3: Aumenta el DÑO de la habilidad central. <br>Imagine de Sintonización nv. 5: Aumenta el DÑO de la habilidad central.",
+    "Id": 16,
+    "IsHide": 0,
+    "ObjectId": 76,
+    "Sort": 16,
+    "Type": 1
+  },
+  "17": {
+    "Desc": "Rareza: Superior<br>Arquetipo: [Carga]<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Al estar presente, cada líder muku aumenta la tasa de críticos de los Imagines de Sintonización de Tipo Carga un 10 % (hasta un 100 %). <br>Ataque básico: Ninguno<br>Habilidad central: Golpea el suelo 3 veces seguidas y genera gran DÑO de AdE.<br>Recarga: 6 s<br>Imagine de Sintonización nv. 3: Aumenta el DÑO de la habilidad central. <br>Imagine de Sintonización nv. 5: Aumenta el DÑO de la habilidad central.",
+    "Id": 17,
+    "IsHide": 0,
+    "ObjectId": 84,
+    "Sort": 17,
+    "Type": 1
+  },
+  "18": {
+    "Desc": "Rareza: Superior<br>Arquetipo: Ninguno<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Mágico<br>Efecto pasivo: 30 % de probabilidad de aplicar congelación al atacar. <br>Ataque básico: Inflige DÑO de AdE y aplica un 10 % de Ralentización. <br>Habilidad central: Lanza un vórtice de agua que inflige DÑO de AdE continuo y aplica un 20 % de Ralentización.<br>Recarga: 15 s<br>Imagine de Sintonización nv. 3: Aumenta el DÑO de la habilidad central. <br>Imagine de Sintonización nv. 5: Aumenta el DÑO de la habilidad central.",
+    "Id": 18,
+    "IsHide": 0,
+    "ObjectId": 89,
+    "Sort": 18,
+    "Type": 1
+  },
+  "19": {
+    "Desc": "Rareza: Superior<br>Arquetipo: Ninguno<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Mágico<br>Efecto pasivo: Inflige DÑO extra a los objetivos con Corrosión; +10 % de DÑO por cada acumulación de Corrosión. <br>Ataque básico: Ninguno<br>Habilidad central: Lanza manantiales venenosos a 3 objetivos aleatorios para infligir DÑO de AdE continuo y aplicar Corrosión.<br>Recarga: 15 s<br>Imagine de Sintonización nv. 3: Aumenta el DÑO de la habilidad central. <br>Imagine de Sintonización nv. 5: Aumenta el DÑO de la habilidad central.",
+    "Id": 19,
+    "IsHide": 0,
+    "ObjectId": 94,
+    "Sort": 19,
+    "Type": 1
+  },
+  "2": {
+    "Desc": "Rareza: Épico<br>Arquetipo: [Humanoide] [Recurso]<br>Nivel máx.: nv. 3; con el Imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Mágico<br>Efecto pasivo: ATQ +[1 % * nivel total de todos los Imagines de Sintonización en el campo]. El precio en la Tienda se reduce un 50 %. <br>Ataque Básico: Hace caer meteoritos de forma continua sobre un solo objetivo dentro del alcance. <br>Habilidad principal: Llama a un Ciervo Espiritual para que cargue hacia adelante. Este efecto se activa 1 vez adicional por cada Imagine de Sintonización Humanoide en el campo. <br>CD: 15 s<br>Imagine de Sintonización nv. 3: Obtiene 10 de Sintonización - Fragmentos de cristal al atacar. CD: 3 s. <br>Imagine de Sintonización nv. 5: Obtiene 15 de Sintonización - Fragmentos de cristal al atacar. CD: 1 s.",
+    "Id": 2,
+    "IsHide": 0,
+    "ObjectId": 6,
+    "Sort": 2,
+    "Type": 1
+  },
+  "3": {
+    "Desc": "Rareza: Épico<br>: [Humanoide] [Quemadura]<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Mágico<br>Efecto pasivo: Inflige una instancia adicional de DÑO ígneo cada vez que un enemigo dentro del alcance recibe DÑO de Quemadura. <br>Ataque básico: Gira para infligir DÑO de AdE y aplicar Quemadura. <br>Habilidad central: Envía un rayo de hacha hacia adelante, lo que inflige gran DÑO. DÑO +20 % por cada acumulación de Quemadura en el objetivo. <br>Recarga: 15 s<br>Imagine de Sintonización nv. 3: Después de aplicar Quemadura 10 veces, el siguiente ataque desata Tren Infernal sobre el objetivo. <br>Imagine de Sintonización nv. 5: El requisito de aplicación de Quemadura se reduce a 6, daño de Tren Infernal +100 %.",
+    "Id": 3,
+    "IsHide": 0,
+    "ObjectId": 11,
+    "Sort": 3,
+    "Type": 1
+  },
+  "4": {
+    "Desc": "Rareza: Épico<br>Arquetipo: [Humanoide] [Carga]<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: El límite de acumulaciones de Carga aumenta a 20. <br>Ataque básico: No ataca de forma normal. Entra en Carga y obtiene 1 acumulación cada 3 s, hasta un máximo de 20 acumulaciones. Activa la habilidad cuando el aventurero entra en el alcance. <br>Habilidad central: Desata innumerables rayos de espada que infligen DÑO de AdE; consume todas las acumulaciones de Carga para aumentar el DÑO en un [40 % * acumulaciones de Carga]. <br>Recarga: Ninguna<br>Imagine de Sintonización nv. 3: Cada 10 s, fija al objetivo más cercano y dispara un rayo de espada. <br>Imagine de Sintonización nv. 5: Objetivos fijados por el rayo de espada +2.",
+    "Id": 4,
+    "IsHide": 0,
+    "ObjectId": 16,
+    "Sort": 4,
+    "Type": 1
+  },
+  "5": {
+    "Desc": "Rareza: Épico<br>: [Humanoide]<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Cuando está presente, la velocidad de recarga de la habilidad del aventurero aumenta un 50 %. Este efecto no se acumula. <br>Ataque básico: Empuja hacia adelante y hace girar la lanza para infligir DÑO de AdE. <br>Habilidad central: Los 5 Imagines de Sintonización más cercanos obtienen un 100 % de velocidad de recarga durante 5 s. <br>Recarga: 15 s<br>Imagine de Sintonización nv. 3: Velocidad de movimiento del aventurero +25 %, aumento de DÑO +25 %. <br>Imagine de Sintonización nv. 5: Velocidad de movimiento del aventurero +50 %, aumento de DÑO +50 %.",
+    "Id": 5,
+    "IsHide": 0,
+    "ObjectId": 21,
+    "Sort": 5,
+    "Type": 1
+  },
+  "6": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: [Carga]<br>Nivel máx.: nv. 3; con el Imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Cada 10 s, desata una onda terrestre sobre 3 objetivos al azar, lo que aplica Herida. <br>Ataque Básico: No ataca de forma normal. Entra en estado de Carga y obtiene 1 acumulación cada 3 s, hasta 10 acumulaciones. Activa la habilidad cuando el aventurero entra en el alcance. <br>Habilidad principal: Desata Impulso Infernal en una zona amplia, lo que inflige un gran DÑO y consume todas las acumulaciones de Carga para aumentar el DÑO en un [30 % * acumulaciones de Carga].<br>CD: Ninguno<br>Imagine de Sintonización nv. 3: El DÑO infligido por la pasiva aplica un 10 % de Vulnerabilidad durante 5 s. <br>Imagine de Sintonización nv. 5: +10 % de Vulnerabilidad adicional.",
+    "Id": 6,
+    "IsHide": 0,
+    "ObjectId": 26,
+    "Sort": 6,
+    "Type": 1
+  },
+  "7": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: Ninguno<br>Nivel máx.: nv. 3; con el imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Inflige un 100 % más de DÑO a los objetivos inmovilizados. <br>Ataque básico: Prioriza a los objetivos que no están inmovilizados. Escupe seda de araña para infligir DÑO con un 40 % de probabilidad de inmovilizar al objetivo durante 5 s. <br>Habilidad central: Se entierra bajo tierra y luego emerge para infligir gran DÑO de AdE y garantizar el aturdimiento del objetivo durante 1 s.<br>Recarga: 15 s<br>Imagine de Sintonización nv. 3: La probabilidad de inmovilización aumenta al 100 %. <br>Imagine de Sintonización nv. 5: La duración del aturdimiento aumenta a 2.5 s.",
+    "Id": 7,
+    "IsHide": 0,
+    "ObjectId": 31,
+    "Sort": 7,
+    "Type": 1
+  },
+  "8": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: [Recurso]<br>Nivel máx.: nv. 3; con el Imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Físico<br>Efecto pasivo: Otorga a la Rapaz Celestial un 1 % de daño adicional por cada 100 de Sintonización - Fragmentos de cristal que posea el aventurero, hasta un máximo del 100 %. <br>Ataque Básico: Deja caer un orbe de agua que inflige DÑO de AdE y aplica Lentitud. <br>Habilidad principal: Invoca a una rapaz fantasmal que carga hacia adelante.<br>CD: 15 s<br>Imagine de Sintonización nv. 3: Rapaz +1 y la tasa de obtención de Sintonización - Fragmentos de cristal aumenta un 5 %. <br>Imagine de Sintonización nv. 5: Rapaz +2 y la tasa de obtención de Sintonización - Fragmentos de cristal aumenta un 10 %.",
+    "Id": 8,
+    "IsHide": 0,
+    "ObjectId": 36,
+    "Sort": 8,
+    "Type": 1
+  },
+  "9": {
+    "Desc": "Rareza: Excelente<br>Arquetipo: [Quemadura]<br>Nivel máx.: nv. 3; con el Imagine de batalla correspondiente, el nivel máximo del Imagine de Sintonización aumenta del nv. 3 al nv. 5. <br>Tipo de ataque: Mágico<br>Efecto pasivo: Cuanto más altos sean los PS actuales, mayor será el ATQ (hasta un +200 %), pero pierde PS de forma continua. <br>Ataque Básico: Ninguno<br>Habilidad principal: Escupe fuego hacia adelante de forma continua, lo que inflige DÑO y aplica Quemadura.<br>CD: 8 s<br>Imagine de Sintonización nv. 3: Restaura un 5 % de los PS al atacar. <br>Imagine de Sintonización nv. 5: Convierte el exceso de curación en un escudo.",
+    "Id": 9,
+    "IsHide": 0,
+    "ObjectId": 41,
+    "Sort": 9,
+    "Type": 1
+  }
+}

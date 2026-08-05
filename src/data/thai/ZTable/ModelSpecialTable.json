@@ -6674,6 +6674,21 @@
     "UseHeadIK": false,
     "Weapon": []
   },
+  "14001": {
+    "AnimFadeTemplate": "",
+    "AnimTemplate": "",
+    "Effect": [],
+    "EmoPrefix": "",
+    "LookAtAngle": 0,
+    "LookAtDistance": 0,
+    "LookAtSpeed": 0,
+    "ModelPrefabDesc": "塔防-建塔基座品质1",
+    "ModelPrefabID": 14001,
+    "RotateCurves": [],
+    "Skeleton": "sm_stk_towerdefense_base_level0_001a",
+    "UseHeadIK": false,
+    "Weapon": []
+  },
   "1400100": {
     "AnimFadeTemplate": "",
     "AnimTemplate": "",
@@ -6761,6 +6776,66 @@
     "ModelPrefabID": 1400121,
     "RotateCurves": [],
     "Skeleton": "ch_wp_farfara02-12_01",
+    "UseHeadIK": false,
+    "Weapon": []
+  },
+  "14002": {
+    "AnimFadeTemplate": "",
+    "AnimTemplate": "",
+    "Effect": [],
+    "EmoPrefix": "",
+    "LookAtAngle": 0,
+    "LookAtDistance": 0,
+    "LookAtSpeed": 0,
+    "ModelPrefabDesc": "塔防-建塔基座品质2",
+    "ModelPrefabID": 14002,
+    "RotateCurves": [],
+    "Skeleton": "sm_stk_towerdefense_base_level1_001a",
+    "UseHeadIK": false,
+    "Weapon": []
+  },
+  "14003": {
+    "AnimFadeTemplate": "",
+    "AnimTemplate": "",
+    "Effect": [],
+    "EmoPrefix": "",
+    "LookAtAngle": 0,
+    "LookAtDistance": 0,
+    "LookAtSpeed": 0,
+    "ModelPrefabDesc": "塔防-建塔基座品质3",
+    "ModelPrefabID": 14003,
+    "RotateCurves": [],
+    "Skeleton": "sm_stk_towerdefense_base_level2_001a",
+    "UseHeadIK": false,
+    "Weapon": []
+  },
+  "14004": {
+    "AnimFadeTemplate": "",
+    "AnimTemplate": "",
+    "Effect": [],
+    "EmoPrefix": "",
+    "LookAtAngle": 0,
+    "LookAtDistance": 0,
+    "LookAtSpeed": 0,
+    "ModelPrefabDesc": "塔防-建塔基座品质4",
+    "ModelPrefabID": 14004,
+    "RotateCurves": [],
+    "Skeleton": "sm_stk_towerdefense_base_level3_001a",
+    "UseHeadIK": false,
+    "Weapon": []
+  },
+  "14005": {
+    "AnimFadeTemplate": "",
+    "AnimTemplate": "",
+    "Effect": [],
+    "EmoPrefix": "",
+    "LookAtAngle": 0,
+    "LookAtDistance": 0,
+    "LookAtSpeed": 0,
+    "ModelPrefabDesc": "塔防-建塔基座品质5",
+    "ModelPrefabID": 14005,
+    "RotateCurves": [],
+    "Skeleton": "sm_stk_towerdefense_base_level4_001a",
     "UseHeadIK": false,
     "Weapon": []
   },
@@ -32593,9 +32668,12 @@
     "Weapon": []
   },
   "75088": {
-    "AnimFadeTemplate": "ch_vehicle_broom_skill",
-    "AnimTemplate": "animtpl/ch_vehicle_broom_01",
-    "Effect": [],
+    "AnimFadeTemplate": "ch_vehicle_magicbroom01_skill",
+    "AnimTemplate": "animtpl/ch_vehicle_magicbroom01_01",
+    "Effect": [
+      ["cfg_ep_eff_ball01_point", "effect/common_new/vehicle/p_fx_vehicle_magicbroom01_idle"],
+      ["ep_f_chest_hit01_point", "effect/common_new/vehicle/p_fx_vehicle_magicbroom01_trail"]
+    ],
     "EmoPrefix": "",
     "LookAtAngle": 0,
     "LookAtDistance": 0,
@@ -32608,9 +32686,14 @@
     "Weapon": []
   },
   "75089": {
-    "AnimFadeTemplate": "ch_vehicle_broom_skill",
-    "AnimTemplate": "animtpl/ch_vehicle_broom_01",
-    "Effect": [],
+    "AnimFadeTemplate": "ch_vehicle_magicbroom01_skill",
+    "AnimTemplate": "animtpl/ch_vehicle_magicbroom02_01",
+    "Effect": [
+      ["cfg_ep_eff_ball01_point", "effect/common_new/vehicle/p_fx_vehicle_magicbroom02_idle"],
+      ["cfg_ep_eff_ball02_point", "effect/common_new/vehicle/p_fx_vehicle_magicbroom02_idle"],
+      ["ep_f_chest_hit01_point", "effect/common_new/vehicle/p_fx_vehicle_magicbroom02_trail"],
+      ["ep_f_chest_hit01_point", "effect/common_new/vehicle/p_fx_vehicle_magicbroom02_rang"]
+    ],
     "EmoPrefix": "",
     "LookAtAngle": 0,
     "LookAtDistance": 0,

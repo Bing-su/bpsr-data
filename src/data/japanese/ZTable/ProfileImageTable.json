@@ -3236,7 +3236,7 @@
   "9030044": {
     "AvatarFrame": "",
     "BasicId": [],
-    "Color": "#666f83",
+    "Color": "#666f83   ",
     "Color2": "#bcc7de",
     "Condition": [[110, 80111]],
     "HudColor": "",
@@ -9237,7 +9237,7 @@
     "TitleType": 0,
     "Type": 6,
     "Unlock": 0,
-    "UnlockDes": "絆物語のクエスト「花束に込めれらた想い」の達成度が100%に到達する。"
+    "UnlockDes": "絆物語のクエスト「花束に込められた想い」の達成度が100%に到達する。"
   },
   "9060268": {
     "AvatarFrame": "",
@@ -17796,5 +17796,27 @@
     "Type": 6,
     "Unlock": 0,
     "UnlockDes": "運営イベントで獲得。"
+  },
+  "9062074": {
+    "AvatarFrame": "",
+    "BasicId": [],
+    "Color": "#b25857",
+    "Color2": "",
+    "Condition": [],
+    "HudColor": "#b25857",
+    "Id": 9062074,
+    "Image": "ui/atlas/personalzone_title/personalzone_title_12",
+    "Image2": "ui/atlas/hud/personalzone_title/personalzone_title_hud_12",
+    "Image3": "",
+    "IsHide": 0,
+    "Name": "",
+    "NotUnlock": 1,
+    "ReserveLength": 0.0,
+    "Sort": 1190,
+    "TargetId": 0,
+    "TitleType": 0,
+    "Type": 6,
+    "Unlock": 0,
+    "UnlockDes": "イベントで獲得可能。"
   }
 }

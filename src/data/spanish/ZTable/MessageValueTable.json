@@ -1,0 +1,477 @@
+{
+  "1": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: Balancea la guadaña 3 veces consecutivas. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val2*} % de ATQ x 3</style>.<br><br><style=\"tipsYellow\">Anillo del Juicio Final</style>: Lanza 2 anillos. <br>Alcance de ataque: <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val4*} % de ATQ x Número de anillos</style>.<br>TdR: <style=\"accent-gn\">{*val5*} s</style>.<br>",
+    "Id": 1,
+    "ValueExchange": []
+  },
+  "10": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; obtiene {*val2*} Fragmento(s) de cristal de Sintonización adicional(es) al atacar.",
+    "Id": 10,
+    "ValueExchange": [15.0, 5.0]
+  },
+  "11": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: Gira y aplica Quemadura al objetivo. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val2*} % del </style>ATQ.<br><br><style=\"tipsYellow\">Hacha de Llama Celestial</style>: Asesta un tajo hacia adelante con la luz del hacha. Por cada acumulación de Quemadura en el objetivo, este daño aumenta en <style=\"accent-gn\">{*val3*}</style>. <br>Alcance de ataque: <style=\"accent-gn\">{*val4*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val5*} % del </style>ATQ.<br>TdR: <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 11,
+    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+  },
+  "12": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 12,
+    "ValueExchange": [45.0]
+  },
+  "13": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; por cada {*val2*} vez/veces que se aplique Quemadura, el siguiente ataque lanzará Tren del Purgatorio sobre el objetivo.",
+    "Id": 13,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "14": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Tatta).",
+    "Id": 14,
+    "ValueExchange": [35.0]
+  },
+  "15": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; el requisito de aplicaciones de Quemadura se redujo a {*val2*}; daño del Tren del Purgatorio +{*val3*} %.",
+    "Id": 15,
+    "ValueExchange": [15.0, 6.0, 100.0]
+  },
+  "16": {
+    "Desc": "<style=\"tipsYellow\">Corte De Mil Luces</style>: Asesta un tajo que emite innumerables haces de espada y consume todas las acumulaciones de carga para aumentar el daño en un <style=\"accent-gn\">{*val1*} %</style> x acumulaciones de carga. <br>Alcance de ataque: <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val3*} % del </style>ATQ.<br>",
+    "Id": 16,
+    "ValueExchange": [40.0, 8.0, 688.0]
+  },
+  "17": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 17,
+    "ValueExchange": [45.0]
+  },
+  "18": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; fija al/a los {*val3*} objetivo(s) más cercano(s) cada {*val2*} s para disparar haces de espada.",
+    "Id": 18,
+    "ValueExchange": [25.0, 10.0, 1.0]
+  },
+  "19": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Olvera).",
+    "Id": 19,
+    "ValueExchange": [35.0]
+  },
+  "2": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 2,
+    "ValueExchange": [45.0]
+  },
+  "20": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; los haces de espada se fijan en {*val2*} objetivo(s) más.",
+    "Id": 20,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "21": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: Da una estocada hacia adelante y hace girar la lanza estandarte. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val2*} % del </style>ATQ.<br><br><style=\"tipsYellow\">Orden Temporal</style>: Aceleración de TdR de las habilidades del/de los <style=\"accent-gn\">{*val3*}</style> Imagine(s) de Sintonización más cercano(s) +<style=\"accent-gn\">{*val4*} %</style> durante <style=\"accent-gn\">{*val5*} s</style>. <br>Rango del efecto: Todo el campo.<br>Multiplicador de DÑO: Ninguno.<br>TdR: <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 21,
+    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+  },
+  "22": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 22,
+    "ValueExchange": [45.0]
+  },
+  "23": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; mientras esté en el campo, velocidad de movimiento de aventurero +{*val2*} y aumento de DÑO +{*val3*}.",
+    "Id": 23,
+    "ValueExchange": [25.0, 25.0, 25.0]
+  },
+  "24": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Tina).",
+    "Id": 24,
+    "ValueExchange": [35.0]
+  },
+  "25": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; mientras esté en el campo, velocidad de movimiento de aventurero +{*val2*} adicional y aumento de DÑO +{*val3*} adicional.",
+    "Id": 25,
+    "ValueExchange": [15.0, 25.0, 25.0]
+  },
+  "26": {
+    "Desc": "<style=\"tipsYellow\">Impulsos de Roca Infernal</style>: Lanza impulsos terrestres que consumen todas las acumulaciones de carga para aumentar el daño en un <style=\"accent-gn\">{*val1*} %</style> x acumulaciones de carga. <br>Alcance de ataque: <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val3*} % del </style>ATQ.<br>TdR: Ninguno.<br>",
+    "Id": 26,
+    "ValueExchange": [30.0, 9.0, 418.0]
+  },
+  "27": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 27,
+    "ValueExchange": [45.0]
+  },
+  "28": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; el daño infligido por habilidades pasivas aplica un {*val2*} % de Vulnerabilidad.",
+    "Id": 28,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "29": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Colmillo de Hierro).",
+    "Id": 29,
+    "ValueExchange": [35.0]
+  },
+  "3": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; número de anillos +{*val2*}.",
+    "Id": 3,
+    "ValueExchange": [25.0, 3.0]
+  },
+  "30": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; efecto de Vulnerabilidad +{*val2*} % adicional.",
+    "Id": 30,
+    "ValueExchange": [15.0, 10.0]
+  },
+  "31": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: Escupe seda de araña a los objetivos no arraigados como prioridad, con un <style=\"accent-gn\">{*val1*} %</style> de probabilidad de aplicar Arraigo al objetivo durante <style=\"accent-gn\">{*val2*} s</style>. <br>Alcance de ataque: <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val4*} % del </style>ATQ.<br><br><style=\"tipsYellow\">Ataque Arácnido</style>: Se entierra durante 1 s y luego emerge, lo que garantiza 1 s de Aturdimiento al objetivo. <br>Alcance de ataque: <style=\"accent-gn\">{*val5*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val6*} % del </style>ATQ.<br>TdR: <style=\"accent-gn\">{*val7*} s</style>.<br>",
+    "Id": 31,
+    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+  },
+  "32": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 32,
+    "ValueExchange": [45.0]
+  },
+  "33": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; probabilidad de inmovilizar aumentada al {*val2*} %.",
+    "Id": 33,
+    "ValueExchange": [40.0, 100.0]
+  },
+  "34": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Crustaraña Fantasmal).",
+    "Id": 34,
+    "ValueExchange": [35.0]
+  },
+  "35": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; duración del Aturdimiento +{*val2*} s.",
+    "Id": 35,
+    "ValueExchange": [30.0, 2.5]
+  },
+  "36": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: Lanza <style=\"accent-gn\">{*val1*}</style> orbes de agua que caen y aplican Lentitud. <br>Alcance de ataque: <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val3*} % del ATQ x Número de orbes de agua</style>.<br><br><style=\"tipsYellow\">Frenesí de Peces</style>: Invoca 1 pez del cielo fantasma para que embista hacia adelante. <br>Alcance de ataque: <style=\"accent-gn\">{*val4*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val5*} % del </style>ATQ.<br>TdR: <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 36,
+    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+  },
+  "37": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 37,
+    "ValueExchange": [45.0]
+  },
+  "38": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; pez del cielo +{*val2*}; tasa de obtención de Fragmentos de cristal de Sintonización +{*val3*} %.",
+    "Id": 38,
+    "ValueExchange": [25.0, 1.0, 5.0]
+  },
+  "39": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Rapaz Celestial).",
+    "Id": 39,
+    "ValueExchange": [35.0]
+  },
+  "4": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Señor de la Plaga).",
+    "Id": 4,
+    "ValueExchange": [35.0]
+  },
+  "40": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; pez del cielo +{*val2*} adicional; tasa de obtención de Fragmentos de cristal de Sintonización +{*val3*} % adicional.",
+    "Id": 40,
+    "ValueExchange": [15.0, 1.0, 5.0]
+  },
+  "41": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: Asesta 2 puñetazos hacia adelante. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val2*} % del ATQ MÁG x 2</style>.<br><br><style=\"tipsYellow\">Quemadura Letal</style>: Escupe fuego de manera continua hacia adelante durante 5 s, lo que aplica Quemadura. <br>Alcance de ataque: <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val4*} % del </style>ATQ MÁG.<br>TdR: <style=\"accent-gn\">{*val5*} s</style>.<br>",
+    "Id": 41,
+    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+  },
+  "42": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 42,
+    "ValueExchange": [45.0]
+  },
+  "43": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; recupera un {*val2*} % de los PS al atacar.",
+    "Id": 43,
+    "ValueExchange": [40.0, 5.0]
+  },
+  "44": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Ogro Infernal).",
+    "Id": 44,
+    "ValueExchange": [35.0]
+  },
+  "45": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; la curación excedente se convierte en un escudo.",
+    "Id": 45,
+    "ValueExchange": [30.0]
+  },
+  "46": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: Pisotea al objetivo. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val2*} % del </style>ATQ.<br><br><style=\"tipsYellow\">Escudo de Trueno Celestial</style>: Obtiene un escudo de rayo que desata un Impacto Atronador sobre 1 objetivo al azar cada <style=\"accent-gn\">{*val3*} s</style>. <br>Alcance de ataque: <style=\"accent-gn\">{*val4*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val5*} % del </style>ATQ.<br>TdR: <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 46,
+    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+  },
+  "47": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 47,
+    "ValueExchange": [45.0]
+  },
+  "48": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; si el objetivo atacado sufre de Quemadura, consume su Quemadura para activar 1 Aniquilación de Rayo y Fuego, lo que inflige un enorme daño de área.",
+    "Id": 48,
+    "ValueExchange": [25.0]
+  },
+  "49": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Ogro Tempestivo).",
+    "Id": 49,
+    "ValueExchange": [35.0]
+  },
+  "5": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; alcance del anillo +{*val2*} %.",
+    "Id": 5,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "50": {
+    "Desc": "Nv. 5: ATQ +{*val1*} %; la Aniquilación de Rayo y Fuego ya no consume la Quemadura del objetivo.",
+    "Id": 50,
+    "ValueExchange": [15.0]
+  },
+  "51": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: exhala hielo de forma continua hacia adelante durante 5 s. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val2*}% del </style>ATQ.<br><br><style=\"tipsYellow\">Dominio de Cero Grado</style>: lanza impulsos helados a 3 objetivos al azar. <br>Alcance de ataque: <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val4*}% del </style>ATQ.<br>TdR: <style=\"accent-gn\">{*val5*} s</style>.<br>",
+    "Id": 51,
+    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+  },
+  "52": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 52,
+    "ValueExchange": [45.0]
+  },
+  "53": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%; se formarán cúmulos de Fragmentos de cristal en los impulsos helados, y recogerlos otorga al azar de {*val2*} a {*val3*} Fragmento(s) de cristal de Sintonización.",
+    "Id": 53,
+    "ValueExchange": [25.0, 1.0, 20.0]
+  },
+  "54": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de Batalla: Ogro Helado).",
+    "Id": 54,
+    "ValueExchange": [35.0]
+  },
+  "55": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%; cantidad de impulsos helados +{*val2*}.",
+    "Id": 55,
+    "ValueExchange": [15.0, 2.0]
+  },
+  "56": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: invoca a 1 muku para que ayude en la batalla. Si el muku ya está en el campo, la VEL de ATQ de todos los mukus invocados por ti aumentará, con una acumulación de hasta <style=\"accent-gn\">{*val1*}</style> veces. <br>Alcance de ataque: ninguno.<br>Multiplicador de daño: <style=\"accent-gn\">{*val2*}% del </style>ATQ.<br><br><style=\"tipsYellow\">Ímpetu Del Jefe</style>: cura a los aliados dentro del rango un <style=\"accent-gn\">{*val3*}%</style> de los PV y aumenta su ATQ un <style=\"accent-gn\">{*val4*}%</style> durante <style=\"accent-gn\">{*val5*} s</style>. <br>Área de efecto: <style=\"accent-gn\">{*val6*}</style>.<br>Multiplicador de daño: ninguno.<br>TdR: <style=\"accent-gn\">{*val7*} s</style>.<br>",
+    "Id": 56,
+    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+  },
+  "57": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 57,
+    "ValueExchange": [45.0]
+  },
+  "58": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%; invoca a 1 Muku Ballestero adicional.",
+    "Id": 58,
+    "ValueExchange": [25.0]
+  },
+  "59": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de Batalla: Rey Muku).",
+    "Id": 59,
+    "ValueExchange": [35.0]
+  },
+  "6": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: Deja caer 1 meteorito cada <style=\"accent-gn\">{*val1*} s</style>. <br>Alcance de ataque: <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val3*} % del </style>ATQ MÁG.<br><br><style=\"tipsYellow\">Estampida del Ciervo Espiritual</style>: Invoca un ciervo espiritual para que embista hacia adelante. Por cada Imagine de Sintonización humanoide en el campo, se activa 1 vez adicional. <br>Alcance de ataque: <style=\"accent-gn\">{*val4*}</style>.<br>Multiplicador de DÑO: <style=\"accent-gn\">{*val5*} % del </style>ATQ MÁG.<br>TdR: <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 6,
+    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+  },
+  "60": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%; invoca a 1 Líder Muku adicional.",
+    "Id": 60,
+    "ValueExchange": [15.0]
+  },
+  "61": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: asesta un tajo hacia abajo y hacia adelante. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val2*}% del </style>ATQ.<br><br><style=\"tipsYellow\">Gran Barrido</style>: asesta 2 barridos hacia adelante. <br>Alcance de ataque: <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val4*}% del ATQ x 2</style>.<br>TdR: <style=\"accent-gn\">{*val5*} s</style>.<br>",
+    "Id": 61,
+    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+  },
+  "62": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 62,
+    "ValueExchange": [45.0]
+  },
+  "63": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%; el ataque básico lanza {*val2*} onda(s) terrestre(s) adicional(es) y el alcance de ataque aumenta un {*val3*}%.",
+    "Id": 63,
+    "ValueExchange": [25.0, 2.0, 50.0]
+  },
+  "64": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de Batalla: Rey Goblin).",
+    "Id": 64,
+    "ValueExchange": [35.0]
+  },
+  "65": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%; daño +{*val2*}%.",
+    "Id": 65,
+    "ValueExchange": [15.0, 20.0]
+  },
+  "66": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: asesta un corte hacia adelante. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val2*}% del </style>ATQM.<br><br><style=\"tipsYellow\">Señor de los Vientos</style>: lanza tornados a 2 objetivos al azar. <br>Alcance de ataque: <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val4*}% del ATQM x {*val5*} s</style>.<br>TdR: <style=\"accent-gn\">{*val6*} s</style>.<br>",
+    "Id": 66,
+    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+  },
+  "67": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 67,
+    "ValueExchange": [45.0]
+  },
+  "68": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%; por cada Imagine de Sintonización que esté cargando en el campo, la cantidad de tornados aumenta en +{*val2*}, con un límite máximo de +{*val3*}.",
+    "Id": 68,
+    "ValueExchange": [25.0, 1.0, 3.0]
+  },
+  "69": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de Batalla: Rey Goblin Tormentoso).",
+    "Id": 69,
+    "ValueExchange": [35.0]
+  },
+  "7": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 7,
+    "ValueExchange": [45.0]
+  },
+  "70": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%; cada vez que aparece un tornado, aumenta el daño que inflige la siguiente habilidad de los Imagines de Sintonización que están cargando, acumulándose hasta {*val2*} veces.",
+    "Id": 70,
+    "ValueExchange": [15.0, 100.0]
+  },
+  "71": {
+    "Desc": "<style=\"tipsYellow\">Giro De Llama</style>: gira y aplica Quemadura al objetivo. <br>Alcance de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val2*}% del </style>ATQ.<br>TdR: <style=\"accent-gn\">{*val3*} s</style>.<br>",
+    "Id": 71,
+    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+  },
+  "72": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 72,
+    "ValueExchange": [45.0]
+  },
+  "73": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%; obtienes {*val2*} Fragmento(s) de cristal de Sintonización cuando muere un objetivo con Quemadura.",
+    "Id": 73,
+    "ValueExchange": [40.0, 15.0]
+  },
+  "74": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de batalla: líder bandido).",
+    "Id": 74,
+    "ValueExchange": [35.0]
+  },
+  "75": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%; se obtienen {*val2*} fragmento(s) de cristal de Sintonización adicional(es) cuando muere un objetivo con Quemadura.",
+    "Id": 75,
+    "ValueExchange": [30.0, 15.0]
+  },
+  "76": {
+    "Desc": "<style=\"tipsYellow\">Orbe atronador</style>: invoca un orbe atronador que inflige Impacto Atronador a 1 objetivo al azar cada <style=\"accent-gn\">{*val1*} s</style>. <br>Rango de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val2*}%</style> del ATQ.<br>Tiempo de recarga: <style=\"accent-gn\">{*val3*} s</style>.<br>",
+    "Id": 76,
+    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+  },
+  "77": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 77,
+    "ValueExchange": [45.0]
+  },
+  "78": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%.",
+    "Id": 78,
+    "ValueExchange": [40.0]
+  },
+  "79": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de batalla: Portento dorado).",
+    "Id": 79,
+    "ValueExchange": [35.0]
+  },
+  "8": {
+    "Desc": "Nv. 3: ATQ +{*val1*} %; obtiene {*val2*} Fragmento(s) de cristal de Sintonización al atacar.",
+    "Id": 8,
+    "ValueExchange": [25.0, 10.0]
+  },
+  "80": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%.",
+    "Id": 80,
+    "ValueExchange": [30.0]
+  },
+  "81": {
+    "Desc": "<style=\"tipsYellow\">Golpe Frenético</style>: asesta 3 choques consecutivos contra el suelo. <br>Rango de ataque: <style=\"accent-gn\">{*val1*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val2*}% del ATQ x 3</style>.<br>Tiempo de recarga: <style=\"accent-gn\">{*val3*} s</style>.<br>",
+    "Id": 81,
+    "ValueExchange": [14.0, 133.0, 8.0]
+  },
+  "82": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 82,
+    "ValueExchange": [45.0]
+  },
+  "83": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%.",
+    "Id": 83,
+    "ValueExchange": [40.0]
+  },
+  "84": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de batalla: líder muku).",
+    "Id": 84,
+    "ValueExchange": [35.0]
+  },
+  "85": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%.",
+    "Id": 85,
+    "ValueExchange": [30.0]
+  },
+  "86": {
+    "Desc": "<style=\"tipsYellow\">Ataque básico</style>: lanza 1 onda de agua para aplicar <style=\"accent-gn\">{*val1*}%</style> de Ralentización. <br>Rango de ataque: <style=\"accent-gn\">{*val2*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val3*}%</style> del ATQM.<br><br><style=\"tipsYellow\">Vórtice</style>: crea un vórtice de agua para aplicar de forma continua un <style=\"accent-gn\">{*val4*}%</style> de Ralentización. <br>Rango de ataque: <style=\"accent-gn\">{*val5*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val6*}% del ATQM x {*val7*} s</style>.<br>Tiempo de recarga: <style=\"accent-gn\">{*val8*} s</style>.<br>",
+    "Id": 86,
+    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+  },
+  "87": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 87,
+    "ValueExchange": [45.0]
+  },
+  "88": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%.",
+    "Id": 88,
+    "ValueExchange": [40.0]
+  },
+  "89": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de batalla: Rey reptiliano).",
+    "Id": 89,
+    "ValueExchange": [35.0]
+  },
+  "9": {
+    "Desc": "Nv. 4: ATQ +{*val1*} % (requiere el Imagine de Batalla: Airona).",
+    "Id": 9,
+    "ValueExchange": [35.0]
+  },
+  "90": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%.",
+    "Id": 90,
+    "ValueExchange": [30.0]
+  },
+  "91": {
+    "Desc": "<style=\"tipsYellow\">Géiser De Veneno</style>: lanza un géiser venenoso sobre <style=\"accent-gn\">{*val1*}</style> objetivo(s) al azar para aplicar Corrosión, acumulándose hasta <style=\"accent-gn\">{*val2*}</style> veces. <br>Rango de ataque: <style=\"accent-gn\">{*val3*}</style>.<br>Multiplicador de daño: <style=\"accent-gn\">{*val4*}% del ATQM x {*val5*} s</style>.<br>Tiempo de recarga: <style=\"accent-gn\">{*val6*} s.</style><br>",
+    "Id": 91,
+    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+  },
+  "92": {
+    "Desc": "Nv. 2: ATQ +{*val1*} %.",
+    "Id": 92,
+    "ValueExchange": [45.0]
+  },
+  "93": {
+    "Desc": "Nv. 3: ATQ +{*val1*}%.",
+    "Id": 93,
+    "ValueExchange": [40.0]
+  },
+  "94": {
+    "Desc": "Nv. 4: ATQ +{*val1*}% (requiere el Imagine de batalla: avispero venenoso).",
+    "Id": 94,
+    "ValueExchange": [35.0]
+  },
+  "95": {
+    "Desc": "Nv. 5: ATQ +{*val1*}%.",
+    "Id": 95,
+    "ValueExchange": [30.0]
+  }
+}

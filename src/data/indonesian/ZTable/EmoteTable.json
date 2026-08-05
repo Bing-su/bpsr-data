@@ -9086,7 +9086,7 @@
     "Emote": ["skinmagic01up_perform01"],
     "EmoteType": 1,
     "FaceDataId": [],
-    "HideWhenNotUnlock": true,
+    "HideWhenNotUnlock": false,
     "Icon": "ui/atlas/emote_icon/emo_icon_action_skinmagic01up_perform01",
     "Id": 9189,
     "IsIllegal": false,
@@ -9097,7 +9097,7 @@
     "RightTopMark": 0,
     "SortId": 189,
     "Type": 1,
-    "UiShowCondition": []
+    "UiShowCondition": [[9, 80212]]
   },
   "9190": {
     "Accessory": [[2, 4]],
