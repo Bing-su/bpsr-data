@@ -5,14 +5,6 @@
     dracula --prefersdark;
 }
 
-select[size].select {
-  appearance: none;
-  background-image: none;
-  display: block;
-  height: auto;
-  overflow: auto;
-}
-
 pre {
   max-height: calc(100vh - 6rem);
   white-space: pre;

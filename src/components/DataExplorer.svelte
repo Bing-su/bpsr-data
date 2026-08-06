@@ -163,19 +163,26 @@
     <p class="text-sm opacity-70" aria-live="polite">
       {visibleFiles.length.toLocaleString("en-US")} tables
     </p>
-    <select
-      class="select min-h-64 w-full flex-1"
-      size="20"
+    <div
+      class="h-64 w-full overflow-auto border border-base-300 lg:h-auto lg:flex-1"
+      role="group"
       aria-label="Table"
-      bind:value={selectedTable}
-      onchange={loadSelectedTable}
     >
       {#each visibleFiles as option}
-        <option value={option.table}>
+        <button
+          type="button"
+          class="block w-full px-4 py-2 text-left text-sm hover:bg-base-200"
+          class:bg-base-200={selectedTable === option.table}
+          aria-pressed={selectedTable === option.table}
+          onclick={() => {
+            selectedTable = option.table;
+            void loadSelectedTable();
+          }}
+        >
           {option.table} — {fileSizeFormatter.format(option.size)}
-        </option>
+        </button>
       {/each}
-    </select>
+    </div>
   </aside>
 
   <section class="flex min-h-0 min-w-0 flex-col gap-3 p-5">
