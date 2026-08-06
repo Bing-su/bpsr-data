@@ -1,6 +1,6 @@
 <script lang="ts">
   import { Download, ExternalLink, FileBracesCorner, Moon, Search, Sun } from "@lucide/svelte";
-  import { onMount } from "svelte";
+  import { onMount, tick } from "svelte";
 
   type DataFile = { language: string; table: string; size: number };
 
@@ -38,6 +38,7 @@
 
   async function loadSelectedTable() {
     if (!selectedTable) return;
+    await tick();
 
     controller?.abort();
     controller = new AbortController();
