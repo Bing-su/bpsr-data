@@ -12,6 +12,7 @@
 
   const languages = [...new Set(files.map(({ language }) => language))];
   const filesForLanguage = (language: string) => files.filter((file) => file.language === language);
+  const getFirstTable = (files: DataFile[]): string => files[0]?.table ?? "";
   const fileSizeFormatter = new Intl.NumberFormat("en-US", {
     notation: "compact",
     style: "unit",
@@ -22,7 +23,7 @@
 
   let selectedLanguage = languages.includes("english") ? "english" : (languages[0] ?? "");
   let searchTerm = "";
-  let selectedTable = filesForLanguage(selectedLanguage)[0]?.table ?? "";
+  let selectedTable = getFirstTable(filesForLanguage(selectedLanguage));
   let jsonContent = "";
   let loadStatus = "Loading…";
   let theme: Theme = "light";
@@ -66,7 +67,10 @@
 
   function changeLanguage() {
     searchTerm = "";
-    selectedTable = filesForLanguage(selectedLanguage)[0]?.table ?? "";
+    const availableFiles = filesForLanguage(selectedLanguage);
+    selectedTable = availableFiles.some(({ table }) => table === selectedTable)
+      ? selectedTable
+      : getFirstTable(availableFiles);
     void loadSelectedTable();
   }
 
@@ -99,7 +103,7 @@
     selectedTable =
       requestedTable && availableFiles.some(({ table }) => table === requestedTable)
         ? requestedTable
-        : (availableFiles[0]?.table ?? "");
+        : getFirstTable(availableFiles);
   }
 
   onMount(() => {
