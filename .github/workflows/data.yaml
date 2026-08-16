@@ -63,7 +63,7 @@ jobs:
           let now = date now | date to-timezone "Asia/Seoul" | format date "%Y-%m-%d"
           echo $"now=($now)\n" | save -a $env.GITHUB_OUTPUT
 
-      - uses: EndBug/add-and-commit@v10
+      - uses: EndBug/add-and-commit@v11
         with:
           add: "src/data"
           default_author: github_actions
