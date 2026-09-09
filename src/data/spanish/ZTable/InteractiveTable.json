@@ -21272,7 +21272,7 @@
   },
   "2561": {
     "AbortType": 0,
-    "ActionStage": [["4", "850104"]],
+    "ActionStage": [["4", "850105"]],
     "AdaptIKParam": [],
     "Condition": [],
     "ConditionFailTips": 0,
@@ -21302,7 +21302,7 @@
     "ToServer": false,
     "TriggerAngle": 0,
     "TriggerBtnId": 200077,
-    "TriggerCondition": [[14, 850104]],
+    "TriggerCondition": [[14, 850105]],
     "TriggerMode": 1,
     "TriggerOffsets": {
       "x": 0.0,
@@ -21319,7 +21319,7 @@
     "AbortType": 0,
     "ActionStage": [["4", "850200"]],
     "AdaptIKParam": [],
-    "Condition": [[8, 41001]],
+    "Condition": [[8, 41110]],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
     "Cooldown": 0,
@@ -21349,7 +21349,7 @@
     "TriggerBtnId": 200078,
     "TriggerCondition": [
       [14, 850200],
-      [8, 41001]
+      [8, 41110]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -36272,6 +36272,51 @@
     "UpdateRateType": 0,
     "WhitelistCondition": []
   },
+  "56020": {
+    "AbortType": 0,
+    "ActionStage": [["1025", "973010"]],
+    "AdaptIKParam": [],
+    "Condition": [],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "Cooldown": 5,
+    "ExitType": 0,
+    "Id": 56020,
+    "IgnoreRangeLimit": false,
+    "Insightusable": 0,
+    "IsContinuous": false,
+    "IsMore": 1,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [1, 1, 2, 3],
+    "KeepActionOnExit": false,
+    "ModelInvisible": 1,
+    "NeedStopRide": false,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "PlayerActionEnd": [],
+    "PlayerActionLoop": [],
+    "PlayerActionStart": [],
+    "PlayerStateWhitelist": [0, 2, 3, 4, 5, 6, 14, 16, 17, 18, 30],
+    "SortId": 1,
+    "SubInteraction": [],
+    "TagID": 0,
+    "TipsGroup": 0,
+    "ToServer": true,
+    "TriggerAngle": 360,
+    "TriggerBtnId": 56020,
+    "TriggerCondition": [[65, 0]],
+    "TriggerMode": 1,
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [2.0, 2.0],
+    "TriggerSpeedDir": 0,
+    "TriggerType": 2,
+    "UpdateRateType": 0,
+    "WhitelistCondition": []
+  },
   "57001": {
     "AbortType": 0,
     "ActionStage": [
@@ -40411,6 +40456,54 @@
     "TriggerRange": [4.0, 4.0],
     "TriggerSpeedDir": 0,
     "TriggerType": 2,
+    "UpdateRateType": 0,
+    "WhitelistCondition": []
+  },
+  "66470001": {
+    "AbortType": 0,
+    "ActionStage": [
+      ["1014", "Layer6647_1"],
+      ["32", "1", "1", "0", "0"]
+    ],
+    "AdaptIKParam": [],
+    "Condition": [],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "Cooldown": 5,
+    "ExitType": 0,
+    "Id": 66470001,
+    "IgnoreRangeLimit": false,
+    "Insightusable": 0,
+    "IsContinuous": false,
+    "IsMore": 1,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [],
+    "KeepActionOnExit": false,
+    "ModelInvisible": 1,
+    "NeedStopRide": false,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "PlayerActionEnd": [],
+    "PlayerActionLoop": [],
+    "PlayerActionStart": [],
+    "PlayerStateWhitelist": [0],
+    "SortId": 1,
+    "SubInteraction": [],
+    "TagID": 0,
+    "TipsGroup": 0,
+    "ToServer": true,
+    "TriggerAngle": 360,
+    "TriggerBtnId": 1070,
+    "TriggerCondition": [],
+    "TriggerMode": 4,
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [2.5],
+    "TriggerSpeedDir": 0,
+    "TriggerType": 1,
     "UpdateRateType": 0,
     "WhitelistCondition": []
   },
@@ -47571,11 +47664,11 @@
   },
   "732100": {
     "AbortType": 1,
-    "ActionStage": [["10", "CheckAndUseItem", "items", "1070112"]],
+    "ActionStage": [["10", "CheckAndUseItem", "items", "1070208"]],
     "AdaptIKParam": [],
     "Condition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
@@ -47605,8 +47698,8 @@
     "TriggerAngle": 360,
     "TriggerBtnId": 732100,
     "TriggerCondition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -47622,11 +47715,11 @@
   },
   "732101": {
     "AbortType": 1,
-    "ActionStage": [["10", "CheckAndUseItem", "items", "1070112", "10"]],
+    "ActionStage": [["10", "CheckAndUseItem", "items", "1070208", "10"]],
     "AdaptIKParam": [],
     "Condition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
@@ -47656,8 +47749,8 @@
     "TriggerAngle": 360,
     "TriggerBtnId": 732101,
     "TriggerCondition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -47673,11 +47766,11 @@
   },
   "732102": {
     "AbortType": 1,
-    "ActionStage": [["10", "CheckAndUseItem", "items", "1070113"]],
+    "ActionStage": [["10", "CheckAndUseItem", "items", "1070209"]],
     "AdaptIKParam": [],
     "Condition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
@@ -47707,8 +47800,8 @@
     "TriggerAngle": 360,
     "TriggerBtnId": 732102,
     "TriggerCondition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -47724,11 +47817,11 @@
   },
   "732103": {
     "AbortType": 1,
-    "ActionStage": [["10", "CheckAndUseItem", "items", "1070113", "10"]],
+    "ActionStage": [["10", "CheckAndUseItem", "items", "1070209", "10"]],
     "AdaptIKParam": [],
     "Condition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
@@ -47758,8 +47851,8 @@
     "TriggerAngle": 360,
     "TriggerBtnId": 732103,
     "TriggerCondition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -47775,11 +47868,11 @@
   },
   "732104": {
     "AbortType": 1,
-    "ActionStage": [["10", "CheckAndUseItem", "items", "1070114"]],
+    "ActionStage": [["10", "CheckAndUseItem", "items", "1070210"]],
     "AdaptIKParam": [],
     "Condition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
@@ -47809,8 +47902,8 @@
     "TriggerAngle": 360,
     "TriggerBtnId": 732104,
     "TriggerCondition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -47826,11 +47919,11 @@
   },
   "732105": {
     "AbortType": 1,
-    "ActionStage": [["10", "CheckAndUseItem", "items", "1070114", "10"]],
+    "ActionStage": [["10", "CheckAndUseItem", "items", "1070210", "10"]],
     "AdaptIKParam": [],
     "Condition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
@@ -47860,8 +47953,8 @@
     "TriggerAngle": 360,
     "TriggerBtnId": 732105,
     "TriggerCondition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -47877,11 +47970,11 @@
   },
   "732106": {
     "AbortType": 1,
-    "ActionStage": [["10", "CheckAndUseItem", "items", "1070115"]],
+    "ActionStage": [["10", "CheckAndUseItem", "items", "1070211"]],
     "AdaptIKParam": [],
     "Condition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
@@ -47911,8 +48004,8 @@
     "TriggerAngle": 360,
     "TriggerBtnId": 732106,
     "TriggerCondition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -47928,11 +48021,11 @@
   },
   "732107": {
     "AbortType": 1,
-    "ActionStage": [["10", "CheckAndUseItem", "items", "1070115", "10"]],
+    "ActionStage": [["10", "CheckAndUseItem", "items", "1070211", "10"]],
     "AdaptIKParam": [],
     "Condition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
@@ -47962,8 +48055,8 @@
     "TriggerAngle": 360,
     "TriggerBtnId": 732107,
     "TriggerCondition": [
-      [9, 40017],
-      [14, 820012]
+      [9, 41110],
+      [14, 820067]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -48681,6 +48774,59 @@
     "TriggerCondition": [
       [9, 41108],
       [14, 820057]
+    ],
+    "TriggerMode": 1,
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [5.0, 3.0],
+    "TriggerSpeedDir": 0,
+    "TriggerType": 2,
+    "UpdateRateType": 0,
+    "WhitelistCondition": []
+  },
+  "739012": {
+    "AbortType": 0,
+    "ActionStage": [["4", "820061"]],
+    "AdaptIKParam": [],
+    "Condition": [
+      [9, 41110],
+      [14, 820061]
+    ],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "Cooldown": 0,
+    "ExitType": 0,
+    "Id": 739012,
+    "IgnoreRangeLimit": false,
+    "Insightusable": 0,
+    "IsContinuous": false,
+    "IsMore": 1,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [0],
+    "KeepActionOnExit": false,
+    "ModelInvisible": 0,
+    "NeedStopRide": false,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "PlayerActionEnd": [],
+    "PlayerActionLoop": [],
+    "PlayerActionStart": [],
+    "PlayerStateWhitelist": [
+      0, 1, 2, 3, 4, 5, 6, 8, 10, 14, 16, 17, 18, 20, 24, 26, 28, 29, 31, 33, 34
+    ],
+    "SortId": 1,
+    "SubInteraction": [],
+    "TagID": 0,
+    "TipsGroup": 0,
+    "ToServer": true,
+    "TriggerAngle": 360,
+    "TriggerBtnId": 739012,
+    "TriggerCondition": [
+      [9, 41110],
+      [14, 820061]
     ],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -67221,7 +67367,7 @@
   },
   "920106": {
     "AbortType": 0,
-    "ActionStage": [["1014", "start"]],
+    "ActionStage": [["1037", "0", "0", "0"]],
     "AdaptIKParam": [],
     "Condition": [],
     "ConditionFailTips": 0,
@@ -67250,9 +67396,9 @@
     "TipsGroup": 0,
     "ToServer": true,
     "TriggerAngle": 360,
-    "TriggerBtnId": 920110,
+    "TriggerBtnId": 9300005,
     "TriggerCondition": [],
-    "TriggerMode": 1,
+    "TriggerMode": 4,
     "TriggerOffsets": {
       "x": 0.0,
       "y": 0.0,
@@ -68426,15 +68572,12 @@
   },
   "9202010": {
     "AbortType": 0,
-    "ActionStage": [
-      ["1025", "997216"],
-      ["1014", "baoxiang3"]
-    ],
+    "ActionStage": [["1037", "0", "0", "1"]],
     "AdaptIKParam": [],
     "Condition": [],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
-    "Cooldown": 60,
+    "Cooldown": 5,
     "ExitType": 0,
     "Id": 9202010,
     "IgnoreRangeLimit": false,
@@ -68458,7 +68601,7 @@
     "TipsGroup": 0,
     "ToServer": true,
     "TriggerAngle": 360,
-    "TriggerBtnId": 920203,
+    "TriggerBtnId": 9300005,
     "TriggerCondition": [],
     "TriggerMode": 1,
     "TriggerOffsets": {
@@ -80788,6 +80931,51 @@
       "z": 0.0
     },
     "TriggerRange": [1.5],
+    "TriggerSpeedDir": 0,
+    "TriggerType": 1,
+    "UpdateRateType": 0,
+    "WhitelistCondition": []
+  },
+  "9300001": {
+    "AbortType": 0,
+    "ActionStage": [["1014", "Success"]],
+    "AdaptIKParam": [],
+    "Condition": [],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "Cooldown": 5,
+    "ExitType": 0,
+    "Id": 9300001,
+    "IgnoreRangeLimit": false,
+    "Insightusable": 0,
+    "IsContinuous": true,
+    "IsMore": 1,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [0],
+    "KeepActionOnExit": false,
+    "ModelInvisible": 1,
+    "NeedStopRide": false,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "PlayerActionEnd": [],
+    "PlayerActionLoop": [],
+    "PlayerActionStart": [],
+    "PlayerStateWhitelist": [0],
+    "SortId": 1,
+    "SubInteraction": [],
+    "TagID": 0,
+    "TipsGroup": 0,
+    "ToServer": true,
+    "TriggerAngle": 360,
+    "TriggerBtnId": 9300001,
+    "TriggerCondition": [],
+    "TriggerMode": 1,
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
     "TriggerSpeedDir": 0,
     "TriggerType": 1,
     "UpdateRateType": 0,

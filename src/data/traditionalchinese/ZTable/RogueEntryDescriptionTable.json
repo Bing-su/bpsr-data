@@ -1322,5 +1322,809 @@
   "133001": {
     "Content": "炎魔天落殺三連打觸發時，如川流華斬獲得1層充能，如果充能已經完成，則如川流華斬自動觸發<br><br>僅在[困難]和[噩夢]難度出現",
     "Id": 133001
+  },
+  "3000101": {
+    "Content": "居合斬造成傷害必定觸發刃風界域，刃風界域縮減極詣·大破滅連斬剩餘冷卻時間效果+300%，刃風界域場上最多同時存在一個（需要習得刃風界域天賦）",
+    "Id": 3000101
+  },
+  "3000201": {
+    "Content": "終極一斬暴擊傷害翻倍",
+    "Id": 3000201
+  },
+  "3000301": {
+    "Content": "施放墜龍閃，神影斬會延長無窮雷霆之力10秒持續時間，墜龍閃，神影斬賽季屬性傷害+500%",
+    "Id": 3000301
+  },
+  "3000401": {
+    "Content": "無窮雷霆之力期間，一閃，飛雷神暴擊時會刷新一閃和飛雷神的冷卻時間一閃，飛雷神賽季屬性傷害+50%",
+    "Id": 3000401
+  },
+  "3000501": {
+    "Content": "神罰之鐮計數上限+7層，施放神罰之鐮時會消耗所有層數，每消耗一層賽季屬性傷害+15%",
+    "Id": 3000501
+  },
+  "3000601": {
+    "Content": "月刃上限+2",
+    "Id": 3000601
+  },
+  "3000701": {
+    "Content": "神罰之鐮會自動釋放，且每次釋放神罰之鐮減少千雷閃影之意2秒冷卻時間",
+    "Id": 3000701
+  },
+  "3000801": {
+    "Content": "幸運一擊倍率+100%，幸運增效翻倍",
+    "Id": 3000801
+  },
+  "3000901": {
+    "Content": "冰冷脈衝造成傷害時(命中多個僅計算一次)，永久提升自身2點冰元素攻擊",
+    "Id": 3000901
+  },
+  "3001001": {
+    "Content": "冰冷脈衝造成傷害時(命中多個僅計算一次)，提升冰箭5%的傷害，持續5秒，最高可疊50層",
+    "Id": 3001001
+  },
+  "3001101": {
+    "Content": "寒冰射線對主目標每造成10次傷害，會隨機觸發水旋渦，水龍捲，清滝繞珠（需攜帶），寒冰射線賽季屬性傷害+100%",
+    "Id": 3001101
+  },
+  "3001201": {
+    "Content": "水龍捲凍結爆炸後，會分裂成兩個水龍捲（不會重複分裂），水龍捲賽季屬性傷害+200%",
+    "Id": 3001201
+  },
+  "3001301": {
+    "Content": "清滝繞珠每1.5秒隨機朝一個目標釋放貫穿冰矛（無目標朝前釋放），貫穿冰矛造成傷害減少清滝繞珠0.3秒冷卻時間",
+    "Id": 3001301
+  },
+  "3001401": {
+    "Content": "釋放冰矛時，如果玄冰數量大於2則額外消耗1顆玄冰，連續觸發兩次召喚冰矛，冰霜之矛賽季屬性傷害+50%",
+    "Id": 3001401
+  },
+  "3001501": {
+    "Content": "每施放5次隕星風暴，將召喚終極大招的隕石，並立即使寒冰風暴冷卻，減少冰之灌注5秒冷卻時間大招賽季屬性傷害+200%",
+    "Id": 3001501
+  },
+  "3001601": {
+    "Content": "自身永久處於雙倍傷害的無盡苦寒狀態，每擁有一個玄冰額外提高10%攻速",
+    "Id": 3001601
+  },
+  "3001701": {
+    "Content": "你的終極大招附帶群獸奔騰，消耗自身所有光能召喚野狼，每消耗20召喚一隻，持續8秒",
+    "Id": 3001701
+  },
+  "3001801": {
+    "Content": "寵物獲得物理增效+50%",
+    "Id": 3001801
+  },
+  "3001901": {
+    "Content": "箭雨攻擊倍率提升10倍，且場上存在超過3個寵物時，每超出一個最終傷害+100%",
+    "Id": 3001901
+  },
+  "3002001": {
+    "Content": "幻影魔狼現在視為野獸",
+    "Id": 3002001
+  },
+  "3002101": {
+    "Content": "狂野呼喚現在會召喚兩隻獵鷹",
+    "Id": 3002101
+  },
+  "3002201": {
+    "Content": "聚能射擊現在變為前方三方向， 距離越近傷害越高（最高+100%，最低+10%）",
+    "Id": 3002201
+  },
+  "3002301": {
+    "Content": "聚能射擊元素傷害+100%對80%生命值以上目標賽季屬性傷害+500%",
+    "Id": 3002301
+  },
+  "3002401": {
+    "Content": "再生脈衝會給目標上荊棘。荊棘，狂野之種可以觸發幸運一擊",
+    "Id": 3002401
+  },
+  "3002501": {
+    "Content": "再生脈衝必定暴擊，且暴擊傷害+2000%",
+    "Id": 3002501
+  },
+  "3002601": {
+    "Content": "灌注會額外對周圍5個目標發射子彈灌注賽季屬性傷害+100%",
+    "Id": 3002601
+  },
+  "3002701": {
+    "Content": "自動觸發的鹿之奔襲，可以觸發天賦效果每次觸發鹿之奔襲，接下來一段時間，專精技能傷害和幸運傷害+10%，可疊10層",
+    "Id": 3002701
+  },
+  "3002801": {
+    "Content": "森之祈願期間會持續獲得再生蓓蕾 且森之祈願冷卻加速+100%",
+    "Id": 3002801
+  },
+  "3002901": {
+    "Content": "施放終極技能時獲得「加速生長」（需要攜帶加速生長），每觸發一個盛放注能減少1秒終極技能冷卻時間",
+    "Id": 3002901
+  },
+  "3003001": {
+    "Content": "魔法增效+50%，所有職業技能獲得30%加速，但是無法施放終極技能",
+    "Id": 3003001
+  },
+  "3003101": {
+    "Content": "滋養的持續性傷害疊加至3層後，給目標附加【生命汲取】：5秒內，每秒造成魔法攻擊力*20倍精通%的傷害，並且每次造成傷害時降低所有專精技能的1秒冷卻時間",
+    "Id": 3003101
+  },
+  "3003201": {
+    "Content": "風環賽季屬性傷害+50%，風力大迴環賽季屬性傷害+100%",
+    "Id": 3003201
+  },
+  "3003301": {
+    "Content": "風力大迴環變成二連擊，且造成傷害時，永久提升自身2點風元素攻擊",
+    "Id": 3003301
+  },
+  "3003401": {
+    "Content": "神影螺旋施放時候消耗所有勇氣，每1勇氣提升其賽季屬性傷害3%",
+    "Id": 3003401
+  },
+  "3003501": {
+    "Content": "施放神影螺旋永久提升自身2點風元素攻擊",
+    "Id": 3003501
+  },
+  "3003601": {
+    "Content": "極·嵐切造成傷害額外觸發一個龍捲風，龍捲風賽季屬性傷害+100%",
+    "Id": 3003601
+  },
+  "3003701": {
+    "Content": "風怒狀態下攻速+100%",
+    "Id": 3003701
+  },
+  "3003801": {
+    "Content": "刹那消耗全部銳利，每個銳利額外提升其10%賽季屬性傷害",
+    "Id": 3003801
+  },
+  "3003901": {
+    "Content": "每觸發10次投盾，投擲盾牌獲得強化，點擊後盾牌圍繞自身旋轉",
+    "Id": 3003901
+  },
+  "3004001": {
+    "Content": "發射投擲盾牌，攻擊力+2%，持續2秒，可疊加50層",
+    "Id": 3004001
+  },
+  "3004101": {
+    "Content": "聖光守衛期間每隔0.5秒觸發熾熱清算，熾熱清算攻速+100%",
+    "Id": 3004101
+  },
+  "3004201": {
+    "Content": "熾熱清算可以觸發神聖之擊，聖光守衛懲戒縮減聖光守衛冷卻時間效果翻倍",
+    "Id": 3004201
+  },
+  "3004301": {
+    "Content": "聖劍消耗-1，聖劍命中神聖印記目標，永久提升自身最大生命值200點",
+    "Id": 3004301
+  },
+  "3004401": {
+    "Content": "光柱屏障附加效果翻倍",
+    "Id": 3004401
+  },
+  "3004501": {
+    "Content": "先鋒追擊、聖光環形斬附加自身生命上限50%固定傷害",
+    "Id": 3004501
+  },
+  "3004601": {
+    "Content": "消耗砂晶石的技能現在變為回復砂晶石，且這些技能的賽季屬性傷害+200%",
+    "Id": 3004601
+  },
+  "3004701": {
+    "Content": "巨岩軀體時間內，持續獲得能量，必定暴擊，暴擊傷害+200%",
+    "Id": 3004701
+  },
+  "3004801": {
+    "Content": "每觸發一次護盾回聲，使碎星衝附加護盾值100%傷害（受碎星衝傷害提升效果影響）",
+    "Id": 3004801
+  },
+  "3004901": {
+    "Content": "護盾值上限現在可以提升至1000%；每參與擊殺目標，提升5%護盾強度",
+    "Id": 3004901
+  },
+  "3005001": {
+    "Content": "每觸發20個巨岩轟擊，召喚一個巨大的岩石掉下，對目標造成目標當前生命值3%的傷害",
+    "Id": 3005001
+  },
+  "3005101": {
+    "Content": "每觸發一次岩彈，永久提升自身岩元素攻擊2點",
+    "Id": 3005101
+  },
+  "3005201": {
+    "Content": "格擋反擊附加目標當前生命0.1%的傷害",
+    "Id": 3005201
+  },
+  "3005301": {
+    "Content": "每觸發一次格擋反擊，永久提升自身岩元素攻擊2點",
+    "Id": 3005301
+  },
+  "3005401": {
+    "Content": "每次施放烈焰狂想，永久提升自身火元素攻擊2點",
+    "Id": 3005401
+  },
+  "3005501": {
+    "Content": "處於烈焰狂想中攻速+60%",
+    "Id": 3005501
+  },
+  "3005601": {
+    "Content": "賽季屬性傷害+50%，英勇樂章啟動期間，預設處於烈焰狂想狀態",
+    "Id": 3005601
+  },
+  "3005701": {
+    "Content": "施放大招後10秒內，每秒回復所有的演奏熱情",
+    "Id": 3005701
+  },
+  "3005801": {
+    "Content": "激昂·熱情揮灑額外多出2道，同時元素加成+500%",
+    "Id": 3005801
+  },
+  "3005901": {
+    "Content": "施放安可時前方召喚一個音響，持續15秒",
+    "Id": 3005901
+  },
+  "3006001": {
+    "Content": "激湧五重奏不再消耗演奏熱情，施放特殊攻擊減少激湧五重奏、改造大招冷卻時間1秒",
+    "Id": 3006001
+  },
+  "3006101": {
+    "Content": "癒合樂章造成傷害時，永久提升自身智力1點",
+    "Id": 3006101
+  },
+  "3006201": {
+    "Content": "每1%幸運提供0.2%（1段）/0.1%（2段）/0.05%（3段）的無相火斬觸發機率",
+    "Id": 3006201
+  },
+  "3006301": {
+    "Content": "施放熾焰突襲之後的5秒內，暴擊機率+100%，暴擊傷害+30%",
+    "Id": 3006301
+  },
+  "3006401": {
+    "Content": "燃燒可以觸發無相火斬，但是觸發機率減半",
+    "Id": 3006401
+  },
+  "3006501": {
+    "Content": "無相火斬最終傷害+40%，命中燃燒目標額外+20%",
+    "Id": 3006501
+  },
+  "3006601": {
+    "Content": "無羈墜星、炎魔天落殺命中主目標時，獲得8%火元素加成，持續5秒，最多可疊加3層",
+    "Id": 3006601
+  },
+  "3006701": {
+    "Content": "如川流華斬附加目標當前生命值0.1%的傷害",
+    "Id": 3006701
+  },
+  "3006801": {
+    "Content": "無盡之炎魔期間，暴擊傷害翻倍",
+    "Id": 3006801
+  },
+  "3006901": {
+    "Content": "迷狂炎舞命中主目標有50%機率縮減無盡之炎魔冷卻時間0.5秒",
+    "Id": 3006901
+  },
+  "500101": {
+    "Content": "<style=\"emph-gn\">物理增效</style><style=\"accent-gn\">+40%</style>",
+    "Id": 500101
+  },
+  "500201": {
+    "Content": "<style=\"emph-gn\">魔法增效</style><style=\"accent-gn\">+40%</style>",
+    "Id": 500201
+  },
+  "500301": {
+    "Content": "使用終極技能時，所有技能<style=\"emph-gn\">冷卻時間</style>加速<style=\"accent-gn\">100%</style>，<style=\"emph-gn\">戰鬥資源</style>回復提升<style=\"accent-gn\">100%</style>，持續<style=\"accent-gn\">20秒</style>",
+    "Id": 500301
+  },
+  "500401": {
+    "Content": "自身和<style=\"accent-gn\">10公尺</style>內的隊友，攻擊力<style=\"accent-gn\">+5%</style><br>範圍內每有一個<style=\"emph-gn\">職責</style>，額外<style=\"accent-gn\">+5%</style>（上限<style=\"accent-gn\">20%</style>）",
+    "Id": 500401
+  },
+  "500501": {
+    "Content": "每次釋放專精技能提高<style=\"accent-gn\">0.2%</style><style=\"emph-gn\">專精技能</style>傷害和治療<br>最高可疊<style=\"accent-gn\">200層</style>，疊滿後額外附加<style=\"accent-gn\">20%</style><style=\"emph-gn\">專精技能</style>傷害和治療",
+    "Id": 500501
+  },
+  "500601": {
+    "Content": "每次釋放特殊攻擊提高<style=\"accent-gn\">0.2%</style><style=\"emph-gn\">特殊攻擊</style>傷害和治療<br>最高可疊<style=\"accent-gn\">200層</style>，疊滿後額外附加<style=\"accent-gn\">20%</style><style=\"emph-gn\">特殊攻擊</style>傷害和治療",
+    "Id": 500601
+  },
+  "500701": {
+    "Content": "自身<style=\"emph-gn\">急速</style><style=\"accent-gn\">+20%</style>，戰鬥中移動每秒損失<style=\"accent-gn\">8%</style>生命",
+    "Id": 500701
+  },
+  "500801": {
+    "Content": "每<style=\"accent-gn\">200</style>點急速值，減少<style=\"emph-gn\">終極技能</style><style=\"accent-gn\">1%</style>冷卻時間（上限<style=\"accent-gn\">50%</style>）",
+    "Id": 500801
+  },
+  "500901": {
+    "Content": "擊敗目標，減少<style=\"emph-gn\">專精技能</style><style=\"accent-gn\">10%</style>剩餘冷卻時間",
+    "Id": 500901
+  },
+  "501001": {
+    "Content": "釋放<style=\"emph-gn\">特殊攻擊</style>，減少<style=\"emph-gn\">專精技能</style><style=\"accent-gn\">0.5秒</style>剩餘冷卻時間",
+    "Id": 501001
+  },
+  "501101": {
+    "Content": "<style=\"emph-gn\">擊敗</style>目標，<style=\"emph-gn\">暴擊傷害</style><style=\"accent-gn\">+10%</style>（上限<style=\"accent-gn\">30%</style>），持續<style=\"accent-gn\">5秒</style>",
+    "Id": 501101
+  },
+  "501201": {
+    "Content": "對生命值<style=\"accent-gn\">80%</style>以上的目標，造成的<style=\"emph-gn\">暴擊傷害</style><style=\"accent-gn\">+60%</style>",
+    "Id": 501201
+  },
+  "501301": {
+    "Content": "<style=\"emph-gn\">攻擊力</style><style=\"accent-gn\">+25%</style>，若生命值大於<style=\"accent-gn\">30%</style>，攻擊時消耗自身<style=\"accent-gn\">2.5%</style>生命值",
+    "Id": 501301
+  },
+  "501401": {
+    "Content": "每損失<style=\"accent-gn\">1%</style>生命值，增加<style=\"accent-gn\">0.3%</style><style=\"emph-gn\">攻擊力</style>，每持有一個「血怒」詞條該效果增加<style=\"accent-gn\">0.1%</style>",
+    "Id": 501401
+  },
+  "501501": {
+    "Content": "攻擊造成<style=\"emph-gn\">幸運一擊</style>觸發<style=\"emph-gn\">「氣爆」</style>：爆炸造成自身已損生命<style=\"accent-gn\">20%</style>的傷害，冷卻時間<style=\"accent-gn\">1秒</style>",
+    "Id": 501501
+  },
+  "501601": {
+    "Content": "生命值低於<style=\"accent-gn\">30%</style>後，<style=\"emph-gn\">傷害</style>的<style=\"accent-gn\">10%</style>轉化為<style=\"emph-gn\">護盾</style>，護盾可疊加，不超過生命上限的<style=\"accent-gn\">100%</style>",
+    "Id": 501601
+  },
+  "501701": {
+    "Content": "<style=\"emph-gn\">瀕死</style>觸發<style=\"emph-gn\">「無敵」</style>和<style=\"emph-gn\">「加速」</style>，持續<style=\"accent-gn\">3秒</style>，冷卻時間<style=\"accent-gn\">20秒</style>",
+    "Id": 501701
+  },
+  "501801": {
+    "Content": "攻擊時觸發<style=\"emph-gn\">「血戰」</style>：<style=\"emph-gn\">攻擊力</style><style=\"accent-gn\">+20%</style>，期間不會死亡，持續<style=\"accent-gn\">3秒</style>",
+    "Id": 501801
+  },
+  "501901": {
+    "Content": "<style=\"emph-gn\">攻擊力</style><style=\"accent-gn\">+25%</style>，每秒對自身造成<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">1%</style>的傷害",
+    "Id": 501901
+  },
+  "502001": {
+    "Content": "每<style=\"accent-gn\">3秒</style>造成<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">20%</style>的範圍傷害",
+    "Id": 502001
+  },
+  "502101": {
+    "Content": "增加自身<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">0.3%</style>的<style=\"emph-gn\">攻擊力</style>",
+    "Id": 502101
+  },
+  "502201": {
+    "Content": "攻擊造成<style=\"emph-gn\">幸運一擊</style>獲得<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">20%</style>的<style=\"emph-gn\">護盾</style>",
+    "Id": 502201
+  },
+  "502301": {
+    "Content": "受擊反彈<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">10%</style>的範圍傷害",
+    "Id": 502301
+  },
+  "502401": {
+    "Content": "受擊時減少所有技能剩餘<style=\"emph-gn\">冷卻時間</style><style=\"accent-gn\">1秒</style>",
+    "Id": 502401
+  },
+  "502501": {
+    "Content": "<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">+100%</style>，每秒對自身造成<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">1%</style>的傷害",
+    "Id": 502501
+  },
+  "502601": {
+    "Content": "職業技能造成傷害時，額外附加一次敵人<style=\"emph-gn\">當前生命值</style><style=\"accent-gn\">0.2%</style>的傷害",
+    "Id": 502601
+  },
+  "502701": {
+    "Content": "每攜帶1個<style=\"emph-gn\">詛咒詞條</style>，<style=\"emph-gn\">物理防禦</style><style=\"accent-gn\">+10%</style>",
+    "Id": 502701
+  },
+  "502801": {
+    "Content": "增加自身<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">3%</style>的<style=\"emph-gn\">物理防禦</style>",
+    "Id": 502801
+  },
+  "502901": {
+    "Content": "受擊反彈<style=\"emph-gn\">物理防禦</style><style=\"accent-gn\">400%</style>的範圍傷害",
+    "Id": 502901
+  },
+  "503001": {
+    "Content": "職業技能傷害、幸運一擊傷害大幅降低。職業技能對自己和友方造成治療量的一定比例會被累計，下一次造成傷害時在目標處觸發一個範圍傷害，傷害值等於累計值（對自己治療量會以更高比例累計，傷害每<style=\"accent-gn\">1秒</style>至多觸發1次）。",
+    "Id": 503001
+  },
+  "503101": {
+    "Content": "每釋放<style=\"accent-gn\">10次</style><style=\"emph-gn\">特殊攻擊</style>，永久提高<style=\"accent-gn\">1%</style><style=\"emph-gn\">治療量</style>（上限<style=\"accent-gn\">30%</style>）",
+    "Id": 503101
+  },
+  "503201": {
+    "Content": "10公尺內的隊友，每<style=\"accent-gn\">10秒</style>獲得<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">20%</style>的<style=\"emph-gn\">護盾</style>",
+    "Id": 503201
+  },
+  "503301": {
+    "Content": "10公尺內的敵人，<style=\"emph-gn\">易傷</style><style=\"accent-gn\">+10%</style>",
+    "Id": 503301
+  },
+  "503401": {
+    "Content": "每<style=\"accent-gn\">5秒</style>對10公尺內的敵人造成<style=\"emph-gn\">眩暈</style>，持續<style=\"accent-gn\">1秒</style>",
+    "Id": 503401
+  },
+  "503501": {
+    "Content": "攻擊造成<style=\"emph-gn\">幸運一擊</style>觸發<style=\"emph-gn\">「落雷」</style>：落雷造成<style=\"emph-gn\">攻擊力</style><style=\"accent-gn\">45%</style>的傷害，冷卻時間<style=\"accent-gn\">1秒</style>",
+    "Id": 503501
+  },
+  "503601": {
+    "Content": "攻擊造成<style=\"emph-gn\">幸運一擊</style>觸發<style=\"emph-gn\">「劍刃風暴」</style>：劍刃造成<style=\"emph-gn\">攻擊力</style><style=\"accent-gn\">45%</style>的傷害，冷卻時間<style=\"accent-gn\">1秒</style>",
+    "Id": 503601
+  },
+  "503701": {
+    "Content": "攻擊造成<style=\"emph-gn\">幸運一擊</style>觸發<style=\"emph-gn\">「燃爆」</style>：爆炸造成<style=\"emph-gn\">攻擊力</style><style=\"accent-gn\">45%</style>的傷害，冷卻時間<style=\"accent-gn\">1秒</style>",
+    "Id": 503701
+  },
+  "503801": {
+    "Content": "攻擊造成<style=\"emph-gn\">幸運一擊</style>觸發<style=\"emph-gn\">「閃電鏈」</style>：閃電造成<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">1%</style>的傷害，冷卻時間<style=\"accent-gn\">1秒</style>",
+    "Id": 503801
+  },
+  "503901": {
+    "Content": "<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+30%</style>，常駐暴擊超過<style=\"accent-gn\">50%</style>的部分，每<style=\"accent-gn\">2%</style>會轉換為<style=\"accent-gn\">1%</style><style=\"emph-gn\">暴擊傷害</style>（上限<style=\"accent-gn\">50%</style>）",
+    "Id": 503901
+  },
+  "504001": {
+    "Content": "<style=\"emph-gn\">暴擊傷害</style>翻倍",
+    "Id": 504001
+  },
+  "504101": {
+    "Content": "暴擊時，在目標處額外造成一次<style=\"accent-gn\">200%</style>攻擊力且必定暴擊的範圍傷害（冷卻時間<style=\"accent-gn\">1秒</style>），每持有一個【暴虐】詞條，該傷害最終傷害<style=\"accent-gn\">+50%</style>",
+    "Id": 504101
+  },
+  "504201": {
+    "Content": "暴擊時減少所有技能<style=\"accent-gn\">0.5秒</style>冷卻時間（每<style=\"accent-gn\">1秒</style>至多觸發1次）",
+    "Id": 504201
+  },
+  "504301": {
+    "Content": "暴擊時疊加「死神印記」， 印記<style=\"accent-gn\">20層</style>時<style=\"emph-gn\">暴擊傷害</style><style=\"accent-gn\">+30%</style>，持續<style=\"accent-gn\">5秒</style>",
+    "Id": 504301
+  },
+  "504401": {
+    "Content": "專精技能<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+50%</style>",
+    "Id": 504401
+  },
+  "504501": {
+    "Content": "特殊攻擊<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+50%</style>",
+    "Id": 504501
+  },
+  "504601": {
+    "Content": "暴擊時恢復自身<style=\"accent-gn\">1%</style>生命值（冷卻時間<style=\"accent-gn\">0.1秒</style>）",
+    "Id": 504601
+  },
+  "504701": {
+    "Content": "造成傷害未暴擊時， 使<style=\"emph-gn\">暴擊</style>提升<style=\"accent-gn\">50%</style>， 暴擊後移除",
+    "Id": 504701
+  },
+  "504801": {
+    "Content": "釋放終極技能後，<style=\"accent-gn\">15秒</style>內， 所有傷害必定暴擊",
+    "Id": 504801
+  },
+  "504901": {
+    "Content": "受到治療時，<style=\"accent-gn\">5秒</style>內<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+20%</style>",
+    "Id": 504901
+  },
+  "505001": {
+    "Content": "每擊殺一隻怪物，<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+0.3%</style>（上限<style=\"accent-gn\">100層</style>）",
+    "Id": 505001
+  },
+  "505101": {
+    "Content": "終極技能<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+50%</style>",
+    "Id": 505101
+  },
+  "505201": {
+    "Content": "暴擊時，在目標處觸發一個<style=\"accent-gn\">200%</style>攻擊力且必定造成幸運一擊的範圍傷害（冷卻時間<style=\"accent-gn\">1秒</style>）",
+    "Id": 505201
+  },
+  "505301": {
+    "Content": "每次暴擊時，<style=\"emph-gn\">元素傷害</style>提高<style=\"accent-gn\">1%</style>，持續<style=\"accent-gn\">5秒</style>，可疊<style=\"accent-gn\">15層</style>",
+    "Id": 505301
+  },
+  "505401": {
+    "Content": "每次暴擊時，<style=\"emph-gn\">攻擊速度</style>提高<style=\"accent-gn\">1%</style>，<style=\"emph-gn\">施法速度</style>提高<style=\"accent-gn\">2%</style>，可疊<style=\"accent-gn\">15層</style>",
+    "Id": 505401
+  },
+  "505501": {
+    "Content": "進入戰鬥的第一次暴擊，<style=\"emph-gn\">暴擊傷害</style>提高<style=\"accent-gn\">500%</style>",
+    "Id": 505501
+  },
+  "505601": {
+    "Content": "每暴擊<style=\"accent-gn\">3次</style>，下次暴擊的<style=\"emph-gn\">暴擊傷害</style>提高<style=\"accent-gn\">50%</style>，並重置計數",
+    "Id": 505601
+  },
+  "505701": {
+    "Content": "<style=\"emph-gn\">暴擊傷害</style><style=\"accent-gn\">+20%</style>",
+    "Id": 505701
+  },
+  "505801": {
+    "Content": "<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+10%</style>",
+    "Id": 505801
+  },
+  "505901": {
+    "Content": "特殊攻擊暴擊時，召喚一個姆克頭目戰鬥幻想（冷卻時間<style=\"accent-gn\">15秒</style>）",
+    "Id": 505901
+  },
+  "506001": {
+    "Content": "幸運效果：在目標處造成一次<style=\"accent-gn\">200%</style>攻擊力範圍傷害（冷卻時間<style=\"accent-gn\">0.5秒</style>），每持有一個「幸運」詞條，該傷害最終傷害<style=\"accent-gn\">+50%</style>",
+    "Id": 506001
+  },
+  "506101": {
+    "Content": "<style=\"emph-gn\">幸運效果傷害</style>提高<style=\"accent-gn\">30%</style>，每持有一個「幸運」詞條，額外提高<style=\"accent-gn\">8%</style>",
+    "Id": 506101
+  },
+  "506201": {
+    "Content": "進入戰鬥後，每隔<style=\"accent-gn\">1秒</style>，提升自身<style=\"accent-gn\">5%</style><style=\"emph-gn\">幸運</style>，最多可疊<style=\"accent-gn\">20層</style>",
+    "Id": 506201
+  },
+  "506301": {
+    "Content": "幸運效果：獲得<style=\"accent-gn\">20%</style><style=\"emph-gn\">生命上限</style>的<style=\"emph-gn\">護盾</style>，持續<style=\"accent-gn\">2秒</style>",
+    "Id": 506301
+  },
+  "506401": {
+    "Content": "造成傷害時，對主目標每觸發<style=\"accent-gn\">50次</style>幸運一擊，接下來<style=\"accent-gn\">15秒</style>，所有技能<style=\"emph-gn\">冷卻加速</style><style=\"accent-gn\">+100%</style>（期間不計數）",
+    "Id": 506401
+  },
+  "506501": {
+    "Content": "進入戰鬥<style=\"accent-gn\">30秒</style>內， 造成傷害必定觸發幸運一擊",
+    "Id": 506501
+  },
+  "506601": {
+    "Content": "傷害或治療觸發幸運一擊時，下次幸運一擊<style=\"emph-gn\">攻擊力</style><style=\"accent-gn\">+40%</style>",
+    "Id": 506601
+  },
+  "506701": {
+    "Content": "幸運一擊必定<style=\"emph-gn\">暴擊</style>",
+    "Id": 506701
+  },
+  "506801": {
+    "Content": "傷害或治療觸發幸運一擊時，<style=\"emph-gn\">元素傷害</style>提高<style=\"accent-gn\">1%</style>，持續<style=\"accent-gn\">5秒</style>，可疊<style=\"accent-gn\">15層</style>",
+    "Id": 506801
+  },
+  "506901": {
+    "Content": "傷害或治療觸發幸運一擊時，<style=\"emph-gn\">攻擊速度</style>提高<style=\"accent-gn\">1%</style>，<style=\"emph-gn\">施法速度</style>提高<style=\"accent-gn\">2%</style>，可疊<style=\"accent-gn\">15層</style>",
+    "Id": 506901
+  },
+  "507001": {
+    "Content": "每擊殺一隻怪物，<style=\"emph-gn\">幸運</style><style=\"accent-gn\">+0.3%</style>（上限<style=\"accent-gn\">100層</style>）",
+    "Id": 507001
+  },
+  "507101": {
+    "Content": "每隔<style=\"accent-gn\">15秒</style>，<style=\"emph-gn\">幸運一擊傷害</style><style=\"accent-gn\">+40%</style>，持續<style=\"accent-gn\">8秒</style>",
+    "Id": 507101
+  },
+  "507201": {
+    "Content": "<style=\"emph-gn\">幸運一擊傷害</style><style=\"accent-gn\">+20%</style>",
+    "Id": 507201
+  },
+  "507301": {
+    "Content": "<style=\"emph-gn\">幸運</style><style=\"accent-gn\">+10%</style>",
+    "Id": 507301
+  },
+  "507401": {
+    "Content": "造成傷害觸發幸運一擊時，召喚風哥布林王助戰（冷卻時間<style=\"accent-gn\">20秒</style>）",
+    "Id": 507401
+  },
+  "507501": {
+    "Content": "終極技能觸發幸運一擊時，召喚蜥蜴人獵手（冷卻時間<style=\"accent-gn\">20秒</style>）",
+    "Id": 507501
+  },
+  "507601": {
+    "Content": "戰鬥幻想<style=\"emph-gn\">冷卻時間</style>減少<style=\"accent-gn\">80%</style>",
+    "Id": 507601
+  },
+  "507701": {
+    "Content": "戰鬥幻想造成的<style=\"emph-gn\">傷害</style>提高<style=\"accent-gn\">200%</style>",
+    "Id": 507701
+  },
+  "507801": {
+    "Content": "戰鬥幻想造成的傷害必定暴擊且<style=\"emph-gn\">暴擊傷害</style><style=\"accent-gn\">+50%</style>",
+    "Id": 507801
+  },
+  "507901": {
+    "Content": "戰鬥幻想獲得<style=\"accent-gn\">100%</style><style=\"emph-gn\">元素傷害</style>加成",
+    "Id": 507901
+  },
+  "508001": {
+    "Content": "戰鬥幻想<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+80%</style>",
+    "Id": 508001
+  },
+  "508101": {
+    "Content": "每釋放一個戰鬥幻想永久提高<style=\"accent-gn\">0.5%</style><style=\"emph-gn\">攻擊力</style>（上限<style=\"accent-gn\">60層</style>）",
+    "Id": 508101
+  },
+  "508201": {
+    "Content": "自身造成最終傷害<style=\"accent-gn\">-40%</style>，戰鬥幻想造成的最終傷害<style=\"accent-gn\">+40%</style>",
+    "Id": 508201
+  },
+  "508301": {
+    "Content": "戰鬥幻想造成傷害的<style=\"accent-gn\">5%</style>會治療自己",
+    "Id": 508301
+  },
+  "508401": {
+    "Content": "戰鬥幻想<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+20%</style>",
+    "Id": 508401
+  },
+  "508501": {
+    "Content": "釋放特殊攻擊，隨機召喚一個<style=\"emph-gn\">哥布林幻想</style>（冷卻時間<style=\"accent-gn\">20秒</style>）",
+    "Id": 508501
+  },
+  "508601": {
+    "Content": "釋放專精技能，隨機召喚一個<style=\"emph-gn\">動物幻想</style>（冷卻時間<style=\"accent-gn\">20秒</style>）",
+    "Id": 508601
+  },
+  "508701": {
+    "Content": "釋放戰鬥幻想時，會同步召喚一個<style=\"emph-gn\">弩箭哥布林幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 508701
+  },
+  "508801": {
+    "Content": "釋放終極技能時，隨機召喚一個<style=\"emph-gn\">高原角色幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 508801
+  },
+  "508901": {
+    "Content": "自身每同時存在一個戰鬥幻想增益效果，自身<style=\"emph-gn\">傷害</style>提高<style=\"accent-gn\">4%</style>，<style=\"emph-gn\">受到傷害</style>減少<style=\"accent-gn\">2%</style>",
+    "Id": 508901
+  },
+  "509001": {
+    "Content": "釋放終極技能時，會同步召喚一個<style=\"emph-gn\">姆克兵長幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 509001
+  },
+  "509101": {
+    "Content": "生命值低於<style=\"accent-gn\">50%</style>時，召喚<style=\"emph-gn\">姆克王幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 509101
+  },
+  "509201": {
+    "Content": "每隔<style=\"accent-gn\">60秒</style>自動召喚<style=\"emph-gn\">蒂娜幻想</style>",
+    "Id": 509201
+  },
+  "509301": {
+    "Content": "進入戰鬥時，立刻召喚<style=\"emph-gn\">雷電食人魔幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 509301
+  },
+  "509401": {
+    "Content": "傷害或治療觸發幸運一擊時，隨機召喚一個<style=\"emph-gn\">幸運幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 509401
+  },
+  "509501": {
+    "Content": "戰鬥幻想<style=\"emph-gn\">幸運</style><style=\"accent-gn\">+40%</style>",
+    "Id": 509501
+  },
+  "509601": {
+    "Content": "職業技能造成傷害會恢復周圍隊友<style=\"accent-gn\">1%</style>的生命值，同時提供<style=\"accent-gn\">15%</style><style=\"emph-gn\">攻擊力</style>加成，持續<style=\"accent-gn\">3秒</style>（冷卻時間<style=\"accent-gn\">0.3秒</style>）",
+    "Id": 509601
+  },
+  "509701": {
+    "Content": "自身獲得元素傷害變化時，提升周圍隊友<style=\"accent-gn\">20%</style><style=\"emph-gn\">元素傷害</style>，持續<style=\"accent-gn\">10秒</style>",
+    "Id": 509701
+  },
+  "509801": {
+    "Content": "自身獲得<style=\"emph-gn\">暴擊/幸運/急速/精通/全能</style>變化時，提升周圍隊友對應屬性<style=\"accent-gn\">10%</style>，持續<style=\"accent-gn\">10秒</style>",
+    "Id": 509801
+  },
+  "509901": {
+    "Content": "周圍15公尺內每存在一個隊友，自身<style=\"emph-gn\">傷害</style>提高<style=\"accent-gn\">8%</style>，<style=\"emph-gn\">受到傷害</style>減少<style=\"accent-gn\">4%</style>",
+    "Id": 509901
+  },
+  "510001": {
+    "Content": "造成治療時，會給目標提供<style=\"accent-gn\">10%</style><style=\"emph-gn\">物理增效</style>和<style=\"emph-gn\">魔法增效</style>，持續<style=\"accent-gn\">3秒</style>",
+    "Id": 510001
+  },
+  "510101": {
+    "Content": "釋放終極技能會獲得<style=\"accent-gn\">15秒</style>資源光環，持續期間內周圍隊友<style=\"emph-gn\">戰鬥資源獲取效率</style><style=\"accent-gn\">+100%</style>（同時僅可生效一個）",
+    "Id": 510101
+  },
+  "510201": {
+    "Content": "造成治療時，會給目標提供<style=\"accent-gn\">10%</style><style=\"emph-gn\">傷害減免</style>，持續<style=\"accent-gn\">3秒</style>",
+    "Id": 510201
+  },
+  "510301": {
+    "Content": "周圍10公尺範圍內的敵方單位造成的傷害降低<style=\"accent-gn\">10%</style>",
+    "Id": 510301
+  },
+  "510401": {
+    "Content": "造成治療時，額外附加一個<style=\"emph-gn\">生命上限</style><style=\"accent-gn\">20%</style>的<style=\"emph-gn\">護盾</style>，持續<style=\"accent-gn\">10秒</style>，每個目標<style=\"accent-gn\">10秒</style>內至多獲得1次該護盾",
+    "Id": 510401
+  },
+  "510501": {
+    "Content": "<style=\"emph-gn\">治療強度</style><style=\"accent-gn\">+15%</style>",
+    "Id": 510501
+  },
+  "510601": {
+    "Content": "<style=\"emph-gn\">護盾強度</style><style=\"accent-gn\">+15%</style>",
+    "Id": 510601
+  },
+  "510701": {
+    "Content": "每<style=\"accent-gn\">10%</style><style=\"emph-gn\">治療強度</style>轉換為<style=\"accent-gn\">5%</style><style=\"emph-gn\">全元素加成</style>",
+    "Id": 510701
+  },
+  "510801": {
+    "Content": "釋放終極技能時，獲得持續<style=\"accent-gn\">10秒</style>的治癒光環，每秒對周圍15公尺內的隊友造成攻擊力<style=\"accent-gn\">100%</style>的治療（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 510801
+  },
+  "510901": {
+    "Content": "釋放專精技能時，獲得持續<style=\"accent-gn\">10秒</style>的幸運光環，給周圍15公尺內的隊友添加<style=\"emph-gn\">蜥蜴人獵手幻想</style>被動效果（冷卻時間<style=\"accent-gn\">30秒</style>，同時僅可生效一個）",
+    "Id": 510901
+  },
+  "511001": {
+    "Content": "釋放特殊攻擊時，獲得持續<style=\"accent-gn\">5秒</style>的暴擊光環，使得周圍15公尺內隊友<style=\"emph-gn\">暴擊</style><style=\"accent-gn\">+3%</style>",
+    "Id": 511001
+  },
+  "511101": {
+    "Content": "職業技能造成治療時會積累傷害，當積累達到攻擊力<style=\"accent-gn\">10000%</style>時，下次造成傷害會額外造成一次範圍傷害，傷害等同於積累值（每<style=\"accent-gn\">1秒</style>至多觸發1次）",
+    "Id": 511101
+  },
+  "511201": {
+    "Content": "每秒對周圍一個隨機目標造成傷害，傷害等於這期間內你的職業技能造成的<style=\"emph-gn\">治療量</style>",
+    "Id": 511201
+  },
+  "511301": {
+    "Content": "造成治療時，召喚一個<style=\"emph-gn\">巴西利斯克幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 511301
+  },
+  "511401": {
+    "Content": "造成治療時，召喚一個<style=\"emph-gn\">山賊首領幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 511401
+  },
+  "511501": {
+    "Content": "受到傷害時，召喚一個<style=\"emph-gn\">蜂巢幻想</style>（冷卻時間<style=\"accent-gn\">30秒</style>）",
+    "Id": 511501
+  },
+  "611601": {
+    "Content": "每輪戰鬥結束後，<style=\"emph-gn\">精通</style>+3%<br>每秒對周圍造成自身<style=\"emph-gn\">100%魔法攻擊力的傷害</style>，額外附加1秒內100%<style=\"emph-gn\">治療量的傷害</style>",
+    "Id": 611601
+  },
+  "611701": {
+    "Content": "每輪戰鬥結束後，<style=\"emph-gn\">全能</style>+3%<br>攻擊命中後對自身周圍5公尺內目標造成一次<style=\"emph-gn\">物理防禦力</style>1500%的傷害（每1秒至多觸發1次）",
+    "Id": 611701
+  },
+  "611801": {
+    "Content": "每輪戰鬥結束後，<style=\"emph-gn\">急速</style>+3%<br>攻擊時，根據自身急速百分比，機率觸發「雙倍傷害」",
+    "Id": 611801
+  },
+  "611901": {
+    "Content": "幸運一擊可觸發<style=\"emph-gn\">「毒刺」「亂射」「強壓之雷」「熾炎戰斧」「流星隕落」</style><br>每輪戰鬥結束後，幸運率+3%，按照自身當前幸運率提高幸運傷害加成",
+    "Id": 611901
+  },
+  "612001": {
+    "Content": "每輪戰鬥結束後，<style=\"emph-gn\">暴擊率</style>+3%<br>暴擊率大於50%的部分轉化為兩倍的暴擊傷害",
+    "Id": 612001
+  },
+  "612101": {
+    "Content": "召喚靈魂火焰，每秒造成自身<style=\"emph-gn\">生命值上限10%</style>的傷害",
+    "Id": 612101
+  },
+  "612201": {
+    "Content": "召喚雷球向前移動，逐漸變大後爆炸，體積越大，威力越大",
+    "Id": 612201
+  },
+  "612301": {
+    "Content": "召喚隕石砸向目標，造成<style=\"emph-gn\">自身已損失生命值</style>一定比例和<style=\"emph-gn\">生命值上限</style>一定比例的傷害",
+    "Id": 612301
+  },
+  "612401": {
+    "Content": "發射在敵間彈跳的魂火，每次<style=\"emph-gn\">彈跳提高傷害</style>加成",
+    "Id": 612401
+  },
+  "612501": {
+    "Content": "強化下一個技能，增加<style=\"emph-gn\">攻擊力</style>",
+    "Id": 612501
+  },
+  "612601": {
+    "Content": "獲得短暫的<style=\"emph-gn\">無敵</style>效果，期間提升<style=\"emph-gn\">攻擊</style>和<style=\"emph-gn\">移速</style>",
+    "Id": 612601
+  },
+  "612701": {
+    "Content": "召喚一個<style=\"emph-gn\">吸引敵人</style>的黑洞，對其造成減速",
+    "Id": 612701
+  },
+  "612801": {
+    "Content": "投擲出一把飛刃，飛行期間<style=\"emph-gn\">撞牆反彈</style>",
+    "Id": 612801
+  },
+  "612901": {
+    "Content": "召喚一座炮臺，自動攻擊敵人",
+    "Id": 612901
+  },
+  "613001": {
+    "Content": "發射光輪，造成<style=\"emph-gn\">自身屬性總量</style>一定比例的傷害<br>（急速、暴擊、幸運、精通)",
+    "Id": 613001
+  },
+  "613101": {
+    "Content": "在敵群中連續斬擊，期間無敵",
+    "Id": 613101
+  },
+  "613201": {
+    "Content": "召喚卡尼曼的<style=\"emph-gn\">神射手</style>前來助戰<br>持續治療給射手增加駐場時間",
+    "Id": 613201
   }
 }

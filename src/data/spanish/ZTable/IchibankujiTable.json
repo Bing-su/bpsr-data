@@ -197,5 +197,54 @@
     "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
     "Sort": 4,
     "TextColor": "#ffffff"
+  },
+  "1005": {
+    "BaseDetailsDes": "Los [Eventos básicos] de esta ronda incluyen:<br> Cada tirada garantiza un <style=\"accent-gn\">reembolso de Puntos de Miau Dorado - Ascenso Lunar</style>. La cantidad exacta depende de la rareza del premio: cuanto más raro sea el premio, más puntos obtendrás.<br><style=\"accent-gn\">Vale de Premio A garantizado</style> en <style=\"accent-gn\">la 25.ª tirada</style>;<br><style=\"accent-gn\">Vale de Premio S garantizado</style> en <style=\"accent-gn\">la 70.ª tirada</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850105,
+    "HelpLibraryId": 25005,
+    "Id": 1005,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tirar 1", "Tirar 5"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "¡Cada tirada tiene un <style=\"accent-gn\">25.0000 %</style> de probabilidades de activar un [evento de suerte]! Los eventos de suerte de esta ronda incluyen lo siguiente:<br>[Evento 1]: Siguiente tirada gratis.<br>[Evento 2]: Siguiente tirada devuelve puntos de miau dorado ×3.<br>[Evento 3]: Probabilidad del premio A aumentada en la siguiente tirada.<br>[Evento 4]: Siguiente tirada excluye premios C/D/E.",
+    "LuckPoolId": 1005,
+    "MallItemId": 11005,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12005, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41110,
+    "PointsActivityFunctionId": 20016,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Ascenso Lunar",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1005,
+    "PrizeShowDetails": [100501, 100502, 100503, 100504, 100505, 100506, 100507],
+    "Sort": 5,
+    "TextColor": "#ffffff"
   }
 }

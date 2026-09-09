@@ -1078,6 +1078,19 @@
     "NpcName": "Miaounia",
     "Title": "[Crossover] Réémission de la récompense des objectifs de défi"
   },
+  "2506": {
+    "AwardId": 0,
+    "Content": "Aventurier, <br><br>L'événement de la Fête des récoltes de Kanamia est terminé. Veuillez récupérer les récompenses d'objectif que vous avez manquées !<br><br>Merci de votre participation !",
+    "ExpireTime": 30,
+    "Id": 2506,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Personnel de la Fête des récoltes",
+    "Title": "[Fête des récoltes de Kanamia] Récompenses d'objectif d'événement non réclamées"
+  },
   "3002": {
     "AwardId": 0,
     "Content": "Cher Aventurier,<br><br>Votre loyauté et votre courage brillent plus fort qu'un millier d'étoiles ! Le Bureau des pionniers a préparé pour ce mois-ci des trésors dignes de vos exploits légendaires ! Hâtez-vous de les récupérer, car votre prochaine aventure n'attendra pas !",
@@ -1168,5 +1181,18 @@
     "NpcId": 0,
     "NpcName": "Système",
     "Title": "Échec de la vérification du vote pour le classement Maître"
+  },
+  "4004": {
+    "AwardId": 0,
+    "Content": "Aventurier, <br><br>L'événement Épreuves des héros est terminé et vous avez encore des récompenses non réclamées. Veuillez les récupérer dès maintenant. <br><br>Merci de votre participation !",
+    "ExpireTime": 30,
+    "Id": 4004,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Système",
+    "Title": "[Épreuves des héros] Restitution des récompenses d'objectif"
   }
 }

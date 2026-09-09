@@ -160,7 +160,7 @@
     "Id": 103901
   },
   "104001": {
-    "Content": "<style=\"accent-gn\"><style=\"accent-gn\"><style=\"accent-gn\">เมื่อ Crit จะสร้าง DMG แบบวงกว้างที่เพิ่มเติมที่เป้าหมายด้วย 200% ของ Atk และจะ Crit เสมอ (คูลดาวน์ 1 วินาที) โดยสำหรับแต่ละคำบรรยาย 'บาวนา' ที่ถือครองอยู่ DMG สุดท้ายของความเสียหายนั้น+50%</style></style></style>",
+    "Content": "เมื่อ Crit จะสร้าง DMG แบบ AOE 1 ครั้ง เท่ากับ <style=\"accent-gn\">200%</style> ของ ATK และติด Crit (เวลา CD <style=\"accent-gn\">1 วินาที</style>) ทุกการมี Entry [Brutality] 1 ชิ้น DMG นี้ Final DMG <style=\"accent-gn\">+50%</style>",
     "Id": 104001
   },
   "104101": {
@@ -380,7 +380,7 @@
     "Id": 109401
   },
   "109501": {
-    "Content": "<style=\"accent-gn\"><style=\"accent-gn\"><style=\"emph-gn\"><style=\"accent-gn\"><style=\"accent-gn\">คลาสสกิลสร้าง DMG และฟื้นฟูค่า HP ของเพื่อนร่วมทีมรอบๆ 1% พร้อมเพิ่ม Atk เป็นเวลา 3 วินาที 15% (คูลดาวน์ 0.3 วินาที)</style></style></style></style></style>",
+    "Content": "เมื่อ Class Skill สร้าง DMG จะฟื้นฟู HP ของเพื่อนร่วมทีมที่อยู่รอบๆ <style=\"accent-gn\">1%</style> พร้อมมอบโบนัส<style=\"emph-gn\">พลังโจมตี</style> <style=\"accent-gn\">15%</style> เป็นเวลา <style=\"accent-gn\">3 วินาที</style> (คูลดาวน์ <style=\"accent-gn\">0.3 วินาที</style>)",
     "Id": 109501
   },
   "109601": {
@@ -424,7 +424,7 @@
     "Id": 110501
   },
   "110601": {
-    "Content": "ทุกๆ <style=\"accent-gn\">10%</style> ของ<style=\"emph-gn\">ความแรง Heal</style> จะเปลี่ยนเป็น <style=\"accent-gn\">5%</style> ของ<style=\"emph-gn\">โบนัสทุกธาตุ</style>",
+    "Content": "ทุก <style=\"emph-gn\">Healing</style> <style=\"accent-gn\">10%</style> จะเปลี่ยนเป็น <style=\"emph-gn\">ll-Element Bonus</style> <style=\"accent-gn\">5%</style>",
     "Id": 110601
   },
   "110701": {
@@ -496,7 +496,7 @@
     "Id": 112301
   },
   "112401": {
-    "Content": "เพิ่มจำนวน Stack สูงสุดของ Divine Sickle ขึ้น 7 Stack เมื่อใช้ Divine Sickle จะใช้ Stack ทั้งหมด และเพิ่ม Illusion-Breaking DMG ขึ้น 15% ต่อ Stack<br><br>ใช้ได้เฉพาะในระดับ [Nightmare]",
+    "Content": "เพิ่มจำนวน Stack สูงสุดของ Divine Sickle 7 Stack เมื่อใช้ Divine Sickle จะใช้ Stack ทั้งหมด และเพิ่ม Illusion-Breaking DMG ขึ้น 15% ต่อ Stack<br><br>ใช้ได้เฉพาะในระดับ [Nightmare]",
     "Id": 112401
   },
   "112501": {
@@ -512,11 +512,11 @@
     "Id": 112701
   },
   "112801": {
-    "Content": "Divine Sickle จะปลดปล่อยโดยอัตโนมัติ และทุกครั้งที่ปลดปล่อย Divine Sickle จะลดเวลาคูลดาวน์ของ Stormflash ลง 2 วินาที<br><br>ปรากฏเฉพาะในระดับ [นรก]",
+    "Content": "Divine Sickle จะปลดปล่อยอัตโนมัติ และทุกครั้งที่ปลดปล่อย Divine Sickle จะลดเวลา CD ของ Stormflash ลง 2 วินาที<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 112801
   },
   "112901": {
-    "Content": "ฟ้าผ่า, Storm Scythe ทำให้ Lucky Strike ทำงานได้แล้ว<br><br>ปรากฏเฉพาะใน [ยาก] และ [Nightmare] ระดับ",
+    "Content": "Thunderstrike , Storm Scythe ทำให้ Lucky Strike ทำงาน<br><br>ปรากฏเฉพาะในระกับ [Hard] และ [Nightmare]",
     "Id": 112901
   },
   "113001": {
@@ -536,7 +536,7 @@
     "Id": 113301
   },
   "113401": {
-    "Content": "เมื่อ Cold Pulse สร้าง DMG (การโจมตีหลายเป้าหมายจะนับเพียงครั้งเดียว) จะเพิ่ม DMG ของ Ice Arrow ขึ้น 5% นาน 5 วินาที สามารถซ้อนสูงสุดได้ 50 Stack<br><br>ปรากฏเฉพาะในระดับ [นิติยาม]",
+    "Content": "เมื่อ Cold Pulse สร้าง DMG (โดนหลายเป้าหมายจะนับ 1 ครั้ง) Ice Arrow DMG เพิ่ม 5% เป็นเวลา 5 วินาที ซ้อนทับได้สูงสุด 50 Stack<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 113401
   },
   "113501": {
@@ -584,11 +584,11 @@
     "Id": 114501
   },
   "114601": {
-    "Content": "ตัวเองต้องอยู่ในสถานะขาวหนาวไร้สิ้นสุดที่เพิ่ม DMG 2 เท่าตลอดเวลา ความเร็วในการโจมตีจะเพิ่ม 10% เมื่อมีไอศกรีมทุกชิ้น<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "ตัวเองต้องอยู่ในสถานะ Endless Cold เพิ่ม DMG 2 เท่าตลอดเวลา เมื่อมี Frost Crystal ทุกชิ้นความเร็วในการโจมตีจะเพิ่ม 10%<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 114601
   },
   "114701": {
-    "Content": "\"ท่าไม้ตายของคุณมาพร้อมกับฝูงสัตว์ป่า พลังแสงทั้งหมดจะถูกใช้เพื่อเรียกหมาป่า โดยทุกการใช้พลังแสง 20 จะเรียกหนึ่งตัว อยู่ได้นาน 8 วินาที ปรากฏเฉพาะในระดับ 'นรก'\"",
+    "Content": "\"ท่าไม้ตายของคุณมาพร้อมกับฝูงสัตว์ป่า พลังแสงทั้งหมดจะถูกใช้เพื่อเรียกหมาป่า โดยทุกการใช้พลังแสง 20 จะเรียกหนึ่งตัว อยู่ได้นาน 8 วินาที <br><br> ปรากฏเฉพาะในระดับ 'นรก'\"",
     "Id": 114701
   },
   "114801": {
@@ -724,7 +724,7 @@
     "Id": 118001
   },
   "118101": {
-    "Content": "พายุหมุนแรงกลายเป็นโจมตี 2 ครั้ง และเมื่อสร้าง DMG ทำให้ Wind Attack เพิ่ม 2 แต้มถาวร<br><br>ปรากฏเฉพาะในระดับ [นรก]",
+    "Content": "Great Wind Cyclone กลายเป็นโจมตี 2 ครั้ง และเมื่อสร้าง DMG ทำให้ Wind Attack เพิ่ม 2 แต้มถาวร<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 118101
   },
   "118201": {
@@ -800,11 +800,11 @@
     "Id": 119901
   },
   "120001": {
-    "Content": "ในช่วงระหว่าง Aegis Ward จะเกิด Inferno Reckon ทุกๆ 0.5 วินาที โดยมีความเร็วโจมตีของ Inferno Reckon+100%<br><br>ปรากฏเฉพาะในระดับ [นรก]",
+    "Content": "ในช่วงระหว่าง Aegis Ward จะเกิด Inferno Reckon ทุก 0.5 วินาที ความเร็วโจมตีของ Inferno Reckon+100%<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 120001
   },
   "120101": {
-    "Content": "Inferno Reckon ทำให้ Holy Strike ทำงานและเอฟเฟกต์ลดเวลาคูลดาวน์ของ Aegis Ward Rebuke จะเพิ่มเป็น 2 เท่า<br><br>ปรากฏเฉพาะใน [Nightmare] ระดับ",
+    "Content": "Inferno Reckon ทำให้ Holy Strike ทำงานและเอฟเฟกต์ลดเวลาคูลดาวน์ของ Aegis Ward Rebuke จะเพิ่มเป็น 2 เท่า<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 120101
   },
   "120201": {
@@ -820,15 +820,15 @@
     "Id": 120401
   },
   "120501": {
-    "Content": "Sacred Blade ใช้พลังงาน -1, Sacred Blade โจมตีเป้าหมายที่มีสัญลักษณ์ศักดิ์สิทธิ์, เพิ่มค่าสูงสุดของ HP ตัวเอง 200 แต้มอย่างถาวร<br><br>ปรากฏเฉพาะในระดับ [นรก]",
+    "Content": "Sacred Blade ใช้พลังงาน -1 Sacred Blade โจมตีเป้าหมายที่มีสัญลักษณ์ศักดิ์สิทธิ์ Max HP ของตัวเองเพิ่ม 200 แต้มถาวร<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 120501
   },
   "120601": {
-    "Content": "เอฟเฟกต์เพิ่มเติมของกำแพงแสง 2 เท่า<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "เอฟเฟกต์เพิ่มเติมของ Lightforged Barrier เพิ่ม 2 เท่า<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 120601
   },
   "120701": {
-    "Content": "Vanguard Hunt, Saint Aura Slash เพิ่มค่า DMG คงที่ 50% จาก Max HP ของตัวเอง<br><br>ปรากฏเฉพาะใน [นรก] ระดับ",
+    "Content": "Vanguard Hunt, Saint Aura Slash เพิ่มค่า DMG คงที่ 50% จาก Max HP ของตัวเอง<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 120701
   },
   "120801": {
@@ -852,15 +852,15 @@
     "Id": 121201
   },
   "121301": {
-    "Content": "อยู่ในที่เดิมเป็นเวลา 2 วินาที จะเพิ่มค่าสมบัติธาตุหิน+40%<br><br>ปรากฏเฉพาะใน [ระดับยาก] และ [ระดับฝันร้าย]",
+    "Content": "อยู่ในที่เดิมเป็นเวลา 2 วินาที จะเพิ่ม Rock Bonus+40%<br><br>ปรากฏเฉพาะในระดับ [Hard] และ [Nightmare]",
     "Id": 121301
   },
   "121401": {
-    "Content": "ในช่วง Stoneform จะได้รับพลังงานต่อเนื่อง Crit แน่นอน และเพิ่ม Crit DMG+200%<br><br>ปรากฏเฉพาะในระดับ [นรก]",
+    "Content": "ในช่วง Stoneform จะได้รับพลังงานต่อเนื่อง Crit แน่นอน และเพิ่ม Crit DMG+200%<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 121401
   },
   "121501": {
-    "Content": "ทุกครั้งที่โล่สะท้อนทำงาน จะทำให้ Star Shatter เพิ่ม DMG เท่ากับค่าพลังโล่ 100% (ได้รับผลกระทบจากการเพิ่ม DMG ของ Star Shatter)<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "ทุกครั้งที่ Shield Echo ทำงาน จะทำให้ Star Shatter เพิ่ม DMG เท่ากับค่าพลังโล่ 100% (ได้รับผลจากการเพิ่ม DMG ของ Star Shatter)<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 121501
   },
   "121601": {
@@ -884,11 +884,11 @@
     "Id": 122001
   },
   "122101": {
-    "Content": "ในสถานะ Countercrush เพิ่มพลังของธาตุหิน+25%<br><br>ปรากฏเฉพาะในระดับ [ยาก] และ [Nightmare]",
+    "Content": "ในสถานะ Countercrush เพิ่ม Rock Bonus +25%<br><br>ปรากฏเฉพาะในระดับ [Hard] และ [Nightmare]",
     "Id": 122101
   },
   "122201": {
-    "Content": "ทุกครั้ง Granite ทำงาน ทำให้ Rock Attack เพิ่ม 2 แต้มถาวร<br><br>ปรากฏเฉพาะใน ระดับ [Nightmare]",
+    "Content": "ทุกครั้ง Granite ทำงาน ทำให้ Rock Attack เพิ่ม 2 แต้มถาวร<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 122201
   },
   "122301": {
@@ -896,15 +896,15 @@
     "Id": 122301
   },
   "122401": {
-    "Content": "บล็อกป้องกันและสวนกลับเพิ่ม DMG 0.1% ของ HP ปัจจุบันของเป้าหมาย<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "Countercrush เพิ่ม DMG 0.1% ของ HP ปัจจุบันของเป้าหมาย<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 122401
   },
   "122501": {
-    "Content": "ในสถานะ Countercrush การโจมตีกลับแบบป้องกันได้รับโบนัสธาตุหิน+50%<br><br>ปรากฏเฉพาะในระดับ [ยาก] และ [Nightmare]",
+    "Content": "ในสถานะ Countercrush การโจมตีกลับแบบป้องกันได้รับ Rock Bonus +50%<br><br>ปรากฏเฉพาะในระดับ [ยาก] และ [Nightmare]",
     "Id": 122501
   },
   "122601": {
-    "Content": "ทุกครั้ง Countercrush ทำงาน ทำให้ Rock Attack เพิ่ม 2 แต้มถาวร<br><br>ปรากฏเฉพาะใน ระดับ [Nightmare]",
+    "Content": "ทุกครั้ง Countercrush ทำงาน ทำให้ Rock Attack เพิ่ม 2 แต้มถาวร<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 122601
   },
   "122701": {
@@ -920,7 +920,7 @@
     "Id": 122901
   },
   "123001": {
-    "Content": "อยู่ใน Rhapsody of Flame เพิ่มความเร็วในการโจมตี+60%<br><br>ปรากฏเฉพาะในระดับ [นรก]",
+    "Content": "อยู่ใน Rhapsody of Flame เพิ่มความเร็วในการโจมตี+60%<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 123001
   },
   "123101": {
@@ -932,7 +932,7 @@
     "Id": 123201
   },
   "123301": {
-    "Content": "หลังจากใช้สกิลใหญ่ภายใน 10 วินาที จะฟื้นฟูพลังความหลงไหลในการแสดงทุกวินาที<br><br>ปรากฏเฉพาะในระดับ [นรก]",
+    "Content": "หลังจากใช้สกิล Ultimate ภายใน 10 วินาที ทุกวินาทีจะฟื้นฟูพลัง Performance Passion<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 123301
   },
   "123401": {
@@ -948,7 +948,7 @@
     "Id": 123601
   },
   "123701": {
-    "Content": "เมื่อใช้งาน Encore จะเรียกลำโพงด้านหน้าออกมา เป็นเวลา 15 วินาที<br><br>ปรากฏเฉพาะในระดับ [นรก]",
+    "Content": "เมื่อใช้งาน Encore จะเรียกลำโพงด้านหน้าออกมา เป็นเวลา 15 วินาที<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 123701
   },
   "123801": {
@@ -964,11 +964,11 @@
     "Id": 124001
   },
   "124101": {
-    "Content": "Fivefold Crescendo จะไม่ใช้ความฮึกเหิมในการบรรเลงอีกต่อไป การใช้โจมตีพิเศษจะลดเวลาในการคูลดาวน์ของ Fivefold Crescendo และปรับแต่งอัลติลง 1 วินาที<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "Fivefold Crescendo จะไม่ใช้ความฮึกเหิมในการบรรเลงอีกต่อไป การใช้โจมตีพิเศษจะลดเวลาในการ CD ของ Fivefold Crescendo และปรับ Ultimate ลดลง 1 วินาที<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 124101
   },
   "124201": {
-    "Content": "บทเพลงแห่งการฟื้นฟูสร้าง DMG เพิ่มสติปัญญาของตัวละครขึ้น 1 แต้มอย่างถาวร<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "Healing Melody สร้าง DMG เพิ่ม Int ตัวละคร 1 แต้มถาวร<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 124201
   },
   "124301": {
@@ -1048,7 +1048,7 @@
     "Id": 126101
   },
   "126201": {
-    "Content": "ทุกๆ <style=\"accent-gn\">1%</style>ของ<style=\"emph-gn\">Mastery </style>จะช่วยเพิ่ม<style=\"emph-gn\">DMG</style><style=\"accent-gn\">ของ</style>ลำแสงพัลส์<style=\"emph-gn\">2%</style>",
+    "Content": "ทุก <style=\"emph-gn\">Mastery</style> <style=\"accent-gn\">1%</style> จะมอบ <style=\"emph-gn\">Pulse Beam </style> <style=\"emph-gn\">Element DMG</style> เพิ่ม <style=\"accent-gn\">2%</style>",
     "Id": 126201
   },
   "126301": {
@@ -1204,7 +1204,7 @@
     "Id": 130001
   },
   "130101": {
-    "Content": "เมื่อ HP ต่ำกว่า <style=\"accent-gn\">50%</style> จะได้รับโบนัส DElement DMG <style=\"accent-gn\">40%</style>",
+    "Content": "เมื่อ HP ต่ำกว่า <style=\"accent-gn\">50%</style> จะได้รับโบนัส DElement DMG<style=\"accent-gn\">40%</style>",
     "Id": 130101
   },
   "130201": {
@@ -1260,7 +1260,7 @@
     "Id": 131401
   },
   "131501": {
-    "Content": "ทุกๆ 1% Lucky เพิ่มโอกาสปล่อย Formless Flame Slash 0.2% (ระดับ 1)/0.1% (ระดับ 2)/0.05% (ระดับ 3)<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "ทุก Lucky 1% เพิ่มโอกาสปล่อย Formless Flame Slash 0.2% (ระดับ 1)/0.1% (ระดับ 2)/0.05% (ระดับ 3)<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 131501
   },
   "131601": {
@@ -1272,11 +1272,11 @@
     "Id": 131701
   },
   "131801": {
-    "Content": "หลังจากใช้จู่โจมเปลวเพลิงเป็นเวลา 5 วินาที โอกาส CRIT +100% และ CRIT DMG +30%<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "หลังจากใช้ Blazing Assault เป็นเวลา 5 วินาที โอกาส CRIT +100% และ CRIT DMG +30%<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 131801
   },
   "131901": {
-    "Content": "เผาไหม้ทำให้ Formless Flame Slash ทำงานได้ แต่โอกาสทำงานลดลงครึ่งหนึ่ง<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "Burn ทำให้ Formless Flame Slash ทำงาน แต่โอกาสทำงานลดลงครึ่งหนึ่ง<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 131901
   },
   "132001": {
@@ -1288,15 +1288,15 @@
     "Id": 132101
   },
   "132201": {
-    "Content": "Formless Flame Slash DMG สุดท้าย +40% โดนเป้าหมายเผาไหม้เพิ่มเติม +20%<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "Formless Flame Slash Last DMG +40% เป้าหมายเผาไหม้เพิ่มเติม +20%<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 132201
   },
   "132301": {
-    "Content": "ดาวตกไร้พันธนาการ และสกิล \"ตกสวรรค์ปีศาจเพลิง\" เมื่อโจมตีเป้าหมายหลัก จะได้รับโบนัสธาตุไฟ 8% ต่อเนื่อง 5 วินาที และสามารถสะสมได้สูงสุด 3 Stack<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
+    "Content": "Unbound Meteor และสกิล \"Falling Hellfire\" เมื่อโจมตีเป้าหมายหลัก จะได้รับ Fire Bonus 8% เป็นเวลา 5 วินาที และสามารถสะสมได้สูงสุด 3 Stack<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 132301
   },
   "132401": {
-    "Content": "ดั่งกระแสธารฟาดฟันเพิ่มเติม DMG 0.1% ของ HP ปัจจุบันของเป้าหมาย<br><br>ปรากฏเฉพาะในระดับ 'ฝันร้าย'",
+    "Content": "Flowing Splendor Slash สร้าง DMG เพิ่ม 0.1% ของ HP เป้าหมายปัจจุบัน<br><br>ปรากฏเฉพาะในระดับ [Nightmare]",
     "Id": 132401
   },
   "132501": {
@@ -1322,5 +1322,809 @@
   "133001": {
     "Content": "สกิล \"ตกสวรรค์ปีศาจเพลิง\" เมื่อทำการโจมตี 3 ครั้งติดต่อกัน จะทำให้ดั่งกระแสธารฟาดฟันได้รับ 1 Stack Charge หาก Charge สมบูรณ์แล้ว ดั่งกระแสธารฟาดฟันจะถูกใช้งานอัตโนมัติ<br><br>ปรากฏเฉพาะในระดับ [ยาก] และ [Nightmare]",
     "Id": 133001
+  },
+  "3000101": {
+    "Content": "Iaido Slash สร้าง DMG และทำให้ Bladewind Domain ทำงาน Bladewind Domain ลดเอฟเฟกต์ Oblivion Combo +300% Bladewind Domain อยู่ในสนามได้สูงสุด 1 ชิ้น (ต้องเรียน Bladewind Domain Talent ก่อน)",
+    "Id": 3000101
+  },
+  "3000201": {
+    "Content": "Ultimate Slash Crit DMG ทวีคูณ",
+    "Id": 3000201
+  },
+  "3000301": {
+    "Content": "เมื่อใช้ Dracoflash จะทำให้ Phantom Slash มีระยะเวลาของ Volt Surge เพิ่มขึ้น 10 วินาที Status DMG ซีซันของ Dracoflash และ Phantom Slash +500%",
+    "Id": 3000301
+  },
+  "3000401": {
+    "Content": "ในระยะเวลาที่ Volt Surge ทำงาน เมื่อ Flash Strike หรือ Raijin Dash ติด CRIT จะรีเซ็ต CD ของ Flash Strike และ Raijin Dash Status DMG ซีซันของ Flash Strike และ Raijin Dash +50%",
+    "Id": 3000401
+  },
+  "3000501": {
+    "Content": "เมื่อใช้ Divine Sickle จำนวน Stack สูงสุดของ Divine Sickle +7 จะใช้ Stack ทั้งหมด ทุก 1 Stack ที่ใช้จะสร้าง Status DMG ซีซัน +15%",
+    "Id": 3000501
+  },
+  "3000601": {
+    "Content": "Moonblade ลิมิท +2",
+    "Id": 3000601
+  },
+  "3000701": {
+    "Content": "Divine Sickle จะปลดปล่อยอัตโนมัติ และทุกครั้งที่ปลดปล่อย Divine Sickle จะลดเวลา CD ของ Stormflash ลง 2 วินาที",
+    "Id": 3000701
+  },
+  "3000801": {
+    "Content": "Lucky Strike Rate +100% เอฟเฟกต์ Lucky ทวีคูณ",
+    "Id": 3000801
+  },
+  "3000901": {
+    "Content": "Cold Pulse สร้าง DMG (โดนหลายเป้าหมายจะนับ 1 ครั้ง) เพิ่ม Ice Attack ของตัวเอง 2 แต้มถาวร",
+    "Id": 3000901
+  },
+  "3001001": {
+    "Content": "เมื่อ Cold Pulse สร้าง DMG (โดนหลายเป้าหมายจะนับ 1 ครั้ง) Ice Arrow DMG เพิ่ม 5% เป็นเวลา 5 วินาที ซ้อนทับได้สูงสุด 50 Stack",
+    "Id": 3001001
+  },
+  "3001101": {
+    "Content": "ทุกครั้งที่ Frostbeam สร้าง DMG ใส่เป้าหมายหลักครบ 10 ครั้ง จะสุ่มทำให้ Water Vortex, Tidal Vortex หรือ Crystal Veil ทำงาน 1 อย่าง (ต้องติดตั้งสกิลดังกล่าว) Status DMG ซีซันของ Frostbeam +100%",
+    "Id": 3001101
+  },
+  "3001201": {
+    "Content": "หลังจาก Tidal Vortex แช่แข็งและระเบิดแล้ว จะแยกออกเป็น Tidal Vortex 2 ลูก (ไม่สามารถแยกซ้ำได้) Status DMG ซีซันของ Tidal Vortex +200%",
+    "Id": 3001201
+  },
+  "3001301": {
+    "Content": "Crystal Veil จะปล่อยหอกน้ำแข็งทะลุออกไปที่เป้าหมายแบบสุ่มทุกๆ 1.5 วินาที (หากไม่มีเป้าหมายจะปล่อยไปด้านหน้า) หอกน้ำแข็งทะลุจะทำให้ DMG และลดเวลาคูลดาวน์ของ Crystal Veil ลง 0.3 วินาที",
+    "Id": 3001301
+  },
+  "3001401": {
+    "Content": "เมื่อใช้ Frost Lance ถ้ามี Frost Crystal มากกว่า 2 ลูก จะใช้ Frost Crystal เพิ่มอีก 1 ลูก และอัญเชิญ Frost Lance ต่อเนื่อง 2 ครั้ง Status DMG ซีซันของ Frost Lance +50%",
+    "Id": 3001401
+  },
+  "3001501": {
+    "Content": "ทุกครั้งที่ใช้ Meteor Storm ครบ 5 ครั้ง จะอัญเชิญ Meteor ของ Ultimate พร้อมรีเซ็ต CD ของ Frost Storm ทันที และลด CD ของ Permafrost ลง 5 วินาที Status DMG ซีซันของ Ultimate +200%",
+    "Id": 3001501
+  },
+  "3001601": {
+    "Content": "ตัวเองต้องอยู่ในสถานะ Endless Cold เพิ่ม DMG 2 เท่าตลอดเวลา เมื่อมี Frost Crystal ทุกชิ้นความเร็วในการโจมตีจะเพิ่ม 10%",
+    "Id": 3001601
+  },
+  "3001701": {
+    "Content": "\"ท่าไม้ตายของคุณมาพร้อมกับฝูงสัตว์ป่า พลังแสงทั้งหมดจะถูกใช้เพื่อเรียกหมาป่า ทุกการใช้พลังแสง 20 จะอัญเชิญ 1 ตัว เป็นเวลา 8 วินาที",
+    "Id": 3001701
+  },
+  "3001801": {
+    "Content": "สัตว์เลี้ยงได้รับการเพิ่มประสิทธิภาพทางกายภาพ+50%",
+    "Id": 3001801
+  },
+  "3001901": {
+    "Content": "โจมตี Arrow Rain Rate เพิ่มขึ้น 10 เท่า และเมื่อมีสัตว์เลี้ยงมากกว่า 3 ตัวบนสนาม ทุกตัวที่เกินมาจะเพิ่ม Last DMG +100%",
+    "Id": 3001901
+  },
+  "3002001": {
+    "Content": "หมาป่าปรากฏในขณะนี้ถูกจัดเป็นสัตว์",
+    "Id": 3002001
+  },
+  "3002101": {
+    "Content": "Wildcall ตอนนี้จะเรียกเหยี่ยว 2 ตัว",
+    "Id": 3002101
+  },
+  "3002201": {
+    "Content": "Powerdraw ตอนนี้กลายเป็นสามทิศทางด้านหน้า ระยะทางยิ่งใกล้ DMG ยิ่งสูง (สูงสุด+100%, ต่ำสุด+10%)",
+    "Id": 3002201
+  },
+  "3002301": {
+    "Content": "Element DMG ของ Powerdraw +100% และสร้าง Status DMG ซีซันใส่เป้าหมายที่มี HP มากกว่า 80% +500%",
+    "Id": 3002301
+  },
+  "3002401": {
+    "Content": "Regen Pulse จะทำให้เป้าหมายติด Thorn Thorn และ Wild Seed ทำให้ Lucky Strike ทำงาน",
+    "Id": 3002401
+  },
+  "3002501": {
+    "Content": "Regen Pulse จะ Crit เสมอ และ Crit DMG+2000%",
+    "Id": 3002501
+  },
+  "3002601": {
+    "Content": "Infusion จะยิงกระสุนเพิ่มเติมใส่เป้าหมายรอบตัว 5 เป้าหมาย Status DMG ซีซันของ Infusion +100%",
+    "Id": 3002601
+  },
+  "3002701": {
+    "Content": "Stag Charge ทำงานอัตโนมัติ ทำให้เอฟเฟกต์ของ Talent ทำงานได้ ทุกครั้งที่ Stag Charge ทำงานจะเพิ่ม DMG สกิลเฉพาะและ DMG Lucky ขึ้น 10% และสามารถซ้อนทับสูงสุด 10 Stack",
+    "Id": 3002701
+  },
+  "3002801": {
+    "Content": "ในช่วง Grove Wish จะได้รับ Rebirth Bud อย่างต่อเนื่อง และเร่ง CD ของ Grove Wish +100%",
+    "Id": 3002801
+  },
+  "3002901": {
+    "Content": "เมื่อใช้ทักษะพิเศษจะได้รับ \"Fast Growth\" (ต้องพก Fast Growth) ทุกครั้งที่ Blossom Charge ลดเวลาคูลดาวน์ของทักษะพิเศษลง 1 วินาที",
+    "Id": 3002901
+  },
+  "3003001": {
+    "Content": "เพิ่มเอฟเฟกต์ Magical+50% สกิลอาชีพทั้งหมดเร่ง 30% แต่ไม่สามารถใช้สกิลไม้ตายได้",
+    "Id": 3003001
+  },
+  "3003101": {
+    "Content": "เมื่อเอฟเฟกต์ความเสียหายต่อเนื่องของ Nourish สะสมถึง 3 Stack จะเพิ่ม [การดูดชีวิต] แก่เป้าหมาย: ในเวลา 5 วินาที จะสร้าง DMG เท่ากับ MATK *20 เท่าของ Mastery % ทุกวินาที และลดเวลา CD ของสกิลพิเศษเฉพาะทั้งหมดลง 1 วินาทีทุกครั้งที่สร้างความเสียหาย",
+    "Id": 3003101
+  },
+  "3003201": {
+    "Content": "Status DMG ซีซันของ Cyclone +50% และStatus DMG ซีซันของ Great Wind Cyclone +100%",
+    "Id": 3003201
+  },
+  "3003301": {
+    "Content": "Great Wind Cyclone กลายเป็นโจมตี 2 ครั้ง และเมื่อสร้าง DMG ทำให้ Wind Attack เพิ่ม 2 แต้มถาวร",
+    "Id": 3003301
+  },
+  "3003401": {
+    "Content": "เมื่อใช้ Vortex Strike จะใช้ Courage ทั้งหมด ทุก Courage 1 แต้มจะเพิ่ม Status DMG ซีซันของสกิล 3%",
+    "Id": 3003401
+  },
+  "3003501": {
+    "Content": "ปล่อย Vortex Strike ทำให้ Wind Attack เพิ่ม 2 แต้มถาวร",
+    "Id": 3003501
+  },
+  "3003601": {
+    "Content": "เมื่อ Azure Sever สร้าง DMG จะทำให้ Tornado ทำงานเพิ่ม 1 ลูก Status DMG ซีซันของ Tornado +100%",
+    "Id": 3003601
+  },
+  "3003701": {
+    "Content": "ในสถานะลมโกรธ ความเร็วโจมตี+100%",
+    "Id": 3003701
+  },
+  "3003801": {
+    "Content": "Instant Edge จะใช้ Sharp ทั้งหมด ทุกแต้มของ Sharp จะเพิ่ม Status DMG ซีซันของสกิลอีก 10%",
+    "Id": 3003801
+  },
+  "3003901": {
+    "Content": "ทุกครั้งที่ใช้ Shield Toss ครบ 10 ครั้ง จะได้รับการเพิ่มพลัง คลิกเพื่อให้โล่หมุนรอบตัว",
+    "Id": 3003901
+  },
+  "3004001": {
+    "Content": "ยิง Shield Toss โจมตีเพิ่มขึ้น 2% เป็นเวลา 2 วินาที สามารถซ้อนทับได้สูงสุด 50 Stack",
+    "Id": 3004001
+  },
+  "3004101": {
+    "Content": "ในช่วงระหว่าง Aegis Ward จะเกิด Inferno Reckon ทุก 0.5 วินาที ความเร็วโจมตีของ Inferno Reckon+100%",
+    "Id": 3004101
+  },
+  "3004201": {
+    "Content": "Inferno Reckon ทำให้ Holy Strike ทำงานและเอฟเฟกต์ลดเวลาคูลดาวน์ของ Aegis Ward Rebuke จะเพิ่มเป็น 2 เท่า",
+    "Id": 3004201
+  },
+  "3004301": {
+    "Content": "Sacred Blade ใช้พลังงาน -1 Sacred Blade โจมตีเป้าหมายที่มีสัญลักษณ์ศักดิ์สิทธิ์ Max HP ของตัวเองเพิ่ม 200 แต้มถาวร",
+    "Id": 3004301
+  },
+  "3004401": {
+    "Content": "เอฟเฟกต์เพิ่มเติมของ Lightforged Barrier เพิ่ม 2 เท่า",
+    "Id": 3004401
+  },
+  "3004501": {
+    "Content": "Vanguard Hunt, Saint Aura Slash เพิ่มค่า DMG คงที่ 50% จาก Max HP ของตัวเอง",
+    "Id": 3004501
+  },
+  "3004601": {
+    "Content": "สกิลที่ใช้ Sand Crystal จะเปลี่ยนเป็นฟื้นฟู Sand Crystal แทน Status DMG ซีซันของสกิลเหล่านี้ +200%",
+    "Id": 3004601
+  },
+  "3004701": {
+    "Content": "ในช่วง Stoneform จะได้รับพลังงานต่อเนื่อง Crit แน่นอน และเพิ่ม Crit DMG+200%",
+    "Id": 3004701
+  },
+  "3004801": {
+    "Content": "ทุกครั้งที่ Shield Echo ทำงาน จะทำให้ Star Shatter เพิ่ม DMG เท่ากับค่าพลังโล่ 100% (ได้รับผลจากการเพิ่ม DMG ของ Star Shatter)",
+    "Id": 3004801
+  },
+  "3004901": {
+    "Content": "Max Shield ลิมิทเพิ่มเป็น 1000%; ทุกครั้งที่เข้าร่วมฆ่าเป้าหมาย จะเพิ่ม Shield 5%",
+    "Id": 3004901
+  },
+  "3005001": {
+    "Content": "ทุกครั้งที่ใช้งาน Boulder Smash ครบ 20 ครั้ง จะเรียกหินยักษ์ตกลงมาสร้าง DMG เท่ากับ 3% ของ HP ปัจจุบันของเป้าหมาย",
+    "Id": 3005001
+  },
+  "3005101": {
+    "Content": "ทุกครั้ง Granite ทำงาน ทำให้ Rock Attack เพิ่ม 2 แต้มถาวร",
+    "Id": 3005101
+  },
+  "3005201": {
+    "Content": "Countercrush เพิ่ม DMG 0.1% ของ HP ปัจจุบันของเป้าหมาย",
+    "Id": 3005201
+  },
+  "3005301": {
+    "Content": "ทุกครั้ง Countercrush ทำงาน ทำให้ Rock Attack เพิ่ม 2 แต้มถาวร",
+    "Id": 3005301
+  },
+  "3005401": {
+    "Content": "ทุกครั้ง Rhapsody of Flame ทำงาน ทำให้ Fire Attack เพิ่ม 2 แต้มถาวร",
+    "Id": 3005401
+  },
+  "3005501": {
+    "Content": "อยู่ใน Rhapsody of Flame เพิ่มความเร็วในการโจมตี+60%",
+    "Id": 3005501
+  },
+  "3005601": {
+    "Content": "Status DMG ซีซัน +50% และระหว่างที่ Heroic Melody ทำงาน จะอยู่ในสถานะ Rhapsody of Flame เป็นค่าเริ่มต้น",
+    "Id": 3005601
+  },
+  "3005701": {
+    "Content": "หลังจากใช้สกิล Ultimate ภายใน 10 วินาที ทุกวินาทีจะฟื้นฟูพลัง Performance Passion",
+    "Id": 3005701
+  },
+  "3005801": {
+    "Content": "Passion Fury เพิ่มขึ้นอีก 2 ด่าน พร้อมโบนัส Element+500%",
+    "Id": 3005801
+  },
+  "3005901": {
+    "Content": "เมื่อใช้งาน Encore จะเรียกลำโพงด้านหน้าออกมา เป็นเวลา 15 วินาที",
+    "Id": 3005901
+  },
+  "3006001": {
+    "Content": "Fivefold Crescendo จะไม่ใช้ความฮึกเหิมในการบรรเลงอีกต่อไป การใช้โจมตีพิเศษจะลดเวลาในการ CD ของ Fivefold Crescendo และปรับ Ultimate ลดลง 1 วินาที",
+    "Id": 3006001
+  },
+  "3006101": {
+    "Content": "Healing Melody สร้าง DMG เพิ่ม Int ตัวละคร 1 แต้มถาวร",
+    "Id": 3006101
+  },
+  "3006201": {
+    "Content": "ทุก Lucky 1% เพิ่มโอกาสปล่อย Formless Flame Slash 0.2% (ระดับ 1)/0.1% (ระดับ 2)/0.05% (ระดับ 3)",
+    "Id": 3006201
+  },
+  "3006301": {
+    "Content": "หลังจากใช้ Blazing Assault เป็นเวลา 5 วินาที โอกาส CRIT +100% และ CRIT DMG +30%",
+    "Id": 3006301
+  },
+  "3006401": {
+    "Content": "Burn ทำให้ Formless Flame Slash ทำงาน แต่โอกาสทำงานลดลงครึ่งหนึ่ง",
+    "Id": 3006401
+  },
+  "3006501": {
+    "Content": "Formless Flame Slash Last DMG +40% เป้าหมายเผาไหม้เพิ่มเติม +20%",
+    "Id": 3006501
+  },
+  "3006601": {
+    "Content": "Unbound Meteor และสกิล \"Falling Hellfire\" เมื่อโจมตีเป้าหมายหลัก จะได้รับ Fire Bonus 8% เป็นเวลา 5 วินาที และสามารถสะสมได้สูงสุด 3 Stack",
+    "Id": 3006601
+  },
+  "3006701": {
+    "Content": "Flowing Splendor Slash สร้าง DMG เพิ่ม 0.1% ของ HP เป้าหมายปัจจุบัน",
+    "Id": 3006701
+  },
+  "3006801": {
+    "Content": "ในช่วงเวลา Wildfire Dance Crit DMG ทวีคูณ",
+    "Id": 3006801
+  },
+  "3006901": {
+    "Content": "Wildfire Dance โจมตีเป้าหมายหลัก มีโอกาส 50% ลดเวลา CD ของ Endless Hellfire 0.5 วินาที",
+    "Id": 3006901
+  },
+  "500101": {
+    "Content": "<style=\"emph-gn\">เพิ่มเอฟเฟกต์ Physical</style> <style=\"accent-gn\">+40%</style>",
+    "Id": 500101
+  },
+  "500201": {
+    "Content": "<style=\"emph-gn\">เพิ่มเอฟเฟกต์ Magic</style> <style=\"accent-gn\">+40%</style>",
+    "Id": 500201
+  },
+  "500301": {
+    "Content": "เมื่อใช้สกิล Ultimate <style=\"emph-gn\">เวลา CD </style>ของ Skills ทั้งหมดจะเร็วขึ้น <style=\"accent-gn\">100%</style> และการฟื้นฟู<style=\"emph-gn\">ทรัพยากรการต่อสู้</style>จะเพิ่มขึ้น <style=\"accent-gn\">100%</style> เป็นเวลา <style=\"accent-gn\">20 วินาที</style>",
+    "Id": 500301
+  },
+  "500401": {
+    "Content": "เพิ่ม ATK ให้ตัวเองและเพื่อนร่วมทีมในระยะ <style=\"accent-gn\">10 เมตร</style> <style=\"accent-gn\">+5%</style><br>หากมี <style=\"emph-gn\">Role</style> อื่นอยู่ในระยะ จะได้รับเพิ่มอีก <style=\"accent-gn\">+5%</style> (สูงสุด <style=\"accent-gn\">20%</style>)",
+    "Id": 500401
+  },
+  "500501": {
+    "Content": "ทุกครั้งที่ใช้สกิลพิเศษเฉพาะ จะเพิ่ม DMG และการ Heal ของ<style=\"emph-gn\">สกิลพิเศษเฉพาะ</style> <style=\"accent-gn\">0.2%</style><br>ซ้อนทับได้สูงสุด <style=\"accent-gn\">200 Stack</style> เมื่อครบแล้วจะเพิ่ม DMG และการ Heal ของ<style=\"emph-gn\">สกิลพิเศษเฉพาะ</style>อีก <style=\"accent-gn\">20%</style>",
+    "Id": 500501
+  },
+  "500601": {
+    "Content": "ทุกครั้งที่ใช้การโจมตีพิเศษ จะเพิ่ม DMG และการ Heal ของ<style=\"emph-gn\">การโจมตีพิเศษ</style> <style=\"accent-gn\">0.2%</style><br>ซ้อนทับได้สูงสุด <style=\"accent-gn\">200 Stack</style> เมื่อครบแล้วจะเพิ่ม DMG และการ Heal ของ<style=\"emph-gn\">การโจมตีพิเศษ</style>อีก <style=\"accent-gn\">20%</style>",
+    "Id": 500601
+  },
+  "500701": {
+    "Content": "ตัวเอง <style=\"emph-gn\">Haste</style><style=\"accent-gn\">+20%</style> ตอนเคลื่อนที่ในการต่อสู้ทุกวินาทีจะเสีย HP <style=\"accent-gn\">8%</style>",
+    "Id": 500701
+  },
+  "500801": {
+    "Content": "ทุก Haste <style=\"accent-gn\">200</style> แต้ม จะลดเวลา CD <style=\"emph-gn\">สกิล Ultimate</style> <style=\"accent-gn\">1%</style> (สูงสุด <style=\"accent-gn\">50%</style>)",
+    "Id": 500801
+  },
+  "500901": {
+    "Content": "เมื่อกำจัดเป้าหมายได้ จะลดเวลา CD ที่เหลือของ<style=\"emph-gn\">สกิลพิเศษเฉพาะ</style>ลง <style=\"accent-gn\">10%</style>",
+    "Id": 500901
+  },
+  "501001": {
+    "Content": "เมื่อใช้<style=\"emph-gn\">การโจมตีพิเศษ</style> จะลดเวลา CD ที่เหลือของ<style=\"emph-gn\">สกิลพิเศษเฉพาะ</style>ลง <style=\"accent-gn\">0.5 วินาที</style>",
+    "Id": 501001
+  },
+  "501101": {
+    "Content": "เมื่อ<style=\"emph-gn\">กำจัด</style>เป้าหมายได้ <style=\"emph-gn\">CRIT DMG</style> <style=\"accent-gn\">+10%</style> (สูงสุด <style=\"accent-gn\">30%</style>) เป็นเวลา <style=\"accent-gn\">5 วินาที</style>",
+    "Id": 501101
+  },
+  "501201": {
+    "Content": "สร้าง <style=\"emph-gn\">CRIT DMG</style> ต่อเป้าหมายที่มี HP มากกว่า <style=\"accent-gn\">80%</style> เพิ่มขึ้น <style=\"accent-gn\">+60%</style>",
+    "Id": 501201
+  },
+  "501301": {
+    "Content": "<style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+25%</style> หาก HP มากกว่า <style=\"accent-gn\">30%</style> เมื่อโจมตีจะเสีย HP ตัวเอง <style=\"accent-gn\">2.5%</style>",
+    "Id": 501301
+  },
+  "501401": {
+    "Content": "ทุกครั้งที่เสีย HP <style=\"accent-gn\">1%</style> จะเพิ่ม <style=\"emph-gn\">ATK</style> <style=\"accent-gn\">0.3%</style> หากมี Attribute \"Bloodwrath\" อยู่ ผลลัพธ์นี้จะเพิ่มขึ้น <style=\"accent-gn\">0.1%</style> ต่อทุก 1 Attribute ที่มี",
+    "Id": 501401
+  },
+  "501501": {
+    "Content": "เมื่อโจมตีติด <style=\"emph-gn\">Lucky Strike</style> จะเกิดผล <style=\"emph-gn\">\"Gas Surge\"</style>: ระเบิดสร้าง DMG เท่ากับ <style=\"accent-gn\">20%</style> ของ HP ที่เสียไป เวลา CD <style=\"accent-gn\">1 วินาที</style>",
+    "Id": 501501
+  },
+  "501601": {
+    "Content": "เมื่อ HP ต่ำกว่า <style=\"accent-gn\">30%</style> <style=\"emph-gn\">DMG </style> <style=\"accent-gn\">10%</style> จะเปลี่ยนเป็น<style=\"emph-gn\">Armor</style> Armor สามารถซ้อนทับได้ ไม่เกิน <style=\"accent-gn\">100%</style> ของ Max HP",
+    "Id": 501601
+  },
+  "501701": {
+    "Content": "เมื่อ<style=\"emph-gn\">ใกล้ตาย</style> จะเกิดผล<style=\"emph-gn\">\"อมตะ\"</style> และ <style=\"emph-gn\">\"เร่งความเร็ว\"</style> เป็นเวลา <style=\"accent-gn\">3 วินาที</style> เวลา CD <style=\"accent-gn\">20 วินาที</style>",
+    "Id": 501701
+  },
+  "501801": {
+    "Content": "เมื่อโจมตีจะเกิดผล <style=\"emph-gn\">\"Blood War!\"</style>: <style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+20%</style> ระหว่างนี้จะไม่ตาย เป็นเวลา <style=\"accent-gn\">3 วินาที</style>",
+    "Id": 501801
+  },
+  "501901": {
+    "Content": "<style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+25%</style> สร้าง DMG ต่อตัวเองวินาทีละ <style=\"accent-gn\">1%</style> ของ<style=\"emph-gn\"> Max HP</style>",
+    "Id": 501901
+  },
+  "502001": {
+    "Content": "ทุก <style=\"accent-gn\">3 วินาที</style> สร้าง DMG วงกว้าง <style=\"accent-gn\">20%</style> ของ<style=\"emph-gn\"> Max HP</style>",
+    "Id": 502001
+  },
+  "502101": {
+    "Content": "เพิ่ม <style=\"emph-gn\">ATK</style> เท่ากับ <style=\"accent-gn\">0.3%</style> ของ<style=\"emph-gn\"> Max HP</style> ตัวเอง",
+    "Id": 502101
+  },
+  "502201": {
+    "Content": "เมื่อโจมตีติด <style=\"emph-gn\">Lucky Strike</style> จะได้รับ<style=\"emph-gn\">โล่</style> <style=\"accent-gn\">20%</style> ของ<style=\"emph-gn\"> Max HP</style>",
+    "Id": 502201
+  },
+  "502301": {
+    "Content": "เมื่อถูกโจมตีจะสะท้อน DMG วงกว้าง <style=\"accent-gn\">10%</style> ของ<style=\"emph-gn\"> Max HP</style>",
+    "Id": 502301
+  },
+  "502401": {
+    "Content": "เมื่อถูกโจมตี จะลด<style=\"emph-gn\">เวลา CD </style>ที่เหลือของ Skills ทั้งหมดลง <style=\"accent-gn\">1 วินาที</style>",
+    "Id": 502401
+  },
+  "502501": {
+    "Content": "<style=\"emph-gn\">Max HP</style> <style=\"accent-gn\">+100%</style> สร้าง DMG ต่อตัวเองวินาทีละ <style=\"accent-gn\">1%</style> ของ<style=\"emph-gn\"> Max HP</style>",
+    "Id": 502501
+  },
+  "502601": {
+    "Content": "เมื่อ Class Skills สร้าง DMG จะสร้าง DMG เพิ่มเติม <style=\"accent-gn\">0.2%</style> ของ<style=\"emph-gn\"> HP ปัจจุบัน</style>ของศัตรู",
+    "Id": 502601
+  },
+  "502701": {
+    "Content": "ทุกๆ 1 <style=\"emph-gn\">Curse Attribute</style> ที่พกพา จะเพิ่ม <style=\"emph-gn\">P.DEF</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 502701
+  },
+  "502801": {
+    "Content": "เพิ่ม <style=\"emph-gn\">P.DEF</style> <style=\"accent-gn\">3%</style> ของ<style=\"emph-gn\"> Max HP</style> ตัวเอง",
+    "Id": 502801
+  },
+  "502901": {
+    "Content": "เมื่อถูกโจมตีจะสะท้อน DMG วงกว้าง <style=\"accent-gn\">400%</style> ของ<style=\"emph-gn\"> P.DEF </style>",
+    "Id": 502901
+  },
+  "503001": {
+    "Content": "สกิล DMG Class และ Lucky Strike ลดลง ฟื้นฟูที่สกิลอาชีพมอบให้ตัวเองและฝ่ายเดียวกันจะสะสมตามสัดส่วนที่กำหนด เมื่อสร้าง DMG ครั้งต่อไป จะสร้าง DMG แบบ AOE ที่ตำแหน่งของเป้าหมายเท่ากับค่าที่สะสมไว้ (ปริมาณการฟื้นฟูจะสะสมในสัดส่วนที่สูงกว่า ทุก <style=\"accent-gn\">1 วินาที</style> DMG จะทำงานสูงสุด 1 ครั้ง)",
+    "Id": 503001
+  },
+  "503101": {
+    "Content": "ทุกครั้งที่ใช้<style=\"emph-gn\">การโจมตีพิเศษ</style> <style=\"accent-gn\">10 ครั้ง</style> จะเพิ่ม<style=\"emph-gn\">ปริมาณการ Heal</style> ถาวร <style=\"accent-gn\">1%</style> (สูงสุด <style=\"accent-gn\">30%</style>)",
+    "Id": 503101
+  },
+  "503201": {
+    "Content": "ทุกๆ <style=\"accent-gn\">10 วินาที</style> เพื่อนร่วมทีมในระยะ 10 เมตร จะได้รับ<style=\"emph-gn\">โล่</style> <style=\"accent-gn\">20%</style> ของ<style=\"emph-gn\"> Max HP</style>",
+    "Id": 503201
+  },
+  "503301": {
+    "Content": "ศัตรูในระยะ 10 เมตร <style=\"emph-gn\">เจ็บง่าย</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 503301
+  },
+  "503401": {
+    "Content": "ทุก <style=\"accent-gn\">5 วินาที</style> ทำให้ศัตรูในระยะ 10 เมตรติดสถานะ<style=\"emph-gn\">Stun</style> เป็นเวลา <style=\"accent-gn\">1 วินาที</style>",
+    "Id": 503401
+  },
+  "503501": {
+    "Content": "เมื่อโจมตีติด <style=\"emph-gn\">Lucky Strike</style> จะเกิดผล <style=\"emph-gn\">\"ฟ้าผ่า\"</style>: ฟ้าผ่าสร้าง DMG <style=\"accent-gn\">45%</style> ของ<style=\"emph-gn\">ATK</style> เวลา CD <style=\"accent-gn\">1 วินาที</style>",
+    "Id": 503501
+  },
+  "503601": {
+    "Content": "เมื่อโจมตีติด <style=\"emph-gn\">Lucky Strike</style> จะเกิดผล <style=\"emph-gn\">\"Blade Storm\"</style>: คมดาบสร้าง DMG <style=\"accent-gn\">45%</style> ของ<style=\"emph-gn\">ATK</style> เวลา CD <style=\"accent-gn\">1 วินาที</style>",
+    "Id": 503601
+  },
+  "503701": {
+    "Content": "เมื่อโจมตีติด <style=\"emph-gn\">Lucky Strike</style> จะเกิดผล <style=\"emph-gn\">\"ระเบิด\"</style>: ระเบิดสร้าง DMG <style=\"accent-gn\">45%</style> ของ<style=\"emph-gn\">ATK</style> เวลา CD <style=\"accent-gn\">1 วินาที</style>",
+    "Id": 503701
+  },
+  "503801": {
+    "Content": "เมื่อโจมตีติด <style=\"emph-gn\">Lucky Strike</style> จะเกิดผล <style=\"emph-gn\">\"Lightning Chain\"</style>: สายฟ้าสร้าง DMG <style=\"accent-gn\">1%</style> ของ<style=\"emph-gn\"> Max HP</style> เวลา CD <style=\"accent-gn\">1 วินาที</style>",
+    "Id": 503801
+  },
+  "503901": {
+    "Content": "<style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+30%</style> ส่วนที่เกิน <style=\"accent-gn\">50%</style> ของ CRIT ถาวร ทุกๆ <style=\"accent-gn\">2%</style> จะเปลี่ยนเป็น <style=\"accent-gn\">1%</style> <style=\"emph-gn\">CRIT DMG</style> (สูงสุด <style=\"accent-gn\">50%</style>)",
+    "Id": 503901
+  },
+  "504001": {
+    "Content": "<style=\"emph-gn\">CRIT DMG</style> เพิ่มเป็น 2 เท่า",
+    "Id": 504001
+  },
+  "504101": {
+    "Content": "เมื่อ Crit จะสร้าง DMG แบบ AOE 1 ครั้ง เท่ากับ <style=\"accent-gn\">200%</style> ของ ATK และติด Crit (เวลา CD <style=\"accent-gn\">1 วินาที</style>) ทุกการมี Entry [Brutality] 1 ชิ้น DMG นี้ Final DMG <style=\"accent-gn\">+50%</style>",
+    "Id": 504101
+  },
+  "504201": {
+    "Content": "เมื่อติด CRIT จะลดเวลา CD Skills ทั้งหมดลง <style=\"accent-gn\">0.5 วินาที</style> (เกิดผลได้สูงสุด 1 ครั้งทุก <style=\"accent-gn\">1 วินาที</style>)",
+    "Id": 504201
+  },
+  "504301": {
+    "Content": "เมื่อติด CRIT จะซ้อนทับ \"Mark of Death\" เมื่อ Mark ครบ <style=\"accent-gn\">20 Stack</style> <style=\"emph-gn\">CRIT DMG</style> <style=\"accent-gn\">+30%</style> เป็นเวลา <style=\"accent-gn\">5 วินาที</style>",
+    "Id": 504301
+  },
+  "504401": {
+    "Content": "สกิลพิเศษเฉพาะ <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 504401
+  },
+  "504501": {
+    "Content": "การโจมตีพิเศษ <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 504501
+  },
+  "504601": {
+    "Content": "เมื่อติด CRIT จะฟื้นฟู HP ตัวเอง <style=\"accent-gn\">1%</style> (เวลา CD <style=\"accent-gn\">0.1 วินาที</style>)",
+    "Id": 504601
+  },
+  "504701": {
+    "Content": "เมื่อสร้าง DMG ไม่ติด CRIT จะทำให้<style=\"emph-gn\">CRIT</style>เพิ่มขึ้น <style=\"accent-gn\">50%</style> หลังจากติด CRIT แล้วผลจะหายไป",
+    "Id": 504701
+  },
+  "504801": {
+    "Content": "หลังจากใช้สกิล Ultimate ภายใน <style=\"accent-gn\">15 วินาที</style> DMG ทั้งหมดจะติด CRIT แน่นอน",
+    "Id": 504801
+  },
+  "504901": {
+    "Content": "เมื่อได้รับการ Heal ภายใน <style=\"accent-gn\">5 วินาที</style> <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+20%</style>",
+    "Id": 504901
+  },
+  "505001": {
+    "Content": "ทุกครั้งที่กำจัดมอนสเตอร์ได้ <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+0.3%</style> (สูงสุด <style=\"accent-gn\">100 Stack</style>)",
+    "Id": 505001
+  },
+  "505101": {
+    "Content": "สกิล Ultimate <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 505101
+  },
+  "505201": {
+    "Content": "เมื่อโจมตี Crit จะสร้างความเสียหายแบบพื้นที่ด้วย<style=\"accent-gn\">200%</style> Atk และทำให้เกิด Lucky Strike อย่างแน่นอน (คูลดาวน์<style=\"accent-gn\">1 วินาที</style>)",
+    "Id": 505201
+  },
+  "505301": {
+    "Content": "ทุกครั้งที่ติด CRIT <style=\"emph-gn\">Element DMG</style> เพิ่มขึ้น <style=\"accent-gn\">1%</style> เป็นเวลา <style=\"accent-gn\">5 วินาที</style> ซ้อนทับได้ <style=\"accent-gn\">15 Stack</style>",
+    "Id": 505301
+  },
+  "505401": {
+    "Content": "ทุกครั้งที่ติด CRIT <style=\"emph-gn\">ความเร็วโจมตี</style>เพิ่มขึ้น <style=\"accent-gn\">1%</style> <style=\"emph-gn\">ความเร็วร่ายสกิล</style>เพิ่มขึ้น <style=\"accent-gn\">2%</style> ซ้อนทับได้ <style=\"accent-gn\">15 Stack</style>",
+    "Id": 505401
+  },
+  "505501": {
+    "Content": "CRIT ครั้งแรกเมื่อเข้าสู่การต่อสู้ <style=\"emph-gn\">CRIT DMG</style>เพิ่มขึ้น <style=\"accent-gn\">500%</style>",
+    "Id": 505501
+  },
+  "505601": {
+    "Content": "ทุกครั้งที่ติด CRIT <style=\"accent-gn\">3 ครั้ง</style>ใน CRIT ครั้งถัดไป <style=\"emph-gn\">CRIT DMG</style>จะเพิ่มขึ้น <style=\"accent-gn\">50%</style> และรีเซ็ตจำนวนนับ",
+    "Id": 505601
+  },
+  "505701": {
+    "Content": "<style=\"emph-gn\">CRIT DMG</style> <style=\"accent-gn\">+20%</style>",
+    "Id": 505701
+  },
+  "505801": {
+    "Content": "<style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 505801
+  },
+  "505901": {
+    "Content": "เมื่อการโจมตีพิเศษติด CRIT จะอัญเชิญ Muku Chief Battle Imagine 1 ตัว (เวลา CD <style=\"accent-gn\">15 วินาที</style>)",
+    "Id": 505901
+  },
+  "506001": {
+    "Content": "โชคดีเอฟเฟกต์: สร้าง DMG แบบพื้นที่จาก Atk <style=\"accent-gn\">200%</style> ที่เป้าหมาย (คูลดาวน์ <style=\"accent-gn\">0.5 วินาที</style>) สำหรับแต่ละ \"โชคดี\" ที่ถืออยู่ DMG สุดท้ายจะเพิ่มขึ้น <style=\"accent-gn\">+50%</style>",
+    "Id": 506001
+  },
+  "506101": {
+    "Content": "<style=\"emph-gn\"> DMG จากเอฟเฟกต์ Lucky</style> เพิ่มขึ้น <style=\"accent-gn\">30%</style> ทุกๆ Attribute \"Lucky\" ที่มีอยู่ จะเพิ่มขึ้นอีก <style=\"accent-gn\">8%</style>",
+    "Id": 506101
+  },
+  "506201": {
+    "Content": "หลังจากเข้าสู่การต่อสู้ ทุกๆ <style=\"accent-gn\">1 วินาที</style> จะเพิ่มค่า <style=\"emph-gn\">Lucky</style>ให้ตัวเอง <style=\"accent-gn\">5%</style> ซ้อนทับได้สูงสุด <style=\"accent-gn\">20 Stack</style>",
+    "Id": 506201
+  },
+  "506301": {
+    "Content": "เอฟเฟกต์ Lucky: ได้รับ<style=\"emph-gn\">โล่</style>เท่ากับ <style=\"accent-gn\">20%</style> ของ<style=\"emph-gn\"> Max HP</style> เป็นเวลา <style=\"accent-gn\">2 วินาที</style>",
+    "Id": 506301
+  },
+  "506401": {
+    "Content": "เมื่อสร้าง DMG ทุกครั้งที่เกิดผล Lucky Strike ครบ <style=\"accent-gn\">50 ครั้ง</style>ต่อเป้าหมายหลัก ภายใน <style=\"accent-gn\">15 วินาที</style>ถัดไป <style=\"emph-gn\">ความเร็วคูลดาวน์</style>ของ Skills ทั้งหมดจะเพิ่มขึ้น <style=\"accent-gn\">+100%</style> (ระหว่างนี้จะไม่นับจำนวน)",
+    "Id": 506401
+  },
+  "506501": {
+    "Content": "ภายใน <style=\"accent-gn\">30 วินาที</style>หลังเข้าสู่การต่อสู้ การสร้าง DMG จะติด Lucky Strike แน่นอน",
+    "Id": 506501
+  },
+  "506601": {
+    "Content": "เมื่อ DMG หรือการ Heal เกิดผล Lucky Strike จะทำให้ Lucky Strike ครั้งถัดไปมี <style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+40%</style>",
+    "Id": 506601
+  },
+  "506701": {
+    "Content": "Lucky Strike จะ<style=\"emph-gn\">ติด CRIT </style>แน่นอน",
+    "Id": 506701
+  },
+  "506801": {
+    "Content": "เมื่อ DMG หรือการ Heal เกิดผล Lucky Strike <style=\"emph-gn\">Element DMG</style> จะเพิ่มขึ้น <style=\"accent-gn\">1%</style> เป็นเวลา <style=\"accent-gn\">5 วินาที</style> ซ้อนทับได้ <style=\"accent-gn\">15 Stack</style>",
+    "Id": 506801
+  },
+  "506901": {
+    "Content": "เมื่อ DMG หรือการ Heal ติด Lucky Strike <style=\"emph-gn\">ความเร็วโจมตี</style>จะเพิ่มขึ้น <style=\"accent-gn\">1%</style> <style=\"emph-gn\">ความเร็วร่ายสกิล</style>เพิ่มขึ้น <style=\"accent-gn\">2%</style> ซ้อนทับได้ <style=\"accent-gn\">15 Stack</style>",
+    "Id": 506901
+  },
+  "507001": {
+    "Content": "ทุกครั้งที่กำจัดมอนสเตอร์ได้ <style=\"emph-gn\">Lucky</style> <style=\"accent-gn\">+0.3%</style> (สูงสุด <style=\"accent-gn\">100 Stack</style>)",
+    "Id": 507001
+  },
+  "507101": {
+    "Content": "ทุกๆ <style=\"accent-gn\">15 วินาที</style> <style=\"emph-gn\">Lucky Strike DMG</style> <style=\"accent-gn\">+40%</style> เป็นเวลา <style=\"accent-gn\">8 วินาที</style>",
+    "Id": 507101
+  },
+  "507201": {
+    "Content": "<style=\"emph-gn\">Lucky Strike DMG </style> <style=\"accent-gn\">+20%</style>",
+    "Id": 507201
+  },
+  "507301": {
+    "Content": "<style=\"emph-gn\">Lucky</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 507301
+  },
+  "507401": {
+    "Content": "เมื่อสร้าง DMG แล้วเกิดผล Lucky Strike จะอัญเชิญ Wind Goblin King มาช่วยต่อสู้ (เวลา CD <style=\"accent-gn\">20 วินาที</style>)",
+    "Id": 507401
+  },
+  "507501": {
+    "Content": "เมื่อสกิล Ultimate เกิดผล Lucky Strike จะอัญเชิญ Lizardman Hunter (เวลา CD <style=\"accent-gn\">20 วินาที</style>)",
+    "Id": 507501
+  },
+  "507601": {
+    "Content": "ลด<style=\"emph-gn\">เวลา CD </style>Battle Imagine ลง <style=\"accent-gn\">80%</style>",
+    "Id": 507601
+  },
+  "507701": {
+    "Content": "<style=\"emph-gn\">DMG </style>ที่ Battle Imagine ทำได้เพิ่มขึ้น <style=\"accent-gn\">200%</style>",
+    "Id": 507701
+  },
+  "507801": {
+    "Content": "Battle Imagine สร้าง DMG ที่เป็น Crit แน่นอนและ<style=\"emph-gn\"> Crit DMG</style><style=\"accent-gn\">+50%</style>",
+    "Id": 507801
+  },
+  "507901": {
+    "Content": "Battle Imagine ได้รับโบนัส <style=\"emph-gn\">Element DMG</style> <style=\"accent-gn\">100%</style>",
+    "Id": 507901
+  },
+  "508001": {
+    "Content": "Battle Imagine <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+80%</style>",
+    "Id": 508001
+  },
+  "508101": {
+    "Content": "ทุกครั้งที่ปล่อย Battle Imagine จะเพิ่ม <style=\"emph-gn\">ATK</style> ถาวร <style=\"accent-gn\">0.5%</style> (สูงสุด <style=\"accent-gn\">60 Stack</style>)",
+    "Id": 508101
+  },
+  "508201": {
+    "Content": "DMG สุดท้ายที่ตัวเองทำได้ <style=\"accent-gn\">-40%</style> DMG สุดท้ายที่ Battle Imagine ทำได้ <style=\"accent-gn\">+40%</style>",
+    "Id": 508201
+  },
+  "508301": {
+    "Content": "<style=\"accent-gn\">5%</style> ของ DMG ที่ Battle Imagine ทำได้จะนำมา Heal ตัวเอง",
+    "Id": 508301
+  },
+  "508401": {
+    "Content": "Battle Imagine <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+20%</style>",
+    "Id": 508401
+  },
+  "508501": {
+    "Content": "เมื่อใช้การโจมตีพิเศษ จะสุ่มอัญเชิญ <style=\"emph-gn\">Goblin Illusion</style> 1 ตัว (เวลา CD <style=\"accent-gn\">20 วินาที</style>)",
+    "Id": 508501
+  },
+  "508601": {
+    "Content": "เมื่อใช้สกิลพิเศษเฉพาะ จะสุ่มอัญเชิญ<style=\"emph-gn\">ภาพมายาสัตว์</style> 1 ตัว (เวลา CD <style=\"accent-gn\">20 วินาที</style>)",
+    "Id": 508601
+  },
+  "508701": {
+    "Content": "เมื่อปล่อย Battle Imagine จะอัญเชิญ<style=\"emph-gn\">Goblin Crossbow Illusion</style> ออกมาพร้อมกัน (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 508701
+  },
+  "508801": {
+    "Content": "เมื่อใช้สกิล Ultimate จะสุ่มอัญเชิญ <style=\"emph-gn\">Illusion ตัวละครแห่งที่ราบสูง</style> (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 508801
+  },
+  "508901": {
+    "Content": "ทุกครั้งที่มี Battle Imagine Buff อยู่ 1 อย่าง <style=\"emph-gn\"> DMG </style>ของตัวเองจะเพิ่มขึ้น <style=\"accent-gn\">4%</style> และ<style=\"emph-gn\"> DMG ที่ได้รับ</style>ลดลง <style=\"accent-gn\">2%</style>",
+    "Id": 508901
+  },
+  "509001": {
+    "Content": "เมื่อใช้สกิล Ultimate จะอัญเชิญ<style=\"emph-gn\">Muku Warrior Illusion</style> ออกมาพร้อมกัน (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 509001
+  },
+  "509101": {
+    "Content": "เมื่อ HP ต่ำกว่า <style=\"accent-gn\">50%</style> จะอัญเชิญ<style=\"emph-gn\">Muku King Fantasy</style> (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 509101
+  },
+  "509201": {
+    "Content": "ทุกๆ <style=\"accent-gn\">60 วินาที</style> จะอัญเชิญ<style=\"emph-gn\">Tina Illusion</style> โดยอัตโนมัติ",
+    "Id": 509201
+  },
+  "509301": {
+    "Content": "เมื่อเข้าสู่การต่อสู้ จะอัญเชิญ<style=\"emph-gn\">Tempest Ogre Illusion</style> ทันที (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 509301
+  },
+  "509401": {
+    "Content": "เมื่อ DMG หรือการ Heal เกิดผล Lucky Strike จะสุ่มอัญเชิญ <style=\"emph-gn\">Lucky Fantasy</style> 1 ตัว (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 509401
+  },
+  "509501": {
+    "Content": "Battle Imagine <style=\"emph-gn\">โชคดี</style> <style=\"accent-gn\">+40%</style>",
+    "Id": 509501
+  },
+  "509601": {
+    "Content": "เมื่อ Class Skill สร้าง DMG จะฟื้นฟู HP ของเพื่อนร่วมทีมที่อยู่รอบๆ <style=\"accent-gn\">1%</style> พร้อมมอบโบนัส<style=\"emph-gn\">พลังโจมตี</style> <style=\"accent-gn\">15%</style> เป็นเวลา <style=\"accent-gn\">3 วินาที</style> (คูลดาวน์ <style=\"accent-gn\">0.3 วินาที</style>)",
+    "Id": 509601
+  },
+  "509701": {
+    "Content": "เมื่อตัวเองมีการเปลี่ยนแปลง Element DMG จะเพิ่ม<style=\"emph-gn\">Element DMG</style>ให้เพื่อนร่วมทีมรอบๆ <style=\"accent-gn\">20%</style> เป็นเวลา <style=\"accent-gn\">10 วินาที</style>",
+    "Id": 509701
+  },
+  "509801": {
+    "Content": "เมื่อตัวเองมีการเปลี่ยนแปลงค่า <style=\"emph-gn\">CRIT/Lucky/Haste/Mastery/Versatility</style> จะเพิ่มสเตตัสที่สอดคล้องกันให้เพื่อนร่วมทีมรอบๆ <style=\"accent-gn\">10%</style> เป็นเวลา <style=\"accent-gn\">10 วินาที</style>",
+    "Id": 509801
+  },
+  "509901": {
+    "Content": "เพื่อนร่วมทีมทุก 1 คนที่อยู่ในระยะ 15 เมตร <style=\"emph-gn\">DMG</style> ของตัวเองจะเพิ่มขึ้น <style=\"accent-gn\">8%</style> และ <style=\"emph-gn\">ได้รับ DMG</style> ลดลง <style=\"accent-gn\">4%</style>",
+    "Id": 509901
+  },
+  "510001": {
+    "Content": "เมื่อทำการ Heal จะ<style=\"emph-gn\">เพิ่มเอฟเฟกต์กายภาพ</style>และ<style=\"emph-gn\">เพิ่มเอฟเฟกต์เวท</style> <style=\"accent-gn\">10%</style> ให้แก่เป้าหมาย เป็นเวลา <style=\"accent-gn\">3 วินาที</style>",
+    "Id": 510001
+  },
+  "510101": {
+    "Content": "เมื่อใช้สกิล Ultimate จะได้รับออร่าทรัพยากรเป็นเวลา <style=\"accent-gn\">15 วินาที</style> ระหว่างผลทำงาน <style=\"emph-gn\">ประสิทธิภาพการได้รับทรัพยากรการต่อสู้</style>ของเพื่อนร่วมทีมรอบๆ <style=\"accent-gn\">+100%</style> (มีผลเพียงหนึ่งอย่างในเวลาเดียวกัน)",
+    "Id": 510101
+  },
+  "510201": {
+    "Content": "เมื่อทำการ Heal จะมอบ<style=\"emph-gn\">การลด DMG </style> <style=\"accent-gn\">10%</style> ให้แก่เป้าหมาย เป็นเวลา <style=\"accent-gn\">3 วินาที</style>",
+    "Id": 510201
+  },
+  "510301": {
+    "Content": "ศัตรูในระยะ 10 เมตรสร้าง DMG ลดลง <style=\"accent-gn\">10%</style>",
+    "Id": 510301
+  },
+  "510401": {
+    "Content": "เมื่อทำการ Heal จะมอบ<style=\"emph-gn\">Armor</style> เพิ่มเติมเท่ากับ <style=\"accent-gn\">20%</style> ของ <style=\"emph-gn\">Max HP</style> เป็นเวลา <style=\"accent-gn\">10 วินาที</style> แต่ละเป้าหมายจะรับ Armor นี้ได้สูงสุด 1 ครั้งภายใน <style=\"accent-gn\">10 วินาที</style>",
+    "Id": 510401
+  },
+  "510501": {
+    "Content": "<style=\"emph-gn\">ความแรง Heal</style> <style=\"accent-gn\">+15%</style>",
+    "Id": 510501
+  },
+  "510601": {
+    "Content": "<style=\"emph-gn\">Shield</style> <style=\"accent-gn\">+15%</style>",
+    "Id": 510601
+  },
+  "510701": {
+    "Content": "ทุก <style=\"emph-gn\">Healing</style> <style=\"accent-gn\">10%</style> จะเปลี่ยนเป็น <style=\"emph-gn\">ll-Element Bonus</style> <style=\"accent-gn\">5%</style>",
+    "Id": 510701
+  },
+  "510801": {
+    "Content": "เมื่อใช้สกิล Ultimate จะได้รับออร่า Healing เป็นเวลา <style=\"accent-gn\">10 วินาที</style> สร้างการ Heal เท่ากับ <style=\"accent-gn\">100%</style> ของ ATK ให้เพื่อนร่วมทีมในระยะ 15 เมตรทุกวินาที (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 510801
+  },
+  "510901": {
+    "Content": "เมื่อปล่อยสกิลเฉพาะทาง จะได้รับออร่าโชคดีที่คงอยู่<style=\"accent-gn\">10 วินาที</style> เพิ่มผลแบบพาสซีฟ<style=\"emph-gn\">Lizardman Hunter Fantasy</style>ให้กับเพื่อนร่วมทีมภายในระยะ 15 เมตร (คูลดาวน์<style=\"accent-gn\">30 วินาที</style> และสามารถมีผลเพียง 1 อย่างในเวลาเดียวกัน)",
+    "Id": 510901
+  },
+  "511001": {
+    "Content": "เมื่อใช้การโจมตีพิเศษ จะได้รับออร่า CRIT เป็นเวลา <style=\"accent-gn\">5 วินาที</style> ทำให้เพื่อนร่วมทีมในระยะ 15 เมตรมีค่า<style=\"emph-gn\"> CRIT </style> <style=\"accent-gn\">+3%</style>",
+    "Id": 511001
+  },
+  "511101": {
+    "Content": "เมื่อ Class Skills ทำการ Heal จะสะสม DMG เมื่อสะสมถึง <style=\"accent-gn\">10000%</style> ของ ATK การสร้าง DMG ครั้งถัดไปจะสร้าง DMG วงกว้างเพิ่มเติมเท่ากับค่าที่สะสมไว้ (เกิดผลได้สูงสุด 1 ครั้งทุก <style=\"accent-gn\">1 วินาที</style>)",
+    "Id": 511101
+  },
+  "511201": {
+    "Content": "ทุกวินาทีจะสร้าง DMG ต่อเป้าหมายสุ่มรอบตัว DMG เท่ากับ<style=\"emph-gn\">ปริมาณการ Heal</style> ที่ Class Skills ของคุณทำได้ในช่วงเวลานั้น",
+    "Id": 511201
+  },
+  "511301": {
+    "Content": "เมื่อรักษา จะเรียก<style=\"emph-gn\">แฟนตาซีของบาซิลิสก์</style> (เวลาในการรีเฟรช<style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 511301
+  },
+  "511401": {
+    "Content": "สร้างการรักษาและเรียก<style=\"emph-gn\">Brigand Chief Fantasy</style> (คูลดาวน์<style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 511401
+  },
+  "511501": {
+    "Content": "เมื่อได้รับ DMG จะเรียกแฟนตาซีของ<style=\"emph-gn\">Beehive</style> (ระยะเวลาคูลดาวน์<style=\"accent-gn\">30 วินาที</style>)",
+    "Id": 511501
+  },
+  "611601": {
+    "Content": "หลังทุกรอบต่อสู้สิ้นสุด <style=\"emph-gn\">Mastery</style>+3%<br> ทุกวินาทีโจมตีใส่เป้าหมายรอบตัวเอง สร้าง <style=\"emph-gn\">DMG 100% ของ M.Atk</style> ใน 1 วินาทีจะมอบ <style=\"emph-gn\">DMG 100%</style>",
+    "Id": 611601
+  },
+  "611701": {
+    "Content": "หลังทุกรอบต่อสู้สิ้นสุด <style=\"emph-gn\">Versatility</style>+3%<br> หลังโจมตีเอาชีวิต เป้าหมายรอบตัวเองในระยะ 5 เมตร จะถูกสร้าง DMG 1 ครั้ง 1500% ของ<style=\"emph-gn\">P.Def</style>(ทุก 1 วินาทีทำงานสูงสุด 1 ครั้ง)",
+    "Id": 611701
+  },
+  "611801": {
+    "Content": "หลังทุกรอบต่อสู้สิ้นสุด <style=\"emph-gn\">Haste</style>+3%<br>เมื่อโจมตี ตาม Haste ของตัวเอง มีโอกาสทำให้ [Double DMG] ทำงาน",
+    "Id": 611801
+  },
+  "611901": {
+    "Content": "Lucky Strike จะทำให้ <style=\"emph-gn\">[Poisoned Sting] [Rapid Fire] [Thunder Suppress] [Fiery Battle Axe] [Meteor Fall]</style><br>เมื่อทุกรอบการต่อสู้สิ้นสุด Lucky Rate+3% จะเพิ่มตาม Lucky Rate ของตัวเอง โบนัส Lucky DMG เพิ่ม",
+    "Id": 611901
+  },
+  "612001": {
+    "Content": "หลังทุกรอบต่อสู้สิ้นสุด <style=\"emph-gn\">Crit rate</style>+3%<br>Crit rate มากกว่า 50% บางส่วนจะกลายเป็น Crit DMG 2 เท่า",
+    "Id": 612001
+  },
+  "612101": {
+    "Content": "อัญเชิญ Soul Frame ทุกวินาที ตัวเองสร้าง DMG 10% ของ <style=\"emph-gn\">Max HP</style>",
+    "Id": 612101
+  },
+  "612201": {
+    "Content": "อัญเชิญลูกสายฟ้าเคลื่อนที่ไปข้างหน้า ขยายตัวแล้วระเบิด, ขนาดใหญ่ยิ่งรุนแรง",
+    "Id": 612201
+  },
+  "612301": {
+    "Content": "อัญเชิญ Meteor สร้าง DMG ตามเรทที่กำหนดของ <style=\"emph-gn\">HP</style> และ <style=\"emph-gn\">Max HP</style> ตัวเองที่เสียไป",
+    "Id": 612301
+  },
+  "612401": {
+    "Content": "ยิง Fire Soul ที่สะท้อนไปมาระหว่างศัตรู ทำให้มีโบนัส <style=\"emph-gn\">เพิ่ม DMG</style> ต่อการสะท้อน 1 ครั้ง",
+    "Id": 612401
+  },
+  "612501": {
+    "Content": "อัปเกรดสกิลถัดไป เพิ่ม <style=\"emph-gn\">Atk</style>",
+    "Id": 612501
+  },
+  "612601": {
+    "Content": "ได้รับบัฟ <style=\"emph-gn\">อมตะ</style> ชัวคราว ในระยะเวลา จะเพิ่ม <style=\"emph-gn\">Atk</style> และ <style=\"emph-gn\">SPD</style>",
+    "Id": 612601
+  },
+  "612701": {
+    "Content": "อัญเชิญ Black Hole 1 หลุมที่<style=\"emph-gn\">ดึงดูดศัตรู</style> ทำให้ศัตรนี้ SPD ลดลง",
+    "Id": 612701
+  },
+  "612801": {
+    "Content": "โยน Flying Blade ทำให้ <style=\"emph-gn\">Bounces off walls</style>",
+    "Id": 612801
+  },
+  "612901": {
+    "Content": "อัญเชิญป้อมปืน โจมตีศัตรูอัตโนมัติ",
+    "Id": 612901
+  },
+  "613001": {
+    "Content": "ยิงแสงเลเซอร์ สร้าง DMG ตามเรทที่กำหนดของ <style=\"emph-gn\">สเตตัสรวมของตัวเอง</style><br>(Haste , Crit ,Lucky ,Mastery)",
+    "Id": 613001
+  },
+  "613101": {
+    "Content": "ฟันต่อเนื่องในฝูงศัตรู ระหว่างนั้นจะอมตะ",
+    "Id": 613101
+  },
+  "613201": {
+    "Content": "อัญเชิญ <style=\"emph-gn\">Marksman</style> ของ Kanamia มาช่วยต่อสู้<br>เวลาฮีลให้ Marksman ต่อเนื่องเพิ่ม",
+    "Id": 613201
   }
 }

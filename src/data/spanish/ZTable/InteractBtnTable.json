@@ -3854,7 +3854,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30402,
-    "Name": "Recolectar hierbas"
+    "Name": "Recolectar hierba"
   },
   "3040201": {
     "BtnType": 0,
@@ -3988,6 +3988,34 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30420,
     "Name": "Liberar"
+  },
+  "30421": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30421,
+    "Name": "Recolectar Bayaluna de Shadewood"
+  },
+  "30422": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "Id": 30422,
+    "Name": "Iniciar danza espiritual"
+  },
+  "30423": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30423,
+    "Name": "Aplastar las esporas"
+  },
+  "30424": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30424,
+    "Name": "Ofrecer A La Renovación"
   },
   "3050201": {
     "BtnType": 1,
@@ -4835,6 +4863,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56019,
     "Name": "Reclamar Descartar"
+  },
+  "56020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 56020,
+    "Name": "Encender el fuego artificial de Rorola"
   },
   "57001": {
     "BtnType": 1,
@@ -6873,6 +6908,13 @@
     "Id": 739011,
     "Name": "Misión de aguas profundas: Ajuste de línea de engrama"
   },
+  "739012": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "Id": 739012,
+    "Name": "Telar de los Sueños: Purga de Pesadillas"
+  },
   "7501": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -7565,5 +7607,40 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920519,
     "Name": "Consejos del evento"
+  },
+  "9300001": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300001,
+    "Name": "Finalizar Sueño"
+  },
+  "9300002": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300002,
+    "Name": "Intercambiar habilidad de bendición"
+  },
+  "9300003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300003,
+    "Name": "Obtener Bendición (Solo Una Vez)"
+  },
+  "9300004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300004,
+    "Name": "Canjear por bendición"
+  },
+  "9300005": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300005,
+    "Name": "Abrir “Cofre Lleno De Sueños\" (Solo Una Vez)"
   }
 }

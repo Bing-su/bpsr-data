@@ -12827,6 +12827,62 @@
     "StepFlowPath": "bin/task/task_step/s3quest/sidequest_01/sidequest_01-60",
     "TimeLimit": []
   },
+  "186646": {
+    "AbortLimit": [["16", "6646"]],
+    "AccessLimit": [["15", "6646"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "族人接连失去共梦的能力，卡尼曼的传统也因此蒙上阴影。调查祖息孢的异变，或许能找到失梦的原因。<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 186646,
+    "QuestName": "【限时活动】引梦之种",
+    "QuestStep": 186646001,
+    "QuestType": 90,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-20",
+    "TimeLimit": []
+  },
+  "186647": {
+    "AbortLimit": [["16", "6647"]],
+    "AccessLimit": [["15", "6647"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021, 25029041
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "大祭司罗罗拉终于回归部落，她带来的是好消息，还是……<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 186647,
+    "QuestName": "【限时活动】逐梦之途",
+    "QuestStep": 186647001,
+    "QuestType": 90,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-21",
+    "TimeLimit": []
+  },
   "186701": {
     "AbortLimit": [["16", "6701"]],
     "AccessLimit": [["15", "6701"]],
@@ -28521,6 +28577,482 @@
     "QuestStep": 50268002,
     "QuestType": 84,
     "StepFlowPath": "bin/task/task_step/huodong/50260/50260-11",
+    "TimeLimit": []
+  },
+  "50290": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41110"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 70140010,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "卡尼曼部落正在举行盛大的丰收祭，身为第一勇士，或许是时候回去看看了。<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50290,
+    "QuestName": "【限时活动】丰收祭的归途",
+    "QuestStep": 50290001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-3",
+    "TimeLimit": []
+  },
+  "50291": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [["18", "41114"]],
+    "AccpetType": [0],
+    "AwardId": 70140020,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003, 25029010, 25029009],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50290",
+    "QuestDetail": "族人接连失去共梦的能力，卡尼曼的传统也因此蒙上阴影。调查祖息孢的异变，或许能找到失梦的原因。<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50291,
+    "QuestName": "【限时活动】引梦之种",
+    "QuestStep": 50291001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-4",
+    "TimeLimit": []
+  },
+  "50292": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [["18", "41115"]],
+    "AccpetType": [0],
+    "AwardId": 70140030,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50291",
+    "QuestDetail": "罗罗拉想借助镜卜寻找先祖的指引，可承载镜媒的古镜，早已埋藏在故土的遗迹之中……<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50292,
+    "QuestName": "【限时活动】镜中之月",
+    "QuestStep": 50292001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-5",
+    "TimeLimit": []
+  },
+  "50293": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [["18", "41116"]],
+    "AccpetType": [0],
+    "AwardId": 70140040,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50292",
+    "QuestDetail": "今年丰收祭的息壤火焰也变得不稳定起来，究竟是先祖的愠怒，还是另有隐情？<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50293,
+    "QuestName": "【限时活动】珍视之物",
+    "QuestStep": 50293015,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-6",
+    "TimeLimit": []
+  },
+  "50294": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [["18", "41117"]],
+    "AccpetType": [0],
+    "AwardId": 70140050,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50293",
+    "QuestDetail": "大祭司罗罗拉终于回归部落，她带来的是好消息，还是……<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50294,
+    "QuestName": "【限时活动】逐梦之途",
+    "QuestStep": 50294001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-7",
+    "TimeLimit": []
+  },
+  "50295": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140060,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50301",
+    "QuestDetail": "是预兆吗？……或许，该去先祖之路的祭坛看看了。<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50295,
+    "QuestName": "【限时活动】蛇图腾的呼唤",
+    "QuestStep": 50295003,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-8",
+    "TimeLimit": []
+  },
+  "50296": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140070,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50302",
+    "QuestDetail": "是预兆吗？……或许，该去先祖之路的祭坛看看了。<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50296,
+    "QuestName": "【限时活动】鸟图腾的呼唤",
+    "QuestStep": 50296006,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-9",
+    "TimeLimit": []
+  },
+  "50297": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140080,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50303",
+    "QuestDetail": "是预兆吗？……或许，该去先祖之路的祭坛看看了。<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50297,
+    "QuestName": "【限时活动】镜图腾的呼唤",
+    "QuestStep": 50297005,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-10",
+    "TimeLimit": []
+  },
+  "50298": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140090,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50304",
+    "QuestDetail": "是预兆吗？……或许，该去先祖之路的祭坛看看了。<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50298,
+    "QuestName": "【限时活动】羊图腾的呼唤",
+    "QuestStep": 50298006,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-11",
+    "TimeLimit": []
+  },
+  "50299": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140100,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50305",
+    "QuestDetail": "是预兆吗？……或许，该去先祖之路的祭坛看看了。<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50299,
+    "QuestName": "【限时活动】壶图腾的呼唤",
+    "QuestStep": 50299005,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-12",
+    "TimeLimit": []
+  },
+  "50300": {
+    "AbortLimit": [["42", "41118"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41118"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 70140110,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "丰收祭已近尾声，可失梦之年留下的种种异象，究竟预示着怎样的变化？<br><style=\"emph-gn\">活动任务剩余时间：{*RemainingTaskTime*}</style>",
+    "QuestId": 50300,
+    "QuestName": "【限时活动】尚未熄灭的息壤",
+    "QuestStep": 50300001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-13",
+    "TimeLimit": []
+  },
+  "50301": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50290)",
+    "QuestDetail": "",
+    "QuestId": 50301,
+    "QuestName": "",
+    "QuestStep": 50301001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-14",
+    "TimeLimit": []
+  },
+  "50302": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50291)",
+    "QuestDetail": "",
+    "QuestId": 50302,
+    "QuestName": "",
+    "QuestStep": 50302001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-16",
+    "TimeLimit": []
+  },
+  "50303": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [["18", "41115"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50291)",
+    "QuestDetail": "",
+    "QuestId": 50303,
+    "QuestName": "",
+    "QuestStep": 50303001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-17",
+    "TimeLimit": []
+  },
+  "50304": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50293)",
+    "QuestDetail": "",
+    "QuestId": 50304,
+    "QuestName": "",
+    "QuestStep": 50304001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-18",
+    "TimeLimit": []
+  },
+  "50305": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50294 and 50295 and 50296 and 50297 and 50298)",
+    "QuestDetail": "",
+    "QuestId": 50305,
+    "QuestName": "",
+    "QuestStep": 50305001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-19",
+    "TimeLimit": []
+  },
+  "50306": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41110"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021, 25029041
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "",
+    "QuestId": 50306,
+    "QuestName": "",
+    "QuestStep": 50306001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-71",
     "TimeLimit": []
   },
   "70000": {

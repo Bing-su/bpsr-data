@@ -1322,5 +1322,809 @@
   "133001": {
     "Content": "Al activar el combo de tres golpes de Caída de Fuego Infernal, otorga 1 carga de Corte de Esplendor Fluido. Una vez cargado por completo, Corte de Esplendor Fluido se activa automáticamente.<br><br>Solo disponible en [difícil] y [pesadilla].",
     "Id": 133001
+  },
+  "3000101": {
+    "Content": "Infligir daño con Corte de Iaido garantiza la activación de área de viento cortante. La reducción de TdR del área de viento cortante para Combo del Olvido aumenta un 300 %. Solo puede haber un área de viento cortante activa a la vez (requiere el talento área de viento cortante).",
+    "Id": 3000101
+  },
+  "3000201": {
+    "Content": "Duplica el DÑO crítico de Corte Definitivo.",
+    "Id": 3000201
+  },
+  "3000301": {
+    "Content": "Lanzar Dragofulgor o Corte Fantasma extiende la duración de Descarga de Voltios en 10 s. El DÑO de atributo de temporada de Dragofulgor y Corte Fantasma aumenta un 500 %.",
+    "Id": 3000301
+  },
+  "3000401": {
+    "Content": "Durante Descarga de Voltios, los críticos de Ataque Relámpago y Destello Raijin restablecen sus propios TdR. El DÑO de atributo de temporada de Ataque Relámpago y Destello Raijin aumenta un 50 %.",
+    "Id": 3000401
+  },
+  "3000501": {
+    "Content": "Aumenta las acumulaciones máximas de Hoz Divina en +7. Lanzar Hoz Divina consume todas las acumulaciones, lo que aumenta el DÑO de atributo de temporada un 15 % por acumulación.",
+    "Id": 3000501
+  },
+  "3000601": {
+    "Content": "Aumenta el número máximo de filos lunares en 2.",
+    "Id": 3000601
+  },
+  "3000701": {
+    "Content": "Hoz Divina se lanza automáticamente. Cada lanzamiento reduce el TdR de Destello Tempestivo en 2 s.",
+    "Id": 3000701
+  },
+  "3000801": {
+    "Content": "El multiplicador de golpe de suerte aumenta un 100 %. El aumento de suerte se duplica.",
+    "Id": 3000801
+  },
+  "3000901": {
+    "Content": "Cuando Pulso Gélido inflige daño, aumenta permanentemente el ataque helado en 2 puntos. (Se activa solo una vez por lanzamiento, incluso con múltiples golpes).",
+    "Id": 3000901
+  },
+  "3001001": {
+    "Content": "Cuando Pulso Gélido inflige daño, aumenta el daño de flecha helada un 5 % durante 5 s. Este efecto se acumula hasta 50 veces. (Se activa solo una vez por lanzamiento, incluso con múltiples golpes).",
+    "Id": 3001001
+  },
+  "3001101": {
+    "Content": "Por cada 10 veces que Rayo Gélido inflige daño al objetivo principal, activa de forma aleatoria vórtice de agua, Vórtice de Marea o Velo de Cristal (si está equipado). El DÑO de atributo de temporada de Rayo Gélido aumenta un 100 %.",
+    "Id": 3001101
+  },
+  "3001201": {
+    "Content": "Después de su explosión congelada, Vórtice de Marea se divide en dos Vórtices de Marea nuevos (no se dividirán de nuevo). El DÑO de atributo de temporada de Vórtice de Marea aumenta un 200 %.",
+    "Id": 3001201
+  },
+  "3001301": {
+    "Content": "Cada 1.5 s, Velo de Cristal dispara una Lanza Gélida Perforante a un objetivo aleatorio (o hacia adelante si no hay objetivo). Cuando Lanza Gélida Perforante inflige daño, el TdR de Velo de Cristal se reduce en 0.3 s.",
+    "Id": 3001301
+  },
+  "3001401": {
+    "Content": "Al lanzar Lanza Gélida con más de 2 cristales gélidos, consumirá 1 cristal gélido adicional para activar Lanza Gélida dos veces de forma consecutiva. El DÑO de atributo de temporada de Lanza Gélida aumenta un 50 %.",
+    "Id": 3001401
+  },
+  "3001501": {
+    "Content": "Cada 5 lanzamientos de Tormenta Meteórica se invoca un meteoro de la definitiva, lo que pone al instante a Ventisca en TdR y reduce el TdR de Hielo Eterno en 5 s. El DÑO de atributo de temporada de la definitiva aumenta un 200 %.",
+    "Id": 3001501
+  },
+  "3001601": {
+    "Content": "Entra permanentemente en el estado Frío Interminable, que otorga el doble de daño. Cada acumulación de cristal gélido aumenta adicionalmente la VEL de ATQ un 10 %.",
+    "Id": 3001601
+  },
+  "3001701": {
+    "Content": "La definitiva también activa Estampida de bestias, consumiendo toda la energía fotónica para invocar lobos salvajes. Se invoca 1 lobo salvaje por cada 20 de energía fotónica consumida. Esto dura 8 s.",
+    "Id": 3001701
+  },
+  "3001801": {
+    "Content": "Los acompañantes obtienen +50 % de aumento FÍS.",
+    "Id": 3001801
+  },
+  "3001901": {
+    "Content": "Aumenta el multiplicador de ataque de Lluvia de Flechas por 10. Si hay más de 3 acompañantes en el campo, cada acompañante adicional aumenta el DÑO final un 100 %.",
+    "Id": 3001901
+  },
+  "3002001": {
+    "Content": "Los lobos espectrales ahora se consideran bestias.",
+    "Id": 3002001
+  },
+  "3002101": {
+    "Content": "Llamada Salvaje ahora invoca dos halcones.",
+    "Id": 3002101
+  },
+  "3002201": {
+    "Content": "Tiro Potente ahora dispara proyectiles en tres direcciones hacia adelante. Cuanto más cerca esté el objetivo, mayor será el daño (desde un mínimo de +10 % hasta un máximo de +100 %).",
+    "Id": 3002201
+  },
+  "3002301": {
+    "Content": "Daño elemental de Tiro Potente +100 %. Inflige +500 % de DÑO de atributo de temporada a objetivos con más del 80 % de PS.",
+    "Id": 3002301
+  },
+  "3002401": {
+    "Content": "Pulso Regenerativo aplica Espina al objetivo. Espina y semilla salvaje ahora pueden activar un golpe de suerte.",
+    "Id": 3002401
+  },
+  "3002501": {
+    "Content": "Pulso Regenerativo es un crítico garantizado y su DÑO crítico aumenta un 2000 %.",
+    "Id": 3002501
+  },
+  "3002601": {
+    "Content": "Infusión dispara balas adicionales a 5 objetivos circundantes. El DÑO de atributo de temporada de Infusión aumenta un 100 %.",
+    "Id": 3002601
+  },
+  "3002701": {
+    "Content": "La Carga de Ciervo activada automáticamente ahora puede activar efectos de talento. Cada vez que se activa Carga de Ciervo, el daño de habilidad de pericia y el daño de suerte aumentan un 10 % durante un tiempo. Este efecto se puede acumular hasta 10 veces.",
+    "Id": 3002701
+  },
+  "3002801": {
+    "Content": "Se obtiene brote regenerativo continuamente mientras Deseo Arbolado está activo y otorga un aumento de TdR del 100 % para Deseo Arbolado.",
+    "Id": 3002801
+  },
+  "3002901": {
+    "Content": "Otorga la ventaja Crecimiento Rápido al lanzar la habilidad definitiva (requiere Crecimiento Rápido). Cada vez que se activa Carga Floral, el TdR de la habilidad definitiva se reduce 1 s.",
+    "Id": 3002901
+  },
+  "3003001": {
+    "Content": "Otorga un aumento MÁG del 50 % y un 30 % de presteza a todas las habilidades de clase, pero evita el uso de habilidades definitivas.",
+    "Id": 3003001
+  },
+  "3003101": {
+    "Content": "Cuando el DÑO-P de Nutrición alcanza 3 acumulaciones, el objetivo sufre Drenaje de vida: durante 5 s, inflige daño (ATQ-M × 20 × maestría %). Cada vez que se inflige daño, los TdR de todas las habilidades de pericia se reducen 1 s.",
+    "Id": 3003101
+  },
+  "3003201": {
+    "Content": "DÑO de atributo de temporada de Ciclón +50 % y DÑO de atributo de temporada de Gran Ciclón de Viento +100 %.",
+    "Id": 3003201
+  },
+  "3003301": {
+    "Content": "Gran Ciclón de Viento se convierte en un combo de dos golpes. Al infligir daño, el ataque eólico aumenta permanentemente en 2 puntos.",
+    "Id": 3003301
+  },
+  "3003401": {
+    "Content": "Lanzar Ataque Torbellino consume todo el coraje. Por cada punto de coraje consumido, su DÑO de atributo de temporada aumenta un 3 %.",
+    "Id": 3003401
+  },
+  "3003501": {
+    "Content": "Lanzar Ataque Torbellino aumenta permanentemente el ataque eólico en 2 puntos.",
+    "Id": 3003501
+  },
+  "3003601": {
+    "Content": "Cuando Ruptura Azulina inflige daño, activa un tornado adicional. El DÑO de atributo de temporada de este tornado aumenta un 100 %.",
+    "Id": 3003601
+  },
+  "3003701": {
+    "Content": "Aumenta la VEL de ATQ un 100 % durante Furia de Viento.",
+    "Id": 3003701
+  },
+  "3003801": {
+    "Content": "Filo Instantáneo ahora consume todo el Afilado, y cada punto consumido aumenta su DÑO de atributo de temporada un 10 % adicional.",
+    "Id": 3003801
+  },
+  "3003901": {
+    "Content": "Después de cada 10 Lanzamientos de Escudo, Lanzamiento de Escudo mejorará. Toca para que los escudos giren alrededor del lanzador.",
+    "Id": 3003901
+  },
+  "3004001": {
+    "Content": "Lanzar Lanzamiento de Escudo aumenta el ATQ un 2 % durante 2 s. Este efecto se acumula hasta 50 veces.",
+    "Id": 3004001
+  },
+  "3004101": {
+    "Content": "Durante Protección de Égida, Ajuste Infernal se activa cada 0.5 s y su VEL de ATQ aumenta un 100 %.",
+    "Id": 3004101
+  },
+  "3004201": {
+    "Content": "Ajuste Infernal ahora puede activar Golpe Divino. El efecto de reducción de TdR de retribución de Protección de Égida sobre Protección de Égida se duplica.",
+    "Id": 3004201
+  },
+  "3004301": {
+    "Content": "Reduce el costo de Hoja Sagrada en 1. Cuando Hoja Sagrada golpea a un objetivo con una marca sagrada, los PS máx. aumentan permanentemente en 200 puntos.",
+    "Id": 3004301
+  },
+  "3004401": {
+    "Content": "Duplica los efectos adicionales de barrera lumínica.",
+    "Id": 3004401
+  },
+  "3004501": {
+    "Content": "Caza de Vanguardia y Corte de Arco Divino infligen daño fijo adicional equivalente al 50 % de los PS máx.",
+    "Id": 3004501
+  },
+  "3004601": {
+    "Content": "Las habilidades que consumen cristales de arena ahora los restauran, y su DÑO de atributo de temporada aumenta un 200 %.",
+    "Id": 3004601
+  },
+  "3004701": {
+    "Content": "Mientras Forma Rocosa está activa, se obtiene energía continuamente. Todos los golpes son críticos garantizados y el DÑO crítico aumenta un 200 %.",
+    "Id": 3004701
+  },
+  "3004801": {
+    "Content": "Cada vez que se activa Eco de Escudo, Ruptura Estelar inflige daño de bonus equivalente al 100 % del valor actual del escudo (este bonus se ve afectado por el aumento de daño de Ruptura Estelar).",
+    "Id": 3004801
+  },
+  "3004901": {
+    "Content": "El valor de escudo máximo ahora puede aumentar al 1000 %. Participar en un asesinato aumenta la fuerza de escudo un 5 %.",
+    "Id": 3004901
+  },
+  "3005001": {
+    "Content": "Por cada 20 veces que se activa Puño Piedra, se invoca una roca gigante que cae sobre el objetivo e inflige daño equivalente al 3 % de los PS actuales del objetivo.",
+    "Id": 3005001
+  },
+  "3005101": {
+    "Content": "Cada vez que se activa Granito, el ataque rocoso aumenta permanentemente en 2 puntos.",
+    "Id": 3005101
+  },
+  "3005201": {
+    "Content": "Contrachoque inflige daño de bonus equivalente al 0.1 % de los PS actuales del objetivo.",
+    "Id": 3005201
+  },
+  "3005301": {
+    "Content": "Cada vez que se activa Contrachoque, el ataque rocoso aumenta permanentemente en 2 puntos.",
+    "Id": 3005301
+  },
+  "3005401": {
+    "Content": "Lanzar Rapsodia de la Flama aumenta permanentemente el ataque ígneo en 2 puntos cada vez.",
+    "Id": 3005401
+  },
+  "3005501": {
+    "Content": "La VEL de ATQ aumenta un 60 % mientras se está en Rapsodia de la Flama.",
+    "Id": 3005501
+  },
+  "3005601": {
+    "Content": "El DÑO de atributo de temporada aumenta un 50 %. Cuando Melodía Heroica está activa, Rapsodia de la Flama estará activa.",
+    "Id": 3005601
+  },
+  "3005701": {
+    "Content": "Durante 10 s tras lanzar una definitiva, toda la pasión escénica se recuperará cada segundo.",
+    "Id": 3005701
+  },
+  "3005801": {
+    "Content": "Furia Pasional dispara 2 proyectiles adicionales. El bonus elemental también aumenta un 500 %.",
+    "Id": 3005801
+  },
+  "3005901": {
+    "Content": "Lanzar Bis invoca un sistema de sonido frente al lanzador que dura 15 s.",
+    "Id": 3005901
+  },
+  "3006001": {
+    "Content": "Crescendo Quíntuple ya no consume pasión escénica. Lanzar un ataque especial reduce los TdR de Crescendo Quíntuple y de la definitiva modificada en 1 s.",
+    "Id": 3006001
+  },
+  "3006101": {
+    "Content": "Aumenta permanentemente el intelecto en 1 punto cada vez que Melodía Curativa inflige daño.",
+    "Id": 3006101
+  },
+  "3006201": {
+    "Content": "Cada 1 % de suerte proporciona una probabilidad del 0.2 % (fase 1) / 0.1 % (fase 2) / 0.05 % (fase 3) de activar Corte de Llama Amorfa.",
+    "Id": 3006201
+  },
+  "3006301": {
+    "Content": "Durante 5 s tras lanzar Asalto Ardiente, aumenta la probabilidad de crítico un 100 % y el DÑO crítico un 30 %.",
+    "Id": 3006301
+  },
+  "3006401": {
+    "Content": "La quemadura puede activar Corte de Llama Amorfa, pero la probabilidad de activación se reduce a la mitad.",
+    "Id": 3006401
+  },
+  "3006501": {
+    "Content": "Aumenta el DÑO final de Corte de Llama Amorfa un 40 %, más un 20 % adicional al golpear a un objetivo con quemadura.",
+    "Id": 3006501
+  },
+  "3006601": {
+    "Content": "Cuando Meteoro Desatado o Caída de Fuego Infernal golpea al objetivo principal, otorga un bonus ígneo del 8 % durante 5 s. Se acumula hasta 3 veces.",
+    "Id": 3006601
+  },
+  "3006701": {
+    "Content": "Corte de Esplendor Fluido inflige daño de bonus equivalente al 0.1 % de los PS actuales del objetivo.",
+    "Id": 3006701
+  },
+  "3006801": {
+    "Content": "Durante Fuego Infernal Infinito, se duplica el DÑO crítico.",
+    "Id": 3006801
+  },
+  "3006901": {
+    "Content": "Cuando Danza de Fuego Salvaje golpea al objetivo principal, hay un 50 % de probabilidad de reducir el TdR de Fuego Infernal Infinito en 0.5 s.",
+    "Id": 3006901
+  },
+  "500101": {
+    "Content": "<style=\"emph-gn\">Aumento FÍS</style><style=\"accent-gn\"> +40 %</style>",
+    "Id": 500101
+  },
+  "500201": {
+    "Content": "<style=\"emph-gn\">Aumento MÁG</style><style=\"accent-gn\"> +40 %</style>",
+    "Id": 500201
+  },
+  "500301": {
+    "Content": "Al usar una definitiva, el <style=\"emph-gn\">TdR</style> de todas las habilidades se acelera un <style=\"accent-gn\">100 %</style>, y la velocidad de recuperación de los <style=\"emph-gn\">recursos de combate</style> aumenta en un <style=\"accent-gn\">100 %</style> durante <style=\"accent-gn\">20 s</style>.",
+    "Id": 500301
+  },
+  "500401": {
+    "Content": "El ATQ del usuario y los aliados en un radio de <style=\"accent-gn\">10 m</style> aumenta en un <style=\"accent-gn\">5 %</style>.<br>Por cada tipo de <style=\"emph-gn\">rol</style> presente en el área, este bonus aumenta en un <style=\"accent-gn\">5 %</style> (hasta el <style=\"accent-gn\">20 %</style>).",
+    "Id": 500401
+  },
+  "500501": {
+    "Content": "Cada vez que se lanza una <style=\"emph-gn\">habilidad de pericia</style>, su DÑO y curación aumentan en un <style=\"accent-gn\">0.2 %</style>.<br>Se acumula hasta <style=\"accent-gn\">200</style> veces. Al tener el máximo de acumulaciones, otorga un <style=\"accent-gn\">20 %</style> de aumento al DÑO y la curación de la <style=\"emph-gn\">habilidad de pericia</style>.",
+    "Id": 500501
+  },
+  "500601": {
+    "Content": "Cada <style=\"emph-gn\">ataque especial</style> aumenta su DÑO y curación en un <style=\"accent-gn\">0.2 %</style>.<br>Se acumula hasta <style=\"accent-gn\">200</style> veces. Al tener el máximo de acumulaciones, otorga un <style=\"accent-gn\">20 %</style> de aumento al DÑO y la curación del <style=\"emph-gn\">ataque especial</style>.",
+    "Id": 500601
+  },
+  "500701": {
+    "Content": "<style=\"emph-gn\">Presteza</style><style=\"accent-gn\"> +20 %</style>. Se pierde un <style=\"accent-gn\">8 %</style> de PS por segundo al moverse en combate.",
+    "Id": 500701
+  },
+  "500801": {
+    "Content": "Reduce el TdR de la <style=\"emph-gn\">definitiva</style> en un <style=\"accent-gn\">1 %</style> por cada <style=\"accent-gn\">200</style> de presteza (hasta un <style=\"accent-gn\">50 %</style>).",
+    "Id": 500801
+  },
+  "500901": {
+    "Content": "Derrotar a un objetivo reduce el TdR restante de la <style=\"emph-gn\">habilidad de pericia</style> en un <style=\"accent-gn\">10 %</style>.",
+    "Id": 500901
+  },
+  "501001": {
+    "Content": "Los <style=\"emph-gn\">ataques especiales</style> reducen en <style=\"accent-gn\">0.5 s</style> el TdR restante de la <style=\"emph-gn\">habilidad de pericia</style>.",
+    "Id": 501001
+  },
+  "501101": {
+    "Content": "<style=\"emph-gn\">Derrotar</style> a un objetivo aumenta el <style=\"emph-gn\">DÑO crítico</style> en un <style=\"accent-gn\">10 %</style> durante <style=\"accent-gn\">5 s</style> (hasta el <style=\"accent-gn\">30 %</style>).",
+    "Id": 501101
+  },
+  "501201": {
+    "Content": "Al infligir daño a objetivos con más del <style=\"accent-gn\">80 %</style> de PS, <style=\"emph-gn\">DÑO crítico</style> <style=\"accent-gn\">+60 %</style>.",
+    "Id": 501201
+  },
+  "501301": {
+    "Content": "<style=\"emph-gn\">ATQ</style> <style=\"accent-gn\">+25 %</style>. Si los PS superan el <style=\"accent-gn\">30 %</style>, cada ataque consume un <style=\"accent-gn\">2.5 %</style> de PS.",
+    "Id": 501301
+  },
+  "501401": {
+    "Content": "Por cada <style=\"accent-gn\">1 %</style> de PS perdidos, se otorga un <style=\"accent-gn\">0.3 %</style> de <style=\"emph-gn\">ATQ</style>. Cada afijo de Ira Sangrienta otorga un aumento de ATQ del <style=\"accent-gn\">0.1 %</style>.",
+    "Id": 501401
+  },
+  "501501": {
+    "Content": "Asestar un <style=\"emph-gn\">golpe de suerte</style> activa <style=\"emph-gn\">Estallido de Sangre</style>, que inflige DÑO equivalente al </style>20 %<style=\"accent-gn\"> de los PS perdidos (TdR: <style=\"accent-gn\">1 s</style>).",
+    "Id": 501501
+  },
+  "501601": {
+    "Content": "Cuando los PS están por debajo del <style=\"accent-gn\">30 %</style>, se convierte un <style=\"accent-gn\">10 %</style> del <style=\"emph-gn\">DÑO infligido</style> en un <style=\"emph-gn\">escudo</style>. Se acumula hasta el <style=\"accent-gn\">100 %</style> de los PS máx.",
+    "Id": 501601
+  },
+  "501701": {
+    "Content": "Al estar <style=\"emph-gn\">cerca de la muerte</style>, se obtienen <style=\"accent-gn\">3 s</style> de <style=\"emph-gn\">Invencibilidad</style> y <style=\"emph-gn\">Aceleración</style> (TdR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 501701
+  },
+  "501801": {
+    "Content": "Los ataques activan <style=\"emph-gn\">Guerra Sangrienta</style>, que aumenta el <style=\"emph-gn\">ATQ</style> en un <style=\"accent-gn\">20 %</style> y evita la muerte durante <style=\"accent-gn\">3 s</style>.",
+    "Id": 501801
+  },
+  "501901": {
+    "Content": "<style=\"emph-gn\">ATQ</style><style=\"accent-gn\"> +25 %</style>, pero se recibe DÑO equivalente al <style=\"accent-gn\">1 %</style> de los <style=\"emph-gn\">PS máx.</style> por segundo.",
+    "Id": 501901
+  },
+  "502001": {
+    "Content": "Inflige DÑO de AdE equivalente al <style=\"accent-gn\">20 %</style> de los <style=\"emph-gn\">PS máx.</style> cada <style=\"accent-gn\">3 s</style>.",
+    "Id": 502001
+  },
+  "502101": {
+    "Content": "Otorga <style=\"emph-gn\">ATQ</style> equivalente al <style=\"accent-gn\">0.3 %</style> de los <style=\"emph-gn\">PS máx.</style>",
+    "Id": 502101
+  },
+  "502201": {
+    "Content": "Asestar un <style=\"emph-gn\">golpe de suerte</style> otorga un <style=\"emph-gn\">escudo</style> equivalente al <style=\"accent-gn\">20 %</style> de los <style=\"emph-gn\">PS máx.</style>",
+    "Id": 502201
+  },
+  "502301": {
+    "Content": "Al recibir un golpe, inflige DÑO de AdE equivalente al <style=\"accent-gn\">10 %</style> de los <style=\"emph-gn\">PS máx.</style>",
+    "Id": 502301
+  },
+  "502401": {
+    "Content": "Al recibir un golpe, reduce el <style=\"emph-gn\">TdR</style> restante de todas las habilidades en <style=\"accent-gn\">1 s</style>.",
+    "Id": 502401
+  },
+  "502501": {
+    "Content": "<style=\"emph-gn\">PS máx.</style><style=\"accent-gn\"> +100 %</style>, pero se recibe DÑO por segundo equivalente al <style=\"accent-gn\">1 %</style> de los <style=\"emph-gn\">PS máx.</style>.",
+    "Id": 502501
+  },
+  "502601": {
+    "Content": "Al infligir daño con habilidades de clase, los ataques infligen un bonus de DÑO equivalente al <style=\"accent-gn\">0.2 %</style> de los <style=\"emph-gn\">PS actuales</style> del enemigo.",
+    "Id": 502601
+  },
+  "502701": {
+    "Content": "Cada <style=\"emph-gn\">afijo de maldición</style> activo otorga un aumento de <style=\"emph-gn\">armadura</style> del <style=\"accent-gn\">10 %</style>.",
+    "Id": 502701
+  },
+  "502801": {
+    "Content": "Aumenta la <style=\"emph-gn\">armadura</style> en un <style=\"accent-gn\">3 %</style> de los <style=\"emph-gn\">PS máx.</style>",
+    "Id": 502801
+  },
+  "502901": {
+    "Content": "Al recibir un golpe, refleja DÑO de AdE equivalente al <style=\"accent-gn\">400 %</style> de la <style=\"emph-gn\">armadura</style>.",
+    "Id": 502901
+  },
+  "503001": {
+    "Content": "Reduce considerablemente el daño de las habilidades de clase y el daño de Golpe de suerte. Acumula un porcentaje de la curación que te proporcionan a ti y a tus aliados las habilidades de clase. La próxima vez que infligas daño, se activará un daño de área de efecto sobre el objetivo equivalente a la cantidad acumulada (la curación que recibes tú se acumula a un ritmo mayor; este efecto puede activarse como máximo una vez <style=\"accent-gn\">per second</style>).",
+    "Id": 503001
+  },
+  "503101": {
+    "Content": "Cada <style=\"accent-gn\">10</style> <style=\"emph-gn\">ataques especiales</style>, aumenta permanentemente la <style=\"emph-gn\">cantidad de curación</style> en un <style=\"accent-gn\">1 %</style> (hasta un <style=\"accent-gn\">30 %</style>).",
+    "Id": 503101
+  },
+  "503201": {
+    "Content": "Los aliados en un radio de 10 m obtienen un <style=\"emph-gn\">escudo</style> equivalente al <style=\"accent-gn\">20 %</style> de sus <style=\"emph-gn\">PS máx.</style> cada <style=\"accent-gn\">10 s</style>.",
+    "Id": 503201
+  },
+  "503301": {
+    "Content": "Aumenta en un <style=\"accent-gn\">10 %</style> la <style=\"emph-gn\">vulnerabilidad</style> de los enemigos en un radio de 10 m.",
+    "Id": 503301
+  },
+  "503401": {
+    "Content": "Cada <style=\"accent-gn\">5 s</style>, <style=\"emph-gn\">aturde</style> a los enemigos en un radio de 10 m durante <style=\"accent-gn\">1 s</style>.",
+    "Id": 503401
+  },
+  "503501": {
+    "Content": "Asestar un <style=\"emph-gn\">golpe de suerte</style> activa <style=\"emph-gn\">Golpe de Rayo</style>, que inflige <style=\"emph-gn\">DÑO</style> equivalente al <style=\"accent-gn\">45 %</style> del ATQ (TdR: <style=\"accent-gn\">1 s</style>).",
+    "Id": 503501
+  },
+  "503601": {
+    "Content": "Asestar un <style=\"emph-gn\">golpe de suerte</style> activa <style=\"emph-gn\">Tormenta Afilada</style>, que inflige <style=\"emph-gn\">DÑO</style> equivalente al <style=\"accent-gn\">45 %</style> del ATQ (TdR: <style=\"accent-gn\">1 s</style>).",
+    "Id": 503601
+  },
+  "503701": {
+    "Content": "Asestar un <style=\"emph-gn\">golpe de suerte</style> activa <style=\"emph-gn\">Explosión de Bola de Fuego</style>, que inflige <style=\"emph-gn\">DÑO</style> equivalente al <style=\"accent-gn\">45 %</style> del ATQ (TdR: <style=\"accent-gn\">1 s</style>).",
+    "Id": 503701
+  },
+  "503801": {
+    "Content": "Asestar un <style=\"emph-gn\">golpe de suerte</style> activa <style=\"emph-gn\">Cadena de Rayos</style>, que inflige DÑO equivalente al <style=\"accent-gn\">1 %</style> de los <style=\"emph-gn\">PS máx.</style> (TdR: <style=\"accent-gn\">1 s</style>).",
+    "Id": 503801
+  },
+  "503901": {
+    "Content": "<style=\"emph-gn\">Tasa de críticos</style><style=\"accent-gn\"> +30 %</style>. Por cada <style=\"accent-gn\">2 %</style> de tasa de críticos permanente que supere el <style=\"accent-gn\">50 %</style>, se convierte en un <style=\"accent-gn\">1 %</style> del <style=\"emph-gn\">DÑO crítico</style> (hasta un <style=\"accent-gn\">50 %</style>).",
+    "Id": 503901
+  },
+  "504001": {
+    "Content": "Duplica el <style=\"emph-gn\">DÑO crítico</style>.",
+    "Id": 504001
+  },
+  "504101": {
+    "Content": "Al asestar un golpe crítico, inflige DÑO de AdE adicional equivalente al <style=\"accent-gn\">200 %</style> del ATQ en la ubicación del objetivo (TdR: <style=\"accent-gn\">1 s</style>). Se garantiza que este DÑO de AdE será un golpe crítico. Por cada afijo de \"Brutalidad\" que se posea, el DÑO final de este daño <style=\"accent-gn\">+50 %</style>.",
+    "Id": 504101
+  },
+  "504201": {
+    "Content": "Los golpes críticos reducen el TdR de todas las habilidades en <style=\"accent-gn\">0.5 s</style> (se activa como máximo una vez cada <style=\"accent-gn\">1 s</style>).",
+    "Id": 504201
+  },
+  "504301": {
+    "Content": "Otorga 1 acumulación de Sello de la Parca con cada golpe crítico. Al alcanzar <style=\"accent-gn\">20</style> acumulaciones, el <style=\"emph-gn\">DÑO crítico</style> aumenta en un <style=\"accent-gn\">30 %</style> durante <style=\"accent-gn\">5 s</style>.",
+    "Id": 504301
+  },
+  "504401": {
+    "Content": "<style=\"emph-gn\">Crítico</style> de las habilidades de pericia <style=\"accent-gn\">+50 %</style>.",
+    "Id": 504401
+  },
+  "504501": {
+    "Content": "<style=\"emph-gn\">Crítico</style> de los ataques especiales <style=\"accent-gn\">+50 %</style>.",
+    "Id": 504501
+  },
+  "504601": {
+    "Content": "Los golpes críticos restauran el <style=\"accent-gn\">1 %</style> de los PS (TdR: <style=\"accent-gn\">0.1 s</style>).",
+    "Id": 504601
+  },
+  "504701": {
+    "Content": "Cuando el daño infligido no es un golpe crítico, la <style=\"emph-gn\">tasa de críticos</style> aumenta en un <style=\"accent-gn\">50 %</style> hasta el siguiente golpe crítico.",
+    "Id": 504701
+  },
+  "504801": {
+    "Content": "Durante los <style=\"accent-gn\">15 s</style> posteriores a usar una habilidad definitiva, se garantiza que todo el daño será un golpe crítico.",
+    "Id": 504801
+  },
+  "504901": {
+    "Content": "Al recibir curación, la <style=\"emph-gn\">tasa de críticos</style> aumenta en un <style=\"accent-gn\">20 %</style> durante <style=\"accent-gn\">5 s</style>.",
+    "Id": 504901
+  },
+  "505001": {
+    "Content": "Por cada enemigo derrotado, la <style=\"emph-gn\">tasa de críticos</style> aumenta en un <style=\"accent-gn\">0.3 %</style> (hasta <style=\"accent-gn\">100</style> acumulaciones).",
+    "Id": 505001
+  },
+  "505101": {
+    "Content": "<style=\"emph-gn\">Crítico</style> de la habilidad definitiva <style=\"accent-gn\">+50 %</style>.",
+    "Id": 505101
+  },
+  "505201": {
+    "Content": "Al asestar un golpe crítico, inflige DÑO de AdE adicional equivalente al <style=\"accent-gn\">200 %</style> del ATQ en la ubicación del objetivo (TdR: <style=\"accent-gn\">1 s</style>). Se garantiza que este DÑO de AdE será un golpe de suerte.",
+    "Id": 505201
+  },
+  "505301": {
+    "Content": "Los golpes críticos aumentan el <style=\"emph-gn\">daño elemental</style> en un <style=\"accent-gn\">1 %</style> durante <style=\"accent-gn\">5 s</style> (hasta <style=\"accent-gn\">15</style> acumulaciones).",
+    "Id": 505301
+  },
+  "505401": {
+    "Content": "Los críticos aumentan la <style=\"emph-gn\">VEL de ATQ</style> en un <style=\"accent-gn\">1 %</style> y la <style=\"emph-gn\">VEL de lanzamiento</style> en un <style=\"accent-gn\">2 %</style> (hasta <style=\"accent-gn\">15</style> acumulaciones).",
+    "Id": 505401
+  },
+  "505501": {
+    "Content": "Al entrar en combate, el primer crítico aumenta el <style=\"emph-gn\">DÑO crítico</style> en un <style=\"accent-gn\">500 %</style>.",
+    "Id": 505501
+  },
+  "505601": {
+    "Content": "Cada <style=\"accent-gn\">3</style> críticos, el <style=\"emph-gn\">DÑO crítico</style> del siguiente aumenta un <style=\"accent-gn\">50 %</style> y se reinicia el contador.",
+    "Id": 505601
+  },
+  "505701": {
+    "Content": "<style=\"emph-gn\">DÑO crítico</style><style=\"accent-gn\"> +20 %</style>.",
+    "Id": 505701
+  },
+  "505801": {
+    "Content": "<style=\"emph-gn\">Crítico</style> <style=\"accent-gn\">+10 %</style>.",
+    "Id": 505801
+  },
+  "505901": {
+    "Content": "Los críticos de los ataques especiales invocan un imagine de batalla de líder muku (TdR: <style=\"accent-gn\">15 s</style>).",
+    "Id": 505901
+  },
+  "506001": {
+    "Content": "Efecto de suerte: Inflige DÑO de AdE equivalente al <style=\"accent-gn\">200 %</style> del ATQ en la ubicación del objetivo (TdR: <style=\"accent-gn\">0.5 s</style>). Por cada afijo de \"Suerte\", el DÑO final de este daño aumenta en un <style=\"accent-gn\">50 %</style>.",
+    "Id": 506001
+  },
+  "506101": {
+    "Content": "Aumenta el <style=\"emph-gn\">DÑO de efecto de suerte</style> en un <style=\"accent-gn\">30 %</style>. Por cada afijo de \"Suerte\", inflige un <style=\"accent-gn\">8 %</style> de bonus de DÑO.",
+    "Id": 506101
+  },
+  "506201": {
+    "Content": "Al entrar en combate, la <style=\"emph-gn\">suerte</style> aumenta en un <style=\"accent-gn\">5 %</style> cada <style=\"accent-gn\">1 s</style> (hasta <style=\"accent-gn\">20</style> acumulaciones).",
+    "Id": 506201
+  },
+  "506301": {
+    "Content": "Efecto de suerte: Otorga un <style=\"emph-gn\">escudo</style> equivalente al <style=\"accent-gn\">20 %</style> de los <style=\"emph-gn\">PS máx.</style> durante <style=\"accent-gn\">2 s</style>.",
+    "Id": 506301
+  },
+  "506401": {
+    "Content": "Cada <style=\"accent-gn\">50</style> golpes de suerte al objetivo principal, aumenta la <style=\"emph-gn\">velocidad de recuperación de TdR</style> de todas las habilidades en un <style=\"accent-gn\">100 %</style> durante <style=\"accent-gn\">15 s</style> (se pausa mientras está activo).",
+    "Id": 506401
+  },
+  "506501": {
+    "Content": "Durante los primeros <style=\"accent-gn\">30 s</style> tras entrar en combate, se garantiza que todo el daño infligido activa un golpe de suerte.",
+    "Id": 506501
+  },
+  "506601": {
+    "Content": "Cuando un golpe de suerte se activa al infligir daño o al curar, el <style=\"emph-gn\">ATQ</style> del siguiente golpe de suerte aumenta en un <style=\"accent-gn\">+40 %</style>.",
+    "Id": 506601
+  },
+  "506701": {
+    "Content": "El golpe de suerte siempre es un <style=\"emph-gn\">crítico</style>.",
+    "Id": 506701
+  },
+  "506801": {
+    "Content": "Cuando un golpe de suerte se activa al infligir daño o al curar, el <style=\"emph-gn\">daño elemental</style> aumenta en un <style=\"accent-gn\">1 %</style> durante <style=\"accent-gn\">5 s</style> (hasta <style=\"accent-gn\">15</style> acumulaciones).",
+    "Id": 506801
+  },
+  "506901": {
+    "Content": "Cuando un golpe de suerte se activa al infligir daño o al curar, la <style=\"emph-gn\">VEL de ATQ</style> aumenta en un <style=\"accent-gn\">1 %</style> y la <style=\"emph-gn\">VEL de lanzamiento</style> en un <style=\"accent-gn\">2 %</style> (hasta <style=\"accent-gn\">15</style> acumulaciones).",
+    "Id": 506901
+  },
+  "507001": {
+    "Content": "Por cada enemigo derrotado, la <style=\"emph-gn\">suerte</style><style=\"accent-gn\"> aumenta en un 0.3 %</style> (hasta <style=\"accent-gn\">100</style> acumulaciones).",
+    "Id": 507001
+  },
+  "507101": {
+    "Content": "Cada <style=\"accent-gn\">15 s</style>, el <style=\"emph-gn\">daño de golpe de suerte</style> aumenta en un <style=\"accent-gn\">40 %</style> durante <style=\"accent-gn\">8 s</style>.",
+    "Id": 507101
+  },
+  "507201": {
+    "Content": "<style=\"emph-gn\">Daño de golpe de suerte</style> <style=\"accent-gn\">+20 %</style>.",
+    "Id": 507201
+  },
+  "507301": {
+    "Content": "<style=\"emph-gn\">Suerte</style> <style=\"accent-gn\">+10 %</style>.",
+    "Id": 507301
+  },
+  "507401": {
+    "Content": "Cuando infligir daño activa un golpe de suerte, invoca un rey goblin ventoso que ayuda al aventurero en el combate (TdR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 507401
+  },
+  "507501": {
+    "Content": "Cuando una habilidad definitiva activa un golpe de suerte, invoca un reptiliano cazador (TdR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 507501
+  },
+  "507601": {
+    "Content": "Reduce el <style=\"emph-gn\">TdR</style> del imagine de batalla en un <style=\"accent-gn\">80 %</style>.",
+    "Id": 507601
+  },
+  "507701": {
+    "Content": "El <style=\"emph-gn\">daño</style> del imagine de batalla aumenta en un <style=\"accent-gn\">200 %</style>.",
+    "Id": 507701
+  },
+  "507801": {
+    "Content": "El daño infligido por el imagine de batalla tiene garantía de golpe crítico y el <style=\"emph-gn\">DÑO crítico</style> aumenta en un <style=\"accent-gn\">50 %</style>.",
+    "Id": 507801
+  },
+  "507901": {
+    "Content": "El imagine de batalla obtiene un bonus de <style=\"emph-gn\">daño elemental</style> del <style=\"accent-gn\">100 %</style>.",
+    "Id": 507901
+  },
+  "508001": {
+    "Content": "<style=\"emph-gn\">Crítico</style> del imagine de batalla <style=\"accent-gn\">+80 %</style>.",
+    "Id": 508001
+  },
+  "508101": {
+    "Content": "Por cada imagine de batalla usado, el <style=\"emph-gn\">ATQ</style> aumenta permanentemente en un <style=\"accent-gn\">0.5 %</style> (hasta <style=\"accent-gn\">60 acumulaciones</style>).",
+    "Id": 508101
+  },
+  "508201": {
+    "Content": "Daño final infligido <style=\"accent-gn\">-40 %</style>. Daño final infligido por el imagine de batalla <style=\"accent-gn\">+40 %</style>.",
+    "Id": 508201
+  },
+  "508301": {
+    "Content": "El imagine de batalla cura al aventurero el <style=\"accent-gn\">5 %</style> del daño infligido.",
+    "Id": 508301
+  },
+  "508401": {
+    "Content": "<style=\"emph-gn\">Crítico</style> del imagine de batalla <style=\"accent-gn\">+20 %</style>.",
+    "Id": 508401
+  },
+  "508501": {
+    "Content": "Los ataques especiales invocan aleatoriamente un <style=\"emph-gn\">imagine de goblin</style> (TdR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 508501
+  },
+  "508601": {
+    "Content": "Las habilidades de pericia invocan aleatoriamente un <style=\"emph-gn\">imagine de animal</style> (TdR: <style=\"accent-gn\">20 s</style>).",
+    "Id": 508601
+  },
+  "508701": {
+    "Content": "Al usar un imagine de batalla, se invoca simultáneamente un <style=\"emph-gn\">imagine de goblin ballestero</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 508701
+  },
+  "508801": {
+    "Content": "Las habilidades definitivas invocan aleatoriamente un <style=\"emph-gn\">imagine de personaje de terraltas</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 508801
+  },
+  "508901": {
+    "Content": "Por cada ventaja de imagine de batalla activa, el <style=\"emph-gn\">daño</style> aumenta en un <style=\"accent-gn\">4 %</style> y el <style=\"emph-gn\">DÑO recibido</style> se reduce en un <style=\"accent-gn\">2 %</style>.",
+    "Id": 508901
+  },
+  "509001": {
+    "Content": "Las habilidades definitivas invocan simultáneamente un <style=\"emph-gn\">imagine de muku guerrero</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 509001
+  },
+  "509101": {
+    "Content": "Cuando los PS están por debajo del <style=\"accent-gn\">50 %</style>, invoca un <style=\"emph-gn\">imagine de rey muku</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 509101
+  },
+  "509201": {
+    "Content": "Invoca automáticamente un <style=\"emph-gn\">imagine de Tina</style> cada <style=\"accent-gn\">60 s</style>.",
+    "Id": 509201
+  },
+  "509301": {
+    "Content": "Al entrar en combate, invoca de inmediato un <style=\"emph-gn\">imagine de ogro tempestivo</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 509301
+  },
+  "509401": {
+    "Content": "Cuando el daño o la curación activan un golpe de suerte, invoca al azar un <style=\"emph-gn\">imagine de la suerte</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 509401
+  },
+  "509501": {
+    "Content": "<style=\"emph-gn\">Suerte</style> del imagine de batalla <style=\"accent-gn\">+40 %</style>.",
+    "Id": 509501
+  },
+  "509601": {
+    "Content": "Cuando las habilidades de clase infligen daño, restaura un <style=\"accent-gn\">1 %</style> de PS al personaje y a los aliados cercanos y otorga un bonus de <style=\"emph-gn\">ATQ</style> del <style=\"accent-gn\">15 %</style> durante <style=\"accent-gn\">3 s</style> (TdR: <style=\"accent-gn\">0.3</style> s).",
+    "Id": 509601
+  },
+  "509701": {
+    "Content": "Cuando el daño elemental cambia, los aliados cercanos obtienen un <style=\"accent-gn\">20 %</style> de <style=\"emph-gn\">daño elemental</style> durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 509701
+  },
+  "509801": {
+    "Content": "Cuando cambian <style=\"emph-gn\">crítico, suerte, presteza, maestría o versatilidad</style>, los aliados cercanos obtienen un aumento del <style=\"accent-gn\">10 %</style> del atributo correspondiente durante <style=\"accent-gn\">10 s</style>.",
+    "Id": 509801
+  },
+  "509901": {
+    "Content": "Por cada aliado en un radio de 15 m, el <style=\"emph-gn\">daño</style> aumenta en un <style=\"accent-gn\">8 %</style> y el <style=\"emph-gn\">DÑO recibido</style> se reduce en un <style=\"accent-gn\">4 %</style>.",
+    "Id": 509901
+  },
+  "510001": {
+    "Content": "La curación otorga al objetivo un <style=\"accent-gn\">10 %</style> de <style=\"emph-gn\">aumento FÍS</style> y <style=\"emph-gn\">aumento MÁG</style> durante <style=\"accent-gn\">3 s</style>.",
+    "Id": 510001
+  },
+  "510101": {
+    "Content": "Las habilidades definitivas otorgan un Aura de Recursos durante <style=\"accent-gn\">15 s</style>que aumenta la <style=\"emph-gn\">eficacia de obtención de recursos de combate</style> de los aliados cercanos en un <style=\"accent-gn\">+100 %</style> (solo puede haber un efecto activo a la vez).",
+    "Id": 510101
+  },
+  "510201": {
+    "Content": "La curación otorga al objetivo un <style=\"accent-gn\">10 %</style><style=\"emph-gn\"> de reducción de DÑO</style> durante <style=\"accent-gn\">3 s</style>.",
+    "Id": 510201
+  },
+  "510301": {
+    "Content": "Reduce el daño infligido por los enemigos en un radio de 10 m en un <style=\"accent-gn\">10 %</style>.",
+    "Id": 510301
+  },
+  "510401": {
+    "Content": "La curación otorga un <style=\"emph-gn\">escudo</style> equivalente al <style=\"accent-gn\">20 %</style> de los <style=\"emph-gn\">PS máx.</style> durante <style=\"accent-gn\">10 s</style>. Cada objetivo solo puede recibir este escudo una vez cada <style=\"accent-gn\">10 s</style>.",
+    "Id": 510401
+  },
+  "510501": {
+    "Content": "<style=\"emph-gn\">Aumenta la curación en un</style><style=\"accent-gn\"> 15 %</style>.",
+    "Id": 510501
+  },
+  "510601": {
+    "Content": "<style=\"emph-gn\">Mejora la efectividad del escudo en un</style> <style=\"accent-gn\">15 %</style>.",
+    "Id": 510601
+  },
+  "510701": {
+    "Content": "Convierte el <style=\"accent-gn\">10 %</style> de <style=\"emph-gn\">curación</style> en un <style=\"accent-gn\">5 %</style> de <style=\"emph-gn\">bonus multielemental</style>.",
+    "Id": 510701
+  },
+  "510801": {
+    "Content": "Tras lanzar una definitiva, crea un Aura Curativa que dura <style=\"accent-gn\">10 s</style>. Cada segundo, cura a los aliados en un radio de 15 m por una cantidad equivalente al <style=\"accent-gn\">100 %</style> del ATQ. (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 510801
+  },
+  "510901": {
+    "Content": "Al lanzar una habilidad de pericia, otorga un Aura de Suerte durante <style=\"accent-gn\">10 s</style>, que aplica el efecto pasivo del <style=\"emph-gn\">imagine de reptiliano cazador</style> a los aliados en un radio de 15 m (TdR: <style=\"accent-gn\">30 s</style>; este efecto no se acumula).",
+    "Id": 510901
+  },
+  "511001": {
+    "Content": "Tras usar un ataque especial, crea un Aura Crítica que dura <style=\"accent-gn\">5 s</style> y aumenta el <style=\"emph-gn\">DÑO crítico</style> de los aliados en un radio de 15 m en un <style=\"accent-gn\">+3 %</style>.",
+    "Id": 511001
+  },
+  "511101": {
+    "Content": "La curación con habilidades de clase acumula daño. Cuando este daño acumulado alcanza el <style=\"accent-gn\">10,000 %</style> del ATQ, el siguiente ataque que inflija daño también activará una explosión con AdE que inflige una cantidad daño equivalente a la acumulada (se activa como máximo una vez cada <style=\"accent-gn\">1 s</style>).",
+    "Id": 511101
+  },
+  "511201": {
+    "Content": "Cada segundo, inflige daño a un objetivo aleatorio cercano. El daño infligido equivale a la <style=\"emph-gn\">cantidad de curación</style> realizada con habilidades de clase durante este periodo.",
+    "Id": 511201
+  },
+  "511301": {
+    "Content": "Al aplicar curación, invoca un <style=\"emph-gn\">imagine de basilisco</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 511301
+  },
+  "511401": {
+    "Content": "Al aplicar curación, invoca un <style=\"emph-gn\">imagine de forajido mayor</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 511401
+  },
+  "511501": {
+    "Content": "Al aplicar curación, invoca un <style=\"emph-gn\">imagine de colmena</style> (TdR: <style=\"accent-gn\">30 s</style>).",
+    "Id": 511501
+  },
+  "611601": {
+    "Content": "Después de cada batalla, <style=\"emph-gn\">maestría</style> +3 %<br>Inflige <style=\"emph-gn\">DÑO equivalente al 100 % de tu ATQ-M</style> por segundo a los enemigos cercanos y añade <style=\"emph-gn\">DÑO extra equivalente al 100 % de tu curación</style> durante el último segundo.",
+    "Id": 611601
+  },
+  "611701": {
+    "Content": "Después de cada batalla, <style=\"emph-gn\">Versatilidad</style> +3 %.<br>Al golpear, inflige DÑO de AdE adicional equivalente al 1500 % de la <style=\"emph-gn\">Armadura</style> a los objetivos en un radio de 5 m (se activa como máximo una vez por segundo).",
+    "Id": 611701
+  },
+  "611801": {
+    "Content": "Después de cada batalla, <style=\"emph-gn\">Presteza</style> +3 %.<br>Los ataques tienen una probabilidad de activar DÑO doble según el porcentaje total de Presteza.",
+    "Id": 611801
+  },
+  "611901": {
+    "Content": "Los golpes de suerte pueden activar <style=\"emph-gn\">Aguijón Venenoso, Disparo Frenético, Supresión de Trueno, Hacha Llameante o Lluvia Meteórica</style>.<br>Después de cada batalla, la probabilidad de suerte aumenta un 3 %. El bonus de DÑO por suerte aumenta según la probabilidad de suerte actual.",
+    "Id": 611901
+  },
+  "612001": {
+    "Content": "Después de cada batalla, <style=\"emph-gn\">tasa de críticos</style> +3 %.<br>Toda la tasa de críticos por encima del 50 % se convierte en el doble de DÑO crítico.",
+    "Id": 612001
+  },
+  "612101": {
+    "Content": "Invoca fuego anímico que inflige un DÑO por segundo equivalente al <style=\"emph-gn\">10 % de los PS máx.</style>",
+    "Id": 612101
+  },
+  "612201": {
+    "Content": "Invoca una esfera de trueno que se expande al avanzar y explota con una potencia proporcional a su tamaño.",
+    "Id": 612201
+  },
+  "612301": {
+    "Content": "Invoca un meteorito que golpea al objetivo e inflige DÑO equivalente a un porcentaje de los <style=\"emph-gn\">PS perdidos</style> más un porcentaje de los <style=\"emph-gn\">PS máx.</style>",
+    "Id": 612301
+  },
+  "612401": {
+    "Content": "Dispara llamas de alma que rebotan entre los enemigos, <style=\"emph-gn\">aumentando el bonus de DÑO</style> con cada rebote.",
+    "Id": 612401
+  },
+  "612501": {
+    "Content": "Mejora la siguiente habilidad y aumenta el <style=\"emph-gn\">ATQ</style>.",
+    "Id": 612501
+  },
+  "612601": {
+    "Content": "Otorga <style=\"emph-gn\">invencibilidad</style> breve y aumenta la <style=\"emph-gn\">VEL de ATQ</style> y la <style=\"emph-gn\">VEL de MOV</style> mientras dure el efecto.",
+    "Id": 612601
+  },
+  "612701": {
+    "Content": "Invoca un agujero negro que <style=\"emph-gn\">atrae a los enemigos</style> y les inflige Ralentización.",
+    "Id": 612701
+  },
+  "612801": {
+    "Content": "Lanza una cuchilla voladora que <style=\"emph-gn\">rebota en las paredes</style> durante su trayectoria.",
+    "Id": 612801
+  },
+  "612901": {
+    "Content": "Invoca una torreta que ataca a los enemigos.",
+    "Id": 612901
+  },
+  "613001": {
+    "Content": "Dispara un halo de luz que inflige DÑO equivalente a un porcentaje del valor total de tus atributos<br>(presteza, crítico, suerte, maestría).",
+    "Id": 613001
+  },
+  "613101": {
+    "Content": "Realiza tajos continuos entre grupos de enemigos mientras es invencible.",
+    "Id": 613101
+  },
+  "613201": {
+    "Content": "Invoca al <style=\"emph-gn\">tirador</style> kanamia para que ayude en la batalla.<br>La curación continua aumenta la duración del tirador.",
+    "Id": 613201
   }
 }

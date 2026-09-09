@@ -54450,5 +54450,665 @@
     },
     "TriggerRange": [],
     "Uid": 10007810
+  },
+  "10007845": {
+    "ActionStage": [["1000"], ["16", "4010100"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30422,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007845
+  },
+  "10007856": {
+    "ActionStage": [["1000"], ["11", "50292001"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 6010,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007856
+  },
+  "10007857": {
+    "ActionStage": [["1000"], ["11", "50292002"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 6010,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007857
+  },
+  "10007858": {
+    "ActionStage": [],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 6010,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007858
+  },
+  "10007859": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007859
+  },
+  "10007875": {
+    "ActionStage": [
+      ["1007", "999130", "1", "0", "0"],
+      ["1024", "999134"],
+      ["1024", "999132"],
+      ["1024", "999136"],
+      ["1024", "999133"],
+      ["1024", "999131"],
+      ["1037", "0", "5", "1"],
+      ["1014", "start"]
+    ],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 9300003,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007875
+  },
+  "10007876": {
+    "ActionStage": [
+      ["1007", "999134", "1", "0", "0"],
+      ["1007", "999132", "1", "0", "0"],
+      ["1007", "999136", "0", "0", "0"],
+      ["1024", "999130"],
+      ["1024", "999133"],
+      ["1024", "999131"],
+      ["1037", "2", "0", "0"]
+    ],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 9300004,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007876
+  },
+  "10007894": {
+    "ActionStage": [
+      ["1037", "0"],
+      ["1014", "bossbuff"]
+    ],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007894
+  },
+  "10007895": {
+    "ActionStage": [
+      ["1007", "999136", "1", "0", "0"],
+      ["1007", "999133", "1", "0", "0"],
+      ["1024", "999131"],
+      ["1024", "999134"],
+      ["1024", "999132"],
+      ["1024", "999130"],
+      ["1037", "0", "0", "1"]
+    ],
+    "Condition": [],
+    "Cooldown": 1,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007895
+  },
+  "10007896": {
+    "ActionStage": [
+      ["1037", "0"],
+      ["1014", "bossbuff"]
+    ],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007896
+  },
+  "10007897": {
+    "ActionStage": [
+      ["1037", "0"],
+      ["1014", "bossbuff"]
+    ],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007897
+  },
+  "10007898": {
+    "ActionStage": [["1037", "0", "0"]],
+    "Condition": [],
+    "Cooldown": 60,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 9300005,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [1.5],
+    "Uid": 10007898
+  },
+  "10007899": {
+    "ActionStage": [
+      ["1007", "999136", "1", "0", "0"],
+      ["1007", "999133", "1", "0", "0"],
+      ["1024", "999131"],
+      ["1024", "999134"],
+      ["1024", "999132"],
+      ["1024", "999130"],
+      ["1037", "0", "0", "1"]
+    ],
+    "Condition": [],
+    "Cooldown": 1,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [1.5],
+    "Uid": 10007899
+  },
+  "10007900": {
+    "ActionStage": [["1000"], ["11", "50297001"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007900
+  },
+  "10007907": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007907
+  },
+  "10007908": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007908
+  },
+  "10007909": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007909
+  },
+  "10007910": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007910
+  },
+  "10007911": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007911
+  },
+  "10007912": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007912
+  },
+  "10007913": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007913
+  },
+  "10007914": {
+    "ActionStage": [["1000"], ["1019", "50292013"]],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30421,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007914
+  },
+  "10007915": {
+    "ActionStage": [],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 6010,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007915
+  },
+  "10007916": {
+    "ActionStage": [],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30423,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007916
+  },
+  "10007917": {
+    "ActionStage": [],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 7103,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007917
+  },
+  "10007918": {
+    "ActionStage": [],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 30424,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007918
+  },
+  "10007919": {
+    "ActionStage": [],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 6010,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007919
+  },
+  "10007920": {
+    "ActionStage": [],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 1,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 1035,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007920
+  },
+  "10007921": {
+    "ActionStage": [["1014", "finish"]],
+    "Condition": [],
+    "Cooldown": 60,
+    "Id": 9300001,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [1.5],
+    "Uid": 10007921
+  },
+  "10007932": {
+    "ActionStage": [["1037", "2", "0"]],
+    "Condition": [],
+    "Cooldown": 3,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 9300002,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [2.0],
+    "Uid": 10007932
+  },
+  "10007933": {
+    "ActionStage": [
+      ["1007", "999136", "1", "0", "0"],
+      ["1007", "999133", "0", "0", "0"],
+      ["1024", "999131"],
+      ["1024", "999134"],
+      ["1024", "999132"],
+      ["1024", "999130"],
+      ["1037", "0", "0", "1"]
+    ],
+    "Condition": [],
+    "Cooldown": 1,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007933
+  },
+  "10007934": {
+    "ActionStage": [
+      ["1007", "999133", "1", "0", "0"],
+      ["1007", "999136", "1", "0", "0"],
+      ["1024", "999131"],
+      ["1024", "999134"],
+      ["1024", "999132"],
+      ["1024", "999130"],
+      ["1037", "0", "0", "1"]
+    ],
+    "Condition": [],
+    "Cooldown": 1,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 0,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007934
+  },
+  "10007935": {
+    "ActionStage": [
+      ["1007", "999131", "1", "0", "0"],
+      ["1024", "999134"],
+      ["1024", "999132"],
+      ["1024", "999136"],
+      ["1024", "999133"],
+      ["1024", "999130"],
+      ["1037", "2", "0", "0"]
+    ],
+    "Condition": [],
+    "Cooldown": 0,
+    "Id": 920106,
+    "PerformPosParam": [],
+    "PerformPosType": 0,
+    "ToServer": true,
+    "TriggerBtnId": 9300002,
+    "TriggerCondition": [],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "TriggerRange": [],
+    "Uid": 10007935
   }
 }

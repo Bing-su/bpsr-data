@@ -240,7 +240,7 @@
     "Id": 105901
   },
   "106001": {
-    "Content": "<style=\"emph-gn\">幸運効果ダメージ</style>+<style=\"accent-gn\">30%</style>。持っている「幸運」オプション1つにつき、追加で+<style=\"accent-gn\">8%</style>",
+    "Content": "<style=\"emph-gn\">幸運効果ダメージ</style>+<style=\"accent-gn\">30%</style>。自身の「幸運」オプション1つにつき、追加で+<style=\"accent-gn\">8%</style>",
     "Id": 106001
   },
   "106101": {
@@ -292,7 +292,7 @@
     "Id": 107201
   },
   "107301": {
-    "Content": "ダメージを与えて幸運の一撃が発生すると、風のキングゴブリンを召喚してアシストさせる（リキャスト<style=\"accent-gn\">20秒</style>）",
+    "Content": "ダメージを与えて幸運の一撃が発生すると、嵐のキングゴブリンを召喚してアシストさせる（リキャスト<style=\"accent-gn\">20秒</style>）",
     "Id": 107301
   },
   "107401": {
@@ -336,15 +336,15 @@
     "Id": 108301
   },
   "108401": {
-    "Content": "特殊攻撃を発動すると、<style=\"emph-gn\">ゴブリンのイマジン</style>をランダムで1体召喚する（リキャスト<style=\"accent-gn\">20秒</style>）",
+    "Content": "特殊攻撃を発動すると、<style=\"emph-gn\">ゴブリン系イマジン</style>をランダムで1体召喚する（リキャスト<style=\"accent-gn\">20秒</style>）",
     "Id": 108401
   },
   "108501": {
-    "Content": "マスタリースキルを発動すると、<style=\"emph-gn\">動物のイマジン</style>をランダムで1体召喚する（リキャスト<style=\"accent-gn\">20秒</style>）",
+    "Content": "マスタリースキルを発動すると、<style=\"emph-gn\">動物系イマジン</style>をランダムで1体召喚する（リキャスト<style=\"accent-gn\">20秒</style>）",
     "Id": 108501
   },
   "108601": {
-    "Content": "バトルイマジンを発動すると、<style=\"emph-gn\">ボウガンゴブリンのイマジン</style>をランダムで1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "バトルイマジンを発動すると、<style=\"emph-gn\">B-ボウガンゴブリン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 108601
   },
   "108701": {
@@ -356,23 +356,23 @@
     "Id": 108801
   },
   "108901": {
-    "Content": "究極スキルを発動すると、<style=\"emph-gn\">ムークウォーリアーのイマジン</style>を同時に1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "究極スキルを発動すると、<style=\"emph-gn\">B-ムークウォーリアー</style>を同時に1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 108901
   },
   "109001": {
-    "Content": "HPが<style=\"accent-gn\">50%</style>未満のとき、<style=\"emph-gn\">キングムークのイマジン</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "HPが<style=\"accent-gn\">50%</style>未満のとき、<style=\"emph-gn\">B-キングムーク</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 109001
   },
   "109101": {
-    "Content": "<style=\"accent-gn\">60秒</style>ごとに自動的に<style=\"emph-gn\">ティナのイマジン</style>を召喚する",
+    "Content": "<style=\"accent-gn\">60秒</style>ごとに自動的に<style=\"emph-gn\">B-ティナ</style>を召喚する",
     "Id": 109101
   },
   "109201": {
-    "Content": "戦闘開始時、直ちに<style=\"emph-gn\">サンダーオーガのイマジン</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "戦闘開始時、直ちに<style=\"emph-gn\">B-サンダーオーガ</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 109201
   },
   "109301": {
-    "Content": "ダメージまたは回復で幸運の一撃が発生したとき、ランダムで<style=\"emph-gn\">幸運のイマジン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "ダメージまたは回復で幸運の一撃が発生したとき、ランダムで<style=\"emph-gn\">幸運系イマジン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 109301
   },
   "109401": {
@@ -432,7 +432,7 @@
     "Id": 110701
   },
   "110801": {
-    "Content": "マスタリースキル発動時、<style=\"accent-gn\">10秒</style>持続する幸運オーラを獲得し、周囲15m以内の味方に<style=\"emph-gn\">ギルミーハンターのイマジン</style>のパッシブ効果を付与する（リキャスト<style=\"accent-gn\">30秒</style>、同時には1つのみ有効）。",
+    "Content": "マスタリースキル発動時、<style=\"accent-gn\">10秒</style>持続する幸運オーラを獲得し、周囲15m以内の味方に<style=\"emph-gn\">B-ギルミーハンター</style>のパッシブ効果を付与する（リキャスト<style=\"accent-gn\">30秒</style>、同時には1つのみ有効）。",
     "Id": 110801
   },
   "110901": {
@@ -448,15 +448,15 @@
     "Id": 111101
   },
   "111201": {
-    "Content": "回復を行ったとき、<style=\"emph-gn\">バジリスクのイマジン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "回復を行ったとき、<style=\"emph-gn\">B-バジリスク</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 111201
   },
   "111301": {
-    "Content": "回復を行ったとき、<style=\"emph-gn\">異国の山賊長ヒグマのイマジン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "回復を行ったとき、<style=\"emph-gn\">B-異国の山賊長ヒグマ</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 111301
   },
   "111401": {
-    "Content": "ダメージを受けたとき、ミーンの巣を1つ召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "ダメージを受けたとき、<style=\"emph-gn\">B-ミーン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 111401
   },
   "111501": {
@@ -1040,7 +1040,7 @@
     "Id": 125901
   },
   "126001": {
-    "Content": "<style=\"emph-gn\">パルスレイ</style>でダメージを与えたとき、<style=\"emph-gn\">フロストオーガのイマジン</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "<style=\"emph-gn\">パルスレイ</style>でダメージを与えたとき、<style=\"emph-gn\">B-フロストオーガ</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 126001
   },
   "126101": {
@@ -1064,7 +1064,7 @@
     "Id": 126501
   },
   "126601": {
-    "Content": "<style=\"emph-gn\">マスタリースキル</style>を発動したとき、<style=\"emph-gn\">プレデターのイマジン</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "<style=\"emph-gn\">マスタリースキル</style>を発動したとき、<style=\"emph-gn\">B-ゴーストカニクモ</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 126601
   },
   "126701": {
@@ -1080,7 +1080,7 @@
     "Id": 126901
   },
   "127001": {
-    "Content": "<style=\"emph-gn\">特殊攻撃</style>を発動したとき、<style=\"emph-gn\">ブラックランドフォックスのイマジン</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "<style=\"emph-gn\">特殊攻撃</style>を発動したとき、<style=\"emph-gn\">B-ブラックランドフォックス</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 127001
   },
   "127101": {
@@ -1104,7 +1104,7 @@
     "Id": 127501
   },
   "127601": {
-    "Content": "器用さが<style=\"accent-gn\">1%</style>上昇するごとに、受けるダメージ+<style=\"accent-gn\">0.3%</style>",
+    "Content": "器用さが<style=\"accent-gn\">1%</style>上昇するごとに、受けるダメージ-<style=\"accent-gn\">0.3%</style>",
     "Id": 127601
   },
   "127701": {
@@ -1164,7 +1164,7 @@
     "Id": 129001
   },
   "129101": {
-    "Content": "ダメージを受けたとき、<style=\"emph-gn\">デンヴェルのイマジン</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "ダメージを受けたとき、<style=\"emph-gn\">B-デンヴェル</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 129101
   },
   "129201": {
@@ -1224,7 +1224,7 @@
     "Id": 130501
   },
   "130601": {
-    "Content": "HPが変化したとき、自動で<style=\"emph-gn\">ガトグリフのイマジン</style>を召喚する（リキャスト<style=\"accent-gn\">60秒</style>）",
+    "Content": "HPが変化したとき、自動で<style=\"emph-gn\">B-ガトグリフ</style>を召喚する（リキャスト<style=\"accent-gn\">60秒</style>）",
     "Id": 130601
   },
   "130701": {
@@ -1232,7 +1232,7 @@
     "Id": 130701
   },
   "130801": {
-    "Content": "HPが<style=\"accent-gn\">50%</style>未満のとき、<style=\"emph-gn\">峠の牙のイマジン</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Content": "HPが<style=\"accent-gn\">50%</style>未満のとき、<style=\"emph-gn\">B-峠の牙</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
     "Id": 130801
   },
   "130901": {
@@ -1322,5 +1322,809 @@
   "133001": {
     "Content": "クリムゾンインパクトの三連撃が発動したとき、バーニングクロスのチャージを1スタック獲得する。すでにチャージが完了している場合は、バーニングクロスが自動で発動する<br><br>[ハード]および[ナイトメア]難易度でのみ出現",
     "Id": 133001
+  },
+  "3000101": {
+    "Content": "雷刃抜刀でダメージを与えると、必ず刃域を発動する。刃域の奥義・破刃連斬の残りリキャスト短縮効果+300%。刃域は同時に1つまで存在可能（刃域のアビリティ習得が必要）。",
+    "Id": 3000101
+  },
+  "3000201": {
+    "Content": "雷極一閃の会心ダメージが2倍になる。",
+    "Id": 3000201
+  },
+  "3000301": {
+    "Content": "墜竜閃発動時、瞬影斬が無窮雷陣の持続時間を10秒延長する。墜竜閃、瞬影斬のシーズンステータスダメージ+500%。",
+    "Id": 3000301
+  },
+  "3000401": {
+    "Content": "無窮雷陣の効果中に一閃、飛雷で会心が発生すると、一閃と飛雷のリキャストをリセットする。一閃、飛雷のシーズンステータスダメージ+50%。",
+    "Id": 3000401
+  },
+  "3000501": {
+    "Content": "審罰鎌のスタック上限+7。発動時にすべてのスタックを消費し、1スタックにつきシーズンステータスダメージ+15%。",
+    "Id": 3000501
+  },
+  "3000601": {
+    "Content": "月刃の上限+2",
+    "Id": 3000601
+  },
+  "3000701": {
+    "Content": "審罰鎌は自動発動し、発動のたびに千雷のリキャストを2秒短縮する。",
+    "Id": 3000701
+  },
+  "3000801": {
+    "Content": "幸運の一撃倍率+100%。幸運強化2倍。",
+    "Id": 3000801
+  },
+  "3000901": {
+    "Content": "氷冷波動でダメージを与えるたび（複数対象に命中しても1回のみカウント）、永続的に自身の氷属性攻撃力+2pt。",
+    "Id": 3000901
+  },
+  "3001001": {
+    "Content": "氷冷波動でダメージを与えると（複数対象に命中しても1回のみカウント）、氷矢のダメージ+5%。持続5秒、最大50スタックまで",
+    "Id": 3001001
+  },
+  "3001101": {
+    "Content": "フロストレイがメイン対象にダメージを10回与えるごとに、ウォータースパイア、ウォータートルネード、ウォータースフィア（装備が必要）をランダムに発動する。フロストレイのシーズンステータスダメージ+100%。",
+    "Id": 3001101
+  },
+  "3001201": {
+    "Content": "ウォータートルネードが凍結爆発すると、2つのウォータートルネードに分裂する（再分裂なし）。ウォータートルネードのシーズンステータスダメージ+200%。",
+    "Id": 3001201
+  },
+  "3001301": {
+    "Content": "ウォータースフィアが1.5秒ごとにランダムな対象1体に貫通氷槍を放つ（対象がいない場合は前方へ放つ）。貫通氷槍がダメージを与えると、ウォータースフィアのリキャスト-0.3秒。",
+    "Id": 3001301
+  },
+  "3001401": {
+    "Content": "アイススピア発動時、玄氷が3個以上ある場合は玄氷を追加で1個消費し、アイススピアを2回連続で召喚する。フロストファングのシーズンステータスダメージ+50%。",
+    "Id": 3001401
+  },
+  "3001501": {
+    "Content": "メテオストームを5回発動するごとに、究極スキルの隕石を召喚し、ブリザードを即時リキャストする。パーマフロストのリキャスト-5秒。究極スキルのシーズンステータスダメージ+200%。",
+    "Id": 3001501
+  },
+  "3001601": {
+    "Content": "自身が永続的に無尽極寒状態となり与ダメージが2倍になる。玄氷を1個保有するたび、攻撃速度+10%。",
+    "Id": 3001601
+  },
+  "3001701": {
+    "Content": "究極スキルに「群獣疾走」が付与される。自身の閃心をすべて消費して臣狼を召喚する。閃心20消費ごとに1体召喚、持続8秒。",
+    "Id": 3001701
+  },
+  "3001801": {
+    "Content": "臣獣の物理ダメージ強化+50%。",
+    "Id": 3001801
+  },
+  "3001901": {
+    "Content": "アローレインの攻撃倍率+10倍。マップの臣獣が3体を超えている場合、超過1体ごとに最終ダメージ+100%。",
+    "Id": 3001901
+  },
+  "3002001": {
+    "Content": "幻影魔狼が「野獣」として扱われるようになる。",
+    "Id": 3002001
+  },
+  "3002101": {
+    "Content": "ワイルドコールは臣鷹を2体召喚するようになる。",
+    "Id": 3002101
+  },
+  "3002201": {
+    "Content": "チャージショットが前方3方向に変わり、距離が近いほどダメージが大きくなる（最高+100%、最低+10%）。",
+    "Id": 3002201
+  },
+  "3002301": {
+    "Content": "チャージショットの属性ダメージ+100%。HP80%以上の対象へのシーズンステータスダメージ+500%。",
+    "Id": 3002301
+  },
+  "3002401": {
+    "Content": "リジェネイトパルスは対象に継続の茨を付与する。継続の茨および荒野の種は幸運の一撃を発動できる。",
+    "Id": 3002401
+  },
+  "3002501": {
+    "Content": "リジェネイトパルスが必ず会心になり、会心ダメージ+2000%。",
+    "Id": 3002501
+  },
+  "3002601": {
+    "Content": "インフュージョンが周囲の5体の対象に銃弾を追加発射する。インフュージョンのシーズンステータスダメージ+100%。",
+    "Id": 3002601
+  },
+  "3002701": {
+    "Content": "自動発動するスタッグチャージでもアビリティ効果が発動する。スタッグチャージが発動するたび、一定時間、マスタリースキルダメージおよび幸運の花棘+10%。10スタックまで",
+    "Id": 3002701
+  },
+  "3002801": {
+    "Content": "グローヴウィッシュの効果中、再生の蕾を継続して獲得し、グローヴウィッシュのリキャスト加速+100%。",
+    "Id": 3002801
+  },
+  "3002901": {
+    "Content": "究極スキル発動時、「ファストグロウス」を獲得する（ファストグロウスの装備が必要）。ブルームチャージを1回発動するごとに、究極スキルのリキャスト-1秒。",
+    "Id": 3002901
+  },
+  "3003001": {
+    "Content": "魔法ダメージ強化+50%、全クラススキルが30%加速。ただし究極スキルは発動できない。",
+    "Id": 3003001
+  },
+  "3003101": {
+    "Content": "リジェネレーションの持続ダメージが3スタックに達すると、対象に【生命侵食】を付与する。【生命侵食】：5秒間、毎秒魔法攻撃力×（器用さ×20）のダメージを与える。ダメージを与えるたび、全マスタリースキルのリキャスト-1秒。",
+    "Id": 3003101
+  },
+  "3003201": {
+    "Content": "ウィンドリングのシーズンステータスダメージ+50%、ループウィンドのシーズンステータスダメージ+100%。",
+    "Id": 3003201
+  },
+  "3003301": {
+    "Content": "ループウィンドが2連撃になる。ダメージを与えると永続的に自身の風属性攻撃力+2pt。",
+    "Id": 3003301
+  },
+  "3003401": {
+    "Content": "瞬影螺旋発動時に勇心をすべて消費し、勇心1につき瞬影螺旋のシーズンステータスダメージ+3%。",
+    "Id": 3003401
+  },
+  "3003501": {
+    "Content": "瞬影螺旋を発動すると、永続的に自身の風属性攻撃力+2pt。",
+    "Id": 3003501
+  },
+  "3003601": {
+    "Content": "嵐斬でダメージを与えると竜巻を1つ追加発動する。竜巻のシーズンステータスダメージ+100%。",
+    "Id": 3003601
+  },
+  "3003701": {
+    "Content": "風怒状態中は攻撃速度+100%。",
+    "Id": 3003701
+  },
+  "3003801": {
+    "Content": "刹那が鋭利をすべて消費し、鋭利1につき刹那のシーズンステータスダメージ+10%。",
+    "Id": 3003801
+  },
+  "3003901": {
+    "Content": "シールドスローを10回発動するごとに強化される。タップするとシールドが自身の周囲を旋回する。",
+    "Id": 3003901
+  },
+  "3004001": {
+    "Content": "シールドスローを放つと、攻撃力+2%、持続2秒。50スタックまで",
+    "Id": 3004001
+  },
+  "3004101": {
+    "Content": "ホーリーガード効果中、0.5秒ごとにブレイズレコニングが発動する。ブレイズレコニングの攻撃速度+100%。",
+    "Id": 3004101
+  },
+  "3004201": {
+    "Content": "ブレイズレコニングで神聖攻撃を発動できる。聖光懲戒のホーリーガードのリキャスト短縮効果が2倍になる。",
+    "Id": 3004201
+  },
+  "3004301": {
+    "Content": "ホーリーソードの消費-1。ホーリーソードが聖印を持つ対象に命中すると、永続的に自身の最大HP+200pt。",
+    "Id": 3004301
+  },
+  "3004401": {
+    "Content": "ライトピラーバリアに付与される効果が2倍になる。",
+    "Id": 3004401
+  },
+  "3004501": {
+    "Content": "ヴァンガードラッシュ、サーキュラースラッシュに自身の最大HP50%分の固定ダメージを付与する。",
+    "Id": 3004501
+  },
+  "3004601": {
+    "Content": "晶義を消費するスキルが晶義を回復するようになる。対象スキルのシーズンステータスダメージ+200%。",
+    "Id": 3004601
+  },
+  "3004701": {
+    "Content": "巨岩躯体の効果中、継続的にエネルギーを獲得し、攻撃は必ず会心となる。会心ダメージ+200%。",
+    "Id": 3004701
+  },
+  "3004801": {
+    "Content": "盾残響を1回発動するごとに、砕星衝にバリア値100%分のダメージを付与する（砕星衝のダメージアップ効果の影響を受ける）。",
+    "Id": 3004801
+  },
+  "3004901": {
+    "Content": "バリア値上限が1000%まで上昇可能になる。対象の撃破に参加するたび、バリア強度+5%。",
+    "Id": 3004901
+  },
+  "3005001": {
+    "Content": "巨岩の轟撃を20回発動するごとに、巨大な岩石を召喚、落下させて、対象の現在HP3%分のダメージを与える。",
+    "Id": 3005001
+  },
+  "3005101": {
+    "Content": "岩石弾を発動するたび、永続的に自身の岩属性攻撃力+2pt。",
+    "Id": 3005101
+  },
+  "3005201": {
+    "Content": "レジスト反撃に対象の現在HP0.1%分のダメージを付与する。",
+    "Id": 3005201
+  },
+  "3005301": {
+    "Content": "レジスト反撃を発動するたび、永続的に自身の岩属性攻撃力+2pt。",
+    "Id": 3005301
+  },
+  "3005401": {
+    "Content": "フレイムラプソディーを発動するたび、永続的に自身の火属性攻撃力+2pt。",
+    "Id": 3005401
+  },
+  "3005501": {
+    "Content": "フレイムラプソディー状態中は攻撃速度+60%。",
+    "Id": 3005501
+  },
+  "3005601": {
+    "Content": "シーズンステータスダメージ+50%。ブレイブメロディーの発動中、フレイムラプソディー状態がデフォルトとなる。",
+    "Id": 3005601
+  },
+  "3005701": {
+    "Content": "究極スキル発動後の10秒間は、毎秒すべての熱響を回復する。",
+    "Id": 3005701
+  },
+  "3005801": {
+    "Content": "レイジパッショネートが追加で2本発生し、属性ボーナス+500%。",
+    "Id": 3005801
+  },
+  "3005901": {
+    "Content": "アンコールを発動すると、前方にスピーカーを1つ召喚する。持続15秒。",
+    "Id": 3005901
+  },
+  "3006001": {
+    "Content": "サージクインテットが熱響を消費しなくなる。特殊攻撃を発動すると、サージクインテットおよび改良究極スキルのリキャスト-1秒。",
+    "Id": 3006001
+  },
+  "3006101": {
+    "Content": "ヒーリングメロディーでダメージを与えると、永続的に自身の知力+1pt。",
+    "Id": 3006101
+  },
+  "3006201": {
+    "Content": "幸運1%ごとに、イラプションの発動確率+0.2%（1段目）/0.1%（2段目）/0.05%（3段目）。",
+    "Id": 3006201
+  },
+  "3006301": {
+    "Content": "ツインラッシュの発動後の5秒間、会心確率+100%、会心ダメージ+30%。",
+    "Id": 3006301
+  },
+  "3006401": {
+    "Content": "鬼火効果はイラプションを発動できるが、発動確率は半減する。",
+    "Id": 3006401
+  },
+  "3006501": {
+    "Content": "イラプションの最終ダメージ+40%。鬼火状態の対象に命中すると+20%追加。",
+    "Id": 3006501
+  },
+  "3006601": {
+    "Content": "ラーヴァインパクト、クリムゾンインパクトがメイン対象に命中すると、火属性ボーナス+8%。持続5秒、3スタックまで",
+    "Id": 3006601
+  },
+  "3006701": {
+    "Content": "バーニングクロスに、対象の現在HP0.1%分のダメージを付与する。",
+    "Id": 3006701
+  },
+  "3006801": {
+    "Content": "イグニッションの持続期間中、会心ダメージが2倍になる。",
+    "Id": 3006801
+  },
+  "3006901": {
+    "Content": "バーニングラッシュがメイン対象に命中すると、50%の確率でイグニッションのリキャスト-0.5秒。",
+    "Id": 3006901
+  },
+  "500101": {
+    "Content": "<style=\"emph-gn\">物理ダメージ強化</style><style=\"accent-gn\">+40%</style>",
+    "Id": 500101
+  },
+  "500201": {
+    "Content": "<style=\"emph-gn\">魔法ダメージ強化</style><style=\"accent-gn\">+40%</style>",
+    "Id": 500201
+  },
+  "500301": {
+    "Content": "究極スキル使用時、全スキルの<style=\"emph-gn\">リキャスト</style>を<style=\"accent-gn\">100%</style>加速、<style=\"emph-gn\">戦闘リソース</style>回復+<style=\"accent-gn\">100%</style>、持続<style=\"accent-gn\">20秒</style>",
+    "Id": 500301
+  },
+  "500401": {
+    "Content": "自身と<style=\"accent-gn\">10m</style>以内の味方の攻撃力<style=\"accent-gn\">+5%</style><br>範囲内にある<style=\"emph-gn\">役割</style>が1つにつき、追加で<style=\"accent-gn\">+5%</style>（上限<style=\"accent-gn\">20%</style>）",
+    "Id": 500401
+  },
+  "500501": {
+    "Content": "マスタリースキルを発動するたびに<style=\"emph-gn\">マスタリースキル</style>のダメージと回復量+<style=\"accent-gn\">0.2%</style><br>最大<style=\"accent-gn\">200スタック</style>まで。最大スタック時、追加で<style=\"accent-gn\">20%</style>の<style=\"emph-gn\">マスタリースキル</style>ダメージと回復量を付与する",
+    "Id": 500501
+  },
+  "500601": {
+    "Content": "特殊攻撃を発動するたびに<style=\"emph-gn\">特殊攻撃</style>のダメージと回復量+<style=\"accent-gn\">0.2%</style><br>最大<style=\"accent-gn\">200スタック</style>まで。最大スタック時、追加で<style=\"accent-gn\">20%</style>の<style=\"emph-gn\">特殊攻撃</style>ダメージと回復量を付与する",
+    "Id": 500601
+  },
+  "500701": {
+    "Content": "自身の<style=\"emph-gn\">ファスト</style><style=\"accent-gn\">+20%</style>、戦闘中の移動で毎秒<style=\"accent-gn\">8%</style>のHPを失う",
+    "Id": 500701
+  },
+  "500801": {
+    "Content": "ファスト値<style=\"accent-gn\">200</style>ごとに、<style=\"emph-gn\">究極スキル</style>のリキャスト-<style=\"accent-gn\">1%</style>（上限<style=\"accent-gn\">50%</style>）",
+    "Id": 500801
+  },
+  "500901": {
+    "Content": "対象を撃破すると、<style=\"emph-gn\">マスタリースキル</style>の残りリキャスト-<style=\"accent-gn\">10%</style>",
+    "Id": 500901
+  },
+  "501001": {
+    "Content": "<style=\"emph-gn\">特殊攻撃</style>を発動すると、<style=\"emph-gn\">マスタリースキル</style>のリキャスト<style=\"accent-gn\">-0.5秒</style>",
+    "Id": 501001
+  },
+  "501101": {
+    "Content": "対象を<style=\"emph-gn\">撃破</style>すると、<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+10%</style>（上限<style=\"accent-gn\">30%</style>）、持続<style=\"accent-gn\">5秒</style>",
+    "Id": 501101
+  },
+  "501201": {
+    "Content": "HP<style=\"accent-gn\">80%</style>以上の対象に対する<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+60%</style>",
+    "Id": 501201
+  },
+  "501301": {
+    "Content": "<style=\"emph-gn\">攻撃力</style><style=\"accent-gn\">+25%</style>、HPが<style=\"accent-gn\">30%</style>より高い場合、攻撃時に自身のHPを<style=\"accent-gn\">2.5%</style>消費する",
+    "Id": 501301
+  },
+  "501401": {
+    "Content": "HPを<style=\"accent-gn\">1%</style>失うごとに、<style=\"emph-gn\">攻撃力</style>+<style=\"accent-gn\">0.3%</style>。所持する「血怒」オプション1つにつき、効果+<style=\"accent-gn\">0.1%</style>",
+    "Id": 501401
+  },
+  "501501": {
+    "Content": "攻撃で<style=\"emph-gn\">幸運の一撃</style>が発生すると<style=\"emph-gn\">「エアバースト」</style>を発動する。エアバースト：爆発により自身の失ったHPの<style=\"accent-gn\">20%</style>のダメージを与える。リキャスト<style=\"accent-gn\">1秒</style>",
+    "Id": 501501
+  },
+  "501601": {
+    "Content": "HPが<style=\"accent-gn\">30%</style>を下回ると、<style=\"emph-gn\">ダメージ</style>の<style=\"accent-gn\">10%</style>を<style=\"emph-gn\">バリア</style>に変換する。バリアは重ね掛け可能で、最大HPの<style=\"accent-gn\">100%</style>を超えない",
+    "Id": 501601
+  },
+  "501701": {
+    "Content": "<style=\"emph-gn\">瀕死</style>時に<style=\"emph-gn\">「無敵」</style>と<style=\"emph-gn\">「加速」</style>が発動する。持続<style=\"accent-gn\">3</style>秒、リキャスト<style=\"accent-gn\">20秒</style>",
+    "Id": 501701
+  },
+  "501801": {
+    "Content": "攻撃時に<style=\"emph-gn\">「血戦」</style>を発動する。血戦：<style=\"emph-gn\">攻撃力</style><style=\"accent-gn\">+20%</style>、発動中は戦闘不能にならない。持続<style=\"accent-gn\">3秒</style>",
+    "Id": 501801
+  },
+  "501901": {
+    "Content": "<style=\"emph-gn\">攻撃力</style><style=\"accent-gn\">+25%</style>。自身に<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">1%</style>分のダメージを毎秒与える",
+    "Id": 501901
+  },
+  "502001": {
+    "Content": "<style=\"accent-gn\">3秒</style>ごとに<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">20%</style>の範囲ダメージを与える",
+    "Id": 502001
+  },
+  "502101": {
+    "Content": "<style=\"emph-gn\">攻撃力</style>を自身の<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">0.3%</style>分増加させる",
+    "Id": 502101
+  },
+  "502201": {
+    "Content": "攻撃が<style=\"emph-gn\">幸運の一撃</style>になると、<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">20%</style>分の<style=\"emph-gn\">バリア</style>を獲得する",
+    "Id": 502201
+  },
+  "502301": {
+    "Content": "攻撃を受けると、<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">10%</style>分の範囲ダメージを反射する",
+    "Id": 502301
+  },
+  "502401": {
+    "Content": "攻撃を受けたときに全スキルの残り<style=\"emph-gn\">リキャスト</style>-<style=\"accent-gn\">1秒</style>",
+    "Id": 502401
+  },
+  "502501": {
+    "Content": "<style=\"emph-gn\">最大HP</style><style=\"accent-gn\">+100%</style>。自身に<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">1%</style>分のダメージを毎秒与える",
+    "Id": 502501
+  },
+  "502601": {
+    "Content": "クラススキルでダメージを与えたとき、エネミーの<style=\"emph-gn\">現在のHP</style>の<style=\"accent-gn\">0.2%</style>分のダメージを追加で与える",
+    "Id": 502601
+  },
+  "502701": {
+    "Content": "所持している<style=\"emph-gn\">呪いのオプション</style>1つにつき<style=\"emph-gn\">物理防御力</style><style=\"accent-gn\">+10%</style>",
+    "Id": 502701
+  },
+  "502801": {
+    "Content": "<style=\"emph-gn\">物理防御力</style>を自身の<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">3%</style>分増加させる",
+    "Id": 502801
+  },
+  "502901": {
+    "Content": "攻撃を受けると、<style=\"emph-gn\">物理防御力</style>の<style=\"accent-gn\">400%</style>分の範囲ダメージを反射する",
+    "Id": 502901
+  },
+  "503001": {
+    "Content": "クラススキルおよび幸運の一撃のダメージが大幅に低下する。クラススキルによる自身と味方への回復量の一定割合が累積され、次にダメージを与えたとき、対象の位置で範囲ダメージが発動する。ダメージ量は累積値と同じ（自身への回復量はより高い割合で累積され、ダメージは<style=\"accent-gn\">1秒</style>に最大1回まで発動）。",
+    "Id": 503001
+  },
+  "503101": {
+    "Content": "<style=\"emph-gn\">特殊攻撃</style>を<style=\"accent-gn\">10回</style>発動するごとに、戦闘終了まで<style=\"emph-gn\">回復量</style>+<style=\"accent-gn\">1%</style>（上限<style=\"accent-gn\">30%</style>）",
+    "Id": 503101
+  },
+  "503201": {
+    "Content": "10m以内のパーティメンバーは、<style=\"accent-gn\">10秒</style>ごとに<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">20%</style>分の<style=\"emph-gn\">バリア</style>を獲得する",
+    "Id": 503201
+  },
+  "503301": {
+    "Content": "10m以内のエネミーの<style=\"emph-gn\">脆弱</style><style=\"accent-gn\">+10%</style>",
+    "Id": 503301
+  },
+  "503401": {
+    "Content": "<style=\"accent-gn\">5秒</style>ごとに10m以内のエネミーを<style=\"emph-gn\">スタン</style>させる。持続<style=\"accent-gn\">1秒</style>",
+    "Id": 503401
+  },
+  "503501": {
+    "Content": "攻撃が<style=\"emph-gn\">幸運の一撃</style>になると<style=\"emph-gn\">「落雷」</style>を発動する。落雷：雷によって<style=\"emph-gn\">攻撃力</style>の<style=\"accent-gn\">45%</style>のダメージを与える。リキャスト<style=\"accent-gn\">1秒</style>",
+    "Id": 503501
+  },
+  "503601": {
+    "Content": "攻撃が<style=\"emph-gn\">幸運の一撃</style>になると<style=\"emph-gn\">「剣刃の嵐」</style>を発動する。剣刃の嵐：剣刃によって<style=\"emph-gn\">攻撃力</style>の<style=\"accent-gn\">45%</style>のダメージを与える。リキャスト<style=\"accent-gn\">1秒</style>",
+    "Id": 503601
+  },
+  "503701": {
+    "Content": "攻撃が<style=\"emph-gn\">幸運の一撃</style>になると<style=\"emph-gn\">「爆燃」</style>を発動する。爆燃：爆発によって<style=\"emph-gn\">攻撃力</style>の<style=\"accent-gn\">45%</style>のダメージを与える。リキャスト<style=\"accent-gn\">1秒</style>",
+    "Id": 503701
+  },
+  "503801": {
+    "Content": "攻撃が<style=\"emph-gn\">幸運の一撃</style>になると<style=\"emph-gn\">「稲妻チェーン」</style>を発動する。稲妻チェーン：稲妻によって<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">1%</style>のダメージを与える。リキャスト<style=\"accent-gn\">1秒</style>",
+    "Id": 503801
+  },
+  "503901": {
+    "Content": "<style=\"emph-gn\">会心</style><style=\"accent-gn\">+30%</style>、通常会心の<style=\"accent-gn\">50%</style>を超過した部分<style=\"accent-gn\">2%</style>につき、<style=\"accent-gn\">1%</style>の<style=\"emph-gn\">会心ダメージ</style>に変換する（上限<style=\"accent-gn\">50%</style>）",
+    "Id": 503901
+  },
+  "504001": {
+    "Content": "<style=\"emph-gn\">会心ダメージ</style>が2倍になる",
+    "Id": 504001
+  },
+  "504101": {
+    "Content": "会心時、対象の位置に攻撃力<style=\"accent-gn\">200%</style>分の範囲ダメージを追加で1回与える（必ず会心になる/リキャスト<style=\"accent-gn\">1秒</style>）。所持している【凶暴】オプション1つにつき、そのダメージの最終ダメージ<style=\"accent-gn\">+50%</style>。",
+    "Id": 504101
+  },
+  "504201": {
+    "Content": "会心時、全スキルのリキャスト-<style=\"accent-gn\">0.5秒</style>（発動は<style=\"accent-gn\">1秒</style>ごとに1回まで）",
+    "Id": 504201
+  },
+  "504301": {
+    "Content": "会心時、「死神の印」を付与する。印が<style=\"accent-gn\">20スタック</style>になると<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+30%</style>、持続<style=\"accent-gn\">5秒</style>",
+    "Id": 504301
+  },
+  "504401": {
+    "Content": "マスタリースキルの<style=\"emph-gn\">会心</style><style=\"accent-gn\">+50%</style>",
+    "Id": 504401
+  },
+  "504501": {
+    "Content": "特殊攻撃の<style=\"emph-gn\">会心</style><style=\"accent-gn\">+50%</style>",
+    "Id": 504501
+  },
+  "504601": {
+    "Content": "会心時、自身のHPを<style=\"accent-gn\">1%</style>回復する（リキャスト<style=\"accent-gn\">0.1秒</style>）",
+    "Id": 504601
+  },
+  "504701": {
+    "Content": "ダメージが会心にならなかったとき、<style=\"emph-gn\">会心</style>+<style=\"accent-gn\">50%</style>、会心発生後に解除",
+    "Id": 504701
+  },
+  "504801": {
+    "Content": "究極スキル発動後<style=\"accent-gn\">15秒</style>間、すべてのダメージが必ず会心になる",
+    "Id": 504801
+  },
+  "504901": {
+    "Content": "回復を受けたとき、<style=\"accent-gn\">5秒</style>間<style=\"emph-gn\">会心</style><style=\"accent-gn\">+20%</style>",
+    "Id": 504901
+  },
+  "505001": {
+    "Content": "モンスターを1体倒すごとに、<style=\"emph-gn\">会心</style><style=\"accent-gn\">+0.3%</style>（上限<style=\"accent-gn\">100スタック</style>）",
+    "Id": 505001
+  },
+  "505101": {
+    "Content": "究極スキルの<style=\"emph-gn\">会心</style><style=\"accent-gn\">+50%</style>",
+    "Id": 505101
+  },
+  "505201": {
+    "Content": "会心時、対象の位置に攻撃力<style=\"accent-gn\">200%</style>分の範囲ダメージを1回発生させる（必ず幸運の一撃になる/リキャスト<style=\"accent-gn\">1秒</style>）。",
+    "Id": 505201
+  },
+  "505301": {
+    "Content": "会心になるたびに、<style=\"emph-gn\">属性ダメージ</style>+<style=\"accent-gn\">1%</style>、持続<style=\"accent-gn\">5秒</style>。最大<style=\"accent-gn\">15スタック</style>まで",
+    "Id": 505301
+  },
+  "505401": {
+    "Content": "会心になるたびに、<style=\"emph-gn\">攻撃速度</style>+<style=\"accent-gn\">1%</style>、<style=\"emph-gn\">詠唱速度</style>+<style=\"accent-gn\">2%</style>、最大<style=\"accent-gn\">15スタック</style>まで",
+    "Id": 505401
+  },
+  "505501": {
+    "Content": "戦闘開始後の最初の会心は、<style=\"emph-gn\">会心ダメージ</style>+<style=\"accent-gn\">500%</style>",
+    "Id": 505501
+  },
+  "505601": {
+    "Content": "会心が<style=\"accent-gn\">3回</style>発生するごとに、次の会心の<style=\"emph-gn\">会心ダメージ</style>+<style=\"accent-gn\">50%</style>、カウントをリセットする",
+    "Id": 505601
+  },
+  "505701": {
+    "Content": "<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+20%</style>",
+    "Id": 505701
+  },
+  "505801": {
+    "Content": "<style=\"emph-gn\">会心</style><style=\"accent-gn\">+10%</style>",
+    "Id": 505801
+  },
+  "505901": {
+    "Content": "特殊攻撃が会心になると、ムークボスのバトルイマジンを1体召喚する（リキャスト<style=\"accent-gn\">15秒</style>）",
+    "Id": 505901
+  },
+  "506001": {
+    "Content": "幸運効果：対象の位置に攻撃力<style=\"accent-gn\">200%</style>分の範囲ダメージを1回与える（リキャスト<style=\"accent-gn\">0.5秒</style>）。所持している「幸運」オプション1つにつき、そのダメージの最終ダメージ<style=\"accent-gn\">+50%</style>。",
+    "Id": 506001
+  },
+  "506101": {
+    "Content": "<style=\"emph-gn\">幸運効果ダメージ</style>+<style=\"accent-gn\">30%</style>。自身の「幸運」オプション1つにつき、追加で+<style=\"accent-gn\">8%</style>",
+    "Id": 506101
+  },
+  "506201": {
+    "Content": "戦闘開始後、<style=\"accent-gn\">1秒</style>ごとに自身の<style=\"emph-gn\">幸運</style>+<style=\"accent-gn\">5%</style>、最大<style=\"accent-gn\">20スタック</style>まで",
+    "Id": 506201
+  },
+  "506301": {
+    "Content": "幸運効果：<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">20%</style>分の<style=\"emph-gn\">バリア</style>を獲得する。持続<style=\"accent-gn\">2秒</style>",
+    "Id": 506301
+  },
+  "506401": {
+    "Content": "ダメージを与えると、メイン対象に対して幸運の一撃が<style=\"accent-gn\">50回</style>発生するたびに、その後<style=\"accent-gn\">15秒</style>間、全スキルの<style=\"emph-gn\">リキャスト加速</style><style=\"accent-gn\">+100%</style>（期間中はカウントしない）",
+    "Id": 506401
+  },
+  "506501": {
+    "Content": "戦闘開始から<style=\"accent-gn\">30秒</style>以内にダメージを与えると必ず幸運の一撃が発生する",
+    "Id": 506501
+  },
+  "506601": {
+    "Content": "ダメージまたは回復で幸運の一撃が発生したとき、次の幸運の一撃の<style=\"emph-gn\">攻撃力</style><style=\"accent-gn\">+40%</style>",
+    "Id": 506601
+  },
+  "506701": {
+    "Content": "幸運の一撃が必ず<style=\"emph-gn\">会心</style>になる",
+    "Id": 506701
+  },
+  "506801": {
+    "Content": "ダメージまたは回復で幸運の一撃が発生したとき、<style=\"emph-gn\">属性ダメージ</style>+<style=\"accent-gn\">1%</style>、持続<style=\"accent-gn\">5秒</style>。最大<style=\"accent-gn\">15スタック</style>まで",
+    "Id": 506801
+  },
+  "506901": {
+    "Content": "ダメージまたは回復で幸運の一撃が発生したとき、<style=\"emph-gn\">攻撃速度</style>+<style=\"accent-gn\">1%</style>、<style=\"emph-gn\">詠唱速度</style>+<style=\"accent-gn\">2%</style>、最大<style=\"accent-gn\">15スタック</style>まで",
+    "Id": 506901
+  },
+  "507001": {
+    "Content": "モンスターを1体倒すごとに、<style=\"emph-gn\">幸運</style><style=\"accent-gn\">+0.3%</style>（上限<style=\"accent-gn\">100スタック</style>）",
+    "Id": 507001
+  },
+  "507101": {
+    "Content": "<style=\"accent-gn\">15秒</style>ごとに、<style=\"emph-gn\">幸運の一撃のダメージ</style><style=\"accent-gn\">+40%</style>、持続<style=\"accent-gn\">8秒</style>",
+    "Id": 507101
+  },
+  "507201": {
+    "Content": "<style=\"emph-gn\">幸運の一撃のダメージ</style><style=\"accent-gn\">+20%</style>",
+    "Id": 507201
+  },
+  "507301": {
+    "Content": "<style=\"emph-gn\">幸運</style><style=\"accent-gn\">+10%</style>",
+    "Id": 507301
+  },
+  "507401": {
+    "Content": "ダメージを与えて幸運の一撃が発生すると、嵐のキングゴブリンを召喚してアシストさせる（リキャスト<style=\"accent-gn\">20秒</style>）",
+    "Id": 507401
+  },
+  "507501": {
+    "Content": "究極スキルで幸運の一撃が発生すると、ギルミーハンターを召喚する（リキャスト<style=\"accent-gn\">20秒</style>）",
+    "Id": 507501
+  },
+  "507601": {
+    "Content": "バトルイマジンの<style=\"emph-gn\">リキャスト</style>-<style=\"accent-gn\">80%</style>",
+    "Id": 507601
+  },
+  "507701": {
+    "Content": "バトルイマジンが与える<style=\"emph-gn\">ダメージ</style>+<style=\"accent-gn\">200%</style>",
+    "Id": 507701
+  },
+  "507801": {
+    "Content": "バトルイマジンが与えるダメージは必ず会心になり、<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+50%</style>",
+    "Id": 507801
+  },
+  "507901": {
+    "Content": "バトルイマジンが<style=\"accent-gn\">100%</style>の<style=\"emph-gn\">属性ダメージ</style>ボーナスを獲得する",
+    "Id": 507901
+  },
+  "508001": {
+    "Content": "バトルイマジンの<style=\"emph-gn\">会心</style><style=\"accent-gn\">+80%</style>",
+    "Id": 508001
+  },
+  "508101": {
+    "Content": "バトルイマジンを1体発動するごとに、戦闘終了まで<style=\"emph-gn\">攻撃力</style>+<style=\"accent-gn\">0.5%</style>（上限<style=\"accent-gn\">60スタック</style>）",
+    "Id": 508101
+  },
+  "508201": {
+    "Content": "自身が与える最終ダメージ<style=\"accent-gn\">-40%</style>、バトルイマジンが与える最終ダメージ<style=\"accent-gn\">+40%</style>",
+    "Id": 508201
+  },
+  "508301": {
+    "Content": "バトルイマジンが与えたダメージの<style=\"accent-gn\">5%</style>分を自身の回復に充てる",
+    "Id": 508301
+  },
+  "508401": {
+    "Content": "バトルイマジンの<style=\"emph-gn\">会心</style><style=\"accent-gn\">+20%</style>",
+    "Id": 508401
+  },
+  "508501": {
+    "Content": "特殊攻撃を発動すると、<style=\"emph-gn\">ゴブリン系イマジン</style>をランダムで1体召喚する（リキャスト<style=\"accent-gn\">20秒</style>）",
+    "Id": 508501
+  },
+  "508601": {
+    "Content": "マスタリースキルを発動すると、<style=\"emph-gn\">動物系イマジン</style>をランダムで1体召喚する（リキャスト<style=\"accent-gn\">20秒</style>）",
+    "Id": 508601
+  },
+  "508701": {
+    "Content": "バトルイマジンを発動すると、<style=\"emph-gn\">B-ボウガンゴブリン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 508701
+  },
+  "508801": {
+    "Content": "究極スキルを発動すると、<style=\"emph-gn\">高原キャラクターのイマジン</style>をランダムで1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 508801
+  },
+  "508901": {
+    "Content": "自身にバトルイマジンのバフ効果が1つ存在するごとに、自身の<style=\"emph-gn\">ダメージ</style>+<style=\"accent-gn\">4%</style>、<style=\"emph-gn\">受けるダメージ</style>-<style=\"accent-gn\">2%</style>",
+    "Id": 508901
+  },
+  "509001": {
+    "Content": "究極スキルを発動すると、<style=\"emph-gn\">B-ムークウォーリアー</style>を同時に1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 509001
+  },
+  "509101": {
+    "Content": "HPが<style=\"accent-gn\">50%</style>未満のとき、<style=\"emph-gn\">B-キングムーク</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 509101
+  },
+  "509201": {
+    "Content": "<style=\"accent-gn\">60秒</style>ごとに自動的に<style=\"emph-gn\">B-ティナ</style>を召喚する",
+    "Id": 509201
+  },
+  "509301": {
+    "Content": "戦闘開始時、直ちに<style=\"emph-gn\">B-サンダーオーガ</style>を召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 509301
+  },
+  "509401": {
+    "Content": "ダメージまたは回復で幸運の一撃が発生したとき、ランダムで<style=\"emph-gn\">幸運系イマジン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 509401
+  },
+  "509501": {
+    "Content": "バトルイマジンの<style=\"emph-gn\">幸運</style><style=\"accent-gn\">+40%</style>",
+    "Id": 509501
+  },
+  "509601": {
+    "Content": "クラススキルでダメージを与えると周囲のパーティメンバーのHPを<style=\"accent-gn\">1%</style>回復し、同時に<style=\"accent-gn\">15%</style>の<style=\"emph-gn\">攻撃力</style>ボーナスを付与する。持続<style=\"accent-gn\">3秒</style>（リキャスト<style=\"accent-gn\">0.3秒</style>）。",
+    "Id": 509601
+  },
+  "509701": {
+    "Content": "自身が属性ダメージの変化を獲得したとき、周囲の味方の<style=\"emph-gn\">属性ダメージ</style>+<style=\"accent-gn\">20%</style>、持続<style=\"accent-gn\">10秒</style>",
+    "Id": 509701
+  },
+  "509801": {
+    "Content": "自身が<style=\"emph-gn\">会心/幸運/ファスト/器用さ/万能</style>の変化を獲得したとき、周囲の味方の対応するステータス+<style=\"accent-gn\">10%</style>、持続<style=\"accent-gn\">10秒</style>",
+    "Id": 509801
+  },
+  "509901": {
+    "Content": "周囲15m以内にいる味方1人につき、自身の<style=\"emph-gn\">ダメージ</style>+<style=\"accent-gn\">8%</style>、<style=\"emph-gn\">受けるダメージ</style>-<style=\"accent-gn\">4%</style>",
+    "Id": 509901
+  },
+  "510001": {
+    "Content": "回復を行ったとき、対象に<style=\"accent-gn\">10%</style>の<style=\"emph-gn\">物理ダメージ強化</style>と<style=\"emph-gn\">魔法ダメージ強化</style>を付与する、持続<style=\"accent-gn\">3秒</style>",
+    "Id": 510001
+  },
+  "510101": {
+    "Content": "究極スキルを発動すると<style=\"accent-gn\">15秒</style>のリソースオーラを獲得、持続期間中周囲の味方の<style=\"emph-gn\">戦闘リソース獲得効率</style><style=\"accent-gn\">+100%</style>（同時に1つのみ有効）",
+    "Id": 510101
+  },
+  "510201": {
+    "Content": "回復を行ったとき、対象に<style=\"accent-gn\">10%</style>の<style=\"emph-gn\">ダメージ軽減</style>を付与する。持続<style=\"accent-gn\">3秒</style>",
+    "Id": 510201
+  },
+  "510301": {
+    "Content": "周囲10m範囲内の敵ユニットが与えるダメージ-<style=\"accent-gn\">10%</style>",
+    "Id": 510301
+  },
+  "510401": {
+    "Content": "回復を行ったとき、追加で<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">20%</style>の<style=\"emph-gn\">バリア</style>を付与、持続<style=\"accent-gn\">10秒</style>。各対象がこのバリアを獲得できるのは<style=\"accent-gn\">10秒</style>間に1回まで",
+    "Id": 510401
+  },
+  "510501": {
+    "Content": "<style=\"emph-gn\">回復力</style><style=\"accent-gn\">+15%</style>",
+    "Id": 510501
+  },
+  "510601": {
+    "Content": "<style=\"emph-gn\">バリア強度</style><style=\"accent-gn\">+15%</style>",
+    "Id": 510601
+  },
+  "510701": {
+    "Content": "<style=\"emph-gn\">回復力</style><style=\"accent-gn\">10%</style>ごとに<style=\"accent-gn\">5%</style>の<style=\"emph-gn\">全属性ボーナス</style>に変換する",
+    "Id": 510701
+  },
+  "510801": {
+    "Content": "究極スキルを発動したとき、<style=\"accent-gn\">10秒</style>するヒールオ－ラを獲得し、毎秒周囲15m以内の味方に攻撃力の<style=\"accent-gn\">100%</style>分の回復を行う（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 510801
+  },
+  "510901": {
+    "Content": "マスタリースキル発動時、<style=\"accent-gn\">10秒</style>持続する幸運オーラを獲得し、周囲15m以内の味方に<style=\"emph-gn\">B-ギルミーハンター</style>のパッシブ効果を付与する（リキャスト<style=\"accent-gn\">30秒</style>、同時には1つのみ有効）。",
+    "Id": 510901
+  },
+  "511001": {
+    "Content": "特殊攻撃を発動したとき、<style=\"accent-gn\">5秒</style>持続する会心オーラを獲得し、周囲15m以内の味方の<style=\"emph-gn\">会心</style><style=\"accent-gn\">+3%</style>",
+    "Id": 511001
+  },
+  "511101": {
+    "Content": "クラススキルで回復を行うとダメージが蓄積され、蓄積が攻撃力の<style=\"accent-gn\">10000%</style>に達すると、次にダメージを与えたときに追加で範囲ダメージを1回与える。ダメージ量は蓄積値に等しい（発動は<style=\"accent-gn\">1秒</style>ごとに1回まで）",
+    "Id": 511101
+  },
+  "511201": {
+    "Content": "毎秒周囲のランダムな対象1体にダメージを与える。ダメージ量はその期間内に自分のクラススキルが与えた<style=\"emph-gn\">回復量</style>に等しい",
+    "Id": 511201
+  },
+  "511301": {
+    "Content": "回復を行ったとき、<style=\"emph-gn\">B-バジリスク</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 511301
+  },
+  "511401": {
+    "Content": "回復を行ったとき、<style=\"emph-gn\">B-異国の山賊長ヒグマ</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 511401
+  },
+  "511501": {
+    "Content": "ダメージを受けたとき、<style=\"emph-gn\">B-ミーン</style>を1体召喚する（リキャスト<style=\"accent-gn\">30秒</style>）",
+    "Id": 511501
+  },
+  "611601": {
+    "Content": "各ラウンドの終了後、<style=\"emph-gn\">器用さ</style>+3%<br>周囲に自身の<style=\"emph-gn\">魔法攻撃力の100%分のダメージ</style>を毎秒与え、かつ1秒間、<style=\"emph-gn\">回復量の100%分のダメージ</style>を追加する",
+    "Id": 611601
+  },
+  "611701": {
+    "Content": "各ラウンドの終了後、<style=\"emph-gn\">万能</style>+3%<br>攻撃が命中すると自身の周囲5m以内の対象に<style=\"emph-gn\">物理防御力</style>の1500%分のダメージを与える（1秒ごとに最大1回発動）",
+    "Id": 611701
+  },
+  "611801": {
+    "Content": "各ラウンドの終了後、<style=\"emph-gn\">ファスト</style>+3%<br>攻撃時、自身のファスト値に応じて、一定確率で「ダメージ2倍」を発動する",
+    "Id": 611801
+  },
+  "611901": {
+    "Content": "幸運の一撃が<style=\"emph-gn\">「毒針」「乱射」「サンダープレッシャー」「炎のバトルアクス」「メテオフォール」</style>を発動できる<br>各ラウンドの終了後、幸運率+3%。自身のその時点の幸運率に応じて幸運ダメージボーナスがアップする",
+    "Id": 611901
+  },
+  "612001": {
+    "Content": "各ラウンドの終了後、<style=\"emph-gn\">会心率</style>+3%<br>会心率の50%を超えた部分は2倍の会心ダメージに変換する",
+    "Id": 612001
+  },
+  "612101": {
+    "Content": "魂の炎を召喚し、自身の<style=\"emph-gn\">最大HPの10%分</style>のダメージを毎秒与える",
+    "Id": 612101
+  },
+  "612201": {
+    "Content": "サンダーボールを召喚して前方に移動させ、徐々に大きくなって爆発する。体積が大きいほど威力も大きくなる",
+    "Id": 612201
+  },
+  "612301": {
+    "Content": "隕石を召喚して対象に落とし、<style=\"emph-gn\">自身が失ったHP</style>の一定割合+<style=\"emph-gn\">最大HP</style>の一定割合のダメージを与える",
+    "Id": 612301
+  },
+  "612401": {
+    "Content": "エネミー間を跳ね返る魂の炎を放ち、跳ね返るたび<style=\"emph-gn\">ダメージボーナス</style>がアップする",
+    "Id": 612401
+  },
+  "612501": {
+    "Content": "次のスキルを強化し、<style=\"emph-gn\">攻撃力</style>をアップさせる",
+    "Id": 612501
+  },
+  "612601": {
+    "Content": "一時的に<style=\"emph-gn\">無敵</style>効果を獲得し、その間は<style=\"emph-gn\">攻撃力</style>と<style=\"emph-gn\">移動速度</style>がアップする",
+    "Id": 612601
+  },
+  "612701": {
+    "Content": "<style=\"emph-gn\">エネミーを引き寄せる</style>ブラックホールを召喚し、相手をスロウさせる",
+    "Id": 612701
+  },
+  "612801": {
+    "Content": "刃を放つ。刃は<style=\"emph-gn\">壁に当たると跳ね返る</style>",
+    "Id": 612801
+  },
+  "612901": {
+    "Content": "砲台を召喚し、自動でエネミーを攻撃する",
+    "Id": 612901
+  },
+  "613001": {
+    "Content": "光輪を放ち、<style=\"emph-gn\">自身のステータス合計</style>の一定割合のダメージを与える<br>（ファスト、会心、幸運、器用さ)",
+    "Id": 613001
+  },
+  "613101": {
+    "Content": "周囲の敵を連続で斬りつける。攻撃中は無敵状態となる",
+    "Id": 613101
+  },
+  "613201": {
+    "Content": "<style=\"emph-gn\">カナミア弓兵</style>を召喚してアシストさせる<br>回復させるとアーチャーの存在時間が延長される",
+    "Id": 613201
   }
 }

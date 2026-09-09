@@ -197,5 +197,54 @@
     "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
     "Sort": 4,
     "TextColor": "#ffffff"
+  },
+  "1005": {
+    "BaseDetailsDes": "이번 회차 [기본 이벤트]:<br>뽑기를 진행할 때마다 반드시 일정량의 <style=\"accent-gn\">초승달이 떠오를 무렵・골드 냥 포인트가 반환됩니다</style>. 획득한 상품의 희귀도가 높을수록 많은 포인트가 반환됩니다.<br><style=\"accent-gn\">25번째</style> 뽑기에서는 반드시 <style=\"accent-gn\">A상 교환권</style>이 등장합니다.<br><style=\"accent-gn\">70번째</style> 뽑기에서는 반드시 <style=\"accent-gn\">S상 교환권</style>이 등장합니다!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850105,
+    "HelpLibraryId": 25005,
+    "Id": 1005,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["1회 뽑기", "5회 뽑기"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "뽑기를 진행할 때마다 <style=\"accent-gn\">25.0000%</style> 확률로 [행운 이벤트]가 발동됩니다! 이번 회차의 행운 이벤트는 다음과 같습니다:<br> 「이벤트1」: 다음 뽑기 무료<br> 「이벤트2」: 다음 뽑기에서 골드 냥 포인트 3배 반환<br> 「이벤트3」: 다음 뽑기에서 [A상] 확률 증가<br> 「이벤트4」: 다음 뽑기에서 [C상], [D상], [E상] 등장하지 않음",
+    "LuckPoolId": 1005,
+    "MallItemId": 11005,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12005, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41110,
+    "PointsActivityFunctionId": 20016,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "초승달이 떠오를 무렵",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1005,
+    "PrizeShowDetails": [100501, 100502, 100503, 100504, 100505, 100506, 100507],
+    "Sort": 5,
+    "TextColor": "#ffffff"
   }
 }

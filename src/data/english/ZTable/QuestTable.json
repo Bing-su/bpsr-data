@@ -12827,6 +12827,62 @@
     "StepFlowPath": "bin/task/task_step/s3quest/sidequest_01/sidequest_01-60",
     "TimeLimit": []
   },
+  "186646": {
+    "AbortLimit": [["16", "6646"]],
+    "AccessLimit": [["15", "6646"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "One after another, the tribe is losing the ability to share dreams, and a shadow has fallen over Kanamia's traditions. Investigating the change in the Ancestral Spores may reveal why the dreams are gone.<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 186646,
+    "QuestName": "[Limited] The Seed That Draws Dreams",
+    "QuestStep": 186646001,
+    "QuestType": 90,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-20",
+    "TimeLimit": []
+  },
+  "186647": {
+    "AbortLimit": [["16", "6647"]],
+    "AccessLimit": [["15", "6647"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021, 25029041
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "High Priestess Rorola has returned to the tribe at last. Is the news she brings good, or...<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 186647,
+    "QuestName": "[Limited] The Dreamchasing Road",
+    "QuestStep": 186647001,
+    "QuestType": 90,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-21",
+    "TimeLimit": []
+  },
   "186701": {
     "AbortLimit": [["16", "6701"]],
     "AccessLimit": [["15", "6701"]],
@@ -28521,6 +28577,482 @@
     "QuestStep": 50268002,
     "QuestType": 84,
     "StepFlowPath": "bin/task/task_step/huodong/50260/50260-11",
+    "TimeLimit": []
+  },
+  "50290": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41110"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 70140010,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "The Kanamia Tribe is holding a grand Harvest Festival. Perhaps it's time for the Kanamia Brave to return for a visit.<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50290,
+    "QuestName": "[Limited] Homeward for the Harvest Festival",
+    "QuestStep": 50290001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-3",
+    "TimeLimit": []
+  },
+  "50291": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [["18", "41114"]],
+    "AccpetType": [0],
+    "AwardId": 70140020,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003, 25029010, 25029009],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50290",
+    "QuestDetail": "One after another, the tribe is losing the ability to share dreams, and a shadow has fallen over Kanamia's traditions. Investigating the change in the Ancestral Spores may reveal why the dreams are gone.<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50291,
+    "QuestName": "[Limited] The Seed That Draws Dreams",
+    "QuestStep": 50291001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-4",
+    "TimeLimit": []
+  },
+  "50292": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [["18", "41115"]],
+    "AccpetType": [0],
+    "AwardId": 70140030,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50291",
+    "QuestDetail": "Rorola hopes to find the ancestors' guidance through mirror divination, but the ancient mirror that holds the divination medium was buried long ago in the ruins of the old homeland...<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50292,
+    "QuestName": "[Limited] The Moon in the Mirror",
+    "QuestStep": 50292001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-5",
+    "TimeLimit": []
+  },
+  "50293": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [["18", "41116"]],
+    "AccpetType": [0],
+    "AwardId": 70140040,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50292",
+    "QuestDetail": "The flame of Renewal has grown unsteady at this year's Harvest Festival. Is it the ancestors' displeasure, or is something else at work?<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50293,
+    "QuestName": "[Limited] What We Hold Dear",
+    "QuestStep": 50293015,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-6",
+    "TimeLimit": []
+  },
+  "50294": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [["18", "41117"]],
+    "AccpetType": [0],
+    "AwardId": 70140050,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50293",
+    "QuestDetail": "High Priestess Rorola has returned to the tribe at last. Is the news she brings good, or...<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50294,
+    "QuestName": "[Limited] The Dreamchasing Road",
+    "QuestStep": 50294001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-7",
+    "TimeLimit": []
+  },
+  "50295": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140060,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50301",
+    "QuestDetail": "An omen? Perhaps it is time to visit the altars along the Trail of Legacy.<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50295,
+    "QuestName": "[Limited] The Call of the Snake Totem",
+    "QuestStep": 50295003,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-8",
+    "TimeLimit": []
+  },
+  "50296": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140070,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50302",
+    "QuestDetail": "An omen? Perhaps it is time to visit the altars along the Trail of Legacy.<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50296,
+    "QuestName": "[Limited] The Call of the Bird Totem",
+    "QuestStep": 50296006,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-9",
+    "TimeLimit": []
+  },
+  "50297": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140080,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50303",
+    "QuestDetail": "An omen? Perhaps it is time to visit the altars along the Trail of Legacy.<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50297,
+    "QuestName": "[Limited] The Call of the Mirror Totem",
+    "QuestStep": 50297005,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-10",
+    "TimeLimit": []
+  },
+  "50298": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140090,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50304",
+    "QuestDetail": "An omen? Perhaps it is time to visit the altars along the Trail of Legacy.<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50298,
+    "QuestName": "[Limited] The Call of the Ram Totem",
+    "QuestStep": 50298006,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-11",
+    "TimeLimit": []
+  },
+  "50299": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140100,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50305",
+    "QuestDetail": "An omen? Perhaps it is time to visit the altars along the Trail of Legacy.<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50299,
+    "QuestName": "[Limited] The Call of the Pot Totem",
+    "QuestStep": 50299005,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-12",
+    "TimeLimit": []
+  },
+  "50300": {
+    "AbortLimit": [["42", "41118"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41118"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 70140110,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "The Harvest Festival is drawing to a close, but what change do all the strange signs of the Year of Dreamloss foretell?<br><style=\"emph-gn\">Time remaining for event quest: {*RemainingTaskTime*}</style>",
+    "QuestId": 50300,
+    "QuestName": "[Limited] The Renewal Still Burning",
+    "QuestStep": 50300001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-13",
+    "TimeLimit": []
+  },
+  "50301": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50290)",
+    "QuestDetail": "",
+    "QuestId": 50301,
+    "QuestName": "",
+    "QuestStep": 50301001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-14",
+    "TimeLimit": []
+  },
+  "50302": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50291)",
+    "QuestDetail": "",
+    "QuestId": 50302,
+    "QuestName": "",
+    "QuestStep": 50302001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-16",
+    "TimeLimit": []
+  },
+  "50303": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [["18", "41115"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50291)",
+    "QuestDetail": "",
+    "QuestId": 50303,
+    "QuestName": "",
+    "QuestStep": 50303001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-17",
+    "TimeLimit": []
+  },
+  "50304": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50293)",
+    "QuestDetail": "",
+    "QuestId": 50304,
+    "QuestName": "",
+    "QuestStep": 50304001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-18",
+    "TimeLimit": []
+  },
+  "50305": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50294 and 50295 and 50296 and 50297 and 50298)",
+    "QuestDetail": "",
+    "QuestId": 50305,
+    "QuestName": "",
+    "QuestStep": 50305001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-19",
+    "TimeLimit": []
+  },
+  "50306": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41110"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021, 25029041
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "",
+    "QuestId": 50306,
+    "QuestName": "",
+    "QuestStep": 50306001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-71",
     "TimeLimit": []
   },
   "70000": {

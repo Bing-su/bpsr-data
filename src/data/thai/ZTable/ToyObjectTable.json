@@ -498,5 +498,42 @@
     "StatusTransition": [],
     "TerrainAttr": [],
     "ToyId": 1073131
+  },
+  "9000049": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "CanMask": false,
+    "DefaultState": 0,
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "GoLayer": -1,
+    "Id": 9000049,
+    "InteractionMount": [],
+    "InteractionTemplate": [[0, 56020]],
+    "IsNotGround": false,
+    "ModelID": 9000011,
+    "Name": "玩具·罗罗拉烟花",
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "StatusInfo": [[], [1, 0]],
+    "StatusTransition": [[0, 1]],
+    "TerrainAttr": [],
+    "ToyId": 1073149
   }
 }

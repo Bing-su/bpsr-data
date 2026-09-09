@@ -3854,7 +3854,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30402,
-    "Name": "Coletar Ervas"
+    "Name": "Coletar Erva"
   },
   "3040201": {
     "BtnType": 0,
@@ -3988,6 +3988,34 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30420,
     "Name": "Soltar"
+  },
+  "30421": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30421,
+    "Name": "Coletar Bagas Lunares de Shadewood"
+  },
+  "30422": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "Id": 30422,
+    "Name": "Iniciar Dança dos Espíritos"
+  },
+  "30423": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30423,
+    "Name": "Esmagar os Esporos"
+  },
+  "30424": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30424,
+    "Name": "Oferecer à Renovação"
   },
   "3050201": {
     "BtnType": 1,
@@ -4835,6 +4863,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56019,
     "Name": "Pegar Descarte"
+  },
+  "56020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 56020,
+    "Name": "Acender o Fogo de Artifício de Rorula"
   },
   "57001": {
     "BtnType": 1,
@@ -6773,14 +6808,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732106,
-    "Name": "Orar 1 vez com o Pacto das Cinzas da Anciã Cogumelo"
+    "Name": "Orar 1 vez com o Pacto das Cinzas da Anciã do Cogumelo"
   },
   "732107": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732107,
-    "Name": "Orar 10 vezes com os Pactos das Cinzas da Anciã Cogumelo"
+    "Name": "Orar 10 vezes com os Pactos das Cinzas da Anciã do Cogumelo"
   },
   "732120": {
     "BtnType": 1,
@@ -6872,6 +6907,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739011,
     "Name": "Missão do Mar Profundo: Ajuste de Linha de Engrama"
+  },
+  "739012": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "Id": 739012,
+    "Name": "Tear dos Sonhos: Purgação dos Pesadelos"
   },
   "7501": {
     "BtnType": 1,
@@ -7565,5 +7607,40 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920519,
     "Name": "Dicas de Evento"
+  },
+  "9300001": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300001,
+    "Name": "Fim do Sonho"
+  },
+  "9300002": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300002,
+    "Name": "Trocar Habilidade de Bênção"
+  },
+  "9300003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300003,
+    "Name": "Obter Bênção (Apenas Uma Vez)"
+  },
+  "9300004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300004,
+    "Name": "Trocar por Bênção"
+  },
+  "9300005": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300005,
+    "Name": "Abrir \"Baú Cheio de Sonhos\" (Apenas Uma Vez)"
   }
 }

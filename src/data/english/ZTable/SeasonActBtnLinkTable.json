@@ -1,6 +1,7 @@
 {
   "1": {
     "BtnFunction": [],
+    "FunctionId": 0,
     "Icon": "ui/atlas/recommendedplay/play_icon_2",
     "Id": 1,
     "Name": "Point Rewards",
@@ -9,6 +10,7 @@
   },
   "2": {
     "BtnFunction": ["CheckOpenTreasureView", "treasure", "self"],
+    "FunctionId": 0,
     "Icon": "ui/atlas/recommendedplay/play_icon_3",
     "Id": 2,
     "Name": "Pioneer Award",
@@ -17,6 +19,7 @@
   },
   "3": {
     "BtnFunction": ["OpenMaseterScoreView", "hero_dungeon_main"],
+    "FunctionId": 0,
     "Icon": "ui/atlas/recommendedplay/play_icon_4",
     "Id": 3,
     "Name": "Master Seal",
@@ -25,6 +28,7 @@
   },
   "4": {
     "BtnFunction": ["OpenShopView", "shop", "800817"],
+    "FunctionId": 0,
     "Icon": "ui/atlas/recommendedplay/play_icon_2",
     "Id": 4,
     "Name": "Friendship Store",
@@ -33,6 +37,7 @@
   },
   "5": {
     "BtnFunction": ["OpenTargetView", "weekly_hunt"],
+    "FunctionId": 0,
     "Icon": "ui/atlas/recommendedplay/play_icon_5",
     "Id": 5,
     "Name": "Floor Rewards",
@@ -41,6 +46,7 @@
   },
   "6": {
     "BtnFunction": ["OpenJumpDialog", "weekly_hunt"],
+    "FunctionId": 0,
     "Icon": "ui/atlas/recommendedplay/play_icon_5",
     "Id": 6,
     "Name": "Skip-Floor Rewards",
@@ -50,5 +56,14 @@
       [114, 0],
       [115, 0]
     ]
+  },
+  "8": {
+    "BtnFunction": ["OpenMulHelpSysView", "helpsys", "93001"],
+    "FunctionId": 0,
+    "Icon": "ui/atlas/esc_icon/esc_icon_fingerpost",
+    "Id": 8,
+    "Name": "Guide",
+    "RedDotId": 0,
+    "ShowCondition": []
   }
 }

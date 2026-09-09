@@ -48,7 +48,7 @@
     "TextColor": ""
   },
   "1002": {
-    "BaseDetailsDes": "กิจกรรมพื้นฐานในรอบนี้ประกอบด้วย:<br>การจับรางวัลแต่ละครั้งรับประกันการคืนคะแนน <style=\"accent-gn\">Story Series·Golden Cat Points</style> ในจำนวนที่แน่นอน โดยจำนวนคะแนนที่ได้รับจะขึ้นอยู่กับความหายากของรางวัลที่จับได้ ยิ่งรางวัลหายากมากเท่าไหร่ ก็ยิ่งได้รับคะแนนคืนมากขึ้นเท่านั้น;<br><style=\"accent-gn\">การจับรางวัลครั้งที่ 30</style> รับประกันการได้รับ <style=\"accent-gn\">ตั๋วรางวัล A</style>;<br><style=\"accent-gn\">การจับรางวัลครั้งที่ 80</style> รับประกันการได้รับ <style=\"accent-gn\">ตั๋วรางวัล S</style>!",
+    "BaseDetailsDes": "[เหตุการณ์ทั่วไป]: <br>ทุกครั้งสุ่มจะได้รับ <style=\"accent-gn\">Monogatari Series - Gold Meow Point rebates</style> แน่นอน ปริมาณที่ได้รับจะสัมพันธ์กับความหายากของรางวัล ยิ่งรางวัลหายากมากเท่าไหร่ ก็ยิ่งได้รับคืนมากเท่านั้น<br><style=\"accent-gn\">สุ่มครั้งที่ 30</style> จะได้รับ <style=\"accent-gn\">A Prize Voucher</style>;<br><style=\"accent-gn\">สุ่มครั้งที่ 80</style> จะได้รับ <style=\"accent-gn\">S Prize Voucher</style> แน่นอน!",
     "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
     "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
     "DrawPopupCardPath": [
@@ -64,7 +64,7 @@
     "InitialfreeLotteryTime": 1,
     "LotteryName": ["สุ่ม 1 ครั้ง", "สุ่ม 5 ครั้ง"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "<style=\"accent-gn\">สุ่มรางวัลแต่ละครั้งมีโอกาส 25.0000% ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้ได้แก่:<br> เหตุการณ์ที่ 1: สุ่มรางวัลครั้งต่อไปฟรี;<br> เหตุการณ์ที่ 2: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Cat 3 เท่า;<br> เหตุการณ์ที่ 3: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br> เหตุการณ์ที่ 4: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]</style>",
+    "LuckDetailsDes": "สุ่มรางวัลทุกครั้งมีโอกาส <style=\"accent-gn\">25.0000%</style> ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้:<br>[เหตุการณ์ที่ 1]: สุ่มรางวัลครั้งต่อไปฟรี;<br>[เหตุการณ์ที่ 2]: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Meow Point 3 เท่า;<br>[เหตุการณ์ที่ 3]: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br>[เหตุการณ์ที่ 4]: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
     "LuckPoolId": 1002,
     "MallItemId": 11002,
     "MiniGuaranteeDetails": [
@@ -115,7 +115,7 @@
     "InitialfreeLotteryTime": 1,
     "LotteryName": ["สุ่ม 1 ครั้ง", "สุ่ม 5 ครั้ง"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "ทุกครั้งสุ่มรางวัลมีโอกาส <style=\"accent-gn\">25.0000%</style> ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้ได้แก่:<br> เหตุการณ์ที่ 1: สุ่มรางวัลครั้งต่อไปฟรี;<br> เหตุการณ์ที่ 2: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Cat 3 เท่า;<br> เหตุการณ์ที่ 3: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br> เหตุการณ์ที่ 4: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
+    "LuckDetailsDes": "สุ่มรางวัลทุกครั้งมีโอกาส <style=\"accent-gn\">25.0000%</style> ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้:<br>[เหตุการณ์ที่ 1]: สุ่มรางวัลครั้งต่อไปฟรี;<br>[เหตุการณ์ที่ 2]: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Meow Point 3 เท่า;<br>[เหตุการณ์ที่ 3]: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br>[เหตุการณ์ที่ 4]: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
     "LuckPoolId": 1003,
     "MallItemId": 11003,
     "MiniGuaranteeDetails": [
@@ -166,7 +166,7 @@
     "InitialfreeLotteryTime": 1,
     "LotteryName": ["สุ่ม 1 ครั้ง", "สุ่ม 5 ครั้ง"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "ทุกครั้งสุ่มรางวัลมีโอกาส <style=\"accent-gn\">25.0000%</style> ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้ได้แก่:<br> เหตุการณ์ที่ 1: สุ่มรางวัลครั้งต่อไปฟรี;<br> เหตุการณ์ที่ 2: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Cat 3 เท่า;<br> เหตุการณ์ที่ 3: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br> เหตุการณ์ที่ 4: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
+    "LuckDetailsDes": "สุ่มรางวัลทุกครั้งมีโอกาส <style=\"accent-gn\">25.0000%</style> ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้:<br>[เหตุการณ์ที่ 1]: สุ่มรางวัลครั้งต่อไปฟรี;<br>[เหตุการณ์ที่ 2]: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Meow Point 3 เท่า;<br>[เหตุการณ์ที่ 3]: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br>[เหตุการณ์ที่ 4]: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
     "LuckPoolId": 1004,
     "MallItemId": 11004,
     "MiniGuaranteeDetails": [
@@ -196,6 +196,55 @@
     "PrizePoolId": 1004,
     "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
     "Sort": 4,
+    "TextColor": "#ffffff"
+  },
+  "1005": {
+    "BaseDetailsDes": "กิจกรรม [พื้นฐาน] ของรอบนี้:<br> ทุกครั้งที่สุ่ม จะได้รับ<style=\"accent-gn\">Moonrise: คืน Gold Meow Points</style>จำนวนหนึ่งแน่นอน จำนวนที่ได้รับขึ้นอยู่กับความหายากของรางวัลที่สุ่มได้ ยิ่งหายากยิ่งได้รับคืนมาก;<br><style=\"accent-gn\">สุ่มครั้งที่ 25</style>รับ <style=\"accent-gn\">A Prize Voucher</style>แน่นอน;<br><style=\"accent-gn\">สุ่มครั้งที่ 70</style>รับ <style=\"accent-gn\">S Prize Voucher</style>แน่นอน!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850105,
+    "HelpLibraryId": 25005,
+    "Id": 1005,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["สุ่ม 1 ครั้ง", "สุ่ม 5 ครั้ง"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "สุ่มรางวัลทุกครั้งมีโอกาส <style=\"accent-gn\">25.0000%</style> ที่จะเกิดเหตุการณ์ [โชคดี]! เหตุการณ์โชคดีในรอบนี้:<br>[เหตุการณ์ที่ 1]: สุ่มรางวัลครั้งต่อไปฟรี;<br>[เหตุการณ์ที่ 2]: สุ่มรางวัลครั้งต่อไปจะได้รับคะแนน Gold Meow Point 3 เท่า;<br>[เหตุการณ์ที่ 3]: เพิ่มโอกาสในสุ่มรางวัล [A] ในสุ่มรางวัลครั้งต่อไป;<br>[เหตุการณ์ที่ 4]: สุ่มรางวัลครั้งต่อไปจะไม่ได้รับรางวัล [C], [D] หรือ [E]",
+    "LuckPoolId": 1005,
+    "MallItemId": 11005,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12005, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41110,
+    "PointsActivityFunctionId": 20016,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Moonrise",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1005,
+    "PrizeShowDetails": [100501, 100502, 100503, 100504, 100505, 100506, 100507],
+    "Sort": 5,
     "TextColor": "#ffffff"
   }
 }

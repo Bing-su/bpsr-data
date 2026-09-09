@@ -3989,6 +3989,34 @@
     "Id": 30420,
     "Name": "방생하기"
   },
+  "30421": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30421,
+    "Name": "깊은 숲의 문베리 채집"
+  },
+  "30422": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "Id": 30422,
+    "Name": "영혼의 춤 시작"
+  },
+  "30423": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30423,
+    "Name": "포자 으깨기"
+  },
+  "30424": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30424,
+    "Name": "식양에 넣기"
+  },
   "3050201": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -4835,6 +4863,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56019,
     "Name": "상대 마작 획득하기"
+  },
+  "56020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 56020,
+    "Name": "로로라 폭죽 점화"
   },
   "57001": {
     "BtnType": 1,
@@ -6731,56 +6766,56 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732100,
-    "Name": "하랄라 장로의 재의 계약 1회 기도하기"
+    "Name": "하랄라 장로의 재의 계약 1회 기원하기"
   },
   "732101": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732101,
-    "Name": "하랄라 장로의 재의 계약 10회 기도하기"
+    "Name": "하랄라 장로의 재의 계약 10회 기원하기"
   },
   "732102": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732102,
-    "Name": "쿵쿵 장로의 재의 계약 1회 기도하기"
+    "Name": "쿵쿵 장로의 재의 계약 1회 기원하기"
   },
   "732103": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732103,
-    "Name": "쿵쿵 장로의 재의 계약 10회 기도하기"
+    "Name": "쿵쿵 장로의 재의 계약 10회 기원하기"
   },
   "732104": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732104,
-    "Name": "하얀 늑대 재의 계약 1회 기도하기"
+    "Name": "하얀 늑대의 재의 계약 1회 기원하기"
   },
   "732105": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732105,
-    "Name": "하얀 늑대 재의 계약 10회 기도하기"
+    "Name": "하얀 늑대의 재의 계약 10회 기원하기"
   },
   "732106": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732106,
-    "Name": "나무 버섯 장로의 재의 계약 1회 기도하기"
+    "Name": "나무버섯 장로의 재의 계약 1회 기원하기"
   },
   "732107": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732107,
-    "Name": "나무 버섯 장로의 재의 계약 10회 기도하기"
+    "Name": "나무버섯 장로의 재의 계약 10회 기원하기"
   },
   "732120": {
     "BtnType": 1,
@@ -6872,6 +6907,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739011,
     "Name": "심해 작전・엔그램 라인 조율"
+  },
+  "739012": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "Id": 739012,
+    "Name": "꿈 엮기 의식・변이된 꿈 정화"
   },
   "7501": {
     "BtnType": 1,
@@ -7565,5 +7607,40 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920519,
     "Name": "이벤트 알림"
+  },
+  "9300001": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300001,
+    "Name": "꿈 끝내기"
+  },
+  "9300002": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300002,
+    "Name": "축복 스킬 교환"
+  },
+  "9300003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300003,
+    "Name": "축복 획득 (1회 제한)"
+  },
+  "9300004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300004,
+    "Name": "축복 교환"
+  },
+  "9300005": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300005,
+    "Name": "「꿈으로 가득 찬 상자」 열기 (1회 제한)"
   }
 }

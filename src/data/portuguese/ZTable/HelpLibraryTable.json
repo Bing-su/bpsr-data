@@ -3004,6 +3004,29 @@
     "Type": 3,
     "TypeGroup": 0
   },
+  "25005": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "※ O primeiro sorteio é grátis! <br><br>Esta rodada do conjunto de prêmios do Especial Miaulux requer <color=#eed335>Ascensão da Lua - Pontos do Miau Dourado</color> exclusivos para sortear. Os Pontos do Miau Dourado podem ser obtidos das seguintes formas: <br> Concluindo missões por tempo limitado no evento \"Festival da Colheita de Kanamia\";<br> Trocando por <color=#eed335>Bilhetes Universais do Especial Miaulux</color> na Loja Astral;<br> Comprando diretamente pelo pop-up de compra rápida durante um sorteio.<br>※ Nota: os Pontos do Miau Dourado são válidos apenas durante o evento \"Ascensão da Lua\". <br><br>Cada sorteio concede 1 prêmio do conjunto. O conjunto de prêmios contém <color=#eed335>100</color> prêmios, e o número de prêmios diminui a cada sorteio até o conjunto ser esvaziado. <br>Após o sorteio de um prêmio, seu peso é removido do conjunto, mudando as chances dos prêmios restantes. <br><br>Durante os sorteios, eventos aleatórios podem ser acionados: <color=#9cb9ef>[Eventos Básicos]</color> e <color=#ab85f6>[Eventos de Sorte]</color>. <br><color=#9cb9ef>Os [Eventos Básicos]</color> desta rodada incluem: <br> [Reembolso de Ponto do Miau Dourado]: Cada sorteio garante um reembolso de Pontos do Miau Dourado com base na raridade do prêmio. [Prêmio S] 50x Pontos do Miau Dourado, [Prêmio A] 30x Pontos do Miau Dourado, [Prêmio B] 20x Pontos do Miau Dourado, [Prêmio C] 15x Pontos do Miau Dourado, [Prêmio D] 10x Pontos do Miau Dourado, [Prêmio E] 5x Pontos do Miau Dourado. <br> [Sistema de Garantia]: O 25º sorteio garante um [Prêmio A], o 70º sorteio garante um [Prêmio S].<br>※ O contador de garantia para este conjunto de prêmios do Especial Miaulux é independente e não afeta nem se transfere para outros eventos. <br><br>Os <color=#ab85f6>[Eventos de Sorte]</color> desta rodada incluem: <br> [Evento 1]: Próximo Sorteio Grátis;<br> [Evento 2]: Próximo Sorteio Retorna 3x Pontos do Miau Dourado;<br> [Evento 3]: Aumento na Probabilidade de Prêmio A no Próximo Sorteio;<br> [Evento 4]: Próximo Sorteio Exclui Prêmios C/D/E. <br><br>Cada sorteio tem uma chance de <color=#ffe2af>25,0000%</color> de acionar um Evento de Sorte (excluindo o último sorteio). Durante os diferentes estágios de sorteio, as probabilidades específicas de acionamento de Evento de Sorte são as seguintes: <br> Sorteios 1–20: Evento 1 – <color=#ffe2af>20,0000%</color>, Evento 2 – <color=#ffe2af>80,0000%</color>;<br> Sorteios 21–60: Evento 1 – <color=#ffe2af>20,0000%</color>, Evento 2 – <color=#ffe2af>40,0000%</color>, Evento 3 – <color=#ffe2af>20,0000%</color>, Evento 4 – <color=#ffe2af>20,0000%</color>;<br> Sorteios 61–99: Evento 1 – <color=#ffe2af>8,0000%</color>, Evento 2 – <color=#ffe2af>20,0000%</color>, Evento 3 – <color=#ffe2af>40,0000%</color>, Evento 4 – <color=#ffe2af>32,0000%</color>. <br><br>As probabilidades de sorteio iniciais do conjunto de prêmios são: <br> [Prêmio S] – <color=#ffe2af>0,3064%</color><br> [Prêmio A] – <color=#ffe2af>2,4509%</color><br> [Prêmio B] – <color=#ffe2af>13,2390%</color><br> [Prêmio C] – <color=#ffe2af>21,1388%</color><br> [Prêmio D] – <color=#ffe2af>29,7781%</color><br> [Prêmio E] – <color=#ffe2af>33,0868%</color><br>※ Prêmios com a mesma raridade têm probabilidades de sorteio iguais.<br><br>※ Após esvaziar o conjunto de prêmios, você pode usar Pontos do Miau Dourado ou Orbes Rosas na Loja Astral para obter Bilhetes do Miau Dourado, que podem ser trocados por itens limitados.<br>※ Após o fim do evento, os itens expirados podem ser devolvidos para a Miaunia no Empório Olho de Gato em Estrelândia para serem reciclados em <color=#9cb9ef>Medalhas de Estrelândia</color>."
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 25005,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 25005,
+    "Title": "[Ascensão da Lua] Detalhes do Conjunto de Prêmios do Especial Miaulux",
+    "Type": 3,
+    "TypeGroup": 0
+  },
   "2501": {
     "Button": "",
     "Condition": [],
@@ -6182,7 +6205,7 @@
       "",
       "Nota:",
       "",
-      "1. Equipamentos específicos podem ser necessários para a criação. <br>2. O equipamento criado tem atributos fixos, independentemente dos materiais usados."
+      "1. Equipamentos específicos podem ser necessários para a criação. <br>2. O equipamento criado tem atributos fixos, independentemente dos materiais usados.<br>"
     ],
     "DurationTime": 0,
     "EventType": 0,
@@ -9421,5 +9444,62 @@
     "Title": "Título 4 do Grupo 2",
     "Type": 4,
     "TypeGroup": 1
+  },
+  "9208": {
+    "Button": "",
+    "Condition": [[1, 99999]],
+    "Content": [
+      "<color=#eed335>Objetivo do Jogo</style>: Dispute a pontuação mais alta no campo e torne-se o Sentinela de Kanamia! <br><color=#eed335>Conclusão da Partida</style>: As partidas são concluídas com base no tempo e na pontuação. A partida terminará quando a contagem regressiva chegar a zero ou quando um guerreiro atingir 4.000 pontos. Os guerreiros serão ranqueados de acordo com suas pontuações. <br><color=#eed335>Obtenção de Pontos</style>: Derrote inimigos ou obtenha Selos do Lobo Branco para ganhar pontos.",
+      "<color=#eed335>Ativação do Dispositivo</style>: Quando todos os guerreiros estiverem reunidos, um guerreiro deve interagir com o dispositivo para iniciar a Fase de Preparação. <br><color=#eed335>Obtenção de Habilidades</style>: Vários orbes de habilidade aleatórios aparecerão durante a Fase de Preparação. Colete um para obter uma habilidade inicial que pode ser usada repetidamente após entrar no campo de batalha. <br><color=#eed335>Dispositivo de Teletransporte</style>: Se todos os jogadores estiverem prontos, por favor, entrem no dispositivo de teletransporte para entrar na partida mais cedo.",
+      "<color=#eed335>Obtenção de Habilidades</style>: Várias frutas de habilidade aparecerão no campo. Coletar uma fruta de habilidade adiciona a habilidade correspondente ao seu Espaço de habilidade. <br><color=#eed335>Tipos de Habilidade</style>: As frutas de habilidade no campo são de cinco tipos: Controle, Empurrão, Defesa, Armadilha e Bonificação. Cada tipo aplica um efeito de habilidade distinto a você ou aos seus inimigos.",
+      "<color=#eed335>Espaços de Habilidade</style>: Cada guerreiro possui dois Espaços de habilidade: um para uma habilidade inicial e outro para uma habilidade temporária. <br><color=#eed335>Habilidade Inicial</style>: Obtida na área de preparação e pode ser usada repetidamente durante a partida, incluindo habilidades de Controle, Empurrão, Defesa e Armadilha. <br><color=#eed335>Habilidade Temporária</style>: Obtida no campo de batalha e pode ser usada apenas uma vez, incluindo todos os tipos de habilidade.",
+      "<color=#eed335>Derrotando Jogadores</style>: Use diferentes habilidades e estratégias para derrotar outros jogadores e ganhar mais Pontos. <br><color=#eed335>Derrota e Ressurreição</style>: Um guerreiro é derrotado quando o PV chega a zero ou quando é arremessado para além do limite do campo de batalha. Ele será teletransportado de volta para o campo de batalha, transformando-se temporariamente em um Golem kanamiano.",
+      "<color=#eed335>Altar da Renovação</style>: A Renovação aparecerá periodicamente no campo. Acenda-a o mais rápido possível para ganhar o favor do Lobo Branco. Enquanto a Renovação permanecer acesa após o altar ser iluminado, preencha sua barra de progresso e fique perto para que sua chama não se apague. <br><color=#eed335>Obtenção de Selos</style>: O primeiro guerreiro a acender a Renovação ganhará o favor do Lobo Branco, recebendo um Selo do Lobo Branco e Pontos. <br><color=#eed335>Portando Selos</style>: Ao carregar um Selo do Lobo Branco, um guerreiro ganhará Pontos continuamente. Carregar mais Selos concede mais Pontos. Cada jogador pode carregar até 2 Selos do Lobo Branco.",
+      "<color=#eed335>Mudanças no Mapa</style>: O campo de batalha pode variar de partida para partida e mudará à medida que a partida avança. Fique atento às mudanças e ajuste sua rota de acordo. <br><color=#eed335>Mecânicas Especiais</style>: Efeitos especiais aparecerão assim que a partida atingir certas fases. Fique alerta!"
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 9208,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 9208,
+    "Title": "Conflito! Batalha pela Renovação",
+    "Type": 1,
+    "TypeGroup": 0
+  },
+  "93001": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "<color=#eed335>Introdução</color>: Durante a partida, derrote monstros para obter <style=\"GuideBookLab2\">Pó Onírico</style>, que pode ser trocado por Bênçãos e Habilidades de Bênção à medida que você enfrenta a Purgação dos Pesadelos.",
+      "<color=#eed335>Trocar por Bênção</color>: Consuma Pó Onírico nos NPCs ou dispositivos correspondentes para trocar por <style=\"GuideBookLab2\">Bênçãos</style> e <style=\"GuideBookLab2\">Habilidades de Bênção</style>.",
+      "<color=#eed335>Mutação Onírica</color>: Em “Purgação dos Pesadelos”, os sonhos podem sofrer mutações aleatórias. Os sonhos mutantes desencadearão <style=\"GuideBookLab2\">eventos especiais</style>.",
+      "<color=#eed335>Lorde do Pesadelo</color>: Durante certas rodadas, <style=\"GuideBookLab2\">Lorde do Pesadelo</style> aparecerão. Se não forem derrotados, a <style=\"GuideBookLab2\">tentativa terminará em fracasso</style>.",
+      "<color=#eed335>Resultados</color>: Depois de concluir o Expurgo do Sonho Raso, você pode optar por se teletransportar para o <style=\"GuideBookLab2\">Resultados</style> ou <style=\"GuideBookLab2\">desafiar o Expurgo do Sonho Profundo</style>.",
+      "<color=#eed335>Expurgo do Sonho Profundo</color>: Lordes dos Pesadelos mais poderosos aparecerão no Expurgo do Sonho Profundo, e você  <style=\"GuideBookLab2\">não poderá obter Pó Onírico</style>."
+    ],
+    "DurationTime": 15,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 3,
+    "Icon": "",
+    "Id": 93001,
+    "MainTitle": "",
+    "Param": "",
+    "Res": ["knmrg_001", "knmrg_002", "knmrg_003", "knmrg_004", "knmrg_005", "knmrg_006"],
+    "Sequence": 51,
+    "SortId": 93001,
+    "Title": "Tear dos Sonhos: Purgação dos Pesadelos",
+    "Type": 1,
+    "TypeGroup": 0
   }
 }

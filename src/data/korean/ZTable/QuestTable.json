@@ -12827,6 +12827,62 @@
     "StepFlowPath": "bin/task/task_step/s3quest/sidequest_01/sidequest_01-60",
     "TimeLimit": []
   },
+  "186646": {
+    "AbortLimit": [["16", "6646"]],
+    "AccessLimit": [["15", "6646"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "부족민들이 잇달아 공유몽 능력을 잃으면서 카나미아의 전통에 그늘이 드리웠습니다. 선조의 숨결 포자에 생긴 이변에 대해 조사하면 꿈을 잃는 현상의 원인을 찾을 수 있을지 모릅니다.<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 186646,
+    "QuestName": "[기간 한정 이벤트] 꿈을 이끄는 씨앗",
+    "QuestStep": 186646001,
+    "QuestType": 90,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-20",
+    "TimeLimit": []
+  },
+  "186647": {
+    "AbortLimit": [["16", "6647"]],
+    "AccessLimit": [["15", "6647"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021, 25029041
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "대사제 로로라가 마침내 부족으로 돌아왔습니다. 그녀가 가져온 것은 좋은 소식일까요? 아니면…<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 186647,
+    "QuestName": "[기간 한정 이벤트] 꿈을 좇는 길",
+    "QuestStep": 186647001,
+    "QuestType": 90,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-21",
+    "TimeLimit": []
+  },
   "186701": {
     "AbortLimit": [["16", "6701"]],
     "AccessLimit": [["15", "6701"]],
@@ -13575,7 +13631,7 @@
     ],
     "PreQuest": [],
     "PreQuestLogic": "(10904)",
-    "QuestDetail": "라팔 마을의 촌장 알폰스가 사람을 통해 전갈을 보내왔는데, 상인 차림의 사람이 일부러 나를 찾아왔다고 하며, “이 일은 광산의 형제들과 관련이 있다”고 했다고 한다. 직접 만나 무슨 일이 있었는지 확인해 봐야겠다.",
+    "QuestDetail": "라팔 마을의 촌장 알폰스가 사람을 통해 전갈을 보내왔는데, 상인 차림의 사람이 일부러 나를 찾아왔다고 하며, \"이 일은 광산의 형제들과 관련이 있다”고 했다고 한다. 직접 만나 무슨 일이 있었는지 확인해 봐야겠다.",
     "QuestId": 20025,
     "QuestName": "비어있는 왕관의 자리",
     "QuestStep": 20025001,
@@ -28521,6 +28577,482 @@
     "QuestStep": 50268002,
     "QuestType": 84,
     "StepFlowPath": "bin/task/task_step/huodong/50260/50260-11",
+    "TimeLimit": []
+  },
+  "50290": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41110"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 70140010,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "카나미아 부락에서 성대한 풍수제가 열리고 있습니다. 부족의 제1용사로서 돌아가 볼 때가 된 것 같습니다.<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50290,
+    "QuestName": "[기간 한정 이벤트] 풍수제로 돌아가는 길",
+    "QuestStep": 50290001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-3",
+    "TimeLimit": []
+  },
+  "50291": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [["18", "41114"]],
+    "AccpetType": [0],
+    "AwardId": 70140020,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003, 25029010, 25029009],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50290",
+    "QuestDetail": "부족민들이 잇달아 공유몽 능력을 잃으면서 카나미아의 전통에 그늘이 드리웠습니다. 선조의 숨결 포자에 생긴 이변에 대해 조사하면 꿈을 잃는 현상의 원인을 찾을 수 있을지 모릅니다.<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50291,
+    "QuestName": "[기간 한정 이벤트] 꿈을 이끄는 씨앗",
+    "QuestStep": 50291001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-4",
+    "TimeLimit": []
+  },
+  "50292": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [["18", "41115"]],
+    "AccpetType": [0],
+    "AwardId": 70140030,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50291",
+    "QuestDetail": "로로라는 거울점을 통해 선조의 가르침을 찾고자 합니다. 하지만 거울점의 촉매가 될 고대의 거울은 오래전 옛 땅의 유적에 묻혔습니다……<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50292,
+    "QuestName": "[기간 한정 이벤트] 거울 속의 달",
+    "QuestStep": 50292001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-5",
+    "TimeLimit": []
+  },
+  "50293": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [["18", "41116"]],
+    "AccpetType": [0],
+    "AwardId": 70140040,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50292",
+    "QuestDetail": "올해 풍수제에서는 식양의 불꽃마저 불안정해졌습니다. 이는 과연 선조의 노여움 때문일까요, 아니면 다른 사정이 있는 걸까요?<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50293,
+    "QuestName": "[기간 한정 이벤트] 소중히 여기는 것",
+    "QuestStep": 50293015,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-6",
+    "TimeLimit": []
+  },
+  "50294": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [["18", "41117"]],
+    "AccpetType": [0],
+    "AwardId": 70140050,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50293",
+    "QuestDetail": "대사제 로로라가 마침내 부족으로 돌아왔습니다. 그녀가 가져온 것은 좋은 소식일까요? 아니면…<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50294,
+    "QuestName": "[기간 한정 이벤트] 꿈을 좇는 길",
+    "QuestStep": 50294001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-7",
+    "TimeLimit": []
+  },
+  "50295": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140060,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50301",
+    "QuestDetail": "징조일까요? ……선조의 길의 제단으로 가 확인해야 할 것 같습니다.<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50295,
+    "QuestName": "[기간 한정 이벤트] 뱀 토템의 부름",
+    "QuestStep": 50295003,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-8",
+    "TimeLimit": []
+  },
+  "50296": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140070,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50302",
+    "QuestDetail": "징조일까요? ……선조의 길의 제단으로 가 확인해야 할 것 같습니다.<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50296,
+    "QuestName": "[기간 한정 이벤트] 새 토템의 부름",
+    "QuestStep": 50296006,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-9",
+    "TimeLimit": []
+  },
+  "50297": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140080,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50303",
+    "QuestDetail": "징조일까요? ……선조의 길의 제단으로 가 확인해야 할 것 같습니다.<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50297,
+    "QuestName": "[기간 한정 이벤트] 거울 토템의 부름",
+    "QuestStep": 50297005,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-10",
+    "TimeLimit": []
+  },
+  "50298": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140090,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50304",
+    "QuestDetail": "징조일까요? ……선조의 길의 제단으로 가 확인해야 할 것 같습니다.<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50298,
+    "QuestName": "[기간 한정 이벤트] 양 토템의 부름",
+    "QuestStep": 50298006,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-11",
+    "TimeLimit": []
+  },
+  "50299": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140100,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50305",
+    "QuestDetail": "징조일까요? ……선조의 길의 제단으로 가 확인해야 할 것 같습니다.<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50299,
+    "QuestName": "[기간 한정 이벤트] 항아리 토템의 부름",
+    "QuestStep": 50299005,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-12",
+    "TimeLimit": []
+  },
+  "50300": {
+    "AbortLimit": [["42", "41118"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41118"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 70140110,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "풍수제도 막바지에 접어들었습니다. 꿈을 잃은 해에 일어난 여러 이상 현상들은 과연 어떤 변화를 예고하는 걸까요?<br><style=\"emph-gn\">이벤트 퀘스트 남은 시간: {*RemainingTaskTime*}</style>",
+    "QuestId": 50300,
+    "QuestName": "[기간 한정 이벤트] 아직 꺼지지 않은 식양",
+    "QuestStep": 50300001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-13",
+    "TimeLimit": []
+  },
+  "50301": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50290)",
+    "QuestDetail": "",
+    "QuestId": 50301,
+    "QuestName": "",
+    "QuestStep": 50301001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-14",
+    "TimeLimit": []
+  },
+  "50302": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50291)",
+    "QuestDetail": "",
+    "QuestId": 50302,
+    "QuestName": "",
+    "QuestStep": 50302001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-16",
+    "TimeLimit": []
+  },
+  "50303": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [["18", "41115"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50291)",
+    "QuestDetail": "",
+    "QuestId": 50303,
+    "QuestName": "",
+    "QuestStep": 50303001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-17",
+    "TimeLimit": []
+  },
+  "50304": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50293)",
+    "QuestDetail": "",
+    "QuestId": 50304,
+    "QuestName": "",
+    "QuestStep": 50304001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-18",
+    "TimeLimit": []
+  },
+  "50305": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50294 and 50295 and 50296 and 50297 and 50298)",
+    "QuestDetail": "",
+    "QuestId": 50305,
+    "QuestName": "",
+    "QuestStep": 50305001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-19",
+    "TimeLimit": []
+  },
+  "50306": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41110"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021, 25029041
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "",
+    "QuestId": 50306,
+    "QuestName": "",
+    "QuestStep": 50306001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-71",
     "TimeLimit": []
   },
   "70000": {

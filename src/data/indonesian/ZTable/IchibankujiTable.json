@@ -197,5 +197,54 @@
     "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
     "Sort": 4,
     "TextColor": "#ffffff"
+  },
+  "1005": {
+    "BaseDetailsDes": "[Peristiwa Dasar] edisi ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=\"accent-gn\">Saat Bulan Sabit Terbit·Cashback Goldmeow</style>, jumlah pastinya bergantung pada Kelangkaan Reward yang didapat, semakin langka semakin banyak jumlah Cashback;<br><style=\"accent-gn\">Tarikan ke-25</style> pasti mendapat <style=\"accent-gn\">Tiket Reward A</style>;<br><style=\"accent-gn\">Tarikan ke-70</style> pasti mendapat <style=\"accent-gn\">Tiket Reward S</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850105,
+    "HelpLibraryId": 25005,
+    "Id": 1005,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tarik 1 Kali", "Tarik 5 kali"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Setiap tarikan memiliki Peluang sebesar <style=\"accent-gn\">25.0000%</style> untuk memicu 【Peristiwa Luck】! Peristiwa Luck kali ini meliputi:<br> 「Peristiwa 1」: Tarikan berikutnya Gratis;<br> 「Peristiwa 2」: Tarikan berikutnya memberikan Cashback 3x Goldmeow;<br> 「Peristiwa 3」: Peluang mendapatkan 【Hadiah A】 pada tarikan berikutnya Meningkat;<br> 「Peristiwa 4」: Tarikan berikutnya tidak akan mendapatkan 【Hadiah C】, 【Hadiah D】, dan 【Hadiah E】",
+    "LuckPoolId": 1005,
+    "MallItemId": 11005,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12005, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41110,
+    "PointsActivityFunctionId": 20016,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Saat Bulan Sabit Terbit",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1005,
+    "PrizeShowDetails": [100501, 100502, 100503, 100504, 100505, 100506, 100507],
+    "Sort": 5,
+    "TextColor": "#ffffff"
   }
 }

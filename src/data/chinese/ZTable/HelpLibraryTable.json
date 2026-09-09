@@ -2967,6 +2967,29 @@
     "Type": 3,
     "TypeGroup": 0
   },
+  "25005": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "※首次抽取免费！<br><br>本期喵特赏奖池需使用专属的<color=#eed335>弦月升起之时·金喵点</color>进行抽取。金喵点可通过以下方式获得：<br>    完成「卡尼曼丰收祭」限时目标任务免费获取；<br>    在「异世界商店」消耗<color=#eed335>喵特赏万用券</color>限量兑换；<br>    在抽取时弹出的快捷购买界面直接购买。<br>※请注意，该金喵点仅在「弦月升起之时」活动期间有效。<br><br>每次抽取可从奖池中获得1个奖品。本期奖池共有<color=#eed335>100</color>个奖品，奖池中的奖品数量会随着抽取次数逐渐减少，直至搬空。<br>每次抽中奖品后，该奖品对应的权重会从奖池中移除，剩余奖励的抽取概率会发生变化。<br><br>抽取过程中有概率触发奖池随机事件：<color=#9cb9ef>【基础事件】</color>和<color=#ab85f6>【幸运事件】</color>。<br>本期<color=#9cb9ef>【基础事件】</color>包括：<br>    「金喵点返还」：每次抽取必定返还一定数量的金喵点，返还数量与抽中奖品的稀有度相关。【S赏】返还金喵点x50，【A赏】返还金喵点x30，【B赏】返还金喵点x20，【C赏】返还金喵点x15，【D赏】返还金喵点x10，【E赏】返还金喵点x5。<br>    「保底机制」：第25次抽取必定获得1个【A赏】奖品，第70次抽取必定获得1个【S赏】奖品。<br>※喵特赏奖池的保底次数独立计算，不会影响或继承至其他活动。<br><br>本期<color=#ab85f6>【幸运事件】</color>包括：<br>    「事件一」：下一次抽取免费；<br>    「事件二」：下一次抽取返还3倍金喵点；<br>    「事件三」：下一次抽取【A赏】概率提升；<br>    「事件四」：下一次抽取不出【C赏】、【D赏】及【E赏】。<br><br>每一次抽取均有<color=#ffe2af>25.0000%</color>概率触发幸运事件（不包含最后1抽），其中在不同抽取阶段，具体幸运事件触发概率为：<br>    第1抽~第20抽：事件一 <color=#ffe2af>20.0000%</color>，事件二 <color=#ffe2af>80.0000%</color>；<br>    第21抽~第60抽：事件一 <color=#ffe2af>20.0000%</color>，事件二 <color=#ffe2af>40.0000%</color>，事件三 <color=#ffe2af>20.0000%</color>，事件四 <color=#ffe2af>20.0000%</color>；<br>    第61抽~第99抽：事件一 <color=#ffe2af>8.0000%</color>，事件二 <color=#ffe2af>20.0000%</color>，事件三 <color=#ffe2af>40.0000%</color>，事件四 <color=#ffe2af>32.0000%</color>。<br><br>奖池初始获取概率为：<br>    【S赏】<color=#ffe2af>0.3064%</color><br>    【A赏】<color=#ffe2af>2.4509%</color><br>    【B赏】<color=#ffe2af>13.2390%</color><br>    【C赏】<color=#ffe2af>21.1388%</color><br>    【D赏】<color=#ffe2af>29.7781%</color><br>    【E赏】<color=#ffe2af>33.0868%</color><br>※同稀有度下各个奖励的抽取概率均等。<br><br>※搬空奖池后，可在「异世界商店」使用金喵点或蔷薇宝石兑换金喵券，换取商店中的限定商品。<br>※活动结束后，可前往游星岛万事屋「猫眼」喵尼娅处将失效道具回收为<color=#9cb9ef>游星纪念章</color>。"
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 25005,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 25005,
+    "Title": "「弦月升起之时」喵特赏奖池说明",
+    "Type": 3,
+    "TypeGroup": 0
+  },
   "2501": {
     "Button": "",
     "Condition": [],
@@ -6129,7 +6152,7 @@
       "",
       "注意",
       "",
-      "1，打造消耗的装备可能不是唯一指定的，只要是符合要求的同一类装备都行，也可能是唯一指定的装备。<br>2，打造获得的装备，它的基础属性与进阶属性是确定的，且会按流派自适应，与所消耗的材料/装备无关。"
+      "1.打造消耗的装备可能不是唯一指定的，只要是符合要求的同一类装备都行，也可能是唯一指定的装备。<br>2.打造获得的装备，它的基础属性与进阶属性是确定的，且会按流派自适应，与所消耗的材料/装备无关。"
     ],
     "DurationTime": 0,
     "EventType": 0,
@@ -9364,5 +9387,62 @@
     "Title": "标题4所属分组2",
     "Type": 4,
     "TypeGroup": 1
+  },
+  "9208": {
+    "Button": "",
+    "Condition": [[1, 99999]],
+    "Content": [
+      "<color=#eed335>玩法目标</style>：争夺场上的最高分，成为第一勇士！<br><color=#eed335>对局结算</style>：玩法有时间和分数两个关键的结算条件。当对局倒计时结束或者是局内某个勇士的分数达到4000分时，按照每个勇士的分数高低结算分数进行排行。<br><color=#eed335>分数获取</style>：通过击杀敌方或获取白狼之印。",
+      "<color=#eed335>开启装置</style>：当勇士到齐之后，需要其中一个勇士点击开启装置，进入准备阶段。<br><color=#eed335>获取技能</style>：准备阶段会存在有数个随机技能球，拾取可获得初始技能，作为进入战场之后可重复使用。<br><color=#eed335>传送装置</style>：如果所有玩家准备完毕，请站到传送装置内，将会提前进入战局。",
+      "<color=#eed335>技能获取</style>：场地中会出现各种技巧果实，拾取技巧果实后，会在技能栏中新增对应技能。<br><color=#eed335>技能类型</style>：场地中的技巧果实主要有五种类型，包括控制、击退、防御、陷阱和增益，每个类型的技能会对自己和敌方造成不同的技能效果。",
+      "<color=#eed335>技能槽位</style>：勇士拥有两个技能槽位对应着初始和临时技能。<br><color=#eed335>初始技能</style>：在准备区域拾取，可以在局内重复使用，包括控制、击退、防御和陷阱类技能。<br><color=#eed335>临时技能</style>：在对战场景内拾取，只能使用一次，包括所有类型的技能。",
+      "<color=#eed335>击败他人</style>：尝试通过各种技能或者策略去击败其他玩家，以获得更多的分数。<br><color=#eed335>死亡复活</style>：当生命值归零，或被击退至场景边界之外时，勇士将会触发死亡，随后会传送回赛场并变身为卡尼曼石偶一段时间。",
+      "<color=#eed335>息壤祭台</style>：场上每隔一段时间会出现息壤，请尽快去点燃息壤以获得白狼的认可，在祭台点燃后保持燃烧期间积攒自己的进度条，并且不要离息壤太远以免自己的火焰熄灭。<br><color=#eed335>获取印记</style>：第一个点燃息壤的勇士将会获得白狼的认可，得到一个白狼之印并获分数。<br><color=#eed335>持有印记</style>：当勇士持有白狼之印时，将会持续得分，如果持有更多印记分数则更高。一个玩家最多持有2个白狼之印。",
+      "<color=#eed335>地图变化</style>：每局的场地都不一定一样，并且随着对局的进行，场地会发生改变，请提前观察场地变化灵活调整路线。<br><color=#eed335>特殊机制</style>：当对局进行到一定程度时，场上会出现特殊效果，请多多注意！"
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 9208,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 9208,
+    "Title": "激斗！息壤争夺",
+    "Type": 1,
+    "TypeGroup": 0
+  },
+  "93001": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "<color=#eed335>玩法说明</color>：在局内通过击杀怪物获得<style=\"GuideBookLab2\">梦尘</style>，换取祝祷和祝祷技能，勇闯异梦净除。",
+      "<color=#eed335>换取祝祷</color>：在对应NPC或装置处，可以消耗梦尘来换取<style=\"GuideBookLab2\">祝祷</style>和<style=\"GuideBookLab2\">祝祷技能</style>。",
+      "<color=#eed335>梦境异变</color>：在异梦净除中，梦境会概率发生异变，异变后的梦境会有<style=\"GuideBookLab2\">特殊事件</style>发生。",
+      "<color=#eed335>梦魇主宰</color>：在固定的轮次中，会出现<style=\"GuideBookLab2\">梦魇主宰</style>，如果无法击败梦魇主宰会导致<style=\"GuideBookLab2\">游戏失败</style>。",
+      "<color=#eed335>结算</color>：通关浅层净梦后，可以选择传送阵<style=\"GuideBookLab2\">结算</style>或<style=\"GuideBookLab2\">挑战深层净梦</style>。",
+      "<color=#eed335>深层净梦</color>：在深层净梦中会出现更加强大的梦魇主宰，且<style=\"GuideBookLab2\">无法获得梦尘</style>。"
+    ],
+    "DurationTime": 15,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 3,
+    "Icon": "",
+    "Id": 93001,
+    "MainTitle": "",
+    "Param": "",
+    "Res": ["knmrg_001", "knmrg_002", "knmrg_003", "knmrg_004", "knmrg_005", "knmrg_006"],
+    "Sequence": 51,
+    "SortId": 93001,
+    "Title": "千梦织灵·异梦净除",
+    "Type": 1,
+    "TypeGroup": 0
   }
 }

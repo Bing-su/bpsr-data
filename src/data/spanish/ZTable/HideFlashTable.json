@@ -1,0 +1,170 @@
+{
+  "1": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Otorga +30%/<style=\"magic\">60%</style>/<style=\"tipsYellow\">100%</style> de VEL de MOV durante 2 s al transformarse. Se puede activar una vez cada 10 s.",
+    "Icon": "ui/atlas/hud/base/buff/buff_blue_movespeed",
+    "Id": 1,
+    "Name": "Botas mágicas",
+    "SkillRelation": 2
+  },
+  "10": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: La VEL de MOV alterna entre +60%/<style=\"magic\">90%</style>/<style=\"tipsYellow\">120%</style> por 5/<style=\"magic\">6</style>/<style=\"tipsYellow\">7</style> s y -50% por 5 s, rotando continuamente.",
+    "Icon": "ui/atlas/buff/buff_icon82",
+    "Id": 10,
+    "Name": "Galleta Ráfaga",
+    "SkillRelation": 2
+  },
+  "11": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Otorga dos Perspicacias adicionales de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>.",
+    "Icon": "ui/atlas/buff/buff_talent_passive_icon_general_dps_lightattackre",
+    "Id": 11,
+    "Name": "Caramelo de Perspicacia",
+    "SkillRelation": 2
+  },
+  "12": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Deja atrás 1/<style=\"magic\">2</style>/<style=\"tipsYellow\">3</style> tazas de té negro al moverse. Los Cazadores Sombríos que las toquen se dormirán durante 2/<style=\"magic\">3</style>/<style=\"tipsYellow\">4</style> s. Se activa una vez cada 15 s.",
+    "Icon": "ui/atlas/buff/buff_abnormal_purple_icon",
+    "Id": 12,
+    "Name": "Té Somnoliento",
+    "SkillRelation": 2
+  },
+  "13": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Restaura 3/<style=\"magic\">6</style>/<style=\"tipsYellow\">10</style> de PS tras usar un arma.",
+    "Icon": "ui/atlas/hud/base/buff/buff_blue_hp",
+    "Id": 13,
+    "Name": "Anillo devorasombras",
+    "SkillRelation": 1
+  },
+  "14": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Usar un arma tiene un 30%/<style=\"magic\">60%</style>/<style=\"tipsYellow\">100%</style> de probabilidad de disparar una hoja de energía adicional</style>.",
+    "Icon": "ui/atlas/buff/buff_icon153",
+    "Id": 14,
+    "Name": "Brazalete de sombra doble",
+    "SkillRelation": 1
+  },
+  "15": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: La distancia de viaje de la hoja de energía aumenta un +15%/<style=\"magic\">30%</style>/<style=\"tipsYellow\">50%</style> y su tamaño un +30%/<style=\"magic\">60%</style>/<style=\"tipsYellow\">100%</style>.",
+    "Icon": "ui/atlas/buff/buff_icon46",
+    "Id": 15,
+    "Name": "Collar de Vuelo Sombrío",
+    "SkillRelation": 1
+  },
+  "16": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: El alcance de Sentido de Radar aumenta un +30%/<style=\"magic\">60%</style>/<style=\"tipsYellow\">100%</style>. La VEL de MOV de los objetivos rastreados se reduce un 20%/<style=\"magic\">35%</style>/<style=\"tipsYellow\">50%</style>.",
+    "Icon": "ui/atlas/buff/buff_talent_passive_icon_general_dps_thunderbird",
+    "Id": 16,
+    "Name": "Ojo de águila",
+    "SkillRelation": 1
+  },
+  "17": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: El TdR de Sentido de Radar se reduce en 8/<style=\"magic\">14</style>/<style=\"tipsYellow\">20</style> s.",
+    "Icon": "ui/atlas/buff/buff_passive_icon_general_dps_wolfonce",
+    "Id": 17,
+    "Name": "Oreja de lobo",
+    "SkillRelation": 1
+  },
+  "18": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Al detectar un objetivo, el TdR de la habilidad de objeto se reduce en 3/<style=\"magic\">6</style>/<style=\"tipsYellow\">10</style> s.",
+    "Icon": "ui/atlas/buff/buff_icon31",
+    "Id": 18,
+    "Name": "Asta de ciervo",
+    "SkillRelation": 1
+  },
+  "19": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: El TdR de Ira del Cielo se reduce en 3/<style=\"magic\">6</style>/<style=\"tipsYellow\">10</style> s.",
+    "Icon": "ui/atlas/buff/buff_passive_icon_general_dps_pursue",
+    "Id": 19,
+    "Name": "Espada Perforaestrellas",
+    "SkillRelation": 1
+  },
+  "2": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Restaura 30/<style=\"magic\">60</style>/<style=\"tipsYellow\">100</style> de PS al transformarse. Se puede activar una vez cada 10 s.",
+    "Icon": "ui/atlas/hud/base/buff/buff_blue_heal",
+    "Id": 2,
+    "Name": "Vendita mágica",
+    "SkillRelation": 2
+  },
+  "20": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Ira del Cielo inflige Parálisis durante 2/<style=\"magic\">3</style>/<style=\"tipsYellow\">4</style> s.",
+    "Icon": "ui/atlas/buff/buff_icon59",
+    "Id": 20,
+    "Name": "Lanza del Juicio Final",
+    "SkillRelation": 1
+  },
+  "21": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: El alcance de Ira del Cielo aumenta un +100%/<style=\"magic\">200%</style>/<style=\"tipsYellow\">300%</style> a costa de una reducción del 20%/<style=\"magic\">40%</style>/<style=\"tipsYellow\">50%</style> en el DÑO.",
+    "Icon": "ui/atlas/buff/buff_icon02",
+    "Id": 21,
+    "Name": "Anillo de trueno de eclipse",
+    "SkillRelation": 1
+  },
+  "22": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: VEL de MOV +30%/<style=\"magic\">60%</style>/<style=\"tipsYellow\">100%</style>.",
+    "Icon": "ui/atlas/buff/buff_icon56",
+    "Id": 22,
+    "Name": "Paso del Viento",
+    "SkillRelation": 1
+  },
+  "23": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Invoca 1/<style=\"magic\">2</style>/<style=\"tipsYellow\">3</style> bolas de fuego cada 15 s que orbitan alrededor del usuario e infligen 10/<style=\"magic\">20</style>/<style=\"tipsYellow\">30</style> de DÑO a los acechadores al entrar en contacto.",
+    "Icon": "ui/atlas/buff/buff_icon128",
+    "Id": 23,
+    "Name": "Bola de fuego orbitante",
+    "SkillRelation": 1
+  },
+  "24": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el Cazador Sombrío tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Invoca 1/<style=\"magic\">2</style>/<style=\"tipsYellow\">4</style> ondas cada 10/<style=\"magic\">8</style>/<style=\"tipsYellow\">6</style> s, lo que inflige 50 de DÑO a los acechadores al entrar en contacto.",
+    "Icon": "ui/atlas/buff/buff_passive_icon_general_dps_icedamgeup",
+    "Id": 24,
+    "Name": "Onda de emboscada",
+    "SkillRelation": 1
+  },
+  "3": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Reduce el TdR de la habilidad de objeto en 2/<style=\"magic\">4</style>/<style=\"tipsYellow\">6</style> s al transformarse. Se puede activar una vez cada 10 s.",
+    "Icon": "ui/atlas/hud/base/buff/buff_blue_cd",
+    "Id": 3,
+    "Name": "Reloj de arena mágico",
+    "SkillRelation": 2
+  },
+  "4": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Otorga un 20%/<style=\"magic\">40%</style>/<style=\"tipsYellow\">60%</style> de probabilidad de reducir el TdR de la habilidad de objeto en 5/<style=\"magic\">7</style>/<style=\"tipsYellow\">9</style> s al recibir un ataque.",
+    "Icon": "ui/atlas/buff/buff_icon71",
+    "Id": 4,
+    "Name": "Bola de cristal",
+    "SkillRelation": 2
+  },
+  "5": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: Otorga un 10%/<style=\"magic\">20%</style>/<style=\"tipsYellow\">30%</style> de probabilidad de infligir 50/<style=\"magic\">100</style>/<style=\"tipsYellow\">150</style> de DÑO al atacante al recibir un golpe.",
+    "Icon": "ui/atlas/buff/buff_icon135",
+    "Id": 5,
+    "Name": "Reflector",
+    "SkillRelation": 2
+  },
+  "6": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: PS máx. +20/<style=\"magic\">40</style>/<style=\"tipsYellow\">60</style>. Las probabilidades de Perspicacia basadas en la suerte aumentan un +10%/<style=\"magic\">20%</style>/<style=\"tipsYellow\">40%</style>.",
+    "Icon": "ui/atlas/buff/toy_buff_general",
+    "Id": 6,
+    "Name": "Suerte Suprema",
+    "SkillRelation": 2
+  },
+  "7": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: En el estado bloqueado, otorga inmunidad a los efectos de Ira del Cielo. Se activa una vez cada 30/<style=\"magic\">20</style>/<style=\"tipsYellow\">10</style> s.",
+    "Icon": "ui/atlas/buff/buff_icon37",
+    "Id": 7,
+    "Name": "Cinturón de Protección contra Rayos",
+    "SkillRelation": 2
+  },
+  "8": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: En el estado bloqueado, aplica Detención temporal al atacante durante 1/<style=\"magic\">2</style>/<style=\"tipsYellow\">3</style> s al recibir un ataque. Se activa una vez cada 25/<style=\"magic\">20</style>/<style=\"tipsYellow\">15</style> s.",
+    "Icon": "ui/atlas/buff/buff_icon96",
+    "Id": 8,
+    "Name": "Emblema de Escarcha",
+    "SkillRelation": 2
+  },
+  "9": {
+    "Description": "Durante la fase de Perspicacia del Juego de atrapar, el acechador tiene la probabilidad de obtener esta ventaja en un rango aleatorio. Esta ventaja solo puede aparecer una vez por partida.<br><br>Efecto de rango B/<style=\"magic\">A</style>/<style=\"tipsYellow\">S</style>: En el estado bloqueado, otorga inmunidad a los efectos de Sentido de Radar. Se activa una vez cada 30/<style=\"magic\">20</style>/<style=\"tipsYellow\">10</style> s.",
+    "Icon": "ui/atlas/buff/buff_icon97",
+    "Id": 9,
+    "Name": "Brazalete Antidetección",
+    "SkillRelation": 2
+  }
+}

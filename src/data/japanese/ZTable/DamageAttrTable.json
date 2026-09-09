@@ -29123,6 +29123,27 @@
     "Tags": [],
     "TypeEnum": 1120607
   },
+  "111206070102": {
+    "AbnormalDamage": [],
+    "BehitLightIsOpen": false,
+    "DamageProperty": 0,
+    "DamageScript": "Attack",
+    "DamageType": 1,
+    "DamageWeight": [],
+    "Id": 111206070102,
+    "IsProfession": false,
+    "Level": 1,
+    "Name": "普通黑色肉山圆形AOE",
+    "PVEDamageRadio": [20600],
+    "PVEExtinctionDamage": 0,
+    "PVEFixedParameter": [],
+    "PVELoopTime": 1,
+    "PVEStunnedDamage": [],
+    "PartDamageRadio": [],
+    "PartDamageType": 0,
+    "Tags": [],
+    "TypeEnum": 1120607
+  },
   "111206100101": {
     "AbnormalDamage": [],
     "BehitLightIsOpen": false,
@@ -90472,6 +90493,27 @@
     "Tags": [],
     "TypeEnum": 2010009
   },
+  "2201002403": {
+    "AbnormalDamage": [],
+    "BehitLightIsOpen": false,
+    "DamageProperty": 0,
+    "DamageScript": "",
+    "DamageType": 2,
+    "DamageWeight": [],
+    "Id": 2201002403,
+    "IsProfession": false,
+    "Level": 0,
+    "Name": "月露莓蜜糕",
+    "PVEDamageRadio": [],
+    "PVEExtinctionDamage": 0,
+    "PVEFixedParameter": [],
+    "PVELoopTime": -1,
+    "PVEStunnedDamage": [],
+    "PartDamageRadio": [],
+    "PartDamageType": 0,
+    "Tags": [],
+    "TypeEnum": 2010024
+  },
   "2202000301": {
     "AbnormalDamage": [],
     "BehitLightIsOpen": false,
@@ -108546,7 +108588,7 @@
     "PVEStunnedDamage": [],
     "PartDamageRadio": [],
     "PartDamageType": 0,
-    "Tags": [],
+    "Tags": [67],
     "TypeEnum": 998311
   },
   "299831103": {

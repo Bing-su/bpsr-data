@@ -4426,7 +4426,7 @@
     "NpcMarkedByQuest": [[1091401]],
     "PreQuest": [],
     "PreQuestLogic": "",
-    "QuestDetail": "A medida que la investigación en el Valle de Ensueño llega a su fin, el artesano Thorne ha traído nuevos hallazgos. El aumento anormal en la densidad de ilusión lo ha obligado a construir una nueva zona de prueba, el «Bosque Velo Ilusorio». Adentrarse en esta ilusión impredecible podría descubrir la verdad detrás de la plaga ilusoria.",
+    "QuestDetail": "A medida que la investigación en el Valle de Ensueño llega a su fin, el artesano Thorne ha traído nuevos hallazgos. El aumento anormal en la densidad de ilusión lo ha obligado a construir una nueva zona de prueba, el “Bosque Velo Ilusorio\". Adentrarse en esta ilusión impredecible podría descubrir la verdad detrás de la plaga ilusoria.",
     "QuestId": 170203,
     "QuestName": "Aparición de velo ilusorio",
     "QuestStep": 170203001,
@@ -7752,7 +7752,7 @@
     "NpcMarkedByQuest": [[30679001], [30679002, 30679003, 30679005]],
     "PreQuest": [],
     "PreQuestLogic": "",
-    "QuestDetail": "Se ha descubierto una tumba real perteneciente a las Divinos bafarianos, quienes una vez gobernaron las terraltas. Hay rumores de que la tumba está llena de legados asombrosos y riqueza, pero hay otro dicho que los acompaña: «Quien tome el tesoro será maldecido».",
+    "QuestDetail": "Se ha descubierto una tumba real perteneciente a las Divinos bafarianos, quienes una vez gobernaron las terraltas. Hay rumores de que la tumba está llena de legados asombrosos y riqueza, pero hay otro dicho que los acompaña: “Quien tome el tesoro será maldecido\".",
     "QuestId": 185910,
     "QuestName": "Esplendor invasor",
     "QuestStep": 185910001,
@@ -12827,6 +12827,62 @@
     "StepFlowPath": "bin/task/task_step/s3quest/sidequest_01/sidequest_01-60",
     "TimeLimit": []
   },
+  "186646": {
+    "AbortLimit": [["16", "6646"]],
+    "AccessLimit": [["15", "6646"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "Uno tras otro, los miembros de la tribu están perdiendo la capacidad de compartir sueños, y una sombra ha caído sobre las tradiciones de la tribu kanamia. Investigar el cambio en las esporas ancestrales podría revelar por qué han desaparecido los sueños.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 186646,
+    "QuestName": "[Limitado] La semilla que atrae sueños",
+    "QuestStep": 186646001,
+    "QuestType": 90,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-20",
+    "TimeLimit": []
+  },
+  "186647": {
+    "AbortLimit": [["16", "6647"]],
+    "AccessLimit": [["15", "6647"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021, 25029041
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "La Suma Sacerdotisa Rorola ha regresado a la tribu por fin. ¿Las noticias que trae son buenas o...?<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 186647,
+    "QuestName": "[Limitado] El camino para perseguir sueños",
+    "QuestStep": 186647001,
+    "QuestType": 90,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-21",
+    "TimeLimit": []
+  },
   "186701": {
     "AbortLimit": [["16", "6701"]],
     "AccessLimit": [["15", "6701"]],
@@ -14212,7 +14268,7 @@
     "NpcMarkedByQuest": [[1090625, 1090402]],
     "PreQuest": [],
     "PreQuestLogic": "30016",
-    "QuestDetail": "«¿Por qué me rescataste? No tengo nada que ofrecer a cambio».<br>«No hay un historiador tan brillante como tú en todo el Ducado. No desperdicies tus conocimientos y habilidades. Trabaja para mí y te proporcionaré santuario».<br>«Necesito suficiente libertad y mucho tiempo para continuar mi investigación, y necesito una gran cantidad de libros».<br>«Confía en mí, habrá mucha gente para recolectar los libros y materiales que necesites. No tendrás que recibir órdenes de nadie más que de mí. Serás el asesor del equipo de investigación».",
+    "QuestDetail": "“¿Por qué me rescataste? No tengo nada que ofrecer a cambio\".<br>“No hay un historiador tan brillante como tú en todo el Ducado. No desperdicies tus conocimientos y habilidades. Trabaja para mí y te proporcionaré santuario\".<br>“Necesito suficiente libertad y mucho tiempo para continuar mi investigación, y necesito una gran cantidad de libros\".<br>“Confía en mí, habrá mucha gente para recolectar los libros y materiales que necesites. No tendrás que recibir órdenes de nadie más que de mí. Serás el asesor del equipo de investigación\".",
     "QuestId": 30017,
     "QuestName": "El Asesor",
     "QuestStep": 30017002,
@@ -14256,7 +14312,7 @@
     "NpcMarkedByQuest": [[1090625, 1090402, 23001302, 23001303]],
     "PreQuest": [],
     "PreQuestLogic": "30018",
-    "QuestDetail": "«No tengas miedo, Carojé. Papá está aquí. Papá está justo aquí».<br>«Estarás bien. Papá no dejará que te pase nada».<br>«Sin importar en qué te conviertas, siempre serás el pequeño genio de papá».<br>«Eres la perfección».",
+    "QuestDetail": "“No tengas miedo, Carojé. Papá está aquí. Papá está justo aquí\".<br>“Estarás bien. Papá no dejará que te pase nada\".<br>“Sin importar en qué te conviertas, siempre serás el pequeño genio de papá\".<br>“Eres la perfección\".",
     "QuestId": 30019,
     "QuestName": "A la alteza col le encanta luchar",
     "QuestStep": 30019001,
@@ -14347,7 +14403,7 @@
     "NpcMarkedByQuest": [[1090625, 1090402, 23001302, 23001303, 23540102], [23002101]],
     "PreQuest": [],
     "PreQuestLogic": "30022",
-    "QuestDetail": "«La gente siempre dice que cada vez que nos vemos es una oportunidad menos».<br>«¿No te parece? La vida es solo un proceso de resta».<br>«No. Cada vez que nos vemos, es una oportunidad más».",
+    "QuestDetail": "“La gente siempre dice que cada vez que nos vemos es una oportunidad menos\".<br>“¿No te parece? La vida es solo un proceso de resta\".<br>“No. Cada vez que nos vemos, es una oportunidad más\".",
     "QuestId": 30023,
     "QuestName": "Al atardecer",
     "QuestStep": 30023001,
@@ -14579,7 +14635,7 @@
     "NpcMarkedByQuest": [[23062601, 1008632], [23003301]],
     "PreQuest": [],
     "PreQuestLogic": "30032",
-    "QuestDetail": "«Este pico es un cincuenta por ciento más alto que el promedio. Qué raro, ¿está fallando otra vez el monitor?». Evelyn se quedó mirando los datos recopilados, rascándose la cabeza, confusa.<br>«Bip, bop».<br>«Vale, vale, te creo». Murmuró para el ruidoso monitor de engramas, como si intentara tranquilizar a un compañero de trabajo inquieto.<br>«Pero una anomalía de esta magnitud en el flujo de los engramas... ¿Podría provenir de las ruinas subterráneas?».",
+    "QuestDetail": "“Este pico es un cincuenta por ciento más alto que el promedio. Qué raro, ¿está fallando otra vez el monitor?\". Evelyn se quedó mirando los datos recopilados, rascándose la cabeza, confusa.<br>“Bip, bop\".<br>“Vale, vale, te creo\". Murmuró para el ruidoso monitor de engramas, como si intentara tranquilizar a un compañero de trabajo inquieto.<br>“Pero una anomalía de esta magnitud en el flujo de los engramas... ¿Podría provenir de las ruinas subterráneas?\".",
     "QuestId": 30033,
     "QuestName": "Yo, el óculo",
     "QuestStep": 30033001,
@@ -14623,7 +14679,7 @@
     "NpcMarkedByQuest": [[23062601, 1008632], [23003301]],
     "PreQuest": [],
     "PreQuestLogic": "30034",
-    "QuestDetail": "«¿Carojé está viva?»<br>«Por supuesto. Sabes que nunca dejaría que le pasara nada».<br>«Lo sé... Solo que...»<br>«Entonces, ¿qué esperas? ¡Hazlo! Y... recuerda volver...»",
+    "QuestDetail": "“¿Carojé está viva?\"<br>“Por supuesto. Sabes que nunca dejaría que le pasara nada\".<br>“Lo sé... Solo que...\"<br>“Entonces, ¿qué esperas? ¡Hazlo! Y... recuerda volver...\"",
     "QuestId": 30035,
     "QuestName": "En lo más profundo",
     "QuestStep": 30035001,
@@ -19588,7 +19644,7 @@
     ],
     "PreQuest": [],
     "PreQuestLogic": "30658",
-    "QuestDetail": "Es una piedra negra, fría y silenciosa. Un ejecutor resuelto de la voluntad del Ducado. Un capitán de la guardia imponente y confiable para sus soldados.<br>Sin embargo, detrás de todo esto, ¿está verdaderamente dedicado a la misión del Ducado o está canalizando su ira y resentimiento internos, utilizando el telón de acero de la voluntad del Ducado para «racionalizar» lo que inflige a los «forasteros»?",
+    "QuestDetail": "Es una piedra negra, fría y silenciosa. Un ejecutor resuelto de la voluntad del Ducado. Un capitán de la guardia imponente y confiable para sus soldados.<br>Sin embargo, detrás de todo esto, ¿está verdaderamente dedicado a la misión del Ducado o está canalizando su ira y resentimiento internos, utilizando el telón de acero de la voluntad del Ducado para “racionalizar\" lo que inflige a los “forasteros\"?",
     "QuestId": 30656,
     "QuestName": "La piedra silenciosa",
     "QuestStep": 30656001,
@@ -19751,7 +19807,7 @@
     "PreQuestLogic": "",
     "QuestDetail": "Una anciana que viajó desde Byrnhald para hacer una peregrinación en las Terraltas ha desaparecido de repente. Su compañero está muy preocupado. Ve y descubre qué pasó.",
     "QuestId": 30661,
-    "QuestName": "La «Peregrinación Inversa» del Peregrino",
+    "QuestName": "La “Peregrinación Inversa\" del Peregrino",
     "QuestStep": 30661001,
     "QuestType": 3,
     "StepFlowPath": "bin/task/task_step/s3quest/sidequest_02/sidequest_02-60",
@@ -20373,7 +20429,7 @@
     "NpcMarkedByQuest": [[30679001], [30679002, 30679003]],
     "PreQuest": [],
     "PreQuestLogic": "",
-    "QuestDetail": "Se ha descubierto una tumba real perteneciente a las Divinos bafarianos, quienes una vez gobernaron las terraltas. Hay rumores de que la tumba está llena de legados asombrosos y riqueza, pero hay otro dicho que los acompaña: «Quien tome el tesoro será maldecido».",
+    "QuestDetail": "Se ha descubierto una tumba real perteneciente a las Divinos bafarianos, quienes una vez gobernaron las terraltas. Hay rumores de que la tumba está llena de legados asombrosos y riqueza, pero hay otro dicho que los acompaña: “Quien tome el tesoro será maldecido\".",
     "QuestId": 30679,
     "QuestName": "Esplendor invasor",
     "QuestStep": 30679001,
@@ -28271,7 +28327,7 @@
     "NpcMarkedByQuest": [[1011916]],
     "PreQuest": [],
     "PreQuestLogic": "",
-    "QuestDetail": "Dentro de las alcantarillas abandonadas de las Terraltas de Bahamar han aparecido unos misteriosos contaminantes diferentes al brote ilusorio. Un behemoth de Escamas de Malicia contaminado está destruyendo el sistema de alcantarillado, y la situación se ha vuelto tan grave que hasta Lydie, un reportero de Asterleeds, ha venido a investigar personalmente.<br>Mientras documenta con entusiasmo esta «noticia del siglo», te ruega que te adentres en las profundidades de las alcantarillas y derrotes al dragón venenoso que está esparciendo la contaminación...",
+    "QuestDetail": "Dentro de las alcantarillas abandonadas de las Terraltas de Bahamar han aparecido unos misteriosos contaminantes diferentes al brote ilusorio. Un behemoth de Escamas de Malicia contaminado está destruyendo el sistema de alcantarillado, y la situación se ha vuelto tan grave que hasta Lydie, un reportero de Asterleeds, ha venido a investigar personalmente.<br>Mientras documenta con entusiasmo esta “noticia del siglo\", te ruega que te adentres en las profundidades de las alcantarillas y derrotes al dragón venenoso que está esparciendo la contaminación...",
     "QuestId": 50257,
     "QuestName": "[Tiempo limitado] El incidente de Escamas de Malicia en las alcantarillas",
     "QuestStep": 50257001,
@@ -28412,7 +28468,7 @@
     ],
     "PreQuest": [],
     "PreQuestLogic": "50263",
-    "QuestDetail": "El Gran Premio de Pesca Marina de Verano finalmente ha comenzado, y la enorme recompensa en efectivo del «Premio Ballena Alada» tiene a toda la Playa Gaviota Plateada alborotada.<br>Cuando el último sedal de pesca se lance al mar, esta investigación de verano sobre una leyenda estará a punto de recibir su propia respuesta.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestDetail": "El Gran Premio de Pesca Marina de Verano finalmente ha comenzado, y la enorme recompensa en efectivo del “Premio Ballena Alada\" tiene a toda la Playa Gaviota Plateada alborotada.<br>Cuando el último sedal de pesca se lance al mar, esta investigación de verano sobre una leyenda estará a punto de recibir su propia respuesta.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
     "QuestId": 50264,
     "QuestName": "[Limitado] Un Milagro de Verano",
     "QuestStep": 50264001,
@@ -28521,6 +28577,482 @@
     "QuestStep": 50268002,
     "QuestType": 84,
     "StepFlowPath": "bin/task/task_step/huodong/50260/50260-11",
+    "TimeLimit": []
+  },
+  "50290": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41110"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 70140010,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "La tribu kanamia está celebrando un gran Festival de la Cosecha. Quizás sea hora de que el campeón kanamia regrese de visita.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50290,
+    "QuestName": "[Limitado] De vuelta a casa para el Festival de la Cosecha",
+    "QuestStep": 50290001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-3",
+    "TimeLimit": []
+  },
+  "50291": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [["18", "41114"]],
+    "AccpetType": [0],
+    "AwardId": 70140020,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003, 25029010, 25029009],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50290",
+    "QuestDetail": "Uno tras otro, los miembros de la tribu están perdiendo la capacidad de compartir sueños, y una sombra ha caído sobre las tradiciones de la tribu kanamia. Investigar el cambio en las esporas ancestrales podría revelar por qué han desaparecido los sueños.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50291,
+    "QuestName": "[Limitado] La semilla que atrae sueños",
+    "QuestStep": 50291001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-4",
+    "TimeLimit": []
+  },
+  "50292": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [["18", "41115"]],
+    "AccpetType": [0],
+    "AwardId": 70140030,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012],
+      [25029034, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50291",
+    "QuestDetail": "Rorola espera encontrar la guía de los ancestros mediante la adivinación con espejos, pero el antiguo espejo que sirve de medio de adivinación quedó enterrado hace mucho tiempo en las ruinas de su antigua patria...<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50292,
+    "QuestName": "[Limitado] La luna en el espejo",
+    "QuestStep": 50292001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-5",
+    "TimeLimit": []
+  },
+  "50293": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [["18", "41116"]],
+    "AccpetType": [0],
+    "AwardId": 70140040,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50292",
+    "QuestDetail": "La llama de la Renovación se ha vuelto inestable en el Festival de la Cosecha de este año. ¿Se trata del descontento de los ancestros o hay algo más detrás de esto?<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50293,
+    "QuestName": "[Limitado] Lo que atesoramos",
+    "QuestStep": 50293015,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-6",
+    "TimeLimit": []
+  },
+  "50294": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [["18", "41117"]],
+    "AccpetType": [0],
+    "AwardId": 70140050,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50293",
+    "QuestDetail": "La Suma Sacerdotisa Rorola ha regresado a la tribu por fin. ¿Las noticias que trae son buenas o...?<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50294,
+    "QuestName": "[Limitado] El camino para perseguir sueños",
+    "QuestStep": 50294001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-7",
+    "TimeLimit": []
+  },
+  "50295": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140060,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50301",
+    "QuestDetail": "¿Un presagio? Quizás sea hora de visitar los altares en la Senda del Legado.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50295,
+    "QuestName": "[Limitado] El llamado del Tótem de serpiente",
+    "QuestStep": 50295003,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-8",
+    "TimeLimit": []
+  },
+  "50296": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140070,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50302",
+    "QuestDetail": "¿Un presagio? Quizás sea hora de visitar los altares en la Senda del Legado.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50296,
+    "QuestName": "[Limitado] El llamado del Tótem del Pájaro",
+    "QuestStep": 50296006,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-9",
+    "TimeLimit": []
+  },
+  "50297": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140080,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50303",
+    "QuestDetail": "¿Un presagio? Quizás sea hora de visitar los altares en la Senda del Legado.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50297,
+    "QuestName": "[Limitado] El llamado del Tótem del Espejo",
+    "QuestStep": 50297005,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-10",
+    "TimeLimit": []
+  },
+  "50298": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140090,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50304",
+    "QuestDetail": "¿Un presagio? Quizás sea hora de visitar los altares en la Senda del Legado.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50298,
+    "QuestName": "[Limitado] El llamado del Tótem del Carnero",
+    "QuestStep": 50298006,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-11",
+    "TimeLimit": []
+  },
+  "50299": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 70140100,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "50305",
+    "QuestDetail": "¿Un presagio? Quizás sea hora de visitar los altares en la Senda del Legado.<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50299,
+    "QuestName": "[Limitado] El llamado del Tótem de la Olla",
+    "QuestStep": 50299005,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-12",
+    "TimeLimit": []
+  },
+  "50300": {
+    "AbortLimit": [["42", "41118"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41118"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 70140110,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "El Festival de la Cosecha está llegando a su fin, pero ¿qué cambio presagian todas las extrañas señales del año de la Pérdida Onírica?<br><style=\"emph-gn\">Tiempo restante para la misión de evento: {*RemainingTaskTime*}</style>",
+    "QuestId": 50300,
+    "QuestName": "[Limitado] La Renovación aún arde",
+    "QuestStep": 50300001,
+    "QuestType": 84,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-13",
+    "TimeLimit": []
+  },
+  "50301": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50290)",
+    "QuestDetail": "",
+    "QuestId": 50301,
+    "QuestName": "",
+    "QuestStep": 50301001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-14",
+    "TimeLimit": []
+  },
+  "50302": {
+    "AbortLimit": [["42", "41114"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50291)",
+    "QuestDetail": "",
+    "QuestId": 50302,
+    "QuestName": "",
+    "QuestStep": 50302001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-16",
+    "TimeLimit": []
+  },
+  "50303": {
+    "AbortLimit": [["42", "41115"]],
+    "AccessLimit": [["18", "41115"]],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50291)",
+    "QuestDetail": "",
+    "QuestId": 50303,
+    "QuestName": "",
+    "QuestStep": 50303001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-17",
+    "TimeLimit": []
+  },
+  "50304": {
+    "AbortLimit": [["42", "41116"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50293)",
+    "QuestDetail": "",
+    "QuestId": 50304,
+    "QuestName": "",
+    "QuestStep": 50304001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-18",
+    "TimeLimit": []
+  },
+  "50305": {
+    "AbortLimit": [["42", "41117"]],
+    "AccessLimit": [],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "(50294 and 50295 and 50296 and 50297 and 50298)",
+    "QuestDetail": "",
+    "QuestId": 50305,
+    "QuestName": "",
+    "QuestStep": 50305001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-19",
+    "TimeLimit": []
+  },
+  "50306": {
+    "AbortLimit": [["42", "41110"]],
+    "AccessLimit": [
+      ["1", "2"],
+      ["18", "41110"]
+    ],
+    "AccpetType": [0],
+    "AwardId": 0,
+    "AwardPreview": [],
+    "ContinueLimit": [],
+    "FollowQuest": 0,
+    "GiveUp": false,
+    "MustPreQuest": [],
+    "Note": "",
+    "NpcMarkedByQuest": [
+      [
+        25029002, 25029001, 25029008, 25030003, 25029010, 25029009, 25029011, 25029012, 25029013,
+        25030001, 25029014, 25029015, 25029022, 25029021, 25029041
+      ],
+      [25029034, 25029043, 25029044, 25029003]
+    ],
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "QuestDetail": "",
+    "QuestId": 50306,
+    "QuestName": "",
+    "QuestStep": 50306001,
+    "QuestType": 53,
+    "StepFlowPath": "bin/task/task_step/huodong/50290/50290-71",
     "TimeLimit": []
   },
   "70000": {

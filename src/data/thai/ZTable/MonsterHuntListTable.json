@@ -543,7 +543,7 @@
   },
   "10031": {
     "Award": 10500040,
-    "Condition": "เวลารีเฟรช: เกิดใหม่หลังจากถูกกำจัด 3 นาที<br>ปรากฏตัวที่ Asteria Plains, ค่ายร้างทางขวาของ Scout Lookout Post เป็นมินิบอสของ Boarrier",
+    "Condition": "เวลารีเฟรช: เกิดใหม่หลังจากถูกฆ่า 3 นาที<br>ปรากฏตัวที่ Asteria Plains, ค่ายร้างทาง ขวาของ Scout Lookout Post เป็น Mini -Boss ของ Boarrier",
     "DefaulAction": "as_mon_yezhu_idle",
     "ModelArray": [-0.09000000357627869, -0.009999999776482582, 0.0],
     "ModelRetio": 0.75,
@@ -711,7 +711,7 @@
   },
   "10042": {
     "Award": 10500080,
-    "Condition": "เวลารีเฟรช: เกิดใหม่หลังจากถูกกำจัด 3 นาที<br>ปรากฏตัวที่ Asteria Plains, Landing Battlefield เป็นมินิบอสภูตภูเขาโจมตีระยะประชิด",
+    "Condition": "เวลารีเฟรช: เกิดใหม่หลังจากถูกฆ่า 3 นาที<br>ปรากฏตัวที่ Asteria Plains, Landing Battlefield เป็น Mini-Boss ภูตภูเขา โจมตีระยะประชิด",
     "DefaulAction": "as_mon_shouren_idle",
     "ModelArray": [],
     "ModelRetio": 0.4699999988079071,
@@ -2454,7 +2454,7 @@
   },
   "11202": {
     "Award": 10501540,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 102</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัด Arachnocrab ทรงพลังที่พบในพื้นที่ยังไม่ได้ขุดค้นของ Sislesa Mine ใน Bahamar Highlands",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 350</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัด<br>Arachnocrab ทรงพลังที่พบในพื้นที่ยังไม่ได้ขุดค้นของ Sislesa Mine ใน Bahamar Highlands",
     "DefaulAction": "as_mon_xiezhu_idle",
     "ModelArray": [],
     "ModelRetio": 0.8100000023841858,
@@ -2475,7 +2475,7 @@
   },
   "11203": {
     "Award": 10501670,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 103</b></style><br>เวลาเกิดใหม่: เกิดใหม่ทุกต้นชั่วโมง Boss: Arachnocrab แห่ง Bahamar Highlands ที่พบในพื้นที่ยังไม่ได้ขุดค้นของ Sislesa Mine โปรดระมัดระวัง!",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 590</b></style><br>เวลาเกิดใหม่: เกิดใหม่ทุกต้นชั่วโมง<br>Boss: Arachnocrab แห่ง Bahamar Highlands ที่พบในพื้นที่ยังไม่ได้ขุดค้นของ Sislesa Mine โปรดระมัดระวัง!",
     "DefaulAction": "as_mon_xiezhu_idle",
     "ModelArray": [],
     "ModelRetio": 0.8999999761581421,
@@ -2538,7 +2538,7 @@
   },
   "11206": {
     "Award": 10501570,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 105</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัดYeti ทรงพลังที่ออกอาละวาดอยู่ในพื้นที่ Fallen River ของ Bahamar Highlands",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 660</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัด<br>Yeti ทรงพลังที่ออกอาละวาดอยู่ในพื้นที่ Fallen River ของ Bahamar Highlands",
     "DefaulAction": "as_mon_shouren_idle",
     "ModelArray": [],
     "ModelRetio": 0.44999998807907104,
@@ -2559,7 +2559,7 @@
   },
   "11207": {
     "Award": 10501680,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 105</b></style><br>เวลาเกิดใหม่: เกิดใหม่ทุกชั่วโมงในนาทีที่ 30บอส Yeti ที่พบในพื้นที่ Fallen River ของ Bahamar Highlands โปรดระมัดระวัง!",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 870</b></style><br>เวลาเกิดใหม่: เกิดใหม่ทุกชั่วโมงในนาทีที่ 30<br>บอส Yeti ที่พบในพื้นที่ Fallen River ของ Bahamar Highlands โปรดระมัดระวัง!",
     "DefaulAction": "as_mon_shouren_idle",
     "ModelArray": [],
     "ModelRetio": 0.6000000238418579,
@@ -2622,7 +2622,7 @@
   },
   "11210": {
     "Award": 10501600,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 105</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัดMountain Boar ที่ดุร้ายและทรงพลังซึ่งพบใน Sunset Wilds",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 1000</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัด<br>Mountain Boar ที่ดุร้ายและทรงพลังซึ่งพบใน Sunset Wilds",
     "DefaulAction": "as_mon_yezhu_idle",
     "ModelArray": [],
     "ModelRetio": 0.800000011920929,
@@ -2643,7 +2643,7 @@
   },
   "11211": {
     "Award": 10501690,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 105</b></style><br>เวลาเกิดใหม่: เกิดใหม่ทุกต้นชั่วโมงบอส Mountain Boar ที่พบใน Sunset Wilds โปรดระมัดระวัง!",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 1300</b></style><br>เวลาเกิดใหม่: เกิดใหม่ทุกต้นชั่วโมง<br>บอส Mountain Boar ที่พบใน Sunset Wilds โปรดระมัดระวัง!",
     "DefaulAction": "as_mon_yezhu_idle",
     "ModelArray": [0.0, 0.009999999776482582, 0.0],
     "ModelRetio": 0.800000011920929,
@@ -2706,7 +2706,7 @@
   },
   "11214": {
     "Award": 10501630,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 105</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัดFurball ทรงพลังที่พบใน Sunken Corridor",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 1700</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัด<br>Furball ทรงพลังที่พบใน Sunken Corridor",
     "DefaulAction": "as_mon_maoqiu_idle",
     "ModelArray": [0.0, 0.10000000149011612, 0.0],
     "ModelRetio": 0.8999999761581421,
@@ -2727,7 +2727,7 @@
   },
   "11215": {
     "Award": 10501700,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 105</b></style><br>เวลาเกิดใหม่: เกิดใหม่ทุกชั่วโมงในนาทีที่ 30บอส Furball ที่พบใน Sunken Corridor โปรดระมัดระวัง!",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 1800</b></style><br>เวลาเกิดใหม่: เกิดใหม่ทุกชั่วโมงในนาทีที่ 30<br>บอส Furball ที่พบใน Sunken Corridor โปรดระมัดระวัง!",
     "DefaulAction": "as_mon_maoqiu_idle",
     "ModelArray": [0.0, -0.14000000059604645, 0.0],
     "ModelRetio": 1.149999976158142,
@@ -2790,7 +2790,7 @@
   },
   "11218": {
     "Award": 10501660,
-    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 105</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัด Oculoid ทรงพลังที่พบใน Gloomy Depths",
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion-Breaking Strength]: 2105</b></style><br>เวลาเกิดใหม่: ฟื้นคืนชีพ 3 นาทีหลังจากถูกกำจัด<br>Oculoid ทรงพลังที่พบใน Gloomy Depths",
     "DefaulAction": "as_mon_yanqiu_idle",
     "ModelArray": [0.05000000074505806, -0.20000000298023224, 0.0],
     "ModelRetio": 1.100000023841858,

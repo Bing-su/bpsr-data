@@ -70,5 +70,45 @@
     "VariableLimit": [0, 2000],
     "VariableName": "DMboss",
     "VariableType": 1
+  },
+  "930001": {
+    "Icon": "kanamia_rogue_score",
+    "VariableDisplayName": "Traumstaub",
+    "VariableId": 930001,
+    "VariableLimit": [0, 300],
+    "VariableName": "coin",
+    "VariableType": 2
+  },
+  "930002": {
+    "Icon": "",
+    "VariableDisplayName": "Albtraum-Echo",
+    "VariableId": 930002,
+    "VariableLimit": [0, 9999],
+    "VariableName": "RougeScore",
+    "VariableType": 1
+  },
+  "930003": {
+    "Icon": "",
+    "VariableDisplayName": "Runde",
+    "VariableId": 930003,
+    "VariableLimit": [0, 20],
+    "VariableName": "wave",
+    "VariableType": 1
+  },
+  "930004": {
+    "Icon": "",
+    "VariableDisplayName": "Tiefe Runde",
+    "VariableId": 930004,
+    "VariableLimit": [0, 8],
+    "VariableName": "challenge_wave",
+    "VariableType": 1
+  },
+  "930005": {
+    "Icon": "",
+    "VariableDisplayName": "Runde",
+    "VariableId": 930005,
+    "VariableLimit": [0, 12],
+    "VariableName": "normal_wave",
+    "VariableType": 1
   }
 }

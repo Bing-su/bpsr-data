@@ -9,7 +9,7 @@
     "Icon": "ui/atlas/profession/profession_horizontal_03",
     "Id": 1,
     "Index": 7,
-    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะใกล้</color> โดยใช้<color=#fcbe03>ดาบ<br>ยาวรูปเคียว</color>เป็นอาวุธ สามารถสลับ<br>ระหว่างเคียวกับดาบยาวได้อย่างอิสระ มีความสามารถในการ<color=#fcbe03>โจมตีพื้นที่เล็ก</color>ที่<br>ยอดเยี่ยม",
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะใกล้</color> โดยใช้<color=#fcbe03>ดาบยาวรูปเคียว</color>เป็นอาวุธ สามารถสลับระหว่างเคียวกับดาบยาวได้อย่างอิสระ มีความสามารถในการ<color=#fcbe03>โจมตีพื้นที่เล็ก</color>ที่ยอดเยี่ยม",
     "IsOpen": true,
     "LineFeedName": "Stormblade",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
@@ -56,8 +56,8 @@
     "MainTalentIcon": "ui/textures/talent_new/talent_icon",
     "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
     "MasteryDes": [
-      ["", "เพิ่ม DMG ธาตุมืด<br>"],
-      ["", "เพิ่ม DMG ธาตุมืด<br>"]
+      ["", "เพิ่ม Dark DMG <br>"],
+      ["", "เพิ่ม Dark DMG <br>"]
     ],
     "Name": "ระบำภาวนาวิญญาณมืด - ดาบพิธี/ไม้เท้าพิธี",
     "NormalAttackSkill": [2101],
@@ -91,14 +91,14 @@
     "Icon": "ui/atlas/profession/profession_horizontal_07",
     "Id": 11,
     "Index": 3,
-    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> โดยใช้<color=#fcbe03>ธนู</color><br>เป็นอาวุธ ออกรบร่วมกับสัตว์คู่หู มี<br>ความสามารถในการ<color=#fcbe03>โจมตีพื้นที่กว้าง</color><br>ที่ยอดเยี่ยม",
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> โดยใช้<color=#fcbe03>ธนู</color>เป็นอาวุธ ออกรบร่วมกับสัตว์คู่หู มีความสามารถในการ<color=#fcbe03>โจมตีพื้นที่กว้าง</color>ที่ยอดเยี่ยม",
     "IsOpen": true,
     "LineFeedName": "Marksman",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_6",
     "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_6",
     "MasteryDes": [
       ["", "ทุกๆ 1% ของค่า Mastery จะเพิ่ม DMG สัตว์เลี้ยง 2.75%<br>"],
-      ["", "ทุกๆ 1% ของค่า Mastery จะให้โบนัสธาตุแสง 0.6%<br>"]
+      ["", "ทุก Mastery 1% จะมอบ Light Bonus 0.6%<br>"]
     ],
     "Name": "Marksman",
     "NormalAttackSkill": [2201],
@@ -132,20 +132,14 @@
     "Icon": "ui/atlas/profession/profession_horizontal_01",
     "Id": 12,
     "Index": 5,
-    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะประชิด</color> โดยใช้ <color=#fcbe03>Sword and Shield</color> เป็นอาวุธ ใช้<br>แสงหล่อเป็นเกราะ มี<color=#fcbe03>การป้องกัน</color>และ<br><color=#fcbe03>การฟื้นฟูตัวเอง</color>ที่ยอดเยี่ยม",
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะประชิด</color> โดยใช้ <color=#fcbe03>Sword and Shield</color> เป็นอาวุธ ใช้แสงหล่อขึ้นเป็นเกราะ มีความสามารถด้าน<color=#fcbe03>การป้องกัน</color>และ<color=#fcbe03>การฟื้นฟูตัวเอง</color>ที่ยอดเยี่ยม",
     "IsOpen": true,
     "LineFeedName": "Shield Knight",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_7",
     "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_7",
     "MasteryDes": [
-      [
-        "",
-        "ทุกๆ 1% ของค่า Mastery จะเพิ่มประสิทธิภาพการได้รับ Radiant shield 2.5% และต้านทานทุกธาตุ 0.2%<br>"
-      ],
-      [
-        "",
-        "ทุกๆ 1% ของค่า Mastery จะเพิ่มเอฟเฟกต์การเพิ่ม HP ของ Lightforged Barrier 3% และต้านทานทุกธาตุ 0.2%<br>"
-      ]
+      ["", "ทุก Mastery 1% จะเพิ่มประสิทธิภาพการได้รับ Radiant shield 2.5% และต้านทานทุกธาตุ 0.2%<br>"],
+      ["", "ทุก Mastery 1% จะเพิ่มเอฟเฟกต์การเพิ่ม HP ของ Lightforged Barrier 3% และต้านทานทุกธาตุ 0.2%<br>"]
     ],
     "Name": "Shield Knight",
     "NormalAttackSkill": [2401],
@@ -179,7 +173,7 @@
     "Icon": "ui/atlas/profession/profession_horizontal_08",
     "Id": 13,
     "Index": 8,
-    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> โดยใช้ <color=#fcbe03>Guitar</color> เป็นอาวุธ โจมตีสามารถร่าย<br>เอฟเฟกต์ <color=#fcbe03>Heal</color> เชี่ยวชาญในการร่าย<br><color=#fcbe03>บัฟ</color>แก่เพื่อร่วมทีม มีความสามารถ <color=#fcbe03>Support</color>ที่ยอดเยี่ยม",
+    "Intro": "เชี่ยวชาญการต่อสู้ทั้ง<color=#fcbe03>ระยะใกล้ไกล</color> โดยใช้ <color=#fcbe03>Guitar</color> เป็นอาวุธ การโจมตีสามารถมอบเอฟเฟกต์ <color=#fcbe03>Heal</color> เชี่ยวชาญในการมอบ<color=#fcbe03>บัฟ</color>แก่เพื่อนร่วมทีม และมีความสามารถด้าน <color=#fcbe03>Support</color> ที่ยอดเยี่ยม",
     "IsOpen": true,
     "LineFeedName": "Beat Performer",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
@@ -302,16 +296,16 @@
     "Icon": "ui/atlas/profession/profession_horizontal_05",
     "Id": 2,
     "Index": 4,
-    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> โดยใช้<br><color=#fcbe03>คทาเวทน้ำแข็ง</color>เป็นอาวุธ ควบคุมพลัง<br>แห่งความหนาวเหน็บ มีความสามารถ<br>ในการ<color=#fcbe03>โจมตีพื้นที่กว้าง</color>และ<color=#fcbe03>ควบคุม</color><br>ที่ยอดเยี่ยม",
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะไกล</color> โดยใช้<color=#fcbe03>คทาเวทน้ำแข็ง</color>เป็นอาวุธ ควบคุมพลังแห่งความหนาวเหน็บ มีความสามารถในการ<color=#fcbe03>โจมตีพื้นที่กว้าง</color>และ<color=#fcbe03>ควบคุม</color>ที่ยอดเยี่ยม",
     "IsOpen": true,
     "LineFeedName": "Frost Mage",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_3",
     "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_3",
     "MasteryDes": [
-      ["", "ทุกๆ 1% ของค่า Mastery จะให้โบนัสธาตุน้ำแข็ง 0.65%<br>"],
+      ["", "ทุก Mastery 1% จะมอบ Ice Bonus 0.65%<br>"],
       [
         "",
-        "ทุกๆ 1% Mastery จะเพิ่มประสิทธิภาพการได้รับ Ice Energy ขึ้น 1% และเพิ่ม Ice Bonus ขึ้น 0.2%<br>Mastery Enhancement: ทุกๆ 1% Mastery จะเพิ่มอัตราการแปลง Ice Bonus ขึ้น 3%<br>"
+        "ทุก Mastery 1% จะเพิ่มประสิทธิภาพการได้รับ Ice Energy ขึ้น 1% และเพิ่ม Ice Bonus ขึ้น 0.2%<br>Mastery Enhancement: ทุก 1% ของ Mastery จะเพิ่มอัตราการแปลง Ice Bonus ขึ้น 3%<br>"
       ]
     ],
     "Name": "Frost Mage",
@@ -356,7 +350,7 @@
         "",
         "ทุกๆ 1% Mastery จะมอบ CD Boost ให้แก่ Blazing Assault, Rage Cleave และ Axe Wind ขึ้น 3.2% และเพิ่ม ATK ขึ้น 0.2%<br>"
       ],
-      ["", "ทุกๆ 1% Mastery จะเพิ่ม Fire Bonus ขึ้น 0.72%<br>"]
+      ["", "ทุก Mastery 1% จะเพิ่ม Fire Bonus ขึ้น 0.72%<br>"]
     ],
     "Name": "Twin Striker",
     "NormalAttackSkill": [1601],
@@ -390,14 +384,17 @@
     "Icon": "ui/atlas/profession/profession_horizontal_02",
     "Id": 4,
     "Index": 6,
-    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะประชิด</color> โดย<br>ใช้<color=#fcbe03>หอกยาว</color>เป็นอาวุธ แปลงร่างเสมือน<br>สายลม มีความสามารถในการ<color=#fcbe03>โจมตีพื้น<br>ที่เล็ก</color>ที่ยอดเยี่ยม",
+    "Intro": "เชี่ยวชาญการต่อสู้<color=#fcbe03>ระยะประชิด</color> โดยใช้<color=#fcbe03>หอกยาว</color>เป็นอาวุธ เปลี่ยนกระบวนท่าดุจสายลม มีความสามารถในการ<color=#fcbe03>โจมตีพื้นที่เล็ก</color>ที่ยอดเยี่ยม",
     "IsOpen": true,
     "LineFeedName": "Wind Knight",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_2",
     "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_2",
     "MasteryDes": [
-      ["", "Wind Axe"],
-      ["", "ทุกๆ 1% ของค่า Mastery จะให้โบนัสธาตุลม 0.65%<br>"]
+      [
+        "",
+        "ทุก Mastery 1% จะมอบ Wind Bonus Bonus 0.35%<br>Mastery Enhancement: ทุก Mastery 1% ทำให้ Wind Bonus เปลี่ยนเป็นเรท 3%<br>"
+      ],
+      ["", "ทุก Mastery 1% จะมอบ Wind Bonus 0.65%<br>"]
     ],
     "Name": "Wind Knight",
     "NormalAttackSkill": [1401],
@@ -431,13 +428,13 @@
     "Icon": "ui/atlas/profession/profession_horizontal_04",
     "Id": 5,
     "Index": 1,
-    "Intro": "เชี่ยวชาญการ <color=#fcbe03>Heal ระยะไกล</color> ใช้<br><color=#fcbe03>แหวนเวท</color>เป็นอาวุธ ควบคุมพลังชีวิต<br>แห่งป่า มีความสามารถในการ <color=#fcbe03>Heal</color> และ <color=#fcbe03>Support</color> ที่ยอดเยี่ยม",
+    "Intro": "เชี่ยวชาญการ <color=#fcbe03>Heal ระยะไกล</color> ใช้<color=#fcbe03>แหวนเวท</color>เป็นอาวุธ ควบคุมพลังชีวิตแห่งป่า มีความสามารถในการ <color=#fcbe03>Heal</color> และ <color=#fcbe03>Support</color> ที่ยอดเยี่ยม",
     "IsOpen": true,
     "LineFeedName": "Verdant Oracle",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
     "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
     "MasteryDes": [
-      ["", "ทุก 1% ของ Mastery จะเพิ่ม Forest Bonus 0.75% และเพิ่ม Shield Strength 0.3%<br>"],
+      ["", "ทุก Mastery 1% จะเพิ่ม Forest Element Bonus 0.75% และ Shield Strength 0.3% <br>"],
       ["", "ทุกๆ 1% ของค่า Mastery จะเพิ่มความแรง Heal 1%<br>"]
     ],
     "Name": "Verdant Oracle",
@@ -478,8 +475,8 @@
     "MainTalentIcon": "ui/textures/talent_new/talent_icon",
     "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
     "MasteryDes": [
-      ["", "เพิ่ม DMG ธาตุสายฟ้า<br>"],
-      ["", "เพิ่ม DMG ธาตุสายฟ้า<br>"]
+      ["", "เพิ่ม Thunder DMG<br>"],
+      ["", "เพิ่ม Thunder DMG<br>"]
     ],
     "Name": "Thunder Flash - Hand Cannon",
     "NormalAttackSkill": [1801],
@@ -513,7 +510,7 @@
     "Icon": "ui/atlas/profession/profession_horizontal_06",
     "Id": 9,
     "Index": 2,
-    "Intro": "เชี่ยวชาญ<color=#fcbe03>การต่อสู้ระยะประชิด</color> โดยใช้ <color=#fcbe03>Guard Blade</color>เป็นอาวุธ รวบรวมหิน<br>เพื่อป้องกันตัว มีความสามารถ<color=#fcbe03>ในการ<br>ป้องกัน</color>และ<color=#fcbe03>ควบคุมสนาม</color>ที่ยอดเยี่ยม",
+    "Intro": "เชี่ยวชาญ<color=#fcbe03>การต่อสู้ระยะประชิด</color> โดยใช้ <color=#fcbe03>Guard Blade</color> เป็นอาวุธ รวบรวมหินเพื่อปกป้องร่างกาย มีความสามารถ<color=#fcbe03>ในการป้องกัน</color>และ<color=#fcbe03>ควบคุมสนาม</color>ที่ยอดเยี่ยม",
     "IsOpen": true,
     "LineFeedName": "Heavy Guardian",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_1",

@@ -3854,7 +3854,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30402,
-    "Name": "Gather Herbs"
+    "Name": "Gather Herb"
   },
   "3040201": {
     "BtnType": 0,
@@ -3988,6 +3988,34 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30420,
     "Name": "Release"
+  },
+  "30421": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30421,
+    "Name": "Gather Shadewood Moonberries"
+  },
+  "30422": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "Id": 30422,
+    "Name": "Start Spirit Dance"
+  },
+  "30423": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30423,
+    "Name": "Crush the Spores"
+  },
+  "30424": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30424,
+    "Name": "Offer to the Renewal"
   },
   "3050201": {
     "BtnType": 1,
@@ -4835,6 +4863,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56019,
     "Name": "Claim Discard"
+  },
+  "56020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 56020,
+    "Name": "Light the Rorola Firework"
   },
   "57001": {
     "BtnType": 1,
@@ -6873,6 +6908,13 @@
     "Id": 739011,
     "Name": "Deep Sea Mission: Engram Line Tuning"
   },
+  "739012": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "Id": 739012,
+    "Name": "Loom of Dreams​: Nightmare Purge"
+  },
   "7501": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -7565,5 +7607,40 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920519,
     "Name": "Event Tips"
+  },
+  "9300001": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300001,
+    "Name": "End Dream"
+  },
+  "9300002": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300002,
+    "Name": "Exchange Blessing Skill"
+  },
+  "9300003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300003,
+    "Name": "Obtain Blessing (Once Only)"
+  },
+  "9300004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300004,
+    "Name": "Exchange for Blessing"
+  },
+  "9300005": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300005,
+    "Name": "Open \"Dream-Filled Chest\" (Once Only)"
   }
 }

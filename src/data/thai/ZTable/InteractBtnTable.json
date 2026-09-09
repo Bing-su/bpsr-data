@@ -368,7 +368,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 104101,
-    "Name": "Heal"
+    "Name": "Healing"
   },
   "1042": {
     "BtnType": 1,
@@ -1684,42 +1684,42 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_61",
     "Id": 1203054,
-    "Name": "ปลา"
+    "Name": "Fish"
   },
   "1203055": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_46",
     "Id": 1203055,
-    "Name": "เห็ด"
+    "Name": "Mushrooms"
   },
   "1203056": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_62",
     "Id": 1203056,
-    "Name": "เนื้อ"
+    "Name": "Meat"
   },
   "1203057": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 1203057,
-    "Name": "เห็ดผัดเนื้อ"
+    "Name": "Meat and Mushroom Stir-Fry"
   },
   "1203058": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_46",
     "Id": 1203058,
-    "Name": "เห็ดที่หั่นเสร็จแล้ว"
+    "Name": "Chopped Mushrooms"
   },
   "1203059": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_62",
     "Id": 1203059,
-    "Name": "Sliced Meat"
+    "Name": "Chopped Meat"
   },
   "1204": {
     "BtnType": 1,
@@ -1894,7 +1894,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 1213,
-    "Name": "เก็บโล่ธาตุ"
+    "Name": "เก็บ Elemental Shield"
   },
   "1214": {
     "BtnType": 1,
@@ -2111,7 +2111,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 1302004,
-    "Name": "บันทึกการประจำการที่ขาด"
+    "Name": "Fragment of Garrison Log"
   },
   "1302005": {
     "BtnType": 1,
@@ -2433,7 +2433,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 17100101,
-    "Name": "ถ่านหิน"
+    "Name": "Coal"
   },
   "200000": {
     "BtnType": 1,
@@ -2776,7 +2776,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_90",
     "Id": 200051,
-    "Name": "ทะลวงอุปกรณ์"
+    "Name": "Gear Breakthrough"
   },
   "200052": {
     "BtnType": 1,
@@ -3259,35 +3259,35 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_32",
     "Id": 2295,
-    "Name": "โต๊ะ Homestead Forge"
+    "Name": "Homestead Smelting Bench"
   },
   "2296": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_35",
     "Id": 2296,
-    "Name": "โต๊ะ Homestead Alchemy"
+    "Name": "Homestead Alchemy Bench"
   },
   "2297": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_31",
     "Id": 2297,
-    "Name": "โต๊ะ Homestead Gemcrafting"
+    "Name": "Homestead Gemcrafting Bench"
   },
   "2298": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_70",
     "Id": 2298,
-    "Name": "โต๊ะ Homestead Artisanry"
+    "Name": "Homestead Artisanry Bench"
   },
   "2299": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_72",
     "Id": 2299,
-    "Name": "โต๊ะ Homestead Weaving"
+    "Name": "Homestead Weaving Bench"
   },
   "3000": {
     "BtnType": 1,
@@ -3988,6 +3988,34 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30420,
     "Name": "ปล่อย"
+  },
+  "30421": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30421,
+    "Name": "เก็บ Gloomwood Moonberry"
+  },
+  "30422": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "Id": 30422,
+    "Name": "เริ่ม Spirit Dance"
+  },
+  "30423": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30423,
+    "Name": "บีบ Ancestral Spores"
+  },
+  "30424": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30424,
+    "Name": "ใส่ดินศักดิ์สิทธิ์"
   },
   "3050201": {
     "BtnType": 1,
@@ -4835,6 +4863,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56019,
     "Name": "ได้รับ Mahjong ฝ่ายตรงข้าม"
+  },
+  "56020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 56020,
+    "Name": "จุดดอกไม้ไฟของ Rorola"
   },
   "57001": {
     "BtnType": 1,
@@ -5779,7 +5814,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 7011,
-    "Name": "กระแสธาตุลมวุ่นวาย"
+    "Name": "Wind Turbulence"
   },
   "7020": {
     "BtnType": 1,
@@ -5793,7 +5828,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 7021,
-    "Name": "กุญแจขึ้นสนิม"
+    "Name": "Rusty Key"
   },
   "7022": {
     "BtnType": 1,
@@ -5898,7 +5933,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 7034,
-    "Name": "เศษคริสตัลสีแดง Scarlet Crystal"
+    "Name": "Crimson Marrow Shard"
   },
   "7035": {
     "BtnType": 1,
@@ -6416,7 +6451,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 720010,
-    "Name": "เริ่ม Spirited Dance"
+    "Name": "เริ่ม Spirit Dance"
   },
   "720011": {
     "BtnType": 1,
@@ -6689,14 +6724,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 732001,
-    "Name": "ฉันอยากขยายร่าง"
+    "Name": "Grow Larger"
   },
   "732002": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 732002,
-    "Name": "ฉันอยากย่อส่วน"
+    "Name": "Shrink Down"
   },
   "732003": {
     "BtnType": 1,
@@ -6710,7 +6745,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 732004,
-    "Name": "แสงเงินระยิบ"
+    "Name": "Silvery Aura"
   },
   "732005": {
     "BtnType": 1,
@@ -6745,14 +6780,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732102,
-    "Name": "ขอพร Elder Kong Gray Ash Pact​ 1 ครั้ง"
+    "Name": "ขอพร Elder Voidmind Gray Ash Pact​ 1 ครั้ง"
   },
   "732103": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 732103,
-    "Name": "ขอพร Elder Kong Gray Ash Pact​ 10 ครั้ง"
+    "Name": "ขอพร Elder Voidmind Gray Ash Pact​ 10 ครั้ง"
   },
   "732104": {
     "BtnType": 1,
@@ -6872,6 +6907,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739011,
     "Name": "สำรวจใต้ทะเล: Engram Line Tuning"
+  },
+  "739012": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "Id": 739012,
+    "Name": "Loom of Dream - Dream purification"
   },
   "7501": {
     "BtnType": 1,
@@ -7565,5 +7607,40 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920519,
     "Name": "เคล็ดลับเหตุการณ์"
+  },
+  "9300001": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300001,
+    "Name": "สิ้นสุด Dreamscape"
+  },
+  "9300002": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300002,
+    "Name": "แลกสกิลขอพร"
+  },
+  "9300003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300003,
+    "Name": "รับพร (1 ครั้งเท่านั้น)"
+  },
+  "9300004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300004,
+    "Name": "เก็บคำอธิษฐาน"
+  },
+  "9300005": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300005,
+    "Name": "เปิด Dream-Filled Chest (1 ครั้งเท่านั้น)"
   }
 }

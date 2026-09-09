@@ -2080,7 +2080,7 @@
     "Id": 2207110
   },
   "2207120": {
-    "Description": "自身と<style=\"accent-gn\">30</style>m以内にいるパーティメンバーのブレイク効率+<style=\"accent-gn\">10%</style>（この効果はスタック不可）。<br><linktext=1614><style=\"ItemQuality_5\">ブレイブメロディー</style></linktext>発動後、自身と<style=\"accent-gn\">30</style>m以内にいるパーティメンバーのブレイク効率+<style=\"accent-gn\">30%</style>、さらにターゲットに対する最終ダメージ+<style=\"accent-gn\">15%</style>（この効果はスタック不可）。",
+    "Description": "自身と<style=\"accent-gn\">30</style>m以内にいるパーティメンバーのブレイク効率+<style=\"accent-gn\">10%</style>（この効果はスタック不可）。<br><linktext=1614><style=\"ItemQuality_5\">ブレイブメロディー</style></linktext>発動後、自身と<style=\"accent-gn\">30</style>m以内にいるパーティメンバーのブレイク効率+<style=\"accent-gn\">30%</style>、ブレイク状態のターゲットに対する最終ダメージ+<style=\"accent-gn\">15%</style>（この効果はスタック不可）。",
     "Id": 2207120
   },
   "2207130": {
@@ -3080,7 +3080,7 @@
     "Id": 2406270
   },
   "2406280": {
-    "Description": "岩石弾の召喚時、砂塵外套の残りのリキャスト-0.6秒。岩石弾が有効中の場合は持続時間+0.6秒。<br>",
+    "Description": "岩石弾の召喚時、砂塵外套の残りリキャスト-0.6秒。砂塵外套が有効時は持続時間+0.6秒。<br>",
     "Id": 2406280
   },
   "2407010": {
@@ -3852,7 +3852,7 @@
     "Id": 3050030
   },
   "3050040": {
-    "Description": "雷閃の滅妄ダメージ+<style=\"accent-gn\">{*Decision.unmarkpercent(1)*}</style>、発動速度が大幅にアップする。<br>雷閃を速度すると虚妄エネルギー+<style=\"accent-gn\">{*Decision.unmarknormal(2)*}</style>pt。",
+    "Description": "雷閃の滅妄ダメージ+<style=\"accent-gn\">{*Decision.unmarkpercent(1)*}</style>、発動速度が大幅にアップする。<br>雷閃を発動すると虚妄エネルギー+<style=\"accent-gn\">{*Decision.unmarknormal(2)*}</style>pt。",
     "Id": 3050040
   },
   "3050050": {

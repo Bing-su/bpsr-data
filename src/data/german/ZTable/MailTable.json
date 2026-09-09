@@ -1078,6 +1078,19 @@
     "NpcName": "Miaunia",
     "Title": "[Crossover] Nachsendung der Herausforderungsziel-Belohnungen"
   },
+  "2506": {
+    "AwardId": 0,
+    "Content": "Hallo, Abenteurer,<br><br>Das Event \"Kanamia-Erntedankfest\" ist beendet. Bitte hol dir die verpassten Ziel-Belohnungen ab!<br><br>Danke für deine Teilnahme!",
+    "ExpireTime": 30,
+    "Id": 2506,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Erntedankfest-Personal",
+    "Title": "[Kanamia-Erntedankfest] Nicht abgeholte Event-Ziel-Belohnungen"
+  },
   "3002": {
     "AwardId": 0,
     "Content": "Lieber Abenteurer,<br><br>deine Loyalität und dein Mut leuchten heller als tausend Sterne! Das Pionierbüro hat für diesen Monat Schätze vorbereitet, die deiner legendären Taten würdig sind! Greif schnell zu, denn dein nächstes Abenteuer wartet nicht!",
@@ -1168,5 +1181,18 @@
     "NpcId": 0,
     "NpcName": "System",
     "Title": "Meister-Ranglisten-Abstimmungsüberprüfung fehlgeschlagen"
+  },
+  "4004": {
+    "AwardId": 0,
+    "Content": "Hallo, Abenteurer,<br><br>Das Event \"Heldenprüfungen\" ist beendet und du hast noch nicht abgeholte Belohnungen. Bitte hol sie dir jetzt ab. <br><br>Danke für deine Teilnahme!",
+    "ExpireTime": 30,
+    "Id": 4004,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "System",
+    "Title": "[Heldenprüfungen] Nachsendung der Ziel-Belohnungen"
   }
 }

@@ -28,7 +28,7 @@
     "Id": 1003,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "โจมตีหนัก",
+    "Text": "Heavy Attack",
     "Type": 1
   },
   "1004": {
@@ -60,7 +60,7 @@
     "Id": 1007,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "สกิลสุดท้าย",
+    "Text": "Ultimate",
     "Type": 1
   },
   "1008": {
@@ -76,7 +76,7 @@
     "Id": 1009,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "สกิล Recovery",
+    "Text": "Recovery Skill",
     "Type": 1
   },
   "1010": {
@@ -104,7 +104,7 @@
     "Type": 1
   },
   "1013": {
-    "Description": "DMG เพิ่มเติมที่เกิดจากสกิลสเตตัสธาตุทำงาน",
+    "Description": "DMG เพิ่มเติมที่เกิดจากสกิลสเตตัส Element ทำงาน",
     "Id": 1013,
     "Par": 0,
     "ShowRule": 1,
@@ -116,7 +116,7 @@
     "Id": 1014,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Heal",
+    "Text": "Healing",
     "Type": 1
   },
   "1015": {
@@ -180,7 +180,7 @@
     "Id": 1022,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Weak",
+    "Text": "Weakness",
     "Type": 1
   },
   "1023": {
@@ -188,7 +188,7 @@
     "Id": 1023,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "เจ็บง่าย",
+    "Text": "Vulnerability",
     "Type": 1
   },
   "1024": {
@@ -196,7 +196,7 @@
     "Id": 1024,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Cracking",
+    "Text": "Fracture",
     "Type": 1
   },
   "1025": {
@@ -204,7 +204,7 @@
     "Id": 1025,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ควบคุม",
+    "Text": "Control",
     "Type": 1
   },
   "1026": {
@@ -212,7 +212,7 @@
     "Id": 1026,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "แช่แข็ง",
+    "Text": "Frozen",
     "Type": 1
   },
   "1027": {
@@ -220,7 +220,7 @@
     "Id": 1027,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Binding",
+    "Text": "Bind",
     "Type": 1
   },
   "1028": {
@@ -236,7 +236,7 @@
     "Id": 1029,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ลด SPD",
+    "Text": "Slow",
     "Type": 1
   },
   "1030": {
@@ -244,7 +244,7 @@
     "Id": 1030,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ลดทนทาน",
+    "Text": "Stagger",
     "Type": 1
   },
   "1031": {
@@ -252,7 +252,7 @@
     "Id": 1031,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "เคลื่อนที่",
+    "Text": "Displacement",
     "Type": 1
   },
   "1032": {
@@ -260,7 +260,7 @@
     "Id": 1032,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "พุ่ง",
+    "Text": "Sprint",
     "Type": 1
   },
   "1033": {
@@ -268,7 +268,7 @@
     "Id": 1033,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "แฟลช",
+    "Text": "Blink",
     "Type": 1
   },
   "1034": {
@@ -276,7 +276,7 @@
     "Id": 1034,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "รอดชีวิต",
+    "Text": "Survival",
     "Type": 1
   },
   "1035": {
@@ -284,7 +284,7 @@
     "Id": 1035,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "โล่",
+    "Text": "Shield",
     "Type": 1
   },
   "1036": {
@@ -292,27 +292,27 @@
     "Id": 1036,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Parry",
+    "Text": "Block",
     "Type": 1
   },
   "1037": {
-    "Description": "สร้าง DMG ธาตุไฟ",
+    "Description": "สร้าง Fire DMG",
     "Id": 1037,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "DMG ธาตุไฟ",
+    "Text": "Fire DMG",
     "Type": 1
   },
   "1038": {
-    "Description": "พลังของธาตุไฟที่ติดมากับDMG",
+    "Description": "Damage กับพลังของ Fire",
     "Id": 1038,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ธาตุไฟ",
+    "Text": "Fire",
     "Type": 1
   },
   "1039": {
-    "Description": "อยู่ในสถานะเสียเปรียบที่ได้รับ DMG จากคุณสมบัติธาตุไฟเป็นระยะๆ",
+    "Description": "อยู่ในสถานะเสียเปรียบที่ได้รับ Fire DMG เป็นระยะ",
     "Id": 1039,
     "Par": 0,
     "ShowRule": 1,
@@ -320,115 +320,115 @@
     "Type": 1
   },
   "1040": {
-    "Description": "สร้าง DMG ธาตุน้ำแข็ง",
+    "Description": "สร้าง Ice DMG",
     "Id": 1040,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "DMG ธาตุน้ำแข็ง",
+    "Text": "Ice DMG",
     "Type": 1
   },
   "1041": {
-    "Description": "พลังของธาตุน้ำแข็งที่ติดมากับDMG",
+    "Description": "Damage กับพลังของ Ice",
     "Id": 1041,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ธาตุน้ำแข็ง",
+    "Text": "Ice",
     "Type": 1
   },
   "1042": {
-    "Description": "สร้าง DMG ธาตุสายฟ้า",
+    "Description": "สร้าง Thunder DMG",
     "Id": 1042,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "DMG ธาตุสายฟ้า",
+    "Text": "Thunder DMG",
     "Type": 1
   },
   "1043": {
-    "Description": "พลังของธาตุสายฟ้าที่ติดมากับDMG",
+    "Description": "Damage กับพลังของ Thunder",
     "Id": 1043,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ธาตุสายฟ้า",
+    "Text": "Thunder",
     "Type": 1
   },
   "1044": {
-    "Description": "สร้าง DMG ธาตุลม",
+    "Description": "สร้าง Wind DMG",
     "Id": 1044,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "DMG ธาตุลม",
+    "Text": "Wind DMG",
     "Type": 1
   },
   "1045": {
-    "Description": "พลังของธาตุลมที่ติดมากับDMG",
+    "Description": "Damage กับพลังของ Wind",
     "Id": 1045,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ธาตุลม",
+    "Text": "Wind",
     "Type": 1
   },
   "1046": {
-    "Description": "สร้าง DMG ธาตุหิน",
+    "Description": "สร้าง Rock DMG",
     "Id": 1046,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "DMG ธาตุหิน",
+    "Text": "Rock DMG",
     "Type": 1
   },
   "1047": {
-    "Description": "พลังของธาตุหินที่ติดมากับDMG",
+    "Description": "Damage กับพลังของ Rock",
     "Id": 1047,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ธาตุหิน",
+    "Text": "Rock",
     "Type": 1
   },
   "1048": {
-    "Description": "สร้าง DMG ธาตุไม้",
+    "Description": "สร้าง Forest DMG",
     "Id": 1048,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "DMG ธาตุไม้",
+    "Text": "Forest DMG",
     "Type": 1
   },
   "1049": {
-    "Description": "พลังของธาตุไม้ที่ติดมากับDMG",
+    "Description": "Damage กับพลังของ Forest",
     "Id": 1049,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ธาตุป่า",
+    "Text": "Forest",
     "Type": 1
   },
   "1050": {
-    "Description": "สร้าง DMG ธาตุแสง",
+    "Description": "สร้าง Light DMG",
     "Id": 1050,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "DMG ธาตุแสง",
+    "Text": "Light DMG",
     "Type": 1
   },
   "1051": {
-    "Description": "พลังของธาตุแสงที่ติดมากับDMG",
+    "Description": "Damage กับพลังของ Light",
     "Id": 1051,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ธาตุแสง",
+    "Text": "Light",
     "Type": 1
   },
   "1052": {
-    "Description": "สร้าง DMG ธาตุมืด",
+    "Description": "สร้าง Dark DMG",
     "Id": 1052,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "DMG ธาตุมืด",
+    "Text": "Dark DMG",
     "Type": 1
   },
   "1053": {
-    "Description": "พลังของธาตุมืดที่ติดมากับDMG",
+    "Description": "Damage กับพลังของ Dark",
     "Id": 1053,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ธาตุมืด",
+    "Text": "Dark",
     "Type": 1
   },
   "1054": {
@@ -436,7 +436,7 @@
     "Id": 1054,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ช่วยสู้",
+    "Text": "Assist in Battle",
     "Type": 1
   },
   "1055": {
@@ -444,7 +444,7 @@
     "Id": 1055,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ร่วมมือ",
+    "Text": "Coordination",
     "Type": 1
   },
   "1056": {
@@ -452,7 +452,7 @@
     "Id": 1056,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ร่วมศึก",
+    "Text": "Cooperative Battle",
     "Type": 1
   },
   "1057": {
@@ -460,7 +460,7 @@
     "Id": 1057,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ชาร์จ",
+    "Text": "Charging",
     "Type": 1
   },
   "1058": {
@@ -468,7 +468,7 @@
     "Id": 1058,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ชี้นำ",
+    "Text": "Channelling",
     "Type": 1
   },
   "1059": {
@@ -476,7 +476,7 @@
     "Id": 1059,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "เพิ่มพลัง",
+    "Text": "Enhancement",
     "Type": 1
   },
   "1060": {
@@ -492,7 +492,7 @@
     "Id": 1061,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Mark",
+    "Text": "Imprint",
     "Type": 1
   },
   "1062": {
@@ -516,7 +516,7 @@
     "Id": 1064,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "กับดัก",
+    "Text": "Trap",
     "Type": 1
   },
   "1065": {
@@ -524,7 +524,7 @@
     "Id": 1065,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "โทเท็ม",
+    "Text": "Totem",
     "Type": 1
   },
   "1066": {
@@ -540,7 +540,7 @@
     "Id": 1067,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "สร้างสรรค์",
+    "Text": "Construct",
     "Type": 1
   },
   "1068": {
@@ -548,7 +548,7 @@
     "Id": 1068,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "สิ่งที่บินได้",
+    "Text": "Projectile",
     "Type": 1
   },
   "1069": {
@@ -556,7 +556,7 @@
     "Id": 1069,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "กระสุน",
+    "Text": "Bullet",
     "Type": 1
   },
   "1070": {
@@ -564,7 +564,7 @@
     "Id": 1070,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "สิ่งที่ยิงได้",
+    "Text": "Missile",
     "Type": 1
   },
   "1071": {
@@ -572,7 +572,7 @@
     "Id": 1071,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "เอฟเฟกต์โซน",
+    "Text": "Area Effect",
     "Type": 1
   },
   "1072": {
@@ -596,7 +596,7 @@
     "Id": 1074,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ออร่า",
+    "Text": "Aura",
     "Type": 1
   },
   "1075": {
@@ -604,7 +604,7 @@
     "Id": 1075,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "เป้าหมายทรงพลัง",
+    "Text": "Powerful Target",
     "Type": 1
   },
   "1076": {
@@ -612,7 +612,7 @@
     "Id": 1076,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "ผู้นำ",
+    "Text": "Boss",
     "Type": 1
   },
   "1077": {
@@ -620,7 +620,7 @@
     "Id": 1077,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "มอนสเตอร์ Common",
+    "Text": "Normal Monster",
     "Type": 1
   },
   "1078": {
@@ -644,7 +644,7 @@
     "Id": 1080,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Wilderness Lord",
+    "Text": "Wild Boss",
     "Type": 1
   },
   "1081": {
@@ -652,7 +652,7 @@
     "Id": 1081,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Lord",
+    "Text": "World Boss",
     "Type": 1
   },
   "1082": {
@@ -668,7 +668,7 @@
     "Id": 1083,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "บาดเจ็บ",
+    "Text": "Injured",
     "Type": 1
   },
   "1084": {
@@ -696,7 +696,7 @@
     "Type": 1
   },
   "1087": {
-    "Description": "DMG เป็นแบบไร้สเตตัส ไม่ได้พกพลังธาตุ",
+    "Description": "DMG เป็นแบบไร้สเตตัส ไม่มี Elemental power",
     "Id": 1087,
     "Par": 0,
     "ShowRule": 1,
@@ -708,7 +708,7 @@
     "Id": 1088,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "กร่อน",
+    "Text": "Corrosion",
     "Type": 1
   },
   "1089": {
@@ -764,7 +764,7 @@
     "Id": 1095,
     "Par": 3401095,
     "ShowRule": 1,
-    "Text": "เจ็บง่าย",
+    "Text": "Vulnerability",
     "Type": 3
   },
   "1096": {
@@ -808,7 +808,7 @@
     "Type": 3
   },
   "1101": {
-    "Description": "หมุนต่อเนื่อง <style=\"accent-gn\">35</style>s ทุก <style=\"accent-gn\">2</style>s จะสร้าง <style=\"accent-gn\">50%</style> <style=\"physical\">P.DMG</style> ของ ATK แก่เป้าหมาย พัฒนาตามการอัป Lv./อัปขั้นสกิล Scythe Car",
+    "Description": "หมุนเป็นเวลา <style=\"accent-gn\">35</style> วินาที ทุก <style=\"accent-gn\">2</style> วินาที จะสร้าง <style=\"accent-gn\">50%</style> <style=\"physical\">P.DMG</style> ของ ATK แก่เป้าหมาย พัฒนาตามการอัป Lv./อัปขั้นสกิล Scythe Car",
     "Id": 1101,
     "Par": 3401101,
     "ShowRule": 1,
@@ -1016,7 +1016,7 @@
     "Type": 3
   },
   "1127": {
-    "Description": "ตามด้วยภายใน <style=\"accent-gn\">7</style>s <style=\"accent-gn\">Shield Bash</style> จะเปลี่ยนเป็นคอมโบ 2 และหากปล่อยจะไม่ใช้ <style=\"accent-gn\">rage</style> และ <style=\"accent-gn\">Sand Crystal</style> อีก ในขณะเดียวกันจะเพิ่ม<style=\"accent-gn\">โล่</style>แก่ตัวเอง หลังจากปล่อย <style=\"accent-gn\">Shield Bash</style> จะลบเอฟเฟกต์นี้",
+    "Description": "ตามด้วยภายใน <style=\"accent-gn\">7</style> วินาที <style=\"accent-gn\">Shield Bash</style> จะเปลี่ยนเป็นคอมโบ 2 และหากปล่อยจะไม่ใช้ <style=\"accent-gn\">rage</style> และ <style=\"accent-gn\">Sand Crystal</style> อีก ในขณะเดียวกันจะเพิ่ม<style=\"accent-gn\">โล่</style>แก่ตัวเอง หลังจากปล่อย <style=\"accent-gn\">Shield Bash</style> จะลบเอฟเฟกต์นี้",
     "Id": 1127,
     "Par": 3401127,
     "ShowRule": 1,
@@ -1032,11 +1032,11 @@
     "Type": 3
   },
   "1129": {
-    "Description": "DMG ที่ได้รับ -<style=\"accent-gn\">50%</style> Heal ที่ได้รับ +<style=\"accent-gn\">30%</style> ต่อเนื่อง <style=\"accent-gn\">10</style>s",
+    "Description": "DMG ที่ได้รับ -<style=\"accent-gn\">50%</style> Heal ที่ได้รับ +<style=\"accent-gn\">30%</style> เป็นเวลา <style=\"accent-gn\">10</style> วินาที",
     "Id": 1129,
     "Par": 3401129,
     "ShowRule": 1,
-    "Text": "Survival Against All Odds",
+    "Text": "Survival Instinct",
     "Type": 3
   },
   "1130": {
@@ -1044,7 +1044,7 @@
     "Id": 1130,
     "Par": 3401130,
     "ShowRule": 1,
-    "Text": "กฏพลังพล่าน",
+    "Text": "Law of Energy Surge",
     "Type": 3
   },
   "1131": {
@@ -1084,7 +1084,7 @@
     "Id": 1135,
     "Par": 3401135,
     "ShowRule": 1,
-    "Text": "Provoke",
+    "Text": "Enraged",
     "Type": 3
   },
   "1136": {
@@ -1128,7 +1128,7 @@
     "Type": 3
   },
   "1141": {
-    "Description": "ต่อเนื่อง <style=\"accent-gn\">5</style>s ทุกวินาทีจะสร้าง <style=\"accent-gn\">10%</style> <style=\"physical\">P.DMG</style> ของ ATK เมื่อเพิ่ม<style=\"accent-gn\">สูญเสีย HP</style> ซ้ำจากแหล่งที่มาเดียวกันจะสรุปผลเอฟเฟกต์<style=\"accent-gn\">สูญเสีย HP</style> ที่ยังไม่สิ้นสุดก่อนหน้านั้นทันที",
+    "Description": "ต่อเนื่อง <style=\"accent-gn\">5</style> วินาที ทุกวินาทีจะสร้าง <style=\"accent-gn\">10%</style> <style=\"physical\">P.DMG</style> ของ ATK เมื่อเพิ่ม<style=\"accent-gn\">สูญเสีย HP</style> ซ้ำจากแหล่งที่มาเดียวกันจะสรุปผลเอฟเฟกต์<style=\"accent-gn\">สูญเสีย HP</style> ที่ยังไม่สิ้นสุดก่อนหน้านั้นทันที",
     "Id": 1141,
     "Par": 3401141,
     "ShowRule": 1,
@@ -1176,7 +1176,7 @@
     "Type": 3
   },
   "1147": {
-    "Description": "ส่งเสียงคำรามอย่างดุร้าย ตามด้วยภายใน <style=\"accent-gn\">10</style>s โบนัสธาตุแสง +<style=\"accent-gn\">50%</style>",
+    "Description": "ส่งเสียงคำรามอย่างดุร้าย ตามด้วยภายใน <style=\"accent-gn\">10</style> วินาที Light Bonus +<style=\"accent-gn\">50%</style>",
     "Id": 1147,
     "Par": 3401147,
     "ShowRule": 1,
@@ -1192,7 +1192,7 @@
     "Type": 3
   },
   "1149": {
-    "Description": "พัดสร้างพายุรัศมี <style=\"accent-gn\">5</style> เมตร ทุก <style=\"accent-gn\">0</style>.<style=\"accent-gn\">5</style>s เป้าหมายที่มีเครื่องหมาย <style=\"accent-gn\">Steel Beak</style> ในพายุจะถูกสร้าง <style=\"accent-gn\">80%</style> <style=\"physical\">P.DMG</style> ของการโจมตีโดยไม่สน DEF หลังจากนั้น <style=\"accent-gn\">5</style>s <style=\"accent-gn\">Celestial Eagle</style> จะถลาลงมายังพื้น สร้าง <style=\"accent-gn\">500%</style> <style=\"physical\">P.DMG</style> ของการโจมตีโดยไม่สน DEF",
+    "Description": "พัดสร้างพายุรัศมี <style=\"accent-gn\">5</style> เมตร ทุก <style=\"accent-gn\">0</style>.<style=\"accent-gn\">5</style> วินาที เป้าหมายที่มีเครื่องหมาย <style=\"accent-gn\">Steel Beak</style> ในพายุจะถูกสร้าง <style=\"accent-gn\">80%</style> <style=\"physical\">P.DMG</style> ของการโจมตีโดยไม่สน DEF หลังจากนั้น <style=\"accent-gn\">5</style> วินาที <style=\"accent-gn\">Celestial Eagle</style> จะถลาลงมายังพื้น สร้าง <style=\"accent-gn\">500%</style> <style=\"physical\">P.DMG</style> ของการโจมตีโดยไม่สน DEF",
     "Id": 1149,
     "Par": 3401149,
     "ShowRule": 1,
@@ -1224,7 +1224,7 @@
     "Type": 3
   },
   "1153": {
-    "Description": "เป้าหมายสูญเสีย HP ทุกวินาทีตาม ATK <style=\"accent-gn\">25%</style> ต่อเนื่อง <style=\"accent-gn\">8</style>s",
+    "Description": "เป้าหมายเสีย HP ทุกวินาทีตาม ATK <style=\"accent-gn\">25%</style> เป็นเวลา <style=\"accent-gn\">8</style> วินาที",
     "Id": 1153,
     "Par": 3401153,
     "ShowRule": 1,
@@ -1236,11 +1236,11 @@
     "Id": 1154,
     "Par": 3401154,
     "ShowRule": 1,
-    "Text": "Thousand Wounds",
+    "Text": "Rupture",
     "Type": 3
   },
   "1155": {
-    "Description": "<style=\"accent-gn\">Power</style> +<style=\"accent-gn\">30%</style> ต่อเนื่อง <style=\"accent-gn\">12</style>s",
+    "Description": "<style=\"accent-gn\">Power</style> +<style=\"accent-gn\">30%</style> เป็นเวลา <style=\"accent-gn\">12</style> วินาที",
     "Id": 1155,
     "Par": 3401155,
     "ShowRule": 1,
@@ -1256,11 +1256,11 @@
     "Type": 3
   },
   "1157": {
-    "Description": "<style=\"accent-gn\">Instant</style> DMG +<style=\"accent-gn\">30%</style> ต่อเนื่อง <style=\"accent-gn\">10</style>s ซ้อนทับมากสุด <style=\"accent-gn\">2</style> Stack หลังจาก <style=\"accent-gn\">Instant</style> สร้าง DMG จะหัก 1 Stack",
+    "Description": "<style=\"accent-gn\">Instant</style> DMG +<style=\"accent-gn\">30%</style> เป็นเวลา <style=\"accent-gn\">10</style> วินาที ซ้อนทับมากสุด <style=\"accent-gn\">2</style> Stack หลังจาก <style=\"accent-gn\">Instant</style> สร้าง DMG จะหัก 1 Stack",
     "Id": 1157,
     "Par": 3401157,
     "ShowRule": 1,
-    "Text": "Pursuit Technique",
+    "Text": "Chasing Step",
     "Type": 3
   },
   "1158": {
@@ -1344,11 +1344,11 @@
     "Type": 3
   },
   "1168": {
-    "Description": "ความแข็งแกร่งของ<style=\"accent-gn\">โล่</style> +<style=\"accent-gn\">3%</style> ต่อเนื่อง<style=\"accent-gn\">10</style>วินาที ซ้อนทับได้มากสุด<style=\"accent-gn\">10</style>Stack",
+    "Description": "อัปเกรด <style=\"accent-gn\">Shield</style> +<style=\"accent-gn\">3%</style> เป็นเวลา <style=\"accent-gn\">10</style>วินาที ซ้อนทับสูงสุด <style=\"accent-gn\">10</style> Stack",
     "Id": 1168,
     "Par": 3401168,
     "ShowRule": 1,
-    "Text": "Sanctuary of Sand",
+    "Text": "Sandy Shelter",
     "Type": 3
   },
   "1169": {
@@ -1368,7 +1368,7 @@
     "Type": 3
   },
   "1171": {
-    "Description": "ทำให้เป้าหมายไม่สามารถขยับได้ ในขณะเดียวกัน DMG ธาตุน้ำแข็งที่ได้รับ +<style=\"accent-gn\">20%</style> ต่อเนื่อง <style=\"accent-gn\">10</style>s หลังจากได้รับการโจมตีจะลบ ภายในช่วงเวลาสั้นๆ เวลาต่อเนื่องเพิ่มหลายครั้งจะสั้นลง ไม่สามารถมีผลต่อ Boss ได้",
+    "Description": "ทำให้เป้าหมายไม่สามารถขยับได้ ในขณะเดียวกัน Ice DMGที่ได้รับ +<style=\"accent-gn\">20%</style> เป็นเวลา <style=\"accent-gn\">10</style> วินาที หลังจากได้รับการโจมตีจะลบ ภายในช่วงเวลาสั้นๆ เวลาต่อเนื่องเพิ่มหลายครั้งจะสั้นลง ไม่สามารถมีผลต่อ Boss ได้",
     "Id": 1171,
     "Par": 3401171,
     "ShowRule": 1,
@@ -1380,11 +1380,11 @@
     "Id": 1172,
     "Par": 3401172,
     "ShowRule": 1,
-    "Text": "Holy Light Shield",
+    "Text": "Radiant Shield",
     "Type": 3
   },
   "1173": {
-    "Description": "ภายในเวลา <style=\"accent-gn\">5</style>s ทุก <style=\"accent-gn\">0.5</style>s จะฟื้นฟู HP แก่เป้าหมายฝ่ายพันธมิตรตามแต้ม ATK <style=\"accent-gn\">20%</style>",
+    "Description": "ภายในเวลา <style=\"accent-gn\">5</style> วินาที ทุก <style=\"accent-gn\">0.5</style> วินาที จะฟื้นฟู HP แก่เป้าหมายฝ่ายพันธมิตรตามแต้ม ATK <style=\"accent-gn\">20%</style>",
     "Id": 1173,
     "Par": 3401173,
     "ShowRule": 1,
@@ -1400,7 +1400,7 @@
     "Type": 3
   },
   "1175": {
-    "Description": "ทุก Stack ทำให้ Max HP สุดท้ายของตัวเอง +<style=\"accent-gn\">2%</style> มากสุดสามารถมี<style=\"accent-gn\">10</style>Stack ที่เป็น<style=\"accent-gn\">Lightforged Barrier</style> เมื่อได้รับ DMG ใดๆ จะใช้<style=\"accent-gn\">1</style>Stack ต่อเนื่อง<style=\"accent-gn\">25</style>วินาทีหรือจำนวน Stack ทั้งหมดจะถูกใช้หมด ทุกครั้งที่ได้รับจำนวน Stack จะรีเซ็ตระยะเวลา",
+    "Description": "ทุก Stack ทำให้ Max HP สุดท้ายของตัวเอง +<style=\"accent-gn\">2%</style> มากสุดสามารถมี<style=\"accent-gn\">10</style> Stack ที่เป็น<style=\"accent-gn\">Lightforged Barrier</style> เมื่อได้รับ DMG จะใช้ <style=\"accent-gn\">1</style> Stack เป็นเวลา <style=\"accent-gn\">25</style> วินาทีหรือจำนวน Stack ทั้งหมดจะถูกใช้หมด ทุกครั้งที่ได้รับจำนวน Stack จะรีเซ็ตระยะเวลา",
     "Id": 1175,
     "Par": 3401175,
     "ShowRule": 1,
@@ -1432,11 +1432,11 @@
     "Type": 3
   },
   "1179": {
-    "Description": "<style=\"accent-gn\">Power</style> +<style=\"accent-gn\">12%</style> ต่อเนื่อง <style=\"accent-gn\">8</style>s",
+    "Description": "<style=\"accent-gn\">Power</style> +<style=\"accent-gn\">12%</style> เป็นเวลา <style=\"accent-gn\">8</style> วินาที",
     "Id": 1179,
     "Par": 3401179,
     "ShowRule": 1,
-    "Text": "Stormbreaker",
+    "Text": "Tempestrike",
     "Type": 3
   },
   "1180": {
@@ -1500,7 +1500,7 @@
     "Id": 1187,
     "Par": 3401187,
     "ShowRule": 1,
-    "Text": "WindFury",
+    "Text": "Wind Fury",
     "Type": 3
   },
   "1188": {
@@ -1584,7 +1584,7 @@
     "Type": 3
   },
   "1198": {
-    "Description": "หลังจาก <style=\"accent-gn\">10</style>s จะระเบิด<style=\"accent-gn\">พลังงาน</style>ศักดิ์สิทธิ์โดยรอบสี่ทิศตัวเอง สร้าง <style=\"accent-gn\">500%</style> <style=\"physical\">P.DMG</style> ของ ATK และฟื้นฟู MaxHP ให้ตัวเอง <style=\"accent-gn\">15%</style>",
+    "Description": "หลังจาก <style=\"accent-gn\">10</style> วินาที จะระเบิด<style=\"accent-gn\">พลังงาน</style>ศักดิ์สิทธิ์โดยรอบสี่ทิศตัวเอง สร้าง <style=\"accent-gn\">500%</style> <style=\"physical\">P.DMG</style> ของ ATK และฟื้นฟู MaxHP ให้ตัวเอง <style=\"accent-gn\">15%</style>",
     "Id": 1198,
     "Par": 3401198,
     "ShowRule": 1,
@@ -1592,7 +1592,7 @@
     "Type": 3
   },
   "1199": {
-    "Description": "เป้าหมายตามด้วยภายใน <style=\"accent-gn\">10</style>s ทุกวินาทีได้รับ DMG ตาม ATK <style=\"accent-gn\">20%</style> ในขณะเดียวกันเป้าหมายนี้เมื่อสร้าง DMG ให้คุณมีโอกาสคงที่ <style=\"accent-gn\">10%</style> ฟื้นฟู HP ให้คุณ ฟื้นฟูเท่ากับ Max HP ของคุณ <style=\"accent-gn\">0.5%</style>",
+    "Description": "เป้าหมายตามด้วยภายใน <style=\"accent-gn\">10</style> วินาที ทุกวินาทีได้รับ DMG ตาม ATK <style=\"accent-gn\">20%</style> ในขณะเดียวกันเป้าหมายนี้เมื่อสร้าง DMG ให้คุณมีโอกาสคงที่ <style=\"accent-gn\">10%</style> ฟื้นฟู HP ให้คุณ ฟื้นฟูเท่ากับ Max HP ของคุณ <style=\"accent-gn\">0.5%</style>",
     "Id": 1199,
     "Par": 3401199,
     "ShowRule": 1,
@@ -1636,7 +1636,7 @@
     "Id": 1204,
     "Par": 3401204,
     "ShowRule": 1,
-    "Text": "Power of Dream",
+    "Text": "Dreamforce",
     "Type": 3
   },
   "1205": {
@@ -1696,15 +1696,15 @@
     "Type": 3
   },
   "1212": {
-    "Description": "เพิ่มพลังธาตุไฟ+<style=\"accent-gn\">10%</style>, นาน<style=\"accent-gn\">8</style>วินาที",
+    "Description": "เพิ่ม Fire Bonus +<style=\"accent-gn\">10%</style> เป็นเวลา <style=\"accent-gn\">8</style>วินาที",
     "Id": 1212,
     "Par": 3401212,
     "ShowRule": 1,
-    "Text": "เพลิงผลาญ",
+    "Text": "Blaze",
     "Type": 3
   },
   "1213": {
-    "Description": "สร้าง <style=\"physical\">Attack DMG</style> เท่ากับ <style=\"accent-gn\">35% × stack count</style> ของ ATK ทุกๆ <style=\"accent-gn\">2</style>s เป็นเวลา <style=\"accent-gn\">10</style>s ซ้อนทับได้สูงสุด <style=\"accent-gn\">10</style> ครั้ง เมื่อ <style=\"accent-gn\">Burn</style> ถึง Stack สูงสุด การได้รับ <style=\"accent-gn\">Burn</style> ใหม่จะสร้าง <style=\"physical\">Attack DMG</style> เท่ากับ <style=\"accent-gn\">35%</style> ของ ATK ทันที",
+    "Description": "สร้าง <style=\"physical\">Attack DMG</style> เท่ากับ <style=\"accent-gn\">35% × stack count</style> ของ ATK ทุกๆ <style=\"accent-gn\">2</style> วินาที เป็นเวลา <style=\"accent-gn\">10</style> วินาที ซ้อนทับได้สูงสุด <style=\"accent-gn\">10</style> ครั้ง เมื่อ <style=\"accent-gn\">Burn</style> ถึง Stack สูงสุด การได้รับ <style=\"accent-gn\">Burn</style> ใหม่จะสร้าง <style=\"physical\">Attack DMG</style> เท่ากับ <style=\"accent-gn\">35%</style> ของ ATK ทันที",
     "Id": 1213,
     "Par": 3401213,
     "ShowRule": 1,
@@ -2156,7 +2156,7 @@
     "Id": 1549,
     "Par": 2237,
     "ShowRule": 1,
-    "Text": "Wild Call",
+    "Text": "Wildcall",
     "Type": 2
   },
   "1550": {
@@ -2708,7 +2708,7 @@
     "Id": 1619,
     "Par": 1605,
     "ShowRule": 1,
-    "Text": "โหมไฟลุกโชน",
+    "Text": "Blazing Ascension",
     "Type": 2
   },
   "1620": {
@@ -2716,7 +2716,7 @@
     "Id": 1620,
     "Par": 1619,
     "ShowRule": 1,
-    "Text": "เฟ่ยเถิงเหยียนฮวา",
+    "Text": "Soaring Flame",
     "Type": 2
   },
   "1621": {
@@ -2724,7 +2724,7 @@
     "Id": 1621,
     "Par": 1606,
     "ShowRule": 1,
-    "Text": "ฟันอย่างบ้าคลั่ง",
+    "Text": "Frenzied Slash",
     "Type": 2
   },
   "1622": {
@@ -2732,7 +2732,7 @@
     "Id": 1622,
     "Par": 1607,
     "ShowRule": 1,
-    "Text": "จู่โจมเปลวเพลิง",
+    "Text": "Blazing Assault",
     "Type": 2
   },
   "1623": {
@@ -2740,7 +2740,7 @@
     "Id": 1623,
     "Par": 1608,
     "ShowRule": 1,
-    "Text": "ฟาดฟันด้วยความโกรธ",
+    "Text": "Rage Cleave",
     "Type": 2
   },
   "1624": {
@@ -2748,7 +2748,7 @@
     "Id": 1624,
     "Par": 1612,
     "ShowRule": 1,
-    "Text": "ขวานสายลม",
+    "Text": "Axe Wind",
     "Type": 2
   },
   "1625": {
@@ -2764,7 +2764,7 @@
     "Id": 1626,
     "Par": 1613,
     "ShowRule": 1,
-    "Text": "ระบำเปลวเพลิงคลุ้มคลั่ง",
+    "Text": "Wildfire Dance",
     "Type": 2
   },
   "1627": {
@@ -2772,7 +2772,7 @@
     "Id": 1627,
     "Par": 1614,
     "ShowRule": 1,
-    "Text": "ดาวตกไร้พันธนาการ",
+    "Text": "Unbound Meteor",
     "Type": 2
   },
   "1628": {
@@ -2780,7 +2780,7 @@
     "Id": 1628,
     "Par": 1621,
     "ShowRule": 1,
-    "Text": "ทักษะ \"ตกสวรรค์ปีศาจเพลิง\"",
+    "Text": "Falling Hellfire.",
     "Type": 2
   },
   "1629": {
@@ -2788,7 +2788,7 @@
     "Id": 1629,
     "Par": 1617,
     "ShowRule": 1,
-    "Text": "อสูรเพลิงไร้สิ้นสุด",
+    "Text": "Endless Hellfire",
     "Type": 2
   },
   "1630": {
@@ -2796,7 +2796,7 @@
     "Id": 1630,
     "Par": 1616,
     "ShowRule": 1,
-    "Text": "ดั่งกระแสธารฟาดฟัน",
+    "Text": "Flowing Splendor Slash",
     "Type": 2
   },
   "3000": {
@@ -2812,7 +2812,7 @@
     "Id": 3001,
     "Par": 3403001,
     "ShowRule": 1,
-    "Text": "ใบ้",
+    "Text": "Silence",
     "Type": 3
   },
   "3002": {
@@ -2820,7 +2820,7 @@
     "Id": 3002,
     "Par": 3403002,
     "ShowRule": 1,
-    "Text": "ตรึงร่าง",
+    "Text": "Rooted",
     "Type": 3
   },
   "3003": {
@@ -2852,7 +2852,7 @@
     "Id": 3006,
     "Par": 3403006,
     "ShowRule": 1,
-    "Text": "แช่แข็ง",
+    "Text": "Frozen",
     "Type": 3
   },
   "3007": {
@@ -2860,7 +2860,7 @@
     "Id": 3007,
     "Par": 3403007,
     "ShowRule": 1,
-    "Text": "เป็นหิน",
+    "Text": "Petrified",
     "Type": 3
   },
   "3008": {
@@ -2868,7 +2868,7 @@
     "Id": 3008,
     "Par": 3403008,
     "ShowRule": 1,
-    "Text": "อัมพาต",
+    "Text": "Paralyzed",
     "Type": 3
   },
   "3009": {
@@ -2884,7 +2884,7 @@
     "Id": 3010,
     "Par": 3403010,
     "ShowRule": 1,
-    "Text": "หวาดกลัว",
+    "Text": "Afraid",
     "Type": 3
   },
   "3011": {
@@ -2892,7 +2892,7 @@
     "Id": 3011,
     "Par": 3403011,
     "ShowRule": 1,
-    "Text": "ลด SPD",
+    "Text": "Slow",
     "Type": 3
   },
   "3012": {
@@ -2908,7 +2908,7 @@
     "Id": 3013,
     "Par": 3403013,
     "ShowRule": 1,
-    "Text": "เลือดไหล",
+    "Text": "Bleed",
     "Type": 3
   },
   "3014": {

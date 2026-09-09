@@ -375,8 +375,13 @@
     "Desc": "打开肉鸽UI",
     "Id": 1037,
     "MaxTime": 0,
-    "ParamDesc": ["UI类型（0随机1升级）"],
-    "ParamType": ["int"],
+    "ParamDesc": [
+      "UI类型（0随机1升级2可重复学习的随机）",
+      "词条数覆写",
+      "是否隐藏刷新按钮（0，显示；1",
+      "隐藏）"
+    ],
+    "ParamType": ["int", "int", "int"],
     "TimeoutIsSuccess": false
   },
   "1038": {

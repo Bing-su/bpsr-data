@@ -1322,5 +1322,809 @@
   "133001": {
     "Content": "When the three-hit combo of Falling Hellfire is triggered, grants 1 Flowing Splendor Slash charge. Once fully charged, Flowing Splendor Slash triggers automatically.<br><br>Available only in [Hard] and [Nightmare].",
     "Id": 133001
+  },
+  "3000101": {
+    "Content": "Dealing damage with Iaido Slash is guaranteed to trigger Bladewind Domain. Bladewind Domain's CD reduction for Oblivion Combo is increased by 300%. Only one Bladewind Domain can be active at a time (Requires the Bladewind Domain Talent).",
+    "Id": 3000101
+  },
+  "3000201": {
+    "Content": "Doubles Ultimate Slash's Crit DMG.",
+    "Id": 3000201
+  },
+  "3000301": {
+    "Content": "Casting Dracoflash or Phantom Slash extends Volt Surge's duration by 10s. Dracoflash and Phantom Slash's Season Attribute DMG is increased by 500%.",
+    "Id": 3000301
+  },
+  "3000401": {
+    "Content": "During Volt Surge, Crits from Flash Strike and Raijin Dash reset their own CDs. Flash Strike and Raijin Dash's Season Attribute DMG  is increased by 50%.",
+    "Id": 3000401
+  },
+  "3000501": {
+    "Content": "Increases Divine Sickle's max stacks by +7. Casting Divine Sickle consumes all stacks, increasing Season Attribute DMG by 15% per stack.",
+    "Id": 3000501
+  },
+  "3000601": {
+    "Content": "Increases the max number of Moonblades by 2.",
+    "Id": 3000601
+  },
+  "3000701": {
+    "Content": "Divine Sickle is cast automatically. Each cast reduces the CD of Stormflash by 2s.",
+    "Id": 3000701
+  },
+  "3000801": {
+    "Content": "Lucky Strike Multiplier is increased by 100%. Luck Boost is doubled.",
+    "Id": 3000801
+  },
+  "3000901": {
+    "Content": "When Cold Pulse deals damage, it permanently increases Ice Attack 2 points. (Triggers only once per cast, even on multiple hits.)",
+    "Id": 3000901
+  },
+  "3001001": {
+    "Content": "When Cold Pulse deals damage, it increases Ice Arrow damage by 5% for 5s. This effect stacks up to 50 times. (Triggers only once per cast, even on multiple hits.)",
+    "Id": 3001001
+  },
+  "3001101": {
+    "Content": "For every 10 times Frostbeam deals damage to the main target, it randomly triggers Water Vortex, Tidal Vortex, or Crystal Veil (if equipped). Frostbeam's Season Attribute DMG is increased by 100%.",
+    "Id": 3001101
+  },
+  "3001201": {
+    "Content": "After its frozen explosion, Tidal Vortex splits into two new Tidal Vortexes (they will not split again). Tidal Vortex's Season Attribute DMG is increased by 200%.",
+    "Id": 3001201
+  },
+  "3001301": {
+    "Content": "Every 1.5s, Crystal Veil fires a Piercing Ice Lance at a random target (or forward if there is no target). When Piercing Ice Lance deals damage, the CD of Crystal Veil is reduced by 0.3s.",
+    "Id": 3001301
+  },
+  "3001401": {
+    "Content": "When casting Frost Lance with more than 2 Frost Crystals, it will consume 1 additional Frost Crystal to trigger Frost Lance twice consecutively. Frost Lance's Season Attribute DMG is increased by 50%.",
+    "Id": 3001401
+  },
+  "3001501": {
+    "Content": "Every 5 casts of Meteor Storm summons a meteor from the Ultimate, which instantly puts Blizzard on CD and reduces Permafrost's CD by 5s. The Ultimate's Season Attribute DMG is increased by 200%.",
+    "Id": 3001501
+  },
+  "3001601": {
+    "Content": "Permanently enter the Endless Cold state, which grants double damage. Each stack of Frost Crystal additionally increases Attack Speed by 10%.",
+    "Id": 3001601
+  },
+  "3001701": {
+    "Content": "The Ultimate also triggers Stampede of Beasts, consuming all Photon Energy to summon Wild Wolves. 1 Wild Wolf is summoned for every 20 Photon Energy consumed. This lasts for 8s.",
+    "Id": 3001701
+  },
+  "3001801": {
+    "Content": "Companions gain +50% PHY Boost.",
+    "Id": 3001801
+  },
+  "3001901": {
+    "Content": "Increases the attack multiplier of Arrow Rain by 10x. If more than 3 companions are on the field, each additional companion increases Final DMG by 100%.",
+    "Id": 3001901
+  },
+  "3002001": {
+    "Content": "Phantom Direwolves are now considered Beasts.",
+    "Id": 3002001
+  },
+  "3002101": {
+    "Content": "Wildcall now summons two Falcons.",
+    "Id": 3002101
+  },
+  "3002201": {
+    "Content": "Powerdraw now fires projectiles in three forward directions. The closer the target, the higher the damage (from a minimum of +10% to a maximum of +100%).",
+    "Id": 3002201
+  },
+  "3002301": {
+    "Content": "Powerdraw Elemental Damage +100%. Deals +500% Season Attribute DMG to targets with over 80% HP.",
+    "Id": 3002301
+  },
+  "3002401": {
+    "Content": "Regen Pulse applies Thorn to the target. Thorn and Wild Seed can now trigger Lucky Strike.",
+    "Id": 3002401
+  },
+  "3002501": {
+    "Content": "Regen Pulse is guaranteed to be a Crit, and its Crit DMG is increased by 2,000%.",
+    "Id": 3002501
+  },
+  "3002601": {
+    "Content": "Infusion fires additional bullets at 5 surrounding targets. Infusion's Season Attribute DMG is increased by 100%.",
+    "Id": 3002601
+  },
+  "3002701": {
+    "Content": "The automatically triggered Stag Charge can now trigger Talent effects. Each time Stag Charge is triggered, Expertise Skill Damage and Luck Damage are increased by 10% for a period of time. This effect can stack up to 10 times.",
+    "Id": 3002701
+  },
+  "3002801": {
+    "Content": "Continuously gain Regen Bud while Grove Wish is active, and it grants a 100% CD Boost for Grove Wish.",
+    "Id": 3002801
+  },
+  "3002901": {
+    "Content": "Gain the Fast Growth buff when casting the Ultimate Skill (requires Fast Growth). Each time Blossom Charge is triggered, the CD of the Ultimate Skill is reduced by 1s.",
+    "Id": 3002901
+  },
+  "3003001": {
+    "Content": "Grants a 50% MAG Boost and 30% Haste to all class skills, but prevents using Ultimate Skills.",
+    "Id": 3003001
+  },
+  "3003101": {
+    "Content": "When Nourish's DoT reaches 3 stacks, the target is afflicted with Life Drain: For 5s, deals (MATK × 20 × Mastery%) damage per second. Each time damage is dealt, the CDs of all Expertise Skills are reduced by 1s.",
+    "Id": 3003101
+  },
+  "3003201": {
+    "Content": "Cyclone Season Attribute DMG +50%, and Great Wind Cyclone Season Attribute DMG +100%.",
+    "Id": 3003201
+  },
+  "3003301": {
+    "Content": "Great Wind Cyclone becomes a two-hit combo. When it deals damage, your Wind Attack is permanently increased by 2 points.",
+    "Id": 3003301
+  },
+  "3003401": {
+    "Content": "Casting Vortex Strike consumes all Courage. For each point of Courage consumed, its Season Attribute DMG is increased by 3%.",
+    "Id": 3003401
+  },
+  "3003501": {
+    "Content": "Casting Vortex Strike permanently increases your Wind Attack by 2 points.",
+    "Id": 3003501
+  },
+  "3003601": {
+    "Content": "When Azure Sever deals damage, it triggers an additional Tornado. This Tornado's Season Attribute DMG is increased by 100%.",
+    "Id": 3003601
+  },
+  "3003701": {
+    "Content": "Increases Attack Speed by 100% during Wind Fury.",
+    "Id": 3003701
+  },
+  "3003801": {
+    "Content": "Instant Edge now consumes all Sharp, with each point consumed increasing its Season Attribute DMG by an additional 10%.",
+    "Id": 3003801
+  },
+  "3003901": {
+    "Content": "After every 10 Shield Tosses, Shield Toss will be enhanced. Tap to make the shields spin around the caster.",
+    "Id": 3003901
+  },
+  "3004001": {
+    "Content": "Casting Shield Toss increases ATK by 2% for 2s. This effect stacks up to 50 times.",
+    "Id": 3004001
+  },
+  "3004101": {
+    "Content": "During Aegis Ward, Inferno Reckon is triggered every 0.5s, and its Attack Speed is increased by 100%.",
+    "Id": 3004101
+  },
+  "3004201": {
+    "Content": "Inferno Reckon can now trigger Divine Strike. The CD reduction effect of Aegis Ward's Retribution on Aegis Ward is doubled.",
+    "Id": 3004201
+  },
+  "3004301": {
+    "Content": "Reduces the cost of Sacred Blade by 1. When Sacred Blade hits a target with a Holy Mark, Max HP is permanently increased by 200 points.",
+    "Id": 3004301
+  },
+  "3004401": {
+    "Content": "Doubles the additional effects of Light Barrier.",
+    "Id": 3004401
+  },
+  "3004501": {
+    "Content": "Vanguard Hunt and Divine Arc Slash deal additional fixed damage equal to 50% of Max HP.",
+    "Id": 3004501
+  },
+  "3004601": {
+    "Content": "Skills that consume Sand Crystals now restore them instead, and their Season Attribute DMG is increased by 200%.",
+    "Id": 3004601
+  },
+  "3004701": {
+    "Content": "While Stoneform is active, energy is continuously obtained. All hits are guaranteed to Crit, and Crit DMG is increased by 200%.",
+    "Id": 3004701
+  },
+  "3004801": {
+    "Content": "Each time Shield Echo is triggered, Star Shatter deals bonus damage equal to 100% of the current Shield value (this bonus is affected by Star Shatter's damage increase).",
+    "Id": 3004801
+  },
+  "3004901": {
+    "Content": "Max Shield value can now be increased to 1,000%. Participating in a kill increases Shield Strength by 5%.",
+    "Id": 3004901
+  },
+  "3005001": {
+    "Content": "Every 20 triggers of Stone Fist summons a giant rock to fall on the target, dealing DMG equal to 3% of the target's current HP.",
+    "Id": 3005001
+  },
+  "3005101": {
+    "Content": "Each time Granite is triggered, Rock Attack is permanently increased by 2 points.",
+    "Id": 3005101
+  },
+  "3005201": {
+    "Content": "Countercrush deals bonus damage equal to 0.1% of the target's current HP.",
+    "Id": 3005201
+  },
+  "3005301": {
+    "Content": "Each time Countercrush is triggered, Rock Attack is permanently increased by 2 points.",
+    "Id": 3005301
+  },
+  "3005401": {
+    "Content": "Casting Rhapsody of Flame permanently increases Fire Attack by 2 points each time.",
+    "Id": 3005401
+  },
+  "3005501": {
+    "Content": "Attack Speed is increased by 60% while in Rhapsody of Flame.",
+    "Id": 3005501
+  },
+  "3005601": {
+    "Content": "Season Attribute DMG is increased by 50%. When Heroic Melody is active, Rhapsody of Flame will be active.",
+    "Id": 3005601
+  },
+  "3005701": {
+    "Content": "For 10s after casting an Ultimate, all Performance Passion will be recovered every second.",
+    "Id": 3005701
+  },
+  "3005801": {
+    "Content": "Passion Fury fires 2 additional projectiles. Elemental Bonus is also increased by 500%.",
+    "Id": 3005801
+  },
+  "3005901": {
+    "Content": "Casting Encore summons a sound system in front of the caster that lasts for 15s.",
+    "Id": 3005901
+  },
+  "3006001": {
+    "Content": "Fivefold Crescendo no longer consumes Performance Passion. Casting a Special Attack reduces the CDs of Fivefold Crescendo and the modified Ultimate by 1s.",
+    "Id": 3006001
+  },
+  "3006101": {
+    "Content": "Permanently increases Intellect by 1 point each time Healing Melody deals damage.",
+    "Id": 3006101
+  },
+  "3006201": {
+    "Content": "Every 1% of Luck provides a 0.2% (Stage 1)/0.1% (Stage 2)/0.05% (Stage 3) chance to trigger Formless Flame Slash.",
+    "Id": 3006201
+  },
+  "3006301": {
+    "Content": "For 5s after casting Blazing Assault, increases Crit Chance by 100% and Crit DMG by 30%.",
+    "Id": 3006301
+  },
+  "3006401": {
+    "Content": "Burn can trigger Formless Flame Slash, but the trigger chance is halved.",
+    "Id": 3006401
+  },
+  "3006501": {
+    "Content": "Increases the Final DMG of Formless Flame Slash by 40%, plus an additional 20% when hitting a target with Burn.",
+    "Id": 3006501
+  },
+  "3006601": {
+    "Content": "When Unbound Meteor or Falling Hellfire hits the primary target, grants an 8% Fire Bonus for 5s. Stacks up to 3 times.",
+    "Id": 3006601
+  },
+  "3006701": {
+    "Content": "Flowing Splendor Slash deals bonus damage equal to 0.1% of the target's current HP.",
+    "Id": 3006701
+  },
+  "3006801": {
+    "Content": "During Endless Hellfire, doubles Crit DMG.",
+    "Id": 3006801
+  },
+  "3006901": {
+    "Content": "When Wildfire Dance hits the primary target, there is a 50% chance to reduce the CD of Endless Hellfire by 0.5s.",
+    "Id": 3006901
+  },
+  "500101": {
+    "Content": "<style=\"emph-gn\">PHY Boost</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 500101
+  },
+  "500201": {
+    "Content": "<style=\"emph-gn\">MAG Boost</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 500201
+  },
+  "500301": {
+    "Content": "When using an Ultimate Skill, all skill <style=\"emph-gn\">CDs</style> accelerate by <style=\"accent-gn\">100%</style>, and <style=\"emph-gn\">combat resource</style> recovery speed increases by <style=\"accent-gn\">100%</style> for <style=\"accent-gn\">20s</style>",
+    "Id": 500301
+  },
+  "500401": {
+    "Content": "Increases ATK by <style=\"accent-gn\">5%</style> for the user and allies within <style=\"accent-gn\">10m</style>.<br>For each <style=\"emph-gn\">role</style> type present within the area, this bonus increases by <style=\"accent-gn\">5%</style> (up to <style=\"accent-gn\">20%</style>)",
+    "Id": 500401
+  },
+  "500501": {
+    "Content": "Each <style=\"emph-gn\">Expertise Skill</style> cast increases its DMG and Healing by <style=\"accent-gn\">0.2%</style>.<br>Stacks up to <style=\"accent-gn\">200</style> times. When fully stacked, grants <style=\"accent-gn\">20%</style><style=\"emph-gn\"> Expertise Skill</style> DMG and Healing boost",
+    "Id": 500501
+  },
+  "500601": {
+    "Content": "Each <style=\"emph-gn\">Special Attack</style> increases its DMG and Healing by <style=\"accent-gn\">0.2%</style>.<br>Stacks up to <style=\"accent-gn\">200</style> times. When fully stacked, grants <style=\"accent-gn\">20%</style><style=\"emph-gn\"> Special Attack</style> DMG and Healing boost",
+    "Id": 500601
+  },
+  "500701": {
+    "Content": "<style=\"emph-gn\">Haste</style><style=\"accent-gn\"> +20%</style>. Loses <style=\"accent-gn\">8%</style> HP per second while moving in combat",
+    "Id": 500701
+  },
+  "500801": {
+    "Content": "Reduces <style=\"emph-gn\">Ultimate Skill</style> CD by <style=\"accent-gn\">1%</style> per <style=\"accent-gn\">200</style> Haste (up to <style=\"accent-gn\">50%</style>)",
+    "Id": 500801
+  },
+  "500901": {
+    "Content": "Defeating a target reduces the remaining <style=\"emph-gn\">Expertise Skill</style> CD by <style=\"accent-gn\">10%</style>",
+    "Id": 500901
+  },
+  "501001": {
+    "Content": "<style=\"emph-gn\">Special Attacks</style> reduce the remaining <style=\"emph-gn\">Expertise Skill</style> CD by <style=\"accent-gn\">0.5s</style>",
+    "Id": 501001
+  },
+  "501101": {
+    "Content": "<style=\"emph-gn\">Defeating</style> a target increases <style=\"emph-gn\">Crit DMG</style> by <style=\"accent-gn\">10%</style> for <style=\"accent-gn\">5s</style> (up to <style=\"accent-gn\">30%</style>)",
+    "Id": 501101
+  },
+  "501201": {
+    "Content": "When dealing damage to targets with more than <style=\"accent-gn\">80%</style> HP, <style=\"emph-gn\">Crit DMG</style> <style=\"accent-gn\">+60%</style>",
+    "Id": 501201
+  },
+  "501301": {
+    "Content": "<style=\"emph-gn\">ATK</style> <style=\"accent-gn\">+25%</style>. If HP is above <style=\"accent-gn\">30%</style>, each attack consumes <style=\"accent-gn\">2.5%</style> of HP",
+    "Id": 501301
+  },
+  "501401": {
+    "Content": "For every <style=\"accent-gn\">1%</style> HP lost, grants <style=\"accent-gn\">0.3%</style><style=\"emph-gn\"> ATK</style>. Each Bloodwrath entry grants <style=\"accent-gn\">0.1%</style> ATK boost",
+    "Id": 501401
+  },
+  "501501": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Blood Blast</style>, dealing DMG equal to </style>20%<style=\"accent-gn\"> of lost HP (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 501501
+  },
+  "501601": {
+    "Content": "When HP is below <style=\"accent-gn\">30%</style>, converts <style=\"accent-gn\">10%</style> of <style=\"emph-gn\">DMG dealt</style> into a <style=\"emph-gn\">Shield</style>. Stacks up to <style=\"accent-gn\">100%</style> of Max HP",
+    "Id": 501601
+  },
+  "501701": {
+    "Content": "When <style=\"emph-gn\">Near Death</style>, gains <style=\"accent-gn\">3s</style> of <style=\"emph-gn\">Invincibility</style> and <style=\"emph-gn\">Acceleration</style> (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 501701
+  },
+  "501801": {
+    "Content": "Attacks trigger <style=\"emph-gn\">Bloodwar</style>, increasing <style=\"emph-gn\">ATK</style> by <style=\"accent-gn\">20%</style> and preventing death for <style=\"accent-gn\">3s</style>",
+    "Id": 501801
+  },
+  "501901": {
+    "Content": "<style=\"emph-gn\">ATK</style><style=\"accent-gn\"> +25%</style>, but takes DMG equal to <style=\"accent-gn\">1%</style> of <style=\"emph-gn\">Max HP</style> per second",
+    "Id": 501901
+  },
+  "502001": {
+    "Content": "Deals AoE DMG equal to <style=\"accent-gn\">20%</style> of <style=\"emph-gn\">Max HP</style> every <style=\"accent-gn\">3s</style>",
+    "Id": 502001
+  },
+  "502101": {
+    "Content": "Gains <style=\"emph-gn\">ATK</style> equal to <style=\"accent-gn\">0.3%</style> <style=\"emph-gn\">Max HP</style>",
+    "Id": 502101
+  },
+  "502201": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> grants you a <style=\"emph-gn\">Shield</style> equal to <style=\"accent-gn\">20%</style> <style=\"emph-gn\">Max HP</style>",
+    "Id": 502201
+  },
+  "502301": {
+    "Content": "When hit, deals AoE DMG equal to <style=\"accent-gn\">10%</style> <style=\"emph-gn\">Max HP</style>",
+    "Id": 502301
+  },
+  "502401": {
+    "Content": "When hit, reduces the remaining <style=\"emph-gn\">CD</style> of all skills by <style=\"accent-gn\">1s</style>",
+    "Id": 502401
+  },
+  "502501": {
+    "Content": "<style=\"emph-gn\">Max HP</style><style=\"accent-gn\"> +100%</style>, but takes DMG equal to <style=\"accent-gn\">1%</style> of <style=\"emph-gn\">Max HP</style> per second",
+    "Id": 502501
+  },
+  "502601": {
+    "Content": "When dealing damage with Class Skills, attacks deal bonus DMG equal to <style=\"accent-gn\">0.2%</style> of the enemy's <style=\"emph-gn\">current HP</style>",
+    "Id": 502601
+  },
+  "502701": {
+    "Content": "Each active <style=\"emph-gn\">Curse entry</style> grants <style=\"accent-gn\">10%</style> <style=\"emph-gn\">Armor</style> boost",
+    "Id": 502701
+  },
+  "502801": {
+    "Content": "Increases <style=\"emph-gn\">Armor</style> by <style=\"accent-gn\">3%</style> of <style=\"emph-gn\">Max HP</style>",
+    "Id": 502801
+  },
+  "502901": {
+    "Content": "Reflects AoE DMG equal to <style=\"accent-gn\">400%</style> of <style=\"emph-gn\">Armor</style> when hit",
+    "Id": 502901
+  },
+  "503001": {
+    "Content": "Significantly reduces Class Skill DMG and Lucky Strike DMG. Accumulates a percentage of the healing provided to you and allies by Class Skills. The next time you deal DMG, it triggers AoE DMG at the target equal to the accumulated amount (healing provided to you is accumulated at a higher rate; this effect can trigger at most once <style=\"accent-gn\">per second</style>)",
+    "Id": 503001
+  },
+  "503101": {
+    "Content": "Every <style=\"accent-gn\">10</style><style=\"emph-gn\"> Special Attacks</style> permanently increase <style=\"emph-gn\">Healing Amount</style> by <style=\"accent-gn\">1%</style> (up to <style=\"accent-gn\">30%</style>)",
+    "Id": 503101
+  },
+  "503201": {
+    "Content": "Allies within 10m gain a <style=\"emph-gn\">Shield</style> equal to <style=\"accent-gn\">20%</style> of their <style=\"emph-gn\">Max HP</style> every <style=\"accent-gn\">10s</style>",
+    "Id": 503201
+  },
+  "503301": {
+    "Content": "Increases <style=\"emph-gn\">Vulnerability</style> of enemies within 10m by <style=\"accent-gn\">10%</style>",
+    "Id": 503301
+  },
+  "503401": {
+    "Content": "Every <style=\"accent-gn\">5s</style>, <style=\"emph-gn\">stuns</style> enemies within 10m for <style=\"accent-gn\">1s</style>",
+    "Id": 503401
+  },
+  "503501": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Lightning Strike</style>, dealing <style=\"emph-gn\">DMG</style> equal to <style=\"accent-gn\">45%</style> of ATK (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 503501
+  },
+  "503601": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Blade Storm</style>, dealing <style=\"emph-gn\">DMG</style><style=\"accent-gn\"> equal to 45%</style> of ATK (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 503601
+  },
+  "503701": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Fireball Explosion</style>, dealing <style=\"emph-gn\">DMG</style><style=\"accent-gn\"> equal to 45%</style> of ATK (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 503701
+  },
+  "503801": {
+    "Content": "Landing a <style=\"emph-gn\">Lucky Strike</style> triggers <style=\"emph-gn\">Lightning Chain</style>, dealing DMG equal to <style=\"accent-gn\">1%</style> <style=\"emph-gn\">Max HP</style> (CD: <style=\"accent-gn\">1s</style>)",
+    "Id": 503801
+  },
+  "503901": {
+    "Content": "<style=\"emph-gn\">Crit Rate</style><style=\"accent-gn\"> +30%</style>. For any permanent Crit Rate above <style=\"accent-gn\">50%</style>, every <style=\"accent-gn\">2%</style> is converted to <style=\"accent-gn\">1%</style><style=\"emph-gn\"> Crit DMG</style> (up to <style=\"accent-gn\">50%</style>)",
+    "Id": 503901
+  },
+  "504001": {
+    "Content": "Doubles <style=\"emph-gn\">Crit DMG</style>",
+    "Id": 504001
+  },
+  "504101": {
+    "Content": "When landing a Crit hit, deals additional AoE DMG equal to <style=\"accent-gn\">200%</style> ATK at the target location (CD: <style=\"accent-gn\">1s</style>). This AoE DMG is guaranteed to crit. For each \"Brutality\" entry owned, this damage's final DMG <style=\"accent-gn\">+50%</style>.",
+    "Id": 504101
+  },
+  "504201": {
+    "Content": "Crits reduce the cooldowns of all skills by <style=\"accent-gn\">0.5s</style> (triggers at most once every <style=\"accent-gn\">1s</style>)",
+    "Id": 504201
+  },
+  "504301": {
+    "Content": "Gains 1 stack of Reaper's Sigil with each Crit. Upon reaching <style=\"accent-gn\">20</style> stacks, increases <style=\"emph-gn\">Crit DMG</style> by <style=\"accent-gn\">30%</style> for <style=\"accent-gn\">5s</style>",
+    "Id": 504301
+  },
+  "504401": {
+    "Content": "Expertise Skill <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 504401
+  },
+  "504501": {
+    "Content": "Special Attack <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 504501
+  },
+  "504601": {
+    "Content": "Crits restore <style=\"accent-gn\">1%</style> of HP (CD: <style=\"accent-gn\">0.1s</style>)",
+    "Id": 504601
+  },
+  "504701": {
+    "Content": "When damage dealt is not a critical hit, <style=\"emph-gn\">Crit</style> is increased by <style=\"accent-gn\">50%</style> until the next critical hit",
+    "Id": 504701
+  },
+  "504801": {
+    "Content": "Within <style=\"accent-gn\">15s</style> after casting an Ultimate Skill, all damage is guaranteed to be a Crit",
+    "Id": 504801
+  },
+  "504901": {
+    "Content": "When receiving healing, <style=\"accent-gn\">+20%</style> <style=\"emph-gn\">Crit</style> for <style=\"accent-gn\">5s</style>",
+    "Id": 504901
+  },
+  "505001": {
+    "Content": "For every enemy defeated, <style=\"emph-gn\">Crit</style> increases by <style=\"accent-gn\">0.3%</style> (up to <style=\"accent-gn\">100</style> stacks)",
+    "Id": 505001
+  },
+  "505101": {
+    "Content": "Ultimate Skill <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+50%</style>",
+    "Id": 505101
+  },
+  "505201": {
+    "Content": "When landing a Crit hit, deals additional AoE DMG equal to <style=\"accent-gn\">200%</style> ATK at the target location (CD: <style=\"accent-gn\">1s</style>). This AoE DMG is guaranteed to be a Lucky Strike.",
+    "Id": 505201
+  },
+  "505301": {
+    "Content": "Crits increase <style=\"emph-gn\">Elemental Damage</style> by <style=\"accent-gn\">1%</style> for <style=\"accent-gn\">5s</style>, up to <style=\"accent-gn\">15</style> stacks",
+    "Id": 505301
+  },
+  "505401": {
+    "Content": "Crits increase <style=\"emph-gn\">Attack SPD</style> by <style=\"accent-gn\">1%</style> and <style=\"emph-gn\">Casting SPD</style> by <style=\"accent-gn\">2%</style>, up to <style=\"accent-gn\">15</style> stacks",
+    "Id": 505401
+  },
+  "505501": {
+    "Content": "The first Crit upon entering combat increases <style=\"emph-gn\">Crit DMG</style> by <style=\"accent-gn\">500%</style>",
+    "Id": 505501
+  },
+  "505601": {
+    "Content": "For every <style=\"accent-gn\">3</style> Crits, the next Crit's <style=\"emph-gn\">Crit DMG</style> increases by <style=\"accent-gn\">50%</style> and resets the counter",
+    "Id": 505601
+  },
+  "505701": {
+    "Content": "<style=\"emph-gn\">Crit DMG</style><style=\"accent-gn\"> +20%</style>",
+    "Id": 505701
+  },
+  "505801": {
+    "Content": "<style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 505801
+  },
+  "505901": {
+    "Content": "Special Attack Crits summon a Muku Chief Battle Imagine (CD: <style=\"accent-gn\">15s</style>)",
+    "Id": 505901
+  },
+  "506001": {
+    "Content": "Luck Effect: Deals AoE DMG equal to <style=\"accent-gn\">200%</style> ATK at the target location (CD: <style=\"accent-gn\">0.5</style>). For each \"Luck\" entry owned, this damage's final DMG increases by <style=\"accent-gn\">50%</style>.",
+    "Id": 506001
+  },
+  "506101": {
+    "Content": "Increases <style=\"emph-gn\">Luck effect DMG</style> by <style=\"accent-gn\">30%</style>. For each Luck entry, deals <style=\"accent-gn\">8%</style> bonus DMG",
+    "Id": 506101
+  },
+  "506201": {
+    "Content": "Upon entering combat, <style=\"emph-gn\">Luck</style> increases by <style=\"accent-gn\">5%</style> every <style=\"accent-gn\">1s</style>, up to <style=\"accent-gn\">20</style> stacks",
+    "Id": 506201
+  },
+  "506301": {
+    "Content": "Luck effect: Gain a <style=\"emph-gn\">Shield</style> equal to <style=\"accent-gn\">20%</style> of <style=\"emph-gn\">Max HP</style> for <style=\"accent-gn\">2s</style>",
+    "Id": 506301
+  },
+  "506401": {
+    "Content": "For every <style=\"accent-gn\">50</style> Lucky Strikes on the primary target, increases the <style=\"emph-gn\">cooldown recovery speed</style> of all skills by <style=\"accent-gn\">100%</style> for <style=\"accent-gn\">15s</style> (paused while active)",
+    "Id": 506401
+  },
+  "506501": {
+    "Content": "For the first <style=\"accent-gn\">30s</style> after entering combat, all damage dealt is guaranteed to trigger a Lucky Strike",
+    "Id": 506501
+  },
+  "506601": {
+    "Content": "When dealing damage or healing triggers a Lucky Strike, the next Lucky Strike's <style=\"emph-gn\">ATK</style> increases by <style=\"accent-gn\">+40%</style>",
+    "Id": 506601
+  },
+  "506701": {
+    "Content": "Lucky Strike always triggers <style=\"emph-gn\">Crit</style>",
+    "Id": 506701
+  },
+  "506801": {
+    "Content": "When dealing damage or healing triggers a Lucky Strike, <style=\"emph-gn\">Elemental Damage</style> increases by <style=\"accent-gn\">1%</style> for <style=\"accent-gn\">5s</style>, up to <style=\"accent-gn\">15</style> stacks",
+    "Id": 506801
+  },
+  "506901": {
+    "Content": "When dealing damage or healing triggers a Lucky Strike, <style=\"emph-gn\">Attack SPD</style> increases by <style=\"accent-gn\">1%</style> and <style=\"emph-gn\">Casting SPD</style> increases by <style=\"accent-gn\">2%</style>, up to <style=\"accent-gn\">15</style> stacks",
+    "Id": 506901
+  },
+  "507001": {
+    "Content": "For every enemy defeated, <style=\"emph-gn\">Luck</style><style=\"accent-gn\"> increases by 0.3%</style> (up to <style=\"accent-gn\">100</style> stacks)",
+    "Id": 507001
+  },
+  "507101": {
+    "Content": "Every <style=\"accent-gn\">15s</style>, <style=\"emph-gn\">Lucky Strike Damage</style> increases by <style=\"accent-gn\">40%</style> for <style=\"accent-gn\">8s</style>",
+    "Id": 507101
+  },
+  "507201": {
+    "Content": "<style=\"emph-gn\">Lucky Strike Damage</style> <style=\"accent-gn\">+20%</style>",
+    "Id": 507201
+  },
+  "507301": {
+    "Content": "<style=\"emph-gn\">Luck</style> <style=\"accent-gn\">+10%</style>",
+    "Id": 507301
+  },
+  "507401": {
+    "Content": "When dealing damage triggers a Lucky Strike, summon a Wind Goblin King to aid you in battle (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 507401
+  },
+  "507501": {
+    "Content": "When an Ultimate Skill triggers a Lucky Strike, summon a Lizardman Hunter (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 507501
+  },
+  "507601": {
+    "Content": "Reduces Battle Imagine <style=\"emph-gn\">CD</style> by <style=\"accent-gn\">80%</style>",
+    "Id": 507601
+  },
+  "507701": {
+    "Content": "Battle Imagine's <style=\"emph-gn\">damage</style> increases by <style=\"accent-gn\">200%</style>",
+    "Id": 507701
+  },
+  "507801": {
+    "Content": "Damage dealt by Battle Imagine is guaranteed to crit and the <style=\"emph-gn\">Crit DMG</style> is increased by <style=\"accent-gn\">50%</style>.",
+    "Id": 507801
+  },
+  "507901": {
+    "Content": "Battle Imagine gains a <style=\"accent-gn\">100%</style> <style=\"emph-gn\">Elemental Damage</style> bonus",
+    "Id": 507901
+  },
+  "508001": {
+    "Content": "Battle Imagine <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+80%</style>",
+    "Id": 508001
+  },
+  "508101": {
+    "Content": "Every Battle Imagine permanently increases <style=\"emph-gn\">ATK</style> by <style=\"accent-gn\">0.5%</style> (up to <style=\"accent-gn\">60 stacks</style>)",
+    "Id": 508101
+  },
+  "508201": {
+    "Content": "Final damage dealt <style=\"accent-gn\">-40%</style>. Final damage dealt by Battle Imagine <style=\"accent-gn\">+40%</style>",
+    "Id": 508201
+  },
+  "508301": {
+    "Content": "Battle Imagine heals for <style=\"accent-gn\">5%</style> of damage dealt",
+    "Id": 508301
+  },
+  "508401": {
+    "Content": "Battle Imagine <style=\"emph-gn\">Crit</style> <style=\"accent-gn\">+20%</style>",
+    "Id": 508401
+  },
+  "508501": {
+    "Content": "Special Attacks randomly summon a <style=\"emph-gn\">Goblin Imagine</style> (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 508501
+  },
+  "508601": {
+    "Content": "Expertise Skills randomly summon an <style=\"emph-gn\">Animal Imagine</style> (CD: <style=\"accent-gn\">20s</style>)",
+    "Id": 508601
+  },
+  "508701": {
+    "Content": "Battle Imagine simultaneously summons a <style=\"emph-gn\">Goblin Crossbow Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 508701
+  },
+  "508801": {
+    "Content": "Ultimate Skills randomly summon a <style=\"emph-gn\">Highland Character Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 508801
+  },
+  "508901": {
+    "Content": "For each active Battle Imagine buff, <style=\"emph-gn\">damage</style> increases by <style=\"accent-gn\">4%</style> and <style=\"emph-gn\">damage taken</style> is reduced by <style=\"accent-gn\">2%</style>",
+    "Id": 508901
+  },
+  "509001": {
+    "Content": "Ultimate Skills simultaneously summon a <style=\"emph-gn\">Muku Warrior Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 509001
+  },
+  "509101": {
+    "Content": "When HP falls below <style=\"accent-gn\">50%</style>, summons a <style=\"emph-gn\">Muku King Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 509101
+  },
+  "509201": {
+    "Content": "Automatically summons a <style=\"emph-gn\">Tina Imagine</style> every <style=\"accent-gn\">60s</style>",
+    "Id": 509201
+  },
+  "509301": {
+    "Content": "Upon entering combat, immediately summons a <style=\"emph-gn\">Tempest Ogre Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 509301
+  },
+  "509401": {
+    "Content": "When dealing damage or healing triggers a Lucky Strike, randomly summons a <style=\"emph-gn\">Luck Imagine</style> (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 509401
+  },
+  "509501": {
+    "Content": "Battle Imagine <style=\"emph-gn\">Luck</style><style=\"accent-gn\"> +40%</style>",
+    "Id": 509501
+  },
+  "509601": {
+    "Content": "When your Class Skills deal damage, restores <style=\"accent-gn\">1%</style> HP to yourself and nearby allies and grants a <style=\"accent-gn\">15%</style> <style=\"emph-gn\">ATK</style> bonus for <style=\"accent-gn\">3s</style> (CD: <style=\"accent-gn\">0.3s</style>).",
+    "Id": 509601
+  },
+  "509701": {
+    "Content": "When Elemental Damage changes, nearby allies gain <style=\"accent-gn\">20%</style> <style=\"emph-gn\">Elemental Damage</style> for <style=\"accent-gn\">10s</style>",
+    "Id": 509701
+  },
+  "509801": {
+    "Content": "When <style=\"emph-gn\">Crit/Luck/Haste/Mastery/Versatility</style> changes, nearby allies gain a <style=\"accent-gn\">10%</style> increase of the corresponding stat for <style=\"accent-gn\">10s</style>",
+    "Id": 509801
+  },
+  "509901": {
+    "Content": "For each ally within 15m, <style=\"emph-gn\">damage</style> increases by <style=\"accent-gn\">8%</style> and <style=\"emph-gn\">damage taken</style> is reduced by <style=\"accent-gn\">4%</style>",
+    "Id": 509901
+  },
+  "510001": {
+    "Content": "Healing grants the target <style=\"accent-gn\">10%</style> <style=\"emph-gn\">PHY Boost</style> and <style=\"emph-gn\">MAG Boost</style> for <style=\"accent-gn\">3s</style>",
+    "Id": 510001
+  },
+  "510101": {
+    "Content": "Ultimate Skills grant a Resource Aura for <style=\"accent-gn\">15s</style>, which increases the <style=\"emph-gn\">Combat Resource Acquisition Efficiency</style> of nearby allies by <style=\"accent-gn\">+100%</style> (Only one effect can be active at a time)",
+    "Id": 510101
+  },
+  "510201": {
+    "Content": "Healing grants the target <style=\"accent-gn\">10%</style><style=\"emph-gn\">DMG Reduction</style> for <style=\"accent-gn\">3s</style>",
+    "Id": 510201
+  },
+  "510301": {
+    "Content": "Reduces damage dealt by enemies within 10m by <style=\"accent-gn\">10%</style>",
+    "Id": 510301
+  },
+  "510401": {
+    "Content": "Healing grants a <style=\"emph-gn\">Shield</style> equal to <style=\"accent-gn\">20%</style> of <style=\"emph-gn\">Max HP</style> for <style=\"accent-gn\">10s</style>. Each target can only receive this shield once every <style=\"accent-gn\">10s</style>",
+    "Id": 510401
+  },
+  "510501": {
+    "Content": "<style=\"emph-gn\">Increases healing by</style><style=\"accent-gn\"> 15%</style>.",
+    "Id": 510501
+  },
+  "510601": {
+    "Content": "<style=\"emph-gn\">Enhances Shield effectiveness by</style> <style=\"accent-gn\">15%</style>.",
+    "Id": 510601
+  },
+  "510701": {
+    "Content": "Converts <style=\"accent-gn\">10%</style> of <style=\"emph-gn\">Healing</style> into <style=\"accent-gn\">5%</style> <style=\"emph-gn\">All-Element Bonus</style>.",
+    "Id": 510701
+  },
+  "510801": {
+    "Content": "After an Ultimate Skill is cast, a Healing Aura that lasts for <style=\"accent-gn\">10s</style> is created. Every second, it will heal allies within 15m by <style=\"accent-gn\">100%</style> of ATK. (CD: <style=\"accent-gn\">30s</style>)",
+    "Id": 510801
+  },
+  "510901": {
+    "Content": "When casting an Expertise Skill, you gain a Lucky Aura for <style=\"accent-gn\">10s</style>, applying the <style=\"emph-gn\">Lizardman Hunter Imagine</style> passive effect to allies within 15 meters (CD: <style=\"accent-gn\">30s</style>; this effect does not stack).",
+    "Id": 510901
+  },
+  "511001": {
+    "Content": "After a Special Attack is used, a Crit Aura that lasts for <style=\"accent-gn\">5s</style> is created, increasing the <style=\"emph-gn\">Crit DMG</style> of allies within 15m by <style=\"accent-gn\">+3%</style>.",
+    "Id": 511001
+  },
+  "511101": {
+    "Content": "Healing with Class Skills causes damage to be built up. When this stored damage reaches <style=\"accent-gn\">10000%</style> of ATK, the next damage-dealing attack will also trigger an AoE blast that inflicts damage equal to the stored amount. (triggers at most once every <style=\"accent-gn\">1s</style>)",
+    "Id": 511101
+  },
+  "511201": {
+    "Content": "Every second, damage is dealt to a random target nearby. The damage dealt is equal to the <style=\"emph-gn\">amount of Healing</style> done by Class Skills during this period.",
+    "Id": 511201
+  },
+  "511301": {
+    "Content": "When healing is applied, summons a <style=\"emph-gn\">Basilisk Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 511301
+  },
+  "511401": {
+    "Content": "When healing is applied, summons a <style=\"emph-gn\">Brigand Chief Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 511401
+  },
+  "511501": {
+    "Content": "When healing is applied, summons a <style=\"emph-gn\">Beehive Imagine</style> (CD: <style=\"accent-gn\">30s</style>).",
+    "Id": 511501
+  },
+  "611601": {
+    "Content": "After each battle, <style=\"emph-gn\">Mastery</style> +3%<br>Deals <style=\"emph-gn\">DMG equal to 100% of your MATK</style> per second to nearby enemies, and adds extra <style=\"emph-gn\">DMG equal to 100% of your Healing</style> over the past second",
+    "Id": 611601
+  },
+  "611701": {
+    "Content": "After each battle, <style=\"emph-gn\">Versatility</style> +3%<br>On hit, deals additional AoE DMG equal to 1500% of <style=\"emph-gn\">Armor</style> to targets within 5m (triggers at most once per second)",
+    "Id": 611701
+  },
+  "611801": {
+    "Content": "After each battle, <style=\"emph-gn\">Haste</style> +3%<br>Attacks have a chance to trigger Double DMG, based on your total Haste percentage",
+    "Id": 611801
+  },
+  "611901": {
+    "Content": "Lucky Strikes may trigger <style=\"emph-gn\">Poisoned Sting, Frenzied Shot, Thunder Suppress, Blazing Axe, or Meteor Shower</style><br>After each battle, Luck Rate +3%. Luck Damage bonus scales with current Luck Rate",
+    "Id": 611901
+  },
+  "612001": {
+    "Content": "After each battle, <style=\"emph-gn\">Crit Rate</style> +3%<br>Any Crit Rate above 50% is converted into twice as much Crit DMG.",
+    "Id": 612001
+  },
+  "612101": {
+    "Content": "Summons Soulfire that deals DMG equal to <style=\"emph-gn\">10% of your Max HP</style> per second",
+    "Id": 612101
+  },
+  "612201": {
+    "Content": "Summon a Thunder Sphere that expands as it travels, exploding with power proportional to its size",
+    "Id": 612201
+  },
+  "612301": {
+    "Content": "Summons a meteor to strike the target, dealing DMG equal to a percentage of <style=\"emph-gn\">HP lost</style> plus a percentage of <style=\"emph-gn\">Max HP</style>",
+    "Id": 612301
+  },
+  "612401": {
+    "Content": "Fires soul flames that bounce between enemies, <style=\"emph-gn\">increasing DMG</style> bonus with each bounce",
+    "Id": 612401
+  },
+  "612501": {
+    "Content": "Enhances the next skill, increasing <style=\"emph-gn\">ATK</style>",
+    "Id": 612501
+  },
+  "612601": {
+    "Content": "Grants brief <style=\"emph-gn\">Invincibility</style> and increases <style=\"emph-gn\">Attack Speed</style> and <style=\"emph-gn\">Movement Speed</style> during the effect",
+    "Id": 612601
+  },
+  "612701": {
+    "Content": "Summons a black hole that <style=\"emph-gn\">draws in enemies</style>, inflicting Slow",
+    "Id": 612701
+  },
+  "612801": {
+    "Content": "Throws a flying blade that <style=\"emph-gn\">bounces off walls</style> during flight",
+    "Id": 612801
+  },
+  "612901": {
+    "Content": "Summon a turret that attacks enemies",
+    "Id": 612901
+  },
+  "613001": {
+    "Content": "Fires a light halo, dealing DMG equal to a percentage of the total value of your stats<br>(Haste, Crit, Luck, Mastery)",
+    "Id": 613001
+  },
+  "613101": {
+    "Content": "Performs continuous slashes within enemy groups while invincible",
+    "Id": 613101
+  },
+  "613201": {
+    "Content": "Summons the Kanamia <style=\"emph-gn\">Marksman</style> to assist in battle<br>Continuous healing extends the Marksman's duration",
+    "Id": 613201
   }
 }

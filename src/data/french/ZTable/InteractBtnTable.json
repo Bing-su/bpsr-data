@@ -3854,7 +3854,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30402,
-    "Name": "Récolter des herbes"
+    "Name": "Récolter l'herbe"
   },
   "3040201": {
     "BtnType": 0,
@@ -3988,6 +3988,34 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30420,
     "Name": "Relâcher"
+  },
+  "30421": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30421,
+    "Name": "Récolter des baies de lune de bois-shad"
+  },
+  "30422": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "Id": 30422,
+    "Name": "Commencer la Danse des esprits"
+  },
+  "30423": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30423,
+    "Name": "Écraser Les Spores"
+  },
+  "30424": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30424,
+    "Name": "Offrir Au Renouveau"
   },
   "3050201": {
     "BtnType": 1,
@@ -4835,6 +4863,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56019,
     "Name": "Prendre la défausse"
+  },
+  "56020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 56020,
+    "Name": "Allumer Le Feu D'artifice Rorola"
   },
   "57001": {
     "BtnType": 1,
@@ -6873,6 +6908,13 @@
     "Id": 739011,
     "Name": "Mission en eaux profondes : Ajustement de ligne d'engramme"
   },
+  "739012": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "Id": 739012,
+    "Name": "Tissage de Rêves : Purge Onirique"
+  },
   "7501": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -7565,5 +7607,40 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920519,
     "Name": "Astuces d'événement"
+  },
+  "9300001": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300001,
+    "Name": "Quitter le rêve"
+  },
+  "9300002": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300002,
+    "Name": "Échanger La Compétence de Bénédiction"
+  },
+  "9300003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300003,
+    "Name": "Obtenir La Bénédiction (Une Fois Uniquement)"
+  },
+  "9300004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300004,
+    "Name": "Échanger Contre La Bénédiction"
+  },
+  "9300005": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 9300005,
+    "Name": "Ouvrir Le \" Coffre Gorgé De Rêves \" (Une Fois Uniquement)"
   }
 }

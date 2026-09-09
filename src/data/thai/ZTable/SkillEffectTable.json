@@ -10091,7 +10091,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({139400103},{10},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK+{*skillpara.damageMerge({139400103},{10},\"PVEFixedParameter\",\"un\")*}"
       ],
-      ["เพิ่ม DMG ธาตุลม", ""],
+      ["เพิ่ม Wind DMG", ""],
       ["ระยะเวลาต่อเนื่อง", "15 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -11806,7 +11806,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({139360010101},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139360010101},{10},\"PVEFixedParameter\",\"un\")*}"
       ],
-      ["เพิ่ม DMG ธาตุน้ำแข็ง", ""],
+      ["Ice Damage bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "15 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -36923,7 +36923,7 @@
     "STRange": [0.0],
     "SkillAttrDes": [
       [
-        "เร่งความเร็วพุ่งไปข้างหน้าเป็นระยะ<br>ทางหนึ่ง สามารถเชื่อมต่อการพุ่ง<br>ครั้งที่สองได้ในเวลาที่กำหนดพลัง<br>ระเบิดที่แข็งแกร่ง สามารถทำลาย<br><style=accent-gn>กำบังลม</style>ในสนามรบได้"
+        "เร่งความเร็วพุ่งไปข้างหน้าเป็นระยะทางหนึ่ง และสามารถเชื่อมต่อการพุ่งครั้งที่สองได้ภายในเวลาที่กำหนด<br>ด้วยพลังระเบิดอันทรงพลัง สามารถพุ่งชนทำลาย<style=accent-gn>กำบังลม</style>ในพื้นที่ราบได้"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -52055,7 +52055,7 @@
     "NeedScaleCamera": false,
     "STRange": [0.0],
     "SkillAttrDes": [
-      ["P.DEF เพิ่มขึ้น", ""],
+      ["Armor buff", ""],
       ["ระยะเวลาต่อเนื่อง", "10 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -52422,7 +52422,7 @@
     "STRange": [0.0],
     "SkillAttrDes": [
       [
-        "ความสามารถในการควบคุมลมอย่าง <style=accent-gn>ลอยตัว</style>ในอากาศและตกลงมาอย่าง<br>ช้าๆ ขณะลอยตัวสามารถสลับเป็นรูป<br>แบบ<style=accent-gn>ร่อน</style> เพื่อเคลื่อนที่ในอากาศ<br>ด้วยความเร็วสูง"
+        "ความสามารถในการควบคุมลมอย่างชำนาญ ทำให้สามารถ<style=accent-gn>ลอยตัว</style>อยู่ในอากาศและค่อยๆ ลดระดับลงอย่างช้าๆ<br>ขณะลอยตัวสามารถสลับเป็นรูปแบบ<style=accent-gn>ร่อน</style> เพื่อเคลื่อนที่ผ่านอากาศด้วยความเร็วที่สูงขึ้น"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -57310,7 +57310,7 @@
     "NeedScaleCamera": false,
     "STRange": [10.0],
     "SkillAttrDes": [
-      ["เพิ่มความเร็วในการเคลื่อนที่", ""],
+      ["Speed Bonus", ""],
       ["Haste Bonus", ""],
       ["เวลา CD", ""]
     ],
@@ -58864,7 +58864,7 @@
         "DMG แนวธนูต่อครั้ง",
         "{*skillpara.damageMerge({122950102},{1},\"PVEDamageRadio\",\"up\")*}P.Atk+{*skillpara.damageMerge({122950102},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({122950102},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["เจ็บง่าย", ""],
+      ["Vulnerability", ""],
       ["ระยะเวลาต่อเนื่อง", "10 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -60148,7 +60148,7 @@
     "NeedScaleCamera": false,
     "STRange": [0.0],
     "SkillAttrDes": [
-      ["โล่", "{*skillpara.effect(\"shield\",\"up\")*} Max HP"],
+      ["Shield", "{*skillpara.effect(\"shield\",\"up\")*} Max HP"],
       [
         "Heal ทั้งหมด",
         "{*skillpara.damageMerge({25534401,25534601},{2,1},\"PVEDamageRadio\",\"up\")*}M.ATK +{*skillpara.damageMerge({25534401,25534601},{2,1},\"PVEFixedParameter\",\"un\")*}"
@@ -60643,7 +60643,7 @@
     "NeedScaleCamera": false,
     "STRange": [0.0],
     "SkillAttrDes": [
-      ["โล่", "{*skillpara.effect(\"shield\",\"up\")*} Max HP"],
+      ["Shield", "{*skillpara.effect(\"shield\",\"up\")*} Max HP"],
       [
         "Heal ทั้งหมด",
         "{*skillpara.damageMerge({25534401,25534601},{2,1},\"PVEDamageRadio\",\"up\")*}M.ATK +{*skillpara.damageMerge({25534401,25534601},{2,1},\"PVEFixedParameter\",\"un\")*}"
@@ -61356,7 +61356,7 @@
     "NeedScaleCamera": false,
     "STRange": [0.0],
     "SkillAttrDes": [
-      ["P.DEF เพิ่มขึ้น", ""],
+      ["Armor buff", ""],
       ["ลด DMG", ""],
       ["ระยะเวลาต่อเนื่อง", "10 วินาที"],
       ["เวลา CD", ""]
@@ -83028,7 +83028,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({139360010101},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({139360010101},{10},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({139360010101},{10},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["โบนัสธาตุน้ำแข็ง", ""],
+      ["Ice Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -83116,7 +83116,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({31000200},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({31000200},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({31000200},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["โบนัสธาตุแสง", ""],
+      ["Light Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -83145,7 +83145,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({110086410103},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110086410103},{10},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110086410103},{10},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["โบนัสธาตุลม", ""],
+      ["Wind Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -83339,7 +83339,7 @@
         "\"การโจมตีพายุ\"<br>DMG รวม",
         "{*skillpara.damageMerge({110086410103},{10},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110086410103},{10},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110086410103},{10},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["\"การโจมตีพายุ\" โบนัสธาตุลม", ""],
+      ["\"การโจมตีพายุ\" Wind Bonus", ""],
       ["\"การโจมตีพายุ\" เวลาต่อเนื่อง", "20s<br>"],
       [
         "\"ดาวตกสลาย\"<br>DMG รวม",
@@ -83374,7 +83374,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({110059400101},{1},\"PVEDamageRadio\",\"up\")*}P/M.ATK+{*skillpara.damageMerge({110059400101},{1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({110059400101},{1},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["โบนัสธาตุสายฟ้า", ""],
+      ["Thunder Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -83473,7 +83473,7 @@
       ["เวลา CD ทักษะสาม", "25 วินาที"],
       ["\"สกิลสุดท้าย\"", "เอฟเฟกต์"],
       [
-        "กระสุนดับสูญ",
+        "Oblivion Bomb",
         "{*skillpara.damageMerge({118500101},{1,1},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({118500101},{1,1},\"PVEFixedParameter\",\"un\")*}"
       ],
       ["เวลา CD สูงสุด", "45 วินาที"]
@@ -83711,7 +83711,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({111007400108},{6},\"PVEDamageRadio\",\"up\")*}P.ATK/M.ATK +{*skillpara.damageMerge({111007400108},{6},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break:{*skillpara.damageMerge({111007400108},{6},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["โบนัสธาตุรวม", ""],
+      ["All-Element Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "10 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -84365,7 +84365,7 @@
         "DMG รวม",
         "{*skillpara.damageMerge({111214060102,111214060103,111214060104},{1,1,1},\"PVEDamageRadio\",\"up\")*} ATK/MATK +{*skillpara.damageMerge({111214060102,111214060103,111214060104},{1,1,1},\"PVEFixedParameter\",\"un\")*}<br>(Resilience Break: {*skillpara.damageMerge({111214060102,111214060103,111214060104},{1,1,1},\"PVEStunnedDamage\",\"un\")*})"
       ],
-      ["โบนัสธาตุไฟ", ""],
+      ["Fire Bonus", ""],
       ["ระยะเวลาต่อเนื่อง", "20 วินาที"],
       ["เวลา CD", ""]
     ],
@@ -84472,7 +84472,7 @@
       ],
       ["Celestial Spirit Guard ลด Atk", ""],
       ["Celestial Spirit Guard บาดเจ็บง่ายขึ้น", ""],
-      ["Celestial Spirit Guard ลดธาตุ", ""],
+      ["Celestial Spirit Guard Elemental Resistance Reduction", ""],
       ["Celestial Spirit Guard เวลา CD", "70 วินาที<br>"],
       [
         "[Aqua Metria]<br>Aqua Metria DMG",
@@ -84501,7 +84501,7 @@
     "NeedScaleCamera": false,
     "STRange": [0.0],
     "SkillAttrDes": [
-      ["โบนัสธาตุพลังมังกร", ""],
+      ["Dragon Force Element Bonus", ""],
       ["เวลา CD แปลงร่าง", ""],
       [
         "[โจมตีทั่วไป]<br>โจมตีทั่วไป I",
@@ -84530,7 +84530,7 @@
         "{*skillpara.damageMerge({126060102},{11},\"PVEDamageRadio\",\"up\")*} P./M.ATK+{*skillpara.damageMerge({126060102},{11},\"PVEFixedParameter\",\"un\")*}"
       ],
       ["Fire Dragon เวลา CD ลดลง", ""],
-      ["Fire Dragon เพิ่มโบนัสธาตุ", ""],
+      ["Fire Dragon's Roar Element Bonus", ""],
       ["เวลา CD ของ Fire Dragon’s Roar", "20 วินาที"]
     ],
     "SkillDamageDistance": 0.0,
@@ -84620,7 +84620,7 @@
       ],
       ["Celestial Spirit Guard ลด Atk", ""],
       ["Celestial Spirit Guard บาดเจ็บง่ายขึ้น", ""],
-      ["Celestial Spirit Guard ลดธาตุ", ""],
+      ["Celestial Spirit Guard Elemental Resistance Reduction", ""],
       ["Celestial Spirit Guard เวลา CD", "70 วินาที<br>"],
       [
         "[Aqua Metria]<br>Aqua Metria DMG",
@@ -84649,7 +84649,7 @@
     "NeedScaleCamera": false,
     "STRange": [0.0],
     "SkillAttrDes": [
-      ["โบนัสธาตุพลังมังกร", ""],
+      ["Dragon Force Element Bonus", ""],
       ["เวลา CD แปลงร่าง", ""],
       [
         "[โจมตีทั่วไป]<br>โจมตีทั่วไป I",
@@ -84678,7 +84678,7 @@
         "{*skillpara.damageMerge({126060102},{11},\"PVEDamageRadio\",\"up\")*} P./M.ATK+{*skillpara.damageMerge({126060102},{11},\"PVEFixedParameter\",\"un\")*}"
       ],
       ["Fire Dragon เวลา CD ลดลง", ""],
-      ["Fire Dragon เพิ่มโบนัสธาตุ", ""],
+      ["Fire Dragon's Roar Element Bonus", ""],
       ["เวลา CD", "20 วินาที"]
     ],
     "SkillDamageDistance": 0.0,
@@ -89125,7 +89125,7 @@
     "STRange": [0.0],
     "SkillAttrDes": [
       [
-        "เร่งความเร็วพุ่งไปข้างหน้าเป็นระยะ<br>ทางหนึ่ง สามารถเชื่อมต่อการพุ่ง<br>ครั้งที่สองได้ในเวลาที่กำหนดพลัง<br>ระเบิดที่แข็งแกร่ง สามารถทำลาย<br><style=accent-gn>กำบังลม</style>ในสนามรบได้"
+        "เร่งความเร็วพุ่งไปข้างหน้าเป็นระยะทางหนึ่ง และสามารถเชื่อมต่อการพุ่งครั้งที่สองได้ภายในเวลาที่กำหนด<br>ด้วยพลังระเบิดอันทรงพลัง สามารถพุ่งชนทำลาย<style=accent-gn>กำบังลม</style>ในพื้นที่ราบได้"
       ]
     ],
     "SkillDamageDistance": 0.0,
@@ -93535,6 +93535,48 @@
     "SkillAttrDes": [],
     "SkillDamageDistance": 0.0,
     "SkillId": 5138,
+    "SkillLearnBuffs": [],
+    "Tags": [86, 87],
+    "TakeWeaponInSkill": false
+  },
+  "513901": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 513901,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "玩具·烟花冲天炮",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 5139,
+    "SkillLearnBuffs": [],
+    "Tags": [86, 87],
+    "TakeWeaponInSkill": false
+  },
+  "514001": {
+    "AiReleaseSkillRange": [0.0, 0.0, 0.0, 0.0],
+    "BuffTags": [],
+    "EffectRange": [],
+    "EntityTags": [],
+    "HitTags": [],
+    "Id": 514001,
+    "InstallSkillAddBuffs": [],
+    "IsInBattleState": false,
+    "Level": 1,
+    "MaxHorizontalMotionDis": 0.0,
+    "Name": "玩具·烟花冲天炮",
+    "NeedScaleCamera": false,
+    "STRange": [0.0],
+    "SkillAttrDes": [],
+    "SkillDamageDistance": 0.0,
+    "SkillId": 5140,
     "SkillLearnBuffs": [],
     "Tags": [86, 87],
     "TakeWeaponInSkill": false

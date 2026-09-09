@@ -22886,7 +22886,7 @@
     "SceneType": 1,
     "SceneUi": ["mainui"],
     "ShowMiniMap": 0,
-    "SubScene": [6, 7, 13],
+    "SubScene": [6, 7, 13, 23],
     "Weather": -1
   },
   "7001": {
@@ -25160,7 +25160,7 @@
   "91": {
     "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
     "AudioBank": ["Amb_2D_Common"],
-    "Bgm": ["BGM_FlowPath_Scene", "BGM_Fld001_North"],
+    "Bgm": ["BGM_FlowPath_Scene", "BGM_Fld001_North_Area_General", "BGM_Fld001_North"],
     "BornId": 1,
     "CanChangeLayer": false,
     "CutsceneId": 0,
@@ -25202,7 +25202,7 @@
   "92": {
     "AmbEvent": "Amb_2D_Fld001_Cave_YaZhiYiJi_Loop",
     "AudioBank": ["Amb_2D_Common"],
-    "Bgm": ["BGM_FlowPath_Scene", "BGM_Fld001_North"],
+    "Bgm": ["BGM_FlowPath_Scene", "BGM_Fld001_North_Area_General", "BGM_Fld001_North"],
     "BornId": 1,
     "CanChangeLayer": false,
     "CutsceneId": 0,
@@ -25616,6 +25616,48 @@
     "SceneType": 1,
     "SceneUi": ["mainui"],
     "ShowMiniMap": 0,
+    "SubScene": [],
+    "Weather": -1
+  },
+  "9300": {
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "AudioBank": ["Amb_2D_Common"],
+    "Bgm": ["BGM_FlowPath_Scene", "BGM_BossStep_A", "BGM_Dng6011"],
+    "BornId": 248,
+    "CanChangeLayer": false,
+    "CutsceneId": 0,
+    "DayAndNight": 0,
+    "DefaultSceneArea": 0,
+    "EPFlowId": 0,
+    "FallDis": 1.0,
+    "FootstepFxOverride": [],
+    "HaveWater": false,
+    "Id": 9300,
+    "IsShareParentSceneData": false,
+    "LoadingBgm": "",
+    "MainUi": 2,
+    "MapEntryCondition": [],
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MiniMapRatio": 0,
+    "MoveSyncConfigId": 0,
+    "Name": "Roguelike Fase 3",
+    "ParentId": 0,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "ReverEvent": "Reverb_Normal",
+    "ReviveTableId": [104, 200],
+    "SceneResourceId": 27,
+    "SceneSubType": 5,
+    "SceneType": 2,
+    "SceneUi": ["mainui"],
+    "ShowMiniMap": 1,
     "SubScene": [],
     "Weather": -1
   },

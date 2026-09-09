@@ -2997,6 +2997,29 @@
     "Type": 3,
     "TypeGroup": 0
   },
+  "25005": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "※First draw is free! <br><br>This round of the Meowlux Special prize pool requires exclusive <color=#eed335>Moonrise - Gold Meow Points</color> to draw. Gold Meow Points can be obtained via: <br> Completing limited-time quests in the \"Kanamia Harvest Festival\" event;<br> Exchanging with <color=#eed335>Meowlux Special Universal Tickets</color> at the Astral Store;<br> Purchasing directly from the quick purchase pop-up during a draw.<br>※Note: Gold Meow Points are only valid during the \"Moonrise\" event. <br><br>Each draw gives 1 prize from the pool. The prize pool contains <color=#eed335>100</color> prizes, and the number of prizes decreases with each draw until the pool is emptied. <br>After a prize is drawn, its weight is removed from the pool, changing the odds for the remaining prizes. <br><br>During draws, random events may trigger: <color=#9cb9ef>[Basic Events]</color> and <color=#ab85f6>[Lucky Events]</color>. <br><color=#9cb9ef>[Basic Events]</color> for this round include: <br> [Gold Meow Point Rebate]: Each draw guarantees a rebate of Gold Meow Points based on prize rarity. [S Prize] Gold Meow Point ×50, [A Prize] Gold Meow Point ×30, [B Prize] Gold Meow Point ×20, [C Prize] Gold Meow Point ×15, [D Prize] Gold Meow Point ×10, [E Prize] Gold Meow Point ×5. <br> [Guarantee System]: The 25th draw guarantees one [A Prize], the 70th draw guarantees one [S Prize].<br>※The guarantee counter for this Meowlux Special prize pool is independent and does not affect or carry over to other events. <br><br>This round's <color=#ab85f6>[Lucky Events]</color> include: <br> [Event 1]: Next Draw Free;<br> [Event 2]: Next Draw Returns 3 × Gold Meow Points;<br> [Event 3]: Next Draw A Prize Probability UP;<br> [Event 4]: Next Draw Excludes C/D/E Prizes. <br><br>Each draw has a <color=#ffe2af>25.0000%</color> chance to trigger a Lucky Event (excluding the last draw). During different draw stages, the specific Lucky Event trigger probabilities are as follows: <br> Draw 1–20: Event 1 - <color=#ffe2af>20.0000%</color>, Event 2 - <color=#ffe2af>80.0000%</color>;<br> Draw 21–60: Event 1 - <color=#ffe2af>20.0000%</color>, Event 2 - <color=#ffe2af>40.0000%</color>, Event 3 - <color=#ffe2af>20.0000%</color>, Event 4 - <color=#ffe2af>20.0000%</color>;<br> Draw 61–99: Event 1 - <color=#ffe2af>8.0000%</color>, Event 2 - <color=#ffe2af>20.0000%</color>, Event 3 - <color=#ffe2af>40.0000%</color>, Event 4 - <color=#ffe2af>32.0000%</color>. <br><br>The initial draw probabilities for the prize pool are: <br> [S Prize] - <color=#ffe2af>0.3064%</color><br> [A Prize] - <color=#ffe2af>2.4509%</color><br> [B Prize] - <color=#ffe2af>13.2390%</color><br> [C Prize] - <color=#ffe2af>21.1388%</color><br> [D Prize] - <color=#ffe2af>29.7781%</color><br> [E Prize] - <color=#ffe2af>33.0868%</color><br>※Prizes within the same rarity have equal draw probabilities.<br><br>※After emptying the prize pool, you can use Gold Meow Points or Rose Orbs at the Astral Store to obtain Gold Meow Tickets, which can then be redeemed for limited items.<br>※After the event ends, expired items can be returned to Meownia at Cat's Eye Emporium in Starland for recycling into <color=#9cb9ef>Starland Medals</color>."
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 25005,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 25005,
+    "Title": "[Moonrise] Meowlux Special Prize Pool Details",
+    "Type": 3,
+    "TypeGroup": 0
+  },
   "2501": {
     "Button": "",
     "Condition": [],
@@ -6173,7 +6196,7 @@
       "",
       "Note:",
       "",
-      "1. Specific gear may be required for crafting. <br>2. Crafted gear has fixed attributes, regardless of materials used."
+      "1. Specific gear may be required for crafting. <br>2. Crafted gear has fixed attributes, regardless of materials used.<br>"
     ],
     "DurationTime": 0,
     "EventType": 0,
@@ -9412,5 +9435,62 @@
     "Title": "Title 4 of Group 2",
     "Type": 4,
     "TypeGroup": 1
+  },
+  "9208": {
+    "Button": "",
+    "Condition": [[1, 99999]],
+    "Content": [
+      "<color=#eed335>Gameplay Objective</style>: Compete for the highest score on the field and become the Kanamia Brave! <br><color=#eed335>Match Settlement</style>: Matches are settled based on time and score. The match will end when the countdown reaches zero or when a warrior reaches 4,000 points. Warriors will be ranked according to their scores. <br><color=#eed335>Earning Points</style>: Defeat enemies or obtain White Wolf's Seals to earn points.",
+      "<color=#eed335>Activating the Device</style>: Once all warriors have assembled, one warrior must interact with the device to initiate the preparation phase. <br><color=#eed335>Obtaining Skills</style>: Several random skill orbs will appear during the preparation phase. Collect one to obtain an initial skill that can be used repeatedly after entering the battlefield. <br><color=#eed335>Teleportation Device</style>: If all players are ready, please step inside the teleportation device to enter the match early.",
+      "<color=#eed335>Obtaining Skills</style>: Various skill fruits will appear on the field. Collecting a skill fruit adds its corresponding skill to your skill slot. <br><color=#eed335>Skill Types</style>: Skill fruits on the field come in five types: Control, Knockback, Defense, Trap, and Buff. Each type applies distinct skill effects to yourself or your enemies.",
+      "<color=#eed335>Skill Slots</style>: Each warrior has two skill slots: one for an initial skill and one for a temporary skill. <br><color=#eed335>Initial Skill</style>: Obtained in the preparation area and can be used repeatedly during the match, including Control, Knockback, Defense, and Trap skills. <br><color=#eed335>Temporary Skill</style>: Obtained on the battlefield and can only be used once, including all skill types.",
+      "<color=#eed335>Defeating Players</style>: Use different skills and strategies to defeat other players and earn more points. <br><color=#eed335>Defeat and Revival</style>: A warrior is defeated when HP reaches zero or when knocked beyond the battlefield boundary. They will be teleported back to the battlefield, temporarily transforming into a Kanamian Golem.",
+      "<color=#eed335>Renewal Altar</style>: The Renewal will periodically appear on the field. Ignite it as quickly as possible to earn the White Wolf's favor. While the Renewal remains ignited after the altar is lit, fill your progress bar and stay close so your flame does not extinguish. <br><color=#eed335>Obtaining Seals</style>: The first warrior to ignite the Renewal will earn the White Wolf's favor, receiving a White Wolf's Seal and points. <br><color=#eed335>Bearing Seals</style>: While carrying a White Wolf's Seal, a warrior will continuously earn points. Carrying more Seals grants more points. Each player can carry up to 2 White Wolf's Seals.",
+      "<color=#eed335>Map Changes</style>: The battlefield may differ from match to match and will change as the match progresses. Watch for changes and adjust your route accordingly. <br><color=#eed335>Special Mechanics</style>: Special effects will appear once the match reaches certain stages. Stay alert!"
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 9208,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 9208,
+    "Title": "Clash! Battle for the Renewal",
+    "Type": 1,
+    "TypeGroup": 0
+  },
+  "93001": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "<color=#eed335>Introduction</color>: During the match, defeat monsters to obtain <style=\"GuideBookLab2\">Dreamdust</style>, which can be exchanged for Blessings and Blessing Skills as you brave the Nightmare Purge.",
+      "<color=#eed335>Exchange for Blessing</color>: Consume Dreamdust at corresponding NPCs or devices to exchange for <style=\"GuideBookLab2\">Blessings</style> and <style=\"GuideBookLab2\">Blessing Skills</style>.",
+      "<color=#eed335>Dream Mutation</color>: In Nightmare Purge, dreams may randomly mutate. Mutated dreams will trigger <style=\"GuideBookLab2\">special events</style>.",
+      "<color=#eed335>Nightmare Lord</color>: During certain rounds, <style=\"GuideBookLab2\">Nightmare Lords</style> will appear. If it's not defeated, the <style=\"GuideBookLab2\">run will end in failure</style>.",
+      "<color=#eed335>Results</color>: After clearing the Shallow Dream Purge, you can choose to teleport to the <style=\"GuideBookLab2\">Results</style> or <style=\"GuideBookLab2\">challenge the Deep Dream Purge</style>.",
+      "<color=#eed335>Deep Dream Purge</color>: More powerful Nightmare Lords will appear in the Deep Dream Purge, and you <style=\"GuideBookLab2\">cannot obtain Dreamdust</style>."
+    ],
+    "DurationTime": 15,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 3,
+    "Icon": "",
+    "Id": 93001,
+    "MainTitle": "",
+    "Param": "",
+    "Res": ["knmrg_001", "knmrg_002", "knmrg_003", "knmrg_004", "knmrg_005", "knmrg_006"],
+    "Sequence": 51,
+    "SortId": 93001,
+    "Title": "Loom of Dreams​: Nightmare Purge",
+    "Type": 1,
+    "TypeGroup": 0
   }
 }

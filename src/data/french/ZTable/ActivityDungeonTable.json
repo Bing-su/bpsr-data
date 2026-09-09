@@ -4,6 +4,7 @@
     "DungeonId": 14001,
     "FunctionId": 820057,
     "LabelPic": "ui/textures/herodungeon/hero_dungeon_tab_searocks_02",
+    "LinkButton": [],
     "Sort": 1,
     "Timer": 41108
   },
@@ -12,6 +13,7 @@
     "DungeonId": 14002,
     "FunctionId": 820057,
     "LabelPic": "ui/textures/herodungeon/hero_dungeon_tab_searocks_02",
+    "LinkButton": [],
     "Sort": 2,
     "Timer": 41108
   },
@@ -20,6 +22,7 @@
     "DungeonId": 60001,
     "FunctionId": 821017,
     "LabelPic": "ui/textures/herodungeon/hero_dungeon_tab_searocks_02",
+    "LinkButton": [],
     "Sort": 1,
     "Timer": 41001
   },
@@ -28,6 +31,7 @@
     "DungeonId": 60002,
     "FunctionId": 821017,
     "LabelPic": "ui/textures/herodungeon/hero_dungeon_tab_searocks_02",
+    "LinkButton": [],
     "Sort": 2,
     "Timer": 41002
   },
@@ -36,6 +40,7 @@
     "DungeonId": 60003,
     "FunctionId": 821017,
     "LabelPic": "ui/textures/herodungeon/hero_dungeon_tab_searocks_02",
+    "LinkButton": [],
     "Sort": 3,
     "Timer": 41003
   },
@@ -44,7 +49,17 @@
     "DungeonId": 60004,
     "FunctionId": 821017,
     "LabelPic": "ui/textures/herodungeon/hero_dungeon_tab_searocks_02",
+    "LinkButton": [],
     "Sort": 4,
     "Timer": 41004
+  },
+  "9300": {
+    "Background": "ui/textures/themeact/themeact_bg/activity_themeact_316",
+    "DungeonId": 9300,
+    "FunctionId": 820061,
+    "LabelPic": "ui/textures/herodungeon/hero_dungeon_tab_searocks_02",
+    "LinkButton": [8],
+    "Sort": 1,
+    "Timer": 41110
   }
 }

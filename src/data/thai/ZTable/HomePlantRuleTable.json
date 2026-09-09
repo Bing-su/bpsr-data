@@ -10,7 +10,7 @@
     "HybridizationModel": 5992,
     "Id": 1,
     "MatureModel": 5995,
-    "Name": "ทิวลิป",
+    "Name": "Tulip",
     "Pollen": 11130001,
     "PollinationTime": 1800,
     "Watering": [[1, 1, 15, 19800, 3960]],
@@ -30,7 +30,7 @@
     "HybridizationModel": 5993,
     "Id": 2,
     "MatureModel": 5996,
-    "Name": "กุหลาบ",
+    "Name": "Rose",
     "Pollen": 11130002,
     "PollinationTime": 2700,
     "Watering": [
@@ -61,6 +61,26 @@
       [2, 21600, 21615, 18000, 18000],
       [3, 43200, 43215, 18000, 18000]
     ],
+    "WateringInterval": 1
+  },
+  "4": {
+    "DesexFertilize": 1055003,
+    "Exp": 50,
+    "Fertilize": [
+      [1055001, 28800],
+      [1055002, 57600]
+    ],
+    "FertilizeCount": 1,
+    "GeneNumber": [4, 2],
+    "GrowUpTime": 129600,
+    "GrowthModel": 5991,
+    "HybridizationModel": 5984,
+    "Id": 4,
+    "MatureModel": 5985,
+    "Name": "Spores",
+    "Pollen": 11130004,
+    "PollinationTime": 3600,
+    "Watering": [[1, 1, 15, 129585, 22000]],
     "WateringInterval": 1
   }
 }

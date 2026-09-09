@@ -160,7 +160,7 @@
     "TargetType": 1
   },
   "104": {
-    "Description": "Void Corruption Meteor 1 ดวงตกจากฟ้าเป็นระยะ แบ่งสร้าง DMG สูงภายในระยะ และมอบโบนัสสเตตัส Haste แก่ผู้เล่น หากไม่มีผู้เล่นใดก็ตามแบ่ง DMG อุกกาบาตจะถูกทำลายบนพื้น สร้าง DMG สูงแก่ทั้งทีม",
+    "Description": "Void Corruption Meteor 1 ดวงตกจากฟ้าเป็นระยะ แบ่งสร้าง DMG สูงภายในระยะ และมอบโบนัสสเตตัส Haste แก่ผู้เล่น หากไม่มีผู้เล่นแบ่ง DMG อุกกาบาตจะถูกทำลายบนพื้น สร้าง DMG สูงแก่ทั้งทีม",
     "Effect": [[3, 1, 873422, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -2490,7 +2490,7 @@
     "TargetType": 3
   },
   "31": {
-    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับWater Element Shield 1 Stack ได้รับ DMG ธาตุน้ำแข็ง 150% และ DMG สเตตัสอื่น 50%",
+    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับ Water Element Shield 1 Stack ได้รับ Ice DMG 150% และ DMG สเตตัสอื่น 50%",
     "Effect": [[1, 4, 870701, 0]],
     "EffectTime": [[]],
     "EffectType": 3,
@@ -2650,7 +2650,7 @@
     "TargetType": 3
   },
   "32": {
-    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับWater Element Shield 1 Stack ได้รับ DMG ธาตุไฟ 150% และ DMG สเตตัสอื่น 50%",
+    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับ Water Element Shield 1 Stack ได้รับ Fire DMG 150% และ DMG สเตตัสอื่น 50%",
     "Effect": [[1, 4, 870801, 0]],
     "EffectTime": [[]],
     "EffectType": 3,
@@ -2810,7 +2810,7 @@
     "TargetType": 3
   },
   "33": {
-    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับWater Element Shield 1 Stack ได้รับ DMG ธาตุสายฟ้า 150% และ DMG สเตตัสอื่น 50%",
+    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับ Water Element Shield 1 Stack ได้รับ Thunder DMG 150% และ DMG สเตตัสอื่น 50%",
     "Effect": [[1, 4, 870901, 0]],
     "EffectTime": [[]],
     "EffectType": 3,
@@ -2826,7 +2826,7 @@
     "TargetType": 2
   },
   "34": {
-    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับWater Element Shield 1 Stack ได้รับ DMG ธาตุลม 150% และ DMG สเตตัสอื่น 50%",
+    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับ Water Element Shield 1 Stack ได้รับ Wind DMG 150% และ DMG สเตตัสอื่น 50%",
     "Effect": [[1, 4, 871001, 0]],
     "EffectTime": [[]],
     "EffectType": 3,
@@ -2842,7 +2842,7 @@
     "TargetType": 2
   },
   "35": {
-    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับWater Element Shield 1 Stack ได้รับ DMG ธาตุป่า 150% และ DMG สเตตัสอื่น 50%",
+    "Description": "เมื่อมอนสเตอร์เกิดจะได้รับ Water Element Shield 1 Stack ได้รับ Forest DMG 150% และ DMG สเตตัสอื่น 50%",
     "Effect": [[1, 4, 871101, 0]],
     "EffectTime": [[]],
     "EffectType": 3,
@@ -3741,7 +3741,7 @@
     "TargetType": 3
   },
   "8": {
-    "Description": "เมื่อตัวละครสร้าง DMG ธาตุลม มีโอกาส 10% ที่จะสร้าง \"Wind Field\" 1 ชิ้น ต่อเนื่อง 7 วินาที Wind Field จะสร้าง DMG ต่อเนื่องและดึงดูดมอนสเตอร์โดยรอล มอนสเตอร์ที่อยู่ใน Wind Field จะได้รับ DMG เพิ่ม 50% ระยะเวลา CD 10 วินาที",
+    "Description": "เมื่อตัวละครสร้าง Wind DMG มีโอกาส 10% ที่จะสร้าง \"Wind Field\" 1 ชิ้น ต่อเนื่อง 7 วินาที Wind Field จะสร้าง DMG ต่อเนื่องและดึงดูดมอนสเตอร์โดยรอล มอนสเตอร์ที่อยู่ใน Wind Field จะได้รับ DMG เพิ่ม 50% ระยะเวลา CD 10 วินาที",
     "Effect": [[1, 1, 860801, 0]],
     "EffectTime": [[2.0, 0.0]],
     "EffectType": 1,
@@ -3917,7 +3917,7 @@
     "TargetType": 1
   },
   "9": {
-    "Description": "เมื่อตัวละครสร้าง DMG ธาตุไฟ จะได้รับเอฟเฟกต์รับ DMG หนักเพิ่มขึ้น 5% 1 Stack ต่อเนื่อง 5 วินาที และสามารถซ้อนทับได้",
+    "Description": "เมื่อตัวละครสร้าง Fire DMG จะได้รับเอฟเฟกต์รับ DMG หนักเพิ่มขึ้น 5% 1 Stack ต่อเนื่อง 5 วินาที และสามารถซ้อนทับได้",
     "Effect": [[1, 1, 860901, 0]],
     "EffectTime": [[2.0, 0.0]],
     "EffectType": 1,

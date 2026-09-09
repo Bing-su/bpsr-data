@@ -1041,7 +1041,7 @@
   },
   "2502": {
     "AwardId": 0,
-    "Content": "Alma aventurera: <br><br>Se restablecieron los objetivos diarios de esta ronda del evento de colaboración. Revisa tus recompensas sin reclamar.<br><br>«¡Que la suerte te acompañe!»",
+    "Content": "Alma aventurera: <br><br>Se restablecieron los objetivos diarios de esta ronda del evento de colaboración. Revisa tus recompensas sin reclamar.<br><br>“¡Que la suerte te acompañe!\"",
     "ExpireTime": 7,
     "Id": 2502,
     "Important": 0,
@@ -1054,7 +1054,7 @@
   },
   "2503": {
     "AwardId": 0,
-    "Content": "Alma aventurera: <br><br>Se restablecieron los objetivos semanales de esta ronda del evento de colaboración. Revisa tus recompensas sin reclamar. <br><br>«¡Que la suerte te acompañe!»",
+    "Content": "Alma aventurera: <br><br>Se restablecieron los objetivos semanales de esta ronda del evento de colaboración. Revisa tus recompensas sin reclamar. <br><br>“¡Que la suerte te acompañe!\"",
     "ExpireTime": 30,
     "Id": 2503,
     "Important": 0,
@@ -1077,6 +1077,19 @@
     "NpcId": 1200012,
     "NpcName": "Miaunia",
     "Title": "[Colaboración] Reenvío de recompensa de objetivo de desafío"
+  },
+  "2506": {
+    "AwardId": 0,
+    "Content": "Saludos, aventurero: <br><br>El evento del Festival de la Cosecha de Kanamia ha terminado. ¡Reclama las recompensas de objetivo que te faltan!<br><br>¡Gracias por participar!",
+    "ExpireTime": 30,
+    "Id": 2506,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Personal del Festival de la Cosecha",
+    "Title": "[Festival de la Cosecha de Kanamia] Recompensas de objetivo de evento no reclamadas"
   },
   "3002": {
     "AwardId": 0,
@@ -1168,5 +1181,18 @@
     "NpcId": 0,
     "NpcName": "Sistema",
     "Title": "Fallo en la revisión de votos de la tabla de clasificación de maestro"
+  },
+  "4004": {
+    "AwardId": 0,
+    "Content": "Estimado aventurero:<br><br>El evento Pruebas de Héroe ha finalizado y todavía tienes recompensas sin reclamar. Reclámalas ahora.<br><br>¡Gracias por participar!",
+    "ExpireTime": 30,
+    "Id": 4004,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Sistema",
+    "Title": "[Pruebas de Héroe] Reemisión de recompensas de objetivo"
   }
 }

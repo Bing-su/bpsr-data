@@ -3002,6 +3002,29 @@
     "Type": 3,
     "TypeGroup": 0
   },
+  "25005": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "※Erste Ziehung ist kostenlos! <br><br>Diese Runde des Miaulux-Spezial-Preispools erfordert exklusive <color=#eed335>Mondaufgang – Goldmiau-Punkte</color> zum Ziehen. Goldmiau-Punkte können wie folgt erhalten werden: <br> Abschluss befristeter Quests im Event \"Kanamia-Erntedankfest\";<br> Eintausch gegen <color=#eed335>Miaulux-Spezial-Universaltickets</color> im Astral-Shop;<br> Direkter Kauf über das Schnellkauffenster während einer Ziehung.<br>※Hinweis: Goldmiau-Punkte sind nur während des Events \"Mondaufgang\" gültig. <br><br>Jede Ziehung gewährt 1 Preis aus dem Pool. Der Preispool enthält <color=#eed335>100</color> Preise, und die Anzahl der Preise verringert sich mit jeder Ziehung, bis der Pool geleert ist. <br>Nachdem ein Preis gezogen wurde, wird dessen Gewichtung aus dem Pool entfernt, wodurch sich die Wahrscheinlichkeiten für die verbleibenden Preise ändern. <br><br>Während der Ziehungen können zufällige Events ausgelöst werden: <color=#9cb9ef>[Basis-Events]</color> und <color=#ab85f6>[Glücks-Events]</color>. <br><color=#9cb9ef>[Basis-Events]</color> für diese Runde umfassen: <br> [Goldmiau-Punkt-Rückerstattung]: Jede Ziehung garantiert eine Rückerstattung von Goldmiau-Punkten basierend auf der Preisseltenheit. [S-Preis] Goldmiau-Punkte ×50, [A-Preis] Goldmiau-Punkte ×30, [B-Preis] Goldmiau-Punkte ×20, [C-Preis] Goldmiau-Punkte ×15, [D-Preis] Goldmiau-Punkte ×10, [E-Preis] Goldmiau-Punkte ×5. <br> [Garantiesystem]: Die 25. Ziehung garantiert einen [A-Preis], die 70. Ziehung garantiert einen [S-Preis].<br>※Der Garantiezähler für diesen Miaulux-Spezial-Preispool ist unabhängig und wirkt sich weder auf andere Events aus noch wird er auf diese übertragen. <br><br>Die <color=#ab85f6>[Glücks-Events]</color> dieser Runde umfassen: <br> [Event 1]: Nächste Ziehung kostenlos;<br> [Event 2]: Nächste Ziehung erstattet 3 × Goldmiau-Punkte;<br> [Event 3]: Nächste Ziehung A-Preis Wahrscheinlichkeit ERHÖHT;<br> [Event 4]: Nächste Ziehung schließt C/D/E-Preise aus. <br><br>Jede Ziehung hat eine Chance von <color=#ffe2af>25,0000 %</color>, ein Glücks-Event auszulösen (die letzte Ziehung ausgenommen). In verschiedenen Ziehungsphasen sind die spezifischen Auslösewahrscheinlichkeiten für Glücks-Events wie folgt: <br> Ziehung 1–20: Event 1 – <color=#ffe2af>20,0000 %</color>, Event 2 – <color=#ffe2af>80,0000 %</color>;<br> Ziehung 21–60: Event 1 – <color=#ffe2af>20,0000 %</color>, Event 2 – <color=#ffe2af>40,0000 %</color>, Event 3 – <color=#ffe2af>20,0000 %</color>, Event 4 – <color=#ffe2af>20,0000 %</color>;<br> Ziehung 61–99: Event 1 – <color=#ffe2af>8,0000 %</color>, Event 2 – <color=#ffe2af>20,0000 %</color>, Event 3 – <color=#ffe2af>40,0000 %</color>, Event 4 – <color=#ffe2af>32,0000 %</color>. <br><br>Die anfänglichen Ziehungswahrscheinlichkeiten für den Preispool sind: <br> [S-Preis] – <color=#ffe2af>0,3064 %</color><br> [A-Preis] – <color=#ffe2af>2,4509 %</color><br> [B-Preis] – <color=#ffe2af>13,2390 %</color><br> [C-Preis] – <color=#ffe2af>21,1388 %</color><br> [D-Preis] – <color=#ffe2af>29,7781 %</color><br> [E-Preis] – <color=#ffe2af>33,0868 %</color><br>※Preise innerhalb derselben Seltenheit haben gleiche Ziehungswahrscheinlichkeiten.<br><br>※Nach dem Leeren des Preispools kannst du im Astral-Shop mit Goldmiau-Punkten oder Rosenkugeln Goldmiau-Tickets erwerben, die dann gegen limitierte Gegenstände eingelöst werden können.<br>※Nach dem Ende des Events können abgelaufene Gegenstände bei Miaunia im Katzenaugen-Kaufhaus im Sternenland recycelt werden, um <color=#9cb9ef>Sternenland-Medaillen</color> zu erhalten."
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 25005,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 25005,
+    "Title": "[Mondaufgang] Preispool-Details zum Miaulux-Spezial",
+    "Type": 3,
+    "TypeGroup": 0
+  },
   "2501": {
     "Button": "",
     "Condition": [],
@@ -6180,7 +6203,7 @@
       "",
       "Hinweis:",
       "",
-      "1. Für die Herstellung ist möglicherweise bestimmte Ausrüstung erforderlich. <br>2. Hergestellte Ausrüstung hat feste Attribute, unabhängig von den verwendeten Materialien."
+      "1. Für die Herstellung ist möglicherweise bestimmte Ausrüstung erforderlich. <br>2. Hergestellte Ausrüstung hat feste Attribute, unabhängig von den verwendeten Materialien.<br>"
     ],
     "DurationTime": 0,
     "EventType": 0,
@@ -9419,5 +9442,62 @@
     "Title": "Titel 4 von Gruppe 2",
     "Type": 4,
     "TypeGroup": 1
+  },
+  "9208": {
+    "Button": "",
+    "Condition": [[1, 99999]],
+    "Content": [
+      "<color=#eed335>Gameplay-Ziel</style>: Kämpfe um die höchste Punktzahl auf dem Feld und werde der Kanamia-Champion! <br><color=#eed335>Match-Abrechnung</style>: Matches werden basierend auf Zeit und Punktzahl abgerechnet. Das Match endet, wenn der Countdown null erreicht oder ein Krieger 4.000 Punkte erlangt. Krieger werden entsprechend ihrer Punktzahl in eine Rangliste eingetragen. <br><color=#eed335>Punkte verdienen</style>: Besiege Feinde oder erhalte Siegel des Weißwolfs, um Punkte zu verdienen.",
+      "<color=#eed335>Gerät aktivieren</style>: Sobald sich alle Krieger versammelt haben, muss ein Krieger mit dem Gerät interagieren, um die Vorbereitungsphase einzuleiten. <br><color=#eed335>Fähigkeiten erhalten</style>: Mehrere zufällige Fähigkeitskugeln erscheinen während der Vorbereitungsphase. Sammle eine ein, um eine anfängliche Fähigkeit zu erhalten, die nach dem Betreten des Schlachtfelds wiederholt eingesetzt werden kann. <br><color=#eed335>Teleportationsgerät</style>: Wenn alle Spieler bereit sind, tretet bitte in das Teleportationsgerät, um das Match frühzeitig zu beginnen.",
+      "<color=#eed335>Fähigkeiten erhalten</style>: Auf dem Feld erscheinen verschiedene Fähigkeitsfrüchte. Das Einsammeln einer Fähigkeitsfrucht fügt die entsprechende Fähigkeit deinem Fähigkeitsplatz hinzu. <br><color=#eed335>Fähigkeitstypen</style>: Fähigkeitsfrüchte auf dem Feld gibt es in fünf Typen: Kontrolle, Rückstoß, Verteidigung, Falle und Buff. Jeder Typ wendet unterschiedliche Fähigkeitseffekte auf dich oder deine Feinde an.",
+      "<color=#eed335>Fähigkeitsplätze</style>: Jeder Krieger hat zwei Fähigkeitsplätze: einen für eine anfängliche Fähigkeit und einen für eine temporäre Fähigkeit. <br><color=#eed335>Anfängliche Fähigkeit</style>: Wird im Vorbereitungsbereich erhalten und kann während des Matches wiederholt verwendet werden, einschließlich Kontroll-, Rückstoß-, Verteidigungs- und Fallen-Fähigkeiten. <br><color=#eed335>Temporäre Fähigkeit</style>: Wird auf dem Schlachtfeld erhalten und kann nur einmal verwendet werden, einschließlich aller Fähigkeitstypen.",
+      "<color=#eed335>Spieler besiegen</style>: Setze verschiedene Fähigkeiten und Strategien ein, um andere Spieler zu besiegen und mehr Punkte zu verdienen. <br><color=#eed335>Niederlage und Wiederbelebung</style>: Ein Krieger ist besiegt, wenn die LP null erreichen oder wenn er über die Schlachtfeldgrenze hinausgeschleudert wird. Er wird zurück auf das Schlachtfeld teleportiert und verwandelt sich vorübergehend in einen kanamianischen Golem.",
+      "<color=#eed335>Erneuerungsaltar</style>: Die Erneuerung erscheint in regelmäßigen Abständen auf dem Feld. Entzünde sie so schnell wie möglich, um die Gunst des Weißwolfs zu erlangen. Während die Erneuerung nach dem Entzünden des Altars brennt, fülle deine Fortschrittsleiste und bleibe in der Nähe, damit deine Flamme nicht erlischt. <br><color=#eed335>Siegel erhalten</style>: Der erste Krieger, der die Erneuerung entzündet, erlangt die Gunst des Weißwolfs und erhält ein Siegel des Weißwolfs sowie Punkte. <br><color=#eed335>Siegel tragen</style>: Solange ein Krieger ein Siegel des Weißwolfs trägt, erhält er kontinuierlich Punkte. Das Tragen von mehr Siegeln gewährt mehr Punkte. Jeder Spieler kann bis zu 2 Siegel des Weißwolfs tragen.",
+      "<color=#eed335>Kartenänderungen</style>: Das Schlachtfeld kann von Match zu Match variieren und verändert sich im Verlauf des Matches. Achte auf Veränderungen und passe deine Route entsprechend an. <br><color=#eed335>Besondere Mechaniken</style>: Besondere Effekte erscheinen, sobald das Match bestimmte Phasen erreicht. Bleib wachsam!"
+    ],
+    "DurationTime": 0,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 0,
+    "Icon": "",
+    "Id": 9208,
+    "MainTitle": "",
+    "Param": "",
+    "Res": [],
+    "Sequence": 0,
+    "SortId": 9208,
+    "Title": "Kampf! Schlacht um die Erneuerung",
+    "Type": 1,
+    "TypeGroup": 0
+  },
+  "93001": {
+    "Button": "",
+    "Condition": [],
+    "Content": [
+      "<color=#eed335>Spielanleitung</color>: Besiege während des Spiels Monster, um <style=\"GuideBookLab2\">Traumstaub</style> zu erhalten, den du gegen Segen und <style=\"GuideBookLab2\">Segensfähigkeiten</style> eintauschen kannst, während du dich in die Traumläuterung wagst.",
+      "<color=#eed335>Segen erhalten</color>: Bei den entsprechenden NPCs oder Vorrichtungen kannst du Traumstaub verbrauchen, um <style=\"GuideBookLab2\">Segen</style> und <style=\"GuideBookLab2\">Segensfähigkeiten</style> zu erhalten.",
+      "<color=#eed335>Traummutation</color>: Während der Traumläuterung kann sich der Traum mit einer gewissen Wahrscheinlichkeit verändern. In einem mutierten Traum können <style=\"GuideBookLab2\">Spezialereignisse</style> auftreten.",
+      "<color=#eed335>Albtraum-Lord</color>: In bestimmten Runden erscheint ein <style=\"GuideBookLab2\">Albtraum-Lord</style>. Wenn es dir nicht gelingt, den Albtraum-Lord zu besiegen, führt dies zum <style=\"GuideBookLab2\">Scheitern des Spiels</style>.",
+      "<color=#eed335>Abrechnung</color>: Nach dem Abschluss der Seichten Traumläuterung kannst du am Teleportationsportal die<style=\"GuideBookLab2\">Abrechnung</style> durchführen oder<style=\"GuideBookLab2\">die Herausforderung des Tiefen Traums</style> starten.",
+      "<color=#eed335>Tiefer Traum</color>: Im Tiefen Traum erscheinen noch mächtigere Albtraum-Lords, und es kann <style=\"GuideBookLab2>kein Traumstaub erhalten werden</style>."
+    ],
+    "DurationTime": 15,
+    "EventType": 0,
+    "FunctionId": 0,
+    "GroupName": "",
+    "Guideunlock": 0,
+    "HelpGroup": 3,
+    "Icon": "",
+    "Id": 93001,
+    "MainTitle": "",
+    "Param": "",
+    "Res": ["knmrg_001", "knmrg_002", "knmrg_003", "knmrg_004", "knmrg_005", "knmrg_006"],
+    "Sequence": 51,
+    "SortId": 93001,
+    "Title": "Traumweber: Läuterung der Albträume",
+    "Type": 1,
+    "TypeGroup": 0
   }
 }

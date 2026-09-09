@@ -197,5 +197,54 @@
     "PrizeShowDetails": [100401, 100402, 100403, 100404, 100405, 100406],
     "Sort": 4,
     "TextColor": "#ffffff"
+  },
+  "1005": {
+    "BaseDetailsDes": "Die [Basis-Events] dieser Runde umfassen: <br> Jede Ziehung garantiert eine <style=\"accent-gn\">Mondaufgang – Goldmiau-Punkt-Rückerstattung</style>. Die genaue Menge hängt von der Seltenheit des Preises ab – je seltener der Preis, desto mehr Punkte erhältst du.<br><style=\"accent-gn\">Garantierter A-Preis-Gutschein</style> bei <style=\"accent-gn\">der 25. Ziehung</style>;<br><style=\"accent-gn\">Garantierter S-Preis-Gutschein</style> bei <style=\"accent-gn\">der 70. Ziehung</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850203],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850105,
+    "HelpLibraryId": 25005,
+    "Id": 1005,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["1-mal ziehen", "5-mal ziehen"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Jede Ziehung hat eine Chance von <style=\"accent-gn\">25,0000 %</style>, ein [Glücks-Event] auszulösen! Die Glücks-Events für diese Runde umfassen:<br>[Event 1]: Nächste Ziehung kostenlos;<br>[Event 2]: Nächste Ziehung gibt 3-fache Goldmiau-Punkte zurück;<br>[Event 3]: Erhöhte Chance auf A-Preis bei der nächsten Ziehung;<br>[Event 4]: Nächste Ziehung schließt C-/D-/E-Preise aus.",
+    "LuckPoolId": 1005,
+    "MallItemId": 11005,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12005, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41110,
+    "PointsActivityFunctionId": 20016,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Mondaufgang",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_rolora/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_rolora/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1005,
+    "PrizeShowDetails": [100501, 100502, 100503, 100504, 100505, 100506, 100507],
+    "Sort": 5,
+    "TextColor": "#ffffff"
   }
 }

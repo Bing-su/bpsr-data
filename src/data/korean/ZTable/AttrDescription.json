@@ -1000,7 +1000,7 @@
     "Id": 2203120
   },
   "2203130": {
-    "Description": "<linktext=1546><style=\"ItemQuality_5\">꿰뚫는 눈・샤이닝 애로우</style></linktext>가 추가로 1회 <style=\"accent-gn\">라이트 에너지</style> 폭발을 일으켜 공격력 <style=\"accent-gn\">1,500%</style>만큼의 <style=\"physical\">물리 대미지</style>(궁극기 스킬 레벨업 및 승급에 따라 성장)를 입힙니다. 해당 공격은 적을 공중에 띄우며, 공격이 명중한 대상은 이후 <style=\"accent-gn\">10</style>초 동안 자신으로부터 받는 대미지가 <style=\"accent-gn\">5%</style> 증가합니다.",
+    "Description": "<linktext=1546><style=\"ItemQuality_5\">꿰뚫는 눈・샤이닝 애로우</style></linktext>가 추가로 1회 <style=\"accent-gn\">라이트 에너지</style> 폭발을 일으켜 공격력 <style=\"accent-gn\">1,500%</style>만큼의 <style=\"physical\">물리 대미지</style>(궁극 스킬 레벨업 및 승급에 따라 성장)를 입힙니다. 해당 공격은 적을 공중에 띄우며, 공격이 명중한 대상은 이후 <style=\"accent-gn\">10</style>초 동안 자신으로부터 받는 대미지가 <style=\"accent-gn\">5%</style> 증가합니다.",
     "Id": 2203130
   },
   "2203140": {
@@ -3652,7 +3652,7 @@
     "Id": 3003470
   },
   "3003480": {
-    "Description": "궁극기 시전 후 즉시 <linktext=1209><style=\"ItemQuality_5\">끝없는 사유</style></linktext>를 <style=\"accent-gn\">1</style>스택 획득하며, 이후 <style=\"accent-gn\">10</style>초 동안, <linktext=1209><style=\"ItemQuality_5\">끝없는 사유</style></linktext>가 제공하는 능력치 효과가 2배로 증가합니다.",
+    "Description": "궁극 스킬 시전 후 즉시 <linktext=1209><style=\"ItemQuality_5\">끝없는 사유</style></linktext>를 <style=\"accent-gn\">1</style>스택 획득하며, 이후 <style=\"accent-gn\">10</style>초 동안, <linktext=1209><style=\"ItemQuality_5\">끝없는 사유</style></linktext>가 제공하는 능력치 효과가 2배로 증가합니다.",
     "Id": 3003480
   },
   "3003610": {
@@ -3820,7 +3820,7 @@
     "Id": 3004640
   },
   "3004810": {
-    "Description": "시작 시, 에픽 옵션 [숙련]을 보유합니다. 숙련 증폭: 숙련 1%당 물리 증폭 및 마법 증폭이 0.4% 증가합니다.",
+    "Description": "시작 시, 에픽 옵션 [숙련]을 보유합니다. 숙련 증폭: 숙련 1%당 물리 버프 및 마법 버프가 0.4% 증가합니다.",
     "Id": 3004810
   },
   "3004820": {
@@ -3856,7 +3856,7 @@
     "Id": 3050040
   },
   "3050050": {
-    "Description": "무궁뇌정의 힘 충전 횟수 +<style=\"accent-gn\">1</style>. 궁극기 파망 대미지 +<style=\"accent-gn\">{*Decision.unmarkpercent(1)*}</style>.<br>무궁뇌정의 힘 지속 기간 동안 초당 허망 에너지를 <style=\"accent-gn\">{*Decision.unmarknormal(2)*}</style>pt 획득합니다.",
+    "Description": "무궁뇌정의 힘 충전 횟수 +<style=\"accent-gn\">1</style>. 궁극 스킬 파망 대미지 +<style=\"accent-gn\">{*Decision.unmarkpercent(1)*}</style>.<br>무궁뇌정의 힘 지속 기간 동안 초당 허망 에너지를 <style=\"accent-gn\">{*Decision.unmarknormal(2)*}</style>pt 획득합니다.",
     "Id": 3050050
   },
   "3050060": {
@@ -3908,7 +3908,7 @@
     "Id": 3050410
   },
   "3050420": {
-    "Description": "허망 에너지 충전량이 <style=\"accent-gn\">{*Decision.unmarknormal(1)*}</style>pt에 도달하면, 다음 궁극기는 반드시 치명타로 적용되며, 허망 대미지가 <style=\"accent-gn\">{*Decision.unmarkpercent(4)*}</style> 증가합니다.",
+    "Description": "허망 에너지 충전량이 <style=\"accent-gn\">{*Decision.unmarknormal(1)*}</style>pt에 도달하면, 다음 궁극 스킬은 반드시 치명타로 적용되며, 허망 대미지가 <style=\"accent-gn\">{*Decision.unmarkpercent(4)*}</style> 증가합니다.",
     "Id": 3050420
   },
   "3050430": {
@@ -4744,7 +4744,7 @@
     "Id": 3060440
   },
   "3060450": {
-    "Description": "허망 에너지 충전량이 <style=\"accent-gn\">{*Decision.unmarknormal(1)*}</style>pt에 도달하면, 궁극기의 남은 쿨타임이 0.5초 감소합니다. {*Decision.unmarktime(2)*} 동안 최대 1회 발동합니다.",
+    "Description": "허망 에너지 충전량이 <style=\"accent-gn\">{*Decision.unmarknormal(1)*}</style>pt에 도달하면, 궁극 스킬의 남은 쿨타임이 0.5초 감소합니다. {*Decision.unmarktime(2)*} 동안 최대 1회 발동합니다.",
     "Id": 3060450
   },
   "3200002": {
