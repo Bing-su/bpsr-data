@@ -67,7 +67,6 @@
   }
 
   function changeLanguage() {
-    searchTerm = "";
     const availableFiles = filesForLanguage(selectedLanguage);
     selectedTable = availableFiles.some(({ table }) => table === selectedTable)
       ? selectedTable
