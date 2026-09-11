@@ -68572,12 +68572,15 @@
   },
   "9202010": {
     "AbortType": 0,
-    "ActionStage": [["1037", "0", "0", "1"]],
+    "ActionStage": [
+      ["1025", "997216"],
+      ["1014", "baoxiang3"]
+    ],
     "AdaptIKParam": [],
     "Condition": [],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
-    "Cooldown": 5,
+    "Cooldown": 60,
     "ExitType": 0,
     "Id": 9202010,
     "IgnoreRangeLimit": false,
@@ -68601,7 +68604,7 @@
     "TipsGroup": 0,
     "ToServer": true,
     "TriggerAngle": 360,
-    "TriggerBtnId": 9300005,
+    "TriggerBtnId": 920203,
     "TriggerCondition": [],
     "TriggerMode": 1,
     "TriggerOffsets": {
