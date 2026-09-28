@@ -227,6 +227,7 @@
           </a>
         {/if}
       </div>
+      <p class="text-sm opacity-70" aria-live="polite">{loadStatus}</p>
       {#if dataUrl}
         <a class="btn btn-sm min-h-11" href={dataUrl}>
           <ExternalLink class="h-4 w-4" aria-hidden="true" />
@@ -240,13 +241,6 @@
           <Download class="h-4 w-4" aria-hidden="true" />
           Download
         </a>
-      {/if}
-    </header>
-    <div class="flex min-h-11 items-center justify-end gap-2">
-      <p class="mr-auto text-sm opacity-70" aria-live="polite">
-        {loadStatus}
-      </p>
-      {#if dataUrl}
         <button
           type="button"
           class="btn btn-ghost btn-sm min-h-11"
@@ -258,7 +252,7 @@
           {wrapJson ? "Unwrap lines" : "Wrap lines"}
         </button>
       {/if}
-    </div>
+    </header>
     <pre
       class="min-h-80 flex-1 overflow-auto rounded-box bg-neutral p-4 text-sm leading-6 text-neutral-content"
       data-wrap={wrapJson}
