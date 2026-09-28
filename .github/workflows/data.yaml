@@ -54,7 +54,7 @@ jobs:
             print $"::debug::Extracted ($lang) data"
           }
 
-      - run: oxfmt
+      - run: oxfmt src/data
       - run: ls src/data
 
       - name: Get current date

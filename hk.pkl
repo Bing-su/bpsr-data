@@ -1,29 +1,27 @@
-amends "package://github.com/jdx/hk/releases/download/v1.58.1/hk@1.58.1#/Config.pkl"
-import "package://github.com/jdx/hk/releases/download/v1.58.1/hk@1.58.1#/Builtins.pkl"
+amends "package://github.com/jdx/hk/releases/download/v2.3.0/hk@2.3.0#/Config.pkl"
+import "package://github.com/jdx/hk/releases/download/v2.3.0/hk@2.3.0#/Builtins.pkl"
+// Using a coding agent? See https://hk.jdx.dev/agents
 
-local linters = new Mapping<String, Step> {
+local linters = new Mapping {
     ["trailing-whitespace"] = Builtins.trailing_whitespace
     ["mixed-line-ending"] = Builtins.mixed_line_ending
     ["newlines"] = Builtins.newlines
 
-    ["oxfmt"] = Builtins.oxfmt
-    ["ox-lint"] = Builtins.ox_lint
+    ["oxfmt"] = (Builtins.oxfmt) {
+        prefix = List("pnpm", "run")
+        output_summary = "hide"
+        batch = true
+        batch_min_files = 1000
+    }
+    ["oxlint"] = (Builtins.ox_lint) {
+        prefix = List("pnpm", "run")
+        output_summary = "hide"
+        batch = true
+        batch_min_files = 1000
+    }
     ["tombi-format"] = (Builtins.tombi_format) {
         exclude = List("*.lock")
     }
 }
 
-hooks {
-    ["pre-commit"] {
-        fix = true
-        stash = "git"
-        steps = linters
-    }
-    ["fix"] {
-        fix = true
-        steps = linters
-    }
-    ["check"] {
-        steps = linters
-    }
-}
+steps = linters
