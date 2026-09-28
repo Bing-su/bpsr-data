@@ -114,7 +114,7 @@
 </script>
 
 <main class="grid min-h-screen lg:h-screen lg:grid-cols-[22rem_minmax(0,1fr)]">
-  <aside class="flex min-h-0 flex-col gap-4 border-base-300 border-r bg-base-100 p-5">
+  <aside class="flex min-h-0 min-w-0 flex-col gap-4 border-base-300 border-r bg-base-100 p-5">
     <header class="flex items-start gap-2">
       <div class="mr-auto">
         <h1 class="text-2xl font-bold">BPSR Data</h1>
@@ -122,7 +122,7 @@
           {files.length.toLocaleString("en-US")} JSON files
         </p>
       </div>
-      <label class="swap swap-rotate btn btn-circle btn-sm btn-ghost">
+      <label class="swap swap-rotate btn btn-circle btn-sm btn-ghost min-h-11 min-w-11">
         <input
           type="checkbox"
           class="theme-controller"
@@ -139,7 +139,7 @@
     <label class="form-control">
       <span class="label-text mb-1">Language</span>
       <select
-        class="select w-full"
+        class="select min-h-11 w-full"
         aria-label="Language"
         bind:value={selectedLanguage}
         onchange={changeLanguage}
@@ -156,7 +156,7 @@
         Search tables
       </span>
       <input
-        class="input w-full"
+        class="input min-h-11 w-full"
         type="search"
         placeholder="ItemTable"
         autocomplete="off"
@@ -175,7 +175,7 @@
       {#each visibleFiles as option}
         <button
           type="button"
-          class="block w-full px-4 py-2 text-left text-sm hover:bg-base-200"
+          class="block min-h-11 w-full px-4 py-2 text-left text-sm hover:bg-base-200"
           class:bg-base-200={selectedTable === option.table}
           aria-pressed={selectedTable === option.table}
           onclick={() => {
@@ -199,17 +199,17 @@
           </span>
         </h2>
         {#if dataUrl}
-          <a class="link-hover mt-1 block break-all font-mono text-xs opacity-70" href={dataUrl}>
+          <a class="link-hover mt-1 flex min-h-11 items-center break-all font-mono text-xs opacity-70" href={dataUrl}>
             {dataUrl}
           </a>
         {/if}
       </div>
       {#if dataUrl}
-        <a class="btn btn-sm" href={dataUrl}>
+        <a class="btn btn-sm min-h-11" href={dataUrl}>
           <ExternalLink class="h-4 w-4" aria-hidden="true" />
           View raw
         </a>
-        <a class="btn btn-sm btn-primary" href={dataUrl} download={`${selectedTable}.json`}>
+        <a class="btn btn-sm btn-primary min-h-11" href={dataUrl} download={`${selectedTable}.json`}>
           <Download class="h-4 w-4" aria-hidden="true" />
           Download
         </a>
