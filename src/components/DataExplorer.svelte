@@ -1,5 +1,13 @@
 <script lang="ts">
-  import { Download, ExternalLink, FileBracesCorner, Moon, Search, Sun } from "@lucide/svelte";
+  import {
+    Download,
+    ExternalLink,
+    FileBracesCorner,
+    Moon,
+    Search,
+    Sun,
+    TextWrap,
+  } from "@lucide/svelte";
   import { onMount, tick } from "svelte";
 
   type DataFile = { language: string; table: string; size: number };
@@ -27,11 +35,14 @@
   let jsonContent = "";
   let loadStatus = "Loading…";
   let theme: Theme = "light";
+  let wrapJson = false;
   let controller: AbortController | undefined;
 
   $: visibleFiles = filesForLanguage(selectedLanguage).filter(({ table }) =>
     table.toLowerCase().includes(searchTerm.trim().toLowerCase()),
   );
+  $: selectedTableHidden =
+    searchTerm.trim() !== "" && !visibleFiles.some(({ table }) => table === selectedTable);
   $: dataUrl = selectedTable
     ? `${base}data/${encodeURIComponent(selectedLanguage)}/ZTable/${encodeURIComponent(selectedTable)}.json`
     : "";
@@ -167,6 +178,11 @@
     <p class="text-sm opacity-70" aria-live="polite">
       {visibleFiles.length.toLocaleString("en-US")} tables
     </p>
+    {#if selectedTableHidden}
+      <p class="text-sm" role="status">
+        Viewing {selectedTable}, hidden by search.
+      </p>
+    {/if}
     <div
       class="h-64 w-full overflow-auto border border-base-300 lg:h-auto lg:flex-1"
       role="group"
@@ -175,15 +191,19 @@
       {#each visibleFiles as option}
         <button
           type="button"
-          class="block min-h-11 w-full px-4 py-2 text-left text-sm hover:bg-base-200"
+          class="flex min-h-11 w-full items-start gap-3 px-4 py-2 text-left text-sm hover:bg-base-200 focus-visible:outline-2 focus-visible:outline-base-content focus-visible:outline-offset-[-2px]"
           class:bg-base-200={selectedTable === option.table}
+          class:font-semibold={selectedTable === option.table}
           aria-pressed={selectedTable === option.table}
           onclick={() => {
             selectedTable = option.table;
             void loadSelectedTable();
           }}
         >
-          {option.table} — {fileSizeFormatter.format(option.size)}
+          <span class="min-w-0 flex-1 break-all">{option.table}</span>
+          <span class="shrink-0 tabular-nums opacity-70"
+            >{fileSizeFormatter.format(option.size)}</span
+          >
         </button>
       {/each}
     </div>
@@ -199,7 +219,10 @@
           </span>
         </h2>
         {#if dataUrl}
-          <a class="link-hover mt-1 flex min-h-11 items-center break-all font-mono text-xs opacity-70" href={dataUrl}>
+          <a
+            class="link-hover mt-1 flex min-h-11 items-center break-all font-mono text-xs opacity-70"
+            href={dataUrl}
+          >
             {dataUrl}
           </a>
         {/if}
@@ -209,17 +232,36 @@
           <ExternalLink class="h-4 w-4" aria-hidden="true" />
           View raw
         </a>
-        <a class="btn btn-sm btn-primary min-h-11" href={dataUrl} download={`${selectedTable}.json`}>
+        <a
+          class="btn btn-sm btn-primary min-h-11"
+          href={dataUrl}
+          download={`${selectedTable}.json`}
+        >
           <Download class="h-4 w-4" aria-hidden="true" />
           Download
         </a>
       {/if}
     </header>
-    <p class="min-h-5 text-sm opacity-70" aria-live="polite">
-      {visibleFiles.length ? loadStatus : "No matching tables."}
-    </p>
+    <div class="flex min-h-11 items-center justify-end gap-2">
+      <p class="mr-auto text-sm opacity-70" aria-live="polite">
+        {loadStatus}
+      </p>
+      {#if dataUrl}
+        <button
+          type="button"
+          class="btn btn-ghost btn-sm min-h-11"
+          class:btn-active={wrapJson}
+          aria-pressed={wrapJson}
+          onclick={() => (wrapJson = !wrapJson)}
+        >
+          <TextWrap class="h-4 w-4" aria-hidden="true" />
+          {wrapJson ? "Unwrap lines" : "Wrap lines"}
+        </button>
+      {/if}
+    </div>
     <pre
-      class="min-h-80 flex-1 overflow-auto rounded-box bg-neutral p-4 text-sm text-neutral-content"
+      class="min-h-80 flex-1 overflow-auto rounded-box bg-neutral p-4 text-sm leading-6 text-neutral-content"
+      data-wrap={wrapJson}
       role="region"
       aria-label="JSON content"><code>{jsonContent}</code></pre>
   </section>
