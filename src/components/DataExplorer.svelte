@@ -6,6 +6,7 @@
     Moon,
     Search,
     Sun,
+    TextAlignStart,
     TextWrap,
   } from "@lucide/svelte";
   import { onMount, untrack } from "svelte";
@@ -247,14 +248,20 @@
           <Download class="h-4 w-4" aria-hidden="true" />
           Download
         </a>
+        <!-- Keep adjacent actions stationary when the label changes, e.g. Wrap to Unwrap. -->
         <button
           type="button"
-          class="btn btn-ghost btn-sm min-h-11"
+          class="btn btn-ghost btn-sm min-h-11 w-36 shrink-0"
           class:btn-active={wrapJson}
           aria-pressed={wrapJson}
           onclick={() => (wrapJson = !wrapJson)}
         >
-          <TextWrap class="h-4 w-4" aria-hidden="true" />
+          <!-- Match the icon to the next action: straight lines for Unwrap. -->
+          {#if wrapJson}
+            <TextAlignStart class="h-4 w-4" aria-hidden="true" />
+          {:else}
+            <TextWrap class="h-4 w-4" aria-hidden="true" />
+          {/if}
           {wrapJson ? "Unwrap lines" : "Wrap lines"}
         </button>
       {/if}
