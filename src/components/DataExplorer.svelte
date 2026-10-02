@@ -8,17 +8,16 @@
     Sun,
     TextWrap,
   } from "@lucide/svelte";
-  import { onMount, tick } from "svelte";
+  import { onMount, untrack } from "svelte";
 
   type DataFile = { language: string; table: string; size: number };
 
-  export let files: DataFile[] = [];
-  export let base = "";
+  let { files = [], base = "" }: { files?: DataFile[]; base?: string } = $props();
 
   const themes = { light: "cupcake", dark: "dracula" } as const;
   type Theme = keyof typeof themes;
 
-  const languages = [...new Set(files.map(({ language }) => language))];
+  const languages = $derived([...new Set(files.map(({ language }) => language))]);
   const filesForLanguage = (language: string) => files.filter((file) => file.language === language);
   const getFirstTable = (files: DataFile[]): string => files[0]?.table ?? "";
   const fileSizeFormatter = new Intl.NumberFormat("en-US", {
@@ -29,28 +28,34 @@
     maximumFractionDigits: 1,
   });
 
-  let selectedLanguage = languages.includes("english") ? "english" : (languages[0] ?? "");
-  let searchTerm = "";
-  let selectedTable = getFirstTable(filesForLanguage(selectedLanguage));
-  let jsonContent = "";
-  let loadStatus = "Loading…";
-  let theme: Theme = "light";
-  let wrapJson = false;
+  // Seed selection once so later interaction (e.g. choosing Korean) keeps the user's choice.
+  let selectedLanguage = $state(
+    untrack(() => (languages.includes("english") ? "english" : (languages[0] ?? ""))),
+  );
+  let searchTerm = $state("");
+  let selectedTable = $state(untrack(() => getFirstTable(filesForLanguage(selectedLanguage))));
+  let jsonContent = $state("");
+  let loadStatus = $state("Loading…");
+  let theme = $state<Theme>("light");
+  let wrapJson = $state(false);
   let controller: AbortController | undefined;
 
-  $: visibleFiles = filesForLanguage(selectedLanguage).filter(({ table }) =>
-    table.toLowerCase().includes(searchTerm.trim().toLowerCase()),
+  const visibleFiles = $derived(
+    filesForLanguage(selectedLanguage).filter(({ table }) =>
+      table.toLowerCase().includes(searchTerm.trim().toLowerCase()),
+    ),
   );
-  $: selectedTableHidden =
-    searchTerm.trim() !== "" && !visibleFiles.some(({ table }) => table === selectedTable);
-  $: dataUrl = selectedTable
-    ? `${base}data/${encodeURIComponent(selectedLanguage)}/ZTable/${encodeURIComponent(selectedTable)}.json`
-    : "";
+  const selectedTableHidden = $derived(
+    searchTerm.trim() !== "" && !visibleFiles.some(({ table }) => table === selectedTable),
+  );
+  const dataUrl = $derived(
+    selectedTable
+      ? `${base}data/${encodeURIComponent(selectedLanguage)}/ZTable/${encodeURIComponent(selectedTable)}.json`
+      : "",
+  );
 
   async function loadSelectedTable() {
     if (!selectedTable) return;
-    await tick();
-
     controller?.abort();
     controller = new AbortController();
     loadStatus = "Loading…";
@@ -121,6 +126,7 @@
     restoreTheme();
     restoreSelection();
     void loadSelectedTable();
+    return () => controller?.abort();
   });
 </script>
 
