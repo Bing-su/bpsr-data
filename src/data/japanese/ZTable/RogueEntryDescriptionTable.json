@@ -1632,7 +1632,7 @@
     "Id": 500801
   },
   "500901": {
-    "Content": "対象を撃破すると、<style=\"emph-gn\">マスタリースキル</style>の残りリキャスト-<style=\"accent-gn\">10%</style>",
+    "Content": "ターゲットを撃破すると、<style=\"emph-gn\">マスタリースキル</style>の残りリキャスト-<style=\"accent-gn\">10%</style>",
     "Id": 500901
   },
   "501001": {
@@ -1640,11 +1640,11 @@
     "Id": 501001
   },
   "501101": {
-    "Content": "対象を<style=\"emph-gn\">撃破</style>すると、<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+10%</style>（上限<style=\"accent-gn\">30%</style>）、持続<style=\"accent-gn\">5秒</style>",
+    "Content": "ターゲットを<style=\"emph-gn\">撃破</style>すると、<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+10%</style>（上限<style=\"accent-gn\">30%</style>）、持続<style=\"accent-gn\">5秒</style>",
     "Id": 501101
   },
   "501201": {
-    "Content": "HP<style=\"accent-gn\">80%</style>以上の対象に対する<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+60%</style>",
+    "Content": "HP<style=\"accent-gn\">80%</style>以上のターゲットに対する<style=\"emph-gn\">会心ダメージ</style><style=\"accent-gn\">+60%</style>",
     "Id": 501201
   },
   "501301": {
@@ -1672,7 +1672,7 @@
     "Id": 501801
   },
   "501901": {
-    "Content": "<style=\"emph-gn\">攻撃力</style><style=\"accent-gn\">+25%</style>。自身に<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">1%</style>分のダメージを毎秒与える",
+    "Content": "<style=\"emph-gn\">攻撃力</style><style=\"accent-gn\">+25%</style>。かつ、自身に<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">1%</style>分のダメージを毎秒与える",
     "Id": 501901
   },
   "502001": {
@@ -1696,11 +1696,11 @@
     "Id": 502401
   },
   "502501": {
-    "Content": "<style=\"emph-gn\">最大HP</style><style=\"accent-gn\">+100%</style>。自身に<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">1%</style>分のダメージを毎秒与える",
+    "Content": "<style=\"emph-gn\">最大HP</style><style=\"accent-gn\">+100%</style>。かつ、自身に<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">1%</style>分のダメージを毎秒与える",
     "Id": 502501
   },
   "502601": {
-    "Content": "クラススキルでダメージを与えたとき、エネミーの<style=\"emph-gn\">現在のHP</style>の<style=\"accent-gn\">0.2%</style>分のダメージを追加で与える",
+    "Content": "クラススキルでダメージを与えたとき、敵の<style=\"emph-gn\">現在のHP</style>の<style=\"accent-gn\">0.2%</style>分のダメージを追加で与える",
     "Id": 502601
   },
   "502701": {
@@ -1732,7 +1732,7 @@
     "Id": 503301
   },
   "503401": {
-    "Content": "<style=\"accent-gn\">5秒</style>ごとに10m以内のエネミーを<style=\"emph-gn\">スタン</style>させる。持続<style=\"accent-gn\">1秒</style>",
+    "Content": "<style=\"accent-gn\">5秒</style>ごとに10m以内の敵を<style=\"emph-gn\">スタン</style>させる。持続<style=\"accent-gn\">1秒</style>",
     "Id": 503401
   },
   "503501": {
@@ -1820,7 +1820,7 @@
     "Id": 505501
   },
   "505601": {
-    "Content": "会心が<style=\"accent-gn\">3回</style>発生するごとに、次の会心の<style=\"emph-gn\">会心ダメージ</style>+<style=\"accent-gn\">50%</style>、カウントをリセットする",
+    "Content": "会心が<style=\"accent-gn\">3回</style>発生するごとに、次の会心の<style=\"emph-gn\">会心ダメージ</style>+<style=\"accent-gn\">50%</style>、さらにカウントをリセットする",
     "Id": 505601
   },
   "505701": {
@@ -1852,7 +1852,7 @@
     "Id": 506301
   },
   "506401": {
-    "Content": "ダメージを与えると、メイン対象に対して幸運の一撃が<style=\"accent-gn\">50回</style>発生するたびに、その後<style=\"accent-gn\">15秒</style>間、全スキルの<style=\"emph-gn\">リキャスト加速</style><style=\"accent-gn\">+100%</style>（期間中はカウントしない）",
+    "Content": "ダメージを与えると、メインターゲットに対して幸運の一撃が<style=\"accent-gn\">50回</style>発生するたびに、その後<style=\"accent-gn\">15秒</style>間、全スキルの<style=\"emph-gn\">リキャスト加速</style><style=\"accent-gn\">+100%</style>（期間中はカウントしない）",
     "Id": 506401
   },
   "506501": {
@@ -1952,7 +1952,7 @@
     "Id": 508801
   },
   "508901": {
-    "Content": "自身にバトルイマジンのバフ効果が1つ存在するごとに、自身の<style=\"emph-gn\">ダメージ</style>+<style=\"accent-gn\">4%</style>、<style=\"emph-gn\">受けるダメージ</style>-<style=\"accent-gn\">2%</style>",
+    "Content": "自身にバトルイマジンのバフ効果が1つ存在するごとに、自身の<style=\"emph-gn\">ダメージ</style>+<style=\"accent-gn\">4%</style>、<style=\"emph-gn\">被ダメージ</style>-<style=\"accent-gn\">2%</style>",
     "Id": 508901
   },
   "509001": {
@@ -1992,11 +1992,11 @@
     "Id": 509801
   },
   "509901": {
-    "Content": "周囲15m以内にいる味方1人につき、自身の<style=\"emph-gn\">ダメージ</style>+<style=\"accent-gn\">8%</style>、<style=\"emph-gn\">受けるダメージ</style>-<style=\"accent-gn\">4%</style>",
+    "Content": "周囲15m以内にいる味方1人につき、自身の<style=\"emph-gn\">ダメージ</style>+<style=\"accent-gn\">8%</style>、<style=\"emph-gn\">被ダメージ</style>-<style=\"accent-gn\">4%</style>",
     "Id": 509901
   },
   "510001": {
-    "Content": "回復を行ったとき、対象に<style=\"accent-gn\">10%</style>の<style=\"emph-gn\">物理ダメージ強化</style>と<style=\"emph-gn\">魔法ダメージ強化</style>を付与する、持続<style=\"accent-gn\">3秒</style>",
+    "Content": "回復を行ったとき、ターゲットに<style=\"accent-gn\">10%</style>の<style=\"emph-gn\">物理ダメージ強化</style>と<style=\"emph-gn\">魔法ダメージ強化</style>を付与する、持続<style=\"accent-gn\">3秒</style>",
     "Id": 510001
   },
   "510101": {
@@ -2004,7 +2004,7 @@
     "Id": 510101
   },
   "510201": {
-    "Content": "回復を行ったとき、対象に<style=\"accent-gn\">10%</style>の<style=\"emph-gn\">ダメージ軽減</style>を付与する。持続<style=\"accent-gn\">3秒</style>",
+    "Content": "回復を行ったとき、ターゲットに<style=\"accent-gn\">10%</style>の<style=\"emph-gn\">ダメージ軽減</style>を付与する。持続<style=\"accent-gn\">3秒</style>",
     "Id": 510201
   },
   "510301": {
@@ -2012,7 +2012,7 @@
     "Id": 510301
   },
   "510401": {
-    "Content": "回復を行ったとき、追加で<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">20%</style>の<style=\"emph-gn\">バリア</style>を付与、持続<style=\"accent-gn\">10秒</style>。各対象がこのバリアを獲得できるのは<style=\"accent-gn\">10秒</style>間に1回まで",
+    "Content": "回復を行ったとき、追加で<style=\"emph-gn\">最大HP</style>の<style=\"accent-gn\">20%</style>の<style=\"emph-gn\">バリア</style>を付与、持続<style=\"accent-gn\">10秒</style>。各ターゲットがこのバリアを獲得できるのは<style=\"accent-gn\">10秒</style>間に1回まで",
     "Id": 510401
   },
   "510501": {
@@ -2044,7 +2044,7 @@
     "Id": 511101
   },
   "511201": {
-    "Content": "毎秒周囲のランダムな対象1体にダメージを与える。ダメージ量はその期間内に自分のクラススキルが与えた<style=\"emph-gn\">回復量</style>に等しい",
+    "Content": "毎秒周囲のランダムなターゲット1体にダメージを与える。ダメージ量はその期間内に自分のクラススキルが与えた<style=\"emph-gn\">回復量</style>に等しい",
     "Id": 511201
   },
   "511301": {

@@ -64,7 +64,7 @@
     "TargetType": 3
   },
   "1002": {
-    "Description": "필드에 순찰하는 로봇이 존재한다. 적의 접근이 감지되면 적을 향해 돌격하여 자폭한다.",
+    "Description": " 필드에 순찰하는 로봇이 존재한다. 적의 접근이 감지되면 적을 향해 돌격하여 자폭한다.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -80,7 +80,7 @@
     "TargetType": 3
   },
   "1003": {
-    "Description": "감시자는 지속적으로 필드를 스캔하며, 발각되면 치명적인 공격을 받는다.",
+    "Description": " 감시자는 지속적으로 필드를 스캔하며, 발각되면 치명적인 공격을 받는다.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -416,7 +416,7 @@
     "TargetType": 3
   },
   "119": {
-    "Description": "파티 내에 수호, 지원, 공격 포지션 클래스를 동시에 보유하고 있다면, 파티 전체가 주는 대미지가 25% 증가합니다.",
+    "Description": " 파티 내에 수호, 지원, 공격 포지션 클래스를 동시에 보유하고 있다면, 파티 전체가 주는 대미지가 25% 증가합니다.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 1,
@@ -1728,7 +1728,7 @@
     "TargetType": 3
   },
   "2112": {
-    "Description": "플레이어의 체력이 가득 차지 않을 경우, 받는 대미지가 <style=\"accent-gn\">30% 증가</style>하지만,<br>체력이 가득 찼을 경우에는 받는 대미지가 <style=\"accent-gn\">30% 감소</style>합니다.",
+    "Description": "플레이어 체력이 가득 차지 않을 때, 받는 대미지가 <style=\"accent-gn\">30% 증가</style>합니다.<br>플레이어 체력이 가득 찼을 때, 받는 대미지가 <style=\"accent-gn\">30% 감소</style>합니다.",
     "Effect": [[1, 1, 997815, 0]],
     "EffectTime": [[2.0, 0.0]],
     "EffectType": 3,
@@ -1744,7 +1744,7 @@
     "TargetType": 3
   },
   "2113": {
-    "Description": "플레이어의 공격력이 <style=\"accent-gn\">20% 감소</style>하고, 방어력도 <style=\"accent-gn\">20% 감소</style>하지만,<br>몬스터 공격력이 <style=\"accent-gn\">30% 감소</style>합니다.",
+    "Description": "플레이어 공격력이 <style=\"accent-gn\">20% 감소</style>하고, 방어력이 <style=\"accent-gn\">20% 감소</style>합니다.<br>몬스터 공격력이 <style=\"accent-gn\">30% 감소</style>합니다.",
     "Effect": [
       [1, 4, 997812, 0],
       [1, 1, 997811, 0]
@@ -1798,7 +1798,7 @@
     "TargetType": 3
   },
   "2116": {
-    "Description": "플레이어의 현재 체력은 최대 체력의 <style=\"accent-gn\">50%</style>를 초과할 수 없지만,<br>몬스터 최대 체력이 <style=\"accent-gn\">30% 감소</style>합니다.",
+    "Description": "플레이어의 현재 체력은 최대 체력의 <style=\"accent-gn\">50%</style>를 초과할 수 없습니다.<br>몬스터 최대 체력이 <style=\"accent-gn\">30% 감소</style>합니다.",
     "Effect": [
       [1, 4, 997814, 0],
       [1, 1, 997813, 0]
@@ -1836,7 +1836,7 @@
     "TargetType": 3
   },
   "2118": {
-    "Description": "모든 유닛의 받는 대미지가 저장되어 <style=\"accent-gn\">5초</style>마다 1회씩 결산되지만,<br>몬스터의 받는 대미지가 <style=\"accent-gn\">15%</style> 증가합니다.",
+    "Description": "모든 유닛이 받는 대미지가 캐시되어, <style=\"accent-gn\">5초</style>마다 1회 결산됩니다. <br>몬스터가 받는 대미지는 <style=\"accent-gn\">15%</style> 증가합니다.",
     "Effect": [
       [1, 4, 997823, 0],
       [1, 4, 997817, 0],
@@ -1876,7 +1876,7 @@
     "TargetType": 3
   },
   "2120": {
-    "Description": "몬스터 [보호] 획득: 대미지 감면이 <style=\"accent-gn\">50% 증가</style>하고, 대미지를 받을 때마다 효과가 <style=\"accent-gn\">0.5% 감소</style>하지만,<br>플레이어의 받는 대미지는 <style=\"accent-gn\">30% 감소</style>합니다.",
+    "Description": "몬스터 [보호] 획득: 대미지 감면이 <style=\"accent-gn\">50% 증가</style>하고, 대미지를 받을 때마다 효과가 <style=\"accent-gn\">0.5% 감소</style>합니다.<br>플레이어가 받는 대미지는 <style=\"accent-gn\">30% 감소</style>합니다.",
     "Effect": [
       [1, 4, 997818, 0],
       [1, 1, 997819, 0]
@@ -3709,7 +3709,7 @@
     "TargetType": 2
   },
   "78": {
-    "Description": "캐릭터가 치료를 시전하면, 목표에게 3초 동안 치명타율, 치명타 대미지, 공격 속도 25% 증가 효과를 부여한다.",
+    "Description": "캐릭터가 치료를 시전하면, 목표에게 3초 동안 치명타 확률, 치명타 대미지, 공격 속도 25% 증가 효과를 부여한다.",
     "Effect": [[1, 1, 866442, 0]],
     "EffectTime": [[2.0, 0.0]],
     "EffectType": 1,

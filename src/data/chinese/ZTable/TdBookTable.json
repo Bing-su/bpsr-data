@@ -1,322 +1,776 @@
 {
   "1": {
-    "Desc": "稀有度：不朽<br>流派：【人形】<br>最大等级：5级<br>攻击类型：物理<br>被动效果：无<br>普通攻击：挥舞3次镰刀造成范围伤害。<br>核心技能：挥舞镰刀触发2次圆环，造成高额范围伤害。<br>冷却时间：15秒<br>调谐幻想3级：圆环+3。<br>调谐幻想5级：圆环范围+100%。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_5\">不朽</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style>",
     "Id": 1,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 1,
     "Sort": 1,
-    "Type": 1
+    "Type": 1,
+    "UIColor": 5
   },
   "10": {
-    "Desc": "稀有度：卓越<br>流派：【燃烧】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：在场时，处于燃烧状态的怪物受到燃烧类塔的伤害提高【1%*燃烧层数】。<br>普通攻击：践踏造成小范围伤害。<br>核心技能：获得雷盾，每隔2秒对随机目标释放雷击<br>冷却时间：15秒<br>调谐幻想3级：攻击目标若处于燃烧，则消耗其燃烧触发1次雷火湮灭，造成高额范围伤害。<br>调谐幻想5级：雷火湮灭不再消耗目标燃烧。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
-    "Sort": 10,
-    "Type": 1
+    "Sort": 1005,
+    "Type": 1,
+    "UIColor": 3
   },
   "1001": {
-    "Desc": "类型：首领<br>特性：范围内的调谐幻想大幅减少攻速，但会提升攻击力。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：范围内的调谐幻想大幅减少攻速，但会提升攻击力。",
     "Id": 1001,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003000,
     "Sort": 1,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1002": {
-    "Desc": "类型：首领<br>特性：受到的正面伤害降低，受到的背面伤害增加。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：受到的正面伤害降低，受到的背面伤害增加。",
     "Id": 1002,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003001,
     "Sort": 2,
-    "Type": 2
-  },
-  "1003": {
-    "Desc": "类型：首领<br>特性：幻妖蟹蛛会随机让部分调谐幻想失去技能。",
-    "Id": 1003,
-    "IsHide": 0,
-    "ObjectId": 5003002,
-    "Sort": 3,
-    "Type": 2
-  },
-  "1004": {
-    "Desc": "类型：首领<br>特性：每次放置幻想都会被掠食蟹蛛吃掉一些调谐碎晶。",
-    "Id": 1004,
-    "IsHide": 0,
-    "ObjectId": 5003003,
-    "Sort": 4,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1005": {
-    "Desc": "类型：首领<br>特性：每次唤起它的摇篮曲，便会沉睡全场调谐幻想。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：每次唤起它的摇篮曲，便会沉睡全场调谐幻想。",
     "Id": 1005,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003004,
     "Sort": 5,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1006": {
-    "Desc": "类型：首领<br>特性：生命值大幅度提升，但自身受到伤害增加，全场调谐幻想的总等级越高，受伤越高。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：生命值大幅度提升，但自身受到伤害增加，全场调谐幻想的总等级越高，受伤越高。",
     "Id": 1006,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003005,
     "Sort": 6,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1007": {
-    "Desc": "类型：精英<br>特性：范围内所有怪物无敌，除了它自己。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
-    "ObjectId": 5002000,
+    "ObjectId": 5003006,
     "Sort": 7,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1008": {
-    "Desc": "类型：精英<br>特性：冻结第一个攻击它的调谐幻想，谁想做第一个。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
-    "ObjectId": 5002001,
+    "ObjectId": 5003003,
     "Sort": 8,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1009": {
-    "Desc": "类型：精英<br>特性：持续治疗周围的怪物。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
-    "ObjectId": 5002002,
+    "ObjectId": 5003002,
     "Sort": 9,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
+  },
+  "101": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_5\">不朽</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
+    "Id": 101,
+    "IsHide": 0,
+    "ObjectId": 96,
+    "Sort": 2,
+    "Type": 1,
+    "UIColor": 5
   },
   "1010": {
-    "Desc": "类型：精英<br>特性：被击杀后复活。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
-    "ObjectId": 5002003,
+    "ObjectId": 5003007,
     "Sort": 10,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1011": {
-    "Desc": "类型：精英<br>特性：拥有超高移速，但是，也很耐揍。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
-    "ObjectId": 5002004,
+    "ObjectId": 5003008,
     "Sort": 11,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1012": {
-    "Desc": "类型：精英<br>特性：移动无视地形，但本人非常慵懒，经常休息。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
-    "ObjectId": 5002005,
+    "ObjectId": 5003009,
     "Sort": 12,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1013": {
-    "Desc": "类型：普通<br>特性：最常见的海底生物。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
-    "ObjectId": 5001000,
+    "ObjectId": 5003010,
     "Sort": 13,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1014": {
-    "Desc": "类型：普通<br>特性：拥有着超高移速，好消息是并不耐揍。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
-    "ObjectId": 5001001,
+    "ObjectId": 5003012,
     "Sort": 14,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1015": {
-    "Desc": "类型：普通<br>特性：携带厚厚的护盾，一般在波次最开始出现。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
-    "ObjectId": 5001002,
+    "ObjectId": 5003011,
     "Sort": 15,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1016": {
-    "Desc": "类型：普通<br>特性：它们会保护在场的其他怪物减少受伤，不先击败的话会有很大麻烦。",
+    "Desc": "类型：<style=\"tipsYellow\">首领</style><br>特性：{*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
-    "ObjectId": 5001003,
+    "ObjectId": 5003013,
     "Sort": 16,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
-  "1017": {
-    "Desc": "类型：普通<br>特性：硬壳会抵挡大量受到的物理伤害，但相应的，很害怕魔法。",
-    "Id": 1017,
+  "102": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_4\">史诗</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
+    "Id": 102,
     "IsHide": 0,
-    "ObjectId": 5001004,
-    "Sort": 17,
-    "Type": 2
+    "ObjectId": 101,
+    "Sort": 505,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1018": {
-    "Desc": "类型：普通<br>特性：魔法的克星，但是你只要使用物理伤害对付它们便效果拔群。",
-    "Id": 1018,
+  "103": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_4\">史诗</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
+    "Id": 103,
     "IsHide": 0,
-    "ObjectId": 5001005,
-    "Sort": 18,
-    "Type": 2
+    "ObjectId": 106,
+    "Sort": 506,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1019": {
-    "Desc": "类型：普通<br>特性：会钻入地面，这段时间它们是无敌的，在稍远处来个守株待兔吧。",
-    "Id": 1019,
+  "104": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_4\">史诗</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
+    "Id": 104,
     "IsHide": 0,
-    "ObjectId": 5001006,
-    "Sort": 19,
-    "Type": 2
+    "ObjectId": 111,
+    "Sort": 507,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1020": {
-    "Desc": "类型：普通<br>特性：移动无视地形，怎么会有这么讨厌的家伙。",
-    "Id": 1020,
+  "105": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_4\">史诗</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
+    "Id": 105,
     "IsHide": 0,
-    "ObjectId": 5001007,
-    "Sort": 20,
-    "Type": 2
+    "ObjectId": 116,
+    "Sort": 508,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1021": {
-    "Desc": "",
-    "Id": 1021,
-    "IsHide": 1,
-    "ObjectId": 5001007,
-    "Sort": 21,
-    "Type": 2
+  "106": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
+    "Id": 106,
+    "IsHide": 0,
+    "ObjectId": 121,
+    "Sort": 1010,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "107": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
+    "Id": 107,
+    "IsHide": 0,
+    "ObjectId": 126,
+    "Sort": 1011,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "108": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
+    "Id": 108,
+    "IsHide": 0,
+    "ObjectId": 131,
+    "Sort": 1012,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "109": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
+    "Id": 109,
+    "IsHide": 0,
+    "ObjectId": 136,
+    "Sort": 1013,
+    "Type": 1,
+    "UIColor": 3
   },
   "11": {
-    "Desc": "稀有度：卓越<br>流派：【资源】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：销毁自身时，额外返还100点调谐碎晶。<br>普通攻击：对前方吐出冰雾气造成伤害。<br>核心技能：随机对3名目标释放冰刺<br>冷却时间：15秒<br>调谐幻想3级：冰刺处会形成碎晶簇，拾取后随机获得1-20点调谐碎晶，最多存在10秒。<br>调谐幻想5级：冰刺数量+2。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style>",
     "Id": 11,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 51,
-    "Sort": 11,
-    "Type": 1
+    "Sort": 1006,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "110": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
+    "Id": 110,
+    "IsHide": 0,
+    "ObjectId": 141,
+    "Sort": 1014,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "111": {
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_2\">精良</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
+    "Id": 111,
+    "IsHide": 0,
+    "ObjectId": 146,
+    "Sort": 2006,
+    "Type": 1,
+    "UIColor": 1
   },
   "12": {
-    "Desc": "稀有度：卓越<br>流派：【辅助】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：在场时，所有友方造成的伤害+5%，最多叠生效20%。<br>普通攻击：召唤1只随机姆克助战，并提升其攻速。<br>核心技能：治疗范围内友方，并提升友方20%攻击力，持续10秒<br>冷却时间：15秒<br>调谐幻想3级：额外召唤1只弩箭姆克。<br>调谐幻想5级：额外召唤一只姆克头目。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
-    "Sort": 12,
-    "Type": 1
+    "Sort": 1007,
+    "Type": 1,
+    "UIColor": 3
   },
   "13": {
-    "Desc": "稀有度：卓越<br>流派：【辅助】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：在场时，所有敌方受到的伤害+5%，最多叠生效20%。<br>普通攻击：对前方进行一次下劈造成直线范围伤害。<br>核心技能：横扫前方造成2次高额大范围伤害<br>冷却时间：15秒<br>调谐幻想3级：普通攻击额外释放2道裂地波，攻击距离+50%。<br>调谐幻想5级：伤害+20%。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
-    "Sort": 13,
-    "Type": 1
+    "Sort": 1008,
+    "Type": 1,
+    "UIColor": 3
   },
   "14": {
-    "Desc": "稀有度：卓越<br>流派：【蓄力】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：魔法<br>被动效果：范围内每有1个目标，自身攻击力+10%，最高+100%。<br>普通攻击：挥砍前方造成扇形大范围伤害。<br>核心技能：随机对2名目标释放龙卷风，存在5秒<br>冷却时间：15秒<br>调谐幻想3级：场上每有1座蓄力调谐幻想，龙卷风数量+1，上限+3。<br>调谐幻想5级：每个龙卷风出现时，都会提升蓄力调谐幻想下1次技能造成的伤害，最高累积100%。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style>",
     "Id": 14,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 66,
-    "Sort": 14,
-    "Type": 1
+    "Sort": 1009,
+    "Type": 1,
+    "UIColor": 3
   },
   "15": {
-    "Desc": "稀有度：精良<br>流派：【资源】【燃烧】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：在场时，冒险者每10秒获得100点调谐碎晶，最多生效5个。<br>普通攻击：无<br>核心技能：旋转造成小范围伤害并附加燃烧<br>冷却时间：15秒<br>调谐幻想3级：燃烧目标死亡时获得15点调谐碎晶。<br>调谐幻想5级：燃烧目标死亡时获得30点调谐碎晶。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_2\">精良</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style>",
     "Id": 15,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 71,
-    "Sort": 15,
-    "Type": 1
+    "Sort": 2001,
+    "Type": 1,
+    "UIColor": 1
   },
   "16": {
-    "Desc": "稀有度：精良<br>流派：无<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：造成伤害时对目标附加25%减速，不可叠加。<br>普通攻击：无<br>核心技能：召唤雷球，持续攻击范围内的目标<br>冷却时间：15秒<br>调谐幻想3级：核心技能伤害提升。<br>调谐幻想5级：核心技能伤害提升。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_2\">精良</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
-    "Sort": 16,
-    "Type": 1
+    "Sort": 2002,
+    "Type": 1,
+    "UIColor": 1
   },
   "17": {
-    "Desc": "稀有度：精良<br>流派：【蓄力】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：在场时，每个姆克头目给蓄力调谐幻想暴击率+10%，最多生效100%。<br>普通攻击：无<br>核心技能：连续砸地3次，造成大范围伤害<br>冷却时间：6秒<br>调谐幻想3级：核心技能伤害提升。<br>调谐幻想5级：核心技能伤害提升。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_2\">精良</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style>",
     "Id": 17,
-    "IsHide": 0,
-    "ObjectId": 84,
-    "Sort": 17,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 81,
+    "Sort": 2003,
+    "Type": 1,
+    "UIColor": 1
   },
   "18": {
-    "Desc": "稀有度：精良<br>流派：无<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：魔法<br>被动效果：攻击时有30%概率附加冰冻。<br>普通攻击：对周围造成1次范围伤害并附加10%减速。<br>核心技能：释放水漩涡，持续造成范围伤害并附加20%减速<br>冷却时间：15秒<br>调谐幻想3级：核心技能伤害提升。<br>调谐幻想5级：核心技能伤害提升。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_2\">精良</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
-    "ObjectId": 89,
-    "Sort": 18,
-    "Type": 1
+    "ObjectId": 86,
+    "Sort": 2004,
+    "Type": 1,
+    "UIColor": 1
   },
   "19": {
-    "Desc": "稀有度：精良<br>流派：无<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：魔法<br>被动效果：对腐蚀目标造成额外伤害，每有1层腐蚀，伤害+10%。<br>普通攻击：无<br>核心技能：随机对3名目标释放毒泉，持续造成范围伤害并附加腐蚀<br>冷却时间：15秒<br>调谐幻想3级：核心技能伤害提升。<br>调谐幻想5级：核心技能伤害提升。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_2\">精良</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
-    "ObjectId": 94,
-    "Sort": 19,
-    "Type": 1
+    "ObjectId": 91,
+    "Sort": 2005,
+    "Type": 1,
+    "UIColor": 1
   },
   "2": {
-    "Desc": "稀有度：史诗<br>流派：【人形】【资源】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：魔法<br>被动效果：自身攻击力+【1%*全场调谐幻想的总等级】；自身在商店的售价降低50%。<br>普通攻击：持续释放陨石攻击范围内的单个目标。<br>核心技能：呼唤灵鹿向前奔袭，场上每有1座人形调谐幻想，额外触发1次。<br>冷却时间：15秒<br>调谐幻想3级：攻击时获得10点调谐碎晶，冷却时间3秒。<br>调谐幻想5级：攻击时获得15点调谐碎晶，冷却时间1秒。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_4\">史诗</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style>",
     "Id": 2,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 6,
-    "Sort": 2,
-    "Type": 1
+    "Sort": 501,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "2001": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：范围内所有怪物无敌，除了它自己。",
+    "Id": 2001,
+    "IsHide": 1,
+    "ObjectId": 5002000,
+    "Sort": 501,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2002": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：冻结第一个攻击它的调谐幻想，谁想做第一个。",
+    "Id": 2002,
+    "IsHide": 1,
+    "ObjectId": 5002001,
+    "Sort": 502,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2003": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：持续治疗周围的怪物。",
+    "Id": 2003,
+    "IsHide": 1,
+    "ObjectId": 5002002,
+    "Sort": 503,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2004": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：移动无视地形，但本人非常慵懒，经常休息。",
+    "Id": 2004,
+    "IsHide": 1,
+    "ObjectId": 5002005,
+    "Sort": 506,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2005": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7001*}",
+    "Id": 2005,
+    "IsHide": 0,
+    "ObjectId": 5002006,
+    "Sort": 507,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2006": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7002*}",
+    "Id": 2006,
+    "IsHide": 0,
+    "ObjectId": 5002007,
+    "Sort": 508,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2007": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7007*}",
+    "Id": 2007,
+    "IsHide": 0,
+    "ObjectId": 5002008,
+    "Sort": 509,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2008": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7003*}",
+    "Id": 2008,
+    "IsHide": 0,
+    "ObjectId": 5002009,
+    "Sort": 510,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2009": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7009*}",
+    "Id": 2009,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 511,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2010": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7010*}",
+    "Id": 2010,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 512,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2011": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7004*}",
+    "Id": 2011,
+    "IsHide": 0,
+    "ObjectId": 5002010,
+    "Sort": 513,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2012": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7005*}",
+    "Id": 2012,
+    "IsHide": 0,
+    "ObjectId": 5002011,
+    "Sort": 514,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2013": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7006*}",
+    "Id": 2013,
+    "IsHide": 0,
+    "ObjectId": 5002012,
+    "Sort": 515,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2014": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7008*}",
+    "Id": 2014,
+    "IsHide": 0,
+    "ObjectId": 5002013,
+    "Sort": 516,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2015": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7011*}",
+    "Id": 2015,
+    "IsHide": 0,
+    "ObjectId": 5002014,
+    "Sort": 517,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2016": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7012*}",
+    "Id": 2016,
+    "IsHide": 0,
+    "ObjectId": 5002015,
+    "Sort": 518,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2017": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7013*}",
+    "Id": 2017,
+    "IsHide": 0,
+    "ObjectId": 5002016,
+    "Sort": 519,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2018": {
+    "Desc": "类型：<style=\"tipsYellow\">精英</style><br>特性：{*messagevalue.7014*}",
+    "Id": 2018,
+    "IsHide": 0,
+    "ObjectId": 5002017,
+    "Sort": 520,
+    "Type": 2,
+    "UIColor": 3
   },
   "3": {
-    "Desc": "稀有度：史诗<br>流派：【人形】【燃烧】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：魔法<br>被动效果：范围内有燃烧造成的伤害时，额外对其触发1次火焰伤害。<br>普通攻击：旋转造成范围伤害并附加燃烧。<br>核心技能：向前斩出斧光造成大量伤害，目标每有1层燃烧，此次伤害+20%。<br>冷却时间：15秒<br>调谐幻想3级：每附加10次燃烧，下一次攻击对目标释放炼狱火车。<br>调谐幻想5级：附加燃烧次数需求减少至6，炼狱火车伤害+100%。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_4\">史诗</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
-    "Sort": 3,
-    "Type": 1
+    "Sort": 502,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "3001": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：最常见的海底生物。",
+    "Id": 3001,
+    "IsHide": 1,
+    "ObjectId": 5001000,
+    "Sort": 1001,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3002": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：拥有着超高移速，好消息是并不耐揍。",
+    "Id": 3002,
+    "IsHide": 1,
+    "ObjectId": 5001001,
+    "Sort": 1002,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3003": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：携带厚厚的护盾，一般在波次最开始出现。",
+    "Id": 3003,
+    "IsHide": 1,
+    "ObjectId": 5001002,
+    "Sort": 1003,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3004": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：它们会保护在场的其他怪物减少受伤，不先击败的话会有很大麻烦。",
+    "Id": 3004,
+    "IsHide": 1,
+    "ObjectId": 5001003,
+    "Sort": 1004,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3005": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：移动无视地形，怎么会有这么讨厌的家伙。",
+    "Id": 3005,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 1008,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3006": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6001*}",
+    "Id": 3006,
+    "IsHide": 0,
+    "ObjectId": 5001008,
+    "Sort": 1009,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3007": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6002*}",
+    "Id": 3007,
+    "IsHide": 0,
+    "ObjectId": 5001009,
+    "Sort": 1010,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3008": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6003*}",
+    "Id": 3008,
+    "IsHide": 0,
+    "ObjectId": 5001010,
+    "Sort": 1011,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3009": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6004*}",
+    "Id": 3009,
+    "IsHide": 0,
+    "ObjectId": 5001011,
+    "Sort": 1012,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3010": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6005*}",
+    "Id": 3010,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 1013,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3011": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6006*}",
+    "Id": 3011,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 1014,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3012": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6007*}",
+    "Id": 3012,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 1015,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3013": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6008*}",
+    "Id": 3013,
+    "IsHide": 0,
+    "ObjectId": 5001012,
+    "Sort": 1016,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3014": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6009*}",
+    "Id": 3014,
+    "IsHide": 0,
+    "ObjectId": 5001013,
+    "Sort": 1017,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3015": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6010*}",
+    "Id": 3015,
+    "IsHide": 0,
+    "ObjectId": 5001018,
+    "Sort": 1018,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3016": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6011*}",
+    "Id": 3016,
+    "IsHide": 0,
+    "ObjectId": 5001019,
+    "Sort": 1019,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3017": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6012*}",
+    "Id": 3017,
+    "IsHide": 0,
+    "ObjectId": 5001020,
+    "Sort": 1020,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3018": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6013*}",
+    "Id": 3018,
+    "IsHide": 0,
+    "ObjectId": 5001021,
+    "Sort": 1021,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3019": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6014*}",
+    "Id": 3019,
+    "IsHide": 0,
+    "ObjectId": 5001014,
+    "Sort": 1022,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3020": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6015*}",
+    "Id": 3020,
+    "IsHide": 0,
+    "ObjectId": 5001015,
+    "Sort": 1023,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3021": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6016*}",
+    "Id": 3021,
+    "IsHide": 0,
+    "ObjectId": 5001016,
+    "Sort": 1024,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3022": {
+    "Desc": "类型：<style=\"tipsYellow\">普通</style><br>特性：{*messagevalue.6017*}",
+    "Id": 3022,
+    "IsHide": 0,
+    "ObjectId": 5001017,
+    "Sort": 1025,
+    "Type": 2,
+    "UIColor": 1
   },
   "4": {
-    "Desc": "稀有度：史诗<br>流派：【人形】【蓄力】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：蓄力上限提升至20层。<br>普通攻击：常态下不攻击，进入蓄力，每3秒获得1层，上限20层。当冒险者进入范围内会触发技能。<br>核心技能：劈出无数刀光造成范围伤害，并消耗所有蓄力层数提升【40%*蓄力层数】的伤害。<br>冷却时间：无<br>调谐幻想3级：每10秒锁定最近的1个目标发射刀光。<br>调谐幻想5级：刀光锁定目标+2。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_4\">史诗</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style>",
     "Id": 4,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 16,
-    "Sort": 4,
-    "Type": 1
+    "Sort": 503,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "4001": {
+    "Desc": "类型：<style=\"tipsYellow\">中立</style><br>特性：{*messagevalue.9001*}",
+    "Id": 4001,
+    "IsHide": 0,
+    "ObjectId": 5003014,
+    "Sort": 2001,
+    "Type": 2,
+    "UIColor": 5
+  },
+  "4002": {
+    "Desc": "类型：<style=\"tipsYellow\">奖励</style><br>特性：{*messagevalue.9002*}",
+    "Id": 4002,
+    "IsHide": 0,
+    "ObjectId": 5002500,
+    "Sort": 2002,
+    "Type": 2,
+    "UIColor": 5
   },
   "5": {
-    "Desc": "稀有度：史诗<br>流派：【人形】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：在场时，冒险者技能冷却加速+50%，不可叠加。<br>普通攻击：向前方刺击并旋转长枪造成范围伤害。<br>核心技能：距离自身最近的5个调谐幻想获得100%的冷却时间加速，持续5秒。<br>冷却时间：15秒<br>调谐幻想3级：冒险者移动速度+25%，伤害增效+25%。<br>调谐幻想5级：冒险者移动速度+50%，伤害增效+50%。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_4\">史诗</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style>",
     "Id": 5,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 21,
-    "Sort": 5,
-    "Type": 1
+    "Sort": 504,
+    "Type": 1,
+    "UIColor": 4
   },
   "6": {
-    "Desc": "稀有度：卓越<br>流派：【蓄力】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：每10秒随机对3名目标释放地波，添加重伤。<br>普通攻击：常态下不攻击，进入蓄力，每3秒获得1层，上限10层。当冒险者进入范围内会触发技能。<br>核心技能：释放大范围地狱突刺造成高额伤害，并消耗所有蓄力层数提升【30%*蓄力层数】的伤害<br>冷却时间：无<br>调谐幻想3级：被动造成的伤害附加易伤10%，持续5秒。<br>调谐幻想5级：易伤额外+10%。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style>",
     "Id": 6,
-    "IsHide": 0,
-    "ObjectId": 26,
-    "Sort": 6,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 3,
+    "Sort": 1001,
+    "Type": 1,
+    "UIColor": 3
   },
   "7": {
-    "Desc": "稀有度：卓越<br>流派：无<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：对定身的目标造成伤害+100%。<br>普通攻击：优先对没有定身的目标吐出蛛丝，造成伤害，并有40%的几率定身目标5秒。<br>核心技能：遁地后钻出，造成大范围伤害，必定眩晕目标1秒<br>冷却时间：15秒<br>调谐幻想3级：定身几率提升至100%。<br>调谐幻想5级：眩晕时间增加至2.5秒。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">辅助</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
-    "Sort": 7,
-    "Type": 1
+    "Sort": 1002,
+    "Type": 1,
+    "UIColor": 3
   },
   "8": {
-    "Desc": "稀有度：卓越<br>流派：【资源】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：物理<br>被动效果：冒险者每有100点调谐碎晶都会为圣域飞鱼提供1%的增伤，最高100%。<br>普通攻击：释放水球掉落造成范围伤害并附加减速。<br>核心技能：召唤一只幻影飞鱼朝前冲锋<br>冷却时间：15秒<br>调谐幻想3级：飞鱼+1，调谐碎晶获得率+5%。<br>调谐幻想5级：飞鱼+2，调谐碎晶获得率+10%。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
-    "Sort": 8,
-    "Type": 1
+    "Sort": 1003,
+    "Type": 1,
+    "UIColor": 3
   },
   "9": {
-    "Desc": "稀有度：卓越<br>流派：【燃烧】<br>最大等级：3级；若拥有对应战斗幻想，调谐幻想最大等级由3级提升至5级。<br>攻击类型：魔法<br>被动效果：自身生命值越高攻击力越高，最高+200%，但会持续失去生命值。<br>普通攻击：无<br>核心技能：向前方持续喷火，造成伤害并附加燃烧<br>冷却时间：8秒<br>调谐幻想3级：攻击时回复5%生命值。<br>调谐幻想5级：溢出的治疗量转化为护盾。",
+    "Desc": "<style=\"accent-gn\">稀有度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">定位</style>：<style=\"tipsYellow\">输出</style>",
     "Id": 9,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 41,
-    "Sort": 9,
-    "Type": 1
+    "Sort": 1004,
+    "Type": 1,
+    "UIColor": 3
   }
 }

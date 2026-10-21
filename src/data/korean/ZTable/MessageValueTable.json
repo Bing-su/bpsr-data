@@ -5,473 +5,1613 @@
     "ValueExchange": []
   },
   "10": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 공격 시 조율 결정 파편 {*val2*}pt 추가 획득",
+    "Desc": "Lv.5: 공격 시 조율 결정 파편 {*val1*}pt 추가 획득 (배틀 이매진・아이로나 보유 필요)",
     "Id": 10,
-    "ValueExchange": [15.0, 5.0]
+    "ValueExchange": ["5"]
+  },
+  "100": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 필드에 있을 때, 모든 아군의 물리 공격력과 마법 공격력 +{*val1*}% (중첩 불가).",
+    "Id": 100,
+    "ValueExchange": ["12"]
+  },
+  "100001": {
+    "Desc": "「떠도는 밤의 숲・얼음」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100001,
+    "ValueExchange": ["10", "30"]
+  },
+  "100002": {
+    "Desc": "「떠도는 밤의 숲・얼음」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100002,
+    "ValueExchange": ["5", "30"]
+  },
+  "100003": {
+    "Desc": "「떠도는 밤의 숲・불」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100003,
+    "ValueExchange": ["10", "30"]
+  },
+  "100004": {
+    "Desc": "「떠도는 밤의 숲・불」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100004,
+    "ValueExchange": ["5", "30"]
+  },
+  "100005": {
+    "Desc": "도전! 「보이스의 박하사탕」을 사용하며 「떠도는 밤의 숲・얼음」 또는 「떠도는 밤의 숲・불」 {*val1*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100005,
+    "ValueExchange": ["30"]
+  },
+  "100006": {
+    "Desc": "도전! 「떠도는 밤의 숲・얼음」 또는 「떠도는 밤의 숲・불」에서 한 게임 동안 필드 내에 동시에 존재하는 조율 이매진의 수량이 {*val1*}개를 넘지 않은 상태에서 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100006,
+    "ValueExchange": ["7", "30"]
+  },
+  "100007": {
+    "Desc": "도전! 「떠도는 밤의 숲・얼음」 또는 「떠도는 밤의 숲・불」에서 엔그램 라인에 몬스터가 진입하지 않은 상태로 {*val1*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100007,
+    "ValueExchange": ["30"]
+  },
+  "100008": {
+    "Desc": "「떠도는 밤의 숲・빛」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100008,
+    "ValueExchange": ["10", "30"]
+  },
+  "100009": {
+    "Desc": "「떠도는 밤의 숲・빛」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100009,
+    "ValueExchange": ["5", "30"]
+  },
+  "100010": {
+    "Desc": "「떠도는 밤의 숲・어둠」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100010,
+    "ValueExchange": ["10", "30"]
+  },
+  "100011": {
+    "Desc": "「떠도는 밤의 숲・어둠」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100011,
+    "ValueExchange": ["5", "30"]
+  },
+  "100012": {
+    "Desc": "도전! 「티나의 두 가지 맛 쿠키」를 사용하며 「떠도는 밤의 숲・빛」 또는 「떠도는 밤의 숲・어둠」 {*val1*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100012,
+    "ValueExchange": ["30"]
+  },
+  "100013": {
+    "Desc": "도전! 「떠도는 밤의 숲・빛」 또는 「떠도는 밤의 숲・어둠」에서 한 게임 동안 필드 내에 동시에 존재하는 조율 이매진의 수량이 {*val1*}개를 넘지 않은 상태에서 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100013,
+    "ValueExchange": ["7", "30"]
+  },
+  "100014": {
+    "Desc": "도전! 「떠도는 밤의 숲・빛」 또는 「떠도는 밤의 숲・어둠」에서 「조율 이매진・장난꾸러기 나뽀」를 {*val1*}레벨까지 승급시키기",
+    "Id": 100014,
+    "ValueExchange": ["3"]
+  },
+  "100015": {
+    "Desc": "「떠도는 밤의 숲・무한」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100015,
+    "ValueExchange": ["10", "30"]
+  },
+  "100016": {
+    "Desc": "「떠도는 밤의 숲・무한」에서 한 게임 동안 엔그램 라인에 진입한 몬스터가 총 {*val1*}마리 이하인 상태로 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100016,
+    "ValueExchange": ["5", "30"]
+  },
+  "100017": {
+    "Desc": "도전! 「타비사의 맛있는 콩 스튜」를 사용하며 「떠도는 밤의 숲・무한」 {*val1*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100017,
+    "ValueExchange": ["30"]
+  },
+  "100018": {
+    "Desc": "도전! 「떠도는 밤의 숲・무한」에서 한 게임 동안 필드 내에 동시에 존재하는 조율 이매진의 수량이 {*val1*}개를 넘지 않은 상태에서 {*val2*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100018,
+    "ValueExchange": ["7", "30"]
+  },
+  "100019": {
+    "Desc": "도전! 「떠도는 밤의 숲・무한」에서 엔그램 라인에 몬스터가 진입하지 않은 상태로 {*val1*}번째 웨이브까지 클리어 (도전 웨이브 제외)",
+    "Id": 100019,
+    "ValueExchange": ["30"]
+  },
+  "100020": {
+    "Desc": "도전! 「떠도는 밤의 숲・무한」에서 「조율 이매진・장난꾸러기 나뽀」를 {*val1*}레벨까지 승급시키기",
+    "Id": 100020,
+    "ValueExchange": ["5"]
+  },
+  "100021": {
+    "Desc": "도전! 「떠도는 밤의 숲・무한」에서 필드 내에 동시에 존재하는 떠도는 영혼 수량 {*val1*}개 달성",
+    "Id": 100021,
+    "ValueExchange": ["10"]
+  },
+  "101": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 필드에 있을 때, 모든 아군의 공격 속도와 시전 속도 +{*val1*}% (중첩 불가).",
+    "Id": 101,
+    "ValueExchange": ["16"]
+  },
+  "102": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[빛][극한][디버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 공격 시 <linktext=2002>한기</linktext> {*val1*}스택과 <linktext=2004>중상</linktext> {*val2*}스택을 부여합니다.",
+    "Id": 102,
+    "ValueExchange": ["1", "1"]
+  },
+  "103": {
+    "Desc": "<style=\"magic\">[마법]</style><style=\"tipsYellow\">[얼음][극한][디버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 공격 시 {*val1*}% 확률로 <linktext=2003>빙결</linktext> {*val2*}스택을 부여합니다. 대상이 <linktext=2010>빙결 면역</linktext> 상태일 경우, 대상의 <linktext=2010>빙결 면역</linktext> 시간이 {*val3*}초 감소합니다.",
+    "Id": 103,
+    "ValueExchange": ["20", "1", "10"]
+  },
+  "104": {
+    "Desc": "<style=\"magic\">[마법]</style><style=\"tipsYellow\">[어둠][디버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 공격 시 <linktext=2005>부식</linktext> {*val1*}스택을 부여합니다.",
+    "Id": 104,
+    "ValueExchange": ["1"]
+  },
+  "105": {
+    "Desc": "<style=\"magic\">[마법]</style><style=\"tipsYellow\">[어둠][백귀]</style><br><br><style=\"tipsYellow\">패시브</style>: 몬스터 처치 시 <linktext=2009>떠도는 영혼</linktext>을 생성합니다. <linktext=2009>떠도는 영혼</linktext>의 공격 범위를 장난꾸러기 나뽀의 공격 범위로 간주합니다.",
+    "Id": 105,
+    "ValueExchange": []
+  },
+  "106": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[어둠][백귀]</style><br><br><style=\"tipsYellow\">패시브</style>: 몬스터 처치 시 <linktext=2009>떠도는 영혼</linktext>을 생성합니다. <linktext=2009>떠도는 영혼</linktext>이 사라지면 로로라의 치명타 대미지가 영구적으로 {*val1*}% 증가합니다 (최대 +{*val2*}%).",
+    "Id": 106,
+    "ValueExchange": ["0.5", "40"]
+  },
+  "107": {
+    "Desc": "<style=\"magic\">[마법]</style><style=\"tipsYellow\">[얼음][극한]</style><br><br><style=\"tipsYellow\">패시브</style>: 주는 대미지가 [{*val1*}% × 대상의 <linktext=2002>한기</linktext> 스택 수 + {*val2*}% × 대상의 <linktext=2003>빙결</linktext> 스택 수]만큼 증가합니다.",
+    "Id": 107,
+    "ValueExchange": ["3", "50"]
+  },
+  "108": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[빛][실드]</style><br><br><style=\"tipsYellow\">패시브</style>: 필드에 있을 때, 모든 아군의 실드 강도 +{*val1*}% (중첩 불가). 자신이 공격할 때 대상의 실드를 파괴합니다.",
+    "Id": 108,
+    "ValueExchange": ["100"]
+  },
+  "109": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[번개][자원]</style><br><br><style=\"tipsYellow\">패시브</style>: 도로시의 탄환 1발마다 조율 결정 파편 {*val1*}pt를 획득하며, 조율 결정 파편 수량의 {*val2*}배에 해당하는 추가 대미지를 줍니다.",
+    "Id": 109,
+    "ValueExchange": ["10", "30"]
   },
   "11": {
-    "Desc": "<style=\"tipsYellow\">일반 공격</style>: 제자리에서 회전하며 대상에게 연소를 부여합니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 공격력<br><br><style=\"tipsYellow\">하늘을 불태우는 도끼</style>: 전방으로 참격을 날립니다. 대상이 보유 중인 연소 1스택당 해당 대미지가 +<style=\"accent-gn\">{*val3*}</style> 증가합니다.<br>공격 범위: <style=\"accent-gn\">{*val4*}</style><br>대미지 배율: <style=\"accent-gn\">{*val5*}%</style> 공격력<br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 지속적으로 회전하며 <style=\"accent-gn\">반경 {*val2*}m</style> 내의 대상에게 <style=\"accent-gn\">초당 {*val3*}%</style>의 대미지를 주고 <linktext=2001>연소</linktext> 1스택을 부여합니다. 대상이 사라지면 회전을 멈춥니다.<br><br><style=\"tipsYellow\">하늘을 불태우는 도끼</style>: 전방 <style=\"accent-gn\">직선 {*val4*}m</style> 범위에 참격을 날려 <style=\"accent-gn\">{*val5*}%</style>의 대미지를 줍니다. 대상이 보유 중인 <linktext=2001>연소</linktext> 1스택당 해당 대미지가 <style=\"accent-gn\">+{*val6*}%</style> 증가합니다.<br>쿨타임: <style=\"accent-gn\">{*val7*}초</style><br>",
     "Id": 11,
-    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+    "ValueExchange": ["320", "4", "67", "15", "358", "15", "15"]
+  },
+  "110": {
+    "Desc": "<style=\"magic\">[마법]</style><style=\"tipsYellow\">[불][연소]</style><br><br><style=\"tipsYellow\">패시브</style>: 피해를 입지 않은 몬스터 공격 시 대미지가 {*val1*}% 증가하며, <linktext=2001>연소</linktext> {*val2*}스택을 부여합니다.",
+    "Id": 110,
+    "ValueExchange": ["20", "4"]
+  },
+  "111": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[바위][자원][버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 조율 결정 파편 {*val1*}pt당 필드 내 모든 자원 계열 조율 이매진의 스킬 쿨타임 가속 +{*val2*}% (최대 {*val3*}%).",
+    "Id": 111,
+    "ValueExchange": ["100", "1", "30"]
+  },
+  "112": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[어둠][백귀][버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 몬스터 처치 시 <linktext=2009>떠도는 영혼</linktext>을 생성합니다. <linktext=2009>떠도는 영혼</linktext>이 나타나면 필드 내 모든 백귀 계열 조율 이매진의 스킬 쿨타임이 {*val1*}초 감소합니다. 해당 효과는 {*val2*}초마다 1회 발동합니다.",
+    "Id": 112,
+    "ValueExchange": ["3", "6"]
+  },
+  "113": {
+    "Desc": "<style=\"magic\">[마법]</style><style=\"tipsYellow\">[불][연소][버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 자신이 몬스터에게 부여하는 <linktext=2001>연소</linktext> 스택 수가 {*val1*}배로 증가합니다. 필드에 있을 때, <linktext=2001>연소</linktext> 최대 스택 +{*val2*} (중첩 불가).",
+    "Id": 113,
+    "ValueExchange": ["2", "2"]
+  },
+  "114": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 필드에 있을 때, 모든 아군의 치명타 확률 +{*val1*}% (중첩 불가).",
+    "Id": 114,
+    "ValueExchange": ["24"]
+  },
+  "115": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[자원]</style><br><br><style=\"tipsYellow\">패시브</style>: 각 웨이브 시작 시 조율 결정 파편 {*val1*}pt 획득 (중첩 가능).",
+    "Id": 115,
+    "ValueExchange": ["100"]
+  },
+  "116": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 연속으로 사탕을 뿌려 <style=\"accent-gn\">반경 {*val2*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val3*}%</style>의 대미지를 주고 <linktext=2011>사탕</linktext> 1스택을 부여합니다.<br><br><style=\"tipsYellow\">트릭 오어 트릿</style>: 필드 내 모든 <linktext=2011>사탕</linktext>을 회수하고, <linktext=2011>사탕</linktext>을 회수한 몬스터에게 <style=\"accent-gn\">{*val4*}% + <linktext=2011>사탕</linktext> 스택 수 × {*val5*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
+    "Id": 116,
+    "ValueExchange": ["1200", "6", "186", "391", "40", "20"]
+  },
+  "117": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 117,
+    "ValueExchange": ["30"]
+  },
+  "118": {
+    "Desc": "Lv.3: <linktext=2011>사탕</linktext>을 보유한 몬스터 사망 시 <linktext=2011>사탕</linktext>이 다른 몬스터에게 이전됩니다",
+    "Id": 118,
+    "ValueExchange": []
+  },
+  "119": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 119,
+    "ValueExchange": ["20"]
   },
   "12": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 12,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
+  },
+  "120": {
+    "Desc": "Lv.5: <linktext=2011>사탕</linktext> 1스택을 회수할 때마다 자신의 공격력 +{*val1*}% (최대 +{*val2*}%), {*val3*}초 지속",
+    "Id": 120,
+    "ValueExchange": ["10", "100", "10"]
+  },
+  "121": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 전방 <style=\"accent-gn\">부채꼴 {*val2*}m</style> 범위에 검기를 <style=\"accent-gn\">{*val3*}개</style> 날려 각 검기마다 <style=\"accent-gn\">{*val4*}%</style>의 대미지를 줍니다.<br><br><style=\"tipsYellow\">의식</style>: 모든 <linktext=2009>떠도는 영혼</linktext>을 제물로 바쳐 4방향으로 거대한 검기를 1개씩 날립니다. 각 검기는 <style=\"accent-gn\">직선 {*val5*}m</style> 범위에 <style=\"accent-gn\">{*val6*}% + 제물로 바친 <linktext=2009>떠도는 영혼</linktext> 수량 × {*val7*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val8*}초</style><br>",
+    "Id": 121,
+    "ValueExchange": ["320", "5", "3", "98", "23", "268", "60", "20"]
+  },
+  "122": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 122,
+    "ValueExchange": ["30"]
+  },
+  "123": {
+    "Desc": "Lv.3: 일반 공격 범위 +{*val1*}%, 의식으로 <linktext=2009>떠도는 영혼</linktext>을 제물로 바친 후 즉시 최대 수량만큼 <linktext=2009>떠도는 영혼</linktext> 생성",
+    "Id": 123,
+    "ValueExchange": ["50"]
+  },
+  "124": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 124,
+    "ValueExchange": ["20"]
+  },
+  "125": {
+    "Desc": "Lv.5: 의식의 검기 수량 +{*val1*} (배틀 이매진・로로라 보유 필요)",
+    "Id": 125,
+    "ValueExchange": ["4"]
+  },
+  "126": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: <style=\"accent-gn\">반경 {*val2*}m</style> 내의 무작위 대상 1명에게 얼음 운석 1개를 떨어뜨려 대상과 그 주변에 <style=\"accent-gn\">{*val3*}%</style>의 대미지를 주고 <linktext=2002>한기</linktext> <style=\"accent-gn\">{*val4*}스택</style>을 부여합니다.<br><br><style=\"tipsYellow\">극한 광선</style>: <style=\"accent-gn\">반경 {*val5*}m</style> 내의 대상 1명을 조준하여 <style=\"accent-gn\">{*val6*}초</style>간 프로스트 레이를 발사합니다. 광선에 닿는 모든 몬스터에게 <style=\"accent-gn\">매회 {*val7*}%</style>의 대미지를 주며, 메인 타겟에게 주는 대미지는 <style=\"accent-gn\">초당 {*val8*}% 증가</style>합니다. 보스 몬스터와 정예 몬스터를 우선 조준하며, 현재 대상이 사망하면 다른 대상으로 전환합니다.<br>쿨타임: <style=\"accent-gn\">{*val9*}초</style><br>",
+    "Id": 126,
+    "ValueExchange": ["320", "15", "54", "1", "10", "15", "50", "10", "35"]
+  },
+  "127": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 127,
+    "ValueExchange": ["30"]
+  },
+  "128": {
+    "Desc": "Lv.3: 극한 광선 너비 +{*val1*}%, 거리 +{*val2*}%",
+    "Id": 128,
+    "ValueExchange": ["50", "50"]
+  },
+  "129": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 129,
+    "ValueExchange": ["20"]
   },
   "13": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 연소를 {*val2*}회 부여할 때마다, 다음 공격 시 대상에게 연옥 기차 시전",
+    "Desc": "Lv.3: <linktext=2001>연소</linktext>를 {*val1*}회 부여할 때마다, 다음 공격 시 대상에게 연옥 기차 시전",
     "Id": 13,
-    "ValueExchange": [25.0, 10.0]
+    "ValueExchange": ["10"]
+  },
+  "130": {
+    "Desc": "Lv.5: 얼음 운석 수량 +{*val1*} (배틀 이매진・보이스 보유 필요)",
+    "Id": 130,
+    "ValueExchange": ["2"]
+  },
+  "131": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 성스러운 검을 시전하여 <style=\"accent-gn\">반경 {*val2*}m</style> 내의 대상 <style=\"accent-gn\">{*val3*}명</style>에게 <style=\"accent-gn\">{*val4*}%</style>의 대미지를 주고, 자신의 최대 체력의 <style=\"accent-gn\">{*val5*}%</style>에 해당하는 실드를 획득합니다.<br><br><style=\"tipsYellow\">열화의 숙청</style>: 대검을 휘둘러 <style=\"accent-gn\">반경 {*val6*}m</style> 내의 대상에게 연속으로 <style=\"accent-gn\">{*val7*}회에 걸쳐 매회 {*val8*}%</style>의 대미지를 주며, 자신의 실드 수치의 <style=\"accent-gn\">{*val9*}%</style>에 해당하는 추가 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val10*}초</style><br>",
+    "Id": 131,
+    "ValueExchange": ["320", "7", "2", "61", "1", "7", "3", "166", "100", "30"]
+  },
+  "132": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 132,
+    "ValueExchange": ["30"]
+  },
+  "133": {
+    "Desc": "Lv.3: 열화의 숙청 사용 후 필드 내 모든 아군에게 자신의 최대 체력의 {*val1*}%에 해당하는 실드 부여, {*val2*}초 지속",
+    "Id": 133,
+    "ValueExchange": ["30", "30"]
+  },
+  "134": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 134,
+    "ValueExchange": ["20"]
+  },
+  "135": {
+    "Desc": "Lv.5: 인접한 조율 이매진의 모든 원소 강도 +{*val1*}%, 중첩 불가 (배틀 이매진・파파라 보유 필요)",
+    "Id": 135,
+    "ValueExchange": ["32"]
+  },
+  "136": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: <style=\"accent-gn\">반경 {*val2*}m</style> 내의 대상 1명에게 탄환 <style=\"accent-gn\">{*val3*}발</style>을 발사하여 탄환마다 <style=\"accent-gn\">{*val4*}%</style>의 대미지를 줍니다.<br><br><style=\"tipsYellow\">하늘을 울리는 총성</style>: <style=\"accent-gn\">반경 {*val6*}m</style> 내의 대상을 자동으로 추적하는 탄환 <style=\"accent-gn\">{*val5*}발</style>을 발사하여 탄환마다 <style=\"accent-gn\">{*val7*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val8*}초</style><br>",
+    "Id": 136,
+    "ValueExchange": ["320", "15", "3", "56", "10", "15", "82", "15"]
+  },
+  "137": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 137,
+    "ValueExchange": ["30"]
+  },
+  "138": {
+    "Desc": "Lv.3: 탄환으로 획득하는 조율 결정 파편 수량이 {*val1*}pt로 증가",
+    "Id": 138,
+    "ValueExchange": ["15"]
+  },
+  "139": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 139,
+    "ValueExchange": ["20"]
   },
   "14": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・타타 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 14,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
+  },
+  "140": {
+    "Desc": "Lv.5: 하늘을 울리는 총성의 탄환 수량 +{*val1*}% (배틀 이매진・도로시 보유 필요)",
+    "Id": 140,
+    "ValueExchange": ["100"]
+  },
+  "141": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: <style=\"accent-gn\">반경 {*val2*}m</style> 내에서 체력이 가장 높은 <style=\"accent-gn\">대상 {*val3*}명</style>을 조준하여 불기둥을 시전하고 <style=\"accent-gn\">{*val4*}%</style>의 대미지를 줍니다.<br><br><style=\"tipsYellow\">거센 화염</style>: <style=\"accent-gn\">반경 {*val5*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val6*}%</style>의 대미지를 주고, 자신의 <style=\"accent-gn\">치명타 확률이 {*val7*}% 증가</style>합니다. <style=\"accent-gn\">{*val8*}초</style> 지속.<br>쿨타임: <style=\"accent-gn\">{*val9*}초</style><br>",
+    "Id": 141,
+    "ValueExchange": ["170", "10", "3", "37", "10", "230", "20", "5", "15"]
+  },
+  "142": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 142,
+    "ValueExchange": ["30"]
+  },
+  "143": {
+    "Desc": "Lv.3: 체력이 {*val1*}%를 초과하는 몬스터에게도 패시브 효과 적용",
+    "Id": 143,
+    "ValueExchange": ["50"]
+  },
+  "144": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 144,
+    "ValueExchange": ["20"]
+  },
+  "145": {
+    "Desc": "Lv.5: 거센 화염으로 증가하는 치명타 확률 {*val1*}% 추가 증가 (배틀 이매진・검은돌 군단 호위대장 보유 필요)",
+    "Id": 145,
+    "ValueExchange": ["30"]
+  },
+  "146": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: <style=\"accent-gn\">반경 {*val2*}m</style> 내의 <style=\"accent-gn\">무작위 대상 {*val3*}명</style>에게 바위 가시를 시전하여 <style=\"accent-gn\">{*val4*}%</style>의 대미지를 줍니다.<br><br><style=\"tipsYellow\">바위의 눈</style>: 전방 <style=\"accent-gn\">부채꼴 {*val5*}m</style> 범위에 연속으로 <style=\"accent-gn\">{*val6*}회</style> 브레스를 뿜어 매회 <style=\"accent-gn\">{*val7*}%</style>의 대미지를 주고, <style=\"accent-gn\">{*val8*}%</style> 확률로 대상을 <linktext=2006>석화</linktext>시킵니다.<br>쿨타임: <style=\"accent-gn\">{*val9*}초</style><br>",
+    "Id": 146,
+    "ValueExchange": ["170", "10", "3", "28", "10", "8", "65", "20", "30"]
+  },
+  "147": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 147,
+    "ValueExchange": ["30"]
+  },
+  "148": {
+    "Desc": "Lv.3: 대상의 <linktext=2006>석화</linktext>가 깨질 때 바위 가시 1회 발동",
+    "Id": 148,
+    "ValueExchange": []
+  },
+  "149": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 149,
+    "ValueExchange": ["20"]
   },
   "15": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 연소 부여 요구 횟수가 {*val2*}회로 감소, 연옥 기차 대미지 +{*val3*}%",
+    "Desc": "Lv.5: <linktext=2001>연소</linktext> 부여 요구 횟수가 {*val1*}회로 감소, 연옥 기차 대미지 +{*val2*}% (배틀 이매진・타타 보유 필요)",
     "Id": 15,
-    "ValueExchange": [15.0, 6.0, 100.0]
+    "ValueExchange": ["6", "100"]
+  },
+  "150": {
+    "Desc": "Lv.5: 바위의 눈으로 몬스터 처치 시 조율 결정 파편 {*val1*}pt 획득 (배틀 이매진・바실리스크 보유 필요)",
+    "Id": 150,
+    "ValueExchange": ["30"]
+  },
+  "151": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 전방 <style=\"accent-gn\">부채꼴 {*val2*}m</style> 내의 대상을 발톱으로 공격하여 <style=\"accent-gn\">{*val3*}회에 걸쳐 매회 {*val4*}%</style>의 대미지를 줍니다.<br><br><style=\"tipsYellow\">어둠의 수확</style>: 몸을 회전시켜 전방 <style=\"accent-gn\">부채꼴 {*val5*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val6*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val7*}초</style><br>",
+    "Id": 151,
+    "ValueExchange": ["170", "10", "2", "23", "20", "135", "15"]
+  },
+  "153": {
+    "Desc": "Lv.3: 어둠의 수확 시전 후 공격력 +{*val1*}%, {*val2*}초 지속",
+    "Id": 153,
+    "ValueExchange": ["30", "3"]
+  },
+  "154": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 154,
+    "ValueExchange": ["20"]
+  },
+  "156": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 화염의 열기를 내뿜어 <style=\"accent-gn\">반경 {*val2*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val3*}%</style>의 대미지를 주고 <linktext=2001>연소</linktext> <style=\"accent-gn\">{*val4*}스택</style>을 부여합니다.<br><br><style=\"tipsYellow\">분노의 운석</style>: 운석을 떨어뜨려 <style=\"accent-gn\">반경 {*val5*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val6*}%</style>의 대미지를 주고, 필드 내 모든 아군의 <style=\"accent-gn\">불 원소 강도가 {*val7*}% 증가</style>합니다. <style=\"accent-gn\">{*val8*}초</style> 지속.<br>쿨타임: <style=\"accent-gn\">{*val9*}초</style><br>",
+    "Id": 156,
+    "ValueExchange": ["170", "7", "76", "1", "12", "54", "30", "5", "15"]
+  },
+  "157": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 157,
+    "ValueExchange": ["30"]
+  },
+  "158": {
+    "Desc": "Lv.3: 패시브 효과의 최대 스택 추가 +{*val1*}",
+    "Id": 158,
+    "ValueExchange": ["4"]
+  },
+  "159": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 159,
+    "ValueExchange": ["20"]
   },
   "16": {
     "Desc": "<style=\"tipsYellow\">천광참</style>: 무수한 검기로 공격합니다. 시전 시 모든 차지 스택을 소모하여 [<style=\"accent-gn\">{*val1*}%</style> × 차지 스택 수]만큼 대미지가 증가합니다.<br>공격 범위: <style=\"accent-gn\">{*val2*}</style><br>대미지 배율: <style=\"accent-gn\">{*val3*}%</style> 공격력<br>",
     "Id": 16,
-    "ValueExchange": [40.0, 8.0, 688.0]
+    "ValueExchange": ["40", "8", "688"]
+  },
+  "160": {
+    "Desc": "Lv.5: 분노의 운석으로 불 원소 강도 {*val1*}% 추가 증가 (배틀 이매진・화염뿔 보유 필요)",
+    "Id": 160,
+    "ValueExchange": ["30"]
+  },
+  "162": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 162,
+    "ValueExchange": ["30"]
+  },
+  "163": {
+    "Desc": "Lv.3: 패시브로 부여되는 치명타 확률 추가 +{*val1*}%",
+    "Id": 163,
+    "ValueExchange": ["12"]
+  },
+  "164": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 164,
+    "ValueExchange": ["20"]
+  },
+  "165": {
+    "Desc": "Lv.5: 패시브로 부여되는 치명타 확률 추가 +{*val1*}% (배틀 이매진・고블린 족장 보유 필요)",
+    "Id": 165,
+    "ValueExchange": ["12"]
+  },
+  "166": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">약탈</style>: 망치로 지면을 내리쳐 <style=\"accent-gn\">반경 {*val2*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val3*}%</style>의 대미지를 주고, 공격한 대상 1명당 조율 결정 파편 <style=\"accent-gn\">{*val4*}pt</style>를 획득합니다.<br>쿨타임: <style=\"accent-gn\">{*val5*}초</style><br>",
+    "Id": 166,
+    "ValueExchange": ["100", "10", "240", "1", "6"]
+  },
+  "167": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 167,
+    "ValueExchange": ["30"]
+  },
+  "168": {
+    "Desc": "Lv.3: 공격력 +{*val1*}%",
+    "Id": 168,
+    "ValueExchange": ["25"]
+  },
+  "169": {
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
+    "Id": 169,
+    "ValueExchange": ["20"]
   },
   "17": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 17,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
+  },
+  "170": {
+    "Desc": "Lv.5: 공격력 +{*val1*}% (배틀 이매진・천재 양배추 대왕 보유 필요)",
+    "Id": 170,
+    "ValueExchange": ["15"]
+  },
+  "171": {
+    "Desc": "Lv.2: 공격력 +{*val1*}%",
+    "Id": 171,
+    "ValueExchange": ["30"]
+  },
+  "172": {
+    "Desc": "Lv.5: 어둠의 수확 스킬 쿨타임 -{*val1*}초 (배틀 이매진・루비 땅여우 보유 필요)",
+    "Id": 172,
+    "ValueExchange": ["6"]
+  },
+  "173": {
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 검기를 날려 <style=\"accent-gn\">부채꼴 {*val2*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val3*}%</style>의 대미지를 줍니다.<br><br><style=\"tipsYellow\">무쌍 찌르기</style>: 전방 <style=\"accent-gn\">직선 {*val4*}m</style> 범위로 찌르며 광선포를 발사하여 <style=\"accent-gn\">{*val5*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
+    "Id": 173,
+    "ValueExchange": ["170", "7", "33", "30", "54", "15"]
   },
   "18": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, {*val2*}초마다 가장 가까운 대상 {*val3*}명을 조준하여 검기 발사",
+    "Desc": "Lv.3: {*val1*}초마다 가장 가까운 대상 {*val1*}명을 조준하여 검기 발사",
     "Id": 18,
-    "ValueExchange": [25.0, 10.0, 1.0]
+    "ValueExchange": ["10", "1"]
   },
   "19": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・올베라 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 19,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "2": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 2,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "20": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 검기 조준 대상 +{*val2*}",
+    "Desc": "Lv.5: 검기 조준 대상 +{*val1*} (배틀 이매진・올베라 보유 필요)",
     "Id": 20,
-    "ValueExchange": [15.0, 2.0]
+    "ValueExchange": ["2"]
   },
   "21": {
     "Desc": "<style=\"tipsYellow\">일반 공격</style>: 깃발 창으로 전방을 찌른 뒤 회전시킵니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 공격력<br><br><style=\"tipsYellow\">시간의 명령</style>: 가장 가까운 조율 이매진 <style=\"accent-gn\">{*val3*}</style>개의 스킬 쿨타임 가속이 +<style=\"accent-gn\">{*val4*}%</style> 증가합니다. <style=\"accent-gn\">{*val5*}초</style> 지속.<br>영향 범위: 전체 필드<br>대미지 배율: 없음<br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
     "Id": 21,
-    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+    "ValueExchange": ["5", "229", "5", "100", "5", "15"]
   },
   "22": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 22,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "23": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 필드에 있을 시 모험가 이동속도 +{*val2*}, 대미지 버프 +{*val3*}",
+    "Desc": "Lv.3: 필드에 있을 시 모험가 이동 속도 +{*val1*}, 대미지 증폭 +{*val2*}",
     "Id": 23,
-    "ValueExchange": [25.0, 25.0, 25.0]
+    "ValueExchange": ["25", "25"]
   },
   "24": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・티나 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 24,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "25": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 필드에 있을 시 모험가 이동속도 추가 +{*val2*}, 대미지 버프 추가 +{*val3*}",
+    "Desc": "Lv.5: 필드에 있을 시 모험가 이동 속도 추가 +{*val1*}, 대미지 증폭 추가 +{*val2*} (배틀 이매진・티나 보유 필요)",
     "Id": 25,
-    "ValueExchange": [15.0, 25.0, 25.0]
+    "ValueExchange": ["25", "25"]
   },
   "26": {
     "Desc": "<style=\"tipsYellow\">지옥 암석 가시</style>: 바위 가시를 소환해 공격합니다. 시전 시 모든 차지 스택을 소모하여 [<style=\"accent-gn\">{*val1*}%</style> × 차지 스택 수]만큼 대미지가 증가합니다.<br>공격 범위: <style=\"accent-gn\">{*val2*}</style><br>대미지 배율: <style=\"accent-gn\">{*val3*}%</style> 공격력<br>쿨타임: 없음<br>",
     "Id": 26,
-    "ValueExchange": [30.0, 9.0, 418.0]
+    "ValueExchange": ["30", "9", "418"]
   },
   "27": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 27,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "28": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 패시브 대미지가 대상에게 {*val2*}%의 취약 부여",
+    "Desc": "Lv.3: 패시브 대미지가 대상에게 {*val1*}%의 취약 부여",
     "Id": 28,
-    "ValueExchange": [25.0, 10.0]
+    "ValueExchange": ["10"]
   },
   "29": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・무쇠 이빨 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 29,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "3": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 고리 수량 +{*val2*}",
+    "Desc": "Lv.3: 고리 수량 +{*val1*}",
     "Id": 3,
-    "ValueExchange": [25.0, 3.0]
+    "ValueExchange": ["3"]
   },
   "30": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 취약 효과 추가 +{*val2*}%",
+    "Desc": "Lv.5: 취약 효과 추가 +{*val1*}% (배틀 이매진・무쇠 이빨 보유 필요)",
     "Id": 30,
-    "ValueExchange": [15.0, 10.0]
+    "ValueExchange": ["10"]
+  },
+  "3001": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style><br>물리 공격력 +{*val1*}%<br>마법 공격력 +{*val2*}%",
+    "Id": 3001,
+    "ValueExchange": ["2", "2"]
+  },
+  "3002": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style><br>물리 증폭 +{*val1*}%<br>마법 증폭 +{*val2*}%",
+    "Id": 3002,
+    "ValueExchange": ["3.5", "3.5"]
+  },
+  "3003": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style><br>공격 속도 +{*val1*}%<br>시전 속도 +{*val2*}%",
+    "Id": 3003,
+    "ValueExchange": ["2", "2"]
+  },
+  "3004": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style><br>스킬 쿨타임 감소 +{*val1*}%",
+    "Id": 3004,
+    "ValueExchange": ["6"]
+  },
+  "3005": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style><br>치명타 확률 +{*val1*}%",
+    "Id": 3005,
+    "ValueExchange": ["2.5"]
+  },
+  "3006": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>치명타 시 대상의 물리 방어력을 {*val1*}% 무시합니다.",
+    "Id": 3006,
+    "ValueExchange": ["10"]
+  },
+  "3007": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style><br>치명타 대미지 +{*val1*}%",
+    "Id": 3007,
+    "ValueExchange": ["2.5"]
+  },
+  "3008": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>치명타 확률이 {*val1*}%를 초과하면, 초과된 치명타 확률 {*val2*}%당 치명타 대미지 {*val3*}%로 전환됩니다.",
+    "Id": 3008,
+    "ValueExchange": ["100", "1", "1"]
+  },
+  "3009": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style><br>모든 원소 강도 +{*val1*}%",
+    "Id": 3009,
+    "ValueExchange": ["3.5"]
+  },
+  "3010": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>대미지를 줄 때 {*val1*}% 확률로 연쇄 번개가 발동합니다. 쿨타임 {*val2*}초.",
+    "Id": 3010,
+    "ValueExchange": ["20", "5"]
+  },
+  "3011": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>공격 시 체력을 {*val1*}% 회복합니다.",
+    "Id": 3011,
+    "ValueExchange": ["1"]
+  },
+  "3012": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>실드 보유 시 공격 속도가 {*val1*}% 증가합니다.",
+    "Id": 3012,
+    "ValueExchange": ["15"]
+  },
+  "3013": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>매초 체력을 {*val1*}% 잃지만, 체력이 {*val2*}%를 초과할 때 대미지가 {*val3*}% 증가합니다.",
+    "Id": 3013,
+    "ValueExchange": ["1", "90", "15"]
+  },
+  "3014": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>{*val1*}초마다 최대 체력의 {*val2*}%에 해당하는 실드를 1개 생성합니다. {*val3*}초 지속.",
+    "Id": 3014,
+    "ValueExchange": ["30", "10", "10"]
+  },
+  "3015": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>대상의 이동 속도가 높을수록 주는 대미지가 증가합니다 (최대 {*val1*}%).",
+    "Id": 3015,
+    "ValueExchange": ["15"]
+  },
+  "3016": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>치명타 시 해당 대미지의 {*val1*}%만큼 체력을 회복합니다. 쿨타임 {*val2*}초.",
+    "Id": 3016,
+    "ValueExchange": ["20", "10"]
+  },
+  "3017": {
+    "Desc": "<style=\"tipsYellow\">[인간형][시즌 한정]</style>스킬 사용 시 사슴의 돌진이 1회 발동합니다.",
+    "Id": 3017,
+    "ValueExchange": []
+  },
+  "3018": {
+    "Desc": "<style=\"tipsYellow\">[인간형][시즌 한정]</style>스킬 쿨타임 가속 +{*val1*}%.",
+    "Id": 3018,
+    "ValueExchange": ["50"]
+  },
+  "3019": {
+    "Desc": "<style=\"tipsYellow\">[인간형][시즌 한정]</style>일반 공격 범위가 {*val1*}% 증가합니다.",
+    "Id": 3019,
+    "ValueExchange": ["100"]
+  },
+  "3020": {
+    "Desc": "<style=\"tipsYellow\">[아이로나 전용][시즌 한정]</style>아이로나의 패시브 효과가 {*val1*}% 증가하고, 운석이 {*val2*}초마다 떨어지며, 운석 수량이 {*val3*}개 증가합니다.",
+    "Id": 3020,
+    "ValueExchange": ["20", "0.2", "2"]
+  },
+  "3021": {
+    "Desc": "<style=\"tipsYellow\">[연소]</style><linktext=2001>연소</linktext> 상태의 몬스터에게 {*val1*}%의 추가 대미지를 줍니다.",
+    "Id": 3021,
+    "ValueExchange": ["12"]
+  },
+  "3022": {
+    "Desc": "<style=\"tipsYellow\">[연소]</style><linktext=2001>연소</linktext> 상태의 몬스터 처치 시 범위 폭발 대미지가 1회 추가로 발동합니다.",
+    "Id": 3022,
+    "ValueExchange": []
+  },
+  "3023": {
+    "Desc": "<style=\"tipsYellow\">[연소]</style><linktext=2001>연소</linktext> 상태의 몬스터 공격 시 스킬 쿨타임이 {*val1*}초 감소합니다.",
+    "Id": 3023,
+    "ValueExchange": ["0.5"]
+  },
+  "3024": {
+    "Desc": "<style=\"tipsYellow\">[타타 전용]</style>타타의 일반 공격 시 화염 소용돌이가 발동합니다.",
+    "Id": 3024,
+    "ValueExchange": []
+  },
+  "3025": {
+    "Desc": "<style=\"tipsYellow\">[자원]</style>조율 결정 파편 획득 시 {*val1*}%를 추가로 획득합니다.",
+    "Id": 3025,
+    "ValueExchange": ["20"]
+  },
+  "3026": {
+    "Desc": "<style=\"tipsYellow\">[자원]</style>상품 구매 후 조율 결정 파편의 {*val1*}%를 반환합니다. 해당 매개체를 통해 반환되는 결정 파편에는 획득량 증가 효과가 적용되지 않습니다.",
+    "Id": 3026,
+    "ValueExchange": ["20"]
+  },
+  "3027": {
+    "Desc": "<style=\"tipsYellow\">[자원]</style>조율 결정 파편 {*val1*}pt당 대미지가 {*val2*}% 증가합니다.",
+    "Id": 3027,
+    "ValueExchange": ["200", "1"]
+  },
+  "3028": {
+    "Desc": "<style=\"tipsYellow\">[자원]</style>조율 결정 파편이 {*val1*}pt를 초과하면 공격 시 파도가 발동합니다. 쿨타임 {*val2*}초.",
+    "Id": 3028,
+    "ValueExchange": ["5000", "10"]
+  },
+  "3029": {
+    "Desc": "<style=\"tipsYellow\">[차지]</style>차지 1스택을 쌓을 때마다 올베라의 검기를 자동으로 1회 발사합니다.",
+    "Id": 3029,
+    "ValueExchange": []
+  },
+  "3030": {
+    "Desc": "<style=\"tipsYellow\">[차지]</style>차지가 최대 스택에 도달하면 다음 스킬 대미지가 2배로 증가하고, 대상에게 {*val1*}초간 취약을 부여합니다.",
+    "Id": 3030,
+    "ValueExchange": ["100"]
+  },
+  "3031": {
+    "Desc": "<style=\"tipsYellow\">[차지]</style>차지한 횟수에 따라 공격력이 영구적으로 증가합니다 (최대 {*val1*}스택 중첩).",
+    "Id": 3031,
+    "ValueExchange": ["500"]
+  },
+  "3032": {
+    "Desc": "<style=\"tipsYellow\">[올베라 전용]</style>올베라가 주변 대상에게 지속적으로 뇌격을 발동하며, 일정 확률로 대상에게 마비를 부여합니다. 쿨타임 1초.",
+    "Id": 3032,
+    "ValueExchange": []
+  },
+  "3033": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>치명타 시 스킬 쿨타임이 초기화됩니다. 해당 효과는 {*val1*}초마다 1회 발동합니다.",
+    "Id": 3033,
+    "ValueExchange": ["20"]
+  },
+  "3034": {
+    "Desc": "<style=\"tipsYellow\">[어둠]</style><br>어둠 원소 강도 +{*val1*}%",
+    "Id": 3034,
+    "ValueExchange": ["2.5"]
+  },
+  "3035": {
+    "Desc": "<style=\"tipsYellow\">[빛]</style><br>빛 원소 강도 +{*val1*}%",
+    "Id": 3035,
+    "ValueExchange": ["2.5"]
+  },
+  "3036": {
+    "Desc": "<style=\"tipsYellow\">[얼음]</style><br>얼음 원소 강도 +{*val1*}%",
+    "Id": 3036,
+    "ValueExchange": ["2.5"]
+  },
+  "3037": {
+    "Desc": "<style=\"tipsYellow\">[불]</style><br>불 원소 강도 +{*val1*}%",
+    "Id": 3037,
+    "ValueExchange": ["2.5"]
+  },
+  "3038": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>대미지를 줄 때 {*val1*}% 확률로 화염 충격이 발동합니다. 쿨타임 {*val2*}초.",
+    "Id": 3038,
+    "ValueExchange": ["20", "5"]
+  },
+  "3039": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>대미지를 줄 때 {*val1*}% 확률로 {*val2*}초간 지속되는 워터 토네이도가 발동합니다. 쿨타임 {*val3*}초.",
+    "Id": 3039,
+    "ValueExchange": ["20", "2", "8"]
+  },
+  "3040": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>대미지를 줄 때 {*val1*}% 확률로 덩굴이 발동합니다. 쿨타임 {*val2*}초.",
+    "Id": 3040,
+    "ValueExchange": ["20", "5"]
+  },
+  "3041": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>모든 아이템으로 발동하는 특수 효과 대미지 +{*val1*}%.",
+    "Id": 3041,
+    "ValueExchange": ["10"]
+  },
+  "3042": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>특수 효과 대미지가 {*val1*}회 발동할 때마다 거대 운석 1개를 떨어뜨려 넓은 범위에 대미지를 줍니다.",
+    "Id": 3042,
+    "ValueExchange": ["30"]
+  },
+  "3043": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>체력이 {*val1*}% 이하로 감소하면 최대 체력의 {*val2*}%에 해당하는 실드를 생성합니다. 쿨타임 {*val3*}초.",
+    "Id": 3043,
+    "ValueExchange": ["50", "50", "60"]
+  },
+  "3044": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>초과된 회복량이 실드로 전환됩니다.",
+    "Id": 3044,
+    "ValueExchange": []
+  },
+  "3045": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>매초 체력을 {*val1*}% 잃으며, 체력이 {*val2*}%일 때 공격 속도가 {*val3*}% 증가합니다.",
+    "Id": 3045,
+    "ValueExchange": ["1", "100", "25"]
+  },
+  "3046": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style><br>실드 강도 +{*val1*}%",
+    "Id": 3046,
+    "ValueExchange": ["3"]
+  },
+  "3047": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>스킬 시전 후 {*val1*}% 확률로 스킬 쿨타임이 초기화됩니다.",
+    "Id": 3047,
+    "ValueExchange": ["20"]
+  },
+  "3048": {
+    "Desc": "<style=\"tipsYellow\">[공용]</style>최대 체력의 {*val1*}%에 해당하는 실드량을 보유할 때마다 공격력이 {*val2*}% 증가합니다.",
+    "Id": 3048,
+    "ValueExchange": ["1", "0.2"]
+  },
+  "3049": {
+    "Desc": "<style=\"tipsYellow\">[백귀]</style><linktext=2009>떠도는 영혼</linktext>의 최대 수량 +{*val1*}.",
+    "Id": 3049,
+    "ValueExchange": ["2"]
+  },
+  "3050": {
+    "Desc": "<style=\"tipsYellow\">[백귀]</style><linktext=2009>떠도는 영혼</linktext>의 대미지 +{*val1*}%.",
+    "Id": 3050,
+    "ValueExchange": ["7"]
+  },
+  "3051": {
+    "Desc": "<style=\"tipsYellow\">[백귀]</style>필드 내 <linktext=2009>떠도는 영혼</linktext> {*val1*}마리당 치명타 확률이 {*val2*}% 증가합니다.",
+    "Id": 3051,
+    "ValueExchange": ["1", "2"]
+  },
+  "3052": {
+    "Desc": "<style=\"tipsYellow\">[로로라 전용]</style>각 웨이브 시작 시 로로라가 점을 쳐 다음 {*val1*}개의 버프 중 1개를 무작위로 획득합니다.<br>햇빛의 가호: 최대 체력의 {*val2*}%에 해당하는 실드 획득.<br>초승달의 축복: 공격력 +{*val3*}%.<br>별빛의 동행: <linktext=2009>떠도는 영혼</linktext>의 이동 속도 +{*val4*}%.",
+    "Id": 3052,
+    "ValueExchange": ["3", "100", "30", "100"]
+  },
+  "3053": {
+    "Desc": "<style=\"tipsYellow\">[극한]</style><linktext=2002>한기</linktext> 최대 스택 +{*val1*}.",
+    "Id": 3053,
+    "ValueExchange": ["1"]
+  },
+  "3054": {
+    "Desc": "<style=\"tipsYellow\">[극한]</style><linktext=2003>빙결</linktext> 지속 시간이 {*val1*}초 증가합니다.",
+    "Id": 3054,
+    "ValueExchange": ["3"]
+  },
+  "3055": {
+    "Desc": "<style=\"tipsYellow\">[극한]</style><linktext=2003>빙결</linktext> 상태의 몬스터 공격 시 얼음 창이 발동하여 추가 대미지를 줍니다. 쿨타임 {*val1*}초.",
+    "Id": 3055,
+    "ValueExchange": ["1"]
+  },
+  "3056": {
+    "Desc": "<style=\"tipsYellow\">[보이스 전용]</style>일반 공격 시 거대 얼음 운석을 소환하며, 대미지가 {*val1*}% 증가합니다.",
+    "Id": 3056,
+    "ValueExchange": ["100"]
   },
   "31": {
-    "Desc": "<style=\"tipsYellow\">일반 공격</style>: 고정 상태가 아닌 대상에게 우선적으로 거미줄을 뱉으며, <style=\"accent-gn\">{*val1*}%</style> 확률로 <style=\"accent-gn\">{*val2*}초</style>간 대상에게 고정 상태를 부여합니다.<br>공격 범위: <style=\"accent-gn\">{*val3*}</style><br>대미지 배율: <style=\"accent-gn\">{*val4*}%</style> 공격력<br><br><style=\"tipsYellow\">거미의 습격</style>: 땅속으로 1초간 숨었다가 튀어나와, 대상을 확정적으로 1초간 스턴시킵니다.<br>공격 범위: <style=\"accent-gn\">{*val5*}</style><br>대미지 배율: <style=\"accent-gn\">{*val6*}%</style> 공격력<br>쿨타임: <style=\"accent-gn\">{*val7*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: <style=\"accent-gn\">반경 {*val2*}m 내 {*val3*}명</style>의 <linktext=2007>고정</linktext> 상태가 아닌 대상에게 거미줄을 뱉어 <style=\"accent-gn\">{*val4*}%</style>의 대미지를 주며, <style=\"accent-gn\">{*val5*}% 확률</style>로 대상에게 <linktext=2007>고정</linktext> 상태를 부여합니다.<br><br><style=\"tipsYellow\">거미의 습격</style>: 땅속으로 {*val6*}초간 숨었다가 튀어나와 <style=\"accent-gn\">반경 {*val7*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val8*}%</style>의 대미지를 주며, <style=\"accent-gn\"><linktext=2008>스턴</linktext></style>을 부여합니다.<br>쿨타임: <style=\"accent-gn\">{*val9*}초</style><br>",
     "Id": 31,
-    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+    "ValueExchange": ["170", "10", "1", "202", "40", "2.5", "10", "314", "10"]
   },
   "32": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 32,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "33": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 고정 확률 {*val2*}% 상승",
+    "Desc": "Lv.3: <linktext=2007>고정</linktext> 확률이 {*val1*}%로 상승",
     "Id": 33,
-    "ValueExchange": [40.0, 100.0]
+    "ValueExchange": ["100"]
   },
   "34": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・환영 거미게 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 34,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "35": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 스턴 시간 +{*val2*}초",
+    "Desc": "Lv.5: <linktext=2008>스턴</linktext> 시간 +{*val1*}초 (배틀 이매진・환영 거미게 보유 필요)",
     "Id": 35,
-    "ValueExchange": [30.0, 2.5]
+    "ValueExchange": ["2.5"]
   },
   "36": {
-    "Desc": "<style=\"tipsYellow\">일반 공격</style>: 물 구체 <style=\"accent-gn\">{*val1*}</style>개를 떨어뜨려 둔화 효과를 부여합니다.<br>공격 범위: <style=\"accent-gn\">{*val2*}</style><br>대미지 배율: <style=\"accent-gn\">{*val3*}% 공격력 × 물 구체 수량</style><br><br><style=\"tipsYellow\">물고기 떼 폭주</style>: 환영 날치 1마리를 소환하여 전방으로 돌진시킵니다.<br>공격 범위: <style=\"accent-gn\">{*val4*}</style><br>대미지 배율: <style=\"accent-gn\">{*val5*}%</style> 공격력<br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 물 구체 <style=\"accent-gn\">{*val2*}개</style>를 떨어뜨려 <style=\"accent-gn\">반경 {*val3*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val4*}%</style>의 대미지를 주고 <linktext=2002>한기</linktext> <style=\"accent-gn\">{*val5*}스택</style>을 부여합니다.<br><br><style=\"tipsYellow\">물고기 떼 폭주</style>: 환영 날치 <style=\"accent-gn\">{*val6*}마리</style>를 소환하여 전방 <style=\"accent-gn\">직선 {*val7*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val8*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val9*}초</style><br>",
     "Id": 36,
-    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+    "ValueExchange": ["170", "1", "9", "75", "1", "1", "8", "149", "15"]
   },
   "37": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 37,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "38": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 날치 +{*val2*}, 조율 결정 파편 획득률 +{*val3*}%",
+    "Desc": "Lv.3: 날치 +{*val1*}, 조율 결정 파편 획득률 +{*val2*}%",
     "Id": 38,
-    "ValueExchange": [25.0, 1.0, 5.0]
+    "ValueExchange": ["1", "5"]
   },
   "39": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・성스러운 날치 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 39,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "4": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・재앙의 주인 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 4,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "40": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 날치 추가 +{*val2*}, 조율 결정 파편 획득률 추가 +{*val3*}%",
+    "Desc": "Lv.5: 날치 추가 +{*val1*}, 조율 결정 파편 획득률 추가 +{*val2*}% (배틀 이매진・성스러운 날치 보유 필요)",
     "Id": 40,
-    "ValueExchange": [15.0, 1.0, 5.0]
+    "ValueExchange": ["1", "5"]
   },
   "41": {
     "Desc": "<style=\"tipsYellow\">일반 공격</style>: 전방으로 주먹을 2회 휘두릅니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}% 마법 공격력 × 2</style><br><br><style=\"tipsYellow\">치명적인 화염</style>: 전방으로 5초간 화염을 뿜어 연소 상태를 부여합니다.<br>공격 범위: <style=\"accent-gn\">{*val3*}</style><br>대미지 배율: <style=\"accent-gn\">{*val4*}%</style> 마법 공격력<br>쿨타임: <style=\"accent-gn\">{*val5*}초</style><br>",
     "Id": 41,
-    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+    "ValueExchange": ["8", "70", "15", "552", "15"]
   },
   "42": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 42,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "43": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 공격 시 체력 {*val2*}% 회복",
+    "Desc": "Lv.3: 공격 시 체력 {*val1*}% 회복",
     "Id": 43,
-    "ValueExchange": [40.0, 5.0]
+    "ValueExchange": ["5"]
   },
   "44": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・화염 오우거 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 44,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "45": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 초과된 회복량이 실드로 전환됨",
+    "Desc": "Lv.5: 초과된 회복량이 실드로 전환됨 (배틀 이매진・화염 오우거 보유 필요)",
     "Id": 45,
-    "ValueExchange": [30.0]
+    "ValueExchange": []
   },
   "46": {
-    "Desc": "<style=\"tipsYellow\">일반 공격</style>: 대상을 짓밟습니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 공격력<br><br><style=\"tipsYellow\">번개 실드</style>: 전기 실드를 획득해 <style=\"accent-gn\">{*val3*}초</style>마다 무작위 대상 1명에게 낙뢰를 내립니다.<br>공격 범위: <style=\"accent-gn\">{*val4*}</style><br>대미지 배율: <style=\"accent-gn\">{*val5*}%</style> 공격력<br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: <style=\"accent-gn\">반경 {*val2*}m</style> 내의 대상을 짓밟아 <style=\"accent-gn\">{*val3*}%</style>의 대미지를 줍니다.<br><br><style=\"tipsYellow\">번개 실드</style>: 전기 실드를 획득해 <style=\"accent-gn\">{*val4*}초</style>마다 <style=\"accent-gn\">반경 {*val5*}m</style> 내의 무작위 대상 {*val6*}명에게 낙뢰를 내려 <style=\"accent-gn\">{*val7*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val8*}초</style><br>",
     "Id": 46,
-    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+    "ValueExchange": ["170", "5", "42", "2", "20", "1", "162", "15"]
   },
   "47": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 47,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "48": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 공격 대상이 연소 상태일 경우, 연소 상태를 소모하여 파멸의 뇌화를 1회 발동해 큰 공격 범위 대미지를 줍니다",
+    "Desc": "Lv.3: 공격 대상이 <linktext=2001>연소</linktext> 상태일 경우, <linktext=2001>연소</linktext> 상태를 소모하여 파멸의 뇌화를 1회 발동해 큰 범위 대미지를 줍니다",
     "Id": 48,
-    "ValueExchange": [25.0]
+    "ValueExchange": []
   },
   "49": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・번개 오우거 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 49,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "5": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 고리 범위 +{*val2*}%",
+    "Desc": "Lv.5: 고리 범위 +{*val1*}%",
     "Id": 5,
-    "ValueExchange": [15.0, 100.0]
+    "ValueExchange": ["100"]
   },
   "50": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 파멸의 뇌화가 더 이상 대상의 연소를 소모하지 않습니다",
+    "Desc": "Lv.5: 파멸의 뇌화가 더 이상 대상의 <linktext=2001>연소</linktext>를 소모하지 않습니다 (배틀 이매진・번개 오우거 보유 필요)",
     "Id": 50,
-    "ValueExchange": [15.0]
+    "ValueExchange": []
+  },
+  "5001": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>성맥 앞쪽 경로에 함정을 {*val1*}개 설치합니다. 함정은 지나가는 일반 몬스터를 처치한 뒤 비활성화됩니다.",
+    "Id": 5001,
+    "ValueExchange": ["5"]
+  },
+  "5002": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>조율 이매진을 {*val1*}회 승급할 때마다 이번 게임 동안 조율 이매진의 공격력 +{*val2*}% (최대 +{*val3*}%).",
+    "Id": 5002,
+    "ValueExchange": ["1", "1", "20"]
+  },
+  "5003": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>선택 시 자동으로 무작위 엔그램의 선물 {*val1*}개를 획득하고 개봉합니다.",
+    "Id": 5003,
+    "ValueExchange": ["3"]
+  },
+  "5004": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>처음에 조율 결정 파편 {*val1*}pt를 획득하지만, {*val3*}웨이브 종료 시까지 결정 파편 획득률이 {*val2*}% 감소합니다.",
+    "Id": 5004,
+    "ValueExchange": ["2500", "20", "5"]
+  },
+  "5005": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>자신의 돌진 스킬 쿨타임이 {*val1*}초로 감소합니다.",
+    "Id": 5005,
+    "ValueExchange": ["1"]
+  },
+  "5006": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>엔그램 라인 에너지 최대치 -{*val1*}%, 각 웨이브 종료 후 엔그램 라인 에너지가 {*val2*}pt 회복됩니다.",
+    "Id": 5006,
+    "ValueExchange": ["30", "2"]
+  },
+  "5007": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>각 웨이브 종료 후 이번 게임 동안 조율 이매진의 치명타 확률 +{*val1*}% (최대 +{*val2*}%).",
+    "Id": 5007,
+    "ValueExchange": ["2", "40"]
+  },
+  "5008": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>홀수 번째에 배치하는 조율 이매진의 공격력 -{*val1*}%, 짝수 번째에 배치하는 조율 이매진의 공격력 +{*val2*}%.",
+    "Id": 5008,
+    "ValueExchange": ["20", "30"]
+  },
+  "5009": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>이매진 배치 칸이 {*val1*}개 추가됩니다.",
+    "Id": 5009,
+    "ValueExchange": ["2"]
+  },
+  "5010": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>모든 정교 등급 조율 이매진을 각각 {*val1*}개씩 획득합니다.",
+    "Id": 5010,
+    "ValueExchange": ["2"]
+  },
+  "5011": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>무작위 서사 등급 조율 이매진 1종을 {*val1*}개 획득하지만, {*val2*} 웨이브 종료 시까지 상점 갱신 시 서사 등급 조율 이매진이 등장하지 않습니다.",
+    "Id": 5011,
+    "ValueExchange": ["2", "10"]
+  },
+  "5012": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>{*val1*}개 웨이브가 종료될 때마다 엔그램 라인 근처에 호박이 자라납니다. 호박을 파괴하면 조율 결정 파편 {*val2*}pt를 획득할 수 있습니다.",
+    "Id": 5012,
+    "ValueExchange": ["3", "800"]
+  },
+  "5013": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>각 웨이브 시작 시 필드 내 무작위 조율 이매진 {*val1*}개의 스킬 쿨타임이 {*val2*}% 감소합니다. 해당 웨이브가 종료될 때까지 지속됩니다.",
+    "Id": 5013,
+    "ValueExchange": ["2", "100"]
+  },
+  "5014": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style> 중첩 가능한 조율 매개체 획득 시 {*val1*}% 확률로 {*val2*}개를 추가로 획득합니다(해당 보급품은 무한 웨이브에서는 효력을 잃습니다). ",
+    "Id": 5014,
+    "ValueExchange": ["20", "1"]
+  },
+  "5015": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>조율 결정 파편 {*val1*}pt를 소모하여 탁월 등급 이상의 동일한 조율 이매진 {*val2*}개를 무작위로 획득합니다.",
+    "Id": 5015,
+    "ValueExchange": ["1800", "5"]
+  },
+  "5016": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>{*val1*}개 웨이브가 지날 때마다 설치한 함정이 다시 활성화됩니다.",
+    "Id": 5016,
+    "ValueExchange": ["2"]
+  },
+  "5017": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>다음 상점 갱신 시 상점이 즉시 최고 레벨로 상승합니다.",
+    "Id": 5017,
+    "ValueExchange": []
+  },
+  "5018": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>선택 시 현재 조율 결정 파편 수량이 {*val1*}% 증가합니다.",
+    "Id": 5018,
+    "ValueExchange": ["100"]
+  },
+  "5019": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>매 웨이브 종료 후, 중화 반응 촉매를 {*val1*}개 획득합니다. 최대 수량에 도달 후 효과를 잃습니다.",
+    "Id": 5019,
+    "ValueExchange": ["2"]
+  },
+  "5020": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>같은 계열의 조율 이매진 1개당 치명타 확률 +{*val1*}%.",
+    "Id": 5020,
+    "ValueExchange": ["5"]
+  },
+  "5021": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>엔그램 라인 에너지 최대치 -{*val1*}%, 필드 내 모든 조율 이매진의 공격력 +{*val2*}%.",
+    "Id": 5021,
+    "ValueExchange": ["50", "60"]
+  },
+  "5022": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>{*val1*}레벨 이상 조율 이매진의 대미지 증폭 +{*val2*}%.",
+    "Id": 5022,
+    "ValueExchange": ["4", "40"]
+  },
+  "5023": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>선택 시 사용하지 않은 이매진 배치 칸 1개당 조율 결정 파편 {*val1*}pt를 획득합니다.",
+    "Id": 5023,
+    "ValueExchange": ["2000"]
+  },
+  "5024": {
+    "Desc": "<style=\"tipsYellow\">[보급품]</style>조율 이매진・장난꾸러기 나뽀의 분신을 {*val1*}개 획득합니다. 스킬은 장난꾸러기 나뽀와 동일하지만 판매 가격은 0입니다.",
+    "Id": 5024,
+    "ValueExchange": ["3"]
+  },
+  "5025": {
+    "Desc": "<style=\"tipsYellow\">[스킬]</style>사용 시 필드 내 모든 몬스터가 {*val1*}초간 정지합니다. 쿨타임 {*val2*}초.",
+    "Id": 5025,
+    "ValueExchange": ["8", "120"]
+  },
+  "5026": {
+    "Desc": "<style=\"tipsYellow\">[스킬]</style>사용 시 필드 내 모든 조율 이매진의 모든 속도 +{*val1*}%, 대미지 증폭 +{*val2*}%. {*val3*}초 지속, 쿨타임 {*val4*}초.",
+    "Id": 5026,
+    "ValueExchange": ["10", "50", "10", "180"]
+  },
+  "5027": {
+    "Desc": "<style=\"tipsYellow\">[장난꾸러기 나뽀 전용]</style>다음 상점 갱신 시 장난꾸러기 나뽀가 반드시 등장하며, 이후 상점 갱신 시에도 일정 확률로 장난꾸러기 나뽀가 등장합니다.",
+    "Id": 5027,
+    "ValueExchange": []
+  },
+  "5028": {
+    "Desc": "<style=\"tipsYellow\">[스킬]</style>사용 시 필드 내 모든 조율 이매진의 치명타 확률 +{*val1*}%. {*val2*}초 지속, 쿨타임 {*val3*}초.",
+    "Id": 5028,
+    "ValueExchange": ["100", "10", "180"]
+  },
+  "5029": {
+    "Desc": "<style=\"tipsYellow\">[스킬]</style>사용 시 현재 필드 내 모든 일반 몬스터를 처치합니다. 쿨타임 {*val1*}초.",
+    "Id": 5029,
+    "ValueExchange": ["240"]
+  },
+  "5030": {
+    "Desc": "<style=\"tipsYellow\">[스킬]</style>사용 시 조율 결정 파편을 {*val1*}pt 획득합니다. {*val2*}웨이브마다 1회만 사용할 수 있습니다.",
+    "Id": 5030,
+    "ValueExchange": ["3000", "5"]
+  },
+  "5031": {
+    "Desc": "<style=\"tipsYellow\">[스킬]</style>사용 시 이번 게임에서 파괴한 호박 수량에 따라 필드 내 모든 조율 이매진에게 실드를 부여합니다. 파괴한 수량 {*val1*}개당 최대 체력 {*val2*}%의 실드를 부여합니다. {*val3*}초 지속, 쿨타임 {*val4*}초.",
+    "Id": 5031,
+    "ValueExchange": ["1", "10", "30", "120"]
+  },
+  "5032": {
+    "Desc": "<style=\"tipsYellow\">[스킬]</style>사용 시 모든 떠도는 영혼의 이동 속도 +{*val1*}%, 대미지 +{*val2*}%. {*val3*}초 지속, 쿨타임 {*val4*}초.",
+    "Id": 5032,
+    "ValueExchange": ["100", "100", "10", "120"]
+  },
+  "5033": {
+    "Desc": "<style=\"tipsYellow\">[스킬]</style>사용 시 엔그램 라인 에너지가 {*val1*}pt 회복됩니다. {*val2*}개 웨이브마다 1회만 사용할 수 있습니다.",
+    "Id": 5033,
+    "ValueExchange": ["10", "5"]
   },
   "51": {
     "Desc": "<style=\"tipsYellow\">일반 공격</style>: 전방으로 5초간 얼음을 뿜어냅니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 공격력<br><br><style=\"tipsYellow\">절대 영도 영역</style>: 무작위 대상 3명에게 얼음 가시를 시전합니다.<br>공격 범위: <style=\"accent-gn\">{*val3*}</style><br>대미지 배율: <style=\"accent-gn\">{*val4*}%</style> 공격력<br>쿨타임: <style=\"accent-gn\">{*val5*}초</style><br>",
     "Id": 51,
-    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+    "ValueExchange": ["15", "360", "20", "246", "15"]
   },
   "52": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 52,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "53": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 얼음 가시 위치에 결정 파편 무더기가 생성되며, 획득 시 조율 결정 파편 {*val2*}~{*val3*}pt를 무작위로 획득합니다",
+    "Desc": "Lv.3: 얼음 가시 위치에 결정 파편 무더기가 생성되며, 획득 시 조율 결정 파편 {*val1*}~{*val2*}pt를 무작위로 획득합니다",
     "Id": 53,
-    "ValueExchange": [25.0, 1.0, 20.0]
+    "ValueExchange": ["1", "20"]
   },
   "54": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・서리 오우거 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 54,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "55": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 얼음 가시 수량 +{*val2*}",
+    "Desc": "Lv.5: 얼음 가시 수량 +{*val1*} (배틀 이매진・서리 오우거 보유 필요)",
     "Id": 55,
-    "ValueExchange": [15.0, 2.0]
+    "ValueExchange": ["2"]
   },
   "56": {
-    "Desc": "<style=\"tipsYellow\">일반 공격</style>: 무크 1마리를 소환하여 전투를 돕게 합니다. 필드에 이미 무크가 존재할 경우 자신이 소환한 모든 무크의 공격 속도가 증가합니다 (최대 <style=\"accent-gn\">{*val1*}</style>스택 중첩).<br>공격 범위: 없음<br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 공격력<br><br><style=\"tipsYellow\">대장의 의지</style>: 범위 내 아군의 체력을 <style=\"accent-gn\">{*val3*}%</style> 회복시키고, <style=\"accent-gn\">{*val4*}%</style> 공격력을 증가시킵니다. <style=\"accent-gn\">{*val5*}초</style> 지속.<br>영향 범위: <style=\"accent-gn\">{*val6*}</style><br>대미지 배율: 없음<br>쿨타임: <style=\"accent-gn\">{*val7*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 무크 3마리를 소환하여 전투를 돕게 합니다. 필드에 이미 무크가 존재할 경우 자신이 소환한 모든 무크의 공격 속도가 증가합니다 (최대 <style=\"accent-gn\">{*val2*}</style>스택 중첩).<br><br><style=\"tipsYellow\">대장의 의지</style>: <style=\"accent-gn\">반경 {*val3*} 내</style> 아군 대상의 체력을 <style=\"accent-gn\">{*val4*}%</style> 회복시키고, 대상의 <style=\"accent-gn\">공격력을 +{*val5*}%</style> 증가시킵니다. <style=\"accent-gn\">{*val6*}초</style> 지속.<br>쿨타임: <style=\"accent-gn\">{*val7*}초</style><br>",
     "Id": 56,
-    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+    "ValueExchange": ["170", "4", "15", "17", "10", "10", "15"]
   },
   "57": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 57,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "58": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 석궁 무크 1마리 추가 소환",
+    "Desc": "Lv.3: 패시브로 부여되는 물리/마법 공격력 추가 +{*val1*}%",
     "Id": 58,
-    "ValueExchange": [25.0]
+    "ValueExchange": ["6"]
   },
   "59": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・무크왕 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 59,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "6": {
     "Desc": "<style=\"tipsYellow\">일반 공격</style>: <style=\"accent-gn\">{*val1*}초</style>마다 운석을 1개 떨어뜨립니다.<br>공격 범위: <style=\"accent-gn\">{*val2*}</style><br>대미지 배율: <style=\"accent-gn\">{*val3*}%</style> 마법 공격력<br><br><style=\"tipsYellow\">사슴의 돌진</style>: 영험한 사슴을 불러 전방으로 돌진시킵니다. 필드 내 인간형 조율 이매진 1개당 1회 추가로 발동합니다.<br>공격 범위: <style=\"accent-gn\">{*val4*}</style><br>대미지 배율: <style=\"accent-gn\">{*val5*}%</style> 마법 공격력<br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
     "Id": 6,
-    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+    "ValueExchange": ["0.5", "6", "112", "15", "627", "15"]
   },
   "60": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 무크 두목 1마리 추가 소환",
+    "Desc": "Lv.5: 패시브로 부여되는 물리/마법 공격력 추가 +{*val1*}% (배틀 이매진・무크왕 보유 필요)",
     "Id": 60,
-    "ValueExchange": [15.0]
+    "ValueExchange": ["6"]
+  },
+  "6001": {
+    "Desc": "장난의 밤에 가장 흔히 보이는 장난꾸러기입니다.",
+    "Id": 6001,
+    "ValueExchange": []
+  },
+  "6002": {
+    "Desc": "처음부터 자신 최대 체력 {*val1*}%의 실드를 보유합니다.",
+    "Id": 6002,
+    "ValueExchange": ["30"]
+  },
+  "6003": {
+    "Desc": "{*val1*}초마다 체력을 {*val2*}% 회복합니다.",
+    "Id": 6003,
+    "ValueExchange": ["1", "1"]
+  },
+  "6004": {
+    "Desc": "최대 체력 -{*val1*}%, 대신 이동속도 +{*val2*}%.",
+    "Id": 6004,
+    "ValueExchange": ["50", "100"]
+  },
+  "6005": {
+    "Desc": "땅을 파고든 뒤 {*val1*}초 후 다시 나타납니다.",
+    "Id": 6005,
+    "ValueExchange": ["10"]
+  },
+  "6006": {
+    "Desc": "받는 물리 대미지 -{*val1*}%, 받는 마법 대미지 +{*val2*}%.",
+    "Id": 6006,
+    "ValueExchange": ["80", "50"]
+  },
+  "6007": {
+    "Desc": "받는 마법 대미지 -{*val1*}%, 받는 물리 대미지 +{*val2*}%.",
+    "Id": 6007,
+    "ValueExchange": ["80", "50"]
+  },
+  "6008": {
+    "Desc": "장애물을 무시하고 엔그램 라인으로 날아갑니다.",
+    "Id": 6008,
+    "ValueExchange": []
+  },
+  "6009": {
+    "Desc": "장애물을 무시하고 엔그램 라인으로 날아갑니다.<br>최대 체력 -{*val1*}%, 대신 이동속도 +{*val2*}%.",
+    "Id": 6009,
+    "ValueExchange": ["60", "100"]
+  },
+  "6010": {
+    "Desc": "받는 모든 대미지가 {*val1*}로 감소합니다.",
+    "Id": 6010,
+    "ValueExchange": ["1"]
+  },
+  "6011": {
+    "Desc": "대미지를 받으면 공격자에게 공격자의 최대 체력의 {*val1*}%에 해당하는 대미지를 줍니다.",
+    "Id": 6011,
+    "ValueExchange": ["5"]
+  },
+  "6012": {
+    "Desc": "최대 체력 +{*val1*}%. 조율 이매진에게서 대미지를 받을 때, 필드 내의 같은 계열 조율 이매진 {*val2*}개당 해당 대미지가 {*val3*}% 증가합니다.",
+    "Id": 6012,
+    "ValueExchange": ["150", "1", "10"]
+  },
+  "6013": {
+    "Desc": "최대 체력 -{*val1*}%, 대미지를 받으면 공격자에게 저주 {*val2*}스택을 부여합니다.<br><style=\"tipsYellow\">저주</style>: 스택당 자신의 대미지가 {*val3*}% 감소합니다. 최대 {*val4*}스택, {*val5*}초 지속.",
+    "Id": 6013,
+    "ValueExchange": ["50", "1", "3", "20", "10"]
+  },
+  "6014": {
+    "Desc": "받는 빛 속성 대미지 -{*val1*}%, 받는 어둠 속성 대미지 +{*val2*}%.",
+    "Id": 6014,
+    "ValueExchange": ["50", "50"]
+  },
+  "6015": {
+    "Desc": "받는 어둠 속성 대미지 -{*val1*}%, 받는 빛 속성 대미지 +{*val2*}%.",
+    "Id": 6015,
+    "ValueExchange": ["50", "50"]
+  },
+  "6016": {
+    "Desc": "받는 불 속성 대미지 -{*val1*}%, 받는 얼음 속성 대미지 +{*val2*}%.",
+    "Id": 6016,
+    "ValueExchange": ["50", "50"]
+  },
+  "6017": {
+    "Desc": "받는 얼음 속성 대미지 -{*val1*}%, 받는 불 속성 대미지 +{*val2*}%.",
+    "Id": 6017,
+    "ValueExchange": ["50", "50"]
   },
   "61": {
-    "Desc": "<style=\"tipsYellow\">일반 공격</style>: 전방을 내리찍어 공격합니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 공격력<br><br><style=\"tipsYellow\">일망타진</style>: 전방을 가로로 2회 휩쓸며 공격합니다.<br>공격 범위: <style=\"accent-gn\">{*val3*}</style><br>대미지 배율: <style=\"accent-gn\">{*val4*}% 공격력 × 2</style><br>쿨타임: <style=\"accent-gn\">{*val5*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: 전방을 내리찍어 <style=\"accent-gn\">부채꼴 {*val2*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val3*}%</style>의 대미지를 줍니다.<br><br><style=\"tipsYellow\">일망타진</style>: <style=\"accent-gn\">반경 {*val4*}m</style> 내의 대상을 가로로 <style=\"accent-gn\">{*val5*}회</style> 휩쓸며, 매회 <style=\"accent-gn\">{*val6*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val7*}초</style><br>",
     "Id": 61,
-    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+    "ValueExchange": ["170", "12.5", "36", "12.5", "2", "34", "15"]
   },
   "62": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 62,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "63": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 일반 공격 시 {*val2*}개의 지진파를 추가로 시전하며, 공격 거리가 +{*val3*}% 증가합니다",
+    "Desc": "Lv.3: 패시브로 부여되는 공격/시전 속도 추가 +{*val1*}%",
     "Id": 63,
-    "ValueExchange": [25.0, 2.0, 50.0]
+    "ValueExchange": ["8"]
   },
   "64": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・고블린 왕 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 64,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "65": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 대미지 +{*val2*}%",
+    "Desc": "Lv.5: 패시브로 부여되는 공격/시전 속도 추가 +{*val1*}% (배틀 이매진・고블린 왕 보유 필요)",
     "Id": 65,
-    "ValueExchange": [15.0, 20.0]
+    "ValueExchange": ["8"]
   },
   "66": {
     "Desc": "<style=\"tipsYellow\">일반 공격</style>: 전방을 베어 공격합니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 마법 공격력<br><br><style=\"tipsYellow\">바람의 지배자</style>: 무작위 대상 2명에게 토네이도를 시전합니다.<br>공격 범위: <style=\"accent-gn\">{*val3*}</style><br>대미지 배율: <style=\"accent-gn\">{*val4*}% 마법 공격력 × {*val5*}초</style><br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
     "Id": 66,
-    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+    "ValueExchange": ["6.5", "253", "20", "84", "5", "15"]
   },
   "67": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 67,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "68": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 필드 내 차지 조율 이매진 1개당 토네이도 수량 +{*val2*} (최대치 +{*val3*})",
+    "Desc": "Lv.3: 필드 내 차지 조율 이매진 1개당 토네이도 수량 +{*val1*} (최대 +{*val2*})",
     "Id": 68,
-    "ValueExchange": [25.0, 1.0, 3.0]
+    "ValueExchange": ["1", "3"]
   },
   "69": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・태풍 고블린 왕 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 69,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "7": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 7,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "70": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 토네이도가 생성될 때마다 차지 계열 조율 이매진의 다음 1회 스킬 대미지 증가 (최대 누적 {*val2*})",
+    "Desc": "Lv.5: 토네이도가 생성될 때마다 차지 계열 조율 이매진의 다음 1회 스킬 대미지 증가 (최대 누적 {*val1*}) (배틀 이매진・태풍 고블린 왕 보유 필요)",
     "Id": 70,
-    "ValueExchange": [15.0, 100.0]
+    "ValueExchange": ["100"]
+  },
+  "7001": {
+    "Desc": "처음부터 자신 최대 체력 {*val1*}%의 실드를 보유합니다.",
+    "Id": 7001,
+    "ValueExchange": ["100"]
+  },
+  "7002": {
+    "Desc": "{*val1*}초마다 주변의 다른 몬스터의 체력을 {*val2*}% 회복시킵니다.",
+    "Id": 7002,
+    "ValueExchange": ["1", "5"]
+  },
+  "7003": {
+    "Desc": "처음에는 물리 갑각을 보유하며, {*val1*}초마다 마법 갑각과 번갈아가며 전환합니다.<br><style=\"tipsYellow\">물리 갑각</style>: 받는 물리 대미지 -{*val2*}%.<br><style=\"tipsYellow\">마법 갑각</style>: 받는 마법 대미지 -{*val3*}%.",
+    "Id": 7003,
+    "ValueExchange": ["10", "50", "50"]
+  },
+  "7004": {
+    "Desc": "장애물을 무시하고 엔그램 라인으로 날아갑니다.<br>정면에서 받는 대미지 -{*val1*}%, 후면에서 받는 대미지 +{*val2*}%.",
+    "Id": 7004,
+    "ValueExchange": ["50", "50"]
+  },
+  "7005": {
+    "Desc": "{*val1*}초마다 주변 몬스터에게 대상 체력의 {*val2*}%에 해당하는 실드를 부여합니다. {*val3*}초 지속.",
+    "Id": 7005,
+    "ValueExchange": ["5", "20", "5"]
+  },
+  "7006": {
+    "Desc": "필드 내 무작위 계열 1종의 모든 조율 이매진을 대상으로 지정하여 매초 최대 체력의 {*val1*}%에 해당하는 체력을 흡수합니다. {*val2*}초마다 대상 계열을 변경합니다.",
+    "Id": 7006,
+    "ValueExchange": ["1", "10"]
+  },
+  "7007": {
+    "Desc": "공격을 받으면 제자리에 잔영을 남기고 {*val1*}초간 은신 상태에 진입합니다.<br><style=\"tipsYellow\">잔영</style>: 주변 조율 이매진을 도발합니다.",
+    "Id": 7007,
+    "ValueExchange": ["3"]
+  },
+  "7008": {
+    "Desc": "이동 속도 +{*val1*}%, 대신 엔그램 라인에 진입하지 않습니다.<br>접촉한 몬스터의 상태 이상을 해제하고, 접촉한 모든 조율 이매진 소환물을 처치합니다.",
+    "Id": 7008,
+    "ValueExchange": ["200"]
+  },
+  "7009": {
+    "Desc": "치명적인 대미지를 받으면 체력을 전부 회복하고 이동 속도가 {*val1*}% 증가합니다. 해당 효과는 1회만 발동합니다.",
+    "Id": 7009,
+    "ValueExchange": ["50"]
+  },
+  "7010": {
+    "Desc": "최대 체력 -{*val1*}%, 대신 이동속도 +{*val2*}%.",
+    "Id": 7010,
+    "ValueExchange": ["50", "200"]
+  },
+  "7011": {
+    "Desc": "받는 빛 속성 대미지 -{*val1*}%. 대미지를 받으면 공격자의 실드를 파괴합니다.",
+    "Id": 7011,
+    "ValueExchange": ["75"]
+  },
+  "7012": {
+    "Desc": "받는 어둠 속성 대미지 -{*val1*}%. 주변 몬스터가 떠도는 영혼의 대미지에 면역이 됩니다.",
+    "Id": 7012,
+    "ValueExchange": ["75"]
+  },
+  "7013": {
+    "Desc": "받는 불 속성 대미지 -{*val1*}%. 주변 몬스터가 연소에 면역이 됩니다.",
+    "Id": 7013,
+    "ValueExchange": ["75"]
+  },
+  "7014": {
+    "Desc": "받는 얼음 속성 대미지 -{*val1*}%. 주변 몬스터가 한기와 빙결에 면역이 됩니다.",
+    "Id": 7014,
+    "ValueExchange": ["75"]
   },
   "71": {
     "Desc": "<style=\"tipsYellow\">화염 회전</style>: 제자리에서 회전하며 대상에게 연소를 부여합니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 공격력<br>쿨타임: <style=\"accent-gn\">{*val3*}초</style><br>",
     "Id": 71,
-    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+    "ValueExchange": ["5.4", "60", "9"]
   },
   "72": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 72,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "73": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 연소 상태의 대상 사망 시 조율 결정 파편 {*val2*}pt 획득",
+    "Desc": "Lv.3: 연소 상태의 대상 사망 시 조율 결정 파편 {*val1*}pt 획득",
     "Id": 73,
-    "ValueExchange": [40.0, 15.0]
+    "ValueExchange": ["15"]
   },
   "74": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・산적 두목 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 74,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "75": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%, 연소 상태의 대상 사망 시 조율 결정 파편 {*val2*}pt 추가 획득",
+    "Desc": "Lv.5: 연소 상태의 대상 사망 시 조율 결정 파편 {*val1*}pt 추가 획득 (배틀 이매진・산적 두목 보유 필요)",
     "Id": 75,
-    "ValueExchange": [30.0, 15.0]
+    "ValueExchange": ["15"]
   },
   "76": {
-    "Desc": "<style=\"tipsYellow\">번개 구체</style>: 번개를 끌어들이는 구체를 소환하여 <style=\"accent-gn\">{*val1*}초</style>마다 무작위 대상 1명에게 낙뢰를 떨어뜨립니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}%</style> 공격력<br>쿨타임: <style=\"accent-gn\">{*val3*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">번개 구체</style>: 번개를 끌어들이는 구체를 소환하여 매초 <style=\"accent-gn\">반경 {*val2*}m</style> 내의 무작위 대상 {*val3*}명에게 낙뢰를 떨어뜨려 <style=\"accent-gn\">{*val4*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val5*}초</style><br>",
     "Id": 76,
-    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+    "ValueExchange": ["100", "12", "1", "150", "15"]
   },
   "77": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 77,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "78": {
     "Desc": "Lv.3: 공격력 +{*val1*}%",
     "Id": 78,
-    "ValueExchange": [40.0]
+    "ValueExchange": ["25"]
   },
   "79": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・사나운 황금 이빨 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 79,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "8": {
-    "Desc": "Lv.3: 공격력 +{*val1*}%, 공격 시 조율 결정 파편 {*val2*}pt 획득",
+    "Desc": "Lv.3: 공격 시 조율 결정 파편 {*val1*}pt 획득",
     "Id": 8,
-    "ValueExchange": [25.0, 10.0]
+    "ValueExchange": ["10"]
   },
   "80": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%",
+    "Desc": "Lv.5: 공격력 +{*val1*}% (배틀 이매진・사나운 황금 이빨 보유 필요)",
     "Id": 80,
-    "ValueExchange": [30.0]
+    "ValueExchange": ["15"]
+  },
+  "8001": {
+    "Desc": "주변의 장난꾸러기 고블린 {*val1*}마리당 자신이 받는 대미지가 {*val2*}% 감소합니다.",
+    "Id": 8001,
+    "ValueExchange": ["1", "10"]
+  },
+  "8002": {
+    "Desc": "석화에 면역입니다. 땅속으로 이동하며, {*val1*}초마다 지상으로 나와 {*val2*}초간 휴식을 취합니다.",
+    "Id": 8002,
+    "ValueExchange": ["8", "8"]
+  },
+  "8003": {
+    "Desc": "조율 이매진을 배치할 때마다 포식 거미게가 조율 결정 파편 {*val1*}pt를 먹어 치웁니다.",
+    "Id": 8003,
+    "ValueExchange": ["1000"]
+  },
+  "8004": {
+    "Desc": "장애물을 무시하고 엔그램 라인으로 날아갑니다.",
+    "Id": 8004,
+    "ValueExchange": []
+  },
+  "8005": {
+    "Desc": "등장 후 필드 내 모든 조율 이매진의 일반 공격이 봉인되지만, 스킬 쿨타임이 {*val1*}% 감소합니다.",
+    "Id": 8005,
+    "ValueExchange": ["50"]
+  },
+  "8006": {
+    "Desc": "처음에는 무적 상태이며, 필드에 영혼의 창 {*val1*}개를 소환합니다. 모든 창을 파괴하면 무적 상태가 해제됩니다.",
+    "Id": 8006,
+    "ValueExchange": ["3"]
+  },
+  "8007": {
+    "Desc": "초기 이동 속도 +{*val1*}%, 대신 매초 {*val2*}%씩 감소하여 최저 {*val3*}%까지 감소합니다.",
+    "Id": 8007,
+    "ValueExchange": ["300", "10", "50"]
+  },
+  "8008": {
+    "Desc": "대미지를 받으면 공격자에게 공격자의 최대 체력의 {*val1*}%에 해당하는 대미지를 줍니다.<br>공격자가 체력을 {*val2*}% 잃을 때마다 자신에게 주는 대미지가 {*val3*}% 감소합니다.",
+    "Id": 8008,
+    "ValueExchange": ["5", "10", "10"]
+  },
+  "8009": {
+    "Desc": "등장 후 무작위 조율 이매진 {*val1*}개의 스킬을 봉인합니다. {*val2*}초마다 대상을 변경합니다.",
+    "Id": 8009,
+    "ValueExchange": ["2", "10"]
+  },
+  "8010": {
+    "Desc": "등장 후 무작위 정령 수호자 1종의 능력을 획득하며, {*val1*}초마다 무작위로 능력을 전환합니다.",
+    "Id": 8010,
+    "ValueExchange": ["10"]
   },
   "81": {
     "Desc": "<style=\"tipsYellow\">무차별 난타</style>: 지면 강타를 연속으로 3회 시전합니다.<br>공격 범위: <style=\"accent-gn\">{*val1*}</style><br>대미지 배율: <style=\"accent-gn\">{*val2*}% 공격력 × 3</style><br>쿨타임: <style=\"accent-gn\">{*val3*}초</style><br>",
     "Id": 81,
-    "ValueExchange": [14.0, 133.0, 8.0]
+    "ValueExchange": ["14", "133", "8"]
   },
   "82": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 82,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "83": {
     "Desc": "Lv.3: 공격력 +{*val1*}%",
     "Id": 83,
-    "ValueExchange": [40.0]
+    "ValueExchange": ["40"]
   },
   "84": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・무크 두목 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 84,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "85": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%",
+    "Desc": "Lv.5: 공격력 +{*val1*}% (배틀 이매진・무크 두목 보유 필요)",
     "Id": 85,
-    "ValueExchange": [30.0]
+    "ValueExchange": ["15"]
   },
   "86": {
-    "Desc": "<style=\"tipsYellow\">일반 공격</style>: 물결을 1회 발사하여 이동속도를 <style=\"accent-gn\">{*val1*}%</style> 감소시킵니다.<br>공격 범위: <style=\"accent-gn\">{*val2*}</style><br>대미지 배율: <style=\"accent-gn\">{*val3*}%</style> 마법 공격력<br><br><style=\"tipsYellow\">메일스트롬</style>: 물의 소용돌이를 시전해 지속적으로 <style=\"accent-gn\">{*val4*}%</style> 둔화시킵니다.<br>공격 범위: <style=\"accent-gn\">{*val5*}</style><br>대미지 배율: <style=\"accent-gn\">{*val6*}% 마법 공격력 × {*val7*}초</style><br>쿨타임: <style=\"accent-gn\">{*val8*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">일반 공격</style>: <style=\"accent-gn\">반경 {*val2*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val3*}%</style>의 대미지를 주고 <linktext=2002>한기</linktext> <style=\"accent-gn\">{*val4*}스택</style>을 부여합니다.<br><br><style=\"tipsYellow\">메일스트롬</style>: <style=\"accent-gn\">{*val5*}초</style>간 지속되는 물의 소용돌이를 시전하여 매초 <style=\"accent-gn\">반경 {*val6*}m</style> 내의 대상에게 <style=\"accent-gn\">{*val7*}%</style>의 대미지를 주고 <linktext=2002>한기</linktext> <style=\"accent-gn\">{*val8*}스택</style>을 부여합니다.<br>쿨타임: <style=\"accent-gn\">{*val9*}초</style><br>",
     "Id": 86,
-    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+    "ValueExchange": ["100", "5", "77", "1", "5", "5", "32", "2", "15"]
   },
   "87": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 87,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "88": {
     "Desc": "Lv.3: 공격력 +{*val1*}%",
     "Id": 88,
-    "ValueExchange": [40.0]
+    "ValueExchange": ["25"]
   },
   "89": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・리자드맨 킹 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 89,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "9": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・아이로나 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 9,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "90": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%",
+    "Desc": "Lv.5: 공격력 +{*val1*}% (배틀 이매진・리자드맨 킹 보유 필요)",
     "Id": 90,
-    "ValueExchange": [30.0]
+    "ValueExchange": ["15"]
+  },
+  "9001": {
+    "Desc": "등장 후 특수 경로를 따라 이동하며, 공격받지 않습니다. {*val1*}초마다 피리를 불고, 총 {*val2*}회 피리를 불면 필드를 떠납니다.<br><style=\"tipsYellow\">피리 불기</style>: 주변의 모든 대상이 {*val3*}초간 수면 상태에 빠집니다.",
+    "Id": 9001,
+    "ValueExchange": ["15", "2", "5"]
+  },
+  "9002": {
+    "Desc": "처치 시 대량의 조율 결정 파편과 엔그램의 선물을 획득합니다.<br><br>",
+    "Id": 9002,
+    "ValueExchange": []
   },
   "91": {
-    "Desc": "<style=\"tipsYellow\">독샘 분출</style>: 무작위 대상 <style=\"accent-gn\">{*val1*}</style>명에게 독을 뿜어 부식 상태를 부여합니다 (최대 <style=\"accent-gn\">{*val2*}</style>스택 중첩).<br>공격 범위: <style=\"accent-gn\">{*val3*}</style><br>대미지 배율: <style=\"accent-gn\">{*val4*}% 마법 공격력 × {*val5*}초</style><br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
+    "Desc": "<style=\"tipsYellow\">기본 위력</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">독샘 분출</style>: <style=\"accent-gn\">반경 {*val2*}m</style> 내의 무작위 대상 <style=\"accent-gn\">{*val3*}명</style>에게 <style=\"accent-gn\">{*val4*}초</style>간 지속되는 독샘을 시전하여 매회 <style=\"accent-gn\">{*val5*}%</style>의 대미지를 줍니다.<br>쿨타임: <style=\"accent-gn\">{*val6*}초</style><br>",
     "Id": 91,
-    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+    "ValueExchange": ["100", "8", "3", "8", "37", "15"]
   },
   "92": {
     "Desc": "Lv.2: 공격력 +{*val1*}%",
     "Id": 92,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "93": {
     "Desc": "Lv.3: 공격력 +{*val1*}%",
     "Id": 93,
-    "ValueExchange": [40.0]
+    "ValueExchange": ["25"]
   },
   "94": {
-    "Desc": "Lv.4: 공격력 +{*val1*}% (배틀 이매진・맹독 민의 둥지 보유 필요)",
+    "Desc": "Lv.4: 공격력 +{*val1*}%",
     "Id": 94,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "95": {
-    "Desc": "Lv.5: 공격력 +{*val1*}%",
+    "Desc": "Lv.5: 공격력 +{*val1*}% (배틀 이매진・맹독 민의 둥지 보유 필요)",
     "Id": 95,
-    "ValueExchange": [30.0]
+    "ValueExchange": ["15"]
+  },
+  "96": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[불][연소]</style><br><br><style=\"tipsYellow\">패시브</style>: 반경 {*val1*}m 내에서 <linktext=2001>연소</linktext> 대미지가 결산될 때 해당 대상에게 추가로 {*val2*}%의 대미지를 1회 줍니다.",
+    "Id": 96,
+    "ValueExchange": ["20", "8"]
+  },
+  "97": {
+    "Desc": "<style=\"magic\">[마법]</style><style=\"tipsYellow\">[어둠][백귀][디버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 몬스터 처치 시 <linktext=2009>떠도는 영혼</linktext>을 생성합니다. <linktext=2009>떠도는 영혼</linktext>의 최대 수량 +{*val1*} (최대 +{*val2*}).",
+    "Id": 97,
+    "ValueExchange": ["1", "3"]
+  },
+  "98": {
+    "Desc": "<style=\"magic\">[마법]</style><style=\"tipsYellow\">[얼음][극한][자원]</style><br><br><style=\"tipsYellow\">패시브</style>: 조율 결정 파편 {*val1*}pt당 자신의 대미지 증폭 +{*val2*}% (최대 +{*val3*}%).",
+    "Id": 98,
+    "ValueExchange": ["100", "0.8", "80"]
+  },
+  "99": {
+    "Desc": "<style=\"physical\">[물리]</style><style=\"tipsYellow\">[번개][연소][디버프]</style><br><br><style=\"tipsYellow\">패시브</style>: 필드에 있을 때, 모든 몬스터가 연소 계열 조율 이매진에게 받는 대미지가 [{*val1*}% × <linktext=2001>연소</linktext> 스택 수]만큼 증가합니다 (중첩 불가).",
+    "Id": 99,
+    "ValueExchange": ["3"]
   }
 }

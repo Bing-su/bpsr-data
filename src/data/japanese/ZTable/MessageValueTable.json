@@ -5,473 +5,1613 @@
     "ValueExchange": []
   },
   "10": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、攻撃時に追加で同調砕晶を{*val2*}獲得する",
+    "Desc": "Lv5：攻撃時に同調砕晶を追加で{*val1*}獲得する（B-アルーナが必要）",
     "Id": 10,
-    "ValueExchange": [15.0, 5.0]
+    "ValueExchange": ["5"]
+  },
+  "100": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[バフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：フィールドにいる間、味方全員の物理攻撃力と魔法攻撃力+{*val1*}%、スタック不可。",
+    "Id": 100,
+    "ValueExchange": ["12"]
+  },
+  "100001": {
+    "Desc": "「夜巡りの森・氷」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100001,
+    "ValueExchange": ["10", "30"]
+  },
+  "100002": {
+    "Desc": "「夜巡りの森・氷」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100002,
+    "ValueExchange": ["5", "30"]
+  },
+  "100003": {
+    "Desc": "「夜巡りの森・火」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100003,
+    "ValueExchange": ["10", "30"]
+  },
+  "100004": {
+    "Desc": "「夜巡りの森・火」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100004,
+    "ValueExchange": ["5", "30"]
+  },
+  "100005": {
+    "Desc": "挑戦！「ボイスのミントキャンディー」を使用し、「夜巡りの森・氷」または「夜巡りの森・火」の最初の{*val1*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100005,
+    "ValueExchange": ["30"]
+  },
+  "100006": {
+    "Desc": "挑戦！「夜巡りの森・氷」または「夜巡りの森・火」の1回のバトル中、フィールドに同時に存在する同調イマジンが{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100006,
+    "ValueExchange": ["7", "30"]
+  },
+  "100007": {
+    "Desc": "挑戦！モンスターが星脈に1体も入らない状態で、「夜巡りの森・氷」または「夜巡りの森・火」の最初の{*val1*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100007,
+    "ValueExchange": ["30"]
+  },
+  "100008": {
+    "Desc": "「夜巡りの森・光」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100008,
+    "ValueExchange": ["10", "30"]
+  },
+  "100009": {
+    "Desc": "「夜巡りの森・光」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100009,
+    "ValueExchange": ["5", "30"]
+  },
+  "100010": {
+    "Desc": "「夜巡りの森・闇」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100010,
+    "ValueExchange": ["10", "30"]
+  },
+  "100011": {
+    "Desc": "「夜巡りの森・闇」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100011,
+    "ValueExchange": ["5", "30"]
+  },
+  "100012": {
+    "Desc": "挑戦！「ティナのツインクッキー」を使用し、「夜巡りの森・光」または「夜巡りの森・闇」の最初の{*val1*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100012,
+    "ValueExchange": ["30"]
+  },
+  "100013": {
+    "Desc": "挑戦！「夜巡りの森・光」または「夜巡りの森・闇」の1回のバトル中、フィールドに同時に存在する同調イマジンが{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100013,
+    "ValueExchange": ["7", "30"]
+  },
+  "100014": {
+    "Desc": "挑戦！「夜巡りの森・光」または「夜巡りの森・闇」で、「同調イマジン・いたずらナッポ」をLv.{*val1*}までレベルアップする。",
+    "Id": 100014,
+    "ValueExchange": ["3"]
+  },
+  "100015": {
+    "Desc": "「夜巡りの森・無限」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100015,
+    "ValueExchange": ["10", "30"]
+  },
+  "100016": {
+    "Desc": "「夜巡りの森・無限」の1回のバトル中、星脈に入ったモンスターの累計が{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100016,
+    "ValueExchange": ["5", "30"]
+  },
+  "100017": {
+    "Desc": "挑戦！「タビサのおいしい豆鍋」を使用し、「夜巡りの森・無限」の最初の{*val1*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100017,
+    "ValueExchange": ["30"]
+  },
+  "100018": {
+    "Desc": "挑戦！「夜巡りの森・無限」の1回のバトル中、フィールドに同時に存在する同調イマジンが{*val1*}体以下の状態で、最初の{*val2*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100018,
+    "ValueExchange": ["7", "30"]
+  },
+  "100019": {
+    "Desc": "挑戦！モンスターが星脈に1体も入らない状態で、「夜巡りの森・無限」の最初の{*val1*}WAVEをクリアする。挑戦WAVEはカウントしない。",
+    "Id": 100019,
+    "ValueExchange": ["30"]
+  },
+  "100020": {
+    "Desc": "挑戦！「夜巡りの森・無限」で、「同調イマジン・いたずらナッポ」をLv.{*val1*}までレベルアップする。",
+    "Id": 100020,
+    "ValueExchange": ["5"]
+  },
+  "100021": {
+    "Desc": "挑戦！「夜巡りの森・無限」で、フィールド上に彷魂を同時に{*val1*}体存在させる。",
+    "Id": 100021,
+    "ValueExchange": ["10"]
+  },
+  "101": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[バフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：フィールドにいる間、味方全員の攻撃速度と詠唱速度+{*val1*}%、スタック不可。",
+    "Id": 101,
+    "ValueExchange": ["16"]
+  },
+  "102": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[光][極寒][デバフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：攻撃時、<linktext=2002>寒気</linktext>を{*val1*}スタック、<linktext=2004>重傷</linktext>を{*val2*}スタック付与する。",
+    "Id": 102,
+    "ValueExchange": ["1", "1"]
+  },
+  "103": {
+    "Desc": "<style=\"magic\">[魔法]</style><style=\"tipsYellow\">[氷][極寒][デバフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：攻撃時、{*val1*}%の確率で<linktext=2003>氷結</linktext>を{*val2*}スタック付与する。対象が<linktext=2010>氷結無効</linktext>状態の場合、対象の<linktext=2010>氷結無効</linktext>時間-{*val3*}秒。",
+    "Id": 103,
+    "ValueExchange": ["20", "1", "10"]
+  },
+  "104": {
+    "Desc": "<style=\"magic\">[魔法]</style><style=\"tipsYellow\">[闇][デバフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：攻撃時、<linktext=2005>腐食</linktext>を{*val1*}スタック付与する。",
+    "Id": 104,
+    "ValueExchange": ["1"]
+  },
+  "105": {
+    "Desc": "<style=\"magic\">[魔法]</style><style=\"tipsYellow\">[闇][百鬼]</style><br><br><style=\"tipsYellow\">パッシブ</style>：モンスターを倒すと<linktext=2009>彷魂</linktext>を生成する。<linktext=2009>彷魂</linktext>の攻撃範囲はいたずらナッポの攻撃範囲として扱われる。",
+    "Id": 105,
+    "ValueExchange": []
+  },
+  "106": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[闇][百鬼]</style><br><br><style=\"tipsYellow\">パッシブ</style>：モンスターを倒すと<linktext=2009>彷魂</linktext>を生成する。<linktext=2009>彷魂</linktext>が消失すると、ロローラの会心ダメージが永続的に+{*val1*}%、最大+{*val2*}%。",
+    "Id": 106,
+    "ValueExchange": ["0.5", "40"]
+  },
+  "107": {
+    "Desc": "<style=\"magic\">[魔法]</style><style=\"tipsYellow\">[氷][極寒]</style><br><br><style=\"tipsYellow\">パッシブ</style>：与えるダメージ+【{*val1*}%×対象の<linktext=2002>寒気</linktext>スタック数+{*val2*}%×対象の<linktext=2003>氷結</linktext>スタック数】。",
+    "Id": 107,
+    "ValueExchange": ["3", "50"]
+  },
+  "108": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[光][バリア]</style><br><br><style=\"tipsYellow\">パッシブ</style>：フィールドにいる間、味方全員のバリア強度+{*val1*}%。スタック不可。自身の攻撃時に対象のバリアを破壊する。",
+    "Id": 108,
+    "ValueExchange": ["100"]
+  },
+  "109": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[雷][資源]</style><br><br><style=\"tipsYellow\">パッシブ</style>：ドロシーの各弾丸で同調砕晶を{*val1*}獲得し、同調砕晶数の{*val2*}倍の追加ダメージを与える。",
+    "Id": 109,
+    "ValueExchange": ["10", "30"]
   },
   "11": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：自身を回転させ、対象に燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">天燃の斧</style>：前方に斧の光を放つ。対象の燃焼1スタックにつき、このダメージ+<style=\"accent-gn\">{*val3*}</style>。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：回転し続け、<style=\"accent-gn\">半径{*val2*}m</style>以内の対象に<style=\"accent-gn\">毎秒{*val3*}%</style>のダメージを与え、<linktext=2001>燃焼</linktext>を1スタック付与する。対象がいなくなると停止する。<br><br><style=\"tipsYellow\">天燃の斧</style>：前方<style=\"accent-gn\">直線{*val4*}m</style>に斧の光を放ち、<style=\"accent-gn\">{*val5*}%</style>のダメージを与える。対象の<linktext=2001>燃焼</linktext>1スタックにつき、このダメージ<style=\"accent-gn\">+{*val6*}%</style>。<br>リキャスト：<style=\"accent-gn\">{*val7*}秒</style><br>",
     "Id": 11,
-    "ValueExchange": [4.0, 160.0, 20.0, 15.0, 478.0, 15.0]
+    "ValueExchange": ["320", "4", "67", "15", "358", "15", "15"]
+  },
+  "110": {
+    "Desc": "<style=\"magic\">[魔法]</style><style=\"tipsYellow\">[火][燃焼]</style><br><br><style=\"tipsYellow\">パッシブ</style>：ダメージを受けていないモンスターを攻撃したとき、ダメージ+{*val1*}%、<linktext=2001>燃焼</linktext>を{*val2*}スタック付与する。",
+    "Id": 110,
+    "ValueExchange": ["20", "4"]
+  },
+  "111": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[岩][資源][バフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：同調砕晶{*val1*}ごとに、フィールド上のすべての資源型同調イマジンのスキルのリキャスト速度+{*val2*}%、最大{*val3*}%。",
+    "Id": 111,
+    "ValueExchange": ["100", "1", "30"]
+  },
+  "112": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[闇][百鬼][バフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：モンスターを倒すと<linktext=2009>彷魂</linktext>を生成する。<linktext=2009>彷魂</linktext>が出現すると、フィールド上のすべての百鬼型同調イマジンのスキルのリキャスト-{*val1*}秒。この効果は{*val2*}秒につき1回発動する。",
+    "Id": 112,
+    "ValueExchange": ["3", "6"]
+  },
+  "113": {
+    "Desc": "<style=\"magic\">[魔法]</style><style=\"tipsYellow\">[火][燃焼][バフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：自身がモンスターに付与する<linktext=2001>燃焼</linktext>スタック数×{*val1*}。フィールドにいる間、<linktext=2001>燃焼</linktext>スタック上限+{*val2*}。スタック不可。",
+    "Id": 113,
+    "ValueExchange": ["2", "2"]
+  },
+  "114": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[バフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：フィールドにいる間、味方全員の会心率+{*val1*}%、スタック不可。",
+    "Id": 114,
+    "ValueExchange": ["24"]
+  },
+  "115": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[資源]</style><br><br><style=\"tipsYellow\">パッシブ</style>：各WAVE開始時、同調砕晶+{*val1*}、スタック可能。",
+    "Id": 115,
+    "ValueExchange": ["100"]
+  },
+  "116": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：キャンディーを連続でばらまき、<style=\"accent-gn\">半径{*val2*}m</style>以内の対象に<style=\"accent-gn\">{*val3*}%</style>のダメージを与え、<linktext=2011>キャンディー</linktext>を1スタック付与する。<br><br><style=\"tipsYellow\">トリック・オア・トリート</style>：フィールド上のすべての<linktext=2011>キャンディー</linktext>を回収し、<linktext=2011>キャンディー</linktext>が付与されていたモンスターに<style=\"accent-gn\">{*val4*}%+<linktext=2011>キャンディー</linktext>数×{*val5*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 116,
+    "ValueExchange": ["1200", "6", "186", "391", "40", "20"]
+  },
+  "117": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 117,
+    "ValueExchange": ["30"]
+  },
+  "118": {
+    "Desc": "Lv3：<linktext=2011>キャンディー</linktext>を持つモンスターが倒れると、その<linktext=2011>キャンディー</linktext>がほかのモンスターに移る",
+    "Id": 118,
+    "ValueExchange": []
+  },
+  "119": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 119,
+    "ValueExchange": ["20"]
   },
   "12": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 12,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
+  },
+  "120": {
+    "Desc": "Lv5：<linktext=2011>キャンディー</linktext>を1個回収するたび、自身の攻撃力+{*val1*}%、最大+{*val2*}%。持続{*val3*}秒",
+    "Id": 120,
+    "ValueExchange": ["10", "100", "10"]
+  },
+  "121": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：前方の<style=\"accent-gn\">{*val2*}mの扇形範囲</style>内に、剣光を<style=\"accent-gn\">{*val3*}本</style>放ち、剣光1本につき<style=\"accent-gn\">{*val4*}%</style>のダメージを与える。<br><br><style=\"tipsYellow\">儀式</style>：すべての<linktext=2009>彷魂</linktext>を生贄に捧げ、4方向に巨大な剣光を1本ずつ放つ。剣光1本につき<style=\"accent-gn\">直線{*val5*}m</style>の範囲に<style=\"accent-gn\">{*val6*}%+生贄に捧げた<linktext=2009>彷魂</linktext>数×{*val7*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val8*}秒</style><br>",
+    "Id": 121,
+    "ValueExchange": ["320", "5", "3", "98", "23", "268", "60", "20"]
+  },
+  "122": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 122,
+    "ValueExchange": ["30"]
+  },
+  "123": {
+    "Desc": "Lv3：通常攻撃の範囲+{*val1*}%。儀式で<linktext=2009>彷魂</linktext>を生贄に捧げた直後、上限数の<linktext=2009>彷魂</linktext>を生成する",
+    "Id": 123,
+    "ValueExchange": ["50"]
+  },
+  "124": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 124,
+    "ValueExchange": ["20"]
+  },
+  "125": {
+    "Desc": "Lv5：儀式の剣光数+{*val1*}（B-ロローラが必要）",
+    "Id": 125,
+    "ValueExchange": ["4"]
+  },
+  "126": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m</style>以内のランダムな対象1体にアイスメテオを1つ放ち、対象とその周囲に<style=\"accent-gn\">{*val3*}%</style>のダメージを与え、<linktext=2002>寒気</linktext>を<style=\"accent-gn\">{*val4*}スタック</style>付与する。<br><br><style=\"tipsYellow\">極寒光線</style>：<style=\"accent-gn\">半径{*val5*}m</style>以内の対象1体をロックオンし、<style=\"accent-gn\">{*val6*}秒</style>間、フロストレイを放ち続け、触れたすべてのモンスターに<style=\"accent-gn\">1回につき{*val7*}%</style>のダメージを与える。メイン対象へのダメージが<style=\"accent-gn\">毎秒{*val8*}%増加する</style>。ボスと精鋭モンスターを優先してロックオンし、現在の対象が倒れると別の対象に切り替わる。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
+    "Id": 126,
+    "ValueExchange": ["320", "15", "54", "1", "10", "15", "50", "10", "35"]
+  },
+  "127": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 127,
+    "ValueExchange": ["30"]
+  },
+  "128": {
+    "Desc": "Lv3：極寒光線の幅+{*val1*}%、射程+{*val2*}%",
+    "Id": 128,
+    "ValueExchange": ["50", "50"]
+  },
+  "129": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 129,
+    "ValueExchange": ["20"]
   },
   "13": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、燃焼を{*val2*}回付与するごとに、次回の攻撃で対象に煉獄列車を放つ",
+    "Desc": "Lv3：<linktext=2001>燃焼</linktext>を{*val1*}回付与するごとに、次回の攻撃で対象に煉獄列車を放つ",
     "Id": 13,
-    "ValueExchange": [25.0, 10.0]
+    "ValueExchange": ["10"]
+  },
+  "130": {
+    "Desc": "Lv5：アイスメテオ数+{*val1*}（B-ボイスが必要）",
+    "Id": 130,
+    "ValueExchange": ["2"]
+  },
+  "131": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：ホーリーソードを<style=\"accent-gn\">半径{*val2*}m</style>以内の対象<style=\"accent-gn\">{*val3*}体</style>に放ち、<style=\"accent-gn\">{*val4*}%</style>のダメージを与える。自身は最大HPの<style=\"accent-gn\">{*val5*}%</style>分のバリアを獲得する。<br><br><style=\"tipsYellow\">ブレイズレコニング</style>：大剣を振るい、<style=\"accent-gn\">半径{*val6*}m</style>以内の対象に<style=\"accent-gn\">{*val7*}回×{*val8*}%</style>のダメージを連続で与える。自身のバリア値の<style=\"accent-gn\">{*val9*}%</style>分のダメージを追加する。<br>リキャスト：<style=\"accent-gn\">{*val10*}秒</style><br>",
+    "Id": 131,
+    "ValueExchange": ["320", "7", "2", "61", "1", "7", "3", "166", "100", "30"]
+  },
+  "132": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 132,
+    "ValueExchange": ["30"]
+  },
+  "133": {
+    "Desc": "Lv3：ブレイズレコニングを使用すると、フィールド全体の味方に自身の最大HPの{*val1*}%分のバリアを付与する。持続{*val2*}秒",
+    "Id": 133,
+    "ValueExchange": ["30", "30"]
+  },
+  "134": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 134,
+    "ValueExchange": ["20"]
+  },
+  "135": {
+    "Desc": "Lv5：隣接する同調イマジンの全属性強度+{*val1*}%。スタック不可（B-ファルファラが必要）",
+    "Id": 135,
+    "ValueExchange": ["32"]
+  },
+  "136": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m</style>以内の対象1体に弾丸を<style=\"accent-gn\">{*val3*}発</style>発射する。弾丸は1発につき<style=\"accent-gn\">{*val4*}%</style>のダメージを与える。<br><br><style=\"tipsYellow\">ガンハウル</style>：弾丸を<style=\"accent-gn\">{*val5*}発</style>放ち、<style=\"accent-gn\">半径{*val6*}m</style>以内の対象を自動で狙う。弾丸は1発につき<style=\"accent-gn\">{*val7*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val8*}秒</style><br>",
+    "Id": 136,
+    "ValueExchange": ["320", "15", "3", "56", "10", "15", "82", "15"]
+  },
+  "137": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 137,
+    "ValueExchange": ["30"]
+  },
+  "138": {
+    "Desc": "Lv3：弾丸で得られる同調砕晶数が{*val1*}に増加する",
+    "Id": 138,
+    "ValueExchange": ["15"]
+  },
+  "139": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 139,
+    "ValueExchange": ["20"]
   },
   "14": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-タータが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 14,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
+  },
+  "140": {
+    "Desc": "Lv5：ガンハウルの弾丸数+{*val1*}%（B-ドロシーが必要）",
+    "Id": 140,
+    "ValueExchange": ["100"]
+  },
+  "141": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m</style>以内にいるHPが最も高い<style=\"accent-gn\">対象{*val3*}体</style>に火柱を放ち、<style=\"accent-gn\">{*val4*}%</style>のダメージを与える。<br><br><style=\"tipsYellow\">レイジングブレイズ</style>：<style=\"accent-gn\">半径{*val5*}m</style>以内の対象に<style=\"accent-gn\">{*val6*}%</style>のダメージを与え、自身は<style=\"accent-gn\">会心率+{*val7*}%</style>、持続<style=\"accent-gn\">{*val8*}秒</style>。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
+    "Id": 141,
+    "ValueExchange": ["170", "10", "3", "37", "10", "230", "20", "5", "15"]
+  },
+  "142": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 142,
+    "ValueExchange": ["30"]
+  },
+  "143": {
+    "Desc": "Lv3：パッシブ効果はHPが{*val1*}%を超えるモンスターにも適用される",
+    "Id": 143,
+    "ValueExchange": ["50"]
+  },
+  "144": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 144,
+    "ValueExchange": ["20"]
+  },
+  "145": {
+    "Desc": "Lv5：レイジングブレイズが付与する会心率がさらに+{*val1*}%（B-黒磊兵団の護衛隊長が必要）",
+    "Id": 145,
+    "ValueExchange": ["30"]
+  },
+  "146": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m</style>以内の<style=\"accent-gn\">ランダムな{*val3*}体</style>の対象にストーンスパイクを放ち、<style=\"accent-gn\">{*val4*}%</style>のダメージを与える。<br><br><style=\"tipsYellow\">ストーンアイ</style>：前方の<style=\"accent-gn\">{*val5*}mの扇形範囲</style>に、連続<style=\"accent-gn\">{*val6*}回</style>ブレスを放ち、毎回<style=\"accent-gn\">{*val7*}%</style>のダメージを与える。<style=\"accent-gn\">{*val8*}%</style>の確率で対象を<linktext=2006>石化</linktext>する。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
+    "Id": 146,
+    "ValueExchange": ["170", "10", "3", "28", "10", "8", "65", "20", "30"]
+  },
+  "147": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 147,
+    "ValueExchange": ["30"]
+  },
+  "148": {
+    "Desc": "Lv3：対象に<linktext=2006>石化</linktext>破裂が発生したとき、ストーンスパイクが1回発動する",
+    "Id": 148,
+    "ValueExchange": []
+  },
+  "149": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 149,
+    "ValueExchange": ["20"]
   },
   "15": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、燃焼の付与回数条件が{*val2*}回に減少、煉獄列車のダメージ+{*val3*}%",
+    "Desc": "Lv5：必要な<linktext=2001>燃焼</linktext>の付与回数が{*val1*}回に減少し、煉獄列車のダメージ+{*val2*}%（B-タータが必要）",
     "Id": 15,
-    "ValueExchange": [15.0, 6.0, 100.0]
+    "ValueExchange": ["6", "100"]
+  },
+  "150": {
+    "Desc": "Lv5：ストーンアイでモンスターを撃破すると、同調砕晶を{*val1*}獲得する（B-バジリスクが必要）",
+    "Id": 150,
+    "ValueExchange": ["30"]
+  },
+  "151": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：前方の<style=\"accent-gn\">{*val2*}mの扇形範囲</style>内の対象にクロウスラッシュで<style=\"accent-gn\">{*val3*}回×{*val4*}%</style>のダメージを与える。<br><br><style=\"tipsYellow\">ダークハーベスト</style>：自身が回転し、前方の<style=\"accent-gn\">{*val5*}mの扇形範囲</style>内の対象に<style=\"accent-gn\">{*val6*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val7*}秒</style><br>",
+    "Id": 151,
+    "ValueExchange": ["170", "10", "2", "23", "20", "135", "15"]
+  },
+  "153": {
+    "Desc": "Lv3：ダークハーベスト発動後、攻撃力+{*val1*}%、持続{*val2*}秒",
+    "Id": 153,
+    "ValueExchange": ["30", "3"]
+  },
+  "154": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 154,
+    "ValueExchange": ["20"]
+  },
+  "156": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：ブレイズウェーブを放って<style=\"accent-gn\">半径{*val2*}m</style>以内の対象に<style=\"accent-gn\">{*val3*}%</style>のダメージを与え、<style=\"accent-gn\">{*val4*}スタック</style>の<linktext=2001>燃焼</linktext>を付与する。<br><br><style=\"tipsYellow\">レイジメテオ</style>：<style=\"accent-gn\">半径{*val5*}m</style>以内の対象に隕石を落として<style=\"accent-gn\">{*val6*}%</style>のダメージを与える。フィールドにいる味方全員の<style=\"accent-gn\">火属性強度+{*val7*}%</style>、持続<style=\"accent-gn\">{*val8*}秒</style>。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
+    "Id": 156,
+    "ValueExchange": ["170", "7", "76", "1", "12", "54", "30", "5", "15"]
+  },
+  "157": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 157,
+    "ValueExchange": ["30"]
+  },
+  "158": {
+    "Desc": "Lv3：パッシブ効果のスタック上限がさらに+{*val1*}",
+    "Id": 158,
+    "ValueExchange": ["4"]
+  },
+  "159": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 159,
+    "ValueExchange": ["20"]
   },
   "16": {
     "Desc": "<style=\"tipsYellow\">斬千光</style>：無数の剣光を放ち、すべてのチャージスタック数を消費してダメージ+【<style=\"accent-gn\">{*val1*}%</style>×チャージスタック数】。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val3*}%</style><br>",
     "Id": 16,
-    "ValueExchange": [40.0, 8.0, 688.0]
+    "ValueExchange": ["40", "8", "688"]
+  },
+  "160": {
+    "Desc": "Lv5：レイジメテオが付与する火属性強度がさらに+{*val1*}%（B-炎角が必要）",
+    "Id": 160,
+    "ValueExchange": ["30"]
+  },
+  "162": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 162,
+    "ValueExchange": ["30"]
+  },
+  "163": {
+    "Desc": "Lv3：パッシブで付与する会心率が追加で+{*val1*}%",
+    "Id": 163,
+    "ValueExchange": ["12"]
+  },
+  "164": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 164,
+    "ValueExchange": ["20"]
+  },
+  "165": {
+    "Desc": "Lv5：パッシブで付与する会心率が追加で+{*val1*}%（B-ゴブリンウォーロードが必要）",
+    "Id": 165,
+    "ValueExchange": ["12"]
+  },
+  "166": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">略奪</style>：ハンマーを地面に叩きつけ、<style=\"accent-gn\">半径{*val2*}m</style>以内の対象に<style=\"accent-gn\">{*val3*}%</style>のダメージを与える。対象1体を攻撃するたび、同調砕晶+<style=\"accent-gn\">{*val4*}</style>。<br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
+    "Id": 166,
+    "ValueExchange": ["100", "10", "240", "1", "6"]
+  },
+  "167": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 167,
+    "ValueExchange": ["30"]
+  },
+  "168": {
+    "Desc": "Lv3：攻撃力+{*val1*}%",
+    "Id": 168,
+    "ValueExchange": ["25"]
+  },
+  "169": {
+    "Desc": "Lv4：攻撃力+{*val1*}%",
+    "Id": 169,
+    "ValueExchange": ["20"]
   },
   "17": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 17,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
+  },
+  "170": {
+    "Desc": "Lv5：攻撃力+{*val1*}%（B-天才甘藍大王が必要）",
+    "Id": 170,
+    "ValueExchange": ["15"]
+  },
+  "171": {
+    "Desc": "Lv2：攻撃力+{*val1*}%",
+    "Id": 171,
+    "ValueExchange": ["30"]
+  },
+  "172": {
+    "Desc": "Lv5：ダークハーベストのスキルのリキャスト-{*val1*}秒（B-猛る獣が必要）",
+    "Id": 172,
+    "ValueExchange": ["6"]
+  },
+  "173": {
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：ソードエネルギーを<style=\"accent-gn\">{*val2*}mの扇形範囲</style>内の対象に放ち、<style=\"accent-gn\">{*val3*}%</style>のダメージを与える。<br><br><style=\"tipsYellow\">無双突き</style>：前方の<style=\"accent-gn\">直線{*val4*}m範囲</style>にライトキャノンを放ち、<style=\"accent-gn\">{*val5*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Id": 173,
+    "ValueExchange": ["170", "7", "33", "30", "54", "15"]
   },
   "18": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、{*val2*}秒ごとに最も近い対象{*val3*}体をロックオンして剣光を放つ",
+    "Desc": "Lv3：{*val1*}秒ごとに最も近い対象{*val1*}体をロックオンして剣光を放つ",
     "Id": 18,
-    "ValueExchange": [25.0, 10.0, 1.0]
+    "ValueExchange": ["10", "1"]
   },
   "19": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-オルヴェラが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 19,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "2": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 2,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "20": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、剣光のロックオン対象数+{*val2*}",
+    "Desc": "Lv5：剣光のロックオン対象数+{*val1*}（B-オルヴェラが必要）",
     "Id": 20,
-    "ValueExchange": [15.0, 2.0]
+    "ValueExchange": ["2"]
   },
   "21": {
     "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方へ刺突を繰り出し、旗槍を回転させる。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">時の号令</style>：最も近い<style=\"accent-gn\">{*val3*}</style>体の同調イマジンのスキルリキャスト速度+<style=\"accent-gn\">{*val4*}%</style>。<style=\"accent-gn\">{*val5*}秒</style>持続。<br>影響範囲：フィールド全体<br>ダメージ倍率：なし<br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 21,
-    "ValueExchange": [5.0, 229.0, 5.0, 100.0, 5.0, 15.0]
+    "ValueExchange": ["5", "229", "5", "100", "5", "15"]
   },
   "22": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 22,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "23": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、フィールドにいるとき、冒険者の移動速度+{*val2*}、ダメージ増加効果+{*val3*}",
+    "Desc": "Lv3：フィールドにいる間、冒険者の移動速度+{*val1*}、ダメージ増加効果+{*val2*}",
     "Id": 23,
-    "ValueExchange": [25.0, 25.0, 25.0]
+    "ValueExchange": ["25", "25"]
   },
   "24": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-ティナが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 24,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "25": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、フィールドにいるとき、冒険者の移動速度が追加で+{*val2*}、ダメージ増加効果が追加で+{*val3*}",
+    "Desc": "Lv5：フィールドにいる間、冒険者の移動速度が追加で+{*val1*}、ダメージ増加効果が追加で+{*val2*}（B-ティナが必要）",
     "Id": 25,
-    "ValueExchange": [15.0, 25.0, 25.0]
+    "ValueExchange": ["25", "25"]
   },
   "26": {
     "Desc": "<style=\"tipsYellow\">地獄の岩トゲ</style>：地面のトゲを放ち、すべてのチャージスタック数を消費してダメージ+【<style=\"accent-gn\">{*val1*}%</style>×チャージスタック数】。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val3*}%</style><br>リキャスト：なし<br>",
     "Id": 26,
-    "ValueExchange": [30.0, 9.0, 418.0]
+    "ValueExchange": ["30", "9", "418"]
   },
   "27": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 27,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "28": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、パッシブによるダメージが{*val2*}%の脆弱を付与する",
+    "Desc": "Lv3：パッシブによるダメージが{*val1*}%の脆弱を付与する",
     "Id": 28,
-    "ValueExchange": [25.0, 10.0]
+    "ValueExchange": ["10"]
   },
   "29": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-鉄牙が必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 29,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "3": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、リングの数+{*val2*}",
+    "Desc": "Lv3：リングの数+{*val1*}",
     "Id": 3,
-    "ValueExchange": [25.0, 3.0]
+    "ValueExchange": ["3"]
   },
   "30": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、脆弱効果が追加で+{*val2*}%",
+    "Desc": "Lv5：脆弱の効果が追加で+{*val1*}%（B-鉄牙が必要）",
     "Id": 30,
-    "ValueExchange": [15.0, 10.0]
+    "ValueExchange": ["10"]
+  },
+  "3001": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style><br>物理攻撃力+{*val1*}%<br>魔法攻撃力+{*val2*}%。",
+    "Id": 3001,
+    "ValueExchange": ["2", "2"]
+  },
+  "3002": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style><br>物理ダメージ強化+{*val1*}%<br>魔法ダメージ強化+{*val2*}%。",
+    "Id": 3002,
+    "ValueExchange": ["3.5", "3.5"]
+  },
+  "3003": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style><br>攻撃速度+{*val1*}%<br>詠唱速度+{*val2*}%。",
+    "Id": 3003,
+    "ValueExchange": ["2", "2"]
+  },
+  "3004": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style><br>スキルのリキャスト短縮+{*val1*}%。",
+    "Id": 3004,
+    "ValueExchange": ["6"]
+  },
+  "3005": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style><br>会心率+{*val1*}%。",
+    "Id": 3005,
+    "ValueExchange": ["2.5"]
+  },
+  "3006": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>会心時、対象の物理防御の{*val1*}%を無視する。",
+    "Id": 3006,
+    "ValueExchange": ["10"]
+  },
+  "3007": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style><br>会心ダメージ+{*val1*}%。",
+    "Id": 3007,
+    "ValueExchange": ["2.5"]
+  },
+  "3008": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>会心率{*val1*}%を超えると、超過分{*val2*}%ごとに{*val3*}%の会心ダメージに変換する。",
+    "Id": 3008,
+    "ValueExchange": ["100", "1", "1"]
+  },
+  "3009": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style><br>全属性強度+{*val1*}%。",
+    "Id": 3009,
+    "ValueExchange": ["3.5"]
+  },
+  "3010": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>ダメージを与えたとき、{*val1*}%の確率で稲妻チェーンを発動する。リキャスト{*val2*}秒。",
+    "Id": 3010,
+    "ValueExchange": ["20", "5"]
+  },
+  "3011": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>攻撃時、HPを{*val1*}%回復する。",
+    "Id": 3011,
+    "ValueExchange": ["1"]
+  },
+  "3012": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>バリアの所持時、攻撃速度+{*val1*}。",
+    "Id": 3012,
+    "ValueExchange": ["15"]
+  },
+  "3013": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>毎秒HPを{*val1*}%失うが、HPが{*val2*}%を超えている間、ダメージ+{*val3*}%。",
+    "Id": 3013,
+    "ValueExchange": ["1", "90", "15"]
+  },
+  "3014": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>{*val1*}秒ごとに最大HP{*val2*}%分のバリアを生成する。持続{*val3*}秒。",
+    "Id": 3014,
+    "ValueExchange": ["30", "10", "10"]
+  },
+  "3015": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>対象の移動速度が高いほど、与えるダメージがアップする。最大{*val1*}%。",
+    "Id": 3015,
+    "ValueExchange": ["15"]
+  },
+  "3016": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>会心時、そのダメージの{*val1*}%分のHPを回復する。リキャスト{*val2*}秒。",
+    "Id": 3016,
+    "ValueExchange": ["20", "10"]
+  },
+  "3017": {
+    "Desc": "<style=\"tipsYellow\">[人型][シーズン限定]</style>スキル使用時、スタッグチャージを1回発動する。",
+    "Id": 3017,
+    "ValueExchange": []
+  },
+  "3018": {
+    "Desc": "<style=\"tipsYellow\">[人型][シーズン限定]</style>スキルのリキャスト速度+{*val1*}%。",
+    "Id": 3018,
+    "ValueExchange": ["50"]
+  },
+  "3019": {
+    "Desc": "<style=\"tipsYellow\">[人型][シーズン限定]</style>通常攻撃の範囲+{*val1*}%。",
+    "Id": 3019,
+    "ValueExchange": ["100"]
+  },
+  "3020": {
+    "Desc": "<style=\"tipsYellow\">[アルーナ専用][シーズン限定]</style>アルーナのパッシブ効果+{*val1*}%、隕石の落下頻度が{*val2*}秒に短縮され、隕石の数+{*val3*}。",
+    "Id": 3020,
+    "ValueExchange": ["20", "0.2", "2"]
+  },
+  "3021": {
+    "Desc": "<style=\"tipsYellow\">[燃焼]</style><linktext=2001>燃焼</linktext>状態のモンスターに{*val1*}%の追加ダメージを与える。",
+    "Id": 3021,
+    "ValueExchange": ["12"]
+  },
+  "3022": {
+    "Desc": "<style=\"tipsYellow\">[燃焼]</style><linktext=2001>燃焼</linktext>状態のモンスターを倒すと、範囲爆発ダメージを追加で1回発動する。",
+    "Id": 3022,
+    "ValueExchange": []
+  },
+  "3023": {
+    "Desc": "<style=\"tipsYellow\">[燃焼]</style><linktext=2001>燃焼</linktext>状態のモンスターを攻撃すると、スキルのリキャスト-{*val1*}秒。",
+    "Id": 3023,
+    "ValueExchange": ["0.5"]
+  },
+  "3024": {
+    "Desc": "<style=\"tipsYellow\">[タータ専用]</style>タータの通常攻撃時に炎の渦が発生する。",
+    "Id": 3024,
+    "ValueExchange": []
+  },
+  "3025": {
+    "Desc": "<style=\"tipsYellow\">[資源]</style>同調砕晶を獲得したとき、獲得量+{*val1*}%。",
+    "Id": 3025,
+    "ValueExchange": ["20"]
+  },
+  "3026": {
+    "Desc": "<style=\"tipsYellow\">[資源]</style>商品購入後、同調砕晶が{*val1*}%還元される。この効果で還元された砕晶は増幅の対象にならない。",
+    "Id": 3026,
+    "ValueExchange": ["20"]
+  },
+  "3027": {
+    "Desc": "<style=\"tipsYellow\">[資源]</style>所持する同調砕晶{*val1*}につき、ダメージ+{*val2*}%。",
+    "Id": 3027,
+    "ValueExchange": ["200", "1"]
+  },
+  "3028": {
+    "Desc": "<style=\"tipsYellow\">[資源]</style>同調砕晶が{*val1*}を超えている間、攻撃時に波が発生する。リキャスト{*val2*}秒。",
+    "Id": 3028,
+    "ValueExchange": ["5000", "10"]
+  },
+  "3029": {
+    "Desc": "<style=\"tipsYellow\">[チャージ]</style>チャージが1スタック溜まるごとに、オルヴェラの剣光を1回自動で放つ。",
+    "Id": 3029,
+    "ValueExchange": []
+  },
+  "3030": {
+    "Desc": "<style=\"tipsYellow\">[チャージ]</style>チャージが最大スタックに達したとき、次回のスキルで与えるダメージが2倍になり、対象に{*val1*}秒間の脆弱を付与する。",
+    "Id": 3030,
+    "ValueExchange": ["100"]
+  },
+  "3031": {
+    "Desc": "<style=\"tipsYellow\">[チャージ]</style>攻撃力がチャージ回数に応じて永続的にアップする。最大{*val1*}スタックまで。",
+    "Id": 3031,
+    "ValueExchange": ["500"]
+  },
+  "3032": {
+    "Desc": "<style=\"tipsYellow\">[オルヴェラ専用]</style>オルヴェラが周囲の対象に雷撃を放ち続け、一定確率で対象に麻痺を付与する。リキャスト1秒。",
+    "Id": 3032,
+    "ValueExchange": []
+  },
+  "3033": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>会心時、スキルのリキャストをリセットする。この効果は{*val1*}秒間に1回のみ発動。",
+    "Id": 3033,
+    "ValueExchange": ["20"]
+  },
+  "3034": {
+    "Desc": "<style=\"tipsYellow\">[闇]</style><br>闇属性強度+{*val1*}%。",
+    "Id": 3034,
+    "ValueExchange": ["2.5"]
+  },
+  "3035": {
+    "Desc": "<style=\"tipsYellow\">[光]</style><br>光属性強度+{*val1*}%。",
+    "Id": 3035,
+    "ValueExchange": ["2.5"]
+  },
+  "3036": {
+    "Desc": "<style=\"tipsYellow\">[氷]</style><br>氷属性強度+{*val1*}%。",
+    "Id": 3036,
+    "ValueExchange": ["2.5"]
+  },
+  "3037": {
+    "Desc": "<style=\"tipsYellow\">[火]</style><br>火属性強度+{*val1*}%。",
+    "Id": 3037,
+    "ValueExchange": ["2.5"]
+  },
+  "3038": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>ダメージを与えたとき、{*val1*}%の確率でフレイムインパクトを発動する。リキャスト{*val2*}秒。",
+    "Id": 3038,
+    "ValueExchange": ["20", "5"]
+  },
+  "3039": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>ダメージを与えたとき、{*val1*}%の確率でウォータートルネードを発動する。持続{*val2*}秒、リキャスト{*val3*}秒。",
+    "Id": 3039,
+    "ValueExchange": ["20", "2", "8"]
+  },
+  "3040": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>ダメージを与えたとき、{*val1*}%の確率でツルを発生させる。リキャスト{*val2*}秒。",
+    "Id": 3040,
+    "ValueExchange": ["20", "5"]
+  },
+  "3041": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>すべてのアイテムによって発動する特殊効果のダメージ+{*val1*}%。",
+    "Id": 3041,
+    "ValueExchange": ["10"]
+  },
+  "3042": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>特殊効果ダメージが{*val1*}回発動するたび、巨大隕石が1つ落下し、広範囲ダメージを与える。",
+    "Id": 3042,
+    "ValueExchange": ["30"]
+  },
+  "3043": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>HPが{*val1*}%以下になると、最大HPの{*val2*}%分のバリアを生成する。リキャスト{*val3*}秒。",
+    "Id": 3043,
+    "ValueExchange": ["50", "50", "60"]
+  },
+  "3044": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>超過した回復量がバリア値に変換される。",
+    "Id": 3044,
+    "ValueExchange": []
+  },
+  "3045": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>毎秒HPを{*val1*}%失う。HPが{*val2*}%のとき、攻撃速度+{*val3*}%。",
+    "Id": 3045,
+    "ValueExchange": ["1", "100", "25"]
+  },
+  "3046": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style><br>バリア強度+{*val1*}%。",
+    "Id": 3046,
+    "ValueExchange": ["3"]
+  },
+  "3047": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>スキル発動後、{*val1*}%の確率でスキルのリキャストをリセットする。",
+    "Id": 3047,
+    "ValueExchange": ["20"]
+  },
+  "3048": {
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>最大HPの{*val1*}%分のバリア値を所持するごとに、攻撃力+{*val2*}%。",
+    "Id": 3048,
+    "ValueExchange": ["1", "0.2"]
+  },
+  "3049": {
+    "Desc": "<style=\"tipsYellow\">[百鬼]</style><linktext=2009>彷魂</linktext>数の上限+{*val1*}。",
+    "Id": 3049,
+    "ValueExchange": ["2"]
+  },
+  "3050": {
+    "Desc": "<style=\"tipsYellow\">[百鬼]</style><linktext=2009>彷魂</linktext>ダメージ+{*val1*}%。",
+    "Id": 3050,
+    "ValueExchange": ["7"]
+  },
+  "3051": {
+    "Desc": "<style=\"tipsYellow\">[百鬼]</style>フィールドに<linktext=2009>彷魂</linktext>が{*val1*}体存在するごとに、会心率+{*val2*}%。",
+    "Id": 3051,
+    "ValueExchange": ["1", "2"]
+  },
+  "3052": {
+    "Desc": "<style=\"tipsYellow\">[ロローラ専用]</style>各WAVE開始時、ロローラが占いを行い、以下の{*val1*}個のバフからランダムに1個獲得する。<br>陽光の加護：最大HPの{*val2*}%分のバリアを獲得する。<br>新月の祝福：攻撃力+{*val3*}%。<br>星と歩む：<linktext=2009>彷魂</linktext>の移動速度+{*val4*}%。",
+    "Id": 3052,
+    "ValueExchange": ["3", "100", "30", "100"]
+  },
+  "3053": {
+    "Desc": "<style=\"tipsYellow\">[極寒]</style><linktext=2002>寒気</linktext>のスタック数上限+{*val1*}。",
+    "Id": 3053,
+    "ValueExchange": ["1"]
+  },
+  "3054": {
+    "Desc": "<style=\"tipsYellow\">[極寒]</style><linktext=2003>氷結</linktext>の持続時間+{*val1*}秒。",
+    "Id": 3054,
+    "ValueExchange": ["3"]
+  },
+  "3055": {
+    "Desc": "<style=\"tipsYellow\">[極寒]</style><linktext=2003>氷結</linktext>状態のモンスターを攻撃すると、アイススピアが発動し、追加ダメージを与える。リキャスト{*val1*}秒。",
+    "Id": 3055,
+    "ValueExchange": ["1"]
+  },
+  "3056": {
+    "Desc": "<style=\"tipsYellow\">[ボイス専用]</style>通常攻撃で巨大アイスメテオを召喚し、ダメージ+{*val1*}%。",
+    "Id": 3056,
+    "ValueExchange": ["100"]
   },
   "31": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：静止状態でない対象を優先してクモの糸を吐き、<style=\"accent-gn\">{*val1*}%</style>の一定確率で対象を<style=\"accent-gn\">{*val2*}秒間</style>静止状態にする。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val4*}%</style><br><br><style=\"tipsYellow\">クモの急襲</style>：地中に1秒間潜った後飛び出し、対象を必ず1秒間スタンさせる。<br>攻撃範囲：<style=\"accent-gn\">{*val5*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val6*}%</style><br>リキャスト：<style=\"accent-gn\">{*val7*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m以内の{*val3*}体</style>の<linktext=2007>静止</linktext>状態でない対象にクモの糸を吐き、<style=\"accent-gn\">{*val4*}%</style>のダメージを与え、<style=\"accent-gn\">{*val5*}%の確率で</style><linktext=2007>静止</linktext>を付与する。<br><br><style=\"tipsYellow\">クモの急襲</style>：地中に{*val6*}秒間潜った後、地中から飛び出し、<style=\"accent-gn\">半径{*val7*}m</style>以内の対象に<style=\"accent-gn\">{*val8*}%</style>のダメージを与え、<style=\"accent-gn\"><linktext=2008>スタン</linktext></style>を付与する。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
     "Id": 31,
-    "ValueExchange": [40.0, 5.0, 10.0, 142.0, 10.0, 205.0, 15.0]
+    "ValueExchange": ["170", "10", "1", "202", "40", "2.5", "10", "314", "10"]
   },
   "32": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 32,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "33": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、静止の確率が{*val2*}%にアップする",
+    "Desc": "Lv3：<linktext=2007>静止</linktext>の確率が{*val1*}%に上昇する",
     "Id": 33,
-    "ValueExchange": [40.0, 100.0]
+    "ValueExchange": ["100"]
   },
   "34": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-ゴーストカニクモが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 34,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "35": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、スタンの時間+{*val2*}秒",
+    "Desc": "Lv5：<linktext=2008>スタン</linktext>時間+{*val1*}秒（B-ゴーストカニクモが必要）",
     "Id": 35,
-    "ValueExchange": [30.0, 2.5]
+    "ValueExchange": ["2.5"]
   },
   "36": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">{*val1*}</style>つのウォーターボールを落とし、スロウを付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val3*}%×ウォーターボールの数</style><br><br><style=\"tipsYellow\">魚群の暴走</style>：幻影のスカイフィッシュを1匹召喚し、前方へ突進させる。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">{*val2*}個</style>のウォーターボールを落とし、<style=\"accent-gn\">半径{*val3*}m</style>以内の対象に<style=\"accent-gn\">{*val4*}%</style>のダメージを与え、<linktext=2002>寒気</linktext>を<style=\"accent-gn\">{*val5*}スタック</style>付与する。<br><br><style=\"tipsYellow\">魚群の暴走</style>：幻影のスカイフィッシュを<style=\"accent-gn\">{*val6*}匹</style>召喚し、前方<style=\"accent-gn\">直線{*val7*}m</style>以内の対象に<style=\"accent-gn\">{*val8*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
     "Id": 36,
-    "ValueExchange": [6.0, 6.5, 45.0, 8.0, 287.0, 15.0]
+    "ValueExchange": ["170", "1", "9", "75", "1", "1", "8", "149", "15"]
   },
   "37": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 37,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "38": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、スカイフィッシュ+{*val2*}、同調砕晶の獲得率+{*val3*}%",
+    "Desc": "Lv3：スカイフィッシュの数+{*val1*}、同調砕晶の獲得率+{*val2*}%",
     "Id": 38,
-    "ValueExchange": [25.0, 1.0, 5.0]
+    "ValueExchange": ["1", "5"]
   },
   "39": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-ヘヴンスカイが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 39,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "4": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-災厄の主が必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 4,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "40": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、スカイフィッシュが追加で+{*val2*}、同調砕晶の獲得率が追加で+{*val3*}%",
+    "Desc": "Lv5：スカイフィッシュの数が追加で+{*val1*}、同調砕晶の獲得率が追加で+{*val2*}%（B-ヘヴンスカイが必要）",
     "Id": 40,
-    "ValueExchange": [15.0, 1.0, 5.0]
+    "ValueExchange": ["1", "5"]
   },
   "41": {
     "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方にパンチを2回繰り出す。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val2*}%×2</style><br><br><style=\"tipsYellow\">命取りの火傷</style>：前方に5秒間炎を吐き出し続け、燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val4*}%</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
     "Id": 41,
-    "ValueExchange": [8.0, 70.0, 15.0, 552.0, 15.0]
+    "ValueExchange": ["8", "70", "15", "552", "15"]
   },
   "42": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 42,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "43": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、攻撃時にHPを{*val2*}%回復する",
+    "Desc": "Lv3：攻撃時にHPを{*val1*}%回復する",
     "Id": 43,
-    "ValueExchange": [40.0, 5.0]
+    "ValueExchange": ["5"]
   },
   "44": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-フレイムオーガが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 44,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "45": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、上限を超えた回復量がバリアに変換される",
+    "Desc": "Lv5：超過した回復量をバリアに変換する（B-フレイムオーガが必要）",
     "Id": 45,
-    "ValueExchange": [30.0]
+    "ValueExchange": []
   },
   "46": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：対象を踏みつける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">雷天の盾</style>：雷の盾を獲得し、<style=\"accent-gn\">{*val3*}秒</style>ごとにランダムな対象1体に雷撃を放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m</style>以内の対象に踏撃を放ち、<style=\"accent-gn\">{*val3*}%</style>のダメージを与える。<br><br><style=\"tipsYellow\">雷天の盾</style>：雷の盾を獲得し、<style=\"accent-gn\">{*val4*}秒</style>ごとに<style=\"accent-gn\">半径{*val5*}m</style>以内のランダムな対象{*val6*}体に雷撃を放ち、<style=\"accent-gn\">{*val7*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val8*}秒</style><br>",
     "Id": 46,
-    "ValueExchange": [6.0, 141.0, 2.0, 20.0, 287.0, 15.0]
+    "ValueExchange": ["170", "5", "42", "2", "20", "1", "162", "15"]
   },
   "47": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 47,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "48": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、攻撃目標が燃焼状態の場合、その燃焼を消費して雷火隠滅を1回発動し、大ダメージの範囲攻撃を与える",
+    "Desc": "Lv3：攻撃対象が<linktext=2001>燃焼</linktext>状態の場合、その<linktext=2001>燃焼</linktext>を消費して雷火隠滅を1回発動し、大ダメージの範囲攻撃を与える",
     "Id": 48,
-    "ValueExchange": [25.0]
+    "ValueExchange": []
   },
   "49": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-サンダーオーガが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 49,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "5": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、リングの範囲+{*val2*}%",
+    "Desc": "Lv5：リングの範囲+{*val1*}%",
     "Id": 5,
-    "ValueExchange": [15.0, 100.0]
+    "ValueExchange": ["100"]
   },
   "50": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、雷火隠滅が対象の燃焼を消費しなくなる",
+    "Desc": "Lv5：雷火隠滅が対象の<linktext=2001>燃焼</linktext>を消費しなくなる（B-サンダーオーガが必要）",
     "Id": 50,
-    "ValueExchange": [15.0]
+    "ValueExchange": []
+  },
+  "5001": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>星脈前方のルート上にトラップを{*val1*}個設置する。トラップは通過する通常モンスターを倒すと効果を失う。",
+    "Id": 5001,
+    "ValueExchange": ["5"]
+  },
+  "5002": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>同調イマジンを{*val1*}回レベルアップするたび、そのバトル中、同調イマジンの攻撃力+{*val2*}%、最大+{*val3*}%。",
+    "Id": 5002,
+    "ValueExchange": ["1", "1", "20"]
+  },
+  "5003": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>選択すると、ランダムな星脈の恵みを{*val1*}個獲得し、自動で開く。",
+    "Id": 5003,
+    "ValueExchange": ["3"]
+  },
+  "5004": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>開始時に同調砕晶を{*val1*}獲得するが、砕晶の獲得率-{*val2*}%。この効果は次の{*val3*}WAVE終了時まで持続する。",
+    "Id": 5004,
+    "ValueExchange": ["2500", "20", "5"]
+  },
+  "5005": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>ダッシュスキルのリキャストが{*val1*}秒に短縮される。",
+    "Id": 5005,
+    "ValueExchange": ["1"]
+  },
+  "5006": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>星脈エネルギーの上限-{*val1*}%だが、各WAVE終了後、星脈エネルギーが{*val2*}回復する。",
+    "Id": 5006,
+    "ValueExchange": ["30", "2"]
+  },
+  "5007": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>各WAVE終了後、バトル中の同調イマジンの会心率+{*val1*}%、最大+{*val2*}%。",
+    "Id": 5007,
+    "ValueExchange": ["2", "40"]
+  },
+  "5008": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>奇数回目に配置した同調イマジンの攻撃力-{*val1*}%、偶数回目に配置した同調イマジンの攻撃力+{*val2*}%。",
+    "Id": 5008,
+    "ValueExchange": ["20", "30"]
+  },
+  "5009": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>イマジン配置枠がさらに+{*val1*}。",
+    "Id": 5009,
+    "ValueExchange": ["2"]
+  },
+  "5010": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>すべての上級の同調イマジンを各{*val1*}体獲得する。",
+    "Id": 5010,
+    "ValueExchange": ["2"]
+  },
+  "5011": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>同じエピック同調イマジンをランダムに{*val1*}体獲得するが、ショップでエピック同調イマジンが更新されなくなる。この効果は次の{*val2*}WAVE終了時まで持続する。",
+    "Id": 5011,
+    "ValueExchange": ["2", "10"]
+  },
+  "5012": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>{*val1*}WAVE終了ごとに、星脈付近にカボチャが出現し、破壊すると同調砕晶を{*val2*}獲得できる。",
+    "Id": 5012,
+    "ValueExchange": ["3", "800"]
+  },
+  "5013": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>各WAVE開始時、フィールド上のランダムな同調イマジン{*val1*}体のスキルのリキャスト-{*val2*}%。この効果は現在のWAVE終了まで持続する。",
+    "Id": 5013,
+    "ValueExchange": ["2", "100"]
+  },
+  "5014": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>スタック可能な同調媒体を獲得したとき、{*val1*}%の確率で追加で{*val2*}個獲得する。この補給品は無限WAVEでは効果を発揮しない。",
+    "Id": 5014,
+    "ValueExchange": ["20", "1"]
+  },
+  "5015": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>同調砕晶を{*val1*}消費し、同じ同調イマジンをランダムで{*val2*}体獲得する。品質は最低でも卓越になる。",
+    "Id": 5015,
+    "ValueExchange": ["1800", "5"]
+  },
+  "5016": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>配置したトラップは、{*val1*}WAVE経過ごとに再び有効になる。",
+    "Id": 5016,
+    "ValueExchange": ["2"]
+  },
+  "5017": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>次回のショップ更新時、ショップが最高レベルになる。",
+    "Id": 5017,
+    "ValueExchange": []
+  },
+  "5018": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>選択すると、現在の同調砕晶数+{*val1*}%。",
+    "Id": 5018,
+    "ValueExchange": ["100"]
+  },
+  "5019": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>各WAVE終了時、中和反応触媒を{*val1*}個獲得する。所持数が上限に達すると、この効果は無効になる。",
+    "Id": 5019,
+    "ValueExchange": ["2"]
+  },
+  "5020": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>同じ型の同調イマジン1体につき会心率+{*val1*}%。",
+    "Id": 5020,
+    "ValueExchange": ["5"]
+  },
+  "5021": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>星脈エネルギー上限-{*val1*}%、フィールド上のすべての同調イマジンの攻撃力+{*val2*}%。",
+    "Id": 5021,
+    "ValueExchange": ["50", "60"]
+  },
+  "5022": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>Lv.{*val1*}以上の同調イマジンのダメージ増加効果+{*val2*}%。",
+    "Id": 5022,
+    "ValueExchange": ["4", "40"]
+  },
+  "5023": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>選択後に未使用のイマジン配置枠1つにつき、同調砕晶を{*val1*}獲得する。",
+    "Id": 5023,
+    "ValueExchange": ["2000"]
+  },
+  "5024": {
+    "Desc": "<style=\"tipsYellow\">[補給品]</style>同調イマジン・いたずらナッポの分身を{*val1*}体獲得する。スキルはいたずらナッポと同じだが、売却価格は0。",
+    "Id": 5024,
+    "ValueExchange": ["3"]
+  },
+  "5025": {
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用後、フィールド上のすべてのモンスターが{*val1*}秒間静止する。リキャスト{*val2*}秒。",
+    "Id": 5025,
+    "ValueExchange": ["8", "120"]
+  },
+  "5026": {
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用後、フィールド上のすべての同調イマジンのすべての速度+{*val1*}%、ダメージ増加効果+{*val2*}%。持続{*val3*}秒、リキャスト{*val4*}秒。",
+    "Id": 5026,
+    "ValueExchange": ["10", "50", "10", "180"]
+  },
+  "5027": {
+    "Desc": "<style=\"tipsYellow\">[いたずらナッポ専用]</style>次回のショップ更新時、必ずいたずらナッポが出現する。それ以降のショップ更新時にも、一定確率でいたずらナッポが出現するようになる。",
+    "Id": 5027,
+    "ValueExchange": []
+  },
+  "5028": {
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用後、フィールド上のすべての同調イマジンの会心率+{*val1*}%、持続{*val2*}秒、リキャスト{*val3*}秒。",
+    "Id": 5028,
+    "ValueExchange": ["100", "10", "180"]
+  },
+  "5029": {
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用後、フィールド上のすべての通常モンスターを撃破する。リキャスト{*val1*}秒。",
+    "Id": 5029,
+    "ValueExchange": ["240"]
+  },
+  "5030": {
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用後、同調砕晶を{*val1*}獲得する。{*val2*}WAVEごとに1回のみ使用できる。",
+    "Id": 5030,
+    "ValueExchange": ["3000", "5"]
+  },
+  "5031": {
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用すると、このバトル中に壊したカボチャの数に応じて、フィールド上のすべての同調イマジンにバリアを付与する。カボチャ{*val1*}個につき、最大HPの{*val2*}%分のバリアを付与する。{*val3*}秒持続、リキャスト{*val4*}秒。",
+    "Id": 5031,
+    "ValueExchange": ["1", "10", "30", "120"]
+  },
+  "5032": {
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用後、すべての彷魂の移動速度+{*val1*}%、ダメージ+{*val2*}%。持続{*val3*}秒、リキャスト{*val4*}秒。",
+    "Id": 5032,
+    "ValueExchange": ["100", "100", "10", "120"]
+  },
+  "5033": {
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用後、星脈エネルギーを{*val1*}回復、{*val2*}WAVEごとに1回のみ使用できる。",
+    "Id": 5033,
+    "ValueExchange": ["10", "5"]
   },
   "51": {
     "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に5秒間氷を吐き出し続ける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">零度領域</style>：ランダムな対象3体に対して氷のトゲを放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val4*}%</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
     "Id": 51,
-    "ValueExchange": [15.0, 360.0, 20.0, 246.0, 15.0]
+    "ValueExchange": ["15", "360", "20", "246", "15"]
   },
   "52": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 52,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "53": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、氷のトゲの場所に砕晶の塊が形成され、拾うとランダムで同調砕晶を{*val2*}～{*val3*}獲得する",
+    "Desc": "Lv3：氷のトゲの場所に砕晶の塊が形成され、拾うとランダムで同調砕晶を{*val1*}～{*val2*}獲得する",
     "Id": 53,
-    "ValueExchange": [25.0, 1.0, 20.0]
+    "ValueExchange": ["1", "20"]
   },
   "54": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-フロストオーガが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 54,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "55": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、氷のトゲの数+{*val2*}",
+    "Desc": "Lv5：氷のトゲの数+{*val1*}（B-フロストオーガが必要）",
     "Id": 55,
-    "ValueExchange": [15.0, 2.0]
+    "ValueExchange": ["2"]
   },
   "56": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：ムークを1体召喚して戦闘を支援させる。フィールド上にすでにムークが存在する場合、自身が召喚したすべてのムークの攻撃速度がアップする。最大<style=\"accent-gn\">{*val1*}</style>スタックまで。<br>攻撃範囲：なし<br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">ボスの意志</style>：範囲内の味方のHPを<style=\"accent-gn\">{*val3*}%</style>回復し、味方の攻撃力+<style=\"accent-gn\">{*val4*}%</style>。<style=\"accent-gn\">{*val5*}秒</style>持続。<br>影響範囲：<style=\"accent-gn\">{*val6*}</style><br>ダメージ倍率：なし<br>リキャスト：<style=\"accent-gn\">{*val7*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：ムークを3体召喚して戦闘をアシストさせる。フィールドにすでにムークがいる場合、自身が召喚したすべてのムークの攻撃速度が上昇する。最大<style=\"accent-gn\">{*val2*}</style>スタック。<br><br><style=\"tipsYellow\">ボスの意志</style>：<style=\"accent-gn\">半径{*val3*}m以内</style>の味方のHPを<style=\"accent-gn\">{*val4*}%</style>回復し、<style=\"accent-gn\">攻撃力+{*val5*}%</style>を付与する。<style=\"accent-gn\">{*val6*}秒</style>持続。<br>リキャスト：<style=\"accent-gn\">{*val7*}秒</style><br>",
     "Id": 56,
-    "ValueExchange": [4.0, 170.0, 17.0, 20.0, 10.0, 15.0, 15.0]
+    "ValueExchange": ["170", "4", "15", "17", "10", "10", "15"]
   },
   "57": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 57,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "58": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、追加でボウガンムークを1体召喚する",
+    "Desc": "Lv3：パッシブで付与する物理攻撃力と魔法攻撃力が追加で+{*val1*}%",
     "Id": 58,
-    "ValueExchange": [25.0]
+    "ValueExchange": ["6"]
   },
   "59": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-キングムークが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 59,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "6": {
     "Desc": "<style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">{*val1*}秒</style>ごとに隕石を1つ落とす。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val3*}%</style><br><br><style=\"tipsYellow\">精霊鹿の奇襲</style>：精霊鹿を呼び出して前方へ疾走させる。フィールド上にいる人型の同調イマジン1体につき、追加で1回発動する。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 6,
-    "ValueExchange": [0.5, 6.0, 112.0, 15.0, 627.0, 15.0]
+    "ValueExchange": ["0.5", "6", "112", "15", "627", "15"]
   },
   "60": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、追加でムークボスを1体召喚する",
+    "Desc": "Lv5：パッシブで付与する物理攻撃力と魔法攻撃力が追加で+{*val1*}%（B-キングムークが必要）",
     "Id": 60,
-    "ValueExchange": [15.0]
+    "ValueExchange": ["6"]
+  },
+  "6001": {
+    "Desc": "いたずらナイトで最もよく見かけるいたずらっ子。",
+    "Id": 6001,
+    "ValueExchange": []
+  },
+  "6002": {
+    "Desc": "開始時、自身の最大HPの{*val1*}%分のバリアを持つ。",
+    "Id": 6002,
+    "ValueExchange": ["30"]
+  },
+  "6003": {
+    "Desc": "{*val1*}秒ごとにHPを{*val2*}%回復する。",
+    "Id": 6003,
+    "ValueExchange": ["1", "1"]
+  },
+  "6004": {
+    "Desc": "最大HP-{*val1*}%だが、移動速度+{*val2*}%。",
+    "Id": 6004,
+    "ValueExchange": ["50", "100"]
+  },
+  "6005": {
+    "Desc": "地中に潜り、{*val1*}秒後に地上へ出る。",
+    "Id": 6005,
+    "ValueExchange": ["10"]
+  },
+  "6006": {
+    "Desc": "受ける物理ダメージ-{*val1*}%、受ける魔法ダメージ+{*val2*}%。",
+    "Id": 6006,
+    "ValueExchange": ["80", "50"]
+  },
+  "6007": {
+    "Desc": "受ける魔法ダメージ-{*val1*}%、受ける物理ダメージ+{*val2*}%。",
+    "Id": 6007,
+    "ValueExchange": ["80", "50"]
+  },
+  "6008": {
+    "Desc": "障害物を無視して星脈へ飛んでいく。",
+    "Id": 6008,
+    "ValueExchange": []
+  },
+  "6009": {
+    "Desc": "障害物を無視して星脈へ飛んでいく。<br>最大HP-{*val1*}%だが、移動速度+{*val2*}%。",
+    "Id": 6009,
+    "ValueExchange": ["60", "100"]
+  },
+  "6010": {
+    "Desc": "受けるすべてのダメージが{*val1*}まで軽減される。",
+    "Id": 6010,
+    "ValueExchange": ["1"]
+  },
+  "6011": {
+    "Desc": "ダメージを受けると、攻撃者にその最大HPの{*val1*}%分のダメージを与える。",
+    "Id": 6011,
+    "ValueExchange": ["5"]
+  },
+  "6012": {
+    "Desc": "最大HP+{*val1*}%。同調イマジンが対象にダメージを与えたとき、同じ型の同調イマジンが{*val2*}体いるごとに、ダメージ+{*val3*}%。",
+    "Id": 6012,
+    "ValueExchange": ["150", "1", "10"]
+  },
+  "6013": {
+    "Desc": "最大HP-{*val1*}%だが、ダメージを受けると攻撃者に呪いを{*val2*}スタック付与する。<br><style=\"tipsYellow\">呪い</style>：1スタックにつき、自身が与えるダメージ-{*val3*}%、最大{*val4*}スタック、持続{*val5*}秒。",
+    "Id": 6013,
+    "ValueExchange": ["50", "1", "3", "20", "10"]
+  },
+  "6014": {
+    "Desc": "受ける光属性ダメージ-{*val1*}%、受ける闇属性ダメージ+{*val2*}%。",
+    "Id": 6014,
+    "ValueExchange": ["50", "50"]
+  },
+  "6015": {
+    "Desc": "受ける闇属性ダメージ-{*val1*}%、受ける光属性ダメージ+{*val2*}%。",
+    "Id": 6015,
+    "ValueExchange": ["50", "50"]
+  },
+  "6016": {
+    "Desc": "受ける火属性ダメージ-{*val1*}%、受ける氷属性ダメージ+{*val2*}%。",
+    "Id": 6016,
+    "ValueExchange": ["50", "50"]
+  },
+  "6017": {
+    "Desc": "受ける氷属性ダメージ-{*val1*}%、受ける火属性ダメージ+{*val2*}%。",
+    "Id": 6017,
+    "ValueExchange": ["50", "50"]
   },
   "61": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に向かって振り下ろす。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">大軍一掃</style>：前方に向かってなぎ払いを2回放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val4*}%×2</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：武器を振り下ろし、前方<style=\"accent-gn\">扇形{*val2*}m</style>以内の対象に<style=\"accent-gn\">{*val3*}%</style>のダメージを与える。<br><br><style=\"tipsYellow\">大軍一掃</style>：<style=\"accent-gn\">半径{*val4*}m</style>以内の対象に<style=\"accent-gn\">{*val5*}回</style>薙ぎ払いを放ち、1回につき<style=\"accent-gn\">{*val6*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val7*}秒</style><br>",
     "Id": 61,
-    "ValueExchange": [10.0, 153.0, 10.0, 170.0, 15.0]
+    "ValueExchange": ["170", "12.5", "36", "12.5", "2", "34", "15"]
   },
   "62": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 62,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "63": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、通常攻撃時に追加で地割れ波を{*val2*}つ放ち、攻撃距離+{*val3*}%",
+    "Desc": "Lv3：パッシブで付与する攻撃速度と詠唱速度が追加で+{*val1*}%",
     "Id": 63,
-    "ValueExchange": [25.0, 2.0, 50.0]
+    "ValueExchange": ["8"]
   },
   "64": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-ゴブリンキングが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 64,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "65": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、ダメージ+{*val2*}%",
+    "Desc": "Lv5：パッシブで付与する攻撃速度と詠唱速度が追加で+{*val1*}%（B-キングゴブリンが必要）",
     "Id": 65,
-    "ValueExchange": [15.0, 20.0]
+    "ValueExchange": ["8"]
   },
   "66": {
     "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に斬りつけを放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">風の主</style>：ランダムな対象2体に対して竜巻を放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val4*}%×{*val5*}秒</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 66,
-    "ValueExchange": [6.5, 253.0, 20.0, 84.0, 5.0, 15.0]
+    "ValueExchange": ["6.5", "253", "20", "84", "5", "15"]
   },
   "67": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 67,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "68": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、フィールドに存在するチャージ型同調イマジン1体につき、竜巻の数+{*val2*}、上限+{*val3*}",
+    "Desc": "Lv3：フィールドに存在するチャージ型同調イマジン1体につき、竜巻の数+{*val1*}、上限+{*val2*}",
     "Id": 68,
-    "ValueExchange": [25.0, 1.0, 3.0]
+    "ValueExchange": ["1", "3"]
   },
   "69": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-嵐のキングゴブリンが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 69,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "7": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 7,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "70": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、竜巻が1つ出現するごとに、チャージ型同調イマジンの次回のスキルダメージがアップする。最大{*val2*}まで",
+    "Desc": "Lv5：竜巻が出現するたびに、チャージ型同調イマジンの次のスキルで与えるダメージが上昇する。累積上限は{*val1*}（B-嵐のキングゴブリンが必要）",
     "Id": 70,
-    "ValueExchange": [15.0, 100.0]
+    "ValueExchange": ["100"]
+  },
+  "7001": {
+    "Desc": "開始時、自身の最大HPの{*val1*}%分のバリアを持つ。",
+    "Id": 7001,
+    "ValueExchange": ["100"]
+  },
+  "7002": {
+    "Desc": "{*val1*}秒ごとに、周囲にいる他のモンスターのHPを{*val2*}%回復する。",
+    "Id": 7002,
+    "ValueExchange": ["1", "5"]
+  },
+  "7003": {
+    "Desc": "開始時は物理シェルを持ち、{*val1*}秒ごとに魔法シェルと切り替わる。<br><style=\"tipsYellow\">物理シェル</style>：受ける物理ダメージ-{*val2*}%。<br><style=\"tipsYellow\">魔法シェル</style>：受ける魔法ダメージ-{*val3*}%。",
+    "Id": 7003,
+    "ValueExchange": ["10", "50", "50"]
+  },
+  "7004": {
+    "Desc": "障害物を無視して星脈へ飛んでいく。<br>正面から受けるダメージ-{*val1*}%、背後から受けるダメージ+{*val2*}%。",
+    "Id": 7004,
+    "ValueExchange": ["50", "50"]
+  },
+  "7005": {
+    "Desc": "{*val1*}秒ごとに、周囲のモンスターに対象のHPの{*val2*}%分のバリアを付与する。持続{*val3*}秒。",
+    "Id": 7005,
+    "ValueExchange": ["5", "20", "5"]
+  },
+  "7006": {
+    "Desc": "フィールド上にいるランダムな1つの型のすべての同調イマジンをロックオンし、毎秒、最大HPの{*val1*}%分のHPを吸収する。{*val2*}秒ごとに選択する型が切り替わる。",
+    "Id": 7006,
+    "ValueExchange": ["1", "10"]
+  },
+  "7007": {
+    "Desc": "攻撃を受けると、その場に残影を1つ残し、自身は{*val1*}秒間のステルス状態になる。<br><style=\"tipsYellow\">残影</style>：周囲の同調イマジンを挑発する。",
+    "Id": 7007,
+    "ValueExchange": ["3"]
+  },
+  "7008": {
+    "Desc": "移動速度+{*val1*}%だが、星脈には入らない。<br>モンスターに触れると、そのモンスターの状態異常を解除し、触れた同調イマジンの召喚物をすべて撃破する。",
+    "Id": 7008,
+    "ValueExchange": ["200"]
+  },
+  "7009": {
+    "Desc": "致死ダメージを受けるとHPを全回復し、移動速度+{*val1*}%。この効果は1回のみ発動。",
+    "Id": 7009,
+    "ValueExchange": ["50"]
+  },
+  "7010": {
+    "Desc": "最大HP-{*val1*}%だが、移動速度+{*val2*}%。",
+    "Id": 7010,
+    "ValueExchange": ["50", "200"]
+  },
+  "7011": {
+    "Desc": "受ける光属性ダメージ-{*val1*}%。ダメージを受けると攻撃者のバリアを破壊する。",
+    "Id": 7011,
+    "ValueExchange": ["75"]
+  },
+  "7012": {
+    "Desc": "受ける闇属性ダメージ-{*val1*}%。付近のモンスターは彷魂によるダメージを無効化する。",
+    "Id": 7012,
+    "ValueExchange": ["75"]
+  },
+  "7013": {
+    "Desc": "受ける火属性ダメージ-{*val1*}%。付近のモンスターは燃焼を無効化する。",
+    "Id": 7013,
+    "ValueExchange": ["75"]
+  },
+  "7014": {
+    "Desc": "受ける氷属性ダメージ-{*val1*}%。付近のモンスターは寒気と氷結を無効化する。",
+    "Id": 7014,
+    "ValueExchange": ["75"]
   },
   "71": {
     "Desc": "<style=\"tipsYellow\">炎のスパイラル</style>：自身を回転させ、対象に燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
     "Id": 71,
-    "ValueExchange": [5.400000095367432, 60.0, 9.0]
+    "ValueExchange": ["5.4", "60", "9"]
   },
   "72": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 72,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "73": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、燃焼状態の対象が死亡すると同調砕晶を{*val2*}獲得する。",
+    "Desc": "Lv3：燃焼状態の対象が死亡すると同調砕晶を{*val1*}獲得する",
     "Id": 73,
-    "ValueExchange": [40.0, 15.0]
+    "ValueExchange": ["15"]
   },
   "74": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-異国の山賊長ヒグマが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 74,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "75": {
-    "Desc": "Lv5：攻撃力+{*val1*}%、燃焼状態の対象が死亡すると追加で同調砕晶を{*val2*}獲得する。",
+    "Desc": "Lv5：燃焼状態の対象が死亡すると、同調砕晶を追加で{*val1*}獲得する（B-異国の山賊長ヒグマが必要）",
     "Id": 75,
-    "ValueExchange": [30.0, 15.0]
+    "ValueExchange": ["15"]
   },
   "76": {
-    "Desc": "<style=\"tipsYellow\">落雷のオーブ</style>：落雷のオーブを1つ召喚し、<style=\"accent-gn\">{*val1*}秒</style>ごとにランダムな対象1体に雷撃を放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">落雷のオーブ</style>：落雷のオーブを召喚する。毎秒、<style=\"accent-gn\">半径{*val2*}m</style>以内のランダムな対象{*val3*}体に雷撃を放ち、<style=\"accent-gn\">{*val4*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
     "Id": 76,
-    "ValueExchange": [1.0, 12.0, 100.0, 15.0]
+    "ValueExchange": ["100", "12", "1", "150", "15"]
   },
   "77": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 77,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "78": {
     "Desc": "Lv3：攻撃力+{*val1*}%",
     "Id": 78,
-    "ValueExchange": [40.0]
+    "ValueExchange": ["25"]
   },
   "79": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-猛る金色が必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 79,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "8": {
-    "Desc": "Lv3：攻撃力+{*val1*}%、攻撃時に同調砕晶を{*val2*}獲得する",
+    "Desc": "Lv3：攻撃時に同調砕晶を{*val1*}獲得する",
     "Id": 8,
-    "ValueExchange": [25.0, 10.0]
+    "ValueExchange": ["10"]
   },
   "80": {
-    "Desc": "Lv5：攻撃力+{*val1*}%",
+    "Desc": "Lv5：攻撃力+{*val1*}%（B-猛る金色が必要）",
     "Id": 80,
-    "ValueExchange": [30.0]
+    "ValueExchange": ["15"]
+  },
+  "8001": {
+    "Desc": "付近にいるいたずらゴブリン{*val1*}体につき、自身が受けるダメージ-{*val2*}%。",
+    "Id": 8001,
+    "ValueExchange": ["1", "10"]
+  },
+  "8002": {
+    "Desc": "石化無効。地中に潜って移動し、{*val1*}秒ごとに地上へ出て{*val2*}秒間休憩する。",
+    "Id": 8002,
+    "ValueExchange": ["8", "8"]
+  },
+  "8003": {
+    "Desc": "同調イマジンを配置するたび、プレデターに同調砕晶を{*val1*}食われる。",
+    "Id": 8003,
+    "ValueExchange": ["1000"]
+  },
+  "8004": {
+    "Desc": "障害物を無視して星脈へ飛んでいく。",
+    "Id": 8004,
+    "ValueExchange": []
+  },
+  "8005": {
+    "Desc": "登場後、フィールドにいるすべての同調イマジンが通常攻撃をできなくなるが、スキルのリキャスト-{*val1*}%。",
+    "Id": 8005,
+    "ValueExchange": ["50"]
+  },
+  "8006": {
+    "Desc": "開始時に無敵効果を得る。フィールドにソウルスピアを{*val1*}本召喚し、すべて破壊されると無敵効果が解除される。",
+    "Id": 8006,
+    "ValueExchange": ["3"]
+  },
+  "8007": {
+    "Desc": "開始時、移動速度+{*val1*}%だが、毎秒{*val2*}%ずつ低下し、最低{*val3*}%まで低下する。",
+    "Id": 8007,
+    "ValueExchange": ["300", "10", "50"]
+  },
+  "8008": {
+    "Desc": "ダメージを受けると、攻撃者にその最大HPの{*val1*}%分のダメージを与える。<br>攻撃者のHPが{*val2*}%減少するごとに、自身に与えるダメージ-{*val3*}%。",
+    "Id": 8008,
+    "ValueExchange": ["5", "10", "10"]
+  },
+  "8009": {
+    "Desc": "登場後、ランダムな同調イマジン{*val1*}体がスキルを使用できなくなる。対象は{*val2*}秒ごとに変わる。",
+    "Id": 8009,
+    "ValueExchange": ["2", "10"]
+  },
+  "8010": {
+    "Desc": "登場後、ランダムな精霊守護者1体の能力を獲得する。能力は{*val1*}秒ごとにランダムに切り替わる。",
+    "Id": 8010,
+    "ValueExchange": ["10"]
   },
   "81": {
     "Desc": "<style=\"tipsYellow\">クレイジースマッシュ</style>：連続で地面を3回叩きつける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val2*}%×3</style><br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
     "Id": 81,
-    "ValueExchange": [14.0, 133.0, 8.0]
+    "ValueExchange": ["14", "133", "8"]
   },
   "82": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 82,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["45"]
   },
   "83": {
     "Desc": "Lv3：攻撃力+{*val1*}%",
     "Id": 83,
-    "ValueExchange": [40.0]
+    "ValueExchange": ["40"]
   },
   "84": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-ムークボスが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 84,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "85": {
-    "Desc": "Lv5：攻撃力+{*val1*}%",
+    "Desc": "Lv5：攻撃力+{*val1*}%（B-ムークボスが必要）",
     "Id": 85,
-    "ValueExchange": [30.0]
+    "ValueExchange": ["15"]
   },
   "86": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：波を1つ放ち、<style=\"accent-gn\">{*val1*}%</style>のスロウを付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val3*}%</style><br><br><style=\"tipsYellow\">ヴォルテックス</style>：水の渦を放ち、<style=\"accent-gn\">{*val4*}%</style>のスロウを付与し続ける。<br>攻撃範囲：<style=\"accent-gn\">{*val5*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val6*}%×{*val7*}秒</style><br>リキャスト：<style=\"accent-gn\">{*val8*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m</style>以内の対象に<style=\"accent-gn\">{*val3*}%</style>のダメージを与え、<linktext=2002>寒気</linktext>を<style=\"accent-gn\">{*val4*}スタック</style>付与する。<br><br><style=\"tipsYellow\">ヴォルテックス</style>：<style=\"accent-gn\">{*val5*}秒</style>間持続する水の渦を放つ。毎秒、<style=\"accent-gn\">半径{*val6*}m</style>以内の対象に<style=\"accent-gn\">{*val7*}%</style>のダメージを与え、<linktext=2002>寒気</linktext>を<style=\"accent-gn\">{*val8*}スタック</style>付与する。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
     "Id": 86,
-    "ValueExchange": [10.0, 8.0, 37.0, 20.0, 5.0, 67.0, 5.0, 15.0]
+    "ValueExchange": ["100", "5", "77", "1", "5", "5", "32", "2", "15"]
   },
   "87": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 87,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "88": {
     "Desc": "Lv3：攻撃力+{*val1*}%",
     "Id": 88,
-    "ValueExchange": [40.0]
+    "ValueExchange": ["25"]
   },
   "89": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-キングギルミーが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 89,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "9": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-アルーナが必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 9,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["35"]
   },
   "90": {
-    "Desc": "Lv5：攻撃力+{*val1*}%",
+    "Desc": "Lv5：攻撃力+{*val1*}%（B-キングギルミーが必要）",
     "Id": 90,
-    "ValueExchange": [30.0]
+    "ValueExchange": ["15"]
+  },
+  "9001": {
+    "Desc": "登場後、特殊なルートを移動し、攻撃されない。{*val1*}秒ごとに笛を吹き、累計{*val2*}回吹くとフィールドから退出する。<br><style=\"tipsYellow\">笛吹き</style>：付近のすべての対象が熟睡状態になる。持続{*val3*}秒。",
+    "Id": 9001,
+    "ValueExchange": ["15", "2", "5"]
+  },
+  "9002": {
+    "Desc": "撃破すると、大量の同調砕晶と星脈の恵みを獲得する。",
+    "Id": 9002,
+    "ValueExchange": []
   },
   "91": {
-    "Desc": "<style=\"tipsYellow\">毒の泉噴出</style>：ランダムな対象<style=\"accent-gn\">{*val1*}</style>体に対して毒の泉を放ち、腐食を付与する。最大<style=\"accent-gn\">{*val2*}</style>スタックまで。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val4*}%×{*val5*}秒</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">毒の泉噴出</style>：<style=\"accent-gn\">半径{*val2*}m</style>以内のランダムな対象<style=\"accent-gn\">{*val3*}体</style>に、<style=\"accent-gn\">{*val4*}秒</style>間持続する毒の泉を放つ。攻撃1回につき<style=\"accent-gn\">{*val5*}%</style>のダメージを与える。<br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 91,
-    "ValueExchange": [3.0, 5.0, 8.0, 18.0, 8.0, 15.0]
+    "ValueExchange": ["100", "8", "3", "8", "37", "15"]
   },
   "92": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
     "Id": 92,
-    "ValueExchange": [45.0]
+    "ValueExchange": ["30"]
   },
   "93": {
     "Desc": "Lv3：攻撃力+{*val1*}%",
     "Id": 93,
-    "ValueExchange": [40.0]
+    "ValueExchange": ["25"]
   },
   "94": {
-    "Desc": "Lv4：攻撃力+{*val1*}%（B-ヴェノミーンの巣が必要）",
+    "Desc": "Lv4：攻撃力+{*val1*}%",
     "Id": 94,
-    "ValueExchange": [35.0]
+    "ValueExchange": ["20"]
   },
   "95": {
-    "Desc": "Lv5：攻撃力+{*val1*}%",
+    "Desc": "Lv5：攻撃力+{*val1*}%（B-ヴェノミーンの巣が必要）",
     "Id": 95,
-    "ValueExchange": [30.0]
+    "ValueExchange": ["15"]
+  },
+  "96": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[火][燃焼]</style><br><br><style=\"tipsYellow\">パッシブ</style>：半径{*val1*}m以内で<linktext=2001>燃焼</linktext>ダメージの処理が行われたとき、その対象に追加で{*val2*}%のダメージを1回与える。",
+    "Id": 96,
+    "ValueExchange": ["20", "8"]
+  },
+  "97": {
+    "Desc": "<style=\"magic\">[魔法]</style><style=\"tipsYellow\">[闇][百鬼][デバフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：モンスターを倒すと<linktext=2009>彷魂</linktext>を生成する。<linktext=2009>彷魂</linktext>数上限+{*val1*}、最大+{*val2*}。",
+    "Id": 97,
+    "ValueExchange": ["1", "3"]
+  },
+  "98": {
+    "Desc": "<style=\"magic\">[魔法]</style><style=\"tipsYellow\">[氷][極寒][資源]</style><br><br><style=\"tipsYellow\">パッシブ</style>：同調砕晶{*val1*}ごとに、自身のダメージ増加効果+{*val2*}%、最大+{*val3*}%。",
+    "Id": 98,
+    "ValueExchange": ["100", "0.8", "80"]
+  },
+  "99": {
+    "Desc": "<style=\"physical\">[物理]</style><style=\"tipsYellow\">[雷][燃焼][デバフ]</style><br><br><style=\"tipsYellow\">パッシブ</style>：フィールドにいる間、全モンスターが受ける燃焼型同調イマジンのダメージ+【{*val1*}%×<linktext=2001>燃焼</linktext>スタック数】。スタック不可。",
+    "Id": 99,
+    "ValueExchange": ["3"]
   }
 }

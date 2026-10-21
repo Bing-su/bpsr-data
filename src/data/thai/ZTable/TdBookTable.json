@@ -1,322 +1,776 @@
 {
   "1": {
-    "Desc": "ระดับ Rare: Immortal<br>Spec: [Human]<br>Max Lv.: Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ไม่มี<br>โจมตีทั่วไป: กวัดแกว่งเคียว 3 ครั้ง สร้าง DMG เป็นวงกว้าง<br>สกิลหลัก: กวัดแกว่งเคียวทำให้วงแหวนทำงาน 2 ครั้ง สร้าง DMG เป็นวงกว้างรุนแรง<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: จำนวนวงแหวน +3<br>Attunement Imagine Lv.5: ขนาดวงแหวน +100%",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_5\">Immortal</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style>",
     "Id": 1,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 1,
     "Sort": 1,
-    "Type": 1
+    "Type": 1,
+    "UIColor": 5
   },
   "10": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: [Burn]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม มอนสเตอร์ที่ติด Burn จะได้รับ DMG จาก Tower ประเภท Burn เพิ่มขึ้น [1%*จำนวน Stack ของ Burn]<br>โจมตีทั่วไป: เหยียบกระแทกสร้าง DMG ในพื้นที่เล็ก<br>สกิลหลัก: ได้รับ Thunder Shield และทุก 2 วินาทีจะสุ่มปล่อยสายฟ้าโจมตีเป้าหมาย<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: ถ้าเป้าหมายที่โจมตีติด Burn จะใช้ Burn ของเป้าหมาย เพื่อทำให้ Thunderflame Annihilation ทำงาน 1 ครั้ง สร้าง DMG เป็นวงกว้างรุนแรง<br>Attunement Imagine Lv.5: Thunderfire Annihilation จะไม่ใช้ Burn ของเป้าหมายอีกต่อไป",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
-    "Sort": 10,
-    "Type": 1
+    "Sort": 1005,
+    "Type": 1,
+    "UIColor": 3
   },
   "1001": {
-    "Desc": "ประเภท: Boss<br>พิเศษ: สกิล Attunement Imagine มีผลเป็นวงกว้าง จะลดความเร็วในการโจมตี และเพิ่มพลังโจมตีขึ้น",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Traits: Attunement Imagine ในระยะจะมีความเร็วโจมตีลดลงอย่างมาก แต่ ATK จะเพิ่มขึ้น",
     "Id": 1001,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003000,
     "Sort": 1,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1002": {
-    "Desc": "ประเภท: Boss<br>พิเศษ: ได้รับ DMG ด้านหน้าลดลง ได้รับ DMG จากด้านหลังเพิ่มขึ้น",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Traits: ได้รับ DMG จากด้านหน้าลดลง ได้รับ DMG จากด้านหลังเพิ่มขึ้น",
     "Id": 1002,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003001,
     "Sort": 2,
-    "Type": 2
-  },
-  "1003": {
-    "Desc": "ประเภท: Boss<br>พิเศษ: Phantom Arachnocrab สุ่มทำให้ Attunement Imagine บางส่วนสกิลหาย",
-    "Id": 1003,
-    "IsHide": 0,
-    "ObjectId": 5003002,
-    "Sort": 3,
-    "Type": 2
-  },
-  "1004": {
-    "Desc": "ประเภท: Boss<br>พิเศษ: ทุกครั้งปล่อย Imagine จะถูก Predator Arachnocrab กิน Attunement - Crystalshard บางส่วน",
-    "Id": 1004,
-    "IsHide": 0,
-    "ObjectId": 5003003,
-    "Sort": 4,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1005": {
-    "Desc": "ประเภท: Boss<br>พิเศษ: ทุกครั้งที่ร้องเพลงกล่อมเด็ก จะทำให้ Attunement Imagine ทั้ง Field หลับ",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Traits: ทุกครั้งที่ขับขานเพลงกล่อมเด็กของมัน จะทำให้ Attunement Imagine ทั้งสนามหลับใหล",
     "Id": 1005,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003004,
     "Sort": 5,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1006": {
-    "Desc": "ประเภท: Boss<br>พิเศษ: HP เพิ่มจำนวนมาก แต่ตัวเองจะได้รับได้ DMG เพิ่มขึ้น Attunement Imagine ทั้ง Field Lv.รวมยิ่งสูง ได้รับ DMG ยิ่งเยอะ",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Traits: HP เพิ่มขึ้นอย่างมาก แต่ได้รับ DMG เพิ่มขึ้น ยิ่ง Lv.รวมของ Attunement Imagine ทั้งหมดในสนามสูงเท่าไร ก็ยิ่งได้รับ DMG ยมากขึ้นเท่านั้น",
     "Id": 1006,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003005,
     "Sort": 6,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1007": {
-    "Desc": "ประเภท: Elite<br>พิเศษ: ในระยะ AOE มอนสเตอร์ทั้งหมดไร้ศัตรู นอกจากมันเอง",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
-    "ObjectId": 5002000,
+    "ObjectId": 5003006,
     "Sort": 7,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1008": {
-    "Desc": "ประเภท: Elite<br>พิเศษ: Freeze คนที่โจมตี Attunement Imagine เป็นคนแรก ใครอยากเป็นคนแรก",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
-    "ObjectId": 5002001,
+    "ObjectId": 5003003,
     "Sort": 8,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1009": {
-    "Desc": "ประเภท: Elite<br>พิเศษ: รักษามอนสเตอร์รอบๆ ต่อเนื่อง",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
-    "ObjectId": 5002002,
+    "ObjectId": 5003002,
     "Sort": 9,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
+  },
+  "101": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_5\">Immortal</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
+    "Id": 101,
+    "IsHide": 0,
+    "ObjectId": 96,
+    "Sort": 2,
+    "Type": 1,
+    "UIColor": 5
   },
   "1010": {
-    "Desc": "ประเภท: Elite<br>พิเศษ: หลังถูกฆ่าจะฟื้นชีพ",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
-    "ObjectId": 5002003,
+    "ObjectId": 5003007,
     "Sort": 10,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1011": {
-    "Desc": "ประเภท: Elite<br>พิเศษ: มีความเร็วในการเคลื่อนที่สูงมาก แต่ก็อึดมากเช่นกัน",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
-    "ObjectId": 5002004,
+    "ObjectId": 5003008,
     "Sort": 11,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1012": {
-    "Desc": "ประเภท: Elite<br>พิเศษ: เคลื่อนที่ไม่สนภูมิประเทศ แต่ขี้เกียจมาก ชอบพักสุดๆ",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
-    "ObjectId": 5002005,
+    "ObjectId": 5003009,
     "Sort": 12,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1013": {
-    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: สิ่งมีชีวิตใต้ทะเลที่พบได้ทั่วไป",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
-    "ObjectId": 5001000,
+    "ObjectId": 5003010,
     "Sort": 13,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1014": {
-    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: มีความเร็วสูง แต่ไม่ทนต่อการโจมตี",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
-    "ObjectId": 5001001,
+    "ObjectId": 5003012,
     "Sort": 14,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1015": {
-    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: มีโล่หนามาก จะปรากฏตัวเมื่อเริ่มต่อสู้",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
-    "ObjectId": 5001002,
+    "ObjectId": 5003011,
     "Sort": 15,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1016": {
-    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: พวกมันจะคอยปกป้องสัตว์ประหลาดตัวอื่นๆ ในบริเวณนั้นจากอันตราย ถ้าไม่กำจัดพวกมันก่อน จะเป็นเรื่องยุ่งยากมาก",
+    "Desc": "ประเภท: <style=\"tipsYellow\">Boss</style><br>Characteristic: {*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
-    "ObjectId": 5001003,
+    "ObjectId": 5003013,
     "Sort": 16,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
-  "1017": {
-    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: เปลือกแข็งสามารถป้องกัน PDMG ได้มาก แต่พลังป้องกัน MDMG ต่ำ",
-    "Id": 1017,
+  "102": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
+    "Id": 102,
     "IsHide": 0,
-    "ObjectId": 5001004,
-    "Sort": 17,
-    "Type": 2
+    "ObjectId": 101,
+    "Sort": 505,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1018": {
-    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: พวกมันเป็นศัตรูตัวฉกาจของสายเวทฯ เมื่อโจมตีกายภาพจะพบว่าจัดการพวกมันได้อย่างมีประสิทธิภาพ",
-    "Id": 1018,
+  "103": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
+    "Id": 103,
     "IsHide": 0,
-    "ObjectId": 5001005,
-    "Sort": 18,
-    "Type": 2
+    "ObjectId": 106,
+    "Sort": 506,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1019": {
-    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: มุดลงใต้ดิน ในระยะเวลานี้พวกมันจะไร้ศัตรู รอดูต่อไปจากระยไกลว่าอะไรจะเกิดขึ้น",
-    "Id": 1019,
+  "104": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
+    "Id": 104,
     "IsHide": 0,
-    "ObjectId": 5001006,
-    "Sort": 19,
-    "Type": 2
+    "ObjectId": 111,
+    "Sort": 507,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1020": {
-    "Desc": "ประเภท: ทั่วไป<br>พิเศษ: มันเคลื่อนที่โดยไม่สนสภาพภูมิประเทศ แล้วทำไมถึงมีสิ่งมีชีวิตที่น่ารำคาญเช่นนี้?",
-    "Id": 1020,
+  "105": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
+    "Id": 105,
     "IsHide": 0,
-    "ObjectId": 5001007,
-    "Sort": 20,
-    "Type": 2
+    "ObjectId": 116,
+    "Sort": 508,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1021": {
-    "Desc": "",
-    "Id": 1021,
-    "IsHide": 1,
-    "ObjectId": 5001007,
-    "Sort": 21,
-    "Type": 2
+  "106": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
+    "Id": 106,
+    "IsHide": 0,
+    "ObjectId": 121,
+    "Sort": 1010,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "107": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
+    "Id": 107,
+    "IsHide": 0,
+    "ObjectId": 126,
+    "Sort": 1011,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "108": {
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
+    "Id": 108,
+    "IsHide": 0,
+    "ObjectId": 131,
+    "Sort": 1012,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "109": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
+    "Id": 109,
+    "IsHide": 0,
+    "ObjectId": 136,
+    "Sort": 1013,
+    "Type": 1,
+    "UIColor": 3
   },
   "11": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: [Resource]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: เมื่อทำลายตัวเอง จะได้รับ Attunement - Crystalshard คืนเพิ่มอีก 100 แต้ม<br>โจมตีทั่วไป: พ่นหมอกน้ำแข็งไปด้านหน้า สร้าง DMG<br>สกิลหลัก: สุ่มปล่อย Ice Spike ใส่เป้าหมาย 3 ตัว<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: บริเวณที่ Ice Spike ปรากฏจะสร้าง Tuning Crystal Cluster เมื่อเก็บจะสุ่มได้รับ Attunement - Crystalshard 1-20 แต้ม เป็นเวลา 10 วินาที<br>Attunement Imagine Lv.5: จำนวน Ice Spike +2",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 11,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 51,
-    "Sort": 11,
-    "Type": 1
+    "Sort": 1006,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "110": {
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
+    "Id": 110,
+    "IsHide": 0,
+    "ObjectId": 141,
+    "Sort": 1014,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "111": {
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_2\">Fine</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
+    "Id": 111,
+    "IsHide": 0,
+    "ObjectId": 146,
+    "Sort": 2006,
+    "Type": 1,
+    "UIColor": 1
   },
   "12": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: [Support]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม DMG ที่ฝ่ายเดียวกันทั้งหมดสร้าง +5% สูงสุดมีผล 20%<br>โจมตีทั่วไป: สุ่มอัญเชิญ Muku 1 ตัวมาช่วยต่อสู้ และเพิ่มความเร็วโจมตีของมัน<br>สกิลหลัก: ฟื้นฟู HP ให้พันธมิตรในระยะ และเพิ่ม ATK ของพันธมิตร 20% เป็นเวลา 10 วินาที<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: อัญเชิญ Crossbow Muku เพิ่มอีก 1 ตัว<br>Attunement Imagine Lv.5: ซัมม่อน Muku Chief 1 ตัว",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
-    "Sort": 12,
-    "Type": 1
+    "Sort": 1007,
+    "Type": 1,
+    "UIColor": 3
   },
   "13": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: [Support]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม ศัตรูทั้งหมดได้รับ DMG +5% สูงสุดมีผล 20%<br>โจมตีทั่วไป: ฟันลงด้านหน้า 1 ครั้ง สร้าง DMG เป็นแนวเส้นตรง<br>สกิลหลัก: กวาดฟันด้านหน้า 2 ครั้ง สร้าง DMG เป็นวงกว้างรุนแรง<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: การโจมตีทั่วไปจะปล่อย Ground-Splitting Wave 2 ครั้ง ระยะโจมตี+50%<br>Attunement Imagine Lv.5: DMG+20%",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
-    "Sort": 13,
-    "Type": 1
+    "Sort": 1008,
+    "Type": 1,
+    "UIColor": 3
   },
   "14": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: [Charge]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: ทุก เป้าหมาย 1 ตัวภายในระยะ ATK ของตัวเอง +10% สูงสุด +100%<br>โจมตีทั่วไป: ฟันด้านหน้า สร้าง DMG เป็นวงกว้างรูปพัด<br>สกิลหลัก: สุ่มปล่อย Tornado ใส่เป้าหมาย 2 ตัว เป็นเวลา 5 วินาที<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: ทุก Charge Attunement Imagine ในสนาม 1 ตัว จำนวน Tornado +1 สูงสุด+3<br>Attunement Imagine Lv.5: DMG ของ Charge Attunement Imagine ทั้งหมด 1 ครั้ง สูงสุด 100%",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 14,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 66,
-    "Sort": 14,
-    "Type": 1
+    "Sort": 1009,
+    "Type": 1,
+    "UIColor": 3
   },
   "15": {
-    "Desc": "ระดับ Rare: Fine<br>Spec: [Resource][Burn]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม นักผจญภัยทุก 10 วินาทีได้รับ Attunement - Crystalshard 100 แต้ม สูงสุดมีผล 5 ตัว<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: หมุนตัวสร้าง DMG ในพื้นที่เล็กและติด Burn<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เมื่อสังหารเป้าหมายที่ติด Burn จะได้รับ Attunement - Crystalshard 15 แต้ม<br>Attunement Imagine Lv.5: เมื่อฆ่าเป้าหมายที่ติด Burn จะได้รับ Attunement - Crystalshard 30 แต้ม",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_2\">Fine</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 15,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 71,
-    "Sort": 15,
-    "Type": 1
+    "Sort": 2001,
+    "Type": 1,
+    "UIColor": 1
   },
   "16": {
-    "Desc": "ระดับ Rare: Fine<br>Spec: ไม่มี<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: เมื่อสร้าง DMG จะทำให้เป้าหมายติด Slow 25% (ไม่สามารถซ้อนทับได้)<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: อัญเชิญ Thunder Orb เพื่อโจมตีเป้าหมายในระยะอย่างต่อเนื่อง<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เพิ่ม DMG ของสกิลหลัก<br>Attunement Imagine Lv.5: เพิ่ม DMG ของสกิลหลัก",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_2\">Fine</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
-    "Sort": 16,
-    "Type": 1
+    "Sort": 2002,
+    "Type": 1,
+    "UIColor": 1
   },
   "17": {
-    "Desc": "ระดับ Rare: Fine<br>Spec: [Charge]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม Muku Chief แต่ละตัวจะเพิ่ม Crit Rate ให้ Charge Attunement Imagine +10% สูงสุดมีผล 100%<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: กระแทกพื้นต่อเนื่อง 3 ครั้ง สร้าง DMG เป็นวงกว้าง<br>เวลา CD: 6 วินาที<br>Attunement Imagine Lv.3: เพิ่ม DMG ของสกิลหลัก<br>Attunement Imagine Lv.5: เพิ่ม DMG ของสกิลหลัก",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_2\">Fine</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 17,
-    "IsHide": 0,
-    "ObjectId": 84,
-    "Sort": 17,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 81,
+    "Sort": 2003,
+    "Type": 1,
+    "UIColor": 1
   },
   "18": {
-    "Desc": "ระดับ Rare: Fine<br>Spec: ไม่มี<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: เมื่อโจมตีมีโอกาส 30% ที่จะทำให้เป้าหมายติด Freeze<br>โจมตีทั่วไป: สร้าง DMG 1 ครั้งรอบตัวและติด Slow 10%<br>สกิลหลัก: ปล่อย Water Whirlpool สร้าง DMG เป็นวงกว้างต่อเนื่องและติด Slow 20 %<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เพิ่ม DMG ของสกิลหลัก<br>Attunement Imagine Lv.5: เพิ่ม DMG ของสกิลหลัก",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_2\">Fine</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
-    "ObjectId": 89,
-    "Sort": 18,
-    "Type": 1
+    "ObjectId": 86,
+    "Sort": 2004,
+    "Type": 1,
+    "UIColor": 1
   },
   "19": {
-    "Desc": "ระดับ Rare: Fine<br>Spec: ไม่มี<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: สร้าง DMG เพิ่มเติมใส่เป้าหมายที่ติด Corrosion ทุก 1 Stack ของ Corrosion จะเพิ่ม DMG +10%<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: สุ่มปล่อย Poison Spring ใส่เป้าหมาย 3 ตัว สร้าง DMG เป็นวงกว้างต่อเนื่องและติด Corrosion<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เพิ่ม DMG ของสกิลหลัก<br>Attunement Imagine Lv.5: เพิ่ม DMG ของสกิลหลัก",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_2\">Fine</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
-    "ObjectId": 94,
-    "Sort": 19,
-    "Type": 1
+    "ObjectId": 91,
+    "Sort": 2005,
+    "Type": 1,
+    "UIColor": 1
   },
   "2": {
-    "Desc": "ระดับ Rare: Epic<br>Spec: [Human][Resource]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: ATK ของตัวเอง +[1%*Lv. รวมของ Attunement Imagine ทั้งหมดในสนาม] ;และราคาขายในร้านค้าของตัวเองลดลง 50%<br>โจมตีทั่วไป: ปล่อยอุกกาบาตโจมตีเป้าหมายเดี่ยวภายในระยะอย่างต่อเนื่อง<br>สกิลหลัก: เรียก Deer Spirit พุ่งไปด้านหน้า ทุก Attunement Imagine ประเภท Human ในสนาม 1 ตัว จะทำงานเพิ่มอีก 1 ครั้ง<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: เมื่อโจมตีจะได้รับ Attunement - Crystalshard 10 แต้ม เวลา CD 3 วินาที<br>Attunement Imagine Lv.5: เมื่อโจมตีจะได้รับ Attunement - Crystalshard 15 แต้ม เวลา CD 1 วินาที",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style>",
     "Id": 2,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 6,
-    "Sort": 2,
-    "Type": 1
+    "Sort": 501,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "2001": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite/style><br>Traits: มอนสเตอร์ทุกตัวที่อยู่ในระยะจะเป็นอมตะ ยกเว้นตัวมันเอง",
+    "Id": 2001,
+    "IsHide": 1,
+    "ObjectId": 5002000,
+    "Sort": 501,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2002": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite/style><br>Traits: Freezing Attunement Imagine ตัวแรกที่โจมตีมัน (เลือกได้ว่าใครจะเป็นฝ่ายเริ่มก่อน)",
+    "Id": 2002,
+    "IsHide": 1,
+    "ObjectId": 5002001,
+    "Sort": 502,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2003": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: ฟื้นฟู HP ให้มอนสเตอร์รอบข้างต่อเนื่อง",
+    "Id": 2003,
+    "IsHide": 1,
+    "ObjectId": 5002002,
+    "Sort": 503,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2004": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: เคลื่อนที่โดยไม่สนใจสภาพภูมิประเทศ แต่ตัวมันขี้เกียจมากและมักจะหยุดพักบ่อยๆ",
+    "Id": 2004,
+    "IsHide": 1,
+    "ObjectId": 5002005,
+    "Sort": 506,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2005": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7001*}",
+    "Id": 2005,
+    "IsHide": 0,
+    "ObjectId": 5002006,
+    "Sort": 507,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2006": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7002*}",
+    "Id": 2006,
+    "IsHide": 0,
+    "ObjectId": 5002007,
+    "Sort": 508,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2007": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7007*}",
+    "Id": 2007,
+    "IsHide": 0,
+    "ObjectId": 5002008,
+    "Sort": 509,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2008": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7003*}",
+    "Id": 2008,
+    "IsHide": 0,
+    "ObjectId": 5002009,
+    "Sort": 510,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2009": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7009*}",
+    "Id": 2009,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 511,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2010": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7010*}",
+    "Id": 2010,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 512,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2011": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7004*}",
+    "Id": 2011,
+    "IsHide": 0,
+    "ObjectId": 5002010,
+    "Sort": 513,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2012": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7005*}",
+    "Id": 2012,
+    "IsHide": 0,
+    "ObjectId": 5002011,
+    "Sort": 514,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2013": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7006*}",
+    "Id": 2013,
+    "IsHide": 0,
+    "ObjectId": 5002012,
+    "Sort": 515,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2014": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7008*}",
+    "Id": 2014,
+    "IsHide": 0,
+    "ObjectId": 5002013,
+    "Sort": 516,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2015": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7011*}",
+    "Id": 2015,
+    "IsHide": 0,
+    "ObjectId": 5002014,
+    "Sort": 517,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2016": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7012*}",
+    "Id": 2016,
+    "IsHide": 0,
+    "ObjectId": 5002015,
+    "Sort": 518,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2017": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7013*}",
+    "Id": 2017,
+    "IsHide": 0,
+    "ObjectId": 5002016,
+    "Sort": 519,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2018": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7014*}",
+    "Id": 2018,
+    "IsHide": 0,
+    "ObjectId": 5002017,
+    "Sort": 520,
+    "Type": 2,
+    "UIColor": 3
   },
   "3": {
-    "Desc": "ระดับ Rare: Epic<br>Spec: [Human][Burn]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: เมื่อเกิด DMG จาก Burn ภายในระยะ จะทำให้ DMG ไฟทำงานเพิ่มเติมอีก 1 ครั้ง<br>โจมตีทั่วไป: หมุนตัวสร้าง DMG เป็นวงกว้างและติด Burn<br>สกิลหลัก: ฟันปล่อยแสงขวานไปด้านหน้า สร้าง DMG จำนวนมาก เป้าหมายทุก 1 Stack ของ Burn จะทำให้ DMG ครั้งนี้ +20%<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: ทุกการติด Burn 10 ครั้ง การโจมตีครั้งถัดไปจะปล่อย Purgatory Train ใส่เป้าหมาย<br>Attunement Imagine Lv.5: จำนวนในการติด Burn ลดเหลือ 6 และ DMG ของ Purgatory Train+100%",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Output</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
-    "Sort": 3,
-    "Type": 1
+    "Sort": 502,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "3001": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: สิ่งมีชีวิตใต้ทะเลที่พบได้บ่อยที่สุด",
+    "Id": 3001,
+    "IsHide": 1,
+    "ObjectId": 5001000,
+    "Sort": 1001,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3002": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: มีความเร็วในการเคลื่อนที่สูงมาก ข่าวดีคือพวกมันไม่ค่อยอึด",
+    "Id": 3002,
+    "IsHide": 1,
+    "ObjectId": 5001001,
+    "Sort": 1002,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3003": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: มีโล่หนา มักจะปรากฏตัวในช่วงเริ่มต้นของเวฟ",
+    "Id": 3003,
+    "IsHide": 1,
+    "ObjectId": 5001002,
+    "Sort": 1003,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3004": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: พวกมันจะปกป้องมอนสเตอร์ตัวอื่นในบริเวณนั้นเพื่อได้รับ DMG ลดลง ถ้าไม่กำจัดก่อนจะกลายเป็นปัญหาใหญ่",
+    "Id": 3004,
+    "IsHide": 1,
+    "ObjectId": 5001003,
+    "Sort": 1004,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3005": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: เคลื่อนที่โดยไม่สนสภาพภูมิประเทศ ทำไมถึงมีเจ้าน่ารำคาญเช่นนี้ได้นะ",
+    "Id": 3005,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 1008,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3006": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6001*}",
+    "Id": 3006,
+    "IsHide": 0,
+    "ObjectId": 5001008,
+    "Sort": 1009,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3007": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6002*}",
+    "Id": 3007,
+    "IsHide": 0,
+    "ObjectId": 5001009,
+    "Sort": 1010,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3008": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6003*}",
+    "Id": 3008,
+    "IsHide": 0,
+    "ObjectId": 5001010,
+    "Sort": 1011,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3009": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6004*}",
+    "Id": 3009,
+    "IsHide": 0,
+    "ObjectId": 5001011,
+    "Sort": 1012,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3010": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6005*}",
+    "Id": 3010,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 1013,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3011": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6006*}",
+    "Id": 3011,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 1014,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3012": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6007*}",
+    "Id": 3012,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 1015,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3013": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6008*}",
+    "Id": 3013,
+    "IsHide": 0,
+    "ObjectId": 5001012,
+    "Sort": 1016,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3014": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6009*}",
+    "Id": 3014,
+    "IsHide": 0,
+    "ObjectId": 5001013,
+    "Sort": 1017,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3015": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6010*}",
+    "Id": 3015,
+    "IsHide": 0,
+    "ObjectId": 5001018,
+    "Sort": 1018,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3016": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6011*}",
+    "Id": 3016,
+    "IsHide": 0,
+    "ObjectId": 5001019,
+    "Sort": 1019,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3017": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6012*}",
+    "Id": 3017,
+    "IsHide": 0,
+    "ObjectId": 5001020,
+    "Sort": 1020,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3018": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6013*}",
+    "Id": 3018,
+    "IsHide": 0,
+    "ObjectId": 5001021,
+    "Sort": 1021,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3019": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6014*}",
+    "Id": 3019,
+    "IsHide": 0,
+    "ObjectId": 5001014,
+    "Sort": 1022,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3020": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6015*}",
+    "Id": 3020,
+    "IsHide": 0,
+    "ObjectId": 5001015,
+    "Sort": 1023,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3021": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6016*}",
+    "Id": 3021,
+    "IsHide": 0,
+    "ObjectId": 5001016,
+    "Sort": 1024,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3022": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6017*}",
+    "Id": 3022,
+    "IsHide": 0,
+    "ObjectId": 5001017,
+    "Sort": 1025,
+    "Type": 2,
+    "UIColor": 1
   },
   "4": {
-    "Desc": "ระดับ Rare: Epic<br>Spec: [Human][Charge]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: เพิ่มจำนวน Stack ของ Charge สูงสุดเป็น 20 Stack<br>โจมตีทั่วไป: ปกติจะไม่โจมตี แต่จะเข้าสู่สถานะ Charge ทุก 3 วินาทีจะได้รับ 1 Stack สูงสุด 20 Stack เมื่อนักผจญภัยเข้ามาในระยะจะทำให้สกิลทำงาน<br>สกิลหลัก: ฟาดปล่อยคมดาบนับไม่ถ้วน สร้าง DMG เป็นวงกว้าง และใช้ Stack ของ Charge ทั้งหมดเพื่อเพิ่ม DMG อีก [40%*จำนวน Stack ของ Charge]<br>เวลา CD: ไม่มี<br>Attunement Imagine Lv.3: ทุก 10 วินาทีจะล็อกเป้าหมายที่ใกล้ที่สุด 1 เป้าหมายเพื่อยิงคมดาบ<br>Attunement Imagine Lv.5: จำนวนเป้าหมายคมดาบ +2",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style>",
     "Id": 4,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 16,
-    "Sort": 4,
-    "Type": 1
+    "Sort": 503,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "4001": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">Neural</style><br>Traits: {*messagevalue.9001*}",
+    "Id": 4001,
+    "IsHide": 0,
+    "ObjectId": 5003014,
+    "Sort": 2001,
+    "Type": 2,
+    "UIColor": 5
+  },
+  "4002": {
+    "Desc": "ประเภท: <style=\"tipsYellow\">รางวัล</style><br>Traits: {*messagevalue.9002*}",
+    "Id": 4002,
+    "IsHide": 0,
+    "ObjectId": 5002500,
+    "Sort": 2002,
+    "Type": 2,
+    "UIColor": 5
   },
   "5": {
-    "Desc": "ระดับ Rare: Epic<br>Spec: [Human]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ตอนอยู่ในสนาม นักผจญภัยได้รับเรทเร่งคูลดาวน์สกิล +50% (ไม่สามารถซ้อนทับได้)<br>โจมตีทั่วไป: แทงไปด้านหน้าพร้อมหมุนหอก สร้าง DMG เป็นวงกว้าง<br>สกิลหลัก: Attunement Imagine ที่อยู่ใกล้ตัวเองที่สุด 5 ตัว จะได้รับเรทเร่งคูลดาวน์ 100% เป็นเวลา 5 วินาที<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: ความเร็วเคลื่อนที่ของนักผจญภัย +25% และโบนัส DMG +25%<br>Attunement Imagine Lv.5: ความเร็วเคลื่อนที่ของนักผจญภัย +50% และโบนัส DMG +50%",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 5,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 21,
-    "Sort": 5,
-    "Type": 1
+    "Sort": 504,
+    "Type": 1,
+    "UIColor": 4
   },
   "6": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: [Charge]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ทุก 10 วินาทีจะสุ่มปล่อย Ground Wave ใส่เป้าหมาย 3 ตัว พร้อมติดสถานะ Wound<br>โจมตีทั่วไป: ปกติจะไม่โจมตี แต่จะเข้าสู่สถานะ Charge ทุก 3 วินาทีจะได้รับ 1 Stack สูงสุด 10 Stack เมื่อนักผจญภัยเข้ามาในระยะจะทำให้สกิลทำงาน<br>สกิลหลัก: ปล่อย Hell Thrust พื้นที่กว้าง สร้าง DMG รุนแรง และใช้ Stack ของ Charge ทั้งหมดเพื่อเพิ่ม DMG อีก [30%*จำนวน Stack ของ Charge]<br>เวลา CD: ไม่มี<br>Attunement Imagine Lv.3: DMG จาก Passive จะเพิ่มสถานะ Vulnerability 10% เป็นเวลา 5 วินาที<br>Attunement Imagine Lv.5: DMG จาก Passive จะเพิ่มสถานะ Vulnerability+10%",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style>",
     "Id": 6,
-    "IsHide": 0,
-    "ObjectId": 26,
-    "Sort": 6,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 3,
+    "Sort": 1001,
+    "Type": 1,
+    "UIColor": 3
   },
   "7": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: ไม่มี<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: สร้าง DMG ต่อเป้าหมายที่ถูกตรึง +100%<br>โจมตีทั่วไป: พ่นใยแมงมุมใส่เป้าหมายที่ยังไม่ถูกตรึงเป็นอันดับแรก สร้าง DMG และมีโอกาส 40% ที่จะตรึงเป้าหมายเป็นเวลา 5 วินาที<br>สกิลหลัก: ดำดินแล้วพุ่งขึ้นมา สร้าง DMG เป็นวงกว้าง และทำให้เป้าหมาย Stun 1 วินาทีแน่นอน<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: โอกาสติดสถานะตรึงเพิ่มเป็น 100%<br>Attunement Imagine Lv.5: ระยะเวลา Stun เพิ่มเป็น 2.5 วินาที",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
-    "Sort": 7,
-    "Type": 1
+    "Sort": 1002,
+    "Type": 1,
+    "UIColor": 3
   },
   "8": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: [Resource]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Physical<br>Passive: ทุก Attunement - Crystalshard 100 แต้มที่นักผจญภัยมี จะเพิ่มโบนัส DMG ให้ Celestial Flier 1% สูงสุด 100%<br>โจมตีทั่วไป: ปล่อย Water Orb ตกลงมา สร้าง DMG เป็นวงกว้างและติด Slow<br>สกิลหลัก: อัญเชิญ Phantom Skyfish 1 ตัวพุ่งไปด้านหน้า<br>เวลา CD: 15 วินาที<br>Attunement Imagine Lv.3: จำนวน Flying Fish +1 และเรทการได้รับ Attunement - Crystalshard ของนักผจญภัย +5%<br>Attunement Imagine Lv.5: จำนวน SkyFish +2 และเรทการได้รับ Attunement - Crystalshard ของนักผจญภัย +10%",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
-    "Sort": 8,
-    "Type": 1
+    "Sort": 1003,
+    "Type": 1,
+    "UIColor": 3
   },
   "9": {
-    "Desc": "ระดับ Rare: Rare<br>Spec: [Burn]<br>Max Lv.: Lv.3; ถ้ามี Battle Imagine ที่กำหนด Max Lv. ของ Attunement Imagine จะเพิ่มจาก Lv.3 เป็น Lv.5<br>ประเภทการโจมตี: Magic<br>Passive: ยิ่ง HP ของตัวเองสูง ATK ก็จะยิ่งสูง สูงสุด +200% แต่จะเสีย HP ต่อเนื่อง<br>โจมตีทั่วไป: ไม่มี<br>สกิลหลัก: พ่นไฟต่อเนื่องไปด้านหน้า สร้าง DMG และติด Burn<br>เวลา CD: 8 วินาที<br>Attunement Imagine Lv.3: เมื่อโจมตีฟื้น HP 5% <br>Attunement Imagine Lv.5: จำนวนฮีลที่เกินจะกลายเป็นโล่",
+    "Desc": "<style=\"accent-gn\">Rare</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Position</style>: <style=\"tipsYellow\">DMG</style>",
     "Id": 9,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 41,
-    "Sort": 9,
-    "Type": 1
+    "Sort": 1004,
+    "Type": 1,
+    "UIColor": 3
   }
 }

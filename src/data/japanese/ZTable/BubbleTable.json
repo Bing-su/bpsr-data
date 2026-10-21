@@ -125,7 +125,7 @@
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
-      "1. エリア内では周期的にポイントを獲得できる",
+      "1. エリア内では周期的にポイントを獲得できます",
       "2. イベントエリアには2つの変身可能エリアがあり、インタラクトするとランダムな氷雪祭オブジェクトに変身できる"
     ],
     "AdditionalTargetToEntriesMessage": [],
@@ -145,7 +145,7 @@
     "AdditionalTargetCompleteMaxNum": [10, 20],
     "AdditionalTargetIdleScore": [200, 100],
     "AdditionalTargetName": [
-      "1. エリア内では周期的にポイントを獲得できる",
+      "1. エリア内では周期的にポイントを獲得できます",
       "2.赤・緑・青の3種類の花火があり、15秒ごとにランダムな花火を1つ獲得する",
       "3.花火台に花火を装填すると、追加ポイントを獲得できる({*val1*}/{*val2*})",
       "4.装填済みの花火を打ち上げると、エリア内の全プレイヤーが追加ポイントを獲得する ({*val1*}/{*val2*})"
@@ -164,7 +164,7 @@
     "AdditionalTargetCompleteMaxNum": [10],
     "AdditionalTargetIdleScore": [300],
     "AdditionalTargetName": [
-      "1. エリア内では周期的にポイントを獲得できる",
+      "1. エリア内では周期的にポイントを獲得できます",
       "2.エリア内では100秒ごとに灯籠の欠片を1つ獲得し、3つ集めると灯祭りを召喚できる",
       "3.灯籠を放つと、追加ポイントを獲得できる ({*val1*}/{*val2*})"
     ],
@@ -182,7 +182,7 @@
     "AdditionalTargetCompleteMaxNum": [240],
     "AdditionalTargetIdleScore": [10],
     "AdditionalTargetName": [
-      "1. エリア内では周期的にポイントを獲得できる",
+      "1. エリア内では周期的にポイントを獲得できます",
       "2. ダンスグループは10分ごとにダンスを切り替える。リズムに合わせて遅れないように！",
       "3. リードダンサーと一緒にリズムに乗ると、一定周期で追加ポイントを獲得できる({*val1*}/{*val2*})"
     ],
@@ -242,7 +242,7 @@
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
-      "1. エリア内では周期的にポイントを獲得できる",
+      "1. エリア内では周期的にポイントを獲得できます",
       "2. イベントエリアではインタラクトによって応援または共に踊ることで、ステージ上の星瞳と交流できる"
     ],
     "AdditionalTargetToEntriesMessage": [],
@@ -259,7 +259,7 @@
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
-      "1. エリア内では周期的にポイントを獲得できる",
+      "1. エリア内では周期的にポイントを獲得できます",
       "2. イベントエリアではインタラクトによって応援または共に踊ることで、ステージ上の星瞳と交流できる"
     ],
     "AdditionalTargetToEntriesMessage": [],
@@ -267,6 +267,23 @@
     "Id": 3005,
     "Name": "今宵、星と共に歌おう",
     "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3006": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. エリア内では周期的にポイントを獲得できます",
+      "2. イベントエリア内では、カボチャのかかしを探して変身するか、カボチャの隊長を探してびっくりパレードに参加できる。"
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3006,
+    "Name": "びっくりパレード",
+    "ScoreCycle": [1, 5],
     "TargetCompleteClientBuff": [],
     "TargetScore": 500
   }

@@ -816,7 +816,7 @@
     "Type": 3
   },
   "1102": {
-    "Description": "ノックバック、ノックアップ、ノックダウンされない。",
+    "Description": "ノックバック/ノックアップ/ノックダウンされない。",
     "Id": 1102,
     "Par": 3401102,
     "ShowRule": 1,
@@ -1460,7 +1460,7 @@
     "Id": 1182,
     "Par": 3401182,
     "ShowRule": 1,
-    "Text": "鬼火",
+    "Text": "燃焼",
     "Type": 3
   },
   "1183": {
@@ -1708,7 +1708,7 @@
     "Id": 1213,
     "Par": 3401213,
     "ShowRule": 1,
-    "Text": "鬼火",
+    "Text": "燃焼",
     "Type": 3
   },
   "1214": {
@@ -2798,6 +2798,94 @@
     "ShowRule": 1,
     "Text": "バーニングクロス",
     "Type": 2
+  },
+  "2001": {
+    "Description": "<style=\"accent-gn\">5秒</style>間、火属性ダメージを受け続ける。基本上限は<style=\"accent-gn\">10スタック</style>。対象に寒気と氷結が付与されている場合、それらを解除して追加ダメージを与える。",
+    "Id": 2001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "燃焼",
+    "Type": 1
+  },
+  "2002": {
+    "Description": "1スタックにつき移動速度<style=\"accent-gn\">-10%</style>、物理耐性と魔法耐性<style=\"accent-gn\">-10%</style>。<style=\"accent-gn\">5秒</style>持続、基本上限は<style=\"accent-gn\">5スタック</style>。<style=\"accent-gn\">ボスへの効果は半減する</style>。対象の寒気がスタック上限に達すると氷結に変化する。対象が燃焼状態の場合、燃焼を解除し、残りの燃焼ダメージをすべて与える。",
+    "Id": 2002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "寒気",
+    "Type": 1
+  },
+  "2003": {
+    "Description": "<style=\"accent-gn\">3秒</style>間、行動できなくなる。効果終了後、<style=\"accent-gn\">30秒</style>間の氷結無効を獲得する。",
+    "Id": 2003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "氷結",
+    "Type": 1
+  },
+  "2004": {
+    "Description": "1スタックにつき回復効果<style=\"accent-gn\">-20%</style>。<style=\"accent-gn\">10秒</style>持続、最大<style=\"accent-gn\">5スタック</style>まで。",
+    "Id": 2004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "重傷",
+    "Type": 1
+  },
+  "2005": {
+    "Description": "受けるダメージ+<style=\"accent-gn\">6%×腐食スタック数</style>。<style=\"accent-gn\">7秒</style>持続、最大<style=\"accent-gn\">5スタック</style>まで。",
+    "Id": 2005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "腐食",
+    "Type": 1
+  },
+  "2006": {
+    "Description": "行動不能になる。次に受けるダメージ<style=\"accent-gn\">+50%</style>、同時に石化が解除される。<style=\"accent-gn\">2.5秒</style>持続。",
+    "Id": 2006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "石化",
+    "Type": 1
+  },
+  "2007": {
+    "Description": "<style=\"accent-gn\">5秒</style>間、移動できなくなる。",
+    "Id": 2007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "静止",
+    "Type": 1
+  },
+  "2008": {
+    "Description": "<style=\"accent-gn\">2.5秒</style>間、行動できなくなる。",
+    "Id": 2008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "スタン",
+    "Type": 1
+  },
+  "2009": {
+    "Description": "出現後、決まったルートに沿って移動し、接触したモンスターにダメージを与える。<style=\"accent-gn\">60秒</style>持続、基本上限は<style=\"accent-gn\">2体</style>。",
+    "Id": 2009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "彷魂",
+    "Type": 1
+  },
+  "2010": {
+    "Description": "<style=\"accent-gn\">30秒</style>間、氷結の影響を受けなくなる。",
+    "Id": 2010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "氷結無効",
+    "Type": 1
+  },
+  "2011": {
+    "Description": "キャンディーを受け取ると、ダメージを1回受ける。最大<style=\"accent-gn\">10スタック</style>まで。",
+    "Id": 2011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "キャンディー",
+    "Type": 1
   },
   "3000": {
     "Description": "対象に詠唱中のスキルを中断させ、リキャストに移行させる。ボスには無効。",

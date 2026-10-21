@@ -104,11 +104,11 @@
     "Id": 2033160
   },
   "2033170": {
-    "Description": "효과: 물리 버프 강도 +<style=\"accent-gn\">{*Decision.unmarknormal(2)*}</style>.<br>(<style=\"accent-gn\">10</style>분 지속, 중복 사용 시 시간 중첩 가능. 최대치는 <style=\"accent-gn\">720</style>분)",
+    "Description": "효과: 물리 증폭 강도 +<style=\"accent-gn\">{*Decision.unmarknormal(2)*}</style>.<br>(<style=\"accent-gn\">10</style>분 지속, 중복 사용 시 시간 중첩 가능. 최대치는 <style=\"accent-gn\">720</style>분)",
     "Id": 2033170
   },
   "2033180": {
-    "Description": "효과: 마법 버프 강도 +<style=\"accent-gn\">{*Decision.unmarknormal(2)*}</style>.<br>(<style=\"accent-gn\">10</style>분 지속, 중복 사용 시 시간 중첩 가능. 최대치는 <style=\"accent-gn\">720</style>분)",
+    "Description": "효과: 마법 증폭 강도 +<style=\"accent-gn\">{*Decision.unmarknormal(2)*}</style>.<br>(<style=\"accent-gn\">10</style>분 지속, 중복 사용 시 시간 중첩 가능. 최대치는 <style=\"accent-gn\">720</style>분)",
     "Id": 2033180
   },
   "2200010": {
@@ -1656,7 +1656,7 @@
     "Id": 2205410
   },
   "2205420": {
-    "Description": "<linktext=1592><style=\"ItemQuality_5\">신속의 창</style></linktext> 시전 시, <style=\"accent-gn\">10%</style>의 고정 확률로 이후 <style=\"accent-gn\">10</style>초 동안 <style=\"accent-gn\">일반 공격</style>이 <linktext=1591><style=\"ItemQuality_5\">용격포</style></linktext>로 파생됩니다. 파생에 실패할 때마다 해당 확률이 <style=\"accent-gn\">10%</style> 증가합니다(파생 성공 시 초기화).",
+    "Description": "<linktext=1592><style=\"ItemQuality_5\">신속의 창</style></linktext> 시전 시, <style=\"accent-gn\">10%</style>의 고정 확률로 이후 <style=\"accent-gn\">10</style>초 동안 <style=\"accent-gn\">일반 공격</style>이 <linktext=1591><style=\"ItemQuality_5\">용격포</style></linktext>로 파생됩니다. 파생에 실패할 때마다 해당 확률이 <style=\"accent-gn\">10%</style> 증가합니다(파생 성공 시 초기화). ",
     "Id": 2205420
   },
   "2205430": {
@@ -2308,7 +2308,7 @@
     "Id": 2207680
   },
   "2208010": {
-    "Description": "<style=\"accent-gn\">힘</style> <style=\"accent-gn\">8</style>pt당 물리 공격력이 <style=\"accent-gn\">1</style>pt 증가합니다.",
+    "Description": "<style=\"accent-gn\">힘</style> <style=\"accent-gn\">8pt</style>당 물리 공격력이 <style=\"accent-gn\">1pt</style> 증가합니다.",
     "Id": 2208010
   },
   "2208020": {
@@ -2424,7 +2424,7 @@
     "Id": 2208290
   },
   "2208300": {
-    "Description": "<style=\"accent-gn\">마스터리 스킬</style>로 메인 타겟에게 대미지를 <style=\"accent-gn\">5</style>회 줄 때마다 다음 버프 효과를 1스택 획득합니다. <style=\"accent-gn\">8</style>초 동안 행운의 일격 배율이 <style=\"accent-gn\">27%</style> 증가하고, 행운의 일격 치명타율이 <style=\"accent-gn\">20%</style> 감소합니다. 해당 효과는 최대 <style=\"accent-gn\">3</style>스택까지 중첩 가능합니다.",
+    "Description": "<style=\"accent-gn\">마스터리 스킬</style>로 메인 타겟에게 대미지를 <style=\"accent-gn\">5</style>회 줄 때마다 다음 버프 효과를 1스택 획득합니다. <style=\"accent-gn\">8</style>초 동안 행운의 일격 배율이 <style=\"accent-gn\">27%</style> 증가하고, 행운의 일격 치명타 확률이 <style=\"accent-gn\">20%</style> 감소합니다. 해당 효과는 최대 <style=\"accent-gn\">3</style>스택까지 중첩 가능합니다.",
     "Id": 2208300
   },
   "2208310": {
@@ -2460,7 +2460,7 @@
     "Id": 2208380
   },
   "2208390": {
-    "Description": "엘리트 등급 이상 목표 공격 시, 불 원소 보너스 +<style=\"accent-gn\">8%</style>.",
+    "Description": "엘리트 등급 이상의 적 공격 시, 불 원소 보너스 +<style=\"accent-gn\">8%</style>.",
     "Id": 2208390
   },
   "2208400": {
@@ -2708,15 +2708,15 @@
     "Id": 2401010
   },
   "2401020": {
-    "Description": "무궁뇌정의 힘 지속 시간 동안 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "무궁뇌정의 힘 지속 시간 동안 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2401020
   },
   "2401030": {
-    "Description": "대미지형 마스터리 스킬 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "대미지형 마스터리 스킬 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2401030
   },
   "2401040": {
-    "Description": "천뢰섬영의 의지 지속 시간 동안 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "천뢰섬영의 의지 지속 시간 동안 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2401040
   },
   "2401110": {
@@ -2752,7 +2752,7 @@
     "Id": 2401240
   },
   "2401250": {
-    "Description": "번개의 인장을 소모하는 스킬의 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "번개의 인장을 소모하는 스킬의 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2401250
   },
   "2401260": {
@@ -2764,15 +2764,15 @@
     "Id": 2401270
   },
   "2402010": {
-    "Description": "퍼마프로스트를 연주하는 동안 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "퍼마프로스트를 연주하는 동안 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2402010
   },
   "2402020": {
-    "Description": "행운의 일격 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "행운의 일격 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2402020
   },
   "2402030": {
-    "Description": "지속 대미지 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "지속 대미지 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2402030
   },
   "2402110": {
@@ -2824,15 +2824,15 @@
     "Id": 2402270
   },
   "2402280": {
-    "Description": "퍼마프로스트를 연주하는 동안 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "퍼마프로스트를 연주하는 동안 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2402280
   },
   "2403010": {
-    "Description": "대미지형 마스터리 스킬 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "대미지형 마스터리 스킬 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2403010
   },
   "2403020": {
-    "Description": "행운의 일격 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "행운의 일격 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2403020
   },
   "2403110": {
@@ -2876,11 +2876,11 @@
     "Id": 2403240
   },
   "2403250": {
-    "Description": "비범한 풍모 지속 시간 동안 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "비범한 풍모 지속 시간 동안 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2403250
   },
   "2403260": {
-    "Description": "비범한 풍모 지속 시간 동안 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "비범한 풍모 지속 시간 동안 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2403260
   },
   "2403270": {
@@ -2892,15 +2892,15 @@
     "Id": 2403280
   },
   "2404010": {
-    "Description": "인퓨전 기간 동안 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "인퓨전 기간 동안 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2404010
   },
   "2404020": {
-    "Description": "행운 효과 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "행운 효과 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2404020
   },
   "2404030": {
-    "Description": "치료형 스킬 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "치료형 스킬 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2404030
   },
   "2404110": {
@@ -2944,11 +2944,11 @@
     "Id": 2404230
   },
   "2404240": {
-    "Description": "대미지형 마스터리 스킬 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "대미지형 마스터리 스킬 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2404240
   },
   "2404250": {
-    "Description": "치료형 마스터리 스킬 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "치료형 마스터리 스킬 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2404250
   },
   "2404260": {
@@ -2964,19 +2964,19 @@
     "Id": 2404280
   },
   "2405010": {
-    "Description": "정신 집중 지속 시간 동안 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "정신 집중 지속 시간 동안 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2405010
   },
   "2405020": {
-    "Description": "야수가 주는 대미지 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "야수가 주는 대미지 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2405020
   },
   "2405030": {
-    "Description": "정신 집중 지속 시간 동안 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "정신 집중 지속 시간 동안 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2405030
   },
   "2405040": {
-    "Description": "팔콘 출격 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "팔콘 출격 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2405040
   },
   "2405110": {
@@ -3068,11 +3068,11 @@
     "Id": 2406240
   },
   "2406250": {
-    "Description": "격노 상태일 때 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "격노 상태일 때 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2406250
   },
   "2406260": {
-    "Description": "블로킹 스트라이크 상태일 때 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "블로킹 스트라이크 상태일 때 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2406260
   },
   "2406270": {
@@ -3136,11 +3136,11 @@
     "Id": 2407250
   },
   "2407260": {
-    "Description": "용맹의 방패 상태일 때 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "용맹의 방패 상태일 때 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2407260
   },
   "2407270": {
-    "Description": "라이트포지드 배리어 보유 시 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "라이트포지드 배리어 보유 시 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2407270
   },
   "2407280": {
@@ -3156,15 +3156,15 @@
     "Id": 2407300
   },
   "2408010": {
-    "Description": "행운 효과 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "행운 효과 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2408010
   },
   "2408020": {
-    "Description": "직접 앵콜 시전 후 20초 동안 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "직접 앵콜 시전 후 20초 동안 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2408020
   },
   "2408030": {
-    "Description": "치료형 스킬 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "치료형 스킬 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2408030
   },
   "2408110": {
@@ -3200,7 +3200,7 @@
     "Id": 2408240
   },
   "2408250": {
-    "Description": "울림・치유의 악장을 연주하는 동안 마법 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "울림・치유의 악장을 연주하는 동안 마법 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2408250
   },
   "2408260": {
@@ -3212,19 +3212,19 @@
     "Id": 2408270
   },
   "2409010": {
-    "Description": "행운의 일격 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "행운의 일격 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2409010
   },
   "2409020": {
-    "Description": "황천의 적멸 지속 시간 동안 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "황천의 적멸 지속 시간 동안 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2409020
   },
   "2409030": {
-    "Description": "대미지형 마스터리 스킬 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "대미지형 마스터리 스킬 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2409030
   },
   "2409040": {
-    "Description": "무한의 염마 지속 시간 동안 물리 버프 {*Decision.unmarkpercent(1)*} 증가",
+    "Description": "무한의 염마 지속 시간 동안 물리 증폭 {*Decision.unmarkpercent(1)*} 증가",
     "Id": 2409040
   },
   "2409050": {
@@ -3820,7 +3820,7 @@
     "Id": 3004640
   },
   "3004810": {
-    "Description": "시작 시, 에픽 옵션 [숙련]을 보유합니다. 숙련 증폭: 숙련 1%당 물리 버프 및 마법 버프가 0.4% 증가합니다.",
+    "Description": "시작 시, 에픽 옵션 [숙련]을 보유합니다. 숙련 증폭: 숙련 1%당 물리 증폭 및 마법 증폭이 0.4% 증가합니다.",
     "Id": 3004810
   },
   "3004820": {
@@ -5024,7 +5024,7 @@
     "Id": 3401116
   },
   "3401117": {
-    "Description": "적에게 매 초마다 공격력의 <style=\"accent-gn\">20%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다, <style=\"accent-gn\">10</style>초 지속.",
+    "Description": "적에게 매 초마다 공격력의 <style=\"accent-gn\">20%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다, <style=\"accent-gn\">10</style>초 지속. ",
     "Id": 3401117
   },
   "3401118": {

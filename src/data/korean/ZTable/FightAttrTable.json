@@ -623,7 +623,7 @@
   },
   "11130": {
     "AttrAdd": 11132,
-    "AttrDes": "자신의 행운 효과 발동 확률이 증가한다.<br>클래스 스킬로 단발적인 대미지를 주거나 치료를 할 때, 일정 확률로 보유한 모든 행운 효과가 발동된다.<br>행운의 일격 기본 효과: 고정 배율의 대미지 또는 치료가 추가로 1회 발동하며, 행운 확률에 따라 배율이 증가한다.<br>행운 버프: 행운 확률 1%당 「행운 효과」 대미지와 치료가 1%가 증가한다.<br>",
+    "AttrDes": "자신의 행운 효과 발동 확률이 증가한다.<br>클래스 스킬로 단발적인 대미지를 주거나 치료를 할 때, 일정 확률로 보유한 모든 행운 효과가 발동된다.<br>행운의 일격 기본 효과: 고정 배율의 대미지 또는 치료가 추가로 1회 발동하며, 행운 확률에 따라 배율이 증가한다.<br>행운 증폭: 행운 확률 1%당 「행운 효과」 대미지와 치료가 1%가 증가한다.<br>",
     "AttrExAdd": 11133,
     "AttrExPer": 11135,
     "AttrFinal": 11130,
@@ -1634,7 +1634,7 @@
   },
   "11780": {
     "AttrAdd": 11782,
-    "AttrDes": "자신의 행운 효과 발동 확률이 증가한다.<br>클래스 스킬로 단발적인 대미지를 주거나 치료를 할 때, 일정 확률로 보유한 모든 행운 효과가 발동된다.<br>행운의 일격 기본 효과: 고정 배율의 대미지 또는 치료가 추가로 1회 발동하며, 행운 확률에 따라 배율이 증가한다.<br>행운 버프: 행운 확률 1%당 「행운 효과」 대미지와 치료가 1%가 증가한다.<br>",
+    "AttrDes": "자신의 행운 효과 발동 확률이 증가한다.<br>클래스 스킬로 단발적인 대미지를 주거나 치료를 할 때, 일정 확률로 보유한 모든 행운 효과가 발동된다.<br>행운의 일격 기본 효과: 고정 배율의 대미지 또는 치료가 추가로 1회 발동하며, 행운 확률에 따라 배율이 증가한다.<br>행운 증폭: 행운 확률 1%당 「행운 효과」 대미지와 치료가 1%가 증가한다.<br>",
     "AttrExAdd": 11783,
     "AttrExPer": 11785,
     "AttrFinal": 11780,
@@ -1826,9 +1826,9 @@
     "IsSyncMe": true,
     "Level": 4,
     "Name": "全能加成万分比",
-    "OfficialName": "만능 버프",
+    "OfficialName": "만능 증폭",
     "RecomProfessionId": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13],
-    "TipTemplate": "만능 버프 {*attr.value*}",
+    "TipTemplate": "만능 증폭 {*attr.value*}",
     "Type": "int32"
   },
   "11850": {
@@ -2386,9 +2386,9 @@
     "IsSyncMe": true,
     "Level": 4,
     "Name": "物理增效万分比",
-    "OfficialName": "물리 버프",
+    "OfficialName": "물리 증폭",
     "RecomProfessionId": [1, 3, 4, 8, 9, 10, 11, 12],
-    "TipTemplate": "물리 버프 {*attr.value*}",
+    "TipTemplate": "물리 증폭 {*attr.value*}",
     "Type": "int32"
   },
   "12560": {
@@ -2442,9 +2442,9 @@
     "IsSyncMe": true,
     "Level": 4,
     "Name": "魔法增效万分比",
-    "OfficialName": "마법 버프",
+    "OfficialName": "마법 증폭",
     "RecomProfessionId": [2, 5, 13],
-    "TipTemplate": "마법 버프 {*attr.value*}",
+    "TipTemplate": "마법 증폭 {*attr.value*}",
     "Type": "int32"
   },
   "12580": {
@@ -3058,9 +3058,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "物理增效强度",
-    "OfficialName": "물리 버프 강도",
+    "OfficialName": "물리 증폭 강도",
     "RecomProfessionId": [1, 3, 4, 8, 9, 10, 11, 12],
-    "TipTemplate": "물리 버프 강도 {*attr.value*}",
+    "TipTemplate": "물리 증폭 강도 {*attr.value*}",
     "Type": "int32"
   },
   "12800": {
@@ -3086,9 +3086,9 @@
     "IsSyncMe": true,
     "Level": 2,
     "Name": "魔法增效强度",
-    "OfficialName": "마법 버프 강도",
+    "OfficialName": "마법 증폭 강도",
     "RecomProfessionId": [2, 5, 13],
-    "TipTemplate": "마법 버프 강도 {*attr.value*}",
+    "TipTemplate": "마법 증폭 강도 {*attr.value*}",
     "Type": "int32"
   },
   "13000": {

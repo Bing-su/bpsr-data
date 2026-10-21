@@ -2799,6 +2799,94 @@
     "Text": "如川流华斩",
     "Type": 2
   },
+  "2001": {
+    "Description": "<style=\"accent-gn\">5秒</style>内持续受到火属性伤害，基础上限<style=\"accent-gn\">10层</style>；若目标处于寒冷和冰冻，则清除其寒冷和冰冻，并造成额外伤害。",
+    "Id": 2001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "燃烧",
+    "Type": 1
+  },
+  "2002": {
+    "Description": "每层移动速度<style=\"accent-gn\">-10%</style>，物理抗性和法术抗性<style=\"accent-gn\">-10%</style>，持续<style=\"accent-gn\">5秒</style>，基础上限<style=\"accent-gn\">5层</style>，<style=\"accent-gn\">对首领效果减半</style>；若目标处于寒冷层数上限，则转化为冰冻；若目标处于燃烧，则清除其燃烧，并结算燃烧剩下的所有伤害。",
+    "Id": 2002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "寒冷",
+    "Type": 1
+  },
+  "2003": {
+    "Description": "无法行动，持续<style=\"accent-gn\">3秒</style>，结束后获得冰冻免疫<style=\"accent-gn\">30秒</style>。",
+    "Id": 2003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "冰冻",
+    "Type": 1
+  },
+  "2004": {
+    "Description": "每层治疗效果<style=\"accent-gn\">-20%</style>，持续<style=\"accent-gn\">10秒</style>，上限<style=\"accent-gn\">5层</style>。",
+    "Id": 2004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "重伤",
+    "Type": 1
+  },
+  "2005": {
+    "Description": "受到伤害提高<style=\"accent-gn\">6%×腐蚀层数</style>，持续<style=\"accent-gn\">7秒</style>，上限<style=\"accent-gn\">5层</style>。",
+    "Id": 2005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "腐蚀",
+    "Type": 1
+  },
+  "2006": {
+    "Description": "无法行动，下次受到的伤害<style=\"accent-gn\">+50%</style>，同时破除石化，持续<style=\"accent-gn\">2.5秒</style>。",
+    "Id": 2006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "石化",
+    "Type": 1
+  },
+  "2007": {
+    "Description": "无法移动，持续<style=\"accent-gn\">5秒</style>。",
+    "Id": 2007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "定身",
+    "Type": 1
+  },
+  "2008": {
+    "Description": "无法行动，持续<style=\"accent-gn\">2.5秒</style>。",
+    "Id": 2008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "眩晕",
+    "Type": 1
+  },
+  "2009": {
+    "Description": "出现后沿特定路线移动，对触碰到的怪物造成伤害，存在<style=\"accent-gn\">60秒</style>，基础上限为<style=\"accent-gn\">2只</style>。",
+    "Id": 2009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "游魂",
+    "Type": 1
+  },
+  "2010": {
+    "Description": "不再受到冰冻的影响，持续<style=\"accent-gn\">30秒</style>。",
+    "Id": 2010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "冰冻免疫",
+    "Type": 1
+  },
+  "2011": {
+    "Description": "收到糖果时受到1次伤害，上限<style=\"accent-gn\">10层</style>。",
+    "Id": 2011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "糖果",
+    "Type": 1
+  },
   "3000": {
     "Description": "中断目标正在吟唱的技能，并使其进入冷却。无法对首领生效。",
     "Id": 3000,

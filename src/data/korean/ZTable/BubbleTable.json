@@ -127,7 +127,7 @@
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
-      "1. 구역 안에서 주기적으로 포인트를 획득합니다.",
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
       "2. 이벤트 구역에는 변신 가능 구역이 두 곳 존재합니다. 상호작용 시 랜덤 눈꽃 축제 오브젝트로 변신합니다."
     ],
     "AdditionalTargetToEntriesMessage": [],
@@ -184,7 +184,7 @@
     "AdditionalTargetCompleteMaxNum": [240],
     "AdditionalTargetIdleScore": [10],
     "AdditionalTargetName": [
-      "1. 구역 내에 있으면 주기적으로 포인트를 획득합니다.",
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
       "2. 댄스팀이 10분마다 춤을 변경합니다. 리듬을 놓치지 말고 함께 춤추세요!",
       "3. 리드에 따라 함께 춤추면 주기적으로 추가 포인트를 획득합니다({*val1*}/{*val2*})."
     ],
@@ -244,7 +244,7 @@
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
-      "1. 구역 내에 있으면 주기적으로 포인트를 획득합니다.",
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
       "2. 이벤트 구역에서 상호작용을 통해 응원 또는 함께 춤추기를 하면, 무대 위 성동과 상호작용할 수 있습니다!"
     ],
     "AdditionalTargetToEntriesMessage": [],
@@ -261,7 +261,7 @@
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
-      "1. 구역 내에 있으면 주기적으로 포인트를 획득합니다.",
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
       "2. 이벤트 구역에서 상호작용을 통해 응원 또는 함께 춤추기를 하면, 무대 위 성동과 상호작용할 수 있습니다!"
     ],
     "AdditionalTargetToEntriesMessage": [],
@@ -269,6 +269,23 @@
     "Id": 3005,
     "Name": "오늘 밤, 별과 함께 노래하다",
     "ScoreCycle": [1, 10],
+    "TargetCompleteClientBuff": [],
+    "TargetScore": 500
+  },
+  "3006": {
+    "AdditionalTarget": [],
+    "AdditionalTargetCompleteCoolDown": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetIdleScore": [],
+    "AdditionalTargetName": [
+      "1. 구역 내에 있으면 주기적으로 포인트를 획득할 수 있습니다.",
+      "2. 이벤트 구역 내에서 호박 허수아비를 찾아 변신하거나, 호박 선두를 찾아 서프라이즈 퍼레이드를 진행할 수 있습니다."
+    ],
+    "AdditionalTargetToEntriesMessage": [],
+    "BubbleType": 1,
+    "Id": 3006,
+    "Name": "서프라이즈 퍼레이드",
+    "ScoreCycle": [1, 5],
     "TargetCompleteClientBuff": [],
     "TargetScore": 500
   }

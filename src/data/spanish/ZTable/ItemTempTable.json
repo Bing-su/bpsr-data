@@ -3,516 +3,1529 @@
     "BuildTag": [],
     "Desc": "",
     "Id": 30000000,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 0
   },
   "30000002": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30000002,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30000003": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30000003,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30000004": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30000004,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30000005": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30000005,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30000006": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30000006,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30000007": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30000007,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30000008": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Aumenta el ATQ y el ATQ mágico en un porcentaje. Se puede acumular.",
     "Id": 30000008,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [
+      [2, 11330, 200],
+      [2, 11340, 200]
+    ],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000009": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General]</style><br>Aumenta el DÑO en un porcentaje. Se puede acumular.",
     "Id": 30000009,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [
+      [2, 12550, 350],
+      [2, 12570, 350]
+    ],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000010": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Aumenta la velocidad de movimiento y la VEL de ATQ. Se puede acumular.",
     "Id": 30000010,
+    "PackLimit": 10,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [
+      [2, 11720, 200],
+      [2, 11730, 200]
+    ],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000011": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General]</style><br>Reduce el TdR. Se puede acumular.",
     "Id": 30000011,
+    "PackLimit": 5,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[2, 11760, 600]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000012": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Aumenta la tasa de críticos. Se puede acumular.",
     "Id": 30000012,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[2, 11710, 250]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000013": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General]</style><br>Ignora un porcentaje de la DEF en los golpes críticos. Se puede acumular.",
     "Id": 30000013,
+    "PackLimit": 5,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000014": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Aumenta el DÑO crítico. Se puede acumular.",
     "Id": 30000014,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[2, 12510, 250]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000015": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General][Único]</style><br>Convierte el exceso de tasa de críticos en DÑO crítico.",
     "Id": 30000015,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000016": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General]</style><br>Aumenta el bonus multielemental. Se puede acumular.",
     "Id": 30000016,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[2, 13000, 350]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000017": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General][Único]</style><br>Las habilidades activan Cadena de Rayos.",
     "Id": 30000017,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000018": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Restaura PS al atacar. Se puede acumular.",
     "Id": 30000018,
+    "PackLimit": 10,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000019": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General][Único]</style><br>Aumenta el DÑO infligido mientras se tiene un escudo.",
     "Id": 30000019,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000020": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General][Único]</style><br>Provoca pérdida de PS cada segundo, pero aumenta el DÑO infligido.",
     "Id": 30000020,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000021": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General][Único]</style><br>Genera un escudo a intervalos.",
     "Id": 30000021,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000022": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General][Único]</style><br>Aumenta el DÑO infligido según la velocidad de movimiento del objetivo.",
     "Id": 30000022,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000023": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"tipsYellow\">[General][Único]</style><br>Restaura una gran cantidad de PS con los críticos.",
     "Id": 30000023,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000024": {
-    "BuildTag": [122],
+    "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Humanoide][Único]</style><br>Las habilidades activan una Carga de Ciervo adicional.",
     "Id": 30000024,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000025": {
-    "BuildTag": [122],
+    "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Humanoide][Único]</style><br>Aumenta la frecuencia de lanzamiento de las habilidades.",
     "Id": 30000025,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[2, 11760, 5000]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000026": {
-    "BuildTag": [122],
+    "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Humanoide][Único]</style><br>Aumenta el alcance del Ataque Básico.",
     "Id": 30000026,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000027": {
-    "BuildTag": [122],
+    "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Exclusivo de Airona][Único]</style><br>Aumenta considerablemente los efectos pasivos y de los ataques básicos.",
     "Id": 30000027,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000028": {
     "BuildTag": [123],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Quemadura][Único]</style><br>Inflige DÑO adicional a los monstruos en llamas.",
     "Id": 30000028,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000029": {
     "BuildTag": [123],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Quemadura][Único]</style><br>Derrotar a monstruos en llamas inflige DÑO de AdE.",
     "Id": 30000029,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000030": {
     "BuildTag": [123],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Quemadura][Único]</style><br>Atacar a monstruos en llamas reduce el TdR de las habilidades.",
     "Id": 30000030,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000031": {
     "BuildTag": [123],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Exclusivo de Tata][Único]</style><br>Los ataques básicos lanzan Vórtices de Llamas de forma continua.",
     "Id": 30000031,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000032": {
     "BuildTag": [124],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Recurso][Único]</style><br>Aumenta la cantidad de Fragmentos de cristal de Sintonización obtenidos.",
     "Id": 30000032,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000033": {
     "BuildTag": [124],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Recurso][Único]</style><br>Reembolsa Fragmentos de cristal de Sintonización después de comprar objetos.",
     "Id": 30000033,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000034": {
     "BuildTag": [124],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Recurso][Único]</style><br>Aumenta el DÑO infligido según la cantidad de Fragmentos de cristal de Sintonización.",
     "Id": 30000034,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000035": {
     "BuildTag": [124],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Recurso][Único]</style><br>Los ataques activan Maremotos cuando se alcanza la cantidad requerida de Fragmentos de cristal de Sintonización.",
     "Id": 30000035,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000036": {
-    "BuildTag": [125],
+    "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Carga][Único]</style><br>Cargar dispara Ráfagas de Espada automáticamente.",
     "Id": 30000036,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000037": {
-    "BuildTag": [125],
+    "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Carga][Único]</style><br>La carga máxima aumenta el DÑO infligido y aplica Vulnerabilidad.",
     "Id": 30000037,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000038": {
-    "BuildTag": [125],
+    "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Carga][Único]</style><br>El ATQ aumenta con la cantidad de cargas.",
     "Id": 30000038,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000039": {
-    "BuildTag": [125],
+    "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"tipsYellow\">[Exclusivo de Olvera][Único]</style><br>Golpea los alrededores continuamente con Impacto Atronador.",
     "Id": 30000039,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000040": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_5\">[Inmortal]</style><style=\"tipsYellow\">[Exclusivo de Señor de la Plaga][Único]</style><br>La tienda actualiza a Señor de la Plaga.",
     "Id": 30000040,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 1000],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000041": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000041,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000042": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000042,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[2, 13080, 250]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000043": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000043,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[2, 13070, 250]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000044": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000044,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[2, 13020, 250]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000045": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000045,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[2, 13010, 250]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000046": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000046,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000047": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000047,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000048": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000048,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000049": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000049,
+    "PackLimit": 99,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000050": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000050,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000051": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000051,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000052": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000052,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000053": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000053,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 150],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000054": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000054,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 90],
+    "ShowAtt": [[2, 11810, 300]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000055": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000055,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000056": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000056,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000057": {
+    "BuildTag": [122],
+    "Desc": "",
+    "Id": 30000057,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000058": {
+    "BuildTag": [122],
+    "Desc": "",
+    "Id": 30000058,
+    "PackLimit": 50,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000059": {
+    "BuildTag": [122],
+    "Desc": "",
+    "Id": 30000059,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000060": {
+    "BuildTag": [122],
+    "Desc": "",
+    "Id": 30000060,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000061": {
+    "BuildTag": [125],
+    "Desc": "",
+    "Id": 30000061,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000062": {
+    "BuildTag": [125],
+    "Desc": "",
+    "Id": 30000062,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000063": {
+    "BuildTag": [125],
+    "Desc": "",
+    "Id": 30000063,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000064": {
+    "BuildTag": [125],
+    "Desc": "",
+    "Id": 30000064,
+    "PackLimit": 1,
+    "RepeatPrice": [30000000, 240],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000065": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000065,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000066": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000066,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000067": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000067,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000068": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000068,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000069": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000069,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000070": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000070,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000071": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000071,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30000072": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000072,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30000100": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30000100,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30000101": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30000101,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30000500": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_5\">[Inmortal]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Humanoide]</style><br>El poder en su forma más pura y absoluta.",
     "Id": 30000500,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 2500],
     "TempItemType": 1
   },
   "30000501": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"magic\">[Mágico]</style><style=\"tipsYellow\">[Humanoide][Recurso]</style><br>¡Ya está aquí el socio más fiable de Luno!",
     "Id": 30000501,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 500],
     "TempItemType": 1
   },
   "30000502": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Humanoide][Quemadura]</style><br>Que las llamas te acompañen.",
     "Id": 30000502,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 1000],
     "TempItemType": 1
   },
   "30000503": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Humanoide][Carga]</style><br>Allí donde llega la espada, el caos llega a su fin.",
     "Id": 30000503,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 1000],
     "TempItemType": 1
   },
   "30000504": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_4\">[Épico]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Humanoide][Ventaja]</style><br>La doncella llega impulsada por el viento.",
     "Id": 30000504,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 1000],
     "TempItemType": 1
   },
   "30000505": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Desventaja][Carga]</style><br>Bajo su aspecto rudo se esconde una dulzura poco común.",
     "Id": 30000505,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 1000],
     "TempItemType": 1
   },
   "30000506": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Desventaja]</style><br>Húmedo, inquietante y de difícil acceso.",
     "Id": 30000506,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000507": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Desventaja][Recurso]</style><br>Una bendición procedente de las profundidades del mar.",
     "Id": 30000507,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000508": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"magic\">[Mágico]</style><style=\"tipsYellow\">[Quemadura]</style><br>Las llamas darán todas las respuestas.",
     "Id": 30000508,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000509": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Quemadura]</style><br>Un rayo ilumina el aire agitado.",
     "Id": 30000509,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000510": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Recurso]</style><br>La escarcha se extiende silenciosamente.",
     "Id": 30000510,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000511": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Ventaja]</style><br>Incluso su silencio tiene peso.",
     "Id": 30000511,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000512": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Ventaja]</style><br>La mala idea de un goblin finalmente resultó útil.",
     "Id": 30000512,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000513": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_3\">[Excelente]</style><style=\"magic\">[Mágico]</style><style=\"tipsYellow\">[Ventaja][Carga]</style><br>El viento llega al campo de batalla antes que ella.",
     "Id": 30000513,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000514": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Recurso][Quemadura]</style><br>Los vientos de la montaña barren una vieja hoguera.",
     "Id": 30000514,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
     "TempItemType": 1
   },
   "30000515": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Desventaja]</style><br>Un símbolo de la ferocidad indómita.",
     "Id": 30000515,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 150],
     "TempItemType": 1
   },
   "30000516": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"physical\">[Físico]</style><style=\"tipsYellow\">[Desventaja][Carga]</style><br>El coraje ya ha ocupado su lugar en el campo.",
     "Id": 30000516,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 150],
     "TempItemType": 1
   },
   "30000517": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"magic\">[Mágico]</style><style=\"tipsYellow\">[Desventaja]</style><br>Aparece una sombra escalar.",
     "Id": 30000517,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 150],
     "TempItemType": 1
   },
   "30000518": {
     "BuildTag": [],
     "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"magic\">[Mágico]</style><style=\"tipsYellow\">[Desventaja]</style><br>Se está gestando un peligro empalagoso.",
     "Id": 30000518,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 150],
+    "TempItemType": 1
+  },
+  "30000520": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000520,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 2500],
+    "TempItemType": 1
+  },
+  "30000521": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000521,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 1000],
+    "TempItemType": 1
+  },
+  "30000522": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000522,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 1000],
+    "TempItemType": 1
+  },
+  "30000523": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000523,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 1000],
+    "TempItemType": 1
+  },
+  "30000524": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000524,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 1000],
+    "TempItemType": 1
+  },
+  "30000525": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000525,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
+    "TempItemType": 1
+  },
+  "30000526": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000526,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
+    "TempItemType": 1
+  },
+  "30000527": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000527,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
+    "TempItemType": 1
+  },
+  "30000528": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000528,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
+    "TempItemType": 1
+  },
+  "30000529": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000529,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 400],
+    "TempItemType": 1
+  },
+  "30000530": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000530,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 150],
+    "TempItemType": 1
+  },
+  "30000531": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30000531,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [30000000, 0],
     "TempItemType": 1
   },
   "30001000": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001000,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001001": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001001,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001002": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001002,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[0, 11330, 100, 830372], [0, 11340, 100, 830372], [1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001003": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001003,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001004": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001004,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001005": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001005,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001006": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001006,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001007": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001007,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[0, 11710, 200, 830373], [1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001008": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001008,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001009": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001009,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001010": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001010,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001011": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001011,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001012": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001012,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001101": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001101,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001102": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001102,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001103": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001103,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001104": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001104,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001105": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001105,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001106": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001106,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001107": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001107,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001108": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001108,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001109": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001109,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[2, 11330, 6000], [2, 11340, 6000], [1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001110": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001110,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001111": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001111,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001112": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001112,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001201": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001201,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001202": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001202,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001203": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001203,
+    "PackLimit": 1,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001204": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001204,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001205": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001205,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001206": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001206,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001207": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001207,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001208": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001208,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
+    "TempItemType": 2
+  },
+  "30001209": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001209,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [[1]],
+    "SoldPrice": [],
     "TempItemType": 2
   },
   "30001301": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001301,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30001302": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001302,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30001303": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001303,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30001310": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001310,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30001311": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001311,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30001312": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001312,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   },
   "30001313": {
     "BuildTag": [],
     "Desc": "",
     "Id": 30001313,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 4
+  },
+  "30001314": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001314,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 4
+  },
+  "30001315": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001315,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 4
+  },
+  "30001316": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001316,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 4
+  },
+  "30001317": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001317,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 4
+  },
+  "30001318": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001318,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
+    "TempItemType": 4
+  },
+  "30001319": {
+    "BuildTag": [],
+    "Desc": "",
+    "Id": 30001319,
+    "PackLimit": 0,
+    "RepeatPrice": [],
+    "ShowAtt": [],
+    "SoldPrice": [],
     "TempItemType": 4
   }
 }

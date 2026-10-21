@@ -8,6 +8,15 @@
     "RedDotId": 113,
     "ShowCondition": []
   },
+  "10": {
+    "BtnFunction": ["OpenRankMainView", "rank"],
+    "FunctionId": 0,
+    "Icon": "ui/atlas/esc_icon/esc_icon_rank",
+    "Id": 10,
+    "Name": "การแข่งท้าทาย",
+    "RedDotId": 0,
+    "ShowCondition": [[9, 41134]]
+  },
   "2": {
     "BtnFunction": ["CheckOpenTreasureView", "treasure", "self"],
     "FunctionId": 0,
@@ -63,6 +72,15 @@
     "Icon": "ui/atlas/esc_icon/esc_icon_fingerpost",
     "Id": 8,
     "Name": "คำแนะนำ",
+    "RedDotId": 0,
+    "ShowCondition": []
+  },
+  "9": {
+    "BtnFunction": [],
+    "FunctionId": 821000,
+    "Icon": "ui/atlas/esc_icon/esc_icon_manual",
+    "Id": 9,
+    "Name": "สมุดภาพ",
     "RedDotId": 0,
     "ShowCondition": []
   }

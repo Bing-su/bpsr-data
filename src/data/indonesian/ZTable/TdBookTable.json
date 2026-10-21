@@ -1,322 +1,776 @@
 {
   "1": {
-    "Desc": "Kutukan: Immortal<br>Aliran: [Humanoid]<br>Level Maksimal: Level 5<br>Tipe Serangan: Physical<br>Efek Pasif: Tidak ada<br>Normal Attack: Mengayunkan sabit 3 kali mengakibatkan Area Damage.<br>Core Skill: Mengayunkan sabit memicu 2 Ring, mengakibatkan Area Damage tinggi.<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Ring +3.<br>Tuning Fantasy Lv. 5: Area Ring +100%.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_5\">Immortal</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style>",
     "Id": 1,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 1,
     "Sort": 1,
-    "Type": 1
+    "Type": 1,
+    "UIColor": 5
   },
   "10": {
-    "Desc": "Kutukan: Excellent<br>Aliran: [Burn]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Saat berada di arena, monster dalam status Burn menerima Damage dari Tower tipe Burn meningkat sebesar [1% * Lapis Burn].<br>Normal Attack: Menginjak tanah untuk mengakibatkan Area Damage kecil.<br>Core Skill: Mendapatkan Lightning Shield, melepaskan serangan petir ke target acak setiap 2 detik<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Jika target serangan dalam kondisi Burn, maka akan mengonsumsi efek Burn tersebut untuk memicu 1 kali Thunderfire Annihilation, mengakibatkan Area Damage tinggi.<br>Tuning Fantasy Lv. 5: Thunderfire Annihilation tidak lagi mengonsumsi efek Burn target.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
-    "Sort": 10,
-    "Type": 1
+    "Sort": 1005,
+    "Type": 1,
+    "UIColor": 3
   },
   "1001": {
-    "Desc": "Tipe: Boss<br>Karakteristik: Attack Speed Tuning Fantasy di dalam area berkurang secara signifikan, tapi akan meningkatkan Attack.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: Attack Speed Fantasy Penyelaras di dalam Area berkurang drastis, namun ATK meningkat.",
     "Id": 1001,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003000,
     "Sort": 1,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1002": {
-    "Desc": "Tipe: Boss<br>Karakteristik: Damage yang diterima dari depan berkurang, Damage yang diterima dari belakang meningkat.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: DMG yang diterima dari depan berkurang, DMG yang diterima dari belakang meningkat.",
     "Id": 1002,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003001,
     "Sort": 2,
-    "Type": 2
-  },
-  "1003": {
-    "Desc": "Tipe: Boss<br>Karakteristik: Phantom Crab Spider akan membuat sebagian Tuning Fantasy acak kehilangan Skill-nya.",
-    "Id": 1003,
-    "IsHide": 0,
-    "ObjectId": 5003002,
-    "Sort": 3,
-    "Type": 2
-  },
-  "1004": {
-    "Desc": "Tipe: Boss<br>Karakteristik: Setiap kali menempatkan Fantasy, Predator Crab Spider akan memakan beberapa Tuning Crystal Shard.",
-    "Id": 1004,
-    "IsHide": 0,
-    "ObjectId": 5003003,
-    "Sort": 4,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1005": {
-    "Desc": "Tipe: Boss<br>Karakteristik: Setiap kali menyanyikan lagu pengantarnya, akan membuat semua Tuning Fantasy di arena tertidur.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: Setiap kali lagu nina bobonya terdengar, seluruh Tuning Fantasy di arena akan tertidur.",
     "Id": 1005,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003004,
     "Sort": 5,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1006": {
-    "Desc": "Tipe: Boss<br>Karakteristik: HP meningkat drastis, tapi Damage yang diterima dirinya meningkat. Semakin tinggi total Level seluruh Tuning Fantasy di arena, semakin tinggi Damage yang ia terima.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: HP meningkat drastis, tetapi DMG yang diterima diri sendiri meningkat. Semakin tinggi total Level Tuned Fantasy di arena, semakin tinggi DMG yang diterima.",
     "Id": 1006,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003005,
     "Sort": 6,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1007": {
-    "Desc": "Tipe: Elite<br>Karakteristik: Semua monster di dalam area menjadi tak terkalahkan, kecuali dirinya sendiri.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
-    "ObjectId": 5002000,
+    "ObjectId": 5003006,
     "Sort": 7,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1008": {
-    "Desc": "Tipe: Elite<br>Karakteristik: Membekukan Tuning Fantasy pertama yang menyerangnya. Siapa yang mau jadi yang pertama.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
-    "ObjectId": 5002001,
+    "ObjectId": 5003003,
     "Sort": 8,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1009": {
-    "Desc": "Tipe: Elite<br>Karakteristik: Terus memulihkan monster di sekitarnya.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
-    "ObjectId": 5002002,
+    "ObjectId": 5003002,
     "Sort": 9,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
+  },
+  "101": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_5\">Immortal</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
+    "Id": 101,
+    "IsHide": 0,
+    "ObjectId": 96,
+    "Sort": 2,
+    "Type": 1,
+    "UIColor": 5
   },
   "1010": {
-    "Desc": "Tipe: Elite<br>Karakteristik: Bangkit kembali setelah dikalahkan.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
-    "ObjectId": 5002003,
+    "ObjectId": 5003007,
     "Sort": 10,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1011": {
-    "Desc": "Tipe: Elite<br>Karakteristik: Memiliki Movement Speed yang sangat tinggi, tapi, sangat tahan pukul juga.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
-    "ObjectId": 5002004,
+    "ObjectId": 5003008,
     "Sort": 11,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1012": {
-    "Desc": "Tipe: Elite<br>Karakteristik: Bergerak mengabaikan medan, namun sangat malas, sering beristirahat.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
-    "ObjectId": 5002005,
+    "ObjectId": 5003009,
     "Sort": 12,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1013": {
-    "Desc": "Tipe: Normal<br>Karakteristik: Makhluk dasar laut yang paling umum.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
-    "ObjectId": 5001000,
+    "ObjectId": 5003010,
     "Sort": 13,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1014": {
-    "Desc": "Tipe: Normal<br>Karakteristik: Memiliki Movement Speed yang sangat tinggi, kabar baiknya adalah tidak tahan pukul.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
-    "ObjectId": 5001001,
+    "ObjectId": 5003012,
     "Sort": 14,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1015": {
-    "Desc": "Tipe: Normal<br>Karakteristik: Membawa Shield yang sangat tebal, biasanya muncul di awal gelombang.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
-    "ObjectId": 5001002,
+    "ObjectId": 5003011,
     "Sort": 15,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1016": {
-    "Desc": "Tipe: Normal<br>Karakteristik: Mereka akan melindungi monster lain di arena untuk mengurangi Damage yang diterima. Jika tidak dikalahkan terlebih dahulu, akan sangat merepotkan.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: {*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
-    "ObjectId": 5001003,
+    "ObjectId": 5003013,
     "Sort": 16,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
-  "1017": {
-    "Desc": "Tipe: Normal<br>Karakteristik: Cangkang kerasnya dapat menahan sebagian besar Physical Damage yang diterima, namun sebagai gantinya, sangat takut terhadap Magic.",
-    "Id": 1017,
+  "102": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
+    "Id": 102,
     "IsHide": 0,
-    "ObjectId": 5001004,
-    "Sort": 17,
-    "Type": 2
+    "ObjectId": 101,
+    "Sort": 505,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1018": {
-    "Desc": "Tipe: Normal<br>Karakteristik: Musuh alami Magic, tapi asalkan Anda menggunakan Physical Damage untuk melawan mereka, efeknya akan luar biasa.",
-    "Id": 1018,
+  "103": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
+    "Id": 103,
     "IsHide": 0,
-    "ObjectId": 5001005,
-    "Sort": 18,
-    "Type": 2
+    "ObjectId": 106,
+    "Sort": 506,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1019": {
-    "Desc": "Tipe: Normal<br>Karakteristik: Akan bersembunyi di bawah tanah, mereka tak terkalahkan selama waktu ini, tunggulah dari jarak yang agak jauh.",
-    "Id": 1019,
+  "104": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
+    "Id": 104,
     "IsHide": 0,
-    "ObjectId": 5001006,
-    "Sort": 19,
-    "Type": 2
+    "ObjectId": 111,
+    "Sort": 507,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1020": {
-    "Desc": "Tipe: Normal<br>Karakteristik: Bergerak mengabaikan medan, mengapa ada makhluk semenyebalkan ini.",
-    "Id": 1020,
+  "105": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
+    "Id": 105,
     "IsHide": 0,
-    "ObjectId": 5001007,
-    "Sort": 20,
-    "Type": 2
+    "ObjectId": 116,
+    "Sort": 508,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1021": {
-    "Desc": "",
-    "Id": 1021,
-    "IsHide": 1,
-    "ObjectId": 5001007,
-    "Sort": 21,
-    "Type": 2
+  "106": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
+    "Id": 106,
+    "IsHide": 0,
+    "ObjectId": 121,
+    "Sort": 1010,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "107": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
+    "Id": 107,
+    "IsHide": 0,
+    "ObjectId": 126,
+    "Sort": 1011,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "108": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
+    "Id": 108,
+    "IsHide": 0,
+    "ObjectId": 131,
+    "Sort": 1012,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "109": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
+    "Id": 109,
+    "IsHide": 0,
+    "ObjectId": 136,
+    "Sort": 1013,
+    "Type": 1,
+    "UIColor": 3
   },
   "11": {
-    "Desc": "Kutukan: Excellent<br>Aliran: [Sumber Daya]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Saat menghancurkan diri sendiri, mengembalikan tambahan 100 poin Tuning Crystal Shard.<br>Normal Attack: Menyemburkan kabut es ke depan untuk mengakibatkan Damage.<br>Core Skill: Melepaskan duri es ke 3 target acak<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Area duri es akan membentuk klaster kristal, setelah dipungut akan mendapatkan 1-20 poin Tuning Crystal Shard secara acak, bertahan maksimal 10 detik.<br>Tuning Fantasy Lv. 5: Jumlah duri es +2.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 11,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 51,
-    "Sort": 11,
-    "Type": 1
+    "Sort": 1006,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "110": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
+    "Id": 110,
+    "IsHide": 0,
+    "ObjectId": 141,
+    "Sort": 1014,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "111": {
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
+    "Id": 111,
+    "IsHide": 0,
+    "ObjectId": 146,
+    "Sort": 2006,
+    "Type": 1,
+    "UIColor": 1
   },
   "12": {
-    "Desc": "Kutukan: Excellent<br>Aliran: [Support]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Saat berada di arena, Damage yang diakibatkan semua rekan +5%, maksimal penumpukan aktif 20%.<br>Normal Attack: Memanggil 1 Muku acak untuk membantu pertempuran, dan meningkatkan Attack Speed-nya.<br>Core Skill: Memulihkan rekan di dalam area, dan meningkatkan Attack rekan sebesar 20%, berlangsung selama 10 detik<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Memanggil 1 tambahan Crossbow Muku.<br>Tuning Fantasy Lv. 5: Memanggil 1 tambahan Muku Boss.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
-    "Sort": 12,
-    "Type": 1
+    "Sort": 1007,
+    "Type": 1,
+    "UIColor": 3
   },
   "13": {
-    "Desc": "Kutukan: Excellent<br>Aliran: [Support]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Saat berada di arena, Damage yang diterima semua musuh +5%, maksimal penumpukan aktif 20%.<br>Normal Attack: Menebas ke bawah di depan untuk mengakibatkan Area Damage dalam garis lurus.<br>Core Skill: Menyapu ke depan untuk mengakibatkan Area Damage tinggi sebanyak 2 kali<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Normal Attack melepaskan 2 Gelombang Tanah tambahan, jarak serangan +50%.<br>Tuning Fantasy Lv. 5: Damage +20%.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
-    "Sort": 13,
-    "Type": 1
+    "Sort": 1008,
+    "Type": 1,
+    "UIColor": 3
   },
   "14": {
-    "Desc": "Kutukan: Excellent<br>Aliran: [Charge]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Magic<br>Efek Pasif: Untuk setiap 1 target dalam jangkauan, Attack diri sendiri +10%, maksimal +100%.<br>Normal Attack: Menebas ke depan untuk mengakibatkan Area Damage berbentuk kipas yang luas.<br>Core Skill: Melepaskan puting beliung ke 2 target acak, bertahan selama 5 detik<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Setiap ada 1 Tuning Fantasy Charge di arena, jumlah puting beliung +1, maksimal +3.<br>Tuning Fantasy Lv. 5: Setiap kali puting beliung muncul, akan meningkatkan Damage Skill berikutnya dari Tuning Fantasy Charge, maksimal akumulasi 100%.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 14,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 66,
-    "Sort": 14,
-    "Type": 1
+    "Sort": 1009,
+    "Type": 1,
+    "UIColor": 3
   },
   "15": {
-    "Desc": "Kutukan: Rare<br>Aliran: [Sumber Daya][Burn]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Saat berada di arena, Petualang mendapatkan 100 poin Tuning Crystal Shard setiap 10 detik, maksimal 5 efek aktif.<br>Normal Attack: Tidak ada<br>Core Skill: Berputar untuk mengakibatkan Area Damage kecil dan menambahkan Burn<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Saat target yang terkena Burn mati, mendapatkan 15 poin Tuning Crystal Shard.<br>Tuning Fantasy Lv. 5: Saat target yang terkena Burn mati, mendapatkan 30 poin Tuning Crystal Shard.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 15,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 71,
-    "Sort": 15,
-    "Type": 1
+    "Sort": 2001,
+    "Type": 1,
+    "UIColor": 1
   },
   "16": {
-    "Desc": "Kutukan: Rare<br>Aliran: Tidak ada<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Saat mengakibatkan Damage, menambahkan 25% Slow pada target, tidak dapat ditumpuk.<br>Normal Attack: Tidak ada<br>Core Skill: Memanggil Bola Petir, terus menyerang target di dalam area<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Damage Core Skill meningkat.<br>Tuning Fantasy Lv. 5: Damage Core Skill meningkat.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
-    "Sort": 16,
-    "Type": 1
+    "Sort": 2002,
+    "Type": 1,
+    "UIColor": 1
   },
   "17": {
-    "Desc": "Kutukan: Rare<br>Aliran: [Charge]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Saat berada di arena, setiap Muku Boss memberikan Critical Rate +10% untuk Tuning Fantasy Charge, maksimal penumpukan aktif 100%.<br>Normal Attack: Tidak ada<br>Core Skill: Menghantam tanah 3 kali berturut-turut, mengakibatkan Area Damage yang luas<br>Cooldown: 6 detik<br>Tuning Fantasy Lv. 3: Damage Core Skill meningkat.<br>Tuning Fantasy Lv. 5: Damage Core Skill meningkat.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 17,
-    "IsHide": 0,
-    "ObjectId": 84,
-    "Sort": 17,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 81,
+    "Sort": 2003,
+    "Type": 1,
+    "UIColor": 1
   },
   "18": {
-    "Desc": "Kutukan: Rare<br>Aliran: Tidak ada<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Magic<br>Efek Pasif: Memiliki peluang 30% untuk menambahkan Freeze saat menyerang.<br>Normal Attack: Mengakibatkan 1 kali Area Damage ke sekitar dan menambahkan 10% Slow.<br>Core Skill: Melepaskan Pusaran Air, terus mengakibatkan Area Damage dan menambahkan 20 % Slow<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Damage Core Skill meningkat.<br>Tuning Fantasy Lv. 5: Damage Core Skill meningkat.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
-    "ObjectId": 89,
-    "Sort": 18,
-    "Type": 1
+    "ObjectId": 86,
+    "Sort": 2004,
+    "Type": 1,
+    "UIColor": 1
   },
   "19": {
-    "Desc": "Kutukan: Rare<br>Aliran: Tidak ada<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Magic<br>Efek Pasif: Mengakibatkan Damage tambahan pada target yang terkena Corrosion, setiap 1 lapis Corrosion, Damage +10%.<br>Normal Attack: Tidak ada<br>Core Skill: Melepaskan Mata Air Beracun ke 3 target acak, terus mengakibatkan Area Damage dan menambahkan Corrosion<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Damage Core Skill meningkat.<br>Tuning Fantasy Lv. 5: Damage Core Skill meningkat.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
-    "ObjectId": 94,
-    "Sort": 19,
-    "Type": 1
+    "ObjectId": 91,
+    "Sort": 2005,
+    "Type": 1,
+    "UIColor": 1
   },
   "2": {
-    "Desc": "Kutukan: Epic<br>Aliran: [Humanoid][Sumber Daya]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Magic<br>Efek Pasif: Attack diri sendiri +[1% * Total Level Tuning Fantasy di arena]; Harga jual diri di Toko berkurang 50%.<br>Normal Attack: Terus-menerus melepaskan serangan meteor ke target tunggal di dalam area.<br>Core Skill: Memanggil Rusa Roh untuk menerjang ke depan, setiap ada 1 Tuning Fantasy Humanoid di arena, memicu 1 kali tambahan.<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Saat menyerang, mendapatkan 10 poin Tuning Crystal Shard, Cooldown 3 detik.<br>Tuning Fantasy Lv. 5: Saat menyerang, mendapatkan 15 poin Tuning Crystal Shard, Cooldown 1 detik.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style>",
     "Id": 2,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 6,
-    "Sort": 2,
-    "Type": 1
+    "Sort": 501,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "2001": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Semua Monster di dalam Area menjadi Invincible, kecuali dirinya sendiri.",
+    "Id": 2001,
+    "IsHide": 1,
+    "ObjectId": 5002000,
+    "Sort": 501,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2002": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Memberikan efek Freeze pada Fantasy selaras pertama yang melakukan Attack padanya, siapa yang ingin menjadi yang pertama?",
+    "Id": 2002,
+    "IsHide": 1,
+    "ObjectId": 5002001,
+    "Sort": 502,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2003": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Memberikan efek HoT kepada Monster di sekitarnya.",
+    "Id": 2003,
+    "IsHide": 1,
+    "ObjectId": 5002002,
+    "Sort": 503,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2004": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Bergerak mengabaikan medan, tetapi sangat malas dan sering beristirahat.",
+    "Id": 2004,
+    "IsHide": 1,
+    "ObjectId": 5002005,
+    "Sort": 506,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2005": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7001*}",
+    "Id": 2005,
+    "IsHide": 0,
+    "ObjectId": 5002006,
+    "Sort": 507,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2006": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7002*}",
+    "Id": 2006,
+    "IsHide": 0,
+    "ObjectId": 5002007,
+    "Sort": 508,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2007": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7007*}",
+    "Id": 2007,
+    "IsHide": 0,
+    "ObjectId": 5002008,
+    "Sort": 509,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2008": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7003*}",
+    "Id": 2008,
+    "IsHide": 0,
+    "ObjectId": 5002009,
+    "Sort": 510,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2009": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7009*}",
+    "Id": 2009,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 511,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2010": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7010*}",
+    "Id": 2010,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 512,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2011": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7004*}",
+    "Id": 2011,
+    "IsHide": 0,
+    "ObjectId": 5002010,
+    "Sort": 513,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2012": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7005*}",
+    "Id": 2012,
+    "IsHide": 0,
+    "ObjectId": 5002011,
+    "Sort": 514,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2013": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7006*}",
+    "Id": 2013,
+    "IsHide": 0,
+    "ObjectId": 5002012,
+    "Sort": 515,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2014": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7008*}",
+    "Id": 2014,
+    "IsHide": 0,
+    "ObjectId": 5002013,
+    "Sort": 516,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2015": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7011*}",
+    "Id": 2015,
+    "IsHide": 0,
+    "ObjectId": 5002014,
+    "Sort": 517,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2016": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7012*}",
+    "Id": 2016,
+    "IsHide": 0,
+    "ObjectId": 5002015,
+    "Sort": 518,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2017": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7013*}",
+    "Id": 2017,
+    "IsHide": 0,
+    "ObjectId": 5002016,
+    "Sort": 519,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2018": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: {*messagevalue.7014*}",
+    "Id": 2018,
+    "IsHide": 0,
+    "ObjectId": 5002017,
+    "Sort": 520,
+    "Type": 2,
+    "UIColor": 3
   },
   "3": {
-    "Desc": "Kutukan: Epic<br>Aliran: [Humanoid][Burn]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Magic<br>Efek Pasif: Saat ada Damage dari Burn di dalam area, secara ekstra memicu 1 kali Fire Damage pada target.<br>Normal Attack: Berputar mengakibatkan Area Damage dan menambahkan Burn.<br>Core Skill: Menebas cahaya kapak ke depan untuk mengakibatkan Damage besar, setiap 1 lapis Burn pada target meningkatkan Damage ini sebesar +20%.<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Setiap kali menambahkan 10 kali Burn, serangan berikutnya akan melepaskan Purgatory Train ke target.<br>Tuning Fantasy Lv. 5: Syarat penambahan Burn berkurang menjadi 6 kali, Damage Purgatory Train +100%.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
-    "Sort": 3,
-    "Type": 1
+    "Sort": 502,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "3001": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Makhluk bawah laut yang paling umum.",
+    "Id": 3001,
+    "IsHide": 1,
+    "ObjectId": 5001000,
+    "Sort": 1001,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3002": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Memiliki kecepatan yang sangat tinggi, kabar baiknya tidak tahan banting.",
+    "Id": 3002,
+    "IsHide": 1,
+    "ObjectId": 5001001,
+    "Sort": 1002,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3003": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Membawa Shield yang tebal, biasanya muncul di awal gelombang.",
+    "Id": 3003,
+    "IsHide": 1,
+    "ObjectId": 5001002,
+    "Sort": 1003,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3004": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Mereka akan melindungi monster lainnya di area agar tidak mudah terluka, akan menjadi masalah besar jika tidak dikalahkan terlebih dahulu.",
+    "Id": 3004,
+    "IsHide": 1,
+    "ObjectId": 5001003,
+    "Sort": 1004,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3005": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Bergerak mengabaikan medan, bagaimana bisa ada makhluk semenyebalkan ini.",
+    "Id": 3005,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 1008,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3006": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6001*}",
+    "Id": 3006,
+    "IsHide": 0,
+    "ObjectId": 5001008,
+    "Sort": 1009,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3007": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6002*}",
+    "Id": 3007,
+    "IsHide": 0,
+    "ObjectId": 5001009,
+    "Sort": 1010,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3008": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6003*}",
+    "Id": 3008,
+    "IsHide": 0,
+    "ObjectId": 5001010,
+    "Sort": 1011,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3009": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6004*}",
+    "Id": 3009,
+    "IsHide": 0,
+    "ObjectId": 5001011,
+    "Sort": 1012,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3010": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6005*}",
+    "Id": 3010,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 1013,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3011": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6006*}",
+    "Id": 3011,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 1014,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3012": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6007*}",
+    "Id": 3012,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 1015,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3013": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6008*}",
+    "Id": 3013,
+    "IsHide": 0,
+    "ObjectId": 5001012,
+    "Sort": 1016,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3014": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6009*}",
+    "Id": 3014,
+    "IsHide": 0,
+    "ObjectId": 5001013,
+    "Sort": 1017,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3015": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6010*}",
+    "Id": 3015,
+    "IsHide": 0,
+    "ObjectId": 5001018,
+    "Sort": 1018,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3016": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6011*}",
+    "Id": 3016,
+    "IsHide": 0,
+    "ObjectId": 5001019,
+    "Sort": 1019,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3017": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6012*}",
+    "Id": 3017,
+    "IsHide": 0,
+    "ObjectId": 5001020,
+    "Sort": 1020,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3018": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6013*}",
+    "Id": 3018,
+    "IsHide": 0,
+    "ObjectId": 5001021,
+    "Sort": 1021,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3019": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6014*}",
+    "Id": 3019,
+    "IsHide": 0,
+    "ObjectId": 5001014,
+    "Sort": 1022,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3020": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6015*}",
+    "Id": 3020,
+    "IsHide": 0,
+    "ObjectId": 5001015,
+    "Sort": 1023,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3021": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6016*}",
+    "Id": 3021,
+    "IsHide": 0,
+    "ObjectId": 5001016,
+    "Sort": 1024,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3022": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: {*messagevalue.6017*}",
+    "Id": 3022,
+    "IsHide": 0,
+    "ObjectId": 5001017,
+    "Sort": 1025,
+    "Type": 2,
+    "UIColor": 1
   },
   "4": {
-    "Desc": "Kutukan: Epic<br>Aliran: [Humanoid][Charge]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Batas maksimal Charge meningkat hingga 20 lapis.<br>Normal Attack: Dalam keadaan normal tidak menyerang, memasuki status Charge, mendapatkan 1 lapis setiap 3 detik, maksimal 20 lapis. Saat Petualang memasuki jangkauan, Skill akan terpicu.<br>Core Skill: Menebas cahaya pedang dalam jumlah banyak untuk mengakibatkan Area Damage, serta mengonsumsi seluruh lapisan Charge untuk meningkatkan Damage sebesar [40% * Lapis Charge].<br>Cooldown: Tidak ada<br>Tuning Fantasy Lv. 3: Mengunci 1 target terdekat setiap 10 detik untuk menembakkan cahaya pedang.<br>Tuning Fantasy Lv. 5: Target kunci cahaya pedang +2.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style>",
     "Id": 4,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 16,
-    "Sort": 4,
-    "Type": 1
+    "Sort": 503,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "4001": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Netral</style><br>Fitur: {*messagevalue.9001*}",
+    "Id": 4001,
+    "IsHide": 0,
+    "ObjectId": 5003014,
+    "Sort": 2001,
+    "Type": 2,
+    "UIColor": 5
+  },
+  "4002": {
+    "Desc": "Jenis: <style=\"tipsYellow\">Hadiah</style><br>Fitur: {*messagevalue.9002*}",
+    "Id": 4002,
+    "IsHide": 0,
+    "ObjectId": 5002500,
+    "Sort": 2002,
+    "Type": 2,
+    "UIColor": 5
   },
   "5": {
-    "Desc": "Kutukan: Epic<br>Aliran: [Humanoid]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Saat berada di arena, Cooldown Speed Skill Petualang +50%, tidak dapat ditumpuk.<br>Normal Attack: Menusuk ke depan dan memutar tombak untuk mengakibatkan Area Damage.<br>Core Skill: 5 Tuning Fantasy terdekat mendapatkan 100% Akselerasi Cooldown selama 5 detik.<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Movement Speed Petualang +25%, Bonus Damage +25%.<br>Tuning Fantasy Lv. 5: Movement Speed Petualang +50%, Bonus Damage +50%.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 5,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 21,
-    "Sort": 5,
-    "Type": 1
+    "Sort": 504,
+    "Type": 1,
+    "UIColor": 4
   },
   "6": {
-    "Desc": "Kutukan: Excellent<br>Aliran: [Charge]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Setiap 10 detik secara acak melepaskan Gelombang Tanah ke 3 target, menambahkan Grevious Wound.<br>Normal Attack: Dalam keadaan normal tidak menyerang, memasuki status Charge, mendapatkan 1 lapis setiap 3 detik, maksimal 10 lapis. Saat Petualang memasuki jangkauan, Skill akan terpicu.<br>Core Skill: Melepaskan serangan tusukan neraka area besar untuk mengakibatkan Damage tinggi, dan mengonsumsi semua lapis Charge untuk meningkatkan Damage sebesar [30% * Lapis Charge]<br>Cooldown: Tidak ada<br>Tuning Fantasy Lv. 3: Damage yang diakibatkan pasif menambahkan 10% Vulnerable selama 5 detik.<br>Tuning Fantasy Lv. 5: Vulnerable tambahan +10%.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style>",
     "Id": 6,
-    "IsHide": 0,
-    "ObjectId": 26,
-    "Sort": 6,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 3,
+    "Sort": 1001,
+    "Type": 1,
+    "UIColor": 3
   },
   "7": {
-    "Desc": "Kutukan: Excellent<br>Aliran: Tidak ada<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Memberikan Damage +100% pada target dalam kondisi Immobilize.<br>Normal Attack: Memprioritaskan menembakkan jaring laba-laba ke target yang tidak terkena Immobilize, mengakibatkan Damage, dan memiliki peluang 40% untuk meng-Immobilize target selama 5 detik.<br>Core Skill: Muncul setelah bersembunyi di bawah tanah, mengakibatkan Area Damage yang luas, pasti men-Stun target selama 1 detik<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Peluang Immobilize meningkat menjadi 100%.<br>Tuning Fantasy Lv. 5: Durasi Stun meningkat menjadi 2,5 detik.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
-    "Sort": 7,
-    "Type": 1
+    "Sort": 1002,
+    "Type": 1,
+    "UIColor": 3
   },
   "8": {
-    "Desc": "Kutukan: Excellent<br>Aliran: [Sumber Daya]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Physical<br>Efek Pasif: Setiap Petualang memiliki 100 poin Tuning Crystal Shard akan memberikan 1% Bonus Damage untuk Sanctuary Flying Fish, maksimal 100%.<br>Normal Attack: Melepaskan bola air yang jatuh untuk mengakibatkan Area Damage dan menambahkan Slow.<br>Core Skill: Memanggil 1 Phantom Flying Fish untuk menerjang ke depan<br>Cooldown: 15 detik<br>Tuning Fantasy Lv. 3: Flying Fish +1, tingkat perolehan Tuning Crystal Shard +5%.<br>Tuning Fantasy Lv. 5: Flying Fish +2, tingkat perolehan Tuning Crystal Shard +10%.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
-    "Sort": 8,
-    "Type": 1
+    "Sort": 1003,
+    "Type": 1,
+    "UIColor": 3
   },
   "9": {
-    "Desc": "Kutukan: Excellent<br>Aliran: [Burn]<br>Level Maksimal: Level 3; Jika memiliki Battle Fantasy yang sesuai, Level Maksimal Tuning Fantasy meningkat dari Level 3 ke Level 5.<br>Tipe Serangan: Magic<br>Efek Pasif: Semakin tinggi HP diri sendiri, semakin tinggi Attack, maksimal +200%, namun terus-menerus kehilangan HP.<br>Normal Attack: Tidak ada<br>Core Skill: Terus-menerus menyemburkan api ke depan, mengakibatkan Damage dan menambahkan Burn<br>Cooldown: 8 detik<br>Tuning Fantasy Lv. 3: Memulihkan 5% HP saat menyerang.<br>Tuning Fantasy Lv. 5: Kelebihan Healing diubah menjadi Shield.",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style>",
     "Id": 9,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 41,
-    "Sort": 9,
-    "Type": 1
+    "Sort": 1004,
+    "Type": 1,
+    "UIColor": 3
   }
 }

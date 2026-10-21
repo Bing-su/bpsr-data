@@ -1,322 +1,776 @@
 {
   "1": {
-    "Desc": "レアリティ：不朽<br>型：【人型】<br>最大レベル：5。<br>攻撃タイプ：物理<br>パッシブ効果：なし<br>通常攻撃：鎌を3回振り回して範囲ダメージを与える。<br>コアスキル：鎌を振り回してリングを2回発生させ、広範囲ダメージを与える。<br>リキャスト：15秒<br>同調イマジンLv.3：リング+3。<br>同調イマジンLv.5：リングの範囲+100%。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_5\">不朽</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style>",
     "Id": 1,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 1,
     "Sort": 1,
-    "Type": 1
+    "Type": 1,
+    "UIColor": 5
   },
   "10": {
-    "Desc": "レアリティ：卓越<br>型：【燃焼】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：フィールドにいる間、燃焼状態のモンスターが燃焼タイプの塔から受けるダメージ+【1%×燃焼のスタック数】。<br>通常攻撃：踏みつけて小範囲ダメージを与える。<br>コアスキル：雷のバリアを獲得し、2秒ごとにランダムな対象へ雷撃を放つ。<br>リキャスト：15秒<br>同調イマジンLv.3：攻撃対象が燃焼状態の場合、その燃焼を消費して雷火隠滅を1回発動し、広範囲ダメージを与える。<br>同調イマジンLv.5：雷火隠滅が対象の燃焼を消費しなくなる。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
-    "Sort": 10,
-    "Type": 1
+    "Sort": 1005,
+    "Type": 1,
+    "UIColor": 3
   },
   "1001": {
-    "Desc": "タイプ：ボス<br>特性：範囲内の同調イマジンの攻撃速度を大幅に低下させるが、攻撃力はアップする。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：範囲内の同調イマジンの攻撃速度を大幅に低下させるが、攻撃力はアップする。",
     "Id": 1001,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003000,
     "Sort": 1,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1002": {
-    "Desc": "タイプ：ボス<br>特性：正面から受けるダメージが減少し、背面から受けるダメージが増加する。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：正面から受けるダメージが減少し、背面から受けるダメージが増加する。",
     "Id": 1002,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003001,
     "Sort": 2,
-    "Type": 2
-  },
-  "1003": {
-    "Desc": "タイプ：ボス<br>特性：ゴーストカニクモ一部の同調イマジンのスキルをランダムで失わせる。",
-    "Id": 1003,
-    "IsHide": 0,
-    "ObjectId": 5003002,
-    "Sort": 3,
-    "Type": 2
-  },
-  "1004": {
-    "Desc": "タイプ：ボス<br>特性：同調イマジンを配置するたびに、プレデターに同調砕晶をいくつか食べられる。",
-    "Id": 1004,
-    "IsHide": 0,
-    "ObjectId": 5003003,
-    "Sort": 4,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1005": {
-    "Desc": "タイプ：ボス<br>特性：子守唄を歌うたびに、フィールド全体の同調イマジンが眠りに落ちる。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：子守唄を歌うたびに、フィールド全体の同調イマジンが眠りに落ちる。",
     "Id": 1005,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003004,
     "Sort": 5,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1006": {
-    "Desc": "タイプ：ボス<br>特性：HPは大幅に上昇するが、自身の受けるダメージも増加する。フィールド全体の同調イマジンの合計レベルが高いほど、受けるダメージも大きくなる。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：HPは大幅に上昇するが、自身の受けるダメージも増加する。フィールド全体の同調イマジンの合計レベルが高いほど、受けるダメージも大きくなる。",
     "Id": 1006,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003005,
     "Sort": 6,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1007": {
-    "Desc": "タイプ：精鋭<br>特性：範囲内のすべてのモンスターを無敵にする。ただし、自身を除く。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
-    "ObjectId": 5002000,
+    "ObjectId": 5003006,
     "Sort": 7,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1008": {
-    "Desc": "タイプ：精鋭<br>特性：最初に攻撃してきた同調イマジンを凍結させる。誰だって最初は嫌だよね",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
-    "ObjectId": 5002001,
+    "ObjectId": 5003003,
     "Sort": 8,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1009": {
-    "Desc": "タイプ：精鋭<br>特性：周囲のモンスターを回復し続ける。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
-    "ObjectId": 5002002,
+    "ObjectId": 5003002,
     "Sort": 9,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
+  },
+  "101": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_5\">不朽</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
+    "Id": 101,
+    "IsHide": 0,
+    "ObjectId": 96,
+    "Sort": 2,
+    "Type": 1,
+    "UIColor": 5
   },
   "1010": {
-    "Desc": "タイプ：精鋭<br>特性：倒されても復活する。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
-    "ObjectId": 5002003,
+    "ObjectId": 5003007,
     "Sort": 10,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1011": {
-    "Desc": "タイプ：精鋭<br>特性：移動速度が非常に速く、しかも打たれ強い。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
-    "ObjectId": 5002004,
+    "ObjectId": 5003008,
     "Sort": 11,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1012": {
-    "Desc": "タイプ：精鋭<br>特性：地形を無視して移動するが、とても怠け者でよく休憩する。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
-    "ObjectId": 5002005,
+    "ObjectId": 5003009,
     "Sort": 12,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1013": {
-    "Desc": "タイプ：通常<br>特性：ごく一般的な海底生物。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
-    "ObjectId": 5001000,
+    "ObjectId": 5003010,
     "Sort": 13,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1014": {
-    "Desc": "タイプ：通常<br>特性：移動速度が非常に速いが、幸いにも打たれ弱い。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
-    "ObjectId": 5001001,
+    "ObjectId": 5003012,
     "Sort": 14,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1015": {
-    "Desc": "タイプ：通常<br>特性：分厚いバリアを持ち、通常はWAVEの開始時に出現する。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
-    "ObjectId": 5001002,
+    "ObjectId": 5003011,
     "Sort": 15,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1016": {
-    "Desc": "タイプ：通常<br>特性：ほかのモンスターが受けるダメージを軽減するので、先に倒しておかないと厄介。",
+    "Desc": "タイプ：<style=\"tipsYellow\">ボス</style><br>特性：{*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
-    "ObjectId": 5001003,
+    "ObjectId": 5003013,
     "Sort": 16,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
-  "1017": {
-    "Desc": "タイプ：通常<br>特性：硬い殻で受ける物理ダメージを大幅に防ぐが、その反面、魔法には弱い。",
-    "Id": 1017,
+  "102": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_4\">エピック</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
+    "Id": 102,
     "IsHide": 0,
-    "ObjectId": 5001004,
-    "Sort": 17,
-    "Type": 2
+    "ObjectId": 101,
+    "Sort": 505,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1018": {
-    "Desc": "タイプ：通常<br>特性：魔法には強いが、物理攻撃を使えば効果はバツグン。",
-    "Id": 1018,
+  "103": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_4\">エピック</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
+    "Id": 103,
     "IsHide": 0,
-    "ObjectId": 5001005,
-    "Sort": 18,
-    "Type": 2
+    "ObjectId": 106,
+    "Sort": 506,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1019": {
-    "Desc": "タイプ：通常<br>特性：地中に潜っている間は無敵になる。少し離れた場所で、出てくるのを待ち構えよう。",
-    "Id": 1019,
+  "104": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_4\">エピック</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
+    "Id": 104,
     "IsHide": 0,
-    "ObjectId": 5001006,
-    "Sort": 19,
-    "Type": 2
+    "ObjectId": 111,
+    "Sort": 507,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1020": {
-    "Desc": "タイプ：通常<br>特性：地形を無視して移動する。なんて厄介なやつなんだ。",
-    "Id": 1020,
+  "105": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_4\">エピック</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
+    "Id": 105,
     "IsHide": 0,
-    "ObjectId": 5001007,
-    "Sort": 20,
-    "Type": 2
+    "ObjectId": 116,
+    "Sort": 508,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1021": {
-    "Desc": "",
-    "Id": 1021,
-    "IsHide": 1,
-    "ObjectId": 5001007,
-    "Sort": 21,
-    "Type": 2
+  "106": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
+    "Id": 106,
+    "IsHide": 0,
+    "ObjectId": 121,
+    "Sort": 1010,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "107": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
+    "Id": 107,
+    "IsHide": 0,
+    "ObjectId": 126,
+    "Sort": 1011,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "108": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
+    "Id": 108,
+    "IsHide": 0,
+    "ObjectId": 131,
+    "Sort": 1012,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "109": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
+    "Id": 109,
+    "IsHide": 0,
+    "ObjectId": 136,
+    "Sort": 1013,
+    "Type": 1,
+    "UIColor": 3
   },
   "11": {
-    "Desc": "レアリティ：卓越<br>型：【資源】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：自身が破壊されたとき、追加で同調砕晶を100還元する。<br>通常攻撃：前方へ氷の霧を吐き出してダメージを与える。<br>コアスキル：ランダムな対象3体に対して氷のトゲを放つ。<br>リキャスト：15秒<br>同調イマジンLv.3：氷のトゲが発生した場所に砕晶の塊が形成される。拾うとランダムで同調砕晶を1～20獲得する。最大10秒間存在する。<br>同調イマジンLv.5：氷のトゲの数+2。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style>",
     "Id": 11,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 51,
-    "Sort": 11,
-    "Type": 1
+    "Sort": 1006,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "110": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
+    "Id": 110,
+    "IsHide": 0,
+    "ObjectId": 141,
+    "Sort": 1014,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "111": {
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_2\">上級</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
+    "Id": 111,
+    "IsHide": 0,
+    "ObjectId": 146,
+    "Sort": 2006,
+    "Type": 1,
+    "UIColor": 1
   },
   "12": {
-    "Desc": "レアリティ：卓越<br>型：【サポート】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：フィールドにいる間、すべての味方が与えるダメージ+5%、20%までスタック可。<br>通常攻撃：ランダムなムークを1匹召喚して戦闘を支援させ、その攻撃速度をアップさせる。<br>コアスキル：範囲内の味方を回復し、味方の攻撃力+20%。持続10秒。<br>リキャスト：15秒<br>同調イマジンLv.3：追加でボウガンムークを1匹召喚する。<br>同調イマジンLv.5：追加でムークボスを1匹召喚する。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
-    "Sort": 12,
-    "Type": 1
+    "Sort": 1007,
+    "Type": 1,
+    "UIColor": 3
   },
   "13": {
-    "Desc": "レアリティ：卓越<br>型：【支援】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：フィールドにいる間、すべてのエネミーが受けるダメージ+5%、20%までスタック可。<br>通常攻撃：前方へ振り下ろし攻撃を行い、直線範囲ダメージを与える。<br>コアスキル：前方を薙ぎ払い、広範囲に大ダメージを2回与える。<br>リキャスト：15秒<br>同調イマジンLv.3：通常攻撃時に衝撃波を2つ放ち、距離+50%。<br>同調イマジンLv.5：ダメージ+20%。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
-    "Sort": 13,
-    "Type": 1
+    "Sort": 1008,
+    "Type": 1,
+    "UIColor": 3
   },
   "14": {
-    "Desc": "レアリティ：卓越<br>型：【チャージ】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：魔法<br>パッシブ効果：範囲内にいる対象1体につき、自身の攻撃力+10%、最大+100%。<br>通常攻撃：前方を切り裂き、扇形の広範囲ダメージを与える。<br>コアスキル：ランダムな対象2体に対して竜巻を放ち、5秒間持続する。<br>リキャスト：15秒<br>同調イマジンLv.3：フィールド上のチャージ型の同調イマジン1つにつき、竜巻の数+1、上限+3。<br>同調イマジンLv.5：竜巻が出現するたびに、チャージ型同調イマジンの次回スキルダメージがアップする。最大100%まで累積可能。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style>",
     "Id": 14,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 66,
-    "Sort": 14,
-    "Type": 1
+    "Sort": 1009,
+    "Type": 1,
+    "UIColor": 3
   },
   "15": {
-    "Desc": "レアリティ：上級<br>型：【資源】【燃焼】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：フィールドにいる間、冒険者は10秒ごとに同調砕晶を100獲得する。最大5体分まで可。<br>通常攻撃：なし<br>コアスキル：回転して小範囲ダメージを与え、燃焼を付与する。<br>リキャスト：15秒<br>同調イマジンLv.3：燃焼状態の対象が死亡したとき、同調砕晶を15獲得する。<br>同調イマジンLv.5：燃焼状態の対象が死亡したとき、同調砕晶を30獲得する。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_2\">上級</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style>",
     "Id": 15,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 71,
-    "Sort": 15,
-    "Type": 1
+    "Sort": 2001,
+    "Type": 1,
+    "UIColor": 1
   },
   "16": {
-    "Desc": "レアリティ：上級<br>型：なし<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：ダメージを与えたとき、対象に25%のスロウを付与する。スタック不可。<br>通常攻撃：なし<br>コアスキル：サンダーボールを召喚し、範囲内の対象を攻撃し続ける。<br>リキャスト：15秒<br>同調イマジンLv.3：コアスキルのダメージがアップする。<br>同調イマジンLv.5：コアスキルのダメージがアップする。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_2\">上級</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
-    "Sort": 16,
-    "Type": 1
+    "Sort": 2002,
+    "Type": 1,
+    "UIColor": 1
   },
   "17": {
-    "Desc": "レアリティ：上級<br>型：【チャージ】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：フィールドにいる間、ムークボス1体につきチャージ型の同調イマジンの会心率+10%、100%まで可。<br>通常攻撃：なし<br>コアスキル：地面を連続で3回叩きつけ、広範囲ダメージを与える。<br>リキャスト：6秒<br>同調イマジンLv.3：コアスキルのダメージがアップする。<br>同調イマジンLv.5：コアスキルのダメージがアップする。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_2\">上級</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style>",
     "Id": 17,
-    "IsHide": 0,
-    "ObjectId": 84,
-    "Sort": 17,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 81,
+    "Sort": 2003,
+    "Type": 1,
+    "UIColor": 1
   },
   "18": {
-    "Desc": "レアリティ：上級<br>型：なし<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：魔法<br>パッシブ効果：攻撃時、30%の確率で氷結を付与する。<br>通常攻撃：周囲に範囲ダメージを1回与え、10%のスロウを付与する。<br>コアスキル：水の渦を放ち、継続して範囲ダメージを与えて20 %のスロウを付与する。<br>リキャスト：15秒<br>同調イマジンLv.3：コアスキルのダメージがアップする。<br>同調イマジンLv.5：コアスキルのダメージがアップする。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_2\">上級</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
-    "ObjectId": 89,
-    "Sort": 18,
-    "Type": 1
+    "ObjectId": 86,
+    "Sort": 2004,
+    "Type": 1,
+    "UIColor": 1
   },
   "19": {
-    "Desc": "レアリティ：上級<br>型：なし<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：魔法<br>パッシブ効果：腐食状態の対象に追加ダメージを与える。腐食1スタックにつき、ダメージ+10%。<br>通常攻撃：なし<br>コアスキル：ランダムな対象3体に対して毒の泉を放ち、継続して範囲ダメージを与えて腐食を付与する。<br>リキャスト：15秒<br>同調イマジンLv.3：コアスキルのダメージがアップする。<br>同調イマジンLv.5：コアスキルのダメージがアップする。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_2\">上級</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
-    "ObjectId": 94,
-    "Sort": 19,
-    "Type": 1
+    "ObjectId": 91,
+    "Sort": 2005,
+    "Type": 1,
+    "UIColor": 1
   },
   "2": {
-    "Desc": "レアリティ：エピック<br>型：【人型】【資源】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：魔法<br>パッシブ効果：自身の攻撃力+【1%×フィールド全体の同調イマジンの合計レベル】。自身がショップで購入する際の販売価格-50%。<br>通常攻撃：範囲内の単体対象に対して隕石を落とし続ける。<br>コアスキル：霊鹿を呼び出して前方へ突進させる。フィールド上の人型の同調イマジン1つにつき、追加で1回発動する。<br>リキャスト：15秒<br>同調イマジンLv.3：攻撃時に同調砕晶を10獲得する。リキャスト3秒。<br>同調イマジンLv.5：攻撃時に同調砕晶を15獲得する。リキャスト1秒。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_4\">エピック</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style>",
     "Id": 2,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 6,
-    "Sort": 2,
-    "Type": 1
+    "Sort": 501,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "2001": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：範囲内の自身を除くすべてのモンスターを無敵にする。",
+    "Id": 2001,
+    "IsHide": 1,
+    "ObjectId": 5002000,
+    "Sort": 501,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2002": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：最初に攻撃してきた同調イマジンを凍結させる。さて、最初になりたいのは誰？",
+    "Id": 2002,
+    "IsHide": 1,
+    "ObjectId": 5002001,
+    "Sort": 502,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2003": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：周囲のモンスターを回復し続ける。",
+    "Id": 2003,
+    "IsHide": 1,
+    "ObjectId": 5002002,
+    "Sort": 503,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2004": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：地形を無視して移動するが、とても怠け者でよく休憩する。",
+    "Id": 2004,
+    "IsHide": 1,
+    "ObjectId": 5002005,
+    "Sort": 506,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2005": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7001*}",
+    "Id": 2005,
+    "IsHide": 0,
+    "ObjectId": 5002006,
+    "Sort": 507,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2006": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7002*}",
+    "Id": 2006,
+    "IsHide": 0,
+    "ObjectId": 5002007,
+    "Sort": 508,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2007": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7007*}",
+    "Id": 2007,
+    "IsHide": 0,
+    "ObjectId": 5002008,
+    "Sort": 509,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2008": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7003*}",
+    "Id": 2008,
+    "IsHide": 0,
+    "ObjectId": 5002009,
+    "Sort": 510,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2009": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7009*}",
+    "Id": 2009,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 511,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2010": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7010*}",
+    "Id": 2010,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 512,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2011": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7004*}",
+    "Id": 2011,
+    "IsHide": 0,
+    "ObjectId": 5002010,
+    "Sort": 513,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2012": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7005*}",
+    "Id": 2012,
+    "IsHide": 0,
+    "ObjectId": 5002011,
+    "Sort": 514,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2013": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7006*}",
+    "Id": 2013,
+    "IsHide": 0,
+    "ObjectId": 5002012,
+    "Sort": 515,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2014": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7008*}",
+    "Id": 2014,
+    "IsHide": 0,
+    "ObjectId": 5002013,
+    "Sort": 516,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2015": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7011*}",
+    "Id": 2015,
+    "IsHide": 0,
+    "ObjectId": 5002014,
+    "Sort": 517,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2016": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7012*}",
+    "Id": 2016,
+    "IsHide": 0,
+    "ObjectId": 5002015,
+    "Sort": 518,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2017": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7013*}",
+    "Id": 2017,
+    "IsHide": 0,
+    "ObjectId": 5002016,
+    "Sort": 519,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2018": {
+    "Desc": "タイプ：<style=\"tipsYellow\">精鋭</style><br>特性：{*messagevalue.7014*}",
+    "Id": 2018,
+    "IsHide": 0,
+    "ObjectId": 5002017,
+    "Sort": 520,
+    "Type": 2,
+    "UIColor": 3
   },
   "3": {
-    "Desc": "レアリティ：エピック<br>型：【人型】【燃焼】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：魔法<br>パッシブ効果：範囲内に燃焼によるダメージが発生したとき、追加でその対象に炎属性ダメージを1回与える。<br>通常攻撃：回転して範囲ダメージを与え、燃焼を付与する。<br>コアスキル：前方へ斧の光を放ち大ダメージを与える。対象の燃焼1スタックにつき、このダメージ+20%。<br>リキャスト：15秒<br>同調イマジンLv.3：燃焼を10回付与するごとに、次回の攻撃で対象に煉獄列車を放つ。<br>同調イマジンLv.5：燃焼付与の必要回数が6に減少し、煉獄列車のダメージ+100%。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_4\">エピック</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
-    "Sort": 3,
-    "Type": 1
+    "Sort": 502,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "3001": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：最も一般的な海底生物。",
+    "Id": 3001,
+    "IsHide": 1,
+    "ObjectId": 5001000,
+    "Sort": 1001,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3002": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：移動速度が非常に速い。幸い、打たれ弱い。",
+    "Id": 3002,
+    "IsHide": 1,
+    "ObjectId": 5001001,
+    "Sort": 1002,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3003": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：分厚いバリアを持ち、通常はWAVEの開始時に出現する。",
+    "Id": 3003,
+    "IsHide": 1,
+    "ObjectId": 5001002,
+    "Sort": 1003,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3004": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：ほかのモンスターが受けるダメージを軽減するので、先に倒しておかないと厄介。",
+    "Id": 3004,
+    "IsHide": 1,
+    "ObjectId": 5001003,
+    "Sort": 1004,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3005": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：地形を無視して移動する。なんて厄介なやつなんだ。",
+    "Id": 3005,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 1008,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3006": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6001*}",
+    "Id": 3006,
+    "IsHide": 0,
+    "ObjectId": 5001008,
+    "Sort": 1009,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3007": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6002*}",
+    "Id": 3007,
+    "IsHide": 0,
+    "ObjectId": 5001009,
+    "Sort": 1010,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3008": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6003*}",
+    "Id": 3008,
+    "IsHide": 0,
+    "ObjectId": 5001010,
+    "Sort": 1011,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3009": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6004*}",
+    "Id": 3009,
+    "IsHide": 0,
+    "ObjectId": 5001011,
+    "Sort": 1012,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3010": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6005*}",
+    "Id": 3010,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 1013,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3011": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6006*}",
+    "Id": 3011,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 1014,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3012": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6007*}",
+    "Id": 3012,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 1015,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3013": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6008*}",
+    "Id": 3013,
+    "IsHide": 0,
+    "ObjectId": 5001012,
+    "Sort": 1016,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3014": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6009*}",
+    "Id": 3014,
+    "IsHide": 0,
+    "ObjectId": 5001013,
+    "Sort": 1017,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3015": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6010*}",
+    "Id": 3015,
+    "IsHide": 0,
+    "ObjectId": 5001018,
+    "Sort": 1018,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3016": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6011*}",
+    "Id": 3016,
+    "IsHide": 0,
+    "ObjectId": 5001019,
+    "Sort": 1019,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3017": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6012*}",
+    "Id": 3017,
+    "IsHide": 0,
+    "ObjectId": 5001020,
+    "Sort": 1020,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3018": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6013*}",
+    "Id": 3018,
+    "IsHide": 0,
+    "ObjectId": 5001021,
+    "Sort": 1021,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3019": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6014*}",
+    "Id": 3019,
+    "IsHide": 0,
+    "ObjectId": 5001014,
+    "Sort": 1022,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3020": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6015*}",
+    "Id": 3020,
+    "IsHide": 0,
+    "ObjectId": 5001015,
+    "Sort": 1023,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3021": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6016*}",
+    "Id": 3021,
+    "IsHide": 0,
+    "ObjectId": 5001016,
+    "Sort": 1024,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3022": {
+    "Desc": "タイプ：<style=\"tipsYellow\">通常</style><br>特性：{*messagevalue.6017*}",
+    "Id": 3022,
+    "IsHide": 0,
+    "ObjectId": 5001017,
+    "Sort": 1025,
+    "Type": 2,
+    "UIColor": 1
   },
   "4": {
-    "Desc": "レアリティ：エピック<br>型：【人型】【チャージ】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：チャージの上限が20スタックにアップする。<br>通常攻撃：通常時は攻撃を行わず、チャージ状態に入る。3秒ごとに1スタック獲得する。上限20スタック。冒険者が範囲内に入るとスキルが発動する。<br>コアスキル：無数の剣光を放って範囲ダメージを与え、すべてのチャージスタック数を消費してダメージ+【40%×チャージスタック数】。<br>リキャスト：なし<br>同調イマジンLv.3：10秒ごとに最も近い対象1体をロックオンして剣光を放つ。<br>同調イマジンLv.5：剣光のロックオン対象+2。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_4\">エピック</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style>",
     "Id": 4,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 16,
-    "Sort": 4,
-    "Type": 1
+    "Sort": 503,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "4001": {
+    "Desc": "タイプ：<style=\"tipsYellow\">中立</style><br>特性：{*messagevalue.9001*}",
+    "Id": 4001,
+    "IsHide": 0,
+    "ObjectId": 5003014,
+    "Sort": 2001,
+    "Type": 2,
+    "UIColor": 5
+  },
+  "4002": {
+    "Desc": "タイプ：<style=\"tipsYellow\">報酬</style><br>特性：{*messagevalue.9002*}",
+    "Id": 4002,
+    "IsHide": 0,
+    "ObjectId": 5002500,
+    "Sort": 2002,
+    "Type": 2,
+    "UIColor": 5
   },
   "5": {
-    "Desc": "レアリティ：エピック<br>型：【人型】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：フィールドにいる間、冒険者のスキルリキャスト速度+50%。スタック不可。<br>通常攻撃：前方へ突きを放ち、槍を回転させて範囲ダメージを与える。<br>コアスキル：自身に最も近い同調イマジン5つのリキャスト速度+100%。持続5秒。<br>リキャスト：15秒<br>同調イマジンLv.3：冒険者の移動速度+25%、ダメージ増加効果+25%。<br>同調イマジンLv.5：冒険者の移動速度+50%、ダメージ増加効果+50%。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_4\">エピック</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style>",
     "Id": 5,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 21,
-    "Sort": 5,
-    "Type": 1
+    "Sort": 504,
+    "Type": 1,
+    "UIColor": 4
   },
   "6": {
-    "Desc": "レアリティ：卓越<br>型：【チャージ】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：10秒ごとにランダムな対象3体に対して地上波を放ち、重傷を付与する。<br>通常攻撃：通常時は攻撃を行わず、チャージ状態に入る。3秒ごとに1スタック獲得する。上限10スタック。冒険者が範囲内に入るとスキルが発動する。<br>コアスキル：広範囲にヘルスラストを放って大ダメージを与え、すべてのチャージスタック数を消費してダメージ+【30%×チャージスタック数】。<br>リキャスト：なし<br>同調イマジンLv.3：パッシブ効果によるダメージが、対象に追加で10%の脆弱を付与する。持続5秒。<br>同調イマジンLv.5：脆弱が追加で+10%。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style>",
     "Id": 6,
-    "IsHide": 0,
-    "ObjectId": 26,
-    "Sort": 6,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 3,
+    "Sort": 1001,
+    "Type": 1,
+    "UIColor": 3
   },
   "7": {
-    "Desc": "レアリティ：卓越<br>型：なし<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：静止状態の対象に対するダメージ+100%。<br>通常攻撃：静止状態でない対象に優先してクモの糸を吐き、ダメージを与える。40%の確率で対象を5秒間静止させる。<br>コアスキル：地面に潜った後、飛び出して広範囲ダメージを与える。対象を確実に1秒間スタンさせる。<br>リキャスト：15秒<br>同調イマジンLv.3：静止確率が100%にアップする。<br>同調イマジンLv.5：スタン時間が2.5秒に延長される。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">支援</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
-    "Sort": 7,
-    "Type": 1
+    "Sort": 1002,
+    "Type": 1,
+    "UIColor": 3
   },
   "8": {
-    "Desc": "レアリティ：卓越<br>型：【資源】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：物理<br>パッシブ効果：所持する同調砕晶100につき、ヘヴンスカイの与えるダメージ+1%。最大100%。<br>通常攻撃：ウォーターボールを落として範囲ダメージを与え、スロウを付与する。<br>コアスキル：幻影のスカイフィッシュを1匹召喚して前方へ突進させる。<br>リキャスト：15秒<br>同調イマジンLv.3：スカイフィッシュ+1、同調砕晶獲得率+5%。<br>同調イマジンLv.5：スカイフィッシュ+2、同調砕晶獲得率+10%。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
-    "Sort": 8,
-    "Type": 1
+    "Sort": 1003,
+    "Type": 1,
+    "UIColor": 3
   },
   "9": {
-    "Desc": "レアリティ：卓越<br>型：【燃焼】<br>最大レベル：3。対応するバトルイマジンを所持している場合、同調イマジンの最大レベルが3から5にアップする。<br>攻撃タイプ：魔法<br>パッシブ効果：自身のHPが高いほど攻撃力がアップする。最大+200%。HPを失い続ける。<br>通常攻撃：なし<br>コアスキル：前方へ火を吹き続け、ダメージを与えて燃焼を付与する。<br>リキャスト：8秒<br>同調イマジンLv.3：攻撃時にHPを5%回復する。<br>同調イマジンLv.5：回復量が上限を超えた場合、バリアに変換される。",
+    "Desc": "<style=\"accent-gn\">レア度</style>：<style=\"ItemQuality_3\">卓越</style><br><style=\"accent-gn\">役割</style>：<style=\"tipsYellow\">攻撃</style>",
     "Id": 9,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 41,
-    "Sort": 9,
-    "Type": 1
+    "Sort": 1004,
+    "Type": 1,
+    "UIColor": 3
   }
 }

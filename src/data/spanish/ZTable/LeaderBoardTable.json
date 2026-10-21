@@ -178,5 +178,30 @@
     "TriggerParams": "PlayType = 17 AND (MasterChallengeId = 656518 OR MasterChallengeId = 656519 OR MasterChallengeId = 656520)",
     "Type": 4,
     "VoteCounterId": 1101
+  },
+  "1005": {
+    "BackGroundPic": "",
+    "Condition": "RoleLevel >= 60 AND TowerDefensePassWave >= 50",
+    "DungeonId": 14007,
+    "FirstEnterAward": 0,
+    "FirstEnterMailId": 0,
+    "FrameId": 2000,
+    "HelpLibraryId": 6502,
+    "Id": 1005,
+    "MailId": 0,
+    "Name": "",
+    "PageCount": 30,
+    "ParamInfo": [2],
+    "ParentBoardId": 0,
+    "RecordCount": 10000,
+    "Season": 3,
+    "SettlementAwardId": [],
+    "SettlementText": [],
+    "ShowParam": [1, 2, 3, 11],
+    "ShowResultTime": 120,
+    "TimerId": 41148,
+    "TriggerParams": "PlayType = 21 AND DungeonId = 14007",
+    "Type": 6,
+    "VoteCounterId": 0
   }
 }

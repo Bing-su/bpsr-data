@@ -535,5 +535,42 @@
     "StatusTransition": [[0, 1]],
     "TerrainAttr": [],
     "ToyId": 1073149
+  },
+  "9000050": {
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "CanMask": false,
+    "DefaultState": 0,
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "GoLayer": -1,
+    "Id": 9000050,
+    "InteractionMount": [],
+    "InteractionTemplate": [[0, 56021]],
+    "IsNotGround": false,
+    "ModelID": 9000012,
+    "Name": "玩具·达雅烟花",
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "StatusInfo": [[], [1, 0]],
+    "StatusTransition": [[0, 1]],
+    "TerrainAttr": [],
+    "ToyId": 1073151
   }
 }

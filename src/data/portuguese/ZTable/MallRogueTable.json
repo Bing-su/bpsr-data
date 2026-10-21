@@ -16,6 +16,73 @@
     "Quality": 2,
     "ShopId": 14001
   },
+  "10": {
+    "Discount": [[0, 1000, 8500]],
+    "Id": 10,
+    "ItemNumber": [
+      [40, 1],
+      [41, 1],
+      [45, 1]
+    ],
+    "LevelUpCondition": [
+      [4, 5000, 14023],
+      [1, 830314, 14025]
+    ],
+    "LevelUpMessageId": 11002153,
+    "MallFreshCost": [],
+    "Quality": 2,
+    "ShopId": 14022
+  },
+  "11": {
+    "Discount": [[0, 1000, 8500]],
+    "Id": 11,
+    "ItemNumber": [
+      [42, 1],
+      [49, 1],
+      [46, 2]
+    ],
+    "LevelUpCondition": [
+      [4, 15000, 14024],
+      [1, 830314, 14025]
+    ],
+    "LevelUpMessageId": 11002153,
+    "MallFreshCost": [30000000, 80],
+    "Quality": 3,
+    "ShopId": 14023
+  },
+  "12": {
+    "Discount": [[0, 1000, 8500]],
+    "Id": 12,
+    "ItemNumber": [
+      [43, 1],
+      [50, 1],
+      [50, 1],
+      [47, 2]
+    ],
+    "LevelUpCondition": [
+      [4, 25000, 14025],
+      [1, 830314, 14025]
+    ],
+    "LevelUpMessageId": 11002153,
+    "MallFreshCost": [30000000, 120],
+    "Quality": 4,
+    "ShopId": 14024
+  },
+  "13": {
+    "Discount": [[0, 1000, 8500]],
+    "Id": 13,
+    "ItemNumber": [
+      [44, 1],
+      [51, 1],
+      [51, 1],
+      [48, 3]
+    ],
+    "LevelUpCondition": [],
+    "LevelUpMessageId": 11002154,
+    "MallFreshCost": [30000000, 150],
+    "Quality": 5,
+    "ShopId": 14025
+  },
   "2": {
     "Discount": [[0, 1000, 8500]],
     "Id": 2,
@@ -114,5 +181,21 @@
     "MallFreshCost": [30000000, 0],
     "Quality": 1,
     "ShopId": 14013
+  },
+  "9": {
+    "Discount": [[0, 1000, 8500]],
+    "Id": 9,
+    "ItemNumber": [
+      [40, 1],
+      [41, 1]
+    ],
+    "LevelUpCondition": [
+      [0, 3, 14022],
+      [1, 830314, 14025]
+    ],
+    "LevelUpMessageId": 0,
+    "MallFreshCost": [30000000, 0],
+    "Quality": 1,
+    "ShopId": 14021
   }
 }

@@ -2799,6 +2799,94 @@
     "Text": "Flowing Splendor Slash",
     "Type": 2
   },
+  "2001": {
+    "Description": "ได้รับ Fire DMGอย่างต่อเนื่องเป็นเวลา <style=\"accent-gn\">5 วินาที</style> ซ้อนทับพื้นฐานสูงสุด <style=\"accent-gn\">10 Stack </style> หากเป้าหมายติดสถานะหนาวเย็นและ Frozen จะลบล้างสถานะหนาวเย็นและ Frozen พร้อมสร้าง additional DMG",
+    "Id": 2001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Burn",
+    "Type": 1
+  },
+  "2002": {
+    "Description": "ทุก Stack จะลดความเร็วเคลื่อนที่ <style=\"accent-gn\">-10%</style>, ความต้านทานกายภาพและเวทมนตร์ <style=\"accent-gn\">-10%</style> ต่อเนื่อง <style=\"accent-gn\">5 วินาที</style> ขีดจำกัดพื้นฐาน <style=\"accent-gn\">5 Stack</style> <style=\"accent-gn\">ผลลดลงครึ่งหนึ่งเมื่อใช้กับบอส</style> หากเป้าหมายมี Stack หนาวเหน็บถึงขีดจำกัด จะเปลี่ยนเป็นแช่แข็ง หากเป้าหมายติดสถานะเผาไหม้ จะลบล้างสถานะเผาไหม้ และสร้าง DMG ที่เหลือทั้งหมดของการเผาไหม้ทันที",
+    "Id": 2002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Freezing",
+    "Type": 1
+  },
+  "2003": {
+    "Description": "ไม่สามารถเคลื่อนไหวได้เป็นเวลา <style=\"accent-gn\">3 วินาที</style> หลังจากสิ้นสุดจะได้รับภูมิคุ้มกันแช่แข็ง <style=\"accent-gn\">30 วินาที</style>",
+    "Id": 2003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "แช่แข็ง",
+    "Type": 1
+  },
+  "2004": {
+    "Description": "ทุก Stack ของ Healing <style=\"accent-gn\">-20%</style> เป็นเวลา <style=\"accent-gn\">10 วินาที</style> สูงสุด <style=\"accent-gn\">5 Stack</style>",
+    "Id": 2004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wound",
+    "Type": 1
+  },
+  "2005": {
+    "Description": "ได้รับ DMG เพิ่มขึ้น <style=\"accent-gn\">6% x จำนวน Stack ของ Corrosion</style> เป็นเวลา <style=\"accent-gn\">7 วินาที</style> สูงสุด <style=\"accent-gn\">5 Stack</style>",
+    "Id": 2005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Corrosion",
+    "Type": 1
+  },
+  "2006": {
+    "Description": "เคลื่อนที่ไม่ได้ ครั้งต่อไปได้รับ DMG <style=\"accent-gn\">+50%</style> และลบล้างสถานะ Petrified เป็นเวลา <style=\"accent-gn\">2.5 วินาที</style>",
+    "Id": 2006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Petrified",
+    "Type": 1
+  },
+  "2007": {
+    "Description": "เคลื่อนที่ไม่ได้ เป็นเวลา <style=\"accent-gn\">5 วินาที</style>",
+    "Id": 2007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Rooted",
+    "Type": 1
+  },
+  "2008": {
+    "Description": "เคลื่อนที่ไม่ได้ เป็นเวลา <style=\"accent-gn\">2.5 วินาที</style>",
+    "Id": 2008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Stun",
+    "Type": 1
+  },
+  "2009": {
+    "Description": "หลังจากปรากฏตัวจะเคลื่อนที่ตามเส้นทางที่กำหนด สร้าง DMG ใส่มอนสเตอร์ที่สัมผัส เป็น <style=\"accent-gn\">60 วินาที</style> ลิมิท <style=\"accent-gn\">2 ตัว</style>",
+    "Id": 2009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Wandering Soul",
+    "Type": 1
+  },
+  "2010": {
+    "Description": "จะไม่ได้รับผลจากสถานะ Freezing เป็นเวลา <style=\"accent-gn\">30 วินาที</style>",
+    "Id": 2010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Immune Freezing",
+    "Type": 1
+  },
+  "2011": {
+    "Description": "เมื่อได้รับลูกอม จะได้รับ DMG 1 ครั้ง สูงสุด <style=\"accent-gn\">10 Stack</style>",
+    "Id": 2011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Candy",
+    "Type": 1
+  },
   "3000": {
     "Description": "ขัดจังหวะสกิลที่เป้าหมายกำลังสวด และทำให้เข้าสู่ CD ไม่มีผลต่อ Boss",
     "Id": 3000,

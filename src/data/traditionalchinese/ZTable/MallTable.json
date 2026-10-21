@@ -2037,7 +2037,7 @@
     "WeightId": []
   },
   "20004": {
-    "CurrencyDisplay": [12004, 13012, 13013, 1070205],
+    "CurrencyDisplay": [12006, 13018, 13019, 1070212],
     "FunctionId": 850204,
     "HasFatherType": 20000,
     "HelpLibraryId": 0,
@@ -2053,12 +2053,12 @@
     "ShowType": 12,
     "Sort": 20004,
     "SubViewType": [],
-    "TimerId": 41001,
+    "TimerId": 41131,
     "ViewType": 0,
     "WeightId": []
   },
   "20005": {
-    "CurrencyDisplay": [12004, 13012, 13013, 1070205],
+    "CurrencyDisplay": [12006, 13018, 13019, 1070212],
     "FunctionId": 850205,
     "HasFatherType": 20000,
     "HelpLibraryId": 0,
@@ -2074,7 +2074,28 @@
     "ShowType": 12,
     "Sort": 20005,
     "SubViewType": [],
-    "TimerId": 41001,
+    "TimerId": 41131,
+    "ViewType": 0,
+    "WeightId": []
+  },
+  "20006": {
+    "CurrencyDisplay": [10003],
+    "FunctionId": 850206,
+    "HasFatherType": 20000,
+    "HelpLibraryId": 0,
+    "Icon": "",
+    "Id": 20006,
+    "MallManualRefresh": 0,
+    "MallPageId": 0,
+    "MallType": 0,
+    "Name": "技能特效",
+    "RefreshCostItem": [],
+    "RefreshIntervalType": 0,
+    "ShowCountDown": 0,
+    "ShowType": 12,
+    "Sort": 20003,
+    "SubViewType": [],
+    "TimerId": 41131,
     "ViewType": 0,
     "WeightId": []
   },

@@ -1600,15 +1600,15 @@
     "Id": 3006901
   },
   "500101": {
-    "Content": "<style=\"emph-gn\">เพิ่มเอฟเฟกต์ Physical</style> <style=\"accent-gn\">+40%</style>",
+    "Content": "<style=\"emph-gn\">เพิ่มเอฟเฟกต์กายภาพ</style> <style=\"accent-gn\">+40%</style>",
     "Id": 500101
   },
   "500201": {
-    "Content": "<style=\"emph-gn\">เพิ่มเอฟเฟกต์ Magic</style> <style=\"accent-gn\">+40%</style>",
+    "Content": "<style=\"emph-gn\">เพิ่มเอฟเฟกต์เวท</style> <style=\"accent-gn\">+40%</style>",
     "Id": 500201
   },
   "500301": {
-    "Content": "เมื่อใช้สกิล Ultimate <style=\"emph-gn\">เวลา CD </style>ของ Skills ทั้งหมดจะเร็วขึ้น <style=\"accent-gn\">100%</style> และการฟื้นฟู<style=\"emph-gn\">ทรัพยากรการต่อสู้</style>จะเพิ่มขึ้น <style=\"accent-gn\">100%</style> เป็นเวลา <style=\"accent-gn\">20 วินาที</style>",
+    "Content": "เมื่อใช้สกิลสุดท้าย <style=\"emph-gn\">เวลา CD </style>ของ Skills ทั้งหมดจะเร็วขึ้น <style=\"accent-gn\">100%</style> และการฟื้นฟู<style=\"emph-gn\">ทรัพยากรการต่อสู้</style>จะเพิ่มขึ้น <style=\"accent-gn\">100%</style> เป็นเวลา <style=\"accent-gn\">20 วินาที</style>",
     "Id": 500301
   },
   "500401": {
@@ -1628,7 +1628,7 @@
     "Id": 500701
   },
   "500801": {
-    "Content": "ทุก Haste <style=\"accent-gn\">200</style> แต้ม จะลดเวลา CD <style=\"emph-gn\">สกิล Ultimate</style> <style=\"accent-gn\">1%</style> (สูงสุด <style=\"accent-gn\">50%</style>)",
+    "Content": "ค่า Haste ทุกๆ <style=\"accent-gn\">200</style> แต้ม จะลดเวลา CD <style=\"emph-gn\">สกิลสุดท้าย </style> <style=\"accent-gn\">1%</style> (สูงสุด <style=\"accent-gn\">50%</style>)",
     "Id": 500801
   },
   "500901": {
@@ -1652,7 +1652,7 @@
     "Id": 501301
   },
   "501401": {
-    "Content": "ทุกครั้งที่เสีย HP <style=\"accent-gn\">1%</style> จะเพิ่ม <style=\"emph-gn\">ATK</style> <style=\"accent-gn\">0.3%</style> หากมี Attribute \"Bloodwrath\" อยู่ ผลลัพธ์นี้จะเพิ่มขึ้น <style=\"accent-gn\">0.1%</style> ต่อทุก 1 Attribute ที่มี",
+    "Content": "ทุกครั้งที่เสีย HP <style=\"accent-gn\">1%</style> จะเพิ่ม <style=\"emph-gn\">ATK</style> <style=\"accent-gn\">0.3%</style> หากมี Attribute \"Bloodwrath\" อยู่ ผลลัพธ์นี้จะเพิ่มขึ้น <style=\"accent-gn\">0.1%</style> ต่อทุกๆ 1 Attribute ที่มี",
     "Id": 501401
   },
   "501501": {
@@ -1788,7 +1788,7 @@
     "Id": 504701
   },
   "504801": {
-    "Content": "หลังจากใช้สกิล Ultimate ภายใน <style=\"accent-gn\">15 วินาที</style> DMG ทั้งหมดจะติด CRIT แน่นอน",
+    "Content": "หลังจากใช้สกิลสุดท้าย ภายใน <style=\"accent-gn\">15 วินาที</style> DMG ทั้งหมดจะติด CRIT แน่นอน",
     "Id": 504801
   },
   "504901": {
@@ -1800,7 +1800,7 @@
     "Id": 505001
   },
   "505101": {
-    "Content": "สกิล Ultimate <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+50%</style>",
+    "Content": "สกิลสุดท้าย <style=\"emph-gn\">CRIT</style> <style=\"accent-gn\">+50%</style>",
     "Id": 505101
   },
   "505201": {
@@ -1896,7 +1896,7 @@
     "Id": 507401
   },
   "507501": {
-    "Content": "เมื่อสกิล Ultimate เกิดผล Lucky Strike จะอัญเชิญ Lizardman Hunter (เวลา CD <style=\"accent-gn\">20 วินาที</style>)",
+    "Content": "เมื่อสกิลสุดท้ายเกิดผล Lucky Strike จะอัญเชิญ Lizardman Hunter (เวลา CD <style=\"accent-gn\">20 วินาที</style>)",
     "Id": 507501
   },
   "507601": {
@@ -1948,7 +1948,7 @@
     "Id": 508701
   },
   "508801": {
-    "Content": "เมื่อใช้สกิล Ultimate จะสุ่มอัญเชิญ <style=\"emph-gn\">Illusion ตัวละครแห่งที่ราบสูง</style> (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Content": "เมื่อใช้สกิลสุดท้าย จะสุ่มอัญเชิญ <style=\"emph-gn\">Illusion ตัวละครแห่งที่ราบสูง</style> (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
     "Id": 508801
   },
   "508901": {
@@ -1956,7 +1956,7 @@
     "Id": 508901
   },
   "509001": {
-    "Content": "เมื่อใช้สกิล Ultimate จะอัญเชิญ<style=\"emph-gn\">Muku Warrior Illusion</style> ออกมาพร้อมกัน (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Content": "เมื่อใช้สกิลสุดท้าย จะอัญเชิญ<style=\"emph-gn\">Muku Warrior Illusion</style> ออกมาพร้อมกัน (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
     "Id": 509001
   },
   "509101": {
@@ -1992,7 +1992,7 @@
     "Id": 509801
   },
   "509901": {
-    "Content": "เพื่อนร่วมทีมทุก 1 คนที่อยู่ในระยะ 15 เมตร <style=\"emph-gn\">DMG</style> ของตัวเองจะเพิ่มขึ้น <style=\"accent-gn\">8%</style> และ <style=\"emph-gn\">ได้รับ DMG</style> ลดลง <style=\"accent-gn\">4%</style>",
+    "Content": "เพื่อนร่วมทีมทุกๆ 1 คนที่อยู่ในระยะ 15 เมตร <style=\"emph-gn\"> DMG </style>ของตัวเองจะเพิ่มขึ้น <style=\"accent-gn\">8%</style> และ<style=\"emph-gn\"> DMG ที่ได้รับ</style>ลดลง <style=\"accent-gn\">4%</style>",
     "Id": 509901
   },
   "510001": {
@@ -2000,7 +2000,7 @@
     "Id": 510001
   },
   "510101": {
-    "Content": "เมื่อใช้สกิล Ultimate จะได้รับออร่าทรัพยากรเป็นเวลา <style=\"accent-gn\">15 วินาที</style> ระหว่างผลทำงาน <style=\"emph-gn\">ประสิทธิภาพการได้รับทรัพยากรการต่อสู้</style>ของเพื่อนร่วมทีมรอบๆ <style=\"accent-gn\">+100%</style> (มีผลเพียงหนึ่งอย่างในเวลาเดียวกัน)",
+    "Content": "เมื่อใช้สกิลสุดท้าย จะได้รับออร่าทรัพยากรเป็นเวลา <style=\"accent-gn\">15 วินาที</style> ระหว่างผลทำงาน <style=\"emph-gn\">ประสิทธิภาพการได้รับทรัพยากรการต่อสู้</style>ของเพื่อนร่วมทีมรอบๆ <style=\"accent-gn\">+100%</style> (มีผลเพียงหนึ่งอย่างในเวลาเดียวกัน)",
     "Id": 510101
   },
   "510201": {
@@ -2028,7 +2028,7 @@
     "Id": 510701
   },
   "510801": {
-    "Content": "เมื่อใช้สกิล Ultimate จะได้รับออร่า Healing เป็นเวลา <style=\"accent-gn\">10 วินาที</style> สร้างการ Heal เท่ากับ <style=\"accent-gn\">100%</style> ของ ATK ให้เพื่อนร่วมทีมในระยะ 15 เมตรทุกวินาที (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
+    "Content": "เมื่อใช้สกิลสุดท้าย จะได้รับออร่า Healing เป็นเวลา <style=\"accent-gn\">10 วินาที</style> สร้างการ Heal เท่ากับ <style=\"accent-gn\">100%</style> ของ ATK ให้เพื่อนร่วมทีมในระยะ 15 เมตรทุกวินาที (เวลา CD <style=\"accent-gn\">30 วินาที</style>)",
     "Id": 510801
   },
   "510901": {

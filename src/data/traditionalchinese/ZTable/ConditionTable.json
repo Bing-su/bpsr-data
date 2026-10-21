@@ -208,10 +208,10 @@
     "Type": 122
   },
   "123": {
-    "Example": "123=50",
-    "FailureMessage": 0,
+    "Example": "123=0=50",
+    "FailureMessage": 16011028,
     "Param": "交互对象的巡游队列长度是否小于上限",
-    "RefreshNum": "123=长度上限",
+    "RefreshNum": "123=预留参数=长度上限",
     "ShowPurview": "等级",
     "Type": 123
   },
@@ -334,6 +334,14 @@
     "RefreshNum": "138=情感动作tag（定义在FashionTable的EmoteTag字段），是否拥有tag1外装中的任意一件",
     "ShowPurview": "擁有任意{*val*}後可購買",
     "Type": 138
+  },
+  "139": {
+    "Example": "139=0",
+    "FailureMessage": 16011029,
+    "Param": "判断是否处于玩具状态",
+    "RefreshNum": "139=逻辑值（0：不在玩具状态 1：处于玩具状态）",
+    "ShowPurview": "等级",
+    "Type": 139
   },
   "14": {
     "Example": "14=100101",

@@ -2799,6 +2799,94 @@
     "Text": "Seperti Arus Sungai Hua Slash",
     "Type": 2
   },
+  "2001": {
+    "Description": "Menerima Fire DMG secara terus-menerus selama <style=\"accent-gn\">5 detik</style>, batas dasar <style=\"accent-gn\">10 stack</style>; jika Target berada dalam status Dingin dan Frost, menghapus status Dingin dan Frost tersebut, serta memberikan DMG tambahan.",
+    "Id": 2001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Burn",
+    "Type": 1
+  },
+  "2002": {
+    "Description": "Move Speed <style=\"accent-gn\">-10%</style>, Physical Res dan Magic Res <style=\"accent-gn\">-10%</style> per tumpuk, berlangsung selama <style=\"accent-gn\">5 detik</style>, batas dasar <style=\"accent-gn\">5 tumpuk</style>, <style=\"accent-gn\">efek berkurang separuh pada Boss</style>; jika Target mencapai batas tumpuk Chill, akan berubah menjadi Frost; jika Target dalam status Burn, akan menghapus Burn, dan melakukan perhitungan untuk semua sisa DMG Burn.",
+    "Id": 2002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dingin",
+    "Type": 1
+  },
+  "2003": {
+    "Description": "Tidak dapat bertindak selama <style=\"accent-gn\">3 detik</style>, setelah berakhir mendapat Imunitas Frost selama <style=\"accent-gn\">30 detik</style>.",
+    "Id": 2003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Frost",
+    "Type": 1
+  },
+  "2004": {
+    "Description": "Healing Effect <style=\"accent-gn\">-20%</style> per stack, berlangsung selama <style=\"accent-gn\">10 detik</style>, maks. <style=\"accent-gn\">5 stack</style>.",
+    "Id": 2004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Severe Wound",
+    "Type": 1
+  },
+  "2005": {
+    "Description": "DMG yang diterima meningkat <style=\"accent-gn\">6% × tumpuk Korosi</style>, selama <style=\"accent-gn\">7 detik</style>, maks. <style=\"accent-gn\">5 tumpuk</style>.",
+    "Id": 2005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Korosi",
+    "Type": 1
+  },
+  "2006": {
+    "Description": "Tidak dapat bertindak, DMG yang diterima berikutnya <style=\"accent-gn\">+50%</style>, sekaligus menghilangkan Petrify, berlangsung selama <style=\"accent-gn\">2.5 detik</style>.",
+    "Id": 2006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Petrify",
+    "Type": 1
+  },
+  "2007": {
+    "Description": "Tidak dapat bergerak selama <style=\"accent-gn\">5 detik</style>.",
+    "Id": 2007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Immobilize",
+    "Type": 1
+  },
+  "2008": {
+    "Description": "Tidak dapat bertindak selama <style=\"accent-gn\">2.5 detik</style>.",
+    "Id": 2008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Stun",
+    "Type": 1
+  },
+  "2009": {
+    "Description": "Setelah muncul, bergerak mengikuti rute tertentu, memberikan DMG pada Monster yang tersentuh, bertahan selama <style=\"accent-gn\">60 detik</style>, batas dasar <style=\"accent-gn\">2</style>.",
+    "Id": 2009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Roh Pengembara",
+    "Type": 1
+  },
+  "2010": {
+    "Description": "Tidak lagi terkena efek Frost, berlangsung selama <style=\"accent-gn\">30 detik</style>.",
+    "Id": 2010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Imunitas Frost",
+    "Type": 1
+  },
+  "2011": {
+    "Description": "Terkena 1 kali DMG saat menerima Permen, maks. <style=\"accent-gn\">10 stack</style>.",
+    "Id": 2011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Permen",
+    "Type": 1
+  },
   "3000": {
     "Description": "Menghentikan skill chant target dan membuatnya memasuki CD. Tidak berpengaruh terhadap Boss.",
     "Id": 3000,

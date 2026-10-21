@@ -113,7 +113,7 @@
     "HelpLibraryId": 25003,
     "Id": 1003,
     "InitialfreeLotteryTime": 1,
-    "LotteryName": ["Undi 1x", "Undi 5x"],
+    "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
     "LotteryTime": [1, 5],
     "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
     "LuckPoolId": 1003,
@@ -164,9 +164,9 @@
     "HelpLibraryId": 25004,
     "Id": 1004,
     "InitialfreeLotteryTime": 1,
-    "LotteryName": ["Tarik 1x", "Tarik 5x"],
+    "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "Setiap tarikan memiliki Peluang sebesar <style=\"accent-gn\">25.0000%</style> untuk memicu 【Peristiwa Luck】! Peristiwa Luck kali ini meliputi:<br> 「Peristiwa 1」: Tarikan berikutnya Gratis;<br> 「Peristiwa 2」: Tarikan berikutnya memberikan Cashback 3x Goldmeow;<br> 「Peristiwa 3」: Peluang mendapatkan 【Hadiah A】 pada tarikan berikutnya Meningkat;<br> 「Peristiwa 4」: Tarikan berikutnya tidak akan mendapatkan 【Hadiah C】, 【Hadiah D】, dan 【Hadiah E】",
+    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
     "LuckPoolId": 1004,
     "MallItemId": 11004,
     "MiniGuaranteeDetails": [
@@ -213,9 +213,9 @@
     "HelpLibraryId": 25005,
     "Id": 1005,
     "InitialfreeLotteryTime": 1,
-    "LotteryName": ["Tarik 1 Kali", "Tarik 5 kali"],
+    "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "Setiap tarikan memiliki Peluang sebesar <style=\"accent-gn\">25.0000%</style> untuk memicu 【Peristiwa Luck】! Peristiwa Luck kali ini meliputi:<br> 「Peristiwa 1」: Tarikan berikutnya Gratis;<br> 「Peristiwa 2」: Tarikan berikutnya memberikan Cashback 3x Goldmeow;<br> 「Peristiwa 3」: Peluang mendapatkan 【Hadiah A】 pada tarikan berikutnya Meningkat;<br> 「Peristiwa 4」: Tarikan berikutnya tidak akan mendapatkan 【Hadiah C】, 【Hadiah D】, dan 【Hadiah E】",
+    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
     "LuckPoolId": 1005,
     "MallItemId": 11005,
     "MiniGuaranteeDetails": [
@@ -245,6 +245,55 @@
     "PrizePoolId": 1005,
     "PrizeShowDetails": [100501, 100502, 100503, 100504, 100505, 100506, 100507],
     "Sort": 5,
+    "TextColor": "#ffffff"
+  },
+  "1006": {
+    "BaseDetailsDes": "[Peristiwa Dasar] edisi ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=\"accent-gn\">Pesta Kucing Tengah Malam · Cashback Goldmeow</style>, jumlah pastinya bergantung pada kelangkaan reward yang didapat, semakin langka semakin banyak cashback yang diberikan;<br><style=\"accent-gn\">Tarikan ke-25</style> pasti mendapat <style=\"accent-gn\">Tiket Reward A</style>;<br><style=\"accent-gn\">Tarikan ke-70</style> pasti mendapat <style=\"accent-gn\">Tiket Reward S</style>!",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "ExchangeQuickJumpFunctinId": 850200,
+    "ExchangeQuickJumpParam": [850204],
+    "ExchangeQuickJumpType": 2,
+    "FunctionId": 850106,
+    "HelpLibraryId": 25006,
+    "Id": 1006,
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
+    "LotteryTime": [1, 5],
+    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
+    "LuckPoolId": 1006,
+    "MallItemId": 11006,
+    "MiniGuaranteeDetails": [
+      [1, 70],
+      [2, 25]
+    ],
+    "OnePrizeConsume": [12006, 100],
+    "OnePrizeReturn": [
+      [1, 50],
+      [2, 30],
+      [3, 20],
+      [4, 15],
+      [5, 10],
+      [6, 5]
+    ],
+    "OpenCondition": [],
+    "OpenTime": 41131,
+    "PointsActivityFunctionId": 20034,
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_daya/img_ichibankuji_main_bg",
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_daya/img_main_funcs_ichibankuji_carousel",
+    "PoolName": "Pesta Kucing Tengah Malam",
+    "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
+    "PoolTabIcon": "ui/atlas/ichibankuji_daya/img_ichibankuji_main_tab_01",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_daya/img_ichibankuji_main_tab_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_daya/img_ichibankuji_main_title",
+    "PoolType": 1,
+    "PrizePoolId": 1006,
+    "PrizeShowDetails": [100601, 100602, 100603, 100604, 100605, 100606, 100607],
+    "Sort": 6,
     "TextColor": "#ffffff"
   }
 }

@@ -1,322 +1,776 @@
 {
   "1": {
-    "Desc": "레어도: 불멸<br>계열: 【인간형】<br>최고 레벨: Lv.5<br>공격 유형: 물리<br>패시브 효과: 없음<br>일반 공격: 낫을 3회 휘둘러 범위 대미지를 줍니다.<br>핵심 스킬: 낫을 휘둘러 참격의 고리를 2회 생성해 높은 범위 대미지를 줍니다.<br>쿨타임: 15초<br>Lv.3 효과: 고리 수량 +3.<br>Lv.5 효과: 고리 범위 +100%.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_5\">불멸</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style>",
     "Id": 1,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 1,
     "Sort": 1,
-    "Type": 1
+    "Type": 1,
+    "UIColor": 5
   },
   "10": {
-    "Desc": "레어도: 탁월<br>계열: 【연소】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 필드에 있을 때, 연소 상태인 몬스터가 연소 계열 타워에게 받는 대미지가 [1% × 연소 스택 수]만큼 증가합니다.<br>일반 공격: 발구르기로 좁은 범위 대미지를 줍니다.<br>핵심 스킬: 번개 실드를 획득하며, 2초마다 무작위 대상에게 낙뢰를 내립니다.<br>쿨타임: 15초<br>Lv.3 효과: 공격 대상이 연소 상태일 경우, 해당 연소를 소모하여 파멸의 뇌화를 1회 발동시키고 큰 범위 대미지를 줍니다.<br>Lv.5 효과: 파멸의 뇌화가 더 이상 대상의 연소를 소모하지 않습니다.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
-    "Sort": 10,
-    "Type": 1
+    "Sort": 1005,
+    "Type": 1,
+    "UIColor": 3
   },
   "1001": {
-    "Desc": "타입: 보스<br>특성: 범위 내 조율 이매진의 공격 속도가 대폭 감소하지만 공격력이 증가합니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: 범위 내 조율 이매진의 공격 속도가 대폭 감소하지만 공격력이 증가합니다.",
     "Id": 1001,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003000,
     "Sort": 1,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1002": {
-    "Desc": "타입: 보스<br>특성: 정면에서 받는 대미지는 감소하고, 후면에서 받는 대미지는 증가합니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: 정면에서 받는 대미지는 감소하고, 후면에서 받는 대미지는 증가합니다.",
     "Id": 1002,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003001,
     "Sort": 2,
-    "Type": 2
-  },
-  "1003": {
-    "Desc": "타입: 보스<br>특성: 무작위로 일부 조율 이매진의 스킬을 봉인합니다.",
-    "Id": 1003,
-    "IsHide": 0,
-    "ObjectId": 5003002,
-    "Sort": 3,
-    "Type": 2
-  },
-  "1004": {
-    "Desc": "타입: 보스<br>특성: 이매진을 배치할 때마다 포식 거미게가 조율 결정 파편을 먹어치웁니다.",
-    "Id": 1004,
-    "IsHide": 0,
-    "ObjectId": 5003003,
-    "Sort": 4,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1005": {
-    "Desc": "타입: 보스<br>특성: 자장가가 울려퍼질 때마다 필드 내 모든 조율 이매진이 잠에 듭니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: 자장가가 울려 퍼질 때마다 필드 내 모든 조율 이매진이 잠에 듭니다.",
     "Id": 1005,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003004,
     "Sort": 5,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1006": {
-    "Desc": "타입: 보스<br>특성: 체력이 대폭 증가하는 대신 받는 대미지도 함께 증가합니다. 받는 대미지는 필드 내 모든 조율 이매진의 레벨 총합에 비례해 증가합니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: 체력이 대폭 증가하는 대신 받는 대미지도 함께 증가합니다. 받는 대미지는 필드 내 모든 조율 이매진의 레벨 총합에 비례해 증가합니다.",
     "Id": 1006,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 5003005,
     "Sort": 6,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1007": {
-    "Desc": "타입: 엘리트<br>특성: 범위 내 모든 몬스터에게 무적을 부여합니다. 본인만 빼고요.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
-    "ObjectId": 5002000,
+    "ObjectId": 5003006,
     "Sort": 7,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1008": {
-    "Desc": "타입: 엘리트<br>특성: 처음으로 자신을 공격하는 이매진을 얼립니다. 아무도 처음이 되고 싶진 않을 겁니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
-    "ObjectId": 5002001,
+    "ObjectId": 5003003,
     "Sort": 8,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1009": {
-    "Desc": "타입: 엘리트<br>특성: 주변 몬스터를 지속적으로 치료합니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
-    "ObjectId": 5002002,
+    "ObjectId": 5003002,
     "Sort": 9,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
+  },
+  "101": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_5\">불멸</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
+    "Id": 101,
+    "IsHide": 0,
+    "ObjectId": 96,
+    "Sort": 2,
+    "Type": 1,
+    "UIColor": 5
   },
   "1010": {
-    "Desc": "타입: 엘리트<br>특성: 처치된 후 부활합니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
-    "ObjectId": 5002003,
+    "ObjectId": 5003007,
     "Sort": 10,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1011": {
-    "Desc": "타입: 엘리트<br>특성: 이동속도가 굉장히 빠른데 튼튼하기까지 합니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
-    "ObjectId": 5002004,
+    "ObjectId": 5003008,
     "Sort": 11,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1012": {
-    "Desc": "타입: 엘리트<br>특성: 지형을 무시하고 이동하지만, 몹시 게을러서 자주 휴식합니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
-    "ObjectId": 5002005,
+    "ObjectId": 5003009,
     "Sort": 12,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1013": {
-    "Desc": "타입: 일반<br>특성: 가장 많이 보이는 해저 생물입니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
-    "ObjectId": 5001000,
+    "ObjectId": 5003010,
     "Sort": 13,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1014": {
-    "Desc": "타입: 일반<br>특성: 이동속도가 굉장히 빠릅니다. 튼튼하지 않아 다행입니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
-    "ObjectId": 5001001,
+    "ObjectId": 5003012,
     "Sort": 14,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1015": {
-    "Desc": "타입: 일반<br>특성: 두터운 실드를 보유하고 있습니다. 보통 웨이브 시작 시 가장 먼저 등장합니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
-    "ObjectId": 5001002,
+    "ObjectId": 5003011,
     "Sort": 15,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
   "1016": {
-    "Desc": "타입: 일반<br>특성: 이들은 다른 몬스터에게 받는 대미지 감소 버프를 부여합니다. 먼저 처치하지 않으면 곤란해질 수 있습니다.",
+    "Desc": "타입: <style=\"tipsYellow\">보스</style><br>특성: {*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
-    "ObjectId": 5001003,
+    "ObjectId": 5003013,
     "Sort": 16,
-    "Type": 2
+    "Type": 2,
+    "UIColor": 4
   },
-  "1017": {
-    "Desc": "타입: 일반<br>특성: 단단한 갑각으로 높은 물리 대미지에도 버텨내지만, 그 대신 마법을 굉장히 무서워합니다.",
-    "Id": 1017,
+  "102": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_4\">서사</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
+    "Id": 102,
     "IsHide": 0,
-    "ObjectId": 5001004,
-    "Sort": 17,
-    "Type": 2
+    "ObjectId": 101,
+    "Sort": 505,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1018": {
-    "Desc": "타입: 일반<br>특성: 마법의 천적, 하지만 물리 대미지에 굉장히 취약합니다.",
-    "Id": 1018,
+  "103": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_4\">서사</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
+    "Id": 103,
     "IsHide": 0,
-    "ObjectId": 5001005,
-    "Sort": 18,
-    "Type": 2
+    "ObjectId": 106,
+    "Sort": 506,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1019": {
-    "Desc": "타입: 일반<br>특성: 땅속에 숨어 있는 동안은 무적 상태입니다. 조금 떨어진 곳에서 기다렸다가 공격하세요.",
-    "Id": 1019,
+  "104": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_4\">서사</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
+    "Id": 104,
     "IsHide": 0,
-    "ObjectId": 5001006,
-    "Sort": 19,
-    "Type": 2
+    "ObjectId": 111,
+    "Sort": 507,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1020": {
-    "Desc": "타입: 일반<br>특성: 지형을 무시하고 이동하는, 정말이지 싫은 녀석입니다.",
-    "Id": 1020,
+  "105": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_4\">서사</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
+    "Id": 105,
     "IsHide": 0,
-    "ObjectId": 5001007,
-    "Sort": 20,
-    "Type": 2
+    "ObjectId": 116,
+    "Sort": 508,
+    "Type": 1,
+    "UIColor": 4
   },
-  "1021": {
-    "Desc": "",
-    "Id": 1021,
-    "IsHide": 1,
-    "ObjectId": 5001007,
-    "Sort": 21,
-    "Type": 2
+  "106": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
+    "Id": 106,
+    "IsHide": 0,
+    "ObjectId": 121,
+    "Sort": 1010,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "107": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
+    "Id": 107,
+    "IsHide": 0,
+    "ObjectId": 126,
+    "Sort": 1011,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "108": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
+    "Id": 108,
+    "IsHide": 0,
+    "ObjectId": 131,
+    "Sort": 1012,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "109": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
+    "Id": 109,
+    "IsHide": 0,
+    "ObjectId": 136,
+    "Sort": 1013,
+    "Type": 1,
+    "UIColor": 3
   },
   "11": {
-    "Desc": "레어도: 탁월<br>계열: 【자원】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 자신이 해체될 때 조율 결정 파편 100pt를 추가로 반환합니다.<br>일반 공격: 전방으로 얼음 안개를 내뿜어 대미지를 줍니다.<br>핵심 스킬: 무작위 대상 3명에게 얼음 가시를 발사합니다.<br>쿨타임: 15초<br>Lv.3 효과: 얼음 가시가 솟은 자리에 결정 파편 무더기가 생성되며, 획득 시 조율 결정 파편 1~20pt를 무작위로 획득합니다 (최대 10초 유지).<br>Lv.5 효과: 얼음 가시 수량 +2.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style>",
     "Id": 11,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 51,
-    "Sort": 11,
-    "Type": 1
+    "Sort": 1006,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "110": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
+    "Id": 110,
+    "IsHide": 0,
+    "ObjectId": 141,
+    "Sort": 1014,
+    "Type": 1,
+    "UIColor": 3
+  },
+  "111": {
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_2\">정교</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
+    "Id": 111,
+    "IsHide": 0,
+    "ObjectId": 146,
+    "Sort": 2006,
+    "Type": 1,
+    "UIColor": 1
   },
   "12": {
-    "Desc": "레어도: 탁월<br>계열: 【보조】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 필드에 있을 때, 모든 아군이 주는 대미지가 5% 증가합니다 (최대 20%까지 중복 적용 가능).<br>일반 공격: 무작위 무크 1마리를 소환하여 전투를 돕게 하며, 해당 무크의 공격 속도를 증가시킵니다.<br>핵심 스킬: 범위 내 아군을 치유하고 아군의 공격력을 20% 증가시킵니다. 10초 지속.<br>쿨타임: 15초<br>Lv.3 효과: 석궁 무크 1마리 추가 소환.<br>Lv.5 효과: 무크 두목 1마리 추가 소환.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
-    "Sort": 12,
-    "Type": 1
+    "Sort": 1007,
+    "Type": 1,
+    "UIColor": 3
   },
   "13": {
-    "Desc": "레어도: 탁월<br>계열: 【보조】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 필드에 있을 때, 모든 적이 받는 대미지가 5% 증가합니다 (최대 20%까지 중복 적용 가능).<br>일반 공격: 전방을 1회 내려찍어 직선 범위 대미지를 줍니다.<br>핵심 스킬: 전방을 2회 휩쓸어 넓은 범위에 큰 대미지를 줍니다.<br>쿨타임: 15초<br>Lv.3 효과: 일반 공격 시 2개의 지진파를 추가로 시전하며, 사거리가 50% 증가합니다.<br>Lv.5 효과: 대미지 +20%.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
-    "Sort": 13,
-    "Type": 1
+    "Sort": 1008,
+    "Type": 1,
+    "UIColor": 3
   },
   "14": {
-    "Desc": "레어도: 탁월<br>계열: 【차지】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 마법<br>패시브 효과: 범위 내에 대상이 1명 있을 때마다 자신의 공격력 +10% (최대 +100%).<br>일반 공격: 전방을 베어 넓은 부채꼴 범위 대미지를 줍니다.<br>핵심 스킬: 무작위 대상 2명에게 5초간 지속되는 토네이도를 시전합니다.<br>쿨타임: 15초<br>Lv.3 효과: 필드 내 차지 조율 이매진 1개당 토네이도 수량 +1 (최대치 +3).<br>Lv.5 효과: 토네이도가 생성될 때마다 차지 조율 이매진의 다음 1회 스킬 대미지가 증가합니다 (최대 누적 100%).",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style>",
     "Id": 14,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 66,
-    "Sort": 14,
-    "Type": 1
+    "Sort": 1009,
+    "Type": 1,
+    "UIColor": 3
   },
   "15": {
-    "Desc": "레어도: 정교<br>계열: 【자원】【연소】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 필드에 있을 때, 모험가가 10초마다 조율 결정 파편 100pt를 획득합니다 (최대 5개까지 중복 적용 가능).<br>일반 공격: 없음<br>핵심 스킬: 회전 공격으로 좁은 범위 대미지를 주고 연소 상태를 부여합니다.<br>쿨타임: 15초<br>Lv.3 효과: 연소 상태의 대상 사망 시 조율 결정 파편 15pt 획득.<br>Lv.5 효과: 연소 상태의 대상 사망 시 조율 결정 파편 30pt 획득.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_2\">정교</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style>",
     "Id": 15,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 71,
-    "Sort": 15,
-    "Type": 1
+    "Sort": 2001,
+    "Type": 1,
+    "UIColor": 1
   },
   "16": {
-    "Desc": "레어도: 정교<br>계열: 없음<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 대미지를 줄 때 대상에게 이동 속도 25% 감소 부여 (중첩 불가).<br>일반 공격: 없음<br>핵심 스킬: 전기 구슬을 소환하여 범위 내 대상을 지속적으로 공격합니다.<br>쿨타임: 15초<br>Lv.3 효과: 핵심 스킬 대미지 증가.<br>Lv.5 효과: 핵심 스킬 대미지 증가.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_2\">정교</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
-    "Sort": 16,
-    "Type": 1
+    "Sort": 2002,
+    "Type": 1,
+    "UIColor": 1
   },
   "17": {
-    "Desc": "레어도: 정교<br>계열: 【차지】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 필드에 있을 때, 각 무크 두목이 차지 조율 이매진의 치명타 확률을 10% 증가시킵니다 (최대 100%까지 적용).<br>일반 공격: 없음<br>핵심 스킬: 연속으로 바닥을 3회 내리쳐 넓은 범위에 대미지를 줍니다.<br>쿨타임: 6초<br>Lv.3 효과: 핵심 스킬 대미지 증가.<br>Lv.5 효과: 핵심 스킬 대미지 증가.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_2\">정교</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style>",
     "Id": 17,
-    "IsHide": 0,
-    "ObjectId": 84,
-    "Sort": 17,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 81,
+    "Sort": 2003,
+    "Type": 1,
+    "UIColor": 1
   },
   "18": {
-    "Desc": "레어도: 정교<br>계열: 없음<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 마법<br>패시브 효과: 공격 시 30% 확률로 빙결 상태를 부여합니다.<br>일반 공격: 주변에 범위 대미지를 1회 주고 10% 둔화 효과를 부여합니다.<br>핵심 스킬: 물의 소용돌이를 시전하여 지속적으로 범위 대미지를 주고 20 % 둔화 효과를 부여합니다.<br>쿨타임: 15초<br>Lv.3 효과: 핵심 스킬 대미지 증가.<br>Lv.5 효과: 핵심 스킬 대미지 증가.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_2\">정교</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
-    "ObjectId": 89,
-    "Sort": 18,
-    "Type": 1
+    "ObjectId": 86,
+    "Sort": 2004,
+    "Type": 1,
+    "UIColor": 1
   },
   "19": {
-    "Desc": "레어도: 정교<br>계열: 없음<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 마법<br>패시브 효과: 부식 상태의 대상에게 추가 대미지를 줍니다 (부식 1스택당 대미지 +10%).<br>일반 공격: 없음<br>핵심 스킬: 무작위 대상 3명에게 독 샘을 시전하여 지속적으로 범위 대미지를 주고 부식 상태를 부여합니다.<br>쿨타임: 15초<br>Lv.3 효과: 핵심 스킬 대미지 증가.<br>Lv.5 효과: 핵심 스킬 대미지 증가.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_2\">정교</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
-    "ObjectId": 94,
-    "Sort": 19,
-    "Type": 1
+    "ObjectId": 91,
+    "Sort": 2005,
+    "Type": 1,
+    "UIColor": 1
   },
   "2": {
-    "Desc": "레어도: 서사<br>계열: 【인간형】【자원】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 마법<br>패시브 효과: 자신의 공격력 +[1% × 필드 내 조율 이매진 레벨 총합]. 상점 내 자신의 판매 가격이 50% 감소합니다.<br>일반 공격: 지속적으로 운석을 소환하여 범위 내 단일 대상을 공격합니다.<br>핵심 스킬: 영험한 사슴을 불러 전방으로 돌진시킵니다. 필드 내 인간형 조율 이매진 1개당 1회 추가로 발동합니다.<br>쿨타임: 15초<br>Lv.3 효과: 공격 시 조율 결정 파편 10pt 획득, 쿨타임 3초.<br>Lv.5 효과: 공격 시 조율 결정 파편 15pt 획득, 쿨타임 1초.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_4\">서사</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style>",
     "Id": 2,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 6,
-    "Sort": 2,
-    "Type": 1
+    "Sort": 501,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "2001": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: 범위 내 모든 몬스터에게 무적을 부여합니다. 본인만 빼고요.",
+    "Id": 2001,
+    "IsHide": 1,
+    "ObjectId": 5002000,
+    "Sort": 501,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2002": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: 처음으로 자신을 공격하는 조율 이매진을 얼립니다. 아무도 처음이 되고 싶진 않을 겁니다.",
+    "Id": 2002,
+    "IsHide": 1,
+    "ObjectId": 5002001,
+    "Sort": 502,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2003": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: 주변 몬스터를 지속적으로 치료합니다.",
+    "Id": 2003,
+    "IsHide": 1,
+    "ObjectId": 5002002,
+    "Sort": 503,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2004": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: 지형을 무시하고 이동하지만, 몹시 게을러서 자주 휴식합니다.",
+    "Id": 2004,
+    "IsHide": 1,
+    "ObjectId": 5002005,
+    "Sort": 506,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2005": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7001*}",
+    "Id": 2005,
+    "IsHide": 0,
+    "ObjectId": 5002006,
+    "Sort": 507,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2006": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7002*}",
+    "Id": 2006,
+    "IsHide": 0,
+    "ObjectId": 5002007,
+    "Sort": 508,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2007": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7007*}",
+    "Id": 2007,
+    "IsHide": 0,
+    "ObjectId": 5002008,
+    "Sort": 509,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2008": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7003*}",
+    "Id": 2008,
+    "IsHide": 0,
+    "ObjectId": 5002009,
+    "Sort": 510,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2009": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7009*}",
+    "Id": 2009,
+    "IsHide": 0,
+    "ObjectId": 5002003,
+    "Sort": 511,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2010": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7010*}",
+    "Id": 2010,
+    "IsHide": 0,
+    "ObjectId": 5002004,
+    "Sort": 512,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2011": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7004*}",
+    "Id": 2011,
+    "IsHide": 0,
+    "ObjectId": 5002010,
+    "Sort": 513,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2012": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7005*}",
+    "Id": 2012,
+    "IsHide": 0,
+    "ObjectId": 5002011,
+    "Sort": 514,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2013": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7006*}",
+    "Id": 2013,
+    "IsHide": 0,
+    "ObjectId": 5002012,
+    "Sort": 515,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2014": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7008*}",
+    "Id": 2014,
+    "IsHide": 0,
+    "ObjectId": 5002013,
+    "Sort": 516,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2015": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7011*}",
+    "Id": 2015,
+    "IsHide": 0,
+    "ObjectId": 5002014,
+    "Sort": 517,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2016": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7012*}",
+    "Id": 2016,
+    "IsHide": 0,
+    "ObjectId": 5002015,
+    "Sort": 518,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2017": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7013*}",
+    "Id": 2017,
+    "IsHide": 0,
+    "ObjectId": 5002016,
+    "Sort": 519,
+    "Type": 2,
+    "UIColor": 3
+  },
+  "2018": {
+    "Desc": "타입: <style=\"tipsYellow\">엘리트</style><br>특성: {*messagevalue.7014*}",
+    "Id": 2018,
+    "IsHide": 0,
+    "ObjectId": 5002017,
+    "Sort": 520,
+    "Type": 2,
+    "UIColor": 3
   },
   "3": {
-    "Desc": "레어도: 서사<br>계열: 【인간형】【연소】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 마법<br>패시브 효과: 범위 내 연소로 인한 대미지 발생 시, 해당 대상에게 화염 대미지를 1회 추가로 줍니다.<br>일반 공격: 회전 공격으로 범위 대미지를 입히며 연소 상태를 부여합니다.<br>핵심 스킬: 전방으로 참격을 날려 큰 대미지를 줍니다. 대상이 보유 중인 연소 상태 1스택당 해당 대미지가 20% 증가합니다.<br>쿨타임: 15초<br>Lv.3 효과: 연소 상태를 10회 부여할 때마다, 다음 공격 시 대상에게 연옥 기차를 시전합니다.<br>Lv.5 효과: 연소 부여 요구 횟수가 6회로 감소하며 연옥 기차 대미지가 100% 증가합니다.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_4\">서사</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
-    "Sort": 3,
-    "Type": 1
+    "Sort": 502,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "3001": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: 가장 많이 보이는 해저 생물입니다.",
+    "Id": 3001,
+    "IsHide": 1,
+    "ObjectId": 5001000,
+    "Sort": 1001,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3002": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: 이동속도가 굉장히 빠릅니다. 튼튼하지 않아 다행입니다.",
+    "Id": 3002,
+    "IsHide": 1,
+    "ObjectId": 5001001,
+    "Sort": 1002,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3003": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: 두터운 실드를 보유하고 있습니다. 보통 웨이브 시작 시 가장 먼저 등장합니다.",
+    "Id": 3003,
+    "IsHide": 1,
+    "ObjectId": 5001002,
+    "Sort": 1003,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3004": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: 이들은 다른 몬스터에게 받는 대미지 감소 버프를 부여합니다. 먼저 처치하지 않으면 곤란해질 수 있습니다.",
+    "Id": 3004,
+    "IsHide": 1,
+    "ObjectId": 5001003,
+    "Sort": 1004,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3005": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: 지형을 무시하고 이동하는, 정말이지 싫은 녀석입니다.",
+    "Id": 3005,
+    "IsHide": 1,
+    "ObjectId": 5001007,
+    "Sort": 1008,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3006": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6001*}",
+    "Id": 3006,
+    "IsHide": 0,
+    "ObjectId": 5001008,
+    "Sort": 1009,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3007": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6002*}",
+    "Id": 3007,
+    "IsHide": 0,
+    "ObjectId": 5001009,
+    "Sort": 1010,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3008": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6003*}",
+    "Id": 3008,
+    "IsHide": 0,
+    "ObjectId": 5001010,
+    "Sort": 1011,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3009": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6004*}",
+    "Id": 3009,
+    "IsHide": 0,
+    "ObjectId": 5001011,
+    "Sort": 1012,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3010": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6005*}",
+    "Id": 3010,
+    "IsHide": 0,
+    "ObjectId": 5001006,
+    "Sort": 1013,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3011": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6006*}",
+    "Id": 3011,
+    "IsHide": 0,
+    "ObjectId": 5001004,
+    "Sort": 1014,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3012": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6007*}",
+    "Id": 3012,
+    "IsHide": 0,
+    "ObjectId": 5001005,
+    "Sort": 1015,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3013": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6008*}",
+    "Id": 3013,
+    "IsHide": 0,
+    "ObjectId": 5001012,
+    "Sort": 1016,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3014": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6009*}",
+    "Id": 3014,
+    "IsHide": 0,
+    "ObjectId": 5001013,
+    "Sort": 1017,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3015": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6010*}",
+    "Id": 3015,
+    "IsHide": 0,
+    "ObjectId": 5001018,
+    "Sort": 1018,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3016": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6011*}",
+    "Id": 3016,
+    "IsHide": 0,
+    "ObjectId": 5001019,
+    "Sort": 1019,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3017": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6012*}",
+    "Id": 3017,
+    "IsHide": 0,
+    "ObjectId": 5001020,
+    "Sort": 1020,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3018": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6013*}",
+    "Id": 3018,
+    "IsHide": 0,
+    "ObjectId": 5001021,
+    "Sort": 1021,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3019": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6014*}",
+    "Id": 3019,
+    "IsHide": 0,
+    "ObjectId": 5001014,
+    "Sort": 1022,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3020": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6015*}",
+    "Id": 3020,
+    "IsHide": 0,
+    "ObjectId": 5001015,
+    "Sort": 1023,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3021": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6016*}",
+    "Id": 3021,
+    "IsHide": 0,
+    "ObjectId": 5001016,
+    "Sort": 1024,
+    "Type": 2,
+    "UIColor": 1
+  },
+  "3022": {
+    "Desc": "타입: <style=\"tipsYellow\">일반</style><br>특성: {*messagevalue.6017*}",
+    "Id": 3022,
+    "IsHide": 0,
+    "ObjectId": 5001017,
+    "Sort": 1025,
+    "Type": 2,
+    "UIColor": 1
   },
   "4": {
-    "Desc": "레어도: 서사<br>계열: 【인간형】【차지】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 차지 최대 중첩 수가 20스택으로 증가합니다.<br>일반 공격: 평상시 공격하지 않고 차지 상태에 진입합니다. 3초마다 1스택씩 최대 20스택까지 중첩되며, 모험가가 범위 내에 진입하면 스킬이 발동됩니다.<br>핵심 스킬: 무수한 검기를 뿜어내어 범위 대미지를 줍니다. 모든 차지 스택을 소모하여 [40% × 차지 스택 수]만큼 대미지가 증가합니다.<br>쿨타임: 없음<br>Lv.3 효과: 10초마다 가장 가까운 대상 1명을 조준하여 검기를 발사합니다.<br>Lv.5 효과: 검기 조준 대상 +2.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_4\">서사</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style>",
     "Id": 4,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 16,
-    "Sort": 4,
-    "Type": 1
+    "Sort": 503,
+    "Type": 1,
+    "UIColor": 4
+  },
+  "4001": {
+    "Desc": "타입: <style=\"tipsYellow\">중립</style><br>특성: {*messagevalue.9001*}",
+    "Id": 4001,
+    "IsHide": 0,
+    "ObjectId": 5003014,
+    "Sort": 2001,
+    "Type": 2,
+    "UIColor": 5
+  },
+  "4002": {
+    "Desc": "타입: <style=\"tipsYellow\">보상</style><br>특성: {*messagevalue.9002*}",
+    "Id": 4002,
+    "IsHide": 0,
+    "ObjectId": 5002500,
+    "Sort": 2002,
+    "Type": 2,
+    "UIColor": 5
   },
   "5": {
-    "Desc": "레어도: 서사<br>계열: 【인간형】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 필드에 있을 때, 모험가 스킬 쿨타임 가속 +50% (중첩 불가).<br>일반 공격: 전방으로 찌르기를 시전 후 창을 회전시켜 범위 대미지를 줍니다.<br>핵심 스킬: 자신에게 가장 가까운 조율 이매진 5개의 쿨타임 가속이 100% 증가합니다. 5초 지속.<br>쿨타임: 15초<br>Lv.3 효과: 모험가 이동 속도 +25%, 대미지 버프 +25%.<br>Lv.5 효과: 모험가 이동 속도 +50%, 대미지 버프 +50%.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_4\">서사</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style>",
     "Id": 5,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 21,
-    "Sort": 5,
-    "Type": 1
+    "Sort": 504,
+    "Type": 1,
+    "UIColor": 4
   },
   "6": {
-    "Desc": "레어도: 탁월<br>계열: 【차지】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 10초마다 무작위 대상 3명에게 지진파를 시전하여 중상 효과를 부여합니다.<br>일반 공격: 평상시 공격하지 않고 차지 상태에 진입합니다. 3초마다 1스택씩 최대 10스택까지 중첩되며, 모험가가 범위 내에 진입하면 스킬이 발동됩니다.<br>핵심 스킬: 광범위한 지옥 찌르기를 시전하여 큰 대미지를 줍니다. 모든 차지 스택을 소모하여 [30% × 차지 스택 수]만큼 대미지가 증가합니다.<br>쿨타임: 없음<br>Lv.3 효과: 패시브 대미지가 10%의 취약 효과를 부여합니다. 5초 지속.<br>Lv.5 효과: 취약 효과 추가 +10%.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style>",
     "Id": 6,
-    "IsHide": 0,
-    "ObjectId": 26,
-    "Sort": 6,
-    "Type": 1
+    "IsHide": 1,
+    "ObjectId": 3,
+    "Sort": 1001,
+    "Type": 1,
+    "UIColor": 3
   },
   "7": {
-    "Desc": "레어도: 탁월<br>계열: 없음<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 고정 상태인 대상에게 주는 대미지 +100%.<br>일반 공격: 고정 상태가 아닌 대상에게 우선적으로 거미줄을 뱉어 대미지를 주며, 40% 확률로 5초간 대상에게 고정 상태를 부여합니다.<br>핵심 스킬: 땅속으로 숨었다가 튀어나와 광범위한 대미지를 주며, 대상을 1초간 확정적으로 스턴시킵니다.<br>쿨타임: 15초<br>Lv.3 효과: 고정 확률이 100%로 상승합니다.<br>Lv.5 효과: 스턴 시간이 2.5초로 증가합니다.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">보조</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
-    "Sort": 7,
-    "Type": 1
+    "Sort": 1002,
+    "Type": 1,
+    "UIColor": 3
   },
   "8": {
-    "Desc": "레어도: 탁월<br>계열: 【자원】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 물리<br>패시브 효과: 모험가가 보유한 조율 결정 파편 100pt당 성스러운 날치의 대미지가 1% 증가합니다 (최대 100%).<br>일반 공격: 물 구체를 떨어뜨려 범위 대미지를 주고 둔화 효과를 부여합니다.<br>핵심 스킬: 환영 날치 1마리를 소환하여 전방으로 돌진시킵니다.<br>쿨타임: 15초<br>Lv.3 효과: 날치 수량 +1, 조율 결정 파편 획득률 +5%.<br>Lv.5 효과: 날치 수량 +2, 조율 결정 파편 획득률 +10%.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
-    "Sort": 8,
-    "Type": 1
+    "Sort": 1003,
+    "Type": 1,
+    "UIColor": 3
   },
   "9": {
-    "Desc": "레어도: 탁월<br>계열: 【연소】<br>최고 레벨: Lv.3. 만약 해당 배틀 이매진을 보유하고 있을 경우, 최고 레벨이 Lv.5로 상승.<br>공격 유형: 마법<br>패시브 효과: 자신의 체력이 높을수록 공격력이 증가합니다 (최대 +200%). 단, 지속적으로 체력을 잃습니다.<br>일반 공격: 없음<br>핵심 스킬: 전방으로 화염을 지속해서 뿜어 대미지를 주고 연소 상태를 부여합니다.<br>쿨타임: 8초<br>Lv.3 효과: 공격 시 체력을 5% 회복합니다.<br>Lv.5 효과: 초과된 회복량은 실드로 전환됩니다.",
+    "Desc": "<style=\"accent-gn\">레어도</style>: <style=\"ItemQuality_3\">탁월</style><br><style=\"accent-gn\">역할</style>: <style=\"tipsYellow\">딜러</style>",
     "Id": 9,
-    "IsHide": 0,
+    "IsHide": 1,
     "ObjectId": 41,
-    "Sort": 9,
-    "Type": 1
+    "Sort": 1004,
+    "Type": 1,
+    "UIColor": 3
   }
 }

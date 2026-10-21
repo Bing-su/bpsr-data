@@ -936,7 +936,7 @@
     "Type": 3
   },
   "1117": {
-    "Description": "적에게 매 초마다 공격력의 <style=\"accent-gn\">20%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다, <style=\"accent-gn\">10</style>초 지속.",
+    "Description": "적에게 매 초마다 공격력의 <style=\"accent-gn\">20%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다, <style=\"accent-gn\">10</style>초 지속. ",
     "Id": 1117,
     "Par": 3401117,
     "ShowRule": 1,
@@ -2798,6 +2798,94 @@
     "ShowRule": 1,
     "Text": "유수화참",
     "Type": 2
+  },
+  "2001": {
+    "Description": "<style=\"accent-gn\">5초</style>간 지속적으로 불 속성 대미지를 받습니다. 기본 최대 <style=\"accent-gn\">10스택</style>. 대상이 한기 및 빙결 상태일 경우, 한기와 빙결을 제거하고 추가 대미지를 줍니다.",
+    "Id": 2001,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "연소",
+    "Type": 1
+  },
+  "2002": {
+    "Description": "스택당 이동 속도 <style=\"accent-gn\">-10%</style>, 물리 저항과 마법 저항 <style=\"accent-gn\">-10%</style>. <style=\"accent-gn\">5초</style> 지속, 기본 최대 <style=\"accent-gn\">5스택</style>. <style=\"accent-gn\">보스에게는 효과가 절반으로 감소합니다.</style> 대상의 한기가 최대 스택에 도달하면 빙결로 전환됩니다. 대상이 연소 상태일 경우, 연소를 제거하고 남은 연소 대미지를 모두 결산합니다.",
+    "Id": 2002,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "한기",
+    "Type": 1
+  },
+  "2003": {
+    "Description": "행동할 수 없습니다. <style=\"accent-gn\">3초</style> 지속. 종료 후 <style=\"accent-gn\">30초</style>간 빙결 면역을 획득합니다.",
+    "Id": 2003,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "빙결",
+    "Type": 1
+  },
+  "2004": {
+    "Description": "스택당 치유 효과 <style=\"accent-gn\">-20%</style>. <style=\"accent-gn\">10초</style> 지속, 최대 <style=\"accent-gn\">5스택</style>.",
+    "Id": 2004,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "중상",
+    "Type": 1
+  },
+  "2005": {
+    "Description": "받는 대미지가 <style=\"accent-gn\">6% × 부식 스택 수</style>만큼 증가합니다. <style=\"accent-gn\">7초</style> 지속, 최대 <style=\"accent-gn\">5스택</style>.",
+    "Id": 2005,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "부식",
+    "Type": 1
+  },
+  "2006": {
+    "Description": "행동할 수 없습니다. 다음에 받는 대미지가 <style=\"accent-gn\">50% 증가</style>하며, 동시에 석화가 해제됩니다. <style=\"accent-gn\">2.5초</style> 지속.",
+    "Id": 2006,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "석화",
+    "Type": 1
+  },
+  "2007": {
+    "Description": "이동할 수 없습니다. <style=\"accent-gn\">5초</style> 지속.",
+    "Id": 2007,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "고정",
+    "Type": 1
+  },
+  "2008": {
+    "Description": "행동할 수 없습니다. <style=\"accent-gn\">2.5초</style> 지속.",
+    "Id": 2008,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "스턴",
+    "Type": 1
+  },
+  "2009": {
+    "Description": "나타난 후 정해진 경로를 따라 이동하며, 접촉한 몬스터에게 대미지를 줍니다. <style=\"accent-gn\">60초</style> 지속, 기본 최대 <style=\"accent-gn\">2마리</style>.",
+    "Id": 2009,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "떠도는 영혼",
+    "Type": 1
+  },
+  "2010": {
+    "Description": "빙결의 영향을 받지 않습니다. <style=\"accent-gn\">30초</style> 지속.",
+    "Id": 2010,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "빙결 면역",
+    "Type": 1
+  },
+  "2011": {
+    "Description": "사탕을 받을 때 대미지를 1회 받습니다. 최대 <style=\"accent-gn\">10스택</style>.",
+    "Id": 2011,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "사탕",
+    "Type": 1
   },
   "3000": {
     "Description": "목표가 캐스팅 중인 스킬을 중단시키고 쿨타임 상태로 전환합니다. 보스에게는 적용되지 않습니다.",
