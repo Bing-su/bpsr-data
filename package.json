@@ -11,21 +11,22 @@
     "oxlint": "oxlint"
   },
   "dependencies": {
-    "@astrojs/svelte": "^9.1.0",
-    "@lucide/svelte": "^1.59.0",
-    "@tailwindcss/vite": "^4.3.3",
-    "astro": "^7.4.0",
+    "@astrojs/svelte": "^9.1.4",
+    "@lucide/svelte": "^1.72.0",
+    "@tailwindcss/vite": "^4.3.5",
+    "astro": "^7.4.10",
     "daisyui": "^5.7.50",
-    "svelte": "^5.57.2",
-    "tailwindcss": "^4.3.3",
+    "svelte": "^5.57.3",
+    "tailwindcss": "^4.3.5",
     "typescript": "^6.0.3"
   },
   "devDependencies": {
-    "@types/node": "^26.6.5",
-    "oxfmt": "^0.73.0",
-    "oxlint": "^1.88.0"
+    "@types/node": "^26.6.6",
+    "oxfmt": "^0.78.0",
+    "oxlint": "^1.93.0",
+    "tsrs": "0.24.0-ts7.1.0-beta"
   },
   "engines": {
-    "node": ">=22.12.0"
+    "node": ">=26.13.1"
   }
 }

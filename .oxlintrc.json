@@ -4,6 +4,10 @@
   "categories": {
     "correctness": "error"
   },
+  "options": {
+    "typeAware": true,
+    "typeCheck": true
+  },
   "rules": {},
   "env": {
     "builtin": true
