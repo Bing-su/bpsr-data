@@ -32,7 +32,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_05"],
     "SeasonId": 1,
-    "SeasonTitle": "Limitiertes Titel-Outfit",
+    "SeasonTitle": "Saisonspezifisches Titel-Kostüm",
     "Sort": 105
   },
   "105": {
@@ -161,7 +161,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/season_window/season_main_window_23"],
     "SeasonId": 3,
-    "SeasonTitle": "Limitiertes Titel-Outfit",
+    "SeasonTitle": "Saisonspezifisches Titel-Kostüm",
     "Sort": 307
   },
   "306": {
@@ -181,5 +181,44 @@
     "SeasonId": 3,
     "SeasonTitle": "Traumpass-III-Outfit",
     "Sort": 306
+  },
+  "402": {
+    "Content": "Wähle vor dem offiziellen Start des Dungeons einen der 5 Eidaltäre, um dein Gelübde abzulegen. Jedes Gelübde bietet unterschiedliche Buffs.\\n\\nWährend des Kampfes gewährt das Töten von Monstern Gelübdeenergie. Je mehr einzigartige Gelübde deine Gruppe hat, desto schneller gewinnst du Gelübdeenergie.\\n\\nDu beginnst mit deinem Gelübde auf St. 1. Seine Bonuswerte werden mit steigender Gelübdestufe stärker.\\n\\nVorrichtungen, die Eid-Prüfungen aktivieren, sind über die Karte verstreut. Gib Gelübdeenergie aus, um eine Eid-Prüfung zu aktivieren, und erhöhe ihre Eid-Stufe basierend auf der Menge der ausgegebenen Energie.\\n\\nSobald die Eid-Prüfung aktiviert ist, erhältst du für eine begrenzte Zeit einen starken Buff. Alle Monster in der Nähe werden ebenfalls gemäß ihren Affixen verstärkt.\\n\\nDas Besiegen verstärkter Monster gewährt zusätzliche Gelübdeenergie.\\n\\nEidgeister haben eine Chance, im Chaotischen Reich Gestalt anzunehmen. Besiege sie, um geheimnisvolle Beute zu erhalten.",
+    "Id": 402,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_26",
+      "ui/textures/large_ui/season_window/season_main_window_27"
+    ],
+    "SeasonId": 4,
+    "SeasonTitle": "Saison-Affix",
+    "Sort": 402
+  },
+  "404": {
+    "Content": "Kaufe den Saisonpass I und erreiche St. 30, um das limitierte Fantasy-Magier-Set zu erhalten!",
+    "Id": 404,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_28"],
+    "SeasonId": 4,
+    "SeasonTitle": "Kampfpass: Kostüm Teil I",
+    "Sort": 404
+  },
+  "405": {
+    "Content": "Nimm an den saisonalen Funktionen teil und erreiche den Titelrang \"Gebundene Sternschnuppe I\", um das limitierte \"Stummer Bote\"-Set zu erhalten!",
+    "Id": 405,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_29"],
+    "SeasonId": 4,
+    "SeasonTitle": "Saisonspezifisches Titel-Kostüm",
+    "Sort": 407
+  },
+  "406": {
+    "Content": "Kaufe den Saisonpass II und erreiche St. 30, um das limitierte \"Ferne Küsten\"-Set zu erhalten!",
+    "Id": 406,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_30"],
+    "SeasonId": 4,
+    "SeasonTitle": "Saisonpass II – Outfits",
+    "Sort": 405
   }
 }

@@ -120,7 +120,7 @@
     "Type": 140
   },
   "1100801": {
-    "Content": "Die Nacht senkte sich langsam um das Lagerfeuer herab. <br>Das Fagaro-Lager war ruhiger als erwartet. Der Wind wehte durch die Lücken der Karawanen und trug den zarten Klang von Glocken mit sich, als hätte jemand im Traum eine Saite gezupft.",
+    "Content": "Nachdem für die Nacht alles geregelt war, ruhten wir uns im Schein eines Feuers aus, an dem Wanderer kamen und gingen. <br>Und als die Morgendämmerung zurückkehrte –<br>Welches neue Abenteuer würde auf uns warten?",
     "DurationTime": 7.0,
     "FadeInTime": 1,
     "Id": 1100801,
@@ -191,6 +191,14 @@
     "Interrupt": 0,
     "Type": 140
   },
+  "11105005": {
+    "Content": "Der Blütenkristall zersplitterte, und das rote Licht, das den Bereich umgeben hatte, verblasste endlich. Die Monster schienen ihr Ziel verloren zu haben. Sie zogen sich leise knurrend in die Tiefen der Nacht zurück. <br>Währenddessen glitt etwas aus den Schatten und landete sanft auf dem Boden.",
+    "DurationTime": 12.0,
+    "FadeInTime": 1,
+    "Id": 11105005,
+    "Interrupt": 0,
+    "Type": 140
+  },
   "11106001": {
     "Content": "Als wir in drückendem Schweigen ins Lager zurückkehrten, war das Lagerfeuer bereits wieder entzündet worden. <br>Es herrschte keine Panik, im Gegensatz zu dem, was wir uns vorgestellt hatten. Triban umarmte den Winterlichen Zweig und starrte leer in den Nachthimmel. Lerahha hielt den Kopf gesenkt und biss sich fest auf die Lippe. <br>Airona stand still neben ihnen, und ihre Augen waren leicht gerötet.",
     "DurationTime": 15.0,
@@ -204,6 +212,22 @@
     "DurationTime": 16.0,
     "FadeInTime": 1,
     "Id": 11106002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11106003": {
+    "Content": "Ein rasender Sturm aus Leeren-Engrammen zerriss hier alles. <br>Wirdas Gestalt verdrehte sich im Nebel. Sie stieß einen entsetzlichen Schrei aus. <br>Sie fiel in den Abgrund, aus dem es kein Zurück gab.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 11106003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11106004": {
+    "Content": "Sleht stieß einen schrillen, qualvollen Schrei aus, wie ein verwundetes Tier. <br>Er rappelte sich auf, um Hrugas Horn in der Luft zu ergreifen, und stolperte dann in die zusammenbrechende Dunkelheit.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 11106004,
     "Interrupt": 0,
     "Type": 140
   },
@@ -236,6 +260,38 @@
     "DurationTime": 6.5,
     "FadeInTime": 1,
     "Id": 11202003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11202004": {
+    "Content": "Airona eilte in die Mitte der zusammenbrechenden Plattform und ergriff Hrugas Horn, das ein schwaches Licht abgab.",
+    "DurationTime": 7.0,
+    "FadeInTime": 1,
+    "Id": 11202004,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11402001": {
+    "Content": "Das Licht des Himmels verblasst langsam hinter den Bergen. <br>Als der letzte Schimmer von den Dächern Kanamias weicht, hat das Mondlicht bereits still das Land bedeckt.",
+    "DurationTime": 7.0,
+    "FadeInTime": 1,
+    "Id": 11402001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11402002": {
+    "Content": "Die drei Phasen verblassen und die Reflexion des Mondes im Bach wird wieder klar. <br>Ein lang ersehnter Segen fällt mit dem Mondlicht erneut auf Kanamia herab,<br>und die Schatten, die tief auf diesem Land und in den Herzen der Menschen lagen,<br>verwehen endlich im Nachtwind.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 11402002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11402003": {
+    "Content": "Jenseits des Mondlichts erheben sich langsam Wind und Sand. <br>Die Geschichte von Asterleeds hält hier inne, doch unsere Reise ist noch lange nicht vorbei.",
+    "DurationTime": 7.0,
+    "FadeInTime": 1,
+    "Id": 11402003,
     "Interrupt": 0,
     "Type": 140
   },
@@ -372,6 +428,46 @@
     "DurationTime": 11.0,
     "FadeInTime": 1,
     "Id": 2002602,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027001": {
+    "Content": "Boyce schloss die Augen, und die Umgebung wurde seltsam still. Das Lagerfeuer knisterte, als der Schlaf dich übermannte ... Dann schreckte dich ein leidenschaftlicher Schrei aus dem Schlaf.",
+    "DurationTime": 7.0,
+    "FadeInTime": 1,
+    "Id": 20027001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027002": {
+    "Content": "\"Selbst wenn sich die Welt wirklich verändern könnte ... Boyce! Erinnerst du dich, warum du diese Waffe in die Hand genommen hast?!\"",
+    "DurationTime": 5.5,
+    "FadeInTime": 1,
+    "Id": 20027002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027003": {
+    "Content": "In einem blendend weißen Licht stand der Ritter seinem Zwielicht gegenüber. War es das Ende eines Ritters, der seines Platzes beraubt wurde, oder würde er seine Narben tragen und den Eid ehren, den er einst geschworen hatte?",
+    "DurationTime": 6.5,
+    "FadeInTime": 1,
+    "Id": 20027003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027004": {
+    "Content": "Der Wind fegte über das Hochland und wehte in die Ferne. <br>Die goldenen Weizenwellen und der Horizont verschwammen allmählich. <br><br>Der Wind kam von dort. <br>Und dorthin zog er auch.",
+    "DurationTime": 6.5,
+    "FadeInTime": 1,
+    "Id": 20027004,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027005": {
+    "Content": "Im Moment der Resonanz schien die Welt stillzustehen, dann dehnte sich alles ins Unendliche aus, als wäre es in einen bodenlosen Abgrund geworfen worden.",
+    "DurationTime": 6.0,
+    "FadeInTime": 1,
+    "Id": 20027005,
     "Interrupt": 0,
     "Type": 140
   },
@@ -660,6 +756,46 @@
     "DurationTime": 4.0,
     "FadeInTime": 1,
     "Id": 30420101,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30564001": {
+    "Content": "Nach dem Essen räumten alle schweigend das Kochgeschirr auf. <br>Niemand erwähnte mehr, dass er gehen wollte ... Nur der Nachtwind wehte weiter durch die stillgelegte Mine.",
+    "DurationTime": 8.0,
+    "FadeInTime": 1,
+    "Id": 30564001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30565001": {
+    "Content": "Du und Tobaias habt euch zu dem Wasserfall begeben, auf den der Halbmensch gezeigt hatte ...",
+    "DurationTime": 3.0,
+    "FadeInTime": 1,
+    "Id": 30565001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30565002": {
+    "Content": "Du und Tobaias seid zur Route des Laternenanzünders zurückgekehrt und habt die Runden fortgesetzt ...",
+    "DurationTime": 3.0,
+    "FadeInTime": 1,
+    "Id": 30565002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30565003": {
+    "Content": "Ein Halbmensch tätschelte sich den Bauch und schob den Topf zurück. <br>Dann zeigte er in die Tiefen der Großen Höhle und ahmte das Graben nach. <br>Bevor du noch etwas fragen konntest, kletterten sie über die Felsen und verschwanden.",
+    "DurationTime": 9.0,
+    "FadeInTime": 1,
+    "Id": 30565003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30566001": {
+    "Content": "Die Dorfbewohner versammelten sich bald. <br>Weinen, zornige Flüche und Stille vermischten sich. <br>Nur Alder blieb auf dem Dach sitzen und murmelte das Maß. <br>Kurz darauf zerrten die Leute ihn hinunter und sperrten ihn in das Lagerhaus.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 30566001,
     "Interrupt": 0,
     "Type": 140
   },
@@ -1220,6 +1356,118 @@
     "DurationTime": 7.5,
     "FadeInTime": 1,
     "Id": 30851001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30853001": {
+    "Content": "Die Kinder plapperten, als sie weggingen. <br>Du hast eine Weile gewartet und dann klares Quellwasser geschöpft ...",
+    "DurationTime": 5.0,
+    "FadeInTime": 1,
+    "Id": 30853001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30854001": {
+    "Content": "Malvina arbeitete zügig und beendete die Modifikation des Grubenlampenkerns. <br>Als der Schalter gedrückt wurde, ließ sich eine geisterhaft blaue Flamme still auf dem Docht nieder.",
+    "DurationTime": 7.5,
+    "FadeInTime": 1,
+    "Id": 30854001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30855001": {
+    "Content": "Sero arbeitete eine Weile und stellte dann eine dicke, grüne Salbe her.",
+    "DurationTime": 3.5,
+    "FadeInTime": 1,
+    "Id": 30855001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30882001": {
+    "Content": "Nach etwa einem Dutzend Schlagabtauschen erkennt der Talplänkler, dass er dir nicht gewachsen ist, und springt in die Nacht hinaus, um in Panik zu fliehen.",
+    "DurationTime": 6.0,
+    "FadeInTime": 1,
+    "Id": 30882001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30883001": {
+    "Content": "Nach diesem Tag wird wahrscheinlich ein Witz unter den Goblins des Montegnor-Tals kursieren. <br>Der von ihrem Stamm verehrte rote Dämon entpuppte sich als ein derart hoffnungsloser Schwächling, dass die Halbmenschen nicht anders konnten, als darüber zu lachen.",
+    "DurationTime": 8.0,
+    "FadeInTime": 1,
+    "Id": 30883001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30884001": {
+    "Content": "In weniger als einem halben Tag kommst du am Yarid-Talpass an, und Arno sagt, er werde Caldy sicher zurückbringen. <br>Allerdings ... müssen diese fehlenden Waren wohl als Bezahlung der Goblins für ihre Mühen angesehen werden.",
+    "DurationTime": 8.0,
+    "FadeInTime": 1,
+    "Id": 30884001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30885001": {
+    "Content": "Du sitzt dort und siehst zu. Indem du die Aktionen der Halbmenschen beobachtest, kannst du dir so ungefähr einen Reim auf den Kampf machen. <br>Der Aufruhr hält noch eine ganze Weile an. Letztendlich bleiben nur noch zwei \"Halbmenschen-Teilnehmer\" in der Arena übrig.",
+    "DurationTime": 9.0,
+    "FadeInTime": 1,
+    "Id": 30885001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30885002": {
+    "Content": "In dem Moment, in dem der Champion feststeht, hörst du die Halbmenschen jubeln und hast das Gefühl, gerade ein unglaublich spannendes Match gesehen zu haben. <br>Als Abenteurer sieht man wirklich die verschiedensten Dinge. Wenn du Airona davon erzählen würdest, würde sie dir wahrscheinlich nicht glauben.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 30885002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30886001": {
+    "Content": "Nach einem seltsamen Gefühl der Schwerelosigkeit nimmst du deine Umgebung wieder wahr. <br>Plötzlich taucht ein gigantischer Garnelenpilz vor dir auf.",
+    "DurationTime": 6.0,
+    "FadeInTime": 1,
+    "Id": 30886001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30886002": {
+    "Content": "Ein weiteres seltsames Gefühl der Schwerelosigkeit überkommt dich. Als du wieder zu Sinnen kommst, ist der Traum-Manifestator verschwunden. <br>Ein kleiner Garnelenpilz liegt gehorsam und regungslos auf deiner Schulter.",
+    "DurationTime": 6.5,
+    "FadeInTime": 1,
+    "Id": 30886002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30886003": {
+    "Content": "Deine Sicht verdunkelt sich, gefolgt von einer weiteren vertrauten Schwindelwelle. Als du wieder zu Sinnen kommst, liegt eine völlig andere Szenerie vor dir.",
+    "DurationTime": 5.0,
+    "FadeInTime": 1,
+    "Id": 30886003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30886004": {
+    "Content": "Mit der Unterstützung der Mukus hast du die Feinde in alle Winde verstreut zurückgeschlagen. <br>Du drehst dich um, um deinen Dank auszusprechen, aber Virginia ist bereits mit den Mukus in den Wäldern verschwunden.",
+    "DurationTime": 6.5,
+    "FadeInTime": 1,
+    "Id": 30886004,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30889001": {
+    "Content": "Als du dich der Wyvern-Quelle näherst, spürst du plötzlich einen Schwindelanfall ...",
+    "DurationTime": 3.0,
+    "FadeInTime": 1,
+    "Id": 30889001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30889002": {
+    "Content": "Nachdem du das spezielle Engramm erfolgreich aus den Garnelenpilzen entfernt hast, überkommt dich eine vertraute Schwindelwelle, und du erwachst aus dem Traum.",
+    "DurationTime": 3.0,
+    "FadeInTime": 1,
+    "Id": 30889002,
     "Interrupt": 0,
     "Type": 140
   },
@@ -1880,7 +2128,7 @@
     "Type": 140
   },
   "50310001": {
-    "Content": "",
+    "Content": "Die Nacht der Streiche neigt sich dem Ende zu. <br>Einige gingen mit Süßigkeiten nach Hause. Andere folgten einer langen Spur aus Streichen und fanden jemanden wieder, den sie schon sehr, sehr lange nicht gesehen hatten. <br><br>Diese Nacht wird enden, doch die Gefühle, die wir im Herzen tragen, bleiben bei uns.",
     "DurationTime": 9.0,
     "FadeInTime": 1,
     "Id": 50310001,
@@ -1888,7 +2136,7 @@
     "Type": 140
   },
   "50310002": {
-    "Content": "",
+    "Content": "Nach dem Abschied scharten sich die Kinder um den Kleinen Kürbis und verschwanden langsam in der Ferne, wobei sie sich immer wieder umdrehten, um Darya noch einmal zuzuwinken. <br>Schließlich waren nur noch wir beide übrig.",
     "DurationTime": 7.5,
     "FadeInTime": 1,
     "Id": 50310002,

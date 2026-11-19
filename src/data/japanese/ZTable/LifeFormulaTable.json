@@ -294,6 +294,48 @@
       [9, 10220]
     ]
   },
+  "101027": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷のやや珍しい野菜のフォーカス採集を習得する",
+    "GroupId": 1027,
+    "Icon": "ui/atlas/life_formula/life_collect/mushroom_gathering_02",
+    "Id": 101027,
+    "Level": 1,
+    "Name": "モンテノール野菜採集・習熟",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "101028": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷のやや珍しい果実のフォーカス採集を習得する",
+    "GroupId": 1028,
+    "Icon": "ui/atlas/life_formula/life_collect/fruit_gathering_02",
+    "Id": 101028,
+    "Level": 1,
+    "Name": "モンテノール果実採集・習熟",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "101029": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷のやや珍しい薬草のフォーカス採集を習得する",
+    "GroupId": 1029,
+    "Icon": "ui/atlas/life_formula/life_collect/herb_gathering_02",
+    "Id": 101029,
+    "Level": 1,
+    "Name": "モンテノール薬草採集・習熟",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
   "102001": {
     "Attribute": [],
     "Des": "フォーカス採取でバルー鉱石を入手する",
@@ -647,6 +689,34 @@
       [59, 10224, 1],
       [9, 10220]
     ]
+  },
+  "102029": {
+    "Attribute": [],
+    "Des": "荒砂鉄鉱のフォーカス採集を習得し、荒砂鉄鉱石を獲得する",
+    "GroupId": 10229,
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_02",
+    "Id": 102029,
+    "Level": 1,
+    "Name": "荒砂鉄鉱入門",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 102,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "102030": {
+    "Attribute": [],
+    "Des": "ミリス鉱のフォーカス採集を習得し、ミリス鉱石を獲得する",
+    "GroupId": 10230,
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_03",
+    "Id": 102030,
+    "Level": 1,
+    "Name": "ミリス鉱入門",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 102,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
   },
   "103001": {
     "Attribute": [],
@@ -1071,6 +1141,62 @@
     "ProId": 103,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "103033": {
+    "Attribute": [],
+    "Des": "渓谷の赤水晶原鉱石のフォーカス採集を習得し、幻蝕の赤晶原石G4を獲得する",
+    "GroupId": 10333,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/ruby_familiarity",
+    "Id": 103033,
+    "Level": 1,
+    "Name": "幻蝕の赤水晶・エキスパート",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103034": {
+    "Attribute": [],
+    "Des": "渓谷の青水晶原鉱石のフォーカス採集を習得し、幻蝕の青晶原石G4を獲得する",
+    "GroupId": 10334,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/sapphire_familiarity",
+    "Id": 103034,
+    "Level": 1,
+    "Name": "幻蝕の青水晶・エキスパート",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103035": {
+    "Attribute": [],
+    "Des": "渓谷の緑水晶原鉱石のフォーカス採集を習得し、幻蝕の翠晶原石G4を獲得する",
+    "GroupId": 10335,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/emerald_familiarity",
+    "Id": 103035,
+    "Level": 1,
+    "Name": "幻蝕の緑水晶・エキスパート",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103036": {
+    "Attribute": [],
+    "Des": "渓谷の黄水晶原鉱石のフォーカス採集を習得し、幻蝕の輝晶原石G4を獲得する",
+    "GroupId": 10336,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/white_sapphire_familiarity",
+    "Id": 103036,
+    "Level": 1,
+    "Name": "幻蝕の黄水晶・エキスパート",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
   },
   "201001": {
     "Attribute": [],
@@ -1579,6 +1705,99 @@
     "ProId": 201,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "201037": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷のエビ類を使った料理を習得する",
+    "GroupId": 2037,
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "Id": 201037,
+    "Level": 1,
+    "Name": "モンテノールエビ料理・入門",
+    "NeedPoint": 1,
+    "NextNodes": [201041],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201038": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷の野菜を使った料理を習得する",
+    "GroupId": 2038,
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_01",
+    "Id": 201038,
+    "Level": 1,
+    "Name": "モンテノール野菜料理・入門",
+    "NeedPoint": 1,
+    "NextNodes": [201042],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201040": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷の果実を使った料理を習得する",
+    "GroupId": 2040,
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "Id": 201040,
+    "Level": 1,
+    "Name": "モンテノール果実料理・入門",
+    "NeedPoint": 1,
+    "NextNodes": [201044],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201041": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷のエビ類を使った手の込んだ料理を習得する",
+    "GroupId": 2041,
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "Id": 201041,
+    "Level": 1,
+    "Name": "モンテノールエビ料理・習熟",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2037, 1],
+      [9, 10419]
+    ]
+  },
+  "201042": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷の野菜を使った手の込んだ料理を習得する",
+    "GroupId": 2042,
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_02",
+    "Id": 201042,
+    "Level": 1,
+    "Name": "モンテノール野菜料理・習熟",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2038, 1],
+      [9, 10419]
+    ]
+  },
+  "201044": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷の果実を使った手の込んだ料理を習得する",
+    "GroupId": 2044,
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "Id": 201044,
+    "Level": 1,
+    "Name": "モンテノール果実料理・習熟",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2040, 1],
+      [9, 10419]
+    ]
   },
   "202001": {
     "Attribute": [],
@@ -2231,6 +2450,161 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "202051": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷の薬草を使った回復薬、物理・魔法増強薬の作り方を習得する",
+    "GroupId": 3051,
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "Id": 202051,
+    "Level": 1,
+    "Name": "モンテノール薬草学G1",
+    "NeedPoint": 1,
+    "NextNodes": [202056],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202052": {
+    "Attribute": [],
+    "Des": "氷火薬の作り方を習得する",
+    "GroupId": 3052,
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "Id": 202052,
+    "Level": 1,
+    "Name": "モンテノール氷火学G1",
+    "NeedPoint": 1,
+    "NextNodes": [202057],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202053": {
+    "Attribute": [],
+    "Des": "森岩薬の作り方を習得する",
+    "GroupId": 3053,
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "Id": 202053,
+    "Level": 1,
+    "Name": "モンテノール自然学G1",
+    "NeedPoint": 1,
+    "NextNodes": [202058],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202054": {
+    "Attribute": [],
+    "Des": "風雷薬の作り方を習得する",
+    "GroupId": 3054,
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "Id": 202054,
+    "Level": 1,
+    "Name": "モンテノール風雷学G1",
+    "NeedPoint": 1,
+    "NextNodes": [202059],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202055": {
+    "Attribute": [],
+    "Des": "光闇薬の作り方を習得する",
+    "GroupId": 3055,
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "Id": 202055,
+    "Level": 1,
+    "Name": "モンテノール光闇学G1",
+    "NeedPoint": 1,
+    "NextNodes": [202060],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202056": {
+    "Attribute": [],
+    "Des": "モンテノール渓谷の薬草を使った上級の回復薬、物理・魔法増強薬の作り方を習得する",
+    "GroupId": 3056,
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "Id": 202056,
+    "Level": 1,
+    "Name": "モンテノール薬草学G2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3051, 1],
+      [9, 10419]
+    ]
+  },
+  "202057": {
+    "Attribute": [],
+    "Des": "上級の氷火薬の作り方を習得する",
+    "GroupId": 3057,
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "Id": 202057,
+    "Level": 1,
+    "Name": "モンテノール氷火学G2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3052, 1],
+      [9, 10419]
+    ]
+  },
+  "202058": {
+    "Attribute": [],
+    "Des": "上級の森岩薬の作り方を習得する",
+    "GroupId": 3058,
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "Id": 202058,
+    "Level": 1,
+    "Name": "モンテノール自然学G2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3053, 1],
+      [9, 10419]
+    ]
+  },
+  "202059": {
+    "Attribute": [],
+    "Des": "上級の風雷薬の作り方を習得する",
+    "GroupId": 3059,
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "Id": 202059,
+    "Level": 1,
+    "Name": "モンテノール風雷学G2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3054, 1],
+      [9, 10419]
+    ]
+  },
+  "202060": {
+    "Attribute": [],
+    "Des": "上級の光闇薬の作り方を習得する",
+    "GroupId": 3060,
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "Id": 202060,
+    "Level": 1,
+    "Name": "モンテノール光闇学G2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3055, 1],
+      [9, 10419]
+    ]
+  },
   "203001": {
     "Attribute": [],
     "Des": "バルー鉱石を使った謎の金属の加工方法を習得する",
@@ -2641,6 +3015,99 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "203033": {
+    "Attribute": [],
+    "Des": "荒砂鉄鉱石を使った謎の金属の加工方法を習得する",
+    "GroupId": 4033,
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "Id": 203033,
+    "Level": 1,
+    "Name": "モンテノール謎の金属鍛造G1",
+    "NeedPoint": 1,
+    "NextNodes": [203037],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203034": {
+    "Attribute": [],
+    "Des": "荒砂鉄鉱石を使った輝光石の加工方法を習得する",
+    "GroupId": 4034,
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "Id": 203034,
+    "Level": 1,
+    "Name": "モンテノール輝光石鍛造G1",
+    "NeedPoint": 1,
+    "NextNodes": [203038],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203035": {
+    "Attribute": [],
+    "Des": "荒砂鉄鉱石を使った精錬石の加工方法を習得する",
+    "GroupId": 4035,
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "Id": 203035,
+    "Level": 1,
+    "Name": "モンテノール精錬石鍛造G1",
+    "NeedPoint": 1,
+    "NextNodes": [203039],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203037": {
+    "Attribute": [],
+    "Des": "ミリス鉱石を使った謎の金属の加工方法を習得する",
+    "GroupId": 4037,
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "Id": 203037,
+    "Level": 1,
+    "Name": "モンテノール謎の金属鍛造G2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4033, 1],
+      [9, 10419]
+    ]
+  },
+  "203038": {
+    "Attribute": [],
+    "Des": "ミリス鉱石を使った輝光石の加工方法を習得する",
+    "GroupId": 4038,
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "Id": 203038,
+    "Level": 1,
+    "Name": "モンテノール輝光石鍛造G2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4034, 1],
+      [9, 10419]
+    ]
+  },
+  "203039": {
+    "Attribute": [],
+    "Des": "ミリス鉱石を使った精錬石の加工方法を習得する",
+    "GroupId": 4039,
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "Id": 203039,
+    "Level": 1,
+    "Name": "モンテノール精錬石鍛造G2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4035, 1],
+      [9, 10419]
+    ]
+  },
   "204001": {
     "Attribute": [],
     "Des": "さまざまな色の原石を使った装着可能な初級ジェムの作り方を習得する",
@@ -3023,6 +3490,62 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "204033": {
+    "Attribute": [],
+    "Des": "幻蝕の赤晶原石G4を最上級玉髄にカットする方法を習得する",
+    "GroupId": 5033,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/triangle_cutting_technology_02",
+    "Id": 204033,
+    "Level": 1,
+    "Name": "幻蝕の赤晶カット・マスター",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204034": {
+    "Attribute": [],
+    "Des": "幻蝕の青晶原石G4を最上級玉髄にカットする方法を習得する",
+    "GroupId": 5034,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/square_cutting_technology_02",
+    "Id": 204034,
+    "Level": 1,
+    "Name": "幻蝕の青晶カット・マスター",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204035": {
+    "Attribute": [],
+    "Des": "幻蝕の翠晶原石G4を最上級玉髄にカットする方法を習得する",
+    "GroupId": 5035,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/special_cutting_technology_02",
+    "Id": 204035,
+    "Level": 1,
+    "Name": "幻蝕の翠晶カット・マスター",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204036": {
+    "Attribute": [],
+    "Des": "幻蝕の輝晶原石G4を最上級玉髄にカットする方法を習得する",
+    "GroupId": 5036,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/pear_cutting_technology_02",
+    "Id": 204036,
+    "Level": 1,
+    "Name": "幻蝕の輝晶カット・マスター",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
   "205001": {
     "Attribute": [],
     "Des": "速燃性炭粉の作り方を学びましょう",
@@ -3081,7 +3604,7 @@
   },
   "205005": {
     "Attribute": [],
-    "Des": "速燃性炭粉、硬炭粉、宝石ロウ、希晶潤滑剤クラフト時に追加で5個獲得する。また、高熱速燃性炭粉と硬炭粉クラフト時に追加で1個獲得する",
+    "Des": "速燃性炭粉、硬炭粉、宝石ロウ、希晶潤滑剤、属性エネルギーを含む樹脂クラフト時に追加で5個獲得する。また、高熱速燃性炭粉と硬炭粉クラフト時に追加で1個獲得する",
     "GroupId": 6005,
     "Icon": "ui/atlas/life_formula/life_formula/lifeformula_woodwork_ability_02",
     "Id": 205005,
@@ -3168,6 +3691,20 @@
       [59, 6008, 1],
       [9, 10220]
     ]
+  },
+  "205011": {
+    "Attribute": [],
+    "Des": "属性エネルギーを秘めた樹脂の作り方を習得する",
+    "GroupId": 6011,
+    "Icon": "ui/atlas/life_formula/life_formula/lifeformula_carbon_powder_01",
+    "Id": 205011,
+    "Level": 1,
+    "Name": "属性樹脂制作",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 205,
+    "SeasonId": 4,
+    "UnlockCondition": []
   },
   "206001": {
     "Attribute": [],

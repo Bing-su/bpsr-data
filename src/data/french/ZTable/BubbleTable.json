@@ -95,7 +95,8 @@
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
       "1. Restez près du Nappo doré et du Nappo argenté pour gagner des points. Chaque session dure 10 minutes.",
-      "2. Recevez une grande quantité de points d'amitié, de badges Étoile d'argent et de matériaux d'équipement lors de votre première participation de la journée."
+      "2. Des Moissons d'Étoiles apparaîtront sur la plage d'Asterleeds lors de la première session de chaque jour. Ouvrez-les pour gagner des documents à lire commémoratifs ou des récompenses d'événement !",
+      "3. Pendant l'événement, rendez visite à Aleya pour participer au Quiz Feux d'Artifice."
     ],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
@@ -184,7 +185,7 @@
     "AdditionalTargetCompleteMaxNum": [240],
     "AdditionalTargetIdleScore": [10],
     "AdditionalTargetName": [
-      "1. Restez dans la zone cible pour obtenir du score",
+      "1. Restez dans la zone cible pour gagner des points.",
       "2. La troupe de danse change de danse toutes les dix minutes... suivez le rythme et ne traînez pas !",
       "3. Suivez le rythme de la danseuse étoile pour gagner des points supplémentaires ({*val1*}/{*val2*})."
     ],
@@ -243,7 +244,7 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["1. Restez dans la zone cible pour gagner des points.", ""],
+    "AdditionalTargetName": ["1. Restez dans la zone cible pour gagner des points.", "  "],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3004,
@@ -257,7 +258,7 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["1. Restez dans la zone cible pour gagner des points.", ""],
+    "AdditionalTargetName": ["1. Restez dans la zone cible pour gagner des points.", "  "],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3005,
@@ -271,11 +272,14 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["", ""],
+    "AdditionalTargetName": [
+      "1. Restez dans la zone cible pour gagner des points.",
+      "2. Dans la zone de l'événement, vous pouvez trouver l'Épouvantail citrouille pour vous transformer, ou trouver le Meneur citrouille pour rejoindre la Parade de l'effroi."
+    ],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3006,
-    "Name": "",
+    "Name": "Parade de l'effroi",
     "ScoreCycle": [1, 5],
     "TargetCompleteClientBuff": [],
     "TargetScore": 500

@@ -70,7 +70,7 @@
     "IockedBubble": ["Ainda preciso pensar sobre isso."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
-    "ReviewBubble": ["Uma dedução de livro."],
+    "ReviewBubble": ["Dedução clássica."],
     "ReviewBubbleAction": [9047]
   },
   "10011": {
@@ -159,6 +159,22 @@
     "ReviewBubble": ["Com a ajuda das pessoas a bordo do navio, Airona conseguiu um avanço."],
     "ReviewBubbleAction": [9047]
   },
+  "140011": {
+    "Clue": [1400111, 1400112, 1400113],
+    "Conclusion": "A Carrie afirmou ter sido uma aventureira do Departamento dos Pioneiros, competido na Derrota do Demônio do Trovão no Carnaval e, mais tarde, se tornado conselheira de Asterleeds. Ela também disse que seus pais sempre moraram perto da Estátua do Herói em Minsterhorn. Tudo isso deve ter deixado traços que podem ser verificados.",
+    "ConclusionAction": 9033,
+    "ConclusionBubble": "Em vez de ficar adivinhando quem ela é, vamos ver o quanto disso é realmente verdade.",
+    "ConclusionTips": "Investigue as informações de identidade que a Carrie deixou",
+    "Id": 140011,
+    "InferenceStep": [1400111, 1400112, 1400113],
+    "IockedBubble": ["Ela disse bastante coisa... pense bem e tente lembrar."],
+    "IockedBubbleAction": [9019],
+    "QuickReasoning": true,
+    "ReviewBubble": [
+      "As informações de identidade que a Carrie deixou para trás foram organizadas. Agora, só precisamos verificar se cada uma dessas experiências realmente aconteceu."
+    ],
+    "ReviewBubbleAction": [9047]
+  },
   "20011": {
     "Clue": [200111, 200112, 200113],
     "Conclusion": "Todos têm opiniões diferentes. Vamos discutir isso com a Airona.",
@@ -167,7 +183,7 @@
     "ConclusionTips": "Fale sobre o que fazer com a Airona.",
     "Id": 20011,
     "InferenceStep": [200111, 200112, 200113],
-    "IockedBubble": ["Com apenas essas pistas... não há um caminho claro."],
+    "IockedBubble": ["Com apenas estas pistas... não há uma pista clara."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["A situação naquela época era verdadeiramente complicada..."],
@@ -227,7 +243,7 @@
     "ConclusionTips": "Vá para o penhasco oriental",
     "Id": 40011,
     "InferenceStep": [400111, 400112, 400113],
-    "IockedBubble": ["Não, ainda é muito cedo para chegar a uma conclusão."],
+    "IockedBubble": ["Não, ainda não consigo chegar a uma conclusão."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Talvez eu realmente tenha talento para o trabalho de detetive!"],
@@ -255,7 +271,7 @@
     "ConclusionTips": "Encontre Boyce na estrada em frente ao Pilar da Divindade",
     "Id": 70011,
     "InferenceStep": [700111, 700112],
-    "IockedBubble": ["Não, ainda é muito cedo para chegar a uma conclusão."],
+    "IockedBubble": ["Não, ainda não consigo chegar a uma conclusão."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["É isso, com certeza."],
@@ -272,7 +288,7 @@
     "IockedBubble": ["Deve haver mais pistas."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
-    "ReviewBubble": ["Uma dedução de livro."],
+    "ReviewBubble": ["Dedução clássica."],
     "ReviewBubbleAction": [9047]
   },
   "90011": {
@@ -283,7 +299,7 @@
     "ConclusionTips": "Discuta com Airona.",
     "Id": 90011,
     "InferenceStep": [900111, 900112, 900113],
-    "IockedBubble": ["Não, ainda é muito cedo para chegar a uma conclusão."],
+    "IockedBubble": ["Não, ainda não consigo chegar a uma conclusão."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Consegui desvendar tudo."],

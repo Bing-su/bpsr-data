@@ -1,6 +1,6 @@
 {
   "1": {
-    "Desc": "Raridade: Imortal<br>Arquétipo: [Humanoide]<br>Nível Máximo: Nv. 5.<br>Tipo de Ataque: Físico<br>Efeito Passivo: Nenhum<br>Ataque Básico: Balança a foice 3 vezes, causando dano em área. <br>Habilidade Principal: Balança a foice e ativa 2 Anéis que causam dano em área massivo. <br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Anéis +3.<br>Imaginar de Sintonização Nv. 5: Alcance do Anel +100%.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_5\">Imortal</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style>",
     "Id": 1,
     "IsHide": 1,
     "ObjectId": 1,
@@ -9,7 +9,7 @@
     "UIColor": 5
   },
   "10": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: [Queimadura]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Quando presente, os monstros com o status Queimadura recebem dano aumentado das torres do Tipo Queima em [1% * Acúmulos de Queimadura]. <br>Ataque Básico: Pisa no chão, causando pequeno dano em área. <br>Habilidade Principal: Ganha um Escudo de Raios, atingindo um alvo aleatório com raios a cada 2 s.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Se o alvo estiver com Queimadura, consome seus acúmulos de Queimadura para ativar Explosão de Raios, causando dano massivo em área. <br>Imaginar de Sintonização Nv. 5: Explosão de Raios não consome mais os acúmulos de Queimadura do alvo.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
@@ -18,7 +18,7 @@
     "UIColor": 3
   },
   "1001": {
-    "Desc": "Tipo: Chefe<br>Característica: Reduz significativamente a Velocidade de Ataque dos Imaginares de Sintonização dentro do alcance, mas aumenta o ATQ deles.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: Reduz significativamente a Velocidade de Ataque dos Imaginares de Sintonização dentro do alcance, mas aumenta o ATQ deles.",
     "Id": 1001,
     "IsHide": 1,
     "ObjectId": 5003000,
@@ -27,7 +27,7 @@
     "UIColor": 4
   },
   "1002": {
-    "Desc": "Tipo: Chefe<br>Característica: Recebe dano reduzido de ataques frontais e dano aumentado de ataques traseiros.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: Recebe dano reduzido pela frente e dano aumentado por trás.",
     "Id": 1002,
     "IsHide": 1,
     "ObjectId": 5003001,
@@ -36,7 +36,7 @@
     "UIColor": 4
   },
   "1005": {
-    "Desc": "Tipo: Chefe<br>Característica: Sempre que sua canção de ninar é cantada, coloca todos os Imaginares de Sintonização no campo para dormir.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: Sempre que canta sua canção de ninar, adormece todos os Imaginares de Sintonização no campo.",
     "Id": 1005,
     "IsHide": 1,
     "ObjectId": 5003004,
@@ -45,7 +45,7 @@
     "UIColor": 4
   },
   "1006": {
-    "Desc": "Tipo: Chefe<br>Característica: Aumenta significativamente os PV, mas aumenta o dano recebido. Quanto maior o nível total de todos os Imaginares de Sintonização no campo, mais dano recebe.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: Possui PV drasticamente aumentado, mas também sofre dano aumentado. Quanto maior o nível total de todos os Imaginares de Sintonização no campo, mais dano recebe.",
     "Id": 1006,
     "IsHide": 1,
     "ObjectId": 5003005,
@@ -54,7 +54,7 @@
     "UIColor": 4
   },
   "1007": {
-    "Desc": "Tipo: Elite<br>Característica: Concede Invencibilidade a todos os monstros dentro do alcance, excluindo a si mesmo.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
     "ObjectId": 5003006,
@@ -63,7 +63,7 @@
     "UIColor": 4
   },
   "1008": {
-    "Desc": "Tipo: Elite<br>Característica: Congela o primeiro Imaginar de Sintonização que o atacar. Quem quer ser o primeiro?",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
     "ObjectId": 5003003,
@@ -72,7 +72,7 @@
     "UIColor": 4
   },
   "1009": {
-    "Desc": "Tipo: Elite<br>Características: Cura continuamente os monstros ao redor.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
     "ObjectId": 5003002,
@@ -81,7 +81,7 @@
     "UIColor": 4
   },
   "101": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_5\">Imortal</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
     "Id": 101,
     "IsHide": 0,
     "ObjectId": 96,
@@ -90,7 +90,7 @@
     "UIColor": 5
   },
   "1010": {
-    "Desc": "Tipo: Elite<br>Característica: Revive após a derrota.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
     "ObjectId": 5003007,
@@ -99,7 +99,7 @@
     "UIColor": 4
   },
   "1011": {
-    "Desc": "Tipo: Elite<br>Característica: Possui Velocidade de Movimento extremamente alta. Mas o pior de tudo é que ele também é super durão!",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
     "ObjectId": 5003008,
@@ -108,7 +108,7 @@
     "UIColor": 4
   },
   "1012": {
-    "Desc": "Tipo: Elite<br>Característica: Ignora o terreno ao se mover, mas é super preguiçoso e faz pausas com frequência.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
     "ObjectId": 5003009,
@@ -117,7 +117,7 @@
     "UIColor": 4
   },
   "1013": {
-    "Desc": "Tipo: Normal<br>Característica: A criatura marinha mais comum.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
     "ObjectId": 5003010,
@@ -126,7 +126,7 @@
     "UIColor": 4
   },
   "1014": {
-    "Desc": "Tipo: Normal<br>Característica: Possui Velocidade de Movimento extremamente alta, mas a boa notícia é que eles são bem frágeis!",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
     "ObjectId": 5003012,
@@ -135,7 +135,7 @@
     "UIColor": 4
   },
   "1015": {
-    "Desc": "Tipo: Normal<br>Característica: Usa um escudo grosso e geralmente surge logo no início de uma onda.",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
     "ObjectId": 5003011,
@@ -144,7 +144,7 @@
     "UIColor": 4
   },
   "1016": {
-    "Desc": "Tipo: Normal<br>Característica: Protege outros monstros no campo reduzindo o dano que eles recebem. Serão um grande problema se não os derrotar primeiro!",
+    "Desc": "Tipo: <style=\"tipsYellow\">Chefe</style><br>Características: {*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
     "ObjectId": 5003013,
@@ -153,7 +153,7 @@
     "UIColor": 4
   },
   "102": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_4\">Épico</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
     "Id": 102,
     "IsHide": 0,
     "ObjectId": 101,
@@ -162,7 +162,7 @@
     "UIColor": 4
   },
   "103": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_4\">Épico</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
     "Id": 103,
     "IsHide": 0,
     "ObjectId": 106,
@@ -171,7 +171,7 @@
     "UIColor": 4
   },
   "104": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_4\">Épico</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
     "Id": 104,
     "IsHide": 0,
     "ObjectId": 111,
@@ -180,7 +180,7 @@
     "UIColor": 4
   },
   "105": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_4\">Épico</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
     "Id": 105,
     "IsHide": 0,
     "ObjectId": 116,
@@ -189,7 +189,7 @@
     "UIColor": 4
   },
   "106": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
     "Id": 106,
     "IsHide": 0,
     "ObjectId": 121,
@@ -198,7 +198,7 @@
     "UIColor": 3
   },
   "107": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
     "Id": 107,
     "IsHide": 0,
     "ObjectId": 126,
@@ -207,7 +207,7 @@
     "UIColor": 3
   },
   "108": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
     "Id": 108,
     "IsHide": 0,
     "ObjectId": 131,
@@ -216,7 +216,7 @@
     "UIColor": 3
   },
   "109": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
     "Id": 109,
     "IsHide": 0,
     "ObjectId": 136,
@@ -225,7 +225,7 @@
     "UIColor": 3
   },
   "11": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: [Recurso]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Ao ser desmontado, reembolsa 100 Estilhaços de Cristal de Sintonização adicionais. <br>Ataque Básico: Exala uma névoa de gelo para frente, causando dano. <br>Habilidade Principal: Lança Espinhos de Gelo em 3 alvos aleatórios.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Aglomerados de Estilhaços se formam onde os Espinhos de Gelo caem; coletá-los concede de 1 a 20 Estilhaços de Cristal de Sintonização aleatoriamente, durando até 10 s. <br>Imaginar de Sintonização Nv. 5: Espinhos de Gelo +2.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style>",
     "Id": 11,
     "IsHide": 1,
     "ObjectId": 51,
@@ -234,7 +234,7 @@
     "UIColor": 3
   },
   "110": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
     "Id": 110,
     "IsHide": 0,
     "ObjectId": 141,
@@ -243,7 +243,7 @@
     "UIColor": 3
   },
   "111": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
     "Id": 111,
     "IsHide": 0,
     "ObjectId": 146,
@@ -252,7 +252,7 @@
     "UIColor": 1
   },
   "12": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: [Suporte]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Quando presente, aumenta o dano causado por todos os aliados em 5% (até 20%). <br>Ataque Básico: Invoca 1 muku aleatório para ajudar na batalha e aumenta sua Velocidade de Ataque. <br>Habilidade Principal: Cura os aliados dentro do alcance e aumenta seu ATQ em 20% por 10 s.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Invoca 1 muku da Besta adicional. <br>Imaginar de Sintonização Nv. 5: Invoca 1 Chefe muku adicional.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
@@ -261,7 +261,7 @@
     "UIColor": 3
   },
   "13": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: [Suporte]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Quando presente, aumenta o dano recebido por todos os inimigos em 5% (até 20%). <br>Ataque Básico: Desfere um golpe para baixo para frente, causando dano em área linear. <br>Habilidade Principal: Fende à frente, causando dano em área massivo duas vezes.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Os Ataques Básicos lançam 2 ondas terrestres extras, Alcance de Ataque +50%. <br>Imaginar de Sintonização Nv. 5: Dano +20%.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
@@ -270,7 +270,7 @@
     "UIColor": 3
   },
   "14": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: [Tipo Carga]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Magia<br>Efeito Passivo: Aumenta o ATQ em 10% para cada alvo dentro do alcance (até 100%). <br>Ataque Básico: Golpea à frente, causando grande dano em área em formato de leque. <br>Habilidade Principal: Lança Tornados em 2 alvos aleatórios, durando 5 s.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Para cada Imaginar de Sintonização do Tipo Carga no campo, contagem de Tornados +1 (até +3).<br>Imaginar de Sintonização Nv. 5: A cada vez que um Tornado aparece, aumenta o dano causado pela próxima Habilidade dos Imaginares de Sintonização do Tipo Carga (acumula até 100%).",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style>",
     "Id": 14,
     "IsHide": 1,
     "ObjectId": 66,
@@ -279,7 +279,7 @@
     "UIColor": 3
   },
   "15": {
-    "Desc": "Raridade: Superior<br>Arquétipo: [Recurso] [Queimadura]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Quando presente, o aventureiro ganha 100 Sintonia - Estilhaços de Cristal a cada 10 s (máximo de 5 ativos ao mesmo tempo). <br>Ataque Básico: Nenhum<br>Habilidade Principal: Gira para causar pequeno dano em área e aplicar Queimadura.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Ganha 15 Sintonia - Estilhaços de Cristal quando um alvo queimado morre. <br>Imaginar de Sintonização Nv. 5: Ganha 30 Sintonia - Estilhaços de Cristal quando um alvo queimado morre.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style>",
     "Id": 15,
     "IsHide": 1,
     "ObjectId": 71,
@@ -288,7 +288,7 @@
     "UIColor": 1
   },
   "16": {
-    "Desc": "Raridade: Superior<br>Arquétipo: Nenhum<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Aplica 25% de Lentidão aos alvos ao causar dano. Este efeito não acumula. <br>Ataque Básico: Nenhum<br>Habilidade Principal: Invoca Orbes de Raio que atacam continuamente os alvos no alcance.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Dano da Habilidade Principal aumentado. <br>Imaginar de Sintonização Nv. 5: Dano da Habilidade Principal aumentado.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
@@ -297,7 +297,7 @@
     "UIColor": 1
   },
   "17": {
-    "Desc": "Raridade: Superior<br>Arquétipo: [Carga]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Quando presente, cada Chefe Muku aumenta a taxa de crítico dos Imaginares de Sintonização do Tipo Carga em 10% (até 100%). <br>Ataque Básico: Nenhum<br>Habilidade Principal: Esmaga o chão 3 vezes seguidas, causando grande dano em área.<br>Recarga: 6 s<br>Imaginar de Sintonização Nv. 3: Dano da Habilidade Principal aumentado. <br>Imaginar de Sintonização Nv. 5: Dano da Habilidade Principal aumentado.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style>",
     "Id": 17,
     "IsHide": 1,
     "ObjectId": 81,
@@ -306,7 +306,7 @@
     "UIColor": 1
   },
   "18": {
-    "Desc": "Raridade: Superior<br>Arquétipo: Nenhum<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Magia<br>Efeito Passivo: 30% de chance de aplicar Congelamento ao atacar. <br>Ataque Básico: Causa dano em área e aplica 10% de Lentidão. <br>Habilidade Principal: Lança um Vórtice Aquático, causando dano em área contínuo e aplicando 20% de Lentidão.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Dano da Habilidade Principal aumentado. <br>Imaginar de Sintonização Nv. 5: Dano da Habilidade Principal aumentado.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
     "ObjectId": 86,
@@ -315,7 +315,7 @@
     "UIColor": 1
   },
   "19": {
-    "Desc": "Raridade: Superior<br>Arquétipo: Nenhum<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Magia<br>Efeito Passivo: Causa dano extra a alvos Corroídos; +10% de dano por acúmulo de Corrosão. <br>Ataque Básico: Nenhum<br>Habilidade Principal: Lança Fontes de Veneno em 3 alvos aleatórios, causando dano em área contínuo e aplicando Corrosão.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Dano da Habilidade Principal aumentado. <br>Imaginar de Sintonização Nv. 5: Dano da Habilidade Principal aumentado.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
     "ObjectId": 91,
@@ -324,7 +324,7 @@
     "UIColor": 1
   },
   "2": {
-    "Desc": "Raridade: Épico<br>Arquétipo: [Humanoide] [Recurso]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Magia<br>Efeito Passivo: ATQ +[1% * nível total de todos os Imaginares de Sintonização no campo]. O preço na loja é reduzido em 50%. <br>Ataque Básico: Invoca continuamente meteoros em um único alvo dentro do alcance. <br>Habilidade Principal: Chama um cervo espiritual para avançar. Este efeito é ativado 1 vez a mais para cada Imaginar de Sintonização Humanoide no campo. <br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Ganha 10 Sintonia - Estilhaços de Cristal ao atacar. Recarga: 3 s. <br>Imaginar de Sintonização Nv. 5: Ganha 15 Sintonia - Estilhaços de Cristal ao atacar. Recarga: 1 s.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_4\">Épico</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style>",
     "Id": 2,
     "IsHide": 1,
     "ObjectId": 6,
@@ -333,7 +333,7 @@
     "UIColor": 4
   },
   "2001": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: Concede invulnerabilidade a todos os monstros próximos, exceto a si mesmo.",
     "Id": 2001,
     "IsHide": 1,
     "ObjectId": 5002000,
@@ -342,7 +342,7 @@
     "UIColor": 3
   },
   "2002": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: Congela a primeira Imagine de Sintonização que a atacar. Quem quer começar?",
     "Id": 2002,
     "IsHide": 1,
     "ObjectId": 5002001,
@@ -351,7 +351,7 @@
     "UIColor": 3
   },
   "2003": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: Cura continuamente os monstros próximos.",
     "Id": 2003,
     "IsHide": 1,
     "ObjectId": 5002002,
@@ -360,7 +360,7 @@
     "UIColor": 3
   },
   "2004": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: Ignora o terreno ao se mover, mas é muito preguiçoso e descansa com frequência.",
     "Id": 2004,
     "IsHide": 1,
     "ObjectId": 5002005,
@@ -369,7 +369,7 @@
     "UIColor": 3
   },
   "2005": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7001*}",
     "Id": 2005,
     "IsHide": 0,
     "ObjectId": 5002006,
@@ -378,7 +378,7 @@
     "UIColor": 3
   },
   "2006": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7002*}",
     "Id": 2006,
     "IsHide": 0,
     "ObjectId": 5002007,
@@ -387,7 +387,7 @@
     "UIColor": 3
   },
   "2007": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7007*}",
     "Id": 2007,
     "IsHide": 0,
     "ObjectId": 5002008,
@@ -396,7 +396,7 @@
     "UIColor": 3
   },
   "2008": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7003*}",
     "Id": 2008,
     "IsHide": 0,
     "ObjectId": 5002009,
@@ -405,7 +405,7 @@
     "UIColor": 3
   },
   "2009": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7009*}",
     "Id": 2009,
     "IsHide": 0,
     "ObjectId": 5002003,
@@ -414,7 +414,7 @@
     "UIColor": 3
   },
   "2010": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7010*}",
     "Id": 2010,
     "IsHide": 0,
     "ObjectId": 5002004,
@@ -423,7 +423,7 @@
     "UIColor": 3
   },
   "2011": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7004*}",
     "Id": 2011,
     "IsHide": 0,
     "ObjectId": 5002010,
@@ -432,7 +432,7 @@
     "UIColor": 3
   },
   "2012": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7005*}",
     "Id": 2012,
     "IsHide": 0,
     "ObjectId": 5002011,
@@ -441,7 +441,7 @@
     "UIColor": 3
   },
   "2013": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7006*}",
     "Id": 2013,
     "IsHide": 0,
     "ObjectId": 5002012,
@@ -450,7 +450,7 @@
     "UIColor": 3
   },
   "2014": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7008*}",
     "Id": 2014,
     "IsHide": 0,
     "ObjectId": 5002013,
@@ -459,7 +459,7 @@
     "UIColor": 3
   },
   "2015": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7011*}",
     "Id": 2015,
     "IsHide": 0,
     "ObjectId": 5002014,
@@ -468,7 +468,7 @@
     "UIColor": 3
   },
   "2016": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7012*}",
     "Id": 2016,
     "IsHide": 0,
     "ObjectId": 5002015,
@@ -477,7 +477,7 @@
     "UIColor": 3
   },
   "2017": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7013*}",
     "Id": 2017,
     "IsHide": 0,
     "ObjectId": 5002016,
@@ -486,7 +486,7 @@
     "UIColor": 3
   },
   "2018": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Elite</style><br>Características: {*messagevalue.7014*}",
     "Id": 2018,
     "IsHide": 0,
     "ObjectId": 5002017,
@@ -495,7 +495,7 @@
     "UIColor": 3
   },
   "3": {
-    "Desc": "Raridade: Épico<br>Arquétipo: [Humanoide] [Queimadura]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Magia<br>Efeito Passivo: Causa uma instância adicional de Dano de Fogo sempre que um inimigo no alcance recebe dano de Queimadura. <br>Ataque Básico: Gira para causar dano em área e aplicar Queimadura. <br>Habilidade Principal: Lança um feixe de machado para a frente, causando dano massivo. Dano +20% para cada acúmulo de Queimadura no alvo. <br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Após aplicar Queimadura 10 vezes, o próximo ataque lança o Trem Infernal no alvo. <br>Imaginar de Sintonização Nv. 5: Requisito de aplicação de Queimadura reduzido para 6, dano do Trem Infernal +100%.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_4\">Épico</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
@@ -504,7 +504,7 @@
     "UIColor": 4
   },
   "3001": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: A criatura marinha mais comum.",
     "Id": 3001,
     "IsHide": 1,
     "ObjectId": 5001000,
@@ -513,7 +513,7 @@
     "UIColor": 1
   },
   "3002": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: Rápido como o vento, mas frágil como jade.",
     "Id": 3002,
     "IsHide": 1,
     "ObjectId": 5001001,
@@ -522,7 +522,7 @@
     "UIColor": 1
   },
   "3003": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: Carrega um escudo pesado e normalmente surge bem no início de uma onda.",
     "Id": 3003,
     "IsHide": 1,
     "ObjectId": 5001002,
@@ -531,7 +531,7 @@
     "UIColor": 1
   },
   "3004": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: Protegem os outros monstros presentes reduzindo o dano sofrido por eles. Não derrotá-los primeiro resultará em sérios problemas.",
     "Id": 3004,
     "IsHide": 1,
     "ObjectId": 5001003,
@@ -540,7 +540,7 @@
     "UIColor": 1
   },
   "3005": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: Ignora o terreno ao se mover. Que praga irritante.",
     "Id": 3005,
     "IsHide": 1,
     "ObjectId": 5001007,
@@ -549,7 +549,7 @@
     "UIColor": 1
   },
   "3006": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6001*}",
     "Id": 3006,
     "IsHide": 0,
     "ObjectId": 5001008,
@@ -558,7 +558,7 @@
     "UIColor": 1
   },
   "3007": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6002*}",
     "Id": 3007,
     "IsHide": 0,
     "ObjectId": 5001009,
@@ -567,7 +567,7 @@
     "UIColor": 1
   },
   "3008": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6003*}",
     "Id": 3008,
     "IsHide": 0,
     "ObjectId": 5001010,
@@ -576,7 +576,7 @@
     "UIColor": 1
   },
   "3009": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6004*}",
     "Id": 3009,
     "IsHide": 0,
     "ObjectId": 5001011,
@@ -585,7 +585,7 @@
     "UIColor": 1
   },
   "3010": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6005*}",
     "Id": 3010,
     "IsHide": 0,
     "ObjectId": 5001006,
@@ -594,7 +594,7 @@
     "UIColor": 1
   },
   "3011": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6006*}",
     "Id": 3011,
     "IsHide": 0,
     "ObjectId": 5001004,
@@ -603,7 +603,7 @@
     "UIColor": 1
   },
   "3012": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6007*}",
     "Id": 3012,
     "IsHide": 0,
     "ObjectId": 5001005,
@@ -612,7 +612,7 @@
     "UIColor": 1
   },
   "3013": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6008*}",
     "Id": 3013,
     "IsHide": 0,
     "ObjectId": 5001012,
@@ -621,7 +621,7 @@
     "UIColor": 1
   },
   "3014": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6009*}",
     "Id": 3014,
     "IsHide": 0,
     "ObjectId": 5001013,
@@ -630,7 +630,7 @@
     "UIColor": 1
   },
   "3015": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6010*}",
     "Id": 3015,
     "IsHide": 0,
     "ObjectId": 5001018,
@@ -639,7 +639,7 @@
     "UIColor": 1
   },
   "3016": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6011*}",
     "Id": 3016,
     "IsHide": 0,
     "ObjectId": 5001019,
@@ -648,7 +648,7 @@
     "UIColor": 1
   },
   "3017": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6012*}",
     "Id": 3017,
     "IsHide": 0,
     "ObjectId": 5001020,
@@ -657,7 +657,7 @@
     "UIColor": 1
   },
   "3018": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6013*}",
     "Id": 3018,
     "IsHide": 0,
     "ObjectId": 5001021,
@@ -666,7 +666,7 @@
     "UIColor": 1
   },
   "3019": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6014*}",
     "Id": 3019,
     "IsHide": 0,
     "ObjectId": 5001014,
@@ -675,7 +675,7 @@
     "UIColor": 1
   },
   "3020": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6015*}",
     "Id": 3020,
     "IsHide": 0,
     "ObjectId": 5001015,
@@ -684,7 +684,7 @@
     "UIColor": 1
   },
   "3021": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6016*}",
     "Id": 3021,
     "IsHide": 0,
     "ObjectId": 5001016,
@@ -693,7 +693,7 @@
     "UIColor": 1
   },
   "3022": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Normal</style><br>Características: {*messagevalue.6017*}",
     "Id": 3022,
     "IsHide": 0,
     "ObjectId": 5001017,
@@ -702,7 +702,7 @@
     "UIColor": 1
   },
   "4": {
-    "Desc": "Raridade: Épico<br>Arquétipo: [Humanoide] [Carga]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Limite de acúmulo de Carga aumentado para 20. <br>Ataque Básico: Não ataca normalmente. Entra em Carga, ganhando 1 acúmulo a cada 3 s, até 20 acúmulos. Ativa a habilidade quando o aventureiro entra no alcance. <br>Habilidade Principal: Libera incontáveis feixes de lâmina, causando dano em área, consumindo todos os acúmulos de Carga para aumentar o dano em [40% * acúmulos de Carga]. <br>Recarga: Nenhuma<br>Imaginar de Sintonização Nv. 3: A cada 10 s, trava no alvo mais próximo e dispara um feixe de lâmina. <br>Imaginar de Sintonização Nv. 5: Alvos de feixe de lâmina travados +2.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_4\">Épico</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style>",
     "Id": 4,
     "IsHide": 1,
     "ObjectId": 16,
@@ -711,7 +711,7 @@
     "UIColor": 4
   },
   "4001": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Neutro</style><br>Características: {*messagevalue.9001*}",
     "Id": 4001,
     "IsHide": 0,
     "ObjectId": 5003014,
@@ -720,7 +720,7 @@
     "UIColor": 5
   },
   "4002": {
-    "Desc": "",
+    "Desc": "Tipo: <style=\"tipsYellow\">Recompensa</style><br>Características: {*messagevalue.9002*}",
     "Id": 4002,
     "IsHide": 0,
     "ObjectId": 5002500,
@@ -729,7 +729,7 @@
     "UIColor": 5
   },
   "5": {
-    "Desc": "Raridade: Épico<br>Arquétipo: [Humanoide]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Quando presente, a Velocidade de Recarga da Habilidade do aventureiro +50%. Este efeito não acumula. <br>Ataque Básico: Estoca para frente e gira a lança para causar dano em área. <br>Habilidade Principal: Os 5 Imaginares de Sintonização mais próximos ganham 100% de velocidade de recarga por 5 s. <br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Velocidade de Movimento do aventureiro +25%, Reforço de Dano +25%. <br>Imaginar de Sintonização Nv. 5: Velocidade de Movimento do aventureiro +50%, Reforço de Dano +50%.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_4\">Épico</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style>",
     "Id": 5,
     "IsHide": 1,
     "ObjectId": 21,
@@ -738,7 +738,7 @@
     "UIColor": 4
   },
   "6": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: [Tipo Carga]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: A cada 10 s, lança uma onda terrestre em 3 alvos aleatórios, aplicando Ferimento. <br>Ataque Básico: Não ataca normalmente. Entra em Carga, ganhando 1 acúmulo a cada 3 s, até 10 acúmulos. Ativa a habilidade quando o aventureiro entra no alcance. <br>Habilidade Principal: Libera Espinho Infernal em uma ampla área, causando dano massivo e consumindo todos os acúmulos de Carga para aumentar o dano em [30% * acúmulos de Carga].<br>Recarga: Nenhuma<br>Imaginar de Sintonização Nv. 3: O dano causado pela passiva aplica 10% de Vulnerabilidade por 5 s. <br>Imaginar de Sintonização Nv. 5: Vulnerabilidade adicional +10%.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style>",
     "Id": 6,
     "IsHide": 1,
     "ObjectId": 3,
@@ -747,7 +747,7 @@
     "UIColor": 3
   },
   "7": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: Nenhum<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Causa 100% a mais de dano a alvos imobilizados. <br>Ataque Básico: Prioriza alvos não imobilizados. Cospe teia de aranha para causar dano com 40% de chance de imobilizar o alvo por 5 s. <br>Habilidade Principal: Escava o subsolo e depois emerge, causando grande dano em área e atordoamento garantido ao alvo por 1 s.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: A chance de imobilizar aumenta para 100%. <br>Imaginar de Sintonização Nv. 5: A duração do atordoamento aumenta para 2,5 s.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Suporte</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
@@ -756,7 +756,7 @@
     "UIColor": 3
   },
   "8": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: [Recurso]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Físico<br>Efeito Passivo: Concede ao Voador Celestial 1% de dano bônus para cada 100 Sintonia - Estilhaços de Cristal mantidos pelo aventureiro, até 100%. <br>Ataque Básico: Lança um orbe de água que causa dano em área e aplica Lentidão. <br>Habilidade Principal: Invoca um voador fantasma que avança.<br>Recarga: 15 s<br>Imaginar de Sintonização Nv. 3: Voador +1 e taxa de aquisição de Sintonia - Estilhaços de Cristal +5%. <br>Imaginar de Sintonização Nv. 5: Voador +2 e taxa de aquisição de Sintonia - Estilhaços de Cristal +10%.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
@@ -765,7 +765,7 @@
     "UIColor": 3
   },
   "9": {
-    "Desc": "Raridade: Excelente<br>Arquétipo: [Queimadura]<br>Nível Máximo: Nv. 3; Com o Imaginar de Batalha correspondente, o nível máximo do Imaginar de Sintonização aumenta do Nv. 3 para o Nv. 5. <br>Tipo de Ataque: Magia<br>Efeito Passivo: Quanto maior o PV atual, maior o ATQ se torna (até +200%), mas perde PV continuamente. <br>Ataque Básico: Nenhum<br>Habilidade Principal: Cospe fogo continuamente para frente, causando dano e aplicando Queimadura.<br>Recarga: 8 s<br>Imaginar de Sintonização Nv. 3: Restaura 5% de PV ao atacar. <br>Imaginar de Sintonização Nv. 5: Converte o excesso de cura em um Escudo.",
+    "Desc": "<style=\"accent-gn\">Raridade</style>: <style=\"ItemQuality_3\">Excelente</style><br><style=\"accent-gn\">Função</style>: <style=\"tipsYellow\">Causador de Dano</style>",
     "Id": 9,
     "IsHide": 1,
     "ObjectId": 41,

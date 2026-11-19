@@ -131,6 +131,18 @@
     "ThemePic": "ui/textures/investigation/investigation_common_bg",
     "UnlockCondition": [[2, 185220, 185220016]]
   },
+  "14001": {
+    "CompletionConditions": [],
+    "Guarantee": 3,
+    "Id": 14001,
+    "InvestigationStep": [140011],
+    "InvestigationTheme": "キャリーが残した身元の手がかり",
+    "IockedTips": "クエスト「<style=\"emph-quest\">XXXX</style>」を進めると「調査」が解放されます",
+    "IsHidePlayerModel": false,
+    "ThemeIntroduction": "キャリーが姿を消した後、彼女に関する記憶に説明のつかない矛盾が生じ始めた。幸い、共に行動していた間、彼女は自分の経歴についていろいろと話していた。まずはそれらの情報を整理し、本当に事実なのか一つずつ確かめてみよう。",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "UnlockCondition": [[2, 11401, 11401002]]
+  },
   "2001": {
     "CompletionConditions": [],
     "Guarantee": 3,

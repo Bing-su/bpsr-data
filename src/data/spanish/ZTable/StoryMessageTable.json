@@ -120,7 +120,7 @@
     "Type": 140
   },
   "1100801": {
-    "Content": "La noche cayó lentamente alrededor de la fogata. <br>El campamento de los Fagaro estaba más tranquilo de lo esperado. El viento soplaba por las aberturas de las caravanas y llevaba consigo el delicado sonido de unas campanillas, como si alguien hubiera tocado una cuerda en un sueño.",
+    "Content": "Con todo arreglado para pasar la noche, descansamos al resplandor de una fogata donde iban y venían errantes. <br>Y cuando el amanecer regresó—<br>¿Qué nueva aventura nos estaría esperando?",
     "DurationTime": 7.0,
     "FadeInTime": 1,
     "Id": 1100801,
@@ -168,7 +168,7 @@
     "Type": 140
   },
   "11105002": {
-    "Content": "Busqué entre el equipaje esparcido y pronto encontré una caja de madera sin candado en el fondo de un cajón. <br>La abrí y había una carta reposando en su interior. En el sobre se leía: “Para Wirda\".",
+    "Content": "Busqué entre el equipaje esparcido y pronto encontré una caja de madera sin candado en el fondo de un cajón. <br>La abrí y había una carta reposando en su interior. En el sobre se leía: Para Wirda.",
     "DurationTime": 10.0,
     "FadeInTime": 1,
     "Id": 11105002,
@@ -191,6 +191,14 @@
     "Interrupt": 0,
     "Type": 140
   },
+  "11105005": {
+    "Content": "El cristal floral se hizo añicos y la luz roja que rodeaba la zona por fin se desvaneció. Los monstruos parecieron perder a su objetivo. Se retiraron a las profundidades de la noche, gruñendo por lo bajo.<br>Mientras tanto, algo se deslizó de entre las sombras y aterrizó suavemente en el suelo.",
+    "DurationTime": 12.0,
+    "FadeInTime": 1,
+    "Id": 11105005,
+    "Interrupt": 0,
+    "Type": 140
+  },
   "11106001": {
     "Content": "Cuando volvimos al campamento en un silencio absoluto, ya habían vuelto a encender la fogata. <br>No hubo pánico, al contrario de lo que nos habíamos imaginado. Triban abrazaba la Rama invernal, con la mirada perdida en el cielo nocturno. Lerahha mantenía la cabeza baja y se mordía el labio con fuerza. <br>Airona permaneció en silencio junto a ellos, con los ojos ligeramente enrojecidos.",
     "DurationTime": 15.0,
@@ -204,6 +212,22 @@
     "DurationTime": 16.0,
     "FadeInTime": 1,
     "Id": 11106002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11106003": {
+    "Content": "Una tormenta frenética de Engrama del Vacío destrozó todo aquí.<br>La forma de Wirda se retorció en la niebla. Dejó escapar un chillido espeluznante.<br>Estaba cayendo en el abismo del que no había retorno.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 11106003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11106004": {
+    "Content": "Sleht dejó escapar un grito agudo y agonizante, como el de una bestia herida.<br>Luchó por agarrar el cuerno de Hruga en el aire y luego tropezó hacia la oscuridad que se derrumbaba.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 11106004,
     "Interrupt": 0,
     "Type": 140
   },
@@ -236,6 +260,38 @@
     "DurationTime": 6.5,
     "FadeInTime": 1,
     "Id": 11202003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11202004": {
+    "Content": "Airona corrió hacia el centro de la plataforma que se derrumbaba y agarró el cuerno de Hruga, que emitía una luz tenue.",
+    "DurationTime": 7.0,
+    "FadeInTime": 1,
+    "Id": 11202004,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11402001": {
+    "Content": "La luz del firmamento se desvanece lentamente tras las montañas. <br>Para cuando el último destello se desliza de los aleros de Kanamia, el claro de luna ya ha cubierto la tierra en silencio.",
+    "DurationTime": 7.0,
+    "FadeInTime": 1,
+    "Id": 11402001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11402002": {
+    "Content": "Las tres fases se disipan y el reflejo de la luna en el arroyo vuelve a ser nítido. <br>Una bendición largamente esperada desciende una vez más sobre Kanamia junto con la luz de la luna,<br>y las sombras arraigadas en lo profundo de esta tierra y en el corazón de la gente<br>por fin se dispersan con el viento nocturno.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 11402002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "11402003": {
+    "Content": "Más allá de la luz de la luna, el viento y la arena comienzan a alzarse. <br>La historia de Asterleeds hace una pausa aquí, pero nuestra travesía está lejos de terminar.",
+    "DurationTime": 7.0,
+    "FadeInTime": 1,
+    "Id": 11402003,
     "Interrupt": 0,
     "Type": 140
   },
@@ -375,6 +431,46 @@
     "Interrupt": 0,
     "Type": 140
   },
+  "20027001": {
+    "Content": "Boyce cerró los ojos y la zona quedó extrañamente silenciosa. La fogata crujía mientras el sueño te vencía... De repente, un grito apasionado te despertó de golpe.",
+    "DurationTime": 7.0,
+    "FadeInTime": 1,
+    "Id": 20027001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027002": {
+    "Content": "Incluso si el mundo realmente pudiera cambiar... ¡Boyce! ¡¿Recuerdas por qué tomaste esa arma?!",
+    "DurationTime": 5.5,
+    "FadeInTime": 1,
+    "Id": 20027002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027003": {
+    "Content": "En una deslumbrante luz blanca, el caballero enfrentó su crepúsculo. ¿Era el fin de un caballero despojado de su lugar, o cargaría con sus cicatrices y honraría el juramento que hizo alguna vez?",
+    "DurationTime": 6.5,
+    "FadeInTime": 1,
+    "Id": 20027003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027004": {
+    "Content": "El viento barrió las terraltas y sopló hacia la distancia.<br>Las olas doradas de trigo y el horizonte se desdibujaron gradualmente.<br><br>El viento vino de allí.<br>También fue hacia allí.",
+    "DurationTime": 6.5,
+    "FadeInTime": 1,
+    "Id": 20027004,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "20027005": {
+    "Content": "En el momento de la resonancia, el mundo pareció detenerse, luego todo se extendió hacia el infinito, como si fuera arrojado a un abismo sin fondo.",
+    "DurationTime": 6.0,
+    "FadeInTime": 1,
+    "Id": 20027005,
+    "Interrupt": 0,
+    "Type": 140
+  },
   "3000801": {
     "Content": "Mientras pescabas y hablabas con Lure, el tiempo pasó volando.",
     "DurationTime": 4.0,
@@ -504,7 +600,7 @@
     "Type": 140
   },
   "3002502": {
-    "Content": "“Isabella... prométeme... que seguirás viviendo...\".<br>“Prométemelo...\".",
+    "Content": "“Isabella... prométeme... que seguirás viviendo...“.<br>”Prométemelo...”.",
     "DurationTime": 5.0,
     "FadeInTime": 1,
     "Id": 3002502,
@@ -536,7 +632,7 @@
     "Type": 140
   },
   "3002801": {
-    "Content": "Así que llevé a Duffy a la entrada de Lallipar y le colgué un letrero alrededor del cuello.<br>Decía: “¡Nunca volveré a estafar a nadie!\". Duffy estaba tan avergonzado que deseaba que la tierra se lo tragara.<br>Probablemente no vuelva a estafar a nadie.",
+    "Content": "Así que llevé a Duffy a la entrada de Lallipar y le colgué un letrero alrededor del cuello.<br>Decía: ¡Nunca volveré a estafar a nadie!. Duffy estaba tan avergonzado que deseaba que la tierra se lo tragara.<br>Probablemente no vuelva a estafar a nadie.",
     "DurationTime": 12.0,
     "FadeInTime": 1,
     "Id": 3002801,
@@ -660,6 +756,46 @@
     "DurationTime": 4.0,
     "FadeInTime": 1,
     "Id": 30420101,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30564001": {
+    "Content": "Después de la comida, todos limpiaron silenciosamente los utensilios de cocina.<br>Nadie volvió a mencionar la idea de irse... Solo el viento nocturno continuó a la deriva por la mina abandonada.",
+    "DurationTime": 8.0,
+    "FadeInTime": 1,
+    "Id": 30564001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30565001": {
+    "Content": "Tobaias y tú se dirigieron a la cascada que el semihumano había señalado...",
+    "DurationTime": 3.0,
+    "FadeInTime": 1,
+    "Id": 30565001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30565002": {
+    "Content": "Tobaias y tú volvieron a la ruta del Farolero y continuaron las rondas...",
+    "DurationTime": 3.0,
+    "FadeInTime": 1,
+    "Id": 30565002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30565003": {
+    "Content": "Un semihumano se palmeó el vientre y empujó la olla hacia atrás.<br>Luego señaló hacia las profundidades de la Gran Caverna e hizo el gesto de cavar.<br>Antes de que pudieras preguntar algo más, treparon por las rocas y desaparecieron.",
+    "DurationTime": 9.0,
+    "FadeInTime": 1,
+    "Id": 30565003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30566001": {
+    "Content": "Pronto se reunieron los aldeanos.<br>El llanto, las maldiciones de enojo y el silencio se mezclaron.<br>Solo Alder permaneció sentado en el techo, murmurando la Medida.<br>Poco después, la gente lo arrastró hacia abajo y lo encerró en el almacén.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 30566001,
     "Interrupt": 0,
     "Type": 140
   },
@@ -904,7 +1040,7 @@
     "Type": 140
   },
   "3064801": {
-    "Content": "Después, el sacerdote del Credo tuvo una larga discusión con el líder del equipo de artesanos.<br>Los guardias se mantuvieron atentos cerca, así que no me pude acercar.<br>Pero al mismo tiempo, un fuerte viento sopló a través del campamento, levantó la hierba seca del suelo y trazó un vórtice parecido a un triángulo.<br>En ocasiones, palabras como “memoria\" y “rastros\" eran llevadas por el viento, solo para desvanecerse rápido...<br><br>Cuando la reunión terminó, las expresiones de ambos eran aún más graves que cuando llegaron.<br><br>Pero, sin importar eso, el sensacional incidente de la médula carmesí<br>había llegado por fin a su fin, al menos en la superficie.",
+    "Content": "Después, el sacerdote del Credo tuvo una larga discusión con el líder del equipo de artesanos.<br>Los guardias se mantuvieron atentos cerca, así que no me pude acercar.<br>Pero al mismo tiempo, un fuerte viento sopló a través del campamento, levantó la hierba seca del suelo y trazó un vórtice parecido a un triángulo.<br>En ocasiones, palabras como memoria y rastros eran llevadas por el viento, solo para desvanecerse rápido...<br><br>Cuando la reunión terminó, las expresiones de ambos eran aún más graves que cuando llegaron.<br><br>Pero, sin importar eso, el sensacional incidente de la médula carmesí<br>había llegado por fin a su fin, al menos en la superficie.",
     "DurationTime": 15.0,
     "FadeInTime": 1,
     "Id": 3064801,
@@ -952,7 +1088,7 @@
     "Type": 140
   },
   "3065301": {
-    "Content": "Pisé una parte de tierra en especial blanda, pero ya era muy tarde para retroceder cuando lo sentí. Una figura se abalanzó desde atrás de mí.<br>“¡Ten cuidado!\".",
+    "Content": "Pisé una parte de tierra en especial blanda, pero ya era muy tarde para retroceder cuando lo sentí. Una figura se abalanzó desde atrás de mí.<br>¡Ten cuidado!.",
     "DurationTime": 7.0,
     "FadeInTime": 1,
     "Id": 3065301,
@@ -1112,7 +1248,7 @@
     "Type": 140
   },
   "30812001": {
-    "Content": "Los guardias del Credo llegaron a Yermo del Ocaso y se llevaron al misterioso hombre enmascarado.<br>Después de un tiempo, fui a preguntar sobre los resultados del interrogatorio...",
+    "Content": "Los guardias del Credo llegaron a Tierra Salvaje del Ocaso y se llevaron al misterioso hombre enmascarado.<br>Después de un tiempo, fui a preguntar sobre los resultados del interrogatorio...",
     "DurationTime": 8.0,
     "FadeInTime": 1,
     "Id": 30812001,
@@ -1220,6 +1356,118 @@
     "DurationTime": 7.5,
     "FadeInTime": 1,
     "Id": 30851001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30853001": {
+    "Content": "Los niños parloteaban mientras se alejaban.<br>Esperaste un rato y luego sacaste agua clara del manantial...",
+    "DurationTime": 5.0,
+    "FadeInTime": 1,
+    "Id": 30853001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30854001": {
+    "Content": "Malvina trabajó rápidamente y terminó de modificar el núcleo de la lámpara de la mina.<br>Al presionar el interruptor, una llama azul fantasmal se posó silenciosamente en la mecha.",
+    "DurationTime": 7.5,
+    "FadeInTime": 1,
+    "Id": 30854001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30855001": {
+    "Content": "Sero trabajó por un rato y luego produjo un ungüento verde y espeso.",
+    "DurationTime": 3.5,
+    "FadeInTime": 1,
+    "Id": 30855001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30882001": {
+    "Content": "Después de una docena de intercambios, el Hostigador del valle se da cuenta de que no es rival para ti y salta hacia la noche, huyendo con pánico.",
+    "DurationTime": 6.0,
+    "FadeInTime": 1,
+    "Id": 30882001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30883001": {
+    "Content": "Después de este día, probablemente circulará una broma entre los góblines del Valle Montegnor. <br>El demonio rojo venerado por su tribu resulta ser un debilucho sin remedio del que los semihumanos no pudieron evitar reírse.",
+    "DurationTime": 8.0,
+    "FadeInTime": 1,
+    "Id": 30883001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30884001": {
+    "Content": "En menos de medio día, llegas al Paso del Valle de Yarid, y Arno dice que se asegurará de que Caldy regrese a salvo. <br>Sin embargo... esos bienes desaparecidos tendrán que considerarse como el pago a los góblines por sus molestias.",
+    "DurationTime": 8.0,
+    "FadeInTime": 1,
+    "Id": 30884001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30885001": {
+    "Content": "Te sientas y observas. Al mirar las acciones de los semihumanos, puedes entender más o menos la partida. <br>El alboroto continúa durante bastante tiempo. Al final, solo quedan dos competidores semihumanos en la arena.",
+    "DurationTime": 9.0,
+    "FadeInTime": 1,
+    "Id": 30885001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30885002": {
+    "Content": "En el momento en que se decide el campeón, escuchas vitorear a los semihumanos y sientes como si acabaras de ver una partida muy emocionante. <br>De verdad ves todo tipo de cosas en tus aventuras. Si le contaras a Airona sobre esto, probablemente no te creería.",
+    "DurationTime": 10.0,
+    "FadeInTime": 1,
+    "Id": 30885002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30886001": {
+    "Content": "Tras una extraña sensación de ingravidez, vuelves a tener conciencia de tu entorno. <br>De repente, un setarón gigantesco aparece ante ti.",
+    "DurationTime": 6.0,
+    "FadeInTime": 1,
+    "Id": 30886001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30886002": {
+    "Content": "Otra extraña sensación de ingravidez te invade. Cuando recuperas el sentido, el Manifestador de sueños ha desaparecido. <br>Un pequeño setarón descansa de forma obediente sobre tu hombro, inmóvil.",
+    "DurationTime": 6.5,
+    "FadeInTime": 1,
+    "Id": 30886002,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30886003": {
+    "Content": "Tu visión se oscurece, seguida de otro mareo familiar. Cuando recuperas el sentido, una escena por completo diferente se presenta ante ti.",
+    "DurationTime": 5.0,
+    "FadeInTime": 1,
+    "Id": 30886003,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30886004": {
+    "Content": "Con la ayuda de los mukus, hiciste retroceder a los enemigos en desorden. <br>Te das la vuelta para expresar tu agradecimiento, pero Virginia ya ha desaparecido en el bosque con los mukus.",
+    "DurationTime": 6.5,
+    "FadeInTime": 1,
+    "Id": 30886004,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30889001": {
+    "Content": "A medida que te acercas al Manantial de los Guivernos, de repente sientes un mareo...",
+    "DurationTime": 3.0,
+    "FadeInTime": 1,
+    "Id": 30889001,
+    "Interrupt": 0,
+    "Type": 140
+  },
+  "30889002": {
+    "Content": "Después de que eliminas con éxito el Engrama especial de los setarones, un mareo familiar te invade, y despiertas del sueño.",
+    "DurationTime": 3.0,
+    "FadeInTime": 1,
+    "Id": 30889002,
     "Interrupt": 0,
     "Type": 140
   },
@@ -1880,7 +2128,7 @@
     "Type": 140
   },
   "50310001": {
-    "Content": "",
+    "Content": "La Noche de Travesuras llega a su fin. <br>Algunos regresaron a casa con caramelos. Otros siguieron un largo rastro de travesuras y se reencontraron con alguien a quien no veían desde hacía mucho, mucho tiempo. <br><br>Esta noche llegará a su fin, pero los sentimientos que atesoramos permanecerán con nosotros.",
     "DurationTime": 9.0,
     "FadeInTime": 1,
     "Id": 50310001,
@@ -1888,7 +2136,7 @@
     "Type": 140
   },
   "50310002": {
-    "Content": "",
+    "Content": "Tras despedirse, los niños rodearon a Pequeña calabaza y desaparecieron lentamente en la distancia, volteando una y otra vez para saludar a Darya con la mano antes de irse. <br>Al final, solo quedamos nosotros dos.",
     "DurationTime": 7.5,
     "FadeInTime": 1,
     "Id": 50310002,

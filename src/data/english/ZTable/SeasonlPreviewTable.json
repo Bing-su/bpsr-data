@@ -32,7 +32,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_05"],
     "SeasonId": 1,
-    "SeasonTitle": "Limited Title Outfit",
+    "SeasonTitle": "Season-Exclusive Title Costume",
     "Sort": 105
   },
   "105": {
@@ -65,7 +65,7 @@
       "ui/textures/large_ui/season_window/season_main_window_11"
     ],
     "SeasonId": 2,
-    "SeasonTitle": "Season Affix",
+    "SeasonTitle": "Season Entry",
     "Sort": 202
   },
   "203": {
@@ -161,7 +161,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/season_window/season_main_window_23"],
     "SeasonId": 3,
-    "SeasonTitle": "Limited Title Outfit",
+    "SeasonTitle": "Season-Exclusive Title Costume",
     "Sort": 307
   },
   "306": {
@@ -181,5 +181,44 @@
     "SeasonId": 3,
     "SeasonTitle": "Dream Pass III Outfit",
     "Sort": 306
+  },
+  "402": {
+    "Content": "Before officially starting the dungeon, choose one of the 5 Vow Altars to make your Vow. Each Vow provides different buffs.\\n\\nWhile in combat, killing monsters grants Vow Energy. The more unique Vows your party has, the faster you gain Vow Energy.\\n\\nYou start with your Vow at Lv. 1. Its bonus stats grow stronger as your Vow Level increases.\\n\\nDevices that activate Oath Trials are scattered across the map. Spend Vow Energy to activate an Oath Trial, and increase its Oath Level based on the amount of energy spent.\\n\\nOnce the Oath Trial is activated, you gain a powerful buff for a limited time. All nearby monsters are also empowered according to their Entries.\\n\\nDefeating empowered monsters grants additional Vow Energy.\\n\\nOath spirits have a chance to take form in Chaotic Realm. Defeat them to obtain mysterious loot.",
+    "Id": 402,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_26",
+      "ui/textures/large_ui/season_window/season_main_window_27"
+    ],
+    "SeasonId": 4,
+    "SeasonTitle": "Season Entry",
+    "Sort": 402
+  },
+  "404": {
+    "Content": "Purchase Season Pass I and reach Lv.30 to obtain the limited-edition Fantasy Mage set!",
+    "Id": 404,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_28"],
+    "SeasonId": 4,
+    "SeasonTitle": "Battle Pass: Part I Costume",
+    "Sort": 404
+  },
+  "405": {
+    "Content": "Participate in seasonal Features and reach the title rank \"Bound Shooting Star I\" to obtain the limited-edition Silent Messenger set!",
+    "Id": 405,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_29"],
+    "SeasonId": 4,
+    "SeasonTitle": "Season-Exclusive Title Costume",
+    "Sort": 407
+  },
+  "406": {
+    "Content": "Purchase Season Pass II and reach Lv.30 to obtain the limited-edition Farther Shores set!",
+    "Id": 406,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_30"],
+    "SeasonId": 4,
+    "SeasonTitle": "Season Pass II - Outfits",
+    "Sort": 405
   }
 }

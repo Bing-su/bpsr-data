@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "Explodes upon contact with an enemy, dealing <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">100%</style> ATK.",
+    "Description": "Explodes upon contact with an enemy, dealing <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">100%</style> ATK. This is a Luck effect.",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">80%</style> ATK to enemies within <style=\"accent-gn\">5</style> meters. For each additional enemy hit, increases the DMG dealt by <style=\"accent-gn\">30%</style> (up to +<style=\"accent-gn\">120%</style>, which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">72%</style> ATK to enemies within <style=\"accent-gn\">5</style> meters. For each additional enemy hit, increases the DMG dealt by <style=\"accent-gn\">30%</style> (which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>, up to +<style=\"accent-gn\">120%</style>).",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1708,7 +1708,7 @@
     "Id": 1213,
     "Par": 3401213,
     "ShowRule": 1,
-    "Text": "Burn.",
+    "Text": "Burn",
     "Type": 3
   },
   "1214": {
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "Ability Conversion",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "Each stack grants <style=\"accent-gn\">25</style> ATK (increases to <style=\"accent-gn\">40</style> as the season level rises).",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Engraving",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "Increases this fixed damage by <style=\"accent-gn\">6%</style> and Oath DMG Reduction by <style=\"accent-gn\">1%</style>, stacking up to <style=\"accent-gn\">10</style> times. Loses <style=\"accent-gn\">1</style> stack per second while moving, loses <style=\"accent-gn\">1</style> stack when triggering a Perfect Dodge, and all stacks are cleared upon leaving combat.",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bloodthirst",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "Each stack reduces ATK by <style=\"accent-gn\">1%</style>. Only <style=\"accent-gn\">1</style> instance can take effect. Lasts <style=\"accent-gn\">10s</style>, and re-inflicting recalculates the stack count.",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bloodthirst Reduction",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "Oath DMG +<style=\"accent-gn\">3%</style>. Only <style=\"accent-gn\">1</style> instance can take effect.",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspire",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "Increases ATK by <style=\"accent-gn\">74</style> (scaling to <style=\"accent-gn\">112</style> with Season Level), lasts <style=\"accent-gn\">8s</style>, and stacks up to <style=\"accent-gn\">5</style> times.",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Charge",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "Increases ATK by <style=\"accent-gn\">400</style> (scaling to <style=\"accent-gn\">700</style> with Season Level) and lasts <style=\"accent-gn\">8s</style>.",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Burst",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "Whichever is highest among your Crit%, Luck%, Haste%, and Mastery% is increased by <style=\"accent-gn\">1.5%</style> for <style=\"accent-gn\">5s</style>.",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Stat Symphony",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "Deals <style=\"accent-gn\">500%</style> ATK as adaptive DMG to enemy targets within <style=\"accent-gn\">3</style>m.",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Phantom Arrow",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "Deals fixed damage equal to <style=\"accent-gn\">4000%</style> × Oath Strength.",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Disillusion Impact",
     "Type": 1
   },
   "1500": {
@@ -2800,91 +2872,91 @@
     "Type": 2
   },
   "2001": {
-    "Description": "",
+    "Description": "Deals continuous Fire DMG over <style=\"accent-gn\">5s</style>, with a base maximum of <style=\"accent-gn\">10 stacks</style>. If the target is affected by Cold or Frozen, removes those effects and deals additional DMG.",
     "Id": 2001,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Burn",
     "Type": 1
   },
   "2002": {
-    "Description": "",
+    "Description": "Each stack grants Movement Speed <style=\"accent-gn\">-10%</style> and Physical Resistance and Magic Resistance <style=\"accent-gn\">-10%</style> for <style=\"accent-gn\">5s</style>, with a base maximum of <style=\"accent-gn\">5 stacks</style>. <style=\"accent-gn\">Effect halved against Bosses</style>. When Cold reaches its stack limit, it converts to Frozen. If the target is affected by Burn, removes it and deals all its remaining DMG immediately.",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Cold",
     "Type": 1
   },
   "2003": {
-    "Description": "",
+    "Description": "Cannot act for <style=\"accent-gn\">3s</style>. When it ends, grants Frozen Immunity for <style=\"accent-gn\">30s</style>.",
     "Id": 2003,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Frozen",
     "Type": 1
   },
   "2004": {
-    "Description": "",
+    "Description": "Each stack reduces healing effectiveness by <style=\"accent-gn\">20%</style> for <style=\"accent-gn\">10s</style>. Stacks up to <style=\"accent-gn\">5 times</style>.",
     "Id": 2004,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Wound",
     "Type": 1
   },
   "2005": {
-    "Description": "",
+    "Description": "Increases DMG taken by <style=\"accent-gn\">6% × Corrosion stacks</style> for <style=\"accent-gn\">7s</style>, up to <style=\"accent-gn\">5 stacks</style>.",
     "Id": 2005,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Corrosion",
     "Type": 1
   },
   "2006": {
-    "Description": "",
+    "Description": "Cannot act for <style=\"accent-gn\">2.5s</style>. The next hit taken deals <style=\"accent-gn\">+50%</style> DMG and breaks Petrify.",
     "Id": 2006,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Petrified",
     "Type": 1
   },
   "2007": {
-    "Description": "",
+    "Description": "Cannot move for <style=\"accent-gn\">5s</style>.",
     "Id": 2007,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Rooted",
     "Type": 1
   },
   "2008": {
-    "Description": "",
+    "Description": "Cannot act for <style=\"accent-gn\">2.5s</style>.",
     "Id": 2008,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Stun",
     "Type": 1
   },
   "2009": {
-    "Description": "",
+    "Description": "Follows a set route after spawning, dealing DMG to monsters it touches. Lasts <style=\"accent-gn\">60s</style>, with a base maximum of <style=\"accent-gn\">2</style>.",
     "Id": 2009,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Wraith",
     "Type": 1
   },
   "2010": {
-    "Description": "",
+    "Description": "Grants immunity to Frozen for <style=\"accent-gn\">30s</style>.",
     "Id": 2010,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Frozen Immunity",
     "Type": 1
   },
   "2011": {
-    "Description": "",
+    "Description": "Takes 1 instance of DMG when receiving Candy, which stacks up to <style=\"accent-gn\">10 times</style>.",
     "Id": 2011,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Candy",
     "Type": 1
   },
   "3000": {
@@ -3007,6 +3079,14 @@
     "Text": "Burn",
     "Type": 3
   },
+  "3015": {
+    "Description": "Forces enemy targets to move toward the unit that inflicted Dazzle. This effect does not affect Bosses or Elite enemies. A status ailment.",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dazzle",
+    "Type": 1
+  },
   "3020": {
     "Description": "Includes <style=\"accent-gn\">Stun</style>, <style=\"accent-gn\">Frozen</style>, <style=\"accent-gn\">Petrified</style>, <style=\"accent-gn\">Paralyzed</style>, <style=\"accent-gn\">Dazzle</style>, and <style=\"accent-gn\">Fear</style>.",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "Debuffs",
     "Type": 3
+  },
+  "3022": {
+    "Description": "The number of furnishings may affect the game's frame rate, depending on your device's performance.",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Furniture Count",
+    "Type": 1
   }
 }

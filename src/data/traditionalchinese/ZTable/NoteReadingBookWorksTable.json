@@ -511,9 +511,9 @@
     "Id": 1047,
     "IsHide": false,
     "Quality": 2,
-    "ReadingBookDes": "一部裝幀考究的學術著作。<br>基於公開資料，對和平協定中未明確披露的若干問題作出了系統性推論。",
+    "ReadingBookDes": "一部裝幀考究的學術著作。<br>基於公開資料，對和平協議中未明確披露的若干問題作出了系統性推論。",
     "TargetType": [1031087],
-    "WorksName": "《和平協定下的陰謀 》",
+    "WorksName": "《和平協議下的陰謀 》",
     "WorksType": 101
   },
   "1048": {
@@ -1976,7 +1976,7 @@
     "Id": 1181,
     "IsHide": false,
     "Quality": 2,
-    "ReadingBookDes": "「本系列對巴哈馬爾高原的奇景針狀岩進行了深入探討，旨在透過分析『異種星元侵染』與『神懸御柱影響』等主流起因猜想，為您揭示奇觀背後的故事與啟發。作者：朱利安·菲爾德。」",
+    "ReadingBookDes": "「本系列對巴哈馬爾高原的奇景針狀岩進行了深入探討，旨在通過分析『異種星元侵染』與『神懸御柱影響』等主流起因猜想，為您揭示奇觀背後的故事與啟發。作者：朱利安·菲爾德。」",
     "TargetType": [1031259, 1031263, 1031274, 1031278, 1031291],
     "WorksName": "《巴哈馬爾的尖碑》",
     "WorksType": 101
@@ -2297,7 +2297,7 @@
     "Id": 1226,
     "IsHide": false,
     "Quality": 2,
-    "ReadingBookDes": "工匠內部流通的短期刊，面向築藝工匠。紙面帶著炭粉與油墨的氣味，像剛離開工作台不久。",
+    "ReadingBookDes": "工匠內部流通的短期刊，面向築藝工匠。紙面帶著碳粉與油墨的氣味，像剛離開工作臺不久。",
     "TargetType": [1031355],
     "WorksName": "《圖紙與模型：人工幾何的特徵》",
     "WorksType": 101
@@ -2584,7 +2584,7 @@
     "IsHide": false,
     "Quality": 2,
     "ReadingBookDes": "沾有污漬的紙條，不知被什麼人匆忙地遺棄在晦暗之底。",
-    "TargetType": [1031428],
+    "TargetType": [1031428, 1031429, 1031430],
     "WorksName": "《汙損的紙條》",
     "WorksType": 102
   },
@@ -2620,6 +2620,252 @@
     "TargetType": [1031434],
     "WorksName": "晦暗之底浮瞳記錄",
     "WorksType": 101
+  },
+  "1256": {
+    "Episode": 1126,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1256,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一本微微捲曲的小冊子。封面由深褐色硬紙板製成，左上角印著已經褪色的關隘徽記。",
+    "TargetType": [1031389],
+    "WorksName": "《亞利德谷關隘通行守則》",
+    "WorksType": 101
+  },
+  "1257": {
+    "Episode": 1127,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1257,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "工坊裡用於記錄設備操作的日誌，紙張卷皺，浸滿污漬，因為不明原因只剩下一頁。",
+    "TargetType": [1031390],
+    "WorksName": "廢棄冶煉爐生產日誌",
+    "WorksType": 102
+  },
+  "1258": {
+    "Episode": 1128,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1258,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一張從調查檔案中遺失的記錄頁。左上角的裝訂孔已經撕裂，仿佛曾被人強行抽出。頁眉印著「塔瓦洛克事件調查委員會」，下方是醒目的紅色編號：第 9 頁。",
+    "TargetType": [1031391],
+    "WorksName": "塔瓦洛克事件筆錄 · 頁碼九",
+    "WorksType": 102
+  },
+  "1259": {
+    "Episode": 1129,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1259,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一份研究者留下的調查記錄。封面沾染著礦灰與油污，紙頁間佈滿批註。幾處關鍵結構被紅筆反覆圈出，寫著難以辨認的研究備註。",
+    "TargetType": [1031392, 1031393],
+    "WorksName": "《溪谷舊型機像調查記錄》",
+    "WorksType": 101
+  },
+  "1260": {
+    "Episode": 1130,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1260,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一系列散落的學者手稿，手稿內容是對一種特殊石刻的拓印和解讀，字跡均出自同一人之手。",
+    "TargetType": [1031394, 1031395, 1031396, 1031397],
+    "WorksName": "《賢者拓印殘篇》",
+    "WorksType": 102
+  },
+  "1261": {
+    "Episode": 1131,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1261,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一張泛黃的手寫筆記。字跡工整卻略顯用力，紙面有大塊反覆乾涸的水漬。內容多為零散見聞與個人思考，部分句子被反覆描粗，仿佛書寫者試圖確認某種重要的事情。",
+    "TargetType": [1031398],
+    "WorksName": "奧爾德的日記殘頁",
+    "WorksType": 102
+  },
+  "1262": {
+    "Episode": 1132,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1262,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一本裝訂簡陋的小冊子。泛黃的封面上空空蕩蕩，只有《塔瓦洛克礦山停工新視角》一行黑字印在上方。油墨略有暈染，邊緣已經磨損起毛，仿佛曾在許多人手中輾轉。但整份刊物卻找不到任何作者的署名。",
+    "TargetType": [1031399],
+    "WorksName": "塔瓦洛克礦山停工新視角",
+    "WorksType": 101
+  },
+  "1263": {
+    "Episode": 1133,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1263,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一張色彩鮮豔得近乎刺眼的廣告傳單。粗大的標題佔據了大半個版面，旁邊還畫著一名張著嘴巴、露出滿口黃牙的溪谷居民，以及一個閃閃發亮的濾水器。紙張品質遠超普通宣傳品，甚至帶著淡淡的油墨光澤。即使夾在一堆發黃的舊檔裡，它依然會第一時間吸引你的目光。",
+    "TargetType": [1031400],
+    "WorksName": "警惕！與溪谷的你息息相關！",
+    "WorksType": 103
+  },
+  "1264": {
+    "Episode": 1134,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1264,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一份年代久遠的手寫公告，因為暴露在野外而佈滿蟲蛀和可疑的褐色污漬。然而卻掩蓋不住筆鋒的蒼勁，仿佛書寫者堅信自己寫下的，是某種不容置疑的真理。",
+    "TargetType": [1031401],
+    "WorksName": "賢者不吃豆子",
+    "WorksType": 103
+  },
+  "1265": {
+    "Episode": 1135,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1265,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一張從日誌中遺失的記錄頁。頁首印有教團統一使用的檔案格式，紙面雖已泛黃，卻保存得相當完好。字跡談不上工整，卻給人一種認真記錄事實的感覺。",
+    "TargetType": [1031402],
+    "WorksName": "關於溪谷居民禁食豆子的猜想",
+    "WorksType": 102
+  },
+  "1266": {
+    "Episode": 1136,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1266,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一本薄薄的故事冊。粗糙的紙質封面上繪著一位身披寬鬆長袍，鬚髮皆白的老人。他手持木杖站在一塊博爾豆田前。數名持械暴徒已經追到身後，而他卻仍低頭凝視著掌中的博爾豆，神情沉靜而專注。",
+    "TargetType": [1031403],
+    "WorksName": "《古賢者索普拉之死》",
+    "WorksType": 101
+  },
+  "1267": {
+    "Episode": 1137,
+    "Icon": "item_icons_xin",
+    "Id": 1267,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一封字跡工整的書信，信紙上沾有大塊的暗紅色污漬。",
+    "TargetType": [1031404],
+    "WorksName": "遺落在溪谷某處的信件",
+    "WorksType": 102
+  },
+  "1268": {
+    "Episode": 1138,
+    "Icon": "item_icons_wenjiandai1",
+    "Id": 1268,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一份關於溪谷異常氣候的調查手稿。內容被分為多個章節，夾雜著天氣記錄、居民證詞與作者的分析筆記。能看出記錄者投入了大量時間追查此事，然而這份本應寄出的報導，卻不知為何遺落在了野外。",
+    "TargetType": [1031405, 1031406, 1031407, 1031408],
+    "WorksName": "《里澤村異常氣候疑雲》",
+    "WorksType": 102
+  },
+  "1269": {
+    "Episode": 1139,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1269,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一份正式公文，字跡工整。",
+    "TargetType": [1031409],
+    "WorksName": "《分礦會議紀要（節選）》",
+    "WorksType": 102
+  },
+  "1270": {
+    "Episode": 1140,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1270,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "某帳本中的一頁，似乎承擔了一部分學徒與師傅交流的功能。",
+    "TargetType": [1031410],
+    "WorksName": "《加雷利吉村工坊帳目》",
+    "WorksType": 102
+  },
+  "1271": {
+    "Episode": 1141,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1271,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一本由零散紙頁裝訂而成的小冊子。裡面收錄了某位加雷利吉村民留下的日常記錄。但不論事情大小，最終都會得出相似的結論。",
+    "TargetType": [1031411, 1031412],
+    "WorksName": "《這事得怪村長》",
+    "WorksType": 102
+  },
+  "1272": {
+    "Episode": 1142,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1272,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "某人的備忘錄，從紙張的印花和工藝來看，很可能出自某位神官之手。",
+    "TargetType": [1031413, 1031414, 1031415],
+    "WorksName": "《寫給自己的備忘》",
+    "WorksType": 102
+  },
+  "1273": {
+    "Episode": 1143,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1273,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一張來自工坊公告欄的新聞剪報。報導內容印刷精美，標題甚至用紅筆特意圈了出來，顯然曾是加雷利吉村引以為傲的消息。",
+    "TargetType": [1031416],
+    "WorksName": "加雷利吉村，訂單創新高",
+    "WorksType": 103
+  },
+  "1274": {
+    "Episode": 1144,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1274,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一份散架的留言冊中的一頁，似乎還能聞到脆弱紙張中殘留的特飲氣息。",
+    "TargetType": [1031417],
+    "WorksName": "加雷利吉村酒館留言冊",
+    "WorksType": 103
+  },
+  "1275": {
+    "Episode": 1145,
+    "Icon": "item_icons_xin",
+    "Id": 1275,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "一份手寫的聯名信，書寫者十分用力，仿佛注入了某種憤怒。書信的下方是十幾個密密麻麻的手印。",
+    "TargetType": [1031418],
+    "WorksName": "關於工時調整的聯名意見",
+    "WorksType": 102
+  },
+  "1276": {
+    "Episode": 1146,
+    "Icon": "item_icons_1stanniversary_note",
+    "Id": 1276,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "據說，每逢花火升空的夜晚，那些留存在世界中的痕跡，便會以這樣的形式短暫顯現。",
+    "TargetType": [
+      1031440, 1031441, 1031442, 1031443, 1031444, 1031445, 1031446, 1031447, 1031448, 1031449,
+      1031450, 1031451, 1031452, 1031453, 1031454, 1031455, 1031456, 1031457, 1031458, 1031459,
+      1031460
+    ],
+    "WorksName": "《第一年的星痕》",
+    "WorksType": 102
+  },
+  "1277": {
+    "Episode": 1147,
+    "Icon": "item_icons_xin",
+    "Id": 1277,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "海風節期間，許多漂流瓶順著海風抵達岸邊。瓶中裝著來自遠方與身邊之人的信件，也裝著那些平日裡未曾說出口的祝福與思念。",
+    "TargetType": [1031461, 1031462, 1031463, 1031464, 1031465, 1031466, 1031467, 1031468, 1031469],
+    "WorksName": "《想要說出口的話語》",
+    "WorksType": 102
   },
   "1278": {
     "Episode": 1148,

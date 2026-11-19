@@ -294,6 +294,48 @@
       [9, 10220]
     ]
   },
+  "101027": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar vegetais incomuns do Vale Montegnor.",
+    "GroupId": 1027,
+    "Icon": "ui/atlas/life_formula/life_collect/mushroom_gathering_02",
+    "Id": 101027,
+    "Level": 1,
+    "Name": "Profissional em Coleta de Vegetais de Montegnor",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "101028": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar frutas incomuns do Vale Montegnor.",
+    "GroupId": 1028,
+    "Icon": "ui/atlas/life_formula/life_collect/fruit_gathering_02",
+    "Id": 101028,
+    "Level": 1,
+    "Name": "Profissional em Coleta de Frutas de Montegnor",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "101029": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar ervas incomuns do Vale Montegnor.",
+    "GroupId": 1029,
+    "Icon": "ui/atlas/life_formula/life_collect/herb_gathering_02",
+    "Id": 101029,
+    "Level": 1,
+    "Name": "Profissional em Coleta de Ervas de Montegnor",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
   "102001": {
     "Attribute": [],
     "Des": "Permite a coleta de Minério de Baru.",
@@ -450,7 +492,7 @@
   },
   "102012": {
     "Attribute": [],
-    "Des": "10% de chance de ganhar 1 item extra ao realizar coleta focada.",
+    "Des": "10% de chance de obter 1 item extra ao realizar uma coleta focada.",
     "GroupId": 10212,
     "Icon": "ui/atlas/life_formula/life_mining/mine_master_01",
     "Id": 102012,
@@ -464,7 +506,7 @@
   },
   "102013": {
     "Attribute": [],
-    "Des": "20% de chance de ganhar 1 item extra ao coletar com foco.",
+    "Des": "20% de chance de obter 1 item extra ao realizar uma coleta focada.",
     "GroupId": 10213,
     "Icon": "ui/atlas/life_formula/life_mining/mine_master_02",
     "Id": 102013,
@@ -478,7 +520,7 @@
   },
   "102014": {
     "Attribute": [],
-    "Des": "30% de chance de ganhar 1 item extra ao coletar com foco.",
+    "Des": "30% de chance de obter 1 item extra ao realizar uma coleta focada.",
     "GroupId": 10214,
     "Icon": "ui/atlas/life_formula/life_mining/mine_master_03",
     "Id": 102014,
@@ -647,6 +689,34 @@
       [59, 10224, 1],
       [9, 10220]
     ]
+  },
+  "102029": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar Minério de Ferro do Deserto.",
+    "GroupId": 10229,
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_02",
+    "Id": 102029,
+    "Level": 1,
+    "Name": "Noções Básicas de Minério de Ferro do Deserto",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 102,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "102030": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar Minério de Miris.",
+    "GroupId": 10230,
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_03",
+    "Id": 102030,
+    "Level": 1,
+    "Name": "Noções Básicas de Minério de Miris",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 102,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
   },
   "103001": {
     "Attribute": [],
@@ -1071,6 +1141,62 @@
     "ProId": 103,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "103033": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar rubi do vale bruto para obter Rubi do Eclipse Bruto Nv. 4.",
+    "GroupId": 10333,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/ruby_familiarity",
+    "Id": 103033,
+    "Level": 1,
+    "Name": "Especialista em Rubi do Eclipse",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103034": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar safira do vale bruta para obter Safira do Eclipse Bruta Nv. 4.",
+    "GroupId": 10334,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/sapphire_familiarity",
+    "Id": 103034,
+    "Level": 1,
+    "Name": "Especialista em Safira do Eclipse",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103035": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar esmeralda do vale bruta para obter Esmeralda do Eclipse Bruta Nv. 4.",
+    "GroupId": 10335,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/emerald_familiarity",
+    "Id": 103035,
+    "Level": 1,
+    "Name": "Especialista em Esmeralda do Eclipse",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103036": {
+    "Attribute": [],
+    "Des": "Aprenda a coletar topázio do vale bruto para obter Diamante do Eclipse Bruto Nv. 4.",
+    "GroupId": 10336,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/white_sapphire_familiarity",
+    "Id": 103036,
+    "Level": 1,
+    "Name": "Especialista em Topázio do Eclipse",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
   },
   "201001": {
     "Attribute": [],
@@ -1579,6 +1705,99 @@
     "ProId": 201,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "201037": {
+    "Attribute": [],
+    "Des": "Aprenda a cozinhar com camarões do Vale Montegnor.",
+    "GroupId": 2037,
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "Id": 201037,
+    "Level": 1,
+    "Name": "Camarão de Montegnor: Chefe Iniciante",
+    "NeedPoint": 1,
+    "NextNodes": [201041],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201038": {
+    "Attribute": [],
+    "Des": "Aprenda a cozinhar com vegetais do Vale Montegnor.",
+    "GroupId": 2038,
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_01",
+    "Id": 201038,
+    "Level": 1,
+    "Name": "Vegetais de Montegnor: Chefe Iniciante",
+    "NeedPoint": 1,
+    "NextNodes": [201042],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201040": {
+    "Attribute": [],
+    "Des": "Aprenda a cozinhar com frutas do Vale Montegnor.",
+    "GroupId": 2040,
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "Id": 201040,
+    "Level": 1,
+    "Name": "Frutas de Montegnor: Chefe Iniciante",
+    "NeedPoint": 1,
+    "NextNodes": [201044],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201041": {
+    "Attribute": [],
+    "Des": "Aprenda a cozinhar pratos de qualidade superior usando camarões do Vale Montegnor.",
+    "GroupId": 2041,
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "Id": 201041,
+    "Level": 1,
+    "Name": "Camarão de Montegnor: Chefe Profissional",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2037, 1],
+      [9, 10419]
+    ]
+  },
+  "201042": {
+    "Attribute": [],
+    "Des": "Aprenda a cozinhar pratos de qualidade superior usando vegetais do Vale Montegnor",
+    "GroupId": 2042,
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_02",
+    "Id": 201042,
+    "Level": 1,
+    "Name": "Vegetais de Montegnor: Chefe Profissional",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2038, 1],
+      [9, 10419]
+    ]
+  },
+  "201044": {
+    "Attribute": [],
+    "Des": "Aprenda a cozinhar pratos de qualidade superior usando frutas do Vale Montegnor.",
+    "GroupId": 2044,
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "Id": 201044,
+    "Level": 1,
+    "Name": "Frutas de Montegnor: Chefe Profissional",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2040, 1],
+      [9, 10419]
+    ]
   },
   "202001": {
     "Attribute": [],
@@ -2231,6 +2450,161 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "202051": {
+    "Attribute": [],
+    "Des": "Aprenda a criar poções de cura, de Reforço FIS e de Reforço MAG usando ervas do Vale Montegnor.",
+    "GroupId": 3051,
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "Id": 202051,
+    "Level": 1,
+    "Name": "Herbalismo de Montegnor Nv. 1",
+    "NeedPoint": 1,
+    "NextNodes": [202056],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202052": {
+    "Attribute": [],
+    "Des": "Aprenda a fazer poções de Gelo & Fogo.",
+    "GroupId": 3052,
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "Id": 202052,
+    "Level": 1,
+    "Name": "Gelo & Fogo de Montegnor Nv. 1",
+    "NeedPoint": 1,
+    "NextNodes": [202057],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202053": {
+    "Attribute": [],
+    "Des": "Aprenda a fazer poções de pedra-verde.",
+    "GroupId": 3053,
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "Id": 202053,
+    "Level": 1,
+    "Name": "Natureza de Montegnor Nv. 1",
+    "NeedPoint": 1,
+    "NextNodes": [202058],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202054": {
+    "Attribute": [],
+    "Des": "Aprenda a fazer poções de tempestade.",
+    "GroupId": 3054,
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "Id": 202054,
+    "Level": 1,
+    "Name": "Vento & Trovão de Montegnor Nv. 1",
+    "NeedPoint": 1,
+    "NextNodes": [202059],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202055": {
+    "Attribute": [],
+    "Des": "Aprenda a fazer poções de Luz & Trevas.",
+    "GroupId": 3055,
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "Id": 202055,
+    "Level": 1,
+    "Name": "Luz & Trevas de Montegnor Nv. 1",
+    "NeedPoint": 1,
+    "NextNodes": [202060],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202056": {
+    "Attribute": [],
+    "Des": "Aprenda a criar poções avançadas de cura, de Reforço FIS e de Reforço MAG usando ervas do Vale Montegnor.",
+    "GroupId": 3056,
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "Id": 202056,
+    "Level": 1,
+    "Name": "Herbalismo de Montegnor Nv. 2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3051, 1],
+      [9, 10419]
+    ]
+  },
+  "202057": {
+    "Attribute": [],
+    "Des": "Aprenda a fazer poções avançadas de Gelo & Fogo.",
+    "GroupId": 3057,
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "Id": 202057,
+    "Level": 1,
+    "Name": "Gelo & Fogo de Montegnor Nv. 2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3052, 1],
+      [9, 10419]
+    ]
+  },
+  "202058": {
+    "Attribute": [],
+    "Des": "Aprenda a fazer poções de pedra-verde avançadas.",
+    "GroupId": 3058,
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "Id": 202058,
+    "Level": 1,
+    "Name": "Natureza de Montegnor Nv. 2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3053, 1],
+      [9, 10419]
+    ]
+  },
+  "202059": {
+    "Attribute": [],
+    "Des": "Aprenda a fazer poções avançadas de tempestade.",
+    "GroupId": 3059,
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "Id": 202059,
+    "Level": 1,
+    "Name": "Vento & Trovão de Montegnor Nv. 2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3054, 1],
+      [9, 10419]
+    ]
+  },
+  "202060": {
+    "Attribute": [],
+    "Des": "Aprenda a fazer poções avançadas de Luz & Trevas.",
+    "GroupId": 3060,
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "Id": 202060,
+    "Level": 1,
+    "Name": "Luz & Trevas de Montegnor Nv. 2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3055, 1],
+      [9, 10419]
+    ]
+  },
   "203001": {
     "Attribute": [],
     "Des": "Usa Minério de Baru para produzir Metal Misterioso.",
@@ -2641,6 +3015,99 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "203033": {
+    "Attribute": [],
+    "Des": "Aprenda a usar Minério de Ferro do Deserto para produzir Metal Misterioso.",
+    "GroupId": 4033,
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "Id": 203033,
+    "Level": 1,
+    "Name": "Metal Misterioso de Montegnor Nv. 1",
+    "NeedPoint": 1,
+    "NextNodes": [203037],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203034": {
+    "Attribute": [],
+    "Des": "Aprenda a usar Minério de Ferro do Deserto para produzir Pedra Radiante.",
+    "GroupId": 4034,
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "Id": 203034,
+    "Level": 1,
+    "Name": "Pedra Radiante de Montegnor Nv. 1",
+    "NeedPoint": 1,
+    "NextNodes": [203038],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203035": {
+    "Attribute": [],
+    "Des": "Aprenda a usar Minério de Ferro do Deserto para produzir Pedra de Forja Refinada.",
+    "GroupId": 4035,
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "Id": 203035,
+    "Level": 1,
+    "Name": "Pedra de Forja Refinada de Montegnor Nv. 1",
+    "NeedPoint": 1,
+    "NextNodes": [203039],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203037": {
+    "Attribute": [],
+    "Des": "Aprenda a usar Minério de Miris para produzir Metal Misterioso.",
+    "GroupId": 4037,
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "Id": 203037,
+    "Level": 1,
+    "Name": "Metal Misterioso de Montegnor Nv. 2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4033, 1],
+      [9, 10419]
+    ]
+  },
+  "203038": {
+    "Attribute": [],
+    "Des": "Aprenda a usar Minério de Miris para produzir Pedra Radiante.",
+    "GroupId": 4038,
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "Id": 203038,
+    "Level": 1,
+    "Name": "Pedra Radiante de Montegnor Nv. 2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4034, 1],
+      [9, 10419]
+    ]
+  },
+  "203039": {
+    "Attribute": [],
+    "Des": "Aprenda a usar Minério de Miris para produzir Pedra de Forja Refinada.",
+    "GroupId": 4039,
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "Id": 203039,
+    "Level": 1,
+    "Name": "Pedra de Forja Refinada de Montegnor Nv. 2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4035, 1],
+      [9, 10419]
+    ]
+  },
   "204001": {
     "Attribute": [],
     "Des": "Aprende a criar gemas básicas engastáveis a partir de várias pedras brutas.",
@@ -3023,6 +3490,62 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "204033": {
+    "Attribute": [],
+    "Des": "Permite lapidar Rubi do Eclipse Bruto Nv. 4 em Núcleos de Gema impecáveis.",
+    "GroupId": 5033,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/triangle_cutting_technology_02",
+    "Id": 204033,
+    "Level": 1,
+    "Name": "Mestre de Lapidação de Rubi do Eclipse",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204034": {
+    "Attribute": [],
+    "Des": "Permite lapidar Safira do Eclipse Bruta Nv. 4 em Núcleos de Gema impecáveis.",
+    "GroupId": 5034,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/square_cutting_technology_02",
+    "Id": 204034,
+    "Level": 1,
+    "Name": "Mestre de Lapidação de Safira do Eclipse",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204035": {
+    "Attribute": [],
+    "Des": "Permite lapidar Esmeralda do Eclipse Bruta Nv. 4 em Núcleos de Gema impecáveis.",
+    "GroupId": 5035,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/special_cutting_technology_02",
+    "Id": 204035,
+    "Level": 1,
+    "Name": "Mestre de Lapidação de Esmeralda do Eclipse",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204036": {
+    "Attribute": [],
+    "Des": "Permite lapidar Diamante do Eclipse Bruto Nv. 4 em Núcleos de Gema impecáveis.",
+    "GroupId": 5036,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/pear_cutting_technology_02",
+    "Id": 204036,
+    "Level": 1,
+    "Name": "Mestre de Lapidação de Diamante do Eclipse",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
   "205001": {
     "Attribute": [],
     "Des": "Aprende a criar Pó Incandescente.",
@@ -3081,7 +3604,7 @@
   },
   "205005": {
     "Attribute": [],
-    "Des": "Ganhe 5 itens extras ao criar Pó Incandescente, Pó de Pedra-Osso, Cera de Gemas ou Polidor de Gemas. Além disso, ganhe 1 item extra ao criar Pó Incandescente Rápido ou Pó de Pedra-Osso.",
+    "Des": "Ganhe 5 itens extras ao criar Pó Incandescente, Pó de Carbono de Pedra-Osso, Cera de Gemas, Polidor de Gema ou Resina Elemental. Além disso, ganhe 1 item extra ao criar Pó Incandescente Rápido ou Pó de Carbono de Pedra-Osso.",
     "GroupId": 6005,
     "Icon": "ui/atlas/life_formula/life_formula/lifeformula_woodwork_ability_02",
     "Id": 205005,
@@ -3145,7 +3668,7 @@
     "Icon": "ui/atlas/life_formula/life_formula/lifeformula_gem_wax_01",
     "Id": 205009,
     "Level": 1,
-    "Name": "Polidor de Gema",
+    "Name": "Polidor de Gema ",
     "NeedPoint": 1,
     "NextNodes": [],
     "ProId": 205,
@@ -3168,6 +3691,20 @@
       [59, 6008, 1],
       [9, 10220]
     ]
+  },
+  "205011": {
+    "Attribute": [],
+    "Des": "Aprenda a criar resina imbuída de energia elemental.",
+    "GroupId": 6011,
+    "Icon": "ui/atlas/life_formula/life_formula/lifeformula_carbon_powder_01",
+    "Id": 205011,
+    "Level": 1,
+    "Name": "Resina Elemental",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 205,
+    "SeasonId": 4,
+    "UnlockCondition": []
   },
   "206001": {
     "Attribute": [],

@@ -159,6 +159,22 @@
     "ReviewBubble": ["Avec l'aide des gens à bord du navire, Airona a fait une avancée décisive."],
     "ReviewBubbleAction": [9047]
   },
+  "140011": {
+    "Clue": [1400111, 1400112, 1400113],
+    "Conclusion": "Carrie a affirmé avoir été une aventurière du Bureau des pionniers, avoir participé à l'Épreuve du démon de la foudre lors du carnaval, puis être devenue conseillère d'Asterleeds. Elle a également dit que ses parents avaient toujours vécu près de la statue du héros à Minsterhorn. Tout cela devrait avoir laissé des traces vérifiables.",
+    "ConclusionAction": 9033,
+    "ConclusionBubble": "Plutôt que de continuer à deviner qui elle est, voyons déjà ce qu'il y a de vrai dans tout ça.",
+    "ConclusionTips": "Enquêter sur les informations d'identité laissées par Carrie",
+    "Id": 140011,
+    "InferenceStep": [1400111, 1400112, 1400113],
+    "IockedBubble": ["Elle a dit pas mal de choses... Réfléchissons bien."],
+    "IockedBubbleAction": [9019],
+    "QuickReasoning": true,
+    "ReviewBubble": [
+      "Les informations sur l'identité de Carrie ont été triées. Il ne reste plus qu'à vérifier si chacune de ces expériences a réellement eu lieu."
+    ],
+    "ReviewBubbleAction": [9047]
+  },
   "20011": {
     "Clue": [200111, 200112, 200113],
     "Conclusion": "Tout le monde a des opinions différentes. Discutons-en avec Airona.",
@@ -223,7 +239,7 @@
     "ConclusionTips": "Rendez-vous à la falaise de l'est.",
     "Id": 40011,
     "InferenceStep": [400111, 400112, 400113],
-    "IockedBubble": ["Non, il est encore trop tôt pour tirer une conclusion."],
+    "IockedBubble": ["Non, je ne peux pas encore tirer de conclusion."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Peut-être que j'ai vraiment un don pour le métier de détective !"],
@@ -251,7 +267,7 @@
     "ConclusionTips": "Trouvez Boyce sur la route devant le Pilier divin.",
     "Id": 70011,
     "InferenceStep": [700111, 700112],
-    "IockedBubble": ["Non, il est encore trop tôt pour tirer une conclusion."],
+    "IockedBubble": ["Non, je ne peux pas encore tirer de conclusion."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Ça doit être ça."],
@@ -279,7 +295,7 @@
     "ConclusionTips": "Discutez avec Airona.",
     "Id": 90011,
     "InferenceStep": [900111, 900112, 900113],
-    "IockedBubble": ["Non, il est encore trop tôt pour tirer une conclusion."],
+    "IockedBubble": ["Non, je ne peux pas encore tirer de conclusion."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Je vois clair dans leur jeu."],

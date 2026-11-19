@@ -15,7 +15,7 @@
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
     "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_4",
     "MasteryDes": [
-      ["", "DMG dari skill yang menggunakan Thunder Seal +3,4% setiap 1% Mastery<br>"],
+      ["", "Setiap 1% Mastery, DMG dari skill yang menggunakan Thunder Seal +3.4%<br>"],
       [
         "",
         "Setiap 1% Mastery meningkatkan DMG Thunderbolt Strike, Scythe of Thunder, dan Scythe of Punishment sebesar 1,2%<br>"
@@ -188,7 +188,7 @@
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
     "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_8",
     "MasteryDes": [
-      ["", "Setiap 1% Mastery meningkatkan efek boost konversi Peaceful Tune sebesar 1%<br>"],
+      ["", "Setiap 1% Mastery memberikan 0.4% Fire Boost<br>"],
       [
         "",
         "Setiap 1% Mastery mengurangi laju penurunan Melody - Healing Movement sebesar 0,35%<br>"
@@ -226,7 +226,7 @@
     "Icon": "ui/atlas/profession/profession_horizontal_01",
     "Id": 14,
     "Index": 98,
-    "Intro": "Mahir bertarung dalam <color=#fcbe03>jarak jauh</color> dan memiliki daya serang yang luar biasa.<br>Dapat menyerang musuh dalam jangkauan luas dengan intensitas tinggi dari jarak jauh. Tambahkan <color=#fcbe03>Imprint Chance Boost</color> untuk meningkatkan peluang memicunya.<br>Dia juga dapat melakukan <color=#fcbe03>charge</color> dari jarak dekat untuk mengakibatkan Burst DMG yang luar biasa. Tambahkan <color=#fcbe03>Critical Chance</color> untuk mencapai hasil yang dahsyat.",
+    "Intro": "Ahli dalam pertempuran <color=#fcbe03>Ranged</color>, memiliki kemampuan Attack yang luar biasa.<br>Dapat melakukan Strike pada musuh di Area yang luas dengan Attack frekuensi tinggi dari kejauhan. Mengincar <color=#fcbe03>Boost Peluang Imprint</color> untuk meningkatkan frekuensi pemicu.<br>Juga dapat melakukan <color=#fcbe03>Charge</color> dari jarak dekat untuk menghasilkan Burst DMG yang sangat tinggi. Mengincar keuntungan besar yang diberikan oleh <color=#fcbe03>Critical Chance</color>.",
     "IsOpen": false,
     "LineFeedName": "Lucy",
     "MainTalentIcon": "ui/textures/talent_new/talent_icon",
@@ -267,7 +267,7 @@
     "Icon": "ui/atlas/profession/profession_horizontal_01",
     "Id": 15,
     "Index": 97,
-    "Intro": "Mahir bertarung dalam <color=#fcbe03>jarak jauh</color> dan memiliki daya serang yang luar biasa.<br>Dapat menyerang musuh dalam jangkauan luas dengan intensitas tinggi dari jarak jauh. Tambahkan <color=#fcbe03>Imprint Chance Boost</color> untuk meningkatkan peluang memicunya.<br>Dia juga dapat melakukan <color=#fcbe03>charge</color> dari jarak dekat untuk mengakibatkan Burst DMG yang luar biasa. Tambahkan <color=#fcbe03>Critical Chance</color> untuk mencapai hasil yang dahsyat.",
+    "Intro": "Ahli dalam pertempuran <color=#fcbe03>Ranged</color>, memiliki kemampuan Attack yang luar biasa.<br>Dapat melakukan Strike pada musuh di Area yang luas dengan Attack frekuensi tinggi dari kejauhan. Mengincar <color=#fcbe03>Boost Peluang Imprint</color> untuk meningkatkan frekuensi pemicu.<br>Juga dapat melakukan <color=#fcbe03>Charge</color> dari jarak dekat untuk menghasilkan Burst DMG yang sangat tinggi. Mengincar keuntungan besar yang diberikan oleh <color=#fcbe03>Critical Chance</color>.",
     "IsOpen": false,
     "LineFeedName": "Natsu",
     "MainTalentIcon": "ui/textures/talent_new/talent_icon",
@@ -317,7 +317,7 @@
       ["", "Setiap 1% Mastery meningkatkan Ice Boost sebesar 0,65%<br>"],
       [
         "",
-        "Setiap 1% Mastery meningkatkan efisiensi perolehan Ice Energy sebesar 1% dan Ice Boost sebesar 0,2%.<br>Mastery Boost: Setiap 1% Mastery meningkatkan rasio konversi Ice Boost sebesar 3%.<br>"
+        "Setiap 1% Mastery memberikan 1% efisiensi perolehan Ice Energy dan 0,2% Ice Boost<br>Mastery Boost: Setiap 1% Mastery meningkatkan rasio konversi Ice Boost sebesar 3,5%<br>"
       ]
     ],
     "Name": "Frost Mage",
@@ -352,7 +352,7 @@
     "Icon": "ui/atlas/profession/profession_horizontal_09",
     "Id": 3,
     "Index": 9,
-    "Intro": "Ahli dalam pertarungan <color=#fcbe03>jarak dekat</color> yang bersenjatakan <color=#fcbe03>Twinaxe</color>. Jurusnya tampak membara seperti api. Class ini memiliki kemampuan <color=#fcbe03>serangan jarak dekat</color> yang luar biasa.",
+    "Intro": "Ahli dalam pertarungan <color=#fcbe03>Melee</color>, menjadikan <color=#fcbe03>Twinaxe</color> sebagai Weapon. Gerakannya cepat dan membara seperti api, serta memiliki kemampuan <color=#fcbe03>Attack Area kecil</color> yang luar biasa.",
     "IsOpen": true,
     "LineFeedName": "Prajurit Gila Api Merah",
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_9",
@@ -360,9 +360,9 @@
     "MasteryDes": [
       [
         "",
-        "Setiap 1% Mastery meningkatkan CD Boost untuk Blazing Raid, Rage Cleave, dan Axewind sebesar 3,2% serta PATK sebesar 0,2%.<br>"
+        "Setiap 1% Mastery memberikan 3.2% CD Boost untuk Blazing Raid, Rage Cleave, dan Axewind, serta 0.2% PATK<br>"
       ],
-      ["", "Setiap 1% Mastery meningkatkan Fire Boost sebesar 0,72%.<br>"]
+      ["", "Setiap 1% Mastery memberikan 0.72% Fire Boost<br>"]
     ],
     "Name": "Redflame Berserker",
     "NormalAttackSkill": [1601],
@@ -404,7 +404,7 @@
     "MasteryDes": [
       [
         "",
-        "Setiap 1% Mastery meningkatkan Wind Boost sebesar 0,35%.<br>Mastery Boost: Setiap 1% Mastery membuat rasio konversi Wind Boost meningkat sebesar 3%.<br>"
+        "Setiap 1% Mastery memberikan 0.35% Wind Boost<br>Mastery Boost: Setiap 1% Mastery membuat rasio konversi Wind Boost meningkat 2.55%<br>"
       ],
       ["", "Setiap 1% Mastery meningkatkan Wind Boost sebesar 0,65%<br>"]
     ],
@@ -446,10 +446,7 @@
     "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
     "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
     "MasteryDes": [
-      [
-        "",
-        "Setiap 1% Mastery meningkatkan Forest Boost sebesar 0,75% dan Shield Power sebesar 0,3%<br>"
-      ],
+      ["", "Setiap 1% Mastery memberikan 0.75% Forest Boost dan 0.3% Shield Power<br>"],
       ["", "Setiap 1% Mastery meningkatkan Heal Power sebesar 1%<br>"]
     ],
     "Name": "Verdant Oracle",
@@ -484,7 +481,7 @@
     "Icon": "ui/atlas/profession/profession_horizontal_01",
     "Id": 8,
     "Index": 99,
-    "Intro": "Mahir bertarung dalam <color=#fcbe03>jarak jauh</color> dan memiliki daya serang yang luar biasa.<br>Dapat menyerang musuh dalam jangkauan luas dengan intensitas tinggi dari jarak jauh. Tambahkan <color=#fcbe03>Imprint Chance Boost</color> untuk meningkatkan peluang memicunya.<br>Dia juga dapat melakukan <color=#fcbe03>charge</color> dari jarak dekat untuk mengakibatkan Burst DMG yang luar biasa. Tambahkan <color=#fcbe03>Critical Chance</color> untuk mencapai hasil yang dahsyat.",
+    "Intro": "Ahli dalam pertempuran <color=#fcbe03>Ranged</color>, memiliki kemampuan Attack yang luar biasa.<br>Dapat melakukan Strike pada musuh di Area yang luas dengan Attack frekuensi tinggi dari kejauhan. Mengincar <color=#fcbe03>Boost Peluang Imprint</color> untuk meningkatkan frekuensi pemicu.<br>Juga dapat melakukan <color=#fcbe03>Charge</color> dari jarak dekat untuk menghasilkan Burst DMG yang sangat tinggi. Mengincar keuntungan besar yang diberikan oleh <color=#fcbe03>Critical Chance</color>.",
     "IsOpen": false,
     "LineFeedName": "Thunder Strike - Hand Cannon",
     "MainTalentIcon": "ui/textures/talent_new/talent_icon",

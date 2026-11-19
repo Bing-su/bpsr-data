@@ -346,7 +346,7 @@
   },
   "100312": {
     "Answer": ["", "Dismantle diagram"],
-    "Clue": "<tagId=8>*Blueprints for the dismantling of the lightning core Divine Legacy*, <tagId=5>*were found at Feyn's No. 2 Workbench*, <tagId=6>*many craftsmen are keen to study this divine Legacy with powerful thunder power*, <tagId=10>*but only Tauros understands how to use it properly*.",
+    "Clue": "<tagId=8>*Blueprints for the dismantling of the lightning core Divine Legacy*, <tagId=5>*were found at Feyn's No. 2 Workbench*, <tagId=6>*many craftsmen are keen to study this divine Legacy with powerful thunder power*, <tagId=10>*but only Dorothy understands how to use it properly*.",
     "Id": 100312,
     "Sort": 2,
     "TapBubble": ["", "What information could be hidden in this..."],
@@ -493,6 +493,60 @@
     "TapBubbleAction": [9019],
     "Tips": "Obtain clues from inquiries",
     "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400111": {
+    "Answer": ["", "Competed in Thunder Demon Smackdown at the carnival", "", "Was an Adventurer"],
+    "Clue": "\"Don't worry, I was an <tagId=1>*Adventurer* too. Take your time. See you at Fallen River.\" \"Same at the carnival.<tagId=2>*I was just a little short in Thunder Demon Smackdown—almost caught up to your score.* Looking back, I'm still a bit sore about it.\"",
+    "Id": 1400111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Carrie mentioned more than once that she used to be an Adventurer. The Pioneer Bureau should have records of it.",
+      "",
+      "Something about that felt off even then... If she had really competed, her results should be on record."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Recall what Carrie said",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400112": {
+    "Answer": [
+      "",
+      "Asterleeds Council Member",
+      "",
+      "Parents live near the Statue of the Hero in Minsterhorn"
+    ],
+    "Clue": "\"Heh, surprised?<tagId=3>*Councilor* attire is proper, but for getting things done, this is the most comfortable.\" \"Minsterhorn.<tagId=4>*My parents have always lived there, near the Statue of the Hero.*\"",
+    "Id": 1400112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Lamond introduced her to me as a councilor too. The council should know her identity best.",
+      "",
+      "She was very specific about where her family lives. If her parents really live there, we might confirm more."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Recall what Carrie said",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400113": {
+    "Answer": ["", "Unusually fixated on being \"remembered\" and \"forgotten\""],
+    "Clue": "\"Sometimes I think a person's existence is a strange thing. Even when someone isn't here, as long as someone still remembers, she feels close.<tagId=5>*But if every memory of a person vanished... would it be as if they never existed at all?*\"",
+    "Id": 1400113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "At the time it just seemed like she suddenly said something odd. Looking back, Carrie seemed fixated on being \"remembered\" and \"forgotten.\""
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Recall what Carrie said",
+    "UnlockCondition": [[2, 11401, 11401002]],
     "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
@@ -805,7 +859,7 @@
     "TapBubbleAction": [9019],
     "Tips": "Find clues from the Pilgrim's words",
     "UnlockCondition": [[2, 10702, 10702001]],
-    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
   "700113": {
@@ -817,7 +871,7 @@
     "TapBubbleAction": [9019],
     "Tips": "Find clues from the Pilgrim's words",
     "UnlockCondition": [[2, 10702, 10702001]],
-    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
   "800111": {
@@ -829,7 +883,7 @@
     "TapBubbleAction": [9019, 9026],
     "Tips": "Find clues via Shift Schedule",
     "UnlockCondition": [[2, 10801, 10801021]],
-    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
   "800112": {
@@ -846,7 +900,7 @@
     "TapBubbleAction": [9019],
     "Tips": "Find clues via Shift Schedule",
     "UnlockCondition": [[2, 10801, 10801021]],
-    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
   "800113": {
@@ -867,7 +921,7 @@
     "TapBubbleAction": [9026],
     "Tips": "Find clues via Shift Schedule",
     "UnlockCondition": [[2, 10801, 10801021]],
-    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
   "900111": {
@@ -884,9 +938,9 @@
       "That way he can take over the caravan"
     ],
     "TapBubbleAction": [9019],
-    "Tips": "Find clues from the scene",
+    "Tips": "Obtain clues from investigating the scene",
     "UnlockCondition": [[2, 185703, 185703004]],
-    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
   "900112": {
@@ -896,9 +950,9 @@
     "Sort": 2,
     "TapBubble": ["", "That guy must be stirring things up behind the scenes"],
     "TapBubbleAction": [9019],
-    "Tips": "Find clues from the scene",
+    "Tips": "Obtain clues from investigating the scene",
     "UnlockCondition": [[2, 185703, 185703004]],
-    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
   "900113": {
@@ -908,9 +962,9 @@
     "Sort": 3,
     "TapBubble": ["", "Want to get in on higher-tier deals?", "", "Everything has its price"],
     "TapBubbleAction": [9019],
-    "Tips": "Find clues from the scene",
+    "Tips": "Obtain clues from investigating the scene",
     "UnlockCondition": [[2, 185703, 185703004]],
-    "UnlockedBubble": "New clue acquired!",
+    "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   }
 }

@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "觸碰到敵方目標爆炸，造成<style=\"accent-gn\">100%</style>攻擊力<style=\"magic\">魔法傷害</style>。",
+    "Description": "觸碰到敵方目標爆炸，造成<style=\"accent-gn\">100%</style>攻擊力<style=\"magic\">魔法傷害</style>，屬於幸運效果。",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "對周圍<style=\"accent-gn\">5</style>公尺內目標造成<style=\"accent-gn\">80%</style>攻擊力<style=\"physical\">物理傷害</style>，每多命中一個目標傷害+<style=\"accent-gn\">30%</style>（最高+<style=\"accent-gn\">120%</style>），跟隨<style=\"accent-gn\">普通攻擊</style>技能升級/升階進行成長。",
+    "Description": "對周圍<style=\"accent-gn\">5</style>公尺內目標造成<style=\"accent-gn\">72%</style>攻擊力<style=\"physical\">物理傷害</style>，每多命中一個目標傷害+<style=\"accent-gn\">30%</style>（最高+<style=\"accent-gn\">120%</style>），跟隨<style=\"accent-gn\">普通攻擊</style>技能升級/升階進行成長。",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "能力轉化",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "每層提升<style=\"accent-gn\">25</style>點攻擊力（隨賽季等級提升至<style=\"accent-gn\">40</style>）。",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "刻痕",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "提升<style=\"accent-gn\">6%</style>該固定傷害，<style=\"accent-gn\">1%</style>祈願傷害減免，可疊加<style=\"accent-gn\">10</style>層，移動時每秒扣<style=\"accent-gn\">1</style>層，觸發完美閃避時扣除<style=\"accent-gn\">1</style>層，退出戰鬥狀態後清空。",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "戰意",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "每層攻擊力-<style=\"accent-gn\">1%</style>，至多生效<style=\"accent-gn\">1</style>個，持續<style=\"accent-gn\">10秒</style>，重新添加時層數將重新計算。",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "戰意削減",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "祈願傷害+<style=\"accent-gn\">3%</style>，至多生效<style=\"accent-gn\">1</style>個。",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "激勵",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "提高<style=\"accent-gn\">74</style>點攻擊力（隨賽季等級提升至<style=\"accent-gn\">112</style>），持續<style=\"accent-gn\">8秒</style>，可疊加<style=\"accent-gn\">5</style>層。",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "蓄勢",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "提高<style=\"accent-gn\">400</style>點攻擊力（隨賽季等級提升至<style=\"accent-gn\">700</style>），持續<style=\"accent-gn\">8秒</style>。",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "迸破",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "你的暴擊%、幸運%、急速%、精通%中最高的值+<style=\"accent-gn\">1.5%</style>，持續<style=\"accent-gn\">5秒</style>。",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "屬性交響",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "對<style=\"accent-gn\">3</style>公尺範圍內敵方目標造成<style=\"accent-gn\">500%</style>攻擊力自我調整傷害。",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "夢幻之箭",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "造成<style=\"accent-gn\">4000%</style>*祈願強度的固定傷害。",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "幻滅衝擊",
     "Type": 1
   },
   "1500": {
@@ -2800,91 +2872,91 @@
     "Type": 2
   },
   "2001": {
-    "Description": "",
+    "Description": "<style=\"accent-gn\">5秒</style>內持續受到火屬性傷害，基礎上限<style=\"accent-gn\">10層</style>；若目標處於寒冷和冰凍，則清除其寒冷和冰凍，並造成額外傷害。",
     "Id": 2001,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "燃燒",
     "Type": 1
   },
   "2002": {
-    "Description": "",
+    "Description": "每層移動速度<style=\"accent-gn\">-10%</style>，物理抗性和法術抗性<style=\"accent-gn\">-10%</style>，持續<style=\"accent-gn\">5秒</style>，基礎上限<style=\"accent-gn\">5層</style>，<style=\"accent-gn\">對首領效果減半</style>；若目標處於寒冷層數上限，則轉化為冰凍；若目標處於燃燒，則清除其燃燒，並結算燃燒剩下的所有傷害。",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "寒冷",
     "Type": 1
   },
   "2003": {
-    "Description": "",
+    "Description": "無法行動，持續<style=\"accent-gn\">3秒</style>，結束後獲得冰凍免疫<style=\"accent-gn\">30秒</style>。",
     "Id": 2003,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "冰凍",
     "Type": 1
   },
   "2004": {
-    "Description": "",
+    "Description": "每層治療效果<style=\"accent-gn\">-20%</style>，持續<style=\"accent-gn\">10秒</style>，上限<style=\"accent-gn\">5層</style>。",
     "Id": 2004,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "重傷",
     "Type": 1
   },
   "2005": {
-    "Description": "",
+    "Description": "受到傷害提高<style=\"accent-gn\">6%×腐蝕層數</style>，持續<style=\"accent-gn\">7秒</style>，上限<style=\"accent-gn\">5層</style>。",
     "Id": 2005,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "腐蝕",
     "Type": 1
   },
   "2006": {
-    "Description": "",
+    "Description": "無法行動，下次受到的傷害<style=\"accent-gn\">+50%</style>，同時破除石化，持續<style=\"accent-gn\">2.5秒</style>。",
     "Id": 2006,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "石化",
     "Type": 1
   },
   "2007": {
-    "Description": "",
+    "Description": "無法移動，持續<style=\"accent-gn\">5秒</style>。",
     "Id": 2007,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "定身",
     "Type": 1
   },
   "2008": {
-    "Description": "",
+    "Description": "無法行動，持續<style=\"accent-gn\">2.5秒</style>。",
     "Id": 2008,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "暈眩",
     "Type": 1
   },
   "2009": {
-    "Description": "",
+    "Description": "出現後沿特定路線移動，對觸碰到的怪物造成傷害，存在<style=\"accent-gn\">60秒</style>，基礎上限為<style=\"accent-gn\">2隻</style>。",
     "Id": 2009,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "遊魂",
     "Type": 1
   },
   "2010": {
-    "Description": "",
+    "Description": "不再受到冰凍的影響，持續<style=\"accent-gn\">30秒</style>。",
     "Id": 2010,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "冰凍免疫",
     "Type": 1
   },
   "2011": {
-    "Description": "",
+    "Description": "收到糖果時受到1次傷害，上限<style=\"accent-gn\">10層</style>。",
     "Id": 2011,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "糖果",
     "Type": 1
   },
   "3000": {
@@ -3007,6 +3079,14 @@
     "Text": "灼燒",
     "Type": 3
   },
+  "3015": {
+    "Description": "強制敵方目標朝施放炫目的單位的方向移動。對首領、精英不生效。是一種異常狀態。",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "炫目",
+    "Type": 1
+  },
   "3020": {
     "Description": "包含<style=\"accent-gn\">眩暈</style>、<style=\"accent-gn\">凍結</style>、<style=\"accent-gn\">石化</style>、<style=\"accent-gn\">麻痹</style>、<style=\"accent-gn\">眩目</style>、<style=\"accent-gn\">恐懼</style>。",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "負面效果",
     "Type": 3
+  },
+  "3022": {
+    "Description": "傢俱數量可能影響遊戲幀數，取決於運行設備的性能。",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "傢俱數量",
+    "Type": 1
   }
 }

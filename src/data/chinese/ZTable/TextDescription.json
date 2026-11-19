@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "触碰到敌方目标爆炸，造成<style=\"accent-gn\">100%</style>攻击力<style=\"magic\">魔法伤害</style>。",
+    "Description": "触碰到敌方目标爆炸，造成<style=\"accent-gn\">100%</style>攻击力<style=\"magic\">魔法伤害</style>，属于幸运效果。",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "对周围<style=\"accent-gn\">5</style>米内目标造成<style=\"accent-gn\">80%</style>攻击力<style=\"physical\">物理伤害</style>，每多命中一个目标伤害+<style=\"accent-gn\">30%</style>（最高+<style=\"accent-gn\">120%</style>），跟随<style=\"accent-gn\">普通攻击</style>技能升级/升阶进行成长。",
+    "Description": "对周围<style=\"accent-gn\">5</style>米内目标造成<style=\"accent-gn\">72%</style>攻击力<style=\"physical\">物理伤害</style>，每多命中一个目标伤害+<style=\"accent-gn\">30%</style>（最高+<style=\"accent-gn\">120%</style>），跟随<style=\"accent-gn\">普通攻击</style>技能升级/升阶进行成长。",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "能力转化",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "每层提升<style=\"accent-gn\">25</style>点攻击力（随赛季等级提升至<style=\"accent-gn\">40</style>）。",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "刻痕",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "提升<style=\"accent-gn\">6%</style>该固定伤害，<style=\"accent-gn\">1%</style>祈愿伤害减免，可叠加<style=\"accent-gn\">10</style>层，移动时每秒扣<style=\"accent-gn\">1</style>层，触发完美闪避时扣除<style=\"accent-gn\">1</style>层，退出战斗状态后清空。",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "战意",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "每层攻击力-<style=\"accent-gn\">1%</style>，至多生效<style=\"accent-gn\">1</style>个，持续<style=\"accent-gn\">10秒</style>，重新添加时层数将重新计算。",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "战意削减",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "祈愿伤害+<style=\"accent-gn\">3%</style>，至多生效<style=\"accent-gn\">1</style>个。",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "激励",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "提高<style=\"accent-gn\">74</style>点攻击力（随赛季等级提升至<style=\"accent-gn\">112</style>），持续<style=\"accent-gn\">8秒</style>，可叠加<style=\"accent-gn\">5</style>层。",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "蓄势",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "提高<style=\"accent-gn\">400</style>点攻击力（随赛季等级提升至<style=\"accent-gn\">700</style>），持续<style=\"accent-gn\">8秒</style>。",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "迸破",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "你的暴击%、幸运%、急速%、精通%中最高的值+<style=\"accent-gn\">1.5%</style>，持续<style=\"accent-gn\">5秒</style>。",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "属性交响",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "对<style=\"accent-gn\">3</style>米范围内敌方目标造成<style=\"accent-gn\">500%</style>攻击力自适应伤害。",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "梦幻之箭",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "造成<style=\"accent-gn\">4000%</style>*祈愿强度的固定伤害。",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "幻灭冲击",
     "Type": 1
   },
   "1500": {
@@ -3007,6 +3079,14 @@
     "Text": "灼烧",
     "Type": 3
   },
+  "3015": {
+    "Description": "强制敌方目标朝施放炫目的单位的方向移动。对首领、精英不生效。是一种异常状态。",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "炫目",
+    "Type": 1
+  },
   "3020": {
     "Description": "包含<style=\"accent-gn\">眩晕</style>、<style=\"accent-gn\">冻结</style>、<style=\"accent-gn\">石化</style>、<style=\"accent-gn\">麻痹</style>、<style=\"accent-gn\">眩目</style>、<style=\"accent-gn\">恐惧</style>。",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "负面效果",
     "Type": 3
+  },
+  "3022": {
+    "Description": "家具数量可能影响游戏帧数，取决于运行设备的性能。",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "家具数量",
+    "Type": 1
   }
 }

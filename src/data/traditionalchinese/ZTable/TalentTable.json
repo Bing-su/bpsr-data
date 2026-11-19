@@ -226,8 +226,8 @@
     "Des": "敏捷转换",
     "FightValue": 26,
     "Id": 1101,
-    "TalentDes": "每<style=\"accent-gn\">10</style>點敏捷提供<style=\"accent-gn\">7</style>點急速。",
-    "TalentEffect": [[4, 2, 11122, 7000]],
+    "TalentDes": "每<style=\"accent-gn\">10</style>點敏捷提供<style=\"accent-gn\">21</style>點急速。",
+    "TalentEffect": [[4, 2, 11122, 21000]],
     "TalentIcon": "ui/atlas/talent_passive_11/talent_passive_icon_general_dps_speedtran",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -578,7 +578,7 @@
     "WeaponGroup": 11
   },
   "1122": {
-    "BuffPar": [[50, 2]],
+    "BuffPar": [[40, 2]],
     "BuffValueKey": [["attr", "fightres"]],
     "Des": "光落",
     "FightValue": 26,
@@ -702,7 +702,7 @@
     "Des": "驯鹰流",
     "FightValue": 26,
     "Id": 1129,
-    "TalentDes": "<style=\"accent-gn\">特殊攻擊</style>替換成<linktext=1547><style=\"ItemQuality_5\">二連矢</style></linktext>，並增強使用該技能的能力。<br>每秒回復<style=\"accent-gn\">2</style>點<style=\"accent-gn\">光能</style>。<br>每<style=\"accent-gn\">1%</style>急速提供<style=\"accent-gn\">1%</style><linktext=1547><style=\"ItemQuality_5\">二連矢</style></linktext>冷卻速度。<br>可以馴化<style=\"accent-gn\">獵鷹</style>，協助自己進行戰鬥。<br><br><style=\"accent-gn\">獵鷹</style>始終陪伴自身，當自身職業技能造成傷害時<style=\"accent-gn\">獵鷹</style>有<style=\"accent-gn\">23%</style>固定機率迅速向目標出擊（若造成暴擊則必定出擊），造成自身<style=\"accent-gn\">150%</style>攻擊力<style=\"physical\">物理傷害</style>（跟隨<style=\"accent-gn\">普通攻擊</style>技能升級/升階進行成長）。此外當<style=\"accent-gn\">獵鷹</style>出擊次數超過<style=\"accent-gn\">5</style>次時，下一次<style=\"accent-gn\">獵鷹</style>出擊會將超出的出擊次數和傷害將進行合併。<br><br><i><style=\"text_third_gray\"><size=20>獵鷹將回應你的攻擊，急速和暴擊會加強獵鷹的回應頻率，獵鷹習得閃電衝擊後傷害得到大額提升。</size></style></i>",
+    "TalentDes": "<style=\"accent-gn\">特殊攻擊</style>替換成<linktext=1547><style=\"ItemQuality_5\">二連矢</style></linktext>，並增強使用該技能的能力。<br>每秒回復<style=\"accent-gn\">2</style>點<style=\"accent-gn\">光能</style>。<br>每<style=\"accent-gn\">1%</style>急速提供<style=\"accent-gn\">1%</style><linktext=1547><style=\"ItemQuality_5\">二連矢</style></linktext>冷卻速度。<br>可以馴化<style=\"accent-gn\">獵鷹</style>，協助自己進行戰鬥。<br><br><style=\"accent-gn\">獵鷹</style>始終陪伴自身，當自身光元素職業技能造成傷害時<style=\"accent-gn\">獵鷹</style>有<style=\"accent-gn\">23%</style>固定機率迅速向目標出擊（若造成暴擊則必定出擊），造成自身<style=\"accent-gn\">150%</style>攻擊力<style=\"physical\">物理傷害</style>（跟隨<style=\"accent-gn\">普通攻擊</style>技能升級/升階進行成長）。此外當<style=\"accent-gn\">獵鷹</style>出擊次數超過<style=\"accent-gn\">5</style>次時，下一次<style=\"accent-gn\">獵鷹</style>出擊會將超出的出擊次數和傷害進行合併。<br><br><i><style=\"text_third_gray\"><size=20>獵鷹將回應你的攻擊，急速和暴擊會加強獵鷹的回應頻率，獵鷹習得閃電衝擊後傷害得到大額提升。</size></style></i>",
     "TalentEffect": [
       [6, 2220, 2222],
       [3, 2203290, 1]
@@ -1399,7 +1399,7 @@
   "1166": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "钢制喙聚集",
+    "Des": "急速轰炸",
     "FightValue": 26,
     "Id": 1166,
     "TalentDes": "力量+10",
@@ -1407,7 +1407,7 @@
     "TalentIcon": "ui/atlas/talent_passive_11/gongjian1166",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "鋼製喙聚集",
+    "TalentName": "急速轟炸",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020054, 1]],
@@ -1465,7 +1465,7 @@
     "WeaponGroup": 1
   },
   "120": {
-    "BuffPar": [[10, 22, 10000]],
+    "BuffPar": [[10, 28, 10000]],
     "BuffValueKey": [["num", "attr", "time"]],
     "Des": "雷电之力",
     "FightValue": 26,
@@ -1589,10 +1589,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 1206,
-    "TalentDes": "每<style=\"accent-gn\">3</style>點力量提供<style=\"accent-gn\">3.6</style>點物理防禦。",
+    "TalentDes": "每<style=\"accent-gn\">1</style>點力量提供<style=\"accent-gn\">1.5</style>點物理防禦。",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1206",
     "TalentId": 0,
@@ -2000,7 +2000,7 @@
   "1228": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之二",
     "FightValue": 26,
     "Id": 1228,
     "TalentDes": "力量+10",
@@ -2008,7 +2008,7 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "裁決追擊",
+    "TalentName": "裁決追擊·之二",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -2714,7 +2714,7 @@
   "1267": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之一",
     "FightValue": 26,
     "Id": 1267,
     "TalentDes": "力量+10",
@@ -2722,7 +2722,24 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "裁決追擊",
+    "TalentName": "裁決追擊·之一",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020056, 1]],
+    "WeaponGroup": 12
+  },
+  "1268": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "神圣壁垒",
+    "FightValue": 26,
+    "Id": 1268,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2206690, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_12/jiandun1217",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "神聖壁壘",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -3423,7 +3440,7 @@
     "TalentIcon": "ui/atlas/talent_passive_13/gita1334",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "鳴奏和絃",
+    "TalentName": "鳴奏和弦",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [],
@@ -3534,7 +3551,7 @@
   "1340": {
     "BuffPar": [[1]],
     "BuffValueKey": [["attr"]],
-    "Des": "音爆愈疗",
+    "Des": "音爆延时",
     "FightValue": 26,
     "Id": 1340,
     "TalentDes": "力量+10",
@@ -3542,7 +3559,7 @@
     "TalentIcon": "ui/atlas/talent_passive_13/gita1340",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "音爆癒療",
+    "TalentName": "音爆延時",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020055, 1]],
@@ -3865,7 +3882,7 @@
     "TalentIcon": "ui/atlas/talent_passive_13/gita1358",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "漸強治癒和絃",
+    "TalentName": "漸強治癒和弦",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020055, 1]],
@@ -6722,7 +6739,7 @@
     "Des": "赤红专精流",
     "FightValue": 26,
     "Id": 342,
-    "TalentDes": "獲得<style=\"accent-gn\">赤紅回復</style>效果：命中主目標時（<linktext=1626><style=\"ItemQuality_5\">迷狂炎舞</style></linktext>除外），將造成傷害的<style=\"accent-gn\">20%</style>轉化為<style=\"accent-gn\">赤紅魂槽</style>（<style=\"accent-gn\">赤紅魂槽</style>值不超過生命上限）。當<style=\"accent-gn\">炎魂</style>不足時，可消耗<style=\"accent-gn\">25%</style><style=\"accent-gn\">赤紅魂槽</style>值使<linktext=1626><style=\"ItemQuality_5\">迷狂炎舞</style></linktext>的持續時間延長<style=\"accent-gn\">0.8</style>秒。<br><br><i><style=\"text_third_gray\"><size=20>透過赤紅回復快速積累魂槽，在高攻速加持下高頻觸發迷狂炎舞。進而以此為核心，聯動其他技能效果，在爆發視窗內打出高額傷害。</size></style></i>",
+    "TalentDes": "獲得<style=\"accent-gn\">赤紅回復</style>效果：命中主目標時，將造成傷害的<style=\"accent-gn\">1%</style>轉化為<style=\"accent-gn\">赤紅魂槽</style>（<style=\"accent-gn\">赤紅魂槽</style>值不超過攻擊力*100）。當<style=\"accent-gn\">赤紅魂槽</style>充滿時，下次造成傷害會獲得<style=\"accent-gn\">沸騰戰血</style>效果：<style=\"accent-gn\">赤紅魂槽</style>不再恢復，每秒扣除<style=\"accent-gn\">4%</style>，最終傷害<style=\"accent-gn\">+20%</style>（<style=\"accent-gn\">沸騰戰血</style>期間，<style=\"accent-gn\">赤紅魂槽</style>視為<style=\"accent-gn\">100%</style>）。 脫戰時立即結束<style=\"accent-gn\">沸騰戰血</style>狀態。<br><br><i><style=\"text_third_gray\"><size=20>通過赤紅回復快速積累魂槽，在高攻速加持下高頻觸發迷狂炎舞。進而以此為核心，聯動其他技能效果，在爆發視窗內打出高額傷害。</size></style></i>",
     "TalentEffect": [
       [6, 1605, 1606],
       [3, 2208430, 1]
@@ -7621,7 +7638,7 @@
     "WeaponGroup": 4
   },
   "427": {
-    "BuffPar": [[65, 650, 30000]],
+    "BuffPar": [[80, 800, 30000]],
     "BuffValueKey": [["attr", "attrMax", "time"]],
     "Des": "捕手",
     "FightValue": 26,
@@ -7765,7 +7782,7 @@
     "Des": "斗志昂扬",
     "FightValue": 26,
     "Id": 434,
-    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">風神·破陣之風</style></linktext>將舉起旗槍，為隊友施加<style=\"accent-gn\">激勵</style>並使自身10秒內獲得<style=\"accent-gn\">50%</style>暴擊傷害加成。隨後可施加二段追擊奮力躍入敵陣，對範圍內的敵方目標造成<style=\"physical\">物理傷害</style>並將其擊飛，同時回復<style=\"accent-gn\">100</style>點<style=\"accent-gn\">勇氣</style>。<br><style=\"accent-gn\">激勵</style>：持續<style=\"accent-gn\">10</style>秒，期間所有隊友急速+<style=\"accent-gn\">10%</style>（該效果同時最多生效一個），自身每<style=\"accent-gn\">1</style>秒回復<style=\"accent-gn\">10</style>點<style=\"accent-gn\">勇氣</style>每<style=\"accent-gn\">2</style>秒回復<style=\"accent-gn\">1</style>層<linktext=1152><style=\"ItemQuality_5\">銳利</style></linktext>。",
+    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">風神·破陣之風</style></linktext>將舉起旗槍，為自身施加<style=\"accent-gn\">激勵</style>並使自身10秒內獲得<style=\"accent-gn\">50%</style>暴擊傷害加成。隨後可施加二段追擊奮力躍入敵陣，對範圍內的敵方目標造成<style=\"physical\">物理傷害</style>並將其擊飛，同時回復<style=\"accent-gn\">100</style>點<style=\"accent-gn\">勇氣</style>。<br><style=\"accent-gn\">激勵</style>：持續<style=\"accent-gn\">10</style>秒，期間急速+<style=\"accent-gn\">15%</style>，自身每<style=\"accent-gn\">1</style>秒回復<style=\"accent-gn\">10</style>點<style=\"accent-gn\">勇氣</style>每<style=\"accent-gn\">2</style>秒回復<style=\"accent-gn\">1</style>層<linktext=1152><style=\"ItemQuality_5\">銳利</style></linktext>。",
     "TalentEffect": [
       [6, 1426, 1410],
       [3, 2205310, 1]
@@ -9148,8 +9165,11 @@
     "Des": "花语回升",
     "FightValue": 26,
     "Id": 535,
-    "TalentDes": "<style=\"accent-gn\">終極技能</style><linktext=1531><style=\"ItemQuality_5\">繁盛·希望結界</style></linktext>替換成<linktext=1552><style=\"ItemQuality_5\">花語回升</style></linktext>。",
-    "TalentEffect": [[6, 1509, 1527]],
+    "TalentDes": "<style=\"accent-gn\">終極技能</style><linktext=1531><style=\"ItemQuality_5\">繁盛·希望結界</style></linktext>替換成<linktext=1552><style=\"ItemQuality_5\">花語回升</style></linktext>。<br>施放<linktext=1552><style=\"ItemQuality_5\">花語回升</style></linktext>後<style=\"accent-gn\">10</style>秒內，鼓舞效果翻倍但自身造成最終傷害<style=\"accent-gn\">-10%</style>。",
+    "TalentEffect": [
+      [6, 1509, 1527],
+      [3, 2202390, 1]
+    ],
     "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_aoyiguide",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -9839,6 +9859,23 @@
     "UnlockConsume": [[1020055, 2]],
     "WeaponGroup": 5
   },
+  "572": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "幸运脉动",
+    "FightValue": 26,
+    "Id": 572,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2202030, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_killhealring",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "幸運脈動",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020055, 2]],
+    "WeaponGroup": 5
+  },
   "6": {
     "BuffPar": [],
     "BuffValueKey": [],
@@ -9930,10 +9967,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 901,
-    "TalentDes": "每<style=\"accent-gn\">3</style>點力量提供<style=\"accent-gn\">3.6</style>點物理防禦。",
+    "TalentDes": "每<style=\"accent-gn\">1</style>點力量提供<style=\"accent-gn\">1.5</style>點物理防禦。",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_9/talent_passive_icon_general_tank_deftran",
     "TalentId": 0,

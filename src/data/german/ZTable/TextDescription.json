@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "Explodiert bei Kontakt mit einem Gegner und verursacht <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> des ANG.",
+    "Description": "Explodiert bei Kontakt mit einem Feind und verursacht <style=\"magic\">Magie-SCH</style> in Höhe von <style=\"accent-gn\">100 %</style> ANG. Dies ist ein Glückseffekt.",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "Verursacht <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">80 %</style> des ANG bei Gegnern innerhalb von <style=\"accent-gn\">5 m</style>. Für jeden weiteren getroffenen Gegner erhöht sich der verursachte SCH um <style=\"accent-gn\">30 %</style> (bis zu +<style=\"accent-gn\">120 %</style>, skaliert mit Stufe/Rang des <style=\"accent-gn\">Standardangriffs</style>).",
+    "Description": "Fügt Feinden im Umkreis von <style=\"accent-gn\">5</style> m <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">72 %</style> ANG zu. Für jeden zusätzlich getroffenen Feind erhöht sich der verursachte SCH um <style=\"accent-gn\">30 %</style> (skaliert mit der Stufe/dem Rang von <style=\"accent-gn\">Standardangriff</style>, bis zu +<style=\"accent-gn\">120 %</style>).",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1708,7 +1708,7 @@
     "Id": 1213,
     "Par": 3401213,
     "ShowRule": 1,
-    "Text": "Verbrennung.",
+    "Text": "Verbrennung",
     "Type": 3
   },
   "1214": {
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "Fähigkeitsumwandlung",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "Jeder Stapel gewährt <style=\"accent-gn\">25</style> ANG (steigt mit der Saisonstufe auf <style=\"accent-gn\">40</style>).",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Gravur",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "Erhöht diesen festen Schaden um <style=\"accent-gn\">6 %</style> und die Eid-SCH-Reduktion um <style=\"accent-gn\">1 %</style>, bis zu <style=\"accent-gn\">10</style>-mal stapelbar. Verliert während der Bewegung <style=\"accent-gn\">1</style> Stapel pro Sekunde, verliert <style=\"accent-gn\">1</style> Stapel beim Auslösen von Perfektes Ausweichen, und alle Stapel werden beim Verlassen des Kampfes gelöscht.",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blutdurst",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "Jeder Stapel verringert den ANG um <style=\"accent-gn\">1 %</style>. Nur <style=\"accent-gn\">1</style> Instanz kann wirksam werden. Hält <style=\"accent-gn\">10 Sek.</style> an, und bei erneuter Anwendung wird die Stapelanzahl neu berechnet.",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blutdurstverringerung",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "Eid-SCH +<style=\"accent-gn\">3 %</style>. Nur <style=\"accent-gn\">1</style> Instanz kann wirksam werden.",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspirieren",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "Erhöht den ANG um <style=\"accent-gn\">74</style> (skaliert mit der Saisonstufe auf <style=\"accent-gn\">112</style>), hält <style=\"accent-gn\">8 Sek.</style> an und ist bis zu <style=\"accent-gn\">5</style>-mal stapelbar.",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Aufladung",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "Erhöht den ANG um <style=\"accent-gn\">400</style> (skaliert mit der Saisonstufe auf <style=\"accent-gn\">700</style>) und hält <style=\"accent-gn\">8 Sek.</style> an.",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Entladung",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "Der jeweils höchste Wert von Krit%, Glück%, Tempo% und Meisterschaft% wird für <style=\"accent-gn\">5 Sek.</style> um <style=\"accent-gn\">1,5 %</style> erhöht.",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Werte-Symphonie",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "Fügt feindlichen Zielen im Umkreis von <style=\"accent-gn\">3</style> m <style=\"accent-gn\">500 %</style> ANG als Adaptiv-SCH zu.",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Phantompfeil",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "Verursacht festen Schaden in Höhe von <style=\"accent-gn\">4000 %</style> × Eid-Stärke.",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Desillusionierungsschlag",
     "Type": 1
   },
   "1500": {
@@ -2800,91 +2872,91 @@
     "Type": 2
   },
   "2001": {
-    "Description": "",
+    "Description": "Verursacht über <style=\"accent-gn\">5 s</style> kontinuierlich Feuer-SCH, bis zu einem Basismaximum von <style=\"accent-gn\">10 Stapeln</style>. Ist das Ziel von Kälte oder Erstarrt betroffen, werden diese Effekte entfernt und zusätzlicher SCH verursacht.",
     "Id": 2001,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Verbrennung",
     "Type": 1
   },
   "2002": {
-    "Description": "",
+    "Description": "Jeder Stapel gewährt Bewegungsgeschwindigkeit <style=\"accent-gn\">-10 %</style> sowie physischen Widerstand und Magiewiderstand <style=\"accent-gn\">-10 %</style> für <style=\"accent-gn\">5 s</style>, bis zu einem Basismaximum von <style=\"accent-gn\">5 Stapeln</style>. <style=\"accent-gn\">Effekt gegen Bosse halbiert</style>. Erreicht Kälte das Stapellimit, wird sie in Erstarrt umgewandelt. Ist das Ziel von Verbrennung betroffen, wird diese entfernt und der gesamte verbleibende SCH sofort verursacht.",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Kälte",
     "Type": 1
   },
   "2003": {
-    "Description": "",
+    "Description": "Handlungsunfähig für <style=\"accent-gn\">3 s</style>. Gewährt nach Ablauf für <style=\"accent-gn\">30 s</style> Immunität gegen Erstarrt.",
     "Id": 2003,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Erstarrt",
     "Type": 1
   },
   "2004": {
-    "Description": "",
+    "Description": "Jeder Stapel verringert die Heilwirkung für <style=\"accent-gn\">10 s</style> um <style=\"accent-gn\">20 %</style>. Bis zu <style=\"accent-gn\">5-mal</style> stapelbar.",
     "Id": 2004,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Wunde",
     "Type": 1
   },
   "2005": {
-    "Description": "",
+    "Description": "Erhöht den erlittenen SCH für <style=\"accent-gn\">7 s</style> um <style=\"accent-gn\">6 % × Korrosionsstapel</style>, bis zu <style=\"accent-gn\">5 Stapel</style>.",
     "Id": 2005,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Zersetzung",
     "Type": 1
   },
   "2006": {
-    "Description": "",
+    "Description": "Handlungsunfähig für <style=\"accent-gn\">2,5 s</style>. Der nächste erlittene Treffer verursacht <style=\"accent-gn\">+50 %</style> SCH und bricht Versteinerung.",
     "Id": 2006,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Versteinert",
     "Type": 1
   },
   "2007": {
-    "Description": "",
+    "Description": "Bewegungsunfähig für <style=\"accent-gn\">5 s</style>.",
     "Id": 2007,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Verwurzelt",
     "Type": 1
   },
   "2008": {
-    "Description": "",
+    "Description": "Handlungsunfähig für <style=\"accent-gn\">2,5 s</style>.",
     "Id": 2008,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Betäuben",
     "Type": 1
   },
   "2009": {
-    "Description": "",
+    "Description": "Folgt nach dem Erscheinen einer festgelegten Route und fügt berührten Monstern SCH zu. Bleibt für <style=\"accent-gn\">60 s</style> bestehen, mit einem Basismaximum von <style=\"accent-gn\">2</style>.",
     "Id": 2009,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Geist",
     "Type": 1
   },
   "2010": {
-    "Description": "",
+    "Description": "Gewährt für <style=\"accent-gn\">30 s</style> Immunität gegen Erstarrt.",
     "Id": 2010,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Immunität gegen Erstarrt",
     "Type": 1
   },
   "2011": {
-    "Description": "",
+    "Description": "Erleidet beim Erhalt einer Süßigkeit 1-mal SCH, bis zu <style=\"accent-gn\">10-mal</style> stapelbar.",
     "Id": 2011,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Süßigkeit",
     "Type": 1
   },
   "3000": {
@@ -3007,6 +3079,14 @@
     "Text": "Verbrennung",
     "Type": 3
   },
+  "3015": {
+    "Description": "Zwingt feindliche Ziele, sich auf die Einheit zuzubewegen, die Blenden verursacht hat. Dieser Effekt betrifft keine Bosse oder Elite-Feinde. Ein Statusleiden.",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Blenden",
+    "Type": 1
+  },
   "3020": {
     "Description": "Umfasst: <style=\"accent-gn\">Betäuben</style>, <style=\"accent-gn\">Erstarrt</style>, <style=\"accent-gn\">Versteinert</style>, <style=\"accent-gn\">Gelähmt</style>, <style=\"accent-gn\">Blenden</style> und <style=\"accent-gn\">Furcht</style>.",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "Debuffs",
     "Type": 3
+  },
+  "3022": {
+    "Description": "Die Anzahl der Möbel kann die Bildrate des Spiels beeinflussen, abhängig von der Leistung deines Geräts.",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Möbelanzahl",
+    "Type": 1
   }
 }

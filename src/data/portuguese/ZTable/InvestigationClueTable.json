@@ -361,7 +361,7 @@
   },
   "100312": {
     "Answer": ["", "Diagrama de Desmontagem"],
-    "Clue": "<tagId=8>*Os projetos para o desmantelamento do Legado Divino do núcleo do raio* <tagId=5>*foram encontrados na Bancada de Trabalho nº 2 de Feyn*, <tagId=6>*muitos artesãos estão interessados em estudar este Legado Divino com seu poderoso poder do trovão*, <tagId=10>*mas apenas Tauros sabe como usá-lo corretamente*.",
+    "Clue": "<tagId=8>*Os projetos para o desmantelamento do Legado Divino do núcleo do raio* <tagId=5>*foram encontrados na Bancada de Trabalho nº 2 de Feyn*, <tagId=6>*muitos artesãos estão interessados em estudar este Legado Divino com seu poderoso poder do trovão*, <tagId=10>*mas apenas Dorothy sabe como usá-lo corretamente*.",
     "Id": 100312,
     "Sort": 2,
     "TapBubble": ["", "Que informação poderia estar escondida nisso..."],
@@ -511,6 +511,65 @@
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
   },
+  "1400111": {
+    "Answer": [
+      "",
+      "Competiu na Derrota do Demônio do Trovão no Carnaval",
+      "",
+      "Era uma aventureira"
+    ],
+    "Clue": "\"Não se preocupe, eu também já fui uma <tagId=1>*aventureira*. Vá com calma. Nos vemos no Rio Caído.\" \"Foi a mesma coisa no Carnaval.<tagId=2>*Faltou tão pouco na Derrota do Demônio do Trovão — quase alcancei a sua pontuação.* Pensando bem, ainda fico um pouco frustrada com isso.\"",
+    "Id": 1400111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "A Carrie mencionou mais de uma vez que costumava ser uma aventureira. O Departamento dos Pioneiros deve ter registros disso.",
+      "",
+      "Algo naquilo já parecia estranho na época... Se ela realmente competiu, os resultados dela deveriam estar registrados."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Lembrar o que a Carrie disse",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "Nova pista obtida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400112": {
+    "Answer": [
+      "",
+      "Conselheira de Asterleeds",
+      "",
+      "Os pais moram perto da Estátua do Herói em Minsterhorn"
+    ],
+    "Clue": "\"Heh, que surpresa é essa? O traje de <tagId=3>*conselheira* é adequado, mas para resolver as coisas por aí, esta roupa é a mais confortável.\" \"Minsterhorn.<tagId=4>*Meus pais sempre moraram lá, perto da Estátua do Herói.*\"",
+    "Id": 1400112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "O Lamond também a apresentou para mim como conselheira. O Conselho deve conhecer a identidade dela melhor do que ninguém.",
+      "",
+      "Ela foi muito específica sobre onde a família mora. Se os pais dela realmente morarem lá, talvez possamos confirmar mais coisas."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Lembrar o que a Carrie disse",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "Nova pista obtida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400113": {
+    "Answer": ["", "Obsessão incomum por \"permanecer na memória\" e \"cair no esquecimento\""],
+    "Clue": "\"Às vezes acho que a existência de uma pessoa é algo curioso. Mesmo quando alguém não está aqui, contanto que ainda se lembrem dela, parece que está por perto.<tagId=5>*Mas se todas as memórias sobre uma pessoa desaparecessem... seria como se ela nunca tivesse existido?*\"",
+    "Id": 1400113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Na hora, parecia apenas que ela tinha dito algo estranho do nada. Pensando bem, a Carrie parecia obcecada por \"permanecer na memória\" e \"cair no esquecimento\"."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Lembrar o que a Carrie disse",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "Nova pista obtida!",
+    "UnlockedBubbleAction": 9019
+  },
   "200111": {
     "Answer": [
       "",
@@ -523,7 +582,7 @@
     "Sort": 1,
     "TapBubble": ["", "O ancião da vila fez seu julgamento..."],
     "TapBubbleAction": [9019],
-    "Tips": "Obter pistas de inquéritos",
+    "Tips": "Obtenha pistas em suas investigações",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
@@ -540,7 +599,7 @@
     "Sort": 2,
     "TapBubble": [],
     "TapBubbleAction": [9019],
-    "Tips": "Obter pistas de inquéritos",
+    "Tips": "Obtenha pistas em suas investigações",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
@@ -557,7 +616,7 @@
     "Sort": 3,
     "TapBubble": [],
     "TapBubbleAction": [9019],
-    "Tips": "Obter pistas de inquéritos",
+    "Tips": "Obtenha pistas em suas investigações",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
@@ -783,7 +842,7 @@
     "Sort": 1,
     "TapBubble": ["", "Eu nunca vi uma névoa vermelha antes."],
     "TapBubbleAction": [9019],
-    "Tips": "Obtenha pistas fazendo perguntas",
+    "Tips": "Obtenha pistas em suas investigações",
     "UnlockCondition": [[2, 185592, 185592004]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
@@ -795,7 +854,7 @@
     "Sort": 2,
     "TapBubble": ["", "Uma mente calma parece enfraquecer o impacto do pesadelo."],
     "TapBubbleAction": [9019],
-    "Tips": "Obtenha pistas fazendo perguntas",
+    "Tips": "Obtenha pistas em suas investigações",
     "UnlockCondition": [[2, 185592, 185592004]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
@@ -810,7 +869,7 @@
       "Um Legado recém-descoberto nas Terras Altas, que parece ter um efeito calmante."
     ],
     "TapBubbleAction": [9026],
-    "Tips": "Obtenha pistas fazendo perguntas",
+    "Tips": "Obtenha pistas em suas investigações",
     "UnlockCondition": [[2, 185592, 185592004]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
@@ -937,7 +996,7 @@
       "Dessa forma, ele pode tomar o controle da caravana."
     ],
     "TapBubbleAction": [9019],
-    "Tips": "Encontre pistas na cena.",
+    "Tips": "Obter pistas investigando a cena",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
@@ -949,7 +1008,7 @@
     "Sort": 2,
     "TapBubble": ["", "Aquele cara deve estar agitando as coisas nos bastidores."],
     "TapBubbleAction": [9019],
-    "Tips": "Encontre pistas na cena.",
+    "Tips": "Obter pistas investigando a cena",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019
@@ -961,7 +1020,7 @@
     "Sort": 3,
     "TapBubble": ["", "Quer participar de negócios de alto nível...?", "", "Tudo tem um preço"],
     "TapBubbleAction": [9019],
-    "Tips": "Encontre pistas na cena.",
+    "Tips": "Obter pistas investigando a cena",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Nova pista obtida!",
     "UnlockedBubbleAction": 9019

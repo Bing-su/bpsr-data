@@ -73,7 +73,7 @@
     "AdditionalTargetCompleteMaxNum": [50, 100],
     "AdditionalTargetIdleScore": [50, 25],
     "AdditionalTargetName": [
-      "1. Stay in target area to obtain score",
+      "1. Stay in target area to obtain score.",
       "2. Receive 1 vote ticket every 150s",
       "3. Recipients gain 1 Popularity per vote. Voters gain extra score ({*val1*}/{*val2*}).",
       "4. Recipients also gain extra score ({*val1*}/{*val2*}).",
@@ -95,7 +95,8 @@
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
       "1. Stay near Gold Nappo and Silver Nappo to obtain score. Each session lasts 10 minutes.",
-      "2. Receive a large amount of Friendship Points, Silver Star Badges, and gear materials for your first participation each day."
+      "2. Starlit Gleanings will appear on Asterleeds Beach during the first session of each day. Open them to earn commemorative reading materials or event rewards!",
+      "3. During the event, visit Aleya to take part in the Fireworks Trivia."
     ],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
@@ -125,7 +126,7 @@
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
-      "1. Stay in target area to obtain score",
+      "1. Stay in target area to obtain score.",
       "2. There are two morphable zones within the event area. Interact with them to transform into a random Winterfest object."
     ],
     "AdditionalTargetToEntriesMessage": [],
@@ -145,7 +146,7 @@
     "AdditionalTargetCompleteMaxNum": [10, 20],
     "AdditionalTargetIdleScore": [200, 100],
     "AdditionalTargetName": [
-      "1. Stay in target area to obtain score",
+      "1. Stay in target area to obtain score.",
       "2. There are red, green, and blue fireworks, and 1 random firework is granted every 15s.",
       "3. Load fireworks into the firework base to gain extra score ({*val1*}/{*val2*}).",
       "4. Launch a loaded firework launcher to grant extra score to all players in the area ({*val1*}/{*val2*})."
@@ -164,7 +165,7 @@
     "AdditionalTargetCompleteMaxNum": [10],
     "AdditionalTargetIdleScore": [300],
     "AdditionalTargetName": [
-      "1. Stay in target area to obtain score",
+      "1. Stay in target area to obtain score.",
       "2. Receive 1 lantern shard every 100s while in the area. Collect 3 shards to summon a Spring Lantern.",
       "3. Release a lantern to gain extra score ({*val1*}/{*val2*})."
     ],
@@ -182,7 +183,7 @@
     "AdditionalTargetCompleteMaxNum": [240],
     "AdditionalTargetIdleScore": [10],
     "AdditionalTargetName": [
-      "1. Stay in target area to obtain score",
+      "1. Stay in target area to obtain score.",
       "2. The dance troupe switches dances every ten minutes—keep up with the rhythm and don't fall behind!",
       "3. Groove with the Lead Dancer to earn extra points ({*val1*}/{*val2*})"
     ],
@@ -241,7 +242,7 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["1. Stay in target area to obtain score", ""],
+    "AdditionalTargetName": ["1. Stay in target area to obtain score.", "  "],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3004,
@@ -255,7 +256,7 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["1. Stay in target area to obtain score", ""],
+    "AdditionalTargetName": ["1. Stay in target area to obtain score.", "  "],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3005,
@@ -269,11 +270,14 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["", ""],
+    "AdditionalTargetName": [
+      "1. Stay in target area to obtain score.",
+      "2. In the event area, you can find the Pumpkin Scarecrow to transform, or find the Pumpkin Leader to join the Scare Parade."
+    ],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3006,
-    "Name": "",
+    "Name": "Scare Parade",
     "ScoreCycle": [1, 5],
     "TargetCompleteClientBuff": [],
     "TargetScore": 500

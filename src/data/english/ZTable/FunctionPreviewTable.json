@@ -325,7 +325,7 @@
     "Preview": 44,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_51",
-    "PreviewText": "Survive the hazardous unknown and finish the timed spatial investigation to earn high-value gear and materials!"
+    "PreviewText": "◆Survive the hazardous unknown and finish the timed survey to earn high-value gear and materials!"
   },
   "810024": {
     "ConditionShow": [[27, 2, 0, 0, 0]],
@@ -333,7 +333,7 @@
     "Preview": 6,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_52",
-    "PreviewText": "Complete Battle Pass Quests and Achievements to raise your Season Title and earn Emblems. More fun modes, generous rewards, and a points shop are waiting for you. Clean it out!"
+    "PreviewText": "◆Complete Season Pass for achievements. <br>Unlock emblems and items!"
   },
   "810025": {
     "ConditionShow": [],
@@ -376,7 +376,7 @@
     "PreviewText": "The Daylight Dragon, master of time, awaits in the \"Dragon Shackles\" raid. Seek safety in the rifts of light and shadow before seizing the moment to strike. Fight now to earn generous rewards!"
   },
   "810039": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810039,
     "Preview": 48,
     "PreviewAward": 22000010,
@@ -384,7 +384,7 @@
     "PreviewText": "Venture deep into the forbidden domain of the Divines, awaken the slumbering ancient deity's remains, and face the final judgment of annihilation energy! Earn Gauntlets and Earrings drops, plus exclusive appearance items!"
   },
   "810040": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810040,
     "Preview": 49,
     "PreviewAward": 22000010,
@@ -392,7 +392,7 @@
     "PreviewText": "Infiltrate the Mech Facility deep within Sislesa Mine and expose the Blackstone Legion's crimes with hard evidence! Earn Helmet and Necklace drops, plus exclusive appearance items!"
   },
   "810041": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810041,
     "Preview": 50,
     "PreviewAward": 22000010,
@@ -400,7 +400,7 @@
     "PreviewText": "Sink into the dreamscape woven by the Illusory Bloom, awaken the shadows buried in the past, and resolve lingering regrets! Earn Armor and Ring drops, plus exclusive appearance items!"
   },
   "810042": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810042,
     "Preview": 51,
     "PreviewAward": 22000010,
@@ -408,7 +408,7 @@
     "PreviewText": "Adventurers who trespass into the dense fog are both hunter and prey! Earn Bracelet (L) and Bracelet (R) drops, plus exclusive appearance items!"
   },
   "810043": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810043,
     "Preview": 52,
     "PreviewAward": 22000010,
@@ -416,7 +416,7 @@
     "PreviewText": "Illusions are nourished within the Illusion. Go deep into the Towering Ruin and purify the corrupted remains! Earn Boots and Charm drops, plus exclusive appearance items!"
   },
   "810044": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810044,
     "Preview": 53,
     "PreviewAward": 22000010,
@@ -440,7 +440,7 @@
     "PreviewText": "At the lower levels of the ruins of the Bapharian Divines, the hidden and enclosed environment has become a breeding ground for shadows. As a result, illicit dealings from the highlands inevitably make their way here."
   },
   "810047": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810047,
     "Preview": 54,
     "PreviewAward": 22000010,
@@ -448,11 +448,75 @@
     "PreviewText": "◆Survive the hazardous unknown and finish the timed survey to earn high-value gear and materials!"
   },
   "810048": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810048,
     "Preview": 5,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_66",
     "PreviewText": "Complete Season Pass quests and achievements to advance your Season Title and earn and develop Emblems. More fun modes, generous rewards, and a Season Store await—clear it out!"
+  },
+  "810054": {
+    "ConditionShow": [],
+    "Id": 810054,
+    "Preview": 57,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_74",
+    "PreviewText": "The Humanoid Imagine, Boyce, who was meant to aid in battle, has transformed into an \"Anti-Imagine\" Mimic Form. Defeat it to restore peace! Earn gauntlet and earrings drops, along with exclusive appearances!"
+  },
+  "810055": {
+    "ConditionShow": [],
+    "Id": 810055,
+    "Preview": 58,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_73",
+    "PreviewText": "Disturbed by the Mirage Medium, the Unit X Analyzer has detected space turbulence within the Dragon Claw Valley. Adventurers must set out once more to correct this malfunction. Earn helmet and necklace drops, along with exclusive appearances!"
+  },
+  "810056": {
+    "ConditionShow": [],
+    "Id": 810056,
+    "Preview": 59,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_72",
+    "PreviewText": "The Barren Courtyard was once chosen by someone as the site of a forbidden ritual. Now, it has become a boundary where illusion and reality intertwine. Earn armor and ring drops, along with exclusive appearances!"
+  },
+  "810057": {
+    "ConditionShow": [],
+    "Id": 810057,
+    "Preview": 60,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_75",
+    "PreviewText": "Disturbed by the Mirage Medium, the Unit X Analyzer has detected space turbulence within the Moonveil Wilds. Adventurers must set out once more to correct this malfunction. Earn bracelet (L) and bracelet (R) drops, along with exclusive appearances!"
+  },
+  "810058": {
+    "ConditionShow": [],
+    "Id": 810058,
+    "Preview": 61,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_76",
+    "PreviewText": "Disturbed by the Mirage Medium, the Unit X Analyzer has detected space turbulence within the Dark Mist Fortress. Adventurers must set out once more to correct this malfunction. Earn boots and charm drops, along with exclusive appearances!"
+  },
+  "810059": {
+    "ConditionShow": [],
+    "Id": 810059,
+    "Preview": 62,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_77",
+    "PreviewText": "Beyond this point, adventurers will face the true challenge that has lurked throughout their journey. Earn weapon drops, along with exclusive appearances!"
+  },
+  "810060": {
+    "ConditionShow": [],
+    "Id": 810060,
+    "Preview": 63,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_78",
+    "PreviewText": "◆Survive the hazardous unknown and finish the timed survey to earn high-value gear and materials!"
+  },
+  "810061": {
+    "ConditionShow": [],
+    "Id": 810061,
+    "Preview": 5,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_79",
+    "PreviewText": "◆Complete Season Pass for achievements. <br>Unlock emblems and items!"
   }
 }

@@ -163,6 +163,22 @@
     ],
     "ReviewBubbleAction": [9047]
   },
+  "140011": {
+    "Clue": [1400111, 1400112, 1400113],
+    "Conclusion": "Carrie behauptete, eine Abenteurerin des Pionierbüros gewesen zu sein, beim Karneval am Donnerdämon-Kampf teilgenommen zu haben und später ein Ratsmitglied von Asterleeds geworden zu sein. Außerdem sagte sie, dass ihre Eltern schon immer nahe der Statue des Helden in Klosterkirchen-Horn gelebt haben. All das sollte überprüfbare Spuren hinterlassen haben.",
+    "ConclusionAction": 9033,
+    "ConclusionBubble": "Anstatt weiter zu rätseln, wer sie ist, sollten wir lieber prüfen, wie viel davon tatsächlich stimmt.",
+    "ConclusionTips": "Untersuche die von Carrie hinterlassenen Identitätshinweise",
+    "Id": 140011,
+    "InferenceStep": [1400111, 1400112, 1400113],
+    "IockedBubble": ["Sie hat ziemlich viel erzählt... Denk noch einmal genau nach."],
+    "IockedBubbleAction": [9019],
+    "QuickReasoning": true,
+    "ReviewBubble": [
+      "Die Hinweise zu Carries Identität sind geordnet. Als Nächstes müssen wir nur noch überprüfen, ob diese Erlebnisse wirklich stattgefunden haben."
+    ],
+    "ReviewBubbleAction": [9047]
+  },
   "20011": {
     "Clue": [200111, 200112, 200113],
     "Conclusion": "Jeder hat eine andere Meinung. Besprechen wir das mit Airona.",
@@ -231,7 +247,7 @@
     "ConclusionTips": "Geh zur östlichen Klippe",
     "Id": 40011,
     "InferenceStep": [400111, 400112, 400113],
-    "IockedBubble": ["Nein, es ist noch zu früh, um eine Schlussfolgerung zu ziehen."],
+    "IockedBubble": ["Nein, ich kann noch keine Schlussfolgerung ziehen."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Vielleicht habe ich ja wirklich Talent für Detektivarbeit!"],
@@ -259,7 +275,7 @@
     "ConclusionTips": "Finde Boyce auf der Straße vor der Säule der Göttlichkeit",
     "Id": 70011,
     "InferenceStep": [700111, 700112],
-    "IockedBubble": ["Nein, es ist noch zu früh, um eine Schlussfolgerung zu ziehen."],
+    "IockedBubble": ["Nein, ich kann noch keine Schlussfolgerung ziehen."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Das muss es sein."],
@@ -287,7 +303,7 @@
     "ConclusionTips": "Besprich dich mit Airona.",
     "Id": 90011,
     "InferenceStep": [900111, 900112, 900113],
-    "IockedBubble": ["Nein, es ist noch zu früh, um eine Schlussfolgerung zu ziehen."],
+    "IockedBubble": ["Nein, ich kann noch keine Schlussfolgerung ziehen."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Alles durchschaut."],

@@ -1,9 +1,9 @@
 {
   "10": {
-    "AreaId": 0,
+    "AreaId": 12,
     "ExtraMapImageName": "",
-    "GroupId": 0,
-    "GroupOrder": 0,
+    "GroupId": 1,
+    "GroupOrder": 40,
     "Id": 10,
     "InnerIcon": "",
     "IsExportGlobal": true,
@@ -11,14 +11,16 @@
     "IsShowMask": false,
     "IsShowMiniMap": true,
     "LevelDataPath": "Assets/EditorData/leveldata/fld003",
-    "MainMapRatio": 0,
+    "MainMapRatio": 50,
     "MapBgPath": "ui/textures/map/map_bg",
     "MapHierarchy": [],
     "MapHierarchyName": ["Terres défrichées", "Tréfonds"],
     "MapStyleType": 0,
     "MiniMapSizeScale": 220,
     "Name": "溪谷",
-    "WorldMapCenterPos": []
+    "WorldMapCenterPos": [
+      366.20001220703125, -295.29998779296875, 203.83999633789062, 178.8800048828125
+    ]
   },
   "1001": {
     "AreaId": 0,
@@ -210,7 +212,7 @@
     "WorldMapCenterPos": []
   },
   "11": {
-    "AreaId": 12,
+    "AreaId": 11,
     "ExtraMapImageName": "",
     "GroupId": 1,
     "GroupOrder": 1,
@@ -228,7 +230,9 @@
     "MapStyleType": 1,
     "MiniMapSizeScale": 100,
     "Name": "游星岛",
-    "WorldMapCenterPos": [-108.0, -318.0, 78.73999786376953, 76.61000061035156]
+    "WorldMapCenterPos": [
+      -393.70001220703125, -317.79998779296875, 78.44000244140625, 76.31999969482422
+    ]
   },
   "1101": {
     "AreaId": 0,
@@ -755,6 +759,111 @@
     "Name": "巨龙爪痕·极限空间",
     "WorldMapCenterPos": []
   },
+  "1231": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1231,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "弥妄·巨龙爪痕·不稳定空间",
+    "WorldMapCenterPos": []
+  },
+  "1232": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1232,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "弥妄·巨龙爪痕·不稳定空间",
+    "WorldMapCenterPos": []
+  },
+  "1233": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1233,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "弥妄·巨龙爪痕·极限空间",
+    "WorldMapCenterPos": []
+  },
+  "1234": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1234,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "弥妄·巨龙爪痕·极限空间",
+    "WorldMapCenterPos": []
+  },
+  "1235": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1235,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "弥妄·巨龙爪痕·极限空间",
+    "WorldMapCenterPos": []
+  },
   "1301": {
     "AreaId": 0,
     "ExtraMapImageName": "",
@@ -887,6 +996,90 @@
     "GroupId": 0,
     "GroupOrder": 0,
     "Id": 1333,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "黯影堡垒·极限空间",
+    "WorldMapCenterPos": []
+  },
+  "1341": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1341,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "黯影堡垒·普通",
+    "WorldMapCenterPos": []
+  },
+  "1342": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1342,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "黯影堡垒·普通",
+    "WorldMapCenterPos": []
+  },
+  "1343": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1343,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "黯影堡垒·极限空间",
+    "WorldMapCenterPos": []
+  },
+  "1344": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1344,
     "InnerIcon": "",
     "IsExportGlobal": false,
     "IsShowMainMap": true,
@@ -1362,6 +1555,111 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "岩蛇巢穴·极限空间",
+    "WorldMapCenterPos": []
+  },
+  "1901": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1901,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "远天的神槛剧情本",
+    "WorldMapCenterPos": []
+  },
+  "1911": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1911,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "远天的神槛剧情本",
+    "WorldMapCenterPos": []
+  },
+  "1912": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1912,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "远天的神槛剧情本",
+    "WorldMapCenterPos": []
+  },
+  "1931": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1931,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "远天的神槛剧情本",
+    "WorldMapCenterPos": []
+  },
+  "1932": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 1932,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "远天的神槛剧情本",
     "WorldMapCenterPos": []
   },
   "20001": {
@@ -3989,6 +4287,195 @@
     "Name": "环海石礁·极限空间",
     "WorldMapCenterPos": []
   },
+  "6591": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6591,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "镜中的审判不稳定单人",
+    "WorldMapCenterPos": []
+  },
+  "6592": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6592,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "镜中的审判不稳定多人",
+    "WorldMapCenterPos": []
+  },
+  "6593": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6593,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "镜中的审判极限困难",
+    "WorldMapCenterPos": []
+  },
+  "6594": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6594,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": true,
+    "IsShowMask": false,
+    "IsShowMiniMap": true,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": [],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "镜中的审判极限大师",
+    "WorldMapCenterPos": []
+  },
+  "6610": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6610,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": false,
+    "IsShowMask": false,
+    "IsShowMiniMap": false,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": ["Niveau supérieur", "Niveau inférieur"],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "荒芜之庭剧情本",
+    "WorldMapCenterPos": []
+  },
+  "6611": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6611,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": false,
+    "IsShowMask": false,
+    "IsShowMiniMap": false,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": ["Niveau supérieur", "Niveau inférieur"],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "荒芜之庭不稳定单人",
+    "WorldMapCenterPos": []
+  },
+  "6612": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6612,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": false,
+    "IsShowMask": false,
+    "IsShowMiniMap": false,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": ["Niveau supérieur", "Niveau inférieur"],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "荒芜之庭不稳定多人",
+    "WorldMapCenterPos": []
+  },
+  "6613": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6613,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": false,
+    "IsShowMask": false,
+    "IsShowMiniMap": false,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": ["Niveau supérieur", "Niveau inférieur"],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "荒芜之庭极限困难",
+    "WorldMapCenterPos": []
+  },
+  "6615": {
+    "AreaId": 0,
+    "ExtraMapImageName": "",
+    "GroupId": 0,
+    "GroupOrder": 0,
+    "Id": 6615,
+    "InnerIcon": "",
+    "IsExportGlobal": false,
+    "IsShowMainMap": false,
+    "IsShowMask": false,
+    "IsShowMiniMap": false,
+    "LevelDataPath": "",
+    "MainMapRatio": 0,
+    "MapBgPath": "ui/textures/map/dungeon_map_bg",
+    "MapHierarchy": [],
+    "MapHierarchyName": ["Niveau supérieur", "Niveau inférieur"],
+    "MapStyleType": 0,
+    "MiniMapSizeScale": 140,
+    "Name": "荒芜之庭极限大师",
+    "WorldMapCenterPos": []
+  },
   "7": {
     "AreaId": 2,
     "ExtraMapImageName": "",
@@ -4009,7 +4496,7 @@
     "MiniMapSizeScale": 220,
     "Name": "平原",
     "WorldMapCenterPos": [
-      53.79999923706055, -324.29998779296875, 174.72000122070312, 193.44000244140625
+      -230.6999969482422, -323.1000061035156, 174.74000549316406, 193.4600067138672
     ]
   },
   "71": {
@@ -4032,7 +4519,7 @@
     "MiniMapSizeScale": 140,
     "Name": "花明的山谷",
     "WorldMapCenterPos": [
-      13.300000190734863, -227.39999389648438, 97.76000213623047, 65.5199966430664
+      -271.70001220703125, -227.6999969482422, 99.63999938964844, 66.77999877929688
     ]
   },
   "72": {
@@ -4054,7 +4541,7 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "溺光的森林",
-    "WorldMapCenterPos": [117.0, -198.89999389648438, 130.0, 80.08000183105469]
+    "WorldMapCenterPos": [-169.10000610351562, -199.39999389648438, 132.5, 81.62000274658203]
   },
   "73": {
     "AreaId": 5,
@@ -4075,9 +4562,7 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "风啸的峡谷",
-    "WorldMapCenterPos": [
-      226.8000030517578, -290.29998779296875, 102.95999908447266, 95.68000030517578
-    ]
+    "WorldMapCenterPos": [-59.5, -290.1000061035156, 104.94000244140625, 97.5199966430664]
   },
   "74": {
     "AreaId": 0,
@@ -4098,7 +4583,7 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "地下街区",
-    "WorldMapCenterPos": [123.0, -404.0, 70.0, 70.0]
+    "WorldMapCenterPos": [-153.0, -398.0, 72.0, 72.0]
   },
   "75": {
     "AreaId": 6,
@@ -4120,7 +4605,7 @@
     "MiniMapSizeScale": 140,
     "Name": "黯蓝深窟",
     "WorldMapCenterPos": [
-      -37.70000076293945, -444.70001220703125, 118.55999755859375, 117.5199966430664
+      -341.70001220703125, -419.79998779296875, 120.83999633789062, 119.77999877929688
     ]
   },
   "76": {
@@ -4163,12 +4648,10 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "主城",
-    "WorldMapCenterPos": [
-      113.30000305175781, -417.3999938964844, 82.16000366210938, 93.5999984741211
-    ]
+    "WorldMapCenterPos": [-172.3699951171875, -415.5, 83.73999786376953, 95.4000015258789]
   },
   "9": {
-    "AreaId": 8,
+    "AreaId": 7,
     "ExtraMapImageName": "",
     "GroupId": 1,
     "GroupOrder": 30,
@@ -4207,7 +4690,7 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "陷落回廊",
-    "WorldMapCenterPos": [281.0, -189.0, 70.0, 70.0]
+    "WorldMapCenterPos": [24.0, -182.0, 72.0, 72.0]
   },
   "92": {
     "AreaId": 0,
@@ -4228,7 +4711,7 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "晦暗之底",
-    "WorldMapCenterPos": [291.0, -208.5, 70.0, 70.0]
+    "WorldMapCenterPos": [9.0, -197.0, 72.0, 72.0]
   },
   "9202": {
     "AreaId": 0,
@@ -4357,7 +4840,7 @@
     "WorldMapCenterPos": []
   },
   "93": {
-    "AreaId": 10,
+    "AreaId": 8,
     "ExtraMapImageName": "",
     "GroupId": 1,
     "GroupOrder": 90,
@@ -4375,7 +4858,9 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "月影之野",
-    "WorldMapCenterPos": [276.3999938964844, -80.5, 104.2300033569336, 108.36000061035156]
+    "WorldMapCenterPos": [
+      1.2999999523162842, -68.70999908447266, 107.05999755859375, 111.30000305175781
+    ]
   },
   "94": {
     "AreaId": 9,
@@ -4396,10 +4881,10 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "迷星之径",
-    "WorldMapCenterPos": [438.8999938964844, -248.0, 129.0, 102.16999816894531]
+    "WorldMapCenterPos": [153.1999969482422, -248.39999389648438, 132.5, 104.94000244140625]
   },
   "95": {
-    "AreaId": 11,
+    "AreaId": 10,
     "ExtraMapImageName": "",
     "GroupId": 1,
     "GroupOrder": 110,
@@ -4417,6 +4902,8 @@
     "MapStyleType": 0,
     "MiniMapSizeScale": 140,
     "Name": "夕照的林野",
-    "WorldMapCenterPos": [195.10000610351562, -130.3000030517578, 123.0, 140.72000122070312]
+    "WorldMapCenterPos": [
+      -74.69999694824219, -120.30000305175781, 99.12000274658203, 113.4000015258789
+    ]
   }
 }

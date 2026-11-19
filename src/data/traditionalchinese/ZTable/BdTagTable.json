@@ -195,6 +195,27 @@
     "TagString": "職業天生附帶的基礎幸運效果",
     "TagType": 1
   },
+  "107": {
+    "Id": 107,
+    "ParentTag": 88,
+    "TagName": "幸運效果傷害",
+    "TagString": "技能觸發的幸運效果所產生的傷害（使用職業技能，且造成直接傷害或治療時，會以等同於幸運機率的機率觸發自身擁有的所有幸運效果）",
+    "TagType": 3
+  },
+  "108": {
+    "Id": 108,
+    "ParentTag": 88,
+    "TagName": "幸運效果傷害",
+    "TagString": "技能觸發的幸運效果所產生的傷害（使用職業技能，且造成直接傷害或治療時，會以等同於幸運機率的機率觸發自身擁有的所有幸運效果）",
+    "TagType": 3
+  },
+  "109": {
+    "Id": 109,
+    "ParentTag": 0,
+    "TagName": "複製傷害",
+    "TagString": "複製某些技能的傷害",
+    "TagType": 1
+  },
   "11": {
     "Id": 11,
     "ParentTag": 1003,
@@ -226,29 +247,29 @@
   "122": {
     "Id": 122,
     "ParentTag": 1012,
-    "TagName": "人形",
-    "TagString": "養成困難，後期極強。",
+    "TagName": "<style=\"tipsYellow\">百鬼</style>",
+    "TagString": "每有<style=\"accent-gn\">4</style>座百鬼調諧幻想，<style=\"accent-gn\">遊魂上限數+1</style>。",
     "TagType": 2
   },
   "123": {
     "Id": 123,
     "ParentTag": 1012,
-    "TagName": "燃燒",
-    "TagString": "以塔塔為核心輸出，圍繞燃燒效果構建隊伍。",
+    "TagName": "<style=\"tipsYellow\">燃燒</style>",
+    "TagString": "每有<style=\"accent-gn\">3</style>座燃燒調諧幻想，<style=\"accent-gn\">暴擊率+10%</style>。",
     "TagType": 2
   },
   "124": {
     "Id": 124,
     "ParentTag": 1012,
-    "TagName": "資源",
-    "TagString": "前期快速獲取碎晶，後期高額輸出。",
+    "TagName": "<style=\"tipsYellow\">資源</style>",
+    "TagString": "每有<style=\"accent-gn\">3</style>座資源調諧幻想，<style=\"accent-gn\">調諧碎晶獲得率+5%</style>。",
     "TagType": 2
   },
   "125": {
     "Id": 125,
     "ParentTag": 1012,
-    "TagName": "蓄力",
-    "TagString": "進入範圍圈才會釋放技能，對首領特攻。",
+    "TagName": "<style=\"tipsYellow\">極寒</style>",
+    "TagString": "每有<style=\"accent-gn\">3</style>座極寒調諧幻想，<style=\"accent-gn\">基礎攻擊+5%</style>。",
     "TagType": 2
   },
   "126": {
@@ -268,7 +289,7 @@
   "128": {
     "Id": 128,
     "ParentTag": 1012,
-    "TagName": "艾露娜",
+    "TagName": "羅羅拉",
     "TagString": "塔防流派",
     "TagType": 2
   },
@@ -289,7 +310,7 @@
   "130": {
     "Id": 130,
     "ParentTag": 1012,
-    "TagName": "奧爾維拉",
+    "TagName": "博伊斯",
     "TagString": "塔防流派",
     "TagType": 2
   },
@@ -1003,7 +1024,7 @@
   "86": {
     "Id": 86,
     "ParentTag": 0,
-    "TagName": "玩具和坐騎技能",
+    "TagName": "玩具和載具技能",
     "TagString": "",
     "TagType": 1
   },
@@ -1017,8 +1038,8 @@
   "88": {
     "Id": 88,
     "ParentTag": 1002,
-    "TagName": "幸運效果傷害",
-    "TagString": "技能觸發的幸運效果所產生的傷害（使用職業技能，且造成直接傷害或治療時，會以等同於幸運機率的機率觸發自身擁有的所有幸運效果）",
+    "TagName": "幸運效果",
+    "TagString": "使用職業技能，且造成直接傷害或治療時，會以等同於幸運機率的機率觸發自身擁有的所有幸運效果",
     "TagType": 2
   },
   "89": {

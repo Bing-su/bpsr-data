@@ -325,7 +325,7 @@
     "Preview": 44,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_51",
-    "PreviewText": "¡Sobrevive a los peligros de lo desconocido y completa la investigación espacial a contrarreloj para ganar equipo y materiales de gran valor!"
+    "PreviewText": "◆ ¡Sobrevive a los peligros desconocidos y completa la inspección cronometrada para obtener equipo y materiales de gran valor!"
   },
   "810024": {
     "ConditionShow": [[27, 2, 0, 0, 0]],
@@ -333,7 +333,7 @@
     "Preview": 6,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_52",
-    "PreviewText": "Completa misiones y logros del pase de batalla para subir tu título de temporada y ganar emblemas. Te esperan más modos divertidos, recompensas generosas y una tienda de puntos. ¡Arrasa con todo!"
+    "PreviewText": "◆ Completa el pase de temporada para conseguir logros. <br>¡Desbloquea emblemas y objetos!"
   },
   "810025": {
     "ConditionShow": [],
@@ -376,7 +376,7 @@
     "PreviewText": "El dragón diurno, maestro del tiempo, aguarda en la incursión Grilletes Dragontinos. Busca refugio en las grietas de luz y sombra antes de aprovechar el momento para atacar. ¡Lucha ahora para obtener generosas recompensas!"
   },
   "810039": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810039,
     "Preview": 48,
     "PreviewAward": 22000010,
@@ -384,7 +384,7 @@
     "PreviewText": "¡Adéntrate en el dominio prohibido de las Deidades, despierta los restos de la antigua deidad durmiente y enfréntate al juicio final de la energía de aniquilación! ¡Gana guanteletes y aros como recompensa, además de objetos de apariencia exclusivos!"
   },
   "810040": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810040,
     "Preview": 49,
     "PreviewAward": 22000010,
@@ -392,7 +392,7 @@
     "PreviewText": "¡Infíltrate en la Taller Mecánico en las profundidades de la Mina de Sislesa y expón los crímenes del Escuadrón Rocanegra con pruebas contundentes! ¡Gana cascos y collares como recompensa, además de objetos de apariencia exclusivos!"
   },
   "810041": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810041,
     "Preview": 50,
     "PreviewAward": 22000010,
@@ -400,7 +400,7 @@
     "PreviewText": "¡Sumérgete en el paisaje onírico tejido por el brote ilusorio, despierta las sombras enterradas en el pasado y resuelve los arrepentimientos persistentes! ¡Gana entregas de armaduras y anillos, además de objetos de apariencia exclusivos!"
   },
   "810042": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810042,
     "Preview": 51,
     "PreviewAward": 22000010,
@@ -408,7 +408,7 @@
     "PreviewText": "¡Los aventureros que se adentran en la niebla densa son tanto cazadores como presas! ¡Gana entregas de pulseras (I) y pulseras (D), además de objetos de apariencia exclusivos!"
   },
   "810043": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810043,
     "Preview": 52,
     "PreviewAward": 22000010,
@@ -416,7 +416,7 @@
     "PreviewText": "Las ilusiones se nutren dentro de la ilusión. ¡Adéntrate en la Ruina Imponente y purifica los restos corrompidos! ¡Gana entregas de botas y amuletos, además de objetos de apariencia exclusivos!"
   },
   "810044": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810044,
     "Preview": 53,
     "PreviewAward": 22000010,
@@ -440,7 +440,7 @@
     "PreviewText": "En los niveles inferiores de las ruinas de las Divinos bafarianos, el entorno oculto y cerrado se ha convertido en un caldo de cultivo para las sombras. Como resultado, los tratos ilícitos de las terraltas inevitablemente encuentran su camino hacia aquí."
   },
   "810047": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810047,
     "Preview": 54,
     "PreviewAward": 22000010,
@@ -448,11 +448,75 @@
     "PreviewText": "◆ ¡Sobrevive a los peligros desconocidos y completa la inspección cronometrada para obtener equipo y materiales de gran valor!"
   },
   "810048": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810048,
     "Preview": 5,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_66",
     "PreviewText": "Completa las misiones y los logros del pase de temporada para avanzar tu título de temporada, y ganar y desarrollar emblemas. Te esperan más modos divertidos, recompensas generosas y una tienda de temporada. ¡Arrasa con todo!"
+  },
+  "810054": {
+    "ConditionShow": [],
+    "Id": 810054,
+    "Preview": 57,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_74",
+    "PreviewText": "La ilusión humanoide, Boyce, que estaba destinada a ayudar en el combate, se ha transformado en una Forma Mímica Anti-Imagine. ¡Derrótalo para restaurar la paz! ¡Gana botines de guanteletes y aros, junto con apariencias exclusivas!"
+  },
+  "810055": {
+    "ConditionShow": [],
+    "Id": 810055,
+    "Preview": 58,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_73",
+    "PreviewText": "Perturbado por el Medio Espejismo, el Analizador de la unidad X ha detectado turbulencias espaciales en el Valle Garra Dragontina. Los aventureros deben partir una vez más para corregir este mal funcionamiento. ¡Gana botines de cascos y collares, junto con apariencias exclusivas!"
+  },
+  "810056": {
+    "ConditionShow": [],
+    "Id": 810056,
+    "Preview": 59,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_72",
+    "PreviewText": "El Patio desolado alguna vez fue elegido por alguien como el sitio de un ritual prohibido. Ahora, se ha convertido en un límite donde la ilusión y la realidad se entrelazan. ¡Gana botines de armaduras y anillos, junto con apariencias exclusivas!"
+  },
+  "810057": {
+    "ConditionShow": [],
+    "Id": 810057,
+    "Preview": 60,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_75",
+    "PreviewText": "Perturbado por el Medio Espejismo, el Analizador de la unidad X ha detectado turbulencias espaciales en el Yermo del Velo Lunar. Los aventureros deben partir una vez más para corregir este mal funcionamiento. ¡Gana botines de pulsera (I) y pulsera (D), junto con apariencias exclusivas!"
+  },
+  "810058": {
+    "ConditionShow": [],
+    "Id": 810058,
+    "Preview": 61,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_76",
+    "PreviewText": "Perturbado por el Medio Espejismo, el Analizador de la unidad X ha detectado turbulencias espaciales en la Fortaleza de Niebla Oscura. Los aventureros deben partir una vez más para corregir este mal funcionamiento. ¡Gana botines de botas y amuletos, junto con apariencias exclusivas!"
+  },
+  "810059": {
+    "ConditionShow": [],
+    "Id": 810059,
+    "Preview": 62,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_77",
+    "PreviewText": "Más allá de este punto, los aventureros se enfrentarán al verdadero desafío que ha acechado a lo largo de su travesía. ¡Gana botines de armas, junto con apariencias exclusivas!"
+  },
+  "810060": {
+    "ConditionShow": [],
+    "Id": 810060,
+    "Preview": 63,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_78",
+    "PreviewText": "◆ ¡Sobrevive a los peligros desconocidos y completa la inspección cronometrada para obtener equipo y materiales de gran valor!"
+  },
+  "810061": {
+    "ConditionShow": [],
+    "Id": 810061,
+    "Preview": 5,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_79",
+    "PreviewText": "◆ Completa el pase de temporada para conseguir logros. <br>¡Desbloquea emblemas y objetos!"
   }
 }

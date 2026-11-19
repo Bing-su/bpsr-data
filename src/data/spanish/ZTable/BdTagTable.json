@@ -195,6 +195,27 @@
     "TagString": "El efecto de Suerte base inherente a una clase",
     "TagType": 1
   },
+  "107": {
+    "Id": 107,
+    "ParentTag": 88,
+    "TagName": "DÑO por efecto de suerte",
+    "TagString": "DÑO infligido por efectos de suerte activados por habilidades (Al usar habilidades de clase que infligen DÑO directo o curación, todos los efectos de suerte poseídos tienen una probabilidad de activarse igual a la Probabilidad de suerte)",
+    "TagType": 3
+  },
+  "108": {
+    "Id": 108,
+    "ParentTag": 88,
+    "TagName": "DÑO por efecto de suerte",
+    "TagString": "DÑO infligido por efectos de suerte activados por habilidades (Al usar habilidades de clase que infligen DÑO directo o curación, todos los efectos de suerte poseídos tienen una probabilidad de activarse igual a la Probabilidad de suerte)",
+    "TagType": 3
+  },
+  "109": {
+    "Id": 109,
+    "ParentTag": 0,
+    "TagName": "Copiar DÑO",
+    "TagString": "Copia el daño de ciertas habilidades",
+    "TagType": 1
+  },
   "11": {
     "Id": 11,
     "ParentTag": 1003,
@@ -213,70 +234,70 @@
     "Id": 120,
     "ParentTag": 1012,
     "TagName": "Físico",
-    "TagString": "Configuración de defensa",
+    "TagString": "Arquetipo de defensa de torres",
     "TagType": 2
   },
   "121": {
     "Id": 121,
     "ParentTag": 1012,
     "TagName": "Mágico",
-    "TagString": "Configuración de defensa",
+    "TagString": "Arquetipo de defensa de torres",
     "TagType": 2
   },
   "122": {
     "Id": 122,
     "ParentTag": 1012,
-    "TagName": "Humanoide",
-    "TagString": "Es difícil de construir, pero resulta extremadamente potente en las últimas fases de la batalla.",
+    "TagName": "<style=\"tipsYellow\">Desfile de espectros</style>",
+    "TagString": "Por cada <style=\"accent-gn\">4</style> Imagines de Sintonización de Desfile de espectros, <style=\"accent-gn\">límite de espectros +1</style>.",
     "TagType": 2
   },
   "123": {
     "Id": 123,
     "ParentTag": 1012,
-    "TagName": "Quemadura",
-    "TagString": "Crea un equipo centrado en Tatta como principal DPS, aprovechando los efectos de quemadura.",
+    "TagName": "<style=\"tipsYellow\">Quemadura</style>",
+    "TagString": "Por cada <style=\"accent-gn\">3</style> Imagines de Sintonización de Quemadura, <style=\"accent-gn\">tasa de críticos +10%</style>.",
     "TagType": 2
   },
   "124": {
     "Id": 124,
     "ParentTag": 1012,
-    "TagName": "Recurso",
-    "TagString": "Consigue fragmentos de cristal rápidamente al principio de la batalla y genera un gran daño al final.",
+    "TagName": "<style=\"tipsYellow\">Recursos</style>",
+    "TagString": "Por cada <style=\"accent-gn\">3</style> Imagines de Sintonización de recursos, <style=\"accent-gn\">tasa de obtención de Sintonización - Fragmentos de cristal +5%</style>.",
     "TagType": 2
   },
   "125": {
     "Id": 125,
     "ParentTag": 1012,
-    "TagName": "Carga",
-    "TagString": "Solo lanza habilidades cuando los objetivos entran en el área de efecto, infligiendo daño especial a los jefes.",
+    "TagName": "<style=\"tipsYellow\">Ultrafrío</style>",
+    "TagString": "Por cada <style=\"accent-gn\">3</style> Imagines de Sintonización de Ultrafrío, <style=\"accent-gn\">ATQ básico +5%</style>.",
     "TagType": 2
   },
   "126": {
     "Id": 126,
     "ParentTag": 1012,
     "TagName": "Ventaja",
-    "TagString": "Configuración de defensa",
+    "TagString": "Arquetipo de defensa de torres",
     "TagType": 2
   },
   "127": {
     "Id": 127,
     "ParentTag": 1012,
     "TagName": "Desventaja",
-    "TagString": "Configuración de defensa",
+    "TagString": "Arquetipo de defensa de torres",
     "TagType": 2
   },
   "128": {
     "Id": 128,
     "ParentTag": 1012,
-    "TagName": "Airona",
-    "TagString": "Configuración de defensa",
+    "TagName": "Rorola",
+    "TagString": "Arquetipo de defensa de torres",
     "TagType": 2
   },
   "129": {
     "Id": 129,
     "ParentTag": 1012,
     "TagName": "Tatta",
-    "TagString": "Configuración de defensa",
+    "TagString": "Arquetipo de defensa de torres",
     "TagType": 2
   },
   "13": {
@@ -289,8 +310,8 @@
   "130": {
     "Id": 130,
     "ParentTag": 1012,
-    "TagName": "Olvera",
-    "TagString": "Configuración de defensa",
+    "TagName": "Boyce",
+    "TagString": "Arquetipo de defensa de torres",
     "TagType": 2
   },
   "14": {
@@ -1017,8 +1038,8 @@
   "88": {
     "Id": 88,
     "ParentTag": 1002,
-    "TagName": "DÑO de efecto de suerte",
-    "TagString": "DÑO infligido por efectos de suerte activados por habilidades (cuando se usan habilidades de clase que infligen DÑO directo o curación, todos los efectos de suerte propios tienen una probabilidad de activarse igual a la tasa de suerte propia).",
+    "TagName": "Efecto de suerte",
+    "TagString": "Al usar habilidades de clase que infligen DÑO directo o curación, todos los efectos de suerte propios tienen una probabilidad de activarse igual a la probabilidad de suerte propia.",
     "TagType": 2
   },
   "89": {

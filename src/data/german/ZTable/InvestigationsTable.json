@@ -131,6 +131,18 @@
     "ThemePic": "ui/textures/investigation/investigation_common_bg",
     "UnlockCondition": [[2, 185220, 185220016]]
   },
+  "14001": {
+    "CompletionConditions": [],
+    "Guarantee": 3,
+    "Id": 14001,
+    "InvestigationStep": [140011],
+    "InvestigationTheme": "Von Carrie hinterlassene Identitätshinweise",
+    "IockedTips": "Treibe die Quest <style=\"emph-quest\">XXXX</style> voran, um die Untersuchung freizuschalten",
+    "IsHidePlayerModel": false,
+    "ThemeIntroduction": "Nachdem Carrie verschwunden war, traten in den Erinnerungen an sie unerklärliche Widersprüche auf. Zum Glück hat sie während unserer gemeinsamen Zeit viel über ihre eigene Vergangenheit erzählt. Vielleicht sollten wir das alles erst einmal ordnen und dann einzeln überprüfen.",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "UnlockCondition": [[2, 11401, 11401002]]
+  },
   "2001": {
     "CompletionConditions": [],
     "Guarantee": 3,

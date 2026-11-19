@@ -226,8 +226,8 @@
     "Des": "敏捷转换",
     "FightValue": 26,
     "Id": 1101,
-    "TalentDes": "Jeweils <style=\"accent-gn\">10</style> Agilität gewähren <style=\"accent-gn\">7</style> Tempo.",
-    "TalentEffect": [[4, 2, 11122, 7000]],
+    "TalentDes": "Je <style=\"accent-gn\">10</style> Agilität gewähren <style=\"accent-gn\">21</style> Tempo.",
+    "TalentEffect": [[4, 2, 11122, 21000]],
     "TalentIcon": "ui/atlas/talent_passive_11/talent_passive_icon_general_dps_speedtran",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -578,7 +578,7 @@
     "WeaponGroup": 11
   },
   "1122": {
-    "BuffPar": [[50, 2]],
+    "BuffPar": [[40, 2]],
     "BuffValueKey": [["attr", "fightres"]],
     "Des": "光落",
     "FightValue": 26,
@@ -702,7 +702,7 @@
     "Des": "驯鹰流",
     "FightValue": 26,
     "Id": 1129,
-    "TalentDes": "Ersetzt den <style=\"accent-gn\">Spezialangriff</style> durch <linktext=1547> <style=\"ItemQuality_5\">Doppelpfeil</style></linktext> und verbessert dessen Anwendung.<br>Regeneriert <style=\"accent-gn\">2</style> <style=\"accent-gn\">Photonenenergie</style> pro Sekunde.<br>Jedes <style=\"accent-gn\">1 %</style> Tempo gewährt <style=\"accent-gn\">1 %</style> AZ-Verringerung für <linktext=1547><style=\"ItemQuality_5\">Doppelpfeil</style></linktext>.<br>Ermöglicht das Zähmen eines <style=\"accent-gn\">Falken</style>, der im Kampf assistiert.<br><br>Der <style=\"accent-gn\">Falke</style> folgt immer dem Zauberwirker. Wenn der Zauberwirker mit Klassenfähigkeiten SCH zufügt, hat der <style=\"accent-gn\">Falke</style> eine feste Chance von <style=\"accent-gn\">23 %</style>, das Ziel schnell anzugreifen (bei einem Krit garantiert), und fügt dem Gegner <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">150 %</style> des ANG zu (skaliert mit der Stufe/dem Rang des <style=\"accent-gn\">Standardangriffs</style>). Wenn die Anzahl der Angriffe des <style=\"accent-gn\">Falken</style> <style=\"accent-gn\">5</style> übersteigt, werden beim nächsten Angriff des <style=\"accent-gn\">Falken</style> alle überschüssigen Angriffe und der entsprechende SCH kombiniert.<br><br><i><style=\"text_third_gray\"><size=20>Der Falke reagiert auf die Angriffe des Zauberwirkers. Tempo und Krit erhöhen seine Angriffshäufigkeit. Nachdem der Falke Blitzschlag erlernt hat, verursacht er erheblich mehr SCH.</size></style></i>",
+    "TalentDes": "Ersetzt <style=\"accent-gn\">Spezialangriff</style> durch <linktext=1547><style=\"ItemQuality_5\">Doppelpfeil</style></linktext> und verstärkt dessen Kraft. <br>Stellt <style=\"accent-gn\">2</style> <style=\"accent-gn\">Photonenenergie</style> pro Sek. wieder her. <br>Je <style=\"accent-gn\">1 %</style> Tempo wird <style=\"accent-gn\">1 %</style> AZ-Geschwindigkeit für <linktext=1547><style=\"ItemQuality_5\">Doppelpfeil</style></linktext> gewährt. <br>Ein <style=\"accent-gn\">Falke</style> kann gezähmt werden, der im Kampf assistiert. <br><br><style=\"accent-gn\">Der Falke</style> folgt immer dem Wirker. Wenn der Wirker mit <style=\"accent-gn\">Licht</style>-Klassenfähigkeiten SCH verursacht, hat der <style=\"accent-gn\">Falke</style> eine feste Chance von <style=\"accent-gn\">23 %</style>, das Ziel schnell anzugreifen (garantiert bei einem Krit), was dem Gegner <style=\"physical\">Angriff-SCH</style> in Höhe von <style=\"accent-gn\">150 %</style> des ANG zufügt (skaliert mit der Stufe/dem Rang von <style=\"accent-gn\">Standardangriff</style>). Wenn die Anzahl der Angriffe des <style=\"accent-gn\">Falken</style> außerdem <style=\"accent-gn\">5</style> übersteigt, kombiniert der nächste Angriff des <style=\"accent-gn\">Falken</style> alle überschüssigen Angriffe und ihren SCH. <br><br><i><style=\"text_third_gray\"><size=20>Der Falke reagiert auf die Angriffe des Wirkers. Tempo und Krit erhöhen seine Angriffshäufigkeit, und nachdem er Blitzschlag erlernt hat, verursacht der Falke erheblich mehr SCH.</size></style></i>",
     "TalentEffect": [
       [6, 2220, 2222],
       [3, 2203290, 1]
@@ -1399,7 +1399,7 @@
   "1166": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "钢制喙聚集",
+    "Des": "急速轰炸",
     "FightValue": 26,
     "Id": 1166,
     "TalentDes": "力量+10",
@@ -1407,7 +1407,7 @@
     "TalentIcon": "ui/atlas/talent_passive_11/gongjian1166",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Stahlschnabel-Ansammlung",
+    "TalentName": "Blitzkanonade",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020054, 1]],
@@ -1465,7 +1465,7 @@
     "WeaponGroup": 1
   },
   "120": {
-    "BuffPar": [[10, 22, 10000]],
+    "BuffPar": [[10, 28, 10000]],
     "BuffValueKey": [["num", "attr", "time"]],
     "Des": "雷电之力",
     "FightValue": 26,
@@ -1589,10 +1589,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 1206,
-    "TalentDes": "Jeweils <style=\"accent-gn\">3</style> Stärke gewähren <style=\"accent-gn\">3,6</style> Rüstung.",
+    "TalentDes": "Je <style=\"accent-gn\">1</style> Stärke gewährt <style=\"accent-gn\">1,5</style> Rüstung.",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1206",
     "TalentId": 0,
@@ -2000,7 +2000,7 @@
   "1228": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之二",
     "FightValue": 26,
     "Id": 1228,
     "TalentDes": "力量+10",
@@ -2008,7 +2008,7 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Urteilsverfolgung",
+    "TalentName": "Urteilsverfolgung II",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -2714,7 +2714,7 @@
   "1267": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之一",
     "FightValue": 26,
     "Id": 1267,
     "TalentDes": "力量+10",
@@ -2722,7 +2722,24 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Urteilsverfolgung",
+    "TalentName": "Urteilsverfolgung I",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020056, 1]],
+    "WeaponGroup": 12
+  },
+  "1268": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "神圣壁垒",
+    "FightValue": 26,
+    "Id": 1268,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2206690, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_12/jiandun1217",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "Heilige Barriere",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -3534,7 +3551,7 @@
   "1340": {
     "BuffPar": [[1]],
     "BuffValueKey": [["attr"]],
-    "Des": "音爆愈疗",
+    "Des": "音爆延时",
     "FightValue": 26,
     "Id": 1340,
     "TalentDes": "力量+10",
@@ -3542,7 +3559,7 @@
     "TalentIcon": "ui/atlas/talent_passive_13/gita1340",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Klangheilung",
+    "TalentName": "Schallverzögerung",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020055, 1]],
@@ -4730,7 +4747,7 @@
     "Des": "智力转换",
     "FightValue": 26,
     "Id": 201,
-    "TalentDes": "Je <style=\"accent-gn\">10</style> Intelligenz gewähren <style=\"accent-gn\">1</style> M.ANG.",
+    "TalentDes": "Je <style=\"accent-gn\">10</style> Punkte Intelligenz gewähren <style=\"accent-gn\">1</style> Punkt M.ANG.",
     "TalentEffect": [[4, 3, 11342, 1000]],
     "TalentIcon": "ui/atlas/talent_passive_2/talent_passive_icon_general_dps_inttran",
     "TalentId": 0,
@@ -6025,7 +6042,7 @@
     "Des": "疾转",
     "FightValue": 26,
     "Id": 301,
-    "TalentDes": "Für jedes <style=\"accent-gn\">1 %</style> Tempo erhältst du <style=\"accent-gn\">1 %</style> Angriff-GES.",
+    "TalentDes": "Jedes <style=\"accent-gn\">1 %</style> Tempo gewährt <style=\"accent-gn\">1 %</style> Angriffsgeschwindigkeit.",
     "TalentEffect": [[4, 4, 11722, 10000]],
     "TalentIcon": "ui/atlas/talent_passive_3/shuangfu301",
     "TalentId": 0,
@@ -6722,7 +6739,7 @@
     "Des": "赤红专精流",
     "FightValue": 26,
     "Id": 342,
-    "TalentDes": "Gewährt den Effekt <style=\"accent-gn\">Karmesin-Erholung</style>: Beim Treffen des Hauptziels (außer <linktext=1626><style=\"ItemQuality_5\">Wildfeuertanz</style></linktext>) werden <style=\"accent-gn\">20 %</style> des verursachten SCH in <style=\"accent-gn\">Karmesin-Seelenanzeige</style> umgewandelt (der Wert von <style=\"accent-gn\">Karmesin-Seelenanzeige</style> darf die Max. LP nicht überschreiten). Wenn <style=\"accent-gn\">Flammenseele</style> nicht ausreicht, können <style=\"accent-gn\">25 %</style> des Werts von <style=\"accent-gn\">Karmesin-Seelenanzeige</style> verbraucht werden, um die Dauer von <linktext=1626><style=\"ItemQuality_5\">Wildfeuertanz</style></linktext> um <style=\"accent-gn\">0,8</style> Sek. zu verlängern.<br><br><i><style=\"text_third_gray\"><size=20>Baue die Anzeige schnell durch Karmesin-Erholung auf und nutze dann die hohe Angriff-GES, um Wildfeuertanz häufig auszulösen. Nutze dies als Kernmechanik und kombiniere es mit anderen Fähigkeitseffekten, um im Burst-Fenster massiven SCH zu entfesseln.</size></style></i>",
+    "TalentDes": "Gewährt <style=\"accent-gn\">Karmesin-Erholung</style>: Treffer auf das Hauptziel wandeln <style=\"accent-gn\">1 %</style> des verursachten SCH in die <style=\"accent-gn\">Karmesin-Seelenanzeige</style> um. Die <style=\"accent-gn\">Karmesin-Seelenanzeige</style> kann ANG × 100 nicht überschreiten. Wenn die <style=\"accent-gn\">Karmesin-Seelenanzeige</style> voll ist, gewährt die nächste Schadensinstanz <style=\"accent-gn\">Blutwallung</style>. Die <style=\"accent-gn\">Karmesin-Seelenanzeige</style> regeneriert sich nicht weiter und wird um <style=\"accent-gn\">4 %</style> pro Sekunde verringert, während der End-SCH um <style=\"accent-gn\">20 %</style> erhöht wird. Während <style=\"accent-gn\">Blutwallung</style> gilt die <style=\"accent-gn\">Karmesin-Seelenanzeige</style> als zu <style=\"accent-gn\">100 %</style> gefüllt. <style=\"accent-gn\">Blutwallung</style> endet sofort beim Verlassen des Kampfes. <br><br><i><style=\"text_third_gray\"><size=20>Karmesin-Erholung nutzen, um die Karmesin-Seelenanzeige schnell zu füllen, und dann von der hohen Angriffsgeschwindigkeit profitieren, um Wildfeuertanz in rascher Folge auszulösen. Auf dieser Kerninteraktion aufbauen und sie mit anderen Fähigkeitseffekten verknüpfen, um schweren Entladungs-SCH freizusetzen.</size></style></i>",
     "TalentEffect": [
       [6, 1605, 1606],
       [3, 2208430, 1]
@@ -7621,7 +7638,7 @@
     "WeaponGroup": 4
   },
   "427": {
-    "BuffPar": [[65, 650, 30000]],
+    "BuffPar": [[80, 800, 30000]],
     "BuffValueKey": [["attr", "attrMax", "time"]],
     "Des": "捕手",
     "FightValue": 26,
@@ -7765,7 +7782,7 @@
     "Des": "斗志昂扬",
     "FightValue": 26,
     "Id": 434,
-    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">Taifun-Spalter</style></linktext> erhebt den Fahnenspeer, gewährt Verbündeten <style=\"accent-gn\">Inspiration</style> erhöht den Krit-SCH des Wirkers für 10 Sek. um <style=\"accent-gn\">50 %</style>. Danach kann ein Folgesprung ausgeführt werden, der Gegnern in Reichweite <style=\"physical\">Angriff-SCH</style> zufügt, sie in die Luft schleudert und <style=\"accent-gn\">100</style> <style=\"accent-gn\">Mut</style> wiederherstellt. <br><style=\"accent-gn\">Inspiration</style>: Hält <style=\"accent-gn\">10 Sek.</style> lang an. Alle Verbündeten erhalten <style=\"accent-gn\">10 %</style> Tempo (es kann nur ein Effekt gleichzeitig aktiv sein). Du stellst <style=\"accent-gn\">pro</style> Sekunde <style=\"accent-gn\">10</style> <style=\"accent-gn\">Mut</style> und alle <linktext=1152><style=\"accent-gn\">2 Sek.</style> <style=\"accent-gn\">1</style> <style=\"ItemQuality_5\">Scharf</style></linktext> wieder her.",
+    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">Taifun-Spalter</style></linktext> erhebt den Bannerspeer, gewährt dem Wirker <style=\"accent-gn\">Inspirieren</style> und erhöht den Krit-SCH des Wirkers 10 Sek. lang um <style=\"accent-gn\">50 %</style>. Stürzt sich danach mit einem Folgesprung in die feindlichen Linien, fügt Gegnern in Reichweite <style=\"physical\">Angriff-SCH</style> zu und schleudert sie <style=\"accent-gn\">in die Luft</style>. Stellt <style=\"accent-gn\">100</style> <style=\"accent-gn\">Mut</style> wieder her. <br><style=\"accent-gn\">Inspirieren</style>: Hält <style=\"accent-gn\">10</style> Sek. an. Während dieser Zeit, Tempo +<style=\"accent-gn\">15 %</style>. Du stellst <style=\"accent-gn\">pro</style> Sek. <style=\"accent-gn\">10</style> <style=\"accent-gn\">Mut</style> und alle <style=\"accent-gn\">2</style> Sek. <style=\"accent-gn\">1</style> Stapel <linktext=1152><style=\"ItemQuality_5\">Scharf</style></linktext> wieder her.",
     "TalentEffect": [
       [6, 1426, 1410],
       [3, 2205310, 1]
@@ -9148,8 +9165,11 @@
     "Des": "花语回升",
     "FightValue": 26,
     "Id": 535,
-    "TalentDes": "Ersetze <style=\"accent-gn\">Ultima</style>, <linktext=1531><style=\"ItemQuality_5\">Göttliche Kreisblüte</style></linktext> mit <linktext=1552><style=\"ItemQuality_5\">Blütenheilung</style></linktext>.",
-    "TalentEffect": [[6, 1509, 1527]],
+    "TalentDes": "Ersetzt die <style=\"accent-gn\">Ultimafähigkeit</style> <linktext=1531><style=\"ItemQuality_5\">Göttliche Kreisblüte</style></linktext> durch <linktext=1552><style=\"ItemQuality_5\">Blütenheilung</style></linktext>. <br>Für <style=\"accent-gn\">10</style> Sek. nach dem Wirken von <linktext=1552><style=\"ItemQuality_5\">Blütenheilung</style></linktext> wird der Effekt von Inspiration verdoppelt, aber der verursachte End-SCH wird um <style=\"accent-gn\">10 %</style> verringert.",
+    "TalentEffect": [
+      [6, 1509, 1527],
+      [3, 2202390, 1]
+    ],
     "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_aoyiguide",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -9839,6 +9859,23 @@
     "UnlockConsume": [[1020055, 2]],
     "WeaponGroup": 5
   },
+  "572": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "幸运脉动",
+    "FightValue": 26,
+    "Id": 572,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2202030, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_killhealring",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "Glücksimpuls",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020055, 2]],
+    "WeaponGroup": 5
+  },
   "6": {
     "BuffPar": [],
     "BuffValueKey": [],
@@ -9930,10 +9967,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 901,
-    "TalentDes": "Jeweils <style=\"accent-gn\">3</style> Stärke gewähren <style=\"accent-gn\">3,6</style> Rüstung.",
+    "TalentDes": "Je <style=\"accent-gn\">1</style> Stärke gewährt <style=\"accent-gn\">1,5</style> Rüstung.",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_9/talent_passive_icon_general_tank_deftran",
     "TalentId": 0,

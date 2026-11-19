@@ -71,7 +71,7 @@
   },
   "30000008": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases ATK and MATK by a percentage. Can be stacked.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Basic ATK. Can be stacked.",
     "Id": 30000008,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 90],
@@ -84,7 +84,7 @@
   },
   "30000009": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General]</style><br>Increases DMG by a percentage. Can be stacked.",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General]</style><br>Increases DMG Boost. Can be stacked.",
     "Id": 30000009,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 150],
@@ -97,7 +97,7 @@
   },
   "30000010": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Movement and ATK Speed. Can be stacked.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Movement and ATK Speed. Can be stacked.",
     "Id": 30000010,
     "PackLimit": 10,
     "RepeatPrice": [30000000, 90],
@@ -110,7 +110,7 @@
   },
   "30000011": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General]</style><br>Reduces CD. Can be stacked.",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General]</style><br>Increases Skill CD Reduction. Can be stacked.",
     "Id": 30000011,
     "PackLimit": 5,
     "RepeatPrice": [30000000, 150],
@@ -120,7 +120,7 @@
   },
   "30000012": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Crit Rate. Can be stacked.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Crit Rate. Can be stacked.",
     "Id": 30000012,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 90],
@@ -140,7 +140,7 @@
   },
   "30000014": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Crit DMG. Can be stacked.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Crit DMG. Can be stacked.",
     "Id": 30000014,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 90],
@@ -160,7 +160,7 @@
   },
   "30000016": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General]</style><br>Increases All-Element Bonus. Can be stacked.",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General]</style><br>Increases All Element Strength. Can be stacked.",
     "Id": 30000016,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 150],
@@ -180,7 +180,7 @@
   },
   "30000018": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Restores HP when attacking. Can be stacked.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Restores HP on attacks. Can be stacked.",
     "Id": 30000018,
     "PackLimit": 10,
     "RepeatPrice": [30000000, 90],
@@ -190,7 +190,7 @@
   },
   "30000019": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Increases DMG dealt while shielded.",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Increases ATK SPD while shielded.",
     "Id": 30000019,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 150],
@@ -200,7 +200,7 @@
   },
   "30000020": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Causes HP loss every second but increases DMG dealt.",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Causes HP loss every sec but increases DMG dealt.",
     "Id": 30000020,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 150],
@@ -210,7 +210,7 @@
   },
   "30000021": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"tipsYellow\">[General][Unique]</style><br>Generates a shield at intervals.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[General][Unique]</style><br>Generates a Shield at intervals.",
     "Id": 30000021,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 90],
@@ -270,7 +270,7 @@
   },
   "30000027": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Airona Exclusive][Unique]</style><br>Significantly boosts Passive and Basic Attack effects.",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Airona Exclusive][Unique]</style><br>Significantly boosts passive effects.",
     "Id": 30000027,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -410,7 +410,7 @@
   },
   "30000041": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[General][Unique]</style><br>Resets Skill CD on Crit.",
     "Id": 30000041,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -420,7 +420,7 @@
   },
   "30000042": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[Dark]</style><br>Increases Dark strength. Can be stacked.",
     "Id": 30000042,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 90],
@@ -430,7 +430,7 @@
   },
   "30000043": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[Light]</style><br>Increases Light strength. Can be stacked.",
     "Id": 30000043,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 90],
@@ -440,7 +440,7 @@
   },
   "30000044": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[Ice]</style><br>Increases Ice strength. Can be stacked.",
     "Id": 30000044,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 90],
@@ -450,7 +450,7 @@
   },
   "30000045": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[Fire]</style><br>Increases Fire strength. Can be stacked.",
     "Id": 30000045,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 90],
@@ -460,7 +460,7 @@
   },
   "30000046": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Skills trigger Flame Strike.",
     "Id": 30000046,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 150],
@@ -470,7 +470,7 @@
   },
   "30000047": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Skills trigger a Tidal Vortex.",
     "Id": 30000047,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 150],
@@ -480,7 +480,7 @@
   },
   "30000048": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Skills trigger Vines.",
     "Id": 30000048,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 150],
@@ -490,7 +490,7 @@
   },
   "30000049": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Item Effect DMG. Can be stacked.",
     "Id": 30000049,
     "PackLimit": 99,
     "RepeatPrice": [30000000, 90],
@@ -500,7 +500,7 @@
   },
   "30000050": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[General][Unique]</style><br>Triggers a Mega Meteor when conditions are met.",
     "Id": 30000050,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -510,7 +510,7 @@
   },
   "30000051": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Generates a Shield when HP is low.",
     "Id": 30000051,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 150],
@@ -520,7 +520,7 @@
   },
   "30000052": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[General][Unique]</style><br>Converts excess healing into a Shield.",
     "Id": 30000052,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -530,7 +530,7 @@
   },
   "30000053": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"tipsYellow\">[General][Unique]</style><br>Causes HP loss every sec but increases Attack Speed.",
     "Id": 30000053,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 150],
@@ -540,7 +540,7 @@
   },
   "30000054": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"tipsYellow\">[General]</style><br>Increases Shield strength. Can be stacked.",
     "Id": 30000054,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 90],
@@ -550,7 +550,7 @@
   },
   "30000055": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[General][Unique]</style><br>Gains a chance to reset Skill CD on use.",
     "Id": 30000055,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -560,7 +560,7 @@
   },
   "30000056": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[General][Unique]</style><br>Converts Shield into ATK.",
     "Id": 30000056,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -570,7 +570,7 @@
   },
   "30000057": {
     "BuildTag": [122],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Specter Parade][Unique]</style><br>Increases Wraith limit.",
     "Id": 30000057,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -580,7 +580,7 @@
   },
   "30000058": {
     "BuildTag": [122],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Specter Parade]</style><br>Increases the DMG dealt by Wraith.",
     "Id": 30000058,
     "PackLimit": 50,
     "RepeatPrice": [30000000, 240],
@@ -590,7 +590,7 @@
   },
   "30000059": {
     "BuildTag": [122],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Specter Parade][Unique]</style><br>Increases CRIT Rate based on the number of Wraith.",
     "Id": 30000059,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -600,7 +600,7 @@
   },
   "30000060": {
     "BuildTag": [122],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Rorola Exclusive][Unique]</style><br>Performs a divination for the gains.",
     "Id": 30000060,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -610,7 +610,7 @@
   },
   "30000061": {
     "BuildTag": [125],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Ultra Cold][Unique]</style><br>Increases the stack limit of Cold.",
     "Id": 30000061,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -620,7 +620,7 @@
   },
   "30000062": {
     "BuildTag": [125],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Ultra Cold][Unique]</style><br>Extends the duration of Frozen.",
     "Id": 30000062,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -630,7 +630,7 @@
   },
   "30000063": {
     "BuildTag": [125],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Ultra Cold][Unique]</style><br>Attacks Frozen monsters to fire Ice Spears.",
     "Id": 30000063,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -640,7 +640,7 @@
   },
   "30000064": {
     "BuildTag": [125],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"tipsYellow\">[Boyce Exclusive][Unique]</style><br>Meteor becomes larger, dealing more DMG.",
     "Id": 30000064,
     "PackLimit": 1,
     "RepeatPrice": [30000000, 240],
@@ -660,7 +660,7 @@
   },
   "30000066": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><br>Proof that you have collected all Adventurer's Scabbards.",
     "Id": 30000066,
     "PackLimit": 1,
     "RepeatPrice": [],
@@ -670,7 +670,7 @@
   },
   "30000067": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><br>Proof that you have collected all Hero's Blades of Dawn.",
     "Id": 30000067,
     "PackLimit": 1,
     "RepeatPrice": [],
@@ -680,7 +680,7 @@
   },
   "30000068": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><br>Proof that you have collected all Lucky Dice.",
     "Id": 30000068,
     "PackLimit": 1,
     "RepeatPrice": [],
@@ -690,7 +690,7 @@
   },
   "30000069": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><br>Proof that you have collected all Apprentice Mallets.",
     "Id": 30000069,
     "PackLimit": 1,
     "RepeatPrice": [],
@@ -700,7 +700,7 @@
   },
   "30000070": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><br>Proof that you have collected all Unquenchable Sparks.",
     "Id": 30000070,
     "PackLimit": 1,
     "RepeatPrice": [],
@@ -710,7 +710,7 @@
   },
   "30000071": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><br>Proof that you have collected all Neutralizing Reaction Catalysts.",
     "Id": 30000071,
     "PackLimit": 1,
     "RepeatPrice": [],
@@ -720,7 +720,7 @@
   },
   "30000072": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><br>Proof that you have collected all Glowshrooms.",
     "Id": 30000072,
     "PackLimit": 1,
     "RepeatPrice": [],
@@ -770,7 +770,7 @@
   },
   "30000502": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Humanoid][Burn]</style><br>May the flames be with you.",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Fire][Burn]</style><br>May the flame be with you.",
     "Id": 30000502,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -810,7 +810,7 @@
   },
   "30000506": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Debuff]</style><br>Damp, uncanny, and difficult to approach.",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Dark][Debuff][Specter Parade]</style><br>Damp, eerie, hard to approach.",
     "Id": 30000506,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -820,7 +820,7 @@
   },
   "30000507": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Debuff][Resource]</style><br>A blessing from the shadow beneath the sea.",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Ice][Ultra Cold][Resource]</style><br>Blessing of the phantom in the sea.",
     "Id": 30000507,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -840,7 +840,7 @@
   },
   "30000509": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Burn]</style><br>Lightning illuminates the restless air.",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Thunder][Debuff][Burn]</style><br>Lightning illuminates the restless air.",
     "Id": 30000509,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -890,7 +890,7 @@
   },
   "30000514": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Resource][Burn]</style><br>Mountain winds sweep across an old campfire.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Resource][Burn]</style><br>Mountain wind sweeps over old campfires.",
     "Id": 30000514,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -900,7 +900,7 @@
   },
   "30000515": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Debuff]</style><br>A symbol of untamed savagery.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Light][Debuff][Ultra Cold]</style><br>Symbolizes the most extreme wildness.",
     "Id": 30000515,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -910,7 +910,7 @@
   },
   "30000516": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Debuff][Charge]</style><br>Courage has already taken its place on the field.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Debuff][Charge]</style><br>Courage has already taken its position.",
     "Id": 30000516,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -920,7 +920,7 @@
   },
   "30000517": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Debuff]</style><br>A scaled shadow emerges.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Ice][Debuff][Ultra Cold]</style><br>Scales glimmer in the shadow.",
     "Id": 30000517,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -930,7 +930,7 @@
   },
   "30000518": {
     "BuildTag": [],
-    "Desc": "<style=\"ItemQuality_2\">[Superior]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Debuff]</style><br>A sickly sweet danger is brewing.",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Dark][Debuff]</style><br>A cloying danger is brewing.",
     "Id": 30000518,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -940,7 +940,7 @@
   },
   "30000520": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Dark][Specter Parade]</style><br>Candy! Candy! Give me candy, bo!",
     "Id": 30000520,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -950,7 +950,7 @@
   },
   "30000521": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Dark][Specter Parade]</style><br>Blessing of the ancestral spirit.",
     "Id": 30000521,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -960,7 +960,7 @@
   },
   "30000522": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Ice][Ultra Cold]</style><br>Freeze everything!",
     "Id": 30000522,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -970,7 +970,7 @@
   },
   "30000523": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Light][Buff][Shield]</style><br>If only I could help the Adventurer...",
     "Id": 30000523,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -980,7 +980,7 @@
   },
   "30000524": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_4\">[Epic]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Thunder][Resource]</style><br>There's nothing in this world I can't build.",
     "Id": 30000524,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -990,7 +990,7 @@
   },
   "30000525": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Fire][Burn]</style><br>Blackstone's Wrath!",
     "Id": 30000525,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -1000,7 +1000,7 @@
   },
   "30000526": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Rock][Debuff][Resource]</style><br>Dare you look me in the eye?",
     "Id": 30000526,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -1010,7 +1010,7 @@
   },
   "30000527": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Dark][Buff][Specter Parade]</style><br>The coldest killer in the darkness.",
     "Id": 30000527,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -1020,7 +1020,7 @@
   },
   "30000528": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Fire][Buff][Burn]</style><br>Say goodbye to my flames.",
     "Id": 30000528,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -1030,7 +1030,7 @@
   },
   "30000529": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_3\">[Excellent]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br>Take this!",
     "Id": 30000529,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -1040,7 +1040,7 @@
   },
   "30000530": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_1\">[Superior]</style><style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Resource]</style><br>No one can guard the treasure I decide to take!",
     "Id": 30000530,
     "PackLimit": 0,
     "RepeatPrice": [],
@@ -1050,7 +1050,7 @@
   },
   "30000531": {
     "BuildTag": [],
-    "Desc": "",
+    "Desc": "<style=\"ItemQuality_5\">[Immortal]</style><style=\"magic\">[Magic]</style><style=\"tipsYellow\">[Dark][Specter Parade]</style><br>Candy! Candy! Give me candy, bo!",
     "Id": 30000531,
     "PackLimit": 0,
     "RepeatPrice": [],

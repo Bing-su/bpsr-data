@@ -1,6 +1,6 @@
 {
   "1001": {
-    "Describe": "Ketiga class menyelesaikan Trial Path level 30 dengan bintang maksimal.",
+    "Describe": "Menyelesaikan Lantai 30 Trial Path untuk ketiga Class dengan bintang penuh",
     "Id": 1001,
     "Num": 1,
     "PublicTarget": 100030110,
@@ -12,7 +12,7 @@
     "TypeIcon": 0
   },
   "1002": {
-    "Describe": "Total Skor Mode Master melewati {*val*}.",
+    "Describe": "Total Skor Mode Master pernah mencapai {*val*}.",
     "Id": 1002,
     "Num": 3650,
     "PublicTarget": 101030309,
@@ -24,11 +24,11 @@
     "TypeIcon": 0
   },
   "1003": {
-    "Describe": "Ikut mengalahkan boss dungeon 20 orang {*val*} kali dalam season saat ini.",
+    "Describe": "Berpartisipasi mengalahkan Boss Raid 20 pemain sebanyak {*val*} kali di Season Saat Ini",
     "Id": 1003,
     "Num": 6,
-    "PublicTarget": 500101,
-    "QuickJumpParam": [95, 5, 341],
+    "PublicTarget": 500117,
+    "QuickJumpParam": [9, 5, 5626],
     "QuickJumpType": 1,
     "SeasonId": 0,
     "Sort": 1003,
@@ -36,7 +36,7 @@
     "TypeIcon": 0
   },
   "1004": {
-    "Describe": "Upgrade 3 efek Inti Energi mana saja menjadi Lv. 5.",
+    "Describe": "Tingkatkan Efek dari 3 Inti Energi mana pun ke level 5.",
     "Id": 1004,
     "Num": 1,
     "PublicTarget": 100010705,
@@ -48,7 +48,7 @@
     "TypeIcon": 0
   },
   "1005": {
-    "Describe": "Total meng-upgrade Class Skill 300 kali.",
+    "Describe": "Akumulasi Upgrade Class Skill sebanyak 300 kali.",
     "Id": 1005,
     "Num": 300,
     "PublicTarget": 100010501,
@@ -60,7 +60,7 @@
     "TypeIcon": 0
   },
   "1006": {
-    "Describe": "Refine semua Equipment mencapai Lv. 15.",
+    "Describe": "Level Refine semua Equipment mencapai 15.",
     "Id": 1006,
     "Num": 1,
     "PublicTarget": 100010605,
@@ -72,7 +72,7 @@
     "TypeIcon": 0
   },
   "1007": {
-    "Describe": "Dua Battle Fantasy mana pun mencapai Rank 5.",
+    "Describe": "Dua Battle Fantasy apa pun mencapai Tingkat 5",
     "Id": 1007,
     "Num": 1,
     "PublicTarget": 500115,
@@ -96,7 +96,7 @@
     "TypeIcon": 0
   },
   "2032": {
-    "Describe": "Total Skor Mode Master season ini mencapai {*val*}.",
+    "Describe": "Total Skor Mode Master Season ini mencapai {*val*}.",
     "Id": 2032,
     "Num": 2000,
     "PublicTarget": 103020801,
@@ -108,7 +108,7 @@
     "TypeIcon": 0
   },
   "2033": {
-    "Describe": "Menyelesaikan Stimen Ruin 40F di season ini.",
+    "Describe": "Selesaikan Stimen Ruin Lantai 40 pada Season ini.",
     "Id": 2033,
     "Num": 1,
     "PublicTarget": 103020104,
@@ -120,7 +120,7 @@
     "TypeIcon": 0
   },
   "2034": {
-    "Describe": "Mendapat {*val*} Greysky Echoes - Piala Pencapaian Lanjutan.",
+    "Describe": "Dapatkan {*val*} Greysky Echoes - Piala Pencapaian Lanjutan.",
     "Id": 2034,
     "Num": 10,
     "PublicTarget": 500111,
@@ -132,7 +132,7 @@
     "TypeIcon": 0
   },
   "2035": {
-    "Describe": "Ikut mengalahkan monster elite {*val*} kali dalam season ini.",
+    "Describe": "Berpartisipasi mengalahkan Monster Elite sebanyak {*val*} kali di Season ini",
     "Id": 2035,
     "Num": 3,
     "PublicTarget": 103040404,
@@ -144,7 +144,7 @@
     "TypeIcon": 0
   },
   "2036": {
-    "Describe": "Ikut mengalahkan Abberant & Calamity Mech - Origin dengan tingkat kesulitan apa saja {*val*} kali dalam season saat ini.",
+    "Describe": "Ikut serta mengalahkan Mech Core: Awal Abberant & Calamity sebanyak {*val*} kali pada tingkat Kesulitan apa pun di Season Saat Ini",
     "Id": 2036,
     "Num": 3,
     "PublicTarget": 500105,
@@ -156,7 +156,7 @@
     "TypeIcon": 0
   },
   "2037": {
-    "Describe": "Ikut mengalahkan Abberant & Calamity Mech - Rise dengan tingkat kesulitan apa saja {*val*} kali dalam season saat ini.",
+    "Describe": "Berpartisipasi mengalahkan Mech Core - Succession dari Abberant & Calamity pada Kesulitan apa pun sebanyak {*val*} kali di Season Saat Ini",
     "Id": 2037,
     "Num": 3,
     "PublicTarget": 500106,
@@ -168,13 +168,109 @@
     "TypeIcon": 0
   },
   "2038": {
-    "Describe": "Ikut mengalahkan Abberant & Calamity Mech - End dengan tingkat kesulitan apa saja {*val*} kali dalam season saat ini.",
+    "Describe": "Berpartisipasi mengalahkan Mech Core: Final dari Abberant & Calamity di tingkat Kesulitan apa pun sebanyak {*val*} kali pada Season Saat Ini",
     "Id": 2038,
     "Num": 3,
     "PublicTarget": 500107,
     "QuickJumpParam": [95, 5, 341],
     "QuickJumpType": 1,
     "SeasonId": 3,
+    "Sort": 2038,
+    "TextAdd": "Raid考核",
+    "TypeIcon": 0
+  },
+  "3001": {
+    "Describe": "Rating Ability mencapai {*val*}.",
+    "Id": 3001,
+    "Num": 72000,
+    "PublicTarget": 500116,
+    "QuickJumpParam": [200700],
+    "QuickJumpType": 2,
+    "SeasonId": 4,
+    "Sort": 2031,
+    "TextAdd": "指导者赛季认证条件S3",
+    "TypeIcon": 0
+  },
+  "3002": {
+    "Describe": "Total Skor Mode Master Season ini mencapai {*val*}.",
+    "Id": 3002,
+    "Num": 2000,
+    "PublicTarget": 104020801,
+    "QuickJumpParam": [8, 4, 505965],
+    "QuickJumpType": 1,
+    "SeasonId": 4,
+    "Sort": 2032,
+    "TextAdd": "指导者赛季认证条件S3",
+    "TypeIcon": 0
+  },
+  "3003": {
+    "Describe": "Selesaikan Stimen Ruin Lantai 40 pada Season ini.",
+    "Id": 3003,
+    "Num": 1,
+    "PublicTarget": 104020104,
+    "QuickJumpParam": [8, 2, 503376],
+    "QuickJumpType": 1,
+    "SeasonId": 4,
+    "Sort": 2033,
+    "TextAdd": "指导者赛季认证条件S3",
+    "TypeIcon": 0
+  },
+  "3004": {
+    "Describe": "Dapatkan {*val*} Piala Pencapaian Lanjutan Wish Suguang.",
+    "Id": 3004,
+    "Num": 10,
+    "PublicTarget": 500118,
+    "QuickJumpParam": [800503],
+    "QuickJumpType": 2,
+    "SeasonId": 4,
+    "Sort": 2034,
+    "TextAdd": "指导者赛季认证条件S3",
+    "TypeIcon": 0
+  },
+  "3005": {
+    "Describe": "Berpartisipasi mengalahkan Monster Elite sebanyak {*val*} kali di Season ini",
+    "Id": 3005,
+    "Num": 3,
+    "PublicTarget": 104040504,
+    "QuickJumpParam": [100805],
+    "QuickJumpType": 2,
+    "SeasonId": 4,
+    "Sort": 2035,
+    "TextAdd": "指导者赛季认证条件S3",
+    "TypeIcon": 0
+  },
+  "3006": {
+    "Describe": "Berpartisipasi mengalahkan Rhapsis di tingkat kesulitan apa pun sebanyak {*val*} kali pada Season saat ini",
+    "Id": 3006,
+    "Num": 3,
+    "PublicTarget": 500119,
+    "QuickJumpParam": [9, 5, 5626],
+    "QuickJumpType": 1,
+    "SeasonId": 4,
+    "Sort": 2036,
+    "TextAdd": "Raid考核",
+    "TypeIcon": 0
+  },
+  "3007": {
+    "Describe": "Berpartisipasi mengalahkan Rhapsis - Siang Kutub di tingkat kesulitan apa pun sebanyak {*val*} kali pada Season saat ini",
+    "Id": 3007,
+    "Num": 3,
+    "PublicTarget": 500120,
+    "QuickJumpParam": [9, 5, 5626],
+    "QuickJumpType": 1,
+    "SeasonId": 4,
+    "Sort": 2037,
+    "TextAdd": "Raid考核",
+    "TypeIcon": 0
+  },
+  "3008": {
+    "Describe": "Berpartisipasi mengalahkan Rhapsis - Malam Kutub di tingkat kesulitan apa pun sebanyak {*val*} kali pada Season saat ini",
+    "Id": 3008,
+    "Num": 3,
+    "PublicTarget": 500121,
+    "QuickJumpParam": [9, 5, 5626],
+    "QuickJumpType": 1,
+    "SeasonId": 4,
     "Sort": 2038,
     "TextAdd": "Raid考核",
     "TypeIcon": 0

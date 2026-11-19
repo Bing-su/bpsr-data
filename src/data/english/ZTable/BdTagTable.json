@@ -195,6 +195,27 @@
     "TagString": "The base Luck effect inherent to a Class",
     "TagType": 1
   },
+  "107": {
+    "Id": 107,
+    "ParentTag": 88,
+    "TagName": "Luck Effect DMG",
+    "TagString": "DMG caused by Luck effect triggered by skills (When using class skills that deal direct DMG or healing, all Luck effects you possess have a chance to trigger equal to your Luck Chance)",
+    "TagType": 3
+  },
+  "108": {
+    "Id": 108,
+    "ParentTag": 88,
+    "TagName": "Luck Effect DMG",
+    "TagString": "DMG caused by Luck effect triggered by skills (When using class skills that deal direct DMG or healing, all Luck effects you possess have a chance to trigger equal to your Luck Chance)",
+    "TagType": 3
+  },
+  "109": {
+    "Id": 109,
+    "ParentTag": 0,
+    "TagName": "Copy DMG",
+    "TagString": "Copies the damage of certain skills",
+    "TagType": 1
+  },
   "11": {
     "Id": 11,
     "ParentTag": 1003,
@@ -226,29 +247,29 @@
   "122": {
     "Id": 122,
     "ParentTag": 1012,
-    "TagName": "Humanoid",
-    "TagString": "Difficult to build, but extremely powerful in the late game.",
+    "TagName": "<style=\"tipsYellow\">Specter Parade</style>",
+    "TagString": "For every <style=\"accent-gn\">4</style> Specter Parade Attunement Imagines, <style=\"accent-gn\">Wraith limit +1</style>.",
     "TagType": 2
   },
   "123": {
     "Id": 123,
     "ParentTag": 1012,
-    "TagName": "Burn",
-    "TagString": "Build a team centered around Tatta as the main DPS, utilizing Burn effects.",
+    "TagName": "<style=\"tipsYellow\">Burn</style>",
+    "TagString": "For every <style=\"accent-gn\">3</style> Burn Attunement Imagines, <style=\"accent-gn\">Crit Rate +10%</style>.",
     "TagType": 2
   },
   "124": {
     "Id": 124,
     "ParentTag": 1012,
-    "TagName": "Resource",
-    "TagString": "Quickly obtain Crystalshards in the early game for high damage output later on.",
+    "TagName": "<style=\"tipsYellow\">Resource</style>",
+    "TagString": "For every <style=\"accent-gn\">3</style> Resource Attunement Imagines, <style=\"accent-gn\">Attunement Crystalshard gain rate +5%</style>.",
     "TagType": 2
   },
   "125": {
     "Id": 125,
     "ParentTag": 1012,
-    "TagName": "Charge",
-    "TagString": "Only casts skills when targets enter range, dealing special damage to bosses.",
+    "TagName": "<style=\"tipsYellow\">Ultra Cold</style>",
+    "TagString": "For every <style=\"accent-gn\">3</style> Ultra Cold Attunement Imagines, <style=\"accent-gn\">Basic ATK +5%</style>.",
     "TagType": 2
   },
   "126": {
@@ -268,7 +289,7 @@
   "128": {
     "Id": 128,
     "ParentTag": 1012,
-    "TagName": "Airona",
+    "TagName": "Rorola",
     "TagString": "Tower Defense Build",
     "TagType": 2
   },
@@ -289,7 +310,7 @@
   "130": {
     "Id": 130,
     "ParentTag": 1012,
-    "TagName": "Olvera",
+    "TagName": "Boyce",
     "TagString": "Tower Defense Build",
     "TagType": 2
   },
@@ -632,7 +653,7 @@
   "38": {
     "Id": 38,
     "ParentTag": 1009,
-    "TagName": "Charging",
+    "TagName": "Charge",
     "TagString": "A skill release method that requires some time to prepare to achieve stronger power",
     "TagType": 1
   },
@@ -1017,8 +1038,8 @@
   "88": {
     "Id": 88,
     "ParentTag": 1002,
-    "TagName": "Lucky Effect DMG",
-    "TagString": "DMG caused by Lucky Effects triggered by skills (When using class skills that deal direct DMG or healing, all Lucky Effects you possess have a chance to trigger equal to your Luck Rate)",
+    "TagName": "Lucky Effect",
+    "TagString": "When using class skills that deal direct DMG or healing, all Luck Effects you possess have a chance to trigger equal to your Luck Chance",
     "TagType": 2
   },
   "89": {

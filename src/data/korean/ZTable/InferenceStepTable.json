@@ -182,7 +182,7 @@
   "100311": {
     "Answer": [7],
     "Id": 100311,
-    "Question": "대장장이가 자주 쓰는 글러브는 어떤 특별한 점이 있을까?",
+    "Question": "장인이 자주 쓰는 장갑은 어떤 특별한 점이 있을까?",
     "QuestionBubble": "여기서 쓸 만한 정보를 골라내야 해....",
     "QuestionBubbleAction": 9033,
     "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
@@ -285,6 +285,33 @@
     "QuestionBubble": "결론이 거의 다 나왔다!",
     "QuestionBubbleAction": 9026,
     "WrongBubble": ["뭔가 아닌 것 같다...", "이런! 단서가 없다!"],
+    "WrongBubbleAction": [9007]
+  },
+  "1400111": {
+    "Answer": [],
+    "Id": 1400111,
+    "Question": "캐리는 과거에 어떤 모험 경력이 있었을까?",
+    "QuestionBubble": "모험 경력과 대회 성적은 기록이 남아 있을 테니, 거기서부터 조사해 보면 되겠어.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1400112": {
+    "Answer": [3],
+    "Id": 1400112,
+    "Question": "캐리는 지금 어떤 신분으로 활동하고 있을까?",
+    "QuestionBubble": "그녀가 정말 의원이라면, 의회에 그녀에 관한 기록이 없을 리 없어.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
+    "WrongBubbleAction": [9007]
+  },
+  "1400113": {
+    "Answer": [4, 5],
+    "Id": 1400113,
+    "Question": "이력 외에 캐리가 남긴 단서 중 더 추적해 볼 만한 건 무엇일까?",
+    "QuestionBubble": "캐리가 전에 했던 말에 뭔가 묘한 구석이 있었던 것 같은데...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": ["무언가 잘못된 것 같은데...", "이런! 단서가 없다!", "조금 더 고민해 보자..."],
     "WrongBubbleAction": [9007]
   },
   "200111": {
@@ -426,7 +453,7 @@
     "Answer": [1],
     "Id": 500111,
     "Question": "사람들이 목격한 이상 기후는 무엇일까?",
-    "QuestionBubble": "침식의 안개랑 더 이상 관련이 없으면 좋겠어.",
+    "QuestionBubble": "허식 엔그램이랑 더 이상 관계되고 싶지 않아.",
     "QuestionBubbleAction": 9047,
     "WrongBubble": ["아니야, 좀 더 생각해 보자..."],
     "WrongBubbleAction": [9007]

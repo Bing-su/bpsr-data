@@ -5,7 +5,7 @@
     "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_chengzhangzhilu",
     "ClassName": "成长之路",
     "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_perpetual_achievement_picture",
-    "EntryList": [1000101, 1000102, 1000103, 1000104, 1000105, 1000106, 1000107],
+    "EntryList": [1000101, 1000102, 1000103, 1000104, 1000105, 1000106, 1000107, 1000108],
     "Id": 1,
     "SortID": 1,
     "Type": 0
@@ -79,7 +79,7 @@
     "Type": 2
   },
   "10202": {
-    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_06",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_04",
     "ClassDes": "不断提升自己的力量属性！",
     "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_maoxianjieyi",
     "ClassName": "漫漫旅路",
@@ -145,7 +145,7 @@
     "Type": 3
   },
   "10302": {
-    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_06",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_04",
     "ClassDes": "不断提升自己的力量属性！",
     "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_maoxianjieyi",
     "ClassName": "漫漫旅路",
@@ -209,6 +209,72 @@
     "Id": 10307,
     "SortID": 107,
     "Type": 3
+  },
+  "10401": {
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_new_s4",
+    "ClassDes": "不断提升自己的力量属性！",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_s4",
+    "ClassName": "祈愿共鸣",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "EntryList": [1040101, 1040102, 1040103, 1040104],
+    "Id": 10401,
+    "SortID": 101,
+    "Type": 4
+  },
+  "10402": {
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_04",
+    "ClassDes": "不断提升自己的力量属性！",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_maoxianjieyi",
+    "ClassName": "漫漫旅路",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "EntryList": [1040201, 1040202, 1040203, 1040204, 1040205, 1040206, 1040207, 1040208, 1040209],
+    "Id": 10402,
+    "SortID": 102,
+    "Type": 4
+  },
+  "10403": {
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_new_shejiao",
+    "ClassDes": "收集制作，创造独特的生活！",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_shejiao",
+    "ClassName": "友谊电波",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "EntryList": [1040301, 1040302, 1040303],
+    "Id": 10403,
+    "SortID": 103,
+    "Type": 4
+  },
+  "10404": {
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_05",
+    "ClassDes": "踏遍大地，发现未知的奇迹！",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_chengzhangzhilu",
+    "ClassName": "悠然纪行",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "EntryList": [1040401, 1040402, 1040403, 1040404, 1040405],
+    "Id": 10404,
+    "SortID": 104,
+    "Type": 4
+  },
+  "10405": {
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_03",
+    "ClassDes": "收集制作，创造独特的生活！",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_yangcheng",
+    "ClassName": "流光时刻",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "EntryList": [1040501, 1040502],
+    "Id": 10405,
+    "SortID": 105,
+    "Type": 4
+  },
+  "10406": {
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_01",
+    "ClassDes": "总有人为了守护这个世界的和平在默默付出！",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_guoguanzhanjiang",
+    "ClassName": "星之连携",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "EntryList": [1040601],
+    "Id": 10406,
+    "SortID": 106,
+    "Type": 4
   },
   "2": {
     "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_02",

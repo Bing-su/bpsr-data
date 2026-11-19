@@ -751,7 +751,7 @@
     "MailType": 1,
     "NpcId": 0,
     "NpcName": "",
-    "Title": "Correio de Móveis Temporários:"
+    "Title": "Correio de Móveis Temporários: "
   },
   "2001": {
     "AwardId": 20500700,
@@ -924,7 +924,7 @@
   },
   "2254": {
     "AwardId": 0,
-    "Content": "Olá, Aventureiro,<br><br>Detectamos que você não resgatou sua recompensa de login. Ela foi reenviada para sua caixa de correio.<br><br>Que esta pequena surpresa traga mais alegria às suas aventuras. Leve esta pequena bênção com você e siga para a próxima jornada, ainda mais brilhante!",
+    "Content": "Olá!<br><br>Detectamos que você não resgatou sua recompensa de login. Ela foi reenviada para sua caixa de correio. <br><br>Que esta pequena surpresa traga mais alegria para suas aventuras. Aceite esta pequena bênção e siga em frente para a próxima jornada, ainda mais brilhante!",
     "ExpireTime": 30,
     "Id": 2254,
     "Important": 0,
@@ -937,7 +937,7 @@
   },
   "2255": {
     "AwardId": 0,
-    "Content": "Olá, Aventureiro,<br><br>Detectamos que você não resgatou sua recompensa de login. Ela foi reenviada para sua caixa de correio.<br><br>Que esta pequena surpresa traga mais alegria às suas aventuras. Leve esta pequena bênção com você e siga para a próxima jornada, ainda mais brilhante!",
+    "Content": "Olá!<br><br>Detectamos que você não resgatou sua recompensa de login. Ela foi reenviada para sua caixa de correio. <br><br>Que esta pequena surpresa traga mais alegria para suas aventuras. Aceite esta pequena bênção e siga em frente para a próxima jornada, ainda mais brilhante!",
     "ExpireTime": 30,
     "Id": 2255,
     "Important": 0,
@@ -950,7 +950,7 @@
   },
   "2256": {
     "AwardId": 0,
-    "Content": "Olá, <br><br>Detectamos que você não resgatou sua recompensa de login. Ela foi reenviada para sua caixa de correio. <br><br>Que esta pequena surpresa traga mais alegria às suas aventuras. Leve esta pequena bênção com você e siga para a próxima jornada, ainda mais brilhante!",
+    "Content": "Olá!<br><br>Detectamos que você não resgatou sua recompensa de login. Ela foi reenviada para sua caixa de correio. <br><br>Que esta pequena surpresa traga mais alegria para suas aventuras. Aceite esta pequena bênção e siga em frente para a próxima jornada, ainda mais brilhante!",
     "ExpireTime": 30,
     "Id": 2256,
     "Important": 0,
@@ -974,6 +974,19 @@
     "NpcName": "",
     "Title": "Reflexo da Noite de Brasas: Recompensas de Login Retroativas"
   },
+  "2258": {
+    "AwardId": 0,
+    "Content": "Olá!<br><br>Detectamos que você não resgatou sua recompensa de login. Ela foi reenviada para sua caixa de correio. <br><br>Que esta pequena surpresa traga mais alegria para suas aventuras. Aceite esta pequena bênção e siga em frente para a próxima jornada, ainda mais brilhante!",
+    "ExpireTime": 30,
+    "Id": 2258,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "",
+    "Title": "[Desejos do Amanhecer ao Anoitecer: Recompensa de Check-in Reemitida]"
+  },
   "2300": {
     "AwardId": 0,
     "Content": "Olá!<br><br>Use o código de resgate para receber as recompensas obtidas.",
@@ -984,7 +997,7 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "Correio do Sistema",
+    "NpcName": "Sistema",
     "Title": "[Recompensa] Código de Resgate"
   },
   "2401": {
@@ -1078,6 +1091,19 @@
     "NpcName": "Miaunia",
     "Title": "[Crossover] Reenvio de recompensa de desafio"
   },
+  "2505": {
+    "AwardId": 0,
+    "Content": "Caro Aventureiro, <br><br>O Festival da Brisa Marinha acabou. Resgate suas recompensas de meta de evento restantes!<br><br>Agradecemos a sua participação!",
+    "ExpireTime": 30,
+    "Id": 2505,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Equipe do Festival da Brisa Marinha",
+    "Title": "[Festival da Brisa Marinha] Recompensas de Meta do Evento Não Resgatadas Reemitidas"
+  },
   "2506": {
     "AwardId": 0,
     "Content": "Saudações, Aventureiro, <br><br>O evento Festival da Colheita de Kanamia acabou. Resgate as recompensas de meta que você perdeu!<br><br>Agradecemos a sua participação!",
@@ -1093,7 +1119,7 @@
   },
   "2507": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "Caro Aventureiro,<br><br>O evento Noite da Travessura terminou. Verifique e resgate a tempo as recompensas de objetivos não resgatadas~<br><br>Agradecemos pela participação!",
     "ExpireTime": 30,
     "Id": 2507,
     "Important": 0,
@@ -1101,8 +1127,8 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 1200012,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "Sistema",
+    "Title": "[Noite da Travessura] Reenvio de Recompensas de Objetivos do Evento"
   },
   "3002": {
     "AwardId": 0,
@@ -1210,7 +1236,7 @@
   },
   "4005": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "Caro Aventureiro,<br><br>O resultado do seu Desafio de Ajuste de Linha de Engrama foi rejeitado devido a suspeita de trapaça. Em caso de dúvidas, entre em contato com o suporte ao cliente.",
     "ExpireTime": 30,
     "Id": 4005,
     "Important": 0,
@@ -1218,7 +1244,20 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "Sistema",
+    "Title": "Resultado do Desafio de Ajuste de Linha de Engrama Rejeitado"
+  },
+  "4006": {
+    "AwardId": 0,
+    "Content": "Saudações, <br><br>O Evento Crepúsculo Inviolável atual terminou e você tem recompensas não resgatadas. Resgate-as em breve. <br><br>Agradecemos a sua participação!",
+    "ExpireTime": 30,
+    "Id": 4006,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Sistema",
+    "Title": "[Crepúsculo Inviolável] — Reenvio de Recompensa de Meta"
   }
 }

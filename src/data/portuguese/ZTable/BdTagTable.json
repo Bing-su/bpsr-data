@@ -195,6 +195,27 @@
     "TagString": "O efeito de Sorte básico inerente a uma Classe",
     "TagType": 1
   },
+  "107": {
+    "Id": 107,
+    "ParentTag": 88,
+    "TagName": "Dano do Efeito de Sorte",
+    "TagString": "Dano causado por Efeito de Sorte acionado por habilidades (Ao usar Habilidades de Classe que causam dano ou cura diretos, todos os Efeitos de Sorte que você possui têm uma chance de serem acionados equivalente à sua Chance de Sorte)",
+    "TagType": 3
+  },
+  "108": {
+    "Id": 108,
+    "ParentTag": 88,
+    "TagName": "Dano do Efeito de Sorte",
+    "TagString": "Dano causado por Efeito de Sorte acionado por habilidades (Ao usar Habilidades de Classe que causam dano ou cura diretos, todos os Efeitos de Sorte que você possui têm uma chance de serem acionados equivalente à sua Chance de Sorte)",
+    "TagType": 3
+  },
+  "109": {
+    "Id": 109,
+    "ParentTag": 0,
+    "TagName": "Copiar Dano",
+    "TagString": "Copia o dano de certas habilidades",
+    "TagType": 1
+  },
   "11": {
     "Id": 11,
     "ParentTag": 1003,
@@ -213,70 +234,70 @@
     "Id": 120,
     "ParentTag": 1012,
     "TagName": "Físico",
-    "TagString": "Build de Defesa de Torres",
+    "TagString": "Configuração de Defesa de Torre",
     "TagType": 2
   },
   "121": {
     "Id": 121,
     "ParentTag": 1012,
     "TagName": "Mágico",
-    "TagString": "Build de Defesa de Torres",
+    "TagString": "Configuração de Defesa de Torre",
     "TagType": 2
   },
   "122": {
     "Id": 122,
     "ParentTag": 1012,
-    "TagName": "Humanoide",
-    "TagString": "Difícil de desenvolver, mas extremamente poderoso no fim de jogo.",
+    "TagName": "<style=\"tipsYellow\">Parada dos Espectros</style>",
+    "TagString": "A cada <style=\"accent-gn\">4</style> Imaginares de Sintonização da Parada dos Espectros, <style=\"accent-gn\">limite de Espectros +1</style>.",
     "TagType": 2
   },
   "123": {
     "Id": 123,
     "ParentTag": 1012,
-    "TagName": "Queimadura",
-    "TagString": "Monte uma equipe com Tatta como principal DPS, utilizando efeitos de Queimadura.",
+    "TagName": "<style=\"tipsYellow\">Queimadura</style>",
+    "TagString": "A cada <style=\"accent-gn\">3</style> Imaginares de Sintonização de Queimadura, <style=\"accent-gn\">Taxa de Crítico +10%</style>.",
     "TagType": 2
   },
   "124": {
     "Id": 124,
     "ParentTag": 1012,
-    "TagName": "Recurso",
-    "TagString": "Obtenha Estilhaços de Cristal rapidamente no início do jogo para causar grande dano no final.",
+    "TagName": "<style=\"tipsYellow\">Recurso</style>",
+    "TagString": "A cada <style=\"accent-gn\">3</style> Imaginares de Sintonização de Recurso, <style=\"accent-gn\">taxa de ganho de Estilhaços de Cristal de Sintonia +5%</style>.",
     "TagType": 2
   },
   "125": {
     "Id": 125,
     "ParentTag": 1012,
-    "TagName": "Carga",
-    "TagString": "Só lança habilidades quando os alvos entram no alcance, causando dano especial aos chefes.",
+    "TagName": "<style=\"tipsYellow\">Ultrafrio</style>",
+    "TagString": "A cada <style=\"accent-gn\">3</style> Imaginares de Sintonização de Ultrafrio, <style=\"accent-gn\">ATQ Básico +5%</style>.",
     "TagType": 2
   },
   "126": {
     "Id": 126,
     "ParentTag": 1012,
     "TagName": "Bonificação",
-    "TagString": "Build de Defesa de Torres",
+    "TagString": "Configuração de Defesa de Torre",
     "TagType": 2
   },
   "127": {
     "Id": 127,
     "ParentTag": 1012,
-    "TagName": "Enfraquecimento",
-    "TagString": "Build de Defesa de Torres",
+    "TagName": "Penalização",
+    "TagString": "Configuração de Defesa de Torre",
     "TagType": 2
   },
   "128": {
     "Id": 128,
     "ParentTag": 1012,
-    "TagName": "Airona",
-    "TagString": "Build de Defesa de Torres",
+    "TagName": "Rorula",
+    "TagString": "Configuração de Defesa de Torre",
     "TagType": 2
   },
   "129": {
     "Id": 129,
     "ParentTag": 1012,
     "TagName": "Tatta",
-    "TagString": "Build de Defesa de Torres",
+    "TagString": "Configuração de Defesa de Torre",
     "TagType": 2
   },
   "13": {
@@ -289,8 +310,8 @@
   "130": {
     "Id": 130,
     "ParentTag": 1012,
-    "TagName": "Olvera",
-    "TagString": "Build de Defesa de Torres",
+    "TagName": "Boyce",
+    "TagString": "Configuração de Defesa de Torre",
     "TagType": 2
   },
   "14": {
@@ -632,7 +653,7 @@
   "38": {
     "Id": 38,
     "ParentTag": 1009,
-    "TagName": "Carregar",
+    "TagName": "Carga",
     "TagString": "Um método de liberação de habilidade que requer algum tempo para preparar e alcançar poder mais forte",
     "TagType": 1
   },
@@ -1017,8 +1038,8 @@
   "88": {
     "Id": 88,
     "ParentTag": 1002,
-    "TagName": "Dano de Efeito de Sorte",
-    "TagString": "Dano causado por Efeitos de Sorte acionados por habilidades (Ao usar habilidades de classe que causam dano ou cura diretos, todos os Efeitos de Sorte possuídos têm chance de acionar igual à sua Taxa de Sorte)",
+    "TagName": "Efeito de Sorte",
+    "TagString": "Ao usar Habilidades de Classe que causam dano ou cura diretos, todos os Efeitos de Sorte que você possui têm uma chance de serem acionados equivalente à sua Chance de Sorte.",
     "TagType": 2
   },
   "89": {
@@ -1074,7 +1095,7 @@
     "Id": 95,
     "ParentTag": 1011,
     "TagName": "Estatísticas de Maldição",
-    "TagString": "Um tipo de bonificação usado em jogabilidade roguelike",
+    "TagString": "Um tipo de bonificação usada em jogos roguelike",
     "TagType": 2
   },
   "96": {
@@ -1088,21 +1109,21 @@
     "Id": 97,
     "ParentTag": 1011,
     "TagName": "Afixo de Ira Sangrenta",
-    "TagString": "Um tipo de bonificação usado em jogabilidade roguelike",
+    "TagString": "Um tipo de bonificação usada em jogos roguelike",
     "TagType": 2
   },
   "98": {
     "Id": 98,
     "ParentTag": 1011,
     "TagName": "Afixo Ileso",
-    "TagString": "Um tipo de bonificação usado em jogabilidade roguelike",
+    "TagString": "Um tipo de bonificação usada em jogos roguelike",
     "TagType": 2
   },
   "99": {
     "Id": 99,
     "ParentTag": 1011,
     "TagName": "Afixo de Sorte",
-    "TagString": "Um tipo de bonificação usado em jogabilidade roguelike",
+    "TagString": "Um tipo de bonificação usada em jogos roguelike",
     "TagType": 2
   }
 }

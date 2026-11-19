@@ -1,6 +1,6 @@
 {
   "1": {
-    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_5\">Immortal</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style>",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_5\">Abadi</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style>",
     "Id": 1,
     "IsHide": 1,
     "ObjectId": 1,
@@ -18,7 +18,7 @@
     "UIColor": 3
   },
   "1001": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: Attack Speed Fantasy Penyelaras di dalam Area berkurang drastis, namun ATK meningkat.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: Fantasy yang diselaraskan di dalam area akan mengalami penurunan Attack Speed secara drastis, tetapi ATK mereka akan meningkat.",
     "Id": 1001,
     "IsHide": 1,
     "ObjectId": 5003000,
@@ -27,7 +27,7 @@
     "UIColor": 4
   },
   "1002": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: DMG yang diterima dari depan berkurang, DMG yang diterima dari belakang meningkat.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: DMG yang diterima dari depan berkurang, sedangkan DMG yang diterima dari belakang meningkat.",
     "Id": 1002,
     "IsHide": 1,
     "ObjectId": 5003001,
@@ -36,7 +36,7 @@
     "UIColor": 4
   },
   "1005": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: Setiap kali lagu nina bobonya terdengar, seluruh Tuning Fantasy di arena akan tertidur.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: Setiap kali ia melantunkan lagu pengantar tidurnya, ia akan menidurkan semua Fantasy selaras di seluruh medan tempur.",
     "Id": 1005,
     "IsHide": 1,
     "ObjectId": 5003004,
@@ -45,7 +45,7 @@
     "UIColor": 4
   },
   "1006": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: HP meningkat drastis, tetapi DMG yang diterima diri sendiri meningkat. Semakin tinggi total Level Tuned Fantasy di arena, semakin tinggi DMG yang diterima.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Boss</style><br>Fitur: HP meningkat drastis, tetapi DMG yang diterima juga meningkat. Semakin tinggi total level dari seluruh Fantasy yang diselaraskan di medan tempur, semakin besar pula DMG yang diterima.",
     "Id": 1006,
     "IsHide": 1,
     "ObjectId": 5003005,
@@ -81,7 +81,7 @@
     "UIColor": 4
   },
   "101": {
-    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_5\">Immortal</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_5\">Abadi</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">DPS</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
     "Id": 101,
     "IsHide": 0,
     "ObjectId": 96,
@@ -261,7 +261,7 @@
     "UIColor": 3
   },
   "13": {
-    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Unggul</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
+    "Desc": "<style=\"accent-gn\">Kelangkaan</style>: <style=\"ItemQuality_3\">Epik</style><br><style=\"accent-gn\">Peran</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
@@ -333,7 +333,7 @@
     "UIColor": 4
   },
   "2001": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Semua Monster di dalam Area menjadi Invincible, kecuali dirinya sendiri.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Semua monster di dalam area menjadi invincible, kecuali dirinya sendiri.",
     "Id": 2001,
     "IsHide": 1,
     "ObjectId": 5002000,
@@ -342,7 +342,7 @@
     "UIColor": 3
   },
   "2002": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Memberikan efek Freeze pada Fantasy selaras pertama yang melakukan Attack padanya, siapa yang ingin menjadi yang pertama?",
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Memberikan efek Freeze pada Fantasy yang diselaraskan pertama yang menyerangnya. Siapa yang ingin menjadi yang pertama?",
     "Id": 2002,
     "IsHide": 1,
     "ObjectId": 5002001,
@@ -351,7 +351,7 @@
     "UIColor": 3
   },
   "2003": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Memberikan efek HoT kepada Monster di sekitarnya.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Terus-menerus memberikan Heal pada monster di sekitarnya.",
     "Id": 2003,
     "IsHide": 1,
     "ObjectId": 5002002,
@@ -360,7 +360,7 @@
     "UIColor": 3
   },
   "2004": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Bergerak mengabaikan medan, tetapi sangat malas dan sering beristirahat.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Elite</style><br>Fitur: Bergerak mengabaikan medan, tapi sangat malas dan sering beristirahat.",
     "Id": 2004,
     "IsHide": 1,
     "ObjectId": 5002005,
@@ -504,7 +504,7 @@
     "UIColor": 4
   },
   "3001": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Makhluk bawah laut yang paling umum.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Makhluk dasar laut yang paling umum.",
     "Id": 3001,
     "IsHide": 1,
     "ObjectId": 5001000,
@@ -513,7 +513,7 @@
     "UIColor": 1
   },
   "3002": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Memiliki kecepatan yang sangat tinggi, kabar baiknya tidak tahan banting.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Memiliki kecepatan yang sangat tinggi, namun untungnya ia cukup rapuh.",
     "Id": 3002,
     "IsHide": 1,
     "ObjectId": 5001001,
@@ -522,7 +522,7 @@
     "UIColor": 1
   },
   "3003": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Membawa Shield yang tebal, biasanya muncul di awal gelombang.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Membawa shield yang tebal, biasanya muncul di awal gelombang.",
     "Id": 3003,
     "IsHide": 1,
     "ObjectId": 5001002,
@@ -531,7 +531,7 @@
     "UIColor": 1
   },
   "3004": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Mereka akan melindungi monster lainnya di area agar tidak mudah terluka, akan menjadi masalah besar jika tidak dikalahkan terlebih dahulu.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Mereka akan melindungi monster lainnya di medan tempur untuk mengurangi damage yang diterima. Jika tidak dikalahkan lebih dulu, mereka akan sangat merepotkan.",
     "Id": 3004,
     "IsHide": 1,
     "ObjectId": 5001003,
@@ -540,7 +540,7 @@
     "UIColor": 1
   },
   "3005": {
-    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Bergerak mengabaikan medan, bagaimana bisa ada makhluk semenyebalkan ini.",
+    "Desc": "Jenis: <style=\"tipsYellow\">Normal</style><br>Fitur: Bergerak mengabaikan medan. Bagaimana bisa ada makhluk semenyebalkan ini?",
     "Id": 3005,
     "IsHide": 1,
     "ObjectId": 5001007,

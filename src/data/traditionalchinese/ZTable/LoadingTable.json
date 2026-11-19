@@ -104,7 +104,7 @@
     "LoadingBg": "",
     "LoadingType": 0,
     "SceneId": 0,
-    "TextGeneral": "平原上會不定時出沒各種神奇生物，擊敗後有機率獲取稀有頭飾和坐騎！<br>具體出沒規律可在怪物討伐中查看哦！",
+    "TextGeneral": "平原上會不定時出沒各種神奇生物，擊敗後有機率獲取稀有頭飾和載具！<br>具體出沒規律可在怪物討伐中查看哦！",
     "TextTitle": "神奇生物"
   },
   "11": {
@@ -221,7 +221,7 @@
     "LoadingBg": "ui/textures/login/loading13",
     "LoadingType": 0,
     "SceneId": 11,
-    "TextGeneral": "極光舞台的光不僅僅是照明的工具，更是承載資訊的信使。<br>這源于創始人喵可露的大膽設想，如果能像捕捉極光那樣，捕捉來自遙遠異世界的訊號，便有機會打破夢境孤島的界限。",
+    "TextGeneral": "極光舞台的光不僅僅是照明的工具，更是承載資訊的信使。<br>這源於創始人喵可露的大膽設想，如果能像捕捉極光那樣，捕捉來自遙遠異世界的訊號，便有機會打破夢境孤島的界限。",
     "TextTitle": "極光舞台"
   },
   "121": {
@@ -287,6 +287,24 @@
     "TextGeneral": "喵可露常說，夢境是無法複製的，但願望可以。<br>而喵特賞，就是她把願望包裝成禮物的方式。",
     "TextTitle": "喵特賞"
   },
+  "128": {
+    "Id": 128,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading19",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "峽谷與森林交錯延伸，清澈溪流自岩壁間奔湧而下，最終匯聚成壯觀的瀑布群。<br>作為連接阿斯特里斯高原與長青沙漠的地點，這裡經常吸引商旅與冒險者們到來。",
+    "TextTitle": "里澤商路帶"
+  },
+  "129": {
+    "Id": 129,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading20",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "塔瓦洛克礦山的停工讓這片林地恢復了久違的安寧，但最近有人堅稱自己曾在夜晚聽見森林深處傳來竊竊私語，也有人說森林的動物格外躁動不安，這份突如其來的奇怪活躍是何原因，至今無人能夠說清。",
+    "TextTitle": "遺忘林地"
+  },
   "13": {
     "Id": 13,
     "LevelRange": [11, 20],
@@ -296,6 +314,96 @@
     "TextGeneral": "只有首次對精英怪造成傷害的玩家或其隊伍才會有目標掉落的戰利品寶箱的開啟權，首刀玩家及其隊伍看到目標的生命條是紅色，其他人看到是灰色哦。",
     "TextTitle": "怪物討伐 - 精英"
   },
+  "130": {
+    "Id": 130,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading21",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "奔騰而下的大瀑布終年轟鳴不息。潔白的水流從峽谷高處傾瀉，在陽光照耀下泛起璀璨的光輝。",
+    "TextTitle": "里澤大瀑布"
+  },
+  "131": {
+    "Id": 131,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading22",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "在溪谷居民的口耳相傳中，在涓涓澗流中，存在一道詭異身影。<br>因此，經驗豐富的旅人總會雇傭本地嚮導同行。<br>畢竟在蒙特諾爾溪谷，多數危險往往難以察覺。",
+    "TextTitle": "澗流的異影"
+  },
+  "132": {
+    "Id": 132,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading23",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "梅里索蘇河流經峽谷時，會攜帶大量礦物質。隨著水汽在岩壁與瀑布周圍不斷蒸騰，那些細小結晶逐漸附著於石壁之上，最終形成層層疊疊的礦鹽。",
+    "TextTitle": "礦鹽"
+  },
+  "133": {
+    "Id": 133,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading24",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "當地人有句廣為流傳的話，就是對這裡的最好注解。<br>『路燈照得到的地方講規矩，路燈照不到的地方，規矩就未必管用了。』",
+    "TextTitle": "里澤大空洞"
+  },
+  "134": {
+    "Id": 134,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading25",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "棲息於里澤大空洞頂部草甸的哥布林首領，是溪谷商路的一大威脅。據說每當有商隊經過，牠便會率領部族自洞頂一躍而下，對毫無防備的商旅發動突襲。",
+    "TextTitle": "拾貝異教徒"
+  },
+  "135": {
+    "Id": 135,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading26",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "牠總是第一個撕開戰線，以近乎瘋狂的姿態衝入敵陣。厚重的甲胄在那柄鋸齒刀前形同虛設，而緊隨其後的姆克則會一擁而上，將尚未穩住陣腳的敵人徹底吞沒。",
+    "TextTitle": "溪谷尖兵"
+  },
+  "136": {
+    "Id": 136,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading27",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "溪谷留下的答案，或許早已刻在那些風化的賢者石刻之中：<br>「神族悄然離去，礦山亦歸沉寂。繁榮與停滯，在重複同一結局。」",
+    "TextTitle": "褪色的天階與廢棄礦道"
+  },
+  "137": {
+    "Id": 137,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading28",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "關於落龍柱的來歷，溪谷始終流傳著各種說法。有人認為這裡曾是龍族的埋骨之地；有人相信，這裡是某場遠古戰爭留下的遺跡；也有人堅信，整根石柱本身便是某個失落文明創造的造物。",
+    "TextTitle": "落龍柱與機像殘骸"
+  },
+  "138": {
+    "Id": 138,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading29",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "冒險者可透過完成每日、每週練習任務獲取熟練度可提升熟練等級，解鎖更多的樂器功能、樂譜和等級獎勵。<br>線上合奏時，冒險者可以通過組隊系統，在自由演奏模式下發起合奏。和所有成員節拍同步，實現默契協作吧！",
+    "TextTitle": "樂手"
+  },
+  "139": {
+    "Id": 139,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading30",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "完成指定考核任務即可考取星之指導員資質；晉升星之指導員並透過賽季綜合評定便能進階為天穹指導員，領取獎勵。",
+    "TextTitle": "指導員說明"
+  },
   "14": {
     "Id": 14,
     "LevelRange": [11, 20],
@@ -304,6 +412,42 @@
     "SceneId": 0,
     "TextGeneral": "可以透過怪物討伐介面對首領怪物進行追蹤哦！",
     "TextTitle": "怪物討伐 - 首領"
+  },
+  "140": {
+    "Id": 140,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "開服第5天開啟萌新判定，29級及以下玩家可獲得萌新標識，標識有效期28天。萌新參與指定副本可額外獲取友情點，收益受每週助戰友情點上限約束。",
+    "TextTitle": "萌新特別行動"
+  },
+  "141": {
+    "Id": 141,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "回歸玩家可享受全屬性動態加成，活躍度、榮譽幣獲取效率各提升 20%！<br>參與指定副本可額外獲取友情點等多項福利，完成回歸專屬任務可領取豐厚獎勵，不要錯過哦！",
+    "TextTitle": "回歸特別行動"
+  },
+  "142": {
+    "Id": 142,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "遊戲內冒險者們在參加各種玩法、活動的優異表現會被記錄其中讓所有人都能隨時查詢和欣賞，積極努力的去參加每一次活動吧！",
+    "TextTitle": "群星名錄玩法說明"
+  },
+  "143": {
+    "Id": 143,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "大師階位賽開啟時，通關大師難度 18 級及以上大師副本，全隊全員同意投票後成績方可上傳收錄於大師階位賽中。",
+    "TextTitle": "大師階位賽說明"
   },
   "15": {
     "Id": 15,
@@ -401,7 +545,7 @@
     "LoadingBg": "",
     "LoadingType": 0,
     "SceneId": 0,
-    "TextGeneral": "【風力通道】一一阿斯特里亞的特有現象之一。由於星元循環失衡的影響，平原上形成了大大小小的元素湍流通道，與小型氣旋互動，即可打開風力通道入口。",
+    "TextGeneral": "【風力通道】一一阿斯特里亞的特有現象之一。由於星元循環失衡的影響，平原上形成了大大小小的元素湍流通道，與小型氣旋交互，即可打開風力通道入口。",
     "TextTitle": "《阿斯特里亞平原的颶風氣候與獨特的物種性狀研究》"
   },
   "25": {
@@ -482,7 +626,7 @@
     "LoadingBg": "",
     "LoadingType": 0,
     "SceneId": 0,
-    "TextGeneral": "除了普通怪物外，野外還有實力強勁的精英怪物和首領怪物，討伐它們會有戰利品寶箱掉落，用鑰匙可以打開獲得稀有獎勵。",
+    "TextGeneral": "除了普通怪物外，野外還有實力強勁的精英怪物和首領怪物，討伐牠們會有戰利品寶箱掉落，用鑰匙可以打開獲得稀有獎勵。",
     "TextTitle": "怪物討伐"
   },
   "33": {
@@ -761,7 +905,7 @@
     "LoadingBg": "",
     "LoadingType": 2,
     "SceneId": 0,
-    "TextGeneral": "玩家騎乘可導航坐騎時，長按 [{*key.getKeyDesc(154)*}] 鍵即可對當前追蹤目標進行自動導航。",
+    "TextGeneral": "玩家騎乘可導航載具時，長按 [{*key.getKeyDesc(154)*}] 鍵即可對當前追蹤目標進行自動導航。",
     "TextTitle": "鍵位小TIPS"
   },
   "61": {

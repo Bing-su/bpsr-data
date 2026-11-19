@@ -353,7 +353,7 @@
   },
   "100312": {
     "Answer": ["", "Zerlegungsdiagramm"],
-    "Clue": "<tagId=8>*Blaupausen zur Demontage des Göttlichen Vermächtnisses des Blitzkerns*, <tagId=5>*wurden bei Feyns Werkbank Nr. 2 gefunden*, <tagId=6>*viele Handwerker sind daran interessiert, dieses göttliche Vermächtnis mit mächtiger Donnerkraft zu studieren*, <tagId=10>*aber nur Tauros weiß, wie man es richtig benutzt*.",
+    "Clue": "<tagId=8>*Blaupausen zur Demontage des Göttlichen Vermächtnisses des Blitzkerns*, <tagId=5>*wurden bei Feyns Werkbank Nr. 2 gefunden*, <tagId=6>*viele Handwerker sind daran interessiert, dieses göttliche Vermächtnis mit mächtiger Donnerkraft zu studieren*, <tagId=10>*aber nur Dorothy weiß, wie man es richtig benutzt*.",
     "Id": 100312,
     "Sort": 2,
     "TapBubble": ["", "Welche Informationen könnten sich hierin verbergen ..."],
@@ -500,6 +500,63 @@
     "TapBubbleAction": [9019],
     "Tips": "Erhalte Hinweise durch Erkundigungen",
     "UnlockCondition": [[2, 185220, 185220016]],
+    "UnlockedBubble": "Neuer Hinweis erhalten!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400111": {
+    "Answer": ["", "Nahm beim Karneval am Donnerdämon-Kampf teil", "", "War eine Abenteurerin"],
+    "Clue": "\"Keine Sorge, ich war früher auch eine <tagId=1>*Abenteurerin*. Lasst euch Zeit. Wir sehen uns am Gefallenen Fluss.\" \"Beim Karneval war es genauso. <tagId=2>*Beim Donnerdämon-Kampf hat mir nur eine Kleinigkeit gefehlt – ich hätte deine Punktzahl fast eingeholt.* Wenn ich so zurückdenke, wurmt mich das immer noch ein bisschen.\"",
+    "Id": 1400111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Carrie hat mehr als einmal erwähnt, dass sie früher eine Abenteurerin war. Das Pionierbüro sollte Aufzeichnungen darüber haben.",
+      "",
+      "Irgendetwas daran kam mir schon damals seltsam vor... Wenn sie wirklich teilgenommen hat, müssten ihre Ergebnisse verzeichnet sein."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Erinnere dich an Carries Worte",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "Neuer Hinweis erhalten!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400112": {
+    "Answer": [
+      "",
+      "Asterleeds-Ratsmitglied",
+      "",
+      "Eltern leben nahe der Statue des Helden in Klosterkirchen-Horn"
+    ],
+    "Clue": "\"Haha, überrascht? Die Kleidung eines <tagId=3>*Ratsmitglieds* ist zwar schick, aber wenn man Dinge erledigen muss, ist das hier am bequemsten.\" \"Klosterkirchen-Horn. <tagId=4>*Meine Eltern leben schon immer dort, nahe der Statue des Helden.*\"",
+    "Id": 1400112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Auch Lamond hat sie mir als Ratsmitglied vorgestellt. Der Rat sollte ihre Identität am besten kennen.",
+      "",
+      "Sie hat sehr genau beschrieben, wo ihre Familie wohnt. Wenn ihre Eltern wirklich dort leben, lässt sich vielleicht noch mehr bestätigen."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Erinnere dich an Carries Worte",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "Neuer Hinweis erhalten!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400113": {
+    "Answer": [
+      "",
+      "Ungewöhnlich fixiert darauf, \"in Erinnerung zu bleiben\" und \"vergessen zu werden\""
+    ],
+    "Clue": "\"Manchmal denke ich, dass die Existenz eines Menschen etwas Seltsames ist. Selbst wenn jemand nicht hier ist, fühlt er sich nah an, solange sich noch jemand erinnert. <tagId=5>*Aber wenn jede Erinnerung an einen Menschen verschwinden würde... wäre es dann so, als hätte er nie existiert?*\"",
+    "Id": 1400113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Damals wirkte es nur so, als hätte sie plötzlich etwas Seltsames gesagt. Im Nachhinein schien Carrie geradezu darauf fixiert zu sein, \"in Erinnerung zu bleiben\" und \"vergessen zu werden\"."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Erinnere dich an Carries Worte",
+    "UnlockCondition": [[2, 11401, 11401002]],
     "UnlockedBubble": "Neuer Hinweis erhalten!",
     "UnlockedBubbleAction": 9019
   },
@@ -925,7 +982,7 @@
       "So kann er die Karawane übernehmen"
     ],
     "TapBubbleAction": [9019],
-    "Tips": "Suche am Ort des Geschehens nach Hinweisen",
+    "Tips": "Untersuche den Schauplatz, um Hinweise zu erhalten",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Neuer Hinweis erhalten!",
     "UnlockedBubbleAction": 9019
@@ -937,7 +994,7 @@
     "Sort": 2,
     "TapBubble": ["", "Dieser Kerl stiftet bestimmt im Hintergrund Unruhe"],
     "TapBubbleAction": [9019],
-    "Tips": "Suche am Ort des Geschehens nach Hinweisen",
+    "Tips": "Untersuche den Schauplatz, um Hinweise zu erhalten",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Neuer Hinweis erhalten!",
     "UnlockedBubbleAction": 9019
@@ -954,7 +1011,7 @@
       "Alles hat seinen Preis"
     ],
     "TapBubbleAction": [9019],
-    "Tips": "Suche am Ort des Geschehens nach Hinweisen",
+    "Tips": "Untersuche den Schauplatz, um Hinweise zu erhalten",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Neuer Hinweis erhalten!",
     "UnlockedBubbleAction": 9019

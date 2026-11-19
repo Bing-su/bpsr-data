@@ -547,7 +547,7 @@
   },
   "1203": {
     "AwardId": 0,
-    "Content": "Karena kamu sudah offline lebih dari 28 hari, jabatan ketua guild sudah otomatis dialihkan ke pemain yang aktif saat ini.",
+    "Content": "Karena Anda telah offline selama lebih dari 28 hari, posisi Ketua Guild secara otomatis dialihkan kepada Pemain Guild yang aktif saat ini.",
     "ExpireTime": 30,
     "Id": 1203,
     "Important": 0,
@@ -560,7 +560,7 @@
   },
   "1204": {
     "AwardId": 0,
-    "Content": "Selamat, {*str[1]*} sudah menjadi ketua guild yang baru!",
+    "Content": "Selamat kepada {*str[1]*} yang telah menjadi Ketua Guild baru!",
     "ExpireTime": 30,
     "Id": 1204,
     "Important": 0,
@@ -974,6 +974,19 @@
     "NpcName": "",
     "Title": "[Embernight Reflection - Pengiriman Ulang Hadiah Check-in]"
   },
+  "2258": {
+    "AwardId": 0,
+    "Content": "Para Petualang yang terhormat:<br><br>Kami mendeteksi bahwa Anda memiliki hadiah check-in yang belum diambil. Kini telah dikirim ulang ke kotak surat.<br><br>Semoga kejutan kecil ini bisa membawa lebih banyak keseruan dalam petualanganmu. Bawalah kebahagiaan ini melangkah menuju petualangan berikutnya yang lebih seru.",
+    "ExpireTime": 30,
+    "Id": 2258,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "",
+    "Title": "[Wish Pagi dan Malam - Pengiriman Susulan Hadiah Check-in]"
+  },
   "2300": {
     "AwardId": 0,
     "Content": "Petualang yang terhormat: Silakan periksa hadiah yang Anda dapatkan dari kode penukaran~",
@@ -1015,7 +1028,7 @@
   },
   "2403": {
     "AwardId": 0,
-    "Content": "Misi Periode Instruktur sudah diperbarui. Bersama surat ini, kami kirimkan hadiah yang belum kamu ambil.",
+    "Content": "Misi Berkala Instruktur telah diperbarui, silakan periksa hadiah yang belum diambil.",
     "ExpireTime": 30,
     "Id": 2403,
     "Important": 0,
@@ -1024,11 +1037,11 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "",
-    "Title": "Surat Pengiriman Hadiah Misi Periode Instruktur"
+    "Title": "Surat Pengiriman Hadiah Misi Berkala Instruktur"
   },
   "2501": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Target periode [Pedoman Starwander] sudah direset. Bersama surat ini, kami kirimkan hadiah yang belum kamu ambil~<br><br>Selamat bersenang-senang di Pulau Starwander!",
+    "Content": "Petualang yang terhormat: <br><br>Target periode \"Buku Panduan Planet\" telah direset, harap segera periksa dan ambil hadiah yang belum diklaim~<br><br>Selamat bersenang-senang di Pulau Planet!",
     "ExpireTime": 30,
     "Id": 2501,
     "Important": 0,
@@ -1036,12 +1049,12 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 1200012,
-    "NpcName": "Pekerja Pulau Starwander",
-    "Title": "Pengiriman Ulang Hadiah Target Periode [Pedoman Starwander]"
+    "NpcName": "Staf Pulau Planet",
+    "Title": "[Buku Panduan Planet] Pengiriman Ulang Hadiah Target Periode"
   },
   "2502": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Target harian event kolaborasi periode ini sudah direset. Bersama surat ini, kami kirimkan hadiah yang belum kamu ambil.<br><br>\"Semoga keberuntungan berada di pihakmu!\"",
+    "Content": "Petualang yang terhormat:<br><br>Target Harian untuk Event Kolaborasi kali ini telah di-reset, harap segera periksa dan ambil Hadiah yang belum diambil.<br><br>“Semoga keberuntungan berpihak pada Anda!”",
     "ExpireTime": 7,
     "Id": 2502,
     "Important": 0,
@@ -1054,7 +1067,7 @@
   },
   "2503": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Target mingguan event kolaborasi periode ini sudah direset. Bersama surat ini, kami kirimkan hadiah yang belum kamu ambil.<br><br>\"Semoga keberuntungan berada di pihakmu!\"",
+    "Content": "Petualang yang terhormat:<br><br>Target Mingguan untuk Event Kolaborasi kali ini telah di-reset, harap segera periksa dan ambil Hadiah yang belum diambil.<br><br>“Semoga keberuntungan berpihak pada Anda!”",
     "ExpireTime": 30,
     "Id": 2503,
     "Important": 0,
@@ -1067,7 +1080,7 @@
   },
   "2504": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Event kolaborasi periode ini sudah berakhir. Bersama surat ini, kami kirimkan hadiah yang belum kamu ambil.<br><br>Terima kasih atas partisipasinya!",
+    "Content": "Petualang yang terhormat:<br><br>Event Kolaborasi kali ini telah berakhir, silakan periksa dan ambil Hadiah Target Tantangan yang belum diambil~<br><br>Terima kasih atas partisipasi Anda!",
     "ExpireTime": 30,
     "Id": 2504,
     "Important": 0,
@@ -1076,11 +1089,24 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "Meownia",
-    "Title": "[Event Kolaborasi] Pengiriman Ulang Hadiah Target Tantangan"
+    "Title": "[Event Kolaborasi] Pengiriman Susulan Hadiah Target Tantangan"
+  },
+  "2505": {
+    "AwardId": 0,
+    "Content": "Petualang yang terhormat:<br><br>Event perayaan Festival Seabreeze kali ini telah berakhir, harap segera periksa Hadiah Target Event yang belum diambil~<br><br>Terima kasih atas partisipasi Anda!",
+    "ExpireTime": 30,
+    "Id": 2505,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Pekerja Festival Seabreeze",
+    "Title": "[Perayaan Festival Seabreeze] Pengiriman Ulang Hadiah Target Event"
   },
   "2506": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Event Ritual Panen Kahneman kali ini telah berakhir, harap segera periksa dan ambil Hadiah Target yang belum diambil~<br><br>Terima kasih atas partisipasi Anda!",
+    "Content": "Kepada Petualang:<br><br>Event Ritual Panen Kahneman periode ini telah berakhir, silakan segera periksa Hadiah Target yang belum diambil~<br><br>Terima kasih atas partisipasimu!",
     "ExpireTime": 30,
     "Id": 2506,
     "Important": 0,
@@ -1089,11 +1115,11 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "Pekerja Ritual Panen",
-    "Title": "[Ritual Panen Kahneman] Pengiriman Ulang Hadiah Target Event"
+    "Title": "[Ritual Panen Kahneman] Pengiriman Susulan Hadiah Target Event"
   },
   "2507": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Event Prank Night kali ini telah berakhir, silakan periksa dan ambil Hadiah Target yang belum diambil~<br><br>Terima kasih atas partisipasi Anda!",
+    "Content": "Kepada Petualang:<br><br>Event Prank Night periode ini telah berakhir, silakan segera periksa hadiah target yang belum diambil~<br><br>Terima kasih atas partisipasimu!",
     "ExpireTime": 30,
     "Id": 2507,
     "Important": 0,
@@ -1102,7 +1128,7 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "Surat Sistem",
-    "Title": "[Prank Night] Pengiriman Susulan Hadiah Target Event"
+    "Title": "[Prank Night] Pengiriman Ulang Hadiah Target Event"
   },
   "3002": {
     "AwardId": 0,
@@ -1158,7 +1184,7 @@
   },
   "4001": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>{*str[1]*} x {*str[2]*} terdeteksi sudah melampaui masa berlaku dan sudah didaur ulang.<br><br>Selamat berpetualang!",
+    "Content": "Petualang yang terhormat:<br><br>Kami mendeteksi bahwa {*str[1]*} x {*str[2]*} telah kedaluwarsa dan telah didaur ulang untuk Anda.<br><br>Semoga petualangan Anda menyenangkan!",
     "ExpireTime": 30,
     "Id": 4001,
     "Important": 0,
@@ -1171,7 +1197,7 @@
   },
   "4002": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Selamat, Anda telah mendapat posisi ke-{*str[2]*} di Peringkat {*str[1]*}. Silakan ambil hadiah Anda!",
+    "Content": "Petualang yang terhormat:<br><br>Selamat! Kamu akhirnya mendapat posisi ke-{*str[2]*} yang luar biasa di Peringkat {*str[1]*}, silakan ambil hadiahnya!",
     "ExpireTime": 30,
     "Id": 4002,
     "Important": 0,
@@ -1180,11 +1206,11 @@
     "MailType": 1,
     "NpcId": 0,
     "NpcName": "Surat Sistem",
-    "Title": "Hadiah Perhitungan Peringkat Master"
+    "Title": "Hadiah Perhitungan Masuk Peringkat Master"
   },
   "4003": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Hasil Voting kamu di Dungeon Master {*str[1]*} telah ditinjau dan dinyatakan tidak lolos karena {*str[2]*}. Jika ada pertanyaan, silakan Hubungi CS!",
+    "Content": "Petualang yang terhormat:<br><br>Hasil Voting Dungeon Master {*str[1]*} Anda telah ditinjau, namun tidak lolos peninjauan karena alasan {*str[2]*}. Jika ada pertanyaan, silakan Hubungi CS!",
     "ExpireTime": 30,
     "Id": 4003,
     "Important": 0,
@@ -1193,11 +1219,11 @@
     "MailType": 1,
     "NpcId": 0,
     "NpcName": "Surat Sistem",
-    "Title": "Verifikasi Voting Peringkat Master Gagal"
+    "Title": "Tinjauan Voting Peringkat Master Gagal"
   },
   "4004": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Event Trial Pahlawan kali ini telah berakhir. Anda memiliki Hadiah yang belum diambil, harap segera periksa dan ambil.<br><br>Terima kasih atas partisipasi Anda!",
+    "Content": "Kepada Petualang:<br><br>Event Trial Pahlawan periode ini telah berakhir. Kamu masih memiliki hadiah yang belum diambil, silakan segera periksa dan ambil hadiahmu.<br><br>Terima kasih atas partisipasimu!",
     "ExpireTime": 30,
     "Id": 4004,
     "Important": 0,
@@ -1206,11 +1232,11 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "Surat Sistem",
-    "Title": "[Trial Pahlawan] Pengiriman Ulang Hadiah Target"
+    "Title": "[Trial Pahlawan] Pengiriman Susulan Hadiah Target"
   },
   "4005": {
     "AwardId": 0,
-    "Content": "Petualang yang terhormat:<br><br>Hasil Anda dalam Tantangan Penyelarasan Astraline tidak lolos peninjauan karena adanya dugaan kecurangan. Jika ada pertanyaan, silakan hubungi CS!",
+    "Content": "Kepada Petualang:<br><br>Skormu dalam Tantangan Penyelarasan Astraline tidak lolos peninjauan karena terindikasi melakukan kecurangan. Jika ada pertanyaan, silakan hubungi CS!",
     "ExpireTime": 30,
     "Id": 4005,
     "Important": 0,
@@ -1219,6 +1245,19 @@
     "MailType": 1,
     "NpcId": 0,
     "NpcName": "Surat Sistem",
-    "Title": "Verifikasi Tantangan Penyelarasan Astraline Gagal"
+    "Title": "Peninjauan Tantangan Penyelarasan Astraline Gagal"
+  },
+  "4006": {
+    "AwardId": 0,
+    "Content": "Yth. Petualang,<br><br>Event Siang dan Malam Tanpa Batas periode ini telah berakhir. Kamu masih memiliki hadiah yang belum diambil, silakan segera periksa dan ambil hadiahmu.<br><br>Terima kasih atas partisipasimu!",
+    "ExpireTime": 30,
+    "Id": 4006,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Surat Sistem",
+    "Title": "[Siang dan Malam Tanpa Batas] Pengiriman Ulang Hadiah Target"
   }
 }

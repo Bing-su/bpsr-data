@@ -354,8 +354,10 @@
       "addProfession 3",
       "addProfession 4",
       "addProfession 5",
-      "addProfession 8",
-      "addProfession 9"
+      "addProfession 9",
+      "addProfession 11",
+      "addProfession 12",
+      "addProfession 13"
     ],
     "Type": 2
   },
@@ -1561,6 +1563,32 @@
     "ParameterOrContent": [],
     "Type": 3
   },
+  "12001": {
+    "AuToClose": false,
+    "ButtonShow": "귀신불 이펙트 차단",
+    "Command": "hidePhotoZoneEffect",
+    "CommandOrParameterRemark": ["귀신불 이펙트 차단"],
+    "GMGroup": 7,
+    "Id": 12001,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 1
+  },
+  "12002": {
+    "AuToClose": false,
+    "ButtonShow": "귀신불 이펙트 표시",
+    "Command": "showPhotoZoneEffect",
+    "CommandOrParameterRemark": ["귀신불 이펙트 표시"],
+    "GMGroup": 7,
+    "Id": 12002,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 1
+  },
   "2001": {
     "AuToClose": false,
     "ButtonShow": "기능 일괄 해제",
@@ -1708,9 +1736,9 @@
   },
   "2006": {
     "AuToClose": false,
-    "ButtonShow": "코스튬 일괄 해제",
-    "Command": "fashionOpt 4,0,0,0",
-    "CommandOrParameterRemark": ["코스튬 일괄 해제"],
+    "ButtonShow": "부위 정제 최대 레벨",
+    "Command": "setEquipRefineLevel",
+    "CommandOrParameterRemark": ["모든 부위를 최대 레벨까지 정제"],
     "GMGroup": 2,
     "Id": 2006,
     "OnOff": false,
@@ -1721,89 +1749,141 @@
   },
   "2007": {
     "AuToClose": false,
-    "ButtonShow": "화폐와 특수 아이템 획득",
-    "Command": "getcbtitemscurrency",
-    "CommandOrParameterRemark": ["화폐와 특수 아이템 획득"],
+    "ButtonShow": "클래스 전체 해제+캐릭터 스킬 최대 레벨",
+    "Command": "professionUnlockAndUpgradeAll",
+    "CommandOrParameterRemark": ["모든 클래스 해제 및 전체 캐릭터 스킬 최대 레벨"],
     "GMGroup": 2,
     "Id": 2007,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 3
+  },
+  "2008": {
+    "AuToClose": false,
+    "ButtonShow": "모든 부위 재련 진행도 최대",
+    "Command": "equipReforgePerfect",
+    "CommandOrParameterRemark": ["착용 중인 장비의 재련 진행도 최대"],
+    "GMGroup": 2,
+    "Id": 2008,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 3
+  },
+  "2009": {
+    "AuToClose": false,
+    "ButtonShow": "배틀 이매진 해제 및 최대 등급",
+    "Command": "aoyiUpgradeAll",
+    "CommandOrParameterRemark": ["모든 배틀 이매진 윌 해제 및 최대 등급"],
+    "GMGroup": 2,
+    "Id": 2009,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 3
+  },
+  "2010": {
+    "AuToClose": false,
+    "ButtonShow": "코스튬 일괄 해제",
+    "Command": "fashionOpt 4,0,0,0",
+    "CommandOrParameterRemark": ["모든 코스튬 해제"],
+    "GMGroup": 2,
+    "Id": 2010,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 3
+  },
+  "2011": {
+    "AuToClose": false,
+    "ButtonShow": "화폐와 특수 아이템 획득",
+    "Command": "getcbtitemscurrency",
+    "CommandOrParameterRemark": ["화폐 및 특수 아이템 획득"],
+    "GMGroup": 2,
+    "Id": 2011,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1210"],
     "Type": 2
   },
-  "2008": {
+  "2012": {
     "AuToClose": false,
     "ButtonShow": "모든 채집 재료 아이템, 모든 제작 재료 아이템 획득",
     "Command": "getcbtitemsmaterial",
-    "CommandOrParameterRemark": ["모든 채집 재료 아이템, 모든 제작 재료 아이템 획득"],
+    "CommandOrParameterRemark": ["모든 채집 재료 아이템, 제작 재료 아이템 획득"],
     "GMGroup": 2,
-    "Id": 2008,
+    "Id": 2012,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1220"],
     "Type": 2
   },
-  "2009": {
+  "2013": {
     "AuToClose": false,
     "ButtonShow": "무기와 장비 일괄 획득",
     "Command": "getcbtitemsequip",
-    "CommandOrParameterRemark": ["무기와 장비 일괄 획득"],
+    "CommandOrParameterRemark": ["모든 무기 및 장비 획득"],
     "GMGroup": 2,
-    "Id": 2009,
+    "Id": 2013,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1230"],
     "Type": 2
   },
-  "2010": {
+  "2014": {
     "AuToClose": false,
     "ButtonShow": "육성 아이템 일괄 획득",
     "Command": "getcbtitemspeofession",
-    "CommandOrParameterRemark": ["육성 아이템 일괄 획득"],
+    "CommandOrParameterRemark": ["모든 육성 아이템 획득"],
     "GMGroup": 2,
-    "Id": 2010,
+    "Id": 2014,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1240"],
     "Type": 2
   },
-  "2011": {
+  "2015": {
     "AuToClose": false,
     "ButtonShow": "어빌리티와 어빌리티 아이템 획득",
     "Command": "getcbtitemstalents",
-    "CommandOrParameterRemark": ["어빌리티와 어빌리티 아이템 획득"],
+    "CommandOrParameterRemark": ["모든 어빌리티 및 어빌리티 아이템 획득"],
     "GMGroup": 2,
-    "Id": 2011,
+    "Id": 2015,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1250"],
     "Type": 2
   },
-  "2012": {
+  "2016": {
     "AuToClose": false,
     "ButtonShow": "요리 아이템 일괄 획득",
     "Command": "getallcuisine",
-    "CommandOrParameterRemark": ["요리 아이템 일괄 획득"],
+    "CommandOrParameterRemark": ["모든 요리 아이템 획득"],
     "GMGroup": 2,
-    "Id": 2012,
+    "Id": 2016,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1260"],
     "Type": 2
   },
-  "2013": {
+  "2017": {
     "AuToClose": false,
     "ButtonShow": "라이드 일괄 추가",
     "Command": "addAllVehicle",
-    "CommandOrParameterRemark": ["라이드 일괄 추가"],
+    "CommandOrParameterRemark": ["모든 라이드 추가"],
     "GMGroup": 2,
-    "Id": 2013,
+    "Id": 2017,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -1952,17 +2032,26 @@
       "addItem 12010086,1",
       "addItem 12010087,1",
       "addItem 12010088,1",
-      "addItem 12010089,1"
+      "addItem 12010089,1",
+      "addItem 12010090,1",
+      "addItem 12010091,1",
+      "addItem 12010092,1",
+      "addItem 12010093,1",
+      "addItem 12010094,1",
+      "addItem 12010095,1",
+      "addItem 12010096,1",
+      "addItem 12010097,1",
+      "addItem 12010103,1"
     ],
     "Type": 2
   },
-  "2014": {
+  "2018": {
     "AuToClose": false,
     "ButtonShow": "장난감 일괄 획득",
     "Command": "addALLToys",
     "CommandOrParameterRemark": ["장난감 일괄 추가"],
     "GMGroup": 2,
-    "Id": 2014,
+    "Id": 2018,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2016,59 +2105,59 @@
     ],
     "Type": 2
   },
-  "2015": {
+  "2019": {
     "AuToClose": false,
-    "ButtonShow": "이모티콘 일괄 해제",
+    "ButtonShow": "모든 감정 액션 해제",
     "Command": "unlockAllEmoteAction",
-    "CommandOrParameterRemark": ["이모티콘 일괄 해제"],
+    "CommandOrParameterRemark": ["모든 감정 액션 해제"],
     "GMGroup": 2,
-    "Id": 2015,
+    "Id": 2019,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2016": {
+  "2020": {
     "AuToClose": false,
-    "ButtonShow": "탑승",
+    "ButtonShow": "라이드 탑승하기",
     "Command": "GMStartVehicle",
     "CommandOrParameterRemark": ["탑승"],
     "GMGroup": 2,
-    "Id": 2016,
+    "Id": 2020,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["vehicleId"],
     "Type": 3
   },
-  "2017": {
+  "2021": {
     "AuToClose": false,
-    "ButtonShow": "내리기",
+    "ButtonShow": "라이드 내리기",
     "Command": "GMStopVehicle",
     "CommandOrParameterRemark": ["내리기"],
     "GMGroup": 2,
-    "Id": 2017,
+    "Id": 2021,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2018": {
+  "2022": {
     "AuToClose": false,
     "ButtonShow": "라이드 소환하기",
     "Command": "GMSummonVehicle",
-    "CommandOrParameterRemark": ["라이드 소환하기"],
+    "CommandOrParameterRemark": ["라이드 소환"],
     "GMGroup": 2,
-    "Id": 2018,
+    "Id": 2022,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["vehicleId"],
     "Type": 3
   },
-  "2019": {
+  "2023": {
     "AuToClose": false,
     "ButtonShow": "라이드의 지정 위치에 탑승하기",
     "Command": "GMStartRideVehicle",
@@ -2077,46 +2166,46 @@
       "라이드의 엔티티 ID, 자리 색인, [자리 그룹 색인.0]"
     ],
     "GMGroup": 2,
-    "Id": 2019,
+    "Id": 2023,
     "OnOff": false,
     "OptionalParameter": ["seatGroupIndex"],
     "ParameterCheck": ["number", "number", "number"],
     "ParameterOrContent": ["vehicleUuid", "seatIndex"],
     "Type": 3
   },
-  "2020": {
+  "2024": {
     "AuToClose": false,
-    "ButtonShow": "내리기",
+    "ButtonShow": "라이드 내리기",
     "Command": "GMStopRideVehicle",
-    "CommandOrParameterRemark": ["내리기"],
+    "CommandOrParameterRemark": ["라이드 내리기"],
     "GMGroup": 2,
-    "Id": 2020,
+    "Id": 2024,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2021": {
+  "2025": {
     "AuToClose": false,
     "ButtonShow": "(딜레이 심함|주의) 모든 거래 교환 아이템",
     "Command": "getexchangeitem",
     "CommandOrParameterRemark": ["거래 교환 아이템 일괄 획득 (몇 초 딜레이 발생 가능)"],
     "GMGroup": 2,
-    "Id": 2021,
+    "Id": 2025,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1300"],
     "Type": 2
   },
-  "2022": {
+  "2026": {
     "AuToClose": false,
     "ButtonShow": "요리, 정제 재료 999개 일괄 추가",
     "Command": "addAllCookChemistryMaterial",
     "CommandOrParameterRemark": ["요리, 정제 재료 999개 일괄 추가"],
     "GMGroup": 2,
-    "Id": 2022,
+    "Id": 2026,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2168,33 +2257,33 @@
     ],
     "Type": 2
   },
-  "2023": {
+  "2027": {
     "AuToClose": false,
     "ButtonShow": "아이템 GM 패널 열기",
     "Command": "openUI 888888",
     "CommandOrParameterRemark": ["아이템 GM 패널 열기"],
     "GMGroup": 2,
-    "Id": 2023,
+    "Id": 2027,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 2
   },
-  "2024": {
+  "2028": {
     "AuToClose": false,
     "ButtonShow": "대미지 표시 패널 열기",
     "Command": "openUI 999999",
     "CommandOrParameterRemark": ["대미지 표시 패널 열기"],
     "GMGroup": 2,
-    "Id": 2024,
+    "Id": 2028,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 2
   },
-  "2025": {
+  "2029": {
     "AuToClose": false,
     "ButtonShow": "불꽃놀이 축제 시작",
     "Command": "startFirework",
@@ -2202,33 +2291,33 @@
       "불꽃놀이 축제 시작(startFirework 1은 일반 불꽃놀이 연출, startFirework 2는 새해 불꽃놀이 연출)"
     ],
     "GMGroup": 2,
-    "Id": 2025,
+    "Id": 2029,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["type"],
     "Type": 3
   },
-  "2026": {
+  "2030": {
     "AuToClose": false,
     "ButtonShow": "불꽃놀이 축제 종료",
     "Command": "stopFirework",
     "CommandOrParameterRemark": ["불꽃놀이 축제 종료"],
     "GMGroup": 2,
-    "Id": 2026,
+    "Id": 2030,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["stopFirework"],
     "Type": 2
   },
-  "2027": {
+  "2031": {
     "AuToClose": false,
     "ButtonShow": "싱글 던전 테스트용",
     "Command": "single",
     "CommandOrParameterRemark": ["싱글 던전 테스트용"],
     "GMGroup": 2,
-    "Id": 2027,
+    "Id": 2031,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2240,13 +2329,13 @@
     ],
     "Type": 2
   },
-  "2028": {
+  "2032": {
     "AuToClose": false,
     "ButtonShow": "무적",
     "Command": "whosyourdaddy",
     "CommandOrParameterRemark": ["무적"],
     "GMGroup": 2,
-    "Id": 2028,
+    "Id": 2032,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2258,7 +2347,7 @@
     ],
     "Type": 2
   },
-  "2029": {
+  "2033": {
     "AuToClose": false,
     "ButtonShow": "활성화 조건이 설정된 기능 활성화",
     "Command": "openfunction",
@@ -2266,7 +2355,7 @@
       "(기능 활성화 예비용, 우선적으로 [모든 기능 일괄 해제] 사용) 레벨과 퀘스트 조건 충족(여러 번 실행해야 함), 퀘스트가 막히면 맵 변경 시도"
     ],
     "GMGroup": 2,
-    "Id": 2029,
+    "Id": 2033,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2289,39 +2378,39 @@
     ],
     "Type": 2
   },
-  "2030": {
+  "2034": {
     "AuToClose": false,
     "ButtonShow": "계정 데이터 삭제",
     "Command": "deleteSelf",
     "CommandOrParameterRemark": ["계정 데이터 삭제"],
     "GMGroup": 2,
-    "Id": 2030,
+    "Id": 2034,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2031": {
+  "2035": {
     "AuToClose": false,
     "ButtonShow": "hudGM 열기",
     "Command": "hudGmSwitch",
     "CommandOrParameterRemark": ["hudGM 활성화, hudGmSwitch 0 끄기, hudGmSwitch 1 켜기"],
     "GMGroup": 2,
-    "Id": 2031,
+    "Id": 2035,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["hudGmSwitch 0 ", " hudGmSwitch 1"],
     "Type": 1
   },
-  "2032": {
+  "2036": {
     "AuToClose": false,
     "ButtonShow": "지팡이 계열 A 모든 어빌리티",
     "Command": "magicA",
     "CommandOrParameterRemark": ["지팡이 계열 A 모든 어빌리티"],
     "GMGroup": 2,
-    "Id": 2032,
+    "Id": 2036,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2338,26 +2427,26 @@
     ],
     "Type": 2
   },
-  "2033": {
+  "2037": {
     "AuToClose": false,
     "ButtonShow": "제자리 부활",
     "Command": "revive",
     "CommandOrParameterRemark": ["부활"],
     "GMGroup": 2,
-    "Id": 2033,
+    "Id": 2037,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["revive 0"],
     "Type": 3
   },
-  "2034": {
+  "2038": {
     "AuToClose": false,
     "ButtonShow": "거탑 보스전 (거탑 던전에서 사용)",
     "Command": "JutaBoss",
-    "CommandOrParameterRemark": ["거탑 보스 방으로 즉시 순간이동(거탑 던전 내에서만 가능)"],
+    "CommandOrParameterRemark": ["거탑 보스방에 즉시 순간 이동 (거탑 던전에서 사용)"],
     "GMGroup": 2,
-    "Id": 2034,
+    "Id": 2038,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2368,26 +2457,26 @@
     ],
     "Type": 2
   },
-  "2035": {
+  "2039": {
     "AuToClose": false,
     "ButtonShow": "티나 보스전 (티나 던전에서 사용)",
     "Command": "tinaboss",
     "CommandOrParameterRemark": ["티나 보스로 순간 이동"],
     "GMGroup": 2,
-    "Id": 2035,
+    "Id": 2039,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent test_tina_fast_born", "moveSelf 0,110,14"],
     "Type": 2
   },
-  "2036": {
+  "2040": {
     "AuToClose": false,
     "ButtonShow": "용의 발톱 보스전 (용의 발톱 던전에서 사용)",
     "Command": "longzhuaboss",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2036,
+    "Id": 2040,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2397,26 +2486,26 @@
     ],
     "Type": 2
   },
-  "2037": {
+  "2041": {
     "AuToClose": false,
     "ButtonShow": "고블린 소굴 보스전 (고블린 소굴 던전에서 사용)",
     "Command": "gebulinBOSS",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2037,
+    "Id": 2041,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent test_goblin_fast_born", "moveSelf -115,114,38"],
     "Type": 2
   },
-  "2038": {
+  "2042": {
     "AuToClose": false,
     "ButtonShow": "덴벨 보스전 (검은 안개 요새 던전에서 사용)",
     "Command": "danfoboss",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2038,
+    "Id": 2042,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2426,39 +2515,39 @@
     ],
     "Type": 2
   },
-  "2039": {
+  "2043": {
     "AuToClose": false,
     "ButtonShow": "티나 선형 입구",
     "Command": "tinaEntrance",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2039,
+    "Id": 2043,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["enterScene 7", "moveSelf -69.07, 174.22, -151.11"],
     "Type": 2
   },
-  "2040": {
+  "2044": {
     "AuToClose": false,
     "ButtonShow": "거탑 선형 입구",
     "Command": "jutaEntrance",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2040,
+    "Id": 2044,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["enterScene 7", "moveSelf -41.58, 165.09, 6.16"],
     "Type": 2
   },
-  "2041": {
+  "2045": {
     "AuToClose": false,
     "ButtonShow": "[day2] 고블린 (우선 누른 다음 아래에서 클래스 선택)",
     "Command": "cbtequip10",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2041,
+    "Id": 2045,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2525,13 +2614,13 @@
     ],
     "Type": 2
   },
-  "2042": {
+  "2046": {
     "AuToClose": false,
     "ButtonShow": "day2 - 태도 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip11",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2042,
+    "Id": 2046,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2562,13 +2651,13 @@
     ],
     "Type": 2
   },
-  "2043": {
+  "2047": {
     "AuToClose": false,
     "ButtonShow": "day2 - 지팡이 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip12",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2043,
+    "Id": 2047,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2599,13 +2688,13 @@
     ],
     "Type": 2
   },
-  "2044": {
+  "2048": {
     "AuToClose": false,
     "ButtonShow": "day2 - 장창 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip13",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2044,
+    "Id": 2048,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2636,13 +2725,13 @@
     ],
     "Type": 2
   },
-  "2045": {
+  "2049": {
     "AuToClose": false,
     "ButtonShow": "day2 - 마법 고리 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip14",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2045,
+    "Id": 2049,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2673,13 +2762,13 @@
     ],
     "Type": 2
   },
-  "2046": {
+  "2050": {
     "AuToClose": false,
     "ButtonShow": "day2 - 실드 블레이드 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip15",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2046,
+    "Id": 2050,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2710,13 +2799,13 @@
     ],
     "Type": 2
   },
-  "2047": {
+  "2051": {
     "AuToClose": false,
     "ButtonShow": "day2 - 활 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip16",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2047,
+    "Id": 2051,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2747,13 +2836,13 @@
     ],
     "Type": 2
   },
-  "2048": {
+  "2052": {
     "AuToClose": false,
     "ButtonShow": "day2 - 검방패 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip17",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2048,
+    "Id": 2052,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2784,13 +2873,13 @@
     ],
     "Type": 2
   },
-  "2049": {
+  "2053": {
     "AuToClose": false,
     "ButtonShow": "[day5] 티나 (우선 누른 다음 아래에서 클래스 선택)",
     "Command": "cbtequip18",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2049,
+    "Id": 2053,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2857,13 +2946,13 @@
     ],
     "Type": 2
   },
-  "2050": {
+  "2054": {
     "AuToClose": false,
     "ButtonShow": "day5 - 태도 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip19",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2050,
+    "Id": 2054,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2896,13 +2985,13 @@
     ],
     "Type": 2
   },
-  "2051": {
+  "2055": {
     "AuToClose": false,
     "ButtonShow": "day5 - 지팡이 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip20",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2051,
+    "Id": 2055,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2935,13 +3024,13 @@
     ],
     "Type": 2
   },
-  "2052": {
+  "2056": {
     "AuToClose": false,
     "ButtonShow": "day5 - 장창 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip21",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2052,
+    "Id": 2056,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2974,13 +3063,13 @@
     ],
     "Type": 2
   },
-  "2053": {
+  "2057": {
     "AuToClose": false,
     "ButtonShow": "day5 - 마법 고리 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip22",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2053,
+    "Id": 2057,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3013,13 +3102,13 @@
     ],
     "Type": 2
   },
-  "2054": {
+  "2058": {
     "AuToClose": false,
     "ButtonShow": "day5 - 실드 블레이드 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip23",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2054,
+    "Id": 2058,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3052,13 +3141,13 @@
     ],
     "Type": 2
   },
-  "2055": {
+  "2059": {
     "AuToClose": false,
     "ButtonShow": "day5 - 활 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip24",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2055,
+    "Id": 2059,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3091,13 +3180,13 @@
     ],
     "Type": 2
   },
-  "2056": {
+  "2060": {
     "AuToClose": false,
     "ButtonShow": "day5 - 검방패 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip25",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2056,
+    "Id": 2060,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3130,13 +3219,13 @@
     ],
     "Type": 2
   },
-  "2057": {
+  "2061": {
     "AuToClose": false,
     "ButtonShow": "[day7] 거탑 (우선 누른 다음 아래에서 클래스 선택)",
     "Command": "cbtequip26",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2057,
+    "Id": 2061,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3203,13 +3292,13 @@
     ],
     "Type": 2
   },
-  "2058": {
+  "2062": {
     "AuToClose": false,
     "ButtonShow": "day7 - 태도 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip27",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2058,
+    "Id": 2062,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3242,13 +3331,13 @@
     ],
     "Type": 2
   },
-  "2059": {
+  "2063": {
     "AuToClose": false,
     "ButtonShow": "day7 - 지팡이 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip28",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2059,
+    "Id": 2063,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3281,13 +3370,13 @@
     ],
     "Type": 2
   },
-  "2060": {
+  "2064": {
     "AuToClose": false,
     "ButtonShow": "day7 - 장창 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip29",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2060,
+    "Id": 2064,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3320,13 +3409,13 @@
     ],
     "Type": 2
   },
-  "2061": {
+  "2065": {
     "AuToClose": false,
     "ButtonShow": "day7 - 마법 고리 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip30",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2061,
+    "Id": 2065,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3359,13 +3448,13 @@
     ],
     "Type": 2
   },
-  "2062": {
+  "2066": {
     "AuToClose": false,
     "ButtonShow": "day7 - 실드 블레이드 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip31",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2062,
+    "Id": 2066,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3398,13 +3487,13 @@
     ],
     "Type": 2
   },
-  "2063": {
+  "2067": {
     "AuToClose": false,
     "ButtonShow": "day7 - 활 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip32",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2063,
+    "Id": 2067,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3437,13 +3526,13 @@
     ],
     "Type": 2
   },
-  "2064": {
+  "2068": {
     "AuToClose": false,
     "ButtonShow": "day7 - 검방패 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip33",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2064,
+    "Id": 2068,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3476,13 +3565,13 @@
     ],
     "Type": 2
   },
-  "2065": {
+  "2069": {
     "AuToClose": false,
     "ButtonShow": "[day11] 카나미아 (우선 누른 다음 아래에서 클래스 선택)",
     "Command": "cbtequip34",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2065,
+    "Id": 2069,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3549,13 +3638,13 @@
     ],
     "Type": 2
   },
-  "2066": {
+  "2070": {
     "AuToClose": false,
     "ButtonShow": "day11 - 태도 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip35",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2066,
+    "Id": 2070,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3588,13 +3677,13 @@
     ],
     "Type": 2
   },
-  "2067": {
+  "2071": {
     "AuToClose": false,
     "ButtonShow": "day11 - 지팡이 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip36",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2067,
+    "Id": 2071,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3627,13 +3716,13 @@
     ],
     "Type": 2
   },
-  "2068": {
+  "2072": {
     "AuToClose": false,
     "ButtonShow": "day11 - 장창 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip37",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2068,
+    "Id": 2072,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3666,13 +3755,13 @@
     ],
     "Type": 2
   },
-  "2069": {
+  "2073": {
     "AuToClose": false,
     "ButtonShow": "day11 - 마법 고리 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip38",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2069,
+    "Id": 2073,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3705,13 +3794,13 @@
     ],
     "Type": 2
   },
-  "2070": {
+  "2074": {
     "AuToClose": false,
     "ButtonShow": "day11 - 실드 블레이드 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip39",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2070,
+    "Id": 2074,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3744,13 +3833,13 @@
     ],
     "Type": 2
   },
-  "2071": {
+  "2075": {
     "AuToClose": false,
     "ButtonShow": "day11 - 활 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip40",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2071,
+    "Id": 2075,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3783,13 +3872,13 @@
     ],
     "Type": 2
   },
-  "2072": {
+  "2076": {
     "AuToClose": false,
     "ButtonShow": "day11 - 검방패 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip41",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2072,
+    "Id": 2076,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3822,13 +3911,13 @@
     ],
     "Type": 2
   },
-  "2073": {
+  "2077": {
     "AuToClose": false,
     "ButtonShow": "[day17] 용의 발톱 (우선 누른 다음 아래에서 클래스 선택)",
     "Command": "cbtequip42",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2073,
+    "Id": 2077,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3904,13 +3993,13 @@
     ],
     "Type": 2
   },
-  "2074": {
+  "2078": {
     "AuToClose": false,
     "ButtonShow": "day17 - 태도 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip43",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2074,
+    "Id": 2078,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3943,13 +4032,13 @@
     ],
     "Type": 2
   },
-  "2075": {
+  "2079": {
     "AuToClose": false,
     "ButtonShow": "day17 - 지팡이 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip44",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2075,
+    "Id": 2079,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3982,13 +4071,13 @@
     ],
     "Type": 2
   },
-  "2076": {
+  "2080": {
     "AuToClose": false,
     "ButtonShow": "day17 - 장창 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip45",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2076,
+    "Id": 2080,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4021,13 +4110,13 @@
     ],
     "Type": 2
   },
-  "2077": {
+  "2081": {
     "AuToClose": false,
     "ButtonShow": "day17 - 마법 고리 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip46",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2077,
+    "Id": 2081,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4060,13 +4149,13 @@
     ],
     "Type": 2
   },
-  "2078": {
+  "2082": {
     "AuToClose": false,
     "ButtonShow": "day17 - 실드 블레이드 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip47",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2078,
+    "Id": 2082,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4099,13 +4188,13 @@
     ],
     "Type": 2
   },
-  "2079": {
+  "2083": {
     "AuToClose": false,
     "ButtonShow": "day17 - 활 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip48",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2079,
+    "Id": 2083,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4138,13 +4227,13 @@
     ],
     "Type": 2
   },
-  "2080": {
+  "2084": {
     "AuToClose": false,
     "ButtonShow": "day17 - 검방패 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip49",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2080,
+    "Id": 2084,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4177,13 +4266,13 @@
     ],
     "Type": 2
   },
-  "2081": {
+  "2085": {
     "AuToClose": false,
     "ButtonShow": "[day22] MMM던전 (우선 누른 다음 아래에서 클래스 선택)",
     "Command": "cbtequip50",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2081,
+    "Id": 2085,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4259,13 +4348,13 @@
     ],
     "Type": 2
   },
-  "2082": {
+  "2086": {
     "AuToClose": false,
     "ButtonShow": "day22 - 태도 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip51",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2082,
+    "Id": 2086,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4298,13 +4387,13 @@
     ],
     "Type": 2
   },
-  "2083": {
+  "2087": {
     "AuToClose": false,
     "ButtonShow": "day22 - 지팡이 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip52",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2083,
+    "Id": 2087,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4337,13 +4426,13 @@
     ],
     "Type": 2
   },
-  "2084": {
+  "2088": {
     "AuToClose": false,
     "ButtonShow": "day22 - 장창 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip53",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2084,
+    "Id": 2088,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4376,13 +4465,13 @@
     ],
     "Type": 2
   },
-  "2085": {
+  "2089": {
     "AuToClose": false,
     "ButtonShow": "day22 - 마법 고리 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip54",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2085,
+    "Id": 2089,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4415,13 +4504,13 @@
     ],
     "Type": 2
   },
-  "2086": {
+  "2090": {
     "AuToClose": false,
     "ButtonShow": "day22 - 실드 블레이드 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip55",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2086,
+    "Id": 2090,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4454,13 +4543,13 @@
     ],
     "Type": 2
   },
-  "2087": {
+  "2091": {
     "AuToClose": false,
     "ButtonShow": "day22 - 활 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip56",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2087,
+    "Id": 2091,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4493,13 +4582,13 @@
     ],
     "Type": 2
   },
-  "2088": {
+  "2092": {
     "AuToClose": false,
     "ButtonShow": "day22 - 검방패 - 클래스와 장비 전환용 - 장비 초기화 cleanPackage 2",
     "Command": "cbtequip57",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2088,
+    "Id": 2092,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4532,13 +4621,13 @@
     ],
     "Type": 2
   },
-  "2089": {
+  "2093": {
     "AuToClose": false,
     "ButtonShow": "싱글 던전 테스트용",
     "Command": "singleplus",
     "CommandOrParameterRemark": ["싱글 던전 테스트용"],
     "GMGroup": 2,
-    "Id": 2089,
+    "Id": 2093,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4549,13 +4638,13 @@
     ],
     "Type": 2
   },
-  "2090": {
+  "2094": {
     "AuToClose": false,
     "ButtonShow": "황령 제단 보스전 (황령 제단 던전에서 사용)",
     "Command": "knmboss",
     "CommandOrParameterRemark": ["보스 위치로 순간 이동"],
     "GMGroup": 2,
-    "Id": 2090,
+    "Id": 2094,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4565,52 +4654,52 @@
     ],
     "Type": 2
   },
-  "2091": {
+  "2095": {
     "AuToClose": false,
     "ButtonShow": "바위뱀 보스전 (바위뱀 던전에서 사용)",
     "Command": "snakeBOSS",
-    "CommandOrParameterRemark": ["바위뱀 보스로 순간이동"],
+    "CommandOrParameterRemark": ["바위뱀 보스로 순간 이동"],
     "GMGroup": 2,
-    "Id": 2091,
+    "Id": 2095,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["moveSelf -48,102,200"],
     "Type": 2
   },
-  "2092": {
+  "2096": {
     "AuToClose": false,
     "ButtonShow": "환상꽃 보스전 (환상꽃 던전에서 사용)",
     "Command": "nappoboss",
     "CommandOrParameterRemark": ["환상 재해 나뽀 보스로 순간 이동"],
     "GMGroup": 2,
-    "Id": 2092,
+    "Id": 2096,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent nappo_test"],
     "Type": 2
   },
-  "2093": {
+  "2097": {
     "AuToClose": false,
     "ButtonShow": "바위뱀 라이드 흐름 (바위뱀 던전에서 사용)",
     "Command": "snakeZaiJu",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2093,
+    "Id": 2097,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent testzaiju", "dungeonSetStageTarget 1501014"],
     "Type": 2
   },
-  "2094": {
+  "2098": {
     "AuToClose": false,
     "ButtonShow": "쇠락의 심연 보스전 (쇠락의 심연 던전에서 사용)",
     "Command": "mengyanBOSS",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2094,
+    "Id": 2098,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4620,65 +4709,65 @@
     ],
     "Type": 2
   },
-  "2095": {
+  "2099": {
     "AuToClose": false,
     "ButtonShow": "랜덤 옵션",
     "Command": "GMRogueRandom",
     "CommandOrParameterRemark": ["랜덤 옵션", "상호작용 오브젝트 uuid"],
     "GMGroup": 2,
-    "Id": 2095,
+    "Id": 2099,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["objUuid"],
     "Type": 3
   },
-  "2096": {
+  "2100": {
     "AuToClose": false,
     "ButtonShow": "화폐 획득",
     "Command": "GMRogueGetCoin",
     "CommandOrParameterRemark": ["화폐 획득", "[목표 uuid.0]"],
     "GMGroup": 2,
-    "Id": 2096,
+    "Id": 2100,
     "OnOff": false,
     "OptionalParameter": ["targetUuid"],
     "ParameterCheck": ["number"],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2097": {
+  "2101": {
     "AuToClose": false,
-    "ButtonShow": "다음 무작위 첫번째 결과 설정",
+    "ButtonShow": "다음 첫 번째 결과를 랜덤 설정",
     "Command": "GMRogueSetRandom",
-    "CommandOrParameterRemark": ["다음 무작위 첫번째 결과 설정", "옵션 ID"],
+    "CommandOrParameterRemark": ["다음 무작위 첫 번째 결과 설정", "옵션 ID"],
     "GMGroup": 2,
-    "Id": 2097,
+    "Id": 2101,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["entryId"],
     "Type": 3
   },
-  "2098": {
+  "2102": {
     "AuToClose": false,
-    "ButtonShow": "재화 변경",
+    "ButtonShow": "화폐 변경",
     "Command": "GMRogueChangeCoin",
-    "CommandOrParameterRemark": ["재화 변경", "화폐 변수 ID, 변경값, [목표 uuid.0]"],
+    "CommandOrParameterRemark": ["화폐 변경", "화폐 변수 ID, 변경값, [목표 uuid.0]"],
     "GMGroup": 2,
-    "Id": 2098,
+    "Id": 2102,
     "OnOff": false,
     "OptionalParameter": ["targetUuid"],
     "ParameterCheck": ["number", "number", "number"],
     "ParameterOrContent": ["coinId", "val"],
     "Type": 3
   },
-  "2099": {
+  "2103": {
     "AuToClose": false,
-    "ButtonShow": "Lv.220 장비 풀셋 획득",
+    "ButtonShow": "Lv.220 장비 세트 전체 획득",
     "Command": "send220",
-    "CommandOrParameterRemark": ["시즌3 Lv.220 장비 풀셋 획득 및 장착"],
+    "CommandOrParameterRemark": ["S3 Lv.220 장비 세트 전체 획득 및 장착"],
     "GMGroup": 2,
-    "Id": 2099,
+    "Id": 2103,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4698,13 +4787,13 @@
     ],
     "Type": 2
   },
-  "2100": {
+  "2104": {
     "AuToClose": false,
-    "ButtonShow": "Lv.240 장비 풀셋 획득",
+    "ButtonShow": "Lv.240 장비 세트 전체 획득",
     "Command": "send240",
-    "CommandOrParameterRemark": ["시즌3 Lv.240 장비 풀셋 획득 및 장착"],
+    "CommandOrParameterRemark": ["S3 Lv.240 장비 세트 전체 획득 및 장착"],
     "GMGroup": 2,
-    "Id": 2100,
+    "Id": 2104,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4724,13 +4813,13 @@
     ],
     "Type": 2
   },
-  "2101": {
+  "2105": {
     "AuToClose": false,
-    "ButtonShow": "Lv.260 장비 풀셋 획득",
+    "ButtonShow": "Lv.260 장비 세트 전체 획득",
     "Command": "send260",
-    "CommandOrParameterRemark": ["시즌3 Lv.260 장비 풀셋 획득 및 장착"],
+    "CommandOrParameterRemark": ["S3 Lv.260 장비 세트 전체 획득 및 장착"],
     "GMGroup": 2,
-    "Id": 2101,
+    "Id": 2105,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4750,89 +4839,209 @@
     ],
     "Type": 2
   },
-  "2102": {
+  "2106": {
     "AuToClose": false,
-    "ButtonShow": "시즌3 무덤 보스로 순간이동",
+    "ButtonShow": "S3 무덤 보스로 순간 이동",
     "Command": "s3huangmuboss",
-    "CommandOrParameterRemark": [
-      "시즌3 무덤 보스로 순간이동 및 잡몹 퀘스트 클리어하여 보스전 시작"
-    ],
+    "CommandOrParameterRemark": ["S3 무덤 보스로 순간 이동 및 잡몹 퀘스트 클리어하여 보스전 시작"],
     "GMGroup": 2,
-    "Id": 2102,
+    "Id": 2106,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent shenfaboss"],
     "Type": 2
   },
-  "2103": {
+  "2107": {
     "AuToClose": false,
-    "ButtonShow": "시즌3 암초 보스로 순간이동",
+    "ButtonShow": "S3 암초 보스로 순간 이동",
     "Command": "s3shijiaoboss",
     "CommandOrParameterRemark": [
-      "시즌3 환해 암초 보스로 순간이동 및 잡몹 퀘스트 클리어하여 보스전 시작"
+      "S3 환해 암초 보스로 순간 이동 및 잡몹 퀘스트 클리어하여 보스전 시작"
     ],
     "GMGroup": 2,
-    "Id": 2103,
+    "Id": 2107,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent test_diver_boss"],
     "Type": 2
   },
-  "2104": {
+  "2108": {
     "AuToClose": false,
-    "ButtonShow": "레이드 포탈 해제",
+    "ButtonShow": "레이드 던전 순간 이동문 해제",
     "Command": "unlockgate",
     "CommandOrParameterRemark": [
-      "레이드 모든 포탈 해제(포탈이 열리지 않았을 경우에, 제자리에 서서 사용할 것)"
+      "레이드 던전 모든 순간 이동문 해제(제자리에서 사용해야 하며 앞으로 이동하지 말 것. 해제 판정을 놓쳐 실패할 수 있음. 문이 아직 해제되기 전에 사용해야 하며 이후 사용 시 무효!!!!!)"
     ],
     "GMGroup": 2,
-    "Id": 2104,
+    "Id": 2108,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent unlock_all_raid_boss"],
     "Type": 2
   },
-  "2105": {
+  "2109": {
     "AuToClose": false,
-    "ButtonShow": "시즌2 - 달 뿔염소 승리",
+    "ButtonShow": "S2 - 달 뿔염소 승리",
     "Command": "anyangwin",
-    "CommandOrParameterRemark": ["시즌2 레이드 - 달 뿔염소 투표 승리"],
+    "CommandOrParameterRemark": ["S2 레이드 - 달 뿔염소 투표 승리"],
     "GMGroup": 2,
-    "Id": 2105,
+    "Id": 2109,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent huanhua_win"],
     "Type": 2
   },
-  "2106": {
+  "2110": {
     "AuToClose": false,
-    "ButtonShow": "시즌2 - 화염 뿔염소 승리",
+    "ButtonShow": "S2 - 화염 뿔염소 승리",
     "Command": "yanyangwin",
-    "CommandOrParameterRemark": ["시즌2 레이드 - 화염 뿔염소 투표 승리"],
+    "CommandOrParameterRemark": ["S2 레이드 - 화염 뿔염소 투표 승리"],
     "GMGroup": 2,
-    "Id": 2106,
+    "Id": 2110,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent yanguang_win"],
     "Type": 2
   },
-  "2107": {
+  "2111": {
     "AuToClose": false,
     "ButtonShow": "S2 3보스 단계 전환 암호 통과",
     "Command": "codesuccess",
     "CommandOrParameterRemark": ["S2 3보스 단계 전환 시 암호 과정 통과"],
     "GMGroup": 2,
-    "Id": 2107,
+    "Id": 2111,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent boss3_code_success"],
     "Type": 2
+  },
+  "2112": {
+    "AuToClose": false,
+    "ButtonShow": "Lv.320 장비 세트 전체 획득",
+    "Command": "send320",
+    "CommandOrParameterRemark": ["S4 Lv.320 장비 세트 전체 획득 및 장착"],
+    "GMGroup": 2,
+    "Id": 2112,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "sendAward 20023912",
+      "sendAward 20023913",
+      "sendAward 20023914",
+      "sendAward 20023915",
+      "sendAward 20023916",
+      "sendAward 20023917",
+      "sendAward 20023918",
+      "sendAward 20023919",
+      "sendAward 20023920",
+      "sendAward 20023921",
+      "sendAward 20023922",
+      "putOnAllBestEquip"
+    ],
+    "Type": 2
+  },
+  "2113": {
+    "AuToClose": false,
+    "ButtonShow": "Lv.340 장비 세트 전체 획득",
+    "Command": "send340",
+    "CommandOrParameterRemark": ["S4 Lv.340 장비 세트 전체 획득 및 장착"],
+    "GMGroup": 2,
+    "Id": 2113,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "sendAward 20023925",
+      "sendAward 20023926",
+      "sendAward 20023927",
+      "sendAward 20023928",
+      "sendAward 20023929",
+      "sendAward 20023930",
+      "sendAward 20023931",
+      "sendAward 20023932",
+      "sendAward 20023933",
+      "sendAward 20023934",
+      "sendAward 20023935",
+      "putOnAllBestEquip"
+    ],
+    "Type": 2
+  },
+  "2114": {
+    "AuToClose": false,
+    "ButtonShow": "Lv.360 장비 세트 전체 획득",
+    "Command": "send360",
+    "CommandOrParameterRemark": ["S4 Lv.360 장비 세트 전체 획득 및 장착"],
+    "GMGroup": 2,
+    "Id": 2114,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "sendAward 20023938",
+      "sendAward 20023939",
+      "sendAward 20023940",
+      "sendAward 20023941",
+      "sendAward 20023942",
+      "sendAward 20023943",
+      "sendAward 20023944",
+      "sendAward 20023945",
+      "sendAward 20023946",
+      "sendAward 20023947",
+      "sendAward 20023948",
+      "putOnAllBestEquip"
+    ],
+    "Type": 2
+  },
+  "2115": {
+    "AuToClose": false,
+    "ButtonShow": "어빌리티 포인트와 비술의 각인 획득",
+    "Command": "getSkillPoint",
+    "CommandOrParameterRemark": ["만렙까지 필요한 어빌리티 포인트와 비술의 각인 획득"],
+    "GMGroup": 2,
+    "Id": 2115,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "addItem 30001,100",
+      "addItem 1020054,100",
+      "addItem 1020055,100",
+      "addItem 1020056,100 "
+    ],
+    "Type": 2
+  },
+  "2116": {
+    "AuToClose": false,
+    "ButtonShow": "인자 선택 상자 G1-G3 획득",
+    "Command": "getS4YinziG1G2G3",
+    "CommandOrParameterRemark": ["S4의 G1-G3 인자 8개 선택 획득"],
+    "GMGroup": 2,
+    "Id": 2116,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": ["addItem 1040551,8", "addItem 1040552,8", "addItem 1040553,8"],
+    "Type": 2
+  },
+  "2117": {
+    "AuToClose": false,
+    "ButtonShow": "능력치 치트",
+    "Command": "attrCheat",
+    "CommandOrParameterRemark": ["능력치 치트"],
+    "GMGroup": 2,
+    "Id": 2117,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 1
   },
   "3001": {
     "AuToClose": false,
@@ -5341,7 +5550,7 @@
   },
   "4006": {
     "AuToClose": false,
-    "ButtonShow": "비경 스테이지 해제(파라미터에 0 입력 시 일괄 해제, 특정 숫자 입력 시 개별 방 해제)",
+    "ButtonShow": "대비경 스테이지 해제(파라미터에 0 입력 시 일괄 해제, 특정 숫자 입력 시 개별 방 해제)",
     "Command": "openMemoryDungeon",
     "CommandOrParameterRemark": ["파라미터에 0 입력 시 일괄 해제, 특정 숫자 입력 시 개별 방 해제"],
     "GMGroup": 4,

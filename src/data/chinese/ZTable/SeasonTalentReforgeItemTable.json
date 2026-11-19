@@ -1,0 +1,101 @@
+{
+  "1220401": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "下次映现出现的所有映痕<color=#CFA803>必定</color>均为属性·主要的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220401,
+    "Param": [],
+    "TypeEnum": 1
+  },
+  "1220402": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "下次映现出现的所有映痕<color=#CFA803>必定</color>均为属性·次要的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220402,
+    "Param": [101],
+    "TypeEnum": 1
+  },
+  "1220403": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "下次映现出现的所有映痕<color=#CFA803>必定</color>均为属性·极性的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220403,
+    "Param": [103],
+    "TypeEnum": 1
+  },
+  "1220404": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "下次映现出现的所有映痕<color=#CFA803>必定</color>均为属性·韧性的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220404,
+    "Param": [104],
+    "TypeEnum": 1
+  },
+  "1220405": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "下次映现出现的所有映痕<color=#CFA803>必定</color>均为属性·元素的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220405,
+    "Param": [105],
+    "TypeEnum": 1
+  },
+  "1220406": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "下次映现出现的所有映痕<color=#CFA803>必定</color>均为职业的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220406,
+    "Param": [1001],
+    "TypeEnum": 1
+  },
+  "1220407": {
+    "Condition": [[135, 4]],
+    "Count": 1,
+    "Desc": "下次映现<color=#CFA803>必定</color>出现至少1条<color=#AB85F6>卓越</color>及以上品质的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220407,
+    "Param": [3, 4, 5],
+    "TypeEnum": 2
+  },
+  "1220408": {
+    "Condition": [[135, 10]],
+    "Count": 1,
+    "Desc": "下次映现<color=#CFA803>必定</color>出现至少1条<color=#EED335>史诗</color>及以上品质的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220408,
+    "Param": [4, 5],
+    "TypeEnum": 2
+  },
+  "1220409": {
+    "Condition": [[135, 11]],
+    "Count": 1,
+    "Desc": "下次映现<color=#CFA803>必定</color>出现至少1条<color=#EF8E60>不朽</color>品质的映痕。",
+    "ExpAdd": 0,
+    "Id": 1220409,
+    "Param": [5],
+    "TypeEnum": 2
+  },
+  "1220410": {
+    "Condition": [[135, 2]],
+    "Count": -1,
+    "Desc": "下次映现出现的所有映痕数值<color=#CFA803>必定</color>为该品质下的最高值。",
+    "ExpAdd": 0,
+    "Id": 1220410,
+    "Param": [],
+    "TypeEnum": 3
+  },
+  "1220411": {
+    "Condition": [],
+    "Count": 0,
+    "Desc": "心相矩阵经验+10,且映现映痕的品质更高。",
+    "ExpAdd": 10,
+    "Id": 1220411,
+    "Param": [],
+    "TypeEnum": 4
+  }
+}

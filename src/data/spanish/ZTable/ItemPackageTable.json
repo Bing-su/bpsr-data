@@ -3,12 +3,12 @@
     "Capacity": 2000,
     "CapacityExtra": 2100,
     "Classify": [
-      ["", "", "Objeto de crecimiento", ""],
+      ["", "", "Objetos de crecimiento", ""],
       ["", "", "Objeto valioso", ""],
       ["", "", "Consumible", ""],
       ["", "", "Material raro", ""],
       ["", "", "Objeto de misión", ""],
-      ["", "", "", ""]
+      ["", "", "Objetos de evento", ""]
     ],
     "Consume": "0",
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_14",
@@ -126,6 +126,17 @@
     "ItemDiscardTab": 0,
     "Name": "Música de partitura",
     "Show": 0
+  },
+  "16": {
+    "Capacity": 2000,
+    "CapacityExtra": 2100,
+    "Classify": [["", "", "Factor de temporada", ""]],
+    "Consume": "0",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_343",
+    "Id": 16,
+    "ItemDiscardTab": 0,
+    "Name": "Objeto de temporada",
+    "Show": 8
   },
   "2": {
     "Capacity": 500,

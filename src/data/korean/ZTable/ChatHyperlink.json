@@ -911,10 +911,10 @@
   },
   "8009005": {
     "ChannelId": [],
-    "Content": "{*string[1]*}[ <u><style=chat_fishing_share_profile><link=1>{*fishing.playerName*} 님의 낚시 프로필</link></style></u> ]{*string[2]*}",
+    "Content": "{*string[1]*}[ <u><style=chat_fishing_share_profile><link=1>{*fishing.playerName*} 님의 낚시 파일</link></style></u> ]{*string[2]*}",
     "FuncType": 0,
     "FunctionButtonEscape": "",
-    "HudEscape": "{*string[1]*}[{*fishing.playerName*} 님의 낚시 서류]{*string[2]*}",
+    "HudEscape": "{*string[1]*}[{*fishing.playerName*} 님의 낚시 파일]{*string[2]*}",
     "Id": 8009005,
     "IsShowInsystem": false,
     "MessageTableId": 0,

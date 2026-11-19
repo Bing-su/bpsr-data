@@ -459,7 +459,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1050404,
-    "Name": "Resonieren"
+    "Name": "Resonanz"
   },
   "1051": {
     "BtnType": 1,
@@ -1224,6 +1224,48 @@
     "Id": 1171,
     "Name": "Reiten – Innerer Ring"
   },
+  "1181": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1181,
+    "Name": "[Krit]​​​​​-Eid Auswählen"
+  },
+  "1182": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1182,
+    "Name": "[Glück]​​​​​-Eid Auswählen"
+  },
+  "1183": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1183,
+    "Name": "[Tempo]​​​​​-Eid Auswählen"
+  },
+  "1184": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1184,
+    "Name": "[Meisterschaft]​​​​​-Eid Auswählen"
+  },
+  "1185": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1185,
+    "Name": "[Vielseitigkeit]​​​​​-Eid Auswählen"
+  },
+  "1186": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 1186,
+    "Name": "Eid-Prüfung Starten (Erfordert Energie)"
+  },
   "1201": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -1243,7 +1285,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 120101,
-    "Name": "Resonieren"
+    "Name": "Resonanz"
   },
   "120102": {
     "BtnType": 1,
@@ -1293,6 +1335,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 12016,
     "Name": "Dissonanten Kristall aktivieren"
+  },
+  "12017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 12017,
+    "Name": "Lichtspur-Gabe Öffnen"
   },
   "1201901": {
     "BtnType": 1,
@@ -1614,7 +1663,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 120207,
-    "Name": "Plaudern"
+    "Name": "Reden"
   },
   "1203": {
     "BtnType": 1,
@@ -1959,6 +2008,13 @@
     "Id": 1222,
     "Name": "Tauchen"
   },
+  "1230": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 1230,
+    "Name": "Glut Aufheben"
+  },
   "1250": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2076,7 +2132,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 130150,
-    "Name": "Ausweichen"
+    "Name": "Verstecken"
   },
   "1302": {
     "BtnType": 1,
@@ -2426,14 +2482,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1509,
-    "Name": ""
+    "Name": "Kürbisbegegnung"
   },
   "1510": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 1510,
-    "Name": ""
+    "Name": "Anklopfen und nachsehen"
   },
   "1600001": {
     "BtnType": 1,
@@ -2448,6 +2504,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 17100101,
     "Name": "Aufheben"
+  },
+  "190101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 190101,
+    "Name": "Schutzgerät Aktivieren"
   },
   "200000": {
     "BtnType": 1,
@@ -2680,6 +2743,13 @@
     "Id": 200029,
     "Name": "Vorstellung herstellen"
   },
+  "20003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20003,
+    "Name": "Lebensbindungs-buff hinzufügen"
+  },
   "200030": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2749,6 +2819,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_76",
     "Id": 200039,
     "Name": "Heimstätten-Auftrag"
+  },
+  "20004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20004,
+    "Name": "Konzert-buff hinzufügen"
   },
   "200040": {
     "BtnType": 1,
@@ -2946,6 +3023,13 @@
     "Id": 200073,
     "Name": "Glutrelikt-Tausch"
   },
+  "200074": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200074,
+    "Name": "Tausch für Relikt der Lichtspur"
+  },
   "200075": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -3037,6 +3121,34 @@
     "Id": 200087,
     "Name": "Makelloser-Staub-Shop"
   },
+  "200089": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_52",
+    "Id": 200089,
+    "Name": "Shop für Eidseide & Staub"
+  },
+  "200091": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200091,
+    "Name": "Sternenglanz-Relikt"
+  },
+  "200092": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200092,
+    "Name": "Tausch für Relikt der alten Zeit"
+  },
+  "200093": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_26",
+    "Id": 200093,
+    "Name": "<style=\"emph-sq\">Dämmergrenze</style>"
+  },
   "2001": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -3056,14 +3168,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_102",
     "Id": 200101,
-    "Name": ""
+    "Name": "Spezial-Sticker-Tausch"
   },
   "200102": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_27",
     "Id": 200102,
-    "Name": ""
+    "Name": "Zahlen-Sticker-Recycling"
   },
   "2002": {
     "BtnType": 1,
@@ -3217,7 +3329,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_77",
     "Id": 2095,
-    "Name": "Sofort aufräumen"
+    "Name": "Aufräumen"
   },
   "2096": {
     "BtnType": 1,
@@ -3322,7 +3434,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 3000,
-    "Name": "Zentrum (Startpunkt)"
+    "Name": "Teleport – Zentrum (Startpunkt)"
   },
   "3000001": {
     "BtnType": 1,
@@ -3399,7 +3511,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 3001,
-    "Name": "Osten (Test: schwache Gegner)"
+    "Name": "Teleport – Osten (Test: schwache Gegner)"
   },
   "3001401": {
     "BtnType": 1,
@@ -3434,7 +3546,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 3002,
-    "Name": "Süden (Test: Szenenobjekte)"
+    "Name": "Teleport – Süden (Test: Szenenobjekte)"
   },
   "3002101": {
     "BtnType": 1,
@@ -3469,7 +3581,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 3003,
-    "Name": "Westen (Test)"
+    "Name": "Teleport – Westen (Test)"
   },
   "3003501": {
     "BtnType": 1,
@@ -3504,7 +3616,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 3004,
-    "Name": "Norden (Test)"
+    "Name": "Teleport – Norden (Test)"
   },
   "30101": {
     "BtnType": 1,
@@ -3553,7 +3665,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 3015101,
-    "Name": "Wasserproben sammeln"
+    "Name": "Wasserprobe Sammeln"
   },
   "30201": {
     "BtnType": 1,
@@ -3581,7 +3693,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 30204,
-    "Name": "Resonieren"
+    "Name": "Resonanz"
   },
   "3020401": {
     "BtnType": 1,
@@ -3987,7 +4099,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30411,
-    "Name": "Bor-Bohnen sammeln"
+    "Name": "Bor-Bohnen Sammeln"
   },
   "30412": {
     "BtnType": 1,
@@ -4009,6 +4121,27 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30414,
     "Name": "Abgelagertes Salz sammeln"
+  },
+  "30415": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30415,
+    "Name": "Ei Aufheben"
+  },
+  "30416": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30416,
+    "Name": "Löschen"
+  },
+  "30417": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30417,
+    "Name": "Minenflamm-Pfeffer Sammeln"
   },
   "30420": {
     "BtnType": 1,
@@ -4044,6 +4177,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30424,
     "Name": "Der Erneuerung Opfern"
+  },
+  "30425": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30425,
+    "Name": "Spuren des Leeren-Engramms löschen"
   },
   "3050201": {
     "BtnType": 1,
@@ -4120,7 +4260,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 3113301,
-    "Name": "Fischmenschen vertreiben!"
+    "Name": "Meervolk vertreiben!"
   },
   "327021": {
     "BtnType": 1,
@@ -4304,6 +4444,13 @@
     "Id": 40501,
     "Name": "Untote läutern"
   },
+  "40502": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 40502,
+    "Name": "Sternsiegel Brechen (Kampf Starten)"
+  },
   "4213": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -4400,14 +4547,14 @@
     "FunctionOrder": ["AsyncPivotPortResonance", "pivot"],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 5002,
-    "Name": "Resonieren"
+    "Name": "Resonanz"
   },
   "5003": {
     "BtnType": 1,
     "FunctionOrder": ["AsyncResonanceSkill", "env"],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 5003,
-    "Name": "Resonieren"
+    "Name": "Resonanz"
   },
   "5004": {
     "BtnType": 1,
@@ -4904,7 +5051,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56021,
-    "Name": ""
+    "Name": "Darya-Feuerwerk zünden"
   },
   "57001": {
     "BtnType": 1,
@@ -5492,14 +5639,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 6051,
-    "Name": ""
+    "Name": "Boulevardzeitung lesen"
   },
   "6052": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 6052,
-    "Name": ""
+    "Name": "Buh!"
   },
   "6150": {
     "BtnType": 1,
@@ -5556,6 +5703,62 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 654101,
     "Name": "Schütteln"
+  },
+  "661101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661101,
+    "Name": "Illusion Verlassen"
+  },
+  "661102": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661102,
+    "Name": "Illusion Betreten"
+  },
+  "661103": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661103,
+    "Name": "Wirdas [Eid]​​​​​ Anhören"
+  },
+  "661104": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661104,
+    "Name": "Fafalas [Prüfung]​​​​​ Bezeugen"
+  },
+  "661105": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661105,
+    "Name": "Slehts [Besessenheit]​​​​​ Brechen"
+  },
+  "661106": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661106,
+    "Name": "Fafala Rufen"
+  },
+  "661107": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661107,
+    "Name": "Wirda Rufen"
+  },
+  "663401": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 663401,
+    "Name": "Resoniere mit Boyce"
   },
   "700002": {
     "BtnType": 1,
@@ -5856,7 +6059,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 7009,
-    "Name": "Beute"
+    "Name": "Aufheben"
   },
   "7011": {
     "BtnType": 1,
@@ -6591,14 +6794,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 730030,
-    "Name": ""
+    "Name": "An der Gruselparade teilnehmen"
   },
   "730031": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 730031,
-    "Name": ""
+    "Name": "Schreckensverwandlung"
   },
   "730301": {
     "BtnType": 1,
@@ -6983,7 +7186,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739013,
-    "Name": ""
+    "Name": "Nachtschleierwald: Engrammlinien-Tuning"
   },
   "7501": {
     "BtnType": 1,
@@ -7163,7 +7366,7 @@
   "800524": {
     "BtnType": 1,
     "FunctionOrder": [],
-    "IconPath": "ui/atlas/npc/talk_icon_factorde_compose",
+    "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800524,
     "Name": "Faktorzerlegung"
   },
@@ -7187,6 +7390,27 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800527,
     "Name": "Siegel-Recycling"
+  },
+  "800528": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_101",
+    "Id": 800528,
+    "Name": "Matrix-Manifestation"
+  },
+  "800529": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_99",
+    "Id": 800529,
+    "Name": "Abdruck-Einbettung"
+  },
+  "800530": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_100",
+    "Id": 800530,
+    "Name": "Prägungsvererbung"
   },
   "9001": {
     "BtnType": 1,
@@ -7299,6 +7523,48 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9016,
     "Name": "Herausforderung Paradoxon-Unheil – Erstes Omen"
+  },
+  "9017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9017,
+    "Name": "Gehe zum Lichtlosen Himmelszirkel"
+  },
+  "9018": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9018,
+    "Name": "Gehe zu den Himmelstufen des Ewiglichts"
+  },
+  "9019": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9019,
+    "Name": "Gehe zur Halle der Polarnacht"
+  },
+  "9020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9020,
+    "Name": "Gehe zur Dämmergrenze"
+  },
+  "9021": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9021,
+    "Name": "Zu den Himmelstufen des Ewiglichts (Übung)"
+  },
+  "9022": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9022,
+    "Name": "Zur Halle der Polarnacht (Übung)"
   },
   "920001": {
     "BtnType": 1,

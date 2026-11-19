@@ -751,7 +751,7 @@
     "MailType": 1,
     "NpcId": 0,
     "NpcName": "",
-    "Title": "Courrier de mobilier temporaire :"
+    "Title": "Courrier de mobilier temporaire : "
   },
   "2001": {
     "AwardId": 20500700,
@@ -950,7 +950,7 @@
   },
   "2256": {
     "AwardId": 0,
-    "Content": "Cher aventurier,<br><br>Nous avons remarqué que vous n'aviez pas récupéré votre récompense de connexion. Nous vous l'avons donc renvoyée dans votre messagerie.<br><br>Nous espérons que cette surprise vous fera plaisir. Profitez de cette petite marque d'attention et que votre prochaine aventure soit encore plus fabuleuse !",
+    "Content": "Cher aventurier,<br><br>Nous avons remarqué que vous n'aviez pas récupéré une récompense de connexion. Nous vous l'avons donc renvoyée dans votre messagerie.<br><br>Nous espérons que cette petite surprise enchantera vos aventures. Profitez de cette petite marque d'attention et que votre prochaine aventure soit encore plus brillante !",
     "ExpireTime": 30,
     "Id": 2256,
     "Important": 0,
@@ -974,6 +974,19 @@
     "NpcName": "",
     "Title": "Reflet de la Nuit de braises : Rattrapage des Récompenses de connexion"
   },
+  "2258": {
+    "AwardId": 0,
+    "Content": "Cher aventurier,<br><br>Nous avons remarqué que vous n'aviez pas récupéré une récompense de connexion. Nous vous l'avons donc renvoyée dans votre messagerie.<br><br>Nous espérons que cette petite surprise enchantera vos aventures. Profitez de cette petite marque d'attention et que votre prochaine aventure soit encore plus brillante !",
+    "ExpireTime": 30,
+    "Id": 2258,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "",
+    "Title": "[Vœux de l'Aube au Crépuscule : Récompense de connexion restituée]​​"
+  },
   "2300": {
     "AwardId": 0,
     "Content": "Cher Aventurier,<br><br>Veuillez récupérer les récompenses que vous avez obtenues grâce au code d'échange.",
@@ -984,7 +997,7 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "Courrier système",
+    "NpcName": "Système",
     "Title": "[Récompense] Code d'échange"
   },
   "2401": {
@@ -1078,6 +1091,19 @@
     "NpcName": "Miaounia",
     "Title": "[Crossover] Réémission de la récompense des objectifs de défi"
   },
+  "2505": {
+    "AwardId": 0,
+    "Content": "Aventurière / Aventurier, <br><br>Le Festival de la brise marine est terminé. N'oubliez pas de récupérer vos récompenses d'objectif d'événement restantes !<br><br>Merci pour votre participation !",
+    "ExpireTime": 30,
+    "Id": 2505,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Personnel du Festival de la brise marine",
+    "Title": "[Festival de la brise marine]​​ Récompenses d'objectif d'événement non réclamées restituées"
+  },
   "2506": {
     "AwardId": 0,
     "Content": "Aventurier, <br><br>L'événement de la Fête des récoltes de Kanamia est terminé. Veuillez récupérer les récompenses d'objectif que vous avez manquées !<br><br>Merci de votre participation !",
@@ -1089,11 +1115,11 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "Personnel de la Fête des récoltes",
-    "Title": "[Fête des récoltes de Kanamia] Récompenses d'objectif d'événement non réclamées"
+    "Title": "[Fête des récoltes de Kanamia]​​ Récompenses d'objectif d'événement non réclamées"
   },
   "2507": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "Chère aventurière, cher aventurier, <br><br>L'événement Nuit des farces est terminé. Veuillez récupérer à temps vos récompenses d'objectifs non réclamées~<br><br>Merci pour votre participation !",
     "ExpireTime": 30,
     "Id": 2507,
     "Important": 0,
@@ -1101,8 +1127,8 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 1200012,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "Système",
+    "Title": "[Nuit des farces]​​ Renvoi des récompenses d'objectifs d'événement"
   },
   "3002": {
     "AwardId": 0,
@@ -1206,11 +1232,11 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "Système",
-    "Title": "[Épreuves des héros] Restitution des récompenses d'objectif"
+    "Title": "[Épreuves des héros]​​ Restitution des récompenses d'objectif"
   },
   "4005": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "Chère aventurière, cher aventurier, <br><br>Votre résultat au défi d'Ajustement de ligne d'engramme a été rejeté en raison d'une suspicion de triche. Si vous avez des questions, veuillez contacter l'assistance.",
     "ExpireTime": 30,
     "Id": 4005,
     "Important": 0,
@@ -1218,7 +1244,20 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "Système",
+    "Title": "Résultat du défi d'Ajustement de ligne d'engramme rejeté"
+  },
+  "4006": {
+    "AwardId": 0,
+    "Content": "Bonjour,<br><br>L'événement Crépuscule indompté en cours est terminé et vous avez encore des récompenses non réclamées. Veuillez les récupérer dès que possible.<br><br>Merci de votre participation !",
+    "ExpireTime": 30,
+    "Id": 4006,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Système",
+    "Title": "[Crépuscule indompté] - Restitution des récompenses d'objectif"
   }
 }

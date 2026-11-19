@@ -6392,7 +6392,7 @@
   },
   "28006": {
     "AnimFadeTemplate": "",
-    "AnimTemplate": "animtpl/ch_wpnpc_f_equip_iruna_delta01",
+    "AnimTemplate": "animtpl/ch_wp_iruna-01_01",
     "ArmParm": 9.0,
     "Beard": [],
     "BeardColor": {
@@ -9074,6 +9074,213 @@
     "VoiceId": [],
     "WaistParm": -5.0,
     "Weapon": ["ch_wp_tina-02_01"],
+    "WeaponIdleAnim": ""
+  },
+  "28020": {
+    "AnimFadeTemplate": "",
+    "AnimTemplate": "animtpl/ch_wp_guitar-01_01",
+    "ArmParm": 9.0,
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Bhair": [],
+    "BodyD": "ch_f_bodyd",
+    "BodyU": "ch_f_bodyu",
+    "CalfParm": 9.0,
+    "ChestParm": 9.0,
+    "Chin": 0.0,
+    "Clothes": [],
+    "ClothesColor": [],
+    "ColorZone": 0,
+    "CombineType": 0,
+    "CrotchParm": 9.0,
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTex": [],
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "DullHair": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "EmoPrefix": "as_f_emo_f200-02_",
+    "Eye": ["4042104", ""],
+    "EyeAngle": 0.5,
+    "EyeColorDiff": 0,
+    "EyeLong": 0.0,
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "EyeShort": 0.0,
+    "EyeTex": ["3010005", ""],
+    "EyeUpDown": 0.5,
+    "Eyebrow": ["4022101", ""],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 225.0,
+      "y": 52.0,
+      "z": 15.0
+    },
+    "Face": ["4012101", ""],
+    "Feature": [],
+    "FeatureBack": false,
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureParm": [],
+    "FemaleParm": 9.0,
+    "Fhair": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Hair": ["1012004", ""],
+    "HairColor": [
+      {
+        "x": 228.0,
+        "y": 75.0,
+        "z": 66.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 75.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [1.0, 1.0, 239.0, 50.0, 83.0],
+    "HairHighlight": 1,
+    "HairHighlight2": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Head": "ch_f_head_elder_f300_00",
+    "Headwear": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "HeadwearColor": [],
+    "HeightParm": -2.0,
+    "LEyeColor": {
+      "x": 218.0,
+      "y": 73.0,
+      "z": 10.0
+    },
+    "LEyeColorArr": [
+      {
+        "x": 218.0,
+        "y": 73.0,
+        "z": 10.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "LashColor": {
+      "x": 225.0,
+      "y": 52.0,
+      "z": 15.0
+    },
+    "LashTex": ["4032001", ""],
+    "Lip": [],
+    "LipColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Mask": [],
+    "MaskColor": [],
+    "Model": 2,
+    "ModelPrefabDesc": "职业试炼-吉他助战NPC",
+    "ModelPrefabID": 28020,
+    "Mouth": ["4062101", ""],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Nose": ["4052101", ""],
+    "NoseUpDown": 0.5,
+    "Pants": [],
+    "PantsColor": [],
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_s",
+    "PreviewAction": [19.0, 9002.0, 1.0],
+    "PreviewIcon": "face_picture_girl_1",
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "REyeColorArr": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Ring": [],
+    "RingColor": [],
+    "RotateCurves": [],
+    "Sex": 2,
+    "Shoes": [],
+    "ShoesColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "Skin": {
+      "x": 25.0,
+      "y": 59.0,
+      "z": 40.0
+    },
+    "Socks": "",
+    "SocksColor": [],
+    "Suit": ["7010006", ""],
+    "SuitColor": [],
+    "Tail": [],
+    "TailColor": [],
+    "ThighParm": 9.0,
+    "Tooth": ["4100001", ""],
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "VoiceId": [],
+    "WaistParm": 9.0,
+    "Weapon": ["ch_wp_guitar-01_01"],
     "WeaponIdleAnim": ""
   },
   "301": {

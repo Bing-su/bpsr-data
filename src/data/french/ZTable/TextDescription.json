@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "Explose au contact d'un ennemi, infligeant des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">100 %</style> de l'attaque.",
+    "Description": "Explose au contact d'un ennemi, infligeant des <style=\"magic\">dégâts magiques</style> égaux à <style=\"accent-gn\">100 %</style> de l'ATQ. Il s'agit d'un effet de chance.",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">80 %</style> de l'attaque aux ennemis dans un rayon de <style=\"accent-gn\">5</style> m. Pour chaque ennemi supplémentaire touché, augmente les dégâts infligés de <style=\"accent-gn\">30 %</style> (jusqu'à +<style=\"accent-gn\">120 %</style>, selon le niveau/palier de l'<style=\"accent-gn\">attaque de base,</style>).",
+    "Description": "Inflige des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">72 %</style> de l'ATQ aux ennemis dans un rayon de <style=\"accent-gn\">5</style> mètres. Pour chaque ennemi supplémentaire touché, augmente les dégâts infligés de <style=\"accent-gn\">30 %</style> (évolue avec le niveau/palier de l'<style=\"accent-gn\">attaque de base</style>, jusqu'à +<style=\"accent-gn\">120 %</style>).",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1708,7 +1708,7 @@
     "Id": 1213,
     "Par": 3401213,
     "ShowRule": 1,
-    "Text": "Brûlure.",
+    "Text": "Brûlure",
     "Type": 3
   },
   "1214": {
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "Conversion de capacité",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "Chaque cumul confère <style=\"accent-gn\">25</style> d'ATQ (augmente jusqu'à <style=\"accent-gn\">40</style> à mesure que le niveau de la saison s'élève).",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Gravure",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "Augmente ces dégâts fixes de <style=\"accent-gn\">6 %</style> et la réduction de dégâts du Serment de <style=\"accent-gn\">1 %</style>, cumulable jusqu'à <style=\"accent-gn\">10</style> fois. Perd <style=\"accent-gn\">1</style> cumul par seconde lors des déplacements, perd <style=\"accent-gn\">1</style> cumul lors du déclenchement d'une esquive parfaite, et tous les cumuls sont dissipés en quittant le combat.",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Soif de sang",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "Chaque cumul réduit l'ATQ de <style=\"accent-gn\">1 %</style>. Seule <style=\"accent-gn\">1</style> instance peut être active. Dure <style=\"accent-gn\">10 s</style>, et réappliquer l'effet recalcule le nombre de cumuls.",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Réduction de soif de sang",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "Dégâts du Serment +<style=\"accent-gn\">3 %</style>. Seule <style=\"accent-gn\">1</style> instance peut être active.",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspiration",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "Augmente l'ATQ de <style=\"accent-gn\">74</style> (s'ajuste à <style=\"accent-gn\">112</style> selon le niveau de la saison), dure <style=\"accent-gn\">8 s</style>, et se cumule jusqu'à <style=\"accent-gn\">5</style> fois.",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Charge",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "Augmente l'ATQ de <style=\"accent-gn\">400</style> (s'ajuste à <style=\"accent-gn\">700</style> selon le niveau de la saison) et dure <style=\"accent-gn\">8 s</style>.",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Déchaînement",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "La valeur la plus élevée parmi le % de CRIT, le % de chance, le % de célérité et le % de maîtrise est augmentée de <style=\"accent-gn\">1,5 %</style> pendant <style=\"accent-gn\">5 s</style>.",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Symphonie de stats",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "Inflige <style=\"accent-gn\">500 %</style> de l'ATQ sous forme de dégâts adaptatifs aux cibles ennemies dans un rayon de <style=\"accent-gn\">3</style> m.",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Flèche fantôme",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "Inflige des dégâts fixes égaux à <style=\"accent-gn\">4000 %</style> × force du Serment.",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Choc de Désillusion",
     "Type": 1
   },
   "1500": {
@@ -2800,91 +2872,91 @@
     "Type": 2
   },
   "2001": {
-    "Description": "",
+    "Description": "Inflige des dégâts de feu en continu pendant <style=\"accent-gn\">5 s</style>, avec un maximum de base de <style=\"accent-gn\">10 cumuls</style>. Si la cible est affectée par Froid ou Gel, dissipe ces effets et inflige des dégâts supplémentaires.",
     "Id": 2001,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Brûlure",
     "Type": 1
   },
   "2002": {
-    "Description": "",
+    "Description": "Chaque cumul confère Vitesse de déplacement <style=\"accent-gn\">-10 %</style> ainsi que Résistance physique et Résistance magique <style=\"accent-gn\">-10 %</style> pendant <style=\"accent-gn\">5 s</style>, avec un maximum de base de <style=\"accent-gn\">5 cumuls</style>. <style=\"accent-gn\">Effet réduit de moitié contre les boss</style>. Lorsque Froid atteint sa limite de cumuls, l'effet se convertit en Gel. Si la cible est affectée par Brûlure, dissipe cet effet et inflige immédiatement tous ses dégâts restants.",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Froid",
     "Type": 1
   },
   "2003": {
-    "Description": "",
+    "Description": "Impossible d'agir pendant <style=\"accent-gn\">3 s</style>. À la fin de l'effet, confère Immunité au Gel pendant <style=\"accent-gn\">30 s</style>.",
     "Id": 2003,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Gel",
     "Type": 1
   },
   "2004": {
-    "Description": "",
+    "Description": "Chaque cumul réduit l'efficacité des soins de <style=\"accent-gn\">20 %</style> pendant <style=\"accent-gn\">10 s</style>. Cumulable jusqu'à <style=\"accent-gn\">5 fois</style>.",
     "Id": 2004,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Plaie",
     "Type": 1
   },
   "2005": {
-    "Description": "",
+    "Description": "Augmente les dégâts subis de <style=\"accent-gn\">6 % × cumuls de Corrosion</style> pendant <style=\"accent-gn\">7 s</style>, jusqu'à <style=\"accent-gn\">5 cumuls</style>.",
     "Id": 2005,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Corrosion",
     "Type": 1
   },
   "2006": {
-    "Description": "",
+    "Description": "Impossible d'agir pendant <style=\"accent-gn\">2,5 s</style>. Le prochain coup subi inflige <style=\"accent-gn\">+50 %</style> de dégâts et brise Pétrification.",
     "Id": 2006,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Pétrification",
     "Type": 1
   },
   "2007": {
-    "Description": "",
+    "Description": "Impossible de se déplacer pendant <style=\"accent-gn\">5 s</style>.",
     "Id": 2007,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Immobilisation",
     "Type": 1
   },
   "2008": {
-    "Description": "",
+    "Description": "Impossible d'agir pendant <style=\"accent-gn\">2,5 s</style>.",
     "Id": 2008,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Étourdissement",
     "Type": 1
   },
   "2009": {
-    "Description": "",
+    "Description": "Suit un itinéraire défini après son apparition, infligeant des dégâts aux monstres qu'il touche. Dure <style=\"accent-gn\">60 s</style>, avec un maximum de base de <style=\"accent-gn\">2</style>.",
     "Id": 2009,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Spectre",
     "Type": 1
   },
   "2010": {
-    "Description": "",
+    "Description": "Confère une immunité au Gel pendant <style=\"accent-gn\">30 s</style>.",
     "Id": 2010,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Immunité au Gel",
     "Type": 1
   },
   "2011": {
-    "Description": "",
+    "Description": "Subit 1 instance de dégâts en recevant un Bonbon, cumulable jusqu'à <style=\"accent-gn\">10 fois</style>.",
     "Id": 2011,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Bonbon",
     "Type": 1
   },
   "3000": {
@@ -3007,6 +3079,14 @@
     "Text": "Brûlure",
     "Type": 3
   },
+  "3015": {
+    "Description": "Force les cibles ennemies à se déplacer vers l'unité ayant infligé Éblouissement. Cet effet n'affecte pas les boss ni les ennemis d'élite. Il s'agit d'une altération d'état.",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Éblouissement",
+    "Type": 1
+  },
   "3020": {
     "Description": "Inclut <style=\"accent-gn\">Étourdissement</style>, <style=\"accent-gn\">Gel</style>, <style=\"accent-gn\">Pétrification</style>, <style=\"accent-gn\">Paralysie</style>, <style=\"accent-gn\">Éblouissement</style> et <style=\"accent-gn\">Peur</style>.",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "Débuffs",
     "Type": 3
+  },
+  "3022": {
+    "Description": "Le nombre de meubles peut affecter la fréquence d'images du jeu, en fonction des performances de votre appareil.",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Nombre de meubles",
+    "Type": 1
   }
 }

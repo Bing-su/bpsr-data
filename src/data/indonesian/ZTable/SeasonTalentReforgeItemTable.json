@@ -1,0 +1,101 @@
+{
+  "1220401": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Semua Jejak yang muncul pada Manifestasi berikutnya <color=#CFA803>pasti</color> merupakan Jejak Stat Utama.",
+    "ExpAdd": 0,
+    "Id": 1220401,
+    "Param": [],
+    "TypeEnum": 1
+  },
+  "1220402": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Semua jejak yang muncul pada manifestasi berikutnya <color=#CFA803>pasti</color> merupakan jejak Stat Minor.",
+    "ExpAdd": 0,
+    "Id": 1220402,
+    "Param": [101],
+    "TypeEnum": 1
+  },
+  "1220403": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Semua Jejak yang muncul pada Manifestasi berikutnya <color=#CFA803>pasti</color> merupakan Jejak Stat·Polarity.",
+    "ExpAdd": 0,
+    "Id": 1220403,
+    "Param": [103],
+    "TypeEnum": 1
+  },
+  "1220404": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Semua Jejak yang muncul pada Manifestasi berikutnya <color=#CFA803>pasti</color> merupakan Jejak Stat Ketangguhan.",
+    "ExpAdd": 0,
+    "Id": 1220404,
+    "Param": [104],
+    "TypeEnum": 1
+  },
+  "1220405": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Semua Jejak yang muncul pada Manifestasi berikutnya <color=#CFA803>pasti</color> merupakan Jejak Stat·Element.",
+    "ExpAdd": 0,
+    "Id": 1220405,
+    "Param": [105],
+    "TypeEnum": 1
+  },
+  "1220406": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Semua Jejak yang muncul pada Manifestasi berikutnya <color=#CFA803>pasti</color> merupakan Jejak Class.",
+    "ExpAdd": 0,
+    "Id": 1220406,
+    "Param": [1001],
+    "TypeEnum": 1
+  },
+  "1220407": {
+    "Condition": [[135, 4]],
+    "Count": 1,
+    "Desc": "Manifestasi berikutnya <color=#CFA803>dijamin</color> akan memunculkan setidaknya 1 Jejak dengan Kualitas <color=#AB85F6>Luar Biasa</color> atau lebih tinggi.",
+    "ExpAdd": 0,
+    "Id": 1220407,
+    "Param": [3, 4, 5],
+    "TypeEnum": 2
+  },
+  "1220408": {
+    "Condition": [[135, 10]],
+    "Count": 1,
+    "Desc": "Manifestasi berikutnya <color=#CFA803>pasti</color> akan memunculkan setidaknya 1 Jejak dengan Kualitas <color=#EED335>Epic</color> atau lebih tinggi.",
+    "ExpAdd": 0,
+    "Id": 1220408,
+    "Param": [4, 5],
+    "TypeEnum": 2
+  },
+  "1220409": {
+    "Condition": [[135, 11]],
+    "Count": 1,
+    "Desc": "Manifestasi berikutnya <color=#CFA803>pasti</color> memunculkan setidaknya 1 Jejak Bayang dengan kualitas <color=#EF8E60>Abadi</color>.",
+    "ExpAdd": 0,
+    "Id": 1220409,
+    "Param": [5],
+    "TypeEnum": 2
+  },
+  "1220410": {
+    "Condition": [[135, 2]],
+    "Count": -1,
+    "Desc": "Semua nilai Jejak yang muncul pada Manifestasi berikutnya <color=#CFA803>pasti</color> merupakan nilai tertinggi untuk kualitas tersebut.",
+    "ExpAdd": 0,
+    "Id": 1220410,
+    "Param": [],
+    "TypeEnum": 3
+  },
+  "1220411": {
+    "Condition": [],
+    "Count": 0,
+    "Desc": "EXP Matriks Hati +10, dan Kualitas jejak refleksi yang terwujud lebih tinggi.",
+    "ExpAdd": 10,
+    "Id": 1220411,
+    "Param": [],
+    "TypeEnum": 4
+  }
+}

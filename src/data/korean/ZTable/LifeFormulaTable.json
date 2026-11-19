@@ -294,6 +294,48 @@
       [9, 10220]
     ]
   },
+  "101027": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡에서 비교적 희귀한 채소 채집물을 집중적으로 채집하는 방법을 습득합니다.",
+    "GroupId": 1027,
+    "Icon": "ui/atlas/life_formula/life_collect/mushroom_gathering_02",
+    "Id": 101027,
+    "Level": 1,
+    "Name": "몽테놀 채소 채집・기초",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "101028": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡에서 비교적 희귀한 과일 채집물을 집중적으로 채집하는 법을 습득합니다.",
+    "GroupId": 1028,
+    "Icon": "ui/atlas/life_formula/life_collect/fruit_gathering_02",
+    "Id": 101028,
+    "Level": 1,
+    "Name": "몽테놀 과일 채집・기초",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "101029": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡에서 비교적 희귀한 약초 채집물을 집중적으로 채집하는 방법을 습득합니다.",
+    "GroupId": 1029,
+    "Icon": "ui/atlas/life_formula/life_collect/herb_gathering_02",
+    "Id": 101029,
+    "Level": 1,
+    "Name": "몽테놀 약초 채집・기초",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
   "102001": {
     "Attribute": [],
     "Des": "바루광 집중 채집으로 바루 광석 획득 방법을 습득합니다.",
@@ -647,6 +689,34 @@
       [59, 10224, 1],
       [9, 10220]
     ]
+  },
+  "102029": {
+    "Attribute": [],
+    "Des": "황사 철광 집중 채집으로 황사 철광석 획득 방법을 습득합니다.",
+    "GroupId": 10229,
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_02",
+    "Id": 102029,
+    "Level": 1,
+    "Name": "황사 철광 입문",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 102,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "102030": {
+    "Attribute": [],
+    "Des": "미리스 광 집중 채집으로 미리스 광석 획득 방법을 습득합니다.",
+    "GroupId": 10230,
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_03",
+    "Id": 102030,
+    "Level": 1,
+    "Name": "미리스 광 입문",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 102,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
   },
   "103001": {
     "Attribute": [],
@@ -1071,6 +1141,62 @@
     "ProId": 103,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "103033": {
+    "Attribute": [],
+    "Des": "계곡 적홍수정 광석 집중 채집으로 환식 적홍수정 원석・Lv.4 획득 방법을 습득합니다.",
+    "GroupId": 10333,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/ruby_familiarity",
+    "Id": 103033,
+    "Level": 1,
+    "Name": "환식 적홍수정 전문가",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103034": {
+    "Attribute": [],
+    "Des": "계곡 청수정 광석 집중 채집으로 환식 청수정 원석・Lv.4 획득 방법을 습득합니다.",
+    "GroupId": 10334,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/sapphire_familiarity",
+    "Id": 103034,
+    "Level": 1,
+    "Name": "환식 청수정 전문가",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103035": {
+    "Attribute": [],
+    "Des": "계곡 녹수정 광석 집중 채집으로 환식 녹수정 원석・Lv.4 획득 방법을 습득합니다.",
+    "GroupId": 10335,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/emerald_familiarity",
+    "Id": 103035,
+    "Level": 1,
+    "Name": "환식 녹수정 전문가",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103036": {
+    "Attribute": [],
+    "Des": "계곡 황수정 광석 집중 채집으로 환식 황수정 원석・Lv.4 획득 방법을 습득합니다.",
+    "GroupId": 10336,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/white_sapphire_familiarity",
+    "Id": 103036,
+    "Level": 1,
+    "Name": "환식 황수정 전문가",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
   },
   "201001": {
     "Attribute": [],
@@ -1579,6 +1705,99 @@
     "ProId": 201,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "201037": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡의 새우로 요리하는 법을 습득합니다.",
+    "GroupId": 2037,
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "Id": 201037,
+    "Level": 1,
+    "Name": "몽테놀 새우 요리 입문",
+    "NeedPoint": 1,
+    "NextNodes": [201041],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201038": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡의 채소로 요리하는 법을 습득합니다.",
+    "GroupId": 2038,
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_01",
+    "Id": 201038,
+    "Level": 1,
+    "Name": "몽테놀 채소 요리 입문",
+    "NeedPoint": 1,
+    "NextNodes": [201042],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201040": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡의 과일로 요리하는 법을 습득합니다.",
+    "GroupId": 2040,
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "Id": 201040,
+    "Level": 1,
+    "Name": "몽테놀 과일 요리 입문",
+    "NeedPoint": 1,
+    "NextNodes": [201044],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201041": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡의 새우를 활용한 정교한 요리 기술을 습득합니다.",
+    "GroupId": 2041,
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "Id": 201041,
+    "Level": 1,
+    "Name": "몽테놀 새우 요리 기초",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2037, 1],
+      [9, 10419]
+    ]
+  },
+  "201042": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡의 채소를 활용한 정교한 요리 기술을 습득합니다.",
+    "GroupId": 2042,
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_02",
+    "Id": 201042,
+    "Level": 1,
+    "Name": "몽테놀 채소 요리 기초",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2038, 1],
+      [9, 10419]
+    ]
+  },
+  "201044": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡의 과일을 활용한 정교한 요리 기술을 습득합니다.",
+    "GroupId": 2044,
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "Id": 201044,
+    "Level": 1,
+    "Name": "몽테놀 과일 요리 기초",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2040, 1],
+      [9, 10419]
+    ]
   },
   "202001": {
     "Attribute": [],
@@ -2231,6 +2450,161 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "202051": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡의 약초로 체력 회복 포션, 물리, 마법 증폭 포션 제작 방법을 습득합니다.",
+    "GroupId": 3051,
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "Id": 202051,
+    "Level": 1,
+    "Name": "몽테놀 약초 지식・Lv.1",
+    "NeedPoint": 1,
+    "NextNodes": [202056],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202052": {
+    "Attribute": [],
+    "Des": "얼음 불 포션 제작법을 습득합니다.",
+    "GroupId": 3052,
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "Id": 202052,
+    "Level": 1,
+    "Name": "몽테놀 얼음 불 지식・Lv.1",
+    "NeedPoint": 1,
+    "NextNodes": [202057],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202053": {
+    "Attribute": [],
+    "Des": "숲 바위 포션 제작법을 습득합니다.",
+    "GroupId": 3053,
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "Id": 202053,
+    "Level": 1,
+    "Name": "몽테놀 자연 지식・Lv.1",
+    "NeedPoint": 1,
+    "NextNodes": [202058],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202054": {
+    "Attribute": [],
+    "Des": "바람 번개 포션 제작법을 습득합니다.",
+    "GroupId": 3054,
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "Id": 202054,
+    "Level": 1,
+    "Name": "몽테놀 바람 번개 지식・Lv.1",
+    "NeedPoint": 1,
+    "NextNodes": [202059],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202055": {
+    "Attribute": [],
+    "Des": "빛 어둠 포션 제작법을 습득합니다.",
+    "GroupId": 3055,
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "Id": 202055,
+    "Level": 1,
+    "Name": "몽테놀 빛 어둠 지식・Lv.1",
+    "NeedPoint": 1,
+    "NextNodes": [202060],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202056": {
+    "Attribute": [],
+    "Des": "몽테놀 계곡의 약초로 더 높은 등급의 체력 회복 포션, 물리, 마법 증폭 포션 제작 방법을 습득합니다.",
+    "GroupId": 3056,
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "Id": 202056,
+    "Level": 1,
+    "Name": "몽테놀 약초 지식・Lv.2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3051, 1],
+      [9, 10419]
+    ]
+  },
+  "202057": {
+    "Attribute": [],
+    "Des": "더 높은 등급의 얼음 불 포션 제작법을 습득합니다.",
+    "GroupId": 3057,
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "Id": 202057,
+    "Level": 1,
+    "Name": "몽테놀 얼음 불 지식・Lv.2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3052, 1],
+      [9, 10419]
+    ]
+  },
+  "202058": {
+    "Attribute": [],
+    "Des": "더 높은 등급의 숲 바위 포션 제작법을 습득합니다.",
+    "GroupId": 3058,
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "Id": 202058,
+    "Level": 1,
+    "Name": "몽테놀 자연 지식・Lv.2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3053, 1],
+      [9, 10419]
+    ]
+  },
+  "202059": {
+    "Attribute": [],
+    "Des": "더 높은 등급의 바람 번개 포션 제작법을 습득합니다.",
+    "GroupId": 3059,
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "Id": 202059,
+    "Level": 1,
+    "Name": "몽테놀 바람 번개 지식・Lv.2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3054, 1],
+      [9, 10419]
+    ]
+  },
+  "202060": {
+    "Attribute": [],
+    "Des": "더 높은 등급의 빛 어둠 포션 제작법을 습득합니다.",
+    "GroupId": 3060,
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "Id": 202060,
+    "Level": 1,
+    "Name": "몽테놀 빛 어둠 지식・Lv.2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3055, 1],
+      [9, 10419]
+    ]
+  },
   "203001": {
     "Attribute": [],
     "Des": "바루 광석으로 신비한 금속 제작 및 가공 방법을 습득합니다.",
@@ -2641,6 +3015,99 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "203033": {
+    "Attribute": [],
+    "Des": "황사 철광석으로 신비한 금속 제작 및 가공 방법을 습득합니다.",
+    "GroupId": 4033,
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "Id": 203033,
+    "Level": 1,
+    "Name": "몽테놀 신비한 금속 주조・Lv.1",
+    "NeedPoint": 1,
+    "NextNodes": [203037],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203034": {
+    "Attribute": [],
+    "Des": "황사 철광석으로 광휘석 제작 및 가공 방법을 습득합니다.",
+    "GroupId": 4034,
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "Id": 203034,
+    "Level": 1,
+    "Name": "몽테놀 광휘석 주조・Lv.1",
+    "NeedPoint": 1,
+    "NextNodes": [203038],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203035": {
+    "Attribute": [],
+    "Des": "황사 철광석으로 정제석 제작 및 가공 방법을 습득합니다.",
+    "GroupId": 4035,
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "Id": 203035,
+    "Level": 1,
+    "Name": "몽테놀 정제석 주조・Lv.1",
+    "NeedPoint": 1,
+    "NextNodes": [203039],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203037": {
+    "Attribute": [],
+    "Des": "미리스 광석으로 신비한 금속 제작 및 가공 방법을 습득합니다.",
+    "GroupId": 4037,
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "Id": 203037,
+    "Level": 1,
+    "Name": "몽테놀 신비한 금속 주조・Lv.2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4033, 1],
+      [9, 10419]
+    ]
+  },
+  "203038": {
+    "Attribute": [],
+    "Des": "미리스 광석으로 광휘석 제작 및 가공 방법을 습득합니다.",
+    "GroupId": 4038,
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "Id": 203038,
+    "Level": 1,
+    "Name": "몽테놀 광휘석 주조・Lv.2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4034, 1],
+      [9, 10419]
+    ]
+  },
+  "203039": {
+    "Attribute": [],
+    "Des": "미리스 광석으로 정제석 제작 및 가공 방법을 습득합니다.",
+    "GroupId": 4039,
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "Id": 203039,
+    "Level": 1,
+    "Name": "몽테놀 정제석 주조・Lv.2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4035, 1],
+      [9, 10419]
+    ]
+  },
   "204001": {
     "Attribute": [],
     "Des": "다양한 색상의 원석으로 장착 가능한 초급 보석 제작 방법을 습득합니다.",
@@ -3023,6 +3490,62 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "204033": {
+    "Attribute": [],
+    "Des": "Lv.4 환식 적홍수정 원석을 최고급 보석 정수로 세공하는 방법을 습득합니다.",
+    "GroupId": 5033,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/triangle_cutting_technology_02",
+    "Id": 204033,
+    "Level": 1,
+    "Name": "환식 적홍수정 세공 마스터",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204034": {
+    "Attribute": [],
+    "Des": "Lv.4 환식 청수정 원석을 최고급 보석 정수로 세공하는 방법을 습득합니다.",
+    "GroupId": 5034,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/square_cutting_technology_02",
+    "Id": 204034,
+    "Level": 1,
+    "Name": "환식 청수정 세공 마스터",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204035": {
+    "Attribute": [],
+    "Des": "Lv.4 환식 녹수정 원석을 최고급 보석 정수로 세공하는 방법을 습득합니다.",
+    "GroupId": 5035,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/special_cutting_technology_02",
+    "Id": 204035,
+    "Level": 1,
+    "Name": "환식 녹수정 세공 마스터",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204036": {
+    "Attribute": [],
+    "Des": "Lv.4 환식 황수정 원석을 최고급 보석 정수로 세공하는 방법을 습득합니다.",
+    "GroupId": 5036,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/pear_cutting_technology_02",
+    "Id": 204036,
+    "Level": 1,
+    "Name": "환식 황수정 세공 마스터",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
   "205001": {
     "Attribute": [],
     "Des": "속연 탄소 분말 제작법을 습득합니다.",
@@ -3081,7 +3604,7 @@
   },
   "205005": {
     "Attribute": [],
-    "Des": "속연 탄소 분말, 석골 탄소 분말, 보석 왁스, 장미석 광택제 제작 시, 생산물을 추가로 5개 획득합니다. 고열 속연 탄소 분말 및 석골 탄소 분말 제작 시, 생산물을 추가로 1개 획득합니다.",
+    "Des": "속연 탄소 분말, 석골 탄소 분말, 보석 왁스, 장미석 광택제, 원소 에너지가 깃든 레진 제작 시, 생산물을 추가로 5개 획득합니다. 고열 속연 탄소 분말 및 석골 탄소 분말 제작 시, 생산물을 추가로 1개 획득합니다.",
     "GroupId": 6005,
     "Icon": "ui/atlas/life_formula/life_formula/lifeformula_woodwork_ability_02",
     "Id": 205005,
@@ -3168,6 +3691,20 @@
       [59, 6008, 1],
       [9, 10220]
     ]
+  },
+  "205011": {
+    "Attribute": [],
+    "Des": "원소 에너지가 깃든 레진 제작법을 습득합니다.",
+    "GroupId": 6011,
+    "Icon": "ui/atlas/life_formula/life_formula/lifeformula_carbon_powder_01",
+    "Id": 205011,
+    "Level": 1,
+    "Name": "원소 레진 제작",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 205,
+    "SeasonId": 4,
+    "UnlockCondition": []
   },
   "206001": {
     "Attribute": [],

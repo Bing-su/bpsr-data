@@ -88,7 +88,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1010,
-    "Name": "터치"
+    "Name": "만진다"
   },
   "1011": {
     "BtnType": 1,
@@ -123,14 +123,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1015,
-    "Name": "캐비닛 터치"
+    "Name": "장롱을 만진다"
   },
   "1016": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1016,
-    "Name": "캐비닛 열기"
+    "Name": "장롱을 연다"
   },
   "1017": {
     "BtnType": 1,
@@ -1224,6 +1224,48 @@
     "Id": 1171,
     "Name": "탑승 - 안쪽"
   },
+  "1181": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1181,
+    "Name": "[치명타] 서약 선택"
+  },
+  "1182": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1182,
+    "Name": "[행운] 서약 선택"
+  },
+  "1183": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1183,
+    "Name": "[속공] 서약 선택"
+  },
+  "1184": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1184,
+    "Name": "[숙련] 서약 선택"
+  },
+  "1185": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1185,
+    "Name": "[만능] 서약 선택"
+  },
+  "1186": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 1186,
+    "Name": "기원의 시련 활성화 [에너지 조건 충족 필요]"
+  },
   "1201": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -1271,14 +1313,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 12013,
-    "Name": "[침식의 씨앗] 활성화"
+    "Name": "[허식의 씨앗] 활성화"
   },
   "12014": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 12014,
-    "Name": "[허무의 침식 전리품] 활성화"
+    "Name": "[허식 전리품] 활성화"
   },
   "12015": {
     "BtnType": 1,
@@ -1293,6 +1335,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 12016,
     "Name": "불협 결정 활성화"
+  },
+  "12017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 12017,
+    "Name": "빛을 되짚는 선물 활성화"
   },
   "1201901": {
     "BtnType": 1,
@@ -1959,6 +2008,13 @@
     "Id": 1222,
     "Name": "잠수하기"
   },
+  "1230": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 1230,
+    "Name": "잔불 줍기"
+  },
   "1250": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2272,7 +2328,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 140210,
-    "Name": "영지로 돌아가기"
+    "Name": "캠프로 돌아가기"
   },
   "140211": {
     "BtnType": 1,
@@ -2448,6 +2504,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 17100101,
     "Name": "석탄"
+  },
+  "190101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 190101,
+    "Name": "보호 장치 작동하기"
   },
   "200000": {
     "BtnType": 1,
@@ -2680,6 +2743,13 @@
     "Id": 200029,
     "Name": "이매진 제작"
   },
+  "20003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20003,
+    "Name": "숲의 치유 버프 추가"
+  },
   "200030": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2749,6 +2819,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_76",
     "Id": 200039,
     "Name": "가든 의뢰"
+  },
+  "20004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20004,
+    "Name": "협주 버프 추가"
   },
   "200040": {
     "BtnType": 1,
@@ -2946,6 +3023,13 @@
     "Id": 200073,
     "Name": "잔불의 하늘 보물 교환"
   },
+  "200074": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200074,
+    "Name": "빛을 되짚는 보물 교환"
+  },
   "200075": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -3036,6 +3120,34 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_52",
     "Id": 200087,
     "Name": "무결한 결정 가루 상점"
+  },
+  "200089": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_52",
+    "Id": 200089,
+    "Name": "기원의 별비단과 결정 가루 상점"
+  },
+  "200091": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200091,
+    "Name": "별빛 소장품"
+  },
+  "200092": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200092,
+    "Name": "지난날의 보물 교환"
+  },
+  "200093": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_26",
+    "Id": 200093,
+    "Name": "<style=\"emph-sq\">푸른 하늘 너머, 낮과 밤의 끝</style>"
   },
   "2001": {
     "BtnType": 1,
@@ -4010,6 +4122,27 @@
     "Id": 30414,
     "Name": "퇴적된 소금 수집"
   },
+  "30415": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30415,
+    "Name": "달걀 줍기"
+  },
+  "30416": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30416,
+    "Name": "비우기"
+  },
+  "30417": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30417,
+    "Name": "광산 불꽃 고추 채집하기"
+  },
   "30420": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -4044,6 +4177,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30424,
     "Name": "식양에 넣기"
+  },
+  "30425": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30425,
+    "Name": "허식 엔그램 흔적 없애기"
   },
   "3050201": {
     "BtnType": 1,
@@ -4303,6 +4443,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 40501,
     "Name": "망령 정화하기"
+  },
+  "40502": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 40502,
+    "Name": "봉인을 해제하여 [전투 시작]"
   },
   "4213": {
     "BtnType": 1,
@@ -5254,7 +5401,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 6019,
-    "Name": "대장장이 규칙"
+    "Name": "장인 규칙"
   },
   "6020": {
     "BtnType": 1,
@@ -5499,7 +5646,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 6052,
-    "Name": "놀래키기"
+    "Name": "놀래기"
   },
   "6150": {
     "BtnType": 1,
@@ -5556,6 +5703,62 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 654101,
     "Name": "흔들기"
+  },
+  "661101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661101,
+    "Name": "환상 세계 떠나기"
+  },
+  "661102": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661102,
+    "Name": "환상 세계 들어가기"
+  },
+  "661103": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661103,
+    "Name": "윌다의 [기원] 듣기"
+  },
+  "661104": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661104,
+    "Name": "파파라의 [시련] 지켜보기"
+  },
+  "661105": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661105,
+    "Name": "슬레트의 [집착] 극복하기"
+  },
+  "661106": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661106,
+    "Name": "파파라 부르기"
+  },
+  "661107": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661107,
+    "Name": "윌다 부르기"
+  },
+  "663401": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 663401,
+    "Name": "보이스와 공명하기"
   },
   "700002": {
     "BtnType": 1,
@@ -5660,7 +5863,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_worldquest",
     "Id": 700016,
-    "Name": "[허무의 침식 분출 억제하기]"
+    "Name": "[허식 분출 억제하기]"
   },
   "700017": {
     "BtnType": 1,
@@ -6437,7 +6640,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 7149,
-    "Name": "그을린 대장장이 망치"
+    "Name": "그을린 장인 망치"
   },
   "7150": {
     "BtnType": 1,
@@ -7163,7 +7366,7 @@
   "800524": {
     "BtnType": 1,
     "FunctionOrder": [],
-    "IconPath": "ui/atlas/npc/talk_icon_factorde_compose",
+    "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800524,
     "Name": "인자 분해"
   },
@@ -7187,6 +7390,27 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800527,
     "Name": "인장 회수"
+  },
+  "800528": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_101",
+    "Id": 800528,
+    "Name": "매트릭스 투영"
+  },
+  "800529": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_99",
+    "Id": 800529,
+    "Name": "영흔 장착"
+  },
+  "800530": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_100",
+    "Id": 800530,
+    "Name": "영흔 계승"
   },
   "9001": {
     "BtnType": 1,
@@ -7299,6 +7523,48 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9016,
     "Name": "모순과 재앙・첫 징조"
+  },
+  "9017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9017,
+    "Name": "빛 없는 공중 정원으로 이동하기"
+  },
+  "9018": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9018,
+    "Name": "영원한 낮의 하늘 계단으로 이동하기"
+  },
+  "9019": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9019,
+    "Name": "극야의 천공 궁전으로 이동하기"
+  },
+  "9020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9020,
+    "Name": "푸른 하늘 너머, 낮과 밤의 끝으로 이동하기"
+  },
+  "9021": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9021,
+    "Name": "영원한 낮의 하늘 계단으로 이동하기 (연습)"
+  },
+  "9022": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9022,
+    "Name": "극야의 천공 궁전으로 이동하기 (연습)"
   },
   "920001": {
     "BtnType": 1,

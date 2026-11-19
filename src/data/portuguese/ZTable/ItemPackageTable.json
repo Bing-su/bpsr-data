@@ -3,12 +3,12 @@
     "Capacity": 2000,
     "CapacityExtra": 2100,
     "Classify": [
-      ["", "", "Item de Desenvolvimento", ""],
+      ["", "", "Itens de Desenvolvimento", ""],
       ["", "", "Item Valioso", ""],
       ["", "", "Consumível", ""],
       ["", "", "Material Raro", ""],
       ["", "", "Item de Missão", ""],
-      ["", "", "", ""]
+      ["", "", "Itens de Evento", ""]
     ],
     "Consume": "0",
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_14",
@@ -126,6 +126,17 @@
     "ItemDiscardTab": 0,
     "Name": "Partitura",
     "Show": 0
+  },
+  "16": {
+    "Capacity": 2000,
+    "CapacityExtra": 2100,
+    "Classify": [["", "", "Fator da Temporada", ""]],
+    "Consume": "0",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_343",
+    "Id": 16,
+    "ItemDiscardTab": 0,
+    "Name": "Item da Temporada",
+    "Show": 8
   },
   "2": {
     "Capacity": 500,

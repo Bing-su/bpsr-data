@@ -1,0 +1,101 @@
+{
+  "1220401": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "次の発現で出現するすべての映痕が<color=#CFA803>必ず</color>ステータス・主になる。",
+    "ExpAdd": 0,
+    "Id": 1220401,
+    "Param": [],
+    "TypeEnum": 1
+  },
+  "1220402": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "次の発現で出現するすべての映痕が<color=#CFA803>必ず</color>ステータス・副になる。",
+    "ExpAdd": 0,
+    "Id": 1220402,
+    "Param": [101],
+    "TypeEnum": 1
+  },
+  "1220403": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "次の発現で出現するすべての映痕が<color=#CFA803>必ず</color>ステータス・極性になる。",
+    "ExpAdd": 0,
+    "Id": 1220403,
+    "Param": [103],
+    "TypeEnum": 1
+  },
+  "1220404": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "次の発現で出現するすべての映痕が<color=#CFA803>必ず</color>ステータス・耐久力になる。",
+    "ExpAdd": 0,
+    "Id": 1220404,
+    "Param": [104],
+    "TypeEnum": 1
+  },
+  "1220405": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "次の発現で出現するすべての映痕が<color=#CFA803>必ず</color>ステータス・元素になる。",
+    "ExpAdd": 0,
+    "Id": 1220405,
+    "Param": [105],
+    "TypeEnum": 1
+  },
+  "1220406": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "次の発現で出現するすべての映痕が<color=#CFA803>必ず</color>クラスの映痕になる。",
+    "ExpAdd": 0,
+    "Id": 1220406,
+    "Param": [1001],
+    "TypeEnum": 1
+  },
+  "1220407": {
+    "Condition": [[135, 4]],
+    "Count": 1,
+    "Desc": "次の発現で<color=#AB85F6>卓越</color>品質以上の映痕が<color=#CFA803>必ず</color>1つ以上出現する。",
+    "ExpAdd": 0,
+    "Id": 1220407,
+    "Param": [3, 4, 5],
+    "TypeEnum": 2
+  },
+  "1220408": {
+    "Condition": [[135, 10]],
+    "Count": 1,
+    "Desc": "次の発現で<color=#EED335>エピック</color>品質以上の映痕が<color=#CFA803>必ず</color>1つ以上出現する。",
+    "ExpAdd": 0,
+    "Id": 1220408,
+    "Param": [4, 5],
+    "TypeEnum": 2
+  },
+  "1220409": {
+    "Condition": [[135, 11]],
+    "Count": 1,
+    "Desc": "次の発現で<color=#EF8E60>不朽</color>品質の映痕が<color=#CFA803>必ず</color>1つ以上出現する。",
+    "ExpAdd": 0,
+    "Id": 1220409,
+    "Param": [5],
+    "TypeEnum": 2
+  },
+  "1220410": {
+    "Condition": [[135, 2]],
+    "Count": -1,
+    "Desc": "次の発現で出現するすべての映痕の数値が<color=#CFA803>必ず</color>その品質における最高値になる。",
+    "ExpAdd": 0,
+    "Id": 1220410,
+    "Param": [],
+    "TypeEnum": 3
+  },
+  "1220411": {
+    "Condition": [],
+    "Count": 0,
+    "Desc": "心相マトリックスEXP+10。発現で出現する映痕の品質が上昇する。",
+    "ExpAdd": 10,
+    "Id": 1220411,
+    "Param": [],
+    "TypeEnum": 4
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "1220401": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas las improntas que aparezcan en la próxima Manifestación <color=#CFA803>tienen la garantía de ser</color> improntas de atributo principal.",
+    "ExpAdd": 0,
+    "Id": 1220401,
+    "Param": [],
+    "TypeEnum": 1
+  },
+  "1220402": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas las improntas que aparezcan en la próxima Manifestación <color=#CFA803>tienen la garantía de ser</color> improntas de atributo secundario.",
+    "ExpAdd": 0,
+    "Id": 1220402,
+    "Param": [101],
+    "TypeEnum": 1
+  },
+  "1220403": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas las improntas que aparezcan en la próxima Manifestación <color=#CFA803>tienen la garantía de ser</color> improntas de polaridad.",
+    "ExpAdd": 0,
+    "Id": 1220403,
+    "Param": [103],
+    "TypeEnum": 1
+  },
+  "1220404": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas las improntas que aparezcan en la próxima Manifestación <color=#CFA803>tienen la garantía de ser</color> improntas de resiliencia.",
+    "ExpAdd": 0,
+    "Id": 1220404,
+    "Param": [104],
+    "TypeEnum": 1
+  },
+  "1220405": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas las improntas que aparezcan en la próxima Manifestación <color=#CFA803>tienen la garantía de ser</color> improntas de elemento.",
+    "ExpAdd": 0,
+    "Id": 1220405,
+    "Param": [105],
+    "TypeEnum": 1
+  },
+  "1220406": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas las improntas que aparezcan en la próxima Manifestación <color=#CFA803>tienen la garantía de ser</color> improntas de clase.",
+    "ExpAdd": 0,
+    "Id": 1220406,
+    "Param": [1001],
+    "TypeEnum": 1
+  },
+  "1220407": {
+    "Condition": [[135, 4]],
+    "Count": 1,
+    "Desc": "La próxima Manifestación <color=#CFA803>tiene la garantía de</color> incluir al menos 1 impronta de calidad <color=#AB85F6>Excelente</color> o superior.",
+    "ExpAdd": 0,
+    "Id": 1220407,
+    "Param": [3, 4, 5],
+    "TypeEnum": 2
+  },
+  "1220408": {
+    "Condition": [[135, 10]],
+    "Count": 1,
+    "Desc": "La próxima Manifestación <color=#CFA803>tiene la garantía de</color> incluir al menos 1 impronta de calidad <color=#EED335>Épica</color> o superior.",
+    "ExpAdd": 0,
+    "Id": 1220408,
+    "Param": [4, 5],
+    "TypeEnum": 2
+  },
+  "1220409": {
+    "Condition": [[135, 11]],
+    "Count": 1,
+    "Desc": "La próxima Manifestación <color=#CFA803>tiene la garantía de</color> incluir al menos 1 impronta de calidad <color=#EF8E60>inmortal</color>.",
+    "ExpAdd": 0,
+    "Id": 1220409,
+    "Param": [5],
+    "TypeEnum": 2
+  },
+  "1220410": {
+    "Condition": [[135, 2]],
+    "Count": -1,
+    "Desc": "Todas las improntas que aparezcan en la próxima Manifestación <color=#CFA803>tienen la garantía de</color> obtener los valores más altos posibles para su calidad.",
+    "ExpAdd": 0,
+    "Id": 1220410,
+    "Param": [],
+    "TypeEnum": 3
+  },
+  "1220411": {
+    "Condition": [],
+    "Count": 0,
+    "Desc": "EXP de matriz mental +10. Las improntas manifestadas son de mayor calidad.",
+    "ExpAdd": 10,
+    "Id": 1220411,
+    "Param": [],
+    "TypeEnum": 4
+  }
+}

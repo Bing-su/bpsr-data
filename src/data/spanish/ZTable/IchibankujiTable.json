@@ -248,7 +248,7 @@
     "TextColor": "#ffffff"
   },
   "1006": {
-    "BaseDetailsDes": "",
+    "BaseDetailsDes": "Los [Eventos básicos] de esta ronda incluyen: <br> Cada tirada garantiza un <style=\"accent-gn\">Reembolso de Puntos de Miau Dorado - Fiesta gatuna de medianoche</style>. La cantidad exacta depende de la rareza del premio: cuanto más raro sea el premio, más puntos obtendrás.<br><style=\"accent-gn\">Vale de Premio A garantizado</style> en <style=\"accent-gn\">la 25.ª tirada</style>;<br><style=\"accent-gn\">¡Vale de Premio S garantizado</style> en <style=\"accent-gn\">la 70.ª tirada</style>!",
     "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
     "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
     "DrawPopupCardPath": [
@@ -262,9 +262,9 @@
     "HelpLibraryId": 25006,
     "Id": 1006,
     "InitialfreeLotteryTime": 1,
-    "LotteryName": ["", ""],
+    "LotteryName": ["Tirar 1", "Tirar 5"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "",
+    "LuckDetailsDes": "¡Cada tirada tiene un <style=\"accent-gn\">25.0000 %</style> de probabilidades de activar un [evento de suerte]! Los eventos de suerte de esta ronda incluyen lo siguiente:<br>[Evento 1]: Siguiente tirada gratis.<br>[Evento 2]: Siguiente tirada devuelve puntos de miau dorado ×3.<br>[Evento 3]: Probabilidad del premio A aumentada en la siguiente tirada.<br>[Evento 4]: Siguiente tirada excluye premios C/D/E.",
     "LuckPoolId": 1006,
     "MallItemId": 11006,
     "MiniGuaranteeDetails": [
@@ -285,7 +285,7 @@
     "PointsActivityFunctionId": 20034,
     "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_daya/img_ichibankuji_main_bg",
     "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_daya/img_main_funcs_ichibankuji_carousel",
-    "PoolName": "",
+    "PoolName": "Fiesta gatuna de medianoche",
     "PoolShowTV": ["ichibankuji/ichibankuji_default", "ichibankuji/ichibankuji_default"],
     "PoolTabIcon": "ui/atlas/ichibankuji_daya/img_ichibankuji_main_tab_01",
     "PoolTabIconBg": "ui/atlas/ichibankuji_daya/img_ichibankuji_main_tab_bg",

@@ -61,10 +61,10 @@
   },
   "100051": {
     "Clue": [1000511, 1000512, 1000513],
-    "Conclusion": "Botol itu barang yang bisa dibeli di masa kini.<br>Kertas itu petunjuk palsu yang dibuat orang lain.",
+    "Conclusion": "Botol adalah produk yang bisa dibeli sekarang.<br>Catatan itu adalah petunjuk palsu buatan orang lain.",
     "ConclusionAction": 9033,
-    "ConclusionBubble": "Kelihatannya benar-benar sia-sia datang kemari ....",
-    "ConclusionTips": "Ingat-ingat kejadian sebelumnya ....",
+    "ConclusionBubble": "Sepertinya perjalananku kali ini benar-benar sia-sia...",
+    "ConclusionTips": "Mengingat kembali pengalaman sebelumnya...",
     "Id": 100051,
     "InferenceStep": [1000511, 1000512, 1000513],
     "IockedBubble": ["Masih perlu dipikirkan lagi."],
@@ -158,6 +158,24 @@
     "QuickReasoning": true,
     "ReviewBubble": [
       "Dengan bantuan orang-orang di kapal, Eluna menemukan petunjuk baru untuk masalah sulit ini."
+    ],
+    "ReviewBubbleAction": [9047]
+  },
+  "140011": {
+    "Clue": [1400111, 1400112, 1400113],
+    "Conclusion": "Carrie pernah mengaku sebagai petualang dari Biro Perintisan, pernah mengikuti Stormdemon Attack di karnaval, dan kemudian menjadi anggota dewan di Asteris. Dia juga menyebutkan bahwa orang tuanya selalu tinggal di dekat Monumen Pahlawan di Munsterhorn. Semua pengalaman ini seharusnya meninggalkan jejak yang bisa diselidiki.",
+    "ConclusionAction": 9033,
+    "ConclusionBubble": "Daripada terus menebak siapa dia sebenarnya, lebih baik cari tahu dulu seberapa banyak dari pengalamannya ini yang benar-benar nyata.",
+    "ConclusionTips": "Menginvestigasi informasi identitas yang ditinggalkan Carrie",
+    "Id": 140011,
+    "InferenceStep": [1400111, 1400112, 1400113],
+    "IockedBubble": [
+      "Ada banyak hal yang pernah dia ceritakan... Coba kuingat-ingat lagi dengan saksama."
+    ],
+    "IockedBubbleAction": [9019],
+    "QuickReasoning": true,
+    "ReviewBubble": [
+      "Informasi identitas yang ditinggalkan Carrie sudah selesai disusun. Selanjutnya, kita hanya perlu memastikan satu per satu apakah pengalaman-pengalaman itu benar-benar nyata."
     ],
     "ReviewBubbleAction": [9047]
   },

@@ -167,7 +167,7 @@
     "LoadingBg": "",
     "LoadingType": 0,
     "SceneId": 0,
-    "TextGeneral": "Uma celebração anual em toda a cidade, realizada pelo Conselho em comemoração à independência. <br>No dia da celebração, uma chuva de fitas coloridas brilhantes cai sobre Asterleeds. Os cidadãos colocam Lírios-do-mar florescendo em suas portas para expressar seus desejos de paz. Várias celebrações especiais, como saraus de poesia, desfiles e o Carnaval, também são realizadas na cidade.",
+    "TextGeneral": "Uma celebração anual realizada pelo Conselho em homenagem à independência. <br>Fitas coloridas enchem o ar, Lírios-do-mar são colocados nas portas em nome da paz, e a cidade sedia saraus de poesia, desfiles e um carnaval.",
     "TextTitle": "Festival da Brisa Marinha"
   },
   "116": {
@@ -287,6 +287,24 @@
     "TextGeneral": "Miauclu costuma dizer que os sonhos não podem ser replicados, mas os desejos sim.<br>O Especial Miaulux é a maneira dela de embalar esses desejos como presentes.",
     "TextTitle": "Especial Miaulux"
   },
+  "128": {
+    "Id": 128,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading19",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Por uma paisagem de cânions e florestas, riachos cristalinos descem em cascata por penhascos íngremes, fundindo-se em uma espetacular série de cachoeiras. <br>Servindo de passagem entre as Terras Altas de Asterleeds e o Deserto Perene, esta região atrai um fluxo constante de mercadores e aventureiros.",
+    "TextTitle": "Rota Comercial de Rize"
+  },
+  "129": {
+    "Id": 129,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading20",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "O fechamento da Mina de Talavok trouxe de volta a esta floresta uma paz há muito perdida. Recentemente, porém, viajantes insistem ter ouvido sussurros nas profundezas da mata à noite, enquanto outros relatam que a vida selvagem local se tornou incomumente agitada. Ninguém consegue explicar ao certo esse repentino e perturbador surto de atividade.",
+    "TextTitle": "A Floresta Esquecida"
+  },
   "13": {
     "Id": 13,
     "LevelRange": [11, 20],
@@ -296,6 +314,96 @@
     "TextGeneral": "Apenas o primeiro jogador ou equipe a causar dano a um monstro Elite tem o direito de abrir o saque deixado pelo alvo. Para ele, a barra de PV do alvo aparece em vermelho, enquanto para os outros, aparece em cinza.",
     "TextTitle": "Caça aos Monstros: Elite"
   },
+  "130": {
+    "Id": 130,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading21",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "A imensa cachoeira troveja sem pausa durante todo o ano. Águas brancas e espumosas despencam do alto do cânion, brilhando intensamente sob o sol.",
+    "TextTitle": "Grandes Cataratas de Rize"
+  },
+  "131": {
+    "Id": 131,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading22",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Lendas locais passadas através do vale falam de uma figura sinistra espreitando nos riachos gotejantes. <br>Por esse motivo, viajantes experientes sempre contratam guias locais antes de partir. <br>Afinal, no Vale Montegnor, a maioria dos perigos passa despercebida até que seja tarde demais.",
+    "TextTitle": "Aberração da Ravina"
+  },
+  "132": {
+    "Id": 132,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading23",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Conforme o Rio Melisoth flui pelo cânion, carrega uma pesada carga mineral. A névoa dos penhascos e quedas d'água evapora sem pausa, deixando para trás Cristais Floridos que se acumulam gradualmente em depósitos de sal em camadas na rocha ao redor.",
+    "TextTitle": "Sal-gema"
+  },
+  "133": {
+    "Id": 133,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading24",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Um ditado popular entre os habitantes locais resume bem este lugar: <br>\"Onde a luz do lampião alcança, as regras dominam. Onde a luz falha, as regras significam muito menos.\"",
+    "TextTitle": "Grande Caverna de Rize"
+  },
+  "134": {
+    "Id": 134,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading25",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "O Chefe Goblin que faz seu ninho nas campinas no topo da Grande Caverna de Rize representa uma grande ameaça ao comércio nas rotas do vale. Dizem que sempre que uma caravana passa, o chefe e sua tribo se jogam do teto da caverna sobre os viajantes incautos.",
+    "TextTitle": "Cultista Coletor de Conchas"
+  },
+  "135": {
+    "Id": 135,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading26",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Sempre é o primeiro a quebrar as linhas inimigas, avançando na batalha com uma ferocidade quase frenética. A armadura pesada não oferece defesa contra sua lâmina serrilhada, enquanto os Muku logo atrás esmagam qualquer um que ainda esteja tentando se equilibrar.",
+    "TextTitle": "Vanguarda do Vale"
+  },
+  "136": {
+    "Id": 136,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading27",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "As respostas que o vale guarda podem muito bem estar gravadas nos desgastados Entalhes do Sábio: <br>\"O Divino partiu em silêncio, e as minas também se calaram. Florescimento e quietude chegam ao mesmíssimo fim.\"",
+    "TextTitle": "Os Degraus Celestes Esmaecidos e Túneis de Mina Abandonados"
+  },
+  "137": {
+    "Id": 137,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading28",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Histórias conflitantes sobre as origens do Pilar da Queda do Dragão ainda circulam pelo vale. Alguns acreditam que seja um antigo cemitério de dragões, outros veem como uma relíquia deixada por uma guerra milenar, e ainda há quem sustente que todo o pilar em si foi criado por uma civilização perdida.",
+    "TextTitle": "Pilar da Queda do Dragão e Destroços de Golem"
+  },
+  "138": {
+    "Id": 138,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading29",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Os aventureiros podem concluir missões de prática diárias e semanais para ganhar Proficiência e aumentar o Nível de Proficiência, desbloqueando recursos adicionais de instrumentos, partituras e recompensas de nível. <br>Ao tocar música online, os aventureiros podem usar o sistema de grupo para iniciar uma apresentação em conjunto no modo Jogo Livre. Mantenha a sincronia com o resto do grupo e toquem juntos em perfeita harmonia!",
+    "TextTitle": "Músico"
+  },
+  "139": {
+    "Id": 139,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading30",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Conclua as missões de avaliação designadas para se qualificar como Instrutor Estrela. Depois de se tornar um Instrutor Estrela e passar na avaliação da temporada, você pode avançar para Instrutor do Céu e resgatar suas recompensas.",
+    "TextTitle": "Visão Geral de Instrutor"
+  },
   "14": {
     "Id": 14,
     "LevelRange": [11, 20],
@@ -304,6 +412,42 @@
     "SceneId": 0,
     "TextGeneral": "Rastreie monstros Chefes pela interface da Caça aos Monstros!",
     "TextTitle": "Caça aos Monstros: Chefe"
+  },
+  "140": {
+    "Id": 140,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "A avaliação de status de Novato fica disponível no Dia 5 após o lançamento do servidor. Jogadores no nível 29 ou inferior receberão o ícone de Novato, que permanece válido por 28 dias. Os Novatos ganham Pontos de Amizade bônus ao participar de Masmorras designadas, sujeitos ao limite semanal de Pontos de Amizade para assistências.",
+    "TextTitle": "Operação Especial para Novatos"
+  },
+  "141": {
+    "Id": 141,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Os jogadores de volta desfrutam de bônus dinâmicos para todos os estados, além de 20% a mais de Atividade e Moeda de Honra! <br>Participe de Masmorras designadas para ganhar Pontos de Amizade extras e outros benefícios, e conclua as missões exclusivas de jogador de volta para obter recompensas valiosas! Não fique de fora!",
+    "TextTitle": "Operação Especial para Retornantes"
+  },
+  "142": {
+    "Id": 142,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "As melhores atuações de Aventureiros em vários modos de jogo e eventos são registradas aqui para todos verem. Dê o seu melhor em cada evento!",
+    "TextTitle": "Introdução à Lista de Honra"
+  },
+  "143": {
+    "Id": 143,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Quando a Partida de Ranque Mestre estiver ativa, conclua uma Masmorra Mestra no Mestre 18 ou superior, e envie sua pontuação para a Partida de Ranque Mestre após o voto unânime do grupo.",
+    "TextTitle": "Regras da Partida de Ranque Mestre"
   },
   "15": {
     "Id": 15,
@@ -500,7 +644,7 @@
     "LoadingBg": "",
     "LoadingType": 0,
     "SceneId": 0,
-    "TextGeneral": "Apenas o primeiro jogador ou equipe a causar dano a um monstro de Elite tem o direito de abrir o saque deixado pelo alvo. Para eles, a barra de PV do alvo aparece em vermelho, enquanto para os outros, aparece em cinza.",
+    "TextGeneral": "Apenas o primeiro jogador ou equipe a causar dano a um monstro Elite tem o direito de abrir o saque deixado pelo alvo. Para ele, a barra de PV do alvo aparece em vermelho, enquanto para os outros, aparece em cinza.",
     "TextTitle": "Caça aos Monstros: Elite"
   },
   "35": {
@@ -591,7 +735,7 @@
     "LoadingType": 3,
     "SceneId": 0,
     "TextGeneral": "Segure [{*key.getKeyDesc(101)*}] para entrar na interface do Chat.",
-    "TextTitle": "Teclas de Atalho"
+    "TextTitle": "Dicas de Atalhos"
   },
   "44": {
     "Id": 44,

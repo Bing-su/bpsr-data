@@ -325,7 +325,7 @@
     "Preview": 44,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_51",
-    "PreviewText": "Survivez aux dangers de l'inconnu et terminez l'exploration de la zone chronométrée pour gagner de l'équipement et des matériaux de grande valeur !"
+    "PreviewText": "◆ Survivez aux dangers de l'inconnu et terminez l'étude chronométrée pour obtenir de l'équipement et des matériaux de grande valeur !"
   },
   "810024": {
     "ConditionShow": [[27, 2, 0, 0, 0]],
@@ -333,7 +333,7 @@
     "Preview": 6,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_52",
-    "PreviewText": "Terminez les quêtes et les succès du Passe de combat pour améliorer votre Titre de saison et gagner des Emblèmes. D'autres modes amusants, de généreuses récompenses et une boutique à points vous attendent. Dévalisez-la !"
+    "PreviewText": "◆ Terminez le Passe de saison pour obtenir des succès.<br>Déverrouillez des emblèmes et des objets !"
   },
   "810025": {
     "ConditionShow": [],
@@ -376,7 +376,7 @@
     "PreviewText": "Le Dragon de la lumière du jour, maître du temps, vous attend dans le raid \"Entraves draconiques\". Cherchez refuge dans les failles d'ombre et de lumière avant de saisir le bon moment pour frapper. Combattez maintenant pour remporter de généreuses récompenses !"
   },
   "810039": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810039,
     "Preview": 48,
     "PreviewAward": 22000010,
@@ -384,7 +384,7 @@
     "PreviewText": "Aventurez-vous au cœur du domaine interdit des divinités, éveillez la dépouille de l'ancienne divinité endormie, et affrontez le jugement final de l'énergie d'annihilation ! Gagnez des gantelets et des boucles d'oreilles en butin, ainsi que des objets d'apparence exclusifs !"
   },
   "810040": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810040,
     "Preview": 49,
     "PreviewAward": 22000010,
@@ -392,7 +392,7 @@
     "PreviewText": "Infiltrez le Centre de mechs au fond de la mine de Sislesa et exposez les crimes de la Légion de la Pierre noire avec des preuves irréfutables ! Gagnez un casque et un collier en butin, ainsi que des objets d'apparence exclusifs !"
   },
   "810041": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810041,
     "Preview": 50,
     "PreviewAward": 22000010,
@@ -400,7 +400,7 @@
     "PreviewText": "Plongez dans le paysage onirique tissé par la Fleur illusoire, éveillez les ombres enfouies dans le passé, et résolvez les regrets persistants ! Gagnez une armure et une bague en butin, ainsi que des objets d'apparence exclusifs !"
   },
   "810042": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810042,
     "Preview": 51,
     "PreviewAward": 22000010,
@@ -408,7 +408,7 @@
     "PreviewText": "Les aventuriers qui s'aventurent dans le brouillard épais sont à la fois chasseur et proie ! Gagnez un bracelet gauche et un bracelet droit en butin, ainsi que des objets d'apparence exclusifs !"
   },
   "810043": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810043,
     "Preview": 52,
     "PreviewAward": 22000010,
@@ -416,7 +416,7 @@
     "PreviewText": "Les illusions se nourrissent au sein de l'Illusion. Plongez au cœur des Ruines imposantes et purifiez les restes corrompus ! Gagnez des bottes et un talisman en butin, ainsi que des objets d'apparence exclusifs !"
   },
   "810044": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810044,
     "Preview": 53,
     "PreviewAward": 22000010,
@@ -440,7 +440,7 @@
     "PreviewText": "Dans les niveaux inférieurs des ruines des divinités baphariennes, l'environnement caché et clos est devenu un terreau fertile pour les ombres. En conséquence, les transactions illicites des Hautes terres finissent inévitablement par s'y frayer un chemin."
   },
   "810047": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810047,
     "Preview": 54,
     "PreviewAward": 22000010,
@@ -448,11 +448,75 @@
     "PreviewText": "◆ Survivez aux dangers de l'inconnu et terminez l'étude chronométrée pour obtenir de l'équipement et des matériaux de grande valeur !"
   },
   "810048": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810048,
     "Preview": 5,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_66",
     "PreviewText": "Terminez les quêtes et les succès du Passe de saison pour faire progresser votre titre de saison, ainsi que gagner et développer des emblèmes. Des modes plus amusants, de généreuses récompenses et une boutique de saison vous attendent - videz-la !"
+  },
+  "810054": {
+    "ConditionShow": [],
+    "Id": 810054,
+    "Preview": 57,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_74",
+    "PreviewText": "L'Illusion humanoïde, Boyce, qui devait apporter son aide au combat, s'est transformée en Forme Mimétique \" Anti-Illusion \". Battez-la pour restaurer la paix ! Gagnez des gantelets et des boucles d'oreilles en butin, ainsi que des apparences exclusives !"
+  },
+  "810055": {
+    "ConditionShow": [],
+    "Id": 810055,
+    "Preview": 58,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_73",
+    "PreviewText": "Perturbé par le Milieu Mirage, l'Analyseur d'Unité X a détecté une turbulence spatiale dans la Vallée de la Griffe du dragon. Les aventuriers doivent repartir pour corriger ce dysfonctionnement. Gagnez des casques et des colliers en butin, ainsi que des apparences exclusives !"
+  },
+  "810056": {
+    "ConditionShow": [],
+    "Id": 810056,
+    "Preview": 59,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_72",
+    "PreviewText": "La Cour aride a jadis été choisie par quelqu'un pour y célébrer un rituel interdit. Aujourd'hui, elle est devenue une limite où l'illusion et la réalité s'entremêlent. Gagnez des armures et des bagues en butin, ainsi que des apparences exclusives !"
+  },
+  "810057": {
+    "ConditionShow": [],
+    "Id": 810057,
+    "Preview": 60,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_75",
+    "PreviewText": "Perturbé par le Milieu Mirage, l'Analyseur d'Unité X a détecté une turbulence spatiale dans les Confins illusoires du Voilelune. Les aventuriers doivent repartir pour corriger ce dysfonctionnement. Gagnez des bracelets gauches et des bracelets droits en butin, ainsi que des apparences exclusives !"
+  },
+  "810058": {
+    "ConditionShow": [],
+    "Id": 810058,
+    "Preview": 61,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_76",
+    "PreviewText": "Perturbé par le Milieu Mirage, l'Analyseur d'Unité X a détecté une turbulence spatiale dans la Forteresse de la Brume sombre. Les aventuriers doivent repartir pour corriger ce dysfonctionnement. Gagnez des bottes et des talismans en butin, ainsi que des apparences exclusives !"
+  },
+  "810059": {
+    "ConditionShow": [],
+    "Id": 810059,
+    "Preview": 62,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_77",
+    "PreviewText": "Au-delà de ce point, les aventuriers feront face au véritable défi qui les a guettés tout au long de leur périple. Gagnez des armes en butin, ainsi que des apparences exclusives !"
+  },
+  "810060": {
+    "ConditionShow": [],
+    "Id": 810060,
+    "Preview": 63,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_78",
+    "PreviewText": "◆ Survivez aux dangers de l'inconnu et terminez l'étude chronométrée pour obtenir de l'équipement et des matériaux de grande valeur !"
+  },
+  "810061": {
+    "ConditionShow": [],
+    "Id": 810061,
+    "Preview": 5,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_79",
+    "PreviewText": "◆ Terminez le Passe de saison pour obtenir des succès.<br>Déverrouillez des emblèmes et des objets !"
   }
 }

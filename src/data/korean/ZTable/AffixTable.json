@@ -80,7 +80,7 @@
     "TargetType": 3
   },
   "1003": {
-    "Description": " 감시자는 지속적으로 필드를 스캔하며, 발각되면 치명적인 공격을 받는다.",
+    "Description": "감시자가 지속적으로 필드를 스캔하며, 발각되면 치명적인 공격을 받는다.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -112,7 +112,7 @@
     "TargetType": 3
   },
   "101": {
-    "Description": "허무의 침식에 감염된 적 처치 시, 주변 플레이어에게 [암식]을 부여한다. [암식] 1스택당 1초마다 최대 체력의 1%에 해당하는 대미지를 준다.",
+    "Description": "허식에 감염된 적 처치 시, 주변 플레이어에게 [암식]을 부여한다. [암식] 1스택당 1초마다 최대 체력의 1%에 해당하는 대미지를 준다.",
     "Effect": [[1, 4, 700036, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -128,7 +128,7 @@
     "TargetType": 3
   },
   "102": {
-    "Description": "일정 주기마다 침식의 잔상 6마리를 생성하여 플레이어에게 높은 대미지를 준다. 캐스팅을 방해하거나 제어하면 즉시 소멸하며 플레이어에게 치명타 능력치 보너스를 부여한다.",
+    "Description": "일정 주기마다 허식의 잔상 6마리를 생성하여 플레이어에게 높은 대미지를 준다. 캐스팅을 방해하거나 제어하면 즉시 소멸하며 플레이어에게 치명타 능력치 보너스를 부여한다.",
     "Effect": [[3, 1, 873420, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -138,13 +138,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [104, 106, 108],
-    "Name": "침식의 잔상",
+    "Name": "허식의 잔상",
     "PauseLogic": [1, 2],
     "Remark": "S1库A",
     "TargetType": 1
   },
   "103": {
-    "Description": "침식의 잔상이 10마리까지 생성된다.",
+    "Description": "허식의 잔상이 10마리까지 생성된다.",
     "Effect": [[3, 1, 873421, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -154,13 +154,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "강화 침식의 잔상",
+    "Name": "강화 허식의 잔상",
     "PauseLogic": [1, 2],
     "Remark": "S1库C",
     "TargetType": 1
   },
   "104": {
-    "Description": "일정 주기마다 침식의 운석이 낙하하여 범위 내에 높은 분담 대미지를 주고, 플레이어에게 속공 능력치 보너스를 부여한다. 만약 어떠한 플레이어도 대미지를 분담하지 않을 경우, 운석이 지면을 파괴하며 팀 전체에 막대한 대미지를 가한다.",
+    "Description": "일정 주기마다 허식의 운석이 낙하하여 범위 내에 높은 분담 대미지를 주고, 플레이어에게 속공 능력치 보너스를 부여한다. 만약 어떠한 플레이어도 대미지를 분담하지 않을 경우, 운석이 지면을 파괴하며 팀 전체에 막대한 대미지를 가한다.",
     "Effect": [[3, 1, 873422, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -170,13 +170,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [102, 106, 108],
-    "Name": "침식의 운석",
+    "Name": "허식의 운석",
     "PauseLogic": [1, 2],
     "Remark": "S1库A",
     "TargetType": 1
   },
   "105": {
-    "Description": "침식의 운석이 주는 대미지가 크게 증가한다.",
+    "Description": "허식의 운석이 주는 대미지가 크게 증가한다.",
     "Effect": [[3, 1, 873423, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -186,7 +186,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "강화 침식의 운석",
+    "Name": "강화 허식의 운석",
     "PauseLogic": [1, 2],
     "Remark": "S1库C",
     "TargetType": 1
@@ -272,7 +272,7 @@
     "TargetType": 1
   },
   "110": {
-    "Description": "일정 주기마다 침식의 잔상 6마리를 생성하여 플레이어에게 높은 대미지를 준다. 캐스팅을 방해하거나 제어하면 즉시 소멸하며 플레이어에게 치명타 능력치 보너스를 부여한다.",
+    "Description": "일정 주기마다 허식의 잔상 6마리를 생성하여 플레이어에게 높은 대미지를 준다. 캐스팅을 방해하거나 제어하면 즉시 소멸하며 플레이어에게 치명타 능력치 보너스를 부여한다.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -282,13 +282,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "침식의 잔상",
+    "Name": "허식의 잔상",
     "PauseLogic": [],
     "Remark": "显示用库D",
     "TargetType": 1
   },
   "111": {
-    "Description": "일정 주기마다 침식의 운석이 낙하하여 범위 내에 높은 분담 대미지를 주고, 플레이어에게 속공 능력치 보너스를 부여한다. 만약 어떠한 플레이어도 대미지를 분담하지 않을 경우, 운석이 지면을 파괴하며 팀 전체에 막대한 대미지를 가한다.",
+    "Description": "일정 주기마다 허식의 운석이 낙하하여 범위 내에 높은 분담 대미지를 주고, 플레이어에게 속공 능력치 보너스를 부여한다. 만약 어떠한 플레이어도 대미지를 분담하지 않을 경우, 운석이 지면을 파괴하며 팀 전체에 막대한 대미지를 가한다.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -298,7 +298,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "침식의 운석",
+    "Name": "허식의 운석",
     "PauseLogic": [],
     "Remark": "显示用库D",
     "TargetType": 1
@@ -416,7 +416,7 @@
     "TargetType": 3
   },
   "119": {
-    "Description": " 파티 내에 수호, 지원, 공격 포지션 클래스를 동시에 보유하고 있다면, 파티 전체가 주는 대미지가 25% 증가합니다.",
+    "Description": "파티 내에 수호, 지원, 공격 포지션 클래스를 동시에 보유하고 있다면, 파티 전체가 주는 대미지가 25% 증가합니다.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 1,
@@ -448,7 +448,7 @@
     "TargetType": 1
   },
   "120": {
-    "Description": "강력한 원초 침식의 힘에 영향을 받아, 던전 내 모든 적군의 능력치가 대폭 상승합니다.",
+    "Description": "강력한 원초 허식의 힘에 영향을 받아, 던전 내 모든 적군의 능력치가 대폭 상승합니다.",
     "Effect": [[1, 4, 700129, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -458,9 +458,9 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "허무의 침식 선봉",
+    "Name": "허식의 선봉",
     "PauseLogic": [],
-    "Remark": "",
+    "Remark": "S1大师5活动",
     "TargetType": 3
   },
   "121": {
@@ -476,7 +476,7 @@
     "Mutex": [],
     "Name": "환상꿈의 근원",
     "PauseLogic": [],
-    "Remark": "",
+    "Remark": "S2大师5活动",
     "TargetType": 3
   },
   "122": {
@@ -492,7 +492,23 @@
     "Mutex": [],
     "Name": "환율의 연주자",
     "PauseLogic": [],
-    "Remark": "",
+    "Remark": "S3大师5活动",
+    "TargetType": 3
+  },
+  "123": {
+    "Description": "서약 강화의 영향을 받아 던전 내 모든 적의 능력치가 대폭 상승합니다.",
+    "Effect": [[1, 4, 702217, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "Id": 123,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "서약 각인",
+    "PauseLogic": [],
+    "Remark": "S4大师5活动",
     "TargetType": 3
   },
   "13": {
@@ -1126,7 +1142,7 @@
     "TargetType": 3
   },
   "2061": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 장갑, 귀걸이</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 장갑, 귀걸이</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1142,7 +1158,7 @@
     "TargetType": 3
   },
   "2062": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 장갑, 귀걸이</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 장갑, 귀걸이</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1158,7 +1174,7 @@
     "TargetType": 3
   },
   "2063": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 장갑, 귀걸이</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 장갑, 귀걸이</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1174,7 +1190,7 @@
     "TargetType": 3
   },
   "2064": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 장갑, 귀걸이</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 장갑, 귀걸이</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1190,7 +1206,7 @@
     "TargetType": 3
   },
   "2065": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 투구, 목걸이</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 투구, 목걸이</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1206,7 +1222,7 @@
     "TargetType": 3
   },
   "2066": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 투구, 목걸이</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 투구, 목걸이</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1222,7 +1238,7 @@
     "TargetType": 3
   },
   "2067": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 투구, 목걸이</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 투구, 목걸이</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1238,7 +1254,7 @@
     "TargetType": 3
   },
   "2068": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 투구, 목걸이</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 투구, 목걸이</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1254,7 +1270,7 @@
     "TargetType": 3
   },
   "2069": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 의상, 반지</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 의상, 반지</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1270,7 +1286,7 @@
     "TargetType": 3
   },
   "2070": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 의상, 반지</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 의상, 반지</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1286,7 +1302,7 @@
     "TargetType": 3
   },
   "2071": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 의상, 반지</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 의상, 반지</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1302,7 +1318,7 @@
     "TargetType": 3
   },
   "2072": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 의상, 반지</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 의상, 반지</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1318,7 +1334,7 @@
     "TargetType": 3
   },
   "2073": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 팔찌(왼쪽), 팔찌(오른쪽)</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 팔찌(왼쪽), 팔찌(오른쪽)</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1334,7 +1350,7 @@
     "TargetType": 3
   },
   "2074": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 팔찌(왼쪽), 팔찌(오른쪽)</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 팔찌(왼쪽), 팔찌(오른쪽)</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1350,7 +1366,7 @@
     "TargetType": 3
   },
   "2075": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 팔찌(왼쪽), 팔찌(오른쪽)</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 팔찌(왼쪽), 팔찌(오른쪽)</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1366,7 +1382,7 @@
     "TargetType": 3
   },
   "2076": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 팔찌(왼쪽), 팔찌(오른쪽)</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 팔찌(왼쪽), 팔찌(오른쪽)</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1382,7 +1398,7 @@
     "TargetType": 3
   },
   "2077": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 신발, 탈리스만</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 신발, 탈리스만</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1398,7 +1414,7 @@
     "TargetType": 3
   },
   "2078": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 신발, 탈리스만</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 신발, 탈리스만</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1414,7 +1430,7 @@
     "TargetType": 3
   },
   "2079": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 신발, 탈리스만</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 신발, 탈리스만</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1430,7 +1446,7 @@
     "TargetType": 3
   },
   "2080": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 신발, 탈리스만</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 신발, 탈리스만</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1446,7 +1462,7 @@
     "TargetType": 3
   },
   "2081": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 무기</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 무기</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1462,7 +1478,7 @@
     "TargetType": 3
   },
   "2082": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 무기</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.120 레전더리 장비 무기</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1478,7 +1494,7 @@
     "TargetType": 3
   },
   "2083": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 무기</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.140 레전더리 장비 무기</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1494,7 +1510,7 @@
     "TargetType": 3
   },
   "2084": {
-    "Description": "장난꾸러기 나뽀가 몰래 차원에 침임해 큰 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 무기</style>",
+    "Description": "장난꾸러기 나뽀가 차원에 몰래 들어와 한바탕 소동을 벌이려 합니다! 나뽀를 공격하고 전리품을 획득한 파티는 클리어 시 아래의 아이템을 추가로 획득할 수 있습니다: <style=\"ItemQuality_4\">Lv.160 레전더리 장비 무기</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1596,7 +1612,7 @@
     "TargetType": 3
   },
   "2105": {
-    "Description": "몬스터가 허무의 침식 잠식됩니다(체력 <style=\"accent-gn\">20% 증가</style>, 공격 <style=\"accent-gn\">20% 증가</style>).<br>몬스터의 [침몽의 계약문] 드롭 확률이 2배로 증가합니다.",
+    "Description": "몬스터가 허식에 침식됩니다(체력 <style=\"accent-gn\">20% 증가</style>, 공격 <style=\"accent-gn\">20% 증가</style>).<br>몬스터의 [침몽의 계약문] 드롭 확률이 2배로 증가합니다.",
     "Effect": [[1, 4, 997267, 0]],
     "EffectTime": [[5.0, 0.0]],
     "EffectType": 3,
@@ -1782,7 +1798,7 @@
     "TargetType": 3
   },
   "2115": {
-    "Description": "몬스터가 허무의 침식에 잠식됩니다(체력 <style=\"accent-gn\">20% 증가</style>, 공격 <style=\"accent-gn\">20% 증가</style>).<br>몬스터의 [파망 술식] 드롭 확률이 2배로 증가합니다.",
+    "Description": "몬스터가 허식에 침식됩니다(체력 <style=\"accent-gn\">20% 증가</style>, 공격 <style=\"accent-gn\">20% 증가</style>).<br>몬스터의 [파망 술식] 드롭 확률이 2배로 증가합니다.",
     "Effect": [[1, 4, 997267, 0]],
     "EffectTime": [[5.0, 0.0]],
     "EffectType": 3,
@@ -2313,6 +2329,390 @@
     "Remark": "",
     "TargetType": 2
   },
+  "2301": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 장갑, 귀걸이</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2301,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "镜中的审判",
+    "TargetType": 3
+  },
+  "2302": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 장갑, 귀걸이</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2302,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "镜中的审判",
+    "TargetType": 3
+  },
+  "2303": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.340 골드 등급 장갑, 귀걸이</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2303,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "镜中的审判",
+    "TargetType": 3
+  },
+  "2304": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.360 골드 등급 장갑, 귀걸이</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2304,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "镜中的审判",
+    "TargetType": 3
+  },
+  "2305": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 투구, 목걸이</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2305,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·巨龙爪痕",
+    "TargetType": 3
+  },
+  "2306": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 투구, 목걸이</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2306,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·巨龙爪痕",
+    "TargetType": 3
+  },
+  "2307": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.340 골드 등급 투구, 목걸이</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2307,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·巨龙爪痕",
+    "TargetType": 3
+  },
+  "2308": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.360 골드 등급 투구, 목걸이</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2308,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·巨龙爪痕",
+    "TargetType": 3
+  },
+  "2309": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 의상, 반지</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2309,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "荒芜之庭",
+    "TargetType": 3
+  },
+  "2310": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 의상, 반지</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2310,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "荒芜之庭",
+    "TargetType": 3
+  },
+  "2311": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.340 골드 등급 의상, 반지</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2311,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "荒芜之庭",
+    "TargetType": 3
+  },
+  "2312": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.360 골드 등급 의상, 반지</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2312,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "荒芜之庭",
+    "TargetType": 3
+  },
+  "2313": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 팔찌(왼쪽), 팔찌(오른쪽)</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2313,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·流月之野",
+    "TargetType": 3
+  },
+  "2314": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 팔찌(왼쪽), 팔찌(오른쪽)</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2314,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·流月之野",
+    "TargetType": 3
+  },
+  "2315": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.340 골드 등급 팔찌(왼쪽), 팔찌(오른쪽)</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2315,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·流月之野",
+    "TargetType": 3
+  },
+  "2316": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.360 골드 등급 팔찌(왼쪽), 팔찌(오른쪽)</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2316,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·流月之野",
+    "TargetType": 3
+  },
+  "2317": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 신발, 탈리스만</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2317,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·黯影堡垒",
+    "TargetType": 3
+  },
+  "2318": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 신발, 탈리스만</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2318,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·黯影堡垒",
+    "TargetType": 3
+  },
+  "2319": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.340 골드 등급 신발, 탈리스만</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2319,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·黯影堡垒",
+    "TargetType": 3
+  },
+  "2320": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.360 골드 등급 신발, 탈리스만</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2320,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "弥妄·黯影堡垒",
+    "TargetType": 3
+  },
+  "2321": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 무기</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2321,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "远天的神槛",
+    "TargetType": 3
+  },
+  "2322": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.320 골드 등급 무기</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2322,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "远天的神槛",
+    "TargetType": 3
+  },
+  "2323": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.340 골드 등급 무기</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2323,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "远天的神槛",
+    "TargetType": 3
+  },
+  "2324": {
+    "Description": "기원의 집념이 형체를 이루어, 빛을 되짚는 영체가 행운의 주인공을 위한 선물을 품고 나타납니다! 해당 영체를 공격하고 전리품을 획득한 파티는 던전 클리어 시 다음 보상을 추가로 획득합니다: <style=\"ItemQuality_4\">Lv.360 골드 등급 무기</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2324,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "빛을 되짚는 기원의 영체",
+    "PauseLogic": [],
+    "Remark": "远天的神槛",
+    "TargetType": 3
+  },
   "24": {
     "Description": "몬스터가 20초마다 3회 완전 대미지 면역이 가능한 실드를 획득한다.",
     "Effect": [[1, 4, 863101, 0]],
@@ -2586,7 +2986,7 @@
     "TargetType": 1
   },
   "316": {
-    "Description": "일정 시간마다 주변 넓은 범위에 침식의 잔상 여러 마리를 생성하여 플레이어에게 높은 대미지를 주고 디버프 효과를 부여합니다. 캐스팅을 방해하거나 제어하면 즉시 소멸합니다.",
+    "Description": "일정 시간마다 주변 넓은 범위에 허식의 잔상 여러 마리를 생성하여 플레이어에게 높은 대미지를 주고 디버프 효과를 부여합니다. 캐스팅을 방해하거나 제어하면 즉시 소멸합니다.",
     "Effect": [[3, 1, 873608, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -2596,7 +2996,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "침식의 잔상",
+    "Name": "허식의 잔상",
     "PauseLogic": [1, 2],
     "Remark": "冲榜验证词缀",
     "TargetType": 1
@@ -2666,7 +3066,7 @@
     "TargetType": 2
   },
   "320": {
-    "Description": "일정 시간마다 침식의 운석이 낙하하여 범위 내에 높은 분담 대미지를 주고, 최대 체력 감소의 디버프 효과를 부여합니다. 만약 어떠한 플레이어도 대미지를 분담하지 않을 경우, 운석이 지면을 파괴하며 팀 전체에 막대한 대미지를 주고 디버프 효과를 부여합니다.",
+    "Description": "일정 시간마다 허식의 운석이 낙하하여 범위 내에 높은 분담 대미지를 주고, 최대 체력 감소의 디버프 효과를 부여합니다. 만약 어떠한 플레이어도 대미지를 분담하지 않을 경우, 운석이 지면을 파괴하며 팀 전체에 막대한 대미지를 주고 디버프 효과를 부여합니다.",
     "Effect": [[3, 1, 873617, 0, 1, 1]],
     "EffectTime": [[2.0, 45000.0]],
     "EffectType": 2,
@@ -2676,7 +3076,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "침식의 운석",
+    "Name": "허식의 운석",
     "PauseLogic": [1, 2],
     "Remark": "冲榜验证词缀N20",
     "TargetType": 1
@@ -2809,6 +3209,22 @@
     "Remark": "普攻增伤N20",
     "TargetType": 3
   },
+  "329": {
+    "Description": "보스가 아닌 몬스터는 사망 직전에 [재구성]을 획득합니다. 4초 동안 대미지에 면역이 되고 최대 체력의 40%만큼 회복하며, 효과 종료 시 충격파를 방출해 남은 체력에 비례하는 대미지를 줍니다.",
+    "Effect": [[1, 4, 866304, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_fuhuaizaisheng",
+    "Id": 329,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "용혈",
+    "PauseLogic": [],
+    "Remark": "冲榜验证词缀N20",
+    "TargetType": 2
+  },
   "33": {
     "Description": "몬스터 탄생 시 물 원소 실드를 1스택 획득하며, 번개 원소는 150%의 대미지를 받지만, 다른 능력치는 50%의 대미지만 받는다.",
     "Effect": [[1, 4, 870901, 0]],
@@ -2824,6 +3240,38 @@
     "PauseLogic": [],
     "Remark": "英雄本词缀",
     "TargetType": 2
+  },
+  "330": {
+    "Description": "일정 시간마다 무작위 플레이어에게 폭탄 1개를 넘깁니다. 카운트다운 종료 후 폭발해 대미지를 주고, 전방에서 가장 가까운 다른 플레이어에게 폭탄을 던집니다. 폭탄은 총 5스택이며, 폭발할 때마다 1스택 감소하고 이후 대미지가 두 배로 증가합니다. 폭탄을 전달할 수 없거나 해당 차례에 이미 폭탄을 보유했던 플레이어에게 다시 전달될 경우, 남은 스택이 모두 폭발해 전체 범위에 대미지를 줍니다.",
+    "Effect": [[3, 1, 866306, 0, 1, 1]],
+    "EffectTime": [[2.0, 60000.0]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_dingshizhadan",
+    "Id": 330,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "꽃 돌리기",
+    "PauseLogic": [1, 2],
+    "Remark": "冲榜验证词缀N20",
+    "TargetType": 1
+  },
+  "331": {
+    "Description": "플레이어가 영구적으로 [악성 전달 물질]을 획득하여 지속해서 대미지를 받고 효과가 중첩됩니다. 1스택 상태일 때는 큰 대미지를 받으며, 2스택부터는 기본 대미지가 소량으로 변경됩니다. 이후 스택당 지속 대미지가 증가하고 주는 대미지와 치유량이 감소하며, 스택 수가 높아질수록 증가 폭도 커집니다. 해제 효과로 스택 수를 줄일 수 있지만 완전히 제거할 수는 없습니다. 보스전 중에도 악성 전달 물질은 계속 적용됩니다.",
+    "Effect": [[1, 1, 866309, 0]],
+    "EffectTime": [[2.0, 0.0]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_linghunhongxi",
+    "Id": 331,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "나쁜 꿈",
+    "PauseLogic": [],
+    "Remark": "冲榜验证词缀N20",
+    "TargetType": 1
   },
   "34": {
     "Description": "몬스터 탄생 시 물 원소 실드를 1스택 획득하며, 바람 원소는 150%의 대미지를 받지만, 다른 능력치는 50%의 대미지만 받는다.",
@@ -2969,6 +3417,102 @@
     "Remark": "",
     "TargetType": 3
   },
+  "401": {
+    "Description": "던전을 정식으로 시작하기 전, 플레이어는 5 가지 서약의 제단 중 하나를 자신의 서약으로 선택해 서로 다른 능력치 버프를 얻을 수 있습니다. 여러 플레이어가 같은 서약을 선택할 수도 있으나, 파티가 선택한 서약의 종류가 다양할수록 서약 에너지 획득 효율이 높아집니다.",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_chongsu",
+    "Id": 401,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "축복",
+    "PauseLogic": [],
+    "Remark": "S4核心词缀",
+    "TargetType": 3
+  },
+  "402": {
+    "Description": "던전이 시작된 후 전투 중 몬스터를 처치하면 서약 에너지를 획득할 수 있습니다. 서약 에너지를 소모해 기원 시련을 시작하면 버프 효과를 획득하고 서약 레벨을 높일 수 있습니다. 단, 시련이 시작되면 주변 몬스터도 일정 수준 강화됩니다. 토벌 목표를 달성한 후에는 더 이상 시련을 시작할 수 없습니다.<br><style=\"tipsYellow\">강화된 적을 처치하면 더 많은 서약 에너지를 획득할 수 있습니다!<style=\"tipsYellow\">",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_shuangrenjian",
+    "Id": 402,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "서약 에너지",
+    "PauseLogic": [],
+    "Remark": "S4核心词缀",
+    "TargetType": 3
+  },
+  "403": {
+    "Description": "기원 시련을 시작하면 주변의 모든 몬스터가 강화되어 공격력과 공격 속도가 증가합니다. 주변 몬스터의 수가 많을수록 강화 효과가 추가로 증가하며, 최대 100%까지 증가합니다.",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "Id": 403,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "시련・강인",
+    "PauseLogic": [],
+    "Remark": "",
+    "TargetType": 3
+  },
+  "404": {
+    "Description": "기원 시련을 시작하면 주변의 모든 몬스터가 화염의 힘을 얻어, 처치 시 폭발하여 주변 플레이어에게 대미지를 입힙니다.",
+    "Effect": [[1, 4, 702115, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_jili",
+    "Id": 404,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "시련・불타는 마음",
+    "PauseLogic": [],
+    "Remark": "",
+    "TargetType": 3
+  },
+  "405": {
+    "Description": "기원 시련을 시작하면 주변의 모든 몬스터가 서리 실드를 얻으며, 실드는 시간이 지나면서 서서히 사라집니다.",
+    "Effect": [[1, 4, 702116, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_jili",
+    "Id": 405,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "시련・서리",
+    "PauseLogic": [],
+    "Remark": "",
+    "TargetType": 3
+  },
+  "406": {
+    "Description": "기원 시련을 시작하면 주변의 모든 몬스터가 그림자 속박 강화를 얻어, 주기적으로 한 명의 플레이어와 선으로 연결하여 대미지를 입힙니다. 멀어지면 연결선을 끊을 수 있습니다.",
+    "Effect": [[1, 4, 702117, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_jili",
+    "Id": 406,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "시련・그림자 속박",
+    "PauseLogic": [],
+    "Remark": "",
+    "TargetType": 3
+  },
   "41": {
     "Description": "몬스터가 대미지를 주면 초당 최대 체력의 1%를 감소시키는 디버프 효과를 부여하며, 최대 10스택 중첩된다. 치료를 받은 후 건강 상태일 경우 해당 효과가 제거된다.",
     "Effect": [[1, 4, 865701, 0]],
@@ -3018,7 +3562,7 @@
     "TargetType": 1
   },
   "44": {
-    "Description": "티나의 체력이 70%와 35%로 감소할 때, 각각 침식의 영혼을 소환한다. 침식의 영혼은 분노의 수치가 가장 높은 플레이어를 지정하여 지속 대미지를 준다. 침식의 영혼은 슈퍼 아머 상태가 격파되지 않으면 80% 대미지 경감 효과를 획득하며, 슈퍼 아머 상태가 격파되면 500% 대미지를 받는다. 침식의 영혼이 사라지면 모든 플레이어의 대미지가 10초 동안 100% 증가한다.",
+    "Description": "티나의 체력이 70%와 35%로 감소할 때, 각각 허식의 영혼을 소환한다. 허식의 영혼은 분노의 수치가 가장 높은 플레이어를 지정하여 지속 대미지를 준다. 허식의 영혼은 슈퍼 아머 상태가 격파되지 않으면 80% 대미지 경감 효과를 획득하며, 슈퍼 아머 상태가 격파되면 500% 대미지를 받는다. 허식의 영혼이 사라지면 모든 플레이어의 대미지가 10초 동안 100% 증가한다.",
     "Effect": [[1, 4, 872101, 0]],
     "EffectTime": [[]],
     "EffectType": 3,
@@ -3028,7 +3572,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "침식의 영혼",
+    "Name": "허식의 영혼",
     "PauseLogic": [],
     "Remark": "英雄本词缀",
     "TargetType": 2
@@ -3485,7 +4029,7 @@
     "TargetType": 1
   },
   "65": {
-    "Description": "보스가 아닌 몬스터가 체력이 30%에 도달하면 격노한다. 격노할 경우 처치될 때까지 대미지가 100% 증가한다.",
+    "Description": "보스가 아닌 몬스터는 체력이 25%에 도달하면 격노 상태에 진입해 처치될 때까지 대미지가 25% 증가합니다.",
     "Effect": [[1, 4, 866426, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -3518,8 +4062,8 @@
   },
   "67": {
     "Description": "전투 진입 시, 지면에 원형 빙결 구역이 랜덤으로 생성된다. 해당 구역 내 캐릭터는 이동속도가 25% 감소하며, 1초마다 최대 체력의 5% 대미지를 받는다. 구역은 5초 후 폭발하여 구역 내 플레이어에게 최대 체력의 25% 대미지를 주고 5초 동안 빙결시킨다.",
-    "Effect": [[1, 1, 866428, 0]],
-    "EffectTime": [[2.0, 0.0]],
+    "Effect": [[1, 3, 866428, 0]],
+    "EffectTime": [[]],
     "EffectType": 2,
     "GsChange": 0,
     "Icon": "ui/atlas/affix/com_affix_bingfenglingyu",
@@ -3757,7 +4301,7 @@
     "TargetType": 1
   },
   "80": {
-    "Description": "허무의 침식에 감염된 적은 더 높은 점수 보너스를 제공한다. 운명 모드에서는 필드에 허무의 침식 그릇이 나타나며, 상호작용 시 주변 적들이 침식의 씨앗에 감염된다.",
+    "Description": "허식에 감염된 적은 더 높은 점수 보너스를 제공한다. 운명 모드에서는 필드에 허식 그릇이 나타나며, 상호작용 시 주변 적들이 허식의 씨앗에 감염된다.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 1,
@@ -3767,13 +4311,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "침식의 코어",
+    "Name": "허식의 코어",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 3
   },
   "81": {
-    "Description": "허무의 침식에 감염된 몬스터는 제어 효과에 면역이며, 엘리트의 인내 수치는 두 배가 된다.",
+    "Description": "허식에 감염된 몬스터는 제어 효과에 면역이며, 엘리트의 인내 수치는 두 배가 된다.",
     "Effect": [[1, 4, 873401, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -3783,13 +4327,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [82, 101],
-    "Name": "침식의 경화",
+    "Name": "허식의 경화",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 3
   },
   "82": {
-    "Description": "허무의 침식에 감염된 적은 주기적으로 [허무의 불기둥]을 분출한다.",
+    "Description": "허식에 감염된 적은 주기적으로 [허무의 불기둥]을 분출한다.",
     "Effect": [[1, 4, 873404, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -3799,7 +4343,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [81, 101],
-    "Name": "침식의 분출",
+    "Name": "허식의 분출",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 3
@@ -3821,7 +4365,7 @@
     "TargetType": 1
   },
   "84": {
-    "Description": "전투 중 적 주변에 일정 확률로 지정 불가 침식의 결정체가 생성된다. 결정은 주변 적을 지속적으로 치료하며, 플레이어가 2초 이상 접근 시 파괴된다.",
+    "Description": "전투 중 적 주변에 일정 확률로 지정 불가 허식의 결정체가 생성된다. 결정은 주변 적을 지속적으로 치료하며, 플레이어가 2초 이상 접근 시 파괴된다.",
     "Effect": [[1, 4, 873303, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -3831,7 +4375,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [83, 85],
-    "Name": "침식의 결정",
+    "Name": "허식의 결정",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1
@@ -3847,7 +4391,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [83, 84],
-    "Name": "침식의 잔상",
+    "Name": "허식의 잔상",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 1
@@ -3887,7 +4431,7 @@
   "88": {
     "Description": "일정 주기마다 랜덤한 4명의 플레이어가 3초 동안 열염 상태에 빠지며, 스스로 이동하면 체력이 소모된다.",
     "Effect": [[3, 1, 873001, 0, 1, 4]],
-    "EffectTime": [[2.0, 90000.0]],
+    "EffectTime": [[2.0, 30000.0]],
     "EffectType": 2,
     "GsChange": 0,
     "Icon": "ui/atlas/affix/com_affix_anmie",
@@ -3903,7 +4447,7 @@
   "89": {
     "Description": "일정 주기마다 랜덤한 3명의 플레이어 발밑에 진동 구역이 생성된다. 해당 구역 폭발 시, 범위 내 다른 플레이어에게 대미지를 주고 스턴을 유발한다.",
     "Effect": [[3, 1, 873104, 0, 1, 3]],
-    "EffectTime": [[2.0, 90000.0]],
+    "EffectTime": [[2.0, 30000.0]],
     "EffectType": 2,
     "GsChange": 0,
     "Icon": "ui/atlas/affix/com_affix_zhadanren",
@@ -3981,7 +4525,7 @@
     "TargetType": 3
   },
   "93": {
-    "Description": "던전 내 일부 적이 [침식의 씨앗]에 감염된다. [침식의 씨앗]에 감염된 적군은 다양한 강화 버프를 획득한다.<br><style=\"tipsYellow\">강화된 적을 처치하면 더 많은 포인트를 획득한다!<br><style=\"tipsYellow\">",
+    "Description": "던전 내 일부 적이 [허식의 씨앗]에 감염된다. [허식의 씨앗]에 감염된 적군은 다양한 강화 버프를 획득한다.<br><style=\"tipsYellow\">강화된 적을 처치하면 더 많은 포인트를 획득한다!<br><style=\"tipsYellow\">",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 3,
@@ -3991,7 +4535,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "침식의 씨앗",
+    "Name": "허식의 씨앗",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 3

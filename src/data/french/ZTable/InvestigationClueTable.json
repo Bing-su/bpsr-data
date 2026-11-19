@@ -369,7 +369,7 @@
   },
   "100312": {
     "Answer": ["", "Schéma de démantèlement"],
-    "Clue": "<tagId=8>*Des plans pour le démantèlement de l'Héritage divin du noyau de foudre* <tagId=5>*ont été trouvés à l'Établi n° 2 de Feyn*. <tagId=6>*De nombreux artisans sont passionnés par l'étude de cet Héritage divin au puissant pouvoir de foudre*, <tagId=10>*mais seul Tauros sait comment l'utiliser correctement*.",
+    "Clue": "<tagId=8>*Des plans pour le démantèlement de l'Héritage divin du noyau de foudre* <tagId=5>*ont été trouvés à l'Établi n° 2 de Feyn*. <tagId=6>*De nombreux artisans sont passionnés par l'étude de cet Héritage divin au puissant pouvoir de foudre*, <tagId=10>*mais seul Dorothy sait comment l'utiliser correctement*.",
     "Id": 100312,
     "Sort": 2,
     "TapBubble": ["", "Quelles informations peuvent bien se cacher là-dedans... ?"],
@@ -519,6 +519,65 @@
     "UnlockedBubble": "Nouvel indice obtenu !",
     "UnlockedBubbleAction": 9019
   },
+  "1400111": {
+    "Answer": [
+      "",
+      "A participé à l'Épreuve du démon de la foudre lors du carnaval",
+      "",
+      "Était une aventurière"
+    ],
+    "Clue": "\"Ne t'en fais pas, j'étais <tagId=1>*aventurière* moi aussi. Prenez votre temps. On se retrouve à la Rivière déchue.\" \"Pareil pendant le carnaval. <tagId=2>*Il me manquait trois fois rien à l'Épreuve du démon de la foudre – j'ai failli rattraper ton score.* Avec le recul, je l'ai encore un peu en travers de la gorge.\"",
+    "Id": 1400111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Carrie a mentionné plus d'une fois qu'elle était aventurière par le passé. Le Bureau des pionniers devrait en avoir une trace.",
+      "",
+      "Quelque chose clochait déjà à ce moment-là... Si elle avait vraiment participé à la compétition, ses résultats devraient être enregistrés."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Se remémorer ce qu'a dit Carrie",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400112": {
+    "Answer": [
+      "",
+      "Membre du conseil d'Asterleeds",
+      "",
+      "Ses parents vivent près de la statue du héros à Minsterhorn"
+    ],
+    "Clue": "\"Héhé, ça t'étonne ? <tagId=3>*La tenue de conseillère* est convenable, mais pour aller sur le terrain, il n'y a rien de plus confortable que ça.\" \"Minsterhorn. <tagId=4>*Mes parents ont toujours vécu là-bas, près de la statue du héros.*\"",
+    "Id": 1400112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Lamond me l'a également présentée comme conseillère. Le Conseil devrait être le mieux placé pour connaître son identité.",
+      "",
+      "Elle a donné des détails très précis sur l'endroit où vit sa famille. Si ses parents habitent vraiment là-bas, nous pourrons peut-être confirmer d'autres éléments."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Se remémorer ce qu'a dit Carrie",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400113": {
+    "Answer": ["", "Étrangement obsédée par le fait d'être \"gardée en mémoire\" et \"oubliée\""],
+    "Clue": "\"Parfois, je me dis que l'existence humaine est une chose bien étrange. Même quand une personne n'est pas là, tant que quelqu'un se souvient d'elle, on la sent proche. <tagId=5>*Mais si tous les souvenirs d'une personne disparaissaient... serait-ce comme si elle n'avait jamais existé ?*\"",
+    "Id": 1400113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "Sur le moment, j'ai juste pensé qu'elle disait quelque chose de bizarre. Avec le recul, Carrie semblait obsédée par le fait d'être \"gardée en mémoire\" et \"oubliée\"."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Se remémorer ce qu'a dit Carrie",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "Nouvel indice obtenu !",
+    "UnlockedBubbleAction": 9019
+  },
   "200111": {
     "Answer": [
       "",
@@ -531,7 +590,7 @@
     "Sort": 1,
     "TapBubble": ["", "L'ancien du village a rendu son jugement..."],
     "TapBubbleAction": [9019],
-    "Tips": "Obtenir des indices grâce aux renseignements",
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "Nouvel indice obtenu !",
     "UnlockedBubbleAction": 9019
@@ -548,7 +607,7 @@
     "Sort": 2,
     "TapBubble": [],
     "TapBubbleAction": [9019],
-    "Tips": "Obtenir des indices grâce aux renseignements",
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "Nouvel indice obtenu !",
     "UnlockedBubbleAction": 9019
@@ -565,7 +624,7 @@
     "Sort": 3,
     "TapBubble": [],
     "TapBubbleAction": [9019],
-    "Tips": "Obtenir des indices grâce aux renseignements",
+    "Tips": "Trouvez des indices grâce aux informations récoltées.",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "Nouvel indice obtenu !",
     "UnlockedBubbleAction": 9019
@@ -948,7 +1007,7 @@
       "Comme ça, il pourra prendre le contrôle de la caravane."
     ],
     "TapBubbleAction": [9019],
-    "Tips": "Trouvez des indices sur les lieux.",
+    "Tips": "Obtenir des indices en enquêtant sur les lieux",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Nouvel indice obtenu !",
     "UnlockedBubbleAction": 9019
@@ -960,7 +1019,7 @@
     "Sort": 2,
     "TapBubble": ["", "Ce type doit manigancer quelque chose en coulisses"],
     "TapBubbleAction": [9019],
-    "Tips": "Trouvez des indices sur les lieux.",
+    "Tips": "Obtenir des indices en enquêtant sur les lieux",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Nouvel indice obtenu !",
     "UnlockedBubbleAction": 9019
@@ -977,7 +1036,7 @@
       "Tout a un prix"
     ],
     "TapBubbleAction": [9019],
-    "Tips": "Trouvez des indices sur les lieux.",
+    "Tips": "Obtenir des indices en enquêtant sur les lieux",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "Nouvel indice obtenu !",
     "UnlockedBubbleAction": 9019

@@ -17,6 +17,24 @@
     "RedDotId": 0,
     "Scene": [11]
   },
+  "11": {
+    "FunctionId": 900126,
+    "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_2",
+    "Id": 11,
+    "Name": "Travesía",
+    "Note": "溪谷景点打卡",
+    "RedDotId": 1204,
+    "Scene": [10]
+  },
+  "12": {
+    "FunctionId": 900123,
+    "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_5",
+    "Id": 12,
+    "Name": "Reputación regional",
+    "Note": "溪谷地区声望入口",
+    "RedDotId": 5103,
+    "Scene": [10]
+  },
   "2": {
     "FunctionId": 100804,
     "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_3",
@@ -24,7 +42,7 @@
     "Name": "Caza de monstruos",
     "Note": "",
     "RedDotId": 71,
-    "Scene": [7, 71, 72, 73, 74, 75, 9, 91, 92, 93, 94, 95]
+    "Scene": [7, 71, 72, 73, 74, 75, 9, 10, 91, 92, 93, 94, 95]
   },
   "3": {
     "FunctionId": 100802,
@@ -39,7 +57,7 @@
     "FunctionId": 800819,
     "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_5",
     "Id": 4,
-    "Name": "Reputación",
+    "Name": "Reputación regional",
     "Note": "平原声望入口=商店",
     "RedDotId": 5101,
     "Scene": [7, 71, 72, 73, 74, 75]
@@ -57,7 +75,7 @@
     "FunctionId": 800900,
     "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_5",
     "Id": 6,
-    "Name": "Reputación",
+    "Name": "Reputación regional",
     "Note": "高原地区声望入口",
     "RedDotId": 5102,
     "Scene": [9, 93, 94]

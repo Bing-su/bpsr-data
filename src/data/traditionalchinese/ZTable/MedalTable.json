@@ -49,7 +49,7 @@
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "透過遊星島「嘉年華商店」兌換獲得。"
+    "UnlockDes": "通過遊星島「嘉年華商店」兌換獲得。"
   },
   "9040006": {
     "Condition": [],
@@ -1492,7 +1492,7 @@
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "透過祈歲慶典主題活動「慶典間章」系列任務獲得。"
+    "UnlockDes": "通過祈歲慶典主題活動「慶典間章」系列任務獲得。"
   },
   "9040117": {
     "Condition": [[9, 40059]],
@@ -1505,7 +1505,7 @@
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "透過祈歲慶典限時扭蛋活動獲得朔日驚春套裝禮盒並開啟後解鎖。"
+    "UnlockDes": "通過祈歲慶典限時扭蛋活動獲得朔日驚春套裝禮盒並開啟後解鎖。"
   },
   "9040118": {
     "Condition": [[110, 70001]],
@@ -1596,7 +1596,7 @@
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "透過星花相逢主題活動「星花商店」兌換獲得。"
+    "UnlockDes": "通過星花相逢主題活動「星花商店」兌換獲得。"
   },
   "9040125": {
     "Condition": [[110, 80108]],
@@ -1707,13 +1707,13 @@
     "Id": 9040133,
     "Image": "personalzone_medal_icon_01_129",
     "IsHide": 0,
-    "Name": "街頭鍵盤手",
+    "Name": "街頭電子琴手",
     "NotUnlock": 0,
     "Sort": 172,
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "鍵盤手熟練度達到「街頭鍵盤手I」獲得。"
+    "UnlockDes": "電子琴手熟練度達到「街頭電子琴手I」獲得。"
   },
   "9040134": {
     "Condition": [],
@@ -1726,7 +1726,7 @@
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "鍵盤手熟練度達到「黑白詩人I」獲得。"
+    "UnlockDes": "電子琴手熟練度達到「黑白詩人I」獲得。"
   },
   "9040135": {
     "Condition": [],
@@ -1791,7 +1791,7 @@
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "透過星花相逢主題活動「星花商店」兌換獲得。"
+    "UnlockDes": "通過星花相逢主題活動「星花商店」兌換獲得。"
   },
   "9040140": {
     "Condition": [[110, 80109]],
@@ -2168,7 +2168,7 @@
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "通過臻享卡商店購買時光巡遊於晝·加冕設定冊附贈。"
+    "UnlockDes": "透過臻享卡商店購買時光巡遊於晝·加冕設定冊附贈。"
   },
   "9040169": {
     "Condition": [[110, 80111]],
@@ -2313,6 +2313,58 @@
     "Type": 1,
     "UnlockDes": "透過臻享卡商店購買訂製：今夜，乘星出發·流光附贈。"
   },
+  "9040180": {
+    "Condition": [],
+    "Id": 9040180,
+    "Image": "personalzone_medal_icon_01_144",
+    "IsHide": 0,
+    "Name": "四代·以大師之名I",
+    "NotUnlock": 0,
+    "Sort": 219,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動「大師試煉！祈願共戰」獲得。"
+  },
+  "9040181": {
+    "Condition": [],
+    "Id": 9040181,
+    "Image": "personalzone_medal_icon_01_145",
+    "IsHide": 0,
+    "Name": "四代·以大師之名II",
+    "NotUnlock": 0,
+    "Sort": 220,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動「大師試煉！祈願共戰」獲得。"
+  },
+  "9040182": {
+    "Condition": [],
+    "Id": 9040182,
+    "Image": "personalzone_medal_icon_01_146",
+    "IsHide": 0,
+    "Name": "與你的一週年",
+    "NotUnlock": 0,
+    "Sort": 221,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "活動期間透過完成「海風節慶典」目標任務獲得。"
+  },
+  "9040183": {
+    "Condition": [],
+    "Id": 9040183,
+    "Image": "personalzone_medal_icon_ip007_02",
+    "IsHide": 0,
+    "Name": "熱騰騰的美味",
+    "NotUnlock": 1,
+    "Sort": 222,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動「星夜拾光」拾取漂流瓶獲得。"
+  },
   "9040184": {
     "Condition": [[110, 41001]],
     "Id": 9040184,
@@ -2324,7 +2376,7 @@
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "活動期間透過「夏日海島物語」目標任務兌換獲得。"
+    "UnlockDes": "活動期間透過「夏日海島物語」目標任務獲得。"
   },
   "9040185": {
     "Condition": [[110, 41001]],
@@ -2378,6 +2430,58 @@
     "Type": 1,
     "UnlockDes": "活動期間透過完成「星脈調諧」目標任務獲得。"
   },
+  "9040189": {
+    "Condition": [[110, 80113]],
+    "Id": 9040189,
+    "Image": "personalzone_medal_icon_01_152",
+    "IsHide": 0,
+    "Name": "失落砂海",
+    "NotUnlock": 0,
+    "Sort": 228,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過扭蛋獲得失落砂海套裝禮盒並開啟後解鎖。"
+  },
+  "9040190": {
+    "Condition": [[110, 80113]],
+    "Id": 9040190,
+    "Image": "personalzone_medal_icon_01_153",
+    "IsHide": 0,
+    "Name": "失落砂海·幽夜",
+    "NotUnlock": 0,
+    "Sort": 229,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過臻享卡商店購買失落砂海·幽夜設定冊附贈。"
+  },
+  "9040191": {
+    "Condition": [[110, 80113]],
+    "Id": 9040191,
+    "Image": "personalzone_medal_icon_01_154",
+    "IsHide": 0,
+    "Name": "引夢至彼岸",
+    "NotUnlock": 0,
+    "Sort": 230,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過扭蛋獲得引夢至彼岸禮包並開啟後解鎖。"
+  },
+  "9040192": {
+    "Condition": [[110, 80113]],
+    "Id": 9040192,
+    "Image": "personalzone_medal_icon_01_155",
+    "IsHide": 0,
+    "Name": "引夢至彼岸·幽夜",
+    "NotUnlock": 0,
+    "Sort": 231,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過臻享卡商店購買訂製：引夢至彼岸·幽夜附贈。"
+  },
   "9040193": {
     "Condition": [],
     "Id": 9040193,
@@ -2430,56 +2534,290 @@
     "Type": 1,
     "UnlockDes": "活動期間透過完成喵特賞目標任務獲得。"
   },
+  "9040197": {
+    "Condition": [[110, 80114]],
+    "Id": 9040197,
+    "Image": "personalzone_medal_icon_01_167",
+    "IsHide": 0,
+    "Name": "千秋明月心",
+    "NotUnlock": 0,
+    "Sort": 236,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過扭蛋獲得千秋明月心套裝禮盒並開啟後解鎖。"
+  },
+  "9040198": {
+    "Condition": [[110, 80114]],
+    "Id": 9040198,
+    "Image": "personalzone_medal_icon_01_168",
+    "IsHide": 0,
+    "Name": "千秋明月心·蓮歌",
+    "NotUnlock": 0,
+    "Sort": 237,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過臻享卡商店購買千秋明月心·蓮歌設定冊附贈。"
+  },
+  "9040199": {
+    "Condition": [[110, 80114]],
+    "Id": 9040199,
+    "Image": "personalzone_medal_icon_01_169",
+    "IsHide": 0,
+    "Name": "清夕長相憶",
+    "NotUnlock": 0,
+    "Sort": 238,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過扭蛋獲得清夕長相憶禮包並開啟後解鎖。"
+  },
+  "9040200": {
+    "Condition": [[110, 80114]],
+    "Id": 9040200,
+    "Image": "personalzone_medal_icon_01_170",
+    "IsHide": 0,
+    "Name": "清夕長相憶·霽月",
+    "NotUnlock": 0,
+    "Sort": 239,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過臻享卡商店購買訂製：清夕長相憶·霽月附贈。"
+  },
   "9040201": {
     "Condition": [],
     "Id": 9040201,
     "Image": "personalzone_medal_icon_01_171",
     "IsHide": 0,
-    "Name": "",
+    "Name": "「誒嘿嘿~」",
     "NotUnlock": 0,
     "Sort": 240,
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "活動期間透過完成喵特賞目標任務獲得。"
+    "UnlockDes": "惡作劇之夜活動期間，完成「喵特賞」指定目標任務後獲得。"
   },
   "9040202": {
     "Condition": [],
     "Id": 9040202,
     "Image": "personalzone_medal_icon_01_172",
     "IsHide": 0,
-    "Name": "",
+    "Name": "貓與惡作劇",
     "NotUnlock": 0,
     "Sort": 241,
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "活動期間透過完成喵特賞目標任務獲得。"
+    "UnlockDes": "惡作劇之夜活動期間，完成「喵特賞」指定目標任務後獲得。"
   },
   "9040203": {
     "Condition": [],
     "Id": 9040203,
     "Image": "personalzone_medal_icon_01_173",
     "IsHide": 0,
-    "Name": "",
+    "Name": "咪咪喵喵",
     "NotUnlock": 0,
     "Sort": 242,
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "活動期間透過完成喵特賞目標任務獲得。"
+    "UnlockDes": "惡作劇之夜活動期間，完成「喵特賞」指定目標任務後獲得。"
   },
   "9040204": {
     "Condition": [],
     "Id": 9040204,
     "Image": "personalzone_medal_icon_01_190",
     "IsHide": 0,
-    "Name": "",
+    "Name": "搗蛋南瓜大王",
     "NotUnlock": 0,
     "Sort": 243,
     "TargetId": 0,
     "Tex": "",
     "Type": 1,
-    "UnlockDes": "活動期間透過完成「星脈調諧」目標任務獲得。"
+    "UnlockDes": "惡作劇之夜活動期間，完成「星脈調諧」指定目標任務後獲得。"
+  },
+  "9040205": {
+    "Condition": [[110, 80115]],
+    "Id": 9040205,
+    "Image": "personalzone_medal_icon_01_177",
+    "IsHide": 0,
+    "Name": "霧隱事件簿",
+    "NotUnlock": 0,
+    "Sort": 244,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過扭蛋獲得霧隱事件簿套裝禮盒並開啟後解鎖。"
+  },
+  "9040206": {
+    "Condition": [[110, 80115]],
+    "Id": 9040206,
+    "Image": "personalzone_medal_icon_01_178",
+    "IsHide": 0,
+    "Name": "霧隱事件簿·夢蝕",
+    "NotUnlock": 0,
+    "Sort": 245,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過臻享卡商店購買霧隱事件簿·夢蝕設定冊附贈。"
+  },
+  "9040207": {
+    "Condition": [[110, 80115]],
+    "Id": 9040207,
+    "Image": "personalzone_medal_icon_01_179",
+    "IsHide": 0,
+    "Name": "舊世紀之夢",
+    "NotUnlock": 0,
+    "Sort": 246,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過扭蛋獲得舊世紀之夢禮包並開啟後解鎖。"
+  },
+  "9040208": {
+    "Condition": [[110, 80115]],
+    "Id": 9040208,
+    "Image": "personalzone_medal_icon_01_180",
+    "IsHide": 0,
+    "Name": "舊世紀之夢·漫想",
+    "NotUnlock": 0,
+    "Sort": 247,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過臻享卡商店購買訂製：舊世紀之夢·漫想附贈。"
+  },
+  "9040209": {
+    "Condition": [[110, 80116]],
+    "Id": 9040209,
+    "Image": "personalzone_medal_icon_01_181",
+    "IsHide": 0,
+    "Name": "長夜渡幽明",
+    "NotUnlock": 0,
+    "Sort": 248,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過扭蛋獲得長夜渡幽明套裝禮盒並開啟後解鎖。"
+  },
+  "9040210": {
+    "Condition": [[110, 80116]],
+    "Id": 9040210,
+    "Image": "personalzone_medal_icon_01_182",
+    "IsHide": 0,
+    "Name": "長夜渡幽明·牽機",
+    "NotUnlock": 0,
+    "Sort": 249,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過臻享卡商店購買長夜渡幽明·牽機設定冊附贈。"
+  },
+  "9040211": {
+    "Condition": [[110, 80116]],
+    "Id": 9040211,
+    "Image": "personalzone_medal_icon_01_183",
+    "IsHide": 0,
+    "Name": "不歸魂",
+    "NotUnlock": 0,
+    "Sort": 250,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過扭蛋獲得不歸魂禮包並開啟後解鎖。"
+  },
+  "9040212": {
+    "Condition": [[110, 80116]],
+    "Id": 9040212,
+    "Image": "personalzone_medal_icon_01_184",
+    "IsHide": 0,
+    "Name": "不歸魂·無常",
+    "NotUnlock": 0,
+    "Sort": 251,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "透過臻享卡商店購買訂製不歸魂·無常附贈。"
+  },
+  "9040213": {
+    "Condition": [[110, 32004]],
+    "Id": 9040213,
+    "Image": "personalzone_medal_icon_01_191",
+    "IsHide": 0,
+    "Name": "鏡中的審判",
+    "NotUnlock": 0,
+    "Sort": 252,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動並完成「勇者試煉・鏡中的審判」 所有試煉後獲得。"
+  },
+  "9040214": {
+    "Condition": [[110, 32004]],
+    "Id": 9040214,
+    "Image": "personalzone_medal_icon_01_192",
+    "IsHide": 0,
+    "Name": "彌妄·巨龍爪痕",
+    "NotUnlock": 0,
+    "Sort": 253,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動並完成 「勇者試煉・彌妄・巨龍爪痕」 所有試煉後獲得。"
+  },
+  "9040215": {
+    "Condition": [[110, 32004]],
+    "Id": 9040215,
+    "Image": "personalzone_medal_icon_01_193",
+    "IsHide": 0,
+    "Name": "荒蕪之庭",
+    "NotUnlock": 0,
+    "Sort": 254,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動並完成 「勇者試煉・荒蕪之庭」 所有試煉後獲得。"
+  },
+  "9040216": {
+    "Condition": [[110, 32004]],
+    "Id": 9040216,
+    "Image": "personalzone_medal_icon_01_194",
+    "IsHide": 0,
+    "Name": "彌妄·流月之野",
+    "NotUnlock": 0,
+    "Sort": 255,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動並完成 「勇者試煉・彌妄・流月之野」 所有試煉後獲得。"
+  },
+  "9040217": {
+    "Condition": [[110, 32004]],
+    "Id": 9040217,
+    "Image": "personalzone_medal_icon_01_195",
+    "IsHide": 0,
+    "Name": "彌妄·黯影堡壘",
+    "NotUnlock": 0,
+    "Sort": 256,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動並完成 「勇者試煉・彌妄・黯影堡壘」 所有試煉後獲得。"
+  },
+  "9040218": {
+    "Condition": [[110, 32004]],
+    "Id": 9040218,
+    "Image": "personalzone_medal_icon_01_196",
+    "IsHide": 0,
+    "Name": "遠天的神檻",
+    "NotUnlock": 0,
+    "Sort": 257,
+    "TargetId": 0,
+    "Tex": "",
+    "Type": 1,
+    "UnlockDes": "參與限時活動並完成 「勇者試煉・遠天的神檻」 所有試煉後獲得。"
   }
 }

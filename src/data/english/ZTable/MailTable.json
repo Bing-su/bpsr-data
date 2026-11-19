@@ -751,7 +751,7 @@
     "MailType": 1,
     "NpcId": 0,
     "NpcName": "",
-    "Title": "Temporary Furniture Mail:"
+    "Title": "Temporary Furniture Mail: "
   },
   "2001": {
     "AwardId": 20500700,
@@ -950,7 +950,7 @@
   },
   "2256": {
     "AwardId": 0,
-    "Content": "Dear Adventurer, <br><br>We detected that you haven't claimed your sign-in reward. It has now been resent to your mailbox. <br><br>May this small surprise bring extra joy to your adventures. Take this little blessing and head toward the next, even brighter journey!",
+    "Content": "Dear Adventurer, <br><br>We detected you haven't claimed your sign-in reward. It has now been re-sent to your mailbox. <br><br>May this small surprise bring extra joy to your adventures. Take this little blessing and head toward the next, even brighter journey!",
     "ExpireTime": 30,
     "Id": 2256,
     "Important": 0,
@@ -974,6 +974,19 @@
     "NpcName": "",
     "Title": "Ember Night Echoes: Make-up Sign-in Rewards"
   },
+  "2258": {
+    "AwardId": 0,
+    "Content": "Dear Adventurer, <br><br>We detected you haven't claimed your sign-in reward. It has now been re-sent to your mailbox. <br><br>May this small surprise bring extra joy to your adventures. Take this little blessing and head toward the next, even brighter journey!",
+    "ExpireTime": 30,
+    "Id": 2258,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "",
+    "Title": "[Dawn to Dusk Wishes: Reissued Check-In Reward]"
+  },
   "2300": {
     "AwardId": 0,
     "Content": "Dear Adventurer,<br><br>Please claim the rewards you have obtained via the redemption code~",
@@ -984,7 +997,7 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "System Mail",
+    "NpcName": "System",
     "Title": "[Reward] Redeem Code"
   },
   "2401": {
@@ -1078,6 +1091,19 @@
     "NpcName": "Meownia",
     "Title": "[Crossover] Challenge Goal Reward Reissue"
   },
+  "2505": {
+    "AwardId": 0,
+    "Content": "Dear Adventurer, <br><br>The Seabreeze Festival has ended. Please claim your remaining event goal rewards!<br><br>Thank you for participating!",
+    "ExpireTime": 30,
+    "Id": 2505,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Seabreeze Festival Staff",
+    "Title": "[Seabreeze Festival] Reissued Unclaimed Event Goal Rewards"
+  },
   "2506": {
     "AwardId": 0,
     "Content": "Dear Adventurer, <br><br>The Kanamia Harvest Festival event has ended. Please claim the goal rewards you missed!<br><br>Thank you for participating!",
@@ -1093,7 +1119,7 @@
   },
   "2507": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "Dear Adventurer, <br><br>This Mischief Night event has ended. Please check and claim any unclaimed objective rewards in time~<br><br>Thank you for your participation!",
     "ExpireTime": 30,
     "Id": 2507,
     "Important": 0,
@@ -1101,8 +1127,8 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 1200012,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "System",
+    "Title": "[Mischief Night] Event Objectives Reward Reissue"
   },
   "3002": {
     "AwardId": 0,
@@ -1210,7 +1236,7 @@
   },
   "4005": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "Dear Adventurer, <br><br>Your Engram Line Tuning Challenge result was rejected due to suspected cheating. If you have any questions, please contact customer support.",
     "ExpireTime": 30,
     "Id": 4005,
     "Important": 0,
@@ -1218,7 +1244,20 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "System",
+    "Title": "Engram Line Tuning Challenge Result Rejected"
+  },
+  "4006": {
+    "AwardId": 0,
+    "Content": "Dear Adventurer: <br><br>The current Unbroken Twilight event has ended, and you have unclaimed rewards. Please claim them soon. <br><br>Thank you for participating!",
+    "ExpireTime": 30,
+    "Id": 4006,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "System",
+    "Title": "[Unbroken Twilight] - Goal Reward Reissue"
   }
 }

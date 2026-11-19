@@ -2277,7 +2277,7 @@
     "Quality": 2,
     "ReadingBookDes": "Una revista que presenta la situación nacional en Byrnhald. Su portada y estilo de diseño son muy serios, y su contenido tiene una clara postura política.",
     "TargetType": [1031353],
-    "WorksName": "“Industria Webber y el Credo bafariano\"",
+    "WorksName": "Industria Webber y el Credo bafariano",
     "WorksType": 101
   },
   "1225": {
@@ -2299,7 +2299,7 @@
     "Quality": 2,
     "ReadingBookDes": "Un boletín que circula internamente entre los artesanos, dirigido a los artesanos creadores. El papel huele a polvo de carbón y tinta, como si acabara de salir de la mesa de trabajo no hace mucho.",
     "TargetType": [1031355],
-    "WorksName": "“Planos y modelos: Funciones de geometría artificial\"",
+    "WorksName": "Planos y modelos: Funciones de geometría artificial",
     "WorksType": 101
   },
   "1227": {
@@ -2321,7 +2321,7 @@
     "Quality": 2,
     "ReadingBookDes": "Una pequeña publicación de alquimia impresa de forma privada que los plebeyos hacen circular entre ellos. Su tono es frívolo y su contenido es en parte serio y en parte en broma. Aun así, es sorprendentemente popular. Las páginas de este están dobladas, como si alguien lo llevara consigo constantemente.",
     "TargetType": [1031357],
-    "WorksName": "“Las reglas de oro de los alquimistas\"",
+    "WorksName": "Las reglas de oro de los alquimistas",
     "WorksType": 101
   },
   "1229": {
@@ -2387,7 +2387,7 @@
     "Quality": 2,
     "ReadingBookDes": "Un libro de bolsillo con una portada muy sencilla, pero cubierto de patrones de tesoros muy exagerados, como si temiera que otros pudieran pasarlo por alto.",
     "TargetType": [1031368],
-    "WorksName": "“Diario del cazatesoros: Edición revisada\"",
+    "WorksName": "Diario del cazatesoros: Edición revisada",
     "WorksType": 101
   },
   "1235": {
@@ -2398,7 +2398,7 @@
     "Quality": 2,
     "ReadingBookDes": "Un trozo de papel amarillento cubierto de varios estilos de caligrafía. Ha pasado por las manos de diferentes personas y está cubierto de nombres...",
     "TargetType": [1031369],
-    "WorksName": "“Lista de cazatesoros desaparecidos\"",
+    "WorksName": "Lista de cazatesoros desaparecidos",
     "WorksType": 103
   },
   "1236": {
@@ -2409,7 +2409,7 @@
     "Quality": 2,
     "ReadingBookDes": "Un libro de divulgación científica que presenta a los animales salvajes de las terraltas.",
     "TargetType": [1031370],
-    "WorksName": "“Resumen de especies de bestias\"",
+    "WorksName": "Resumen de especies de bestias",
     "WorksType": 101
   },
   "1237": {
@@ -2420,7 +2420,7 @@
     "Quality": 2,
     "ReadingBookDes": "Una revista de moda mensual.",
     "TargetType": [1031371],
-    "WorksName": "“Tendencias de moda de Asterleeds\"",
+    "WorksName": "Tendencias de moda de Asterleeds",
     "WorksType": 101
   },
   "1238": {
@@ -2431,7 +2431,7 @@
     "Quality": 2,
     "ReadingBookDes": "Una exitosa novela de aventuras sobre cazatesoros.",
     "TargetType": [1031372],
-    "WorksName": "“Aventuras de búsqueda de Tesoros\"",
+    "WorksName": "Aventuras de búsqueda de Tesoros",
     "WorksType": 101
   },
   "1239": {
@@ -2442,7 +2442,7 @@
     "Quality": 2,
     "ReadingBookDes": "Un folleto promocional de teatro con eslóganes e ilustraciones muy exagerados.",
     "TargetType": [1031373],
-    "WorksName": "“Hermanos, verdaderos y falsos\"",
+    "WorksName": "Hermanos, verdaderos y falsos",
     "WorksType": 103
   },
   "1240": {
@@ -2464,7 +2464,7 @@
     "Quality": 2,
     "ReadingBookDes": "Un libro de divulgación científica destinado al público en general.",
     "TargetType": [1031375],
-    "WorksName": "“El cazador\"",
+    "WorksName": "El cazador",
     "WorksType": 101
   },
   "1242": {
@@ -2584,7 +2584,7 @@
     "IsHide": false,
     "Quality": 2,
     "ReadingBookDes": "Una nota manchada, abandonada a toda prisa en las Profundidades Sombrías por una persona desconocida.",
-    "TargetType": [1031428],
+    "TargetType": [1031428, 1031429, 1031430],
     "WorksName": "Nota dañada",
     "WorksType": 102
   },
@@ -2620,6 +2620,252 @@
     "TargetType": [1031434],
     "WorksName": "Registro de oculoide de Profundidades Sombrías",
     "WorksType": 101
+  },
+  "1256": {
+    "Episode": 1126,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1256,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un folleto ligeramente curvado. Su cubierta está hecha de cartulina marrón oscuro, con una insignia de pase desteñida impresa en la esquina superior izquierda.",
+    "TargetType": [1031389],
+    "WorksName": "Regulaciones del Paso del Valle de Yarid",
+    "WorksType": 101
+  },
+  "1257": {
+    "Episode": 1127,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1257,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un registro utilizado en el taller para anotar las operaciones del equipamiento. Las páginas están arrugadas y manchadas; por alguna razón desconocida, solo queda una.",
+    "TargetType": [1031390],
+    "WorksName": "Registro de producción del Horno de Fundición Abandonado",
+    "WorksType": 102
+  },
+  "1258": {
+    "Episode": 1128,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1258,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una página faltante de un archivo de investigación. El orificio de encuadernación en la esquina superior izquierda está rasgado, lo que sugiere que la página fue arrancada a la fuerza. El encabezado dice Comité de Investigación del Incidente de Tavalok, con una llamativa etiqueta roja debajo: Página 9.",
+    "TargetType": [1031391],
+    "WorksName": "Informe del Incidente de Tavalok: Página 9",
+    "WorksType": 102
+  },
+  "1259": {
+    "Episode": 1129,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1259,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Registros de investigación abandonados en el lugar. La cubierta está manchada con polvo mineral y aceite, y sus páginas están llenas de anotaciones. Varias líneas clave están marcadas con tinta roja, acompañadas por notas apenas legibles.",
+    "TargetType": [1031392, 1031393],
+    "WorksName": "Registro de la Investigación sobre el Golem Antiguo del Valle",
+    "WorksType": 101
+  },
+  "1260": {
+    "Episode": 1130,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1260,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una colección de manuscritos esparcidos que documentan los calcos y las interpretaciones de unos grabados en piedra únicos. Todo el contenido está escrito con la caligrafía de un mismo erudito.",
+    "TargetType": [1031394, 1031395, 1031396, 1031397],
+    "WorksName": "Fragmentos de los grabados del sabio",
+    "WorksType": 102
+  },
+  "1261": {
+    "Episode": 1131,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1261,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una nota manuscrita amarillenta. La caligrafía es pulcra, pero se nota algo forzada, y grandes áreas del papel muestran restos de tinta que se secó en varias ocasiones. El contenido consiste principalmente en observaciones dispersas y reflexiones personales. Algunas oraciones fueron remarcadas varias veces, como si el autor intentara confirmar algo importante.",
+    "TargetType": [1031398],
+    "WorksName": "Fragmento del diario de Alder",
+    "WorksType": 102
+  },
+  "1262": {
+    "Episode": 1132,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1262,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un folleto de encuadernación barata. Su cubierta amarillenta es completamente lisa, salvo por una sola línea de texto en negro intenso impresa en la parte superior: Una nueva perspectiva sobre el paro de la Mina Tavalok. La tinta se corrió un poco y los bordes están desgastados y deshilachados, como si hubiera pasado por muchas manos. Sin embargo, no hay ningún nombre de autor en toda la publicación.",
+    "TargetType": [1031399],
+    "WorksName": "Una nueva perspectiva del paro de la Mina Tavalok",
+    "WorksType": 101
+  },
+  "1263": {
+    "Episode": 1133,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1263,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un volante publicitario de colores vivos, hasta el punto de ser molestos. Un gran titular ocupa casi toda la página, acompañado por la ilustración de un residente del Valle con la boca abierta, revelando dientes amarillentos, junto a un reluciente purificador de agua. La calidad del papel supera por mucho a la de los materiales promocionales comunes e incluso tiene un ligero brillo de tinta. A pesar de estar escondido entre una pila de documentos viejos y amarillentos, capta tu atención de inmediato.",
+    "TargetType": [1031400],
+    "WorksName": "¡Advertencia! ¡Esto te afecta en el valle!",
+    "WorksType": 103
+  },
+  "1264": {
+    "Episode": 1134,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1264,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un antiguo anuncio escrito a mano, plagado de daños por insectos y manchas marrones sospechosas tras años a la intemperie. Sin embargo, los trazos audaces de la caligrafía sugieren una firme convicción de que lo escrito era una verdad incuestionable.",
+    "TargetType": [1031401],
+    "WorksName": "Los Sabios no comen frijoles",
+    "WorksType": 103
+  },
+  "1265": {
+    "Episode": 1135,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1265,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una página faltante de un registro. La parte superior tiene el formato estandarizado de archivo que usa el Credo. Aunque el papel está amarillento por el tiempo, se conserva bien. La caligrafía está lejos de ser pulcra, pero da la impresión de que alguien documentó los hechos con gran seriedad.",
+    "TargetType": [1031402],
+    "WorksName": "Una teoría sobre por qué el Pueblo del Valle tiene prohibido comer frijoles",
+    "WorksType": 102
+  },
+  "1266": {
+    "Episode": 1136,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1266,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un libro de cuentos delgado. La cubierta de papel rugoso ilustra a un hombre mayor con cabello y barba blancos, vestido con una túnica holgada. Está parado frente a una parcela de frijoles Bor, con un bastón de madera en la mano. Varios matones armados casi lo alcanzan, pero él sigue enfocado tranquilamente en los frijoles Bor que descansan en la palma de su mano.",
+    "TargetType": [1031403],
+    "WorksName": "La muerte de la Antigua sabia Sophra",
+    "WorksType": 101
+  },
+  "1267": {
+    "Episode": 1137,
+    "Icon": "item_icons_xin",
+    "Id": 1267,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una carta escrita a mano con caligrafía pulcra, manchada con grandes parches de color rojo oscuro seco.",
+    "TargetType": [1031404],
+    "WorksName": "Una carta perdida en alguna parte del valle",
+    "WorksType": 102
+  },
+  "1268": {
+    "Episode": 1138,
+    "Icon": "item_icons_wenjiandai1",
+    "Id": 1268,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una investigación manuscrita sobre el inusual clima del Valle. Dividida en varios capítulos, contiene registros meteorológicos, testimonios de los residentes y notas analíticas de autoría propia. Queda claro que se dedicó un tiempo considerable a descubrir la verdad; sin embargo, este informe que debía entregarse, de algún modo terminó olvidado en la naturaleza.",
+    "TargetType": [1031405, 1031406, 1031407, 1031408],
+    "WorksName": "El misterio del extraño clima de la aldea Rize",
+    "WorksType": 102
+  },
+  "1269": {
+    "Episode": 1139,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1269,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un documento oficial escrito con una caligrafía pulcra y ordenada.",
+    "TargetType": [1031409],
+    "WorksName": "Acta de la reunión de la submina (Extracto)",
+    "WorksType": 102
+  },
+  "1270": {
+    "Episode": 1140,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1270,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una página arrancada de un libro de contabilidad. También parece haber servido como medio de comunicación entre un aprendiz y su maestro.",
+    "TargetType": [1031410],
+    "WorksName": "Libro de contabilidad del taller de la Aldea Gareligi",
+    "WorksType": 102
+  },
+  "1271": {
+    "Episode": 1141,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1271,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un folleto encuadernado con hojas sueltas de papel. Contiene las notas diarias de alguien que reside en la Aldea Gareligi. Sin embargo, sin importar el tema, cada anotación llega siempre a la misma conclusión.",
+    "TargetType": [1031411, 1031412],
+    "WorksName": "La culpa es del jefe de la aldea",
+    "WorksType": 102
+  },
+  "1272": {
+    "Episode": 1142,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1272,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un memorándum personal. A juzgar por la marca de agua y la artesanía del papel, es probable que haya pertenecido a un sacerdote.",
+    "TargetType": [1031413, 1031414, 1031415],
+    "WorksName": "Un memorándum personal",
+    "WorksType": 102
+  },
+  "1273": {
+    "Episode": 1143,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1273,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Un recorte de periódico de la pizarra de anuncios del taller. El artículo está bellamente impreso, y su titular incluso fue marcado con un círculo rojo, lo que sugiere que alguna vez fue un gran orgullo para la Aldea Gareligi.",
+    "TargetType": [1031416],
+    "WorksName": "La Aldea Gareligi alcanza un récord en pedidos",
+    "WorksType": 103
+  },
+  "1274": {
+    "Episode": 1144,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1274,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una página de un desgastado libro de visitas. Casi se puede percibir aún el aroma persistente de la bebida insignia de la taberna en su frágil papel.",
+    "TargetType": [1031417],
+    "WorksName": "Libro de visitas de la taberna de la Aldea Gareligi",
+    "WorksType": 103
+  },
+  "1275": {
+    "Episode": 1145,
+    "Icon": "item_icons_xin",
+    "Id": 1275,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Una petición manuscrita firmada por varias personas. La caligrafía es gruesa y enérgica, como si la impulsara la ira. En la parte inferior hay más de una docena de huellas de manos agrupadas muy juntas.",
+    "TargetType": [1031418],
+    "WorksName": "Petición conjunta de ajustes de horas de trabajo",
+    "WorksType": 102
+  },
+  "1276": {
+    "Episode": 1146,
+    "Icon": "item_icons_1stanniversary_note",
+    "Id": 1276,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Se dice que cada vez que los fuegos artificiales iluminan el cielo nocturno, los rastros que quedan en el mundo se revelan brevemente en esta forma.",
+    "TargetType": [
+      1031440, 1031441, 1031442, 1031443, 1031444, 1031445, 1031446, 1031447, 1031448, 1031449,
+      1031450, 1031451, 1031452, 1031453, 1031454, 1031455, 1031456, 1031457, 1031458, 1031459,
+      1031460
+    ],
+    "WorksName": "Rastros Estelares del primer año",
+    "WorksType": 102
+  },
+  "1277": {
+    "Episode": 1147,
+    "Icon": "item_icons_xin",
+    "Id": 1277,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "Muchas botellas con mensaje llegan a la costa arrastradas por la brisa marina durante el Festival de Brisa Marina. En su interior hay cartas de seres queridos, tanto cercanos como lejanos, que llevan bendiciones y afecto que nunca se expresaron en voz alta.",
+    "TargetType": [1031461, 1031462, 1031463, 1031464, 1031465, 1031466, 1031467, 1031468, 1031469],
+    "WorksName": "Palabras no dichas",
+    "WorksType": 102
   },
   "1278": {
     "Episode": 1148,

@@ -460,7 +460,7 @@
     "Mutex": [],
     "Name": "Void Vanguard",
     "PauseLogic": [],
-    "Remark": "",
+    "Remark": "S1大师5活动",
     "TargetType": 3
   },
   "121": {
@@ -476,11 +476,11 @@
     "Mutex": [],
     "Name": "Phantasm Source",
     "PauseLogic": [],
-    "Remark": "",
+    "Remark": "S2大师5活动",
     "TargetType": 3
   },
   "122": {
-    "Description": "Dipengaruhi oleh Illusion Movement, semua musuh di dungeon mendapat peningkatan stat secara signifikan.",
+    "Description": "Terpengaruh oleh Melodi Ilusi, semua musuh di dalam Dungeon mendapat peningkatan Stat yang sangat besar.",
     "Effect": [[1, 4, 702021, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -492,7 +492,23 @@
     "Mutex": [],
     "Name": "Phantom Melodist",
     "PauseLogic": [],
-    "Remark": "",
+    "Remark": "S3大师5活动",
+    "TargetType": 3
+  },
+  "123": {
+    "Description": "Akibat pengaruh Enhanced Oath, semua musuh di dalam Dungeon mendapat peningkatan Stat yang sangat besar.",
+    "Effect": [[1, 4, 702217, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "Id": 123,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Oath Imprint",
+    "PauseLogic": [],
+    "Remark": "S4大师5活动",
     "TargetType": 3
   },
   "13": {
@@ -1712,7 +1728,7 @@
     "TargetType": 3
   },
   "2111": {
-    "Description": "Boss mendapat ATK <style=\"accent-gn\">+30%</style> dan HP <style=\"accent-gn\">+20%</style>.<br>Drop [Sanity Technique] dari boss pasti berkualitas Epic.",
+    "Description": "Attack Boss <style=\"accent-gn\">+30%</style>, HP <style=\"accent-gn\">+20%</style>;<br>Drop 「Sanity Technique」 dari Boss dipastikan Epic",
     "Effect": [[1, 4, 997265, 0]],
     "EffectTime": [[5.0, 0.0]],
     "EffectType": 3,
@@ -1722,7 +1738,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Madness",
+    "Name": "Delirium Mask - Racauan",
     "PauseLogic": [],
     "Remark": "娜宝面具1肉鸽大秘境s3",
     "TargetType": 3
@@ -1738,7 +1754,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Murmur",
+    "Name": "Delirium Mask - Igauan",
     "PauseLogic": [],
     "Remark": "娜宝面具2肉鸽大秘境s3",
     "TargetType": 3
@@ -1760,13 +1776,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Allure",
+    "Name": "Delirium Mask · Penyesat Hati",
     "PauseLogic": [],
     "Remark": "娜宝面具3肉鸽大秘境s3",
     "TargetType": 3
   },
   "2114": {
-    "Description": "Elite dan boss mendapat HP <style=\"accent-gn\">+100%</style> dan ATK <style=\"accent-gn\">+50%</style>.<br>Drop [Delirium Dust] dari elite dan boss meningkat <style=\"accent-gn\">60%</style>.",
+    "Description": "HP Elite dan Boss <style=\"accent-gn\">+100%</style>, ATK <style=\"accent-gn\">+50%</style>;<br>Drop 「Delirium Dust」 dari Elite dan Boss meningkat <style=\"accent-gn\">60%</style>",
     "Effect": [[1, 4, 997821, 0]],
     "EffectTime": [[5.0, 0.0]],
     "EffectType": 3,
@@ -1776,13 +1792,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Defection",
+    "Name": "Delirium Mask - Pembelot",
     "PauseLogic": [],
     "Remark": "娜宝面具4肉鸽大秘境s3",
     "TargetType": 3
   },
   "2115": {
-    "Description": "Monster terkena efek Void Corruption (HP <style=\"accent-gn\">+20%</style> dan ATK <style=\"accent-gn\">+20%</style>).<br>Peluang drop [Sanity Technique] dari monster berlipat ganda.",
+    "Description": "Monster terkena Void Corruption (HP <style=\"accent-gn\">+20%</style>, Attack <style=\"accent-gn\">+20%</style>);<br>Peluang Monster menjatuhkan 「Sanity Technique」 berlipat ganda",
     "Effect": [[1, 4, 997267, 0]],
     "EffectTime": [[5.0, 0.0]],
     "EffectType": 3,
@@ -1792,7 +1808,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Nightmare",
+    "Name": "Delirium Mask - Mimpi Buruk",
     "PauseLogic": [],
     "Remark": "娜宝面具5肉鸽大秘境s3",
     "TargetType": 3
@@ -1814,13 +1830,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Snicker",
+    "Name": "Delirium Mask - Terkekeh",
     "PauseLogic": [],
     "Remark": "娜宝面具6肉鸽大秘境s3",
     "TargetType": 3
   },
   "2117": {
-    "Description": "Kecepatan peningkatan [Delirium XP] di luar pertarungan <style=\"accent-gn\">+100%</style>.<br>Kecepatan peningkatan [Delirium XP] di dalam pertarungan <style=\"accent-gn\">-20%</style>.",
+    "Description": "Saat tidak dalam status Pertarungan, kecepatan peningkatan \"Delirium XP\" <style=\"accent-gn\">+100%</style>;<br>Saat dalam status Pertarungan, kecepatan peningkatan \"Delirium XP\" <style=\"accent-gn\">-20%</style>",
     "Effect": [[1, 1, 997305, 0]],
     "EffectTime": [[5.0, 0.0]],
     "EffectType": 3,
@@ -1854,13 +1870,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Echo",
+    "Name": "Delirium Mask · Gema",
     "PauseLogic": [],
     "Remark": "娜宝面具8肉鸽大秘境s3",
     "TargetType": 3
   },
   "2119": {
-    "Description": "ATK dan HP monster <style=\"accent-gn\">+10%</style>, tingkat elite dan ke atas mendapat tambahan <style=\"accent-gn\">10%</style>.<br>[Delirium Dust] yang didapat dari pertarungan meningkat <style=\"accent-gn\">40%</style>.",
+    "Description": "ATK dan HP Monster <style=\"accent-gn\">+10%</style>, Elite ke atas mendapat tambahan <style=\"accent-gn\">10%</style>;<br>\"Delirium Dust\" yang didapat dari Pertarungan meningkat <style=\"accent-gn\">40%</style>",
     "Effect": [[1, 4, 997822, 0]],
     "EffectTime": [[5.0, 0.0]],
     "EffectType": 3,
@@ -1870,7 +1886,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Finale",
+    "Name": "Delirium Mask - Babak Akhir",
     "PauseLogic": [],
     "Remark": "娜宝面具9肉鸽大秘境s3",
     "TargetType": 3
@@ -1892,7 +1908,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Delirium Mask - Symmetry",
+    "Name": "Delirium Mask · Simetri",
     "PauseLogic": [],
     "Remark": "娜宝面具10肉鸽大秘境s3",
     "TargetType": 3
@@ -1914,7 +1930,7 @@
     "TargetType": 2
   },
   "2201": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Gloves dan Earring Lv. 220</style>",
+    "Description": "Grin Piggy telah menghancurkan batas dimensi, menciptakan ketukan kacau dengan Note yang sumbang! Tim yang menyerang dan mengambil Loot miliknya, bisa mendapatkan hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Gloves dan Earring Orange Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1930,7 +1946,7 @@
     "TargetType": 3
   },
   "2202": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Gloves dan Earring Lv. 220</style>",
+    "Description": "Grin Piggy telah menghancurkan batas dimensi, menciptakan ketukan kacau dengan Note yang sumbang! Tim yang menyerang dan mengambil Loot miliknya, bisa mendapatkan hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Gloves dan Earring Orange Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1946,7 +1962,7 @@
     "TargetType": 3
   },
   "2203": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Gloves dan Earring Lv. 240</style>",
+    "Description": "Grin Piggy telah menghancurkan batas dimensi, menciptakan ketukan kacau dengan Note yang sumbang! Tim yang menyerang dan mengambil Loot miliknya, bisa mendapatkan hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Gloves dan Earring Orange Lv. 240</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1962,7 +1978,7 @@
     "TargetType": 3
   },
   "2204": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Gloves dan Earring Lv. 260</style>",
+    "Description": "Grin Piggy telah menghancurkan batas dimensi, menciptakan ketukan kacau dengan Note yang sumbang! Tim yang menyerang dan mengambil Loot miliknya, bisa mendapatkan hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Gloves dan Earring Orange Lv. 260</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1978,7 +1994,7 @@
     "TargetType": 3
   },
   "2205": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Helmet dan Necklace Lv. 220</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan ketukan kacau dengan Note sumbang tersebut! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Helmet dan Necklace Orange Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -1994,7 +2010,7 @@
     "TargetType": 3
   },
   "2206": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Helmet dan Necklace Lv. 220</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan ketukan kacau dengan Note sumbang tersebut! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Helmet dan Necklace Orange Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2010,7 +2026,7 @@
     "TargetType": 3
   },
   "2207": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Helmet dan Necklace Lv. 240</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan ketukan kacau dengan Note sumbang tersebut! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Helmet dan Necklace Orange Lv. 240</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2026,7 +2042,7 @@
     "TargetType": 3
   },
   "2208": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Helmet dan Necklace Lv. 260</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan ketukan kacau dengan Note sumbang tersebut! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Helmet dan Necklace Orange Lv. 260</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2042,7 +2058,7 @@
     "TargetType": 3
   },
   "2209": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Clothes dan Ring Lv. 220</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang menyerang dan mengambil Loot miliknya akan mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Baju dan Ring Orange Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2058,7 +2074,7 @@
     "TargetType": 3
   },
   "2210": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Clothes dan Ring Lv. 220</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang menyerang dan mengambil Loot miliknya akan mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Baju dan Ring Orange Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2074,7 +2090,7 @@
     "TargetType": 3
   },
   "2211": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Clothes dan Ring Lv. 240</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang menyerang dan mengambil Loot miliknya akan mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Baju dan Ring Orange Lv. 240</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2090,7 +2106,7 @@
     "TargetType": 3
   },
   "2212": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Clothes dan Ring Lv. 260</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang menyerang dan mengambil Loot miliknya akan mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Baju dan Ring Orange Lv. 260</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2106,7 +2122,7 @@
     "TargetType": 3
   },
   "2213": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Bracelet (L) dan Bracelet (R) Lv. 220</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama yang kacau dengan Note yang sumbang itu! Tim yang melakukan Attack dan mengambil Loot-nya bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Bracelet (L) dan Bracelet (R) Equipment Orange Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2122,7 +2138,7 @@
     "TargetType": 3
   },
   "2214": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Bracelet (L) dan Bracelet (R) Lv. 220</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama yang kacau dengan Note yang sumbang itu! Tim yang melakukan Attack dan mengambil Loot-nya bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Bracelet (L) dan Bracelet (R) Equipment Orange Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2138,7 +2154,7 @@
     "TargetType": 3
   },
   "2215": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Bracelet (L) dan Bracelet (R) Lv. 240</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama yang kacau dengan Note yang sumbang itu! Tim yang melakukan Attack dan mengambil Loot-nya bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Bracelet (L) dan Bracelet (R) Equipment Orange Lv. 240</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2154,7 +2170,7 @@
     "TargetType": 3
   },
   "2216": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Bracelet (L) dan Bracelet (R) Lv. 260</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama yang kacau dengan Note yang sumbang itu! Tim yang melakukan Attack dan mengambil Loot-nya bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Bracelet (L) dan Bracelet (R) Equipment Orange Lv. 260</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2170,7 +2186,7 @@
     "TargetType": 3
   },
   "2217": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Boots dan Talisman Lv. 220</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang melakukan Attack dan mengambil Loot miliknya bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Boots dan Talisman Oranye Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2186,7 +2202,7 @@
     "TargetType": 3
   },
   "2218": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Boots dan Talisman Lv. 220</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang melakukan Attack dan mengambil Loot miliknya bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Boots dan Talisman Oranye Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2202,7 +2218,7 @@
     "TargetType": 3
   },
   "2219": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Boots dan Talisman Lv. 240</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang melakukan Attack dan mengambil Loot miliknya bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Boots dan Talisman Oranye Lv. 240</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2218,7 +2234,7 @@
     "TargetType": 3
   },
   "2220": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Boots dan Talisman Lv. 260</style>",
+    "Description": "Grin Piggy telah menembus penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang melakukan Attack dan mengambil Loot miliknya bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Boots dan Talisman Oranye Lv. 260</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2234,7 +2250,7 @@
     "TargetType": 3
   },
   "2221": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Weapon Lv. 220</style>",
+    "Description": "Grin Piggy telah menghancurkan penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang melakukan Attack dan mengambil Loot miliknya bisa mendapatkan tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Weapon Oranye Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2250,7 +2266,7 @@
     "TargetType": 3
   },
   "2222": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Weapon Lv. 220</style>",
+    "Description": "Grin Piggy telah menghancurkan penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang melakukan Attack dan mengambil Loot miliknya bisa mendapatkan tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Weapon Oranye Lv. 220</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2266,7 +2282,7 @@
     "TargetType": 3
   },
   "2223": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Weapon Lv. 240</style>",
+    "Description": "Grin Piggy telah menghancurkan penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang melakukan Attack dan mengambil Loot miliknya bisa mendapatkan tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Weapon Oranye Lv. 240</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2282,7 +2298,7 @@
     "TargetType": 3
   },
   "2224": {
-    "Description": "Grin Piggy berhasil menembus dinding dimensi dan mengacaukan irama dengan nada-nada sumbangnya! Pada saat menyelesaikan stage, tim yang menyerang dan mendapatkan loot dapat ekstra memperoleh: <style=\"ItemQuality_4\">Legendary Weapon Lv. 260</style>",
+    "Description": "Grin Piggy telah menghancurkan penghalang dimensi, menciptakan irama kacau dengan Note yang sumbang! Tim yang melakukan Attack dan mengambil Loot miliknya bisa mendapatkan tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Weapon Oranye Lv. 260</style>",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2312,6 +2328,390 @@
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 2
+  },
+  "2301": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang menelusuri cahaya datang dengan bawaan hadiah bagi mereka yang beruntung! Tim yang melancarkan Attack dan mengambil Loot miliknya, akan mendapat hadiah tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Gloves dan Earring Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2301,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "镜中的审判",
+    "TargetType": 3
+  },
+  "2302": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang menelusuri cahaya datang dengan bawaan hadiah bagi mereka yang beruntung! Tim yang melancarkan Attack dan mengambil Loot miliknya, akan mendapat hadiah tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Gloves dan Earring Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2302,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "镜中的审判",
+    "TargetType": 3
+  },
+  "2303": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang menelusuri cahaya datang dengan bawaan hadiah bagi mereka yang beruntung! Tim yang melancarkan Attack dan mengambil Loot miliknya, akan mendapat hadiah tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Gloves dan Earring Emas Lv. 340</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2303,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "镜中的审判",
+    "TargetType": 3
+  },
+  "2304": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang menelusuri cahaya datang dengan bawaan hadiah bagi mereka yang beruntung! Tim yang melancarkan Attack dan mengambil Loot miliknya, akan mendapat hadiah tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Gloves dan Earring Emas Lv. 360</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2304,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "镜中的审判",
+    "TargetType": 3
+  },
+  "2305": {
+    "Description": "Obsesi Wish mengkristal menjadi wujud nyata, Spirit Form yang datang mengikuti cahaya hadir dengan Bawaan hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa Mendapat hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Helmet dan Necklace Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2305,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·巨龙爪痕",
+    "TargetType": 3
+  },
+  "2306": {
+    "Description": "Obsesi Wish mengkristal menjadi wujud nyata, Spirit Form yang datang mengikuti cahaya hadir dengan Bawaan hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa Mendapat hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Helmet dan Necklace Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2306,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·巨龙爪痕",
+    "TargetType": 3
+  },
+  "2307": {
+    "Description": "Obsesi Wish mengkristal menjadi wujud nyata, Spirit Form yang datang mengikuti cahaya hadir dengan Bawaan hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa Mendapat hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Helmet dan Necklace Emas Lv. 340</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2307,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·巨龙爪痕",
+    "TargetType": 3
+  },
+  "2308": {
+    "Description": "Obsesi Wish mengkristal menjadi wujud nyata, Spirit Form yang datang mengikuti cahaya hadir dengan Bawaan hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa Mendapat hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Helmet dan Necklace Emas Lv. 360</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2308,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·巨龙爪痕",
+    "TargetType": 3
+  },
+  "2309": {
+    "Description": "Obsesi Wish telah mengkristal, Spirit Form yang datang mengikuti cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya akan mendapat hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Baju dan Ring Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2309,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "荒芜之庭",
+    "TargetType": 3
+  },
+  "2310": {
+    "Description": "Obsesi Wish telah mengkristal, Spirit Form yang datang mengikuti cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya akan mendapat hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Baju dan Ring Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2310,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "荒芜之庭",
+    "TargetType": 3
+  },
+  "2311": {
+    "Description": "Obsesi Wish telah mengkristal, Spirit Form yang datang mengikuti cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya akan mendapat hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Baju dan Ring Emas Lv. 340</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2311,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "荒芜之庭",
+    "TargetType": 3
+  },
+  "2312": {
+    "Description": "Obsesi Wish telah mengkristal, Spirit Form yang datang mengikuti cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya akan mendapat hadiah ekstra saat menyelesaikan stage: <style=\"ItemQuality_4\">Baju dan Ring Emas Lv. 360</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2312,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "荒芜之庭",
+    "TargetType": 3
+  },
+  "2313": {
+    "Description": "Obsesi dari Wish telah mengkristal, Spirit Form yang datang menelusuri cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya akan mendapat hadiah tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Bracelet (L) dan Bracelet (R) Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2313,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·流月之野",
+    "TargetType": 3
+  },
+  "2314": {
+    "Description": "Obsesi dari Wish telah mengkristal, Spirit Form yang datang menelusuri cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya akan mendapat hadiah tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Bracelet (L) dan Bracelet (R) Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2314,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·流月之野",
+    "TargetType": 3
+  },
+  "2315": {
+    "Description": "Obsesi dari Wish telah mengkristal, Spirit Form yang datang menelusuri cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya akan mendapat hadiah tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Bracelet (L) dan Bracelet (R) Emas Lv. 340</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2315,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·流月之野",
+    "TargetType": 3
+  },
+  "2316": {
+    "Description": "Obsesi dari Wish telah mengkristal, Spirit Form yang datang menelusuri cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya akan mendapat hadiah tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Bracelet (L) dan Bracelet (R) Emas Lv. 360</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2316,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·流月之野",
+    "TargetType": 3
+  },
+  "2317": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang datang menyusuri cahaya membawa hadiah untuk mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Boots dan Talisman Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2317,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·黯影堡垒",
+    "TargetType": 3
+  },
+  "2318": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang datang menyusuri cahaya membawa hadiah untuk mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Boots dan Talisman Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2318,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·黯影堡垒",
+    "TargetType": 3
+  },
+  "2319": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang datang menyusuri cahaya membawa hadiah untuk mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Boots dan Talisman Emas Lv. 340</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2319,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·黯影堡垒",
+    "TargetType": 3
+  },
+  "2320": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang datang menyusuri cahaya membawa hadiah untuk mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa Mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Boots dan Talisman Emas Lv. 360</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2320,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "弥妄·黯影堡垒",
+    "TargetType": 3
+  },
+  "2321": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang datang mengikuti cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Weapon Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2321,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "远天的神槛",
+    "TargetType": 3
+  },
+  "2322": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang datang mengikuti cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Weapon Emas Lv. 320</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2322,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "远天的神槛",
+    "TargetType": 3
+  },
+  "2323": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang datang mengikuti cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Weapon Emas Lv. 340</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2323,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "远天的神槛",
+    "TargetType": 3
+  },
+  "2324": {
+    "Description": "Obsesi dari Wish mengkristal menjadi wujud nyata, Spirit Form yang datang mengikuti cahaya membawa hadiah bagi mereka yang beruntung! Tim yang melakukan Attack dan mengambil Loot miliknya, bisa mendapat tambahan saat menyelesaikan stage: <style=\"ItemQuality_4\">Weapon Emas Lv. 360</style>",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "Id": 2324,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Roh Wish Penelusur Cahaya",
+    "PauseLogic": [],
+    "Remark": "远天的神槛",
+    "TargetType": 3
   },
   "24": {
     "Description": "Monster mendapat shield yang sepenuhnya kebal terhadap DMG sebanyak 3 kali setiap 20 detik.",
@@ -2442,7 +2842,7 @@
     "TargetType": 1
   },
   "301": {
-    "Description": "Sebagian musuh dalam dungeon akan mendapat nutrisi dari [Illusion Seed] sehingga statnya mendapat sedikit penguatan.<br><style=\"tipsYellow\">Kalahkan semua musuh dengan [Illusion Seed] untuk mendapat tambahan Echo Remnant! <style=\"tipsYellow\">",
+    "Description": "Beberapa musuh di dalam Dungeon memunculkan [Illusion Seed], dan Stat mereka mendapat sedikit Enhanced.<br><style=\"tipsYellow\">Kill musuh yang memiliki [Illusion Seed] untuk mendapat Echo Remnant tambahan!<style=\"tipsYellow\">",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2458,7 +2858,7 @@
     "TargetType": 3
   },
   "302": {
-    "Description": "Setelah dungeon dibuka, kalahkan monster atau picu peristiwa khusus untuk menambah Echo Remnant. Setelah penuh, Echo Movement akan dimulai dan semua pemain akan mendapat efek buff.",
+    "Description": "Setelah Dungeon dibuka, Echo Remnant dapat ditingkatkan dengan melakukan Kill pada Monster, memicu Peristiwa Khusus, dan sebagainya. Saat terisi penuh, Simfoni akan dimulai, sehingga semua Pemain mendapat Efek Buff.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2468,13 +2868,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Echo Movement",
+    "Name": "Simfoni Gema",
     "PauseLogic": [],
     "Remark": "S3核心词缀",
     "TargetType": 3
   },
   "303": {
-    "Description": "Perangkat speaker akan tersedia di lokasi tertentu dalam area. Gunakan Echo Remnant untuk berinteraksi dengannya dan memulai movement. Efek buff akan terbagi menjadi tiga tingkat sesuai dengan energi yang digunakan. Pada saat yang sama, monster dengan [Illusion Seed] yang ada di sekitar juga akan mendapat penguatan tambahan dan akan memberikan hadiah poin tambahan setelah dikalahkan. Movement tidak akan dimulai secara otomatis lagi di luar pertarungan boss.",
+    "Description": "Terdapat perangkat audio di posisi tetap dalam Area. Melakukan Interaksi dan menggunakan Echo Remnant dapat secara aktif mengaktifkan melodi, dan Efek Buff dibagi menjadi tiga tingkat berdasarkan Energi yang digunakan. Pada saat yang sama, hal ini akan membuat Monster di sekitar yang memiliki [Illusion Seed] mendapat Enhanced tambahan, serta memberikan Hadiah Poin tambahan setelah di-Kill. Kecuali dalam Pertarungan Boss, melodi tidak akan lagi aktif secara otomatis.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2484,7 +2884,7 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Carnival Speaker",
+    "Name": "Speaker Karnaval",
     "PauseLogic": [],
     "Remark": "S3核心词缀",
     "TargetType": 3
@@ -2506,7 +2906,7 @@
     "TargetType": 2
   },
   "311": {
-    "Description": "Setiap beberapa saat, medan nada akan muncul di sekitar pemain secara acak. Pemain bisa menarik dan memindahkannya. Ketika monster tingkat elite ke atas gugur di dalam medan nada, akan membentuk partikel nada. Pungut untuk mendapat tambahan Echo Remnant!",
+    "Description": "Secara berkala, medan Note akan muncul di sekitar Pemain secara acak, dan Pemain dapat menariknya untuk bergerak. Saat Monster tingkat Elite ke atas mati di dalam medan Note, partikel Note tambahan akan dijatuhkan. Mengambilnya akan memberikan tambahan Echo Remnant!",
     "Effect": [[3, 1, 873601, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -2522,7 +2922,7 @@
     "TargetType": 1
   },
   "312": {
-    "Description": "Setiap beberapa saat, seekor Goblin yang berkilau akan muncul dalam area. Kalahkan untuk mendapat Echo Remnant. Jangan lupa untuk segera membelakanginya saat lampu di atas kepalanya berkedip!",
+    "Description": "Secara berkala, seekor Goblin yang bersinar akan muncul di Area. Kill Goblin tersebut untuk mendapat Echo Remnant. Saat bola lampu di atas kepalanya berkedip, perhatian, segera membelakanginya!",
     "Effect": [[3, 1, 873602, 0, 1, 1]],
     "EffectTime": [[2.0, 180000.0]],
     "EffectType": 2,
@@ -2532,13 +2932,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Focus Moment",
+    "Name": "Momen Fokus",
     "PauseLogic": [1],
     "Remark": "S3核心词缀",
     "TargetType": 1
   },
   "313": {
-    "Description": "Setiap beberapa saat, seekor Koi akan muncul dan menari di sekitar pemain sambil memberi Echo Remnant, namun HP Koi akan terus-menerus berkurang. Pulihkan HP Koi untuk mendapat lebih banyak bonus!",
+    "Description": "Secara berkala, seekor Koi yang sedang Dance akan muncul di sekitar Pemain. HP-nya akan terus berkurang sambil memberikan Echo Remnant kepada Pemain. Berikan Heal kepadanya untuk mendapatkan lebih banyak Boost!",
     "Effect": [[3, 1, 873603, 0, 1, 1]],
     "EffectTime": [[2.0, 180000.0]],
     "EffectType": 2,
@@ -2548,13 +2948,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Dance of Offering",
+    "Name": "Tarian Persembahan",
     "PauseLogic": [1],
     "Remark": "S3核心词缀",
     "TargetType": 1
   },
   "314": {
-    "Description": "Saat Monster tingkat Elite ke atas menghilang, terdapat peluang munculnya satu Self-Burst Robot yang akan memberikan DMG kepada seluruh Pemain setelah waktu tertentu.",
+    "Description": "Saat Monster tingkat Elite ke atas lenyap, terdapat Peluang munculnya sebuah Self-Burst Robot yang akan memberikan DMG kepada seluruh Pemain setelah waktu tertentu.",
     "Effect": [[1, 4, 866415, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2570,7 +2970,7 @@
     "TargetType": 2
   },
   "315": {
-    "Description": "Secara berkala, sebuah Bom Jahil yang tidak dapat di-Attack akan muncul di sekitar Pemain. Setelah casting selesai, bom akan memberikan DMG kepada seluruh Pemain dan memberikan Efek Debuff. Bom akan Hilang setelah casting-nya di-Interrupt 3 kali berturut-turut.",
+    "Description": "Setiap beberapa saat, sebuah Bom Jahil yang tidak dapat dihancurkan akan muncul di sekitar pemain. Jika proses perapalannya berhasil, bom ini akan mengakibatkan DMG dan memberikan efek debuff kepada seluruh pemain. Bom akan hilang setelah proses perapalannya terkena Interrupt sebanyak 3 kali berturut-turut.",
     "Effect": [[3, 1, 873606, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -2580,13 +2980,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Sandiwara Jenaka",
+    "Name": "Lelucon Konyol",
     "PauseLogic": [1, 2],
     "Remark": "冲榜验证词缀",
     "TargetType": 1
   },
   "316": {
-    "Description": "Setiap beberapa saat, beberapa Void Afterimage akan muncul di Area sekitar yang cukup luas, mencoba memberikan DMG tinggi kepada Pemain beserta Efek Debuff. Jika Chant mereka di-Interrupt atau terkena Control, mereka akan langsung menghilang.",
+    "Description": "Secara berkala, beberapa Void Afterimage akan muncul di Area sekitar yang cukup luas, mencoba memberikan DMG tinggi kepada Pemain beserta Efek Debuff. Jika Chant mereka di-Interrupt atau terkena Control, mereka akan langsung lenyap.",
     "Effect": [[3, 1, 873608, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -2602,7 +3002,7 @@
     "TargetType": 1
   },
   "317": {
-    "Description": "Setelah memasuki Pertarungan, Pemain terus menumpuk Debuff Effect [Imprint Korosi Tubuh], setiap tumpukan meningkatkan DMG yang diterima. Dapat di-Dispel.",
+    "Description": "Setelah memasuki Pertarungan, Pemain akan menumpuk Debuff Effect [Imprint Korosi Tubuh] secara Sustained, setiap tumpukan akan meningkatkan DMG yang diterima. Dapat di-Dispel.",
     "Effect": [[1, 1, 873609, 0]],
     "EffectTime": [[]],
     "EffectType": 1,
@@ -2612,13 +3012,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Imprint Korosi Tubuh",
+    "Name": "Imprint Tubuh Korosi",
     "PauseLogic": [],
     "Remark": "冲榜验证词缀",
     "TargetType": 1
   },
   "318": {
-    "Description": "Secara berkala, Robot tipe Heal akan muncul di sekitar Pemain dan terus melepaskan Repair Wave untuk memulihkan HP musuh. Setelah Skill berakhir, Robot akan menghilang dengan sendirinya.",
+    "Description": "Setiap beberapa saat, Robot tipe Heal akan muncul di sekitar Pemain, melepaskan Repair Wave secara terus-menerus untuk memulihkan HP musuh. Setelah Skill berakhir, Robot akan menghilang dengan sendirinya.",
     "Effect": [[3, 1, 873615, 0, 1, 1]],
     "EffectTime": [[2.0, 45000.0]],
     "EffectType": 2,
@@ -2634,7 +3034,7 @@
     "TargetType": 1
   },
   "319": {
-    "Description": "Saat Spawn, Monster tingkat Elite ke atas memiliki Shield bawaan sebesar 50% dari Max HP. Selama Shield aktif, mereka mendapat Efek Damage Reduction yang besar. Setelah terkena Endurance Break, Shield dan Efek Damage Reduction tersebut akan dihilangkan.",
+    "Description": "Saat Spawn, Monster tingkat Elite ke atas memiliki Shield bawaan sebesar 50% Max HP. Selama Shield aktif, mereka mendapat Efek Damage Reduction yang besar. Setelah terkena Endurance Break, Shield dan Efek Damage Reduction tersebut akan dihilangkan.",
     "Effect": [[1, 4, 873616, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2666,7 +3066,7 @@
     "TargetType": 2
   },
   "320": {
-    "Description": "Setiap beberapa saat, sebuah Void Meteor akan jatuh dari langit, mengakibatkan DMG tinggi yang di-Share pada Area serta memberikan Debuff Effect yang mengurangi Max HP. Jika tidak ada satu pun Pemain yang melakukan Share, maka Meteor akan menghancurkan tanah, mengakibatkan DMG tinggi dan Debuff Effect kepada seluruh tim.",
+    "Description": "Secara berkala, sebuah Void Meteor akan jatuh dari langit, memberikan DMG tinggi yang di-Share pada Area serta memberikan Debuff Effect berupa pengurangan Max HP. Jika tidak ada satu pun Pemain yang melakukan Share, maka Meteor tersebut akan menghancurkan tanah, memberikan DMG tinggi dan Debuff Effect kepada seluruh tim.",
     "Effect": [[3, 1, 873617, 0, 1, 1]],
     "EffectTime": [[2.0, 45000.0]],
     "EffectType": 2,
@@ -2682,7 +3082,7 @@
     "TargetType": 1
   },
   "321": {
-    "Description": "Secara berkala, tiga ilusi misterius akan muncul, terhubung untuk menahan Pemain dan secara bertahap mengurangi DMG yang ditimbulkan Pemain. Saat tidak ada Monster lain di sekitar ilusi, ilusi tersebut akan mendapat DR yang signifikan.",
+    "Description": "Secara berkala, tiga ilusi misterius akan muncul, terhubung untuk menahan Pemain dan secara bertahap mengurangi DMG yang dihasilkan. Saat tidak ada Monster lain di sekitar ilusi, mereka akan mendapat DR yang signifikan.",
     "Effect": [[3, 1, 873621, 0, 1, 1]],
     "EffectTime": [[2.0, 60000.0]],
     "EffectType": 2,
@@ -2698,7 +3098,7 @@
     "TargetType": 1
   },
   "322": {
-    "Description": "Secara berkala, akan muncul dua tornado yang melacak pergerakan Pemain, memberikan Sustained DMG serta Efek knockback.",
+    "Description": "Secara berkala, muncul dua angin puyuh yang melacak pergerakan Pemain, memberikan Sustained DMG serta Efek knockback.",
     "Effect": [[3, 1, 873623, 0, 1, 2]],
     "EffectTime": [[2.0, 60000.0]],
     "EffectType": 2,
@@ -2708,13 +3108,13 @@
     "IsShowUI": true,
     "Level": 1,
     "Mutex": [],
-    "Name": "Angin Puyuh Penyerbu",
+    "Name": "Serbuan Angin Puyuh",
     "PauseLogic": [1, 2],
     "Remark": "冲榜验证词缀N20",
     "TargetType": 1
   },
   "323": {
-    "Description": "Secara berkala, tiga Pemain acak akan dirasuki oleh Crystal Cahaya Membara. Saat muncul, Crystal akan mengakibatkan DMG ledakan dua kali berturut-turut dan memberikan Efek Severe Wound.",
+    "Description": "Setiap beberapa saat, tiga Pemain acak akan dirasuki oleh Crystal Cahaya Pijar. Kemunculan Crystal ini akan menimbulkan dua kali DMG ledakan berturut-turut dan memberikan Efek Severe Wound.",
     "Effect": [[3, 1, 873632, 0, 1, 3]],
     "EffectTime": [[2.0, 45000.0]],
     "EffectType": 2,
@@ -2730,7 +3130,7 @@
     "TargetType": 1
   },
   "324": {
-    "Description": "Secara berkala, beberapa Crystal Eclipse akan muncul dan melakukan casting untuk menyerang Pemain secara acak. Crystal akan menghilang dengan sendirinya 10 detik setelah muncul.",
+    "Description": "Secara berkala, beberapa Eclipse Crystal akan muncul untuk melakukan casting dan secara acak melancarkan Attack kepada Pemain. Crystal tersebut akan menghilang dengan sendirinya 10 detik setelah muncul.",
     "Effect": [[3, 1, 873626, 0, 1, 1]],
     "EffectTime": [[2.0, 60000.0]],
     "EffectType": 2,
@@ -2746,7 +3146,7 @@
     "TargetType": 1
   },
   "325": {
-    "Description": "Meningkatkan secara signifikan DMG yang dihasilkan oleh Normal Attack Monster.",
+    "Description": "Meningkatkan secara drastis DMG yang dihasilkan oleh Normal Attack Monster.",
     "Effect": [[1, 4, 873627, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2762,7 +3162,7 @@
     "TargetType": 3
   },
   "326": {
-    "Description": "Meningkatkan secara signifikan DMG yang dihasilkan oleh Normal Attack Monster.",
+    "Description": "Meningkatkan secara drastis DMG yang dihasilkan oleh Normal Attack Monster.",
     "Effect": [[1, 4, 873628, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2778,7 +3178,7 @@
     "TargetType": 3
   },
   "327": {
-    "Description": "Meningkatkan secara signifikan DMG yang dihasilkan oleh Normal Attack Monster.",
+    "Description": "Meningkatkan secara drastis DMG yang dihasilkan oleh Normal Attack Monster.",
     "Effect": [[1, 4, 873629, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2794,7 +3194,7 @@
     "TargetType": 3
   },
   "328": {
-    "Description": "Meningkatkan secara signifikan DMG yang dihasilkan oleh Normal Attack Monster.",
+    "Description": "Meningkatkan secara drastis DMG yang dihasilkan oleh Normal Attack Monster.",
     "Effect": [[1, 4, 873630, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -2808,6 +3208,22 @@
     "PauseLogic": [],
     "Remark": "普攻增伤N20",
     "TargetType": 3
+  },
+  "329": {
+    "Description": "Monster non-Boss akan mendapat [Reshape] saat hampir mati, menjadi kebal terhadap DMG selama 4 detik dan mendapat Heal sebesar 40% dari Max HP. Saat efek berakhir, monster akan melepaskan gelombang kejut yang mengakibatkan DMG berdasarkan persentase sisa HP.",
+    "Effect": [[1, 4, 866304, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_fuhuaizaisheng",
+    "Id": 329,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Darah Naga",
+    "PauseLogic": [],
+    "Remark": "冲榜验证词缀N20",
+    "TargetType": 2
   },
   "33": {
     "Description": "Saat spawn, monster akan mendapat satu tumpuk Thunder Element Shield, lalu menerima 150% Thunder DMG dan 50% DMG stat lainnya.",
@@ -2824,6 +3240,38 @@
     "PauseLogic": [],
     "Remark": "英雄本词缀",
     "TargetType": 2
+  },
+  "330": {
+    "Description": "Secara berkala memberikan sebuah bom kepada pemain acak. Saat hitung mundur berakhir, bom akan meledak dan mengakibatkan DMG, lalu mencoba melemparkan bom ke pemain lain terdekat di depan. Bom memiliki total 5 tumpuk; setiap ledakan mengurangi 1 tumpuk dan menggandakan DMG berikutnya. Saat bom tidak dapat dioper atau dioper kembali kepada pemain yang sudah pernah memegang bom pada putaran tersebut, semua tumpuk yang tersisa akan meledak sekaligus dan mengakibatkan DMG ke seluruh area.",
+    "Effect": [[3, 1, 866306, 0, 1, 1]],
+    "EffectTime": [[2.0, 60000.0]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_dingshizhadan",
+    "Id": 330,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Oper Bunga",
+    "PauseLogic": [1, 2],
+    "Remark": "冲榜验证词缀N20",
+    "TargetType": 1
+  },
+  "331": {
+    "Description": "Pemain mendapat [Malignant Transmitter] secara permanen, terus-menerus menerima DMG dan menumpuk efek status. Pada tumpukan pertama, status ini mengakibatkan DMG yang besar. Mulai dari tumpukan kedua, DMG dasar berubah menjadi kecil, dan setiap tumpukan berikutnya akan meningkatkan DoT serta menurunkan DMG yang diakibatkan dan Heal. Semakin tinggi jumlah tumpukan, semakin besar pula efeknya. Jumlah tumpukan dapat dikurangi dengan Dispel, namun tidak dapat dihapus sepenuhnya.",
+    "Effect": [[1, 1, 866309, 0]],
+    "EffectTime": [[2.0, 0.0]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_linghunhongxi",
+    "Id": 331,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Mimpi Buruk",
+    "PauseLogic": [],
+    "Remark": "冲榜验证词缀N20",
+    "TargetType": 1
   },
   "34": {
     "Description": "Saat spawn, monster akan mendapat satu tumpuk Wind Element Shield, lalu menerima 150% Wind DMG dan 50% DMG stat lainnya.",
@@ -2954,7 +3402,7 @@
     "TargetType": 1
   },
   "400": {
-    "Description": "Saat Tim memiliki Class dengan peran Guardian, Support, dan Attack secara bersamaan, DMG seluruh Tim meningkat 5%, dan meningkat tambahan 5% untuk setiap Aliran yang berbeda di dalam Tim.",
+    "Description": "Saat Tim memiliki Class dengan peran Guardian, Support, dan Attack secara bersamaan, DMG seluruh Tim meningkat 5%, dan meningkat tambahan 5% untuk setiap Aliran yang tidak berulang di dalam Tim.",
     "Effect": [[1, 4, 0, 0]],
     "EffectTime": [[]],
     "EffectType": 1,
@@ -2965,6 +3413,102 @@
     "Level": 1,
     "Mutex": [],
     "Name": "Power of Unity - Ultimate",
+    "PauseLogic": [],
+    "Remark": "",
+    "TargetType": 3
+  },
+  "401": {
+    "Description": "Sebelum resmi membuka Dungeon, Pemain dapat memilih satu dari 5 Instrumen Sumpah sebagai sumpah mereka untuk mendapat Buff Stat yang berbeda; beberapa Pemain dapat memilih sumpah yang sama, tetapi semakin banyak sumpah berbeda yang dipilih oleh Tim, semakin tinggi efisiensi dalam mendapat Energi Oath.",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_chongsu",
+    "Id": 401,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Blessing",
+    "PauseLogic": [],
+    "Remark": "S4核心词缀",
+    "TargetType": 3
+  },
+  "402": {
+    "Description": "Setelah Dungeon dibuka, saat berada dalam status pertarungan, kamu dapat mendapatkan Energi Oath dengan melakukan Kill pada Monster. Kamu dapat menggunakan Energi Oath untuk membuka Trial Wish, mendapatkan Buff, dan meningkatkan Level Oath, sekaligus membuat Monster di sekitar mendapatkan Efek Enhanced pada tingkat tertentu. Setelah Target Penaklukan selesai, Trial tidak dapat dibuka lagi.<br><style=\"tipsYellow\">Kamu bisa mendapatkan lebih banyak Energi Oath dengan melakukan Kill pada musuh yang Enhanced!<style=\"tipsYellow\">",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_shuangrenjian",
+    "Id": 402,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Energi Oath",
+    "PauseLogic": [],
+    "Remark": "S4核心词缀",
+    "TargetType": 3
+  },
+  "403": {
+    "Description": "Setelah mengaktifkan Wish Trial, semua Monster di sekitar mendapat Enhanced, meningkatkan ATK dan Attack Speed. Semakin banyak Monster di sekitar, Boost ini akan meningkat secara ekstra, hingga maksimal 100%.",
+    "Effect": [[1, 4, 0, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "Id": 403,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Trial - Tenacity",
+    "PauseLogic": [],
+    "Remark": "",
+    "TargetType": 3
+  },
+  "404": {
+    "Description": "Setelah mengaktifkan Wish Trial, semua Monster di sekitar mendapat kekuatan api, dan akan meledak saat mati, memberikan DMG kepada Pemain di sekitarnya.",
+    "Effect": [[1, 4, 702115, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_jili",
+    "Id": 404,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Trial - Hati Membara",
+    "PauseLogic": [],
+    "Remark": "",
+    "TargetType": 3
+  },
+  "405": {
+    "Description": "Setelah mengaktifkan Wish Trial, semua Monster di sekitar mendapat Frost Shield, dan Shield tersebut akan perlahan berkurang seiring berjalannya waktu.",
+    "Effect": [[1, 4, 702116, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_jili",
+    "Id": 405,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Trial · Beku Menusuk",
+    "PauseLogic": [],
+    "Remark": "",
+    "TargetType": 3
+  },
+  "406": {
+    "Description": "Setelah Wish Trial diaktifkan, semua Monster di sekitar akan mendapat efek Shadowbind Enhanced, secara berkala terhubung dengan seorang Pemain dan memberikan DMG kepadanya. Menjauh dapat memutuskan koneksi tersebut.",
+    "Effect": [[1, 4, 702117, 0]],
+    "EffectTime": [[]],
+    "EffectType": 2,
+    "GsChange": 0,
+    "Icon": "ui/atlas/affix/com_affix_jili",
+    "Id": 406,
+    "IsShowUI": true,
+    "Level": 1,
+    "Mutex": [],
+    "Name": "Trial - Belenggu Bayangan",
     "PauseLogic": [],
     "Remark": "",
     "TargetType": 3
@@ -3437,7 +3981,7 @@
     "TargetType": 1
   },
   "62": {
-    "Description": "Secara berkala, Shield akan terbentuk pada satu Pemain. Setelah 5 detik, Boltstrike akan menyambar seluruh Pemain, dan Pemain di luar Shield akan terkena DMG sebesar 50% dari Max HP serta efek Stun.",
+    "Description": "Secara berkala, sebuah Shield akan terbentuk pada satu Pemain. Setelah 5 detik, Boltstrike akan menyambar seluruh Pemain. Pemain yang berada di luar Shield akan menerima DMG sebesar 50% dari Max HP dan terkena Efek Stun.",
     "Effect": [[3, 1, 866420, 0, 1, 1]],
     "EffectTime": [[2.0, 90000.0]],
     "EffectType": 2,
@@ -3485,7 +4029,7 @@
     "TargetType": 1
   },
   "65": {
-    "Description": "Monster selain boss akan memasuki status Enrage saat HP mereka turun menjadi 30%. DMG mereka akan meningkat 100% hingga mereka dikalahkan.",
+    "Description": "Monster non-Boss akan mengalami Enrage saat HP turun hingga 25%, meningkatkan DMG sebesar 25% hingga dikalahkan.",
     "Effect": [[1, 4, 866426, 0]],
     "EffectTime": [[]],
     "EffectType": 2,
@@ -3518,8 +4062,8 @@
   },
   "67": {
     "Description": "Setelah memasuki pertarungan, area beku berbentuk lingkaran akan muncul di permukaan tanah secara acak. Ketika berada di dalam area, karakter akan terkena pengurangan 25% Move Speed dan menerima DMG sebesar 5% dari Max HP setiap detik. Setelah 5 detik, area tersebut akan meledak dan mengakibatkan DMG sebesar 25% dari Max HP dan efek Frost selama 5 detik terhadap pemain yang berada dalam area.",
-    "Effect": [[1, 1, 866428, 0]],
-    "EffectTime": [[2.0, 0.0]],
+    "Effect": [[1, 3, 866428, 0]],
+    "EffectTime": [[]],
     "EffectType": 2,
     "GsChange": 0,
     "Icon": "ui/atlas/affix/com_affix_bingfenglingyu",
@@ -3887,7 +4431,7 @@
   "88": {
     "Description": "Setiap berselang beberapa saat, empat pemain acak akan terjerumus dalam status Heat secara berkala selama 3 detik. Selama status ini, pemain akan kehilangan HP jika bergerak.",
     "Effect": [[3, 1, 873001, 0, 1, 4]],
-    "EffectTime": [[2.0, 90000.0]],
+    "EffectTime": [[2.0, 30000.0]],
     "EffectType": 2,
     "GsChange": 0,
     "Icon": "ui/atlas/affix/com_affix_anmie",
@@ -3903,7 +4447,7 @@
   "89": {
     "Description": "Setiap berselang beberapa saat, Shock Area akan muncul di bawah kaki tiga pemain acak secara berkala. Saat meledak, area ini akan mengakibatkan DMG dan efek Stun pada pemain lain yang berada dalam area.",
     "Effect": [[3, 1, 873104, 0, 1, 3]],
-    "EffectTime": [[2.0, 90000.0]],
+    "EffectTime": [[2.0, 30000.0]],
     "EffectType": 2,
     "GsChange": 0,
     "Icon": "ui/atlas/affix/com_affix_zhadanren",

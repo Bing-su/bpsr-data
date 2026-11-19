@@ -131,6 +131,18 @@
     "ThemePic": "ui/textures/investigation/investigation_common_bg",
     "UnlockCondition": [[2, 185220, 185220016]]
   },
+  "14001": {
+    "CompletionConditions": [],
+    "Guarantee": 3,
+    "Id": 14001,
+    "InvestigationStep": [140011],
+    "InvestigationTheme": "เบาะแสตัวตนที่ Carrie ทิ้งไว้",
+    "IockedTips": "ดำเนินเควสต์ <style=\"emph-quest\">XXXX</style> เพื่อปลดล็อกการสืบสวน",
+    "IsHidePlayerModel": false,
+    "ThemeIntroduction": "หลังจากที่ Carrie หายตัวไป ความทรงจำเกี่ยวกับเธอก็เริ่มเกิดความขัดแย้งที่ไม่อาจอธิบายได้ โชคดีที่ในช่วงเวลาที่เดินทางด้วยกัน เธอเคยเล่าเรื่องราวของตัวเองให้ฟังอยู่ไม่น้อย บางทีอาจจะลองรวบรวมและจัดระเบียบข้อมูลเหล่านี้ใหม่ก่อน แล้วค่อยตรวจสอบทีละเรื่องว่ามันมีอยู่จริงหรือไม่",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "UnlockCondition": [[2, 11401, 11401002]]
+  },
   "2001": {
     "CompletionConditions": [],
     "Guarantee": 3,

@@ -155,6 +155,22 @@
     "ReviewBubble": ["With the help of people aboard the ship, Airona has found a breakthrough."],
     "ReviewBubbleAction": [9047]
   },
+  "140011": {
+    "Clue": [1400111, 1400112, 1400113],
+    "Conclusion": "Carrie claimed to be an Adventurer of the Pioneer Bureau, competed in Thunder Demon Smackdown at the carnival, and later became a councilor of Asterleeds. She also said her parents have always lived near the Statue of the Hero in Minsterhorn. All of these should have left verifiable traces.",
+    "ConclusionAction": 9033,
+    "ConclusionBubble": "Rather than keep guessing who she is, let's see how much of it is actually true.",
+    "ConclusionTips": "Investigate the identity information Carrie left",
+    "Id": 140011,
+    "InferenceStep": [1400111, 1400112, 1400113],
+    "IockedBubble": ["She said quite a lot... think back carefully."],
+    "IockedBubbleAction": [9019],
+    "QuickReasoning": true,
+    "ReviewBubble": [
+      "The identity information Carrie left behind has been sorted. Next, we just need to verify whether each of these experiences really happened."
+    ],
+    "ReviewBubbleAction": [9047]
+  },
   "20011": {
     "Clue": [200111, 200112, 200113],
     "Conclusion": "Everyone has different opinions. Let's discuss it with Airona.",
@@ -223,7 +239,7 @@
     "ConclusionTips": "Go to the eastern cliff",
     "Id": 40011,
     "InferenceStep": [400111, 400112, 400113],
-    "IockedBubble": ["No, it's still too early to reach a conclusion."],
+    "IockedBubble": ["No, I can't reach a conclusion yet."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["Maybe I really do have a talent for detective work!"],
@@ -251,7 +267,7 @@
     "ConclusionTips": "Find Boyce on the road in front of the Pillar of Divinity",
     "Id": 70011,
     "InferenceStep": [700111, 700112],
-    "IockedBubble": ["No, it's still too early to reach a conclusion."],
+    "IockedBubble": ["No, I can't reach a conclusion yet."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["That must be it."],
@@ -279,7 +295,7 @@
     "ConclusionTips": "Discuss with Airona.",
     "Id": 90011,
     "InferenceStep": [900111, 900112, 900113],
-    "IockedBubble": ["No, it's still too early to reach a conclusion."],
+    "IockedBubble": ["No, I can't reach a conclusion yet."],
     "IockedBubbleAction": [9019],
     "QuickReasoning": true,
     "ReviewBubble": ["See through everything."],

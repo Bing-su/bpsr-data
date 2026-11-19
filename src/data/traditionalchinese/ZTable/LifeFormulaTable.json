@@ -294,6 +294,48 @@
       [9, 10220]
     ]
   },
+  "101027": {
+    "Attribute": [],
+    "Des": "學會專注採集較為罕見的蒙特諾爾溪谷的蔬菜採集物",
+    "GroupId": 1027,
+    "Icon": "ui/atlas/life_formula/life_collect/mushroom_gathering_02",
+    "Id": 101027,
+    "Level": 1,
+    "Name": "蒙特諾爾蔬菜採集·掌握",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "101028": {
+    "Attribute": [],
+    "Des": "學會專注採集較為罕見的蒙特諾爾溪谷的果實採集物",
+    "GroupId": 1028,
+    "Icon": "ui/atlas/life_formula/life_collect/fruit_gathering_02",
+    "Id": 101028,
+    "Level": 1,
+    "Name": "蒙特諾爾果實採集·掌握",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "101029": {
+    "Attribute": [],
+    "Des": "學會專注採集較為罕見的蒙特諾爾溪谷的藥草採集物",
+    "GroupId": 1029,
+    "Icon": "ui/atlas/life_formula/life_collect/herb_gathering_02",
+    "Id": 101029,
+    "Level": 1,
+    "Name": "蒙特諾爾藥草採集·掌握",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 101,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
   "102001": {
     "Attribute": [],
     "Des": "學會專注採集巴魯礦獲得巴魯礦石",
@@ -647,6 +689,34 @@
       [59, 10224, 1],
       [9, 10220]
     ]
+  },
+  "102029": {
+    "Attribute": [],
+    "Des": "學會專注採集荒砂鐵礦獲得荒砂鐵礦石",
+    "GroupId": 10229,
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_02",
+    "Id": 102029,
+    "Level": 1,
+    "Name": "荒砂鐵礦入門",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 102,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "102030": {
+    "Attribute": [],
+    "Des": "學會專注採集米里斯礦獲得米里斯礦石",
+    "GroupId": 10230,
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_03",
+    "Id": 102030,
+    "Level": 1,
+    "Name": "米里斯礦入門",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 102,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
   },
   "103001": {
     "Attribute": [],
@@ -1071,6 +1141,62 @@
     "ProId": 103,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "103033": {
+    "Attribute": [],
+    "Des": "學會專注採集溪谷赤紅水晶原礦獲得幻蝕赤晶原石·4級",
+    "GroupId": 10333,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/ruby_familiarity",
+    "Id": 103033,
+    "Level": 1,
+    "Name": "幻蝕赤紅水晶專家",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103034": {
+    "Attribute": [],
+    "Des": "學會專注採集溪谷藍水晶原礦獲得幻蝕藍晶原石·4級",
+    "GroupId": 10334,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/sapphire_familiarity",
+    "Id": 103034,
+    "Level": 1,
+    "Name": "幻蝕藍水晶專家",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103035": {
+    "Attribute": [],
+    "Des": "學會專注採集溪谷綠水晶原礦獲得幻蝕翠晶原石·4級",
+    "GroupId": 10335,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/emerald_familiarity",
+    "Id": 103035,
+    "Level": 1,
+    "Name": "幻蝕綠水晶專家",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "103036": {
+    "Attribute": [],
+    "Des": "學會專注採集溪谷黃水晶原礦獲得幻蝕耀晶原石·4級",
+    "GroupId": 10336,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/white_sapphire_familiarity",
+    "Id": 103036,
+    "Level": 1,
+    "Name": "幻蝕黃水晶專家",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 103,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
   },
   "201001": {
     "Attribute": [],
@@ -1579,6 +1705,99 @@
     "ProId": 201,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "201037": {
+    "Attribute": [],
+    "Des": "學會使用蒙特諾爾溪谷的蝦類進行烹飪",
+    "GroupId": 2037,
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "Id": 201037,
+    "Level": 1,
+    "Name": "蒙特諾爾蝦類料理入門",
+    "NeedPoint": 1,
+    "NextNodes": [201041],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201038": {
+    "Attribute": [],
+    "Des": "學會使用蒙特諾爾溪谷的蔬菜進行烹飪",
+    "GroupId": 2038,
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_01",
+    "Id": 201038,
+    "Level": 1,
+    "Name": "蒙特諾爾蔬菜料理入門",
+    "NeedPoint": 1,
+    "NextNodes": [201042],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201040": {
+    "Attribute": [],
+    "Des": "學會使用蒙特諾爾溪谷的果實進行烹飪",
+    "GroupId": 2040,
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "Id": 201040,
+    "Level": 1,
+    "Name": "蒙特諾爾果實料理入門",
+    "NeedPoint": 1,
+    "NextNodes": [201044],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "201041": {
+    "Attribute": [],
+    "Des": "學會使用蒙特諾爾溪谷的蝦類進行較為精緻的烹飪",
+    "GroupId": 2041,
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "Id": 201041,
+    "Level": 1,
+    "Name": "蒙特諾爾蝦類料理掌握",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2037, 1],
+      [9, 10419]
+    ]
+  },
+  "201042": {
+    "Attribute": [],
+    "Des": "學會使用蒙特諾爾溪谷的蔬菜進行較為精緻的烹飪",
+    "GroupId": 2042,
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_02",
+    "Id": 201042,
+    "Level": 1,
+    "Name": "蒙特諾爾蔬菜料理掌握",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2038, 1],
+      [9, 10419]
+    ]
+  },
+  "201044": {
+    "Attribute": [],
+    "Des": "學會使用蒙特諾爾溪谷的果實進行較為精緻的烹飪",
+    "GroupId": 2044,
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "Id": 201044,
+    "Level": 1,
+    "Name": "蒙特諾爾果實料理掌握",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 201,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 2040, 1],
+      [9, 10419]
+    ]
   },
   "202001": {
     "Attribute": [],
@@ -2231,6 +2450,161 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "202051": {
+    "Attribute": [],
+    "Des": "學會使用蒙特諾爾溪谷的草藥製作回血藥劑，物理、魔法增效藥劑",
+    "GroupId": 3051,
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "Id": 202051,
+    "Level": 1,
+    "Name": "蒙特諾爾草藥學識·等級1",
+    "NeedPoint": 1,
+    "NextNodes": [202056],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202052": {
+    "Attribute": [],
+    "Des": "學會製作冰火藥劑",
+    "GroupId": 3052,
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "Id": 202052,
+    "Level": 1,
+    "Name": "蒙特諾爾冰火學識·等級1",
+    "NeedPoint": 1,
+    "NextNodes": [202057],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202053": {
+    "Attribute": [],
+    "Des": "學會製作森岩藥劑",
+    "GroupId": 3053,
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "Id": 202053,
+    "Level": 1,
+    "Name": "蒙特諾爾自然學識·等級1",
+    "NeedPoint": 1,
+    "NextNodes": [202058],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202054": {
+    "Attribute": [],
+    "Des": "學會製作風雷藥劑",
+    "GroupId": 3054,
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "Id": 202054,
+    "Level": 1,
+    "Name": "蒙特諾爾風雷學識·等級1",
+    "NeedPoint": 1,
+    "NextNodes": [202059],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202055": {
+    "Attribute": [],
+    "Des": "學會製作光暗藥劑",
+    "GroupId": 3055,
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "Id": 202055,
+    "Level": 1,
+    "Name": "蒙特諾爾光暗學識·等級1",
+    "NeedPoint": 1,
+    "NextNodes": [202060],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "202056": {
+    "Attribute": [],
+    "Des": "學會使用蒙特諾爾溪谷的草藥製作更高級的回血藥劑，物理、魔法增效藥劑",
+    "GroupId": 3056,
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "Id": 202056,
+    "Level": 1,
+    "Name": "蒙特諾爾草藥學識·等級2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3051, 1],
+      [9, 10419]
+    ]
+  },
+  "202057": {
+    "Attribute": [],
+    "Des": "學會製作更高級的冰火藥劑",
+    "GroupId": 3057,
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "Id": 202057,
+    "Level": 1,
+    "Name": "蒙特諾爾冰火學識·等級2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3052, 1],
+      [9, 10419]
+    ]
+  },
+  "202058": {
+    "Attribute": [],
+    "Des": "學會製作更高級的森岩藥劑",
+    "GroupId": 3058,
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "Id": 202058,
+    "Level": 1,
+    "Name": "蒙特諾爾自然學識·等級2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3053, 1],
+      [9, 10419]
+    ]
+  },
+  "202059": {
+    "Attribute": [],
+    "Des": "學會製作更高級的風雷藥劑",
+    "GroupId": 3059,
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "Id": 202059,
+    "Level": 1,
+    "Name": "蒙特諾爾風雷學識·等級2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3054, 1],
+      [9, 10419]
+    ]
+  },
+  "202060": {
+    "Attribute": [],
+    "Des": "學會製作更高級的光暗藥劑",
+    "GroupId": 3060,
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "Id": 202060,
+    "Level": 1,
+    "Name": "蒙特諾爾光暗學識·等級2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 202,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 3055, 1],
+      [9, 10419]
+    ]
+  },
   "203001": {
     "Attribute": [],
     "Des": "學會使用巴魯礦石製作加工神秘金屬",
@@ -2359,7 +2733,7 @@
   },
   "203010": {
     "Attribute": [],
-    "Des": "學會使用斯托克斯富礦石製作加工出布裡機械片",
+    "Des": "學會使用斯托克斯富礦石製作加工出布里機械片",
     "GroupId": 4010,
     "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_equipment_gems_01",
     "Id": 203010,
@@ -2373,7 +2747,7 @@
   },
   "203011": {
     "Attribute": [],
-    "Des": "學會使用斯托克斯精礦石製作加工出布裡機械片",
+    "Des": "學會使用斯托克斯精礦石製作加工出布里機械片",
     "GroupId": 4011,
     "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_equipment_gems_02",
     "Id": 203011,
@@ -2640,6 +3014,99 @@
     "ProId": 203,
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
+  },
+  "203033": {
+    "Attribute": [],
+    "Des": "學會使用荒砂鐵礦石製作加工神秘金屬",
+    "GroupId": 4033,
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "Id": 203033,
+    "Level": 1,
+    "Name": "蒙特諾爾神秘金屬鑄造·等級1",
+    "NeedPoint": 1,
+    "NextNodes": [203037],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203034": {
+    "Attribute": [],
+    "Des": "學會使用荒砂鐵礦石製作加工輝耀石",
+    "GroupId": 4034,
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "Id": 203034,
+    "Level": 1,
+    "Name": "蒙特諾爾輝耀石鑄造·等級1",
+    "NeedPoint": 1,
+    "NextNodes": [203038],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203035": {
+    "Attribute": [],
+    "Des": "學會使用荒砂鐵礦石製作加工精鍛石",
+    "GroupId": 4035,
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "Id": 203035,
+    "Level": 1,
+    "Name": "蒙特諾爾精鍛石鑄造·等級1",
+    "NeedPoint": 1,
+    "NextNodes": [203039],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": []
+  },
+  "203037": {
+    "Attribute": [],
+    "Des": "學會使用米里斯礦石製作加工神秘金屬",
+    "GroupId": 4037,
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "Id": 203037,
+    "Level": 1,
+    "Name": "蒙特諾爾神秘金屬鑄造·等級2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4033, 1],
+      [9, 10419]
+    ]
+  },
+  "203038": {
+    "Attribute": [],
+    "Des": "學會使用米里斯礦石製作加工輝耀石",
+    "GroupId": 4038,
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "Id": 203038,
+    "Level": 1,
+    "Name": "蒙特諾爾輝耀石鑄造·等級2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4034, 1],
+      [9, 10419]
+    ]
+  },
+  "203039": {
+    "Attribute": [],
+    "Des": "學會使用米里斯礦石製作加工精鍛石",
+    "GroupId": 4039,
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "Id": 203039,
+    "Level": 1,
+    "Name": "蒙特諾爾精鍛石鑄造·等級2",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 203,
+    "SeasonId": 4,
+    "UnlockCondition": [
+      [59, 4035, 1],
+      [9, 10419]
+    ]
   },
   "204001": {
     "Attribute": [],
@@ -3023,6 +3490,62 @@
     "SeasonId": 3,
     "UnlockCondition": [[9, 10319]]
   },
+  "204033": {
+    "Attribute": [],
+    "Des": "學會使用4級幻蝕赤晶原石切割成頂級石髓",
+    "GroupId": 5033,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/triangle_cutting_technology_02",
+    "Id": 204033,
+    "Level": 1,
+    "Name": "幻蝕赤晶切割大師",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204034": {
+    "Attribute": [],
+    "Des": "學會使用4級幻蝕藍晶原石切割成頂級石髓",
+    "GroupId": 5034,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/square_cutting_technology_02",
+    "Id": 204034,
+    "Level": 1,
+    "Name": "幻蝕藍晶切割大師",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204035": {
+    "Attribute": [],
+    "Des": "學會使用4級幻蝕翠晶原石切割成頂級石髓",
+    "GroupId": 5035,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/special_cutting_technology_02",
+    "Id": 204035,
+    "Level": 1,
+    "Name": "幻蝕翠晶切割大師",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
+  "204036": {
+    "Attribute": [],
+    "Des": "學會使用4級幻蝕耀晶原石切割成頂級石髓",
+    "GroupId": 5036,
+    "Icon": "ui/atlas/life_formula/life_gemcraft/pear_cutting_technology_02",
+    "Id": 204036,
+    "Level": 1,
+    "Name": "幻蝕耀晶切割大師",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 204,
+    "SeasonId": 4,
+    "UnlockCondition": [[9, 10419]]
+  },
   "205001": {
     "Attribute": [],
     "Des": "學會製作速燃碳粉",
@@ -3081,7 +3604,7 @@
   },
   "205005": {
     "Attribute": [],
-    "Des": "製作速燃碳粉、石骨碳粉、寶石蠟、瑰石潤澤劑時，額外產出5個產物；並且在製作高熱速燃和石骨碳粉時，額外產出1個產物",
+    "Des": "製作速燃碳粉、石骨碳粉、寶石蠟、瑰石潤澤劑、蘊含元素能量的樹脂時，額外產出5個產物；並且在製作高熱速燃和石骨碳粉時，額外產出1個產物",
     "GroupId": 6005,
     "Icon": "ui/atlas/life_formula/life_formula/lifeformula_woodwork_ability_02",
     "Id": 205005,
@@ -3168,6 +3691,20 @@
       [59, 6008, 1],
       [9, 10220]
     ]
+  },
+  "205011": {
+    "Attribute": [],
+    "Des": "學會製作蘊含元素能量的樹脂",
+    "GroupId": 6011,
+    "Icon": "ui/atlas/life_formula/life_formula/lifeformula_carbon_powder_01",
+    "Id": 205011,
+    "Level": 1,
+    "Name": "元素樹脂製作",
+    "NeedPoint": 1,
+    "NextNodes": [],
+    "ProId": 205,
+    "SeasonId": 4,
+    "UnlockCondition": []
   },
   "206001": {
     "Attribute": [],

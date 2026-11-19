@@ -32,7 +32,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_05"],
     "SeasonId": 1,
-    "SeasonTitle": "Traje de Título Exclusivo",
+    "SeasonTitle": "Traje de Título Exclusivo da Temporada",
     "Sort": 105
   },
   "105": {
@@ -161,7 +161,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/season_window/season_main_window_23"],
     "SeasonId": 3,
-    "SeasonTitle": "Traje de Título Exclusivo",
+    "SeasonTitle": "Traje de Título Exclusivo da Temporada",
     "Sort": 307
   },
   "306": {
@@ -181,5 +181,44 @@
     "SeasonId": 3,
     "SeasonTitle": "Traje do Passe Onírico III",
     "Sort": 306
+  },
+  "402": {
+    "Content": "Antes de iniciar oficialmente a masmorra, escolha um dos 5 Altares do Voto para fazer o seu Voto. Cada Voto concede diferentes bonificações.\\n\\nDurante o combate, matar monstros concede energia de juramento. Quanto mais Votos únicos o seu grupo tiver, mais rápido você ganha energia de juramento.\\n\\nVocê começa com o seu Voto no Nv. 1. Seus bônus de estado ficam mais fortes conforme o nível do seu Voto aumenta.\\n\\nDispositivos que ativam provações do juramento estão espalhados pelo mapa. Gaste energia de juramento para ativar uma provação do juramento e aumente o nível de juramento dela com base na quantidade de energia gasta.\\n\\nAssim que a provação do juramento for ativada, você ganha uma bonificação poderosa por tempo limitado. Todos os monstros próximos também são fortalecidos de acordo com seus afixos.\\n\\nDerrotar monstros fortalecidos concede energia de juramento adicional\\n\\nOs espíritos do juramento têm a chance de tomar forma no Domínio Caótico. Derrote-os para obter um saque misterioso.",
+    "Id": 402,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_26",
+      "ui/textures/large_ui/season_window/season_main_window_27"
+    ],
+    "SeasonId": 4,
+    "SeasonTitle": "Afixo da Temporada",
+    "Sort": 402
+  },
+  "404": {
+    "Content": "Compre o Passe de Temporada I e alcance o Nv. 30 para obter o conjunto de edição limitada do Mago da Fantasia!",
+    "Id": 404,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_28"],
+    "SeasonId": 4,
+    "SeasonTitle": "Passe de Batalha: Traje da Parte I",
+    "Sort": 404
+  },
+  "405": {
+    "Content": "Participe de Recursos sazonais e alcance o ranque de título \"Estrela Cadente Vinculada I\" para obter o Pacote Mensageiro Silencioso de edição limitada!",
+    "Id": 405,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_29"],
+    "SeasonId": 4,
+    "SeasonTitle": "Traje de Título Exclusivo da Temporada",
+    "Sort": 407
+  },
+  "406": {
+    "Content": "Compre o Passe de Temporada II e alcance o Nv. 30 para obter o conjunto de edição limitada de Margens Mais Distantes!",
+    "Id": 406,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_30"],
+    "SeasonId": 4,
+    "SeasonTitle": "Passe de Temporada II – Trajes",
+    "Sort": 405
   }
 }

@@ -218,7 +218,7 @@
   },
   "1000511": {
     "Answer": ["", "Tipo de bestia incorrecto"],
-    "Clue": "No hay <tagId=1>*lagartos* en el Yermo Del Ocaso.",
+    "Clue": "No hay <tagId=1>*lagartos* en el Tierra Salvaje del Ocaso.",
     "Id": 1000511,
     "Sort": 1,
     "TapBubble": ["", "Si no hay lagartos, entonces el dibujo debe estar equivocado..."],
@@ -364,7 +364,7 @@
   },
   "100312": {
     "Answer": ["", "Diagrama de desmontaje"],
-    "Clue": "<tagId=8>*Unos planos para desmontar el legado divino del núcleo de rayo* <tagId=5>*fueron encontrados en la mesa de trabajo #2 de Feyn*. <tagId=6>*Muchos artesanos están interesados en estudiar este legado divino de inmenso poder del trueno*, <tagId=10>*pero solo Tauros sabe cómo usarla correctamente*.",
+    "Clue": "<tagId=8>*Unos planos para desmontar el legado divino del núcleo de rayo* <tagId=5>*fueron encontrados en la mesa de trabajo #2 de Feyn*. <tagId=6>*Muchos artesanos están interesados en estudiar este legado divino de inmenso poder del trueno*, <tagId=10>*pero solo Dorothy sabe cómo usarla correctamente*.",
     "Id": 100312,
     "Sort": 2,
     "TapBubble": ["", "¿Qué información podría ocultarse en esto...?"],
@@ -514,6 +514,65 @@
     "UnlockedBubble": "¡Nueva pista obtenida!",
     "UnlockedBubbleAction": 9019
   },
+  "1400111": {
+    "Answer": [
+      "",
+      "Compitió en la paliza del demonio del rayo en el carnaval",
+      "",
+      "Fue una aventurera"
+    ],
+    "Clue": "«No te preocupes, yo también fui <tagId=1>*aventurera*. Tómate tu tiempo. Nos vemos en Río Caído». «Lo mismo en el carnaval.<tagId=2>*Me faltó muy poco en la paliza del demonio del rayo —casi alcanzo tu puntaje—.* En retrospectiva, todavía me da algo de rabia».",
+    "Id": 1400111,
+    "Sort": 1,
+    "TapBubble": [
+      "",
+      "Carrie mencionó más de una vez que solía ser aventurera. La Agencia Pionera debería tener registros de ello.",
+      "",
+      "Algo en eso me pareció extraño incluso en ese momento... Si realmente hubiera competido, sus resultados deberían estar registrados."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Recuerda lo que dijo Carrie",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400112": {
+    "Answer": [
+      "",
+      "Miembro del Consejo de Asterleeds",
+      "",
+      "Sus padres viven cerca de la Estatua Heroica en Minsterhorn"
+    ],
+    "Clue": "«Je, ¿te sorprende?<tagId=3>*La ropa de consejera* es formal, pero para hacer trámites, esto es lo más cómodo». «Minsterhorn.<tagId=4>*Mis padres siempre han vivido allí, cerca de la Estatua Heroica.*»",
+    "Id": 1400112,
+    "Sort": 2,
+    "TapBubble": [
+      "",
+      "Lamond también me la presentó como consejera. El Consejo debería conocer su identidad mejor que nadie.",
+      "",
+      "Fue muy específica sobre dónde vive su familia. Si sus padres realmente viven allí, tal vez podamos confirmar más cosas."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Recuerda lo que dijo Carrie",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1400113": {
+    "Answer": ["", "Inusualmente obsesionada con que la «recuerden» y la «olviden»"],
+    "Clue": "«A veces pienso que la existencia de una persona es algo extraño. Incluso cuando alguien no está aquí, mientras aún la recuerden, se siente cerca.<tagId=5>*Pero si todos los recuerdos sobre una persona se desvanecieran... ¿sería como si nunca hubiera existido?*»",
+    "Id": 1400113,
+    "Sort": 3,
+    "TapBubble": [
+      "",
+      "En ese momento solo pareció que dijo algo extraño de repente. Pensándolo bien, Carrie parecía obsesionada con que la «recordaran» y la «olvidaran»."
+    ],
+    "TapBubbleAction": [9019, 9026],
+    "Tips": "Recuerda lo que dijo Carrie",
+    "UnlockCondition": [[2, 11401, 11401002]],
+    "UnlockedBubble": "¡Nueva pista obtenida!",
+    "UnlockedBubbleAction": 9019
+  },
   "200111": {
     "Answer": [
       "",
@@ -526,7 +585,7 @@
     "Sort": 1,
     "TapBubble": ["", "El anciano de la aldea dio su veredicto..."],
     "TapBubbleAction": [9019],
-    "Tips": "Obtén pistas de las indagaciones",
+    "Tips": "Obtén pistas de las indagaciones.",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "¡Nueva pista obtenida!",
     "UnlockedBubbleAction": 9019
@@ -543,7 +602,7 @@
     "Sort": 2,
     "TapBubble": [],
     "TapBubbleAction": [9019],
-    "Tips": "Obtén pistas de las indagaciones",
+    "Tips": "Obtén pistas de las indagaciones.",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "¡Nueva pista obtenida!",
     "UnlockedBubbleAction": 9019
@@ -560,7 +619,7 @@
     "Sort": 3,
     "TapBubble": [],
     "TapBubbleAction": [9019],
-    "Tips": "Obtén pistas de las indagaciones",
+    "Tips": "Obtén pistas de las indagaciones.",
     "UnlockCondition": [[2, 186521, 186521003]],
     "UnlockedBubble": "¡Nueva pista obtenida!",
     "UnlockedBubbleAction": 9019
@@ -943,7 +1002,7 @@
       "Así podrá apoderarse de la caravana."
     ],
     "TapBubbleAction": [9019],
-    "Tips": "Investiga la escena para encontrar pistas.",
+    "Tips": "Obtén pistas de la investigación de la escena",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "¡Nueva pista obtenida!",
     "UnlockedBubbleAction": 9019
@@ -955,7 +1014,7 @@
     "Sort": 2,
     "TapBubble": ["", "Ese tipo debe de estar moviendo los hilos."],
     "TapBubbleAction": [9019],
-    "Tips": "Investiga la escena para encontrar pistas.",
+    "Tips": "Obtén pistas de la investigación de la escena",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "¡Nueva pista obtenida!",
     "UnlockedBubbleAction": 9019
@@ -972,7 +1031,7 @@
       "Todo tiene su precio"
     ],
     "TapBubbleAction": [9019],
-    "Tips": "Investiga la escena para encontrar pistas.",
+    "Tips": "Obtén pistas de la investigación de la escena",
     "UnlockCondition": [[2, 185703, 185703004]],
     "UnlockedBubble": "¡Nueva pista obtenida!",
     "UnlockedBubbleAction": 9019

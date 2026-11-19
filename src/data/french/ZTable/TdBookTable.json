@@ -1,6 +1,6 @@
 {
   "1": {
-    "Desc": "Rareté : Immortel<br>Archétype : [Humanoïde]<br>Niveau max : niv. 5.<br>Type d'attaque : Physique<br>Effet passif : aucun<br>Attaque de base : balance la faux 3 fois, infligeant des dégâts de zone. <br>Compétence principale : balance la faux et déclenche 2 Anneaux qui infligent de lourds dégâts de zone. <br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : Anneaux +3.<br>Imagine de syntonisation niv. 5 : Portée des Anneaux +100 %.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_5\">Immortel</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style>",
     "Id": 1,
     "IsHide": 1,
     "ObjectId": 1,
@@ -9,7 +9,7 @@
     "UIColor": 5
   },
   "10": {
-    "Desc": "Rareté : Excellente<br>Archétype : [Brûlure]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, les dégâts subis par les monstres sous l'état Brûlure de la part de tours de type Brûlure augmentent de [1 % * cumuls de Brûlure]. <br>Attaque de base : frappe le sol du pied, infligeant de légers dégâts de zone. <br>Compétence principale : gagne un bouclier de foudre, foudroyant une cible aléatoire toutes les 2 s.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : si la cible est sous l'effet de Brûlure, consomme ses cumuls de Brûlure pour déclencher Explosion foudroyante, infligeant de lourds dégâts de zone. <br>Imagine de syntonisation niv. 5 : Explosion foudroyante ne consomme plus les cumuls de Brûlure de la cible.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
@@ -18,7 +18,7 @@
     "UIColor": 3
   },
   "1001": {
-    "Desc": "Type : Boss<br>Caractéristique : réduit considérablement la vitesse d'attaque des Imagines de syntonisation à portée, mais augmente leur ATQ.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : Réduit considérablement la vitesse d'attaque des Imagines de syntonisation à portée, mais augmente leur ATQ.",
     "Id": 1001,
     "IsHide": 1,
     "ObjectId": 5003000,
@@ -27,7 +27,7 @@
     "UIColor": 4
   },
   "1002": {
-    "Desc": "Type : Boss<br>Caractéristique : subit des dégâts réduits lors d'attaques frontales et des dégâts accrus lors d'attaques par-derrière.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : Subit des dégâts réduits de face et des dégâts augmentés de dos.",
     "Id": 1002,
     "IsHide": 1,
     "ObjectId": 5003001,
@@ -36,7 +36,7 @@
     "UIColor": 4
   },
   "1005": {
-    "Desc": "Type : Boss<br>Caractéristique : chaque fois que sa berceuse est chantée, elle endort toutes les Imagines de syntonisation sur le terrain.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : chaque fois qu'il chante sa berceuse, il endort toutes les Imagines de syntonisation sur le terrain.",
     "Id": 1005,
     "IsHide": 1,
     "ObjectId": 5003004,
@@ -45,7 +45,7 @@
     "UIColor": 4
   },
   "1006": {
-    "Desc": "Type : Boss<br>Caractéristique : augmente considérablement les PV, mais augmente les dégâts subis. Plus le niveau total de toutes les Imagines de syntonisation sur le terrain est élevé, plus les dégâts subis sont importants.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : possède des PV considérablement augmentés, mais subit également des dégâts accrus. Plus le niveau total de toutes les Imagines de syntonisation sur le terrain est élevé, plus il subit de dégâts.",
     "Id": 1006,
     "IsHide": 1,
     "ObjectId": 5003005,
@@ -54,7 +54,7 @@
     "UIColor": 4
   },
   "1007": {
-    "Desc": "Type : Élite<br>Caractéristique : confère Invincibilité à tous les monstres à portée, à l'exception de lui-même.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
     "ObjectId": 5003006,
@@ -63,7 +63,7 @@
     "UIColor": 4
   },
   "1008": {
-    "Desc": "Type : Élite<br>Caractéristique : gèle la première Imagine de syntonisation qui l'attaque. Qui veut se lancer en premier ?",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
     "ObjectId": 5003003,
@@ -72,7 +72,7 @@
     "UIColor": 4
   },
   "1009": {
-    "Desc": "Type : Élite<br>Caractéristique : soigne en continu les monstres environnants.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
     "ObjectId": 5003002,
@@ -81,7 +81,7 @@
     "UIColor": 4
   },
   "101": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_5\">Immortel</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
     "Id": 101,
     "IsHide": 0,
     "ObjectId": 96,
@@ -90,7 +90,7 @@
     "UIColor": 5
   },
   "1010": {
-    "Desc": "Type : Élite<br>Caractéristique : se réanime après avoir été vaincu.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
     "ObjectId": 5003007,
@@ -99,7 +99,7 @@
     "UIColor": 4
   },
   "1011": {
-    "Desc": "Type : Élite<br>Caractéristique : possède une vitesse de déplacement extrêmement élevée. Pire encore, il est aussi super résistant !",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
     "ObjectId": 5003008,
@@ -108,7 +108,7 @@
     "UIColor": 4
   },
   "1012": {
-    "Desc": "Type : Élite<br>Caractéristique : ignore le terrain lors de ses déplacements, mais est super paresseux et fait souvent des pauses.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
     "ObjectId": 5003009,
@@ -117,7 +117,7 @@
     "UIColor": 4
   },
   "1013": {
-    "Desc": "Type : Normal<br>Caractéristique : la créature marine la plus courante.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
     "ObjectId": 5003010,
@@ -126,7 +126,7 @@
     "UIColor": 4
   },
   "1014": {
-    "Desc": "Type : Normal<br>Caractéristique : possède une vitesse de déplacement extrêmement élevée, mais la bonne nouvelle est qu'il est plutôt fragile !",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
     "ObjectId": 5003012,
@@ -135,7 +135,7 @@
     "UIColor": 4
   },
   "1015": {
-    "Desc": "Type : Normal<br>Caractéristique : porte un bouclier épais et apparaît généralement tout au début d'une vague.",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
     "ObjectId": 5003011,
@@ -144,7 +144,7 @@
     "UIColor": 4
   },
   "1016": {
-    "Desc": "Type : Normal<br>Caractéristique : protège les autres monstres sur le terrain en réduisant les dégâts subis. Ils seront un énorme problème si vous ne les éliminez pas en premier !",
+    "Desc": "Type : <style=\"tipsYellow\">Boss</style><br>Traits : {*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
     "ObjectId": 5003013,
@@ -153,7 +153,7 @@
     "UIColor": 4
   },
   "102": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_4\">Épique</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
     "Id": 102,
     "IsHide": 0,
     "ObjectId": 101,
@@ -162,7 +162,7 @@
     "UIColor": 4
   },
   "103": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_4\">Épique</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
     "Id": 103,
     "IsHide": 0,
     "ObjectId": 106,
@@ -171,7 +171,7 @@
     "UIColor": 4
   },
   "104": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_4\">Épique</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
     "Id": 104,
     "IsHide": 0,
     "ObjectId": 111,
@@ -180,7 +180,7 @@
     "UIColor": 4
   },
   "105": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_4\">Épique</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
     "Id": 105,
     "IsHide": 0,
     "ObjectId": 116,
@@ -189,7 +189,7 @@
     "UIColor": 4
   },
   "106": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
     "Id": 106,
     "IsHide": 0,
     "ObjectId": 121,
@@ -198,7 +198,7 @@
     "UIColor": 3
   },
   "107": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
     "Id": 107,
     "IsHide": 0,
     "ObjectId": 126,
@@ -207,7 +207,7 @@
     "UIColor": 3
   },
   "108": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
     "Id": 108,
     "IsHide": 0,
     "ObjectId": 131,
@@ -216,7 +216,7 @@
     "UIColor": 3
   },
   "109": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
     "Id": 109,
     "IsHide": 0,
     "ObjectId": 136,
@@ -225,7 +225,7 @@
     "UIColor": 3
   },
   "11": {
-    "Desc": "Rareté : Excellente<br>Archétype : [Ressource]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : lors du démantèlement, rembourse 100 Éclats de cristal de syntonisation supplémentaires. <br>Attaque de base : exhale une brume glaciale droit devant, infligeant des dégâts. <br>Compétence principale : lance des Pics de glace sur 3 cibles aléatoires.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : des amas d'éclats se forment là où les Pics de glace atterrissent ; les récolter octroie entre 1 et 20 Éclats de cristal de syntonisation de manière aléatoire, persistant jusqu'à 10 s. <br>Imagine de syntonisation niv. 5 : Pics de glace +2.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style>",
     "Id": 11,
     "IsHide": 1,
     "ObjectId": 51,
@@ -234,7 +234,7 @@
     "UIColor": 3
   },
   "110": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
     "Id": 110,
     "IsHide": 0,
     "ObjectId": 141,
@@ -243,7 +243,7 @@
     "UIColor": 3
   },
   "111": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_2\">Supérieur</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
     "Id": 111,
     "IsHide": 0,
     "ObjectId": 146,
@@ -252,7 +252,7 @@
     "UIColor": 1
   },
   "12": {
-    "Desc": "Rareté : Excellente<br>Archétype : [Soutien]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, augmente les dégâts infligés par tous les alliés de 5 % (jusqu'à 20 %). <br>Attaque de base : invoque 1 muku aléatoire pour aider au combat et augmente sa vitesse d'attaque. <br>Compétence principale : soigne les alliés à portée et augmente leur ATQ de 20 % pendant 10 s.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : invoque 1 arbalétrier muku supplémentaire. <br>Imagine de syntonisation niv. 5 : invoque 1 chef muku supplémentaire.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
@@ -261,7 +261,7 @@
     "UIColor": 3
   },
   "13": {
-    "Desc": "Rareté : Excellente<br>Archétype : [Soutien]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, augmente les dégâts subis par tous les ennemis de 5 % (jusqu'à 20 %). <br>Attaque de base : donne un coup de taille vers le bas droit devant, infligeant des dégâts de zone linéaires. <br>Compétence principale : fend l'avant, infligeant deux fois de lourds dégâts de zone.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : les attaques de base libèrent 2 Ondes Briseterres supplémentaires, portée d'attaque +50 %. <br>Imagine de syntonisation niv. 5 : dégâts +20 %.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
@@ -270,7 +270,7 @@
     "UIColor": 3
   },
   "14": {
-    "Desc": "Rareté : Excellente<br>Archétype : [Charge]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Magie<br>Effet passif : augmente l'ATQ de 10 % pour chaque cible à portée (jusqu'à 100 %). <br>Attaque de base : donne un coup de taille droit devant, infligeant de lourds dégâts de zone en éventail. <br>Compétence principale : lance des Tornades sur 2 cibles aléatoires, persistant pendant 5 s.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : pour chaque Imagine de syntonisation de type Charge sur le terrain, nombre de Tornades +1 (jusqu'à +3).<br>Imagine de syntonisation niv. 5 : chaque fois qu'une Tornade apparaît, elle augmente les dégâts infligés par la prochaine compétence des Imagines de syntonisation de type Charge (cumulable jusqu'à 100 %).",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style>",
     "Id": 14,
     "IsHide": 1,
     "ObjectId": 66,
@@ -279,7 +279,7 @@
     "UIColor": 3
   },
   "15": {
-    "Desc": "Rareté : Supérieure<br>Archétype : [Ressource] [Brûlure]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, l'aventurier gagne 100 Éclats de cristal de syntonisation toutes les 10 s (jusqu'à 5 actifs en même temps). <br>Attaque de base : aucune<br>Compétence principale : tourbillonne pour infliger de légers dégâts de zone et appliquer Brûlure.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : octroie 15 Éclats de cristal de syntonisation lorsqu'une cible sous l'effet de Brûlure meurt. <br>Imagine de syntonisation niv. 5 : octroie 30 Éclats de cristal de syntonisation lorsqu'une cible sous l'effet de Brûlure meurt.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_2\">Supérieur</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style>",
     "Id": 15,
     "IsHide": 1,
     "ObjectId": 71,
@@ -288,7 +288,7 @@
     "UIColor": 1
   },
   "16": {
-    "Desc": "Rareté : Supérieure<br>Archétype : aucun<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : inflige un ralentissement de 25 % aux cibles lors de l'infliction de dégâts. Cet effet est non cumulable. <br>Attaque de base : aucune<br>Compétence principale : invoque des Orbes de foudre qui attaquent en continu les cibles à portée.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : dégâts de la compétence principale augmentés. <br>Imagine de syntonisation niv. 5 : dégâts de la compétence principale augmentés.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_2\">Supérieur</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
@@ -297,7 +297,7 @@
     "UIColor": 1
   },
   "17": {
-    "Desc": "Rareté : Supérieure<br>Archétype : [Charge]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, chaque chef muku augmente le taux de critique des Imagines de syntonisation de type Charge de 10 % (jusqu'à 100 %). <br>Attaque de base : aucune<br>Compétence principale : frappe le sol 3 fois de suite, infligeant de lourds dégâts de zone.<br>Temps de recharge : 6 s<br>Imagine de syntonisation niv. 3 : dégâts de la compétence principale augmentés. <br>Imagine de syntonisation niv. 5 : dégâts de la compétence principale augmentés.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_2\">Supérieur</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style>",
     "Id": 17,
     "IsHide": 1,
     "ObjectId": 81,
@@ -306,7 +306,7 @@
     "UIColor": 1
   },
   "18": {
-    "Desc": "Rareté : Supérieure<br>Archétype : aucun<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Magie<br>Effet passif : 30 % de chance d'infliger Gel à l'attaque. <br>Attaque de base : inflige des dégâts de zone et un ralentissement de 10 %. <br>Compétence principale : lance un vortex d'eau qui inflige des dégâts de zone continus et un ralentissement de 20 %.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : dégâts de la compétence principale augmentés. <br>Imagine de syntonisation niv. 5 : dégâts de la compétence principale augmentés.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_2\">Supérieur</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
     "ObjectId": 86,
@@ -315,7 +315,7 @@
     "UIColor": 1
   },
   "19": {
-    "Desc": "Rareté : Supérieure<br>Archétype : aucun<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Magie<br>Effet passif : inflige des dégâts supplémentaires aux cibles corrodées ; +10 % de dégâts par cumul de Corrosion. <br>Attaque de base : aucune<br>Compétence principale : lance des sources de poison sur 3 cibles aléatoires, infligeant des dégâts de zone continus et Corrosion.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : dégâts de la compétence principale augmentés. <br>Imagine de syntonisation niv. 5 : dégâts de la compétence principale augmentés.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_2\">Supérieur</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
     "ObjectId": 91,
@@ -324,7 +324,7 @@
     "UIColor": 1
   },
   "2": {
-    "Desc": "Rareté : Épique<br>Archétype : [Humanoïde] [Ressource]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Magie<br>Effet passif : ATQ +[1 % * niveau total de toutes les Imagines de syntonisation sur le terrain]. Le prix dans la boutique est réduit de 50 %. <br>Attaque de base : fait continuellement s'abattre des météores sur une cible unique à portée. <br>Compétence principale : invoque un Cerf spirituel qui charge droit devant. Cet effet se déclenche 1 fois de plus pour chaque Imagine de syntonisation humanoïde sur le terrain. <br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : confère 10 Éclats de cristal de syntonisation à l'attaque. TdR : 3 s. <br>Imagine de syntonisation niv. 5 : confère 15 Éclats de cristal de syntonisation à l'attaque. TdR : 1 s.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_4\">Épique</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style>",
     "Id": 2,
     "IsHide": 1,
     "ObjectId": 6,
@@ -333,7 +333,7 @@
     "UIColor": 4
   },
   "2001": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : Rend tous les monstres à portée invulnérables, sauf lui-même.",
     "Id": 2001,
     "IsHide": 1,
     "ObjectId": 5002000,
@@ -342,7 +342,7 @@
     "UIColor": 3
   },
   "2002": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : Gèle la première Imagine de syntonisation qui l'attaque. Qui veut passer en premier ?",
     "Id": 2002,
     "IsHide": 1,
     "ObjectId": 5002001,
@@ -351,7 +351,7 @@
     "UIColor": 3
   },
   "2003": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : soigne en continu les monstres à proximité.",
     "Id": 2003,
     "IsHide": 1,
     "ObjectId": 5002002,
@@ -360,7 +360,7 @@
     "UIColor": 3
   },
   "2004": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : ignore le terrain lors de ses déplacements, mais est très paresseux et se repose souvent.",
     "Id": 2004,
     "IsHide": 1,
     "ObjectId": 5002005,
@@ -369,7 +369,7 @@
     "UIColor": 3
   },
   "2005": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7001*}",
     "Id": 2005,
     "IsHide": 0,
     "ObjectId": 5002006,
@@ -378,7 +378,7 @@
     "UIColor": 3
   },
   "2006": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7002*}",
     "Id": 2006,
     "IsHide": 0,
     "ObjectId": 5002007,
@@ -387,7 +387,7 @@
     "UIColor": 3
   },
   "2007": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7007*}",
     "Id": 2007,
     "IsHide": 0,
     "ObjectId": 5002008,
@@ -396,7 +396,7 @@
     "UIColor": 3
   },
   "2008": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7003*}",
     "Id": 2008,
     "IsHide": 0,
     "ObjectId": 5002009,
@@ -405,7 +405,7 @@
     "UIColor": 3
   },
   "2009": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7009*}",
     "Id": 2009,
     "IsHide": 0,
     "ObjectId": 5002003,
@@ -414,7 +414,7 @@
     "UIColor": 3
   },
   "2010": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7010*}",
     "Id": 2010,
     "IsHide": 0,
     "ObjectId": 5002004,
@@ -423,7 +423,7 @@
     "UIColor": 3
   },
   "2011": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7004*}",
     "Id": 2011,
     "IsHide": 0,
     "ObjectId": 5002010,
@@ -432,7 +432,7 @@
     "UIColor": 3
   },
   "2012": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7005*}",
     "Id": 2012,
     "IsHide": 0,
     "ObjectId": 5002011,
@@ -441,7 +441,7 @@
     "UIColor": 3
   },
   "2013": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7006*}",
     "Id": 2013,
     "IsHide": 0,
     "ObjectId": 5002012,
@@ -450,7 +450,7 @@
     "UIColor": 3
   },
   "2014": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7008*}",
     "Id": 2014,
     "IsHide": 0,
     "ObjectId": 5002013,
@@ -459,7 +459,7 @@
     "UIColor": 3
   },
   "2015": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7011*}",
     "Id": 2015,
     "IsHide": 0,
     "ObjectId": 5002014,
@@ -468,7 +468,7 @@
     "UIColor": 3
   },
   "2016": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7012*}",
     "Id": 2016,
     "IsHide": 0,
     "ObjectId": 5002015,
@@ -477,7 +477,7 @@
     "UIColor": 3
   },
   "2017": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7013*}",
     "Id": 2017,
     "IsHide": 0,
     "ObjectId": 5002016,
@@ -486,7 +486,7 @@
     "UIColor": 3
   },
   "2018": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Élite</style><br>Traits : {*messagevalue.7014*}",
     "Id": 2018,
     "IsHide": 0,
     "ObjectId": 5002017,
@@ -495,7 +495,7 @@
     "UIColor": 3
   },
   "3": {
-    "Desc": "Rareté : Épique<br>Archétype : [Humanoïde] [Brûlure]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Magie<br>Effet passif : inflige une instance supplémentaire de dégâts de feu chaque fois qu'un ennemi à portée subit des dégâts de Brûlure. <br>Attaque de base : tournoie pour infliger des dégâts de zone et appliquer Brûlure. <br>Compétence principale : projette un rayon de hache droit devant, infligeant de lourds dégâts. Dégâts +20 % pour chaque cumul de Brûlure sur la cible. <br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : après avoir appliqué Brûlure 10 fois, la prochaine attaque lance Train infernal sur la cible. <br>Imagine de syntonisation niv. 5 : condition d'application de Brûlure réduite à 6, dégâts de Train infernal +100 %.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_4\">Épique</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
@@ -504,7 +504,7 @@
     "UIColor": 4
   },
   "3001": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : la créature marine la plus courante.",
     "Id": 3001,
     "IsHide": 1,
     "ObjectId": 5001000,
@@ -513,7 +513,7 @@
     "UIColor": 1
   },
   "3002": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : rapide comme le vent, mais fragile comme le jade.",
     "Id": 3002,
     "IsHide": 1,
     "ObjectId": 5001001,
@@ -522,7 +522,7 @@
     "UIColor": 1
   },
   "3003": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : porte un lourd bouclier et apparaît généralement tout au début d'une vague.",
     "Id": 3003,
     "IsHide": 1,
     "ObjectId": 5001002,
@@ -531,7 +531,7 @@
     "UIColor": 1
   },
   "3004": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : ils protègent les autres monstres présents en réduisant leurs dégâts subis. Ne pas les vaincre en premier entraînera de graves ennuis.",
     "Id": 3004,
     "IsHide": 1,
     "ObjectId": 5001003,
@@ -540,7 +540,7 @@
     "UIColor": 1
   },
   "3005": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : ignore le terrain lors de ses déplacements. Quel nuisible agaçant.",
     "Id": 3005,
     "IsHide": 1,
     "ObjectId": 5001007,
@@ -549,7 +549,7 @@
     "UIColor": 1
   },
   "3006": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6001*}",
     "Id": 3006,
     "IsHide": 0,
     "ObjectId": 5001008,
@@ -558,7 +558,7 @@
     "UIColor": 1
   },
   "3007": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6002*}",
     "Id": 3007,
     "IsHide": 0,
     "ObjectId": 5001009,
@@ -567,7 +567,7 @@
     "UIColor": 1
   },
   "3008": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6003*}",
     "Id": 3008,
     "IsHide": 0,
     "ObjectId": 5001010,
@@ -576,7 +576,7 @@
     "UIColor": 1
   },
   "3009": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6004*}",
     "Id": 3009,
     "IsHide": 0,
     "ObjectId": 5001011,
@@ -585,7 +585,7 @@
     "UIColor": 1
   },
   "3010": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6005*}",
     "Id": 3010,
     "IsHide": 0,
     "ObjectId": 5001006,
@@ -594,7 +594,7 @@
     "UIColor": 1
   },
   "3011": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6006*}",
     "Id": 3011,
     "IsHide": 0,
     "ObjectId": 5001004,
@@ -603,7 +603,7 @@
     "UIColor": 1
   },
   "3012": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6007*}",
     "Id": 3012,
     "IsHide": 0,
     "ObjectId": 5001005,
@@ -612,7 +612,7 @@
     "UIColor": 1
   },
   "3013": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6008*}",
     "Id": 3013,
     "IsHide": 0,
     "ObjectId": 5001012,
@@ -621,7 +621,7 @@
     "UIColor": 1
   },
   "3014": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6009*}",
     "Id": 3014,
     "IsHide": 0,
     "ObjectId": 5001013,
@@ -630,7 +630,7 @@
     "UIColor": 1
   },
   "3015": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6010*}",
     "Id": 3015,
     "IsHide": 0,
     "ObjectId": 5001018,
@@ -639,7 +639,7 @@
     "UIColor": 1
   },
   "3016": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6011*}",
     "Id": 3016,
     "IsHide": 0,
     "ObjectId": 5001019,
@@ -648,7 +648,7 @@
     "UIColor": 1
   },
   "3017": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6012*}",
     "Id": 3017,
     "IsHide": 0,
     "ObjectId": 5001020,
@@ -657,7 +657,7 @@
     "UIColor": 1
   },
   "3018": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6013*}",
     "Id": 3018,
     "IsHide": 0,
     "ObjectId": 5001021,
@@ -666,7 +666,7 @@
     "UIColor": 1
   },
   "3019": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6014*}",
     "Id": 3019,
     "IsHide": 0,
     "ObjectId": 5001014,
@@ -675,7 +675,7 @@
     "UIColor": 1
   },
   "3020": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6015*}",
     "Id": 3020,
     "IsHide": 0,
     "ObjectId": 5001015,
@@ -684,7 +684,7 @@
     "UIColor": 1
   },
   "3021": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6016*}",
     "Id": 3021,
     "IsHide": 0,
     "ObjectId": 5001016,
@@ -693,7 +693,7 @@
     "UIColor": 1
   },
   "3022": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Normal</style><br>Traits : {*messagevalue.6017*}",
     "Id": 3022,
     "IsHide": 0,
     "ObjectId": 5001017,
@@ -702,7 +702,7 @@
     "UIColor": 1
   },
   "4": {
-    "Desc": "Rareté : Épique<br>Archétype : [Humanoïde] [Charge]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : limite des cumuls de Charge augmentée à 20. <br>Attaque de base : n'attaque pas normalement. Entre en Charge, gagnant 1 cumul toutes les 3 s, jusqu'à un maximum de 20 cumuls. Déclenche la compétence lorsque l'aventurier entre dans la zone. <br>Compétence principale : libère d'innombrables rayons de lame, infligeant des dégâts de zone, et consomme tous les cumuls de Charge pour augmenter les dégâts de [40 % * cumuls de Charge]. <br>Temps de recharge : aucun<br>Imagine de syntonisation niv. 3 : toutes les 10 s, verrouille la cible la plus proche et tire un rayon de lame. <br>Imagine de syntonisation niv. 5 : cibles verrouillées par le rayon de lame +2.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_4\">Épique</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style>",
     "Id": 4,
     "IsHide": 1,
     "ObjectId": 16,
@@ -711,7 +711,7 @@
     "UIColor": 4
   },
   "4001": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Neutre</style><br>Traits : {*messagevalue.9001*}",
     "Id": 4001,
     "IsHide": 0,
     "ObjectId": 5003014,
@@ -720,7 +720,7 @@
     "UIColor": 5
   },
   "4002": {
-    "Desc": "",
+    "Desc": "Type : <style=\"tipsYellow\">Récompense</style><br>Traits : {*messagevalue.9002*}",
     "Id": 4002,
     "IsHide": 0,
     "ObjectId": 5002500,
@@ -729,7 +729,7 @@
     "UIColor": 5
   },
   "5": {
-    "Desc": "Rareté : Épique<br>Archétype : [Humanoïde]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : tant qu'elle est présente, vitesse de recharge des compétences de l'aventurier +50 %. Cet effet est non cumulable. <br>Attaque de base : donne un coup d'estoc droit devant et fait tournoyer la lance pour infliger des dégâts de zone. <br>Compétence principale : les 5 Imagines de syntonisation les plus proches gagnent 100 % de vitesse de recharge pendant 5 s. <br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : vitesse de déplacement de l'aventurier +25 %, Boost de dégâts +25 %. <br>Imagine de syntonisation niv. 5 : vitesse de déplacement de l'aventurier +50 %, Boost de dégâts +50 %.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_4\">Épique</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style>",
     "Id": 5,
     "IsHide": 1,
     "ObjectId": 21,
@@ -738,7 +738,7 @@
     "UIColor": 4
   },
   "6": {
-    "Desc": "Rareté : Excellente<br>Archétype : [Charge]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : toutes les 10 s, libère une onde terrestre sur 3 cibles aléatoires, appliquant Blessure. <br>Attaque de base : n'attaque pas normalement. Entre en Charge, gagnant 1 cumul toutes les 3 s, jusqu'à 10 cumuls. Déclenche la compétence lorsque l'aventurier entre dans la zone. <br>Compétence principale : lance une Pointe de l'Enfer sur une vaste zone, infligeant de lourds dégâts et consommant tous les cumuls de Charge pour augmenter les dégâts de [30 % * cumuls de Charge].<br>TdR : aucun<br>Imagine de syntonisation niv. 3 : les dégâts infligés par l'effet passif appliquent 10 % de vulnérabilité pendant 5 s. <br>Imagine de syntonisation niv. 5 : Vulnérabilité +10 % supplémentaires.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style>",
     "Id": 6,
     "IsHide": 1,
     "ObjectId": 3,
@@ -747,7 +747,7 @@
     "UIColor": 3
   },
   "7": {
-    "Desc": "Rareté : Excellente<br>Archétype : aucun<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe de niv. 3 à niv. 5. <br>Type d'attaque : Physique<br>Effet passif : inflige 100 % de dégâts supplémentaires aux cibles immobilisées. <br>Attaque de base : cible en priorité les cibles non immobilisées. Crache de la toile d'araignée pour infliger des dégâts avec 40 % de chance d'immobiliser la cible pendant 5 s. <br>Compétence principale : s'enfouit sous terre puis émerge, infligeant de lourds dégâts de zone et étourdissant à coup sûr la cible pendant 1 s.<br>Temps de recharge : 15 s<br>Imagine de syntonisation niv. 3 : les chances d'immobilisation passent à 100 %. <br>Imagine de syntonisation niv. 5 : durée d'étourdissement augmentée à 2,5 s.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Soutien</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
@@ -756,7 +756,7 @@
     "UIColor": 3
   },
   "8": {
-    "Desc": "Rareté : Excellente<br>Archétype : [Ressource]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Physique<br>Effet passif : octroie au Voltigeur céleste 1 % de dégâts bonus par tranche de 100 Éclats de cristal de syntonisation détenus par l'aventurier, jusqu'à 100 %. <br>Attaque de base : lâche un orbe aquatique qui inflige des dégâts de zone et applique Ralentissement. <br>Compétence principale : invoque un voltigeur fantôme qui charge droit devant.<br>TdR : 15 s<br>Imagine de syntonisation niv. 3 : Voltigeur +1, et taux d'obtention d'Éclats de cristal de syntonisation +5 %. <br>Imagine de syntonisation niv. 5 : Voltigeur +2, et taux d'obtention d'Éclats de cristal de syntonisation +10 %.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
@@ -765,7 +765,7 @@
     "UIColor": 3
   },
   "9": {
-    "Desc": "Rareté : Excellente<br>Archétype : [Brûlure]<br>Niveau max : niv. 3 ; avec l'Imagine de combat correspondante, le niveau max de l'Imagine de syntonisation passe du niv. 3 au niv. 5. <br>Type d'attaque : Magie<br>Effet passif : plus les PV actuels sont élevés, plus l'ATQ augmente (jusqu'à +200 %), mais fait perdre des PV en continu. <br>Attaque de base : aucune<br>Compétence principale : crache du feu en continu droit devant, infligeant des dégâts et appliquant Brûlure.<br>TdR : 8 s<br>Imagine de syntonisation niv. 3 : restaure 5 % des PV à l'attaque. <br>Imagine de syntonisation niv. 5 : convertit le surplus de soin en bouclier.",
+    "Desc": "<style=\"accent-gn\">Rareté</style> : <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Rôle</style> : <style=\"tipsYellow\">Dégâts</style>",
     "Id": 9,
     "IsHide": 1,
     "ObjectId": 41,

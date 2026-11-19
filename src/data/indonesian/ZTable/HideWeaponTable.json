@@ -10,7 +10,7 @@
   "2": {
     "Attr": [[], [11330, 100]],
     "Condition": [1056019, 1],
-    "Description": "<style=\"physical\">Gunakan 10 poin</style> HP, pakai pedang Pavara untuk Attack.<br>Jika Attack <style=\"physical\">Hit Sneaker</style>, Diri Sendiri mendapat <style=\"physical\">Recovery 20 poin</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=\"physical\">HP tidak cukup</style>, Skill ini tidak dapat digunakan.<br>DMG aktual yang diberikan dihitung berdasarkan <style=\"physical\">DEF objek Transform Sneaker</style>.<br><style=\"physical\">Efek Spesial Weapon: Shadow Hunter di sekitar mendapat Recovery HP secara sustained, dan kecepatan meningkat.</style><br><i><style=\"text_third_gray\">\"Semoga ini bisa membuatmu merasa lebih tenang...\"</style></i>",
+    "Description": "<style=\"physical\">Gunakan 10 poin</style> HP, pakai pedang Pavara untuk melakukan Attack.<br>Jika Attack <style=\"physical\">Hit Sneaker</style>, diri sendiri mendapat <style=\"physical\">Recovery 20 poin</style> HP.<br>Saat Kill Sneaker, mendapat Recovery semua HP.<br>Saat <style=\"physical\">HP tidak cukup</style>, Skill ini tidak dapat dipakai.<br>DMG aktual yang diberikan dihitung berdasarkan <style=\"physical\">nilai DEF dari objek Transform Sneaker</style>.<br><style=\"physical\">Efek Spesial Weapon: Shadow Hunter di sekitar mendapat Recovery HP secara Sustained, dan Kecepatan meningkat.</style><br><i><style=\"text_third_gray\">\"Semoga ini bisa membuatmu merasa lebih tenang...\"</style></i>",
     "Id": 2,
     "ItemId": 1056019,
     "Name": "Petunjuk Kabut Pagi"
@@ -21,7 +21,7 @@
       [11330, 100]
     ],
     "Condition": [1056020, 1],
-    "Description": "<style=\"physical\">Gunakan 10 poin</style> HP, pakai Claymore Denver untuk Attack.<br>Jika Attack <style=\"physical\">Hit Sneaker</style>, Diri Sendiri mendapat <style=\"physical\">Recovery 20 poin</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=\"physical\">HP tidak cukup</style>, Skill ini tidak dapat digunakan.<br>DMG aktual yang diberikan dihitung berdasarkan <style=\"physical\">DEF objek Transform Sneaker</style>.<br><style=\"physical\">Efek Spesial Weapon: Menembakkan 2 tebasan ekstra dan membersihkan semua objek di dalam Area yang bukan hasil Transform Pemain.</style><br><i><style=\"text_third_gray\">\"Dengan ini, bersihkan duka dan dendam masa lalu.\"</style></i>",
+    "Description": "<style=\"physical\">Gunakan 10 poin</style> HP dan pakai Claymore Denver untuk melakukan Attack.<br>Jika Attack <style=\"physical\">Hit Sneaker</style>, <style=\"physical\">Recovery 20 poin</style> HP untuk Diri Sendiri.<br>Saat Kill Sneaker, Recovery Semua HP.<br>Saat <style=\"physical\">HP tidak cukup</style>, tidak dapat pakai Skill ini.<br>DMG aktual yang diberikan dihitung berdasarkan <style=\"physical\">DEF dari objek Transform Sneaker</style>.<br><style=\"physical\">Efek Spesial Weapon: Menembakkan 2 tebasan tambahan, dan membersihkan semua objek Transform non-Pemain di dalam Area.</style><br><i><style=\"text_third_gray\">\"Dengan ini, bersihkan dendam dan kesedihan masa lalu.\"</style></i>",
     "Id": 3,
     "ItemId": 1056020,
     "Name": "Bilah Berkabung"
@@ -29,7 +29,7 @@
   "4": {
     "Attr": [[], [11330, 100]],
     "Condition": [1056021, 1],
-    "Description": "<style=\"physical\">Gunakan 10 poin</style> HP, pakai beliung untuk Attack.<br>Jika Attack <style=\"physical\">Hit Sneaker</style>, Diri Sendiri mendapat <style=\"physical\">Recovery 20 poin</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=\"physical\">HP tidak cukup</style>, Skill ini tidak dapat digunakan.<br>DMG aktual yang diberikan dihitung berdasarkan <style=\"physical\">DEF objek Transform Sneaker</style>.<br><style=\"physical\">Efek Spesial Weapon: Setiap Attack akan mendapat 1 Ore secara acak:<br>40% Berpeluang mendapat Amber: Mengurangi Skill Cooldown Diri Sendiri sebanyak 0,5 detik;<br>40% Berpeluang mendapat Benitoite: Recovery 10 HP;<br>19% Berpeluang mendapat Dragon Crystal: Menembakkan 5 serangan tajam ke sekeliling;<br>1% Berpeluang mendapat Fulgurite: Semua Sneaker dalam Area 30 meter akan tersambar petir.</style><br><i><style=\"text_third_gray\">\"Apa aku juga harus menambang?\"</style></i>",
+    "Description": "<style=\"physical\">Gunakan 10</style> HP, pakai beliung untuk Attack.<br>Jika Attack <style=\"physical\">Hit Sneaker</style>, maka Diri Sendiri <style=\"physical\">mendapat Recovery 20</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=\"physical\">HP tidak cukup</style>, tidak dapat pakai Skill ini.<br>DMG aktual yang diberikan dihitung berdasarkan <style=\"physical\">DEF dari objek Transform Sneaker</style>.<br><style=\"physical\">Efek Spesial Weapon: Setiap Attack mendapat satu Bijih secara acak:<br>40% Peluang mendapat Amber: Mengurangi Waktu CD semua Skill Diri Sendiri sebanyak 0,5 detik;<br>40% Peluang mendapat Benitoite: Mendapat Recovery 10 HP;<br>19% Peluang mendapat Dragon Crystal: Menembakkan 5 tebasan tajam ke sekeliling;<br>1% Peluang mendapat Fulgurite: Semua Sneaker dalam Area 30 meter akan tersambar petir surgawi.</style><br><i><style=\"text_third_gray\">「Apakah aku juga harus menambang?」</style></i>",
     "Id": 4,
     "ItemId": 1056021,
     "Name": "Mimpi Emas"
@@ -37,7 +37,7 @@
   "5": {
     "Attr": [[], [11330, 100]],
     "Condition": [1056022, 1],
-    "Description": "<style=\"physical\">Gunakan 10</style> HP, pakai Lightstick untuk Attack.<br>Jika Attack <style=\"physical\">Hit Sneaker</style>, Diri Sendiri mendapat <style=\"physical\">Recovery 20</style> HP.<br>Saat Kill Sneaker, mendapat Recovery Semua HP.<br>Saat <style=\"physical\">HP tidak cukup</style>, tidak bisa pakai Skill ini.<br>DMG yang diberikan dihitung berdasarkan <style=\"physical\">DEF dari objek Transform Sneaker</style>.<br><style=\"physical\">Efek Spesial Weapon: Menggunakan Skill apa pun akan mengumpulkan Dance Power. Saat Dance Power mencapai 50, Mendapat Skill [Dance Power Unleashed]:<br>Setelah dipakai, masuk ke status Dance, dan secara bertahap mendapat Recovery HP.</style><br><i><style=\"text_third_gray\">\"Kalian jangan berkelahi lagi...\"</style></i>",
+    "Description": "<style=\"physical\">Gunakan 10 poin</style> HP, pakai Lightstick untuk melakukan Attack.<br>Jika Attack <style=\"physical\">Hit Sneaker</style>, diri sendiri mendapat <style=\"physical\">recovery 20 poin</style> HP.<br>Saat Kill Sneaker, mendapat recovery semua HP.<br>Saat <style=\"physical\">HP tidak cukup</style>, tidak dapat pakai Skill ini.<br>DMG aktual yang ditimbulkan dihitung berdasarkan <style=\"physical\">nilai DEF dari objek transform Sneaker</style>.<br><style=\"physical\">Efek Spesial Weapon: Melepaskan semua Skill akan mengakumulasi Dance Power. Saat Dance Power mencapai 50 poin, mendapat Skill [Dance Power Unleashed]:<br>Setelah dipakai, akan memasuki status Dance, dan secara bertahap mendapat recovery HP.</style><br><i><style=\"text_third_gray\">\"Kalian jangan berkelahi lagi...\"</style></i>",
     "Id": 5,
     "ItemId": 1056022,
     "Name": "Fans Keadilan"

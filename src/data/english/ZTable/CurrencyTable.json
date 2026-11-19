@@ -89,6 +89,24 @@
     "Sort": 24,
     "Type": 1
   },
+  "10020": {
+    "Condition": [[9, 10401]],
+    "Id": 10020,
+    "Name": "溯光祈愿赛季积分",
+    "QuickJumpParam": [800606],
+    "QuickJumpType": 2,
+    "Sort": 25,
+    "Type": 4
+  },
+  "10021": {
+    "Condition": [[9, 10401]],
+    "Id": 10021,
+    "Name": "溯光祈愿共鸣印记",
+    "QuickJumpParam": [800607],
+    "QuickJumpType": 2,
+    "Sort": 26,
+    "Type": 4
+  },
   "1070011": {
     "Condition": [],
     "Id": 1070011,
@@ -134,15 +152,6 @@
     "Sort": 17,
     "Type": 3
   },
-  "1070020": {
-    "Condition": [],
-    "Id": 1070020,
-    "Name": "阿斯特里亚地区声望",
-    "QuickJumpParam": [800819],
-    "QuickJumpType": 2,
-    "Sort": 5,
-    "Type": 1
-  },
   "1070026": {
     "Condition": [],
     "Id": 1070026,
@@ -182,10 +191,10 @@
   "1070048": {
     "Condition": [],
     "Id": 1070048,
-    "Name": "巴哈马尔地区声望",
+    "Name": "地区声望",
     "QuickJumpParam": [900121],
     "QuickJumpType": 2,
-    "Sort": 6,
+    "Sort": 29,
     "Type": 1
   },
   "1220004": {
@@ -206,6 +215,24 @@
     "Sort": 16,
     "Type": 4
   },
+  "1220006": {
+    "Condition": [[9, 10401]],
+    "Id": 1220006,
+    "Name": "祈愿残因",
+    "QuickJumpParam": [9, 2, 3350],
+    "QuickJumpType": 1,
+    "Sort": 27,
+    "Type": 4
+  },
+  "1220411": {
+    "Condition": [[9, 10401]],
+    "Id": 1220411,
+    "Name": "启明棱晶",
+    "QuickJumpParam": [9, 2, 3350],
+    "QuickJumpType": 1,
+    "Sort": 29,
+    "Type": 4
+  },
   "13014": {
     "Condition": [[9, 41001]],
     "Id": 13014,
@@ -215,13 +242,13 @@
     "Sort": 25,
     "Type": 5
   },
-  "20011": {
-    "Condition": [],
-    "Id": 20011,
-    "Name": "喵露克斯会员积分",
-    "QuickJumpParam": [101106],
+  "13015": {
+    "Condition": [[9, 42001]],
+    "Id": 13015,
+    "Name": "星痕",
+    "QuickJumpParam": [8200517],
     "QuickJumpType": 2,
-    "Sort": 20,
-    "Type": 3
+    "Sort": 25,
+    "Type": 5
   }
 }

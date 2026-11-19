@@ -360,8 +360,10 @@
       "addProfession 3",
       "addProfession 4",
       "addProfession 5",
-      "addProfession 8",
-      "addProfession 9"
+      "addProfession 9",
+      "addProfession 11",
+      "addProfession 12",
+      "addProfession 13"
     ],
     "Type": 2
   },
@@ -1578,9 +1580,35 @@
     "ParameterOrContent": [],
     "Type": 3
   },
+  "12001": {
+    "AuToClose": false,
+    "ButtonShow": "Hide Will-o'-the-Wisp Effects",
+    "Command": "hidePhotoZoneEffect",
+    "CommandOrParameterRemark": ["Hide Will-o'-the-Wisp Effects"],
+    "GMGroup": 7,
+    "Id": 12001,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 1
+  },
+  "12002": {
+    "AuToClose": false,
+    "ButtonShow": "Show Will-o'-the-Wisp Effects",
+    "Command": "showPhotoZoneEffect",
+    "CommandOrParameterRemark": ["Show Will-o'-the-Wisp Effects"],
+    "GMGroup": 7,
+    "Id": 12002,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 1
+  },
   "2001": {
     "AuToClose": false,
-    "ButtonShow": "One-click unlock all features",
+    "ButtonShow": "One-click unlock all functions",
     "Command": "unlockAll",
     "CommandOrParameterRemark": ["One-click unlock all features"],
     "GMGroup": 2,
@@ -1640,9 +1668,9 @@
   },
   "2003": {
     "AuToClose": false,
-    "ButtonShow": "One-click add all resonance power items",
+    "ButtonShow": "Add all resonance power items with one click",
     "Command": "AoyiAll",
-    "CommandOrParameterRemark": ["One-click add all resonance power items"],
+    "CommandOrParameterRemark": ["Add all resonance power items with one click"],
     "GMGroup": 2,
     "Id": 2003,
     "OnOff": false,
@@ -1725,9 +1753,9 @@
   },
   "2006": {
     "AuToClose": false,
-    "ButtonShow": "Unlock all costumes",
-    "Command": "fashionOpt 4,0,0,0",
-    "CommandOrParameterRemark": ["Unlock all costumes"],
+    "ButtonShow": "部位精炼满级",
+    "Command": "setEquipRefineLevel",
+    "CommandOrParameterRemark": ["将所有部位的精炼满级"],
     "GMGroup": 2,
     "Id": 2006,
     "OnOff": false,
@@ -1738,89 +1766,141 @@
   },
   "2007": {
     "AuToClose": false,
+    "ButtonShow": "解锁所有职业+角色技能满级",
+    "Command": "professionUnlockAndUpgradeAll",
+    "CommandOrParameterRemark": ["所有职业解锁并将所有角色技能满级"],
+    "GMGroup": 2,
+    "Id": 2007,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 3
+  },
+  "2008": {
+    "AuToClose": false,
+    "ButtonShow": "所有部位重铸进度拉满",
+    "Command": "equipReforgePerfect",
+    "CommandOrParameterRemark": ["给已经穿上的装备的重铸度拉满"],
+    "GMGroup": 2,
+    "Id": 2008,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 3
+  },
+  "2009": {
+    "AuToClose": false,
+    "ButtonShow": "解锁战斗幻想并满阶",
+    "Command": "aoyiUpgradeAll",
+    "CommandOrParameterRemark": ["解锁所有的战斗幻想意志并满阶"],
+    "GMGroup": 2,
+    "Id": 2009,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 3
+  },
+  "2010": {
+    "AuToClose": false,
+    "ButtonShow": "Unlock all costumes",
+    "Command": "fashionOpt 4,0,0,0",
+    "CommandOrParameterRemark": ["Unlock all costumes"],
+    "GMGroup": 2,
+    "Id": 2010,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 3
+  },
+  "2011": {
+    "AuToClose": false,
     "ButtonShow": "Obtain currency and special items",
     "Command": "getcbtitemscurrency",
     "CommandOrParameterRemark": ["Obtain currency and special items"],
     "GMGroup": 2,
-    "Id": 2007,
+    "Id": 2011,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1210"],
     "Type": 2
   },
-  "2008": {
+  "2012": {
     "AuToClose": false,
     "ButtonShow": "Obtain all gathering materials and crafting materials",
     "Command": "getcbtitemsmaterial",
     "CommandOrParameterRemark": ["Obtain all gathering materials and crafting materials"],
     "GMGroup": 2,
-    "Id": 2008,
+    "Id": 2012,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1220"],
     "Type": 2
   },
-  "2009": {
+  "2013": {
     "AuToClose": false,
     "ButtonShow": "Obtain all weapons and equipment",
     "Command": "getcbtitemsequip",
     "CommandOrParameterRemark": ["Obtain all weapons and equipment"],
     "GMGroup": 2,
-    "Id": 2009,
+    "Id": 2013,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1230"],
     "Type": 2
   },
-  "2010": {
+  "2014": {
     "AuToClose": false,
     "ButtonShow": "Obtain all development items",
     "Command": "getcbtitemspeofession",
     "CommandOrParameterRemark": ["Obtain all development items"],
     "GMGroup": 2,
-    "Id": 2010,
+    "Id": 2014,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1240"],
     "Type": 2
   },
-  "2011": {
+  "2015": {
     "AuToClose": false,
     "ButtonShow": "Obtain talents and talent items",
     "Command": "getcbtitemstalents",
     "CommandOrParameterRemark": ["Obtain talents and talent items"],
     "GMGroup": 2,
-    "Id": 2011,
+    "Id": 2015,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1250"],
     "Type": 2
   },
-  "2012": {
+  "2016": {
     "AuToClose": false,
     "ButtonShow": "Obtain all cooking items",
     "Command": "getallcuisine",
     "CommandOrParameterRemark": ["Obtain all cooking items"],
     "GMGroup": 2,
-    "Id": 2012,
+    "Id": 2016,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1260"],
     "Type": 2
   },
-  "2013": {
+  "2017": {
     "AuToClose": false,
     "ButtonShow": "Add all vehicles",
     "Command": "addAllVehicle",
     "CommandOrParameterRemark": ["Add all vehicles"],
     "GMGroup": 2,
-    "Id": 2013,
+    "Id": 2017,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -1969,17 +2049,26 @@
       "addItem 12010086,1",
       "addItem 12010087,1",
       "addItem 12010088,1",
-      "addItem 12010089,1"
+      "addItem 12010089,1",
+      "addItem 12010090,1",
+      "addItem 12010091,1",
+      "addItem 12010092,1",
+      "addItem 12010093,1",
+      "addItem 12010094,1",
+      "addItem 12010095,1",
+      "addItem 12010096,1",
+      "addItem 12010097,1",
+      "addItem 12010103,1"
     ],
     "Type": 2
   },
-  "2014": {
+  "2018": {
     "AuToClose": false,
-    "ButtonShow": "Obtain all toys",
+    "ButtonShow": "Alle Spielzeuge erhalten",
     "Command": "addALLToys",
-    "CommandOrParameterRemark": ["Add all toys with one click"],
+    "CommandOrParameterRemark": ["Fügt alle Spielzeuge mit einem Klick hinzu."],
     "GMGroup": 2,
-    "Id": 2014,
+    "Id": 2018,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2033,107 +2122,107 @@
     ],
     "Type": 2
   },
-  "2015": {
+  "2019": {
     "AuToClose": false,
     "ButtonShow": "Unlock all emotes",
     "Command": "unlockAllEmoteAction",
     "CommandOrParameterRemark": ["Unlock all emotes"],
     "GMGroup": 2,
-    "Id": 2015,
+    "Id": 2019,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2016": {
+  "2020": {
     "AuToClose": false,
     "ButtonShow": "Mount up",
     "Command": "GMStartVehicle",
     "CommandOrParameterRemark": ["Mount up"],
     "GMGroup": 2,
-    "Id": 2016,
+    "Id": 2020,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["vehicleId"],
     "Type": 3
   },
-  "2017": {
+  "2021": {
     "AuToClose": false,
     "ButtonShow": "Dismount",
     "Command": "GMStopVehicle",
     "CommandOrParameterRemark": ["Dismount"],
     "GMGroup": 2,
-    "Id": 2017,
+    "Id": 2021,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2018": {
+  "2022": {
     "AuToClose": false,
     "ButtonShow": "Summon vehicle",
     "Command": "GMSummonVehicle",
     "CommandOrParameterRemark": ["Summon vehicle"],
     "GMGroup": 2,
-    "Id": 2018,
+    "Id": 2022,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["vehicleId"],
     "Type": 3
   },
-  "2019": {
+  "2023": {
     "AuToClose": false,
     "ButtonShow": "Sit in the specified position of the vehicle",
     "Command": "GMStartRideVehicle",
     "CommandOrParameterRemark": [
-      "Sit in the specified position of the vehicle",
-      "Fahrzeug-Entitäts-ID, Sitzindex, [Seat Group Index.0]"
+      "乘坐载具的指定位置",
+      "Fahrzeug-Entitäts-ID, Sitzindex, [Seat Group Index.0]​​​​​"
     ],
     "GMGroup": 2,
-    "Id": 2019,
+    "Id": 2023,
     "OnOff": false,
     "OptionalParameter": ["seatGroupIndex"],
     "ParameterCheck": ["number", "number", "number"],
     "ParameterOrContent": ["vehicleUuid", "seatIndex"],
     "Type": 3
   },
-  "2020": {
+  "2024": {
     "AuToClose": false,
     "ButtonShow": "Download vehicle",
     "Command": "GMStopRideVehicle",
-    "CommandOrParameterRemark": ["Download vehicle"],
+    "CommandOrParameterRemark": ["下载具"],
     "GMGroup": 2,
-    "Id": 2020,
+    "Id": 2024,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2021": {
+  "2025": {
     "AuToClose": false,
     "ButtonShow": "(Lag|Use with caution) All trade exchange items",
     "Command": "getexchangeitem",
-    "CommandOrParameterRemark": ["Obtain all trade exchange items, it may lag for a few seconds"],
+    "CommandOrParameterRemark": ["获取所有交易交换道具，会卡顿几秒钟"],
     "GMGroup": 2,
-    "Id": 2021,
+    "Id": 2025,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["sendAward 1300"],
     "Type": 2
   },
-  "2022": {
+  "2026": {
     "AuToClose": false,
     "ButtonShow": "Add 999 of all cooking and alchemy materials",
     "Command": "addAllCookChemistryMaterial",
-    "CommandOrParameterRemark": ["Add 999 of all cooking and alchemy materials"],
+    "CommandOrParameterRemark": ["添加所有烹饪、炼制材料999个"],
     "GMGroup": 2,
-    "Id": 2022,
+    "Id": 2026,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2185,67 +2274,67 @@
     ],
     "Type": 2
   },
-  "2023": {
+  "2027": {
     "AuToClose": false,
     "ButtonShow": "Open the GM panel for props",
     "Command": "openUI 888888",
     "CommandOrParameterRemark": ["Open the GM panel for props"],
     "GMGroup": 2,
-    "Id": 2023,
+    "Id": 2027,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 2
   },
-  "2024": {
+  "2028": {
     "AuToClose": false,
     "ButtonShow": "Open the damage display panel",
     "Command": "openUI 999999",
-    "CommandOrParameterRemark": ["Open the damage display panel"],
+    "CommandOrParameterRemark": ["打开伤害显示面板"],
     "GMGroup": 2,
-    "Id": 2024,
+    "Id": 2028,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 2
   },
-  "2025": {
+  "2029": {
     "AuToClose": false,
     "ButtonShow": "Start the firework festival",
     "Command": "startFirework",
     "CommandOrParameterRemark": [
-      "Start the firework festival (startFirework 1 for regular fireworks, startFirework 2 for New Year fireworks)"
+      "开启花火大会（startFirework 1是播普通烟花，startFirework 2是播新年烟花）"
     ],
     "GMGroup": 2,
-    "Id": 2025,
+    "Id": 2029,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["type"],
     "Type": 3
   },
-  "2026": {
+  "2030": {
     "AuToClose": false,
     "ButtonShow": "End the firework festival",
     "Command": "stopFirework",
-    "CommandOrParameterRemark": ["End the firework festival"],
+    "CommandOrParameterRemark": ["关闭花火大会"],
     "GMGroup": 2,
-    "Id": 2026,
+    "Id": 2030,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["stopFirework"],
     "Type": 2
   },
-  "2027": {
+  "2031": {
     "AuToClose": false,
     "ButtonShow": "For single-player test instance",
     "Command": "single",
-    "CommandOrParameterRemark": ["For single-player test instance"],
+    "CommandOrParameterRemark": ["单人测试副本用"],
     "GMGroup": 2,
-    "Id": 2027,
+    "Id": 2031,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2257,13 +2346,13 @@
     ],
     "Type": 2
   },
-  "2028": {
+  "2032": {
     "AuToClose": false,
     "ButtonShow": "Invincible",
     "Command": "whosyourdaddy",
-    "CommandOrParameterRemark": ["Invincible"],
+    "CommandOrParameterRemark": ["无敌"],
     "GMGroup": 2,
-    "Id": 2028,
+    "Id": 2032,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2275,15 +2364,15 @@
     ],
     "Type": 2
   },
-  "2029": {
+  "2033": {
     "AuToClose": false,
     "ButtonShow": "Enable functions with configured conditions",
     "Command": "openfunction",
     "CommandOrParameterRemark": [
-      "(Function enabled as a backup, prioritize using [One-click unlock all functions]) Meet level and task conditions (may need to execute multiple times), if the task is stuck, try switching maps"
+      "（功能开启备用，优先使用[一键解锁所有功能]​​​​​）满足等级和任务条件（需要多执行几次），任务卡住可尝试切换地图"
     ],
     "GMGroup": 2,
-    "Id": 2029,
+    "Id": 2033,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2306,39 +2395,39 @@
     ],
     "Type": 2
   },
-  "2030": {
+  "2034": {
     "AuToClose": false,
     "ButtonShow": "Delete account data",
     "Command": "deleteSelf",
-    "CommandOrParameterRemark": ["Delete account data"],
+    "CommandOrParameterRemark": ["删除帐号数据"],
     "GMGroup": 2,
-    "Id": 2030,
+    "Id": 2034,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2031": {
+  "2035": {
     "AuToClose": false,
     "ButtonShow": "Enable hudGM",
     "Command": "hudGmSwitch",
-    "CommandOrParameterRemark": ["Enable hudGM, hudGmSwitch 0 to disable; hudGmSwitch 1 to enable"],
+    "CommandOrParameterRemark": ["开启hudGM，hudGmSwitch 0 关闭 ；hudGmSwitch 1 开启"],
     "GMGroup": 2,
-    "Id": 2031,
+    "Id": 2035,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["hudGmSwitch 0 ", " hudGmSwitch 1"],
     "Type": 1
   },
-  "2032": {
+  "2036": {
     "AuToClose": false,
     "ButtonShow": "Staff build A full talent",
     "Command": "magicA",
     "CommandOrParameterRemark": ["Staff build A full talent"],
     "GMGroup": 2,
-    "Id": 2032,
+    "Id": 2036,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2355,20 +2444,20 @@
     ],
     "Type": 2
   },
-  "2033": {
+  "2037": {
     "AuToClose": false,
     "ButtonShow": "Am gleichen Ort wiederbeleben",
     "Command": "revive",
     "CommandOrParameterRemark": ["Revive"],
     "GMGroup": 2,
-    "Id": 2033,
+    "Id": 2037,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["revive 0"],
     "Type": 3
   },
-  "2034": {
+  "2038": {
     "AuToClose": false,
     "ButtonShow": "Giant Tower BOSS battle (must be in the Giant Tower instance)",
     "Command": "JutaBoss",
@@ -2376,7 +2465,7 @@
       "Directly teleport to the Giant Tower BOSS room (must be in the Giant Tower instance)"
     ],
     "GMGroup": 2,
-    "Id": 2034,
+    "Id": 2038,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2387,26 +2476,26 @@
     ],
     "Type": 2
   },
-  "2035": {
+  "2039": {
     "AuToClose": false,
     "ButtonShow": "Tina BOSS battle (must be in the Tina instance)",
     "Command": "tinaboss",
     "CommandOrParameterRemark": ["Tina linear instance fast track to BOSS"],
     "GMGroup": 2,
-    "Id": 2035,
+    "Id": 2039,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent test_tina_fast_born", "moveSelf 0,110,14"],
     "Type": 2
   },
-  "2036": {
+  "2040": {
     "AuToClose": false,
     "ButtonShow": "Dragon Claw BOSS battle (must be in the Dragon Claw instance)",
     "Command": "longzhuaboss",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2036,
+    "Id": 2040,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2416,26 +2505,26 @@
     ],
     "Type": 2
   },
-  "2037": {
+  "2041": {
     "AuToClose": false,
     "ButtonShow": "Goblin Nest BOSS battle (must be in the Goblin Nest instance)",
     "Command": "gebulinBOSS",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2037,
+    "Id": 2041,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent test_goblin_fast_born", "moveSelf -115,114,38"],
     "Type": 2
   },
-  "2038": {
+  "2042": {
     "AuToClose": false,
-    "ButtonShow": "Boss Denvel herausfordern (in Schattenbastion)",
+    "ButtonShow": "Challenge Boss Denvel (In Shadow Bastion)",
     "Command": "danfoboss",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2038,
+    "Id": 2042,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2445,39 +2534,39 @@
     ],
     "Type": 2
   },
-  "2039": {
+  "2043": {
     "AuToClose": false,
-    "ButtonShow": "Giant Tower Linear",
+    "ButtonShow": "蒂娜线性入口",
     "Command": "tinaEntrance",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2039,
+    "Id": 2043,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["enterScene 7", "moveSelf -69.07, 174.22, -151.11"],
     "Type": 2
   },
-  "2040": {
+  "2044": {
     "AuToClose": false,
-    "ButtonShow": "【day2】Goblin (Click me once first! Then choose a profession below)",
+    "ButtonShow": "巨塔线性",
     "Command": "jutaEntrance",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2040,
+    "Id": 2044,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["enterScene 7", "moveSelf -41.58, 165.09, 6.16"],
     "Type": 2
   },
-  "2041": {
+  "2045": {
     "AuToClose": false,
-    "ButtonShow": "day2-Katana-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "[day2]哥布林（先点我1次！再在下方选择职业）",
     "Command": "cbtequip10",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2041,
+    "Id": 2045,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2544,13 +2633,13 @@
     ],
     "Type": 2
   },
-  "2042": {
+  "2046": {
     "AuToClose": false,
-    "ButtonShow": "day2-Wand-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day2-太刀-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip11",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2042,
+    "Id": 2046,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2581,13 +2670,13 @@
     ],
     "Type": 2
   },
-  "2043": {
+  "2047": {
     "AuToClose": false,
-    "ButtonShow": "day2-Spear-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day2-魔杖-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip12",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2043,
+    "Id": 2047,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2618,13 +2707,13 @@
     ],
     "Type": 2
   },
-  "2044": {
+  "2048": {
     "AuToClose": false,
-    "ButtonShow": "day2-Magic Ring-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day2-长枪-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip13",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2044,
+    "Id": 2048,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2655,13 +2744,13 @@
     ],
     "Type": 2
   },
-  "2045": {
+  "2049": {
     "AuToClose": false,
-    "ButtonShow": "day2-Guardian Blade-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day2-法环-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip14",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2045,
+    "Id": 2049,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2692,13 +2781,13 @@
     ],
     "Type": 2
   },
-  "2046": {
+  "2050": {
     "AuToClose": false,
-    "ButtonShow": "day2-Bow and Arrow-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day2-卫刃-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip15",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2046,
+    "Id": 2050,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2729,13 +2818,13 @@
     ],
     "Type": 2
   },
-  "2047": {
+  "2051": {
     "AuToClose": false,
-    "ButtonShow": "day2-Sword and Shield-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day2-弓箭-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip16",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2047,
+    "Id": 2051,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2766,13 +2855,13 @@
     ],
     "Type": 2
   },
-  "2048": {
+  "2052": {
     "AuToClose": false,
-    "ButtonShow": "【day5】Tina (Click me once first! Then choose a profession below)",
+    "ButtonShow": "day2-剑盾-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip17",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2048,
+    "Id": 2052,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2803,13 +2892,13 @@
     ],
     "Type": 2
   },
-  "2049": {
+  "2053": {
     "AuToClose": false,
-    "ButtonShow": "day5-Katana-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "[day5]蒂娜（先点我1次！再在下方选择职业）",
     "Command": "cbtequip18",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2049,
+    "Id": 2053,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2876,13 +2965,13 @@
     ],
     "Type": 2
   },
-  "2050": {
+  "2054": {
     "AuToClose": false,
-    "ButtonShow": "day5-Wand-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day5-太刀-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip19",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2050,
+    "Id": 2054,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2915,13 +3004,13 @@
     ],
     "Type": 2
   },
-  "2051": {
+  "2055": {
     "AuToClose": false,
-    "ButtonShow": "day5-Spear-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day5-魔杖-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip20",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2051,
+    "Id": 2055,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2954,13 +3043,13 @@
     ],
     "Type": 2
   },
-  "2052": {
+  "2056": {
     "AuToClose": false,
-    "ButtonShow": "day5-Magic Ring-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day5-长枪-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip21",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2052,
+    "Id": 2056,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -2993,13 +3082,13 @@
     ],
     "Type": 2
   },
-  "2053": {
+  "2057": {
     "AuToClose": false,
-    "ButtonShow": "day5-Guardian Blade-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day5-法环-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip22",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2053,
+    "Id": 2057,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3032,13 +3121,13 @@
     ],
     "Type": 2
   },
-  "2054": {
+  "2058": {
     "AuToClose": false,
-    "ButtonShow": "day5-Bow and Arrow-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day5-卫刃-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip23",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2054,
+    "Id": 2058,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3071,13 +3160,13 @@
     ],
     "Type": 2
   },
-  "2055": {
+  "2059": {
     "AuToClose": false,
-    "ButtonShow": "day5-Sword and Shield-Only switch profession and equipment-Clean equipment with cleanPackage 2",
+    "ButtonShow": "day5-弓箭-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip24",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2055,
+    "Id": 2059,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3110,13 +3199,13 @@
     ],
     "Type": 2
   },
-  "2056": {
+  "2060": {
     "AuToClose": false,
-    "ButtonShow": "【day7】Giant Tower (Click me once first! Then choose a profession below)",
+    "ButtonShow": "day5-剑盾-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip25",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2056,
+    "Id": 2060,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3149,13 +3238,13 @@
     ],
     "Type": 2
   },
-  "2057": {
+  "2061": {
     "AuToClose": false,
-    "ButtonShow": "[Day 7] The Great Tower (Tap me once first! Then select your class below)",
+    "ButtonShow": "[day7]巨塔（先点我1次！再在下方选择职业）",
     "Command": "cbtequip26",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2057,
+    "Id": 2061,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3222,13 +3311,13 @@
     ],
     "Type": 2
   },
-  "2058": {
+  "2062": {
     "AuToClose": false,
-    "ButtonShow": "day7-Tachi-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day7-太刀-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip27",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2058,
+    "Id": 2062,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3261,13 +3350,13 @@
     ],
     "Type": 2
   },
-  "2059": {
+  "2063": {
     "AuToClose": false,
-    "ButtonShow": "day7-Magic Wand-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day7-魔杖-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip28",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2059,
+    "Id": 2063,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3300,13 +3389,13 @@
     ],
     "Type": 2
   },
-  "2060": {
+  "2064": {
     "AuToClose": false,
-    "ButtonShow": "day7-Spear-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day7-长枪-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip29",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2060,
+    "Id": 2064,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3339,13 +3428,13 @@
     ],
     "Type": 2
   },
-  "2061": {
+  "2065": {
     "AuToClose": false,
-    "ButtonShow": "day7-Magic Ring-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day7-法环-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip30",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2061,
+    "Id": 2065,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3378,13 +3467,13 @@
     ],
     "Type": 2
   },
-  "2062": {
+  "2066": {
     "AuToClose": false,
-    "ButtonShow": "day7-Guard Blade-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day7-卫刃-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip31",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2062,
+    "Id": 2066,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3417,13 +3506,13 @@
     ],
     "Type": 2
   },
-  "2063": {
+  "2067": {
     "AuToClose": false,
-    "ButtonShow": "day7-Bow and Arrow-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day7-弓箭-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip32",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2063,
+    "Id": 2067,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3456,13 +3545,13 @@
     ],
     "Type": 2
   },
-  "2064": {
+  "2068": {
     "AuToClose": false,
-    "ButtonShow": "day7-Sword and Shield-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day7-剑盾-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip33",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2064,
+    "Id": 2068,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3495,13 +3584,13 @@
     ],
     "Type": 2
   },
-  "2065": {
+  "2069": {
     "AuToClose": false,
-    "ButtonShow": "day11-Tachi-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "[day11]卡尼曼（先点我1次！再在下方选择职业）",
     "Command": "cbtequip34",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2065,
+    "Id": 2069,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3568,13 +3657,13 @@
     ],
     "Type": 2
   },
-  "2066": {
+  "2070": {
     "AuToClose": false,
-    "ButtonShow": "day11-Magic Wand-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day11-太刀-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip35",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2066,
+    "Id": 2070,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3607,13 +3696,13 @@
     ],
     "Type": 2
   },
-  "2067": {
+  "2071": {
     "AuToClose": false,
-    "ButtonShow": "day11-Spear-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day11-魔杖-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip36",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2067,
+    "Id": 2071,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3646,13 +3735,13 @@
     ],
     "Type": 2
   },
-  "2068": {
+  "2072": {
     "AuToClose": false,
-    "ButtonShow": "day11-Magic Ring-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day11-长枪-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip37",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2068,
+    "Id": 2072,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3685,13 +3774,13 @@
     ],
     "Type": 2
   },
-  "2069": {
+  "2073": {
     "AuToClose": false,
-    "ButtonShow": "day11-Guard Blade-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day11-法环-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip38",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2069,
+    "Id": 2073,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3724,13 +3813,13 @@
     ],
     "Type": 2
   },
-  "2070": {
+  "2074": {
     "AuToClose": false,
-    "ButtonShow": "day11-Bow and Arrow-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day11-卫刃-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip39",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2070,
+    "Id": 2074,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3763,13 +3852,13 @@
     ],
     "Type": 2
   },
-  "2071": {
+  "2075": {
     "AuToClose": false,
-    "ButtonShow": "day11-Sword and Shield-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day11-弓箭-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip40",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2071,
+    "Id": 2075,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3802,13 +3891,13 @@
     ],
     "Type": 2
   },
-  "2072": {
+  "2076": {
     "AuToClose": false,
-    "ButtonShow": "【day17】Dragon Claw (Click me once first! Then choose profession below)",
+    "ButtonShow": "day11-剑盾-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip41",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2072,
+    "Id": 2076,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3841,13 +3930,13 @@
     ],
     "Type": 2
   },
-  "2073": {
+  "2077": {
     "AuToClose": false,
-    "ButtonShow": "day17-Tachi-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "[day17]龙爪（先点我1次！再在下方选择职业）",
     "Command": "cbtequip42",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2073,
+    "Id": 2077,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3923,13 +4012,13 @@
     ],
     "Type": 2
   },
-  "2074": {
+  "2078": {
     "AuToClose": false,
-    "ButtonShow": "day17-Magic Wand-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day17-太刀-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip43",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2074,
+    "Id": 2078,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -3962,13 +4051,13 @@
     ],
     "Type": 2
   },
-  "2075": {
+  "2079": {
     "AuToClose": false,
-    "ButtonShow": "day17-Spear-Only Cut Profession and Equipment-Clean Package 2",
+    "ButtonShow": "day17-魔杖-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip44",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2075,
+    "Id": 2079,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4001,13 +4090,13 @@
     ],
     "Type": 2
   },
-  "2076": {
+  "2080": {
     "AuToClose": false,
-    "ButtonShow": "day17-Elden Ring-Only switch profession and equipment-Clean package for cleanPackage 2",
+    "ButtonShow": "day17-长枪-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip45",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2076,
+    "Id": 2080,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4040,13 +4129,13 @@
     ],
     "Type": 2
   },
-  "2077": {
+  "2081": {
     "AuToClose": false,
-    "ButtonShow": "day17-Guardian Blade-Only switch profession and equipment-Clean package for cleanPackage 2",
+    "ButtonShow": "day17-法环-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip46",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2077,
+    "Id": 2081,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4079,13 +4168,13 @@
     ],
     "Type": 2
   },
-  "2078": {
+  "2082": {
     "AuToClose": false,
-    "ButtonShow": "day17-Bow and Arrow-Only switch profession and equipment-Clean package for cleanPackage 2",
+    "ButtonShow": "day17-卫刃-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip47",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2078,
+    "Id": 2082,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4118,13 +4207,13 @@
     ],
     "Type": 2
   },
-  "2079": {
+  "2083": {
     "AuToClose": false,
-    "ButtonShow": "day17-Sword and Shield-Only switch profession and equipment-Clean package for cleanPackage 2",
+    "ButtonShow": "day17-弓箭-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip48",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2079,
+    "Id": 2083,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4157,13 +4246,13 @@
     ],
     "Type": 2
   },
-  "2080": {
+  "2084": {
     "AuToClose": false,
-    "ButtonShow": "【day22】MMM book (click me once first! Then choose a profession below)",
+    "ButtonShow": "day17-剑盾-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip49",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2080,
+    "Id": 2084,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4196,13 +4285,13 @@
     ],
     "Type": 2
   },
-  "2081": {
+  "2085": {
     "AuToClose": false,
-    "ButtonShow": "day22-Katana-only switch profession and equipment-clean equipment with cleanPackage 2",
+    "ButtonShow": "[day22]MMM本（先点我1次！再在下方选择职业）",
     "Command": "cbtequip50",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2081,
+    "Id": 2085,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4278,13 +4367,13 @@
     ],
     "Type": 2
   },
-  "2082": {
+  "2086": {
     "AuToClose": false,
-    "ButtonShow": "day22-Wand-only switch profession and equipment-clean equipment with cleanPackage 2",
+    "ButtonShow": "day22-太刀-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip51",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2082,
+    "Id": 2086,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4317,13 +4406,13 @@
     ],
     "Type": 2
   },
-  "2083": {
+  "2087": {
     "AuToClose": false,
-    "ButtonShow": "day22-Lance-only switch profession and equipment-clean equipment with cleanPackage 2",
+    "ButtonShow": "day22-魔杖-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip52",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2083,
+    "Id": 2087,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4356,13 +4445,13 @@
     ],
     "Type": 2
   },
-  "2084": {
+  "2088": {
     "AuToClose": false,
-    "ButtonShow": "day22-Ring-only switch profession and equipment-clean equipment with cleanPackage 2",
+    "ButtonShow": "day22-长枪-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip53",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2084,
+    "Id": 2088,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4395,13 +4484,13 @@
     ],
     "Type": 2
   },
-  "2085": {
+  "2089": {
     "AuToClose": false,
-    "ButtonShow": "day22-Guard Blade-only switch profession and equipment-clean equipment with cleanPackage 2",
+    "ButtonShow": "day22-法环-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip54",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2085,
+    "Id": 2089,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4434,13 +4523,13 @@
     ],
     "Type": 2
   },
-  "2086": {
+  "2090": {
     "AuToClose": false,
-    "ButtonShow": "day22-Bow-only switch profession and equipment-clean equipment with cleanPackage 2",
+    "ButtonShow": "day22-卫刃-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip55",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2086,
+    "Id": 2090,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4473,13 +4562,13 @@
     ],
     "Type": 2
   },
-  "2087": {
+  "2091": {
     "AuToClose": false,
-    "ButtonShow": "day22-Sword and Shield-only switch profession and equipment-clean equipment with cleanPackage 2",
+    "ButtonShow": "day22-弓箭-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip56",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2087,
+    "Id": 2091,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4512,13 +4601,13 @@
     ],
     "Type": 2
   },
-  "2088": {
+  "2092": {
     "AuToClose": false,
-    "ButtonShow": "Full refinement + full module link basic attributes (cleared across scenes)",
+    "ButtonShow": "day22-剑盾-仅切职业和装备-清装备用cleanPackage 2",
     "Command": "cbtequip57",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2088,
+    "Id": 2092,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4551,13 +4640,13 @@
     ],
     "Type": 2
   },
-  "2089": {
+  "2093": {
     "AuToClose": false,
     "ButtonShow": "For single-player test instance",
     "Command": "singleplus",
-    "CommandOrParameterRemark": ["For single-player test instance"],
+    "CommandOrParameterRemark": ["单人测试副本用"],
     "GMGroup": 2,
-    "Id": 2089,
+    "Id": 2093,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4568,13 +4657,13 @@
     ],
     "Type": 2
   },
-  "2090": {
+  "2094": {
     "AuToClose": false,
-    "ButtonShow": "Geisterschrein-Bosskampf (im Dungeon des Geisterschreins)",
+    "ButtonShow": "Wraith Shrine Boss Fight (In the dungeon of Wraith Shrine)",
     "Command": "knmboss",
     "CommandOrParameterRemark": ["Zum Boss teleportieren"],
     "GMGroup": 2,
-    "Id": 2090,
+    "Id": 2094,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4584,52 +4673,52 @@
     ],
     "Type": 2
   },
-  "2091": {
+  "2095": {
     "AuToClose": false,
-    "ButtonShow": "Steinschlangen-Bosskampf (im Dungeon der Steinschlange)",
+    "ButtonShow": "Rock Serpent Boss Fight (In the dungeon of Rock Serpent)",
     "Command": "snakeBOSS",
-    "CommandOrParameterRemark": ["Zum Steinschlangen-Boss teleportieren"],
+    "CommandOrParameterRemark": ["Teleport to Rock Serpent Boss"],
     "GMGroup": 2,
-    "Id": 2091,
+    "Id": 2095,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["moveSelf -48,102,200"],
     "Type": 2
   },
-  "2092": {
+  "2096": {
     "AuToClose": false,
-    "ButtonShow": "Illusorische-Blüte-Bosskampf (im Dungeon der Illusorischen Blüte)",
+    "ButtonShow": "Illusory Bloom Boss Fight (In the dungeon of Illusory Bloom)",
     "Command": "nappoboss",
-    "CommandOrParameterRemark": ["Zum Pest-Nappo-Boss teleportieren"],
+    "CommandOrParameterRemark": ["Teleport to Plague Nappo Boss"],
     "GMGroup": 2,
-    "Id": 2092,
+    "Id": 2096,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent nappo_test"],
     "Type": 2
   },
-  "2093": {
+  "2097": {
     "AuToClose": false,
-    "ButtonShow": "Steinschlangen-Reittiersequenz (im Dungeon der Steinschlange)",
+    "ButtonShow": "Rock Serpent Mount Sequence (In the dungeon of Rock Serpent)",
     "Command": "snakeZaiJu",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2093,
+    "Id": 2097,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent testzaiju", "dungeonSetStageTarget 1501014"],
     "Type": 2
   },
-  "2094": {
+  "2098": {
     "AuToClose": false,
-    "ButtonShow": "Bosskampf in den Tiefen des Verfalls (im Dungeon der Tiefen des Verfalls)",
+    "ButtonShow": "Depths of Decay Boss Fight (In the dungeon of Depths of Decay)",
     "Command": "mengyanBOSS",
     "CommandOrParameterRemark": [],
     "GMGroup": 2,
-    "Id": 2094,
+    "Id": 2098,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4639,70 +4728,68 @@
     ],
     "Type": 2
   },
-  "2095": {
+  "2099": {
     "AuToClose": false,
-    "ButtonShow": "Zufälliger Affix",
+    "ButtonShow": "Random Entry",
     "Command": "GMRogueRandom",
-    "CommandOrParameterRemark": ["Zufälliger Affix", "Interagierbares-Objekt-UUID"],
+    "CommandOrParameterRemark": ["Random Entry", "Interagierbares-Objekt-UUID"],
     "GMGroup": 2,
-    "Id": 2095,
+    "Id": 2099,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["objUuid"],
     "Type": 3
   },
-  "2096": {
+  "2100": {
     "AuToClose": false,
-    "ButtonShow": "Währung erhalten",
+    "ButtonShow": "Obtain Currency",
     "Command": "GMRogueGetCoin",
-    "CommandOrParameterRemark": ["Währung erhalten", "[Ziel-UUID.0]"],
+    "CommandOrParameterRemark": ["Obtain Currency", "[Ziel-UUID.0]​​​​​"],
     "GMGroup": 2,
-    "Id": 2096,
+    "Id": 2100,
     "OnOff": false,
     "OptionalParameter": ["targetUuid"],
     "ParameterCheck": ["number"],
     "ParameterOrContent": [],
     "Type": 3
   },
-  "2097": {
+  "2101": {
     "AuToClose": false,
-    "ButtonShow": "Nächstes zufälliges Ergebnis festlegen",
+    "ButtonShow": "Set Next Random Result",
     "Command": "GMRogueSetRandom",
-    "CommandOrParameterRemark": ["Nächstes zufälliges Ergebnis festlegen", "Affix-ID"],
+    "CommandOrParameterRemark": ["Set Next Random Result", "Affix-ID"],
     "GMGroup": 2,
-    "Id": 2097,
+    "Id": 2101,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": ["number"],
     "ParameterOrContent": ["entryId"],
     "Type": 3
   },
-  "2098": {
+  "2102": {
     "AuToClose": false,
-    "ButtonShow": "Währung ändern",
+    "ButtonShow": "Change Currency",
     "Command": "GMRogueChangeCoin",
     "CommandOrParameterRemark": [
-      "Währung ändern",
-      "Währungsvariablen-ID, Wert ändern, [Ziel-UUID.0]"
+      "Change Currency",
+      "Währungsvariablen-ID, Wert ändern, [Ziel-UUID.0]​​​​​"
     ],
     "GMGroup": 2,
-    "Id": 2098,
+    "Id": 2102,
     "OnOff": false,
     "OptionalParameter": ["targetUuid"],
     "ParameterCheck": ["number", "number", "number"],
     "ParameterOrContent": ["coinId", "val"],
     "Type": 3
   },
-  "2099": {
+  "2103": {
     "AuToClose": false,
-    "ButtonShow": "Erhalte vollständiges Ausrüstungsset St. 220",
+    "ButtonShow": "Get Full Lv.220 Gear Set",
     "Command": "send220",
-    "CommandOrParameterRemark": [
-      "Erhalte und rüste das vollständige Set der Saison-3-Ausrüstung auf St. 220 aus."
-    ],
+    "CommandOrParameterRemark": ["Obtain and equip the full set of Lv.220 Season 3 gear."],
     "GMGroup": 2,
-    "Id": 2099,
+    "Id": 2103,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4722,15 +4809,13 @@
     ],
     "Type": 2
   },
-  "2100": {
+  "2104": {
     "AuToClose": false,
-    "ButtonShow": "Erhalte vollständiges Ausrüstungsset St. 240",
+    "ButtonShow": "Get Full Lv.240 Gear Set",
     "Command": "send240",
-    "CommandOrParameterRemark": [
-      "Erhalte und rüste das vollständige Set der Saison-3-Ausrüstung auf St. 240 aus."
-    ],
+    "CommandOrParameterRemark": ["Obtain and equip the full set of Lv.240 Season 3 gear."],
     "GMGroup": 2,
-    "Id": 2100,
+    "Id": 2104,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4750,15 +4835,13 @@
     ],
     "Type": 2
   },
-  "2101": {
+  "2105": {
     "AuToClose": false,
-    "ButtonShow": "Erhalte vollständiges Ausrüstungsset St. 260",
+    "ButtonShow": "Get Full Lv.260 Gear Set",
     "Command": "send260",
-    "CommandOrParameterRemark": [
-      "Erhalte und rüste das vollständige Set der Saison-3-Ausrüstung auf St. 260 aus."
-    ],
+    "CommandOrParameterRemark": ["Obtain and equip the full set of Lv.260 Season 3 gear."],
     "GMGroup": 2,
-    "Id": 2101,
+    "Id": 2105,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4778,33 +4861,33 @@
     ],
     "Type": 2
   },
-  "2102": {
+  "2106": {
     "AuToClose": false,
     "ButtonShow": "传送S3煌墓BOSS",
     "Command": "s3huangmuboss",
     "CommandOrParameterRemark": ["传送到S3煌墓BOSS的位置并完成小怪任务开启BOSS"],
     "GMGroup": 2,
-    "Id": 2102,
+    "Id": 2106,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent shenfaboss"],
     "Type": 2
   },
-  "2103": {
+  "2107": {
     "AuToClose": false,
     "ButtonShow": "传送S3石礁BOSS",
     "Command": "s3shijiaoboss",
     "CommandOrParameterRemark": ["传送到S3环海石礁BOSS的位置并完成小怪任务开启BOSS"],
     "GMGroup": 2,
-    "Id": 2103,
+    "Id": 2107,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent test_diver_boss"],
     "Type": 2
   },
-  "2104": {
+  "2108": {
     "AuToClose": false,
     "ButtonShow": "解锁团本传送门",
     "Command": "unlockgate",
@@ -4812,51 +4895,173 @@
       "解锁团本riad本所有传送门（需要站在原地使用，不要往前走，会错过解锁判定导致解锁失败，需要在门还没有开始解锁时使用，之后使用无效！！！！！）"
     ],
     "GMGroup": 2,
-    "Id": 2104,
+    "Id": 2108,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent unlock_all_raid_boss"],
     "Type": 2
   },
-  "2105": {
+  "2109": {
     "AuToClose": false,
     "ButtonShow": "S2一王月羊胜",
     "Command": "anyangwin",
     "CommandOrParameterRemark": ["S2raid本一王月羊投票胜利"],
     "GMGroup": 2,
-    "Id": 2105,
+    "Id": 2109,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent huanhua_win"],
     "Type": 2
   },
-  "2106": {
+  "2110": {
     "AuToClose": false,
     "ButtonShow": "S2一王炎羊胜",
     "Command": "yanyangwin",
     "CommandOrParameterRemark": ["S2raid本一王炎羊投票胜利"],
     "GMGroup": 2,
-    "Id": 2106,
+    "Id": 2110,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent yanguang_win"],
     "Type": 2
   },
-  "2107": {
+  "2111": {
     "AuToClose": false,
     "ButtonShow": "S2三王转阶段密码通过",
     "Command": "codesuccess",
     "CommandOrParameterRemark": ["S2三王转阶段时密码过程通过"],
     "GMGroup": 2,
-    "Id": 2107,
+    "Id": 2111,
     "OnOff": false,
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ParameterOrContent": ["triggerSceneCustomEvent boss3_code_success"],
     "Type": 2
+  },
+  "2112": {
+    "AuToClose": false,
+    "ButtonShow": "获取320全套装备",
+    "Command": "send320",
+    "CommandOrParameterRemark": ["获取S4全套的320装备并装备"],
+    "GMGroup": 2,
+    "Id": 2112,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "sendAward 20023912",
+      "sendAward 20023913",
+      "sendAward 20023914",
+      "sendAward 20023915",
+      "sendAward 20023916",
+      "sendAward 20023917",
+      "sendAward 20023918",
+      "sendAward 20023919",
+      "sendAward 20023920",
+      "sendAward 20023921",
+      "sendAward 20023922",
+      "putOnAllBestEquip"
+    ],
+    "Type": 2
+  },
+  "2113": {
+    "AuToClose": false,
+    "ButtonShow": "获取340全套装备",
+    "Command": "send340",
+    "CommandOrParameterRemark": ["获取S4全套的340装备并装备"],
+    "GMGroup": 2,
+    "Id": 2113,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "sendAward 20023925",
+      "sendAward 20023926",
+      "sendAward 20023927",
+      "sendAward 20023928",
+      "sendAward 20023929",
+      "sendAward 20023930",
+      "sendAward 20023931",
+      "sendAward 20023932",
+      "sendAward 20023933",
+      "sendAward 20023934",
+      "sendAward 20023935",
+      "putOnAllBestEquip"
+    ],
+    "Type": 2
+  },
+  "2114": {
+    "AuToClose": false,
+    "ButtonShow": "获取360全套装备",
+    "Command": "send360",
+    "CommandOrParameterRemark": ["获取S4全套的360装备并装备"],
+    "GMGroup": 2,
+    "Id": 2114,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "sendAward 20023938",
+      "sendAward 20023939",
+      "sendAward 20023940",
+      "sendAward 20023941",
+      "sendAward 20023942",
+      "sendAward 20023943",
+      "sendAward 20023944",
+      "sendAward 20023945",
+      "sendAward 20023946",
+      "sendAward 20023947",
+      "sendAward 20023948",
+      "putOnAllBestEquip"
+    ],
+    "Type": 2
+  },
+  "2115": {
+    "AuToClose": false,
+    "ButtonShow": "获取天赋点和奥术刻印",
+    "Command": "getSkillPoint",
+    "CommandOrParameterRemark": ["获取足额升满级的天赋点和奥术刻印"],
+    "GMGroup": 2,
+    "Id": 2115,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "addItem 30001,100",
+      "addItem 1020054,100",
+      "addItem 1020055,100",
+      "addItem 1020056,100 "
+    ],
+    "Type": 2
+  },
+  "2116": {
+    "AuToClose": false,
+    "ButtonShow": "获取因子自选礼盒G1-G3",
+    "Command": "getS4YinziG1G2G3",
+    "CommandOrParameterRemark": ["获取S4的G1-G3的自选因子8个"],
+    "GMGroup": 2,
+    "Id": 2116,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": ["addItem 1040551,8", "addItem 1040552,8", "addItem 1040553,8"],
+    "Type": 2
+  },
+  "2117": {
+    "AuToClose": false,
+    "ButtonShow": "Attribute Cheats",
+    "Command": "attrCheat",
+    "CommandOrParameterRemark": ["Attribute Cheats"],
+    "GMGroup": 2,
+    "Id": 2117,
+    "OnOff": false,
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ParameterOrContent": [],
+    "Type": 1
   },
   "3001": {
     "AuToClose": false,
@@ -4890,7 +5095,7 @@
     "Command": "addBuff",
     "CommandOrParameterRemark": [
       "Add effect to object",
-      "Effect ID, [Object Uuid], [Effect layers], [Effect duration]"
+      "Effect ID,[Object Uuid],[Effect layers],[Effect duration]"
     ],
     "GMGroup": 3,
     "Id": 3003,
@@ -4904,7 +5109,7 @@
     "AuToClose": false,
     "ButtonShow": "Remove Buff effect",
     "Command": "delBuff",
-    "CommandOrParameterRemark": ["Remove effect from object", "Effect ID, [Object Uuid.0]"],
+    "CommandOrParameterRemark": ["Remove effect from object", "Effect ID,[Object Uuid.0]"],
     "GMGroup": 3,
     "Id": 3004,
     "OnOff": false,
@@ -5157,7 +5362,7 @@
     "AuToClose": false,
     "ButtonShow": "Invincible",
     "Command": "whosyourdaddy",
-    "CommandOrParameterRemark": ["Invincible"],
+    "CommandOrParameterRemark": ["无敌"],
     "GMGroup": 3,
     "Id": 3021,
     "OnOff": false,
@@ -5211,9 +5416,9 @@
   },
   "3025": {
     "AuToClose": false,
-    "ButtonShow": "For solo test dungeons",
+    "ButtonShow": "For single-player test instance",
     "Command": "single",
-    "CommandOrParameterRemark": ["For solo test dungeons"],
+    "CommandOrParameterRemark": ["单人测试副本用"],
     "GMGroup": 3,
     "Id": 3025,
     "OnOff": false,
@@ -5253,9 +5458,9 @@
   },
   "3028": {
     "AuToClose": false,
-    "ButtonShow": "For solo test dungeons",
+    "ButtonShow": "For single-player test instance",
     "Command": "lockhp",
-    "CommandOrParameterRemark": ["For solo test dungeons"],
+    "CommandOrParameterRemark": ["单人测试副本用"],
     "GMGroup": 3,
     "Id": 3028,
     "OnOff": false,
@@ -5578,9 +5783,9 @@
   },
   "4020": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "添加临时道具",
     "Command": "backpackAddItem",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["添加临时道具backpackAddItem 2,道具id,道具数量"],
     "GMGroup": 4,
     "Id": 4020,
     "OnOff": false,
@@ -5591,9 +5796,9 @@
   },
   "4021": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "一键添加塔防S2的所有塔各5个",
     "Command": "holloweenTowerAllS2",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["一键添加塔防S2的所有塔各5个"],
     "GMGroup": 4,
     "Id": 4021,
     "OnOff": false,
@@ -5625,9 +5830,9 @@
   },
   "4022": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "一键添加塔防S1的所有非流派道具各1个",
     "Command": "holloweenItemAllS1",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["一键添加塔防S1的所有非流派道具各1个"],
     "GMGroup": 4,
     "Id": 4022,
     "OnOff": false,
@@ -5655,9 +5860,9 @@
   },
   "4023": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "一键添加塔防S2的所有非流派道具各1个",
     "Command": "holloweenItemAllS2",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["一键添加塔防S2的所有非流派道具各1个"],
     "GMGroup": 4,
     "Id": 4023,
     "OnOff": false,
@@ -5685,9 +5890,9 @@
   },
   "4024": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "一键添加S2塔防毕业道具全上限",
     "Command": "holloweenItemS2Graduate",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["一键添加S2塔防毕业道具全上限"],
     "GMGroup": 4,
     "Id": 4024,
     "OnOff": false,
@@ -5736,9 +5941,9 @@
   },
   "4025": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "塔防直接满资源",
     "Command": "backpackAddItem 2,30000000,200000",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["塔防直接满资源"],
     "GMGroup": 4,
     "Id": 4025,
     "OnOff": false,
@@ -5749,9 +5954,9 @@
   },
   "4026": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "百鬼流派塔及道具一键毕业",
     "Command": "holloweenTowerGhost",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["百鬼流派塔及道具一键毕业"],
     "GMGroup": 4,
     "Id": 4026,
     "OnOff": false,
@@ -5771,9 +5976,9 @@
   },
   "4027": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "燃烧流派塔及道具一键毕业",
     "Command": "holloweenTowerFire",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["燃烧流派塔及道具一键毕业"],
     "GMGroup": 4,
     "Id": 4027,
     "OnOff": false,
@@ -5793,9 +5998,9 @@
   },
   "4028": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "寒冷流派塔及道具一键毕业",
     "Command": "holloweenTowerCold",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["寒冷流派塔及道具一键毕业"],
     "GMGroup": 4,
     "Id": 4028,
     "OnOff": false,
@@ -5815,9 +6020,9 @@
   },
   "4029": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "资源流派塔及道具一键毕业",
     "Command": "holloweenTowerMoney",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["资源流派塔及道具一键毕业"],
     "GMGroup": 4,
     "Id": 4029,
     "OnOff": false,
@@ -5837,9 +6042,9 @@
   },
   "4030": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "输出流补给品3连",
     "Command": "SupAttack",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["输出流补给品3连"],
     "GMGroup": 4,
     "Id": 4030,
     "OnOff": false,
@@ -5854,9 +6059,9 @@
   },
   "4031": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "回复道具流补给品3连",
     "Command": "SupCure",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["回复道具流补给品3连"],
     "GMGroup": 4,
     "Id": 4031,
     "OnOff": false,
@@ -5871,9 +6076,9 @@
   },
   "4032": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "阵位流补给品3连",
     "Command": "SupBase",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["阵位流补给品3连"],
     "GMGroup": 4,
     "Id": 4032,
     "OnOff": false,
@@ -5888,9 +6093,9 @@
   },
   "4033": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "陷阱流补给品3连",
     "Command": "SupTrap",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["陷阱流补给品3连"],
     "GMGroup": 4,
     "Id": 4033,
     "OnOff": false,
@@ -5905,9 +6110,9 @@
   },
   "4034": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "塔防跳关",
     "Command": "towerJumpWave",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["塔防跳关towerJumpWave 目标波次数"],
     "GMGroup": 4,
     "Id": 4034,
     "OnOff": false,
@@ -5918,9 +6123,9 @@
   },
   "4035": {
     "AuToClose": false,
-    "ButtonShow": "",
+    "ButtonShow": "直接跳到41层开打",
     "Command": "towerEndless",
-    "CommandOrParameterRemark": [""],
+    "CommandOrParameterRemark": ["直接跳到41层开打"],
     "GMGroup": 4,
     "Id": 4035,
     "OnOff": false,
@@ -6076,7 +6281,7 @@
     "AuToClose": false,
     "ButtonShow": "Add item",
     "Command": "addItem",
-    "CommandOrParameterRemark": ["Add item", "Item id, [Item quantity.1], [Binding status.1]"],
+    "CommandOrParameterRemark": ["Add item", "Item id,[Item quantity.1],[Binding status.1]"],
     "GMGroup": 5,
     "Id": 5012,
     "OnOff": false,
@@ -6330,9 +6535,9 @@
   },
   "6001": {
     "AuToClose": false,
-    "ButtonShow": "Open quest GM panel",
+    "ButtonShow": "Open the GM panel for tasks",
     "Command": "openUI 666666",
-    "CommandOrParameterRemark": ["Open quest GM panel"],
+    "CommandOrParameterRemark": ["Open the GM panel for tasks"],
     "GMGroup": 6,
     "Id": 6001,
     "OnOff": false,
@@ -6417,9 +6622,11 @@
   },
   "6007": {
     "AuToClose": false,
-    "ButtonShow": "Enter vision level",
+    "ButtonShow": "Enter the vision hierarchy",
     "Command": "enterVisualLayer",
-    "CommandOrParameterRemark": ["Enter vision level, fill in vision level configuration ID"],
+    "CommandOrParameterRemark": [
+      "Enter the vision hierarchy and fill in the vision hierarchy configuration ID"
+    ],
     "GMGroup": 6,
     "Id": 6007,
     "OnOff": false,
@@ -6430,10 +6637,10 @@
   },
   "6008": {
     "AuToClose": false,
-    "ButtonShow": "Exit vision level",
+    "ButtonShow": "Exit the vision hierarchy",
     "Command": "leaveVisualLayer",
     "CommandOrParameterRemark": [
-      "Exit vision level, generally 0 to abandon exit, 1 to successfully exit"
+      "Exit the vision hierarchy, generally 0 is to abandon and exit, 1 is to successfully exit"
     ],
     "GMGroup": 6,
     "Id": 6008,
@@ -6511,9 +6718,9 @@
   },
   "6013": {
     "AuToClose": false,
-    "ButtonShow": "Play cutscene",
+    "ButtonShow": "Actively trigger scene affix events",
     "Command": "showCutscene",
-    "CommandOrParameterRemark": ["Play cutscene", "Cutscene id"],
+    "CommandOrParameterRemark": ["Actively trigger scene affix events", "Zwischensequenz-ID"],
     "GMGroup": 6,
     "Id": 6013,
     "OnOff": false,
@@ -6524,9 +6731,9 @@
   },
   "6014": {
     "AuToClose": false,
-    "ButtonShow": "End cutscene",
+    "ButtonShow": "Trigger level events",
     "Command": "stopCutscene",
-    "CommandOrParameterRemark": ["End cutscene", "Cutscene id"],
+    "CommandOrParameterRemark": ["Trigger level events", "Zwischensequenz-ID"],
     "GMGroup": 6,
     "Id": 6014,
     "OnOff": false,
@@ -6891,7 +7098,7 @@
     "AuToClose": false,
     "ButtonShow": "Modify task tracking.",
     "Command": "setQuestTrackingId",
-    "CommandOrParameterRemark": ["Modify task tracking.", "Task ID."],
+    "CommandOrParameterRemark": ["Modify task tracking.", "Quest id"],
     "GMGroup": 7,
     "Id": 7011,
     "OnOff": false,
@@ -6945,9 +7152,9 @@
   },
   "7015": {
     "AuToClose": false,
-    "ButtonShow": "Dropped items.",
+    "ButtonShow": "Drop items",
     "Command": "dropItem",
-    "CommandOrParameterRemark": ["Drop items from specified monsters.", ""],
+    "CommandOrParameterRemark": ["Drop specified monster's loot", ""],
     "GMGroup": 7,
     "Id": 7015,
     "OnOff": false,
@@ -6973,7 +7180,7 @@
     "AuToClose": false,
     "ButtonShow": "Use item",
     "Command": "useItem",
-    "CommandOrParameterRemark": ["Use item", "Item ID"],
+    "CommandOrParameterRemark": ["Use item", "Item Id"],
     "GMGroup": 7,
     "Id": 7017,
     "OnOff": false,

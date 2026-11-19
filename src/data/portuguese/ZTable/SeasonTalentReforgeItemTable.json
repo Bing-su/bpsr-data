@@ -1,0 +1,101 @@
+{
+  "1220401": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas as Marcas que aparecerem na próxima Manifestação <color=#CFA803>têm a garantia de serem</color> Marcas de Atributo Primário.",
+    "ExpAdd": 0,
+    "Id": 1220401,
+    "Param": [],
+    "TypeEnum": 1
+  },
+  "1220402": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas as Marcas que aparecerem na próxima Manifestação <color=#CFA803>têm a garantia de serem</color> Marcas de Atributo Secundário.",
+    "ExpAdd": 0,
+    "Id": 1220402,
+    "Param": [101],
+    "TypeEnum": 1
+  },
+  "1220403": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas as Marcas que aparecerem na próxima Manifestação <color=#CFA803>têm a garantia de serem</color> Marcas de Polaridade.",
+    "ExpAdd": 0,
+    "Id": 1220403,
+    "Param": [103],
+    "TypeEnum": 1
+  },
+  "1220404": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas as Marcas que aparecerem na próxima Manifestação <color=#CFA803>têm a garantia de serem</color> Marcas de Resiliência.",
+    "ExpAdd": 0,
+    "Id": 1220404,
+    "Param": [104],
+    "TypeEnum": 1
+  },
+  "1220405": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas as Marcas que aparecerem na próxima Manifestação <color=#CFA803>têm a garantia de serem</color> Marcas de Elemento.",
+    "ExpAdd": 0,
+    "Id": 1220405,
+    "Param": [105],
+    "TypeEnum": 1
+  },
+  "1220406": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Todas as Marcas que aparecerem na próxima Manifestação <color=#CFA803>têm a garantia de serem</color> Marcas de Classe.",
+    "ExpAdd": 0,
+    "Id": 1220406,
+    "Param": [1001],
+    "TypeEnum": 1
+  },
+  "1220407": {
+    "Condition": [[135, 4]],
+    "Count": 1,
+    "Desc": "A próxima Manifestação <color=#CFA803>tem a garantia de</color> incluir pelo menos 1 Marca de qualidade <color=#AB85F6>Excelente</color> ou superior.",
+    "ExpAdd": 0,
+    "Id": 1220407,
+    "Param": [3, 4, 5],
+    "TypeEnum": 2
+  },
+  "1220408": {
+    "Condition": [[135, 10]],
+    "Count": 1,
+    "Desc": "A próxima Manifestação <color=#CFA803>tem a garantia de</color> incluir pelo menos 1 Marca de qualidade <color=#EED335>Épica</color> ou superior.",
+    "ExpAdd": 0,
+    "Id": 1220408,
+    "Param": [4, 5],
+    "TypeEnum": 2
+  },
+  "1220409": {
+    "Condition": [[135, 11]],
+    "Count": 1,
+    "Desc": "A próxima Manifestação <color=#CFA803>tem a garantia de</color> incluir pelo menos 1 Marca de qualidade <color=#EF8E60>Imortal</color>.",
+    "ExpAdd": 0,
+    "Id": 1220409,
+    "Param": [5],
+    "TypeEnum": 2
+  },
+  "1220410": {
+    "Condition": [[135, 2]],
+    "Count": -1,
+    "Desc": "Todas as Marcas que aparecerem na próxima Manifestação <color=#CFA803>têm a garantia de</color> obter os valores mais altos possíveis para sua qualidade.",
+    "ExpAdd": 0,
+    "Id": 1220410,
+    "Param": [],
+    "TypeEnum": 3
+  },
+  "1220411": {
+    "Condition": [],
+    "Count": 0,
+    "Desc": "EXP da Matriz da Paisagem Mental +10. Marcas manifestadas têm uma Qualidade superior.",
+    "ExpAdd": 10,
+    "Id": 1220411,
+    "Param": [],
+    "TypeEnum": 4
+  }
+}

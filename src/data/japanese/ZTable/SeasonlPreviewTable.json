@@ -181,5 +181,44 @@
     "SeasonId": 3,
     "SeasonTitle": "パス・Ⅲ衣装",
     "Sort": 306
+  },
+  "402": {
+    "Content": "・ダンジョンを正式に開始する前に、5種類の誓約の儀から1つを自身の誓約として選択できます。誓約ごとに異なるバフ効果を得られます。\\n\\n・戦闘中やモンスター撃破時に誓約エネルギーを獲得します。パーティ内で異なる誓約を選択したプレイヤーが多いほど、エネルギーの獲得効率が上昇します。\\n\\n・誓約の初期レベルはLv.1です。誓約レベルが上がるほど、バフ効果も強化されます。\\n\\n・マップ内の各地には祈りの試練を開始する装置が設置されています。誓約エネルギーを消費して祈りの試練を開始でき、消費したエネルギーに応じて祈りレベルが上昇します。\\n\\n・祈りの試練を開始すると、一定時間持続する強化バフを獲得します。同時に周囲のすべてのモンスターも、特性に応じて一定程度強化されます。\\n\\n・強化状態のモンスターを撃破すると、より多くの誓約エネルギーを獲得できます。\\n\\n・祈りの霊体は一定確率で極限空間に実体化します。撃破すると神秘の戦利品を獲得できます。",
+    "Id": 402,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_26",
+      "ui/textures/large_ui/season_window/season_main_window_27"
+    ],
+    "SeasonId": 4,
+    "SeasonTitle": "シーズン特性",
+    "Sort": 402
+  },
+  "404": {
+    "Content": "購入したパス・ⅠがLv.30になると、限定の「幻想魔導士・セット」が手に入る！",
+    "Id": 404,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_28"],
+    "SeasonId": 4,
+    "SeasonTitle": "パス・Ⅰ衣装",
+    "Sort": 404
+  },
+  "405": {
+    "Content": "シーズンプレイモードに参加し、シーズン階級が「絆の流星Ⅰ」に達すると、限定の「沈黙の使者・セット」を獲得できる！",
+    "Id": 405,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_29"],
+    "SeasonId": 4,
+    "SeasonTitle": "シーズン限定階級衣装",
+    "Sort": 407
+  },
+  "406": {
+    "Content": "購入したパス・ⅡがLv.30になると、限定の「アナザールート・セット」が手に入る！",
+    "Id": 406,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_30"],
+    "SeasonId": 4,
+    "SeasonTitle": "パス・Ⅱ衣装",
+    "Sort": 405
   }
 }

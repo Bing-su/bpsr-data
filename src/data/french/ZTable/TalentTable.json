@@ -226,8 +226,8 @@
     "Des": "敏捷转换",
     "FightValue": 26,
     "Id": 1101,
-    "TalentDes": "Tous les <style=\"accent-gn\">10</style> points d'agilité confèrent <style=\"accent-gn\">7</style> de célérité.",
-    "TalentEffect": [[4, 2, 11122, 7000]],
+    "TalentDes": "Tous les <style=\"accent-gn\">10</style> points d'agilité confèrent <style=\"accent-gn\">21</style> de célérité.",
+    "TalentEffect": [[4, 2, 11122, 21000]],
     "TalentIcon": "ui/atlas/talent_passive_11/talent_passive_icon_general_dps_speedtran",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -578,7 +578,7 @@
     "WeaponGroup": 11
   },
   "1122": {
-    "BuffPar": [[50, 2]],
+    "BuffPar": [[40, 2]],
     "BuffValueKey": [["attr", "fightres"]],
     "Des": "光落",
     "FightValue": 26,
@@ -702,7 +702,7 @@
     "Des": "驯鹰流",
     "FightValue": 26,
     "Id": 1129,
-    "TalentDes": "Remplace l'<style=\"accent-gn\">attaque spéciale</style> par <linktext=1547><style=\"ItemQuality_5\">Double flèche</style></linktext> et améliore l'utilisation de cette compétence.<br>Régénère <style=\"accent-gn\">2</style> d'<style=\"accent-gn\">énergie photonique</style> par seconde.<br>Chaque <style=\"accent-gn\">1 %</style> de célérité accorde <style=\"accent-gn\">1 %</style> de diminution du TdR de <linktext=1547><style=\"ItemQuality_5\">Double flèche</style></linktext>.<br>Permet de dompter un <style=\"accent-gn\">faucon</style> pour aider au combat.<br><br>Le <style=\"accent-gn\">faucon</style> accompagne toujours le conjurateur. Lorsque le conjurateur inflige des dégâts avec des compétences de classe, le <style=\"accent-gn\">faucon</style> a <style=\"accent-gn\">23 %</style> de chances fixes de frapper rapidement la cible (garanti lors d'un coup critique), infligeant des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">150 %</style> de l'ATQ à l'ennemi (évoluant avec le niveau/palier de l'<style=\"accent-gn\">attaque de base</style>). De plus, lorsque le nombre de frappes du <style=\"accent-gn\">faucon</style> dépasse <style=\"accent-gn\">5</style>, la prochaine frappe du <style=\"accent-gn\">faucon</style> combine toutes les frappes excédentaires et les dégâts.<br><br><i><style=\"text_third_gray\"><size=20>Le faucon répond aux attaques du conjurateur. La célérité et les coups critiques augmentent sa fréquence de frappe, et après avoir appris Coup de foudre, le faucon inflige beaucoup plus de dégâts.</size></style></i>",
+    "TalentDes": "Remplace l'<style=\"accent-gn\">attaque spéciale</style> par <linktext=1547><style=\"ItemQuality_5\">Double flèche</style></linktext> et améliore sa puissance. <br>Restaure <style=\"accent-gn\">2</style> points d'<style=\"accent-gn\">énergie photonique</style> par seconde. <br>Chaque <style=\"accent-gn\">1 %</style> de célérité confère <style=\"accent-gn\">1 %</style> de vitesse de TdR à <linktext=1547><style=\"ItemQuality_5\">Double flèche</style></linktext>. <br>Permet de dompter un <style=\"accent-gn\">faucon</style> pour aider au combat. <br><br><style=\"accent-gn\">Le faucon</style> suit toujours le lanceur. Lorsque le lanceur inflige des dégâts avec des compétences de classe <style=\"accent-gn\">de lumière</style>, le <style=\"accent-gn\">faucon</style> a <style=\"accent-gn\">23 %</style> de chances fixes de frapper rapidement la cible (garanti sur un coup critique), infligeant à l'ennemi des <style=\"physical\">dégâts d'attaque</style> égaux à <style=\"accent-gn\">150 %</style> de l'ATQ (évoluant avec le niveau/palier de l'<style=\"accent-gn\">attaque de base</style>). De plus, lorsque le nombre de frappes du <style=\"accent-gn\">faucon</style> dépasse <style=\"accent-gn\">5</style>, la prochaine frappe du <style=\"accent-gn\">faucon</style> combine toutes les frappes excédentaires et leurs dégâts. <br><br><i><style=\"text_third_gray\"><size=20>Le faucon répond aux attaques du lanceur. La célérité et les coups critiques augmentent sa fréquence de frappe, et après avoir appris Frappe de foudre, le faucon inflige beaucoup plus de dégâts.</size></style></i>",
     "TalentEffect": [
       [6, 2220, 2222],
       [3, 2203290, 1]
@@ -1399,7 +1399,7 @@
   "1166": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "钢制喙聚集",
+    "Des": "急速轰炸",
     "FightValue": 26,
     "Id": 1166,
     "TalentDes": "力量+10",
@@ -1407,7 +1407,7 @@
     "TalentIcon": "ui/atlas/talent_passive_11/gongjian1166",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Récolte de becs d'acier",
+    "TalentName": "Barrage de guitare",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020054, 1]],
@@ -1465,7 +1465,7 @@
     "WeaponGroup": 1
   },
   "120": {
-    "BuffPar": [[10, 22, 10000]],
+    "BuffPar": [[10, 28, 10000]],
     "BuffValueKey": [["num", "attr", "time"]],
     "Des": "雷电之力",
     "FightValue": 26,
@@ -1589,10 +1589,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 1206,
-    "TalentDes": "Tous les <style=\"accent-gn\">3</style> points de force confèrent <style=\"accent-gn\">3,6</style> d'armure.",
+    "TalentDes": "Chaque <style=\"accent-gn\">1</style> point de force confère <style=\"accent-gn\">1,5</style> d'armure.",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1206",
     "TalentId": 0,
@@ -2000,7 +2000,7 @@
   "1228": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之二",
     "FightValue": 26,
     "Id": 1228,
     "TalentDes": "力量+10",
@@ -2008,7 +2008,7 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Poursuite du Jugement",
+    "TalentName": "Poursuite du Jugement II",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -2714,7 +2714,7 @@
   "1267": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之一",
     "FightValue": 26,
     "Id": 1267,
     "TalentDes": "力量+10",
@@ -2722,7 +2722,24 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Poursuite du Jugement",
+    "TalentName": "Poursuite du Jugement I",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020056, 1]],
+    "WeaponGroup": 12
+  },
+  "1268": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "神圣壁垒",
+    "FightValue": 26,
+    "Id": 1268,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2206690, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_12/jiandun1217",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "Barrière sacrée",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -3534,7 +3551,7 @@
   "1340": {
     "BuffPar": [[1]],
     "BuffValueKey": [["attr"]],
-    "Des": "音爆愈疗",
+    "Des": "音爆延时",
     "FightValue": 26,
     "Id": 1340,
     "TalentDes": "力量+10",
@@ -3542,7 +3559,7 @@
     "TalentIcon": "ui/atlas/talent_passive_13/gita1340",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Guérison sonique",
+    "TalentName": "Délai sonique",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020055, 1]],
@@ -4730,7 +4747,7 @@
     "Des": "智力转换",
     "FightValue": 26,
     "Id": 201,
-    "TalentDes": "Tous les <style=\"accent-gn\">10</style> points d'intelligence confèrent <style=\"accent-gn\">1</style> d'ATQM.",
+    "TalentDes": "Chaque tranche de <style=\"accent-gn\">10</style> points d'Intelligence confère <style=\"accent-gn\">1</style> point d'ATQM.",
     "TalentEffect": [[4, 3, 11342, 1000]],
     "TalentIcon": "ui/atlas/talent_passive_2/talent_passive_icon_general_dps_inttran",
     "TalentId": 0,
@@ -5962,7 +5979,7 @@
     "TalentIcon": "ui/atlas/talent_passive_2/mozhang270",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Expansion de cristal de glace",
+    "TalentName": "Expansion des cristaux de glace",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020054, 2]],
@@ -6025,7 +6042,7 @@
     "Des": "疾转",
     "FightValue": 26,
     "Id": 301,
-    "TalentDes": "Pour chaque tranche de <style=\"accent-gn\">1 %</style> de célérité, gagne <style=\"accent-gn\">1 %</style> de VIT ATQ.",
+    "TalentDes": "Chaque <style=\"accent-gn\">1 %</style> de célérité confère <style=\"accent-gn\">1 %</style> de vitesse d'attaque supplémentaire.",
     "TalentEffect": [[4, 4, 11722, 10000]],
     "TalentIcon": "ui/atlas/talent_passive_3/shuangfu301",
     "TalentId": 0,
@@ -6722,7 +6739,7 @@
     "Des": "赤红专精流",
     "FightValue": 26,
     "Id": 342,
-    "TalentDes": "Confère l'effet <style=\"accent-gn\">Récupération pourpre</style> : lorsque la cible principale est touchée (à l'exclusion de <linktext=1626><style=\"ItemQuality_5\">Danse du feu sauvage</style></linktext>), <style=\"accent-gn\">20 %</style> des dégâts infligés sont convertis en <style=\"accent-gn\">Jauge d'âme pourpre</style> (la valeur de la <style=\"accent-gn\">Jauge d'âme pourpre</style> ne peut pas dépasser les PV max). Lorsque l'<style=\"accent-gn\">Âme de flamme</style> est insuffisante, <style=\"accent-gn\">25 %</style> de la valeur de la <style=\"accent-gn\">Jauge d'âme pourpre</style> peut être consommée pour prolonger la durée de <linktext=1626><style=\"ItemQuality_5\">Danse du feu sauvage</style></linktext> de <style=\"accent-gn\">0,8</style> s.<br><br><i><style=\"text_third_gray\"><size=20>Remplissez la jauge rapidement grâce à Récupération pourpre, puis tirez parti de la VIT ATQ élevée pour déclencher fréquemment Danse du feu sauvage. Utilisez ceci comme mécanique principale et combinez-la avec d'autres effets de compétence pour infliger des dégâts massifs pendant la fenêtre de dégâts.</size></style></i>",
+    "TalentDes": "Confère <style=\"accent-gn\">Récupération pourpre</style> : toucher la cible principale convertit <style=\"accent-gn\">1 %</style> des dégâts infligés en <style=\"accent-gn\">Jauge d'âme pourpre</style>. La <style=\"accent-gn\">Jauge d'âme pourpre</style> ne peut pas dépasser ATQ × 100. Lorsque la <style=\"accent-gn\">Jauge d'âme pourpre</style> est pleine, la prochaine instance de dégâts confère <style=\"accent-gn\">Sang Ardent</style>. La <style=\"accent-gn\">Jauge d'âme pourpre</style> cesse de se remplir et diminue de <style=\"accent-gn\">4 %</style> par seconde, tandis que les dégâts finaux sont augmentés de <style=\"accent-gn\">20 %</style>. Pendant <style=\"accent-gn\">Sang Ardent</style>, la <style=\"accent-gn\">Jauge d'âme pourpre</style> est considérée comme étant à <style=\"accent-gn\">100 %</style>. <style=\"accent-gn\">Sang Ardent</style> se termine immédiatement en quittant le combat. <br><br><i><style=\"text_third_gray\"><size=20>Utilisez Récupération pourpre pour remplir rapidement la Jauge d'âme pourpre, puis tirez parti de la vitesse d'attaque élevée pour déclencher Danse du feu sauvage en succession rapide. Construisez autour de cette interaction principale et enchaînez avec d'autres effets de compétence pour infliger de lourds dégâts de déchaînement.</size></style></i>",
     "TalentEffect": [
       [6, 1605, 1606],
       [3, 2208430, 1]
@@ -7621,7 +7638,7 @@
     "WeaponGroup": 4
   },
   "427": {
-    "BuffPar": [[65, 650, 30000]],
+    "BuffPar": [[80, 800, 30000]],
     "BuffValueKey": [["attr", "attrMax", "time"]],
     "Des": "捕手",
     "FightValue": 26,
@@ -7765,7 +7782,7 @@
     "Des": "斗志昂扬",
     "FightValue": 26,
     "Id": 434,
-    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">Entaille du typhon</style></linktext> lève la lance-étendard, conférant <style=\"accent-gn\">Inspiration</style> aux alliés et augmentant les dégâts critiques du conjurateur de <style=\"accent-gn\">50 %</style> pendant 10 s. Ensuite, un saut consécutif peut être lancé, infligeant des <style=\"physical\">dégâts d'attaque</style> aux ennemis à portée et les projetant dans les airs, tout en restaurant <style=\"accent-gn\">100</style> de <style=\"accent-gn\">courage</style>. <br><style=\"accent-gn\">Inspiration</style> : dure <style=\"accent-gn\">10 s</style>. Tous les alliés gagnent <style=\"accent-gn\">10 %</style> de célérité (un seul effet peut être actif à la fois). Restaure <style=\"accent-gn\">10</style> de <style=\"accent-gn\">courage</style> <style=\"accent-gn\">par</style> seconde et <style=\"accent-gn\">1</style> <linktext=1152><style=\"ItemQuality_5\">Tranchant</style> toutes les <style=\"accent-gn\">2 s</style></linktext>.",
+    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">Entaille du typhon</style></linktext> lève la lance de bannière, conférant <style=\"accent-gn\">Inspiration</style> au lanceur et augmentant les dégâts critiques du lanceur de <style=\"accent-gn\">50 %</style> pendant 10 s. Ensuite, s'élance dans les lignes ennemies avec un saut supplémentaire, infligeant des <style=\"physical\">dégâts d'attaque</style> aux ennemis à portée et les projetant <style=\"accent-gn\">dans les airs</style>. Restaure <style=\"accent-gn\">100</style> de <style=\"accent-gn\">courage</style>. <br><style=\"accent-gn\">Inspiration</style> : dure <style=\"accent-gn\">10</style> s. Pendant ce temps, célérité +<style=\"accent-gn\">15 %</style>. Restaure <style=\"accent-gn\">10</style> de <style=\"accent-gn\">courage</style> <style=\"accent-gn\">par</style> seconde et <style=\"accent-gn\">1</style> cumul de <linktext=1152><style=\"ItemQuality_5\">Tranchant</style></linktext> toutes les <style=\"accent-gn\">2</style> s.",
     "TalentEffect": [
       [6, 1426, 1410],
       [3, 2205310, 1]
@@ -8249,7 +8266,7 @@
     "TalentIcon": "ui/atlas/weaponhero/new/common_attrluck",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Dégâts de chance",
+    "TalentName": "Dégâts chanceux",
     "TalentPointsConsume": 1,
     "TalentType": 1,
     "UnlockConsume": [],
@@ -9148,8 +9165,11 @@
     "Des": "花语回升",
     "FightValue": 26,
     "Id": 535,
-    "TalentDes": "Remplace l'<style=\"accent-gn\">ultime</style> <linktext=1531><style=\"ItemQuality_5\">Floraison du cercle divin</style></linktext> par <linktext=1552><style=\"ItemQuality_5\">Guérifloraison</style></linktext>.",
-    "TalentEffect": [[6, 1509, 1527]],
+    "TalentDes": "Remplace l'<style=\"accent-gn\">ultime</style> <linktext=1531><style=\"ItemQuality_5\">Floraison du cercle divin</style></linktext> par <linktext=1552><style=\"ItemQuality_5\">Guérifloraison</style></linktext>. <br>Pendant <style=\"accent-gn\">10</style> s après le lancement de <linktext=1552><style=\"ItemQuality_5\">Guérifloraison</style></linktext>, l'effet d'Aspiration est doublé, mais les dégâts finaux infligés sont réduits de <style=\"accent-gn\">10 %</style>.",
+    "TalentEffect": [
+      [6, 1509, 1527],
+      [3, 2202390, 1]
+    ],
     "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_aoyiguide",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -9839,6 +9859,23 @@
     "UnlockConsume": [[1020055, 2]],
     "WeaponGroup": 5
   },
+  "572": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "幸运脉动",
+    "FightValue": 26,
+    "Id": 572,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2202030, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_killhealring",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "Impulsion chanceuse",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020055, 2]],
+    "WeaponGroup": 5
+  },
   "6": {
     "BuffPar": [],
     "BuffValueKey": [],
@@ -9930,10 +9967,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 901,
-    "TalentDes": "Tous les <style=\"accent-gn\">3</style> points de force confèrent <style=\"accent-gn\">3,6</style> d'armure.",
+    "TalentDes": "Chaque <style=\"accent-gn\">1</style> point de force confère <style=\"accent-gn\">1,5</style> d'armure.",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_9/talent_passive_icon_general_tank_deftran",
     "TalentId": 0,

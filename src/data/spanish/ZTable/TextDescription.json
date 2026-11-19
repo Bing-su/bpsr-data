@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "Explota al contacto con un enemigo e inflige <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">100 %</style> del ATQ.",
+    "Description": "Explota al entrar en contacto con un enemigo e inflige un <style=\"magic\">DÑO mágico</style> igual al <style=\"accent-gn\">100 %</style> del ATQ. Este es un efecto de suerte.",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "Inflige <style=\"physical\">DÑO de ataque</style> igual al <style=\"accent-gn\">80 %</style> del ATQ a los enemigos a menos de <style=\"accent-gn\">5 m</style>. Por cada enemigo adicional golpeado, aumenta el DÑO infligido en un <style=\"accent-gn\">30 %</style> (aumenta con el nivel/grado del <style=\"accent-gn\">ataque básico</style>, hasta el <style=\"accent-gn\">120 %</style>).",
+    "Description": "Inflige un <style=\"physical\">DÑO de Ataque</style> igual al <style=\"accent-gn\">72 %</style> del ATQ a los enemigos en un radio de <style=\"accent-gn\">5</style> metros. Por cada enemigo adicional golpeado, aumenta el DÑO infligido en un <style=\"accent-gn\">30 %</style> (escala con el nivel o grado del <style=\"accent-gn\">ataque básico</style>, hasta +<style=\"accent-gn\">120 %</style>).",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1752,11 +1752,83 @@
     "Type": 3
   },
   "1219": {
-    "Description": "Cada <style=\"accent-gn\">2</style> puntos de FUE/INT/AGI se convierten en <style=\"accent-gn\">1</style> de ATQ.<br>Cada <style=\"accent-gn\">1</style> punto de aguante se convierte en <style=\"accent-gn\">8</style> de PS máx.<br>El <style=\"accent-gn\">% de crítico</style>, <style=\"accent-gn\">% de suerte</style>, <style=\"accent-gn\">% de maestría</style>, <style=\"accent-gn\">% de presteza</style> y <style=\"accent-gn\">% de versatilidad</style> pierden sus efectos originales y obtienen una nueva capacidad: se garantiza que el daño de habilidad de la habilidad de resonancia actual sea un golpe crítico, pero el DÑO crítico es fijo y se calcula como la suma de <style=\"accent-gn\">% de crítico + % de suerte + % de maestría + % de presteza + % de versatilidad</style>.",
+    "Description": "Cada <style=\"accent-gn\">2</style> puntos de FUE/INT/AGI se convierten en <style=\"accent-gn\">1</style> de ATQ.<br>Cada <style=\"accent-gn\">1</style> punto de aguante se convierte en <style=\"accent-gn\">8</style> de PS máx.<br>El <style=\"accent-gn\">porcentaje de crítico</style>, <style=\"accent-gn\">porcentaje de suerte</style>, <style=\"accent-gn\">porcentaje de maestría</style>, <style=\"accent-gn\">porcentaje de presteza</style> y <style=\"accent-gn\">porcentaje de versatilidad</style> pierden sus efectos originales y obtienen una nueva capacidad: se garantiza que el daño de habilidad de la habilidad de resonancia actual sea un golpe crítico, pero el DÑO crítico es fijo y se calcula como la suma del <style=\"accent-gn\">porcentaje de crítico + porcentaje de suerte + porcentaje de maestría + porcentaje de presteza + porcentaje de versatilidad</style>.",
     "Id": 1219,
     "Par": 0,
     "ShowRule": 2,
     "Text": "Conversión de capacidad",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "Cada acumulación otorga <style=\"accent-gn\">25</style> de ATQ (aumenta a <style=\"accent-gn\">40</style> conforme sube el nivel de temporada).",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Grabado",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "Aumenta este daño fijo en un <style=\"accent-gn\">6 %</style> y la Reducción de DÑO de Juramento en un <style=\"accent-gn\">1 %</style>, acumulándose hasta <style=\"accent-gn\">10</style> veces. Pierde <style=\"accent-gn\">1</style> acumulación por segundo al moverse, pierde <style=\"accent-gn\">1</style> acumulación al activar una evasión perfecta y todas las acumulaciones se eliminan al salir de combate.",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ansia de sangre",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "Cada acumulación reduce el ATQ en un <style=\"accent-gn\">1 %</style>. Solo <style=\"accent-gn\">1</style> instancia puede tener efecto. Dura <style=\"accent-gn\">10 s</style> y volver a infligirlo recalcula la cantidad de acumulaciones.",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Reducción de sed de sangre",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "DÑO de Juramento +<style=\"accent-gn\">3 %</style>. Solo <style=\"accent-gn\">1</style> instancia puede tener efecto.",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspiración",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "Aumenta el ATQ en <style=\"accent-gn\">74</style> (escala hasta <style=\"accent-gn\">112</style> según el nivel de temporada), dura <style=\"accent-gn\">8 s</style> y se acumula hasta <style=\"accent-gn\">5</style> veces.",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Carga",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "Aumenta el ATQ en <style=\"accent-gn\">400</style> (escala hasta <style=\"accent-gn\">700</style> según el nivel de temporada) y dura <style=\"accent-gn\">8 s</style>.",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Estallido",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "El valor más alto entre crítico, suerte, presteza y maestría aumenta un <style=\"accent-gn\">1.5 %</style> durante <style=\"accent-gn\">5 s</style>.",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Sinfonía de estadísticas",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "Inflige un <style=\"accent-gn\">500 %</style> del ATQ como DÑO adaptativo a los objetivos enemigos dentro de <style=\"accent-gn\">3</style> m.",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Flecha Fantasma",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "Inflige un daño fijo igual a un <style=\"accent-gn\">4000 %</style> × Fuerza de Juramento.",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Impacto de la Desilusión",
     "Type": 1
   },
   "1500": {
@@ -2800,91 +2872,91 @@
     "Type": 2
   },
   "2001": {
-    "Description": "",
+    "Description": "Inflige DÑO ígneo continuo durante <style=\"accent-gn\">5 s</style>, con un límite base de <style=\"accent-gn\">10 acumulaciones</style>. Si el objetivo está afectado por Frío o Congelación, elimina esos efectos e inflige DÑO adicional.",
     "Id": 2001,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Quemadura",
     "Type": 1
   },
   "2002": {
-    "Description": "",
+    "Description": "Cada acumulación otorga VEL de MOV <style=\"accent-gn\">-10%</style>, y Resistencia Física y Resistencia Mágica <style=\"accent-gn\">-10%</style> durante <style=\"accent-gn\">5 s</style>, con un límite base de <style=\"accent-gn\">5 acumulaciones</style>. <style=\"accent-gn\">Efecto reducido a la mitad contra jefes</style>. Cuando Frío alcanza su límite de acumulaciones, se convierte en Congelación. Si el objetivo está afectado por Quemadura, la elimina e inflige de inmediato todo su DÑO restante.",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Frío",
     "Type": 1
   },
   "2003": {
-    "Description": "",
+    "Description": "No puede actuar durante <style=\"accent-gn\">3 s</style>. Al terminar, otorga Inmunidad a la congelación durante <style=\"accent-gn\">30 s</style>.",
     "Id": 2003,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Congelación",
     "Type": 1
   },
   "2004": {
-    "Description": "",
+    "Description": "Cada acumulación reduce la efectividad de curación un <style=\"accent-gn\">20%</style> durante <style=\"accent-gn\">10 s</style>. Se acumula hasta <style=\"accent-gn\">5 veces</style>.",
     "Id": 2004,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Herida",
     "Type": 1
   },
   "2005": {
-    "Description": "",
+    "Description": "Aumenta el DÑO recibido un <style=\"accent-gn\">6% × acumulaciones de Corrosión</style> durante <style=\"accent-gn\">7 s</style>, hasta <style=\"accent-gn\">5 acumulaciones</style>.",
     "Id": 2005,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Corrosión",
     "Type": 1
   },
   "2006": {
-    "Description": "",
+    "Description": "No puede actuar durante <style=\"accent-gn\">2.5 s</style>. El siguiente golpe recibido inflige un <style=\"accent-gn\">+50%</style> de DÑO y rompe Petrificación.",
     "Id": 2006,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Petrificado",
     "Type": 1
   },
   "2007": {
-    "Description": "",
+    "Description": "No puede moverse durante <style=\"accent-gn\">5 s</style>.",
     "Id": 2007,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Arraigo",
     "Type": 1
   },
   "2008": {
-    "Description": "",
+    "Description": "No puede actuar durante <style=\"accent-gn\">2.5 s</style>.",
     "Id": 2008,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Aturdimiento",
     "Type": 1
   },
   "2009": {
-    "Description": "",
+    "Description": "Sigue una ruta establecida tras aparecer, infligiendo DÑO a los monstruos que toca. Dura <style=\"accent-gn\">60 s</style>, con un límite base de <style=\"accent-gn\">2</style>.",
     "Id": 2009,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Espectro",
     "Type": 1
   },
   "2010": {
-    "Description": "",
+    "Description": "Otorga inmunidad a la congelación durante <style=\"accent-gn\">30 s</style>.",
     "Id": 2010,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Inmunidad a la congelación",
     "Type": 1
   },
   "2011": {
-    "Description": "",
+    "Description": "Sufre 1 instancia de DÑO al recibir Caramelo. Se acumula hasta <style=\"accent-gn\">10 veces</style>.",
     "Id": 2011,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Caramelo",
     "Type": 1
   },
   "3000": {
@@ -3007,6 +3079,14 @@
     "Text": "Quemadura",
     "Type": 3
   },
+  "3015": {
+    "Description": "Fuerza a los objetivos enemigos a moverse hacia la unidad que infligió Deslumbramiento. Este efecto no afecta a los jefes ni a los enemigos de élite. Es una alteración de estado.",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Deslumbramiento",
+    "Type": 1
+  },
   "3020": {
     "Description": "Incluye <style=\"accent-gn\">aturdimiento</style>, <style=\"accent-gn\">congelación</style>, <style=\"accent-gn\">petrificación</style>, <style=\"accent-gn\">parálisis</style>, <style=\"accent-gn\">deslumbramiento</style> y <style=\"accent-gn\">miedo</style>.",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "Desventajas",
     "Type": 3
+  },
+  "3022": {
+    "Description": "La cantidad de muebles puede afectar la velocidad de fotogramas del juego, dependiendo del rendimiento del dispositivo.",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Recuento de muebles",
+    "Type": 1
   }
 }

@@ -158,7 +158,7 @@
       ["71", "-12", "0"]
     ],
     "Content": 4512,
-    "Desc": "<br><size=22><color=#f04f84>Recommended:<b> Illusion-Breaking Strength 1,970</b></color><br><style=\"\"tipsYellow\"\">Tip: Use food and potions to temporarily boost combat ability for better participation in the challenge.",
+    "Desc": "<br><size=22><color=#f04f84>Backtrack Power: In Floating Island, DMG dealt is increased by 100%. </color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.",
     "DiffBgTexture": "ui/textures/roid/raid_easy_bg_03",
     "Difficult": 1,
     "DifficultySelectImage": [
@@ -167,11 +167,11 @@
       "ui/atlas/raid/raid_tog_select_nightmare_on_03"
     ],
     "DungeonId": 13021,
-    "GroupId": 3,
+    "GroupId": 33,
     "MatchPic": "",
     "MonsterShowTexture": "ui/textures/roid/raid_easy_monster_03",
     "Name": "Field of Forgotten Illusions",
-    "PassAward": [16000201],
+    "PassAward": [16000205],
     "TitleBgTexture": "ui/textures/roid/raid_title_easy_03"
   },
   "13022": {
@@ -223,5 +223,80 @@
     "Name": "Field of Forgotten Illusions",
     "PassAward": [16000203],
     "TitleBgTexture": "ui/textures/roid/raid_title_nightmare_03"
+  },
+  "13031": {
+    "AwardDesc": "",
+    "BossId": [103400, 103500, 103601],
+    "BossNamePos": [
+      ["-476", "-367", "0"],
+      ["478", "-298", "0"],
+      ["-30", "-244", "0"]
+    ],
+    "Content": 4516,
+    "Desc": "<style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.",
+    "DiffBgTexture": "ui/textures/roid/raid_easy_bg_04",
+    "Difficult": 1,
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on_03",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_02"
+    ],
+    "DungeonId": 13031,
+    "GroupId": 4,
+    "MatchPic": "",
+    "MonsterShowTexture": "ui/textures/roid/raid_easy_monster_04",
+    "Name": "Twilight's Edge",
+    "PassAward": [16000300],
+    "TitleBgTexture": "ui/textures/roid/raid_title_easy_04"
+  },
+  "13032": {
+    "AwardDesc": "",
+    "BossId": [103410, 103510, 103610],
+    "BossNamePos": [
+      ["-476", "-367", "0"],
+      ["478", "-298", "0"],
+      ["-30", "-244", "0"]
+    ],
+    "Content": 4516,
+    "Desc": "<style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.",
+    "DiffBgTexture": "ui/textures/roid/raid_difficulty_bg_04",
+    "Difficult": 2,
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on_03",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_02"
+    ],
+    "DungeonId": 13032,
+    "GroupId": 4,
+    "MatchPic": "",
+    "MonsterShowTexture": "ui/textures/roid/raid_difficulty_monster_04",
+    "Name": "Twilight's Edge",
+    "PassAward": [16000301],
+    "TitleBgTexture": "ui/textures/roid/raid_title_difficulty_04"
+  },
+  "13033": {
+    "AwardDesc": "",
+    "BossId": [103420, 103520, 103620],
+    "BossNamePos": [
+      ["-476", "-367", "0"],
+      ["478", "-298", "0"],
+      ["-30", "-244", "0"]
+    ],
+    "Content": 4516,
+    "Desc": "<style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.",
+    "DiffBgTexture": "ui/textures/roid/raid_nightmare_bg_04",
+    "Difficult": 3,
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on_03",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_02"
+    ],
+    "DungeonId": 13033,
+    "GroupId": 4,
+    "MatchPic": "",
+    "MonsterShowTexture": "ui/textures/roid/raid_nightmare_monster_04",
+    "Name": "Twilight's Edge",
+    "PassAward": [16000301],
+    "TitleBgTexture": "ui/textures/roid/raid_title_nightmare_04"
   }
 }

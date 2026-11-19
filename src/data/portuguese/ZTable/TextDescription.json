@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "Explode ao entrar em contato com um inimigo, causando <style=\"magic\">Dano Mágico</style> igual a <style=\"accent-gn\">100%</style> do ATQ.",
+    "Description": "Explode ao entrar em contato com um inimigo, causando <style=\"magic\">Dano Mágico</style> equivalente a <style=\"accent-gn\">100%</style> do ATQ. Este é um Efeito de Sorte.",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "Causa <style=\"physical\">Dano de Ataque</style> igual a <style=\"accent-gn\">80%</style> do ATQ aos inimigos dentro de <style=\"accent-gn\">5</style> metros. Para cada inimigo adicional atingido, aumenta o dano causado em <style=\"accent-gn\">30%</style> (que escala com o Nível/Categoria do <style=\"accent-gn\">Ataque Básico</style>, até <style=\"accent-gn\">+120%</style>).",
+    "Description": "Causa <style=\"physical\">Dano de Ataque</style> equivalente a <style=\"accent-gn\">72%</style> do ATQ aos inimigos em um raio de <style=\"accent-gn\">5</style> metros. Para cada inimigo adicional atingido, o dano causado aumenta em <style=\"accent-gn\">30%</style> (que escala com o Nível/Categoria do <style=\"accent-gn\">Ataque Básico</style>, até +<style=\"accent-gn\">120%</style>).",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1708,7 +1708,7 @@
     "Id": 1213,
     "Par": 3401213,
     "ShowRule": 1,
-    "Text": "Queimadura.",
+    "Text": "Queimadura",
     "Type": 3
   },
   "1214": {
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "Conversão de Habilidade",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "Cada acúmulo concede <style=\"accent-gn\">25</style> de ATQ (aumenta para <style=\"accent-gn\">40</style> à medida que o nível de temporada sobe).",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Gravura",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "Aumenta esse dano fixo em <style=\"accent-gn\">6%</style> e a Redução de Dano do Juramento em <style=\"accent-gn\">1%</style>, podendo acumular até <style=\"accent-gn\">10</style> vezes. Perde <style=\"accent-gn\">1</style> acúmulo por segundo ao se mover, perde <style=\"accent-gn\">1</style> acúmulo ao acionar uma Esquiva Perfeita e todos os acúmulos são removidos ao sair de combate.",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Sede de Sangue",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "Cada acúmulo reduz o ATQ em <style=\"accent-gn\">1%</style>. Apenas <style=\"accent-gn\">1</style> instância pode ter efeito. Dura <style=\"accent-gn\">10 s</style>, e aplicar novamente recalcula a contagem do acúmulo.",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Redução de Sede de Sangue",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "Dano de Juramento +<style=\"accent-gn\">3%</style>. Apenas <style=\"accent-gn\">1</style> instância pode ter efeito.",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspiração",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "Aumenta o ATQ em <style=\"accent-gn\">74</style> (escalando para <style=\"accent-gn\">112</style> com o Nível de Temporada), dura <style=\"accent-gn\">8 s</style> e acumula até <style=\"accent-gn\">5</style> vezes.",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Carga",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "Aumenta o ATQ em <style=\"accent-gn\">400</style> (escalando para <style=\"accent-gn\">700</style> com o Nível de Temporada) e dura <style=\"accent-gn\">8 s</style>.",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ímpeto",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "O que for maior entre seus % de Crítico, Sorte, Celeridade e Maestria aumenta em <style=\"accent-gn\">1,5%</style> por <style=\"accent-gn\">5 s</style>.",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Sinfonia de Atributos",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "Causa <style=\"accent-gn\">500%</style> de ATQ como Dano Adaptativo a alvos inimigos em um raio de <style=\"accent-gn\">3</style> m.",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Flecha Fantasma",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "Causa dano fixo equivalente a <style=\"accent-gn\">4000%</style> × Força do Juramento.",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Impacto da Desilusão",
     "Type": 1
   },
   "1500": {
@@ -2800,91 +2872,91 @@
     "Type": 2
   },
   "2001": {
-    "Description": "",
+    "Description": "Causa Dano de Fogo contínuo por <style=\"accent-gn\">5 s</style>, com limite base de <style=\"accent-gn\">10 acúmulos</style>. Se o alvo for afetado por Frio ou Congelamento, remove esses efeitos e causa dano adicional.",
     "Id": 2001,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Queimadura",
     "Type": 1
   },
   "2002": {
-    "Description": "",
+    "Description": "Cada acúmulo concede <style=\"accent-gn\">-10%</style> de Velocidade de Movimento e <style=\"accent-gn\">-10%</style> de Resistência Física e Resistência Mágica por <style=\"accent-gn\">5 s</style>, com limite base de <style=\"accent-gn\">5 acúmulos</style>. <style=\"accent-gn\">Efeito reduzido pela metade contra Chefes</style>. Quando Frio atinge o limite de acúmulos, converte-se em Congelamento. Se o alvo for afetado por Queimadura, remove esse efeito e causa todo o dano restante imediatamente.",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Frio",
     "Type": 1
   },
   "2003": {
-    "Description": "",
+    "Description": "Não pode agir por <style=\"accent-gn\">3 s</style>. Ao término, concede Imunidade a Congelamento por <style=\"accent-gn\">30 s</style>.",
     "Id": 2003,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Congelamento",
     "Type": 1
   },
   "2004": {
-    "Description": "",
+    "Description": "Cada acúmulo reduz a eficácia de cura em <style=\"accent-gn\">20%</style> por <style=\"accent-gn\">10 s</style>. Acumula até <style=\"accent-gn\">5 vezes</style>.",
     "Id": 2004,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Ferida",
     "Type": 1
   },
   "2005": {
-    "Description": "",
+    "Description": "Aumenta o Dano Recebido em <style=\"accent-gn\">6% × acúmulos de Corrosão</style> por <style=\"accent-gn\">7 s</style>, até <style=\"accent-gn\">5 acúmulos</style>.",
     "Id": 2005,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Corrosão",
     "Type": 1
   },
   "2006": {
-    "Description": "",
+    "Description": "Não pode agir por <style=\"accent-gn\">2,5 s</style>. O próximo golpe recebido causa <style=\"accent-gn\">+50%</style> de dano e quebra a Petrificação.",
     "Id": 2006,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Petrificação",
     "Type": 1
   },
   "2007": {
-    "Description": "",
+    "Description": "Não pode se mover por <style=\"accent-gn\">5 s</style>.",
     "Id": 2007,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Enraizamento",
     "Type": 1
   },
   "2008": {
-    "Description": "",
+    "Description": "Não pode agir por <style=\"accent-gn\">2,5 s</style>.",
     "Id": 2008,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Atordoamento",
     "Type": 1
   },
   "2009": {
-    "Description": "",
+    "Description": "Move-se por uma rota definida após surgir, causando dano aos monstros que tocar. Dura <style=\"accent-gn\">60 s</style>, com limite base de <style=\"accent-gn\">2</style>.",
     "Id": 2009,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Espectro",
     "Type": 1
   },
   "2010": {
-    "Description": "",
+    "Description": "Concede imunidade a Congelamento por <style=\"accent-gn\">30 s</style>.",
     "Id": 2010,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Imunidade a Congelamento",
     "Type": 1
   },
   "2011": {
-    "Description": "",
+    "Description": "Sofre 1 instância de dano ao receber Doce, acumulando até <style=\"accent-gn\">10 vezes</style>.",
     "Id": 2011,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "",
+    "Text": "Doce",
     "Type": 1
   },
   "3000": {
@@ -2964,7 +3036,7 @@
     "Id": 3009,
     "Par": 3403009,
     "ShowRule": 1,
-    "Text": "Ofuscamento",
+    "Text": "Ofuscar",
     "Type": 3
   },
   "3010": {
@@ -3007,6 +3079,14 @@
     "Text": "Queimadura",
     "Type": 3
   },
+  "3015": {
+    "Description": "Força os alvos inimigos a se moverem na direção da unidade que aplicou Ofuscamento. Este efeito não afeta Chefes ou inimigos de elite. É uma condição de estado.",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ofuscamento",
+    "Type": 1
+  },
   "3020": {
     "Description": "Inclui <style=\"accent-gn\">Atordoamento</style>, <style=\"accent-gn\">Congelamento</style>, <style=\"accent-gn\">Petrificação</style>, <style=\"accent-gn\">Paralisia</style>, <style=\"accent-gn\">Ofuscamento</style> e <style=\"accent-gn\">Medo</style>.",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "Penalizações",
     "Type": 3
+  },
+  "3022": {
+    "Description": "O número de móveis pode afetar a taxa de quadros do jogo, dependendo do desempenho do seu dispositivo.",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Contagem de Móveis",
+    "Type": 1
   }
 }

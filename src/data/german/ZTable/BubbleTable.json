@@ -73,7 +73,7 @@
     "AdditionalTargetCompleteMaxNum": [50, 100],
     "AdditionalTargetIdleScore": [50, 25],
     "AdditionalTargetName": [
-      "1. Bleibe im Zielbereich, um Punkte zu erhalten",
+      "1. Bleibe im Zielbereich, um Punkte zu erhalten.",
       "2. Erhalte alle 150 Sek. 1 Stimmzettel",
       "3. Empfänger erhalten 1 Beliebtheit pro Stimme. Wähler erhalten Extrapunkte ({*val1*}/{*val2*}).",
       "4. Empfänger erhalten ebenfalls Extrapunkte ({*val1*}/{*val2*}).",
@@ -95,7 +95,8 @@
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
       "1. Bleibe in der Nähe von Gold-Nappo und Silber-Nappo, um Punkte zu erhalten. Jede Runde dauert 10 Minuten.",
-      "2. Erhalte für deine erste tägliche Teilnahme eine große Menge Freundschaftspunkte, Silbersternabzeichen und Ausrüstungsmaterialien."
+      "2. Sternlichtfunde erscheinen während der ersten Sitzung jeden Tages am Asterleeds-Strand. Öffne sie, um Gedenk-Lesestoff oder Event-Belohnungen zu erhalten!",
+      "3. Besuche während des Events Aleya, um am Feuerwerk-Quiz teilzunehmen."
     ],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
@@ -127,7 +128,7 @@
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
-      "1. Bleibe im Zielbereich, um Punkte zu erhalten",
+      "1. Bleibe im Zielbereich, um Punkte zu erhalten.",
       "2. Im Event-Gebiet gibt es zwei Verwandlungszonen. Interagiere mit ihnen, um dich in ein zufälliges Winterfest-Objekt zu verwandeln."
     ],
     "AdditionalTargetToEntriesMessage": [],
@@ -147,7 +148,7 @@
     "AdditionalTargetCompleteMaxNum": [10, 20],
     "AdditionalTargetIdleScore": [200, 100],
     "AdditionalTargetName": [
-      "1. Bleibe im Zielbereich, um Punkte zu erhalten",
+      "1. Bleibe im Zielbereich, um Punkte zu erhalten.",
       "2. Es gibt rote, grüne und blaue Feuerwerke. Alle 15 Sek. wird 1 zufälliges Feuerwerk gewährt.",
       "3. Lade Feuerwerke in die Feuerwerksbasis, um zusätzliche Punkte zu erhalten ({*val1*}/{*val2*}).",
       "4. Starte einen geladenen Feuerwerkswerfer, um allen Spielern im Gebiet zusätzliche Punkte zu gewähren ({*val1*}/{*val2*})."
@@ -166,7 +167,7 @@
     "AdditionalTargetCompleteMaxNum": [10],
     "AdditionalTargetIdleScore": [300],
     "AdditionalTargetName": [
-      "1. Bleibe im Zielbereich, um Punkte zu erhalten",
+      "1. Bleibe im Zielbereich, um Punkte zu erhalten.",
       "2. Erhalte alle 100 Sek. 1 Laternenscherbe, solange du dich im Gebiet befindest. Sammle 3 Scherben, um eine Frühlingslaterne zu beschwören.",
       "3. Lasse eine Laterne frei, um zusätzliche Punkte zu erhalten ({*val1*}/{*val2*})."
     ],
@@ -243,7 +244,7 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["1. Bleibe im Zielbereich, um Punkte zu erhalten", ""],
+    "AdditionalTargetName": ["1. Bleibe im Zielbereich, um Punkte zu erhalten.", "  "],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3004,
@@ -257,7 +258,7 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["1. Bleibe im Zielbereich, um Punkte zu erhalten", ""],
+    "AdditionalTargetName": ["1. Bleibe im Zielbereich, um Punkte zu erhalten.", "  "],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3005,
@@ -271,11 +272,14 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["", ""],
+    "AdditionalTargetName": [
+      "1. Bleibe im Zielbereich, um Punkte zu erhalten.",
+      "2. Im Event-Bereich kannst du die Kürbisscheuche finden, um dich zu verwandeln, oder den Kürbisanführer aufsuchen, um an der Gruselparade teilzunehmen."
+    ],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3006,
-    "Name": "",
+    "Name": "Gruselparade",
     "ScoreCycle": [1, 5],
     "TargetCompleteClientBuff": [],
     "TargetScore": 500

@@ -1,10 +1,10 @@
 {
   "10001": {
-    "Description": "Pakaian yang dibuat ulang dengan teknik pewarnaan sesuai dengan model kustomisasi lanjutan. Mendukung pewarnaan bebas.",
+    "Description": "Pakaian yang dibuat ulang sesuai gaya Adibusana memakai kerajinan yang dapat diwarnai, dapat menerapkan Pewarnaan Bebas.",
     "Id": 10001,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Chroma Edition",
+    "Text": "Versi Warna Ilusi",
     "Type": 1
   },
   "1001": {
@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "Meledak saat menyentuh target musuh, mengakibatkan <style=\"magic\">MDMG</style> sebesar <style=\"accent-gn\">100%</style> ATK.",
+    "Description": "Meledak saat menyentuh target musuh dan mengakibatkan <style=\"accent-gn\">100%</style> ATK sebagai <style=\"magic\">Magic Damage</style>. Termasuk Efek Lucky.",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">80%</style> ATK pada target dalam jarak <style=\"accent-gn\">5</style> meter. Setiap tambahan target yang terkena meningkatkan DMG +<style=\"accent-gn\">30%</style> (Maks. +<style=\"accent-gn\">120%</style>). Skala serangan meningkat seiring level/upgrade <style=\"accent-gn\">Normal Attack</style>.",
+    "Description": "Memberikan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">72%</style> ATK kepada Target dalam jarak <style=\"accent-gn\">5</style> meter di sekitar. Setiap Target tambahan yang terkena Hit akan meningkatkan DMG +<style=\"accent-gn\">30%</style> (Tertinggi +<style=\"accent-gn\">120%</style>). Efek ini berkembang mengikuti Upgrade/peningkatan Tier Skill <style=\"accent-gn\">Normal Attack</style>.",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1440,7 +1440,7 @@
     "Type": 3
   },
   "1180": {
-    "Description": "Menembakkan proyektil ke arah target musuh atau rekan di sekitar, mengakibatkan DMG atau memulihkan HP setara dengan <style=\"accent-gn\">50%</style> PATK/MATK tertinggi saat ini.",
+    "Description": "Menembakkan Chords ke Target musuh/Rekan di sekitar untuk memberikan DMG atau Heal sebesar <style=\"accent-gn\">50%</style> dari Physical/Magical ATK Tertinggi Saat Ini.",
     "Id": 1180,
     "Par": 3401180,
     "ShowRule": 1,
@@ -1496,7 +1496,7 @@
     "Type": 3
   },
   "1187": {
-    "Description": "DMG yang diakibatkan +<style=\"accent-gn\">15%</style>, Attack Speed +<style=\"accent-gn\">10%</style> selama <style=\"accent-gn\">15</style> detik.",
+    "Description": "DMG yang ditimbulkan +<style=\"accent-gn\">15%</style>, Attack Speed +<style=\"accent-gn\">10%</style>, Sustained selama <style=\"accent-gn\">15</style> detik.",
     "Id": 1187,
     "Par": 3401187,
     "ShowRule": 1,
@@ -1536,7 +1536,7 @@
     "Type": 3
   },
   "1192": {
-    "Description": "Memulihkan HP setara dengan <style=\"accent-gn\">35%</style> ATK dalam <style=\"accent-gn\">10</style> detik, maks. <style=\"accent-gn\">10</style> tumpuk. Jika ditambahkan saat mencapai <style=\"accent-gn\">10</style> tumpuk, sisa Healing dari <style=\"accent-gn\">Note</style> target langsung diperhitungkan.",
+    "Description": "Dalam <style=\"accent-gn\">10</style> detik, memulihkan HP Target sebesar total <style=\"accent-gn\">35%</style> ATK, dapat ditumpuk hingga <style=\"accent-gn\">10</style> lapis. Jika ditambahkan saat berada di <style=\"accent-gn\">10</style> lapis, langsung melakukan perhitungan sisa Healing <style=\"accent-gn\">Note</style> pada Target.",
     "Id": 1192,
     "Par": 3401192,
     "ShowRule": 1,
@@ -1600,7 +1600,7 @@
     "Type": 3
   },
   "1200": {
-    "Description": "[Lucky]: Mengakibatkan DMG adaptif sebesar <style=\"accent-gn\">1375%</style> ATK pada musuh dalam area <style=\"accent-gn\">3</style> meter, namun tidak dapat mengakibatkan Crit.",
+    "Description": "「Lucky」: Memberikan DMG Adaptif sebesar <style=\"accent-gn\">1375%</style> ATK kepada Target musuh dalam Area <style=\"accent-gn\">3</style> meter, tetapi tidak dapat Crit.",
     "Id": 1200,
     "Par": 3401200,
     "ShowRule": 1,
@@ -1608,7 +1608,7 @@
     "Type": 3
   },
   "1201": {
-    "Description": "Mengakibatkan DMG adaptif sebesar <style=\"accent-gn\">850%</style> ATK pada musuh dalam area <style=\"accent-gn\">3</style> meter. Crit DMG akan selalu dihitung dengan persentase <style=\"accent-gn\">500%</style>.",
+    "Description": "Mengakibatkan DMG Adaptif sebesar <style=\"accent-gn\">850%</style> ATK kepada Target musuh dalam area <style=\"accent-gn\">3</style> meter, dan perhitungan Crit DMG selalu ditetapkan sebesar <style=\"accent-gn\">500%</style>.",
     "Id": 1201,
     "Par": 3401201,
     "ShowRule": 1,
@@ -1704,7 +1704,7 @@
     "Type": 3
   },
   "1213": {
-    "Description": "Setiap <style=\"accent-gn\">2</style> detik mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">35% x jumlah tumpukan</style> x ATK selama <style=\"accent-gn\">10</style> detik, maks. <style=\"accent-gn\">10</style> tumpuk. Saat <style=\"accent-gn\">Burn</style> mencapai tumpukan tertinggi, <style=\"accent-gn\">Burn</style> yang baru ditambahkan akan langsung mengakibatkan satu kali <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">35%</style> ATK.",
+    "Description": "Setiap <style=\"accent-gn\">2</style> detik mengakibatkan <style=\"accent-gn\">35%*Tumpuk</style> ATK sebagai <style=\"physical\">PDMG</style>, berlangsung selama <style=\"accent-gn\">10</style> detik, dapat ditumpuk hingga maksimal <style=\"accent-gn\">10</style> Tumpuk; saat <style=\"accent-gn\">Burn</style> mencapai Tumpuk maksimal, <style=\"accent-gn\">Burn</style> yang baru ditambahkan akan langsung mengakibatkan <style=\"accent-gn\">35%</style> ATK sebagai <style=\"physical\">PDMG</style>.",
     "Id": 1213,
     "Par": 3401213,
     "ShowRule": 1,
@@ -1712,7 +1712,7 @@
     "Type": 3
   },
   "1214": {
-    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">800%</style> ATK pada target di dalam area, sekaligus mendapatkan <style=\"accent-gn\">10</style> <style=\"accent-gn\">Flame Soul</style>.",
+    "Description": "Memberikan <style=\"accent-gn\">800%</style> ATK sebagai <style=\"physical\">PDMG</style> kepada Target musuh di dalam Area, dan Mendapat <style=\"accent-gn\">10</style> poin <style=\"accent-gn\">Flame Soul</style>.",
     "Id": 1214,
     "Par": 3401214,
     "ShowRule": 1,
@@ -1720,7 +1720,7 @@
     "Type": 3
   },
   "1215": {
-    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">500%</style> ATK pada target musuh.",
+    "Description": "Memberikan <style=\"accent-gn\">500%</style> ATK berupa <style=\"physical\">PDMG</style> kepada Target musuh.",
     "Id": 1215,
     "Par": 3401215,
     "ShowRule": 1,
@@ -1728,7 +1728,7 @@
     "Type": 3
   },
   "1216": {
-    "Description": "Setiap DMG akan disertai tahap tambahan sesuai angka pengali skill saat ini, peluangnya sebagai berikut:<br>Peluang Formless Slash tahap <style=\"accent-gn\">1</style>: <style=\"accent-gn\">20%</style>.<br>Peluang Formless Slash tahap <style=\"accent-gn\">2</style>: <style=\"accent-gn\">10%</style>.<br>Peluang Formless Slash tahap <style=\"accent-gn\">3</style>: <style=\"accent-gn\">5%</style>.",
+    "Description": "Setiap DMG memberikan hit tambahan dengan multiplier Skill saat ini, dengan peluang sebagai berikut:<br>Peluang Formless Slash <style=\"accent-gn\">1</style> hit: <style=\"accent-gn\">20%</style>.<br>Peluang Formless Slash <style=\"accent-gn\">2</style> hit: <style=\"accent-gn\">10%</style>.<br>Peluang Formless Slash <style=\"accent-gn\">3</style> hit: <style=\"accent-gn\">5%</style>.",
     "Id": 1216,
     "Par": 3401216,
     "ShowRule": 1,
@@ -1736,7 +1736,7 @@
     "Type": 3
   },
   "1217": {
-    "Description": "Mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">800%</style> ATK pada musuh di dalam area.",
+    "Description": "Memberikan <style=\"accent-gn\">800%</style> ATK berupa <style=\"physical\">PDMG</style> kepada Target musuh di dalam Area.",
     "Id": 1217,
     "Par": 3401217,
     "ShowRule": 1,
@@ -1744,7 +1744,7 @@
     "Type": 3
   },
   "1218": {
-    "Description": "Saat menerima DMG, jika persentase HP diri sendiri lebih tinggi daripada HP penyerang, DMG yang diterima dari penyerang berkurang -<style=\"accent-gn\">10%</style>.<br>Saat mengakibatkan DMG, jika persentase HP diri sendiri lebih tinggi daripada target yang terkena serangan, DMG terhadap target tersebut +<style=\"accent-gn\">5%</style>.",
+    "Description": "Saat menerima DMG, jika persentase HP diri sendiri lebih tinggi dari persentase HP penyerang, DMG yang diterima dari penyerang -<style=\"accent-gn\">10%</style>.<br>Saat mengakibatkan DMG, jika persentase HP diri sendiri lebih tinggi dari persentase HP target, DMG terhadap target +<style=\"accent-gn\">5%</style>.",
     "Id": 1218,
     "Par": 3401218,
     "ShowRule": 1,
@@ -1752,11 +1752,83 @@
     "Type": 3
   },
   "1219": {
-    "Description": "Setiap <style=\"accent-gn\">2</style> poin STR, INT, dan AGI dikonversi menjadi <style=\"accent-gn\">1</style> poin ATK. <br>Setiap <style=\"accent-gn\">1</style> poin END dikonversi menjadi <style=\"accent-gn\">8</style> poin Max HP.<br><style=\"accent-gn\">Crit%</style>, <style=\"accent-gn\">Luck%</style>, <style=\"accent-gn\">Mastery%</style>, <style=\"accent-gn\">Haste%</style>, dan <style=\"accent-gn\">Versatility%</style> milikmu akan kehilangan efek semula dan mendapat ability baru: DMG dari Resonance Skill saat ini pasti mengakibatkan Crit, tapi Crit DMG tersebut selalu sebesar perhitungan jumlah <style=\"accent-gn\">Crit%+Luck%+Mastery%+Haste%+Versatility%</style>.",
+    "Description": "Setiap <style=\"accent-gn\">2</style> poin STR, INT, dan AGI dikonversi menjadi <style=\"accent-gn\">1</style> poin ATK.<br>Setiap <style=\"accent-gn\">1</style> poin Endurance dikonversi menjadi <style=\"accent-gn\">8</style> poin Max HP.<br><style=\"accent-gn\">Crit%</style>, <style=\"accent-gn\">Luck%</style>, <style=\"accent-gn\">Mastery%</style>, <style=\"accent-gn\">Haste%</style>, dan <style=\"accent-gn\">Versatility%</style> milikmu akan kehilangan efek aslinya dan mendapat kemampuan baru: DMG dari skill Resonance Skill Saat Ini pasti memicu Crit, tetapi Crit DMG ditetapkan berdasarkan perhitungan total dari <style=\"accent-gn\">Crit%+Luck%+Mastery%+Haste%+Versatility%</style>.",
     "Id": 1219,
     "Par": 0,
     "ShowRule": 2,
-    "Text": "Konversi Ability",
+    "Text": "Konversi Kemampuan",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "Setiap lapis meningkatkan ATK sebesar <style=\"accent-gn\">25</style> poin (meningkat hingga <style=\"accent-gn\">40</style> seiring dengan peningkatan Level Season).",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Goresan",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "Meningkatkan <style=\"accent-gn\">6%</style> DMG Tetap ini dan <style=\"accent-gn\">1%</style> Wish DR, dapat ditumpuk hingga <style=\"accent-gn\">10</style> lapis, berkurang <style=\"accent-gn\">1</style> lapis setiap detik saat Bergerak, berkurang <style=\"accent-gn\">1</style> lapis saat memicu Perfect Dodge, dan dikosongkan setelah keluar dari status Pertarungan.",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Semangat Tempur",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "ATK -<style=\"accent-gn\">1%</style> per tumpuk, maksimal berlaku <style=\"accent-gn\">1</style>, Sustained <style=\"accent-gn\">10 detik</style>, tumpuk akan dihitung ulang saat ditambahkan kembali.",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Penurunan Semangat Tempur",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "Wish DMG +<style=\"accent-gn\">3%</style>, maksimal berlaku <style=\"accent-gn\">1</style>.",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Motivation",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "Meningkatkan ATK sebesar <style=\"accent-gn\">74</style> (Meningkat hingga <style=\"accent-gn\">112</style> seiring dengan Season Level), Sustained selama <style=\"accent-gn\">8 detik</style>, dapat ditumpuk hingga <style=\"accent-gn\">5</style> lapis.",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Mengumpulkan Kekuatan",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "Meningkatkan <style=\"accent-gn\">400</style> poin ATK (meningkat hingga <style=\"accent-gn\">700</style> seiring Level Season Meningkat), Sustained selama <style=\"accent-gn\">8 detik</style>.",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Ledakan",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "Nilai Tertinggi dari Crit%, Luck%, Haste%, dan Mastery% kamu +<style=\"accent-gn\">1.5%</style>, Sustained selama <style=\"accent-gn\">5 detik</style>.",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Simfoni Stat",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "Memberikan Adaptive DMG sebesar <style=\"accent-gn\">500%</style> ATK kepada Target musuh dalam Area <style=\"accent-gn\">3</style> meter.",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dream Arrow",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "Memberikan DMG Tetap sebesar <style=\"accent-gn\">4000%</style> * Kekuatan Wish.",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dampak Ilusi",
     "Type": 1
   },
   "1500": {
@@ -2800,7 +2872,7 @@
     "Type": 2
   },
   "2001": {
-    "Description": "Menerima Fire DMG secara terus-menerus selama <style=\"accent-gn\">5 detik</style>, batas dasar <style=\"accent-gn\">10 stack</style>; jika Target berada dalam status Dingin dan Frost, menghapus status Dingin dan Frost tersebut, serta memberikan DMG tambahan.",
+    "Description": "Menerima Fire DMG secara terus-menerus selama <style=\"accent-gn\">5 detik</style> dengan batas dasar <style=\"accent-gn\">10 lapis</style>; jika target berada dalam kondisi Dingin dan Frost, menghapus kondisi Dingin dan Frost tersebut serta mengakibatkan DMG tambahan.",
     "Id": 2001,
     "Par": 0,
     "ShowRule": 1,
@@ -2808,15 +2880,15 @@
     "Type": 1
   },
   "2002": {
-    "Description": "Move Speed <style=\"accent-gn\">-10%</style>, Physical Res dan Magic Res <style=\"accent-gn\">-10%</style> per tumpuk, berlangsung selama <style=\"accent-gn\">5 detik</style>, batas dasar <style=\"accent-gn\">5 tumpuk</style>, <style=\"accent-gn\">efek berkurang separuh pada Boss</style>; jika Target mencapai batas tumpuk Chill, akan berubah menjadi Frost; jika Target dalam status Burn, akan menghapus Burn, dan melakukan perhitungan untuk semua sisa DMG Burn.",
+    "Description": "Setiap tumpuk memberi Move Speed <style=\"accent-gn\">-10%</style>, Physical Res dan Magic Res <style=\"accent-gn\">-10%</style> selama <style=\"accent-gn\">5 dtk</style>, batas dasar <style=\"accent-gn\">5 tumpuk</style>, dan <style=\"accent-gn\">efek terhadap Boss berkurang setengah</style>; jika target mencapai batas tumpuk Dingin, akan berubah menjadi Frost; jika target sedang dalam status Burn, akan menghapus status Burn tersebut dan memicu perhitungan semua sisa DMG Burn.",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Dingin",
+    "Text": "Kedinginan",
     "Type": 1
   },
   "2003": {
-    "Description": "Tidak dapat bertindak selama <style=\"accent-gn\">3 detik</style>, setelah berakhir mendapat Imunitas Frost selama <style=\"accent-gn\">30 detik</style>.",
+    "Description": "Tidak dapat beraksi selama <style=\"accent-gn\">3 detik</style>. Setelah berakhir, mendapat Kebal Frost selama <style=\"accent-gn\">30 detik</style>.",
     "Id": 2003,
     "Par": 0,
     "ShowRule": 1,
@@ -2824,7 +2896,7 @@
     "Type": 1
   },
   "2004": {
-    "Description": "Healing Effect <style=\"accent-gn\">-20%</style> per stack, berlangsung selama <style=\"accent-gn\">10 detik</style>, maks. <style=\"accent-gn\">5 stack</style>.",
+    "Description": "Healing Effect <style=\"accent-gn\">-20%</style> per tumpukan selama <style=\"accent-gn\">10 detik</style>, maks. <style=\"accent-gn\">5 tumpukan</style>.",
     "Id": 2004,
     "Par": 0,
     "ShowRule": 1,
@@ -2832,7 +2904,7 @@
     "Type": 1
   },
   "2005": {
-    "Description": "DMG yang diterima meningkat <style=\"accent-gn\">6% × tumpuk Korosi</style>, selama <style=\"accent-gn\">7 detik</style>, maks. <style=\"accent-gn\">5 tumpuk</style>.",
+    "Description": "Meningkatkan DMG yang diterima sebesar <style=\"accent-gn\">6% x tumpuk Korosi</style>, berlangsung selama <style=\"accent-gn\">7 detik</style>, maks. <style=\"accent-gn\">5 tumpuk</style>.",
     "Id": 2005,
     "Par": 0,
     "ShowRule": 1,
@@ -2840,7 +2912,7 @@
     "Type": 1
   },
   "2006": {
-    "Description": "Tidak dapat bertindak, DMG yang diterima berikutnya <style=\"accent-gn\">+50%</style>, sekaligus menghilangkan Petrify, berlangsung selama <style=\"accent-gn\">2.5 detik</style>.",
+    "Description": "Tidak dapat beraksi, DMG yang diterima berikutnya <style=\"accent-gn\">+50%</style> sekaligus menghapus efek Petrify, berlangsung selama <style=\"accent-gn\">2,5 detik</style>.",
     "Id": 2006,
     "Par": 0,
     "ShowRule": 1,
@@ -2856,7 +2928,7 @@
     "Type": 1
   },
   "2008": {
-    "Description": "Tidak dapat bertindak selama <style=\"accent-gn\">2.5 detik</style>.",
+    "Description": "Tidak dapat beraksi selama <style=\"accent-gn\">2,5 detik</style>.",
     "Id": 2008,
     "Par": 0,
     "ShowRule": 1,
@@ -2864,7 +2936,7 @@
     "Type": 1
   },
   "2009": {
-    "Description": "Setelah muncul, bergerak mengikuti rute tertentu, memberikan DMG pada Monster yang tersentuh, bertahan selama <style=\"accent-gn\">60 detik</style>, batas dasar <style=\"accent-gn\">2</style>.",
+    "Description": "Setelah muncul, bergerak mengikuti rute tertentu dan mengakibatkan DMG pada monster yang disentuh. Bertahan selama <style=\"accent-gn\">60 detik</style>, dengan batas dasar <style=\"accent-gn\">2</style>.",
     "Id": 2009,
     "Par": 0,
     "ShowRule": 1,
@@ -2872,15 +2944,15 @@
     "Type": 1
   },
   "2010": {
-    "Description": "Tidak lagi terkena efek Frost, berlangsung selama <style=\"accent-gn\">30 detik</style>.",
+    "Description": "Tidak lagi terpengaruh oleh Frost selama <style=\"accent-gn\">30 detik</style>.",
     "Id": 2010,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Imunitas Frost",
+    "Text": "Kebal Frost",
     "Type": 1
   },
   "2011": {
-    "Description": "Terkena 1 kali DMG saat menerima Permen, maks. <style=\"accent-gn\">10 stack</style>.",
+    "Description": "Menerima DMG 1 kali saat mendapatkan Permen, maks. <style=\"accent-gn\">10 tumpuk</style>.",
     "Id": 2011,
     "Par": 0,
     "ShowRule": 1,
@@ -3007,6 +3079,14 @@
     "Text": "Burn",
     "Type": 3
   },
+  "3015": {
+    "Description": "Memaksa Target musuh bergerak ke arah unit yang memberikan Dazzle. Tidak berlaku pada Boss dan Elite. Merupakan Debuff Status.",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dazzle",
+    "Type": 1
+  },
   "3020": {
     "Description": "Meliputi <style=\"accent-gn\">Stun</style>, <style=\"accent-gn\">Freeze</style>, <style=\"accent-gn\">Petrify</style>, <style=\"accent-gn\">Paralysis</style>, <style=\"accent-gn\">Dazzle</style>, dan <style=\"accent-gn\">Fear</style>.",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "Debuff Effect",
     "Type": 3
+  },
+  "3022": {
+    "Description": "Jumlah perabot dapat memengaruhi frame rate game, tergantung pada performa perangkat yang digunakan.",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Jumlah Perabot",
+    "Type": 1
   }
 }

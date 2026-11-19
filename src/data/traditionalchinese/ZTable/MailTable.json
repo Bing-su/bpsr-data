@@ -974,6 +974,19 @@
     "NpcName": "",
     "Title": "【燼夜映跡・簽到獎勵補發】"
   },
+  "2258": {
+    "AwardId": 0,
+    "Content": "親愛的冒險者：<br><br>檢測到您有一份未領取的簽到獎勵，現已為您補發至郵箱。<br><br>願這份小驚喜能為您的冒險之旅增添更多樂趣，帶著這份小確幸，奔赴下一段更精彩的旅程吧！",
+    "ExpireTime": 30,
+    "Id": 2258,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "",
+    "Title": "【朝夕祈願・簽到獎勵補發】"
+  },
   "2300": {
     "AwardId": 0,
     "Content": "親愛的冒險者：請查收您透過兌換碼獲得的獎勵~",
@@ -1078,6 +1091,19 @@
     "NpcName": "喵尼婭",
     "Title": "【聯動活動】挑戰目標獎勵補發"
   },
+  "2505": {
+    "AwardId": 0,
+    "Content": "親愛的冒險者：<br><br>本期海風節慶典活動已結束，請及時查收未領取的活動目標獎勵~<br><br>感謝您的參與！",
+    "ExpireTime": 30,
+    "Id": 2505,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "海風節工作人員",
+    "Title": "【海風節慶典】活動目標獎勵補發"
+  },
   "2506": {
     "AwardId": 0,
     "Content": "親愛的冒險者：<br><br>本期卡尼曼豐收祭活動已結束，請及時查收未領取的目標獎勵~<br><br>感謝您的參與！",
@@ -1093,7 +1119,7 @@
   },
   "2507": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "親愛的冒險者：<br><br>本期惡作劇之夜活動已結束，請及時查收未領取的目標獎勵~<br><br>感謝您的參與！",
     "ExpireTime": 30,
     "Id": 2507,
     "Important": 0,
@@ -1101,8 +1127,8 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 1200012,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "系統郵件",
+    "Title": "【惡作劇之夜】活動目標獎勵補發"
   },
   "3002": {
     "AwardId": 0,
@@ -1210,7 +1236,7 @@
   },
   "4005": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "親愛的冒險者：<br><br>你在星脈調諧挑戰賽的成績，因為有作弊嫌疑未審核通過，如有疑問請聯繫客服！",
     "ExpireTime": 30,
     "Id": 4005,
     "Important": 0,
@@ -1218,7 +1244,20 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "系統郵件",
+    "Title": "星脈調諧挑戰賽審核失敗"
+  },
+  "4006": {
+    "AwardId": 0,
+    "Content": "親愛的冒險者：<br><br>本期無間的晝夜活動已結束，你有尚未領取的獎勵，請及時查收。<br><br>感謝您的參與！",
+    "ExpireTime": 30,
+    "Id": 4006,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "系統郵件",
+    "Title": "【無間的晝夜】目標獎勵補發"
   }
 }

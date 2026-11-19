@@ -1,6 +1,6 @@
 {
   "1": {
-    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: กวัดแกว่งเคียว 3 ครั้ง<br>ระยะโจมตี: <style=\"accent-gn\">{*val1*}</style><br>Crit Rate:<style=\"accent-gn\">{*val2*}ATK%×3</style><br><br><style=\"tipsYellow\">Doomsday Ring</style>: ปล่อย Ring 2 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}ATK%×จำนวน Ring</style><br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: กวัดแกว่งเคียว 3 ครั้ง<br>ระยะโจมตี: <style=\"accent-gn\">{*val1*}</style><br>DMG Rate:<style=\"accent-gn\">{*val2*}ATK%×3</style><br><br><style=\"tipsYellow\">Doomsday Ring</style>: ปล่อย Ring 2 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>DMG Rate:<style=\"accent-gn\">{*val4*}ATK%×จำนวน Ring</style><br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
     "Id": 1,
     "ValueExchange": []
   },
@@ -15,12 +15,12 @@
     "ValueExchange": ["12"]
   },
   "100001": {
-    "Desc": "ในการเล่น \"Nightveil Woods (Ice)\" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ในการเล่น \"Nightveil Woods (Ice) \" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100001,
     "ValueExchange": ["10", "30"]
   },
   "100002": {
-    "Desc": "ในการเล่น \"Nightveil Woods (Ice)\" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ในการเล่น \"Nightveil Woods (Ice) \" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100002,
     "ValueExchange": ["5", "30"]
   },
@@ -35,67 +35,67 @@
     "ValueExchange": ["5", "30"]
   },
   "100005": {
-    "Desc": "ท้าทาย! ใช้ \"Boyce's Mints\" ผ่าน \"Nightveil Woods (Fire)\" หรือ \" Nightveil Woods (Fire)\" {*val1*} เวฟแรก ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ท้าทาย! ใช้ \"Boyce's Mints\" ผ่าน \"Nightveil Woods (Ice)\" หรือ \"Nightveil Woods (Fire)\" {*val1*} เวฟแรก ไม่นับรวมเวฟท้าทาย",
     "Id": 100005,
     "ValueExchange": ["30"]
   },
   "100006": {
-    "Desc": "ท้าทาย! ในการเล่น \"Nightveil Woods (Ice)\" หรือ \"Nightveil Woods (Fire)\" 1 รอบ จะต้องมี Attunement Imagine อยู่บนสนามพร้อมกันไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ท้าทาย! ในการเล่น \"Nightveil Woods (Ice) \" หรือ \"Nightveil Woods (Fire)\" 1 รอบ จะต้องมี Attunement Imagine อยู่บนสนามพร้อมกันไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100006,
     "ValueExchange": ["7", "30"]
   },
   "100007": {
-    "Desc": "ท้าทาย! ผ่าน \"Nightveil Woods (Ice)\" หรือ \"Nightveil Woods (Fire)\" {*val1*} เวฟแรก ไม่มีมอนสเตอร์เข้าไปใน Engram Line (ไม่นับรวมเวฟท้าทาย)",
+    "Desc": "ท้าทาย! ผ่าน \"Nightveil Woods (Ice) \" หรือ \"Nightveil Woods (Fire)\" {*val1*} เวฟแรกไม่มีมอนสเตอร์เข้าไปใน Engram Line (ไม่นับรวมเวฟท้าทาย)",
     "Id": 100007,
     "ValueExchange": ["30"]
   },
   "100008": {
-    "Desc": "ใน \"Nightveil Woods (Light)\" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ใน \"Nightveil Woods (Holy)\" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100008,
     "ValueExchange": ["10", "30"]
   },
   "100009": {
-    "Desc": "ใน \"Nightveil Woods (Light)\" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ใน \"Nightveil Woods (Holy)\" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100009,
     "ValueExchange": ["5", "30"]
   },
   "100010": {
-    "Desc": "ในการเล่น \"Nightveil Woods (Dark)\" 1 รอบ มีมอนสเตอร์เข้าสู่เส้นทางเอนแกรมรวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ในการเล่น \"Nightveil Woods (Dark)\" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100010,
     "ValueExchange": ["10", "30"]
   },
   "100011": {
-    "Desc": "ในการเล่น \"Nightveil Woods (Dark)\" 1 รอบ มีมอนสเตอร์เข้าสู่เส้นทางเอนแกรมรวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ในการเล่น \"Nightveil Woods (Dark)\" 1 รอบ มีมอนสเตอร์เข้าสู่ Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100011,
     "ValueExchange": ["5", "30"]
   },
   "100012": {
-    "Desc": "ท้าทาย! ใช้ \"Tina's Two-Flavor Cookies\" ผ่าน \"Nightveil Woods (Light)\" หรือ \"Nightveil Woods (Dark)\" {*val1*} เวฟแรก ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ท้าทาย! ใช้ \"Tina's Two-Flavor Cookies\" ผ่าน \"Nightveil Woods (Holy)\" หรือ \"Nightveil Woods (Dark)\" {*val1*} เวฟแรก ไม่นับรวมเวฟท้าทาย",
     "Id": 100012,
     "ValueExchange": ["30"]
   },
   "100013": {
-    "Desc": "ท้าทาย! ในการเล่น \"Nightveil Woods (Light)\" หรือ \"Nightveil Woods (Dark)\" 1 รอบ มี Attunement Imagine บนสนามพร้อมกันไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรก (ไม่นับเวฟท้าทาย)",
+    "Desc": "ท้าทาย! ในการเล่น \"Nightveil Woods (Holy)\" หรือ \"Nightveil Woods (Dark)\" 1 รอบ มี Attunement Imagine บนสนามพร้อมกันไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรก (ไม่นับเวฟท้าทาย)",
     "Id": 100013,
     "ValueExchange": ["7", "30"]
   },
   "100014": {
-    "Desc": "ท้าทาย! ใน \"Nightveil Woods (Light)\" หรือ \"Nightveil Woods (Dark)\" อัป Lv. \"Attunement Imagine - Mischievous Nappo\" เป็น Lv.{*val1*}",
+    "Desc": "ท้าทาย! อัป Lv. \"Attunement Imagine·Mischievous Nappo\" เป็น Lv. {*val1*} ใน \"Nightveil Woods (Holy)\" หรือ \"Nightveil Woods (Dark)\"",
     "Id": 100014,
     "ValueExchange": ["3"]
   },
   "100015": {
-    "Desc": "ในการเล่น \"Nightveil Woods (Endless)\" 1 รอบ มีมอนสเตอร์เข้าไปใน Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ในการเล่น\"Nightveil Woods (Endless)\" 1 รอบ มีมอนสเตอร์เข้าไปใน Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100015,
     "ValueExchange": ["10", "30"]
   },
   "100016": {
-    "Desc": "ในการเล่น \"Nightveil Woods (Endless)\" 1 รอบ มีมอนสเตอร์เข้าไปใน Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ในการเล่น\"Nightveil Woods (Endless)\" 1 รอบ มีมอนสเตอร์เข้าไปใน Engram Line รวมไม่เกิน {*val1*} ตัว และผ่าน {*val2*} เวฟแรกสำเร็จ ไม่นับรวมเวฟท้าทาย",
     "Id": 100016,
     "ValueExchange": ["5", "30"]
   },
   "100017": {
-    "Desc": "ท้าทาย! ใช้ \"Tabitha's Yummy Bean Pot\" ผ่าน \"Nightveil Woods (Endless)\" {*val1*} เวฟแรก ไม่นับรวมเวฟท้าทาย",
+    "Desc": "ท้าทาย! ใช้ \"Tabitha's Delicious Bean Pot\" ผ่าน \"Nightveil Woods (Endless)\" {*val1*} เวฟแรก ไม่นับรวมเวฟท้าทาย",
     "Id": 100017,
     "ValueExchange": ["30"]
   },
@@ -105,12 +105,12 @@
     "ValueExchange": ["7", "30"]
   },
   "100019": {
-    "Desc": "ท้าทาย! ผ่าน \"Nightveil Woods (Endless)\" {*val1*} เวฟแรก ไม่มีมอนสเตอร์เข้าสู่ Engram Line (ไม่นับรวมเวฟท้าทาย)",
+    "Desc": "ท้าทาย! ผ่าน \"Nightveil Woods (Endless)\" {*val1*} เวฟแรกไม่มีมอนสเตอร์เข้าสู่ Engram Line (ไม่นับรวมเวฟท้าทาย)",
     "Id": 100019,
     "ValueExchange": ["30"]
   },
   "100020": {
-    "Desc": "ท้าทาย! ใน \"Nightveil Woods (Endless)\" อัป Lv. \"Attunement Imagine·Mischievous Nappo\" ให้ถึ Lv.{*val1*}",
+    "Desc": "ท้าทาย! ใน \"Nightveil Woods (Endless)\" อัป Lv. \"Attunement Imagine·Mischievous Nappo\" ให้ถึง Lv.{*val1*}",
     "Id": 100020,
     "ValueExchange": ["5"]
   },
@@ -150,7 +150,7 @@
     "ValueExchange": ["0.5", "40"]
   },
   "107": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Ice][หนาวจัด]</style><br><br><style=\"tipsYellow\">Passive</style>: สร้าง DMG เพิ่มขึ้น [{*val1*}% x จำนวน Stack <linktext=2002>หนาวเหน็บ</linktext>ของเป้าหมาย + {*val2*}% x จำนวน Stack <linktext=2003>แช่แข็ง</linktext>ของเป้าหมาย]",
+    "Desc": "<style=\"magic\">[เวทมนตร์]</style><style=\"tipsYellow\">[Ice][หนาวจัด]</style><br><br><style=\"tipsYellow\">Passive</style>: สร้าง DMG เพิ่มขึ้น [{*val1*}% x จำนวนสแต็ก<linktext=2002>หนาวเหน็บ</linktext>ของเป้าหมาย + {*val2*}% x จำนวนสแต็ก<linktext=2003>แช่แข็ง</linktext>ของเป้าหมาย]",
     "Id": 107,
     "ValueExchange": ["3", "50"]
   },
@@ -180,17 +180,17 @@
     "ValueExchange": ["100", "1", "30"]
   },
   "112": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Dark][Hyakki][Buff]</style><br><br><style=\"tipsYellow\">Passive</style>: อัญเชิญ <linktext=2009>Wraith</linktext> ออกมาหลังจากกำจัดมอนสเตอร์ได้ เมื่อ <linktext=2009>Wraith</linktext> ปรากฏตัวขึ้น คูลดาวน์ของสกิล Attunement Imagine ประเภท Hyakki ทั้งหมดในสนามจะลดลง {*val1*} วินาที เอฟเฟกต์นี้สามารถทำงานได้ทุกๆ {*val2*} วินาที",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Dark][Specter Parade][Buff]</style><br><br><style=\"tipsYellow\">ติดตัว</style>: หลังฆ่ามอนสเตอร์จะสร้าง <linktext=2009>Wraith</linktext> และเมื่อ <linktext=2009>Wraith</linktext> ปรากฏตัว จะลด CD ของ Skills Attunement Imagine Specter Parade ทั้งหมดในสนามลง {*val1*} วินาที ทุก {*val2*} วินาที เอฟเฟกต์นี้จะทำงานได้ 1 ครั้ง",
     "Id": 112,
     "ValueExchange": ["3", "6"]
   },
   "113": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[ไฟ][Burn][Buff]</style><br><br><style=\"tipsYellow\">Passive</style>: จำนวนสแตก <linktext=2001>Burn</linktext> ที่ตัวเองมอบให้มอนสเตอร์ ×{*val1*}; เมื่ออยู่บนสนาม ขีดจำกัดสแตก <linktext=2001>Burn</linktext> +{*val2*} ไม่สามารถซ้อนทับได้ได้",
+    "Desc": "<style=\"magic\">[เวทมนตร์]</style><style=\"tipsYellow\">[ไฟ][Burn][Buff]</style><br><br><style=\"tipsYellow\">Passive</style>: จำนวนสแตก <linktext=2001>Burn</linktext> ที่ตัวเองมอบให้มอนสเตอร์ ×{*val1*}; เมื่ออยู่บนสนาม ขีดจำกัดสแตก <linktext=2001>Burn</linktext> +{*val2*} ไม่สามารถซ้อนทับได้ได้",
     "Id": 113,
     "ValueExchange": ["2", "2"]
   },
   "114": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br><br><style=\"tipsYellow\">Passive</style>: ในขณะที่อยู่ในการต่อสู้ พันธมิตรทั้งหมดจะได้รับ Crit Rate +{*val1*}% ผลของความสามารถนี้ไม่สามารถทับซ้อนกันได้",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br><br><style=\"tipsYellow\">Passive</style>: เมื่ออยู่ในสนามรบ Crit Rate ของฝ่ายพันธมิตรทั้งหมด +{*val1*}% ไม่สามารถซ้อนทับได้",
     "Id": 114,
     "ValueExchange": ["24"]
   },
@@ -200,7 +200,7 @@
     "ValueExchange": ["100"]
   },
   "116": {
-    "Desc": "<style=\"tipsYellow\">Base Power</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: สาดลูกอมอย่างต่อเนื่องใส่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val2*} เมตร</style> สร้าง DMG <style=\"accent-gn\">{*val3*}%</style> และเพิ่ม <linktext=2011>ลูกอม</linktext> 1 Stack<br><br><style=\"tipsYellow\">ทริคออร์ทรีต</style>: เรียกคืน<linktext=2011>ลูกอม</linktext>ทั้งหมดในสนาม และต่อมอนสเตอร์ที่ถูกเรียกคืน<linktext=2011>ลูกอม</linktext> จะสร้าง DMG <style=\"accent-gn\">{*val4*}% + จำนวน Stack <linktext=2011>ลูกอม</linktext> × {*val5*}%</style><br>CD: <style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">Base Power</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: สาดลูกอมอย่างต่อเนื่องใส่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val2*} เมตร</style> สร้าง DMG <style=\"accent-gn\">{*val3*}%</style> และเพิ่ม <linktext=2011>ลูกอม</linktext> 1 Stack<br><br><style=\"tipsYellow\">ทริคออร์ทรีต</style>: เรียกคืน<linktext=2011>ลูกอม</linktext>ทั้งหมดในสนาม และต่อมอนสเตอร์ที่ถูกเรียกคืน<linktext=2011>ลูกอม</linktext> จะสร้าง DMG <style=\"accent-gn\">{*val4*}% + จำนวนสแต็ก<linktext=2011>ลูกอม</linktext> × {*val5*}%</style><br>CD: <style=\"accent-gn\">{*val6*} วินาที</style><br>",
     "Id": 116,
     "ValueExchange": ["1200", "6", "186", "391", "40", "20"]
   },
@@ -265,7 +265,7 @@
     "ValueExchange": ["30"]
   },
   "128": {
-    "Desc": "Lv.3: Frost Ray width +{*val1*}%, range +{*val2*}%",
+    "Desc": "Lv3: ความกว้างลำแสงเยือกแข็ง +{*val1*}% ระยะ +{*val2*}%",
     "Id": 128,
     "ValueExchange": ["50", "50"]
   },
@@ -285,7 +285,7 @@
     "ValueExchange": ["2"]
   },
   "131": {
-    "Desc": "<style=\"tipsYellow\">Basic Power</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ปลดปล่อย Sacred Blade สร้าง DMG <style=\"accent-gn\">{*val4*}%</style> แก่เป้าหมาย <style=\"accent-gn\">{*val3*} ราย</style> ใน<style=\"accent-gn\">รัศมี {*val2*} เมตร</style> และได้รับ Shield <style=\"accent-gn\">{*val5*}%</style> ของ Max HP ของตัวเอง<br><br><style=\"tipsYellow\">Inferno Reckon</style>: กวัดแกว่งดาบใหญ่สร้าง DMG ต่อเนื่อง <style=\"accent-gn\">{*val7*} ครั้ง {*val8*}%</style> แก่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val6*} เมตร</style> พร้อมสร้าง DMG เพิ่มเติม <style=\"accent-gn\">{*val9*}%</style> ของค่า Shield ของตัวเอง<br>CD: <style=\"accent-gn\">{*val10*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">พลังพื้นฐาน</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ปลดปล่อย Sacred Blade สร้าง DMG <style=\"accent-gn\">{*val4*}%</style> แก่เป้าหมาย <style=\"accent-gn\">{*val3*} ราย</style> ใน<style=\"accent-gn\">รัศมี {*val2*} เมตร</style> และได้รับ Shield <style=\"accent-gn\">{*val5*}%</style> ของ Max HP ของตัวเอง<br><br><style=\"tipsYellow\">Inferno Reckon</style>: กวัดแกว่งดาบใหญ่สร้าง DMG ต่อเนื่อง <style=\"accent-gn\">{*val7*} ครั้ง {*val8*}%</style> แก่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val6*} เมตร</style> พร้อมสร้าง DMG เพิ่มเติม <style=\"accent-gn\">{*val9*}%</style> ของค่า Shield ของตัวเอง<br>CD: <style=\"accent-gn\">{*val10*} วินาที</style><br>",
     "Id": 131,
     "ValueExchange": ["320", "7", "2", "61", "1", "7", "3", "166", "100", "30"]
   },
@@ -310,7 +310,7 @@
     "ValueExchange": ["32"]
   },
   "136": {
-    "Desc": "<style=\"tipsYellow\">Basic Power</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ยิงกระสุน <style=\"accent-gn\">{*val3*} นัด</style> ใส่เป้าหมาย 1 ตัวใน<style=\"accent-gn\">รัศมี {*val2*} เมตร</style> กระสุนแต่ละนัดจะสร้าง DMG <style=\"accent-gn\">{*val4*}%</style><br><br><style=\"tipsYellow\">เสียงปืนคำรามก้องฟ้า</style>: ปล่อยกระสุน <style=\"accent-gn\">{*val5*} นัด</style> เพื่อค้นหาเป้าหมายใน<style=\"accent-gn\">รัศมี {*val6*} เมตร</style> โดยอัตโนมัติ กระสุนแต่ละนัดจะสร้าง DMG <style=\"accent-gn\">{*val7*}%</style><br>CD: <style=\"accent-gn\">{*val8*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">พลังพื้นฐาน</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ยิงกระสุน <style=\"accent-gn\">{*val3*} นัด</style> ใส่เป้าหมาย 1 ตัวใน<style=\"accent-gn\">รัศมี {*val2*} เมตร</style> กระสุนแต่ละนัดจะสร้าง DMG <style=\"accent-gn\">{*val4*}%</style><br><br><style=\"tipsYellow\">เสียงปืนคำรามก้องฟ้า</style>: ปล่อยกระสุน <style=\"accent-gn\">{*val5*} นัด</style> เพื่อค้นหาเป้าหมายใน<style=\"accent-gn\">รัศมี {*val6*} เมตร</style> โดยอัตโนมัติ กระสุนแต่ละนัดจะสร้าง DMG <style=\"accent-gn\">{*val7*}%</style><br>CD: <style=\"accent-gn\">{*val8*} วินาที</style><br>",
     "Id": 136,
     "ValueExchange": ["320", "15", "3", "56", "10", "15", "82", "15"]
   },
@@ -340,7 +340,7 @@
     "ValueExchange": ["100"]
   },
   "141": {
-    "Desc": "<style=\"tipsYellow\">Basic Power</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ล็อกเป้าหมาย<style=\"accent-gn\">{*val3*} เป้าหมาย</style>ที่มี HP สูงสุดใน<style=\"accent-gn\">รัศมี {*val2*} เมตร</style> ปล่อยเสาไฟสร้าง DMG <style=\"accent-gn\">{*val4*}%</style><br><br><style=\"tipsYellow\">เปลวเพลิงโหมกระหน่ำ</style>: สร้าง DMG <style=\"accent-gn\">{*val6*}%</style> แก่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val5*} เมตร</style> พร้อมเพิ่ม<style=\"accent-gn\">Crit Rate +{*val7*}%</style> ให้ตัวเอง เป็นเวลา <style=\"accent-gn\">{*val8*} วินาที</style><br>CD: <style=\"accent-gn\">{*val9*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">พลังพื้นฐาน</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ล็อกเป้าหมาย<style=\"accent-gn\">{*val3*} เป้าหมาย</style>ที่มี HP สูงสุดใน<style=\"accent-gn\">รัศมี {*val2*} เมตร</style> ปล่อยเสาไฟสร้าง DMG <style=\"accent-gn\">{*val4*}%</style><br><br><style=\"tipsYellow\">เปลวเพลิงโหมกระหน่ำ</style>: สร้าง DMG <style=\"accent-gn\">{*val6*}%</style> แก่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val5*} เมตร</style> พร้อมเพิ่ม<style=\"accent-gn\">Crit Rate +{*val7*}%</style> ให้ตัวเอง เป็นเวลา <style=\"accent-gn\">{*val8*} วินาที</style><br>CD: <style=\"accent-gn\">{*val9*} วินาที</style><br>",
     "Id": 141,
     "ValueExchange": ["170", "10", "3", "37", "10", "230", "20", "5", "15"]
   },
@@ -395,7 +395,7 @@
     "ValueExchange": ["30"]
   },
   "151": {
-    "Desc": "<style=\"tipsYellow\">Basic Power</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ตะปบเป้าหมายในพื้นที่<style=\"accent-gn\">รูปพัด {*val2*} เมตร</style>ด้านหน้า สร้าง DMG <style=\"accent-gn\">{*val3*} ครั้ง ครั้งละ {*val4*}%</style><br><br><style=\"tipsYellow\">เก็บเกี่ยวความมืด</style>: หมุนตัวโจมตีเป้าหมายในพื้นที่<style=\"accent-gn\">รูปพัด {*val5*} เมตร</style>ด้านหน้า สร้าง DMG <style=\"accent-gn\">{*val6*}%</style><br>CD: <style=\"accent-gn\">{*val7*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">พลังพื้นฐาน</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ตะปบเป้าหมายในพื้นที่<style=\"accent-gn\">รูปพัด {*val2*} เมตร</style>ด้านหน้า สร้าง DMG <style=\"accent-gn\">{*val3*} ครั้ง ครั้งละ {*val4*}%</style><br><br><style=\"tipsYellow\">เก็บเกี่ยวความมืด</style>: หมุนตัวโจมตีเป้าหมายในพื้นที่<style=\"accent-gn\">รูปพัด {*val5*} เมตร</style>ด้านหน้า สร้าง DMG <style=\"accent-gn\">{*val6*}%</style><br>CD: <style=\"accent-gn\">{*val7*} วินาที</style><br>",
     "Id": 151,
     "ValueExchange": ["170", "10", "2", "23", "20", "135", "15"]
   },
@@ -420,7 +420,7 @@
     "ValueExchange": ["30"]
   },
   "158": {
-    "Desc": "Lv3: ขีดจำกัด Stack ของเอฟเฟกต์ติดตัวเพิ่มขึ้น +{*val1*}",
+    "Desc": "Lv3: ขีดจำกัดสแต็กของเอฟเฟกต์ติดตัวเพิ่มขึ้น +{*val1*}",
     "Id": 158,
     "ValueExchange": ["4"]
   },
@@ -470,7 +470,7 @@
     "ValueExchange": ["30"]
   },
   "168": {
-    "Desc": "Lv3: ATK+{*val1*}%",
+    "Desc": "Lv.3: ATK+{*val1*}%",
     "Id": 168,
     "ValueExchange": ["25"]
   },
@@ -485,7 +485,7 @@
     "ValueExchange": ["45"]
   },
   "170": {
-    "Desc": "Lv5: ATK+{*val1*}% (ต้องมี Battle Imagine - Cabbage Kingpin)",
+    "Desc": "Lv.5: ATK+{*val1*}% (ต้องมี Battle Imagine - Cabbage Kingpin)",
     "Id": 170,
     "ValueExchange": ["15"]
   },
@@ -525,7 +525,7 @@
     "ValueExchange": ["2"]
   },
   "21": {
-    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ใช้ Banner Spear โจมตีด้านหน้า<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">Time Order</style>: Attunement Imagine ที่อยู่ใกล้ที่สุด <style=\"accent-gn\">{*val3*}</style> ชิ้น เร่งเวลา CD+<style=\"accent-gn\">{*val4*}%</style> เป็นเวลา <style=\"accent-gn\">{*val5*} วินาที</style><br>ระยะที่มีผล: ทั้งสนาม<br>Crit Rate:ไม่มี<br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ใช้ Banner Spear โจมตีด้านหน้า<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>DMG Rate: ATK<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">Time Order</style>: Attunement Imagine ที่อยู่ใกล้ที่สุด <style=\"accent-gn\">{*val3*}</style> ชิ้น เร่งเวลา CD+ <style=\"accent-gn\">{*val4*}%</style> เป็นเวลา <style=\"accent-gn\">{*val5*} วินาที</style><br>ระยะที่มีผล: <style=\"accent-gn\">ทั้งสนาม</style><br>เวลา CD: <style=\"accent-gn\">{*val6*} วินาที</style><br>",
     "Id": 21,
     "ValueExchange": ["5", "229", "5", "100", "5", "15"]
   },
@@ -550,7 +550,7 @@
     "ValueExchange": ["25", "25"]
   },
   "26": {
-    "Desc": "<style=\"tipsYellow\">Hellrock Spikes</style>: ปล่อย Spike ใช้ Stack ทั้งหมดของ Charge เพิ่ม [<style=\"accent-gn\">{*val1*}%</style>*Charge Stack] ของ DMG<br>ระยะโจมตี:<style=\"accent-gn\">{*val2*}</style><br>Crit Rate:ATK <style=\"accent-gn\">{*val3*}%</style><br>เวลา CD:ไม่มี<br>",
+    "Desc": "<style=\"tipsYellow\">Hellrock Spikes</style>: ปล่อย Earth spikes และใช้ชาร์จทั้งหมดเพื่อเพิ่มค DMG [<style=\"accent-gn\">{*val1*}%</style>*จำนวนชาร์จ]<br>ระยะโจมตี: <style=\"accent-gn\">{*val2*}</style><br>DMG Rate: <style=\"accent-gn\">{*val3*}%</style> ของ ATK<br>",
     "Id": 26,
     "ValueExchange": ["30", "9", "418"]
   },
@@ -860,7 +860,7 @@
     "ValueExchange": ["100"]
   },
   "31": {
-    "Desc": "<style=\"tipsYellow\">Basic Base</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">โจมตีปกติ</style>: พ่นใยแมงมุมใส่เป้าหมายสูงสุด <style=\"accent-gn\">{*val3*} ตัว</style> ภายในรัศมี <style=\"accent-gn\">{*val2*} ม.</style> สร้างความเสียหาย <style=\"accent-gn\">{*val4*}%</style> และมีโอกาส <style=\"accent-gn\">{*val5*}%</style> ที่จะทำให้ติดสถานะ <linktext=2007>ตรึงร่าง (Root)</linktext><br><br><style=\"tipsYellow\">Spider Strike</style>: มุดลงใต้ดินเป็นเวลา <style=\"accent-gn\">{*val6*} วินาที</style> ก่อนจะโผล่ขึ้นมา สร้างความเสียหาย <style=\"accent-gn\">{*val8*}%</style> แก่เป้าหมายในรัศมี <style=\"accent-gn\">{*val7*} ม.</style> พร้อมทำให้ติดสถานะ <style=\"accent-gn\"><linktext=2008>สตัน (Stun)</linktext></style><br>คูลดาวน์: <style=\"accent-gn\">{*val9*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">ค่าพลังพื้นฐาน</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">โจมตีปกติ</style>: พ่นใยแมงมุมใส่เป้าหมาย <style=\"accent-gn\">{*val3*} รายในรัศมี {*val2*} เมตร</style>ที่ไม่ได้ติดสถานะ<linktext=2007>ตรึงร่าง</linktext> สร้าง DMG <style=\"accent-gn\">{*val4*}%</style> และมี<style=\"accent-gn\">โอกาส {*val5*}%</style> ที่จะทำให้ติดสถานะ<linktext=2007>ตรึงร่าง</linktext><br><br><style=\"tipsYellow\">แมงมุมจู่โจม</style>: มุดดินแล้วโผล่ขึ้นมาหลังจากผ่านไป {*val6*} วินาที สร้าง DMG แก่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val7*} เมตร</style>เป็นจำนวน <style=\"accent-gn\">{*val8*}%</style> และทำให้ติดสถานะ <style=\"accent-gn\"><linktext=2008>Stun</linktext></style><br>CD: <style=\"accent-gn\">{*val9*} วินาที</style><br>",
     "Id": 31,
     "ValueExchange": ["170", "10", "1", "202", "40", "2.5", "10", "314", "10"]
   },
@@ -915,9 +915,9 @@
     "ValueExchange": ["1", "5"]
   },
   "41": {
-    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ชกโจมตีไปด้านหน้า 2 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate:<style=\"accent-gn\">{*val2*}%M.ATK×2</style><br><br><style=\"tipsYellow\">Lethal Scorch</style>: พ่นไฟต่อเนื่อง 5 วินาที มอบ Burn<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}%</style>M.ATK<br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ชกโจมตีไปด้านหน้า 2 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>DMG Rate:<style=\"accent-gn\">{*val2*}%M.ATK×2</style><br><br><style=\"tipsYellow\">Lethal Scorch</style>: พ่นไฟต่อเนื่อง 5 วินาที มอบ Burn<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>DMG Rate:<style=\"accent-gn\">{*val4*}%</style>M.ATK<br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
     "Id": 41,
-    "ValueExchange": ["8", "70", "15", "552", "15"]
+    "ValueExchange": ["5", "70", "13.3", "552", "15"]
   },
   "42": {
     "Desc": "Lv2: ATK+{*val1*}%",
@@ -1035,7 +1035,7 @@
     "ValueExchange": ["2", "100"]
   },
   "5014": {
-    "Desc": "<style=\"tipsYellow\">[Supply]</style> เมื่อได้รับ Attunement Media แบบซ้อนทับได้ จะมีโอกาส {*val1*}% ที่จะได้รับเพิ่มอีก {*val2*} ชิ้น ผลของสิ่งนี้จะไม่มีผลในระหว่างโหมด Endless Waves",
+    "Desc": "<style=\"tipsYellow\">[Resource]</style>เมื่อได้รับ Attunement Media ที่ซ้อนทับได้ มีโอกาส {*val1*}% ที่จะได้รับเพิ่มอีก {*val2*} ชิ้น Resouce นี้ไม่มีผลในระลอกไร้สิ้นสุด",
     "Id": 5014,
     "ValueExchange": ["20", "1"]
   },
@@ -1075,7 +1075,7 @@
     "ValueExchange": ["50", "60"]
   },
   "5022": {
-    "Desc": "<style=\"tipsYellow\">[Resource]</style>เพิ่ม DMG ของ Attunement Imagine ที่อัปเกรดถึง Lv.{*val1*} ขึ้นไป +{*val2*}%",
+    "Desc": "<style=\"tipsYellow\">[Resource]</style>เพิ่ม DMG ของ Attunement Imagine ที่อัปเกรดถึงเลเวล {*val1*} ขึ้นไป +{*val2*}%",
     "Id": 5022,
     "ValueExchange": ["4", "40"]
   },
@@ -1100,7 +1100,7 @@
     "ValueExchange": ["10", "50", "10", "180"]
   },
   "5027": {
-    "Desc": "<style=\"tipsYellow\">[Mischievous Nappo Exclusive]</style> การรีเฟรชร้านค้าในรอบถัดไปจะการันตีว่ามี Mischievous Nappo แน่นอน และการรีเฟรชในรอบหลังจากนั้นก็มีโอกาสที่จะมี Mischievous Nappo เช่นกัน",
+    "Desc": "<style=\"tipsYellow\">[เฉพาะ Mischievous Nappo]</style>การรีเฟรชร้านค้าครั้งถัดไปจะมี Mischievous Nappo ปรากฏขึ้นอย่างแน่นอน และการรีเฟรชร้านค้าหลังจากนั้นจะมีโอกาสที่ Mischievous Nappo จะปรากฏขึ้น",
     "Id": 5027,
     "ValueExchange": []
   },
@@ -1115,7 +1115,7 @@
     "ValueExchange": ["240"]
   },
   "5030": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style> เมื่อใช้งาน จะได้รับ Attunement Crystalshard จำนวน {*val1*} ชิ้น ทุก {*val2*} เวฟ สามารถใช้ได้ 1 ครั้ง",
+    "Desc": "<style=\"tipsYellow\">[Skills]</style> หลังใช้งาน จะได้รับ Attunement Crystalshard {*val1*} แต้ม ทุก {*val2*} เวฟจะใช้งานได้ 1 ครั้งเท่านั้น",
     "Id": 5030,
     "ValueExchange": ["3000", "5"]
   },
@@ -1135,9 +1135,9 @@
     "ValueExchange": ["10", "5"]
   },
   "51": {
-    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: พ่น Ice ต่อเนื่องที่ด้านหน้า 5 วินาที<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">Zero Realm</style>: สุ่มใช้ Ice Pike ใส่เป้าหมาย 3 ตัว<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}%</style>攻击力<br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: พ่น Ice ต่อเนื่องที่ด้านหน้า <style=\"accent-gn\">5 วินาที</style><br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>DMG Rate: ATK <style=\"accent-gn\">ทุกวินาที {*val2*}%</style><br><br><style=\"tipsYellow\">Zero Realm</style>: สุ่มใช้ Ice Pike ใส่เป้าหมาย 3 ตัว<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>DMG Rate:<style=\"accent-gn\">{*val4*}%</style>攻击力<br>เวลา CD:<style=\"accent-gn\">{*val5*} วินาที</style><br>",
     "Id": 51,
-    "ValueExchange": ["15", "360", "20", "246", "15"]
+    "ValueExchange": ["13", "72", "20", "246", "15"]
   },
   "52": {
     "Desc": "Lv2: ATK+{*val1*}%",
@@ -1180,9 +1180,9 @@
     "ValueExchange": ["20"]
   },
   "6": {
-    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ทุก<style=\"accent-gn\">{*val1*} วินาที</style> ทุบด้วย Meteor 1 ชิ้น<br>ระยะโจมตี:<style=\"accent-gn\">{*val2*}</style><br>Crit Rate:<style=\"accent-gn\">{*val3*}%</style>M.ATK<br><br><style=\"tipsYellow\">Spirit Deer Stampede</style>: ซัมม่อน Deer Spirit พุ่งโจมตีไปด้านหน้า ในสนามมี Human Attunement Imagine 1 ชิ้น จะทำงานเพิ่ม 1 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val4*}</style><br>Crit Rate:<style=\"accent-gn\">{*val5*}%</style>M.ATK<br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: ทุก<style=\"accent-gn\">{*val1*} วินาที</style> ทุบด้วย Meteor 1 ชิ้น<br>ระยะโจมตี:<style=\"accent-gn\">{*val2*}</style><br>DMG Rate:<style=\"accent-gn\">{*val3*}%</style>M.ATK<br><br><style=\"tipsYellow\">Spirit Deer Stampede</style>: ซัมม่อน Deer Spirit พุ่งโจมตีไปด้านหน้า ในสนามมี Human Attunement Imagine 1 ชิ้น จะทำงานเพิ่ม 1 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val4*}</style><br>DMG Rate:<style=\"accent-gn\">{*val5*}%</style>M.ATK<br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
     "Id": 6,
-    "ValueExchange": ["0.5", "6", "112", "15", "627", "15"]
+    "ValueExchange": ["0.5", "12", "112", "15", "627", "15"]
   },
   "60": {
     "Desc": "Lv5: ATK และ MATK ที่เพิ่มจาก Passive +{*val1*}% (ต้องมี Battle Imagine - Muku King)",
@@ -1275,7 +1275,7 @@
     "ValueExchange": ["50", "50"]
   },
   "61": {
-    "Desc": "<style=\"tipsYellow\">Basic Power</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ฟาดลงมาสร้าง DMG <style=\"accent-gn\">{*val3*}%</style> แก่เป้าหมายในระยะ<style=\"accent-gn\">รูปพัด {*val2*} เมตร</style>ด้านหน้า<br><br><style=\"tipsYellow\">Grand Sweep</style>: กวาดโจมตี <style=\"accent-gn\">{*val5*} ครั้ง</style> ใส่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val4*} เมตร</style> แต่ละครั้งสร้าง DMG <style=\"accent-gn\">{*val6*}%</style><br>CD: <style=\"accent-gn\">{*val7*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">พลังพื้นฐาน</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Basic Attack</style>: ฟาดลงมาสร้าง DMG <style=\"accent-gn\">{*val3*}%</style> แก่เป้าหมายในระยะ<style=\"accent-gn\">รูปพัด {*val2*} เมตร</style>ด้านหน้า<br><br><style=\"tipsYellow\">Grand Sweep</style>: กวาดโจมตี <style=\"accent-gn\">{*val5*} ครั้ง</style> ใส่เป้าหมายใน<style=\"accent-gn\">รัศมี {*val4*} เมตร</style> แต่ละครั้งสร้าง DMG <style=\"accent-gn\">{*val6*}%</style><br>CD: <style=\"accent-gn\">{*val7*} วินาที</style><br>",
     "Id": 61,
     "ValueExchange": ["170", "12.5", "36", "12.5", "2", "34", "15"]
   },
@@ -1300,9 +1300,9 @@
     "ValueExchange": ["8"]
   },
   "66": {
-    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: โจมตี Slash Damage ใส่ด้านหน้า<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate:<style=\"accent-gn\">{*val2*}%</style>M.ATK<br><br><style=\"tipsYellow\">Lord of Winds</style>: สุ่มโจมตีด้วย Tornado ใส่เป้าหมาย 2 ตัว<br>ระยะโจมตี:<style=\"accent-gn\">{*val3*}</style><br>Crit Rate:<style=\"accent-gn\">{*val4*}%M.ATK×{*val5*} วินาที</style><br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">โจมตีทั่วไป</style>: โจมตี Slash Damage ใส่ด้านหน้า 3 ครั้ง<br>ระยะโจมตี: <style=\"accent-gn\">{*val1*}</style><br>DMG Rate: <style=\"accent-gn\">M.ATK {*val2*}% ×3</style><br><br><style=\"tipsYellow\">Lord of Winds</style>: สุ่มโจมตีด้วย Tornado ใส่เป้าหมาย 2 ตัว<br>ระยะโจมตี: <style=\"accent-gn\">{*val3*}</style><br>DMG Rate:<style=\"accent-gn\">M.ATK {*val4*}% ×{*val5*} วินาที</style><br>เวลา CD:<style=\"accent-gn\">{*val6*} วินาที</style><br>",
     "Id": 66,
-    "ValueExchange": ["6.5", "253", "20", "84", "5", "15"]
+    "ValueExchange": ["6.5", "84", "20", "84", "5", "15"]
   },
   "67": {
     "Desc": "Lv2: ATK+{*val1*}%",
@@ -1390,19 +1390,19 @@
     "ValueExchange": ["75"]
   },
   "7013": {
-    "Desc": "ได้รับ Fire DMG -{val1}%. Nearby monsters จะ immune ต่อ Burn",
+    "Desc": "ได้รับ Fire DMG -{*val1*}% มอนสเตอร์ใกล้เคียงต้านทานสถานะ Burn",
     "Id": 7013,
     "ValueExchange": ["75"]
   },
   "7014": {
-    "Desc": "ได้รับ Ice DMG -{val1}% Nearby monsters จะ immune ต่อ Cold และ Frozen",
+    "Desc": "ได้รับ Ice DMG -{*val1*}% มอนสเตอร์ใกล้เคียงต้านทานสถานะ Freezing และ Frozen",
     "Id": 7014,
     "ValueExchange": ["75"]
   },
   "71": {
-    "Desc": "<style=\"tipsYellow\">Flame Spin</style>: หมุนตัวและมอบ Burn ใส่เป้าหมาย<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate: ATK <style=\"accent-gn\">{*val2*}%</style><br>เวลา CD:<style=\"accent-gn\">{*val3*} วินาที</style><br>",
+    "Desc": "<style=\"tipsYellow\">Flame Spin</style>: หมุนตัว <style=\"accent-gn\">3 วินาที</style> และทำให้เป้าหมายติดสถานะ Burn<br>ระยะโจมตี: <style=\"accent-gn\">{*val1*}</style><br>DMG Rate: <style=\"accent-gn\">{*val2*}% ต่อวินาที</style> ของ ATK<br>CD: <style=\"accent-gn\">{*val3*} วินาที</style><br>",
     "Id": 71,
-    "ValueExchange": ["5.4", "60", "9"]
+    "ValueExchange": ["5.4", "100", "9"]
   },
   "72": {
     "Desc": "Lv2: ATK+{*val1*}%",
@@ -1435,7 +1435,7 @@
     "ValueExchange": ["30"]
   },
   "78": {
-    "Desc": "Lv3: ATK+{*val1*}%",
+    "Desc": "Lv.3: ATK+{*val1*}%",
     "Id": 78,
     "ValueExchange": ["25"]
   },
@@ -1455,7 +1455,7 @@
     "ValueExchange": ["15"]
   },
   "8001": {
-    "Desc": "ทุก Mischief Goblin {*val1*} ตัวในบริเวณใกล้เคียง ได้รับ DMG ลดลง {*val2*}%",
+    "Desc": "ทุก ก็อบลินจอมป่วน {*val1*} ตัวในบริเวณใกล้เคียง ความเสียหายที่ได้รับจะลดลง {*val2*}%",
     "Id": 8001,
     "ValueExchange": ["1", "10"]
   },
@@ -1507,7 +1507,7 @@
   "81": {
     "Desc": "<style=\"tipsYellow\">Frenzied Smash</style>: ทุบพื้นต่อเนื่อง 3 ครั้ง<br>ระยะโจมตี:<style=\"accent-gn\">{*val1*}</style><br>Crit Rate:<style=\"accent-gn\">{*val2*}ATK%×3</style><br>เวลา CD:<style=\"accent-gn\">{*val3*} วินาที</style><br>",
     "Id": 81,
-    "ValueExchange": ["14", "133", "8"]
+    "ValueExchange": ["8", "133", "8"]
   },
   "82": {
     "Desc": "Lv2: ATK+{*val1*}%",
@@ -1515,7 +1515,7 @@
     "ValueExchange": ["45"]
   },
   "83": {
-    "Desc": "Lv3: ATK+{*val1*}%",
+    "Desc": "Lv.3: ATK+{*val1*}%",
     "Id": 83,
     "ValueExchange": ["40"]
   },
@@ -1540,7 +1540,7 @@
     "ValueExchange": ["30"]
   },
   "88": {
-    "Desc": "Lv3: ATK+{*val1*}%",
+    "Desc": "Lv.3: ATK+{*val1*}%",
     "Id": 88,
     "ValueExchange": ["25"]
   },
@@ -1580,7 +1580,7 @@
     "ValueExchange": ["30"]
   },
   "93": {
-    "Desc": "Lv3: ATK+{*val1*}%",
+    "Desc": "Lv.3: ATK+{*val1*}%",
     "Id": 93,
     "ValueExchange": ["25"]
   },

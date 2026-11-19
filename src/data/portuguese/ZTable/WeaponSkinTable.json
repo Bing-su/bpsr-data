@@ -251,6 +251,54 @@
     "SortID": 12,
     "WeaponModelId": [1310120]
   },
+  "7310013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7310013,
+    "Intro": "Lâmina Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_olvera_13_01_t",
+    "Model": ["ch_wp_olvera-13_01"],
+    "Name": "Lâmina Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 1,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1310130]
+  },
+  "7310014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_olvera_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7310014,
+    "Intro": "Brilho Eterno: Voo Rápido",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_olvera_14_01_t",
+    "Model": ["ch_wp_olvera-14_01"],
+    "Name": "Brilho Eterno: Voo Rápido",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 1,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1310140]
+  },
   "7311061": {
     "DefaultEffect": [
       [
@@ -330,7 +378,7 @@
     "EquipToPlay": 0,
     "Id": 7311063,
     "Intro": "Lembrança: Sombra do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_olvera_06_01_t",
     "Model": ["ch_wp_olvera-06_01"],
     "Name": "Lembrança: Sombra do Mar Distante",
@@ -340,6 +388,96 @@
     "Score": 320,
     "SortID": 11,
     "WeaponModelId": [1310060]
+  },
+  "7311141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_olvera_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7311141,
+    "Intro": "Brilho Eterno: Voo Rápido I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_olvera_14_01_t",
+    "Model": ["ch_wp_olvera-14_01"],
+    "Name": "Brilho Eterno: Voo Rápido I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 1,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1310140]
+  },
+  "7311142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_olvera_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7311142,
+    "Intro": "Brilho Eterno: Voo Rápido II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_olvera_14_01_t",
+    "Model": ["ch_wp_olvera-14_01"],
+    "Name": "Brilho Eterno: Voo Rápido II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 1,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1310140]
+  },
+  "7311143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_olvera_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7311143,
+    "Intro": "Comemorativo — Brilho Eterno: Voo Rápido",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_olvera_14_01_t",
+    "Model": ["ch_wp_olvera-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Voo Rápido",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 1,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1310140]
   },
   "7320001": {
     "DefaultEffect": [],
@@ -593,6 +731,54 @@
     "SortID": 12,
     "WeaponModelId": [1320120]
   },
+  "7320013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7320013,
+    "Intro": "Cajado Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_boyce_13_01_t",
+    "Model": ["ch_wp_boyce-13_01"],
+    "Name": "Cajado Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 2,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1320130]
+  },
+  "7320014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_boyce_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7320014,
+    "Intro": "Brilho Eterno: Veredicto",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_boyce_14_01_t",
+    "Model": ["ch_wp_boyce-14_01"],
+    "Name": "Brilho Eterno: Veredicto",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 2,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1320140]
+  },
   "7321061": {
     "DefaultEffect": [
       [
@@ -672,7 +858,7 @@
     "EquipToPlay": 0,
     "Id": 7321063,
     "Intro": "Lembrança: Revelação do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_boyce_06_01_t",
     "Model": ["ch_wp_boyce-06_01"],
     "Name": "Lembrança: Revelação do Mar Distante",
@@ -682,6 +868,96 @@
     "Score": 320,
     "SortID": 11,
     "WeaponModelId": [1320060]
+  },
+  "7321141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_boyce_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7321141,
+    "Intro": "Brilho Eterno: Veredicto I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_boyce_14_01_t",
+    "Model": ["ch_wp_boyce-14_01"],
+    "Name": "Brilho Eterno: Veredicto I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 2,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1320140]
+  },
+  "7321142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_boyce_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7321142,
+    "Intro": "Brilho Eterno: Veredicto II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_boyce_14_01_t",
+    "Model": ["ch_wp_boyce-14_01"],
+    "Name": "Brilho Eterno: Veredicto II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 2,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1320140]
+  },
+  "7321143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_boyce_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7321143,
+    "Intro": "Comemorativo — Brilho Eterno: Veredicto",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_boyce_14_01_t",
+    "Model": ["ch_wp_boyce-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Veredicto",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 2,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1320140]
   },
   "7330001": {
     "DefaultEffect": [],
@@ -821,7 +1097,7 @@
     "EquipToPlay": 0,
     "Id": 7330007,
     "Intro": "Machado do Fulgor de Brasa",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_tata02_01_t",
     "Model": ["ch_wp_tata-07_01", "ch_wp_tata-07_01"],
     "Name": "Machado do Fulgor de Brasa",
@@ -968,6 +1244,65 @@
     "SortID": 12,
     "WeaponModelId": [1330120, 1330120]
   },
+  "7330013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7330013,
+    "Intro": "Machado Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tata_13_01_t",
+    "Model": ["ch_wp_tata-13_01", "ch_wp_tata-13_01"],
+    "Name": "Machado Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 3,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1330130, 1330130]
+  },
+  "7330014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7330014,
+    "Intro": "Brilho Eterno: Iluminar",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tata_14_01_t",
+    "Model": ["ch_wp_tata-14_01", "ch_wp_tata-14_01"],
+    "Name": "Brilho Eterno: Iluminar",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 3,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1330140, 1330140]
+  },
   "7331061": {
     "DefaultEffect": [
       [
@@ -1005,7 +1340,7 @@
     "OpenCondition": [],
     "Original": 1,
     "ProfessionId": 3,
-    "Score": 0,
+    "Score": 320,
     "SortID": 1,
     "WeaponModelId": [1330060, 1330060]
   },
@@ -1046,7 +1381,7 @@
     "OpenCondition": [],
     "Original": 1,
     "ProfessionId": 3,
-    "Score": 0,
+    "Score": 320,
     "SortID": 1,
     "WeaponModelId": [1330060, 1330060]
   },
@@ -1080,16 +1415,139 @@
     "EquipToPlay": 0,
     "Id": 7331063,
     "Intro": "Lembrança: Fúria do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_tata_06_01_t",
     "Model": ["ch_wp_tata-06_01", "ch_wp_tata-06_01"],
     "Name": "Lembrança: Fúria do Mar Distante",
     "OpenCondition": [],
     "Original": 0,
     "ProfessionId": 3,
-    "Score": 0,
+    "Score": 320,
     "SortID": 1,
     "WeaponModelId": [1330060, 1330060]
+  },
+  "7331141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7331141,
+    "Intro": "Brilho Eterno: Iluminar I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tata_14_01_t",
+    "Model": ["ch_wp_tata-14_01", "ch_wp_tata-14_01"],
+    "Name": "Brilho Eterno: Iluminar I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 3,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1330140, 1330140]
+  },
+  "7331142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7331142,
+    "Intro": "Brilho Eterno: Iluminar II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tata_14_01_t",
+    "Model": ["ch_wp_tata-14_01", "ch_wp_tata-14_01"],
+    "Name": "Brilho Eterno: Iluminar II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 3,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1330140, 1330140]
+  },
+  "7331143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7331143,
+    "Intro": "Comemorativo — Brilho Eterno: Iluminar",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_tata_14_01_t",
+    "Model": ["ch_wp_tata-14_01", "ch_wp_tata-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Iluminar",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 3,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1330140, 1330140]
   },
   "7340001": {
     "DefaultEffect": [],
@@ -1343,6 +1801,144 @@
     "SortID": 12,
     "WeaponModelId": [1340120]
   },
+  "7340013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7340013,
+    "Intro": "Lança Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tina_13_01_t",
+    "Model": ["ch_wp_tina-13_01"],
+    "Name": "Lança Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 4,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1340130]
+  },
+  "7340014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tina_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7340014,
+    "Intro": "Brilho Eterno: Rastreador",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tina_14_01_t",
+    "Model": ["ch_wp_tina-14_01"],
+    "Name": "Brilho Eterno: Rastreador",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 4,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1340140]
+  },
+  "7340141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tina_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7340141,
+    "Intro": "Brilho Eterno: Rastreador I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tina_14_01_t",
+    "Model": ["ch_wp_tina-14_01"],
+    "Name": "Brilho Eterno: Rastreador I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 4,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1340140]
+  },
+  "7340142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tina_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7340142,
+    "Intro": "Brilho Eterno: Rastreador II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tina_14_01_t",
+    "Model": ["ch_wp_tina-14_01"],
+    "Name": "Brilho Eterno: Rastreador II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 4,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1340140]
+  },
+  "7340143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tina_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7340143,
+    "Intro": "Comemorativo — Brilho Eterno: Rastreador",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_tina_14_01_t",
+    "Model": ["ch_wp_tina-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Rastreador",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 4,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1340140]
+  },
   "7341061": {
     "DefaultEffect": [
       [
@@ -1422,7 +2018,7 @@
     "EquipToPlay": 0,
     "Id": 7341063,
     "Intro": "Lembrança: Desejo do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_tina_06_01_t",
     "Model": ["ch_wp_tina-06_01"],
     "Name": "Lembrança: Desejo do Mar Distante",
@@ -1718,6 +2314,188 @@
     "SortID": 12,
     "WeaponModelId": [1350120, 1350120]
   },
+  "7350013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7350013,
+    "Intro": "Anel Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_iruna_13_01_t",
+    "Model": ["ch_wp_iruna-13_01", "ch_wp_iruna-13_01"],
+    "Name": "Anel Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 5,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1350130, 1350130]
+  },
+  "7350014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7350014,
+    "Intro": "Brilho Eterno: Devaneio",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_iruna_14_01_t",
+    "Model": ["ch_wp_iruna-14_01", "ch_wp_iruna-14_01"],
+    "Name": "Brilho Eterno: Devaneio",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 5,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1350140, 1350140]
+  },
+  "7350141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7350141,
+    "Intro": "Brilho Eterno: Devaneio I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_iruna_14_01_t",
+    "Model": ["ch_wp_iruna-14_01", "ch_wp_iruna-14_01"],
+    "Name": "Brilho Eterno: Devaneio I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 5,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1350140, 1350140]
+  },
+  "7350142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7350142,
+    "Intro": "Brilho Eterno: Devaneio II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_iruna_14_01_t",
+    "Model": ["ch_wp_iruna-14_01", "ch_wp_iruna-14_01"],
+    "Name": "Brilho Eterno: Devaneio II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 5,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1350140, 1350140]
+  },
+  "7350143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7350143,
+    "Intro": "Comemorativo — Brilho Eterno: Devaneio",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_iruna_14_01_t",
+    "Model": ["ch_wp_iruna-14_01", "ch_wp_iruna-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Devaneio",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 5,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1350140, 1350140]
+  },
   "7351061": {
     "DefaultEffect": [
       [
@@ -1830,7 +2608,7 @@
     "EquipToPlay": 0,
     "Id": 7351063,
     "Intro": "Lembrança: Graça do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_iruna_06_01_t",
     "Model": ["ch_wp_iruna-06_01", "ch_wp_iruna-06_01"],
     "Name": "Lembrança: Graça do Mar Distante",
@@ -2123,6 +2901,144 @@
     "SortID": 12,
     "WeaponModelId": [1370120]
   },
+  "7370013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7370013,
+    "Intro": "Gume Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_comeau_13_01_t",
+    "Model": ["ch_wp_comeau-13_01"],
+    "Name": "Gume Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 9,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1370130]
+  },
+  "7370014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_comeau_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7370014,
+    "Intro": "Brilho Eterno: Determinação",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_comeau_14_01_t",
+    "Model": ["ch_wp_comeau-14_01"],
+    "Name": "Brilho Eterno: Determinação",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 9,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1370140]
+  },
+  "7370141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_comeau_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7370141,
+    "Intro": "Brilho Eterno: Determinação I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_comeau_14_01_t",
+    "Model": ["ch_wp_comeau-14_01"],
+    "Name": "Brilho Eterno: Determinação I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 9,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1370140]
+  },
+  "7370142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_comeau_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7370142,
+    "Intro": "Brilho Eterno: Determinação II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_comeau_14_01_t",
+    "Model": ["ch_wp_comeau-14_01"],
+    "Name": "Brilho Eterno: Determinação II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 9,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1370140]
+  },
+  "7370143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_comeau_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7370143,
+    "Intro": "Comemorativo — Brilho Eterno: Determinação",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_comeau_14_01_t",
+    "Model": ["ch_wp_comeau-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Determinação",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 9,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1370140]
+  },
   "7371061": {
     "DefaultEffect": [
       [
@@ -2202,7 +3118,7 @@
     "EquipToPlay": 0,
     "Id": 7371063,
     "Intro": "Lembrança: Vigília do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_comeau_06_01_t",
     "Model": ["ch_wp_comeau-06_01"],
     "Name": "Lembrança: Vigília do Mar Distante",
@@ -2624,6 +3540,156 @@
     "SortID": 12,
     "WeaponModelId": [0, 1390120]
   },
+  "7390013": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/rodri/p_fx_skill_rodri-01_bowstring",
+        "0.071",
+        "0",
+        "0",
+        "90",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7390013,
+    "Intro": "Arco Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_rodri_13_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-13_01"],
+    "Name": "Arco Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 11,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [0, 1390130]
+  },
+  "7390014": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_rodri_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7390014,
+    "Intro": "Brilho Eterno: Olhar",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_rodri_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-14_01"],
+    "Name": "Brilho Eterno: Olhar",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 11,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1390140]
+  },
+  "7390141": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_rodri_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7390141,
+    "Intro": "Brilho Eterno: Olhar I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_rodri_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-14_01"],
+    "Name": "Brilho Eterno: Olhar I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 11,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1390140]
+  },
+  "7390142": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_rodri_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7390142,
+    "Intro": "Brilho Eterno: Olhar II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_rodri_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-14_01"],
+    "Name": "Brilho Eterno: Olhar II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 11,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1390140]
+  },
+  "7390143": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_rodri_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7390143,
+    "Intro": "Comemorativo — Brilho Eterno: Olhar",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_rodri_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Olhar",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 11,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1390140]
+  },
   "7391061": {
     "DefaultEffect": [
       [
@@ -2736,7 +3802,7 @@
     "EquipToPlay": 0,
     "Id": 7391063,
     "Intro": "Lembrança: Olhar do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_rodri_06_01_t",
     "Model": ["empty_weapon", "ch_wp_rodri-06_01"],
     "Name": "Lembrança: Olhar do Mar Distante",
@@ -3032,6 +4098,188 @@
     "SortID": 12,
     "WeaponModelId": [1400120, 1400121]
   },
+  "7400013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7400013,
+    "Intro": "Égide Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_farfara_13_01_t",
+    "Model": ["ch_wp_farfara01-13_01", "ch_wp_farfara02-13_01"],
+    "Name": "Égide Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 12,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1400130, 1400131]
+  },
+  "7400014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara01_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara02_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7400014,
+    "Intro": "Brilho Eterno: Juramento de Ferro",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_farfara_14_01_t",
+    "Model": ["ch_wp_farfara01-14_01", "ch_wp_farfara02-14_01"],
+    "Name": "Brilho Eterno: Juramento de Ferro",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 12,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1400140, 1400141]
+  },
+  "7400141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara01_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara02_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7400141,
+    "Intro": "Brilho Eterno: Juramento de Ferro I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_farfara_14_01_t",
+    "Model": ["ch_wp_farfara01-14_01", "ch_wp_farfara02-14_01"],
+    "Name": "Brilho Eterno: Juramento de Ferro I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 12,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1400140, 1400141]
+  },
+  "7400142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara01_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara02_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7400142,
+    "Intro": "Brilho Eterno: Juramento de Ferro II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_farfara_14_01_t",
+    "Model": ["ch_wp_farfara01-14_01", "ch_wp_farfara02-14_01"],
+    "Name": "Brilho Eterno: Juramento de Ferro II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 12,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1400140, 1400141]
+  },
+  "7400143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara01_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara02_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7400143,
+    "Intro": "Comemorativo — Brilho Eterno: Juramento de Ferro",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_farfara_14_01_t",
+    "Model": ["ch_wp_farfara01-14_01", "ch_wp_farfara02-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Juramento de Ferro",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 12,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1400140, 1400141]
+  },
   "7401061": {
     "DefaultEffect": [
       [
@@ -3144,7 +4392,7 @@
     "EquipToPlay": 0,
     "Id": 7401063,
     "Intro": "Lembrança: Voto do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_farfara_06_01_t",
     "Model": ["ch_wp_farfara01-06_01", "ch_wp_farfara02-06_01"],
     "Name": "Lembrança: Voto do Mar Distante",
@@ -3407,6 +4655,144 @@
     "SortID": 12,
     "WeaponModelId": [0, 1410120]
   },
+  "7410013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7410013,
+    "Intro": "Guitarra Coração de Brasa",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_guitar_13_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-13_01"],
+    "Name": "Guitarra Coração de Brasa",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 13,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [0, 1410130]
+  },
+  "7410014": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect03_point",
+        "effect/skill/skin_sea/p_fx_wp_guitar_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7410014,
+    "Intro": "Brilho Eterno: Eco",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_guitar_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-14_01"],
+    "Name": "Brilho Eterno: Eco",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 13,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1410140]
+  },
+  "7410141": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect03_point",
+        "effect/skill/skin_sea/p_fx_wp_guitar_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [1]],
+    "EquipToPlay": 0,
+    "Id": 7410141,
+    "Intro": "Brilho Eterno: Eco I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_guitar_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-14_01"],
+    "Name": "Brilho Eterno: Eco I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 13,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1410140]
+  },
+  "7410142": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect03_point",
+        "effect/skill/skin_sea/p_fx_wp_guitar_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [1]],
+    "EquipToPlay": 0,
+    "Id": 7410142,
+    "Intro": "Brilho Eterno: Eco II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_guitar_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-14_01"],
+    "Name": "Brilho Eterno: Eco II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 13,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1410140]
+  },
+  "7410143": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect03_point",
+        "effect/skill/skin_sea/p_fx_wp_guitar_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [1]],
+    "EquipToPlay": 0,
+    "Id": 7410143,
+    "Intro": "Comemorativo — Brilho Eterno: Eco",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_guitar_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-14_01"],
+    "Name": "Comemorativo — Brilho Eterno: Eco",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 13,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1410140]
+  },
   "7411061": {
     "DefaultEffect": [
       [
@@ -3486,7 +4872,7 @@
     "EquipToPlay": 0,
     "Id": 7411063,
     "Intro": "Lembrança: Hino do Mar Distante",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_guitar_06_01_t",
     "Model": ["empty_weapon", "ch_wp_guitar-06_01"],
     "Name": "Lembrança: Hino do Mar Distante",

@@ -525,7 +525,7 @@
     "ValueExchange": ["2"]
   },
   "21": {
-    "Desc": "<style=\"tipsYellow\">普通攻击</style>：向前方刺击并旋转旗枪。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">{*val2*}%</style>攻击力<br><br><style=\"tipsYellow\">时间号令</style>：距离最近的<style=\"accent-gn\">{*val3*}</style>个调谐幻想技能冷却时间加速+<style=\"accent-gn\">{*val4*}%</style>，持续<style=\"accent-gn\">{*val5*}秒</style>。<br>影响范围：全场<br>伤害倍率：无<br>冷却时间：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">普通攻击</style>：向前方刺击并旋转旗枪。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">{*val2*}%</style>攻击力<br><br><style=\"tipsYellow\">时间号令</style>：距离最近的<style=\"accent-gn\">{*val3*}</style>座调谐幻想技能冷却时间加速+<style=\"accent-gn\">{*val4*}%</style>，持续<style=\"accent-gn\">{*val5*}秒</style>。<br>影响范围：<style=\"accent-gn\">全场</style><br>冷却时间：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 21,
     "ValueExchange": ["5", "229", "5", "100", "5", "15"]
   },
@@ -550,7 +550,7 @@
     "ValueExchange": ["25", "25"]
   },
   "26": {
-    "Desc": "<style=\"tipsYellow\">地狱岩刺</style>：释放地刺，并消耗所有蓄力层数提升【<style=\"accent-gn\">{*val1*}%</style>*蓄力层数】的伤害。<br>攻击范围：<style=\"accent-gn\">{*val2*}</style><br>伤害倍率：<style=\"accent-gn\">{*val3*}%</style>攻击力<br>冷却时间：无<br>",
+    "Desc": "<style=\"tipsYellow\">地狱岩刺</style>：释放地刺，并消耗所有蓄力层数提升【<style=\"accent-gn\">{*val1*}%</style>*蓄力层数】的伤害。<br>攻击范围：<style=\"accent-gn\">{*val2*}</style><br>伤害倍率：<style=\"accent-gn\">{*val3*}%</style>攻击力<br>",
     "Id": 26,
     "ValueExchange": ["30", "9", "418"]
   },
@@ -917,7 +917,7 @@
   "41": {
     "Desc": "<style=\"tipsYellow\">普通攻击</style>：向前挥动2次拳击。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">{*val2*}%魔法攻击力×2</style><br><br><style=\"tipsYellow\">致命灼烧</style>：持续向前喷火5秒，附加燃烧。<br>攻击范围：<style=\"accent-gn\">{*val3*}</style><br>伤害倍率：<style=\"accent-gn\">{*val4*}%</style>魔法攻击力<br>冷却时间：<style=\"accent-gn\">{*val5*}秒</style><br>",
     "Id": 41,
-    "ValueExchange": ["8", "70", "15", "552", "15"]
+    "ValueExchange": ["5", "70", "13.3", "552", "15"]
   },
   "42": {
     "Desc": "Lv2：攻击力+{*val1*}%",
@@ -1135,9 +1135,9 @@
     "ValueExchange": ["10", "5"]
   },
   "51": {
-    "Desc": "<style=\"tipsYellow\">普通攻击</style>：持续向前喷冰5秒。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">{*val2*}%</style>攻击力<br><br><style=\"tipsYellow\">零度领域</style>：随机对3名目标释放冰刺。<br>攻击范围：<style=\"accent-gn\">{*val3*}</style><br>伤害倍率：<style=\"accent-gn\">{*val4*}%</style>攻击力<br>冷却时间：<style=\"accent-gn\">{*val5*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">普通攻击</style>：持续向前喷冰<style=\"accent-gn\">5秒</style>。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">每秒{*val2*}%</style>攻击力<br><br><style=\"tipsYellow\">零度领域</style>：随机对3名目标释放冰刺。<br>攻击范围：<style=\"accent-gn\">{*val3*}</style><br>伤害倍率：<style=\"accent-gn\">{*val4*}%</style>攻击力<br>冷却时间：<style=\"accent-gn\">{*val5*}秒</style><br>",
     "Id": 51,
-    "ValueExchange": ["15", "360", "20", "246", "15"]
+    "ValueExchange": ["13", "72", "20", "246", "15"]
   },
   "52": {
     "Desc": "Lv2：攻击力+{*val1*}%",
@@ -1182,7 +1182,7 @@
   "6": {
     "Desc": "<style=\"tipsYellow\">普通攻击</style>：每<style=\"accent-gn\">{*val1*}秒</style>砸下1颗陨石。<br>攻击范围：<style=\"accent-gn\">{*val2*}</style><br>伤害倍率：<style=\"accent-gn\">{*val3*}%</style>魔法攻击力<br><br><style=\"tipsYellow\">灵鹿奔袭</style>：呼唤灵鹿向前奔袭，场上每有1座人形调谐幻想，额外触发1次。<br>攻击范围：<style=\"accent-gn\">{*val4*}</style><br>伤害倍率：<style=\"accent-gn\">{*val5*}%</style>魔法攻击力<br>冷却时间：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 6,
-    "ValueExchange": ["0.5", "6", "112", "15", "627", "15"]
+    "ValueExchange": ["0.5", "12", "112", "15", "627", "15"]
   },
   "60": {
     "Desc": "Lv5：被动附加的物理攻击和魔法攻击额外+{*val1*}%（需要拥有战斗幻想·姆克王）",
@@ -1300,9 +1300,9 @@
     "ValueExchange": ["8"]
   },
   "66": {
-    "Desc": "<style=\"tipsYellow\">普通攻击</style>：对前方释放挥砍。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">{*val2*}%</style>魔法攻击力<br><br><style=\"tipsYellow\">风之主</style>：随机对2名目标释放龙卷风。<br>攻击范围：<style=\"accent-gn\">{*val3*}</style><br>伤害倍率：<style=\"accent-gn\">{*val4*}%魔法攻击力×{*val5*}秒</style><br>冷却时间：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">普通攻击</style>：对前方挥砍3次。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">{*val2*}%魔法攻击力×3</style><br><br><style=\"tipsYellow\">风之主</style>：随机对2名目标释放龙卷风。<br>攻击范围：<style=\"accent-gn\">{*val3*}</style><br>伤害倍率：<style=\"accent-gn\">{*val4*}%魔法攻击力×{*val5*}秒</style><br>冷却时间：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 66,
-    "ValueExchange": ["6.5", "253", "20", "84", "5", "15"]
+    "ValueExchange": ["6.5", "84", "20", "84", "5", "15"]
   },
   "67": {
     "Desc": "Lv2：攻击力+{*val1*}%",
@@ -1400,9 +1400,9 @@
     "ValueExchange": ["75"]
   },
   "71": {
-    "Desc": "<style=\"tipsYellow\">炎旋</style>：旋转自身并对目标附加燃烧。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">{*val2*}%</style>攻击力<br>冷却时间：<style=\"accent-gn\">{*val3*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">炎旋</style>：旋转自身<style=\"accent-gn\">3秒</style>并对目标附加燃烧。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">每秒{*val2*}%</style>攻击力<br>冷却时间：<style=\"accent-gn\">{*val3*}秒</style><br>",
     "Id": 71,
-    "ValueExchange": ["5.4", "60", "9"]
+    "ValueExchange": ["5.4", "100", "9"]
   },
   "72": {
     "Desc": "Lv2：攻击力+{*val1*}%",
@@ -1507,7 +1507,7 @@
   "81": {
     "Desc": "<style=\"tipsYellow\">疯狂乱敲</style>：连续释放3次砸地。<br>攻击范围：<style=\"accent-gn\">{*val1*}</style><br>伤害倍率：<style=\"accent-gn\">{*val2*}%攻击力×3</style><br>冷却时间：<style=\"accent-gn\">{*val3*}秒</style><br>",
     "Id": 81,
-    "ValueExchange": ["14", "133", "8"]
+    "ValueExchange": ["8", "133", "8"]
   },
   "82": {
     "Desc": "Lv2：攻击力+{*val1*}%",

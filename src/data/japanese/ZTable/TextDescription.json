@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "エネミーに接触すると爆発し、攻撃力の<style=\"accent-gn\">100%</style>の<style=\"magic\">魔法ダメージ</style>を与える。",
+    "Description": "エネミー対象に接触すると爆発し、攻撃力の<style=\"accent-gn\">100%</style>の<style=\"magic\">魔法ダメージ</style>を与える。このダメージは幸運効果として扱われる。",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "周囲<style=\"accent-gn\">5</style>m以内にいる対象に攻撃力の<style=\"accent-gn\">80%</style>の<style=\"physical\">物理ダメージ</style>を与え、対象に命中するたびダメージ+<style=\"accent-gn\">30%</style>（最大+<style=\"accent-gn\">120%</style>）、威力は<style=\"accent-gn\">通常攻撃</style>スキルのレベルアップ/ランクアップに応じてアップする。",
+    "Description": "周囲<style=\"accent-gn\">5</style>m以内にいる対象に攻撃力の<style=\"accent-gn\">72%</style>の<style=\"physical\">物理ダメージ</style>を与え、対象に命中するたびダメージ+<style=\"accent-gn\">30%</style>（最大+<style=\"accent-gn\">120%</style>）、威力は<style=\"accent-gn\">通常攻撃</style>スキルのレベルアップ/ランクアップに応じてアップする。",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1536,7 +1536,7 @@
     "Type": 3
   },
   "1192": {
-    "Description": "<style=\"accent-gn\">10</style>秒間、対象のHPを攻撃力の<style=\"accent-gn\">35%</style>分回復する。<style=\"accent-gn\">音符</style>が再び追加されると、対象の持つ残りの<style=\"accent-gn\">音符</style>分の回復量が直ちに与えられる。",
+    "Description": "<style=\"accent-gn\">10</style>秒間、対象のHPを攻撃力の<style=\"accent-gn\">35%</style>分回復する。最大<style=\"accent-gn\">10</style>スタックまで。<style=\"accent-gn\">10</style>スタック時には、対象の持つ残りの<style=\"accent-gn\">音符</style>分の回復量が直ちに与えられる。",
     "Id": 1192,
     "Par": 3401192,
     "ShowRule": 1,
@@ -1608,7 +1608,7 @@
     "Type": 3
   },
   "1201": {
-    "Description": "<style=\"accent-gn\">3</style>ｍ以内にいるエネミー対象に攻撃力<style=\"accent-gn\">850%</style>の自動適応ダメージを与える。会心ダメージは常に<style=\"accent-gn\">500%</style>で計算される。",
+    "Description": "<style=\"accent-gn\">3</style>m以内にいるエネミー対象に攻撃力<style=\"accent-gn\">850%</style>の自動適応ダメージを与える。会心ダメージは常に<style=\"accent-gn\">500%</style>で計算される。",
     "Id": 1201,
     "Par": 3401201,
     "ShowRule": 1,
@@ -1748,7 +1748,7 @@
     "Id": 1218,
     "Par": 3401218,
     "ShowRule": 1,
-    "Text": "火炎制御",
+    "Text": "火焔抑圧",
     "Type": 3
   },
   "1219": {
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "能力変換",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "1スタックにつき、攻撃力+<style=\"accent-gn\">25</style>（シーズンレベルの上昇に伴い<style=\"accent-gn\">40</style>まで上昇）",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "刻傷",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "この固定ダメージ+<style=\"accent-gn\">6%</style>、祈りダメージ軽減+<style=\"accent-gn\">1%</style>、最大<style=\"accent-gn\">10</style>スタックまで。移動中は毎秒-<style=\"accent-gn\">1</style>スタック、完璧回避を発動すると-<style=\"accent-gn\">1</style>スタック。非戦闘状態になると、スタックがすべて消失する",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "戦意",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "1スタックにつき攻撃力-<style=\"accent-gn\">1%</style>、最大<style=\"accent-gn\">1</style>個まで有効。持続<style=\"accent-gn\">10秒</style>。再付与時はスタック数を再計算する。",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "戦意減少",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "祈りダメージ+<style=\"accent-gn\">3%</style>、最大<style=\"accent-gn\">1</style>個まで有効",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "激励",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "攻撃力+<style=\"accent-gn\">74</style>（シーズンレベルの上昇に伴い<style=\"accent-gn\">112</style>まで上昇）。持続<style=\"accent-gn\">8秒</style>、最大<style=\"accent-gn\">5</style>スタックまで。",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "力溜め",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "攻撃力+<style=\"accent-gn\">400</style>（シーズンレベルの上昇に伴い<style=\"accent-gn\">700</style>まで上昇）、持続<style=\"accent-gn\">8秒</style>。",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ブラスト",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "自身の会心%、幸運%、ファスト%、器用さ%のうち、最も高い値が<style=\"accent-gn\">1.5%</style>上昇する。持続<style=\"accent-gn\">5秒</style>。",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "ステータスハーモニー",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "<style=\"accent-gn\">3</style>ｍ以内にいるエネミー対象に攻撃力<style=\"accent-gn\">500%</style>の自動適応ダメージを与える。",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "夢幻の矢",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "<style=\"accent-gn\">4000%</style>×祈り強度の固定ダメージを与える。",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "幻滅の衝撃",
     "Type": 1
   },
   "1500": {
@@ -3007,6 +3079,14 @@
     "Text": "燃焼",
     "Type": 3
   },
+  "3015": {
+    "Description": "エネミー対象を目くらましを発動したユニットの方向へ強制的に移動させる。ボス、精鋭には無効。デバフの一種。",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "目くらまし",
+    "Type": 1
+  },
   "3020": {
     "Description": "<style=\"accent-gn\">スタン</style>、<style=\"accent-gn\">凍結</style>、<style=\"accent-gn\">石化</style>、<style=\"accent-gn\">麻痺</style>、<style=\"accent-gn\">目くらまし</style>、<style=\"accent-gn\">恐怖</style>を含む。",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "デバフ効果",
     "Type": 3
+  },
+  "3022": {
+    "Description": "家具の数によっては、使用する端末の性能によりゲームのフレームレートに影響が出る場合があります。",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "家具の数",
+    "Type": 1
   }
 }

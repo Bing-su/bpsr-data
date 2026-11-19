@@ -226,8 +226,8 @@
     "Des": "敏捷转换",
     "FightValue": 26,
     "Id": 1101,
-    "TalentDes": "每<style=\"accent-gn\">10</style>点敏捷提供<style=\"accent-gn\">7</style>点急速。",
-    "TalentEffect": [[4, 2, 11122, 7000]],
+    "TalentDes": "每<style=\"accent-gn\">10</style>点敏捷提供<style=\"accent-gn\">21</style>点急速。",
+    "TalentEffect": [[4, 2, 11122, 21000]],
     "TalentIcon": "ui/atlas/talent_passive_11/talent_passive_icon_general_dps_speedtran",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -578,7 +578,7 @@
     "WeaponGroup": 11
   },
   "1122": {
-    "BuffPar": [[50, 2]],
+    "BuffPar": [[40, 2]],
     "BuffValueKey": [["attr", "fightres"]],
     "Des": "光落",
     "FightValue": 26,
@@ -702,7 +702,7 @@
     "Des": "驯鹰流",
     "FightValue": 26,
     "Id": 1129,
-    "TalentDes": "<style=\"accent-gn\">特殊攻击</style>替换成<linktext=1547><style=\"ItemQuality_5\">二连矢</style></linktext>，并增强使用该技能的能力。<br>每秒回复<style=\"accent-gn\">2</style>点<style=\"accent-gn\">光能</style>。<br>每<style=\"accent-gn\">1%</style>急速提供<style=\"accent-gn\">1%</style><linktext=1547><style=\"ItemQuality_5\">二连矢</style></linktext>冷却速度。<br>可以驯化<style=\"accent-gn\">猎鹰</style>，协助自己进行战斗。<br><br><style=\"accent-gn\">猎鹰</style>始终陪伴自身，当自身职业技能造成伤害时<style=\"accent-gn\">猎鹰</style>有<style=\"accent-gn\">23%</style>固定几率迅速向目标出击（若造成暴击则必定出击），造成自身<style=\"accent-gn\">150%</style>攻击力<style=\"physical\">物理伤害</style>（跟随<style=\"accent-gn\">普通攻击</style>技能升级/升阶进行成长）。此外当<style=\"accent-gn\">猎鹰</style>出击次数超过<style=\"accent-gn\">5</style>次时，下一次<style=\"accent-gn\">猎鹰</style>出击会将超出的出击次数和伤害将进行合并。<br><br><i><style=\"text_third_gray\"><size=20>猎鹰将响应你的攻击，急速和暴击会加强猎鹰的响应频率，猎鹰习得闪电冲击后伤害得到大额提升。</size></style></i>",
+    "TalentDes": "<style=\"accent-gn\">特殊攻击</style>替换成<linktext=1547><style=\"ItemQuality_5\">二连矢</style></linktext>，并增强使用该技能的能力。<br>每秒回复<style=\"accent-gn\">2</style>点<style=\"accent-gn\">光能</style>。<br>每<style=\"accent-gn\">1%</style>急速提供<style=\"accent-gn\">1%</style><linktext=1547><style=\"ItemQuality_5\">二连矢</style></linktext>冷却速度。<br>可以驯化<style=\"accent-gn\">猎鹰</style>，协助自己进行战斗。<br><br><style=\"accent-gn\">猎鹰</style>始终陪伴自身，当自身光元素职业技能造成伤害时<style=\"accent-gn\">猎鹰</style>有<style=\"accent-gn\">23%</style>固定几率迅速向目标出击（若造成暴击则必定出击），造成自身<style=\"accent-gn\">150%</style>攻击力<style=\"physical\">物理伤害</style>（跟随<style=\"accent-gn\">普通攻击</style>技能升级/升阶进行成长）。此外当<style=\"accent-gn\">猎鹰</style>出击次数超过<style=\"accent-gn\">5</style>次时，下一次<style=\"accent-gn\">猎鹰</style>出击会将超出的出击次数和伤害进行合并。<br><br><i><style=\"text_third_gray\"><size=20>猎鹰将响应你的攻击，急速和暴击会加强猎鹰的响应频率，猎鹰习得闪电冲击后伤害得到大额提升。</size></style></i>",
     "TalentEffect": [
       [6, 2220, 2222],
       [3, 2203290, 1]
@@ -1399,7 +1399,7 @@
   "1166": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "钢制喙聚集",
+    "Des": "急速轰炸",
     "FightValue": 26,
     "Id": 1166,
     "TalentDes": "力量+10",
@@ -1407,7 +1407,7 @@
     "TalentIcon": "ui/atlas/talent_passive_11/gongjian1166",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "钢制喙聚集",
+    "TalentName": "急速轰炸",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020054, 1]],
@@ -1465,7 +1465,7 @@
     "WeaponGroup": 1
   },
   "120": {
-    "BuffPar": [[10, 22, 10000]],
+    "BuffPar": [[10, 28, 10000]],
     "BuffValueKey": [["num", "attr", "time"]],
     "Des": "雷电之力",
     "FightValue": 26,
@@ -1589,10 +1589,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 1206,
-    "TalentDes": "每<style=\"accent-gn\">3</style>点力量提供<style=\"accent-gn\">3.6</style>点物理防御。",
+    "TalentDes": "每<style=\"accent-gn\">1</style>点力量提供<style=\"accent-gn\">1.5</style>点物理防御。",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1206",
     "TalentId": 0,
@@ -2000,7 +2000,7 @@
   "1228": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之二",
     "FightValue": 26,
     "Id": 1228,
     "TalentDes": "力量+10",
@@ -2008,7 +2008,7 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "裁决追击",
+    "TalentName": "裁决追击·之二",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -2714,7 +2714,7 @@
   "1267": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之一",
     "FightValue": 26,
     "Id": 1267,
     "TalentDes": "力量+10",
@@ -2722,7 +2722,24 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "裁决追击",
+    "TalentName": "裁决追击·之一",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020056, 1]],
+    "WeaponGroup": 12
+  },
+  "1268": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "神圣壁垒",
+    "FightValue": 26,
+    "Id": 1268,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2206690, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_12/jiandun1217",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "神圣壁垒",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -3534,7 +3551,7 @@
   "1340": {
     "BuffPar": [[1]],
     "BuffValueKey": [["attr"]],
-    "Des": "音爆愈疗",
+    "Des": "音爆延时",
     "FightValue": 26,
     "Id": 1340,
     "TalentDes": "力量+10",
@@ -3542,7 +3559,7 @@
     "TalentIcon": "ui/atlas/talent_passive_13/gita1340",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "音爆愈疗",
+    "TalentName": "音爆延时",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020055, 1]],
@@ -6722,7 +6739,7 @@
     "Des": "赤红专精流",
     "FightValue": 26,
     "Id": 342,
-    "TalentDes": "获得<style=\"accent-gn\">赤红回复</style>效果：命中主目标时（<linktext=1626><style=\"ItemQuality_5\">迷狂炎舞</style></linktext>除外），将造成伤害的<style=\"accent-gn\">20%</style>转化为<style=\"accent-gn\">赤红魂槽</style>（<style=\"accent-gn\">赤红魂槽</style>值不超过生命上限）。当<style=\"accent-gn\">炎魂</style>不足时，可消耗<style=\"accent-gn\">25%</style><style=\"accent-gn\">赤红魂槽</style>值使<linktext=1626><style=\"ItemQuality_5\">迷狂炎舞</style></linktext>的持续时间延长<style=\"accent-gn\">0.8</style>秒。<br><br><i><style=\"text_third_gray\"><size=20>通过赤红回复快速积累魂槽，在高攻速加持下高频触发迷狂炎舞。进而以此为核心，联动其他技能效果，在爆发窗口内打出高额伤害。</size></style></i>",
+    "TalentDes": "获得<style=\"accent-gn\">赤红回复</style>效果：命中主目标时，将造成伤害的<style=\"accent-gn\">1%</style>转化为<style=\"accent-gn\">赤红魂槽</style>（<style=\"accent-gn\">赤红魂槽</style>值不超过攻击力*100）。当<style=\"accent-gn\">赤红魂槽</style>充满时，下次造成伤害会获得<style=\"accent-gn\">沸腾战血</style>效果：<style=\"accent-gn\">赤红魂槽</style>不再恢复，每秒扣除<style=\"accent-gn\">4%</style>，最终伤害<style=\"accent-gn\">+20%</style>（<style=\"accent-gn\">沸腾战血</style>期间，<style=\"accent-gn\">赤红魂槽</style>视为<style=\"accent-gn\">100%</style>）。 脱战时立即结束<style=\"accent-gn\">沸腾战血</style>状态。<br><br><i><style=\"text_third_gray\"><size=20>通过赤红回复快速积累魂槽，在高攻速加持下高频触发迷狂炎舞。进而以此为核心，联动其他技能效果，在爆发窗口内打出高额伤害。</size></style></i>",
     "TalentEffect": [
       [6, 1605, 1606],
       [3, 2208430, 1]
@@ -7621,7 +7638,7 @@
     "WeaponGroup": 4
   },
   "427": {
-    "BuffPar": [[65, 650, 30000]],
+    "BuffPar": [[80, 800, 30000]],
     "BuffValueKey": [["attr", "attrMax", "time"]],
     "Des": "捕手",
     "FightValue": 26,
@@ -7765,7 +7782,7 @@
     "Des": "斗志昂扬",
     "FightValue": 26,
     "Id": 434,
-    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">风神·破阵之风</style></linktext>将举起旗枪，为队友施加<style=\"accent-gn\">激励</style>并使自身10秒内获得<style=\"accent-gn\">50%</style>暴击伤害加成。随后可施加二段追击奋力跃入敌阵，对范围内的敌方目标造成<style=\"physical\">物理伤害</style>并将其击飞，同时回复<style=\"accent-gn\">100</style>点<style=\"accent-gn\">勇气</style>。<br><style=\"accent-gn\">激励</style>：持续<style=\"accent-gn\">10</style>秒，期间所有队友急速+<style=\"accent-gn\">10%</style>（该效果同时最多生效一个），自身每<style=\"accent-gn\">1</style>秒回复<style=\"accent-gn\">10</style>点<style=\"accent-gn\">勇气</style>每<style=\"accent-gn\">2</style>秒回复<style=\"accent-gn\">1</style>层<linktext=1152><style=\"ItemQuality_5\">锐利</style></linktext>。",
+    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">风神·破阵之风</style></linktext>将举起旗枪，为自身施加<style=\"accent-gn\">激励</style>并使自身10秒内获得<style=\"accent-gn\">50%</style>暴击伤害加成。随后可施加二段追击奋力跃入敌阵，对范围内的敌方目标造成<style=\"physical\">物理伤害</style>并将其击飞，同时回复<style=\"accent-gn\">100</style>点<style=\"accent-gn\">勇气</style>。<br><style=\"accent-gn\">激励</style>：持续<style=\"accent-gn\">10</style>秒，期间急速+<style=\"accent-gn\">15%</style>，自身每<style=\"accent-gn\">1</style>秒回复<style=\"accent-gn\">10</style>点<style=\"accent-gn\">勇气</style>每<style=\"accent-gn\">2</style>秒回复<style=\"accent-gn\">1</style>层<linktext=1152><style=\"ItemQuality_5\">锐利</style></linktext>。",
     "TalentEffect": [
       [6, 1426, 1410],
       [3, 2205310, 1]
@@ -9148,8 +9165,11 @@
     "Des": "花语回升",
     "FightValue": 26,
     "Id": 535,
-    "TalentDes": "<style=\"accent-gn\">终极技能</style><linktext=1531><style=\"ItemQuality_5\">繁盛·希望结界</style></linktext>替换成<linktext=1552><style=\"ItemQuality_5\">花语回升</style></linktext>。",
-    "TalentEffect": [[6, 1509, 1527]],
+    "TalentDes": "<style=\"accent-gn\">终极技能</style><linktext=1531><style=\"ItemQuality_5\">繁盛·希望结界</style></linktext>替换成<linktext=1552><style=\"ItemQuality_5\">花语回升</style></linktext>。<br>施放<linktext=1552><style=\"ItemQuality_5\">花语回升</style></linktext>后<style=\"accent-gn\">10</style>秒内，鼓舞效果翻倍但自身造成最终伤害<style=\"accent-gn\">-10%</style>。",
+    "TalentEffect": [
+      [6, 1509, 1527],
+      [3, 2202390, 1]
+    ],
     "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_aoyiguide",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -9839,6 +9859,23 @@
     "UnlockConsume": [[1020055, 2]],
     "WeaponGroup": 5
   },
+  "572": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "幸运脉动",
+    "FightValue": 26,
+    "Id": 572,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2202030, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_killhealring",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "幸运脉动",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020055, 2]],
+    "WeaponGroup": 5
+  },
   "6": {
     "BuffPar": [],
     "BuffValueKey": [],
@@ -9930,10 +9967,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 901,
-    "TalentDes": "每<style=\"accent-gn\">3</style>点力量提供<style=\"accent-gn\">3.6</style>点物理防御。",
+    "TalentDes": "每<style=\"accent-gn\">1</style>点力量提供<style=\"accent-gn\">1.5</style>点物理防御。",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_9/talent_passive_icon_general_tank_deftran",
     "TalentId": 0,

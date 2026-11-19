@@ -167,7 +167,7 @@
     "LoadingBg": "",
     "LoadingType": 0,
     "SceneId": 0,
-    "TextGeneral": "Eine jährliche, stadtweite Feier, die vom Rat zum Gedenken an die Unabhängigkeit veranstaltet wird. <br>Am Tag der Feier regnet es in Asterleeds bunte Bänder. Die Bürger stellen blühende Seelilien vor ihre Haustüren, um ihre Wünsche für den Frieden auszudrücken. In der Stadt finden auch verschiedene besondere Feierlichkeiten statt, wie Dichtertreffen, Paraden und der Karneval.",
+    "TextGeneral": "Ein jährliches Fest, das vom Rat zu Ehren der Unabhängigkeit abgehalten wird. <br>Bunte Bänder erfüllen die Luft, Seelilien werden für den Frieden vor die Haustüren gelegt, und die Stadt veranstaltet Dichtertreffen, Paraden und einen Karneval.",
     "TextTitle": "Meeresbrise-Fest"
   },
   "116": {
@@ -287,6 +287,24 @@
     "TextGeneral": "Miauklu sagt oft, dass Träume nicht repliziert werden können, aber Wünsche schon.<br>Der Miaulux-Spezialpreis ist ihre Art, diese Wünsche als Geschenke zu verpacken.",
     "TextTitle": "Miaulux-Spezial"
   },
+  "128": {
+    "Id": 128,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading19",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Über eine Landschaft aus Schluchten und Wäldern stürzen kristallklare Bäche steile Klippen hinab und vereinen sich schließlich zu einer spektakulären Reihe von Wasserfällen. <br>Als Durchgang zwischen dem Asterleeds-Hochland und der Immergrün-Wüste zieht diese Region einen ständigen Strom von Händlern und Abenteurern an.",
+    "TextTitle": "Rize-Handelsroute"
+  },
+  "129": {
+    "Id": 129,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading20",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Die Schließung der Tavalok-Mine brachte diesen Wäldern einen lange verlorenen Frieden zurück. In letzter Zeit jedoch behaupten Reisende hartnäckig, nachts gedämpftes Flüstern aus den Tiefen des Waldes gehört zu haben, während andere berichten, dass die örtlichen Wildtiere ungewöhnlich unruhig geworden seien. Niemand kann diesen plötzlichen, beunruhigenden Anstieg an Aktivität wirklich erklären.",
+    "TextTitle": "Der Vergessene Wald"
+  },
   "13": {
     "Id": 13,
     "LevelRange": [11, 20],
@@ -296,6 +314,96 @@
     "TextGeneral": "Nur der erste Spieler oder das erste Team, das einem Elite-Monster SCH zufügt, kann die Beute öffnen, die es fallen lässt. Für diese Spieler ist die LP-Leiste des Ziels rot, während sie für alle anderen grau erscheint.",
     "TextTitle": "Monsterjagd: Elite"
   },
+  "130": {
+    "Id": 130,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading21",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Der gewaltige Wasserfall donnert das ganze Jahr über pausenlos. Schäumend weißes Wasser stürzt hoch über der Schlucht hinab und glitzert strahlend in der Sonne.",
+    "TextTitle": "Große Rize-Wasserfälle"
+  },
+  "131": {
+    "Id": 131,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading22",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Lokale Legenden, die im Tal überliefert werden, sprechen von einer finsteren Gestalt, die in den plätschernden Bächen lauert. <br>Aus diesem Grund heuern erfahrene Reisende immer lokale Führer an, bevor sie aufbrechen. <br>Schließlich bleiben im Montegnor-Tal die meisten Gefahren unbemerkt, bis es zu spät ist.",
+    "TextTitle": "Ravinenanomalie"
+  },
+  "132": {
+    "Id": 132,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading23",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Wenn der Melisoth-Fluss durch die Schlucht fließt, führt er eine schwere Mineralienfracht mit sich. Die Gischt der Klippen und Wasserfälle verdunstet pausenlos und hinterlässt Blütenkristalle, die sich allmählich zu geschichteten Salzablagerungen auf dem umliegenden Gestein aufbauen.",
+    "TextTitle": "Steinsalz"
+  },
+  "133": {
+    "Id": 133,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading24",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Ein beliebtes Sprichwort unter den Einheimischen fasst diesen Ort am besten zusammen: <br>\"Wo das Lampenlicht hinreicht, herrschen Regeln. Wo das Licht schwindet, bedeuten Regeln weit weniger.\"",
+    "TextTitle": "Große Rize-Höhle"
+  },
+  "134": {
+    "Id": 134,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading25",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Der Goblin-Häuptling, der in den Wiesen über der Großen Rize-Höhle nistet, stellt eine große Bedrohung für den Handel entlang der Talrouten dar. Man sagt, dass sich der Häuptling und sein Stamm jedes Mal, wenn eine Karawane vorbeizieht, vom Dach der Höhle auf ahnungslose Reisende stürzen.",
+    "TextTitle": "Muschelsammelnder Kultist"
+  },
+  "135": {
+    "Id": 135,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading26",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Er durchbricht immer als Erster die feindlichen Linien und stürzt sich mit fast rasender Wildheit ins Getümmel. Schwere Rüstungen bieten keinen Schutz gegen seine gezackte Klinge, während die Muku in seinem Gefolge jeden überrennen, der noch versucht, Fuß zu fassen.",
+    "TextTitle": "Tal-Vorhut"
+  },
+  "136": {
+    "Id": 136,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading27",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Die Antworten, die das Tal bereithält, könnten sehr wohl in die verwitterten Schnitzereien des Weisen eingraviert sein: <br>\"Die Göttlichen schieden in Stille, und auch in den Minen kehrte Ruhe ein. Aufblühen und Stillstand finden gleichermaßen dasselbe Ende.\"",
+    "TextTitle": "Die Verblassten Himmelsstufen und Verlassenen Minenstollen"
+  },
+  "137": {
+    "Id": 137,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading28",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Im gesamten Tal kursieren noch immer widersprüchliche Geschichten über die Ursprünge der Drachensturz-Säule. Einige halten sie für eine uralte Begräbnisstätte von Drachen, andere sehen in ihr ein Relikt eines uralten Krieges, und wieder andere behaupten, dass die gesamte Säule selbst von einer verlorenen Zivilisation erschaffen wurde.",
+    "TextTitle": "Drachensturz-Säule und Golem-Trümmer"
+  },
+  "138": {
+    "Id": 138,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading29",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Abenteurer können tägliche und wöchentliche Übungs-Quests abschließen, um Beherrschung zu erlangen und ihre Beherrschungsstufe zu erhöhen, wodurch zusätzliche Instrumentenfunktionen, Notenblätter und Stufenbelohnungen freigeschaltet werden. <br>Beim Online-Musizieren können Abenteurer das Gruppensystem nutzen, um im Freien Spielmodus eine Ensembleaufführung zu starten. Bleibt mit dem Rest des Ensembles im Takt und spielt in perfekter Harmonie zusammen!",
+    "TextTitle": "Musiker"
+  },
+  "139": {
+    "Id": 139,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading30",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Schließe die vorgesehenen Bewertungs-Quests ab, um dich als Sternen-Ausbilder zu qualifizieren. Nachdem du ein Sternen-Ausbilder geworden bist und die saisonale Prüfung bestanden hast, kannst du zum Himmels-Ausbilder aufsteigen und deine Belohnungen einfordern.",
+    "TextTitle": "Ausbilder – Übersicht"
+  },
   "14": {
     "Id": 14,
     "LevelRange": [11, 20],
@@ -304,6 +412,42 @@
     "SceneId": 0,
     "TextGeneral": "Verfolge Boss-Monster über die Monsterjagd-Oberfläche!",
     "TextTitle": "Monsterjagd: Boss"
+  },
+  "140": {
+    "Id": 140,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Die Neulingsstatus-Bewertung wird am 5. Tag nach dem Serverstart verfügbar. Spieler der Stufe 29 oder darunter erhalten das Neulingssymbol, das 28 Tage lang gültig bleibt. Neulinge verdienen zusätzliche Freundschaftspunkte, wenn sie an bestimmten Dungeons teilnehmen, abhängig von der wöchentlichen Obergrenze für Freundschaftspunkte durch Unterstützung.",
+    "TextTitle": "Neuling-Spezialoperation"
+  },
+  "141": {
+    "Id": 141,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Zurückkehrende Spieler genießen dynamische Boni auf alle Werte sowie 20 % mehr Aktivität und Ehrenmünzen! <br>Nimm an bestimmten Dungeons teil, um zusätzliche Freundschaftspunkte und andere Vorteile zu verdienen, und schließe exklusive Quests für zurückkehrende Spieler ab, um wertvolle Belohnungen zu erhalten! Lass dir das nicht entgehen!",
+    "TextTitle": "Rückkehrer-Spezialoperation"
+  },
+  "142": {
+    "Id": 142,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Die besten Leistungen von Abenteurern in verschiedenen Spielmodi und Events werden hier aufgezeichnet, damit jeder sie sehen kann. Gib bei jedem Event dein Bestes!",
+    "TextTitle": "Einführung in die Ehrenrolle"
+  },
+  "143": {
+    "Id": 143,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "LoadingType": 0,
+    "SceneId": 0,
+    "TextGeneral": "Wenn das Meister-Rang-Spiel aktiv ist, schließe einen Meister-Dungeon auf Meisterstufe 18 oder höher ab und reiche deine Punktzahl nach einer einstimmigen Teamabstimmung für das Meister-Rang-Spiel ein.",
+    "TextTitle": "Regeln für das Meister-Rang-Spiel"
   },
   "15": {
     "Id": 15,
@@ -356,7 +500,7 @@
     "LoadingBg": "ui/textures/login/loading2",
     "LoadingType": 0,
     "SceneId": 0,
-    "TextGeneral": "Der Fähigkeitswert spiegelt deinen allgemeinen Fortschritt als Abenteurer wider. Die Erhöhung deiner Abenteurerstufe, die Aufwertung von Talenten, Fähigkeiten (einschließlich Klassenfähigkeiten und Kampfvorstellungen), Ausrüstung, Modulen und Emblemen – all das trägt zur Steigerung deines Fähigkeitswerts bei.",
+    "TextGeneral": "Der Fähigkeitswert spiegelt deinen allgemeinen Fortschritt als Abenteurer wider. Die Erhöhung deiner Abenteurerstufe, die Aufwertung von Talenten, Fähigkeiten (einschließlich Klassenfähigkeiten und Kampfvorstellungen), Ausrüstung, Modulen und Emblemen – all das trägt zur Steigerung deines Fähigkeitswerts bei.",
     "TextTitle": "Fähigkeitswert"
   },
   "20": {
@@ -591,7 +735,7 @@
     "LoadingType": 3,
     "SceneId": 0,
     "TextGeneral": "Halte [{*key.getKeyDesc(101)*}] gedrückt, um die Chat-Oberfläche zu öffnen.",
-    "TextTitle": "Tastenkürzel"
+    "TextTitle": "Tastenbelegungs-Tipps"
   },
   "44": {
     "Id": 44,

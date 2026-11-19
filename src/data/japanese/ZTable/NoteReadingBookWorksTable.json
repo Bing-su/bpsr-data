@@ -1648,7 +1648,7 @@
     "Quality": 2,
     "ReadingBookDes": "カナミアの養殖業を紹介する書籍。",
     "TargetType": [1031220],
-    "WorksName": "『カナミアシャコ物語』",
+    "WorksName": "『カナミアエビキノコ物語』",
     "WorksType": 101
   },
   "1152": {
@@ -2584,7 +2584,7 @@
     "IsHide": false,
     "Quality": 2,
     "ReadingBookDes": "汚れたメモ。何者かが急いで「暗闇の底」に捨てたようだ。",
-    "TargetType": [1031428],
+    "TargetType": [1031428, 1031429, 1031430],
     "WorksName": "「汚れたメモ」",
     "WorksType": 102
   },
@@ -2620,6 +2620,252 @@
     "TargetType": [1031434],
     "WorksName": "暗闇の底・フローティングアイの記録",
     "WorksType": 101
+  },
+  "1256": {
+    "Episode": 1126,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1256,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "濃い茶色の厚紙を表紙に使い、左上に色あせた関所の印が刷られた、少し反った小冊子。",
+    "TargetType": [1031389],
+    "WorksName": "「アリッドバレー関所通行規則」",
+    "WorksType": 101
+  },
+  "1257": {
+    "Episode": 1127,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1257,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "工房の設備操作を記録した記録簿。紙はしわだらけで汚れが染みつき、なぜか1ページしか残っていない。",
+    "TargetType": [1031390],
+    "WorksName": "廃棄された精錬炉の生産日誌",
+    "WorksType": 102
+  },
+  "1258": {
+    "Episode": 1128,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1258,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "調査資料から失われた記録の1ページ。左上の綴じ穴は破れ、無理やり引き抜かれたようだ。上部には「タワーロック事件調査委員会」、その下には赤字で「第9ページ」と印刷されている。",
+    "TargetType": [1031391],
+    "WorksName": "タワーロック事件調書・ページ9",
+    "WorksType": 102
+  },
+  "1259": {
+    "Episode": 1129,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1259,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "研究者が残した調査記録。表紙には鉱灰と油汚れが付き、各ページには多くの書き込みが残る。重要な構造は赤ペンで何度も囲まれ、判読しにくいメモが添えられている。",
+    "TargetType": [1031392, 1031393],
+    "WorksName": "『渓谷旧型ゴーレム調査記録』",
+    "WorksType": 101
+  },
+  "1260": {
+    "Episode": 1130,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1260,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "散逸した学者の手稿。特殊な石刻の拓本と解読が記され、筆跡はすべて同一人物のもの。",
+    "TargetType": [1031394, 1031395, 1031396, 1031397],
+    "WorksName": "『賢者の拓本残篇』",
+    "WorksType": 102
+  },
+  "1261": {
+    "Episode": 1131,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1261,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "黄ばんだ手書きのメモ。筆跡は整っているが、やや筆圧が強いようだ。紙面には何度も濡れて乾いた大きな水染みが残る。内容の多くは断片的な見聞や個人の考え。一部の文は何度もなぞって太くされ、書き手が何か重要なことを確かめようとしていたようだ。",
+    "TargetType": [1031398],
+    "WorksName": "オールドの日記の切れ端",
+    "WorksType": 102
+  },
+  "1262": {
+    "Episode": 1132,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1262,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "粗末に綴じられた小冊子。黄ばんだ表紙に装飾はなく、上部に『タワーロック鉱山の操業停止をめぐる新たな視点』とだけ黒字で印刷されている。インクはわずかににじみ、縁は擦れて毛羽立っていることから、多くの人の手を渡ってきたようだ。どこにも著者名は記されていない。",
+    "TargetType": [1031399],
+    "WorksName": "タワーロック鉱山の操業停止をめぐる新たな視点",
+    "WorksType": 101
+  },
+  "1263": {
+    "Episode": 1133,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1263,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "目が痛くなるほど派手な色使いの広告チラシ。紙面の大半を大きな見出しが占め、その脇には口を大きく開け、黄ばんだ歯をのぞかせる渓谷の住民と、きらきら輝く浄水器が描かれている。紙質は一般的な広告よりはるかに上等で、紙面にはうっすらと光沢がある。黄ばんだ古い書類の山に紛れていても、真っ先に目に飛び込んでくる。",
+    "TargetType": [1031400],
+    "WorksName": "警告！渓谷にいるあなたにも密接に関わっています！",
+    "WorksType": 103
+  },
+  "1264": {
+    "Episode": 1134,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1264,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "古びた手書きの告示。野ざらしにされていたため虫食いの跡や正体不明の褐色の染みが目立つが、筆致は力強い。書き手が自らの主張を絶対に正しいと信じていたかのようだ。",
+    "TargetType": [1031401],
+    "WorksName": "賢者は豆を食べない",
+    "WorksType": 103
+  },
+  "1265": {
+    "Episode": 1135,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1265,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "記録簿から失われた1ページ。上部には教団共通の書式が印刷されている。紙は黄ばんでいるが保存状態は良い。字は整っていないものの、事実を丹念に記した様子がうかがえる。",
+    "TargetType": [1031402],
+    "WorksName": "渓谷の民の豆食禁忌に関する考察",
+    "WorksType": 102
+  },
+  "1266": {
+    "Episode": 1136,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1266,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "薄い物語本。ざらついた紙の表紙には、ゆったりしたローブをまとい髪もひげも真っ白な老人が描かれている。木の杖を手にボル豆畑の前に立ち、背後には武器を持った暴徒が数人迫っている。それでも彼は手のひらのボル豆を見つめ、静かに意識を集中させている。",
+    "TargetType": [1031403],
+    "WorksName": "『古の賢者ソプラの死』",
+    "WorksType": 101
+  },
+  "1267": {
+    "Episode": 1137,
+    "Icon": "item_icons_xin",
+    "Id": 1267,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "整った字で書かれた手紙。便箋には大きな暗紅色の染みが付いている。",
+    "TargetType": [1031404],
+    "WorksName": "渓谷のどこかに遺された手紙",
+    "WorksType": 102
+  },
+  "1268": {
+    "Episode": 1138,
+    "Icon": "item_icons_wenjiandai1",
+    "Id": 1268,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "渓谷の異常気象を調べた手稿。天候記録や住民の証言、筆者の分析が章ごとにまとめられている。長い時間をかけて追跡したようだが、送られるはずの記事はなぜか野外に落ちていた。",
+    "TargetType": [1031405, 1031406, 1031407, 1031408],
+    "WorksName": "『リッツェの異常気象をめぐる疑惑』",
+    "WorksType": 102
+  },
+  "1269": {
+    "Episode": 1139,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1269,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "整った字で記された正式な公文書。",
+    "TargetType": [1031409],
+    "WorksName": "『分鉱会議議事録（抜粋）』",
+    "WorksType": 102
+  },
+  "1270": {
+    "Episode": 1140,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1270,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "帳簿の1ページ。見習いと親方のやり取りにも使われていたようだ。",
+    "TargetType": [1031410],
+    "WorksName": "『ガレィリッジ村工房の帳簿』",
+    "WorksType": 102
+  },
+  "1271": {
+    "Episode": 1141,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1271,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "ばらばらの紙を綴じた小冊子。ガレィリッジ村のある住民による日々の記録が収められている。どんな出来事も、最後には似たような結論に行き着いている。",
+    "TargetType": [1031411, 1031412],
+    "WorksName": "『これは村長のせい』",
+    "WorksType": 102
+  },
+  "1272": {
+    "Episode": 1142,
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Id": 1272,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "誰かが残した備忘録。紙の模様や仕立てから、神官のものと思われる。",
+    "TargetType": [1031413, 1031414, 1031415],
+    "WorksName": "『自分への覚え書き』",
+    "WorksType": 102
+  },
+  "1273": {
+    "Episode": 1143,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1273,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "工房の掲示板に貼られていた新聞の切り抜き。見栄えよく印刷された記事で、見出しは赤ペンで囲まれている。かつてガレィリッジ村が誇りにしていたニュースのようだ。",
+    "TargetType": [1031416],
+    "WorksName": "ガレィリッジ村、受注数が過去最高に",
+    "WorksType": 103
+  },
+  "1274": {
+    "Episode": 1144,
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Id": 1274,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "ばらばらになった伝言ノートの1ページ。もろくなった紙には今もスペシャルドリンクの香りが残っているようだ。",
+    "TargetType": [1031417],
+    "WorksName": "ガレィリッジ村の酒場のメッセージノート",
+    "WorksType": 103
+  },
+  "1275": {
+    "Episode": 1145,
+    "Icon": "item_icons_xin",
+    "Id": 1275,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "手書きの連名書。文字は強い筆圧で書かれ、怒りがにじんでいる。下部には十数人分の手形がびっしりと押されている。",
+    "TargetType": [1031418],
+    "WorksName": "労働時間調整に関する連名意見書",
+    "WorksType": 102
+  },
+  "1276": {
+    "Episode": 1146,
+    "Icon": "item_icons_1stanniversary_note",
+    "Id": 1276,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "花火が夜空に上がるたび、世界に残された痕跡がこのような形で一時姿を現すという。",
+    "TargetType": [
+      1031440, 1031441, 1031442, 1031443, 1031444, 1031445, 1031446, 1031447, 1031448, 1031449,
+      1031450, 1031451, 1031452, 1031453, 1031454, 1031455, 1031456, 1031457, 1031458, 1031459,
+      1031460
+    ],
+    "WorksName": "『1年目の星痕』",
+    "WorksType": 102
+  },
+  "1277": {
+    "Episode": 1147,
+    "Icon": "item_icons_xin",
+    "Id": 1277,
+    "IsHide": false,
+    "Quality": 2,
+    "ReadingBookDes": "海風祭の間、海風に乗った多くのボトルメールが岸へ流れ着く。瓶の中には遠く離れた人や身近な人からの手紙や、普段は口にできない祝福や思いが込められている。",
+    "TargetType": [1031461, 1031462, 1031463, 1031464, 1031465, 1031466, 1031467, 1031468, 1031469],
+    "WorksName": "『伝えたかった言葉』",
+    "WorksType": 102
   },
   "1278": {
     "Episode": 1148,

@@ -1,0 +1,101 @@
+{
+  "1220401": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "All Imprints that appear in the next Manifestation <color=#CFA803>are guaranteed to be</color> Primary Attribute Imprints.",
+    "ExpAdd": 0,
+    "Id": 1220401,
+    "Param": [],
+    "TypeEnum": 1
+  },
+  "1220402": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "All Imprints that appear in the next Manifestation <color=#CFA803>are guaranteed to be</color> Secondary Attribute Imprints.",
+    "ExpAdd": 0,
+    "Id": 1220402,
+    "Param": [101],
+    "TypeEnum": 1
+  },
+  "1220403": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "All Imprints that appear in the next Manifestation <color=#CFA803>are guaranteed to be</color> Polarity Imprints.",
+    "ExpAdd": 0,
+    "Id": 1220403,
+    "Param": [103],
+    "TypeEnum": 1
+  },
+  "1220404": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "All Imprints that appear in the next Manifestation <color=#CFA803>are guaranteed to be</color> Resilience Imprints.",
+    "ExpAdd": 0,
+    "Id": 1220404,
+    "Param": [104],
+    "TypeEnum": 1
+  },
+  "1220405": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "All Imprints that appear in the next Manifestation <color=#CFA803>are guaranteed to be</color> Element Imprints.",
+    "ExpAdd": 0,
+    "Id": 1220405,
+    "Param": [105],
+    "TypeEnum": 1
+  },
+  "1220406": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "All Imprints that appear in the next Manifestation <color=#CFA803>are guaranteed to be</color> Class Imprints.",
+    "ExpAdd": 0,
+    "Id": 1220406,
+    "Param": [1001],
+    "TypeEnum": 1
+  },
+  "1220407": {
+    "Condition": [[135, 4]],
+    "Count": 1,
+    "Desc": "The next Manifestation <color=#CFA803>is guaranteed to</color> include at least 1 Imprint of <color=#AB85F6>Excellent</color> quality or higher.",
+    "ExpAdd": 0,
+    "Id": 1220407,
+    "Param": [3, 4, 5],
+    "TypeEnum": 2
+  },
+  "1220408": {
+    "Condition": [[135, 10]],
+    "Count": 1,
+    "Desc": "The next Manifestation <color=#CFA803>is guaranteed to</color> include at least 1 Imprint of <color=#EED335>Epic</color> quality or higher.",
+    "ExpAdd": 0,
+    "Id": 1220408,
+    "Param": [4, 5],
+    "TypeEnum": 2
+  },
+  "1220409": {
+    "Condition": [[135, 11]],
+    "Count": 1,
+    "Desc": "The next Manifestation <color=#CFA803>is guaranteed to</color> include at least 1 Imprint of <color=#EF8E60>Immortal</color> quality.",
+    "ExpAdd": 0,
+    "Id": 1220409,
+    "Param": [5],
+    "TypeEnum": 2
+  },
+  "1220410": {
+    "Condition": [[135, 2]],
+    "Count": -1,
+    "Desc": "All Imprints that appear in the next Manifestation <color=#CFA803>are guaranteed to</color> roll the highest possible values for their quality.",
+    "ExpAdd": 0,
+    "Id": 1220410,
+    "Param": [],
+    "TypeEnum": 3
+  },
+  "1220411": {
+    "Condition": [],
+    "Count": 0,
+    "Desc": "Mindscape Matrix EXP +10. Manifested Imprints are of higher quality.",
+    "ExpAdd": 10,
+    "Id": 1220411,
+    "Param": [],
+    "TypeEnum": 4
+  }
+}

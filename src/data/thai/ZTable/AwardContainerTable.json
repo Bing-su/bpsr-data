@@ -100,6 +100,18 @@
     "RefreshTime": 0,
     "UpperLimit": 10
   },
+  "11002": {
+    "AttrMapping": [],
+    "CountGrow": [],
+    "EventType": 0,
+    "Id": 11002,
+    "InitialValue": 0,
+    "LowerLimit": 0,
+    "ParaOne": [],
+    "ParaTwo": [],
+    "RefreshTime": 0,
+    "UpperLimit": 11000
+  },
   "1101": {
     "AttrMapping": [],
     "CountGrow": [
@@ -670,6 +682,93 @@
     "LowerLimit": 0,
     "ParaOne": [],
     "ParaTwo": [],
+    "RefreshTime": 0,
+    "UpperLimit": 190000
+  },
+  "3010": {
+    "AttrMapping": [],
+    "CountGrow": [[1, 999, 490000]],
+    "EventType": 2,
+    "Id": 3010,
+    "InitialValue": 0,
+    "LowerLimit": 0,
+    "ParaOne": [50201710],
+    "ParaTwo": [1],
+    "RefreshTime": 0,
+    "UpperLimit": 490000
+  },
+  "3011": {
+    "AttrMapping": [],
+    "CountGrow": [
+      [1, 4, 0],
+      [5, 999, 490000]
+    ],
+    "EventType": 2,
+    "Id": 3011,
+    "InitialValue": 0,
+    "LowerLimit": 0,
+    "ParaOne": [50201720],
+    "ParaTwo": [1],
+    "RefreshTime": 0,
+    "UpperLimit": 490000
+  },
+  "3012": {
+    "AttrMapping": [],
+    "CountGrow": [
+      [1, 6, 0],
+      [7, 999, 490000]
+    ],
+    "EventType": 2,
+    "Id": 3012,
+    "InitialValue": 0,
+    "LowerLimit": 0,
+    "ParaOne": [50201730],
+    "ParaTwo": [1],
+    "RefreshTime": 0,
+    "UpperLimit": 490000
+  },
+  "3013": {
+    "AttrMapping": [],
+    "CountGrow": [
+      [1, 4, 0],
+      [5, 999, 190000]
+    ],
+    "EventType": 2,
+    "Id": 3013,
+    "InitialValue": 0,
+    "LowerLimit": 0,
+    "ParaOne": [50201740],
+    "ParaTwo": [1],
+    "RefreshTime": 0,
+    "UpperLimit": 190000
+  },
+  "3014": {
+    "AttrMapping": [],
+    "CountGrow": [
+      [1, 4, 0],
+      [5, 999, 190000]
+    ],
+    "EventType": 2,
+    "Id": 3014,
+    "InitialValue": 0,
+    "LowerLimit": 0,
+    "ParaOne": [50201750],
+    "ParaTwo": [1],
+    "RefreshTime": 0,
+    "UpperLimit": 190000
+  },
+  "3015": {
+    "AttrMapping": [],
+    "CountGrow": [
+      [1, 6, 0],
+      [7, 999, 190000]
+    ],
+    "EventType": 2,
+    "Id": 3015,
+    "InitialValue": 0,
+    "LowerLimit": 0,
+    "ParaOne": [50201760],
+    "ParaTwo": [1],
     "RefreshTime": 0,
     "UpperLimit": 190000
   },

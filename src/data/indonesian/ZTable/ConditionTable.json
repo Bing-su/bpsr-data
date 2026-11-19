@@ -276,7 +276,7 @@
     "FailureMessage": 0,
     "Param": "解锁指定高定时装",
     "RefreshNum": "130=FashionTable的id",
-    "ShowPurview": "Terbuka setelah memiliki {*val*}.",
+    "ShowPurview": "Tersedia setelah {*val*} dimiliki",
     "Type": 130
   },
   "131": {
@@ -308,8 +308,16 @@
     "FailureMessage": 150119,
     "Param": "幻想图鉴指定图集达到N阶",
     "RefreshNum": "幻想图鉴ID=图鉴等级",
-    "ShowPurview": "Level Koleksi {*val1*} mencapai {*val2*}",
+    "ShowPurview": "Level Koleksi {*val1*} Mencapai {*val2*}",
     "Type": 134
+  },
+  "135": {
+    "Example": "135=5",
+    "FailureMessage": 124054,
+    "Param": "赛季因子词条库等级",
+    "RefreshNum": "135=赛季因子词条库等级",
+    "ShowPurview": "Level Kumpulan Atribut Factor Season mencapai {*val*}",
+    "Type": 135
   },
   "136": {
     "Example": "136=3910=1",

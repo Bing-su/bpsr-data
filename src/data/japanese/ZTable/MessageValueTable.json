@@ -265,7 +265,7 @@
     "ValueExchange": ["30"]
   },
   "128": {
-    "Desc": "Lv3：極寒光線の幅+{*val1*}%、射程+{*val2*}%",
+    "Desc": "Lv3：フロストレイの幅+{*val1*}%、射程+{*val2*}%",
     "Id": 128,
     "ValueExchange": ["50", "50"]
   },
@@ -525,7 +525,7 @@
     "ValueExchange": ["2"]
   },
   "21": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方へ刺突を繰り出し、旗槍を回転させる。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">時の号令</style>：最も近い<style=\"accent-gn\">{*val3*}</style>体の同調イマジンのスキルリキャスト速度+<style=\"accent-gn\">{*val4*}%</style>。<style=\"accent-gn\">{*val5*}秒</style>持続。<br>影響範囲：フィールド全体<br>ダメージ倍率：なし<br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方へ刺突を繰り出し、旗槍を回転させる。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">時の号令</style>：最も近い<style=\"accent-gn\">{*val3*}</style>体の同調イマジンのスキルリキャスト速度+<style=\"accent-gn\">{*val4*}%</style>。<style=\"accent-gn\">{*val5*}秒</style>持続。<br>影響範囲：<style=\"accent-gn\">フィールド全体</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 21,
     "ValueExchange": ["5", "229", "5", "100", "5", "15"]
   },
@@ -550,7 +550,7 @@
     "ValueExchange": ["25", "25"]
   },
   "26": {
-    "Desc": "<style=\"tipsYellow\">地獄の岩トゲ</style>：地面のトゲを放ち、すべてのチャージスタック数を消費してダメージ+【<style=\"accent-gn\">{*val1*}%</style>×チャージスタック数】。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val3*}%</style><br>リキャスト：なし<br>",
+    "Desc": "<style=\"tipsYellow\">地獄の岩トゲ</style>：地面のトゲを放ち、すべてのチャージスタック数を消費してダメージ+【<style=\"accent-gn\">{*val1*}%</style>×チャージスタック数】。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val3*}%</style><br>",
     "Id": 26,
     "ValueExchange": ["30", "9", "418"]
   },
@@ -635,7 +635,7 @@
     "ValueExchange": ["1"]
   },
   "3012": {
-    "Desc": "<style=\"tipsYellow\">[汎用]</style>バリアの所持時、攻撃速度+{*val1*}。",
+    "Desc": "<style=\"tipsYellow\">[汎用]</style>バリアの所持時、攻撃速度+{*val1*}%。",
     "Id": 3012,
     "ValueExchange": ["15"]
   },
@@ -860,7 +860,7 @@
     "ValueExchange": ["100"]
   },
   "31": {
-    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m以内の{*val3*}体</style>の<linktext=2007>静止</linktext>状態でない対象にクモの糸を吐き、<style=\"accent-gn\">{*val4*}%</style>のダメージを与え、<style=\"accent-gn\">{*val5*}%の確率で</style><linktext=2007>静止</linktext>を付与する。<br><br><style=\"tipsYellow\">クモの急襲</style>：地中に{*val6*}秒間潜った後、地中から飛び出し、<style=\"accent-gn\">半径{*val7*}m</style>以内の対象に<style=\"accent-gn\">{*val8*}%</style>のダメージを与え、<style=\"accent-gn\"><linktext=2008>スタン</linktext></style>を付与する。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">基礎威力値</style>：<style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">半径{*val2*}m以内の{*val3*}体</style>の<linktext=2007>静止</linktext>状態でない対象にクモの糸を吐き、<style=\"accent-gn\">{*val4*}%</style>のダメージを与え、<style=\"accent-gn\">{*val5*}%の確率で</style><linktext=2007>静止</linktext>を付与する。<br><br><style=\"tipsYellow\">クモの急襲</style>：地中に{*val6*}秒間潜った後に飛び出し、<style=\"accent-gn\">半径{*val7*}m</style>以内の対象に<style=\"accent-gn\">{*val8*}%</style>のダメージを与え、<style=\"accent-gn\"><linktext=2008>スタン</linktext></style>を付与する。<br>リキャスト：<style=\"accent-gn\">{*val9*}秒</style><br>",
     "Id": 31,
     "ValueExchange": ["170", "10", "1", "202", "40", "2.5", "10", "314", "10"]
   },
@@ -917,7 +917,7 @@
   "41": {
     "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方にパンチを2回繰り出す。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val2*}%×2</style><br><br><style=\"tipsYellow\">命取りの火傷</style>：前方に5秒間炎を吐き出し続け、燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val4*}%</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
     "Id": 41,
-    "ValueExchange": ["8", "70", "15", "552", "15"]
+    "ValueExchange": ["5", "70", "13.3", "552", "15"]
   },
   "42": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
@@ -1115,7 +1115,7 @@
     "ValueExchange": ["240"]
   },
   "5030": {
-    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用後、同調砕晶を{*val1*}獲得する。{*val2*}WAVEごとに1回のみ使用できる。",
+    "Desc": "<style=\"tipsYellow\">[スキル]</style>使用すると同調砕晶を{*val1*}獲得する。{*val2*}WAVEごとに1回のみ使用できる。",
     "Id": 5030,
     "ValueExchange": ["3000", "5"]
   },
@@ -1135,9 +1135,9 @@
     "ValueExchange": ["10", "5"]
   },
   "51": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に5秒間氷を吐き出し続ける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">零度領域</style>：ランダムな対象3体に対して氷のトゲを放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val4*}%</style><br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に<style=\"accent-gn\">5秒間</style>氷を吐き出し続ける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">毎秒{*val2*}%</style>×攻撃力<br><br><style=\"tipsYellow\">零度領域</style>：ランダムな対象3体に氷のトゲを放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">{*val4*}%</style>×攻撃力<br>リキャスト：<style=\"accent-gn\">{*val5*}秒</style><br>",
     "Id": 51,
-    "ValueExchange": ["15", "360", "20", "246", "15"]
+    "ValueExchange": ["13", "72", "20", "246", "15"]
   },
   "52": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
@@ -1182,7 +1182,7 @@
   "6": {
     "Desc": "<style=\"tipsYellow\">通常攻撃</style>：<style=\"accent-gn\">{*val1*}秒</style>ごとに隕石を1つ落とす。<br>攻撃範囲：<style=\"accent-gn\">{*val2*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val3*}%</style><br><br><style=\"tipsYellow\">精霊鹿の奇襲</style>：精霊鹿を呼び出して前方へ疾走させる。フィールド上にいる人型の同調イマジン1体につき、追加で1回発動する。<br>攻撃範囲：<style=\"accent-gn\">{*val4*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val5*}%</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 6,
-    "ValueExchange": ["0.5", "6", "112", "15", "627", "15"]
+    "ValueExchange": ["0.5", "12", "112", "15", "627", "15"]
   },
   "60": {
     "Desc": "Lv5：パッシブで付与する物理攻撃力と魔法攻撃力が追加で+{*val1*}%（B-キングムークが必要）",
@@ -1300,9 +1300,9 @@
     "ValueExchange": ["8"]
   },
   "66": {
-    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方に斬りつけを放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：魔法攻撃力の<style=\"accent-gn\">{*val2*}%</style><br><br><style=\"tipsYellow\">風の主</style>：ランダムな対象2体に対して竜巻を放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">魔法攻撃力の{*val4*}%×{*val5*}秒</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">通常攻撃</style>：前方を3回斬りつける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">{*val2*}%×魔法攻撃力×3</style><br><br><style=\"tipsYellow\">風の主</style>：ランダムな対象2体に竜巻を放つ。<br>攻撃範囲：<style=\"accent-gn\">{*val3*}</style><br>ダメージ倍率：<style=\"accent-gn\">{*val4*}%×魔法攻撃力×{*val5*}秒</style><br>リキャスト：<style=\"accent-gn\">{*val6*}秒</style><br>",
     "Id": 66,
-    "ValueExchange": ["6.5", "253", "20", "84", "5", "15"]
+    "ValueExchange": ["6.5", "84", "20", "84", "5", "15"]
   },
   "67": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
@@ -1400,9 +1400,9 @@
     "ValueExchange": ["75"]
   },
   "71": {
-    "Desc": "<style=\"tipsYellow\">炎のスパイラル</style>：自身を回転させ、対象に燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：攻撃力の<style=\"accent-gn\">{*val2*}%</style><br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
+    "Desc": "<style=\"tipsYellow\">炎のスパイラル</style>：自身を<style=\"accent-gn\">3秒間</style>回転させ、対象に燃焼を付与する。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">毎秒{*val2*}%</style>×攻撃力<br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
     "Id": 71,
-    "ValueExchange": ["5.4", "60", "9"]
+    "ValueExchange": ["5.4", "100", "9"]
   },
   "72": {
     "Desc": "Lv2：攻撃力+{*val1*}%",
@@ -1507,7 +1507,7 @@
   "81": {
     "Desc": "<style=\"tipsYellow\">クレイジースマッシュ</style>：連続で地面を3回叩きつける。<br>攻撃範囲：<style=\"accent-gn\">{*val1*}</style><br>ダメージ倍率：<style=\"accent-gn\">攻撃力の{*val2*}%×3</style><br>リキャスト：<style=\"accent-gn\">{*val3*}秒</style><br>",
     "Id": 81,
-    "ValueExchange": ["14", "133", "8"]
+    "ValueExchange": ["8", "133", "8"]
   },
   "82": {
     "Desc": "Lv2：攻撃力+{*val1*}%",

@@ -1224,6 +1224,48 @@
     "Id": 1171,
     "Name": "搭乗-内周"
   },
+  "1181": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1181,
+    "Name": "【会心】の誓いを選択"
+  },
+  "1182": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1182,
+    "Name": "【幸運】の誓いを選択"
+  },
+  "1183": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1183,
+    "Name": "【ファスト】の誓いを選択"
+  },
+  "1184": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1184,
+    "Name": "【器用さ】の誓いを選択"
+  },
+  "1185": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1185,
+    "Name": "【万能】の誓いを選択"
+  },
+  "1186": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 1186,
+    "Name": "祈りの試練【エネルギー条件達成】開始"
+  },
   "1201": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -1293,6 +1335,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 12016,
     "Name": "不調和結晶を開放する"
+  },
+  "12017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 12017,
+    "Name": "巡光の贈り物開放"
   },
   "1201901": {
     "BtnType": 1,
@@ -1959,6 +2008,13 @@
     "Id": 1222,
     "Name": "潜る"
   },
+  "1230": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 1230,
+    "Name": "残り火を拾う"
+  },
   "1250": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2449,6 +2505,13 @@
     "Id": 17100101,
     "Name": "石炭"
   },
+  "190101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 190101,
+    "Name": "保護装置起動"
+  },
   "200000": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2680,6 +2743,13 @@
     "Id": 200029,
     "Name": "イマジンクラフト"
   },
+  "20003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20003,
+    "Name": "ヒーリングバフを付与"
+  },
   "200030": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2749,6 +2819,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_76",
     "Id": 200039,
     "Name": "ホーム依頼"
+  },
+  "20004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20004,
+    "Name": "響奏バフを付与"
   },
   "200040": {
     "BtnType": 1,
@@ -2946,6 +3023,13 @@
     "Id": 200073,
     "Name": "燼空の秘宝交換"
   },
+  "200074": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200074,
+    "Name": "巡光の秘宝交換"
+  },
   "200075": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -3036,6 +3120,34 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_52",
     "Id": 200087,
     "Name": "無垢の結晶塵ショップ"
+  },
+  "200089": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_52",
+    "Id": 200089,
+    "Name": "祈願ショップ"
+  },
+  "200091": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200091,
+    "Name": "スターコレクション"
+  },
+  "200092": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200092,
+    "Name": "昔日の秘宝交換"
+  },
+  "200093": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_26",
+    "Id": 200093,
+    "Name": "<style=\"emph-sq\">蒼穹の彼方、昼夜の果て</style>"
   },
   "2001": {
     "BtnType": 1,
@@ -3973,7 +4085,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 30409,
-    "Name": "【バレンコート】へ"
+    "Name": "【荒廃の庭】へ"
   },
   "30410": {
     "BtnType": 1,
@@ -4010,6 +4122,27 @@
     "Id": 30414,
     "Name": "堆積の塩を集める"
   },
+  "30415": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30415,
+    "Name": "卵を拾う"
+  },
+  "30416": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30416,
+    "Name": "取り除く"
+  },
+  "30417": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30417,
+    "Name": "鉱炎椒採集"
+  },
   "30420": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -4044,6 +4177,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30424,
     "Name": "盟約の地に投入する"
+  },
+  "30425": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30425,
+    "Name": "虚蝕エングラムの残痕を除去する"
   },
   "3050201": {
     "BtnType": 1,
@@ -4303,6 +4443,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 40501,
     "Name": "死霊を浄化する"
+  },
+  "40502": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 40502,
+    "Name": "封印を解除【戦闘開始】"
   },
   "4213": {
     "BtnType": 1,
@@ -5556,6 +5703,62 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 654101,
     "Name": "揺らす"
+  },
+  "661101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661101,
+    "Name": "夢世界から出る"
+  },
+  "661102": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661102,
+    "Name": "夢世界潜入"
+  },
+  "661103": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661103,
+    "Name": "ヴィルダの【祈り】に耳を傾ける"
+  },
+  "661104": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661104,
+    "Name": "ファルファラの【試練】を見届ける"
+  },
+  "661105": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661105,
+    "Name": "スレトの【執念】を打ち破る"
+  },
+  "661106": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661106,
+    "Name": "ファルファラを呼ぶ"
+  },
+  "661107": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661107,
+    "Name": "ヴィルダを呼ぶ"
+  },
+  "663401": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 663401,
+    "Name": "ボイスと共鳴"
   },
   "700002": {
     "BtnType": 1,
@@ -6983,7 +7186,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739013,
-    "Name": "葉巡りの森・星脈同調"
+    "Name": "夜巡りの森・星脈同調"
   },
   "7501": {
     "BtnType": 1,
@@ -7163,7 +7366,7 @@
   "800524": {
     "BtnType": 1,
     "FunctionOrder": [],
-    "IconPath": "ui/atlas/npc/talk_icon_factorde_compose",
+    "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800524,
     "Name": "因子分解"
   },
@@ -7172,7 +7375,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_exchange_05",
     "Id": 800525,
-    "Name": "因子交換ショップ"
+    "Name": "因子交換"
   },
   "800526": {
     "BtnType": 1,
@@ -7187,6 +7390,27 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800527,
     "Name": "刻印回収"
+  },
+  "800528": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_101",
+    "Id": 800528,
+    "Name": "マトリックス発現"
+  },
+  "800529": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_99",
+    "Id": 800529,
+    "Name": "映痕装着"
+  },
+  "800530": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_100",
+    "Id": 800530,
+    "Name": "映痕継承"
   },
   "9001": {
     "BtnType": 1,
@@ -7299,6 +7523,48 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9016,
     "Name": "悖逆・予兆に挑戦"
+  },
+  "9017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9017,
+    "Name": "無明の天空の庭へ向かう"
+  },
+  "9018": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9018,
+    "Name": "永昼の天梯へ向かう"
+  },
+  "9019": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9019,
+    "Name": "極夜の穹殿へ向かう"
+  },
+  "9020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9020,
+    "Name": "蒼穹の彼方、昼夜の果てへ向かう"
+  },
+  "9021": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9021,
+    "Name": "永昼の天梯へ向かう（練習）"
+  },
+  "9022": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9022,
+    "Name": "極夜の穹殿へ向かう（練習）"
   },
   "920001": {
     "BtnType": 1,

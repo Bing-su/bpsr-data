@@ -1,0 +1,101 @@
+{
+  "1220401": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Toutes les Empreintes qui apparaissent lors de la prochaine Manifestation <color=#CFA803>sont garanties d'être</color> des Empreintes d'attribut principal.",
+    "ExpAdd": 0,
+    "Id": 1220401,
+    "Param": [],
+    "TypeEnum": 1
+  },
+  "1220402": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Toutes les Empreintes qui apparaissent lors de la prochaine Manifestation <color=#CFA803>sont garanties d'être</color> des Empreintes d'attribut secondaire.",
+    "ExpAdd": 0,
+    "Id": 1220402,
+    "Param": [101],
+    "TypeEnum": 1
+  },
+  "1220403": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Toutes les Empreintes qui apparaissent lors de la prochaine Manifestation <color=#CFA803>sont garanties d'être</color> des empreintes de polarité.",
+    "ExpAdd": 0,
+    "Id": 1220403,
+    "Param": [103],
+    "TypeEnum": 1
+  },
+  "1220404": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Toutes les Empreintes qui apparaissent lors de la prochaine Manifestation <color=#CFA803>sont garanties d'être</color> des empreintes de résilience.",
+    "ExpAdd": 0,
+    "Id": 1220404,
+    "Param": [104],
+    "TypeEnum": 1
+  },
+  "1220405": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Toutes les Empreintes qui apparaissent lors de la prochaine Manifestation <color=#CFA803>sont garanties d'être</color> des empreintes d'élément.",
+    "ExpAdd": 0,
+    "Id": 1220405,
+    "Param": [105],
+    "TypeEnum": 1
+  },
+  "1220406": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "Toutes les Empreintes qui apparaissent lors de la prochaine Manifestation <color=#CFA803>sont garanties d'être</color> des empreintes de classe.",
+    "ExpAdd": 0,
+    "Id": 1220406,
+    "Param": [1001],
+    "TypeEnum": 1
+  },
+  "1220407": {
+    "Condition": [[135, 4]],
+    "Count": 1,
+    "Desc": "La prochaine Manifestation <color=#CFA803>inclura de façon garantie</color> au moins 1 Empreinte de qualité <color=#AB85F6>Excellente</color> ou supérieure.",
+    "ExpAdd": 0,
+    "Id": 1220407,
+    "Param": [3, 4, 5],
+    "TypeEnum": 2
+  },
+  "1220408": {
+    "Condition": [[135, 10]],
+    "Count": 1,
+    "Desc": "La prochaine Manifestation <color=#CFA803>inclura de façon garantie</color> au moins 1 Empreinte de qualité <color=#EED335>Épique</color> ou supérieure.",
+    "ExpAdd": 0,
+    "Id": 1220408,
+    "Param": [4, 5],
+    "TypeEnum": 2
+  },
+  "1220409": {
+    "Condition": [[135, 11]],
+    "Count": 1,
+    "Desc": "La prochaine Manifestation <color=#CFA803>inclura de façon garantie</color> au moins 1 Empreinte de qualité <color=#EF8E60>Immortelle</color>.",
+    "ExpAdd": 0,
+    "Id": 1220409,
+    "Param": [5],
+    "TypeEnum": 2
+  },
+  "1220410": {
+    "Condition": [[135, 2]],
+    "Count": -1,
+    "Desc": "Toutes les Empreintes qui apparaissent lors de la prochaine Manifestation <color=#CFA803>obtiendront de façon garantie</color> les valeurs les plus élevées possibles pour leur qualité.",
+    "ExpAdd": 0,
+    "Id": 1220410,
+    "Param": [],
+    "TypeEnum": 3
+  },
+  "1220411": {
+    "Condition": [],
+    "Count": 0,
+    "Desc": "EXP de Matrice de l'Esprit +10. Les Empreintes manifestées sont de meilleure qualité.",
+    "ExpAdd": 10,
+    "Id": 1220411,
+    "Param": [],
+    "TypeEnum": 4
+  }
+}

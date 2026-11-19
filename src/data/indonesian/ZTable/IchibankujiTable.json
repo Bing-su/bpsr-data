@@ -48,7 +48,7 @@
     "TextColor": ""
   },
   "1002": {
-    "BaseDetailsDes": "[Peristiwa Dasar] periode ini termasuk:<br>Pasti mendapat sejumlah <style=\"accent-gn\">Monogatari - Goldmeow</style> pada setiap undian. Jumlah cashback ini berhubungan dengan kelangkaan reward yang didapat. Semakin langka, semakin banyak cashback yang didapat.<br>Pasti mendapat <style=\"accent-gn\">Reward A</style> pada <style=\"accent-gn\">undian ke-30</style>.<br>Pasti mendapat <style=\"accent-gn\">Reward S</style> pada <style=\"accent-gn\">undian ke-80</style>!",
+    "BaseDetailsDes": "[Peristiwa Dasar] periode ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=\"accent-gn\">Cashback Goldmeow Monogatari</style>, jumlah pastinya bergantung pada kelangkaan Reward yang didapat, semakin langka, semakin banyak cashback yang diberikan;<br><style=\"accent-gn\">Tarikan ke-30</style> pasti mendapat <style=\"accent-gn\">Tiket Reward A</style>;<br><style=\"accent-gn\">Tarikan ke-80</style> pasti mendapat <style=\"accent-gn\">Tiket Reward S</style>!",
     "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
     "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
     "DrawPopupCardPath": [
@@ -64,7 +64,7 @@
     "InitialfreeLotteryTime": 1,
     "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
+    "LuckDetailsDes": "Lucky Event meliputi:<br>\"Event 1\": Draw berikutnya gratis;<br>\"Event 2\": Draw berikutnya mengembalikan 3x lipat Gold Meow Point;<br>\"Event 3\": Probabilitas [A Prize] meningkat pada draw berikutnya;<br>\"Event 4\": Hadiah [C Prize], [D Prize], dan [E Prize] tidak akan muncul pada draw berikutnya",
     "LuckPoolId": 1002,
     "MallItemId": 11002,
     "MiniGuaranteeDetails": [
@@ -85,7 +85,7 @@
     "PointsActivityFunctionId": 20002,
     "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_ichibankuji_main_bg",
     "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip003/img_main_funcs_ichibankuji_carousel",
-    "PoolName": "Monogatari",
+    "PoolName": "Monogatari Series",
     "PoolShowTV": ["ichibankuji/ichibankuji_ip003", "ichibankuji/ichibankuji_ip003"],
     "PoolTabIcon": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_01",
     "PoolTabIconBg": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_tab_bg",
@@ -99,7 +99,7 @@
     "TextColor": ""
   },
   "1003": {
-    "BaseDetailsDes": "[Peristiwa Dasar] periode ini berisi:<br>Setiap undian pasti akan mendapat sejumlah cashback <style=\"accent-gn\">Fairy Tail - Goldmeow</style>. Jumlah cashback ini berhubungan dengan kelangkaan reward yang didapat, makin tinggi kelangkaannya, makin banyak jumlah cashback yang didapat.<br><style=\"accent-gn\">Undian ke-30</style> pasti mendapat <style=\"accent-gn\">Reward A</style>.<br><style=\"accent-gn\">Undian ke-80</style> pasti mendapat <style=\"accent-gn\">Reward S</style>!",
+    "BaseDetailsDes": "[Peristiwa Dasar] periode ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=\"accent-gn\">Cashback Fairy Tail · Goldmeow</style>, jumlah pastinya terkait dengan kelangkaan Reward yang didapat, semakin langka semakin banyak jumlah cashback-nya;<br><style=\"accent-gn\">Tarikan ke-30</style> pasti mendapat <style=\"accent-gn\">Tiket Reward A</style>;<br><style=\"accent-gn\">Tarikan ke-80</style> pasti mendapat <style=\"accent-gn\">Tiket Reward S</style>!",
     "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
     "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
     "DrawPopupCardPath": [
@@ -115,7 +115,7 @@
     "InitialfreeLotteryTime": 1,
     "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
+    "LuckDetailsDes": "Lucky Event meliputi:<br>\"Event 1\": Draw berikutnya gratis;<br>\"Event 2\": Draw berikutnya mengembalikan 3x lipat Gold Meow Point;<br>\"Event 3\": Probabilitas [A Prize] meningkat pada draw berikutnya;<br>\"Event 4\": Hadiah [C Prize], [D Prize], dan [E Prize] tidak akan muncul pada draw berikutnya",
     "LuckPoolId": 1003,
     "MallItemId": 11003,
     "MiniGuaranteeDetails": [
@@ -150,7 +150,7 @@
     "TextColor": "#ffffff"
   },
   "1004": {
-    "BaseDetailsDes": "【Peristiwa Dasar】 periode ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=\"accent-gn\">Cashback Goldmeow Musim Panas Masa Muda</style>, jumlah pastinya bergantung pada kelangkaan Reward yang didapat, semakin langka semakin banyak cashback yang diberikan;<br><style=\"accent-gn\">Tarikan ke-25</style> pasti mendapat <style=\"accent-gn\">Tiket Reward A</style>;<br><style=\"accent-gn\">Tarikan ke-70</style> pasti mendapat <style=\"accent-gn\">Tiket Reward S</style>!",
+    "BaseDetailsDes": "[Peristiwa Dasar] edisi ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=\"accent-gn\">Cashback Goldmeow Musim Panas Hijau</style>, jumlah pastinya bergantung pada kelangkaan reward yang didapat, semakin langka semakin banyak jumlah cashback;<br>Tarikan <style=\"accent-gn\">ke-25</style> pasti mendapat <style=\"accent-gn\">Tiket Reward A</style>;<br>Tarikan <style=\"accent-gn\">ke-70</style> pasti mendapat <style=\"accent-gn\">Tiket Reward S</style>!",
     "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
     "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
     "DrawPopupCardPath": [
@@ -166,7 +166,7 @@
     "InitialfreeLotteryTime": 1,
     "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
+    "LuckDetailsDes": "Lucky Event meliputi:<br>\"Event 1\": Draw berikutnya gratis;<br>\"Event 2\": Draw berikutnya mengembalikan 3x lipat Gold Meow Point;<br>\"Event 3\": Probabilitas [A Prize] meningkat pada draw berikutnya;<br>\"Event 4\": Hadiah [C Prize], [D Prize], dan [E Prize] tidak akan muncul pada draw berikutnya",
     "LuckPoolId": 1004,
     "MallItemId": 11004,
     "MiniGuaranteeDetails": [
@@ -199,7 +199,7 @@
     "TextColor": "#ffffff"
   },
   "1005": {
-    "BaseDetailsDes": "[Peristiwa Dasar] edisi ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=\"accent-gn\">Saat Bulan Sabit Terbit·Cashback Goldmeow</style>, jumlah pastinya bergantung pada Kelangkaan Reward yang didapat, semakin langka semakin banyak jumlah Cashback;<br><style=\"accent-gn\">Tarikan ke-25</style> pasti mendapat <style=\"accent-gn\">Tiket Reward A</style>;<br><style=\"accent-gn\">Tarikan ke-70</style> pasti mendapat <style=\"accent-gn\">Tiket Reward S</style>!",
+    "BaseDetailsDes": "[Peristiwa Dasar] periode ini mencakup:<br> Setiap penarikan pasti akan mendapat sejumlah <style=\"accent-gn\">Saat Bulan Sabit Terbit · Cashback Goldmeow</style>. Jumlah spesifiknya terkait dengan kelangkaan reward yang didapat, semakin langka maka semakin banyak jumlah cashback-nya;<br><style=\"accent-gn\">Penarikan ke-25</style> dijamin mendapat <style=\"accent-gn\">Kupon Reward A</style>;<br><style=\"accent-gn\">Penarikan ke-70</style> dijamin mendapat <style=\"accent-gn\">Kupon Reward S</style>!",
     "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
     "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
     "DrawPopupCardPath": [
@@ -215,7 +215,7 @@
     "InitialfreeLotteryTime": 1,
     "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
+    "LuckDetailsDes": "Lucky Event meliputi:<br>\"Event 1\": Draw berikutnya gratis;<br>\"Event 2\": Draw berikutnya mengembalikan 3x lipat Gold Meow Point;<br>\"Event 3\": Probabilitas [A Prize] meningkat pada draw berikutnya;<br>\"Event 4\": Hadiah [C Prize], [D Prize], dan [E Prize] tidak akan muncul pada draw berikutnya",
     "LuckPoolId": 1005,
     "MallItemId": 11005,
     "MiniGuaranteeDetails": [
@@ -248,7 +248,7 @@
     "TextColor": "#ffffff"
   },
   "1006": {
-    "BaseDetailsDes": "[Peristiwa Dasar] edisi ini meliputi:<br> Setiap tarikan pasti mendapat sejumlah <style=\"accent-gn\">Pesta Kucing Tengah Malam · Cashback Goldmeow</style>, jumlah pastinya bergantung pada kelangkaan reward yang didapat, semakin langka semakin banyak cashback yang diberikan;<br><style=\"accent-gn\">Tarikan ke-25</style> pasti mendapat <style=\"accent-gn\">Tiket Reward A</style>;<br><style=\"accent-gn\">Tarikan ke-70</style> pasti mendapat <style=\"accent-gn\">Tiket Reward S</style>!",
+    "BaseDetailsDes": "[Peristiwa Dasar] periode ini meliputi:<br> Setiap penarikan pasti mendapat sejumlah <style=\"accent-gn\">Pesta Kucing Tengah Malam · Cashback Goldmeow</style>. Jumlah pastinya bergantung pada kelangkaan reward yang ditarik, semakin langka maka semakin banyak jumlah cashback yang didapat;<br><style=\"accent-gn\">Penarikan ke-25</style> dijamin mendapat <style=\"accent-gn\">Kupon Reward A</style>;<br><style=\"accent-gn\">Penarikan ke-70</style> dijamin mendapat <style=\"accent-gn\">Kupon Reward S</style>!",
     "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
     "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
     "DrawPopupCardPath": [
@@ -264,7 +264,7 @@
     "InitialfreeLotteryTime": 1,
     "LotteryName": ["Tarik Sekali", "Melakukan lima kali抽"],
     "LotteryTime": [1, 5],
-    "LuckDetailsDes": "Setiap undian berpeluang <style=\"accent-gn\">25,0000%</style> memicu [Peristiwa Mujur]! Peristiwa Mujur periode ini termasuk:<br> [Peristiwa 1]: Undian berikutnya gratis.<br> [Peristiwa 2]: Undian berikutnya cashback Goldmeow 3 kali lipat.<br> [Peristiwa 3]: Peluang [Reward A] meningkat di undian berikutnya.<br> [Peristiwa 4]: Undian berikutnya tidak akan mendapat [Reward C], [Reward D], dan [Reward E].",
+    "LuckDetailsDes": "Lucky Event meliputi:<br>\"Event 1\": Draw berikutnya gratis;<br>\"Event 2\": Draw berikutnya mengembalikan 3x lipat Gold Meow Point;<br>\"Event 3\": Probabilitas [A Prize] meningkat pada draw berikutnya;<br>\"Event 4\": Hadiah [C Prize], [D Prize], dan [E Prize] tidak akan muncul pada draw berikutnya",
     "LuckPoolId": 1006,
     "MallItemId": 11006,
     "MiniGuaranteeDetails": [

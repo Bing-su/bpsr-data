@@ -32,7 +32,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_05"],
     "SeasonId": 1,
-    "SeasonTitle": "Tenue de titre en édition limitée",
+    "SeasonTitle": "Tenue de titre exclusive à la saison",
     "Sort": 105
   },
   "105": {
@@ -161,7 +161,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/season_window/season_main_window_23"],
     "SeasonId": 3,
-    "SeasonTitle": "Tenue de titre en édition limitée",
+    "SeasonTitle": "Tenue de titre exclusive à la saison",
     "Sort": 307
   },
   "306": {
@@ -181,5 +181,44 @@
     "SeasonId": 3,
     "SeasonTitle": "Tenue du Passe onirique III",
     "Sort": 306
+  },
+  "402": {
+    "Content": "Avant de commencer officiellement le donjon, choisissez l'un des 5 Autels du Serment pour faire votre Vœu. Chaque Vœu offre des buffs différents.\\n\\nEn combat, tuer des monstres confère de l'énergie de vœu. Plus votre groupe possède de Vœux uniques, plus vous gagnez rapidement de l'énergie de vœu.\\n\\nVotre Vœu débute au niv. 1. Ses statistiques bonus se renforcent à mesure que son niveau augmente.\\n\\nDes appareils permettant d'activer les épreuves du Serment sont dispersés sur la carte. Dépensez de l'énergie de vœu pour activer une épreuve du Serment et augmentez le niveau du Serment en fonction de la quantité d'énergie dépensée.\\n\\nUne fois l'épreuve du Serment activée, vous obtenez un puissant buff pour une durée limitée. Tous les monstres à proximité sont également renforcés en fonction de leurs affixes.\\n\\nVaincre des monstres renforcés confère de l'énergie de vœu supplémentaire\\n\\nLes esprits du Serment ont une chance de prendre forme dans le Royaume chaotique. Vainquez-les pour obtenir un butin mystérieux.",
+    "Id": 402,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_26",
+      "ui/textures/large_ui/season_window/season_main_window_27"
+    ],
+    "SeasonId": 4,
+    "SeasonTitle": "Affixe de saison",
+    "Sort": 402
+  },
+  "404": {
+    "Content": "Achetez le Passe de saison I et atteignez le niv. 30 pour obtenir l'ensemble en édition limitée Mage fantastique !",
+    "Id": 404,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_28"],
+    "SeasonId": 4,
+    "SeasonTitle": "Passe de combat : Costume de la partie I",
+    "Sort": 404
+  },
+  "405": {
+    "Content": "Participez aux activités de la saison et atteignez le rang de titre \"Étoile filante liée I\" pour obtenir l'ensemble Messager silencieux en édition limitée !",
+    "Id": 405,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_29"],
+    "SeasonId": 4,
+    "SeasonTitle": "Tenue de titre exclusive à la saison",
+    "Sort": 407
+  },
+  "406": {
+    "Content": "Achetez le Passe de saison II et atteignez le niv. 30 pour obtenir l'ensemble en édition limitée Rivages Lointains !",
+    "Id": 406,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_30"],
+    "SeasonId": 4,
+    "SeasonTitle": "Passe de saison II - Tenues",
+    "Sort": 405
   }
 }

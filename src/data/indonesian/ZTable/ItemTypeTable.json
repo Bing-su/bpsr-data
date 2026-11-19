@@ -322,7 +322,7 @@
   "1214": {
     "Classify": 0,
     "Id": 1214,
-    "Name": "Delirium Talisman",
+    "Name": "Talisman Delirium",
     "Package": 1,
     "PreviewId": 0,
     "SortId": 0,
@@ -372,10 +372,20 @@
   "126": {
     "Classify": 11,
     "Id": 126,
-    "Name": "Item Tanpa Konsumsi",
+    "Name": "Item Tidak Habis Pakai",
     "Package": 1,
     "PreviewId": 101,
     "SortId": 1105,
+    "SpecialHint": [4],
+    "UpperLlimit": 0
+  },
+  "127": {
+    "Classify": 127,
+    "Id": 127,
+    "Name": "Factor Season",
+    "Package": 16,
+    "PreviewId": 105,
+    "SortId": 1240,
     "SpecialHint": [4],
     "UpperLlimit": 0
   },
@@ -612,7 +622,7 @@
   "3003": {
     "Classify": 3003,
     "Id": 3003,
-    "Name": "Medium Penyelarasan",
+    "Name": "Media Penyelaras",
     "Package": 30,
     "PreviewId": 0,
     "SortId": 0,

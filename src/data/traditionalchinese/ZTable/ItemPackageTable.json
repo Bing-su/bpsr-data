@@ -8,7 +8,7 @@
       ["", "", "消耗品", ""],
       ["", "", "玩法材料", ""],
       ["", "", "任務道具", ""],
-      ["", "", "", ""]
+      ["", "", "活動道具", ""]
     ],
     "Consume": "0",
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_14",
@@ -126,6 +126,17 @@
     "ItemDiscardTab": 0,
     "Name": "樂譜",
     "Show": 0
+  },
+  "16": {
+    "Capacity": 2000,
+    "CapacityExtra": 2100,
+    "Classify": [["", "", "賽季因子", ""]],
+    "Consume": "0",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_343",
+    "Id": 16,
+    "ItemDiscardTab": 0,
+    "Name": "賽季道具",
+    "Show": 8
   },
   "2": {
     "Capacity": 500,

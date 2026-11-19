@@ -5,7 +5,7 @@
     "BuffId": 680101,
     "BuffName": "舞空",
     "Deactive": false,
-    "Desc": "Mendapat kemampuan untuk melayang perlahan-lahan ke udara. <style=\"accent-gn\">Tekan dan tahan tombol melompat saat melompat untuk memasuki status melayang, stamina akan terus digunakan hingga status dibatalkan</style>.",
+    "Desc": "Mendapat kemampuan untuk melayang naik perlahan di udara, <style=\"accent-gn\">saat Lompat, tahan tombol Lompat untuk memasuki status melayang, dan terus Gunakan Stamina hingga status dibatalkan</style>.",
     "LockItem": [],
     "Name": "Aerial Dance",
     "Style": 0
@@ -16,7 +16,7 @@
     "BuffId": 680201,
     "BuffName": "水平跳",
     "Deactive": false,
-    "Desc": "Mendapat kemampuan melompat ke depan hingga jarak tertentu dengan gerakan spesial.<br><style=\"accent-gn\">Bilah ritme lompatan</style> akan muncul setelah melompat dan mendarat, lompat lagi di lokasi yang sesuai untuk mengumpulkan <style=\"accent-gn\">progres pemulihan stamina. Stamina akan pulih secara signifikan setelah progres terpenuhi</style>.",
+    "Desc": "Mendapat kemampuan untuk Lompat ke depan sejauh jarak tertentu dengan Gerakan Spesial.<br>Setelah mendarat dari lompatan, akan muncul <style=\"accent-gn\">Bar Ritme Lompat,</style> Lompat lagi di posisi yang tepat untuk mengumpulkan <style=\"accent-gn\">progres Recover Stamina. Setelah progres mencapai nilai penuh, Stamina akan di-Recover dalam jumlah besar</style>.",
     "LockItem": [],
     "Name": "Horizontal Jump",
     "Style": 0
@@ -27,7 +27,7 @@
     "BuffId": 680401,
     "BuffName": "踢墙跳",
     "Deactive": false,
-    "Desc": "Mendapat kemampuan untuk melompat ke atas dengan menendang tembok. Gunakan saat berada di dekat tembok. Setiap lompatan akan menggunakan sejumlah stamina.",
+    "Desc": "Mendapat kemampuan melompat ke atas dengan menendang dinding. Saat berada di dekat dinding, pakai untuk menendang dinding dan melompat ke atas, setiap kali lompat akan menggunakan sejumlah Stamina.",
     "LockItem": [],
     "Name": "Wall Jump",
     "Style": 0
@@ -38,7 +38,7 @@
     "BuffId": 680501,
     "BuffName": "蹬墙跑",
     "Deactive": false,
-    "Desc": "Mendapat kemampuan untuk berlari di atas tembok.<br>Stamina akan digunakan secara perlahan saat sedang berlari. Berhenti bergerak untuk bergantung di tembok, status ini tidak akan menggunakan stamina.",
+    "Desc": "Mendapat kemampuan untuk Lari di dinding.<br>Saat berlari, akan perlahan menggunakan Stamina. Tetap diam dapat memasuki status menempel di dinding, dan tidak akan menggunakan Stamina dalam status ini.",
     "LockItem": [],
     "Name": "Wall Run",
     "Style": 0
@@ -49,7 +49,7 @@
     "BuffId": 680701,
     "BuffName": "懒人跳",
     "Deactive": false,
-    "Desc": "Mendapat kemampuan untuk otomatis melompati sebagian penghalang tanpa menggunakan stamina.",
+    "Desc": "Mendapat kemampuan Auto Vault saat menghadapi beberapa Obstacle, tidak menggunakan Stamina.",
     "LockItem": [],
     "Name": "Auto Vault",
     "Style": 0
@@ -60,7 +60,7 @@
     "BuffId": 682501,
     "BuffName": "跳跃次数+1 3段跳 免疫坠落",
     "Deactive": false,
-    "Desc": "Tambahan jumlah lompat di udara +1, menggunakan sejumlah stamina, maks. 3 lompatan.<br>Mendapat kemampuan untuk kebal terhadap Fall DMG.",
+    "Desc": "Kesempatan Lompat ekstra di udara +1, menggunakan sejumlah Stamina, maksimal dapat melakukan 3 kali Lompat.<br>Serta mendapat kemampuan kebal terhadap DMG jatuh.",
     "LockItem": [],
     "Name": "Multi Jump",
     "Style": 0
@@ -71,7 +71,7 @@
     "BuffId": 682503,
     "BuffName": "跳跃次数+1 4段跳",
     "Deactive": false,
-    "Desc": "Tambahan jumlah lompat di udara +1, menggunakan sejumlah stamina, maks. 4 lompatan.",
+    "Desc": "Kesempatan Lompat tambahan di udara +1, menggunakan sejumlah Stamina, maksimal dapat melakukan 4 kali lompatan.",
     "LockItem": [],
     "Name": "Multi Jump",
     "Style": 0
@@ -82,7 +82,7 @@
     "BuffId": 682505,
     "BuffName": "跳跃次数+1 5段跳",
     "Deactive": false,
-    "Desc": "Tambahan jumlah lompat di udara +1, menggunakan banyak stamina, maks. 5 lompatan.",
+    "Desc": "Kesempatan Lompat tambahan di udara +1, menggunakan banyak Stamina, maksimal dapat melakukan 5 kali lompatan.",
     "LockItem": [],
     "Name": "Multi Jump",
     "Style": 0

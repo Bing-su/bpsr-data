@@ -1,136 +1,136 @@
 {
   "1": {
-    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Mengayunkan sabit 3 kali berturut-turut.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% ATK x3</style><br><br><style=\"tipsYellow\">Lingkaran Kiamat</style>: Melepaskan 2 lingkaran.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}% ATK x jumlah lingkaran</style><br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Mengayunkan sabit 3 kali berturut-turut.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% ATK x3</style><br><br><style=\"tipsYellow\">Cincin Kiamat</style>: Melepaskan 2 cincin.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}% ATK x Jumlah Cincin</style><br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
     "Id": 1,
     "ValueExchange": []
   },
   "10": {
-    "Desc": "Lv5: Saat Attack, mendapat tambahan {*val1*} Shard Penyelarasan (Membutuhkan Battle Fantasy - Eluna)",
+    "Desc": "Lv5: Saat menyerang, mendapat {*val1*} poin Attunement Shard tambahan (Perlu memiliki Battle Fantasy - Eluna)",
     "Id": 10,
     "ValueExchange": ["5"]
   },
   "100": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan tempur, PATK dan MATK semua Rekan +{*val1*}%, tidak dapat ditumpuk.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan tempur, PATK dan MATK semua rekan +{*val1*}%, tidak dapat ditumpuk.",
     "Id": 100,
     "ValueExchange": ["12"]
   },
   "100001": {
-    "Desc": "Dalam satu sesi \"Hutan Malam·Es\", total Monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung",
+    "Desc": "Dalam satu ronde \"Hutan Malam: Es\", total monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama (gelombang tantangan tidak dihitung).",
     "Id": 100001,
     "ValueExchange": ["10", "30"]
   },
   "100002": {
-    "Desc": "Dalam satu sesi \"Hutan Malam·Es\", total Monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung",
+    "Desc": "Dalam satu ronde \"Hutan Malam: Es\", total monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama (gelombang tantangan tidak dihitung).",
     "Id": 100002,
     "ValueExchange": ["5", "30"]
   },
   "100003": {
-    "Desc": "Dalam satu sesi \"Hutan Malam·Api\", total Monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung",
+    "Desc": "Dalam satu babak \"Hutan Malam: Fire\", selesaikan {*val2*} gelombang pertama dengan total monster yang memasuki Astraline tidak lebih dari {*val1*} (gelombang tantangan tidak dihitung)",
     "Id": 100003,
     "ValueExchange": ["10", "30"]
   },
   "100004": {
-    "Desc": "Dalam satu sesi \"Hutan Malam·Api\", total Monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung",
+    "Desc": "Dalam satu babak \"Hutan Malam: Fire\", selesaikan {*val2*} gelombang pertama dengan total monster yang memasuki Astraline tidak lebih dari {*val1*} (gelombang tantangan tidak dihitung)",
     "Id": 100004,
     "ValueExchange": ["5", "30"]
   },
   "100005": {
-    "Desc": "Tantangan! Pakai \"Permen Mint Boyce\" dan selesaikan {*val1*} gelombang pertama \"Hutan Malam·Es\" atau \"Hutan Malam·Fire\", gelombang tantangan tidak dihitung",
+    "Desc": "Tantangan! Pakai \"Permen Mint Boyce\" dan selesaikan {*val1*} gelombang pertama di \"Hutan Malam: Es\" atau \"Hutan Malam: Api\" (gelombang tantangan tidak dihitung).",
     "Id": 100005,
     "ValueExchange": ["30"]
   },
   "100006": {
-    "Desc": "Tantangan! Dalam satu sesi \"Hutan Malam - Es\" atau \"Hutan Malam - Api\", jumlah Fantasi Penyelarasan yang ada di medan secara bersamaan tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang tantangan tidak dihitung",
+    "Desc": "Tantangan! Dalam satu pertandingan \"Hutan Malam: Es\" atau \"Hutan Malam: Api\", selesaikan {*val2*} gelombang pertama dengan maksimal {*val1*} Fantasy Selaras di medan secara bersamaan, tidak termasuk gelombang tantangan",
     "Id": 100006,
     "ValueExchange": ["7", "30"]
   },
   "100007": {
-    "Desc": "Tantangan! Tanpa ada Monster yang memasuki Astraline, selesaikan {*val1*} gelombang pertama \"Hutan Malam: Es\" atau \"Hutan Malam: Fire\", gelombang tantangan tidak dihitung.",
+    "Desc": "Tantangan! Selesaikan {*val1*} gelombang pertama di \"Hutan Malam: Es\" atau \"Hutan Malam: Api\" tanpa ada monster yang memasuki Astraline (gelombang tantangan tidak dihitung).",
     "Id": 100007,
     "ValueExchange": ["30"]
   },
   "100008": {
-    "Desc": "Dalam satu sesi \"Hutan Malam·Cahaya\", total Monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung",
+    "Desc": "Dalam satu pertandingan \"Hutan Malam: Cahaya\", selesaikan {*val2*} gelombang pertama dengan total monster yang memasuki Astraline tidak lebih dari {*val1*} (gelombang tantangan tidak dihitung)",
     "Id": 100008,
     "ValueExchange": ["10", "30"]
   },
   "100009": {
-    "Desc": "Dalam satu sesi \"Hutan Malam·Cahaya\", total Monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung",
+    "Desc": "Dalam satu pertandingan \"Hutan Malam: Cahaya\", selesaikan {*val2*} gelombang pertama dengan total monster yang memasuki Astraline tidak lebih dari {*val1*} (gelombang tantangan tidak dihitung)",
     "Id": 100009,
     "ValueExchange": ["5", "30"]
   },
   "100010": {
-    "Desc": "Dalam satu sesi \"Hutan Malam·Gelap\", total Monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama (gelombang Tantangan tidak dihitung).",
+    "Desc": "Dalam satu pertandingan \"Hutan Malam: Gelap\", selesaikan {*val2*} gelombang pertama dengan total monster yang memasuki Astraline tidak lebih dari {*val1*} (gelombang tantangan tidak dihitung).",
     "Id": 100010,
     "ValueExchange": ["10", "30"]
   },
   "100011": {
-    "Desc": "Dalam satu sesi \"Hutan Malam·Gelap\", total Monster yang memasuki Astraline tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama (gelombang Tantangan tidak dihitung).",
+    "Desc": "Dalam satu pertandingan \"Hutan Malam: Gelap\", selesaikan {*val2*} gelombang pertama dengan total monster yang memasuki Astraline tidak lebih dari {*val1*} (gelombang tantangan tidak dihitung).",
     "Id": 100011,
     "ValueExchange": ["5", "30"]
   },
   "100012": {
-    "Desc": "Tantangan! Pakai \"Biskuit Dua Rasa Tina\", selesaikan {*val1*} gelombang pertama \"Hutan Malam·Cahaya\" atau \"Hutan Malam·Gelap\", gelombang Tantangan tidak dihitung",
+    "Desc": "Tantangan! Pakai \"Biskuit Dua Rasa Tina\" dan selesaikan {*val1*} gelombang pertama di \"Hutan Malam: Cahaya\" atau \"Hutan Malam: Gelap\" (gelombang tantangan tidak dihitung).",
     "Id": 100012,
     "ValueExchange": ["30"]
   },
   "100013": {
-    "Desc": "Tantangan! Dalam satu sesi \"Hutan Malam·Cahaya\" atau \"Hutan Malam·Gelap\", jumlah Tuning Fantasy yang ada di medan secara bersamaan tidak lebih dari {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung",
+    "Desc": "Tantangan! Dalam satu pertandingan \"Hutan Malam: Cahaya\" atau \"Hutan Malam: Gelap\", selesaikan {*val2*} gelombang pertama dengan maksimal {*val1*} Fantasy Selaras di medan secara bersamaan (gelombang tantangan tidak dihitung).",
     "Id": 100013,
     "ValueExchange": ["7", "30"]
   },
   "100014": {
-    "Desc": "Tantangan! Di \"Hutan Malam·Cahaya\" atau \"Hutan Malam·Gelap\", tingkatkan \"Tuning Fantasy·Nappo Nakal\" ke level {*val1*}",
+    "Desc": "Tantangan! Tingkatkan \"Fantasy Penyelarasan - Nappo Jahil\" ke Lv. {*val1*} di \"Hutan Malam: Cahaya\" atau \"Hutan Malam: Kegelapan\"",
     "Id": 100014,
     "ValueExchange": ["3"]
   },
   "100015": {
-    "Desc": "Dalam satu sesi \"Hutan Malam: Tak Berujung\", jumlah Monster yang memasuki Astraline tidak melebihi {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung.",
+    "Desc": "Dalam satu pertandingan \"Hutan Malam: Tanpa Batas\", selesaikan {*val2*} gelombang pertama dengan total monster yang memasuki Astraline tidak lebih dari {*val1*} (gelombang tantangan tidak dihitung).",
     "Id": 100015,
     "ValueExchange": ["10", "30"]
   },
   "100016": {
-    "Desc": "Dalam satu sesi \"Hutan Malam: Tak Berujung\", jumlah Monster yang memasuki Astraline tidak melebihi {*val1*}, dan selesaikan {*val2*} gelombang pertama, gelombang Tantangan tidak dihitung.",
+    "Desc": "Dalam satu pertandingan \"Hutan Malam: Tanpa Batas\", selesaikan {*val2*} gelombang pertama dengan total monster yang memasuki Astraline tidak lebih dari {*val1*} (gelombang tantangan tidak dihitung).",
     "Id": 100016,
     "ValueExchange": ["5", "30"]
   },
   "100017": {
-    "Desc": "Tantangan! Pakai \"Panci Kacang Lezat Tabitha\", selesaikan {*val1*} gelombang pertama di \"Hutan Malam·Tak Berujung\", gelombang tantangan tidak dihitung",
+    "Desc": "Tantangan! Pakai \"Sup Kacang Lezat Tabitha\" dan selesaikan {*val1*} gelombang pertama di \"Hutan Malam: Tanpa Batas\" (gelombang tantangan tidak dihitung)",
     "Id": 100017,
     "ValueExchange": ["30"]
   },
   "100018": {
-    "Desc": "Tantangan! Dalam satu sesi \"Hutan Malam: Tak Terbatas\", selesaikan {*val2*} gelombang pertama dengan maksimal {*val1*} Tuning Fantasy yang ada di arena secara bersamaan (gelombang tantangan tidak dihitung).",
+    "Desc": "Tantangan! Dalam satu pertandingan \"Hutan Malam: Tanpa Batas\", selesaikan {*val2*} gelombang pertama dengan maksimal {*val1*} Fantasy Selaras di medan secara bersamaan (gelombang tantangan tidak dihitung).",
     "Id": 100018,
     "ValueExchange": ["7", "30"]
   },
   "100019": {
-    "Desc": "Tantangan! Selesaikan {*val1*} gelombang pertama \"Hutan Malam: Tak Berujung\" tanpa ada Monster yang memasuki Astraline, gelombang tantangan tidak dihitung.",
+    "Desc": "Tantangan! Selesaikan {*val1*} gelombang pertama di \"Hutan Malam: Tanpa Batas\" tanpa ada monster yang memasuki Astraline (gelombang tantangan tidak dihitung).",
     "Id": 100019,
     "ValueExchange": ["30"]
   },
   "100020": {
-    "Desc": "Tantangan! Di \"Hutan Malam·Tak Berujung\", tingkatkan \"Tuning Fantasy·Nappo Nakal\" ke level {*val1*}",
+    "Desc": "Tantangan! Di \"Hutan Malam: Tanpa Batas\", tingkatkan \"Fantasy Selaras: Nappo Usil\" hingga Lv. {*val1*}.",
     "Id": 100020,
     "ValueExchange": ["5"]
   },
   "100021": {
-    "Desc": "Tantangan! Di \"Hutan Malam·Tak Berujung\", pastikan terdapat {*val1*} Roh Pengembara di medan pertempuran secara bersamaan.",
+    "Desc": "Tantangan! Di \"Hutan Malam: Tanpa Batas\", pastikan ada {*val1*} Roh Pengembara di medan secara bersamaan.",
     "Id": 100021,
     "ValueExchange": ["10"]
   },
   "101": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan tempur, Attack Speed dan Cast Speed semua Rekan +{*val1*}%, tidak dapat ditumpuk.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan tempur, Attack Speed dan Cast Speed semua rekan +{*val1*}%, tidak dapat ditumpuk.",
     "Id": 101,
     "ValueExchange": ["16"]
   },
   "102": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Cahaya][Glacier][Debuff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Attack memberikan {*val1*} tumpuk <linktext=2002>Dingin</linktext> dan {*val2*} tumpuk <linktext=2004>Severe Wound</linktext>.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Light][Glacier][Debuff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Attack memberikan {*val1*} tumpuk <linktext=2002>Chill</linktext> dan {*val2*} tumpuk <linktext=2004>Severe Wound</linktext>.",
     "Id": 102,
     "ValueExchange": ["1", "1"]
   },
   "103": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Es][Glacier][Debuff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Attack memiliki peluang {*val1*}% untuk memberikan {*val2*} tumpuk <linktext=2003>Frost</linktext>. Jika target memiliki <linktext=2010>Imunitas Frost</linktext>, mengurangi durasi <linktext=2010>Imunitas Frost</linktext> target sebanyak {*val3*} detik.",
+    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Es][Glacier][Debuff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Serangan memiliki {*val1*}% peluang untuk memberikan {*val2*} tumpuk <linktext=2003>Frost</linktext>. Jika target dalam status <linktext=2010>Kebal Frost</linktext>, maka durasi <linktext=2010>Kebal Frost</linktext> target berkurang {*val3*} detik.",
     "Id": 103,
     "ValueExchange": ["20", "1", "10"]
   },
@@ -140,67 +140,67 @@
     "ValueExchange": ["1"]
   },
   "105": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Dark][Ratusan Hantu]</style><br><br><style=\"tipsYellow\">Pasif</style>: Setelah Kill Monster, memunculkan <linktext=2009>Roh Pengembara</linktext>; Area Attack <linktext=2009>Roh Pengembara</linktext> dianggap sebagai Area Attack Nappo si Pembuat Onar.",
+    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Gelap][Ratusan Roh]</style><br><br><style=\"tipsYellow\">Pasif</style>: Menghasilkan <linktext=2009>Roh Pengembara</linktext> setelah mengalahkan monster; jangkauan serangan <linktext=2009>Roh Pengembara</linktext> dianggap sebagai jangkauan serangan Trickster Nappo.",
     "Id": 105,
     "ValueExchange": []
   },
   "106": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Gelap][Ratusan Iblis]</style><br><br><style=\"tipsYellow\">Pasif</style>: Setelah kill monster, memunculkan <linktext=2009>Roh Gentayangan</linktext>; setelah <linktext=2009>Roh Gentayangan</linktext> hilang, memberikan {*val1*}% Crit DMG secara permanen kepada Lorola, batas maksimal +{*val2*}%.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Gelap][Ratusan Roh]</style><br><br><style=\"tipsYellow\">Pasif</style>: Menghasilkan <linktext=2009>Roh Pengembara</linktext> setelah mengalahkan monster; setelah <linktext=2009>Roh Pengembara</linktext> hilang, memberikan +{*val1*}% Crit DMG secara permanen kepada Lorola, maks. +{*val2*}%.",
     "Id": 106,
     "ValueExchange": ["0.5", "40"]
   },
   "107": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Es][Glacier]</style><br><br><style=\"tipsYellow\">Pasif</style>: DMG yang ditimbulkan meningkat sebesar [{*val1*}% × Tumpuk <linktext=2002>Dingin</linktext> Target + {*val2*}% × Tumpuk <linktext=2003>Frost</linktext> Target].",
+    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Ice][Glacier]</style><br><br><style=\"tipsYellow\">Pasif</style>: DMG yang diberikan meningkat sebesar [{*val1*}% x tumpuk <linktext=2002>Chill</linktext> target + {*val2*}% x tumpuk <linktext=2003>Frost</linktext> target].",
     "Id": 107,
     "ValueExchange": ["3", "50"]
   },
   "108": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Cahaya][Shield]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan pertempuran, Shield Power seluruh Rekan +{*val1*}%, tidak dapat ditumpuk; saat Diri Sendiri melakukan Attack, menghancurkan Shield Target.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Cahaya][Shield]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan tempur, Shield Power semua rekan +{*val1*}%, tidak dapat ditumpuk; menghancurkan Shield target saat diri sendiri melakukan Attack.",
     "Id": 108,
     "ValueExchange": ["100"]
   },
   "109": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Petir][Sumber Daya]</style><br><br><style=\"tipsYellow\">Pasif</style>: Setiap peluru Taurus akan menghasilkan {*val1*} Shard Penyelarasan, dan memberikan tambahan DMG sebesar {*val2*} kali lipat dari jumlah Shard Penyelarasan.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Petir][Sumber Daya]</style><br><br><style=\"tipsYellow\">Pasif</style>: Setiap peluru Taurus menghasilkan {*val1*} poin Shard Selaras, serta memberikan DMG tambahan sebesar {*val2*} kali lipat dari jumlah Shard Selaras.",
     "Id": 109,
     "ValueExchange": ["10", "30"]
   },
   "11": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Terus berputar untuk memberikan DMG sebesar <style=\"accent-gn\">{*val3*}% per detik</style> kepada Target dalam <style=\"accent-gn\">radius {*val2*} meter</style>, dan menambahkan 1 tumpuk <linktext=2001>Burn</linktext>, berhenti setelah kehilangan Target.<br><br><style=\"tipsYellow\">Kapak Pembakar Langit</style>: Melepaskan cahaya kapak ke depan dalam <style=\"accent-gn\">garis lurus {*val4*} meter</style> yang memberikan DMG sebesar <style=\"accent-gn\">{*val5*}%</style>, untuk setiap 1 tumpuk <linktext=2001>Burn</linktext> pada Target, DMG ini <style=\"accent-gn\">+{*val6*}%</style>.<br>Waktu CD: <style=\"accent-gn\">{*val7*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Berputar terus-menerus untuk mengakibatkan DMG sebesar <style=\"accent-gn\">{*val3*}% per detik</style> terhadap target dalam <style=\"accent-gn\">radius {*val2*} m</style>, serta memberikan 1 lapis <linktext=2001>Burn</linktext>. Berhenti setelah kehilangan target.<br><br><style=\"tipsYellow\">Kapak Pembakar Langit</style>: Melepaskan tebasan cahaya kapak dalam <style=\"accent-gn\">garis lurus sejauh {*val4*} m</style> ke depan yang mengakibatkan <style=\"accent-gn\">{*val5*}%</style> DMG. Untuk setiap 1 lapis <linktext=2001>Burn</linktext> pada target, DMG serangan ini <style=\"accent-gn\">+{*val6*}%</style>.<br>Waktu CD: <style=\"accent-gn\">{*val7*} detik</style><br>",
     "Id": 11,
     "ValueExchange": ["320", "4", "67", "15", "358", "15", "15"]
   },
   "110": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Fire][Burn]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat menyerang monster yang belum terluka, DMG +{*val1*}%, dan memberikan {*val2*} tumpuk <linktext=2001>Burn</linktext>.",
+    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Fire][Burn]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat menyerang monster yang belum terluka, DMG +{*val1*}% dan memberikan {*val2*} tumpuk <linktext=2001>Burn</linktext>.",
     "Id": 110,
     "ValueExchange": ["20", "4"]
   },
   "111": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Batu][Sumber Daya][Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Untuk setiap {*val1*} poin Tuning Shard, kecepatan Skill Cooldown Fantasy Tuning Aliran Sumber Daya di seluruh medan +{*val2*}%, tertinggi {*val3*}%.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Batu][Sumber Daya][Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Setiap {*val1*} poin Shard Selaras memberikan kecepatan Skill Cooldown +{*val2*}% untuk semua Fantasy Selaras Aliran Sumber Daya di medan tempur, hingga {*val3*}%.",
     "Id": 111,
     "ValueExchange": ["100", "1", "30"]
   },
   "112": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Gelap][Hyakki][Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Menghasilkan <linktext=2009>Roh Gentayangan</linktext> setelah mengalahkan Monster; saat <linktext=2009>Roh Gentayangan</linktext> muncul, Waktu CD Skill Fantasy Penyelarasan Aliran Hyakki di seluruh medan -{*val1*} dtk, efek ini terpicu 1 kali dalam {*val2*} dtk.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Gelap][Hyakki][Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Menghasilkan <linktext=2009>Roh Pengembara</linktext> setelah melakukan Kill pada monster; saat <linktext=2009>Roh Pengembara</linktext> muncul, Waktu CD Skill Fantasy Selaras dari aliran Hyakki di seluruh medan tempur -{*val1*} detik. Efek ini hanya dapat terpicu 1 kali setiap {*val2*} detik.",
     "Id": 112,
     "ValueExchange": ["3", "6"]
   },
   "113": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Fire][Burn][Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Tumpuk <linktext=2001>Burn</linktext> yang diberikan oleh diri sendiri kepada monster x{*val1*}; Saat berada di medan pertempuran, batas maksimal tumpuk <linktext=2001>Burn</linktext> +{*val2*}, tidak dapat ditumpuk.",
+    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Fire][Burn][Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Tumpuk <linktext=2001>Burn</linktext> yang diberikan diri sendiri kepada monster x{*val1*}. Saat di medan tempur, batas maksimum tumpuk <linktext=2001>Burn</linktext> +{*val2*}, tidak dapat ditumpuk.",
     "Id": 113,
     "ValueExchange": ["2", "2"]
   },
   "114": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan tempur, Crit Rate seluruh Rekan +{*val1*}%, tidak dapat ditumpuk.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Buff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan tempur, Crit Rate semua rekan +{*val1*}%. Tidak dapat ditumpuk.",
     "Id": 114,
     "ValueExchange": ["24"]
   },
   "115": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Sumber Daya]</style><br><br><style=\"tipsYellow\">Pasif</style>: Pada awal setiap gelombang, Tuning Shard +{*val1*} poin, dapat ditumpuk.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Sumber Daya]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat setiap gelombang dimulai, Shard Selaras +{*val1*} poin, dapat ditumpuk.",
     "Id": 115,
     "ValueExchange": ["100"]
   },
   "116": {
-    "Desc": "<style=\"tipsYellow\">Nilai Daya Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menaburkan permen secara beruntun untuk memberikan <style=\"accent-gn\">{*val3*}%</style> DMG kepada Target dalam <style=\"accent-gn\">radius {*val2*} meter</style>, dan menambahkan 1 Tumpuk <linktext=2011>Permen</linktext>.<br><br><style=\"tipsYellow\">Trick or Treat</style>: Menarik kembali semua <linktext=2011>Permen</linktext> di area, dan memberikan DMG sebesar <style=\"accent-gn\">{*val4*}%+Tumpuk <linktext=2011>Permen</linktext> x{*val5*}%</style> kepada Monster yang <linktext=2011>Permen</linktext>-nya ditarik kembali.<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Terus menaburkan permen untuk memberikan <style=\"accent-gn\">{*val3*}%</style> DMG pada target dalam <style=\"accent-gn\">radius {*val2*}m</style>, serta memberikan 1 tumpuk <linktext=2011>Permen</linktext>.<br><br><style=\"tipsYellow\">Trick or Treat</style>: Menarik kembali semua <linktext=2011>Permen</linktext> di medan tempur, memberikan DMG sebesar <style=\"accent-gn\">{*val4*}%+tumpuk <linktext=2011>Permen</linktext> x{*val5*}%</style> pada monster yang <linktext=2011>Permen</linktext> miliknya ditarik kembali.<br>Waktu CD: <style=\"accent-gn\">{*val6*} dtk</style><br>",
     "Id": 116,
     "ValueExchange": ["1200", "6", "186", "391", "40", "20"]
   },
@@ -210,7 +210,7 @@
     "ValueExchange": ["30"]
   },
   "118": {
-    "Desc": "Lv3: Saat Monster yang memiliki <linktext=2011>Permen</linktext> mati, <linktext=2011>Permen</linktext> akan ditransfer ke Monster lainnya.",
+    "Desc": "Lv3: Saat monster yang memiliki <linktext=2011>Permen</linktext> mati, <linktext=2011>Permen</linktext> tersebut akan ditransfer ke monster lainnya.",
     "Id": 118,
     "ValueExchange": []
   },
@@ -225,12 +225,12 @@
     "ValueExchange": ["30"]
   },
   "120": {
-    "Desc": "Lv5: Setiap mengambil kembali 1 tumpuk <linktext=2011>Permen</linktext>, meningkatkan ATK diri sendiri sebesar {*val1*}%, batas maks. +{*val2*}%, berlangsung selama {*val3*} detik",
+    "Desc": "Lv5: Setiap menarik kembali 1 tumpuk <linktext=2011>Permen</linktext>, meningkatkan ATK diri sendiri sebesar {*val1*}%, maks. +{*val2*}%, berlangsung selama {*val3*} detik.",
     "Id": 120,
     "ValueExchange": ["10", "100", "10"]
   },
   "121": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menebaskan cahaya pedang ke area <style=\"accent-gn\">berbentuk kipas {*val2*} m</style> di depan sebanyak <style=\"accent-gn\">{*val3*}</style> tebasan, setiap tebasan mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG.<br><br><style=\"tipsYellow\">Ritual</style>: Mengorbankan semua <linktext=2009>Roh Gentayangan</linktext>, menebaskan 1 cahaya pedang raksasa ke 4 arah, setiap tebasan memberikan DMG ke <style=\"accent-gn\">garis lurus {*val5*} m</style> sebesar <style=\"accent-gn\">{*val6*}% + jumlah <linktext=2009>Roh Gentayangan</linktext> yang dikorbankan x{*val7*}%</style>.<br>Waktu CD: <style=\"accent-gn\">{*val8*} dtk</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menebas <style=\"accent-gn\">{*val3*} tebasan cahaya</style> dalam <style=\"accent-gn\">area kipas {*val2*} m</style> di depan, setiap tebasan mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG.<br><br><style=\"tipsYellow\">Ritual</style>: Mengorbankan semua <linktext=2009>Roh Pengembara</linktext>, menebas 1 tebasan cahaya raksasa ke 4 arah, setiap tebasan mengakibatkan <style=\"accent-gn\">{*val6*}%+jumlah <linktext=2009>Roh Pengembara</linktext> yang dikorbankan x{*val7*}%</style> DMG pada <style=\"accent-gn\">garis lurus {*val5*} m</style>.<br>Waktu CD: <style=\"accent-gn\">{*val8*} detik</style><br>",
     "Id": 121,
     "ValueExchange": ["320", "5", "3", "98", "23", "268", "60", "20"]
   },
@@ -240,7 +240,7 @@
     "ValueExchange": ["30"]
   },
   "123": {
-    "Desc": "Lv3: Area Normal Attack +{*val1*}%; setelah Ritual mengorbankan <linktext=2009>Roh Pengembara</linktext>, segera menghasilkan <linktext=2009>Roh Pengembara</linktext> hingga Batas Jumlah",
+    "Desc": "Lv3: Area Normal Attack +{*val1*}%; setelah Ritual mengorbankan <linktext=2009>Roh Pengembara</linktext>, segera menciptakan <linktext=2009>Roh Pengembara</linktext> sesuai batas jumlah",
     "Id": 123,
     "ValueExchange": ["50"]
   },
@@ -250,12 +250,12 @@
     "ValueExchange": ["20"]
   },
   "125": {
-    "Desc": "Lv5: Jumlah Cahaya Pedang Ritual +{*val1*} (Perlu memiliki Battle Fantasy - Lorola)",
+    "Desc": "Lv5: Jumlah Tebasan Ritual +{*val1*} (perlu memiliki Battle Fantasy: Lorola)",
     "Id": 125,
     "ValueExchange": ["4"]
   },
   "126": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melepaskan 1 Meteor es ke 1 Target acak dalam <style=\"accent-gn\">radius {*val2*} meter</style>, mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG pada Target dan sekitarnya, serta memberikan <style=\"accent-gn\">{*val4*} tumpuk</style> <linktext=2002>Dingin</linktext>.<br><br><style=\"tipsYellow\">Sinar Glacier</style>: Mengunci 1 Target dalam <style=\"accent-gn\">radius {*val5*} meter</style> dan melepaskan Ice Ray secara terus-menerus selama <style=\"accent-gn\">{*val6*} detik</style>, mengakibatkan <style=\"accent-gn\">{*val7*}%</style> DMG setiap kali pada semua Monster yang tersentuh. DMG pada Target utama <style=\"accent-gn\">meningkat {*val8*}% setiap detik</style>. Memprioritaskan untuk mengunci Monster Boss dan Monster Elite; jika Target Saat Ini mati, maka akan mentransfer Target.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melepaskan 1 Meteor Es ke 1 target acak dalam <style=\"accent-gn\">radius {*val2*} m</style>, mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG ke target dan sekitarnya, serta memberikan <style=\"accent-gn\">{*val4*} lapis</style> <linktext=2002>Dingin</linktext>.<br><br><style=\"tipsYellow\">Glacier Ray</style>: Mengunci 1 target dalam <style=\"accent-gn\">radius {*val5*} m</style> dan secara terus-menerus melepaskan Ice Ray selama <style=\"accent-gn\">{*val6*} dtk</style>, mengakibatkan DMG sebesar <style=\"accent-gn\">{*val7*}% setiap kali</style> ke semua monster yang tersentuh. DMG terhadap target utama <style=\"accent-gn\">meningkat sebesar {*val8*}% per detik</style>. Memprioritaskan untuk mengunci Monster Boss dan Monster Elite; jika target saat ini mati, maka akan berpindah ke target lain.<br>Waktu CD: <style=\"accent-gn\">{*val9*} dtk</style><br>",
     "Id": 126,
     "ValueExchange": ["320", "15", "54", "1", "10", "15", "50", "10", "35"]
   },
@@ -265,7 +265,7 @@
     "ValueExchange": ["30"]
   },
   "128": {
-    "Desc": "Lv3: Lebar Sinar Glacier +{*val1*}%, Jarak +{*val2*}%",
+    "Desc": "Lv3: Lebar Glacier Ray +{*val1*}%, Jarak +{*val2*}%",
     "Id": 128,
     "ValueExchange": ["50", "50"]
   },
@@ -275,17 +275,17 @@
     "ValueExchange": ["20"]
   },
   "13": {
-    "Desc": "Lv3: Setiap memberikan {*val1*} kali <linktext=2001>Burn</linktext>, Attack berikutnya akan melepaskan Kereta Purgatori pada Target.",
+    "Desc": "Lv3: Setiap memberikan {*val1*} kali <linktext=2001>Burn</linktext>, attack berikutnya akan melepaskan Kereta Api Neraka ke target",
     "Id": 13,
     "ValueExchange": ["10"]
   },
   "130": {
-    "Desc": "Lv5: Jumlah Meteor Es +{*val1*} (Perlu memiliki Battle Fantasy - Boyce)",
+    "Desc": "Lv5: Jumlah Meteor Es +{*val1*} (perlu memiliki Battle Fantasy - Boyce)",
     "Id": 130,
     "ValueExchange": ["2"]
   },
   "131": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melepaskan Holysword untuk memberikan <style=\"accent-gn\">{*val4*}%</style> DMG kepada <style=\"accent-gn\">{*val3*}</style> Target dalam <style=\"accent-gn\">radius {*val2*} meter</style>, dan mendapat Shield sebesar <style=\"accent-gn\">{*val5*}%</style> dari Max HP Diri Sendiri.<br><br><style=\"tipsYellow\">Blazing Reckon</style>: Mengayunkan Claymore untuk memberikan <style=\"accent-gn\">{*val7*} kali {*val8*}%</style> DMG berturut-turut kepada Target dalam <style=\"accent-gn\">radius {*val6*} meter</style>, serta tambahan DMG sebesar <style=\"accent-gn\">{*val9*}%</style> dari Shield Diri Sendiri.<br>Waktu CD: <style=\"accent-gn\">{*val10*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melepaskan Holysword untuk mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG pada <style=\"accent-gn\">{*val3*}</style> target dalam <style=\"accent-gn\">radius {*val2*} m</style>, dan mendapat Shield sebesar <style=\"accent-gn\">{*val5*}%</style> Max HP diri sendiri.<br><br><style=\"tipsYellow\">Blazing Reckon</style>: Mengayunkan Claymore untuk mengakibatkan DMG sebesar <style=\"accent-gn\">{*val8*}% sebanyak {*val7*} kali</style> secara beruntun pada target dalam <style=\"accent-gn\">radius {*val6*} m</style>, disertai DMG tambahan sebesar <style=\"accent-gn\">{*val9*}%</style> Shield diri sendiri.<br>Waktu CD: <style=\"accent-gn\">{*val10*} detik</style><br>",
     "Id": 131,
     "ValueExchange": ["320", "7", "2", "61", "1", "7", "3", "166", "100", "30"]
   },
@@ -295,7 +295,7 @@
     "ValueExchange": ["30"]
   },
   "133": {
-    "Desc": "Lv3: Setelah memakai Blazing Reckon, memberikan Shield sebesar {*val1*}% dari Max HP Diri Sendiri kepada seluruh Rekan, bertahan selama {*val2*} detik.",
+    "Desc": "Lv3: Setelah memakai Blazing Reckon, memberikan Shield sebesar {*val1*}% dari Max HP diri sendiri kepada semua rekan di medan tempur selama {*val2*} detik.",
     "Id": 133,
     "ValueExchange": ["30", "30"]
   },
@@ -305,12 +305,12 @@
     "ValueExchange": ["20"]
   },
   "135": {
-    "Desc": "Lv5: Element Power dari Tuning Fantasy yang berdekatan +{*val1*}%, tidak dapat ditumpuk (Perlu memiliki Battle Fantasy: Pavara)",
+    "Desc": "Lv. 5: Element Power dari Harmony Fantasy yang berdekatan +{*val1*}%, tidak dapat ditumpuk (Harus memiliki Battle Fantasy: Pavara)",
     "Id": 135,
     "ValueExchange": ["32"]
   },
   "136": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menembakkan <style=\"accent-gn\">{*val3*} butir</style> Peluru ke 1 Target dalam <style=\"accent-gn\">radius {*val2*} meter</style>, setiap Peluru mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG.<br><br><style=\"tipsYellow\">Raungan Senapan</style>: Melepaskan <style=\"accent-gn\">{*val5*} butir</style> Peluru yang otomatis mencari Target dalam <style=\"accent-gn\">radius {*val6*} meter</style>, setiap Peluru mengakibatkan <style=\"accent-gn\">{*val7*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val8*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menembakkan <style=\"accent-gn\">{*val3*}</style> peluru ke 1 target dalam <style=\"accent-gn\">radius {*val2*} m</style>, setiap peluru mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG.<br><br><style=\"tipsYellow\">Raungan Tembakan Menjulang</style>: Melepaskan <style=\"accent-gn\">{*val5*}</style> peluru yang otomatis mencari target dalam <style=\"accent-gn\">radius {*val6*} m</style>, setiap peluru mengakibatkan <style=\"accent-gn\">{*val7*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val8*} dtk</style><br>",
     "Id": 136,
     "ValueExchange": ["320", "15", "3", "56", "10", "15", "82", "15"]
   },
@@ -320,7 +320,7 @@
     "ValueExchange": ["30"]
   },
   "138": {
-    "Desc": "Lv3: Jumlah Shard Penyelarasan dari Peluru meningkat menjadi {*val1*}",
+    "Desc": "Lv3: Jumlah Tuning Shard yang dihasilkan peluru meningkat menjadi {*val1*}",
     "Id": 138,
     "ValueExchange": ["15"]
   },
@@ -335,12 +335,12 @@
     "ValueExchange": ["20"]
   },
   "140": {
-    "Desc": "Lv5: Jumlah Peluru Raungan Senapan +{*val1*}% (Perlu memiliki Battle Fantasy - Taurus)",
+    "Desc": "Lv5: Jumlah Peluru Raungan Tembakan Menjulang +{*val1*}% (perlu memiliki Battle Fantasy: Taurus)",
     "Id": 140,
     "ValueExchange": ["100"]
   },
   "141": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Mengunci <style=\"accent-gn\">{*val3*} Target</style> dengan HP tertinggi di dalam <style=\"accent-gn\">radius {*val2*} meter</style> dan melepaskan pilar api yang memberikan <style=\"accent-gn\">{*val4*}%</style> DMG.<br><br><style=\"tipsYellow\">Api Berkobar</style>: Memberikan <style=\"accent-gn\">{*val6*}%</style> DMG pada target di dalam <style=\"accent-gn\">radius {*val5*} meter</style>, sekaligus Diri Sendiri mendapatkan <style=\"accent-gn\">Crit Rate +{*val7*}%</style>, selama <style=\"accent-gn\">{*val8*} detik</style>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Mengunci <style=\"accent-gn\">{*val3*} target</style> dengan HP tertinggi dalam <style=\"accent-gn\">radius {*val2*} m</style> dan melepaskan pilar api yang mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG.<br><br><style=\"tipsYellow\">Kobaran Api</style>: Mengakibatkan <style=\"accent-gn\">{*val6*}%</style> DMG terhadap target dalam <style=\"accent-gn\">radius {*val5*} m</style>, sekaligus meningkatkan <style=\"accent-gn\">Crit Rate +{*val7*}%</style> diri sendiri selama <style=\"accent-gn\">{*val8*} detik</style>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
     "Id": 141,
     "ValueExchange": ["170", "10", "3", "37", "10", "230", "20", "5", "15"]
   },
@@ -350,7 +350,7 @@
     "ValueExchange": ["30"]
   },
   "143": {
-    "Desc": "Lv3: Efek Pasif juga berlaku pada Monster dengan HP lebih dari {*val1*}%",
+    "Desc": "Lv3: Efek Pasif juga berlaku pada monster dengan HP di atas {*val1*}%",
     "Id": 143,
     "ValueExchange": ["50"]
   },
@@ -360,12 +360,12 @@
     "ValueExchange": ["20"]
   },
   "145": {
-    "Desc": "Lv5: Crit Rate tambahan dari Api Berkobar +{*val1*}% (Harus memiliki Battle Fantasy - Kapten Penjaga Blackrock Legion)",
+    "Desc": "Lv5: Crit Rate tambahan dari Kobaran Api ekstra +{*val1*}% (perlu memiliki Battle Fantasy - Kapten Penjaga Blackrock Legion)",
     "Id": 145,
     "ValueExchange": ["30"]
   },
   "146": {
-    "Desc": "<style=\"tipsYellow\">Nilai Daya Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Mengeluarkan serangan batu ke Target <style=\"accent-gn\">acak sebanyak {*val3*}</style> dalam <style=\"accent-gn\">radius {*val2*} meter</style>, mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG.<br><br><style=\"tipsYellow\">Mata Batu</style>: Menyemburkan napas <style=\"accent-gn\">{*val6*} kali</style> berturut-turut ke <style=\"accent-gn\">area kipas {*val5*} meter</style> di depan, setiap serangan mengakibatkan <style=\"accent-gn\">{*val7*}%</style> DMG, dan memiliki <style=\"accent-gn\">{*val8*}%</style> Peluang untuk menyebabkan efek <linktext=2006>Petrify</linktext> pada Target.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melepaskan Tusukan Batu ke <style=\"accent-gn\">{*val3*} target acak</style> dalam <style=\"accent-gn\">radius {*val2*} m</style>, mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG.<br><br><style=\"tipsYellow\">Mata Batu</style>: Menyemburkan napas ke area <style=\"accent-gn\">kipas {*val5*} m</style> di depan sebanyak <style=\"accent-gn\">{*val6*} kali</style> berturut-turut, masing-masing mengakibatkan <style=\"accent-gn\">{*val7*}%</style> DMG, dan berpeluang <style=\"accent-gn\">{*val8*}%</style> untuk memberikan efek <linktext=2006>Petrify</linktext> pada target.<br>Waktu CD: <style=\"accent-gn\">{*val9*} dtk</style><br>",
     "Id": 146,
     "ValueExchange": ["170", "10", "3", "28", "10", "8", "65", "20", "30"]
   },
@@ -375,7 +375,7 @@
     "ValueExchange": ["30"]
   },
   "148": {
-    "Desc": "Lv3: Saat <linktext=2006>Petrify</linktext> target pecah, memicu 1 kali Tusukan Batu.",
+    "Desc": "Lv3: Memicu 1 kali Tusukan Batu saat <linktext=2006>Petrify</linktext> pada target pecah",
     "Id": 148,
     "ValueExchange": []
   },
@@ -385,22 +385,22 @@
     "ValueExchange": ["20"]
   },
   "15": {
-    "Desc": "Lv5: Syarat jumlah penerapan <linktext=2001>Burn</linktext> berkurang menjadi {*val1*}, DMG Kereta Purgatori +{*val2*}% (Harus memiliki Battle Fantasy - Tata)",
+    "Desc": "Lv5: Jumlah aplikasi <linktext=2001>Burn</linktext> yang dibutuhkan berkurang menjadi {*val1*}, DMG Kereta Neraka +{*val2*}% (Perlu memiliki Battle Fantasy - Tata)",
     "Id": 15,
     "ValueExchange": ["6", "100"]
   },
   "150": {
-    "Desc": "Lv5: Setelah Mata Batu mengalahkan Monster, mendapatkan {*val1*} poin Shard Penyelarasan (Perlu memiliki Battle Fantasy - Basilisk)",
+    "Desc": "Lv5: Setelah Mata Batu mengalahkan monster, mendapat {*val1*} poin Tuning Shard (perlu memiliki Battle Fantasy - Basilisk)",
     "Id": 150,
     "ValueExchange": ["30"]
   },
   "151": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Mencakar Target di <style=\"accent-gn\">area berbentuk kipas {*val2*} meter</style> di depan, memberikan DMG sebesar <style=\"accent-gn\">{*val3*} kali {*val4*}%</style>.<br><br><style=\"tipsYellow\">Panen Gelap</style>: Berputar untuk memberikan DMG sebesar <style=\"accent-gn\">{*val6*}%</style> kepada Target di <style=\"accent-gn\">area berbentuk kipas {*val5*} meter</style> di depan.<br>Waktu CD: <style=\"accent-gn\">{*val7*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Mencakar target dalam <style=\"accent-gn\">area kipas {*val2*} m</style> di depan, mengakibatkan DMG sebesar <style=\"accent-gn\">{*val4*}% sebanyak {*val3*} kali</style>.<br><br><style=\"tipsYellow\">Dark Harvest</style>: Memutar diri sendiri untuk mengakibatkan DMG sebesar <style=\"accent-gn\">{*val6*}%</style> terhadap target dalam <style=\"accent-gn\">area kipas {*val5*} m</style> di depan.<br>Waktu CD: <style=\"accent-gn\">{*val7*} detik</style><br>",
     "Id": 151,
     "ValueExchange": ["170", "10", "2", "23", "20", "135", "15"]
   },
   "153": {
-    "Desc": "Lv3: Setelah melancarkan Panen Gelap, ATK +{*val1*}% selama {*val2*} detik",
+    "Desc": "Lv3: Setelah melancarkan Panen Kegelapan, ATK +{*val1*}% selama {*val2*} detik",
     "Id": 153,
     "ValueExchange": ["30", "3"]
   },
@@ -410,7 +410,7 @@
     "ValueExchange": ["20"]
   },
   "156": {
-    "Desc": "<style=\"tipsYellow\">Nilai Daya Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melepaskan Heatwave api yang memberikan <style=\"accent-gn\">{*val3*}%</style> DMG pada Target dalam <style=\"accent-gn\">radius {*val2*} meter</style>, dan memberikan <style=\"accent-gn\">{*val4*} tumpuk</style> <linktext=2001>Burn</linktext>.<br><br><style=\"tipsYellow\">Meteor Kemarahan</style>: Menjatuhkan Meteor yang memberikan <style=\"accent-gn\">{*val6*}%</style> DMG pada Target dalam <style=\"accent-gn\">radius {*val5*} meter</style>, seluruh Rekan mendapatkan <style=\"accent-gn\">Fire Power +{*val7*}%</style>, berlangsung selama <style=\"accent-gn\">{*val8*} detik</style>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melepaskan gelombang panas api yang mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG pada target dalam <style=\"accent-gn\">radius {*val2*} m</style>, serta memberikan <style=\"accent-gn\">{*val4*} tumpuk</style> <linktext=2001>Burn</linktext>.<br><br><style=\"tipsYellow\">Meteor Murka</style>: Menjatuhkan meteor yang mengakibatkan <style=\"accent-gn\">{*val6*}%</style> DMG pada target dalam <style=\"accent-gn\">radius {*val5*} m</style>, serta memberikan <style=\"accent-gn\">Fire Power +{*val7*}%</style> kepada semua rekan di medan tempur selama <style=\"accent-gn\">{*val8*} detik</style>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
     "Id": 156,
     "ValueExchange": ["170", "7", "76", "1", "12", "54", "30", "5", "15"]
   },
@@ -420,7 +420,7 @@
     "ValueExchange": ["30"]
   },
   "158": {
-    "Desc": "Lv3: Batas maksimal Tumpuk Efek Pasif tambahan +{*val1*}",
+    "Desc": "Lv3: Batas Tumpuk Efek Pasif tambahan +{*val1*}",
     "Id": 158,
     "ValueExchange": ["4"]
   },
@@ -430,12 +430,12 @@
     "ValueExchange": ["20"]
   },
   "16": {
-    "Desc": "<style=\"tipsYellow\">Tebasan Seribu Cahaya</style>: Mengeluarkan tebasan cahaya yang tak terhitung jumlahnya, dan menggunakan semua Tumpuk Charge untuk meningkatkan DMG sebesar [<style=\"accent-gn\">{*val1*}%</style>*Tumpuk Charge].<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> ATK<br>",
+    "Desc": "<style=\"tipsYellow\">Tebasan Seribu Cahaya</style>: Menebas dengan kilatan pedang tak terhitung, serta menggunakan semua Tumpuk Charge untuk meningkatkan DMG sebesar [<style=\"accent-gn\">{*val1*}%</style> x Tumpuk Charge].<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> ATK<br>",
     "Id": 16,
     "ValueExchange": ["40", "8", "688"]
   },
   "160": {
-    "Desc": "Lv5: Fire Power tambahan dari Fall Impact +{*val1*}% (Syarat: Memiliki Battle Fantasy - Flamehorn)",
+    "Desc": "Lv5: Fire Power tambahan dari Meteor Murka +{*val1*}% (Perlu memiliki Battle Fantasy - Flamehorn)",
     "Id": 160,
     "ValueExchange": ["30"]
   },
@@ -445,7 +445,7 @@
     "ValueExchange": ["30"]
   },
   "163": {
-    "Desc": "Lv3: Crit Rate tambahan dari Pasif ekstra +{*val1*}%",
+    "Desc": "Lv. 3: Crit Rate tambahan dari efek Pasif ekstra +{*val1*}%",
     "Id": 163,
     "ValueExchange": ["12"]
   },
@@ -455,12 +455,12 @@
     "ValueExchange": ["20"]
   },
   "165": {
-    "Desc": "Lv5: Crit Rate pasif tambahan +{*val1*}% (Perlu memiliki Battle Fantasy - Kepala Goblin)",
+    "Desc": "Lv5: Crit Rate dari Pasif +{*val1*}% ekstra (Perlu memiliki Battle Fantasy - Kepala Goblin)",
     "Id": 165,
     "ValueExchange": ["12"]
   },
   "166": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Rampasan</style>: Menghantamkan palu ke tanah, memberikan <style=\"accent-gn\">{*val3*}%</style> DMG pada Target dalam <style=\"accent-gn\">radius {*val2*} meter</style>, setiap kali Attack mengenai 1 Target, Shard Penyelarasan +<style=\"accent-gn\">{*val4*} poin</style>.<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Penjarahan</style>: Menghantamkan palu ke tanah, mengakibatkan DMG sebesar <style=\"accent-gn\">{*val3*}%</style> pada target dalam <style=\"accent-gn\">radius {*val2*} m</style>. Setiap menyerang 1 target, Tuning Shard +<style=\"accent-gn\">{*val4*} poin</style>.<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
     "Id": 166,
     "ValueExchange": ["100", "10", "240", "1", "6"]
   },
@@ -485,7 +485,7 @@
     "ValueExchange": ["45"]
   },
   "170": {
-    "Desc": "Lv5: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Genius Cabbage King)",
+    "Desc": "Lv5: ATK +{*val1*}% (Perlu memiliki Battle Fantasy: Genius Cabbage King)",
     "Id": 170,
     "ValueExchange": ["15"]
   },
@@ -495,12 +495,12 @@
     "ValueExchange": ["30"]
   },
   "172": {
-    "Desc": "Lv5: Waktu CD Skill Panen Gelap -{*val1*} detik (Perlu memiliki Battle Fantasy - Ruby Earthfox)",
+    "Desc": "Lv5: Waktu CD Skill Dark Harvest -{*val1*} dtk (Perlu memiliki Battle Fantasy - Ruby Earthfox)",
     "Id": 172,
     "ValueExchange": ["6"]
   },
   "173": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melancarkan Slash Sword Qi yang memberikan <style=\"accent-gn\">{*val3*}%</style> DMG pada Target di dalam <style=\"accent-gn\">area berbentuk kipas sejauh {*val2*} meter</style>.<br><br><style=\"tipsYellow\">Peerless Thrust</style>: Menusukkan meriam cahaya ke depan dalam <style=\"accent-gn\">garis lurus sejauh {*val4*} meter</style>, memberikan <style=\"accent-gn\">{*val5*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menebaskan Sword Qi untuk mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG terhadap target dalam <style=\"accent-gn\">area kipas {*val2*} m</style>.<br><br><style=\"tipsYellow\">Peerless Thrust</style>: Menusuk dan menembakkan meriam cahaya pada <style=\"accent-gn\">garis lurus {*val4*} m</style> ke depan, mengakibatkan <style=\"accent-gn\">{*val5*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val6*} dtk</style><br>",
     "Id": 173,
     "ValueExchange": ["170", "7", "33", "30", "54", "15"]
   },
@@ -520,12 +520,12 @@
     "ValueExchange": ["45"]
   },
   "20": {
-    "Desc": "Lv5: Target terkunci kilatan pedang +{*val1*} (Membutuhkan Battle Fantasy - Olvera)",
+    "Desc": "Lv5: Target yang dikunci kilatan pedang +{*val1*} (Perlu memiliki Battle Fantasy - Olvera)",
     "Id": 20,
     "ValueExchange": ["2"]
   },
   "21": {
-    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menusuk ke depan dan memutar Flagspear.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Pengali DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Perintah Waktu</style>: Speed Up Skill Cooldown untuk <style=\"accent-gn\">{*val3*}</style> Fantasy Harmoni terdekat +<style=\"accent-gn\">{*val4*}%</style>, Sustained selama <style=\"accent-gn\">{*val5*} detik</style>.<br>Area Efek: Seluruh area<br>Pengali DMG: Tidak ada<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menusuk ke depan lalu memutar Flagspear.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Titah Waktu</style>: Mempercepat Waktu CD untuk <style=\"accent-gn\">{*val3*}</style> Fantasy Selaras terdekat sebesar +<style=\"accent-gn\">{*val4*}%</style> selama <style=\"accent-gn\">{*val5*} detik</style>.<br>Area Efek: <style=\"accent-gn\">Seluruh Area</style><br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
     "Id": 21,
     "ValueExchange": ["5", "229", "5", "100", "5", "15"]
   },
@@ -535,7 +535,7 @@
     "ValueExchange": ["45"]
   },
   "23": {
-    "Desc": "Lv3: Saat berada di medan, Move Speed Petualang +{*val1*}, Peningkatan DMG +{*val2*}",
+    "Desc": "Lv3: Saat berada di medan tempur, Move Speed Petualang +{*val1*} dan Peningkatan DMG +{*val2*}",
     "Id": 23,
     "ValueExchange": ["25", "25"]
   },
@@ -545,12 +545,12 @@
     "ValueExchange": ["35"]
   },
   "25": {
-    "Desc": "Lv5: Saat berada di medan, Move Speed Petualang tambahan +{*val1*}, Peningkatan DMG tambahan +{*val2*} (Membutuhkan Battle Fantasy - Tina)",
+    "Desc": "Lv5: Saat berada di medan tempur, Move Speed Petualang tambahan +{*val1*} dan Peningkatan DMG tambahan +{*val2*} (Perlu memiliki Battle Fantasy - Tina)",
     "Id": 25,
     "ValueExchange": ["25", "25"]
   },
   "26": {
-    "Desc": "<style=\"tipsYellow\">Hell Rock Spike</style>: Mengeluarkan duri tanah, dan menggunakan semua Tumpuk Charge untuk meningkatkan DMG sebesar [<style=\"accent-gn\">{*val1*}%</style>*Tumpuk Charge].<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> ATK<br>Waktu CD: Tidak ada<br>",
+    "Desc": "<style=\"tipsYellow\">Duri Batu Hell</style>: Melepaskan duri tanah dan menggunakan semua tumpukan Charge untuk meningkatkan DMG sebesar [<style=\"accent-gn\">{*val1*}%</style> x tumpukan Charge].<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> ATK<br>",
     "Id": 26,
     "ValueExchange": ["30", "9", "418"]
   },
@@ -560,7 +560,7 @@
     "ValueExchange": ["45"]
   },
   "28": {
-    "Desc": "Lv3: DMG dari Pasif memberikan efek Vulnerable {*val1*}%",
+    "Desc": "Lv3: DMG yang diakibatkan oleh Pasif memberikan Vulnerable sebesar {*val1*}%",
     "Id": 28,
     "ValueExchange": ["10"]
   },
@@ -570,12 +570,12 @@
     "ValueExchange": ["35"]
   },
   "3": {
-    "Desc": "Lv3: Jumlah Lingkaran +{*val1*}",
+    "Desc": "Lv3: Jumlah Cincin +{*val1*}",
     "Id": 3,
     "ValueExchange": ["3"]
   },
   "30": {
-    "Desc": "Lv5: Efek Vulnerable tambahan +{*val1*}% (Membutuhkan Battle Fantasy - Iron Teeth)",
+    "Desc": "Lv5: Efek Vulnerable tambahan +{*val1*}% (Perlu memiliki Battle Fantasy - Iron Teeth)",
     "Id": 30,
     "ValueExchange": ["10"]
   },
@@ -605,7 +605,7 @@
     "ValueExchange": ["2.5"]
   },
   "3006": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Mengabaikan {*val1*}% PDEF Target saat Crit.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat Crit, mengabaikan {*val1*}% PDEF target.",
     "Id": 3006,
     "ValueExchange": ["10"]
   },
@@ -615,7 +615,7 @@
     "ValueExchange": ["2.5"]
   },
   "3008": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat Crit Rate melebihi {*val1*}%, setiap kelebihan {*val2*}% akan diubah menjadi {*val3*}% Crit DMG.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat Crit Rate melebihi {*val1*}%, setiap kelebihan {*val2*}% akan dikonversi menjadi {*val3*}% Crit DMG.",
     "Id": 3008,
     "ValueExchange": ["100", "1", "1"]
   },
@@ -625,7 +625,7 @@
     "ValueExchange": ["3.5"]
   },
   "3010": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat mengakibatkan DMG, ada peluang {*val1*}% untuk memicu Flashchain, waktu CD {*val2*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat mengakibatkan DMG, ada {*val1*}% peluang untuk memicu Flashchain. Waktu CD: {*val2*} detik.",
     "Id": 3010,
     "ValueExchange": ["20", "5"]
   },
@@ -635,112 +635,112 @@
     "ValueExchange": ["1"]
   },
   "3012": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat memiliki Shield, Attack Speed meningkat {*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Saat memiliki Shield, Attack Speed meningkat sebesar {*val1*}%.",
     "Id": 3012,
     "ValueExchange": ["15"]
   },
   "3013": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Kehilangan {*val1*}% HP setiap detik, saat HP lebih dari {*val2*}%, DMG meningkat {*val3*}%.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style>Kehilangan {*val1*}% HP setiap detik. Saat HP di atas {*val2*}%, DMG meningkat {*val3*}%.",
     "Id": 3013,
     "ValueExchange": ["1", "90", "15"]
   },
   "3014": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Setiap {*val1*} detik, menciptakan 1 Shield sebesar {*val2*}% Max HP, bertahan selama {*val3*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Menghasilkan 1 Shield sebesar {*val2*}% dari Max HP setiap {*val1*} detik, berlangsung selama {*val3*} detik.",
     "Id": 3014,
     "ValueExchange": ["30", "10", "10"]
   },
   "3015": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Semakin tinggi Move Speed target, semakin tinggi DMG yang diberikan, hingga tertinggi {*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style>Semakin tinggi Move Speed target, semakin tinggi DMG yang diberikan, maks. {*val1*}%.",
     "Id": 3015,
     "ValueExchange": ["15"]
   },
   "3016": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat Crit, memulihkan HP sebesar {*val1*}% dari DMG ini, Waktu CD {*val2*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat Crit, memulihkan HP sebesar {*val1*}% dari DMG serangan ini. Waktu CD: {*val2*} detik.",
     "Id": 3016,
     "ValueExchange": ["20", "10"]
   },
   "3017": {
-    "Desc": "<style=\"tipsYellow\">[Humanoid][Season Terbatas]</style>Saat memakai Skill, memicu Deer Charge satu kali.",
+    "Desc": "<style=\"tipsYellow\">[Wujud Manusia][Terbatas Season]</style>Saat memakai skill, memicu 1 kali Deer Charge.",
     "Id": 3017,
     "ValueExchange": []
   },
   "3018": {
-    "Desc": "<style=\"tipsYellow\">[Humanoid][Season Terbatas]</style>Kecepatan Skill Cooldown +{*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Wujud Manusia][Terbatas Season]</style>Kecepatan Skill Cooldown +{*val1*}%.",
     "Id": 3018,
     "ValueExchange": ["50"]
   },
   "3019": {
-    "Desc": "<style=\"tipsYellow\">[Humanoid][Season Terbatas]</style>Area Normal Attack meningkat {*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Wujud Manusia][Terbatas Season]</style>Area Normal Attack meningkat {*val1*}%.",
     "Id": 3019,
     "ValueExchange": ["100"]
   },
   "3020": {
-    "Desc": "<style=\"tipsYellow\">[Eksklusif Eluna][Season Terbatas]</style>Efek Pasif Eluna meningkat {*val1*}%, frekuensi jatuhnya Meteor meningkat menjadi {*val2*} detik, jumlah Meteor +{*val3*}.",
+    "Desc": "<style=\"tipsYellow\">[Eksklusif Eluna][Terbatas Season]</style>Efek Pasif Eluna meningkat {*val1*}%, frekuensi jatuhnya meteor meningkat menjadi setiap {*val2*} detik, dan jumlah meteor +{*val3*}.",
     "Id": 3020,
     "ValueExchange": ["20", "0.2", "2"]
   },
   "3021": {
-    "Desc": "<style=\"tipsYellow\">[Burn]</style> Memberikan tambahan {*val1*}% DMG kepada Monster yang terkena <linktext=2001>Burn</linktext>.",
+    "Desc": "<style=\"tipsYellow\">[Burn]</style> Mengakibatkan {*val1*}% DMG tambahan pada monster yang terkena status <linktext=2001>Burn</linktext>.",
     "Id": 3021,
     "ValueExchange": ["12"]
   },
   "3022": {
-    "Desc": "<style=\"tipsYellow\">[Burn]</style> Setelah mengalahkan Monster yang terkena <linktext=2001>Burn</linktext>, memicu 1x DMG ledakan area tambahan.",
+    "Desc": "<style=\"tipsYellow\">[Burn]</style>Setelah melakukan Kill terhadap monster yang terkena <linktext=2001>Burn</linktext>, memicu 1 kali DMG ledakan area tambahan.",
     "Id": 3022,
     "ValueExchange": []
   },
   "3023": {
-    "Desc": "<style=\"tipsYellow\">[Burn]</style> Saat menyerang Monster yang terkena <linktext=2001>Burn</linktext>, Waktu CD Skill berkurang {*val1*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Burn]</style>Saat menyerang monster dalam status <linktext=2001>Burn</linktext>, Skill Cooldown berkurang {*val1*} detik.",
     "Id": 3023,
     "ValueExchange": ["0.5"]
   },
   "3024": {
-    "Desc": "<style=\"tipsYellow\">[Eksklusif Tata]</style>Tata memicu pusaran api saat melakukan Normal Attack.",
+    "Desc": "<style=\"tipsYellow\">[Eksklusif Tata]</style>Memicu pusaran api saat Tata melancarkan Normal Attack.",
     "Id": 3024,
     "ValueExchange": []
   },
   "3025": {
-    "Desc": "<style=\"tipsYellow\">[Sumber Daya]</style>Mendapat tambahan {*val1*}% saat mendapat Tuning Shard.",
+    "Desc": "<style=\"tipsYellow\">[Sumber Daya]</style>Saat mendapat Shard Harmoni, akan mendapat tambahan sebesar {*val1*}%.",
     "Id": 3025,
     "ValueExchange": ["20"]
   },
   "3026": {
-    "Desc": "<style=\"tipsYellow\">[Sumber Daya]</style> Setelah membeli produk, mendapat cashback Shard Tuning sebesar {*val1*}%. Shard yang didapat dari cashback melalui media ini tidak dapat diperkuat.",
+    "Desc": "<style=\"tipsYellow\">[Sumber Daya]</style>Setelah membeli produk, mendapat cashback {*val1*}% Tuning Shard. Shard yang didapat dari cashback ini tidak dapat diamplifikasi.",
     "Id": 3026,
     "ValueExchange": ["20"]
   },
   "3027": {
-    "Desc": "<style=\"tipsYellow\">[Sumber Daya]</style>Setiap {*val1*} poin Tuning Shard yang dimiliki, DMG meningkat sebesar {*val2*}%.",
+    "Desc": "<style=\"tipsYellow\">[Sumber Daya]</style>Meningkatkan DMG sebesar {*val2*}% untuk setiap {*val1*} poin Shard Penyelarasan yang dimiliki.",
     "Id": 3027,
     "ValueExchange": ["200", "1"]
   },
   "3028": {
-    "Desc": "<style=\"tipsYellow\">[Sumber Daya]</style>Jika Tuning Shard lebih dari {*val1*}, Attack akan memicu ombak, Waktu CD {*val2*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Sumber Daya]</style>Jika jumlah Shard Penyelarasan lebih dari {*val1*}, akan memicu ombak laut saat menyerang. Waktu CD: {*val2*} detik.",
     "Id": 3028,
     "ValueExchange": ["5000", "10"]
   },
   "3029": {
-    "Desc": "<style=\"tipsYellow\">[Charge]</style>Setiap 1 lapis Charge, otomatis melepaskan 1 kilatan pedang Olvera.",
+    "Desc": "<style=\"tipsYellow\">[Charge]</style>Setiap 1 tumpuk Charge akan otomatis menembakkan 1 tebasan pedang Olvera.",
     "Id": 3029,
     "ValueExchange": []
   },
   "3030": {
-    "Desc": "<style=\"tipsYellow\">[Charge]</style>Saat Charge mencapai lapis maksimum, DMG Skill berikutnya akan berlipat ganda dan memberikan efek Vulnerable pada target selama {*val1*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Charge]</style>Saat Charge mencapai tumpukan maksimal, Skill berikutnya menghasilkan DMG ganda dan memberikan efek Vulnerable pada target selama {*val1*} detik.",
     "Id": 3030,
     "ValueExchange": ["100"]
   },
   "3031": {
-    "Desc": "<style=\"tipsYellow\">[Charge]</style>ATK meningkat secara permanen seiring dengan jumlah Charge, dapat ditumpuk hingga batas tertinggi {*val1*} lapis.",
+    "Desc": "<style=\"tipsYellow\">[Charge]</style>ATK meningkat secara permanen seiring jumlah penggunaan Charge, maksimal dapat ditumpuk hingga {*val1*} tumpuk.",
     "Id": 3031,
     "ValueExchange": ["500"]
   },
   "3032": {
-    "Desc": "<style=\"tipsYellow\">[Eksklusif Olvera]</style>Olvera terus-menerus memberikan Thunderstrike kepada target di sekitarnya, memiliki peluang untuk memberikan efek Paralysis pada target, Waktu CD 1 detik.",
+    "Desc": "<style=\"tipsYellow\">[Eksklusif Olvera]</style> Olvera secara terus-menerus melancarkan Thunderstrike ke target di sekitar, serta berpeluang memberikan efek Paralysis pada target. Waktu CD: 1 detik.",
     "Id": 3032,
     "ValueExchange": []
   },
   "3033": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Mereset Skill Cooldown saat Crit, efek ini terpicu 1 kali dalam {*val1*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Saat Crit, mereset waktu CD skill. Efek ini dapat terpicu 1 kali setiap {*val1*} detik.",
     "Id": 3033,
     "ValueExchange": ["20"]
   },
@@ -765,42 +765,42 @@
     "ValueExchange": ["2.5"]
   },
   "3038": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat mengakibatkan DMG, ada {*val1*}% peluang untuk memicu Fire Shock, Waktu CD {*val2*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Saat mengakibatkan DMG, ada {*val1*}% peluang untuk memicu Hantaman Api. Waktu CD: {*val2*} detik.",
     "Id": 3038,
     "ValueExchange": ["20", "5"]
   },
   "3039": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat mengakibatkan DMG, ada {*val1*}% peluang untuk memicu Tornado Air yang bertahan selama {*val2*} detik, Waktu CD {*val3*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Saat mengakibatkan DMG, ada {*val1*}% peluang untuk memicu Tornado Air selama {*val2*} detik. Waktu CD: {*val3*} detik.",
     "Id": 3039,
     "ValueExchange": ["20", "2", "8"]
   },
   "3040": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat mengakibatkan DMG, ada {*val1*}% peluang untuk memicu sulur, Waktu CD {*val2*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Saat mengakibatkan DMG, ada {*val1*}% peluang untuk memicu Sulur. Waktu CD: {*val2*} detik.",
     "Id": 3040,
     "ValueExchange": ["20", "5"]
   },
   "3041": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>DMG Efek Spesial yang dipicu oleh semua Item +{*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> DMG Efek Spesial yang dipicu oleh semua item +{*val1*}%.",
     "Id": 3041,
     "ValueExchange": ["10"]
   },
   "3042": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Setiap memicu {*val1*} kali DMG Efek Spesial, menjatuhkan 1 Meteor raksasa yang memberikan Area Damage besar.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style>Setiap kali memicu DMG Efek Spesial sebanyak {*val1*} kali, 1 meteor raksasa akan jatuh dan mengakibatkan Area Damage yang luas.",
     "Id": 3042,
     "ValueExchange": ["30"]
   },
   "3043": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat HP turun di bawah {*val1*}%, menghasilkan Shield sebesar {*val2*}% Max HP, Waktu CD {*val3*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style>Saat HP turun di bawah {*val1*}%, menghasilkan Shield sebesar {*val2*}% Max HP. Waktu CD: {*val3*} detik.",
     "Id": 3043,
     "ValueExchange": ["50", "50", "60"]
   },
   "3044": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Nilai Recovery yang berlebih akan dikonversi menjadi Shield.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Kelebihan Recovery akan dikonversi menjadi Shield.",
     "Id": 3044,
     "ValueExchange": []
   },
   "3045": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Kehilangan {*val1*}% HP setiap detik, saat HP mencapai {*val2*}%, Attack Speed meningkat sebesar {*val3*}%.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Kehilangan {*val1*}% HP setiap detik. Saat HP berada di {*val2*}%, Attack Speed meningkat sebesar {*val3*}%.",
     "Id": 3045,
     "ValueExchange": ["1", "100", "25"]
   },
@@ -810,57 +810,57 @@
     "ValueExchange": ["3"]
   },
   "3047": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Setelah melancarkan Skill, terdapat peluang {*val1*}% untuk mereset Skill Cooldown.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Setelah melancarkan Skill, memiliki {*val1*}% peluang untuk mereset Waktu CD Skill.",
     "Id": 3047,
     "ValueExchange": ["20"]
   },
   "3048": {
-    "Desc": "<style=\"tipsYellow\">[Universal]</style>Setiap memiliki Shield sebesar {*val1*}% dari Max HP, ATK meningkat sebesar {*val2*}%.",
+    "Desc": "<style=\"tipsYellow\">[Universal]</style> Untuk setiap Shield sebesar {*val1*}% dari Max HP yang dimiliki, meningkatkan ATK sebesar {*val2*}%.",
     "Id": 3048,
     "ValueExchange": ["1", "0.2"]
   },
   "3049": {
-    "Desc": "<style=\"tipsYellow\">[Hyakki]</style> Batas Jumlah <linktext=2009>Roh Pengembara</linktext> +{*val1*}.",
+    "Desc": "<style=\"tipsYellow\">[Parade Iblis]</style> Batas jumlah <linktext=2009>Arwah Penasaran</linktext> +{*val1*}.",
     "Id": 3049,
     "ValueExchange": ["2"]
   },
   "3050": {
-    "Desc": "<style=\"tipsYellow\">[Hyakki]</style> DMG <linktext=2009>Roh Pengembara</linktext> +{*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Parade Iblis]</style> DMG <linktext=2009>Arwah Penasaran</linktext> +{*val1*}%.",
     "Id": 3050,
     "ValueExchange": ["7"]
   },
   "3051": {
-    "Desc": "<style=\"tipsYellow\">[Hyakki]</style> Setiap ada {*val1*} <linktext=2009>Roh Pengembara</linktext> di medan pertempuran, Crit Rate meningkat {*val2*}%.",
+    "Desc": "<style=\"tipsYellow\">[Parade Iblis]</style> Setiap {*val1*} <linktext=2009>Arwah Penasaran</linktext> yang ada di arena akan meningkatkan Crit Rate sebesar {*val2*}%.",
     "Id": 3051,
     "ValueExchange": ["1", "2"]
   },
   "3052": {
-    "Desc": "<style=\"tipsYellow\">[Eksklusif Lorola]</style> Pada awal setiap gelombang, Lorola melakukan ramalan dan mendapat 1 dari {*val1*} Buff berikut secara acak:<br>Sunlight Protection: Mendapat Shield sebesar {*val2*}% Max HP;<br>Crescent Blessing: ATK +{*val3*}%;<br>Star Companion: Move Speed <linktext=2009>Roh Pengembara</linktext> +{*val4*}%.",
+    "Desc": "<style=\"tipsYellow\">[Eksklusif Lorola]</style> Saat setiap gelombang dimulai, Lorola melakukan ramalan dan mendapat 1 dari {*val1*} Buff berikut secara acak:<br>Sun Protection: Mendapat Shield sebesar {*val2*}% Max HP;<br>New Moon Blessing: ATK +{*val3*}%;<br>Starlight Companion: Move Speed <linktext=2009>Arwah Penasaran</linktext> +{*val4*}%.",
     "Id": 3052,
     "ValueExchange": ["3", "100", "30", "100"]
   },
   "3053": {
-    "Desc": "<style=\"tipsYellow\">[Glacier]</style> Batas maks. Tumpuk <linktext=2002>Dingin</linktext> +{*val1*}.",
+    "Desc": "<style=\"tipsYellow\">[Glacier]</style> Batas Tumpuk <linktext=2002>Dingin</linktext> +{*val1*}.",
     "Id": 3053,
     "ValueExchange": ["1"]
   },
   "3054": {
-    "Desc": "<style=\"tipsYellow\">[Glacier]</style> Durasi <linktext=2003>Frost</linktext> diperpanjang {*val1*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Glacier]</style> Durasi <linktext=2003>Frost</linktext> diperpanjang {*val1*} dtk.",
     "Id": 3054,
     "ValueExchange": ["3"]
   },
   "3055": {
-    "Desc": "<style=\"tipsYellow\">[Glacier]</style> Saat melakukan Attack pada Monster dalam kondisi <linktext=2003>Frost</linktext>, memicu Ice Spear yang memberikan DMG tambahan, Waktu CD {*val1*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Glacier]</style> Saat menyerang monster dalam status <linktext=2003>Frost</linktext>, memicu Ice Spear untuk mengakibatkan DMG tambahan. Waktu CD: {*val1*} detik.",
     "Id": 3055,
     "ValueExchange": ["1"]
   },
   "3056": {
-    "Desc": "<style=\"tipsYellow\">[Eksklusif Boyce]</style>Normal Attack men-Summon Meteor es raksasa, DMG +{*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Eksklusif Boyce]</style> Normal Attack memanggil meteor es raksasa, DMG +{*val1*}%.",
     "Id": 3056,
     "ValueExchange": ["100"]
   },
   "31": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menyemburkan jaring laba-laba ke <style=\"accent-gn\">{*val3*} target dalam radius {*val2*} m</style> yang belum terkena <linktext=2007>Immobilize</linktext>, memberikan <style=\"accent-gn\">{*val4*}%</style> DMG, dan memiliki <style=\"accent-gn\">peluang {*val5*}%</style> untuk memberikan efek <linktext=2007>Immobilize</linktext>.<br><br><style=\"tipsYellow\">Serangan Laba-laba</style>: Menyelam ke bawah tanah selama {*val6*} dtk lalu muncul, memberikan <style=\"accent-gn\">{*val8*}%</style> DMG pada target dalam <style=\"accent-gn\">radius {*val7*} m</style>, dan memberikan efek <style=\"accent-gn\"><linktext=2008>Stun</linktext></style>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} dtk</style><br>",
+    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menembakkan Web ke <style=\"accent-gn\">{*val3*} target dalam radius {*val2*} m</style> yang tidak terkena <linktext=2007>Immobilize</linktext>, mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG dan memiliki <style=\"accent-gn\">peluang {*val5*}%</style> untuk memberikan efek <linktext=2007>Immobilize</linktext>.<br><br><style=\"tipsYellow\">Serangan Laba-laba</style>: Masuk ke dalam tanah dan muncul kembali setelah {*val6*} detik, mengakibatkan DMG sebesar <style=\"accent-gn\">{*val8*}%</style> ke target dalam <style=\"accent-gn\">radius {*val7*} m</style> serta memberikan efek <style=\"accent-gn\"><linktext=2008>Stun</linktext></style>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
     "Id": 31,
     "ValueExchange": ["170", "10", "1", "202", "40", "2.5", "10", "314", "10"]
   },
@@ -880,12 +880,12 @@
     "ValueExchange": ["20"]
   },
   "35": {
-    "Desc": "Lv5: Durasi <linktext=2008>Stun</linktext> +{*val1*} detik (Harus memiliki Battle Fantasy - Spectral Spidercrab)",
+    "Desc": "Lv5: Durasi <linktext=2008>Stun</linktext> +{*val1*} detik (Perlu memiliki Battle Fantasy - Spectral Spidercrab)",
     "Id": 35,
     "ValueExchange": ["2.5"]
   },
   "36": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melepaskan <style=\"accent-gn\">{*val2*}</style> bola air yang jatuh, mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG pada Target dalam <style=\"accent-gn\">radius {*val3*} meter</style>, dan memberikan <style=\"accent-gn\">{*val5*} lapis</style> <linktext=2002>Dingin</linktext>.<br><br><style=\"tipsYellow\">Amukan Kawanan Ikan</style>: Summon <style=\"accent-gn\">{*val6*}</style> bayangan Skyfish untuk mengakibatkan <style=\"accent-gn\">{*val8*}%</style> DMG pada Target dalam <style=\"accent-gn\">garis lurus {*val7*} meter</style> di depan.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Menjatuhkan <style=\"accent-gn\">{*val2*}</style> bola air untuk mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG pada target dalam <style=\"accent-gn\">radius {*val3*} meter</style> dan memberikan <style=\"accent-gn\">{*val5*} tumpuk</style> <linktext=2002>Kedinginan</linktext>.<br><br><style=\"tipsYellow\">Amukan Kawanan Ikan</style>: Summon <style=\"accent-gn\">{*val6*}</style> Skyfish Ilusi yang mengakibatkan <style=\"accent-gn\">{*val8*}%</style> DMG pada target di depan dalam <style=\"accent-gn\">garis lurus sejauh {*val7*} meter</style>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
     "Id": 36,
     "ValueExchange": ["170", "1", "9", "75", "1", "1", "8", "149", "15"]
   },
@@ -895,7 +895,7 @@
     "ValueExchange": ["30"]
   },
   "38": {
-    "Desc": "Lv3: Skyfish +{*val1*}, tingkat perolehan Shard Penyelarasan +{*val2*}%",
+    "Desc": "Lv3: Skyfish +{*val1*}, Peluang Mendapat Attunement Shard +{*val2*}%",
     "Id": 38,
     "ValueExchange": ["1", "5"]
   },
@@ -910,14 +910,14 @@
     "ValueExchange": ["35"]
   },
   "40": {
-    "Desc": "Lv5: Skyfish tambahan +{*val1*}, tingkat perolehan Tuning Shard tambahan +{*val2*}% (Perlu memiliki Battle Fantasy - Sacred Skyfish)",
+    "Desc": "Lv5: Skyfish tambahan +{*val1*}, Peluang Mendapat Attunement Shard tambahan +{*val2*}% (Perlu memiliki Battle Fantasy - Sacred Skyfish)",
     "Id": 40,
     "ValueExchange": ["1", "5"]
   },
   "41": {
-    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Melancarkan 2 pukulan ke depan.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% MATK x2</style><br><br><style=\"tipsYellow\">Fatal Burn</style>: Melancarkan Flamethrow ke depan secara Sustained selama 5 detik, memberikan efek Burn.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}%</style> MATK<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Melayangkan 2 pukulan ke depan.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Pengali DMG: <style=\"accent-gn\">{*val2*}% MATK x2</style><br><br><style=\"tipsYellow\">Pembakaran Mematikan</style>: Menyemburkan api terus-menerus ke depan selama 5 detik dan memberikan efek Burn.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Pengali DMG: <style=\"accent-gn\">{*val4*}%</style> MATK<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
     "Id": 41,
-    "ValueExchange": ["8", "70", "15", "552", "15"]
+    "ValueExchange": ["5", "70", "13.3", "552", "15"]
   },
   "42": {
     "Desc": "Lv2: ATK +{*val1*}%",
@@ -925,7 +925,7 @@
     "ValueExchange": ["45"]
   },
   "43": {
-    "Desc": "Lv3: Memulihkan {*val1*}% HP saat menyerang",
+    "Desc": "Lv3: Saat menyerang, memulihkan {*val1*}% HP",
     "Id": 43,
     "ValueExchange": ["5"]
   },
@@ -935,12 +935,12 @@
     "ValueExchange": ["35"]
   },
   "45": {
-    "Desc": "Lv5: Healing berlebih diubah menjadi Shield (Membutuhkan Battle Fantasy - Flame Ogre)",
+    "Desc": "Lv5: Kelebihan Healing akan diubah menjadi Shield (Perlu memiliki Battle Fantasy - Flame Ogre)",
     "Id": 45,
     "ValueExchange": []
   },
   "46": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melakukan Trample pada Target dalam <style=\"accent-gn\">radius {*val2*} meter</style> dan mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG.<br><br><style=\"tipsYellow\">Perisai Petir Surgawi</style>: Mendapatkan perisai petir, melepaskan Thunderstrike kepada {*val6*} Target acak dalam <style=\"accent-gn\">radius {*val5*} meter</style> setiap <style=\"accent-gn\">{*val4*} detik</style> dan mengakibatkan <style=\"accent-gn\">{*val7*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val8*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Melakukan Trample pada target dalam <style=\"accent-gn\">radius {*val2*} m</style> dan mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG.<br><br><style=\"tipsYellow\">Perisai Petir Langit</style>: Mendapat Perisai Petir yang melepaskan Thunderstrike ke {*val6*} target acak dalam <style=\"accent-gn\">radius {*val5*} m</style> setiap <style=\"accent-gn\">{*val4*} dtk</style>, mengakibatkan <style=\"accent-gn\">{*val7*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val8*} dtk</style><br>",
     "Id": 46,
     "ValueExchange": ["170", "5", "42", "2", "20", "1", "162", "15"]
   },
@@ -950,7 +950,7 @@
     "ValueExchange": ["30"]
   },
   "48": {
-    "Desc": "Lv3: Jika target Attack berada dalam status <linktext=2001>Burn</linktext>, maka akan mengonsumsi <linktext=2001>Burn</linktext> tersebut untuk memicu 1 kali Thunderfire Annihilation, menghasilkan Area Damage yang besar.",
+    "Desc": "Lv3: Jika target serangan berada dalam status <linktext=2001>Burn</linktext>, akan menggunakan <linktext=2001>Burn</linktext> miliknya untuk memicu 1 kali Pemusnahan Petir dan Api, mengakibatkan Area Damage serangan yang besar.",
     "Id": 48,
     "ValueExchange": []
   },
@@ -960,184 +960,184 @@
     "ValueExchange": ["20"]
   },
   "5": {
-    "Desc": "Lv5: Area Lingkaran +{*val1*}%",
+    "Desc": "Lv5: Area Cincin +{*val1*}%",
     "Id": 5,
     "ValueExchange": ["100"]
   },
   "50": {
-    "Desc": "Lv5: Pemusnahan Petir Api tidak lagi menggunakan <linktext=2001>Burn</linktext> pada target (Harus memiliki Battle Fantasy - Thunder Ogre)",
+    "Desc": "Lv5: Pemusnahan Petir dan Api tidak lagi mengonsumsi <linktext=2001>Burn</linktext> target (Perlu memiliki Battle Fantasy - Thunder Ogre)",
     "Id": 50,
     "ValueExchange": []
   },
   "5001": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Menempatkan {*val1*} Trap di jalur depan Astraline, Trap akan nonaktif setelah melenyapkan monster biasa yang melewatinya.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Meletakkan {*val1*} trap di jalur depan Astraline. Trap akan menjadi tidak aktif setelah mengeliminasi monster biasa yang lewat.",
     "Id": 5001,
     "ValueExchange": ["5"]
   },
   "5002": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Setiap {*val1*} kali Upgrade Tuning Fantasy, ATK Tuning Fantasy dalam match ini +{*val2*}%, maks. +{*val3*}%.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setiap melakukan Upgrade Resonansi Fantasy sebanyak {*val1*} kali, ATK Resonansi Fantasy di babak ini +{*val2*}%, hingga maksimal +{*val3*}%.",
     "Id": 5002,
     "ValueExchange": ["1", "1", "20"]
   },
   "5003": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Setelah dipilih, mendapat dan otomatis membuka {*val1*} Karunia Astraline acak.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setelah dipilih, mendapat dan otomatis membuka {*val1*} Hadiah Astraline acak.",
     "Id": 5003,
     "ValueExchange": ["3"]
   },
   "5004": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Mendapat {*val1*} poin Tuning Shard di awal, tetapi rasio perolehan Shard -{*val2*}% hingga {*val3*} wave berakhir.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Mendapat {*val1*} poin Shard Penyelarasan di awal, tetapi tingkat perolehan Shard -{*val2*}% hingga {*val3*} gelombang berakhir.",
     "Id": 5004,
     "ValueExchange": ["2500", "20", "5"]
   },
   "5005": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Waktu CD Skill Sprint kamu berkurang menjadi {*val1*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Waktu CD Skill Sprint-mu berkurang menjadi {*val1*} dtk.",
     "Id": 5005,
     "ValueExchange": ["1"]
   },
   "5006": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Batas maks. Energi Astraline -{*val1*}%, tetapi setelah setiap gelombang berakhir, Energi Astraline akan pulih sebanyak {*val2*} poin.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Batas Maks. Energi Astraline -{*val1*}%, namun setelah setiap gelombang berakhir, Energi Astraline akan dipulihkan sebesar {*val2*} poin.",
     "Id": 5006,
     "ValueExchange": ["30", "2"]
   },
   "5007": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Setelah setiap wave berakhir, Crit Rate Tuning Fantasy dalam match ini +{*val1*}%, maks. +{*val2*}%.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setelah setiap gelombang berakhir, Crit Rate Fantasy Selaras dalam pertandingan ini +{*val1*}%, maks. +{*val2*}%.",
     "Id": 5007,
     "ValueExchange": ["2", "40"]
   },
   "5008": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>ATK Tuning Fantasy yang ditempatkan pada urutan ganjil -{*val1*}%, dan pada urutan genap +{*val2*}%.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style>ATK Fantasy Selaras yang kamu tempatkan pada urutan ganjil -{*val1*}%, dan ATK Fantasy Selaras yang ditempatkan pada urutan genap +{*val2*}%.",
     "Id": 5008,
     "ValueExchange": ["20", "30"]
   },
   "5009": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Menambahkan {*val1*} slot Fantasy ekstra.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Menambahkan {*val1*} slot formasi Fantasy.",
     "Id": 5009,
     "ValueExchange": ["2"]
   },
   "5010": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Mendapat semua Tuning Fantasy Superior masing-masing sebanyak {*val1*}.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Mendapat {*val1*} untuk setiap Fantasy Selaras Superior.",
     "Id": 5010,
     "ValueExchange": ["2"]
   },
   "5011": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Mendapat {*val1*} Fantasy Tuning Epic yang sama secara acak, tetapi Toko kamu tidak akan memperbarui Fantasy Tuning Epic lagi hingga {*val2*} gelombang berakhir.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Mendapat {*val1*} Fantasy Selaras Epic yang sama secara acak, tetapi tokomu tidak akan memunculkan Fantasy Selaras Epic lagi saat diperbarui hingga {*val2*} gelombang berakhir.",
     "Id": 5011,
     "ValueExchange": ["2", "10"]
   },
   "5012": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setiap {*val1*} Wave selesai, labu akan tumbuh di dekat Astraline. Hancurkan untuk mendapatkan {*val2*} Tuning Shard.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setelah setiap {*val1*} gelombang berakhir, labu akan tumbuh di dekat Astraline. Hancurkan untuk memperoleh {*val2*} poin Shard Selaras.",
     "Id": 5012,
     "ValueExchange": ["3", "800"]
   },
   "5013": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Pada awal setiap wave, waktu CD Skill dari {*val1*} Tuning Fantasy acak di arena -{*val2*}% hingga wave saat ini berakhir.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Di awal setiap gelombang, Skill Cooldown dari {*val1*} Fantasy Selaras acak di medan pertempuran -{*val2*}% hingga gelombang saat ini berakhir.",
     "Id": 5013,
     "ValueExchange": ["2", "100"]
   },
   "5014": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Saat mendapatkan Media Tuning yang dapat ditumpuk, ada peluang {*val1*}% untuk mendapatkan {*val2*} tambahan; suplai ini tidak berlaku dalam Gelombang Tak Terbatas.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Saat mendapat Medium Penyelarasan yang dapat ditumpuk, ada peluang {*val1*}% untuk mendapat {*val2*} tambahan; suplai ini tidak berlaku dalam Gelombang Tanpa Batas.",
     "Id": 5014,
     "ValueExchange": ["20", "1"]
   },
   "5015": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Gunakan {*val1*} poin Tuning Shard untuk mendapat {*val2*} Tuning Fantasy yang sama secara acak, minimal dengan Kualitas Superior.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Gunakan {*val1*} Shard Selaras untuk mendapat {*val2*} Fantasy Selaras yang sama secara acak, minimal kualitas unggul.",
     "Id": 5015,
     "ValueExchange": ["1800", "5"]
   },
   "5016": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Status Trap yang dipasang akan pulih setiap {*val1*} wave.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Trap yang dipasang akan memulihkan statusnya setiap {*val1*} gelombang berlalu.",
     "Id": 5016,
     "ValueExchange": ["2"]
   },
   "5017": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Toko akan langsung naik ke tingkat tertinggi pada pembaruan berikutnya.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Pada pembaruan berikutnya, Toko langsung naik ke level tertinggi.",
     "Id": 5017,
     "ValueExchange": []
   },
   "5018": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Setelah dipilih, jumlah Tuning Shard saat ini +{*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Setelah dipilih, jumlah Attuned Shard saat ini +{*val1*}%.",
     "Id": 5018,
     "ValueExchange": ["100"]
   },
   "5019": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setelah setiap gelombang berakhir, mendapat {*val1*} Neutralization Catalyst, tidak berlaku setelah mencapai batas maksimum.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setelah setiap gelombang berakhir, mendapat {*val1*} Neutralization Catalyst. Efek ini tidak berlaku lagi setelah mencapai batas jumlah maksimal.",
     "Id": 5019,
     "ValueExchange": ["2"]
   },
   "5020": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Setiap 1 Tuning Fantasy dari Aliran yang sama, Crit Rate +{*val1*}%.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setiap 1 Fantasy Selaras dengan Aliran yang sama meningkatkan Crit Rate +{*val1*}%.",
     "Id": 5020,
     "ValueExchange": ["5"]
   },
   "5021": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Batas maks. Energi Astraline -{*val1*}%, ATK seluruh Fantasy yang diselaraskan +{*val2*}%.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Batas Maks Energi Astraline -{*val1*}%, ATK seluruh Fantasy Selaras di medan tempur +{*val2*}%.",
     "Id": 5021,
     "ValueExchange": ["50", "60"]
   },
   "5022": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Peningkatan DMG untuk Tuning Fantasy Lv. {*val1*} ke atas +{*val2*}%.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Bonus DMG dari Fantasy Selaras yang ditingkatkan ke Lv. {*val1*} atau lebih +{*val2*}%.",
     "Id": 5022,
     "ValueExchange": ["4", "40"]
   },
   "5023": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Setelah dipilih, kamu akan mendapat {*val1*} poin Tuning Shard untuk setiap 1 slot Fantasy yang tidak dipakai.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Setelah dipilih, setiap 1 slot formasi Fantasy yang tidak dipakai akan memberimu {*val1*} poin Shard Selaras.",
     "Id": 5023,
     "ValueExchange": ["2000"]
   },
   "5024": {
-    "Desc": "<style=\"tipsYellow\">[Suplai]</style> Mendapat {*val1*} Clone Tuning Fantasy: Trickster Nappo, dengan Skill yang sama seperti Trickster Nappo, tetapi harga jualnya 0.",
+    "Desc": "<style=\"tipsYellow\">[Suplai]</style>Mendapat {*val1*} Klon Fantasy Selaras: Nappo Jahil. Skill sama seperti Nappo Jahil, tetapi harga jualnya 0.",
     "Id": 5024,
     "ValueExchange": ["3"]
   },
   "5025": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style>Setelah dipakai, semua monster di arena berhenti bergerak selama {*val1*} detik, waktu CD {*val2*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, semua monster di arena akan diam selama {*val1*} detik. Waktu CD {*val2*} detik.",
     "Id": 5025,
     "ValueExchange": ["8", "120"]
   },
   "5026": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, Kecepatan seluruh Fantasy Harmoni di arena +{*val1*}%, DMG +{*val2*}%, berlangsung selama {*val3*} detik, Waktu CD {*val4*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Skill]</style>Setelah dipakai, semua Kecepatan+{*val1*}% dan Bonus DMG+{*val2*}% untuk semua Fantasy Selaras di arena selama {*val3*} detik. Waktu CD {*val4*} detik.",
     "Id": 5026,
     "ValueExchange": ["10", "50", "10", "180"]
   },
   "5027": {
-    "Desc": "<style=\"tipsYellow\">[Eksklusif Nappo Nakal]</style> Nappo Nakal pasti muncul pada pembaruan Toko berikutnya, dan ada peluang Nappo Nakal muncul pada pembaruan Toko selanjutnya.",
+    "Desc": "<style=\"tipsYellow\">[Eksklusif Nappo Nakal]</style> Nappo Nakal pasti muncul saat pembaruan toko berikutnya, dan berpeluang muncul lagi saat toko diperbarui selanjutnya.",
     "Id": 5027,
     "ValueExchange": []
   },
   "5028": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style>Setelah dipakai, Crit Rate seluruh Tuning Fantasy di arena +{*val1*}%, berlangsung selama {*val2*} detik, waktu CD {*val3*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, Crit Rate semua Fantasy Selaras di arena +{*val1*}% selama {*val2*} detik. Waktu CD: {*val3*} detik.",
     "Id": 5028,
     "ValueExchange": ["100", "10", "180"]
   },
   "5029": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, membunuh semua monster biasa di arena saat ini, Waktu CD {*val1*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, membunuh semua monster biasa di medan tempur saat ini. Waktu CD {*val1*} detik.",
     "Id": 5029,
     "ValueExchange": ["240"]
   },
   "5030": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, mendapat {*val1*} poin Shard Tuning, hanya bisa dipakai 1 kali setiap {*val2*} wave.",
+    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, mendapat {*val1*} poin Shard Penyelarasan. Hanya bisa dipakai 1 kali setiap {*val2*} gelombang.",
     "Id": 5030,
     "ValueExchange": ["3000", "5"]
   },
   "5031": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, memberikan Shield kepada seluruh Tuning Fantasy di arena berdasarkan jumlah labu yang telah dihancurkan dalam pertempuran ini. Setiap {*val1*} labu yang dihancurkan memberikan Shield sebesar {*val2*}% Max HP, berlangsung selama {*val3*} detik, Waktu CD {*val4*} detik.",
+    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, memberikan Shield kepada semua Fantasy Selaras di medan tempur berdasarkan jumlah labu yang telah dihancurkan di pertandingan ini. Setiap {*val1*} labu yang dihancurkan memberikan Shield sebesar {*val2*}% Max HP selama {*val3*} detik. Waktu CD {*val4*} detik.",
     "Id": 5031,
     "ValueExchange": ["1", "10", "30", "120"]
   },
   "5032": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, Move Speed semua Roh Pengembara meningkat {*val1*}%, DMG +{*val2*}%, berlangsung selama {*val3*} dtk, Waktu CD {*val4*} dtk.",
+    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, Move Speed semua Roh Pengembara meningkat sebesar {*val1*}% dan DMG +{*val2*}% selama {*val3*} detik. Waktu CD {*val4*} detik.",
     "Id": 5032,
     "ValueExchange": ["100", "100", "10", "120"]
   },
   "5033": {
-    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, memulihkan {*val1*} poin Energi Astraline, hanya bisa dipakai 1 kali setiap {*val2*} gelombang.",
+    "Desc": "<style=\"tipsYellow\">[Skill]</style> Setelah dipakai, memulihkan {*val1*} poin Energi Astraline. Hanya bisa dipakai 1 kali setiap {*val2*} gelombang.",
     "Id": 5033,
     "ValueExchange": ["10", "5"]
   },
   "51": {
-    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Terus menyemburkan es ke depan selama 5 detik.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br><br><style=\"tipsYellow\">Domain Nol Derajat</style>: Melepaskan duri es ke 3 Target secara acak.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menyemburkan es ke depan secara terus-menerus selama <style=\"accent-gn\">5 detik</style>.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% per detik</style> ATK<br><br><style=\"tipsYellow\">Domain Titik Beku</style>: Melepaskan duri es ke 3 target secara acak.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
     "Id": 51,
-    "ValueExchange": ["15", "360", "20", "246", "15"]
+    "ValueExchange": ["13", "72", "20", "246", "15"]
   },
   "52": {
     "Desc": "Lv2: ATK +{*val1*}%",
@@ -1145,7 +1145,7 @@
     "ValueExchange": ["45"]
   },
   "53": {
-    "Desc": "Lv3: Gugusan Shard akan terbentuk di area duri es. Setelah diambil, mendapat {*val1*} hingga {*val2*} poin Shard Penyelarasan secara acak.",
+    "Desc": "Lv3: Gugus Shard akan terbentuk di lokasi Duri Es. Setelah diambil, akan mendapat {*val1*} hingga {*val2*} poin Attunement Shard secara acak",
     "Id": 53,
     "ValueExchange": ["1", "20"]
   },
@@ -1155,12 +1155,12 @@
     "ValueExchange": ["35"]
   },
   "55": {
-    "Desc": "Lv5: Jumlah Duri Es +{*val1*} (Membutuhkan Battle Fantasy - Arctic Ogre)",
+    "Desc": "Lv5: Jumlah Duri Es +{*val1*} (Perlu memiliki Battle Fantasy - Arctic Ogre)",
     "Id": 55,
     "ValueExchange": ["2"]
   },
   "56": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Summon 3 Muku untuk Assist. Jika Muku sudah ada di medan pertempuran, maka Attack Speed semua Muku yang di-Summon oleh Diri Sendiri akan Meningkat, dapat ditumpuk hingga <style=\"accent-gn\">{*val2*}</style> lapis.<br><br><style=\"tipsYellow\">Boss Will</style>: Heal Target Rekan di <style=\"accent-gn\">dalam radius {*val3*}</style> sebesar <style=\"accent-gn\">{*val4*}%</style> HP, dan memberikan Target <style=\"accent-gn\">ATK +{*val5*}%</style>, Sustained selama <style=\"accent-gn\">{*val6*} detik</style>.<br>Waktu CD: <style=\"accent-gn\">{*val7*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Summon 3 Muku untuk memberikan Assist. Jika sudah ada Muku di medan tempur, maka akan meningkatkan Attack Speed dari semua Muku yang di-summon oleh diri sendiri, ditumpuk hingga <style=\"accent-gn\">{*val2*}</style> lapis.<br><br><style=\"tipsYellow\">Boss Will</style>: Memberikan Heal sebesar <style=\"accent-gn\">{*val4*}%</style> HP kepada target rekan dalam <style=\"accent-gn\">radius {*val3*}</style>, serta membuat <style=\"accent-gn\">ATK +{*val5*}%</style> pada target, berlangsung selama <style=\"accent-gn\">{*val6*} dtk</style>.<br>Waktu CD: <style=\"accent-gn\">{*val7*} dtk</style><br>",
     "Id": 56,
     "ValueExchange": ["170", "4", "15", "17", "10", "10", "15"]
   },
@@ -1180,22 +1180,22 @@
     "ValueExchange": ["20"]
   },
   "6": {
-    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menjatuhkan 1 Meteor setiap <style=\"accent-gn\">{*val1*} detik</style>.<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> MATK<br><br><style=\"tipsYellow\">Serbuan Rusa Roh</style>: Memanggil rusa roh untuk menerjang ke depan, memicu 1 kali tambahan untuk setiap Tuning Fantasy Humanoid di medan pertempuran.<br>Area Attack: <style=\"accent-gn\">{*val4*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val5*}%</style> MATK<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menjatuhkan 1 Meteor setiap <style=\"accent-gn\">{*val1*} detik</style>.<br>Area Attack: <style=\"accent-gn\">{*val2*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val3*}%</style> MATK<br><br><style=\"tipsYellow\">Serbuan Rusa Roh</style>: Memanggil Rusa Roh untuk menyerbu ke depan. Untuk setiap 1 Fantasy Selaras Humanoid di medan tempur, serangan ini akan terpicu 1 kali lagi.<br>Area Attack: <style=\"accent-gn\">{*val4*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val5*}%</style> MATK<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
     "Id": 6,
-    "ValueExchange": ["0.5", "6", "112", "15", "627", "15"]
+    "ValueExchange": ["0.5", "12", "112", "15", "627", "15"]
   },
   "60": {
-    "Desc": "Lv5: Tambahan PATK dan MATK dari Pasif +{*val1*}% (Harus memiliki Battle Fantasy - Muku King)",
+    "Desc": "Lv. 5: Tambahan PATK dan MATK dari Pasif +{*val1*}% (Perlu memiliki Battle Fantasy - Muku King)",
     "Id": 60,
     "ValueExchange": ["6"]
   },
   "6001": {
-    "Desc": "Pembuat onar yang paling umum di Prank Night.",
+    "Desc": "Pembuat onar yang paling sering ditemui di Prank Night.",
     "Id": 6001,
     "ValueExchange": []
   },
   "6002": {
-    "Desc": "Memiliki Shield sebesar {*val1*}% dari Max HP diri sendiri sejak awal.",
+    "Desc": "Awalnya memiliki Shield sebesar {*val1*}% dari Max HP diri sendiri.",
     "Id": 6002,
     "ValueExchange": ["30"]
   },
@@ -1210,12 +1210,12 @@
     "ValueExchange": ["50", "100"]
   },
   "6005": {
-    "Desc": "Masuk ke dalam tanah selama {*val1*} detik, lalu muncul kembali.",
+    "Desc": "Menggali ke dalam tanah dan muncul kembali setelah {*val1*} detik.",
     "Id": 6005,
     "ValueExchange": ["10"]
   },
   "6006": {
-    "Desc": "PDMG Diterima -{*val1*}%, Magic Damage Diterima +{*val2*}%.",
+    "Desc": "PDMG yang diterima -{*val1*}%, Magic Damage yang diterima +{*val2*}%.",
     "Id": 6006,
     "ValueExchange": ["80", "50"]
   },
@@ -1240,17 +1240,17 @@
     "ValueExchange": ["1"]
   },
   "6011": {
-    "Desc": "Saat menerima DMG, memberikan DMG kepada penyerang sebesar {*val1*}% dari Max HP-nya.",
+    "Desc": "Saat menerima DMG, mengakibatkan DMG sebesar {*val1*}% dari Max HP penyerang kepada mereka.",
     "Id": 6011,
     "ValueExchange": ["5"]
   },
   "6012": {
-    "Desc": "Max HP +{*val1*}%. Saat Fantasy Penyelaras memberikan DMG kepadanya, DMG +{*val3*}% untuk setiap {*val2*} Fantasy Penyelaras dari Aliran yang sama.",
+    "Desc": "Max HP +{*val1*}%. Saat menerima DMG dari Fantasy Selaras, untuk setiap {*val2*} Fantasy Selaras dari Aliran yang sama, DMG +{*val3*}%.",
     "Id": 6012,
     "ValueExchange": ["150", "1", "10"]
   },
   "6013": {
-    "Desc": "Max HP -{*val1*}%, namun saat terkena DMG, memberikan {*val2*} stack Curse kepada penyerang.<br><style=\"tipsYellow\">Curse</style>: Setiap stack mengurangi {*val3*}% DMG diri sendiri, maksimal {*val4*} stack, berlangsung selama {*val5*} detik.",
+    "Desc": "Max HP -{*val1*}%, namun saat menerima DMG, memberikan {*val2*} tumpuk Curse kepada penyerang.<br><style=\"tipsYellow\">Curse</style>: Setiap tumpuk mengurangi DMG diri sendiri sebesar {*val3*}%, maksimal {*val4*} tumpuk, berlangsung selama {*val5*} detik.",
     "Id": 6013,
     "ValueExchange": ["50", "1", "3", "20", "10"]
   },
@@ -1265,7 +1265,7 @@
     "ValueExchange": ["50", "50"]
   },
   "6016": {
-    "Desc": "Fire DMG yang diterima -{*val1*}%, Ice DMG yang diterima +{*val2*}%.",
+    "Desc": "DMG Fire yang diterima -{*val1*}%, DMG Ice yang diterima +{*val2*}%.",
     "Id": 6016,
     "ValueExchange": ["50", "50"]
   },
@@ -1275,7 +1275,7 @@
     "ValueExchange": ["50", "50"]
   },
   "61": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Downward Strike mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG pada Target di area <style=\"accent-gn\">berbentuk kipas {*val2*} meter</style> di depan.<br><br><style=\"tipsYellow\">Sapuan Mematikan</style>: Melancarkan sapuan sebanyak <style=\"accent-gn\">{*val5*} kali</style> pada Target dalam <style=\"accent-gn\">radius {*val4*} meter</style>, setiap sapuan mengakibatkan <style=\"accent-gn\">{*val6*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val7*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Downward Strike mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG pada target di area <style=\"accent-gn\">kipas {*val2*} m</style> di depan.<br><br><style=\"tipsYellow\">Sapu Bersih</style>: Melancarkan <style=\"accent-gn\">{*val5*} kali</style> tebasan menyapu pada target dalam <style=\"accent-gn\">radius {*val4*} m</style>, masing-masing mengakibatkan <style=\"accent-gn\">{*val6*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val7*} dtk</style><br>",
     "Id": 61,
     "ValueExchange": ["170", "12.5", "36", "12.5", "2", "34", "15"]
   },
@@ -1285,7 +1285,7 @@
     "ValueExchange": ["30"]
   },
   "63": {
-    "Desc": "Lv3: Attack Speed dan Cast Speed tambahan dari Pasif +{*val1*}%",
+    "Desc": "Lv3: Attack Speed dan Cast Speed tambahan dari Pasif ekstra +{*val1*}%",
     "Id": 63,
     "ValueExchange": ["8"]
   },
@@ -1295,14 +1295,14 @@
     "ValueExchange": ["20"]
   },
   "65": {
-    "Desc": "Lv5: Attack Speed dan Cast Speed tambahan dari Pasif +{*val1*}% (Harus memiliki Battle Fantasy - Goblin King)",
+    "Desc": "Lv5: Attack Speed dan Cast Speed tambahan dari Pasif mendapat ekstra +{*val1*}% (Perlu memiliki Battle Fantasy - Goblin King)",
     "Id": 65,
     "ValueExchange": ["8"]
   },
   "66": {
-    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Melancarkan Slash ke depan.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> MATK<br><br><style=\"tipsYellow\">Lord of Wind</style>: Melepaskan Tornado secara acak ke 2 Target.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}% MATK x{*val5*} detik</style><br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Normal Attack</style>: Menebas ke arah depan sebanyak 3 kali.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% MATK x3</style><br><br><style=\"tipsYellow\">Penguasa Angin</style>: Melepaskan tornado ke 2 target secara acak.<br>Area Attack: <style=\"accent-gn\">{*val3*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val4*}% MATK x{*val5*} detik</style><br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
     "Id": 66,
-    "ValueExchange": ["6.5", "253", "20", "84", "5", "15"]
+    "ValueExchange": ["6.5", "84", "20", "84", "5", "15"]
   },
   "67": {
     "Desc": "Lv2: ATK +{*val1*}%",
@@ -1310,7 +1310,7 @@
     "ValueExchange": ["45"]
   },
   "68": {
-    "Desc": "Lv3: Untuk setiap 1 Charge Tuning Fantasy di arena, jumlah Tornado +{*val1*}, batas maksimal +{*val2*}",
+    "Desc": "Lv3: Untuk setiap 1 Charge Attunement Fantasy di medan tempur, jumlah Tornado +{*val1*}, batas maksimal +{*val2*}",
     "Id": 68,
     "ValueExchange": ["1", "3"]
   },
@@ -1325,22 +1325,22 @@
     "ValueExchange": ["45"]
   },
   "70": {
-    "Desc": "Lv5: Setiap kali Tornado muncul, DMG Skill berikutnya dari Charge Tuning Fantasy akan meningkat, dengan akumulasi tertinggi {*val1*} (Membutuhkan Battle Fantasy - Storm Goblin King)",
+    "Desc": "Lv5: Setiap Tornado yang muncul akan meningkatkan DMG Skill berikutnya dari Fantasy Penyelarasan Charge, terakumulasi hingga maksimal {*val1*} (Perlu memiliki Battle Fantasy - Storm Goblin King)",
     "Id": 70,
     "ValueExchange": ["100"]
   },
   "7001": {
-    "Desc": "Memiliki Shield sebesar {*val1*}% dari Max HP diri sendiri sejak awal.",
+    "Desc": "Pada awalnya memiliki Shield sebesar {*val1*}% dari Max HP diri sendiri.",
     "Id": 7001,
     "ValueExchange": ["100"]
   },
   "7002": {
-    "Desc": "Setiap {*val1*} detik, memulihkan {*val2*}% HP Monster lain di sekitar.",
+    "Desc": "Setiap {*val1*} detik, memulihkan {*val2*}% HP monster lainnya di sekitar.",
     "Id": 7002,
     "ValueExchange": ["1", "5"]
   },
   "7003": {
-    "Desc": "Awalnya memiliki cangkang Physical, berganti dengan cangkang Magical setiap {*val1*} detik.<br><style=\"tipsYellow\">Cangkang Physical</style>: PDMG yang diterima -{*val2*}%.<br><style=\"tipsYellow\">Cangkang Magical</style>: Magic Damage yang diterima -{*val3*}%.",
+    "Desc": "Memiliki Cangkang Physical di awal, dan berganti dengan Cangkang Magical setiap {*val1*} detik.<br><style=\"tipsYellow\">Cangkang Physical</style>: PDMG yang diterima -{*val2*}%.<br><style=\"tipsYellow\">Cangkang Magical</style>: Magic Damage yang diterima -{*val3*}%.",
     "Id": 7003,
     "ValueExchange": ["10", "50", "50"]
   },
@@ -1350,27 +1350,27 @@
     "ValueExchange": ["50", "50"]
   },
   "7005": {
-    "Desc": "Setiap {*val1*} detik, memberikan Shield sebesar {*val2*}% dari HP target kepada Monster di sekitar selama {*val3*} detik.",
+    "Desc": "Setiap {*val1*} detik, memberikan Shield sebesar {*val2*}% HP target kepada monster di sekitar selama {*val3*} detik.",
     "Id": 7005,
     "ValueExchange": ["5", "20", "5"]
   },
   "7006": {
-    "Desc": "Mengunci semua Fantasy Penyelaras dari 1 Aliran acak di arena, menyerap HP sebesar {*val1*}% dari Max HP setiap detik; mengganti pilihan Aliran setiap {*val2*} detik.",
+    "Desc": "Mengunci semua Fantasy Selaras dari 1 Aliran acak di medan tempur, lalu menyerap HP sebesar {*val1*}% dari Max HP setiap detik; mengganti pilihan Aliran setiap {*val2*} detik.",
     "Id": 7006,
     "ValueExchange": ["1", "10"]
   },
   "7007": {
-    "Desc": "Setelah terkena Attack, meninggalkan bayangan di tempat, dan diri sendiri memasuki status Stealth selama {*val1*} detik.<br><style=\"tipsYellow\">Bayangan</style>: Melakukan Taunt pada Fantasy Penyelaras di sekitar.",
+    "Desc": "Setelah terkena serangan, meninggalkan satu Bayangan di tempat dan memasuki status Stealth selama {*val1*} detik.<br><style=\"tipsYellow\">Bayangan</style>: Memberikan efek Taunt pada Fantasy Selaras di sekitar.",
     "Id": 7007,
     "ValueExchange": ["3"]
   },
   "7008": {
-    "Desc": "Move Speed +{*val1*}%, tetapi tidak akan memasuki Astraline.<br>Menyentuh Monster akan menghapus Debuff Status mereka, dan membunuh semua Summon Unit Fantasy Harmoni yang tersentuh.",
+    "Desc": "Move Speed +{*val1*}%, namun tidak akan memasuki Astraline.<br>Menyentuh monster akan menghapus Debuff Status dari mereka, dan membunuh semua Summon Unit Fantasy Selaras yang tersentuh.",
     "Id": 7008,
     "ValueExchange": ["200"]
   },
   "7009": {
-    "Desc": "Setelah terkena DMG mematikan, memulihkan semua HP, dan Move Speed +{*val1*}%. Efek ini hanya akan terpicu 1 kali.",
+    "Desc": "Setelah menerima DMG mematikan, memulihkan semua HP, dan Move Speed +{*val1*}%. Efek ini hanya terpicu 1 kali.",
     "Id": 7009,
     "ValueExchange": ["50"]
   },
@@ -1385,24 +1385,24 @@
     "ValueExchange": ["75"]
   },
   "7012": {
-    "Desc": "Dark DMG yang diterima -{*val1*}%; Monster di sekitar kebal terhadap DMG Roh Gentayangan.",
+    "Desc": "DMG Elemen Gelap yang diterima -{*val1*}%; monster di sekitar kebal terhadap DMG Roh Pengembara.",
     "Id": 7012,
     "ValueExchange": ["75"]
   },
   "7013": {
-    "Desc": "Fire DMG yang diterima -{*val1*}%; Monster di sekitar kebal terhadap Burn.",
+    "Desc": "Fire DMG yang diterima -{*val1*}%; monster di sekitar kebal terhadap Burn.",
     "Id": 7013,
     "ValueExchange": ["75"]
   },
   "7014": {
-    "Desc": "Ice DMG yang diterima -{*val1*}%; Monster di sekitar kebal terhadap Dingin dan Frost.",
+    "Desc": "Ice DMG yang diterima -{*val1*}%; monster di sekitar kebal terhadap Dingin dan Frost.",
     "Id": 7014,
     "ValueExchange": ["75"]
   },
   "71": {
-    "Desc": "<style=\"tipsYellow\">Putaran Api</style>: Memutar diri sendiri dan memberikan efek Burn pada Target.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}%</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val3*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Pusaran Api</style>: Memutar diri sendiri selama <style=\"accent-gn\">3 detik</style> dan memberikan efek Burn pada target.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% per detik</style> ATK<br>Waktu CD: <style=\"accent-gn\">{*val3*} detik</style><br>",
     "Id": 71,
-    "ValueExchange": ["5.4", "60", "9"]
+    "ValueExchange": ["5.4", "100", "9"]
   },
   "72": {
     "Desc": "Lv2: ATK +{*val1*}%",
@@ -1410,7 +1410,7 @@
     "ValueExchange": ["45"]
   },
   "73": {
-    "Desc": "Lv3: Saat target yang terkena Burn mati, mendapat {*val1*} poin Tuning Shard",
+    "Desc": "Lv3: Saat target dengan efek Burn mati, mendapat {*val1*} poin Shard Selaras",
     "Id": 73,
     "ValueExchange": ["15"]
   },
@@ -1420,12 +1420,12 @@
     "ValueExchange": ["35"]
   },
   "75": {
-    "Desc": "Lv5: Saat Target Burn mati, mendapat tambahan {*val1*} Shard Penyelarasan (Perlu memiliki Battle Fantasy - Bandit Chief)",
+    "Desc": "Lv5: Saat target yang terkena Burn mati, mendapat {*val1*} poin Shard Selaras tambahan (Perlu memiliki Battle Fantasy - Bandit Chief)",
     "Id": 75,
     "ValueExchange": ["15"]
   },
   "76": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Orb Petir</style>: Summon Orb Petir, melepaskan Thunderstrike ke {*val3*} Target acak dalam <style=\"accent-gn\">radius {*val2*} meter</style> setiap detik, mengakibatkan <style=\"accent-gn\">{*val4*}%</style> DMG.<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Bola Petir</style>: Summon Bola Petir yang melepaskan Thunderstrike ke {*val3*} target acak dalam <style=\"accent-gn\">radius {*val2*} m</style> setiap detik, mengakibatkan DMG sebesar <style=\"accent-gn\">{*val4*}%</style>.<br>Waktu CD: <style=\"accent-gn\">{*val5*} detik</style><br>",
     "Id": 76,
     "ValueExchange": ["100", "12", "1", "150", "15"]
   },
@@ -1445,27 +1445,27 @@
     "ValueExchange": ["20"]
   },
   "8": {
-    "Desc": "Lv3: Saat Attack, mendapat {*val1*} Shard Penyelarasan",
+    "Desc": "Lv3: Saat menyerang, mendapat {*val1*} poin Attunement Shard",
     "Id": 8,
     "ValueExchange": ["10"]
   },
   "80": {
-    "Desc": "Lv5: ATK +{*val1*}% (Membutuhkan Battle Fantasy - Golden Juggernaut)",
+    "Desc": "Lv5: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Golden Juggernaut)",
     "Id": 80,
     "ValueExchange": ["15"]
   },
   "8001": {
-    "Desc": "Setiap ada {*val1*} Goblin Nakal di sekitar, DMG yang diterima diri sendiri berkurang {*val2*}%.",
+    "Desc": "Untuk setiap {*val1*} Goblin Nakal di sekitar, DMG yang diterima diri sendiri berkurang {*val2*}%.",
     "Id": 8001,
     "ValueExchange": ["1", "10"]
   },
   "8002": {
-    "Desc": "Kebal terhadap Petrify; bergerak di bawah tanah, dan akan muncul ke permukaan setiap {*val1*} detik untuk beristirahat selama {*val2*} detik.",
+    "Desc": "Kebal terhadap Petrify; menggali ke bawah tanah untuk bergerak, dan muncul ke permukaan setiap {*val1*} detik untuk beristirahat selama {*val2*} detik.",
     "Id": 8002,
     "ValueExchange": ["8", "8"]
   },
   "8003": {
-    "Desc": "Setiap kali Tuning Fantasy ditempatkan, Predator Spidercrab akan memakan {*val1*} poin Tuning Shard.",
+    "Desc": "Setiap kali menempatkan Attunement Fantasy, Predator Spidercrab akan memakan {*val1*} poin Attunement Shard.",
     "Id": 8003,
     "ValueExchange": ["1000"]
   },
@@ -1475,39 +1475,39 @@
     "ValueExchange": []
   },
   "8005": {
-    "Desc": "Setelah muncul, seluruh Fantasy Penyelaras kehilangan kemampuan Normal Attack, tetapi Waktu CD Skill -{*val1*}%.",
+    "Desc": "Setelah muncul, semua Fantasy Selaras di medan tempur kehilangan kemampuan Normal Attack, tetapi Waktu CD Skill -{*val1*}%.",
     "Id": 8005,
     "ValueExchange": ["50"]
   },
   "8006": {
-    "Desc": "Awalnya memiliki status Invincible dan Summon {*val1*} Soul Lance di arena. Status Invincible akan hilang setelah semua tombak dihancurkan.",
+    "Desc": "Memiliki status Invincible sejak awal dan men-summon {*val1*} Soul Lance di arena. Status Invincible akan hilang setelah semua Soul Lance dihancurkan.",
     "Id": 8006,
     "ValueExchange": ["3"]
   },
   "8007": {
-    "Desc": "Move Speed awal +{*val1*}%, tetapi berkurang {*val2*}% per detik, hingga minimum {*val3*}%.",
+    "Desc": "Move Speed awal +{*val1*}%, namun berkurang sebesar {*val2*}% setiap detik, maksimal berkurang hingga {*val3*}%.",
     "Id": 8007,
     "ValueExchange": ["300", "10", "50"]
   },
   "8008": {
-    "Desc": "Saat menerima DMG, memberikan DMG kepada penyerang sebesar {*val1*}% dari Max HP mereka.<br>Setiap HP penyerang berkurang {*val2*}%, DMG terhadap diri sendiri berkurang {*val3*}%.",
+    "Desc": "Saat menerima DMG, mengakibatkan DMG kepada penyerang sebesar {*val1*}% dari Max HP-nya.<br>Setiap {*val2*}% HP yang hilang pada penyerang akan mengurangi DMG yang diterima diri sendiri sebesar {*val3*}%.",
     "Id": 8008,
     "ValueExchange": ["5", "10", "10"]
   },
   "8009": {
-    "Desc": "Setelah muncul, menyebabkan {*val1*} Fantasy Penyelaras acak kehilangan Skill, dan mengubah target setiap {*val2*} detik.",
+    "Desc": "Setelah muncul, membuat {*val1*} Fantasy Penyelarasan secara acak kehilangan Skill, dan mengganti target setiap {*val2*} detik.",
     "Id": 8009,
     "ValueExchange": ["2", "10"]
   },
   "8010": {
-    "Desc": "Setelah muncul, mendapat kemampuan dari 1 Roh Guardian acak, dan berganti kemampuan secara acak setiap {*val1*} detik.",
+    "Desc": "Setelah muncul, mendapat kemampuan 1 Elf Guardian secara acak, dan mengganti kemampuan secara acak setiap {*val1*} detik.",
     "Id": 8010,
     "ValueExchange": ["10"]
   },
   "81": {
-    "Desc": "<style=\"tipsYellow\">Pukulan Gila</style>: Menghantam tanah 3 kali berturut-turut.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% ATK x3</style><br>Waktu CD: <style=\"accent-gn\">{*val3*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Hantaman Membabi Buta</style>: Menghantam tanah 3 kali berturut-turut.<br>Area Attack: <style=\"accent-gn\">{*val1*}</style><br>Rasio DMG: <style=\"accent-gn\">{*val2*}% ATK x3</style><br>Waktu CD: <style=\"accent-gn\">{*val3*} detik</style><br>",
     "Id": 81,
-    "ValueExchange": ["14", "133", "8"]
+    "ValueExchange": ["8", "133", "8"]
   },
   "82": {
     "Desc": "Lv2: ATK +{*val1*}%",
@@ -1525,12 +1525,12 @@
     "ValueExchange": ["35"]
   },
   "85": {
-    "Desc": "Lv5: ATK +{*val1*}% (Membutuhkan Battle Fantasy - Muku Chief)",
+    "Desc": "Lv5: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Muku Chief)",
     "Id": 85,
     "ValueExchange": ["15"]
   },
   "86": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Mengakibatkan <style=\"accent-gn\">{*val3*}%</style> DMG pada Target dalam <style=\"accent-gn\">radius {*val2*} meter</style>, dan memberikan <style=\"accent-gn\">{*val4*} lapis</style> <linktext=2002>Dingin</linktext>.<br><br><style=\"tipsYellow\">Vortex</style>: Melepaskan pusaran Air yang bertahan selama <style=\"accent-gn\">{*val5*} detik</style>, mengakibatkan <style=\"accent-gn\">{*val7*}%</style> DMG setiap detik pada Target dalam <style=\"accent-gn\">radius {*val6*} meter</style>, dan memberikan <style=\"accent-gn\">{*val8*} lapis</style> <linktext=2002>Dingin</linktext>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Normal Attack</style>: Mengakibatkan DMG sebesar <style=\"accent-gn\">{*val3*}%</style> kepada target dalam <style=\"accent-gn\">radius {*val2*} m</style>, serta memberikan <style=\"accent-gn\">{*val4*} tumpuk</style> <linktext=2002>Dingin</linktext>.<br><br><style=\"tipsYellow\">Vortex</style>: Melepaskan pusaran air yang bertahan selama <style=\"accent-gn\">{*val5*} detik</style>, mengakibatkan DMG sebesar <style=\"accent-gn\">{*val7*}%</style> setiap detik kepada target dalam <style=\"accent-gn\">radius {*val6*} m</style>, serta memberikan <style=\"accent-gn\">{*val8*} tumpuk</style> <linktext=2002>Dingin</linktext>.<br>Waktu CD: <style=\"accent-gn\">{*val9*} detik</style><br>",
     "Id": 86,
     "ValueExchange": ["100", "5", "77", "1", "5", "5", "32", "2", "15"]
   },
@@ -1555,22 +1555,22 @@
     "ValueExchange": ["35"]
   },
   "90": {
-    "Desc": "Lv5: ATK +{*val1*}% (Harus memiliki Battle Fantasy - Scaleborn King)",
+    "Desc": "Lv5: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Scaleborn King)",
     "Id": 90,
     "ValueExchange": ["15"]
   },
   "9001": {
-    "Desc": "Setelah muncul, bergerak di sepanjang jalur spesial dan tidak dapat diserang. Meniup seruling setiap {*val1*} detik, dan meninggalkan area setelah meniup seruling {*val2*} kali.<br><style=\"tipsYellow\">Meniup Seruling</style>: Semua target di sekitar tertidur selama {*val3*} detik.",
+    "Desc": "Setelah muncul, bergerak mengikuti jalur spesial, tidak dapat diserang, meniup seruling setiap {*val1*} detik, dan meninggalkan medan setelah meniup seruling sebanyak {*val2*} kali.<br><style=\"tipsYellow\">Meniup Seruling</style>: Membuat semua target di sekitar tertidur lelap selama {*val3*} detik.",
     "Id": 9001,
     "ValueExchange": ["15", "2", "5"]
   },
   "9002": {
-    "Desc": "Mendapat banyak Shard Tuning dan Karunia Astraline setelah mengalahkannya.",
+    "Desc": "Mendapat banyak Tuning Shard dan Karunia Astraline setelah dikalahkan.",
     "Id": 9002,
     "ValueExchange": []
   },
   "91": {
-    "Desc": "<style=\"tipsYellow\">Nilai Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Semburan Mata Air Beracun</style>: Melepaskan mata air beracun yang bertahan selama <style=\"accent-gn\">{*val4*} detik</style> kepada <style=\"accent-gn\">{*val3*}</style> target acak dalam <style=\"accent-gn\">radius {*val2*} meter</style>, mengakibatkan <style=\"accent-gn\">{*val5*}%</style> DMG setiap kalinya.<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
+    "Desc": "<style=\"tipsYellow\">Kekuatan Dasar</style>: <style=\"accent-gn\">{*val1*}</style><br><br><style=\"tipsYellow\">Semburan Mata Air Beracun</style>: Melepaskan mata air beracun yang bertahan selama <style=\"accent-gn\">{*val4*} detik</style> pada <style=\"accent-gn\">{*val3*}</style> target acak dalam <style=\"accent-gn\">radius {*val2*} m</style>, memberikan <style=\"accent-gn\">{*val5*}%</style> DMG setiap kali.<br>Waktu CD: <style=\"accent-gn\">{*val6*} detik</style><br>",
     "Id": 91,
     "ValueExchange": ["100", "8", "3", "8", "37", "15"]
   },
@@ -1590,27 +1590,27 @@
     "ValueExchange": ["20"]
   },
   "95": {
-    "Desc": "Lv5: ATK +{*val1*}% (Harus memiliki Battle Fantasy - Toxic Beehive)",
+    "Desc": "Lv5: ATK +{*val1*}% (Perlu memiliki Battle Fantasy - Toxic Beehive)",
     "Id": 95,
     "ValueExchange": ["15"]
   },
   "96": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Fire][Burn]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat ada Perhitungan DMG <linktext=2001>Burn</linktext> dalam radius {*val1*} meter, memicu 1 kali tambahan {*val2*}% DMG terhadapnya.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Fire][Burn]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat ada perhitungan DMG <linktext=2001>Burn</linktext> dalam radius {*val1*} m, memicu 1 kali DMG tambahan sebesar {*val2*}% terhadap target tersebut.",
     "Id": 96,
     "ValueExchange": ["20", "8"]
   },
   "97": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Gelap][Hyakki][Debuff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Setelah Kill Monster, memunculkan <linktext=2009>Roh Pengembara</linktext>; batas maksimal <linktext=2009>Roh Pengembara</linktext> +{*val1*}, hingga +{*val2*}.",
+    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Gelap][Ratusan Roh][Debuff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Menghasilkan <linktext=2009>Roh Pengembara</linktext> setelah mengalahkan monster; batas jumlah <linktext=2009>Roh Pengembara</linktext> +{*val1*}, maks. +{*val2*}.",
     "Id": 97,
     "ValueExchange": ["1", "3"]
   },
   "98": {
-    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Es][Glacier][Sumber Daya]</style><br><br><style=\"tipsYellow\">Pasif</style>: Setiap memiliki {*val1*} poin Shard Penyelarasan, DMG Diri Sendiri meningkat +{*val2*}%, Tertinggi +{*val3*}%.",
+    "Desc": "<style=\"magic\">[Magical]</style><style=\"tipsYellow\">[Es][Glacier][Sumber Daya]</style><br><br><style=\"tipsYellow\">Pasif</style>: Setiap {*val1*} poin Shard Selaras, Peningkatan DMG diri sendiri +{*val2*}%, hingga batas tertinggi +{*val3*}%.",
     "Id": 98,
     "ValueExchange": ["100", "0.8", "80"]
   },
   "99": {
-    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Petir][Burn][Debuff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat hadir, DMG Fantasy Tuning aliran Burn yang diterima semua Monster meningkat sebesar [{*val1*}% × Tumpuk <linktext=2001>Burn</linktext>], tidak dapat ditumpuk.",
+    "Desc": "<style=\"physical\">[Physical]</style><style=\"tipsYellow\">[Petir][Burn][Debuff]</style><br><br><style=\"tipsYellow\">Pasif</style>: Saat berada di medan tempur, DMG yang diterima semua Monster dari Fantasy Selaras Aliran Burn meningkat sebesar [{*val1*}% x Tumpuk <linktext=2001>Burn</linktext>], tidak dapat ditumpuk.",
     "Id": 99,
     "ValueExchange": ["3"]
   }

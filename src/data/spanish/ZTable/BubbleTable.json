@@ -95,7 +95,8 @@
     "AdditionalTargetIdleScore": [],
     "AdditionalTargetName": [
       "1. Permanece cerca del nappo aureado y del nappo plateado para obtener puntos. Cada sesión dura 10 minutos.",
-      "2. Recibe una gran cantidad de puntos de amistad, insignias estelares plateadas y materiales de equipo con tu primera participación diaria."
+      "2. Aparecerán Restos bajo las Estrellas en la Playa de Asterleeds durante la primera sesión de cada día. ¡Ábrelos para obtener materiales de lectura conmemorativos o recompensas de evento!",
+      "3. Durante el evento, visita a Aleya para participar en la Trivia de Fuegos."
     ],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
@@ -184,7 +185,7 @@
     "AdditionalTargetCompleteMaxNum": [240],
     "AdditionalTargetIdleScore": [10],
     "AdditionalTargetName": [
-      "1. Permanece en el área objetivo para obtener puntuación",
+      "1. Permanece en el área objetivo para obtener puntos.",
       "2. El grupo de baile cambia de baile cada diez minutos; ¡sigue el ritmo y no te quedes atrás!",
       "3. Sigue el ritmo de la bailarina principal para ganar puntos extra periódicamente ({*val1*}/{*val2*})."
     ],
@@ -243,7 +244,7 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["1. Permanece en el área objetivo para obtener puntos.", ""],
+    "AdditionalTargetName": ["1. Permanece en el área objetivo para obtener puntos.", "  "],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3004,
@@ -257,7 +258,7 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["1. Permanece en el área objetivo para obtener puntos.", ""],
+    "AdditionalTargetName": ["1. Permanece en el área objetivo para obtener puntos.", "  "],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3005,
@@ -271,11 +272,14 @@
     "AdditionalTargetCompleteCoolDown": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetIdleScore": [],
-    "AdditionalTargetName": ["", ""],
+    "AdditionalTargetName": [
+      "1. Permanece en el área objetivo para obtener puntos.",
+      "2. En el área del evento, puedes buscar al Espantapájaros de Calabaza para transformarte o encontrar al Líder Calabaza para unirte al Desfile del susto."
+    ],
     "AdditionalTargetToEntriesMessage": [],
     "BubbleType": 1,
     "Id": 3006,
-    "Name": "",
+    "Name": "Desfile del susto",
     "ScoreCycle": [1, 5],
     "TargetCompleteClientBuff": [],
     "TargetScore": 500

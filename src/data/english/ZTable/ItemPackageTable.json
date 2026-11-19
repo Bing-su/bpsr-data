@@ -3,12 +3,12 @@
     "Capacity": 2000,
     "CapacityExtra": 2100,
     "Classify": [
-      ["", "", "Growth Item", ""],
+      ["", "", "Growth Items", ""],
       ["", "", "Valuable Item", ""],
       ["", "", "Consumable", ""],
       ["", "", "Rare Material", ""],
       ["", "", "Quest Item", ""],
-      ["", "", "", ""]
+      ["", "", "Event Items", ""]
     ],
     "Consume": "0",
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_14",
@@ -127,6 +127,17 @@
     "Name": "Sheet Music",
     "Show": 0
   },
+  "16": {
+    "Capacity": 2000,
+    "CapacityExtra": 2100,
+    "Classify": [["", "", "Season Factor", ""]],
+    "Consume": "0",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_343",
+    "Id": 16,
+    "ItemDiscardTab": 0,
+    "Name": "Season Items",
+    "Show": 8
+  },
   "2": {
     "Capacity": 500,
     "CapacityExtra": 600,
@@ -187,7 +198,7 @@
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_198",
     "Id": 6,
     "ItemDiscardTab": 0,
-    "Name": "Battle Imagine",
+    "Name": "Battle Imagines",
     "Show": 5
   },
   "7": {

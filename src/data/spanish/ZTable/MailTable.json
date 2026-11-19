@@ -751,7 +751,7 @@
     "MailType": 1,
     "NpcId": 0,
     "NpcName": "",
-    "Title": "Correo de mobiliario temporal:"
+    "Title": "Correo de mobiliario temporal: "
   },
   "2001": {
     "AwardId": 20500700,
@@ -950,7 +950,7 @@
   },
   "2256": {
     "AwardId": 0,
-    "Content": "Estimado aventurero:<br><br>Detectamos que no has reclamado tu recompensa de inicio de sesión. Ya te la reenviamos a tu buzón. <br><br>Que esta pequeña sorpresa traiga más alegría a tus aventuras. ¡Acepta esta pequeña bendición y embárcate en un viaje aún más brillante!",
+    "Content": "Estimado aventurero: <br><br>Detectamos que no has reclamado tu recompensa de inicio de sesión. Ya te la reenviamos a tu buzón. <br><br>Que esta pequeña sorpresa traiga más alegría a tus aventuras. ¡Acepta esta pequeña bendición y embárcate en un viaje aún más brillante!",
     "ExpireTime": 30,
     "Id": 2256,
     "Important": 0,
@@ -974,6 +974,19 @@
     "NpcName": "",
     "Title": "Reflejo de Noche de Ascuas: Recompensas de inicio de sesión de compensación"
   },
+  "2258": {
+    "AwardId": 0,
+    "Content": "Estimado aventurero: <br><br>Detectamos que no has reclamado tu recompensa de inicio de sesión. Ya te la reenviamos a tu buzón. <br><br>Que esta pequeña sorpresa traiga más alegría a tus aventuras. ¡Acepta esta pequeña bendición y embárcate en un viaje aún más brillante!",
+    "ExpireTime": 30,
+    "Id": 2258,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "",
+    "Title": "[Deseos del Amanecer al Atardecer: recompensa de inicio de sesión reemitida]"
+  },
   "2300": {
     "AwardId": 0,
     "Content": "¡Saludos, aventurero!<br><br>Reclama las recompensas que obtuviste con el código de canje.",
@@ -984,7 +997,7 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "Correo del sistema",
+    "NpcName": "Sistema",
     "Title": "[Recompensa] Código de canje"
   },
   "2401": {
@@ -1041,7 +1054,7 @@
   },
   "2502": {
     "AwardId": 0,
-    "Content": "Alma aventurera: <br><br>Se restablecieron los objetivos diarios de esta ronda del evento de colaboración. Revisa tus recompensas sin reclamar.<br><br>“¡Que la suerte te acompañe!\"",
+    "Content": "Alma aventurera: <br><br>Se restablecieron los objetivos diarios de esta ronda del evento de colaboración. Revisa tus recompensas sin reclamar.<br><br>¡Que la suerte te acompañe!",
     "ExpireTime": 7,
     "Id": 2502,
     "Important": 0,
@@ -1054,7 +1067,7 @@
   },
   "2503": {
     "AwardId": 0,
-    "Content": "Alma aventurera: <br><br>Se restablecieron los objetivos semanales de esta ronda del evento de colaboración. Revisa tus recompensas sin reclamar. <br><br>“¡Que la suerte te acompañe!\"",
+    "Content": "Alma aventurera: <br><br>Se restablecieron los objetivos semanales de esta ronda del evento de colaboración. Revisa tus recompensas sin reclamar. <br><br>¡Que la suerte te acompañe!",
     "ExpireTime": 30,
     "Id": 2503,
     "Important": 0,
@@ -1078,6 +1091,19 @@
     "NpcName": "Miaunia",
     "Title": "[Colaboración] Reenvío de recompensa de objetivo de desafío"
   },
+  "2505": {
+    "AwardId": 0,
+    "Content": "Saludos, aventurero: <br><br>El Festival de Brisa Marina ha terminado. ¡Reclama las recompensas de objetivo de evento restantes!<br><br>¡Gracias por participar!",
+    "ExpireTime": 30,
+    "Id": 2505,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Personal del Festival de Brisa Marina",
+    "Title": "[Festival de Brisa Marina] Recompensas de objetivo de evento no reclamadas reemitidas"
+  },
   "2506": {
     "AwardId": 0,
     "Content": "Saludos, aventurero: <br><br>El evento del Festival de la Cosecha de Kanamia ha terminado. ¡Reclama las recompensas de objetivo que te faltan!<br><br>¡Gracias por participar!",
@@ -1093,7 +1119,7 @@
   },
   "2507": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "A quien emprende la aventura:<br><br>El evento Noche de Travesuras ha terminado. Revisa y reclama a tiempo las recompensas de objetivos no reclamadas~<br><br>¡Gracias por tu participación!",
     "ExpireTime": 30,
     "Id": 2507,
     "Important": 0,
@@ -1101,8 +1127,8 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 1200012,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "Sistema",
+    "Title": "[Noche de Travesuras] Reenvío de recompensas de objetivos del evento"
   },
   "3002": {
     "AwardId": 0,
@@ -1210,7 +1236,7 @@
   },
   "4005": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "A quien emprende la aventura:<br><br>Tu resultado en el desafío de Ajuste de línea de engrama fue rechazado por sospecha de trampa. Si tienes alguna duda, ponte en contacto con atención al cliente.",
     "ExpireTime": 30,
     "Id": 4005,
     "Important": 0,
@@ -1218,7 +1244,20 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "Sistema",
+    "Title": "Resultado del desafío de Ajuste de línea de engrama rechazado"
+  },
+  "4006": {
+    "AwardId": 0,
+    "Content": "Hola: <br><br>El evento actual Crepúsculo Inquebrantable ha finalizado y tienes recompensas sin reclamar. Reclámalas pronto. <br><br>¡Gracias por participar!",
+    "ExpireTime": 30,
+    "Id": 4006,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Sistema",
+    "Title": "[Crepúsculo Inquebrantable] — Reemisión de recompensas de objetivo"
   }
 }

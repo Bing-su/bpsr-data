@@ -260,7 +260,7 @@
     "FailureMessage": 0,
     "Param": "指定喵特赏是否已搬空",
     "RefreshNum": "类型ID=奖池ID=1（1表示已搬空，0表示未搬空）",
-    "ShowPurview": "Réserve de prix {*val*}",
+    "ShowPurview": "Cagnotte {*val*}",
     "Type": 129
   },
   "13": {
@@ -310,6 +310,14 @@
     "RefreshNum": "幻想图鉴ID=图鉴等级",
     "ShowPurview": "Atteindre le niv. {*val2*} des Archives {*val1*}",
     "Type": 134
+  },
+  "135": {
+    "Example": "135=5",
+    "FailureMessage": 124054,
+    "Param": "赛季因子词条库等级",
+    "RefreshNum": "135=赛季因子词条库等级",
+    "ShowPurview": "Atteignez le niv. {*val*} du Codex d'affixes de Facteur de saison",
+    "Type": 135
   },
   "136": {
     "Example": "136=3910=1",

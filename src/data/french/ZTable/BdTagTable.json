@@ -195,6 +195,27 @@
     "TagString": "L'effet de chance de base inhérent à une classe",
     "TagType": 1
   },
+  "107": {
+    "Id": 107,
+    "ParentTag": 88,
+    "TagName": "Dégâts de l'effet de chance",
+    "TagString": "Dégâts causés par l'effet de chance déclenché par des compétences (lors de l'utilisation de compétences de classe infligeant des dégâts directs ou des soins, tous les effets de chance que vous possédez ont une chance de se déclencher égale à votre Taux de chance)",
+    "TagType": 3
+  },
+  "108": {
+    "Id": 108,
+    "ParentTag": 88,
+    "TagName": "Dégâts de l'effet de chance",
+    "TagString": "Dégâts causés par l'effet de chance déclenché par des compétences (lors de l'utilisation de compétences de classe infligeant des dégâts directs ou des soins, tous les effets de chance que vous possédez ont une chance de se déclencher égale à votre Taux de chance)",
+    "TagType": 3
+  },
+  "109": {
+    "Id": 109,
+    "ParentTag": 0,
+    "TagName": "Dégâts copiés",
+    "TagString": "Copie les dégâts de certaines compétences",
+    "TagType": 1
+  },
   "11": {
     "Id": 11,
     "ParentTag": 1003,
@@ -226,29 +247,29 @@
   "122": {
     "Id": 122,
     "ParentTag": 1012,
-    "TagName": "Humanoïde",
-    "TagString": "Difficile à développer, mais extrêmement puissant en fin de partie.",
+    "TagName": "<style=\"tipsYellow\">Parade des spectres</style>",
+    "TagString": "Pour chaque tranche de <style=\"accent-gn\">4</style> Imagines de syntonisation de Parade des spectres, <style=\"accent-gn\">limite de spectres +1</style>.",
     "TagType": 2
   },
   "123": {
     "Id": 123,
     "ParentTag": 1012,
-    "TagName": "Brûlure",
-    "TagString": "Équipe centrée sur Tata (principal DPS), basée sur les dégâts de Brûlure.",
+    "TagName": "<style=\"tipsYellow\">Brûlure</style>",
+    "TagString": "Pour chaque tranche de <style=\"accent-gn\">3</style> Imagines de syntonisation de Brûlure, <style=\"accent-gn\">taux de critique +10 %</style>.",
     "TagType": 2
   },
   "124": {
     "Id": 124,
     "ParentTag": 1012,
-    "TagName": "Ressources",
-    "TagString": "Obtenir rapidement des Éclats de cristal en début de partie pour un gros dégâts en fin de partie.",
+    "TagName": "<style=\"tipsYellow\">Ressources</style>",
+    "TagString": "Pour chaque tranche de <style=\"accent-gn\">3</style> Imagines de syntonisation de Ressources, <style=\"accent-gn\">taux d'obtention des Éclats de cristal de syntonisation +5 %</style>.",
     "TagType": 2
   },
   "125": {
     "Id": 125,
     "ParentTag": 1012,
-    "TagName": "Charge",
-    "TagString": "Les compétences ne se déclenchent que lorsque les ennemis entrent dans la zone, avec un bonus contre les boss.",
+    "TagName": "<style=\"tipsYellow\">Ultra-glacial</style>",
+    "TagString": "Pour chaque tranche de <style=\"accent-gn\">3</style> Imagines de syntonisation d'Ultra-glacial, <style=\"accent-gn\">ATQ de base +5 %</style>.",
     "TagType": 2
   },
   "126": {
@@ -268,7 +289,7 @@
   "128": {
     "Id": 128,
     "ParentTag": 1012,
-    "TagName": "Airona",
+    "TagName": "Rorola",
     "TagString": "Spécialisation Défense de tour",
     "TagType": 2
   },
@@ -289,7 +310,7 @@
   "130": {
     "Id": 130,
     "ParentTag": 1012,
-    "TagName": "Olvera",
+    "TagName": "Boyce",
     "TagString": "Spécialisation Défense de tour",
     "TagType": 2
   },
@@ -632,7 +653,7 @@
   "38": {
     "Id": 38,
     "ParentTag": 1009,
-    "TagName": "Chargement",
+    "TagName": "Charge",
     "TagString": "Une méthode de lancement de compétence nécessitant un temps de préparation pour atteindre une puissance accrue",
     "TagType": 1
   },
@@ -1017,8 +1038,8 @@
   "88": {
     "Id": 88,
     "ParentTag": 1002,
-    "TagName": "Dégâts des effets de chance",
-    "TagString": "Dégâts causés par les effets de chance déclenchés par des compétences (lors de l'utilisation de compétences de classe infligeant des dégâts directs ou prodiguant des soins, tous les effets de chance que vous possédez ont une chance de se déclencher égale à votre taux de chance)",
+    "TagName": "Effet de chance",
+    "TagString": "Lors de l'utilisation de compétences de classe infligeant des dégâts directs ou prodiguant des soins, tous les effets de chance que vous possédez ont une chance de se déclencher égale à votre taux de chance.",
     "TagType": 2
   },
   "89": {

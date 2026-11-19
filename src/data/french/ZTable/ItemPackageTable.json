@@ -3,12 +3,12 @@
     "Capacity": 2000,
     "CapacityExtra": 2100,
     "Classify": [
-      ["", "", "Objet de croissance", ""],
+      ["", "", "Objets de croissance", ""],
       ["", "", "Objet de valeur", ""],
       ["", "", "Consommable", ""],
       ["", "", "Matériau rare", ""],
       ["", "", "Objet de quête", ""],
-      ["", "", "", ""]
+      ["", "", "Objets d'événement", ""]
     ],
     "Consume": "0",
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_14",
@@ -127,6 +127,17 @@
     "Name": "Partition",
     "Show": 0
   },
+  "16": {
+    "Capacity": 2000,
+    "CapacityExtra": 2100,
+    "Classify": [["", "", "Facteur de saison", ""]],
+    "Consume": "0",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_343",
+    "Id": 16,
+    "ItemDiscardTab": 0,
+    "Name": "Objets de saison",
+    "Show": 8
+  },
   "2": {
     "Capacity": 500,
     "CapacityExtra": 600,
@@ -187,7 +198,7 @@
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_198",
     "Id": 6,
     "ItemDiscardTab": 0,
-    "Name": "Imagine de combat",
+    "Name": "Imagines de combat",
     "Show": 5
   },
   "7": {

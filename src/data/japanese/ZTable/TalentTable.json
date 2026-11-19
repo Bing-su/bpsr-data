@@ -226,8 +226,8 @@
     "Des": "敏捷转换",
     "FightValue": 26,
     "Id": 1101,
-    "TalentDes": "敏捷<style=\"accent-gn\">10</style>ptにつきファスト+<style=\"accent-gn\">7</style>pt。",
-    "TalentEffect": [[4, 2, 11122, 7000]],
+    "TalentDes": "敏捷<style=\"accent-gn\">10</style>ptにつきファスト+<style=\"accent-gn\">21</style>pt。",
+    "TalentEffect": [[4, 2, 11122, 21000]],
     "TalentIcon": "ui/atlas/talent_passive_11/talent_passive_icon_general_dps_speedtran",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -578,7 +578,7 @@
     "WeaponGroup": 11
   },
   "1122": {
-    "BuffPar": [[50, 2]],
+    "BuffPar": [[40, 2]],
     "BuffValueKey": [["attr", "fightres"]],
     "Des": "光落",
     "FightValue": 26,
@@ -702,7 +702,7 @@
     "Des": "驯鹰流",
     "FightValue": 26,
     "Id": 1129,
-    "TalentDes": "<style=\"accent-gn\">特殊攻撃</style>を<linktext=1547><style=\"ItemQuality_5\">ストライクボルト</style></linktext>に変更し、このスキルの威力を強化する。<br><style=\"accent-gn\">閃心</style>を毎秒<style=\"accent-gn\">2</style>pt回復する。<br>ファスト<style=\"accent-gn\">1%</style>につき<linktext=1547><style=\"ItemQuality_5\">ストライクボルト</style></linktext>のリキャスト速度+<style=\"accent-gn\">1%</style>。<br><style=\"accent-gn\">臣鷹</style>をテイムして自身の戦闘に協力させることができる。<br><br><style=\"accent-gn\">臣鷹</style>は常にそばに控えており、自身のクラススキルがダメージを与えると、<style=\"accent-gn\">臣鷹</style>が<style=\"accent-gn\">23%</style>の固定確率で（会心発生時は100%）素早く対象に襲いかかり、自身の攻撃力の<style=\"accent-gn\">150%</style>の<style=\"physical\">物理ダメージ</style>を与える（威力は<style=\"accent-gn\">通常攻撃</style>スキルのレベルアップ/ランクアップに応じてアップ）。また、<style=\"accent-gn\">臣鷹</style>の出撃回数が<style=\"accent-gn\">5</style>回を超えると、<style=\"accent-gn\">臣鷹</style>の次の出撃時に、超過した出撃回数とダメージが合算される。<br><br><i><style=\"text_third_gray\"><size=20>臣鷹は自身の攻撃に呼応するが、呼応頻度はファストや会心によってアップする。臣鷹が雷撃衝撃を習得すると、ダメージが大幅にアップする。</size></style></i>",
+    "TalentDes": "<style=\"accent-gn\">特殊攻撃</style>を<linktext=1547><style=\"ItemQuality_5\">ストライクボルト</style></linktext>に変更し、このスキルの威力を強化する。<br><style=\"accent-gn\">閃心</style>を毎秒<style=\"accent-gn\">2</style>pt回復する。<br>ファスト<style=\"accent-gn\">1%</style>につき<linktext=1547><style=\"ItemQuality_5\">ストライクボルト</style></linktext>のリキャスト速度+<style=\"accent-gn\">1%</style>。<br><style=\"accent-gn\">臣鷹</style>をテイムして自身の戦闘に協力させることができる。<br><br><style=\"accent-gn\">臣鷹</style>は常にそばに控えており、自身の光属性クラススキルがダメージを与えると、<style=\"accent-gn\">臣鷹</style>が<style=\"accent-gn\">23%</style>の固定確率で（会心発生時は100%）素早く対象に襲いかかり、自身の攻撃力の<style=\"accent-gn\">150%</style>の<style=\"physical\">物理ダメージ</style>を与える（威力は<style=\"accent-gn\">通常攻撃</style>スキルのレベルアップ/ランクアップに応じてアップ）。また、<style=\"accent-gn\">臣鷹</style>の出撃回数が<style=\"accent-gn\">5</style>回を超えると、<style=\"accent-gn\">臣鷹</style>の次の出撃時に、超過した出撃回数とダメージが合算される。<br><br><i><style=\"text_third_gray\"><size=20>臣鷹は自身の攻撃に呼応するが、呼応頻度はファストや会心によってアップする。臣鷹が雷撃衝撃を習得すると、ダメージが大幅にアップする。</size></style></i>",
     "TalentEffect": [
       [6, 2220, 2222],
       [3, 2203290, 1]
@@ -1399,7 +1399,7 @@
   "1166": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "钢制喙聚集",
+    "Des": "急速轰炸",
     "FightValue": 26,
     "Id": 1166,
     "TalentDes": "力量+10",
@@ -1407,7 +1407,7 @@
     "TalentIcon": "ui/atlas/talent_passive_11/gongjian1166",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "弓心集中",
+    "TalentName": "急速爆撃",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020054, 1]],
@@ -1465,7 +1465,7 @@
     "WeaponGroup": 1
   },
   "120": {
-    "BuffPar": [[10, 22, 10000]],
+    "BuffPar": [[10, 28, 10000]],
     "BuffValueKey": [["num", "attr", "time"]],
     "Des": "雷电之力",
     "FightValue": 26,
@@ -1589,10 +1589,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 1206,
-    "TalentDes": "筋力<style=\"accent-gn\">3</style>ptにつき物理防御力+<style=\"accent-gn\">3.6</style>pt。",
+    "TalentDes": "筋力<style=\"accent-gn\">1</style>ptにつき物理防御力+<style=\"accent-gn\">1.5</style>pt。",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1206",
     "TalentId": 0,
@@ -2000,7 +2000,7 @@
   "1228": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之二",
     "FightValue": 26,
     "Id": 1228,
     "TalentDes": "力量+10",
@@ -2008,7 +2008,7 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "裁決追撃",
+    "TalentName": "裁決追撃・二",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -2714,7 +2714,7 @@
   "1267": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之一",
     "FightValue": 26,
     "Id": 1267,
     "TalentDes": "力量+10",
@@ -2722,7 +2722,24 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "裁決追撃",
+    "TalentName": "裁決追撃・一",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020056, 1]],
+    "WeaponGroup": 12
+  },
+  "1268": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "神圣壁垒",
+    "FightValue": 26,
+    "Id": 1268,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2206690, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_12/jiandun1217",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "聖壁",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -3534,7 +3551,7 @@
   "1340": {
     "BuffPar": [[1]],
     "BuffValueKey": [["attr"]],
-    "Des": "音爆愈疗",
+    "Des": "音爆延时",
     "FightValue": 26,
     "Id": 1340,
     "TalentDes": "力量+10",
@@ -3542,7 +3559,7 @@
     "TalentIcon": "ui/atlas/talent_passive_13/gita1340",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "爆音の癒し",
+    "TalentName": "音爆延長",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020055, 1]],
@@ -6722,7 +6739,7 @@
     "Des": "赤红专精流",
     "FightValue": 26,
     "Id": 342,
-    "TalentDes": "<style=\"accent-gn\">炎舞回復</style>効果を獲得：メイン対象に命中すると（<linktext=1626><style=\"ItemQuality_5\">バーニングラッシュ</style></linktext>は除外）、与えたダメージの<style=\"accent-gn\">20%</style>を<style=\"accent-gn\">炎舞ゲージ</style>に変換する（ゲージの値は最大HPを超えない）。<style=\"accent-gn\">霊火</style>が不足している場合、<style=\"accent-gn\">炎舞ゲージ</style>値を<style=\"accent-gn\">25%</style>消費し、<linktext=1626><style=\"ItemQuality_5\">バーニングラッシュ</style></linktext>の持続時間+<style=\"accent-gn\">0.8</style>秒。<br><br><i><style=\"text_third_gray\"><size=20>炎舞回復で素早くゲージを蓄積し、高い攻撃速度の加護でバーニングラッシュを高頻度で発動する。さらにこれを軸に他のスキル効果と連動させ、バースト中に大ダメージを与えよう。</size></style></i>",
+    "TalentDes": "<style=\"accent-gn\">炎舞回復</style>効果を獲得する：メイン対象に命中したとき、与えたダメージの<style=\"accent-gn\">1%</style>を<style=\"accent-gn\">炎舞ゲージ</style>に変換する（<style=\"accent-gn\">炎舞ゲージ</style>の値は攻撃力×100を超えない）。<style=\"accent-gn\">炎舞ゲージ</style>が最大になると、次にダメージを与えたとき、<style=\"accent-gn\">熱き戦意</style>効果を獲得する：<style=\"accent-gn\">炎舞ゲージ</style>は回復しなくなり、毎秒<style=\"accent-gn\">4%</style>ずつ減少し、最終ダメージが<style=\"accent-gn\">+20%</style>になる（<style=\"accent-gn\">熱き戦意</style>効果中は、<style=\"accent-gn\">炎舞ゲージ</style>は<style=\"accent-gn\">100%</style>として扱われる）。非戦闘状態になると、直ちに<style=\"accent-gn\">熱き戦意</style>状態は終了する。<br><br><i><style=\"text_third_gray\"><size=20>炎舞回復で素早くゲージを蓄積し、高い攻撃速度の加護でバーニングラッシュを高頻度で発動する。さらにこれを軸に他のスキル効果と連動させ、バースト中に大ダメージを与えよう。</size></style></i>",
     "TalentEffect": [
       [6, 1605, 1606],
       [3, 2208430, 1]
@@ -7621,7 +7638,7 @@
     "WeaponGroup": 4
   },
   "427": {
-    "BuffPar": [[65, 650, 30000]],
+    "BuffPar": [[80, 800, 30000]],
     "BuffValueKey": [["attr", "attrMax", "time"]],
     "Des": "捕手",
     "FightValue": 26,
@@ -7765,7 +7782,7 @@
     "Des": "斗志昂扬",
     "FightValue": 26,
     "Id": 434,
-    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">風陣・豪嵐破</style></linktext>が旗槍を掲げてパーティメンバーに<style=\"accent-gn\">激励</style>を付与し、10秒間、自身の会心ダメージ+<style=\"accent-gn\">50%</style>。その後、追撃を2段チャージして敵陣に突っ込み、範囲内のエネミー対象に<style=\"physical\">物理ダメージ</style>を与えてノックアップし、<style=\"accent-gn\">勇心</style>を<style=\"accent-gn\">100</style>pt回復する。<br><style=\"accent-gn\">激励</style>：持続<style=\"accent-gn\">10</style>秒。期間中、全パーティメンバーのファスト+<style=\"accent-gn\">10%</style>（この効果は同時に複数共存できない）。自身は<<style=\"accent-gn\">1</style>秒ごとに<style=\"accent-gn\">勇心</style>+<style=\"accent-gn\">10</style>pt、<style=\"accent-gn\">2</style>秒ごとに<linktext=1152><style=\"ItemQuality_5\">鋭利</style></linktext>+<style=\"accent-gn\">1</style>スタック。",
+    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">風陣・豪嵐破</style></linktext>が旗槍を掲げて自身に<style=\"accent-gn\">激励</style>を付与し、10秒間、会心ダメージ+<style=\"accent-gn\">50%</style>。その後、追撃を2段チャージして敵陣に突っ込み、範囲内のエネミー対象に<style=\"physical\">物理ダメージ</style>を与えてノックアップし、<style=\"accent-gn\">勇心</style>を<style=\"accent-gn\">100</style>pt回復する。<br><style=\"accent-gn\">激励</style>：持続<style=\"accent-gn\">10</style>秒。期間中、ファスト+<style=\"accent-gn\">15%</style>。自身は<style=\"accent-gn\">1</style>秒ごとに<style=\"accent-gn\">勇心</style>+<style=\"accent-gn\">10</style>pt、<style=\"accent-gn\">2</style>秒ごとに<linktext=1152><style=\"ItemQuality_5\">鋭利</style></linktext>+<style=\"accent-gn\">1</style>スタック。",
     "TalentEffect": [
       [6, 1426, 1410],
       [3, 2205310, 1]
@@ -9148,8 +9165,11 @@
     "Des": "花语回升",
     "FightValue": 26,
     "Id": 535,
-    "TalentDes": "<style=\"accent-gn\">究極スキル</style><linktext=1531><style=\"ItemQuality_5\">深葉・ブルームサークル</style></linktext>が<linktext=1552><style=\"ItemQuality_5\">ブルームヒール</style></linktext>に変更される。",
-    "TalentEffect": [[6, 1509, 1527]],
+    "TalentDes": "<style=\"accent-gn\">究極スキル</style>の<linktext=1531><style=\"ItemQuality_5\">深葉・ブルームサークル</style></linktext>が<linktext=1552><style=\"ItemQuality_5\">ブルームヒール</style></linktext>に置き換わる。<br><linktext=1552><style=\"ItemQuality_5\">ブルームヒール</style></linktext>を発動後、<style=\"accent-gn\">10</style>秒間は鼓舞効果が2倍になるが、自身が与える最終ダメージ<style=\"accent-gn\">-10%</style>。",
+    "TalentEffect": [
+      [6, 1509, 1527],
+      [3, 2202390, 1]
+    ],
     "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_aoyiguide",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -9839,6 +9859,23 @@
     "UnlockConsume": [[1020055, 2]],
     "WeaponGroup": 5
   },
+  "572": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "幸运脉动",
+    "FightValue": 26,
+    "Id": 572,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2202030, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_killhealring",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "幸運の鼓動",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020055, 2]],
+    "WeaponGroup": 5
+  },
   "6": {
     "BuffPar": [],
     "BuffValueKey": [],
@@ -9930,10 +9967,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 901,
-    "TalentDes": "筋力<style=\"accent-gn\">3</style>ptにつき物理防御力+<style=\"accent-gn\">3.6</style>pt。",
+    "TalentDes": "筋力<style=\"accent-gn\">1</style>ptにつき物理防御力+<style=\"accent-gn\">1.5</style>pt。",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_9/talent_passive_icon_general_tank_deftran",
     "TalentId": 0,

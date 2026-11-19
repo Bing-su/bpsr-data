@@ -1,6 +1,6 @@
 {
   "1": {
-    "Desc": "Seltenheit: Unsterblich<br>Archetyp: [Humanoid]<br>Max. Stufe: St. 5.<br>Angriffstyp: Physisch<br>Passiver Effekt: Keiner<br>Standardangriff: Schwingt die Sense 3-mal und verursacht Flächen-SCH. <br>Kernfähigkeit: Schwingt die Sense und löst 2 Ringe aus, die massiven Flächen-SCH verursachen. <br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Ringe +3.<br>Einstimmungsvorstellung St. 5: Ring-Reichweite +100 %.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_5\">Unsterblich</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style>",
     "Id": 1,
     "IsHide": 1,
     "ObjectId": 1,
@@ -9,7 +9,7 @@
     "UIColor": 5
   },
   "10": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Verbrennung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit erleiden Monster mit dem Status Verbrennung um [1 % * Verbrennungsstapel] erhöhten SCH durch Verbrennungstürme. <br>Standardangriff: Stampfer auf den Boden, was geringen Flächen-SCH verursacht. <br>Kernfähigkeit: Erhält einen Blitzschild, der alle 2 Sek. ein zufälliges Ziel mit Blitzen trifft.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Wenn das Ziel verbrannt ist, werden seine Verbrennungsstapel verbraucht, um eine Blitzexplosion auszulösen, die massiven Flächen-SCH verursacht. <br>Einstimmungsvorstellung St. 5: Blitzexplosion verbraucht nicht länger die Verbrennungsstapel des Ziels.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
@@ -18,7 +18,7 @@
     "UIColor": 3
   },
   "1001": {
-    "Desc": "Typ: Boss<br>Eigenschaft: Reduziert die Angriffsgeschwindigkeit von Einstimmungsvorstellungen in Reichweite erheblich, aber erhöht ihren ANG.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: Reduziert die Angriffsgeschwindigkeit von Einstimmungsvorstellungen in Reichweite erheblich, erhöht aber deren ANG.",
     "Id": 1001,
     "IsHide": 1,
     "ObjectId": 5003000,
@@ -27,7 +27,7 @@
     "UIColor": 4
   },
   "1002": {
-    "Desc": "Typ: Boss<br>Eigenschaft: Erleidet verringerten SCH durch frontale Angriffe und erhöhten SCH durch Angriffe von hinten.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: Erleidet von vorne verringerten SCH und von hinten erhöhten SCH.",
     "Id": 1002,
     "IsHide": 1,
     "ObjectId": 5003001,
@@ -36,7 +36,7 @@
     "UIColor": 4
   },
   "1005": {
-    "Desc": "Typ: Boss<br>Eigenschaft: Jedes Mal, wenn sein Schlaflied gesungen wird, versetzt es alle Einstimmungsvorstellungen auf dem Feld in den Schlaf.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: Versetzt beim Singen des Schlaflieds jedes Mal alle Einstimmungsvorstellungen auf dem Feld in den Schlaf.",
     "Id": 1005,
     "IsHide": 1,
     "ObjectId": 5003004,
@@ -45,7 +45,7 @@
     "UIColor": 4
   },
   "1006": {
-    "Desc": "Typ: Boss<br>Eigenschaft: Erhöht die LP erheblich, aber erhöht auch den erlittenen SCH. Je höher die Gesamtstufe aller Einstimmungsvorstellungen auf dem Feld ist, desto mehr SCH erleidet es.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: Verfügt über stark erhöhte LP, erleidet aber auch erhöhten SCH. Je höher die Gesamtstufe aller Einstimmungsvorstellungen auf dem Feld ist, desto höher ist der erlittene SCH.",
     "Id": 1006,
     "IsHide": 1,
     "ObjectId": 5003005,
@@ -54,7 +54,7 @@
     "UIColor": 4
   },
   "1007": {
-    "Desc": "Typ: Elite<br>Eigenschaft: Gewährt allen Monstern in Reichweite Unverwundbarkeit, sich selbst ausgenommen.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
     "ObjectId": 5003006,
@@ -63,7 +63,7 @@
     "UIColor": 4
   },
   "1008": {
-    "Desc": "Typ: Elite<br>Eigenschaft: Lässt die erste Einstimmungsvorstellung erstarren, die es angreift. Wer möchte der Erste sein?",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
     "ObjectId": 5003003,
@@ -72,7 +72,7 @@
     "UIColor": 4
   },
   "1009": {
-    "Desc": "Typ: Elite<br>Eigenschaften: Heilt umliegende Monster kontinuierlich.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
     "ObjectId": 5003002,
@@ -81,7 +81,7 @@
     "UIColor": 4
   },
   "101": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_5\">Unsterblich</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
     "Id": 101,
     "IsHide": 0,
     "ObjectId": 96,
@@ -90,7 +90,7 @@
     "UIColor": 5
   },
   "1010": {
-    "Desc": "Typ: Elite<br>Eigenschaft: Wird nach einer Niederlage wiederbelebt.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
     "ObjectId": 5003007,
@@ -99,7 +99,7 @@
     "UIColor": 4
   },
   "1011": {
-    "Desc": "Typ: Elite<br>Eigenschaft: Hat eine extrem hohe Bewegungsgeschwindigkeit. Aber noch schlimmer, es ist auch super zäh!",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
     "ObjectId": 5003008,
@@ -108,7 +108,7 @@
     "UIColor": 4
   },
   "1012": {
-    "Desc": "Typ: Elite<br>Eigenschaft: Ignoriert bei der Fortbewegung das Terrain, ist aber super faul und macht oft Pausen.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
     "ObjectId": 5003009,
@@ -117,7 +117,7 @@
     "UIColor": 4
   },
   "1013": {
-    "Desc": "Typ: Normal<br>Eigenschaft: Die am häufigsten anzutreffende Meereskreatur.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
     "ObjectId": 5003010,
@@ -126,7 +126,7 @@
     "UIColor": 4
   },
   "1014": {
-    "Desc": "Typ: Normal<br>Eigenschaft: Hat eine extrem hohe Bewegungsgeschwindigkeit, aber die gute Nachricht ist, dass es ziemlich zerbrechlich ist!",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
     "ObjectId": 5003012,
@@ -135,7 +135,7 @@
     "UIColor": 4
   },
   "1015": {
-    "Desc": "Typ: Normal<br>Eigenschaft: Trägt einen dicken Schild und erscheint normalerweise ganz zu Beginn einer Welle.",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
     "ObjectId": 5003011,
@@ -144,7 +144,7 @@
     "UIColor": 4
   },
   "1016": {
-    "Desc": "Typ: Normal<br>Eigenschaft: Schützt andere Monster auf dem Feld, indem es ihren erlittenen SCH reduziert. Sie werden ein riesiges Problem sein, wenn du sie nicht zuerst besiegst!",
+    "Desc": "Typ: <style=\"tipsYellow\">Boss</style><br>Merkmale: {*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
     "ObjectId": 5003013,
@@ -153,7 +153,7 @@
     "UIColor": 4
   },
   "102": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_4\">Episch</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
     "Id": 102,
     "IsHide": 0,
     "ObjectId": 101,
@@ -162,7 +162,7 @@
     "UIColor": 4
   },
   "103": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_4\">Episch</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
     "Id": 103,
     "IsHide": 0,
     "ObjectId": 106,
@@ -171,7 +171,7 @@
     "UIColor": 4
   },
   "104": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_4\">Episch</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
     "Id": 104,
     "IsHide": 0,
     "ObjectId": 111,
@@ -180,7 +180,7 @@
     "UIColor": 4
   },
   "105": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_4\">Episch</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
     "Id": 105,
     "IsHide": 0,
     "ObjectId": 116,
@@ -189,7 +189,7 @@
     "UIColor": 4
   },
   "106": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
     "Id": 106,
     "IsHide": 0,
     "ObjectId": 121,
@@ -198,7 +198,7 @@
     "UIColor": 3
   },
   "107": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
     "Id": 107,
     "IsHide": 0,
     "ObjectId": 126,
@@ -207,7 +207,7 @@
     "UIColor": 3
   },
   "108": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
     "Id": 108,
     "IsHide": 0,
     "ObjectId": 131,
@@ -216,7 +216,7 @@
     "UIColor": 3
   },
   "109": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
     "Id": 109,
     "IsHide": 0,
     "ObjectId": 136,
@@ -225,7 +225,7 @@
     "UIColor": 3
   },
   "11": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Ressource]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Beim Zerlegen werden zusätzlich 100 Einstimmung – Kristallsplitter zurückerstattet. <br>Standardangriff: Haucht Eisnebel nach vorne und verursacht SCH. <br>Kernfähigkeit: Löst Eisstacheln auf 3 zufällige Ziele aus.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Splittercluster bilden sich dort, wo Eisstacheln landen. Das Sammeln bringt zufällig 1–20 Einstimmung – Kristallsplitter ein und hält bis zu 10 Sek. an. <br>Einstimmungsvorstellung St. 5: Eisstacheln +2.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style>",
     "Id": 11,
     "IsHide": 1,
     "ObjectId": 51,
@@ -234,7 +234,7 @@
     "UIColor": 3
   },
   "110": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
     "Id": 110,
     "IsHide": 0,
     "ObjectId": 141,
@@ -243,7 +243,7 @@
     "UIColor": 3
   },
   "111": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_2\">Überlegen</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
     "Id": 111,
     "IsHide": 0,
     "ObjectId": 146,
@@ -252,7 +252,7 @@
     "UIColor": 1
   },
   "12": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Unterstützung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit wird der verursachte SCH aller Verbündeten um 5 % erhöht (bis zu 20 %). <br>Standardangriff: Beschwört 1 zufälligen Muku zur Unterstützung im Kampf und erhöht seine Angriffsgeschwindigkeit. <br>Kernfähigkeit: Heilt Verbündete in Reichweite und steigert ihren ANG für 10 Sek. um 20 %.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Beschwört 1 zusätzliche Muku-Armbrust. <br>Einstimmungsvorstellung St. 5: Beschwört 1 zusätzlichen Muku-Anführer.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
@@ -261,7 +261,7 @@
     "UIColor": 3
   },
   "13": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Unterstützung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit wird der erlittene SCH aller Feinde um 5 % erhöht (bis zu 20 %). <br>Standardangriff: Führt einen Abwärtsschlag nach vorne aus, der linearen Flächen-SCH verursacht. <br>Kernfähigkeit: Spaltet den Bereich davor und verursacht zweimal massiven Flächen-SCH.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Standardangriffe entfesseln 2 zusätzliche Bodenwellen, Angriffsreichweite +50 %. <br>Einstimmungsvorstellung St. 5: SCH +20 %.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
@@ -270,7 +270,7 @@
     "UIColor": 3
   },
   "14": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Aufladen]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: Erhöht den ANG um 10 % für jedes Ziel in Reichweite (bis zu 100 %). <br>Standardangriff: Schlägt nach vorne und verursacht großen fächerförmigen Flächen-SCH. <br>Kernfähigkeit: Entfesselt Tornados auf 2 zufällige Ziele, die 5 Sek. andauern.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Für jede Einstimmungsvorstellung des Auflade-Typs auf dem Feld: Tornado-Anzahl +1 (bis zu +3).<br>Einstimmungsvorstellung St. 5: Jedes Mal, wenn ein Tornado erscheint, erhöht dies den verursachten SCH der nächsten Fähigkeit von Einstimmungsvorstellungen des Auflade-Typs (stapelbar bis 100 %).",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style>",
     "Id": 14,
     "IsHide": 1,
     "ObjectId": 66,
@@ -279,7 +279,7 @@
     "UIColor": 3
   },
   "15": {
-    "Desc": "Seltenheit: Überlegen<br>Archetyp: [Ressource] [Verbrennung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit erhält der Abenteurer alle 10 Sek. 100 Einstimmung – Kristallsplitter (max. 5 gleichzeitig aktiv). <br>Standardangriff: Keiner<br>Kernfähigkeit: Dreht sich, um kleinen Flächen-SCH und Verbrennung zu verursachen.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Gewährt 15 Einstimmung – Kristallsplitter, wenn ein verbranntes Ziel stirbt. <br>Einstimmungsvorstellung St. 5: Gewährt 30 Einstimmung – Kristallsplitter, wenn ein verbranntes Ziel stirbt.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_2\">Überlegen</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style>",
     "Id": 15,
     "IsHide": 1,
     "ObjectId": 71,
@@ -288,7 +288,7 @@
     "UIColor": 1
   },
   "16": {
-    "Desc": "Seltenheit: Überlegen<br>Archetyp: Keiner<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Verursacht 25 % Verlangsamung bei Zielen, wenn SCH verursacht wird. Dieser Effekt ist nicht stapelbar. <br>Standardangriff: Keiner<br>Kernfähigkeit: Beschwört Blitzkugeln, die kontinuierlich Ziele in Reichweite angreifen.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: SCH der Kernfähigkeit erhöht. <br>Einstimmungsvorstellung St. 5: SCH der Kernfähigkeit erhöht.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_2\">Überlegen</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
@@ -297,7 +297,7 @@
     "UIColor": 1
   },
   "17": {
-    "Desc": "Seltenheit: Überlegen<br>Archetyp: [Aufladen]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Bei Anwesenheit erhöht jeder Muku-Anführer die Krit-Rate von Einstimmungsvorstellungen des Auflade-Typs um 10 % (bis zu 100 %). <br>Standardangriff: Keiner<br>Kernfähigkeit: Schlägt 3 Mal hintereinander auf den Boden und verursacht großen Flächen-SCH.<br>Abklingzeit: 6 Sek.<br>Einstimmungsvorstellung St. 3: SCH der Kernfähigkeit erhöht. <br>Einstimmungsvorstellung St. 5: SCH der Kernfähigkeit erhöht.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_2\">Überlegen</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style>",
     "Id": 17,
     "IsHide": 1,
     "ObjectId": 81,
@@ -306,7 +306,7 @@
     "UIColor": 1
   },
   "18": {
-    "Desc": "Seltenheit: Überlegen<br>Archetyp: Keiner<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: 30 % Chance, bei Angriff Erstarrt zu verursachen. <br>Standardangriff: Verursacht Flächen-SCH und 10 % Verlangsamung. <br>Kernfähigkeit: Wirkt einen Wasserwirbel, was kontinuierlichen Flächen-SCH und 20 % Verlangsamung verursacht.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: SCH der Kernfähigkeit erhöht. <br>Einstimmungsvorstellung St. 5: SCH der Kernfähigkeit erhöht.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_2\">Überlegen</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
     "ObjectId": 86,
@@ -315,7 +315,7 @@
     "UIColor": 1
   },
   "19": {
-    "Desc": "Seltenheit: Überlegen<br>Archetyp: Keiner<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: Verursacht zusätzlichen SCH bei korrodierten Zielen; +10 % SCH pro Korrosionsstapel. <br>Standardangriff: Keiner<br>Kernfähigkeit: Wirkt Giftquellen auf 3 zufällige Ziele, was kontinuierlichen Flächen-SCH und Korrosion verursacht.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: SCH der Kernfähigkeit erhöht. <br>Einstimmungsvorstellung St. 5: SCH der Kernfähigkeit erhöht.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_2\">Überlegen</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
     "ObjectId": 91,
@@ -324,7 +324,7 @@
     "UIColor": 1
   },
   "2": {
-    "Desc": "Seltenheit: Episch<br>Archetyp: [Humanoid] [Ressource]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: ANG +[1 % * Gesamtstufe aller Einstimmungsvorstellungen auf dem Feld]. Der Preis im Shop wird um 50 % reduziert. <br>Standardangriff: Lässt kontinuierlich Meteore auf ein einzelnes Ziel in Reichweite herabfallen. <br>Kernfähigkeit: Ruft einen Geisterhirschen, der vorwärts stürmt. Dieser Effekt wird 1 weiteres Mal für jede humanoide Einstimmungsvorstellung auf dem Feld ausgelöst. <br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Gewährt bei Angriff 10 Einstimmung – Kristallsplitter. Abklingzeit: 3 Sek. <br>Einstimmungsvorstellung St. 5: Gewährt bei Angriff 15 Einstimmung – Kristallsplitter. Abklingzeit: 1 Sek.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_4\">Episch</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style>",
     "Id": 2,
     "IsHide": 1,
     "ObjectId": 6,
@@ -333,7 +333,7 @@
     "UIColor": 4
   },
   "2001": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: Eigenschaft: Gewährt allen nahegelegenen Monstern außer sich selbst Unverwundbarkeit.",
     "Id": 2001,
     "IsHide": 1,
     "ObjectId": 5002000,
@@ -342,7 +342,7 @@
     "UIColor": 3
   },
   "2002": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Eigenschaft: Friert die erste angreifende Einstimmungsvorstellung ein. Wer möchte den ersten Schritt machen?",
     "Id": 2002,
     "IsHide": 1,
     "ObjectId": 5002001,
@@ -351,7 +351,7 @@
     "UIColor": 3
   },
   "2003": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: Heilt umliegende Monster kontinuierlich.",
     "Id": 2003,
     "IsHide": 1,
     "ObjectId": 5002002,
@@ -360,7 +360,7 @@
     "UIColor": 3
   },
   "2004": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: Ignoriert bei der Fortbewegung das Terrain, ist aber sehr faul und ruht sich oft aus.",
     "Id": 2004,
     "IsHide": 1,
     "ObjectId": 5002005,
@@ -369,7 +369,7 @@
     "UIColor": 3
   },
   "2005": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7001*}",
     "Id": 2005,
     "IsHide": 0,
     "ObjectId": 5002006,
@@ -378,7 +378,7 @@
     "UIColor": 3
   },
   "2006": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7002*}",
     "Id": 2006,
     "IsHide": 0,
     "ObjectId": 5002007,
@@ -387,7 +387,7 @@
     "UIColor": 3
   },
   "2007": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7007*}",
     "Id": 2007,
     "IsHide": 0,
     "ObjectId": 5002008,
@@ -396,7 +396,7 @@
     "UIColor": 3
   },
   "2008": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7003*}",
     "Id": 2008,
     "IsHide": 0,
     "ObjectId": 5002009,
@@ -405,7 +405,7 @@
     "UIColor": 3
   },
   "2009": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7009*}",
     "Id": 2009,
     "IsHide": 0,
     "ObjectId": 5002003,
@@ -414,7 +414,7 @@
     "UIColor": 3
   },
   "2010": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7010*}",
     "Id": 2010,
     "IsHide": 0,
     "ObjectId": 5002004,
@@ -423,7 +423,7 @@
     "UIColor": 3
   },
   "2011": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7004*}",
     "Id": 2011,
     "IsHide": 0,
     "ObjectId": 5002010,
@@ -432,7 +432,7 @@
     "UIColor": 3
   },
   "2012": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7005*}",
     "Id": 2012,
     "IsHide": 0,
     "ObjectId": 5002011,
@@ -441,7 +441,7 @@
     "UIColor": 3
   },
   "2013": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7006*}",
     "Id": 2013,
     "IsHide": 0,
     "ObjectId": 5002012,
@@ -450,7 +450,7 @@
     "UIColor": 3
   },
   "2014": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7008*}",
     "Id": 2014,
     "IsHide": 0,
     "ObjectId": 5002013,
@@ -459,7 +459,7 @@
     "UIColor": 3
   },
   "2015": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7011*}",
     "Id": 2015,
     "IsHide": 0,
     "ObjectId": 5002014,
@@ -468,7 +468,7 @@
     "UIColor": 3
   },
   "2016": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7012*}",
     "Id": 2016,
     "IsHide": 0,
     "ObjectId": 5002015,
@@ -477,7 +477,7 @@
     "UIColor": 3
   },
   "2017": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7013*}",
     "Id": 2017,
     "IsHide": 0,
     "ObjectId": 5002016,
@@ -486,7 +486,7 @@
     "UIColor": 3
   },
   "2018": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Elite</style><br>Merkmale: {*messagevalue.7014*}",
     "Id": 2018,
     "IsHide": 0,
     "ObjectId": 5002017,
@@ -495,7 +495,7 @@
     "UIColor": 3
   },
   "3": {
-    "Desc": "Seltenheit: Episch<br>Archetyp: [Humanoid] [Verbrennung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: Verursacht ein zusätzliches Mal Feuer-SCH, wann immer ein Feind in Reichweite Verbrennungs-SCH erleidet. <br>Standardangriff: Dreht sich, um Flächen-SCH und Verbrennung zu verursachen. <br>Kernfähigkeit: Sendet einen Axtstrahl nach vorne, der massiven SCH verursacht. SCH +20 % für jeden Verbrennungsstapel auf dem Ziel. <br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Nach 10-maligem Verursachen von Verbrennung entfesselt der nächste Angriff den Höllenzug auf das Ziel. <br>Einstimmungsvorstellung St. 5: Anforderung für das Verursachen von Verbrennung auf 6 reduziert, Höllenzug-Schaden +100 %.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_4\">Episch</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
@@ -504,7 +504,7 @@
     "UIColor": 4
   },
   "3001": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: Die am häufigsten anzutreffende Meereskreatur.",
     "Id": 3001,
     "IsHide": 1,
     "ObjectId": 5001000,
@@ -513,7 +513,7 @@
     "UIColor": 1
   },
   "3002": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: Schnell wie der Wind, aber zerbrechlich wie Jade.",
     "Id": 3002,
     "IsHide": 1,
     "ObjectId": 5001001,
@@ -522,7 +522,7 @@
     "UIColor": 1
   },
   "3003": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: Trägt einen schweren Schild und erscheint typischerweise ganz zu Beginn einer Welle.",
     "Id": 3003,
     "IsHide": 1,
     "ObjectId": 5001002,
@@ -531,7 +531,7 @@
     "UIColor": 1
   },
   "3004": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: Sie schützen andere anwesende Monster, indem sie deren erlittenen Schaden verringern. Werden sie nicht zuerst besiegt, führt das zu ernsthaften Problemen.",
     "Id": 3004,
     "IsHide": 1,
     "ObjectId": 5001003,
@@ -540,7 +540,7 @@
     "UIColor": 1
   },
   "3005": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: Ignoriert bei der Fortbewegung das Terrain. Was für eine nervige Plage.",
     "Id": 3005,
     "IsHide": 1,
     "ObjectId": 5001007,
@@ -549,7 +549,7 @@
     "UIColor": 1
   },
   "3006": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6001*}",
     "Id": 3006,
     "IsHide": 0,
     "ObjectId": 5001008,
@@ -558,7 +558,7 @@
     "UIColor": 1
   },
   "3007": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6002*}",
     "Id": 3007,
     "IsHide": 0,
     "ObjectId": 5001009,
@@ -567,7 +567,7 @@
     "UIColor": 1
   },
   "3008": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6003*}",
     "Id": 3008,
     "IsHide": 0,
     "ObjectId": 5001010,
@@ -576,7 +576,7 @@
     "UIColor": 1
   },
   "3009": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6004*}",
     "Id": 3009,
     "IsHide": 0,
     "ObjectId": 5001011,
@@ -585,7 +585,7 @@
     "UIColor": 1
   },
   "3010": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6005*}",
     "Id": 3010,
     "IsHide": 0,
     "ObjectId": 5001006,
@@ -594,7 +594,7 @@
     "UIColor": 1
   },
   "3011": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6006*}",
     "Id": 3011,
     "IsHide": 0,
     "ObjectId": 5001004,
@@ -603,7 +603,7 @@
     "UIColor": 1
   },
   "3012": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6007*}",
     "Id": 3012,
     "IsHide": 0,
     "ObjectId": 5001005,
@@ -612,7 +612,7 @@
     "UIColor": 1
   },
   "3013": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6008*}",
     "Id": 3013,
     "IsHide": 0,
     "ObjectId": 5001012,
@@ -621,7 +621,7 @@
     "UIColor": 1
   },
   "3014": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6009*}",
     "Id": 3014,
     "IsHide": 0,
     "ObjectId": 5001013,
@@ -630,7 +630,7 @@
     "UIColor": 1
   },
   "3015": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6010*}",
     "Id": 3015,
     "IsHide": 0,
     "ObjectId": 5001018,
@@ -639,7 +639,7 @@
     "UIColor": 1
   },
   "3016": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6011*}",
     "Id": 3016,
     "IsHide": 0,
     "ObjectId": 5001019,
@@ -648,7 +648,7 @@
     "UIColor": 1
   },
   "3017": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6012*}",
     "Id": 3017,
     "IsHide": 0,
     "ObjectId": 5001020,
@@ -657,7 +657,7 @@
     "UIColor": 1
   },
   "3018": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6013*}",
     "Id": 3018,
     "IsHide": 0,
     "ObjectId": 5001021,
@@ -666,7 +666,7 @@
     "UIColor": 1
   },
   "3019": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6014*}",
     "Id": 3019,
     "IsHide": 0,
     "ObjectId": 5001014,
@@ -675,7 +675,7 @@
     "UIColor": 1
   },
   "3020": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6015*}",
     "Id": 3020,
     "IsHide": 0,
     "ObjectId": 5001015,
@@ -684,7 +684,7 @@
     "UIColor": 1
   },
   "3021": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6016*}",
     "Id": 3021,
     "IsHide": 0,
     "ObjectId": 5001016,
@@ -693,7 +693,7 @@
     "UIColor": 1
   },
   "3022": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Normal</style><br>Merkmale: {*messagevalue.6017*}",
     "Id": 3022,
     "IsHide": 0,
     "ObjectId": 5001017,
@@ -702,7 +702,7 @@
     "UIColor": 1
   },
   "4": {
-    "Desc": "Seltenheit: Episch<br>Archetyp: [Humanoid] [Aufladen]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Grenze für Aufladungsstapel auf 20 erhöht. <br>Standardangriff: Greift nicht normal an. Geht ins Aufladen über und erhält alle 3 Sek. 1 Stapel, bis zu 20 Stapel. Löst die Fähigkeit aus, wenn der Abenteurer in Reichweite kommt. <br>Kernfähigkeit: Entfesselt unzählige Klingenstrahlen, die Flächen-SCH verursachen und alle Aufladungsstapel verbrauchen, um den SCH um [40 % * Aufladungsstapel] zu erhöhen. <br>Abklingzeit: Keine<br>Einstimmungsvorstellung St. 3: Visiert alle 10 Sek. das nächste Ziel an und feuert einen Klingenstrahl ab. <br>Einstimmungsvorstellung St. 5: Ziele für die Anvisierung von Klingenstrahlen +2.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_4\">Episch</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style>",
     "Id": 4,
     "IsHide": 1,
     "ObjectId": 16,
@@ -711,7 +711,7 @@
     "UIColor": 4
   },
   "4001": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Neutral</style><br>Merkmale: {*messagevalue.9001*}",
     "Id": 4001,
     "IsHide": 0,
     "ObjectId": 5003014,
@@ -720,7 +720,7 @@
     "UIColor": 5
   },
   "4002": {
-    "Desc": "",
+    "Desc": "Typ: <style=\"tipsYellow\">Belohnung</style><br>Merkmale: {*messagevalue.9002*}",
     "Id": 4002,
     "IsHide": 0,
     "ObjectId": 5002500,
@@ -729,7 +729,7 @@
     "UIColor": 5
   },
   "5": {
-    "Desc": "Seltenheit: Episch<br>Archetyp: [Humanoid]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Wenn anwesend: Abklingzeitgeschwindigkeit von Abenteurerfähigkeiten +50 %. Dieser Effekt ist nicht stapelbar. <br>Standardangriff: Sticht nach vorne und dreht den Speer, um Flächen-SCH zu verursachen. <br>Kernfähigkeit: Die 5 nächsten Einstimmungsvorstellungen erhalten 5 Sek. lang 100 % Abklingzeitgeschwindigkeit. <br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Bewegungsgeschwindigkeit des Abenteurers +25 %, SCH-Schub +25 %. <br>Einstimmungsvorstellung St. 5: Bewegungsgeschwindigkeit des Abenteurers +50 %, SCH-Schub +50 %.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_4\">Episch</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style>",
     "Id": 5,
     "IsHide": 1,
     "ObjectId": 21,
@@ -738,7 +738,7 @@
     "UIColor": 4
   },
   "6": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Aufladen]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Löst alle 10 Sek. eine Bodenwelle auf 3 zufällige Ziele aus und verursacht Wunde. <br>Standardangriff: Greift nicht normal an. Geht ins Aufladen über und erhält alle 3 Sek. 1 Stapel (bis zu 10 Stapel). Löst die Fähigkeit aus, wenn der Abenteurer in Reichweite kommt. <br>Kernfähigkeit: Entfesselt Höllenstachel über einen großen Bereich, was massiven SCH verursacht und alle Aufladungsstapel verbraucht, um den SCH um [30 % * Aufladungsstapel] zu erhöhen.<br>Abklingzeit: Keine<br>Einstimmungsvorstellung St. 3: Durch den passiven Effekt verursachter SCH fügt 5 Sek. lang 10 % Verwundbarkeit zu. <br>Einstimmungsvorstellung St. 5: Zusätzliche +10 % Verwundbarkeit.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style>",
     "Id": 6,
     "IsHide": 1,
     "ObjectId": 3,
@@ -747,7 +747,7 @@
     "UIColor": 3
   },
   "7": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: Keiner<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Verursacht 100 % mehr SCH bei bewegungsunfähigen Zielen. <br>Standardangriff: Priorisiert Ziele, die nicht bewegungsunfähig sind. Spuckt Spinnenseide, um SCH mit einer Chance von 40 % zu verursachen, das Ziel für 5 Sek. bewegungsunfähig zu machen. <br>Kernfähigkeit: Gräbt sich ein und taucht dann auf, was großen Flächen-SCH verursacht und das Ziel garantiert für 1 Sek. betäubt.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Chance auf Bewegungsunfähigkeit auf 100 % erhöht. <br>Einstimmungsvorstellung St. 5: Betäubungsdauer auf 2,5 Sek. erhöht.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Unterstützung</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
@@ -756,7 +756,7 @@
     "UIColor": 3
   },
   "8": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Ressource]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Physisch<br>Passiver Effekt: Gewährt Himmelsflieger 1 % Bonusschaden pro 100 Einstimmung – Kristallsplitter im Besitz des Abenteurers (bis zu 100 %). <br>Standardangriff: Lässt eine Wasserkugel fallen, die Flächen-SCH und Verlangsamung verursacht. <br>Kernfähigkeit: Beschwört einen Phantomflieger, der vorwärts stürmt.<br>Abklingzeit: 15 Sek.<br>Einstimmungsvorstellung St. 3: Flieger +1 und die Erwerbsrate von Einstimmung – Kristallsplittern +5 %. <br>Einstimmungsvorstellung St. 5: Flieger +2 und die Erwerbsrate von Einstimmung – Kristallsplittern +10 %.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
@@ -765,7 +765,7 @@
     "UIColor": 3
   },
   "9": {
-    "Desc": "Seltenheit: Exzellent<br>Archetyp: [Verbrennung]<br>Max. Stufe: St. 3; Mit der entsprechenden Kampfvorstellung wird die max. Stufe der Einstimmungsvorstellung von St. 3 auf St. 5 erhöht. <br>Angriffstyp: Magie<br>Passiver Effekt: Je höher die aktuellen LP, desto höher der ANG (bis zu +200 %), verliert jedoch kontinuierlich LP. <br>Standardangriff: Keiner<br>Kernfähigkeit: Speit kontinuierlich Feuer nach vorne, was SCH und Verbrennung verursacht.<br>Abklingzeit: 8 Sek.<br>Einstimmungsvorstellung St. 3: Stellt bei Angriff 5 % LP wieder her. <br>Einstimmungsvorstellung St. 5: Wandelt überschüssige Heilung in einen Schild um.",
+    "Desc": "<style=\"accent-gn\">Seltenheit</style>: <style=\"ItemQuality_3\">Exzellent</style><br><style=\"accent-gn\">Rolle</style>: <style=\"tipsYellow\">Schadensverursacher</style>",
     "Id": 9,
     "IsHide": 1,
     "ObjectId": 41,

@@ -970,7 +970,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1125,
-    "Name": "Ubah Matrix Tower"
+    "Name": "Matrix Tower Konversi"
   },
   "112601": {
     "BtnType": 1,
@@ -991,7 +991,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1129,
-    "Name": "Pindahkan Bom"
+    "Name": "Membawa Bom"
   },
   "1130": {
     "BtnType": 1,
@@ -1224,6 +1224,48 @@
     "Id": 1171,
     "Name": "Naik - Inner Circle"
   },
+  "1181": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1181,
+    "Name": "Pilih Sumpah [Crit]"
+  },
+  "1182": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1182,
+    "Name": "Pilih Sumpah [Luck]"
+  },
+  "1183": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1183,
+    "Name": "Pilih Sumpah [Haste]"
+  },
+  "1184": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1184,
+    "Name": "Pilih Sumpah [Mastery]"
+  },
+  "1185": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1185,
+    "Name": "Pilih Sumpah [Versatility]"
+  },
+  "1186": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 1186,
+    "Name": "Buka Trial Wish [Perlu memenuhi syarat Energi]"
+  },
   "1201": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -1292,7 +1334,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 12016,
-    "Name": "Aktifkan Discordant Crystal"
+    "Name": "Buka Kristal Disonansi"
+  },
+  "12017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 12017,
+    "Name": "Buka Hadiah Cahaya Penelusur"
   },
   "1201901": {
     "BtnType": 1,
@@ -1959,6 +2008,13 @@
     "Id": 1222,
     "Name": "Menyelam"
   },
+  "1230": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 1230,
+    "Name": "Ambil Bara Api"
+  },
   "1250": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2195,21 +2251,21 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_45",
     "Id": 14001,
-    "Name": "Penempatan Fantasy"
+    "Name": "Idle Fantasy"
   },
   "14002": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_05",
     "Id": 14002,
-    "Name": "Peningkatan Rank Fantasy"
+    "Name": "Peningkatan Tingkat Fantasy"
   },
   "14003": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 14003,
-    "Name": "Disosiasi Fantasy"
+    "Name": "Disosiasi Fantasi"
   },
   "140201": {
     "BtnType": 1,
@@ -2426,7 +2482,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1509,
-    "Name": "Petualangan Labu"
+    "Name": "Kisah Ajaib Labu"
   },
   "1510": {
     "BtnType": 1,
@@ -2448,6 +2504,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 17100101,
     "Name": "Batu Bara"
+  },
+  "190101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 190101,
+    "Name": "Aktifkan perangkat pelindung"
   },
   "200000": {
     "BtnType": 1,
@@ -2680,6 +2743,13 @@
     "Id": 200029,
     "Name": "Buat Fantasy"
   },
+  "20003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20003,
+    "Name": "Tambahkan Buff Healing"
+  },
   "200030": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2749,6 +2819,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_76",
     "Id": 200039,
     "Name": "Tugas Rumah"
+  },
+  "20004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20004,
+    "Name": "Tambahkan Buff Concerto"
   },
   "200040": {
     "BtnType": 1,
@@ -2944,7 +3021,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_91",
     "Id": 200073,
-    "Name": "Penukaran Greysky Relic"
+    "Name": "Tukar Greysky Relic"
+  },
+  "200074": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200074,
+    "Name": "Penukaran Harta Karun Jejak Cahaya"
   },
   "200075": {
     "BtnType": 1,
@@ -2993,14 +3077,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_52",
     "Id": 200081,
-    "Name": "Toko Blight Starsand dan Crystaldust"
+    "Name": "Toko Blight Starsand dan Debu Kristal"
   },
   "200082": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_09",
     "Id": 200082,
-    "Name": "Toko Starwander"
+    "Name": "Toko Planet"
   },
   "200083": {
     "BtnType": 1,
@@ -3028,14 +3112,42 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_shop",
     "Id": 200086,
-    "Name": "Toko Aliansi Dagang"
+    "Name": "Toko Serikat Dagang"
   },
   "200087": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_52",
     "Id": 200087,
-    "Name": "Toko Debu Kristal Murni"
+    "Name": "Toko Serbuk Kristal Murni"
+  },
+  "200089": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_52",
+    "Id": 200089,
+    "Name": "Toko Sutra Bintang Wish dan Debu Kristal"
+  },
+  "200091": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200091,
+    "Name": "Koleksi Kuno Cahaya Bintang"
+  },
+  "200092": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200092,
+    "Name": "Penukaran Harta Karun Masa Lalu"
+  },
+  "200093": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_26",
+    "Id": 200093,
+    "Name": "<style=\"emph-sq\">Di Atas Cakrawala, di Ujung Siang dan Malam</style>"
   },
   "2001": {
     "BtnType": 1,
@@ -3406,28 +3518,28 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 3001401,
-    "Name": "Cari Blackrock Legion Officer"
+    "Name": "Mencari Komandan Blackrock Legion"
   },
   "3001501": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 3001501,
-    "Name": "Selamatkan Tim"
+    "Name": "Selamatkan skuad yang ditawan"
   },
   "3001701": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 3001701,
-    "Name": "Pergi ke area inti"
+    "Name": "Menuju Area Inti"
   },
   "3001901": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 3001901,
-    "Name": "Kalahkan Goblin Boss"
+    "Name": "Kalahkan Kepala Goblin"
   },
   "3002": {
     "BtnType": 1,
@@ -3441,28 +3553,28 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 3002101,
-    "Name": "Sebelum Fajar"
+    "Name": "Sebelum fajar menyingsing"
   },
   "3002102": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 3002102,
-    "Name": "Saat matahari terbenam"
+    "Name": "Di kala senja"
   },
   "3002103": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 3002103,
-    "Name": "Setelah tengah malam"
+    "Name": "Setelah tengah malam tiba"
   },
   "3002801": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 3002801,
-    "Name": "Tidak Tahu Malu"
+    "Name": "Orang tak tahu malu"
   },
   "3003": {
     "BtnType": 1,
@@ -3476,14 +3588,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 3003501,
-    "Name": "Perangkat yang Hancur"
+    "Name": "Perangkat yang Rusak"
   },
   "3003502": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 3003502,
-    "Name": "Sebuah Kalung"
+    "Name": "Sebuah Necklace"
   },
   "3003503": {
     "BtnType": 1,
@@ -3497,7 +3609,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 3003701,
-    "Name": "Cari Sanctum Eye"
+    "Name": "Mencari Sanctum Eye"
   },
   "3004": {
     "BtnType": 1,
@@ -3826,21 +3938,21 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30229,
-    "Name": "Ukur"
+    "Name": "Pengukuran"
   },
   "30230": {
     "BtnType": 0,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30230,
-    "Name": "Bopong Korban Luka"
+    "Name": "Memanggul korban luka"
   },
   "30231": {
     "BtnType": 0,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30231,
-    "Name": "Taruh Obat Bius"
+    "Name": "Letakkan Potion Bius"
   },
   "30232": {
     "BtnType": 0,
@@ -3854,7 +3966,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30233,
-    "Name": "Bopong"
+    "Name": "Bantu berdiri"
   },
   "30300": {
     "BtnType": 1,
@@ -3882,7 +3994,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30402,
-    "Name": "Kumpulkan herbal"
+    "Name": "Koleksi Herbal"
   },
   "3040201": {
     "BtnType": 0,
@@ -3917,7 +4029,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30403,
-    "Name": "Periksa Anak panah"
+    "Name": "Lihat Anak panah"
   },
   "30404": {
     "BtnType": 1,
@@ -3938,21 +4050,21 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30406,
-    "Name": "Taruh Detektor"
+    "Name": "Tempatkan Detektor"
   },
   "30407": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30407,
-    "Name": "Simpan Detektor"
+    "Name": "Detektor Daur Ulang"
   },
   "30408": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 30408,
-    "Name": "Pergi ke [Sangkar Dewa Langit Jauh]"
+    "Name": "Menuju [Sangkar Dewa Langit Jauh]"
   },
   "3040801": {
     "BtnType": 0,
@@ -3973,7 +4085,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 30409,
-    "Name": "Pergi ke [Taman Gersang]"
+    "Name": "Menuju [Taman Gersang]"
   },
   "30410": {
     "BtnType": 1,
@@ -3987,21 +4099,21 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30411,
-    "Name": "Kumpulkan Kacang Boer"
+    "Name": "Koleksi Kacang Boll"
   },
   "30412": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30412,
-    "Name": "Kumpulkan Garam Stagnasi"
+    "Name": "Mengumpulkan Garam Stagnasi"
   },
   "30413": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30413,
-    "Name": "Kumpulkan Garam Mengalir"
+    "Name": "Mengumpulkan Garam Mengalir"
   },
   "30414": {
     "BtnType": 1,
@@ -4009,6 +4121,27 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30414,
     "Name": "Kumpulkan Garam Endapan"
+  },
+  "30415": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30415,
+    "Name": "Ambil Telur"
+  },
+  "30416": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30416,
+    "Name": "Bersihkan"
+  },
+  "30417": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30417,
+    "Name": "Koleksi Cabai Api Mineral"
   },
   "30420": {
     "BtnType": 1,
@@ -4022,7 +4155,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30421,
-    "Name": "Koleksi Moondew Berry Hutan Gelap"
+    "Name": "Kumpulkan Moondew Berry Hutan Sunyi"
   },
   "30422": {
     "BtnType": 1,
@@ -4036,7 +4169,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30423,
-    "Name": "Remukkan Spora Zuxi"
+    "Name": "Hancurkan Spora Napas Leluhur"
   },
   "30424": {
     "BtnType": 1,
@@ -4044,6 +4177,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30424,
     "Name": "Masukkan Tanah Abadi"
+  },
+  "30425": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30425,
+    "Name": "Bersihkan Sisa Void Fog"
   },
   "3050201": {
     "BtnType": 1,
@@ -4304,12 +4444,19 @@
     "Id": 40501,
     "Name": "Bersihkan Arwah"
   },
+  "40502": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 40502,
+    "Name": "Lepaskan Seal [Mulai Pertarungan]"
+  },
   "4213": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 4213,
-    "Name": "Hancurkan Dinding"
+    "Name": "Hancurkan Tembok Batu"
   },
   "4510": {
     "BtnType": 1,
@@ -4484,7 +4631,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_clock",
     "Id": 5110,
-    "Name": "Berfoto Dengannya"
+    "Name": "Berfoto dengannya"
   },
   "511001": {
     "BtnType": 1,
@@ -4512,7 +4659,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_clock",
     "Id": 5111,
-    "Name": "Berfoto Dengannya"
+    "Name": "Berfoto dengannya"
   },
   "5201": {
     "BtnType": 1,
@@ -4897,7 +5044,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56020,
-    "Name": "Menyalakan Kembang Api Lorola"
+    "Name": "Nyalakan Kembang Api Lorola"
   },
   "56021": {
     "BtnType": 1,
@@ -5086,14 +5233,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 6000001,
-    "Name": "Perburuan! Perairan Dangkal Tenang"
+    "Name": "Perburuan! Beting Tenang"
   },
   "6000002": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 6000002,
-    "Name": "Perburuan! Arus Bawah Deras"
+    "Name": "Perburuan! Arus Bawah yang Deras"
   },
   "6000003": {
     "BtnType": 1,
@@ -5471,7 +5618,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 6047,
-    "Name": "Suapi Obat untuk Pavara"
+    "Name": "Berikan obat kepada Pavara"
   },
   "6048": {
     "BtnType": 1,
@@ -5492,14 +5639,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 6051,
-    "Name": "Membaca Buletin"
+    "Name": "Baca Tabloid"
   },
   "6052": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 6052,
-    "Name": "Menakuti"
+    "Name": "Takut-takuti"
   },
   "6150": {
     "BtnType": 1,
@@ -5555,7 +5702,63 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 654101,
-    "Name": "Goyangkan"
+    "Name": "Guncang"
+  },
+  "661101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661101,
+    "Name": "Tinggalkan Ilusi"
+  },
+  "661102": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661102,
+    "Name": "Menyusup ke dalam ilusi"
+  },
+  "661103": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661103,
+    "Name": "Dengarkan [Wish] dari Veilda"
+  },
+  "661104": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661104,
+    "Name": "Saksikan [Trial] Pavara"
+  },
+  "661105": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661105,
+    "Name": "Uncap [Obsesi] Slater"
+  },
+  "661106": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661106,
+    "Name": "Memanggil Pavara"
+  },
+  "661107": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661107,
+    "Name": "Panggil Veilda"
+  },
+  "663401": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 663401,
+    "Name": "Melakukan Resonance dengan Boyce"
   },
   "700002": {
     "BtnType": 1,
@@ -5807,7 +6010,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 700201,
-    "Name": "Masuk dari Celah"
+    "Name": "Masuk Rift"
   },
   "7003": {
     "BtnType": 1,
@@ -6521,7 +6724,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 720014,
-    "Name": "Beri Semangat"
+    "Name": "Sorak"
   },
   "720015": {
     "BtnType": 1,
@@ -6598,7 +6801,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 730031,
-    "Name": "Transform Kejutan"
+    "Name": "Transformasi Kejutan"
   },
   "730301": {
     "BtnType": 1,
@@ -6920,70 +7123,70 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739004,
-    "Name": "Pencarian [Blight Scale Purge Normal]"
+    "Name": "Pencarian Normal [Blight Scale Purge]"
   },
   "739005": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739005,
-    "Name": "Pencarian [Blight Scale Purge Challenge]"
+    "Name": "Tantangan Pencarian [Blight Scale Purge]"
   },
   "739006": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739006,
-    "Name": "Tantangan Pertarungan Pelacakan I"
+    "Name": "Tantangan Pertarungan Pelacakan 1"
   },
   "739007": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739007,
-    "Name": "Tantangan Pertarungan Pelacakan II"
+    "Name": "Tantangan Pertarungan Pelacakan · II"
   },
   "739008": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739008,
-    "Name": "Tantangan Pertarungan Pelacakan III"
+    "Name": "Tantangan Pertarungan Pelacakan 3"
   },
   "739009": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739009,
-    "Name": "Tantangan Pertarungan Pelacakan IV"
+    "Name": "Tantangan Pertarungan Pelacakan · 4"
   },
   "739010": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739010,
-    "Name": "Perburuan Bayangan Ikan Legendaris"
+    "Name": "Pertempuran Melacak Bayangan Ikan Legendaris"
   },
   "739011": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739011,
-    "Name": "Operasi Laut Dalam - Tuning Starvein"
+    "Name": "Operasi Deepsea · Penyelarasan Astraline"
   },
   "739012": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739012,
-    "Name": "Penjalin Roh Seribu Mimpi: Pemurnian Mimpi Ganjil"
+    "Name": "Roh Penenun Seribu Mimpi: Pemurnian Mimpi Asing"
   },
   "739013": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739013,
-    "Name": "Hutan Daun Berkelana - Penyelarasan Astraline"
+    "Name": "Hutan Pengembara Malam · Penyelarasan Astraline"
   },
   "7501": {
     "BtnType": 1,
@@ -7163,7 +7366,7 @@
   "800524": {
     "BtnType": 1,
     "FunctionOrder": [],
-    "IconPath": "ui/atlas/npc/talk_icon_factorde_compose",
+    "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800524,
     "Name": "Penguraian Factor"
   },
@@ -7187,6 +7390,27 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800527,
     "Name": "Daur Ulang Mark"
+  },
+  "800528": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_101",
+    "Id": 800528,
+    "Name": "Proyeksi Matriks"
+  },
+  "800529": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_99",
+    "Id": 800529,
+    "Name": "Embed Jejak Citra"
+  },
+  "800530": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_100",
+    "Id": 800530,
+    "Name": "Pewarisan Jejak"
   },
   "9001": {
     "BtnType": 1,
@@ -7270,35 +7494,77 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9012,
-    "Name": "Tantang Genesis Husk"
+    "Name": "Tantangan Genesis Husk"
   },
   "9013": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9013,
-    "Name": "Tantang Wandering Husk"
+    "Name": "Tantangan Wandering Husk"
   },
   "9014": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9014,
-    "Name": "Tantang Chaotic Husk"
+    "Name": "Tantangan Chaotic Husk"
   },
   "9015": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9015,
-    "Name": "Pergi ke Forsaken Phantasm"
+    "Name": "Menuju Forsaken Phantasm"
   },
   "9016": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9016,
-    "Name": "Tantang Abberant & Calamity - Omen"
+    "Name": "Tantangan Abberant & Calamity - Pertanda Awal"
+  },
+  "9017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9017,
+    "Name": "Pergi ke Pelataran Hampa Avidya"
+  },
+  "9018": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9018,
+    "Name": "Pergi ke Tangga Langit Siang Abadi"
+  },
+  "9019": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9019,
+    "Name": "Pergi ke Istana Kubah Malam Abadi"
+  },
+  "9020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9020,
+    "Name": "Pergi ke Atas Cakrawala, Ujung Siang dan Malam"
+  },
+  "9021": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9021,
+    "Name": "Pergi ke Tangga Langit Siang Abadi (Latihan)"
+  },
+  "9022": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9022,
+    "Name": "Pergi ke Kubah Malam Abadi (Latihan)"
   },
   "920001": {
     "BtnType": 1,
@@ -7550,7 +7816,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 920212,
-    "Name": "Aktifkan Titik"
+    "Name": "Aktifkan Node"
   },
   "920213": {
     "BtnType": 1,
@@ -7613,7 +7879,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920501,
-    "Name": "Diskusi"
+    "Name": "Bicara"
   },
   "920511": {
     "BtnType": 1,
@@ -7627,49 +7893,49 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920512,
-    "Name": "Isi Turret"
+    "Name": "Turret Charge"
   },
   "920513": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920513,
-    "Name": "Tembak!"
+    "Name": "Nyalakan Api!"
   },
   "920514": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920514,
-    "Name": "Dapatkan Energi"
+    "Name": "Mendapatkan Energi"
   },
   "920515": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920515,
-    "Name": "Hapus Delirium Status [100 Dust]"
+    "Name": "Hilangkan status Delirium [100 Debu]"
   },
   "920516": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920516,
-    "Name": "Hapus Delirium Status [Kurang dari 100 Dust]"
+    "Name": "Hapus Status Delirium [Kurang dari 100 Debu]"
   },
   "920517": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 920517,
-    "Name": "Bangunkan Paksa [Kehilangan 50% Dust]"
+    "Name": "Bangkit Paksa [Kehilangan 50% Debu]"
   },
   "920518": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 920518,
-    "Name": "Pungut [Charge Module]"
+    "Name": "Ambil [Charge Module]"
   },
   "920519": {
     "BtnType": 1,
@@ -7683,34 +7949,34 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 9300001,
-    "Name": "End Mimpi"
+    "Name": "Akhiri Mimpi"
   },
   "9300002": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 9300002,
-    "Name": "Tukar Skill Doa"
+    "Name": "Tukar Skill Berkah"
   },
   "9300003": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 9300003,
-    "Name": "Mendapat Berkat (hanya sekali)"
+    "Name": "Mendapatkan Berkat (Hanya Sekali)"
   },
   "9300004": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 9300004,
-    "Name": "Tukar Doa"
+    "Name": "Tukar Berkah"
   },
   "9300005": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 9300005,
-    "Name": "Buka 「Peti Impian」 (Hanya sekali)"
+    "Name": "Buka \"Kotak Penuh Mimpi\" (Hanya Sekali)"
   }
 }

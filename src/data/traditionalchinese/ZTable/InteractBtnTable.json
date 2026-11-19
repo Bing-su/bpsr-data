@@ -1224,6 +1224,48 @@
     "Id": 1171,
     "Name": "搭乘-內圈"
   },
+  "1181": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1181,
+    "Name": "選擇【暴擊】誓言"
+  },
+  "1182": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1182,
+    "Name": "選擇【幸運】誓言"
+  },
+  "1183": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1183,
+    "Name": "選擇【急速】誓言"
+  },
+  "1184": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1184,
+    "Name": "選擇【精通】誓言"
+  },
+  "1185": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 1185,
+    "Name": "選擇【全能】誓言"
+  },
+  "1186": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 1186,
+    "Name": "開啟祈願試煉【需滿足能量條件】"
+  },
   "1201": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -1293,6 +1335,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 12016,
     "Name": "開啟不協調結晶"
+  },
+  "12017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 12017,
+    "Name": "開啟溯光贈禮"
   },
   "1201901": {
     "BtnType": 1,
@@ -1959,6 +2008,13 @@
     "Id": 1222,
     "Name": "下潛"
   },
+  "1230": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 1230,
+    "Name": "拾取餘火"
+  },
   "1250": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2426,14 +2482,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 1509,
-    "Name": ""
+    "Name": "南瓜奇遇"
   },
   "1510": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 1510,
-    "Name": ""
+    "Name": "敲敲看"
   },
   "1600001": {
     "BtnType": 1,
@@ -2448,6 +2504,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 17100101,
     "Name": "煤炭"
+  },
+  "190101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "Id": 190101,
+    "Name": "啟動保護裝置"
   },
   "200000": {
     "BtnType": 1,
@@ -2680,6 +2743,13 @@
     "Id": 200029,
     "Name": "幻想製作"
   },
+  "20003": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20003,
+    "Name": "添加癒合增益"
+  },
   "200030": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -2749,6 +2819,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_76",
     "Id": 200039,
     "Name": "家園委託"
+  },
+  "20004": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 20004,
+    "Name": "添加協奏增益"
   },
   "200040": {
     "BtnType": 1,
@@ -2946,6 +3023,13 @@
     "Id": 200073,
     "Name": "燼空秘寶兌換"
   },
+  "200074": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200074,
+    "Name": "溯光秘寶兌換"
+  },
   "200075": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -3037,6 +3121,34 @@
     "Id": 200087,
     "Name": "無暇晶塵商店"
   },
+  "200089": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_52",
+    "Id": 200089,
+    "Name": "祈願星紗和晶塵商店"
+  },
+  "200091": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200091,
+    "Name": "星輝舊藏"
+  },
+  "200092": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "Id": 200092,
+    "Name": "舊日秘寶兌換"
+  },
+  "200093": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_26",
+    "Id": 200093,
+    "Name": "<style=\"emph-sq\">蒼穹之上，晝夜盡頭</style>"
+  },
   "2001": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -3056,14 +3168,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_102",
     "Id": 200101,
-    "Name": ""
+    "Name": "特殊貼紙兌換"
   },
   "200102": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_union_27",
     "Id": 200102,
-    "Name": ""
+    "Name": "數字貼紙回收"
   },
   "2002": {
     "BtnType": 1,
@@ -3931,7 +4043,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30405,
-    "Name": "檢查封簽"
+    "Name": "檢查封籤"
   },
   "30406": {
     "BtnType": 1,
@@ -4010,6 +4122,27 @@
     "Id": 30414,
     "Name": "搜集沉積之鹽"
   },
+  "30415": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30415,
+    "Name": "拾取雞蛋"
+  },
+  "30416": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30416,
+    "Name": "清理"
+  },
+  "30417": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30417,
+    "Name": "採集礦焰椒"
+  },
   "30420": {
     "BtnType": 1,
     "FunctionOrder": [],
@@ -4044,6 +4177,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 30424,
     "Name": "投入息壤"
+  },
+  "30425": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 30425,
+    "Name": "清除虛霧殘痕"
   },
   "3050201": {
     "BtnType": 1,
@@ -4303,6 +4443,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 40501,
     "Name": "淨化亡靈"
+  },
+  "40502": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 40502,
+    "Name": "解除封印【開啟戰鬥】"
   },
   "4213": {
     "BtnType": 1,
@@ -4904,7 +5051,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 56021,
-    "Name": ""
+    "Name": "點燃達雅煙花"
   },
   "57001": {
     "BtnType": 1,
@@ -5492,14 +5639,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 6051,
-    "Name": ""
+    "Name": "翻閱小報"
   },
   "6052": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 6052,
-    "Name": ""
+    "Name": "嚇唬"
   },
   "6150": {
     "BtnType": 1,
@@ -5556,6 +5703,62 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "Id": 654101,
     "Name": "搖晃"
+  },
+  "661101": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661101,
+    "Name": "離開幻境"
+  },
+  "661102": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661102,
+    "Name": "潛入幻境"
+  },
+  "661103": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661103,
+    "Name": "聆聽薇爾達的【祈願】"
+  },
+  "661104": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661104,
+    "Name": "見證法法菈的【試煉】"
+  },
+  "661105": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661105,
+    "Name": "突破斯萊特的【執念】"
+  },
+  "661106": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661106,
+    "Name": "呼喚法法菈"
+  },
+  "661107": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 661107,
+    "Name": "呼喚薇爾達"
+  },
+  "663401": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "Id": 663401,
+    "Name": "與博伊斯共鳴"
   },
   "700002": {
     "BtnType": 1,
@@ -6591,14 +6794,14 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 730030,
-    "Name": ""
+    "Name": "參加驚嚇巡遊"
   },
   "730031": {
     "BtnType": 1,
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "Id": 730031,
-    "Name": ""
+    "Name": "驚嚇變身"
   },
   "730301": {
     "BtnType": 1,
@@ -6983,7 +7186,7 @@
     "FunctionOrder": [],
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "Id": 739013,
-    "Name": ""
+    "Name": "遊夜之森·星脈調諧"
   },
   "7501": {
     "BtnType": 1,
@@ -7163,7 +7366,7 @@
   "800524": {
     "BtnType": 1,
     "FunctionOrder": [],
-    "IconPath": "ui/atlas/npc/talk_icon_factorde_compose",
+    "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800524,
     "Name": "因子分解"
   },
@@ -7187,6 +7390,27 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_64",
     "Id": 800527,
     "Name": "印記回收"
+  },
+  "800528": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_101",
+    "Id": 800528,
+    "Name": "矩陣映現"
+  },
+  "800529": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_99",
+    "Id": 800529,
+    "Name": "映痕鑲嵌"
+  },
+  "800530": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_union_100",
+    "Id": 800530,
+    "Name": "映痕繼承"
   },
   "9001": {
     "BtnType": 1,
@@ -7299,6 +7523,48 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "Id": 9016,
     "Name": "挑戰悖與災·初兆"
+  },
+  "9017": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9017,
+    "Name": "前往無明的空庭"
+  },
+  "9018": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9018,
+    "Name": "前往永晝的天階"
+  },
+  "9019": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9019,
+    "Name": "前往極夜的穹殿"
+  },
+  "9020": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9020,
+    "Name": "前往蒼穹之上，晝夜盡頭"
+  },
+  "9021": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9021,
+    "Name": "前往永晝的天階(練習)"
+  },
+  "9022": {
+    "BtnType": 1,
+    "FunctionOrder": [],
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "Id": 9022,
+    "Name": "前往極夜的穹殿(練習)"
   },
   "920001": {
     "BtnType": 1,

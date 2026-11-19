@@ -1,6 +1,6 @@
 {
   "1": {
-    "Desc": "Rarity: Immortal<br>Archetype: [Humanoid]<br>Max Level: Lv.5.<br>Attack Type: Physical<br>Passive Effect: None<br>Basic Attack: Swings the scythe 3 times, dealing AoE DMG. <br>Core Skill: Swings the scythe and triggers 2 Rings that deal massive AoE DMG. <br>CD: 15s<br>Attunement Imagine Lv.3: Rings +3.<br>Attunement Imagine Lv.5: Ring Range +100%.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_5\">Immortal</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style>",
     "Id": 1,
     "IsHide": 1,
     "ObjectId": 1,
@@ -9,7 +9,7 @@
     "UIColor": 5
   },
   "10": {
-    "Desc": "Rarity: Excellent<br>Archetype: [Burn]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: When present, monsters under the Burned status take increased DMG from Burn-type towers by [1% * Burn Stacks]. <br>Basic Attack: Stomps the ground, dealing small AoE DMG. <br>Core Skill: Gains a Thunder Shield, striking a random target with lightning every 2s.<br>CD: 15s<br>Attunement Imagine Lv.3: If the target is Burned, consumes its Burn stacks to trigger Thunderfire Annihilation, dealing massive AoE DMG. <br>Attunement Imagine Lv.5: Thunderfire Annihilation no longer consumes the target's Burn stacks.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.99*}<br><br>{*messagevalue.46*}<br>{*messagevalue.47*}<br>{*messagevalue.48*}<br>{*messagevalue.49*}<br>{*messagevalue.50*}",
     "Id": 10,
     "IsHide": 0,
     "ObjectId": 46,
@@ -18,7 +18,7 @@
     "UIColor": 3
   },
   "1001": {
-    "Desc": "Type: Boss<br>Trait: Significantly reduces Attack Speed for Attunement Imagines within range, but increases their ATK.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits: Significantly reduces Attack Speed for Attunement Imagines within range, but increases their ATK.",
     "Id": 1001,
     "IsHide": 1,
     "ObjectId": 5003000,
@@ -27,7 +27,7 @@
     "UIColor": 4
   },
   "1002": {
-    "Desc": "Type: Boss<br>Trait: Takes reduced DMG from frontal attacks and increased DMG from rear attacks.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits: Takes reduced DMG from the front, and increased DMG from behind.",
     "Id": 1002,
     "IsHide": 1,
     "ObjectId": 5003001,
@@ -36,7 +36,7 @@
     "UIColor": 4
   },
   "1005": {
-    "Desc": "Type: Boss<br>Trait: Whenever its lullaby is sung, it puts all Attunement Imagines on the field to sleep.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits: Each time it sings its lullaby, it puts all Attunement Imagines on the field to sleep.",
     "Id": 1005,
     "IsHide": 1,
     "ObjectId": 5003004,
@@ -45,7 +45,7 @@
     "UIColor": 4
   },
   "1006": {
-    "Desc": "Type: Boss<br>Trait: Significantly increases HP, but increases DMG taken. The higher the total level of all Attunement Imagines on the field, the more DMG it receives.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits: Has greatly increased HP, but also takes increased DMG. The higher the total level of all Attunement Imagines on the field, the more DMG it takes.",
     "Id": 1006,
     "IsHide": 1,
     "ObjectId": 5003005,
@@ -54,7 +54,7 @@
     "UIColor": 4
   },
   "1007": {
-    "Desc": "Type: Elite<br>Trait: Grants Invincibility to all monsters within range, excluding itself.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8001*}",
     "Id": 1007,
     "IsHide": 0,
     "ObjectId": 5003006,
@@ -63,7 +63,7 @@
     "UIColor": 4
   },
   "1008": {
-    "Desc": "Type: Elite<br>Trait: Freezes the first Attunement Imagine that attacks it. Who wants to be the first?",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8003*}",
     "Id": 1008,
     "IsHide": 0,
     "ObjectId": 5003003,
@@ -72,7 +72,7 @@
     "UIColor": 4
   },
   "1009": {
-    "Desc": "Type: Elite<br>Traits: Continuously heals surrounding monsters.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8009*}",
     "Id": 1009,
     "IsHide": 0,
     "ObjectId": 5003002,
@@ -81,7 +81,7 @@
     "UIColor": 4
   },
   "101": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_5\">Immortal</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style><br><br>{*messagevalue.105*}<br><br>{*messagevalue.116*}<br>{*messagevalue.117*}<br>{*messagevalue.118*}<br>{*messagevalue.119*}<br>{*messagevalue.120*}",
     "Id": 101,
     "IsHide": 0,
     "ObjectId": 96,
@@ -90,7 +90,7 @@
     "UIColor": 5
   },
   "1010": {
-    "Desc": "Type: Elite<br>Trait: Revives upon defeat.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8002*}",
     "Id": 1010,
     "IsHide": 0,
     "ObjectId": 5003007,
@@ -99,7 +99,7 @@
     "UIColor": 4
   },
   "1011": {
-    "Desc": "Type: Elite<br>Trait: Has extremely high Movement Speed. But worse yet, it's super tough, too!",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8004*}",
     "Id": 1011,
     "IsHide": 0,
     "ObjectId": 5003008,
@@ -108,7 +108,7 @@
     "UIColor": 4
   },
   "1012": {
-    "Desc": "Type: Elite<br>Trait: Ignores terrain while moving, but is super lazy and takes breaks often.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8005*}",
     "Id": 1012,
     "IsHide": 0,
     "ObjectId": 5003009,
@@ -117,7 +117,7 @@
     "UIColor": 4
   },
   "1013": {
-    "Desc": "Type: Normal<br>Trait: The most common sea creature.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8006*}",
     "Id": 1013,
     "IsHide": 0,
     "ObjectId": 5003010,
@@ -126,7 +126,7 @@
     "UIColor": 4
   },
   "1014": {
-    "Desc": "Type: Normal<br>Trait: Has extremely high Movement Speed, but the good news is they're pretty fragile!",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8007*}",
     "Id": 1014,
     "IsHide": 0,
     "ObjectId": 5003012,
@@ -135,7 +135,7 @@
     "UIColor": 4
   },
   "1015": {
-    "Desc": "Type: Normal<br>Trait: Wears a thick shield and usually spawns at the very beginning of a wave.",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8008*}",
     "Id": 1015,
     "IsHide": 0,
     "ObjectId": 5003011,
@@ -144,7 +144,7 @@
     "UIColor": 4
   },
   "1016": {
-    "Desc": "Type: Normal<br>Trait: Protects other monsters on the field by reducing DMG taken. They'll be a huge hassle if you don't defeat them first!",
+    "Desc": "Type: <style=\"tipsYellow\">Boss</style><br>Traits:{*messagevalue.8010*}",
     "Id": 1016,
     "IsHide": 0,
     "ObjectId": 5003013,
@@ -153,7 +153,7 @@
     "UIColor": 4
   },
   "102": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style><br><br>{*messagevalue.106*}<br><br>{*messagevalue.121*}<br>{*messagevalue.122*}<br>{*messagevalue.123*}<br>{*messagevalue.124*}<br>{*messagevalue.125*}",
     "Id": 102,
     "IsHide": 0,
     "ObjectId": 101,
@@ -162,7 +162,7 @@
     "UIColor": 4
   },
   "103": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style><br><br>{*messagevalue.107*}<br><br>{*messagevalue.126*}<br>{*messagevalue.127*}<br>{*messagevalue.128*}<br>{*messagevalue.129*}<br>{*messagevalue.130*}",
     "Id": 103,
     "IsHide": 0,
     "ObjectId": 106,
@@ -171,7 +171,7 @@
     "UIColor": 4
   },
   "104": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.108*}<br><br>{*messagevalue.131*}<br>{*messagevalue.132*}<br>{*messagevalue.133*}<br>{*messagevalue.134*}<br>{*messagevalue.135*}",
     "Id": 104,
     "IsHide": 0,
     "ObjectId": 111,
@@ -180,7 +180,7 @@
     "UIColor": 4
   },
   "105": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style><br><br>{*messagevalue.109*}<br><br>{*messagevalue.136*}<br>{*messagevalue.137*}<br>{*messagevalue.138*}<br>{*messagevalue.139*}<br>{*messagevalue.140*}",
     "Id": 105,
     "IsHide": 0,
     "ObjectId": 116,
@@ -189,7 +189,7 @@
     "UIColor": 4
   },
   "106": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style><br><br>{*messagevalue.110*}<br><br>{*messagevalue.141*}<br>{*messagevalue.142*}<br>{*messagevalue.143*}<br>{*messagevalue.144*}<br>{*messagevalue.145*}",
     "Id": 106,
     "IsHide": 0,
     "ObjectId": 121,
@@ -198,7 +198,7 @@
     "UIColor": 3
   },
   "107": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.111*}<br><br>{*messagevalue.146*}<br>{*messagevalue.147*}<br>{*messagevalue.148*}<br>{*messagevalue.149*}<br>{*messagevalue.150*}",
     "Id": 107,
     "IsHide": 0,
     "ObjectId": 126,
@@ -207,7 +207,7 @@
     "UIColor": 3
   },
   "108": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.112*}<br><br>{*messagevalue.151*}<br>{*messagevalue.171*}<br>{*messagevalue.153*}<br>{*messagevalue.154*}<br>{*messagevalue.172*}",
     "Id": 108,
     "IsHide": 0,
     "ObjectId": 131,
@@ -216,7 +216,7 @@
     "UIColor": 3
   },
   "109": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.113*}<br><br>{*messagevalue.156*}<br>{*messagevalue.157*}<br>{*messagevalue.158*}<br>{*messagevalue.159*}<br>{*messagevalue.160*}",
     "Id": 109,
     "IsHide": 0,
     "ObjectId": 136,
@@ -225,7 +225,7 @@
     "UIColor": 3
   },
   "11": {
-    "Desc": "Rarity: Excellent<br>Archetype: [Resource]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: When dismantled, refunds an additional 100 Attunement Crystalshards. <br>Basic Attack: Exhales icy mist forward, dealing DMG. <br>Core Skill: Unleashes Ice Spikes on 3 random targets.<br>CD: 15s<br>Attunement Imagine Lv.3: Shard Clusters form where Ice Spikes land; collecting them yields 1–20 Attunement Crystalshards at random, lasting up to 10s. <br>Attunement Imagine Lv.5: Ice Spikes +2.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 11,
     "IsHide": 1,
     "ObjectId": 51,
@@ -234,7 +234,7 @@
     "UIColor": 3
   },
   "110": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.114*}<br><br>{*messagevalue.173*}<br>{*messagevalue.162*}<br>{*messagevalue.163*}<br>{*messagevalue.164*}<br>{*messagevalue.165*}",
     "Id": 110,
     "IsHide": 0,
     "ObjectId": 141,
@@ -243,7 +243,7 @@
     "UIColor": 3
   },
   "111": {
-    "Desc": "",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.115*}<br><br>{*messagevalue.166*}<br>{*messagevalue.167*}<br>{*messagevalue.168*}<br>{*messagevalue.169*}<br>{*messagevalue.170*}",
     "Id": 111,
     "IsHide": 0,
     "ObjectId": 146,
@@ -252,7 +252,7 @@
     "UIColor": 1
   },
   "12": {
-    "Desc": "Rarity: Excellent<br>Archetype: [Support]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: When present, increases DMG dealt by all allies by 5% (up to 20%). <br>Basic Attack: Summons 1 random Muku to assist in battle and increases its Attack Speed. <br>Core Skill: Heals allies within range and boosts their ATK by 20% for 10s.<br>CD: 15s<br>Attunement Imagine Lv.3: Summons 1 additional Crossbow Muku. <br>Attunement Imagine Lv.5: Summons 1 additional Muku Chief.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.100*}<br><br>{*messagevalue.56*}<br>{*messagevalue.57*}<br>{*messagevalue.58*}<br>{*messagevalue.59*}<br>{*messagevalue.60*}",
     "Id": 12,
     "IsHide": 0,
     "ObjectId": 56,
@@ -261,7 +261,7 @@
     "UIColor": 3
   },
   "13": {
-    "Desc": "Rarity: Excellent<br>Archetype: [Support]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: When present, increases DMG taken by all enemies by 5% (up to 20%). <br>Basic Attack: Delivers a downward chop forward, dealing linear AoE DMG. <br>Core Skill: Cleaves in front, dealing massive AoE DMG twice.<br>CD: 15s<br>Attunement Imagine Lv.3: Basic Attacks unleash 2 extra Ground-Splitting Waves, Attack Range +50%. <br>Attunement Imagine Lv.5: DMG +20%.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.101*}<br><br>{*messagevalue.61*}<br>{*messagevalue.62*}<br>{*messagevalue.63*}<br>{*messagevalue.64*}<br>{*messagevalue.65*}",
     "Id": 13,
     "IsHide": 0,
     "ObjectId": 61,
@@ -270,7 +270,7 @@
     "UIColor": 3
   },
   "14": {
-    "Desc": "Rarity: Excellent<br>Archetype: [Charge]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Magic<br>Passive Effect: Increases ATK by 10% for each target within range (up to 100%). <br>Basic Attack: Slashes in front, dealing large fan-shaped AoE DMG. <br>Core Skill: Unleashes Tornadoes at 2 random targets, lasting 5s.<br>CD: 15s<br>Attunement Imagine Lv.3: For each Charge-type Attunement Imagine on the field, Tornado count+1 (up to +3).<br>Attunement Imagine Lv.5: Each time a Tornado appears, increases DMG dealt by Charge-type Attunement Imagines' next Skill (stacks up to 100%).",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 14,
     "IsHide": 1,
     "ObjectId": 66,
@@ -279,7 +279,7 @@
     "UIColor": 3
   },
   "15": {
-    "Desc": "Rarity: Superior<br>Archetype: [Resource] [Burn]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: When present, the Adventurer gains 100 Attunement Crystalshards every 10s (max 5 active at once). <br>Basic Attack: None<br>Core Skill: Spins to deal small AoE DMG and inflict Burn.<br>CD: 15s<br>Attunement Imagine Lv.3: Gains 15 Attunement Crystalshards when a Burned target dies. <br>Attunement Imagine Lv.5: Gains 30 Attunement Crystalshards when a Burned target dies.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 15,
     "IsHide": 1,
     "ObjectId": 71,
@@ -288,7 +288,7 @@
     "UIColor": 1
   },
   "16": {
-    "Desc": "Rarity: Superior<br>Archetype: None<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: Inflicts a 25% Slow on targets when dealing DMG. This effect does not stack. <br>Basic Attack: None<br>Core Skill: Summons Lightning Orbs that continuously attack targets in range.<br>CD: 15s<br>Attunement Imagine Lv.3: Core Skill DMG increased. <br>Attunement Imagine Lv.5: Core Skill DMG increased.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.102*}<br><br>{*messagevalue.76*}<br>{*messagevalue.77*}<br>{*messagevalue.78*}<br>{*messagevalue.79*}<br>{*messagevalue.80*}",
     "Id": 16,
     "IsHide": 0,
     "ObjectId": 76,
@@ -297,7 +297,7 @@
     "UIColor": 1
   },
   "17": {
-    "Desc": "Rarity: Superior<br>Archetype: [Charge]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: When present, each Muku Chief increases Crit Rate of Charge-type Attunement Imagines by 10% (up to 100%). <br>Basic Attack: None<br>Core Skill: Slams the ground 3 times in a row, dealing large AoE DMG.<br>CD: 6s<br>Attunement Imagine Lv.3: Core Skill DMG increased. <br>Attunement Imagine Lv.5: Core Skill DMG increased.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 17,
     "IsHide": 1,
     "ObjectId": 81,
@@ -306,7 +306,7 @@
     "UIColor": 1
   },
   "18": {
-    "Desc": "Rarity: Superior<br>Archetype: None<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Magic<br>Passive Effect: 30% chance to inflict Frozen on attack. <br>Basic Attack: Deals AoE DMG and inflicts 10% Slow. <br>Core Skill: Casts a Water Vortex, dealing continuous AoE DMG and inflicting 20% Slow.<br>CD: 15s<br>Attunement Imagine Lv.3: Core Skill DMG increased. <br>Attunement Imagine Lv.5: Core Skill DMG increased.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.103*}<br><br>{*messagevalue.86*}<br>{*messagevalue.87*}<br>{*messagevalue.88*}<br>{*messagevalue.89*}<br>{*messagevalue.90*}",
     "Id": 18,
     "IsHide": 0,
     "ObjectId": 86,
@@ -315,7 +315,7 @@
     "UIColor": 1
   },
   "19": {
-    "Desc": "Rarity: Superior<br>Archetype: None<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Magic<br>Passive Effect: Deals extra DMG to Corroded targets; +10% DMG per stack of Corrosion. <br>Basic Attack: None<br>Core Skill: Casts Poison Springs on 3 random targets, dealing continuous AoE DMG and inflicting Corrosion.<br>CD: 15s<br>Attunement Imagine Lv.3: Core Skill DMG increased. <br>Attunement Imagine Lv.5: Core Skill DMG increased.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_2\">Superior</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.104*}<br><br>{*messagevalue.91*}<br>{*messagevalue.92*}<br>{*messagevalue.93*}<br>{*messagevalue.94*}<br>{*messagevalue.95*}",
     "Id": 19,
     "IsHide": 0,
     "ObjectId": 91,
@@ -324,7 +324,7 @@
     "UIColor": 1
   },
   "2": {
-    "Desc": "Rarity: Epic<br>Archetype: [Humanoid] [Resource]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Magic<br>Passive Effect: ATK +[1% * total level of all Attunement Imagines on the field]. The price in the Shop is reduced by 50%. <br>Basic Attack: Continuously calls down meteors on a single target within range. <br>Core Skill: Calls a spirit deer to charge forward. This effect triggers 1 additional time for each Humanoid Attunement Imagine on the field. <br>CD: 15s<br>Attunement Imagine Lv.3: Gains 10 Attunement Crystalshards on attack. CD: 3s. <br>Attunement Imagine Lv.5: Gains 15 Attunement Crystalshards on attack. CD: 1s.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style>",
     "Id": 2,
     "IsHide": 1,
     "ObjectId": 6,
@@ -333,7 +333,7 @@
     "UIColor": 4
   },
   "2001": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: Grants invulnerability to all nearby monsters except itself.",
     "Id": 2001,
     "IsHide": 1,
     "ObjectId": 5002000,
@@ -342,7 +342,7 @@
     "UIColor": 3
   },
   "2002": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: Freezes the first Attunement Imagine that attacks it. Who wants to go first?",
     "Id": 2002,
     "IsHide": 1,
     "ObjectId": 5002001,
@@ -351,7 +351,7 @@
     "UIColor": 3
   },
   "2003": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: Continuously heals nearby monsters.",
     "Id": 2003,
     "IsHide": 1,
     "ObjectId": 5002002,
@@ -360,7 +360,7 @@
     "UIColor": 3
   },
   "2004": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: Ignores terrain when moving, but is very lazy and often rests.",
     "Id": 2004,
     "IsHide": 1,
     "ObjectId": 5002005,
@@ -369,7 +369,7 @@
     "UIColor": 3
   },
   "2005": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7001*}",
     "Id": 2005,
     "IsHide": 0,
     "ObjectId": 5002006,
@@ -378,7 +378,7 @@
     "UIColor": 3
   },
   "2006": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7002*}",
     "Id": 2006,
     "IsHide": 0,
     "ObjectId": 5002007,
@@ -387,7 +387,7 @@
     "UIColor": 3
   },
   "2007": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7007*}",
     "Id": 2007,
     "IsHide": 0,
     "ObjectId": 5002008,
@@ -396,7 +396,7 @@
     "UIColor": 3
   },
   "2008": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7003*}",
     "Id": 2008,
     "IsHide": 0,
     "ObjectId": 5002009,
@@ -405,7 +405,7 @@
     "UIColor": 3
   },
   "2009": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7009*}",
     "Id": 2009,
     "IsHide": 0,
     "ObjectId": 5002003,
@@ -414,7 +414,7 @@
     "UIColor": 3
   },
   "2010": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7010*}",
     "Id": 2010,
     "IsHide": 0,
     "ObjectId": 5002004,
@@ -423,7 +423,7 @@
     "UIColor": 3
   },
   "2011": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7004*}",
     "Id": 2011,
     "IsHide": 0,
     "ObjectId": 5002010,
@@ -432,7 +432,7 @@
     "UIColor": 3
   },
   "2012": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7005*}",
     "Id": 2012,
     "IsHide": 0,
     "ObjectId": 5002011,
@@ -441,7 +441,7 @@
     "UIColor": 3
   },
   "2013": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7006*}",
     "Id": 2013,
     "IsHide": 0,
     "ObjectId": 5002012,
@@ -450,7 +450,7 @@
     "UIColor": 3
   },
   "2014": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7008*}",
     "Id": 2014,
     "IsHide": 0,
     "ObjectId": 5002013,
@@ -459,7 +459,7 @@
     "UIColor": 3
   },
   "2015": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7011*}",
     "Id": 2015,
     "IsHide": 0,
     "ObjectId": 5002014,
@@ -468,7 +468,7 @@
     "UIColor": 3
   },
   "2016": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7012*}",
     "Id": 2016,
     "IsHide": 0,
     "ObjectId": 5002015,
@@ -477,7 +477,7 @@
     "UIColor": 3
   },
   "2017": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7013*}",
     "Id": 2017,
     "IsHide": 0,
     "ObjectId": 5002016,
@@ -486,7 +486,7 @@
     "UIColor": 3
   },
   "2018": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Elite</style><br>Traits: {*messagevalue.7014*}",
     "Id": 2018,
     "IsHide": 0,
     "ObjectId": 5002017,
@@ -495,7 +495,7 @@
     "UIColor": 3
   },
   "3": {
-    "Desc": "Rarity: Epic<br>Archetype: [Humanoid] [Burn]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Magic<br>Passive Effect: Deals an additional instance of Fire DMG whenever an enemy within range takes Burn DMG. <br>Basic Attack: Spins to deal AoE DMG and inflict Burn. <br>Core Skill: Sends an axe beam forward, dealing massive DMG. DMG +20% for each Burn stack on the target. <br>CD: 15s<br>Attunement Imagine Lv.3: After inflicting Burn 10 times, the next attack unleashes Purgatory Train on the target. <br>Attunement Imagine Lv.5: Burn infliction requirement reduced to 6, Purgatory Train damage +100%.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style><br><br>{*messagevalue.96*}<br><br>{*messagevalue.11*}<br>{*messagevalue.12*}<br>{*messagevalue.13*}<br>{*messagevalue.14*}<br>{*messagevalue.15*}",
     "Id": 3,
     "IsHide": 0,
     "ObjectId": 11,
@@ -504,7 +504,7 @@
     "UIColor": 4
   },
   "3001": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: The most commonly seen sea creature.",
     "Id": 3001,
     "IsHide": 1,
     "ObjectId": 5001000,
@@ -513,7 +513,7 @@
     "UIColor": 1
   },
   "3002": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: Fast as the wind, but fragile as jade.",
     "Id": 3002,
     "IsHide": 1,
     "ObjectId": 5001001,
@@ -522,7 +522,7 @@
     "UIColor": 1
   },
   "3003": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: Carries a heavy shield and typically spawns at the very start of a wave.",
     "Id": 3003,
     "IsHide": 1,
     "ObjectId": 5001002,
@@ -531,7 +531,7 @@
     "UIColor": 1
   },
   "3004": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: They protect other monsters present by reducing their damage taken. Failing to defeat them first will lead to serious trouble.",
     "Id": 3004,
     "IsHide": 1,
     "ObjectId": 5001003,
@@ -540,7 +540,7 @@
     "UIColor": 1
   },
   "3005": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: Ignores terrain while moving. What an annoying pest.",
     "Id": 3005,
     "IsHide": 1,
     "ObjectId": 5001007,
@@ -549,7 +549,7 @@
     "UIColor": 1
   },
   "3006": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6001*}",
     "Id": 3006,
     "IsHide": 0,
     "ObjectId": 5001008,
@@ -558,7 +558,7 @@
     "UIColor": 1
   },
   "3007": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6002*}",
     "Id": 3007,
     "IsHide": 0,
     "ObjectId": 5001009,
@@ -567,7 +567,7 @@
     "UIColor": 1
   },
   "3008": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6003*}",
     "Id": 3008,
     "IsHide": 0,
     "ObjectId": 5001010,
@@ -576,7 +576,7 @@
     "UIColor": 1
   },
   "3009": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6004*}",
     "Id": 3009,
     "IsHide": 0,
     "ObjectId": 5001011,
@@ -585,7 +585,7 @@
     "UIColor": 1
   },
   "3010": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6005*}",
     "Id": 3010,
     "IsHide": 0,
     "ObjectId": 5001006,
@@ -594,7 +594,7 @@
     "UIColor": 1
   },
   "3011": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6006*}",
     "Id": 3011,
     "IsHide": 0,
     "ObjectId": 5001004,
@@ -603,7 +603,7 @@
     "UIColor": 1
   },
   "3012": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6007*}",
     "Id": 3012,
     "IsHide": 0,
     "ObjectId": 5001005,
@@ -612,7 +612,7 @@
     "UIColor": 1
   },
   "3013": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6008*}",
     "Id": 3013,
     "IsHide": 0,
     "ObjectId": 5001012,
@@ -621,7 +621,7 @@
     "UIColor": 1
   },
   "3014": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6009*}",
     "Id": 3014,
     "IsHide": 0,
     "ObjectId": 5001013,
@@ -630,7 +630,7 @@
     "UIColor": 1
   },
   "3015": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6010*}",
     "Id": 3015,
     "IsHide": 0,
     "ObjectId": 5001018,
@@ -639,7 +639,7 @@
     "UIColor": 1
   },
   "3016": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6011*}",
     "Id": 3016,
     "IsHide": 0,
     "ObjectId": 5001019,
@@ -648,7 +648,7 @@
     "UIColor": 1
   },
   "3017": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6012*}",
     "Id": 3017,
     "IsHide": 0,
     "ObjectId": 5001020,
@@ -657,7 +657,7 @@
     "UIColor": 1
   },
   "3018": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6013*}",
     "Id": 3018,
     "IsHide": 0,
     "ObjectId": 5001021,
@@ -666,7 +666,7 @@
     "UIColor": 1
   },
   "3019": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6014*}",
     "Id": 3019,
     "IsHide": 0,
     "ObjectId": 5001014,
@@ -675,7 +675,7 @@
     "UIColor": 1
   },
   "3020": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6015*}",
     "Id": 3020,
     "IsHide": 0,
     "ObjectId": 5001015,
@@ -684,7 +684,7 @@
     "UIColor": 1
   },
   "3021": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6016*}",
     "Id": 3021,
     "IsHide": 0,
     "ObjectId": 5001016,
@@ -693,7 +693,7 @@
     "UIColor": 1
   },
   "3022": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Normal</style><br>Traits: {*messagevalue.6017*}",
     "Id": 3022,
     "IsHide": 0,
     "ObjectId": 5001017,
@@ -702,7 +702,7 @@
     "UIColor": 1
   },
   "4": {
-    "Desc": "Rarity: Epic<br>Archetype: [Humanoid] [Charge]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: Charge stack cap increased to 20. <br>Basic Attack: Does not attack normally. Enters Charge, gaining 1 stack every 3s, up to 20 stacks. Triggers skill when the Adventurer enters range. <br>Core Skill: Unleashes countless blade beams, dealing AoE DMG, consuming all Charge stacks to increase DMG by [40% * Charge stacks]. <br>CD: None<br>Attunement Imagine Lv.3: Every 10s, locks onto the nearest target and fires a blade beam. <br>Attunement Imagine Lv.5: Blade beam lock-on targets +2.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style>",
     "Id": 4,
     "IsHide": 1,
     "ObjectId": 16,
@@ -711,7 +711,7 @@
     "UIColor": 4
   },
   "4001": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Neutral</style><br>Traits: {*messagevalue.9001*}",
     "Id": 4001,
     "IsHide": 0,
     "ObjectId": 5003014,
@@ -720,7 +720,7 @@
     "UIColor": 5
   },
   "4002": {
-    "Desc": "",
+    "Desc": "Type: <style=\"tipsYellow\">Reward</style><br>Traits: {*messagevalue.9002*}",
     "Id": 4002,
     "IsHide": 0,
     "ObjectId": 5002500,
@@ -729,7 +729,7 @@
     "UIColor": 5
   },
   "5": {
-    "Desc": "Rarity: Epic<br>Archetype: [Humanoid]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: When present, Adventurer Skill CD Speed +50%. This effect does not stack. <br>Basic Attack: Thrusts forward and spins the spear to deal AoE DMG. <br>Core Skill: The 5 nearest Attunement Imagines gain 100% CD speed for 5s. <br>CD: 15s<br>Attunement Imagine Lv.3: Adventurer Movement Speed +25%, DMG Boost +25%. <br>Attunement Imagine Lv.5: Adventurer Movement Speed +50%, DMG Boost +50%.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_4\">Epic</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style>",
     "Id": 5,
     "IsHide": 1,
     "ObjectId": 21,
@@ -738,7 +738,7 @@
     "UIColor": 4
   },
   "6": {
-    "Desc": "Rarity: Excellent<br>Archetype: [Charge]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: Every 10s, unleashes a ground wave on 3 random targets, inflicting Wound. <br>Basic Attack: Does not attack normally. Enters Charge, gaining 1 stack every 3s, up to 10 stacks. Triggers skill when the Adventurer enters range. <br>Core Skill: Unleashes Hell Spike across a wide area, dealing massive DMG and consuming all Charge stacks to increase DMG by [30% * Charge stacks].<br>CD: None<br>Attunement Imagine Lv.3: DMG dealt by passive inflicts 10% Vulnerability for 5s. <br>Attunement Imagine Lv.5: Additional +10% Vulnerability.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style>",
     "Id": 6,
     "IsHide": 1,
     "ObjectId": 3,
@@ -747,7 +747,7 @@
     "UIColor": 3
   },
   "7": {
-    "Desc": "Rarity: Excellent<br>Archetype: None<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: Deals 100% more DMG to immobilized targets. <br>Basic Attack: Prioritizes non-immobilized targets. Spits spider silk to deal DMG with a 40% chance to immobilize the target for 5s. <br>Core Skill: Burrows underground then emerges, dealing large AoE DMG and guaranteed to stun target for 1s.<br>CD: 15s<br>Attunement Imagine Lv.3: Immobilize chance increased to 100%. <br>Attunement Imagine Lv.5: Stun duration increased to 2.5s.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">Support</style><br><br>{*messagevalue.97*}<br><br>{*messagevalue.31*}<br>{*messagevalue.32*}<br>{*messagevalue.33*}<br>{*messagevalue.34*}<br>{*messagevalue.35*}",
     "Id": 7,
     "IsHide": 0,
     "ObjectId": 31,
@@ -756,7 +756,7 @@
     "UIColor": 3
   },
   "8": {
-    "Desc": "Rarity: Excellent<br>Archetype: [Resource]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Physical<br>Passive Effect: Grants Celestial Flier 1% bonus damage per 100 Attunement Crystalshards the Adventurer holds, up to 100%. <br>Basic Attack: Drops a water orb that deals AoE DMG and inflicts Slow. <br>Core Skill: Summons a phantom flier that charges forward.<br>CD: 15s<br>Attunement Imagine Lv.3: Flier +1, and Attunement Crystalshards acquisition rate +5%. <br>Attunement Imagine Lv.5: Flier +2, and Attunement Crystalshards acquisition rate +10%.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style><br><br>{*messagevalue.98*}<br><br>{*messagevalue.36*}<br>{*messagevalue.37*}<br>{*messagevalue.38*}<br>{*messagevalue.39*}<br>{*messagevalue.40*}",
     "Id": 8,
     "IsHide": 0,
     "ObjectId": 36,
@@ -765,7 +765,7 @@
     "UIColor": 3
   },
   "9": {
-    "Desc": "Rarity: Excellent<br>Archetype: [Burn]<br>Max Level: Lv.3; With the corresponding Battle Imagine, the max level of the Attunement Imagine is increased from Lv.3 to Lv.5. <br>Attack Type: Magic<br>Passive Effect: The higher current HP is, the higher ATK becomes (up to +200%), but continuously loses HP. <br>Basic Attack: None<br>Core Skill: Continuously spews fire forward, dealing DMG and inflicting Burn.<br>CD: 8s<br>Attunement Imagine Lv.3: Restores 5% HP upon attacking. <br>Attunement Imagine Lv.5: Converts overhealing into a Shield.",
+    "Desc": "<style=\"accent-gn\">Rarity</style>: <style=\"ItemQuality_3\">Excellent</style><br><style=\"accent-gn\">Role</style>: <style=\"tipsYellow\">DMG Dealer</style>",
     "Id": 9,
     "IsHide": 1,
     "ObjectId": 41,

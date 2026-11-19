@@ -325,7 +325,7 @@
     "Preview": 44,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_51",
-    "PreviewText": "Überlebe im gefährlichen Unbekannten und schließe die zeitlich begrenzte Raumuntersuchung ab, um hochwertige Ausrüstung und Materialien zu verdienen!"
+    "PreviewText": "◆ Überlebe die Gefahren des Unbekannten und schließe die zeitlich begrenzte Untersuchung ab, um hochwertige Ausrüstung und Materialien zu verdienen!"
   },
   "810024": {
     "ConditionShow": [[27, 2, 0, 0, 0]],
@@ -333,7 +333,7 @@
     "Preview": 6,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_52",
-    "PreviewText": "Schließe Quests und Erfolge des Kampfpasses ab, um deinen Saisontitel zu verbessern und Embleme zu verdienen. Dich erwarten weitere lustige Modi, großzügige Belohnungen und ein Punkte-Shop. Räum alles ab!"
+    "PreviewText": "◆ Schließe den Saisonpass für Erfolge ab. <br>Schalte Embleme und Gegenstände frei!"
   },
   "810025": {
     "ConditionShow": [],
@@ -376,7 +376,7 @@
     "PreviewText": "Der Tageslichtdrache, Meister der Zeit, erwartet dich im Raid \"Drachenfesseln\". Suche Schutz in den Rissen aus Licht und Schatten, bevor du den richtigen Moment zum Zuschlagen abpasst. Kämpfe jetzt, um großzügige Belohnungen zu erhalten!"
   },
   "810039": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810039,
     "Preview": 48,
     "PreviewAward": 22000010,
@@ -384,7 +384,7 @@
     "PreviewText": "Wage dich tief in das verbotene Reich der Göttlichen, wecke die schlummernden Überreste der alten Gottheit und stelle dich dem finalen Urteil der Vernichtungsenergie! Erhalte Stulpen- und Ohrringe-Drops sowie exklusive Aussehensgegenstände!"
   },
   "810040": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810040,
     "Preview": 49,
     "PreviewAward": 22000010,
@@ -392,7 +392,7 @@
     "PreviewText": "Dringe in die Mecha-Fabrik tief in der Sislesa-Mine ein und decke die Verbrechen der Schwarzstein-Legion mit stichhaltigen Beweisen auf! Erhalte Helm- und Halsketten-Drops sowie exklusive Aussehensgegenstände!"
   },
   "810041": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810041,
     "Preview": 50,
     "PreviewAward": 22000010,
@@ -400,7 +400,7 @@
     "PreviewText": "Versinke in der Traumlandschaft, die von der Illusorischen Blüte gewoben wurde, wecke die in der Vergangenheit begrabenen Schatten und löse verweilende Reue auf! Erhalte Rüstungs- und Ring-Drops sowie exklusive Aussehensgegenstände!"
   },
   "810042": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810042,
     "Preview": 51,
     "PreviewAward": 22000010,
@@ -408,7 +408,7 @@
     "PreviewText": "Abenteurer, die in den dichten Nebel eindringen, sind Jäger und Beute zugleich! Erhalte Drops für Armband (L) und Armband (R) sowie exklusive Aussehensgegenstände!"
   },
   "810043": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810043,
     "Preview": 52,
     "PreviewAward": 22000010,
@@ -416,7 +416,7 @@
     "PreviewText": "Illusionen werden in der Illusion genährt. Dringe tief in die Aufragenden Ruinen ein und reinige die verderbten Überreste! Erhalte Stiefel- und Amulett-Drops sowie exklusive Aussehensgegenstände!"
   },
   "810044": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810044,
     "Preview": 53,
     "PreviewAward": 22000010,
@@ -440,7 +440,7 @@
     "PreviewText": "Auf den unteren Ebenen der Ruinen der Bapharischen Göttlichen ist die verborgene und umschlossene Umgebung zu einem Nährboden für Schatten geworden. Infolgedessen finden illegale Geschäfte aus dem Hochland unweigerlich ihren Weg hierher."
   },
   "810047": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810047,
     "Preview": 54,
     "PreviewAward": 22000010,
@@ -448,11 +448,75 @@
     "PreviewText": "◆ Überlebe die Gefahren des Unbekannten und schließe die zeitlich begrenzte Untersuchung ab, um hochwertige Ausrüstung und Materialien zu verdienen!"
   },
   "810048": {
-    "ConditionShow": [],
+    "ConditionShow": [[27, 3, 0, 0, 0]],
     "Id": 810048,
     "Preview": 5,
     "PreviewAward": 22000010,
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_66",
     "PreviewText": "Schließe Saisonpass-Quests und Erfolge ab, um deinen Saisontitel zu verbessern und Embleme zu verdienen und zu entwickeln. Weitere lustige Modi, großzügige Belohnungen und ein Saison-Shop erwarten dich – räum alles ab!"
+  },
+  "810054": {
+    "ConditionShow": [],
+    "Id": 810054,
+    "Preview": 57,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_74",
+    "PreviewText": "Die humanoide Illusion Boyce, die im Kampf helfen sollte, hat sich in eine \"Anti-Vorstellung\"-Mimikgestalt verwandelt. Besiege sie, um den Frieden wiederherzustellen! Erhalte Handschuhe und Ohrringe als Beute sowie ein exklusives Aussehen!"
+  },
+  "810055": {
+    "ConditionShow": [],
+    "Id": 810055,
+    "Preview": 58,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_73",
+    "PreviewText": "Gestört durch das Illusionsmedium hat der Einheit-X-Analysator Raumturbulenzen innerhalb des Drachenklauen-Tals entdeckt. Abenteurer müssen erneut aufbrechen, um diese Fehlfunktion zu beheben. Erhalte Helm und Halskette als Beute sowie ein exklusives Aussehen!"
+  },
+  "810056": {
+    "ConditionShow": [],
+    "Id": 810056,
+    "Preview": 59,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_72",
+    "PreviewText": "Der Karge Innenhof wurde einst von jemandem als Ort für ein verbotenes Ritual ausgewählt. Jetzt ist er zu einer Grenze geworden, an der sich Illusion und Realität verflechten. Erhalte Rüstung und Ring als Beute sowie ein exklusives Aussehen!"
+  },
+  "810057": {
+    "ConditionShow": [],
+    "Id": 810057,
+    "Preview": 60,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_75",
+    "PreviewText": "Gestört durch das Illusionsmedium hat der Einheit-X-Analysator Raumturbulenzen innerhalb der Mondschleierwildnis entdeckt. Abenteurer müssen erneut aufbrechen, um diese Fehlfunktion zu beheben. Erhalte Armband (L) und Armband (R) als Beute sowie ein exklusives Aussehen!"
+  },
+  "810058": {
+    "ConditionShow": [],
+    "Id": 810058,
+    "Preview": 61,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_76",
+    "PreviewText": "Gestört durch das Illusionsmedium hat der Einheit-X-Analysator Raumturbulenzen innerhalb der Dunkelnebel-Festung entdeckt. Abenteurer müssen erneut aufbrechen, um diese Fehlfunktion zu beheben. Erhalte Stiefel und Amulett als Beute sowie ein exklusives Aussehen!"
+  },
+  "810059": {
+    "ConditionShow": [],
+    "Id": 810059,
+    "Preview": 62,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_77",
+    "PreviewText": "Ab diesem Punkt werden sich Abenteurer der wahren Herausforderung stellen, die während ihrer gesamten Reise gelauert hat. Erhalte eine Waffe als Beute sowie ein exklusives Aussehen!"
+  },
+  "810060": {
+    "ConditionShow": [],
+    "Id": 810060,
+    "Preview": 63,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_78",
+    "PreviewText": "◆ Überlebe die Gefahren des Unbekannten und schließe die zeitlich begrenzte Untersuchung ab, um hochwertige Ausrüstung und Materialien zu verdienen!"
+  },
+  "810061": {
+    "ConditionShow": [],
+    "Id": 810061,
+    "Preview": 5,
+    "PreviewAward": 22000010,
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_79",
+    "PreviewText": "◆ Schließe den Saisonpass für Erfolge ab. <br>Schalte Embleme und Gegenstände frei!"
   }
 }

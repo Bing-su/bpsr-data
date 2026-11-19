@@ -751,7 +751,7 @@
     "MailType": 1,
     "NpcId": 0,
     "NpcName": "",
-    "Title": "Temporäre Möbelpost:"
+    "Title": "Temporäre Möbelpost: "
   },
   "2001": {
     "AwardId": 20500700,
@@ -820,7 +820,7 @@
   },
   "2104": {
     "AwardId": 23000050,
-    "Content": "Belohnung",
+    "Content": "Belohnungen",
     "ExpireTime": 30,
     "Id": 2104,
     "Important": 0,
@@ -833,7 +833,7 @@
   },
   "2105": {
     "AwardId": 23000060,
-    "Content": "Belohnung",
+    "Content": "Belohnungen",
     "ExpireTime": 30,
     "Id": 2105,
     "Important": 0,
@@ -950,7 +950,7 @@
   },
   "2256": {
     "AwardId": 0,
-    "Content": "Hallo Abenteurer, <br><br>wir haben festgestellt, dass du deine Anmeldebelohnung nicht abgeholt hast. Sie wurde nun erneut an dein Postfach gesendet. <br><br>Möge diese kleine Überraschung zusätzliche Freude in deine Abenteuer bringen. Nimm diesen kleinen Segen und brich auf zur nächsten, noch strahlenderen Reise!",
+    "Content": "Hallo Abenteurer,<br><br>wir haben festgestellt, dass du deine Anmeldebelohnung nicht abgeholt hast. Sie wurde nun erneut an dein Postfach gesendet.<br><br>Möge diese kleine Überraschung zusätzliche Freude auf deine Abenteuer bringen. Nimm diesen kleinen Segen und begib dich auf die nächste, noch strahlendere Reise!",
     "ExpireTime": 30,
     "Id": 2256,
     "Important": 0,
@@ -974,6 +974,19 @@
     "NpcName": "",
     "Title": "Glutnacht-Reflexion: Nachträgliche Anmeldebelohnungen"
   },
+  "2258": {
+    "AwardId": 0,
+    "Content": "Hallo Abenteurer,<br><br>wir haben festgestellt, dass du deine Anmeldebelohnung nicht abgeholt hast. Sie wurde nun erneut an dein Postfach gesendet.<br><br>Möge diese kleine Überraschung zusätzliche Freude auf deine Abenteuer bringen. Nimm diesen kleinen Segen und begib dich auf die nächste, noch strahlendere Reise!",
+    "ExpireTime": 30,
+    "Id": 2258,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "",
+    "Title": "[Dämmerungswünsche: Erneute Ausstellung der Anmeldebelohnung]​​​​​"
+  },
   "2300": {
     "AwardId": 0,
     "Content": "Lieber Abenteurer,<br><br>bitte hole dir die Belohnungen ab, die du mit dem Einlösecode erhalten hast!",
@@ -984,7 +997,7 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "System-Post",
+    "NpcName": "System",
     "Title": "[Belohnung] Einlösecode"
   },
   "2401": {
@@ -1078,6 +1091,19 @@
     "NpcName": "Miaunia",
     "Title": "[Crossover] Nachsendung der Herausforderungsziel-Belohnungen"
   },
+  "2505": {
+    "AwardId": 0,
+    "Content": "Hallo, Abenteurer, <br><br>Das Meeresbrise-Fest ist beendet. Bitte hol deine verbleibenden Event-Zielbelohnungen ab!<br><br>Danke für deine Teilnahme!",
+    "ExpireTime": 30,
+    "Id": 2505,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "Meeresbrise-Fest-Personal",
+    "Title": "[Meeresbrise-Fest]​​​​​ Erneute Vergabe von nicht abgeholten Event-Zielbelohnungen"
+  },
   "2506": {
     "AwardId": 0,
     "Content": "Hallo, Abenteurer,<br><br>Das Event \"Kanamia-Erntedankfest\" ist beendet. Bitte hol dir die verpassten Ziel-Belohnungen ab!<br><br>Danke für deine Teilnahme!",
@@ -1089,11 +1115,11 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "Erntedankfest-Personal",
-    "Title": "[Kanamia-Erntedankfest] Nicht abgeholte Event-Ziel-Belohnungen"
+    "Title": "[Kanamia-Erntedankfest]​​​​​ Nicht abgeholte Event-Ziel-Belohnungen"
   },
   "2507": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "Lieber Abenteurer, <br><br>das Event \"Nacht der Streiche\" ist beendet. Bitte hole deine noch nicht abgeholten Zielbelohnungen rechtzeitig ab.<br><br>Vielen Dank für deine Teilnahme!",
     "ExpireTime": 30,
     "Id": 2507,
     "Important": 0,
@@ -1101,8 +1127,8 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 1200012,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "System",
+    "Title": "[Nacht der Streiche]​​​​​ Nachsendung der Event-Zielbelohnungen"
   },
   "3002": {
     "AwardId": 0,
@@ -1206,11 +1232,11 @@
     "MailType": 1,
     "NpcId": 1200012,
     "NpcName": "System",
-    "Title": "[Heldenprüfungen] Nachsendung der Ziel-Belohnungen"
+    "Title": "[Heldenprüfungen]​​​​​ Nachsendung der Ziel-Belohnungen"
   },
   "4005": {
     "AwardId": 0,
-    "Content": "",
+    "Content": "Lieber Abenteurer, <br><br>dein Ergebnis in der Engrammlinien-Tuning-Herausforderung wurde aufgrund von Betrugsverdacht abgelehnt. Bei Fragen wende dich bitte an den Kundensupport.",
     "ExpireTime": 30,
     "Id": 4005,
     "Important": 0,
@@ -1218,7 +1244,20 @@
     "MailGroupContent": [],
     "MailType": 1,
     "NpcId": 0,
-    "NpcName": "",
-    "Title": ""
+    "NpcName": "System",
+    "Title": "Engrammlinien-Tuning: Ergebnis der Herausforderung abgelehnt"
+  },
+  "4006": {
+    "AwardId": 0,
+    "Content": "Hallo, Abenteurer,<br><br>das aktuelle Event \"Unbeugsamkeit des Zwielichts\" ist beendet und du hast noch nicht abgeholte Belohnungen. Bitte hol sie dir bald ab. <br><br>Danke für deine Teilnahme!",
+    "ExpireTime": 30,
+    "Id": 4006,
+    "Important": 0,
+    "LimitType": 0,
+    "MailGroupContent": [],
+    "MailType": 1,
+    "NpcId": 1200012,
+    "NpcName": "System",
+    "Title": "[Unbeugsamkeit des Zwielichts] – Nachsendung der Ziel-Belohnungen"
   }
 }

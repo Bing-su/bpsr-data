@@ -251,6 +251,54 @@
     "SortID": 12,
     "WeaponModelId": [1310120]
   },
+  "7310013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7310013,
+    "Intro": "Bonefire Knife",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_olvera_13_01_t",
+    "Model": ["ch_wp_olvera-13_01"],
+    "Name": "Bonefire Knife",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 1,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1310130]
+  },
+  "7310014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_olvera_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7310014,
+    "Intro": "Eternal Radiance Flash",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_olvera_14_01_t",
+    "Model": ["ch_wp_olvera-14_01"],
+    "Name": "Eternal Radiance Flash",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 1,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1310140]
+  },
   "7311061": {
     "DefaultEffect": [
       [
@@ -330,7 +378,7 @@
     "EquipToPlay": 0,
     "Id": 7311063,
     "Intro": "Memento: Shadow of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_olvera_06_01_t",
     "Model": ["ch_wp_olvera-06_01"],
     "Name": "Memento: Shadow of the Far Sea",
@@ -340,6 +388,96 @@
     "Score": 320,
     "SortID": 11,
     "WeaponModelId": [1310060]
+  },
+  "7311141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_olvera_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7311141,
+    "Intro": "Eternal Radiance Flash I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_olvera_14_01_t",
+    "Model": ["ch_wp_olvera-14_01"],
+    "Name": "Eternal Radiance Flash I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 1,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1310140]
+  },
+  "7311142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_olvera_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7311142,
+    "Intro": "Eternal Radiance Flash II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_olvera_14_01_t",
+    "Model": ["ch_wp_olvera-14_01"],
+    "Name": "Eternal Radiance Flash II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 1,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1310140]
+  },
+  "7311143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_olvera_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7311143,
+    "Intro": "Eternal Radiance Flash",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_olvera_14_01_t",
+    "Model": ["ch_wp_olvera-14_01"],
+    "Name": "Eternal Radiance Flash",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 1,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1310140]
   },
   "7320001": {
     "DefaultEffect": [],
@@ -593,6 +731,54 @@
     "SortID": 12,
     "WeaponModelId": [1320120]
   },
+  "7320013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7320013,
+    "Intro": "Bonefire Wand",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_boyce_13_01_t",
+    "Model": ["ch_wp_boyce-13_01"],
+    "Name": "Bonefire Wand",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 2,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1320130]
+  },
+  "7320014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_boyce_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7320014,
+    "Intro": "Eternal Radiance Verdict",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_boyce_14_01_t",
+    "Model": ["ch_wp_boyce-14_01"],
+    "Name": "Eternal Radiance Verdict",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 2,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1320140]
+  },
   "7321061": {
     "DefaultEffect": [
       [
@@ -672,7 +858,7 @@
     "EquipToPlay": 0,
     "Id": 7321063,
     "Intro": "Memento: Revelation of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_boyce_06_01_t",
     "Model": ["ch_wp_boyce-06_01"],
     "Name": "Memento: Revelation of the Far Sea",
@@ -682,6 +868,96 @@
     "Score": 320,
     "SortID": 11,
     "WeaponModelId": [1320060]
+  },
+  "7321141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_boyce_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7321141,
+    "Intro": "Eternal Radiance Verdict I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_boyce_14_01_t",
+    "Model": ["ch_wp_boyce-14_01"],
+    "Name": "Eternal Radiance Verdict I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 2,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1320140]
+  },
+  "7321142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_boyce_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7321142,
+    "Intro": "Eternal Radiance Verdict II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_boyce_14_01_t",
+    "Model": ["ch_wp_boyce-14_01"],
+    "Name": "Eternal Radiance Verdict II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 2,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1320140]
+  },
+  "7321143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_boyce_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7321143,
+    "Intro": "Eternal Radiance Verdict",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_boyce_14_01_t",
+    "Model": ["ch_wp_boyce-14_01"],
+    "Name": "Eternal Radiance Verdict",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 2,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1320140]
   },
   "7330001": {
     "DefaultEffect": [],
@@ -821,7 +1097,7 @@
     "EquipToPlay": 0,
     "Id": 7330007,
     "Intro": "Emberglow Axe",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_tata02_01_t",
     "Model": ["ch_wp_tata-07_01", "ch_wp_tata-07_01"],
     "Name": "Emberglow Axe",
@@ -968,6 +1244,65 @@
     "SortID": 12,
     "WeaponModelId": [1330120, 1330120]
   },
+  "7330013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7330013,
+    "Intro": "Bonefire Axe",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tata_13_01_t",
+    "Model": ["ch_wp_tata-13_01", "ch_wp_tata-13_01"],
+    "Name": "Bonefire Axe",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 3,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1330130, 1330130]
+  },
+  "7330014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7330014,
+    "Intro": "Eternal Radiance Cleave",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tata_14_01_t",
+    "Model": ["ch_wp_tata-14_01", "ch_wp_tata-14_01"],
+    "Name": "Eternal Radiance Cleave",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 3,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1330140, 1330140]
+  },
   "7331061": {
     "DefaultEffect": [
       [
@@ -1005,7 +1340,7 @@
     "OpenCondition": [],
     "Original": 1,
     "ProfessionId": 3,
-    "Score": 0,
+    "Score": 320,
     "SortID": 1,
     "WeaponModelId": [1330060, 1330060]
   },
@@ -1046,7 +1381,7 @@
     "OpenCondition": [],
     "Original": 1,
     "ProfessionId": 3,
-    "Score": 0,
+    "Score": 320,
     "SortID": 1,
     "WeaponModelId": [1330060, 1330060]
   },
@@ -1080,16 +1415,139 @@
     "EquipToPlay": 0,
     "Id": 7331063,
     "Intro": "Memento: Fury of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_tata_06_01_t",
     "Model": ["ch_wp_tata-06_01", "ch_wp_tata-06_01"],
     "Name": "Memento: Fury of the Far Sea",
     "OpenCondition": [],
     "Original": 0,
     "ProfessionId": 3,
-    "Score": 0,
+    "Score": 320,
     "SortID": 1,
     "WeaponModelId": [1330060, 1330060]
+  },
+  "7331141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7331141,
+    "Intro": "Eternal Radiance Cleave I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tata_14_01_t",
+    "Model": ["ch_wp_tata-14_01", "ch_wp_tata-14_01"],
+    "Name": "Eternal Radiance Cleave I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 3,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1330140, 1330140]
+  },
+  "7331142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7331142,
+    "Intro": "Eternal Radiance Cleave II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tata_14_01_t",
+    "Model": ["ch_wp_tata-14_01", "ch_wp_tata-14_01"],
+    "Name": "Eternal Radiance Cleave II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 3,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1330140, 1330140]
+  },
+  "7331143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7331143,
+    "Intro": "Eternal Radiance Cleave",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_tata_14_01_t",
+    "Model": ["ch_wp_tata-14_01", "ch_wp_tata-14_01"],
+    "Name": "Eternal Radiance Cleave",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 3,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1330140, 1330140]
   },
   "7340001": {
     "DefaultEffect": [],
@@ -1343,6 +1801,144 @@
     "SortID": 12,
     "WeaponModelId": [1340120]
   },
+  "7340013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7340013,
+    "Intro": "Bonefire Spear",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tina_13_01_t",
+    "Model": ["ch_wp_tina-13_01"],
+    "Name": "Bonefire Spear",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 4,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1340130]
+  },
+  "7340014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tina_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7340014,
+    "Intro": "Eternal Radiance Pursuit",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tina_14_01_t",
+    "Model": ["ch_wp_tina-14_01"],
+    "Name": "Eternal Radiance Pursuit",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 4,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1340140]
+  },
+  "7340141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tina_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7340141,
+    "Intro": "Eternal Radiance Pursuit I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tina_14_01_t",
+    "Model": ["ch_wp_tina-14_01"],
+    "Name": "Eternal Radiance Pursuit I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 4,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1340140]
+  },
+  "7340142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tina_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7340142,
+    "Intro": "Eternal Radiance Pursuit II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_tina_14_01_t",
+    "Model": ["ch_wp_tina-14_01"],
+    "Name": "Eternal Radiance Pursuit II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 4,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1340140]
+  },
+  "7340143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tina_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7340143,
+    "Intro": "Eternal Radiance Pursuit I",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_tina_14_01_t",
+    "Model": ["ch_wp_tina-14_01"],
+    "Name": "Eternal Radiance Pursuit I",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 4,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1340140]
+  },
   "7341061": {
     "DefaultEffect": [
       [
@@ -1422,7 +2018,7 @@
     "EquipToPlay": 0,
     "Id": 7341063,
     "Intro": "Memento: Wish of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_tina_06_01_t",
     "Model": ["ch_wp_tina-06_01"],
     "Name": "Memento: Wish of the Far Sea",
@@ -1718,6 +2314,188 @@
     "SortID": 12,
     "WeaponModelId": [1350120, 1350120]
   },
+  "7350013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7350013,
+    "Intro": "Bonefire Ring",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_iruna_13_01_t",
+    "Model": ["ch_wp_iruna-13_01", "ch_wp_iruna-13_01"],
+    "Name": "Bonefire Ring",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 5,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1350130, 1350130]
+  },
+  "7350014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7350014,
+    "Intro": "Eternal Radiance Reminiscence",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_iruna_14_01_t",
+    "Model": ["ch_wp_iruna-14_01", "ch_wp_iruna-14_01"],
+    "Name": "Eternal Radiance Reminiscence",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 5,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1350140, 1350140]
+  },
+  "7350141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7350141,
+    "Intro": "Eternal Radiance Reminiscence I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_iruna_14_01_t",
+    "Model": ["ch_wp_iruna-14_01", "ch_wp_iruna-14_01"],
+    "Name": "Eternal Radiance Reminiscence I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 5,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1350140, 1350140]
+  },
+  "7350142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7350142,
+    "Intro": "Eternal Radiance Reminiscence II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_iruna_14_01_t",
+    "Model": ["ch_wp_iruna-14_01", "ch_wp_iruna-14_01"],
+    "Name": "Eternal Radiance Reminiscence II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 5,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1350140, 1350140]
+  },
+  "7350143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_iruna_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7350143,
+    "Intro": "Eternal Radiance Reminiscence",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_iruna_14_01_t",
+    "Model": ["ch_wp_iruna-14_01", "ch_wp_iruna-14_01"],
+    "Name": "Eternal Radiance Reminiscence",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 5,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1350140, 1350140]
+  },
   "7351061": {
     "DefaultEffect": [
       [
@@ -1830,7 +2608,7 @@
     "EquipToPlay": 0,
     "Id": 7351063,
     "Intro": "Memento: Grace of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_iruna_06_01_t",
     "Model": ["ch_wp_iruna-06_01", "ch_wp_iruna-06_01"],
     "Name": "Memento: Grace of the Far Sea",
@@ -2123,6 +2901,144 @@
     "SortID": 12,
     "WeaponModelId": [1370120]
   },
+  "7370013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7370013,
+    "Intro": "Bonefire Blade",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_comeau_13_01_t",
+    "Model": ["ch_wp_comeau-13_01"],
+    "Name": "Bonefire Blade",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 9,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1370130]
+  },
+  "7370014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_comeau_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7370014,
+    "Intro": "Eternal Radiance Resolve",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_comeau_14_01_t",
+    "Model": ["ch_wp_comeau-14_01"],
+    "Name": "Eternal Radiance Resolve",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 9,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1370140]
+  },
+  "7370141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_comeau_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7370141,
+    "Intro": "Eternal Radiance Resolve I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_comeau_14_01_t",
+    "Model": ["ch_wp_comeau-14_01"],
+    "Name": "Eternal Radiance Resolve I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 9,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1370140]
+  },
+  "7370142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_comeau_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7370142,
+    "Intro": "Eternal Radiance Resolve II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_comeau_14_01_t",
+    "Model": ["ch_wp_comeau-14_01"],
+    "Name": "Eternal Radiance Resolve II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 9,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1370140]
+  },
+  "7370143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_comeau_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1]],
+    "EquipToPlay": 0,
+    "Id": 7370143,
+    "Intro": "Eternal Radiance Resolve",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_comeau_14_01_t",
+    "Model": ["ch_wp_comeau-14_01"],
+    "Name": "Eternal Radiance Resolve",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 9,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1370140]
+  },
   "7371061": {
     "DefaultEffect": [
       [
@@ -2202,7 +3118,7 @@
     "EquipToPlay": 0,
     "Id": 7371063,
     "Intro": "Memento: Waiting of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_comeau_06_01_t",
     "Model": ["ch_wp_comeau-06_01"],
     "Name": "Memento: Waiting of the Far Sea",
@@ -2624,6 +3540,156 @@
     "SortID": 12,
     "WeaponModelId": [0, 1390120]
   },
+  "7390013": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/rodri/p_fx_skill_rodri-01_bowstring",
+        "0.071",
+        "0",
+        "0",
+        "90",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7390013,
+    "Intro": "Bonefire Bow",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_rodri_13_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-13_01"],
+    "Name": "Bonefire Bow",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 11,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [0, 1390130]
+  },
+  "7390014": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_rodri_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7390014,
+    "Intro": "Eternal Radiance Gaze",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_rodri_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-14_01"],
+    "Name": "Eternal Radiance Gaze",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 11,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1390140]
+  },
+  "7390141": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_rodri_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7390141,
+    "Intro": "Eternal Radiance Gaze I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_rodri_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-14_01"],
+    "Name": "Eternal Radiance Gaze I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 11,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1390140]
+  },
+  "7390142": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_rodri_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7390142,
+    "Intro": "Eternal Radiance Gaze II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_rodri_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-14_01"],
+    "Name": "Eternal Radiance Gaze II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 11,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1390140]
+  },
+  "7390143": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_rodri_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [["ep_weapon_effect02_point", "1", "1.1", "1"]],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7390143,
+    "Intro": "Eternal Radiance Gaze",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_rodri_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_rodri-14_01"],
+    "Name": "Eternal Radiance Gaze",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 11,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1390140]
+  },
   "7391061": {
     "DefaultEffect": [
       [
@@ -2736,7 +3802,7 @@
     "EquipToPlay": 0,
     "Id": 7391063,
     "Intro": "Memento: Gaze of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_rodri_06_01_t",
     "Model": ["empty_weapon", "ch_wp_rodri-06_01"],
     "Name": "Memento: Gaze of the Far Sea",
@@ -3032,6 +4098,188 @@
     "SortID": 12,
     "WeaponModelId": [1400120, 1400121]
   },
+  "7400013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7400013,
+    "Intro": "Bonefire Sword and Shield",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_farfara_13_01_t",
+    "Model": ["ch_wp_farfara01-13_01", "ch_wp_farfara02-13_01"],
+    "Name": "Bonefire Sword and Shield",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 12,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [1400130, 1400131]
+  },
+  "7400014": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara01_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara02_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7400014,
+    "Intro": "Eternal Radiance Oath",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_farfara_14_01_t",
+    "Model": ["ch_wp_farfara01-14_01", "ch_wp_farfara02-14_01"],
+    "Name": "Eternal Radiance Oath",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 12,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1400140, 1400141]
+  },
+  "7400141": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara01_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara02_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7400141,
+    "Intro": "Eternal Radiance Oath I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_farfara_14_01_t",
+    "Model": ["ch_wp_farfara01-14_01", "ch_wp_farfara02-14_01"],
+    "Name": "Eternal Radiance Oath I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 12,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1400140, 1400141]
+  },
+  "7400142": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara01_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara02_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7400142,
+    "Intro": "Eternal Radiance Oath I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_farfara_14_01_t",
+    "Model": ["ch_wp_farfara01-14_01", "ch_wp_farfara02-14_01"],
+    "Name": "Eternal Radiance Oath I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 12,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1400140, 1400141]
+  },
+  "7400143": {
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara01_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/skin_sea/p_fx_wp_farfara02_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [2]],
+    "EquipToPlay": 0,
+    "Id": 7400143,
+    "Intro": "Eternal Radiance Oath",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_farfara_14_01_t",
+    "Model": ["ch_wp_farfara01-14_01", "ch_wp_farfara02-14_01"],
+    "Name": "Eternal Radiance Oath",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 12,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [1400140, 1400141]
+  },
   "7401061": {
     "DefaultEffect": [
       [
@@ -3144,7 +4392,7 @@
     "EquipToPlay": 0,
     "Id": 7401063,
     "Intro": "Memento: Vow of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_farfara_06_01_t",
     "Model": ["ch_wp_farfara01-06_01", "ch_wp_farfara02-06_01"],
     "Name": "Memento: Vow of the Far Sea",
@@ -3407,6 +4655,144 @@
     "SortID": 12,
     "WeaponModelId": [0, 1410120]
   },
+  "7410013": {
+    "DefaultEffect": [],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7410013,
+    "Intro": "Bonefire Guitar",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_guitar_13_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-13_01"],
+    "Name": "Bonefire Guitar",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 13,
+    "Score": 30,
+    "SortID": 13,
+    "WeaponModelId": [0, 1410130]
+  },
+  "7410014": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect03_point",
+        "effect/skill/skin_sea/p_fx_wp_guitar_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [],
+    "EquipToPlay": 0,
+    "Id": 7410014,
+    "Intro": "Eternal Radiance Echo",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_guitar_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-14_01"],
+    "Name": "Eternal Radiance Echo",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 13,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1410140]
+  },
+  "7410141": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect03_point",
+        "effect/skill/skin_sea/p_fx_wp_guitar_14_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [1]],
+    "EquipToPlay": 0,
+    "Id": 7410141,
+    "Intro": "Eternal Radiance Echo I",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_guitar_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-14_01"],
+    "Name": "Eternal Radiance Echo I",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 13,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1410140]
+  },
+  "7410142": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect03_point",
+        "effect/skill/skin_sea/p_fx_wp_guitar_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [1]],
+    "EquipToPlay": 0,
+    "Id": 7410142,
+    "Intro": "Eternal Radiance Echo II",
+    "IsOpen": true,
+    "LongIcon": "ch_wp_guitar_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-14_01"],
+    "Name": "Eternal Radiance Echo II",
+    "OpenCondition": [],
+    "Original": 1,
+    "ProfessionId": 13,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1410140]
+  },
+  "7410143": {
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect03_point",
+        "effect/skill/skin_sea/p_fx_wp_guitar_14_02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "EffectScale": [],
+    "EffectSwitch": [[1], [1]],
+    "EquipToPlay": 0,
+    "Id": 7410143,
+    "Intro": "Eternal Radiance Echo",
+    "IsOpen": false,
+    "LongIcon": "ch_wp_guitar_14_01_t",
+    "Model": ["empty_weapon", "ch_wp_guitar-14_01"],
+    "Name": "Eternal Radiance Echo",
+    "OpenCondition": [],
+    "Original": 0,
+    "ProfessionId": 13,
+    "Score": 320,
+    "SortID": 14,
+    "WeaponModelId": [0, 1410140]
+  },
   "7411061": {
     "DefaultEffect": [
       [
@@ -3486,7 +4872,7 @@
     "EquipToPlay": 0,
     "Id": 7411063,
     "Intro": "Memento: Hymn of the Far Sea",
-    "IsOpen": false,
+    "IsOpen": true,
     "LongIcon": "ch_wp_guitar_06_01_t",
     "Model": ["empty_weapon", "ch_wp_guitar-06_01"],
     "Name": "Memento: Hymn of the Far Sea",

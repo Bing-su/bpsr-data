@@ -12,7 +12,7 @@
     "Id": 100201
   },
   "100301": {
-    "Content": "자신과 <style=\"accent-gn\">10m</style> 이내의 파티원의 공격력이 <style=\"accent-gn\">5% 증가</style>합니다.<br>범위 내에 <style=\"emph-gn\">포지션</style>이 하나 존재할 때마다 추가로 <style=\"accent-gn\">5% 증가</style>합니다(최대치 <style=\"accent-gn\">20%</style>).",
+    "Content": "자신과 <style=\"accent-gn\">10m</style> 이내의 파티원의 공격력이 <style=\"accent-gn\">5% 증가</style>합니다.<br>범위 내에 존재하는 파티원의 <style=\"emph-gn\">포지션</style> 1개당 <style=\"accent-gn\">5%</style> 추가로 증가합니다(최대치 <style=\"accent-gn\">20%</style>).",
     "Id": 100301
   },
   "100401": {
@@ -212,7 +212,7 @@
     "Id": 105201
   },
   "105301": {
-    "Content": "치명타로 적중할 때마다, <style=\"emph-gn\">공격 속도</style>가 <style=\"accent-gn\">1%</style> 증가하며, <style=\"accent-gn\">스킬 시전 속도</style>가 </style>2%<style=\"emph-gn\"> 증가하고, <style=\"accent-gn\">15스택</style>까지 중첩됩니다.",
+    "Content": "치명타로 적중할 때마다, <style=\"emph-gn\">공격 속도</style>가 <style=\"accent-gn\">1%</style> 증가하며, <style=\"emph-gn\">스킬 시전 속도</style>가 <style=\"accent-gn\">2%</style> 증가하고, <style=\"accent-gn\">15스택</style>까지 중첩됩니다.",
     "Id": 105301
   },
   "105401": {
@@ -272,7 +272,7 @@
     "Id": 106701
   },
   "106801": {
-    "Content": "대미지 또는 치료가 행운의 일격 발동 시, <style=\"emph-gn\">공격 속도</style>가 <style=\"accent-gn\">1%</style> 증가하며, <style=\"accent-gn\">스킬 시전 속도</style>가 </style>2%<style=\"emph-gn\"> 증가하고, <style=\"accent-gn\">15스택</style>까지 중첩됩니다.",
+    "Content": "대미지 또는 치료가 행운의 일격 발동 시, <style=\"emph-gn\">공격 속도</style>가 <style=\"accent-gn\">1%</style> 증가하며, <style=\"emph-gn\">스킬 시전 속도</style>가 <style=\"accent-gn\">2%</style> 증가하고, <style=\"accent-gn\">15스택</style>까지 중첩됩니다.",
     "Id": 106801
   },
   "106901": {
@@ -396,7 +396,7 @@
     "Id": 109801
   },
   "109901": {
-    "Content": "치료할 시, 목표에게 <style=\"accent-gn\">10%</style>만큼의 <style=\"emph-gn\">물리 증폭</style> 및 <style=\"emph-gn\">마법 증폭</style>을 제공합니다. <style=\"accent-gn\">3초</style> 동안 지속됩니다.",
+    "Content": "치료할 시, 목표에게 <style=\"accent-gn\">10%</style>만큼의 <style=\"emph-gn\">물리 증폭</style> 및 <style=\"emph-gn\">마법 증폭</style>을 부여합니다. <style=\"accent-gn\">3초</style> 동안 지속됩니다.",
     "Id": 109901
   },
   "110001": {
@@ -804,7 +804,7 @@
     "Id": 120001
   },
   "120101": {
-    "Content": "열화의 숙청이 신성한 일격을 발동할 수 있으며, 빛의 보호의 징벌로 라이트 프로텍션 쿨타임을 감소시키는 효과가 두 배로 적용됩니다.<br><br>[나이트메어] 난이도에서만 등장",
+    "Content": "열화의 숙청이 신성한 일격을 발동할 수 있으며, 빛의 보호의 징벌로 라이트 프로텍션 쿨타임을 감소시키는 효과가 2배로 적용됩니다.<br><br>[나이트메어] 난이도에서만 등장",
     "Id": 120101
   },
   "120201": {
@@ -860,7 +860,7 @@
     "Id": 121401
   },
   "121501": {
-    "Content": "실드 에코를 1회 발동할 때마다, 별 쪼개기에 실드값 100%만큼의 대미지가 부여됩니다(별 쪼개기 대미지 증가 효과의 영향을 받음).<br><br>[나이트메어] 난이도에서만 등장",
+    "Content": "실드 에코를 1회 발동할 때마다, 쇄성 돌진에 실드값 100%만큼의 대미지가 부여됩니다(쇄성 돌진 대미지 증가 효과의 영향을 받음).<br><br>[나이트메어] 난이도에서만 등장",
     "Id": 121501
   },
   "121601": {
@@ -948,7 +948,7 @@
     "Id": 123601
   },
   "123701": {
-    "Content": "앵콜 시전 시 전방에 음향을 1개 소환하며, 15초 동안 지속됩니다.<br><br>[나이트메어] 난이도에서만 등장",
+    "Content": "앵콜 시전 시 전방에 스피커를 1개 소환하며, 15초 동안 지속됩니다.<br><br>[나이트메어] 난이도에서만 등장",
     "Id": 123701
   },
   "123801": {
@@ -1024,7 +1024,7 @@
     "Id": 125501
   },
   "125601": {
-    "Content": "<style=\"emph-gn\">파동 광선</style>의 치명타 확률이 <style=\"accent-gn\">20% 증가</style>합니다.",
+    "Content": "<style=\"emph-gn\">파동 광선</style>의 치명타율이 <style=\"accent-gn\">20% 증가</style>합니다.",
     "Id": 125601
   },
   "125701": {
@@ -1124,7 +1124,7 @@
     "Id": 128001
   },
   "128101": {
-    "Content": "숙련이 <style=\"accent-gn\">50%</style>에 도달하면 <style=\"accent-gn\">30초</style>마다 자동으로 <style=\"emph-gn\">포식 거미 이매진</style>을 소환합니다.",
+    "Content": "숙련이 <style=\"accent-gn\">50%</style>에 도달하면 <style=\"accent-gn\">30초</style>마다 자동으로 <style=\"emph-gn\">포식 거미게 이매진</style>을 소환합니다.",
     "Id": 128101
   },
   "128201": {
@@ -1232,7 +1232,7 @@
     "Id": 130701
   },
   "130801": {
-    "Content": "체력이 <style=\"accent-gn\">50%</style> 미만일 시, <style=\"emph-gn\">능선의 이빨 이매진</style>을 1개 소환합니다(쿨타임 <style=\"accent-gn\">30초</style>).",
+    "Content": "체력이 <style=\"accent-gn\">50%</style> 미만일 시, <style=\"emph-gn\">산등엄니 이매진</style>을 1개 소환합니다(쿨타임 <style=\"accent-gn\">30초</style>).",
     "Id": 130801
   },
   "130901": {
@@ -1364,7 +1364,7 @@
     "Id": 3001001
   },
   "3001101": {
-    "Content": "프로스트 레이로 주 대상에게 대미지를 10회 줄 때마다 물 소용돌이, 워터 토네이도, 워터 볼 중 하나가 무작위로 발동합니다(해당 스킬 장착 필요). 프로스트 레이의 시즌 속성 대미지가 +100% 증가합니다.",
+    "Content": "프로스트 레이로 메인 타겟에게 대미지를 10회 줄 때마다 물 소용돌이, 워터 토네이도, 워터 볼 중 하나가 무작위로 발동합니다(해당 스킬 장착 필요). 프로스트 레이의 시즌 속성 대미지가 +100% 증가합니다.",
     "Id": 3001101
   },
   "3001201": {
@@ -1512,7 +1512,7 @@
     "Id": 3004701
   },
   "3004801": {
-    "Content": "실드 에코가 발동할 때마다 별 쪼개기에 보호막 수치 100%에 해당하는 대미지가 추가됩니다(별 쪼개기의 대미지 증가 효과 적용).",
+    "Content": "실드 에코가 발동할 때마다 쇄성 돌진에 보호막 수치 100%에 해당하는 대미지가 추가됩니다(쇄성 돌진의 대미지 증가 효과 적용).",
     "Id": 3004801
   },
   "3004901": {
@@ -1556,7 +1556,7 @@
     "Id": 3005801
   },
   "3005901": {
-    "Content": "앵콜 사용 시 전방에 음향 장치를 하나 소환합니다. 15초 동안 지속됩니다.",
+    "Content": "앵콜 사용 시 전방에 스피커를 하나 소환합니다. 15초 동안 지속됩니다.",
     "Id": 3005901
   },
   "3006001": {
@@ -1612,7 +1612,7 @@
     "Id": 500301
   },
   "500401": {
-    "Content": "자신과 <style=\"accent-gn\">10m</style> 이내의 파티원의 공격력이 <style=\"accent-gn\">5% 증가</style>합니다.<br>범위 내에 <style=\"emph-gn\">포지션</style>이 하나 존재할 때마다 추가로 <style=\"accent-gn\">5% 증가</style>합니다(최대치 <style=\"accent-gn\">20%</style>).",
+    "Content": "자신과 <style=\"accent-gn\">10m</style> 이내의 파티원의 공격력이 <style=\"accent-gn\">5% 증가</style>합니다.<br>범위 내에 존재하는 파티원의 <style=\"emph-gn\">포지션</style> 1개당 <style=\"accent-gn\">5%</style> 추가로 증가합니다(최대치 <style=\"accent-gn\">20%</style>).",
     "Id": 500401
   },
   "500501": {
@@ -1812,7 +1812,7 @@
     "Id": 505301
   },
   "505401": {
-    "Content": "치명타로 적중할 때마다, <style=\"emph-gn\">공격 속도</style>가 <style=\"accent-gn\">1%</style> 증가하며, <style=\"accent-gn\">스킬 시전 속도</style>가 </style>2%<style=\"emph-gn\"> 증가하고, <style=\"accent-gn\">15스택</style>까지 중첩됩니다.",
+    "Content": "치명타로 적중할 때마다, <style=\"emph-gn\">공격 속도</style>가 <style=\"accent-gn\">1%</style> 증가하며, <style=\"emph-gn\">스킬 시전 속도</style>가 <style=\"accent-gn\">2%</style> 증가하고, <style=\"accent-gn\">15스택</style>까지 중첩됩니다.",
     "Id": 505401
   },
   "505501": {
@@ -1872,7 +1872,7 @@
     "Id": 506801
   },
   "506901": {
-    "Content": "대미지 또는 치료가 행운의 일격 발동 시, <style=\"emph-gn\">공격 속도</style>가 <style=\"accent-gn\">1%</style> 증가하며, <style=\"accent-gn\">스킬 시전 속도</style>가 </style>2%<style=\"emph-gn\"> 증가하고, <style=\"accent-gn\">15스택</style>까지 중첩됩니다.",
+    "Content": "대미지 또는 치료가 행운의 일격 발동 시, <style=\"emph-gn\">공격 속도</style>가 <style=\"accent-gn\">1%</style> 증가하며, <style=\"emph-gn\">스킬 시전 속도</style>가 <style=\"accent-gn\">2%</style> 증가하고, <style=\"accent-gn\">15스택</style>까지 중첩됩니다.",
     "Id": 506901
   },
   "507001": {
@@ -1996,7 +1996,7 @@
     "Id": 509901
   },
   "510001": {
-    "Content": "치료할 시, 목표에게 <style=\"accent-gn\">10%</style>만큼의 <style=\"emph-gn\">물리 증폭</style> 및 <style=\"emph-gn\">마법 증폭</style>을 제공합니다. <style=\"accent-gn\">3초</style> 동안 지속됩니다.",
+    "Content": "치료할 시, 목표에게 <style=\"accent-gn\">10%</style>만큼의 <style=\"emph-gn\">물리 증폭</style> 및 <style=\"emph-gn\">마법 증폭</style>을 부여합니다. <style=\"accent-gn\">3초</style> 동안 지속됩니다.",
     "Id": 510001
   },
   "510101": {
@@ -2100,7 +2100,7 @@
     "Id": 612501
   },
   "612601": {
-    "Content": "짧은 시간 동안 <style=\"emph-gn\">무적</style> 효과를 획득하고, 효과가 지속되는 동안 <style=\"emph-gn\">공격력</style>과 <style=\"emph-gn\">이동 속도</style>가 증가합니다.",
+    "Content": "짧은 시간 동안 <style=\"emph-gn\">무적</style> 효과를 획득하고, 효과가 지속되는 동안 <style=\"emph-gn\">공격력</style>과 <style=\"emph-gn\">이동속도</style>가 증가합니다.",
     "Id": 612601
   },
   "612701": {

@@ -32,7 +32,7 @@
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_05"],
     "SeasonId": 1,
-    "SeasonTitle": "Atuendo de título limitado",
+    "SeasonTitle": "Atuendo de título exclusivo de temporada",
     "Sort": 105
   },
   "105": {
@@ -156,12 +156,12 @@
     "Sort": 304
   },
   "305": {
-    "Content": "¡Participa en las funciones de la temporada y alcanza el rango de título “Variaciones Caóticas I\" para obtener el conjunto de edición limitada Comando de Contraluz!",
+    "Content": "¡Participa en las funciones de la temporada y alcanza el rango de título Variaciones Caóticas I para obtener el conjunto de edición limitada Comando de Contraluz!",
     "Id": 305,
     "PreviewType": 1,
     "ResourceRoute": ["ui/textures/season_window/season_main_window_23"],
     "SeasonId": 3,
-    "SeasonTitle": "Atuendo de título limitado",
+    "SeasonTitle": "Atuendo de título exclusivo de temporada",
     "Sort": 307
   },
   "306": {
@@ -181,5 +181,44 @@
     "SeasonId": 3,
     "SeasonTitle": "Atuendo del pase onírico III",
     "Sort": 306
+  },
+  "402": {
+    "Content": "Antes de empezar oficialmente la mazmorra, elige uno de los 5 Altares del Juramento para hacer tu juramento. Cada juramento otorga ventajas diferentes.\\n\\nDurante el combate, eliminar monstruos otorga energía del juramento. Cuantos más juramentos únicos tenga tu grupo, más rápido ganarás energía del juramento.\\n\\nComienzas con tu juramento en el nv. 1. Los atributos de los bonus se vuelven más fuertes a medida que aumenta el nivel de tu juramento.\\n\\nLos dispositivos que activan las pruebas de juramento están dispersos por el mapa. Gasta energía del juramento para activar una prueba de juramento y aumentar su nivel según la cantidad de energía gastada.\\n\\nUna vez que se activa la prueba de juramento, obtienes una poderosa ventaja por tiempo limitado. Todos los monstruos cercanos también son potenciados según sus afijos.\\n\\nDerrotar monstruos potenciados otorga energía del juramento adicional.\\n\\nLos espíritus del juramento tienen una probabilidad de tomar forma en el Reino Caótico. Derrótalos para obtener un botín misterioso.",
+    "Id": 402,
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_26",
+      "ui/textures/large_ui/season_window/season_main_window_27"
+    ],
+    "SeasonId": 4,
+    "SeasonTitle": "Afijo de temporada",
+    "Sort": 402
+  },
+  "404": {
+    "Content": "¡Compra el pase de temporada I y alcanza el nv. 30 para obtener el conjunto de edición limitada Mago de fantasía!",
+    "Id": 404,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_28"],
+    "SeasonId": 4,
+    "SeasonTitle": "Pase de batalla: Atuendo (parte I)",
+    "Sort": 404
+  },
+  "405": {
+    "Content": "¡Participa en las funciones de la temporada y alcanza el rango de título Estrella fugaz vinculada I para obtener el conjunto de edición limitada Mensajero del Silencio!",
+    "Id": 405,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_29"],
+    "SeasonId": 4,
+    "SeasonTitle": "Atuendo de título exclusivo de temporada",
+    "Sort": 407
+  },
+  "406": {
+    "Content": "¡Compra el pase de temporada II y alcanza el nv. 30 para obtener el conjunto de edición limitada Costas lejanas!",
+    "Id": 406,
+    "PreviewType": 1,
+    "ResourceRoute": ["ui/textures/large_ui/season_window/season_main_window_30"],
+    "SeasonId": 4,
+    "SeasonTitle": "Pase de temporada II: Atuendos",
+    "Sort": 405
   }
 }

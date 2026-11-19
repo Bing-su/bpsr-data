@@ -153,6 +153,20 @@
     "ReviewBubble": ["在船上人們的幫助下，艾露娜找到了難題的突破口"],
     "ReviewBubbleAction": [9047]
   },
+  "140011": {
+    "Clue": [1400111, 1400112, 1400113],
+    "Conclusion": "嘉莉曾自稱是開拓局的冒險者，參加過遊園會的雷魔快打，後來成為阿斯特里斯的議員。她還提到，自己的父母一直住在明斯特霍恩英雄碑林附近。這些經歷都應該留下能夠查證的痕跡。",
+    "ConclusionAction": 9033,
+    "ConclusionBubble": "與其繼續猜她到底是什麼人，不如先看看這些經歷究竟有多少是真的。",
+    "ConclusionTips": "調查嘉莉留下的身份資訊",
+    "Id": 140011,
+    "InferenceStep": [1400111, 1400112, 1400113],
+    "IockedBubble": ["她說過的事情不少……再仔細回想一下。"],
+    "IockedBubbleAction": [9019],
+    "QuickReasoning": true,
+    "ReviewBubble": ["嘉莉留下的身份資訊已經整理完了。接下來，只要逐一確認這些經歷是否真實存在。"],
+    "ReviewBubbleAction": [9047]
+  },
   "20011": {
     "Clue": [200111, 200112, 200113],
     "Conclusion": "大家的看法各不相同，和艾露娜商量一下吧。",

@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "적에게 닿으면 폭발해 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다.",
+    "Description": "적에게 닿으면 폭발해 공격력 <style=\"accent-gn\">100%</style>만큼의 <style=\"magic\">마법 대미지</style>를 입힙니다. 이 효과는 행운 효과에 해당됩니다.",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "주위 <style=\"accent-gn\">5</style>m 이내의 적에게 공격력 <style=\"accent-gn\">80%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 명중한 적 1명당 대미지 +<style=\"accent-gn\">30%</style>(최대 +<style=\"accent-gn\">120%</style>). <style=\"accent-gn\">일반 공격</style> 스킬의 업그레이드/승급에 따라 성장합니다.",
+    "Description": "주위 <style=\"accent-gn\">5</style>m 이내의 적에게 공격력 <style=\"accent-gn\">72%</style>만큼의 <style=\"physical\">물리 대미지</style>를 입힙니다. 추가로 명중한 적 1명당 대미지 +<style=\"accent-gn\">30%</style>(최대 +<style=\"accent-gn\">120%</style>). <style=\"accent-gn\">일반 공격</style> 스킬의 업그레이드/승급에 따라 성장합니다.",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1356,7 +1356,7 @@
     "Id": 1169,
     "Par": 3401169,
     "ShowRule": 1,
-    "Text": "노격",
+    "Text": "분노의 일격",
     "Type": 3
   },
   "1170": {
@@ -1684,7 +1684,7 @@
     "Id": 1210,
     "Par": 0,
     "ShowRule": 2,
-    "Text": "대장장이의 힘",
+    "Text": "장인의 힘",
     "Type": 1
   },
   "1211": {
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "능력치 전환",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "스택당 공격력이 <style=\"accent-gn\">25pt</style> 증가합니다(시즌 레벨에 따라 최대 <style=\"accent-gn\">40</style>까지 증가).",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "각인",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "고정 피해가 <style=\"accent-gn\">6%</style> 증가하며, 기원 대미지 감면이 <style=\"accent-gn\">1%</style> 증가합니다. 최대 <style=\"accent-gn\">10</style>스택까지 중첩되며, 이동 시 매초 <style=\"accent-gn\">1</style>스택씩 감소하고, 퍼펙트 회피 발동 시 <style=\"accent-gn\">1</style>스택이 감소하며, 전투 상태에서 벗어나면 모두 초기화됩니다.",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "전의",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "스택당 공격력이 <style=\"accent-gn\">1%</style> 감소하며, 최대 <style=\"accent-gn\">1</style>스택까지 적용됩니다. 해당 효과는 <style=\"accent-gn\">10초</style>간 지속되며, 다시 부여될 때 스택이 초기화됩니다.",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "전의 감소",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "기원 대미지+<style=\"accent-gn\">3%</style>, 최대 <style=\"accent-gn\">1</style>스택까지 적용됩니다.",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "격려",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "공격력이 <style=\"accent-gn\">74pt</style> 증가하며(시즌 레벨에 따라 <style=\"accent-gn\">112</style>까지 증가), <style=\"accent-gn\">8초</style>간 지속되고 최대 <style=\"accent-gn\">5</style>스택까지 중첩됩니다.",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "축력",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "공격력이 <style=\"accent-gn\">400pt</style> 증가하며(시즌 레벨에 따라 <style=\"accent-gn\">700</style>까지 상승), <style=\"accent-gn\">8초</style>간 지속됩니다.",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "폭발",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "플레이어의 치명타%, 행운%, 속공%, 숙련% 중 가장 높은 수치가 <style=\"accent-gn\">1.5%</style> 증가하며, <style=\"accent-gn\">5초</style>간 지속됩니다.",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "스테이터스 하모니",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "<style=\"accent-gn\">3</style>m 범위 내 적군 목표에게 공격력 <style=\"accent-gn\">500%</style>의 적응형 대미지를 줍니다.",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "몽환의 화살",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "기원 강도 <style=\"accent-gn\">4000%</style>에 해당하는 고정 대미지를 입힙니다.",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "환멸의 충격",
     "Type": 1
   },
   "1500": {
@@ -2060,7 +2132,7 @@
     "Id": 1537,
     "Par": 1924,
     "ShowRule": 1,
-    "Text": "별 쪼개기",
+    "Text": "쇄성 돌진",
     "Type": 2
   },
   "1538": {
@@ -2516,7 +2588,7 @@
     "Id": 1594,
     "Par": 1941,
     "ShowRule": 1,
-    "Text": "별 부수기",
+    "Text": "쇄성 붕괴",
     "Type": 2
   },
   "1595": {
@@ -2808,7 +2880,7 @@
     "Type": 1
   },
   "2002": {
-    "Description": "스택당 이동 속도 <style=\"accent-gn\">-10%</style>, 물리 저항과 마법 저항 <style=\"accent-gn\">-10%</style>. <style=\"accent-gn\">5초</style> 지속, 기본 최대 <style=\"accent-gn\">5스택</style>. <style=\"accent-gn\">보스에게는 효과가 절반으로 감소합니다.</style> 대상의 한기가 최대 스택에 도달하면 빙결로 전환됩니다. 대상이 연소 상태일 경우, 연소를 제거하고 남은 연소 대미지를 모두 결산합니다.",
+    "Description": "스택당 이동속도 <style=\"accent-gn\">-10%</style>, 물리 저항과 마법 저항 <style=\"accent-gn\">-10%</style>. <style=\"accent-gn\">5초</style> 지속, 기본 최대 <style=\"accent-gn\">5스택</style>. <style=\"accent-gn\">보스에게는 효과가 절반으로 감소합니다.</style> 대상의 한기가 최대 스택에 도달하면 빙결로 전환됩니다. 대상이 연소 상태일 경우, 연소를 제거하고 남은 연소 대미지를 모두 결산합니다.",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
@@ -3007,6 +3079,14 @@
     "Text": "화상",
     "Type": 3
   },
+  "3015": {
+    "Description": "적이 눈부심을 시전한 대상 방향으로 이동하도록 강제합니다. 보스와 엘리트에게는 적용되지 않으며, 이상 상태의 일종입니다.",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "눈부심",
+    "Type": 1
+  },
   "3020": {
     "Description": "<style=\"accent-gn\">스턴</style>, <style=\"accent-gn\">동결</style>, <style=\"accent-gn\">석화</style>, <style=\"accent-gn\">마비</style>, <style=\"accent-gn\">눈부심</style>, <style=\"accent-gn\">공포</style>가 포함됩니다.",
     "Id": 3020,
@@ -3022,5 +3102,13 @@
     "ShowRule": 1,
     "Text": "디버프",
     "Type": 3
+  },
+  "3022": {
+    "Description": "배치된 가구의 수는 사용 중인 기기의 성능에 따라 게임 프레임에 영향을 줄 수 있습니다.",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "가구 수량",
+    "Type": 1
   }
 }

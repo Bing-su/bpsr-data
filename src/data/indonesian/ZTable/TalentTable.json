@@ -226,8 +226,8 @@
     "Des": "敏捷转换",
     "FightValue": 26,
     "Id": 1101,
-    "TalentDes": "Setiap <style=\"accent-gn\">10</style> poin AGI memberikan <style=\"accent-gn\">7</style> poin Haste.",
-    "TalentEffect": [[4, 2, 11122, 7000]],
+    "TalentDes": "Setiap <style=\"accent-gn\">10</style> poin AGI memberikan <style=\"accent-gn\">21</style> poin Haste.",
+    "TalentEffect": [[4, 2, 11122, 21000]],
     "TalentIcon": "ui/atlas/talent_passive_11/talent_passive_icon_general_dps_speedtran",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -578,7 +578,7 @@
     "WeaponGroup": 11
   },
   "1122": {
-    "BuffPar": [[50, 2]],
+    "BuffPar": [[40, 2]],
     "BuffValueKey": [["attr", "fightres"]],
     "Des": "光落",
     "FightValue": 26,
@@ -702,7 +702,7 @@
     "Des": "驯鹰流",
     "FightValue": 26,
     "Id": 1129,
-    "TalentDes": "<style=\"accent-gn\">Special Attack</style> digantikan dengan <linktext=1547><style=\"ItemQuality_5\">Double Arrow</style></linktext>, dan kemampuan penggunaan skill tersebut ditingkatkan.<br>Memulihkan <style=\"accent-gn\">2</style> poin <style=\"accent-gn\">Light</style> setiap detik.<br>Setiap <style=\"accent-gn\">1%</style> Haste memberikan tambahan <style=\"accent-gn\">1%</style> kecepatan CD <linktext=1547><style=\"ItemQuality_5\">Double Arrow</style></linktext>.<br>Dapat menjinakkan <style=\"accent-gn\">Hawk</style> untuk membantu bertarung bersama pengguna.<br><br><style=\"accent-gn\">Hawk</style> selalu berada di sisimu. Saat Class Skill mengakibatkan DMG, <style=\"accent-gn\">Hawk</style> berpeluang tetap <style=\"accent-gn\">23%</style> segera menyerang target (pasti menyerang jika mengakibatkan Crit DMG) dan mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">150%</style> ATK diri sendiri (skala serangan meningkat seiring level/upgrade skill <style=\"accent-gn\">Normal Attack</style>).Selain itu, saat jumlah serangan <style=\"accent-gn\">Hawk</style> melebihi <style=\"accent-gn\">5</style> kali, serangan <style=\"accent-gn\">Hawk</style> berikutnya akan menggabungkan jumlah serangan dan DMG yang melebihi batas tersebut.<br><br><i><style=\"text_third_gray\"><size=20>Hawk akan merespons seranganmu, Haste dan Crit meningkatkan frekuensi responsnya. Setelah Hawk mempelajari Lightning Impact, DMG-nya meningkat secara signifikan.</size></style></i>",
+    "TalentDes": "Menggantikan <style=\"accent-gn\">Special Attack</style> menjadi <linktext=1547><style=\"ItemQuality_5\">Double Arrow</style></linktext> dan meningkatkan kemampuan saat memakai Skill tersebut.<br>Memulihkan <style=\"accent-gn\">2</style> poin <style=\"accent-gn\">Light</style> setiap detik.<br>Setiap <style=\"accent-gn\">1%</style> Haste memberikan <style=\"accent-gn\">1%</style> Kecepatan Cooldown <linktext=1547><style=\"ItemQuality_5\">Double Arrow</style></linktext>.<br>Dapat menjinakkan <style=\"accent-gn\">Hawk</style> untuk membantu diri sendiri dalam pertarungan.<br><br><style=\"accent-gn\">Hawk</style> akan selalu menemani diri sendiri. Saat Class Skill berelemen Light milik diri sendiri mengakibatkan DMG, <style=\"accent-gn\">Hawk</style> berpeluang tetap sebesar <style=\"accent-gn\">23%</style> untuk segera menyerang Target (pasti menyerang jika mengakibatkan Crit) dan mengakibatkan <style=\"physical\">PDMG</style> sebesar <style=\"accent-gn\">150%</style> ATK diri sendiri (bertumbuh mengikuti Upgrade/Advance Skill <style=\"accent-gn\">Normal Attack</style>). Selain itu, saat jumlah serangan <style=\"accent-gn\">Hawk</style> melebihi <style=\"accent-gn\">5</style> kali, serangan <style=\"accent-gn\">Hawk</style> berikutnya akan menggabungkan kelebihan jumlah serangan dan DMG tersebut.<br><br><i><style=\"text_third_gray\"><size=20>Hawk akan merespons seranganmu. Haste dan Crit akan memperkuat frekuensi respons Hawk, serta DMG Hawk akan meningkat pesat setelah mempelajari Lightning Impact.</size></style></i>",
     "TalentEffect": [
       [6, 2220, 2222],
       [3, 2203290, 1]
@@ -1399,7 +1399,7 @@
   "1166": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "钢制喙聚集",
+    "Des": "急速轰炸",
     "FightValue": 26,
     "Id": 1166,
     "TalentDes": "力量+10",
@@ -1407,7 +1407,7 @@
     "TalentIcon": "ui/atlas/talent_passive_11/gongjian1166",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Steel Beak Convergence",
+    "TalentName": "Bombardir Haste",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020054, 1]],
@@ -1465,7 +1465,7 @@
     "WeaponGroup": 1
   },
   "120": {
-    "BuffPar": [[10, 22, 10000]],
+    "BuffPar": [[10, 28, 10000]],
     "BuffValueKey": [["num", "attr", "time"]],
     "Des": "雷电之力",
     "FightValue": 26,
@@ -1589,10 +1589,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 1206,
-    "TalentDes": "Setiap <style=\"accent-gn\">3</style> STR akan memberi <style=\"accent-gn\">3,6</style> PDEF.",
+    "TalentDes": "Setiap <style=\"accent-gn\">1</style> poin STR memberikan <style=\"accent-gn\">1.5</style> poin PDEF.",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1206",
     "TalentId": 0,
@@ -2000,7 +2000,7 @@
   "1228": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之二",
     "FightValue": 26,
     "Id": 1228,
     "TalentDes": "力量+10",
@@ -2008,7 +2008,7 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Judgement Pursuit",
+    "TalentName": "Judgement Pursuit II",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -2714,7 +2714,7 @@
   "1267": {
     "BuffPar": [[0]],
     "BuffValueKey": [["a"]],
-    "Des": "裁决追击",
+    "Des": "裁决追击·之一",
     "FightValue": 26,
     "Id": 1267,
     "TalentDes": "力量+10",
@@ -2722,7 +2722,24 @@
     "TalentIcon": "ui/atlas/talent_passive_12/jiandun1228",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Judgement Pursuit",
+    "TalentName": "Judgement Pursuit I",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020056, 1]],
+    "WeaponGroup": 12
+  },
+  "1268": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "神圣壁垒",
+    "FightValue": 26,
+    "Id": 1268,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2206690, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_12/jiandun1217",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "Holy Barrier",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 1]],
@@ -3534,7 +3551,7 @@
   "1340": {
     "BuffPar": [[1]],
     "BuffValueKey": [["attr"]],
-    "Des": "音爆愈疗",
+    "Des": "音爆延时",
     "FightValue": 26,
     "Id": 1340,
     "TalentDes": "力量+10",
@@ -3542,7 +3559,7 @@
     "TalentIcon": "ui/atlas/talent_passive_13/gita1340",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Sonic Healing",
+    "TalentName": "Jeda Ledakan Sonik",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020055, 1]],
@@ -4667,7 +4684,7 @@
     "TalentIcon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_ignoredef",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Luck Enhancement",
+    "TalentName": "Peningkatan Luck",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020054, 2]],
@@ -6722,7 +6739,7 @@
     "Des": "赤红专精流",
     "FightValue": 26,
     "Id": 342,
-    "TalentDes": "Mendapat efek <style=\"accent-gn\">Crimson Recovery</style>: Saat mengenai target utama (kecuali <linktext=1626><style=\"ItemQuality_5\">Manic Firedance</style></linktext>), akan mengubah <style=\"accent-gn\">20%</style> dari DMG menjadi <style=\"accent-gn\">Crimson Soulpool</style> (nilai <style=\"accent-gn\">Crimson Soulpool</style> tidak akan melebihi Max HP). Saat <style=\"accent-gn\">Flame Soul</style> tidak cukup, dapat menggunakan <style=\"accent-gn\">25%</style> dari nilai <style=\"accent-gn\">Crimson Soulpool</style> untuk memperpanjang durasi <linktext=1626><style=\"ItemQuality_5\">Manic Firedance</style></linktext> selama <style=\"accent-gn\">0,8</style> detik.<br><br><i> <style=\"text_third_gray\"><size=20>Menambah soulpool dengan cepat melalui Crimson Recovery dan memicu Manic Firedance dengan intensitas tinggi dengan bantuan Attack Speed yang tinggi. Menggunakan efek ini sebagai inti untuk memicu efek skill lainnya dan mengakibatkan DMG tinggi dalam kurun waktu burst.</size></style></i>",
+    "TalentDes": "Mendapat efek <style=\"accent-gn\">Crimson Recovery</style>: Saat mengenai target utama, mengonversi <style=\"accent-gn\">1%</style> dari DMG yang diberikan menjadi <style=\"accent-gn\">Crimson Soulpool</style> (nilai <style=\"accent-gn\">Crimson Soulpool</style> tidak melebihi ATK x100). Saat <style=\"accent-gn\">Crimson Soulpool</style> penuh, DMG yang diberikan berikutnya akan memberi efek <style=\"accent-gn\">Boiling Battleblood</style>: <style=\"accent-gn\">Crimson Soulpool</style> tidak lagi dipulihkan, berkurang <style=\"accent-gn\">4%</style> per detik, dan DMG Akhir <style=\"accent-gn\">+20%</style> (selama <style=\"accent-gn\">Boiling Battleblood</style> aktif, <style=\"accent-gn\">Crimson Soulpool</style> dianggap <style=\"accent-gn\">100%</style>). Keluar dari pertempuran akan langsung mengakhiri status <style=\"accent-gn\">Boiling Battleblood</style>.<br><br><i><style=\"text_third_gray\"><size=20>Mengumpulkan Soulpool dengan cepat melalui Crimson Recovery, lalu memicu Manic Firedance secara beruntun dengan dukungan Attack Speed tinggi. Jadikan hal ini sebagai inti untuk bersinergi dengan efek Skill lainnya dan menghasilkan DMG tinggi dalam jendela Burst.</size></style></i>",
     "TalentEffect": [
       [6, 1605, 1606],
       [3, 2208430, 1]
@@ -7621,7 +7638,7 @@
     "WeaponGroup": 4
   },
   "427": {
-    "BuffPar": [[65, 650, 30000]],
+    "BuffPar": [[80, 800, 30000]],
     "BuffValueKey": [["attr", "attrMax", "time"]],
     "Des": "捕手",
     "FightValue": 26,
@@ -7765,7 +7782,7 @@
     "Des": "斗志昂扬",
     "FightValue": 26,
     "Id": 434,
-    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">Wind God - Break Gale</style></linktext> mengangkat flagspear untuk memberikan efek <style=\"accent-gn\">Motivation</style> pada rekan tim dan mendapat <style=\"accent-gn\">50%</style> Crit DMG Boost untuk diri sendiri dalam 10 detik. Lalu dilanjutkan dengan serangan lanjutan, melompat dan mengakibatkan <style=\"physical\">PDMG</style> pada target di dalam areanya, memukul mundur mereka serta memulihkan <style=\"accent-gn\">100</style> poin <style=\"accent-gn\">Courage</style>.<br><style=\"accent-gn\">Motivation</style>: Berlangsung selama <style=\"accent-gn\">10</style> detik. Selama durasi ini, semua rekan tim mendapat +<style=\"accent-gn\">10%</style> Haste (hanya satu efek yang bisa aktif dalam satu waktu), sementara diri sendiri memulihkan <style=\"accent-gn\">10</style> poin <style=\"accent-gn\">Courage</style> setiap <style=\"accent-gn\">1</style> detik dan <style=\"accent-gn\">1</style> tumpuk <linktext=1152><style=\"ItemQuality_5\">Sharp</style></linktext> setiap <style=\"accent-gn\">2</style> detik.",
+    "TalentDes": "<linktext=1525><style=\"ItemQuality_5\">Wind God - Break Gale</style></linktext> akan mengangkat Flagspear, memberikan <style=\"accent-gn\">Motivation</style> pada diri sendiri dan membuat diri sendiri mendapat <style=\"accent-gn\">50%</style> Crit DMG Boost selama 10 detik. Setelah itu, dapat melancarkan Pursuit tahap kedua dengan melompat kuat ke formasi musuh, mengakibatkan <style=\"physical\">PDMG</style> pada Target musuh di dalam Area dan menerbangkan mereka, sekaligus mendapat Recovery <style=\"accent-gn\">100</style> poin <style=\"accent-gn\">Courage</style>.<br><style=\"accent-gn\">Motivation</style>: Sustained selama <style=\"accent-gn\">10</style> detik, selama durasi ini Haste +<style=\"accent-gn\">15%</style>, diri sendiri mendapat Recovery <style=\"accent-gn\">10</style> poin <style=\"accent-gn\">Courage</style> setiap <style=\"accent-gn\">1</style> detik dan Recovery <style=\"accent-gn\">1</style> lapis <linktext=1152><style=\"ItemQuality_5\">Sharp</style></linktext> setiap <style=\"accent-gn\">2</style> detik.",
     "TalentEffect": [
       [6, 1426, 1410],
       [3, 2205310, 1]
@@ -9148,8 +9165,11 @@
     "Des": "花语回升",
     "FightValue": 26,
     "Id": 535,
-    "TalentDes": "<style=\"accent-gn\">Ultimate</style> <linktext=1531><style=\"ItemQuality_5\">Flourish - Hope Barrier</style></linktext> digantikan dengan <linktext=1552><style=\"ItemQuality_5\">Bloom Recovery</style></linktext>.",
-    "TalentEffect": [[6, 1509, 1527]],
+    "TalentDes": "Mengganti <style=\"accent-gn\">Ultimate</style> <linktext=1531><style=\"ItemQuality_5\">Flourish - Hope Barrier</style></linktext> menjadi <linktext=1552><style=\"ItemQuality_5\">Bloom Recovery</style></linktext>.<br>Setelah melancarkan <linktext=1552><style=\"ItemQuality_5\">Bloom Recovery</style></linktext>, dalam <style=\"accent-gn\">10</style> detik, Inspiration Effect berlipat ganda tetapi DMG Akhir yang diakibatkan diri sendiri <style=\"accent-gn\">-10%</style>.",
+    "TalentEffect": [
+      [6, 1509, 1527],
+      [3, 2202390, 1]
+    ],
     "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_aoyiguide",
     "TalentId": 0,
     "TalentLevel": 1,
@@ -9839,6 +9859,23 @@
     "UnlockConsume": [[1020055, 2]],
     "WeaponGroup": 5
   },
+  "572": {
+    "BuffPar": [[0]],
+    "BuffValueKey": [["a"]],
+    "Des": "幸运脉动",
+    "FightValue": 26,
+    "Id": 572,
+    "TalentDes": "力量+10",
+    "TalentEffect": [[3, 2202030, 1]],
+    "TalentIcon": "ui/atlas/talent_passive_5/talent_passive_icon_general_sup_killhealring",
+    "TalentId": 0,
+    "TalentLevel": 1,
+    "TalentName": "Luck Impulse",
+    "TalentPointsConsume": 1,
+    "TalentType": 4,
+    "UnlockConsume": [[1020055, 2]],
+    "WeaponGroup": 5
+  },
   "6": {
     "BuffPar": [],
     "BuffValueKey": [],
@@ -9930,10 +9967,10 @@
     "Des": "力量转换",
     "FightValue": 26,
     "Id": 901,
-    "TalentDes": "Setiap <style=\"accent-gn\">3</style> STR akan memberi <style=\"accent-gn\">3,6</style> PDEF.",
+    "TalentDes": "Setiap <style=\"accent-gn\">1</style> poin STR memberikan <style=\"accent-gn\">1.5</style> poin PDEF.",
     "TalentEffect": [
-      [1, 11352, 7000],
-      [4, 0, 11352, 12000]
+      [1, 11352, 9000],
+      [4, 0, 11352, 15000]
     ],
     "TalentIcon": "ui/atlas/talent_passive_9/talent_passive_icon_general_tank_deftran",
     "TalentId": 0,
@@ -10723,7 +10760,7 @@
     "TalentIcon": "ui/atlas/talent_passive_9/weiren952",
     "TalentId": 0,
     "TalentLevel": 1,
-    "TalentName": "Bash Pursuit",
+    "TalentName": "Smash Pursuit",
     "TalentPointsConsume": 1,
     "TalentType": 4,
     "UnlockConsume": [[1020056, 2]],

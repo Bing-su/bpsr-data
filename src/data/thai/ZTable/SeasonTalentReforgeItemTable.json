@@ -1,0 +1,101 @@
+{
+  "1220401": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation ทั้งหมดจะออก Imprints: Primary Stat Imprints <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220401,
+    "Param": [],
+    "TypeEnum": 1
+  },
+  "1220402": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation ทั้งหมดจะออก Imprints: Secondary Stat Imprints <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220402,
+    "Param": [101],
+    "TypeEnum": 1
+  },
+  "1220403": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation ทั้งหมดจะออก Imprints: Polarity Imprints <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220403,
+    "Param": [103],
+    "TypeEnum": 1
+  },
+  "1220404": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation ทั้งหมดจะออก Imprints: Resilience Imprints <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220404,
+    "Param": [104],
+    "TypeEnum": 1
+  },
+  "1220405": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation ทั้งหมดจะออก Imprints: Element Imprints <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220405,
+    "Param": [105],
+    "TypeEnum": 1
+  },
+  "1220406": {
+    "Condition": [[135, 3]],
+    "Count": -1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation ทั้งหมดจะออก Imprints: Class Imprints <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220406,
+    "Param": [1001],
+    "TypeEnum": 1
+  },
+  "1220407": {
+    "Condition": [[135, 4]],
+    "Count": 1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation จะออกระดับ <color=#AB85F6>Excellent</color> ขึ้นไปขั้นต่ำ 1 imprint <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220407,
+    "Param": [3, 4, 5],
+    "TypeEnum": 2
+  },
+  "1220408": {
+    "Condition": [[135, 10]],
+    "Count": 1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation จะออกระดับ <color=#AB85F6>Epic</color> ขึ้นไปขั้นต่ำ 1 imprint <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220408,
+    "Param": [4, 5],
+    "TypeEnum": 2
+  },
+  "1220409": {
+    "Condition": [[135, 11]],
+    "Count": 1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation จะออกระดับ <color=#AB85F6>Immortal</color> ขั้นต่ำ 1 imprint <color=#CFA803>แน่นอน</color>",
+    "ExpAdd": 0,
+    "Id": 1220409,
+    "Param": [5],
+    "TypeEnum": 2
+  },
+  "1220410": {
+    "Condition": [[135, 2]],
+    "Count": -1,
+    "Desc": "ครั้งต่อไปเมื่อ Manifestation ทั้งหมดจะออก Imprints ระดับที่สูงขึ้น <color=#CFA803>แน่นอน</color>.",
+    "ExpAdd": 0,
+    "Id": 1220410,
+    "Param": [],
+    "TypeEnum": 3
+  },
+  "1220411": {
+    "Condition": [],
+    "Count": 0,
+    "Desc": "Mindscape Matrix EXP +10. Manifested Imprints จะมีระดับสูงขึ้น",
+    "ExpAdd": 10,
+    "Id": 1220411,
+    "Param": [],
+    "TypeEnum": 4
+  }
+}

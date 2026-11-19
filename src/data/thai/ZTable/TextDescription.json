@@ -716,7 +716,7 @@
     "Id": 1089,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "สง่างาม",
+    "Text": "Radiance",
     "Type": 1
   },
   "1090": {
@@ -928,7 +928,7 @@
     "Type": 3
   },
   "1116": {
-    "Description": "เมื่อสัมผัสเป้าหมายฝ่ายศัตรูจะระเบิด สร้างการโจมตี<style=\"accent-gn\">100%</style>ของ<style=\"magic\">M.DMG</style>",
+    "Description": "ระเบิดเมื่อสัมผัสเป้าหมายศัตรู สร้าง DMG <style=\"accent-gn\">100%</style> ของ ATK เป็น<style=\"magic\">Magic DMG</style> ถือเป็น Luck effect",
     "Id": 1116,
     "Par": 3401116,
     "ShowRule": 1,
@@ -1060,7 +1060,7 @@
     "Id": 1132,
     "Par": 3401132,
     "ShowRule": 1,
-    "Text": "พร่ามัว",
+    "Text": "Dazzle",
     "Type": 3
   },
   "1133": {
@@ -1068,11 +1068,11 @@
     "Id": 1133,
     "Par": 3401133,
     "ShowRule": 1,
-    "Text": "สกิลดนตรี",
+    "Text": "Melody",
     "Type": 3
   },
   "1134": {
-    "Description": "<style=\"accent-gn\">Rage Burst</style> หลังจากเพิ่มแกร่ง จะอัญเชิญหินยักษ์ข้างตัว โดยจะสร้าง <style=\"accent-gn\">750%</style> <style=\"physical\">P.DMG</style> ของ ATK ตามการแตกออกของหิน พัฒนาตามการอัป Lv./อัปขั้นสกิล <style=\"accent-gn\">Rage Burst</style><br>เมื่อปล่อยจะไม่ใช้ <style=\"accent-gn\">Sand Crystal</style>",
+    "Description": "หลัง <style=\"accent-gn\">Rage Burst</style> อัปเกรด จะอัญเชิญหินยักษ์ข้างตัว สร้าง <style=\"physical\">P.DMG</style> เท่ากับ <style=\"accent-gn\">750%</style> ของ ATK ตามการแตกออกของหิน พัฒนาตามการอัป Lv./อัปขั้นสกิล <style=\"accent-gn\">Rage Burst</style><br>เมื่อใช้สกิลจะไม่ใช้ <style=\"accent-gn\">Sand Crystal</style>",
     "Id": 1134,
     "Par": 3401134,
     "ShowRule": 1,
@@ -1112,7 +1112,7 @@
     "Type": 3
   },
   "1139": {
-    "Description": "เป้าหมายภายใน <style=\"accent-gn\">5</style> เมตรโดยรอบจะถูกสร้าง <style=\"accent-gn\">80%</style> <style=\"physical\">P.DMG</style> ของ ATK โจมตีโดนเป้าหมายเกินมาทุก 1 ตัว DMG +<style=\"accent-gn\">30%</style> (สูงสุด +<style=\"accent-gn\">120%</style>) พัฒนาตามการอัป Lv./อัปขั้นสกิลของ<style=\"accent-gn\">โจมตีทั่วไป</style>",
+    "Description": "สร้าง DMG ใส่เป้าหมายในระยะ <style=\"accent-gn\">5</style> เมตรรอบตัว เท่ากับ <style=\"accent-gn\">72%</style> ของ ATK เป็น <style=\"physical\">Attack DMG</style> DMG +<style=\"accent-gn\">30%</style> ต่อเป้าหมายที่โดนเพิ่มเติมแต่ละตัว (สูงสุด +<style=\"accent-gn\">120%</style>) และจะพัฒนาตามการอัป Lv./เลื่อนขั้นสกิล <style=\"accent-gn\">Basic Attack</style>",
     "Id": 1139,
     "Par": 3401139,
     "ShowRule": 1,
@@ -1757,6 +1757,78 @@
     "Par": 0,
     "ShowRule": 2,
     "Text": "ความสามารถ",
+    "Type": 1
+  },
+  "1220": {
+    "Description": "ทุก Stack เพิ่ม ATK <style=\"accent-gn\">25</style> แต้ม (เปลี่ยนตามซีซันถึง Lv.<style=\"accent-gn\">40</style>)",
+    "Id": 1220,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Scratch",
+    "Type": 1
+  },
+  "1221": {
+    "Description": "DMG คงที่เพิ่ม <style=\"accent-gn\">6%</style> Prayer DMG Reduction <style=\"accent-gn\">1%</style> ซ้อนทับได้ <style=\"accent-gn\">10</style> Stack เมื่อเคลื่อนที่ ทุกวินาทีจะลด <style=\"accent-gn\">1</style> Stack เมื่อ Perfect Dodge ลด <style=\"accent-gn\">1</style> Stack ออกจากการต่อสู้สถานะจะหายไป",
+    "Id": 1221,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bloodthirst",
+    "Type": 1
+  },
+  "1222": {
+    "Description": "ทุก Stack ของ ATK -<style=\"accent-gn\">1%</style> มีผลสูงสุด <style=\"accent-gn\">1</style> ชิ้น เป็นเวลา <style=\"accent-gn\">10 วินาที</style> เพิ่ม Stack จนถึงคำนวนใหม่",
+    "Id": 1222,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Bloodthirst Reduction",
+    "Type": 1
+  },
+  "1223": {
+    "Description": "Prayer DMG +<style=\"accent-gn\">3%</style> มีผลสูงสุด <style=\"accent-gn\">1</style> ชิ้น",
+    "Id": 1223,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Inspire",
+    "Type": 1
+  },
+  "1224": {
+    "Description": "ATK เพิ่ม <style=\"accent-gn\">74</style> แต้ม (เปลี่ยนตามซีซันถึง Lv.<style=\"accent-gn\">112</style>) เป็นเวลา <style=\"accent-gn\">8 วินาที</style> ซ้อนทับสูงสุด <style=\"accent-gn\">5</style> Stack",
+    "Id": 1224,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Charge",
+    "Type": 1
+  },
+  "1225": {
+    "Description": "ATK เพิ่ม <style=\"accent-gn\">400</style> แต้ม (เปลี่ยนตามซีซันถึง Lv.<style=\"accent-gn\">700</style>) เป็นเวลา <style=\"accent-gn\">8 วินาที</style>",
+    "Id": 1225,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Burst",
+    "Type": 1
+  },
+  "1226": {
+    "Description": "ค่าสูงสุดของ Crit%, Luck%, Haste%, Mastery% ของคุณ <style=\"accent-gn\">*1.2</style> เป็นเวลา <style=\"accent-gn\">5 วินาที</style>",
+    "Id": 1226,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Stat Symphony",
+    "Type": 1
+  },
+  "1227": {
+    "Description": "โจมตีศัตรูในระยะ <style=\"accent-gn\">3</style> เมตร สร้าง DMG เท่ากับ <style=\"accent-gn\">500%</style> ของ ATK",
+    "Id": 1227,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Phantom Arrow",
+    "Type": 1
+  },
+  "1228": {
+    "Description": "สร้าง DMG คงที่ *<style=\"accent-gn\">4000%</style> ของ Prayer Strength",
+    "Id": 1228,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Illusory Crash",
     "Type": 1
   },
   "1500": {
@@ -2808,11 +2880,11 @@
     "Type": 1
   },
   "2002": {
-    "Description": "ทุก Stack จะลดความเร็วเคลื่อนที่ <style=\"accent-gn\">-10%</style>, ความต้านทานกายภาพและเวทมนตร์ <style=\"accent-gn\">-10%</style> ต่อเนื่อง <style=\"accent-gn\">5 วินาที</style> ขีดจำกัดพื้นฐาน <style=\"accent-gn\">5 Stack</style> <style=\"accent-gn\">ผลลดลงครึ่งหนึ่งเมื่อใช้กับบอส</style> หากเป้าหมายมี Stack หนาวเหน็บถึงขีดจำกัด จะเปลี่ยนเป็นแช่แข็ง หากเป้าหมายติดสถานะเผาไหม้ จะลบล้างสถานะเผาไหม้ และสร้าง DMG ที่เหลือทั้งหมดของการเผาไหม้ทันที",
+    "Description": "ทุก Stack จะลดความเร็วเคลื่อนที่ <style=\"accent-gn\">-10%</style>, ความต้านทานกายภาพและเวทมนตร์ <style=\"accent-gn\">-10%</style> ต่อเนื่อง <style=\"accent-gn\">5 วินาที</style> ขีดจำกัดพื้นฐาน <style=\"accent-gn\">5 Stack</style> <style=\"accent-gn\">ผลลดลงครึ่งหนึ่งเมื่อใช้กับบอส</style> หากเป้าหมายมีสแต็กหนาวเหน็บถึงขีดจำกัด จะเปลี่ยนเป็นแช่แข็ง หากเป้าหมายติดสถานะเผาไหม้ จะลบล้างสถานะเผาไหม้ และสร้าง DMG ที่เหลือทั้งหมดของการเผาไหม้ทันที",
     "Id": 2002,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "Freezing",
+    "Text": "Cold",
     "Type": 1
   },
   "2003": {
@@ -2820,7 +2892,7 @@
     "Id": 2003,
     "Par": 0,
     "ShowRule": 1,
-    "Text": "แช่แข็ง",
+    "Text": "Frozen",
     "Type": 1
   },
   "2004": {
@@ -2964,7 +3036,7 @@
     "Id": 3009,
     "Par": 3403009,
     "ShowRule": 1,
-    "Text": "พร่ามัว",
+    "Text": "Dazzle",
     "Type": 3
   },
   "3010": {
@@ -3007,8 +3079,16 @@
     "Text": "Burn",
     "Type": 3
   },
+  "3015": {
+    "Description": "บังคับให้เป้าหมายศัตรูเคลื่อนที่ไปในทิศทางที่ใช้เอฟเฟกต์ Dazzle ไม่มีผลต่อ Boss ,Elite เป็นเอฟเฟกต์สถานะผิดปกติ",
+    "Id": 3015,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Dazzle",
+    "Type": 1
+  },
   "3020": {
-    "Description": "รวมถึง <style=\"accent-gn\">Stun</style>, <style=\"accent-gn\">แช่แข็ง</style>, <style=\"accent-gn\">เป็นหิน</style>, <style=\"accent-gn\">อัมพาต</style>, <style=\"accent-gn\">พร่ามัว</style>, <style=\"accent-gn\">หวาดกลัว</style>",
+    "Description": "มี <style=\"accent-gn\">Stun</style>, <style=\"accent-gn\">Frozen</style>, <style=\"accent-gn\">Petrified</style>, <style=\"accent-gn\">Paralyzed</style>, <style=\"accent-gn\">Dazzle</style> และ <style=\"accent-gn\">Fear</style>.",
     "Id": 3020,
     "Par": 3403020,
     "ShowRule": 1,
@@ -3020,7 +3100,15 @@
     "Id": 3021,
     "Par": 3403021,
     "ShowRule": 1,
-    "Text": "เอฟเฟกต์ด้านลบ",
+    "Text": "Debuffs",
     "Type": 3
+  },
+  "3022": {
+    "Description": "จำนวนเฟอร์นิเจอร์อาจส่งผลต่อเฟรมเรตของเกม ขึ้นอยู่กับประสิทธิภาพของอุปกรณ์ที่ใช้เล่น",
+    "Id": 3022,
+    "Par": 0,
+    "ShowRule": 1,
+    "Text": "Furniture Count",
+    "Type": 1
   }
 }

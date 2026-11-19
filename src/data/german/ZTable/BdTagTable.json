@@ -195,6 +195,27 @@
     "TagString": "Der Basis-Glückseffekt einer Klasse",
     "TagType": 1
   },
+  "107": {
+    "Id": 107,
+    "ParentTag": 88,
+    "TagName": "Glückseffekt-SCH",
+    "TagString": "SCH, der durch einen von Fähigkeiten ausgelösten Glückseffekt verursacht wird (bei der Verwendung von Klassenfähigkeiten, die direkten SCH verursachen oder heilen, haben alle deine Glückseffekte eine Auslösewahrscheinlichkeit in Höhe deiner Glückschance).",
+    "TagType": 3
+  },
+  "108": {
+    "Id": 108,
+    "ParentTag": 88,
+    "TagName": "Glückseffekt-SCH",
+    "TagString": "SCH, der durch einen von Fähigkeiten ausgelösten Glückseffekt verursacht wird (bei der Verwendung von Klassenfähigkeiten, die direkten SCH verursachen oder heilen, haben alle deine Glückseffekte eine Auslösewahrscheinlichkeit in Höhe deiner Glückschance).",
+    "TagType": 3
+  },
+  "109": {
+    "Id": 109,
+    "ParentTag": 0,
+    "TagName": "Kopierter SCH",
+    "TagString": "Kopiert den Schaden bestimmter Fähigkeiten",
+    "TagType": 1
+  },
   "11": {
     "Id": 11,
     "ParentTag": 1003,
@@ -213,70 +234,70 @@
     "Id": 120,
     "ParentTag": 1012,
     "TagName": "Physisch",
-    "TagString": "Tower-Defense-Build",
+    "TagString": "Turmverteidigungs-Build",
     "TagType": 2
   },
   "121": {
     "Id": 121,
     "ParentTag": 1012,
     "TagName": "Magie",
-    "TagString": "Tower-Defense-Build",
+    "TagString": "Turmverteidigungs-Build",
     "TagType": 2
   },
   "122": {
     "Id": 122,
     "ParentTag": 1012,
-    "TagName": "Humanoid",
-    "TagString": "Schwierig aufzubauen, aber im späten Spielverlauf äußerst mächtig.",
+    "TagName": "<style=\"tipsYellow\">Geisterparade</style>",
+    "TagString": "Für je <style=\"accent-gn\">4</style> Geisterparade-Einstimmungsvorstellungen: <style=\"accent-gn\">Geisterlimit +1</style>.",
     "TagType": 2
   },
   "123": {
     "Id": 123,
     "ParentTag": 1012,
-    "TagName": "Verbrennung",
-    "TagString": "Bilde ein Team mit Tatta als Haupt-Schadensausteiler und nutze den Verbrennungseffekt.",
+    "TagName": "<style=\"tipsYellow\">Verbrennung</style>",
+    "TagString": "Für je <style=\"accent-gn\">3</style> Verbrennungs-Einstimmungsvorstellungen: <style=\"accent-gn\">Krit-Rate +10 %</style>.",
     "TagType": 2
   },
   "124": {
     "Id": 124,
     "ParentTag": 1012,
-    "TagName": "Ressourcen",
-    "TagString": "Sammle frühzeitig Kristallsplitter, um später hohen Schaden zu verursachen.",
+    "TagName": "<style=\"tipsYellow\">Ressourcen</style>",
+    "TagString": "Für je <style=\"accent-gn\">3</style> Ressourcen-Einstimmungsvorstellungen: <style=\"accent-gn\">Erhaltrate von Einstimmungs-Kristallsplittern +5 %</style>.",
     "TagType": 2
   },
   "125": {
     "Id": 125,
     "ParentTag": 1012,
-    "TagName": "Aufladen",
-    "TagString": "Wirkt Fähigkeiten nur, wenn Ziele in Reichweite kommen, und verursacht besonderen Schaden an Bossen.",
+    "TagName": "<style=\"tipsYellow\">Ultrakälte</style>",
+    "TagString": "Für je <style=\"accent-gn\">3</style> Ultrakälte-Einstimmungsvorstellungen: <style=\"accent-gn\">Basis-ANG +5 %</style>.",
     "TagType": 2
   },
   "126": {
     "Id": 126,
     "ParentTag": 1012,
     "TagName": "Buff",
-    "TagString": "Tower-Defense-Build",
+    "TagString": "Turmverteidigungs-Build",
     "TagType": 2
   },
   "127": {
     "Id": 127,
     "ParentTag": 1012,
     "TagName": "Debuff",
-    "TagString": "Tower-Defense-Build",
+    "TagString": "Turmverteidigungs-Build",
     "TagType": 2
   },
   "128": {
     "Id": 128,
     "ParentTag": 1012,
-    "TagName": "Airona",
-    "TagString": "Tower-Defense-Build",
+    "TagName": "Rorola",
+    "TagString": "Turmverteidigungs-Build",
     "TagType": 2
   },
   "129": {
     "Id": 129,
     "ParentTag": 1012,
     "TagName": "Tatta",
-    "TagString": "Tower-Defense-Build",
+    "TagString": "Turmverteidigungs-Build",
     "TagType": 2
   },
   "13": {
@@ -289,8 +310,8 @@
   "130": {
     "Id": 130,
     "ParentTag": 1012,
-    "TagName": "Olvera",
-    "TagString": "Tower-Defense-Build",
+    "TagName": "Boyce",
+    "TagString": "Turmverteidigungs-Build",
     "TagType": 2
   },
   "14": {
@@ -1017,8 +1038,8 @@
   "88": {
     "Id": 88,
     "ParentTag": 1002,
-    "TagName": "Glückseffekt-SCH",
-    "TagString": "SCH, der durch Glückseffekte verursacht wird, die wiederum durch Fähigkeiten ausgelöst werden (bei der Verwendung von Klassenfähigkeiten, die direkten SCH oder Heilung verursachen, werden alle deine Glückseffekte mit einer Wahrscheinlichkeit ausgelöst, die deiner Glücksrate entspricht).",
+    "TagName": "Glückseffekt",
+    "TagString": "Beim Einsatz von Klassenfähigkeiten, die direkten SCH oder Heilung verursachen, werden alle eigenen Glückseffekte mit einer Wahrscheinlichkeit in Höhe der Glückschance ausgelöst.",
     "TagType": 2
   },
   "89": {
